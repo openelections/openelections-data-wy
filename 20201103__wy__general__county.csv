@@ -1,0 +1,900 @@
+﻿county,office,district,party,candidate,votes
+Albany,President,,REP,Donald J. Trump,8579
+Big Horn,President,,REP,Donald J. Trump,4806
+Campbell,President,,REP,Donald J. Trump,16975
+Carbon,President,,REP,Donald J. Trump,5014
+Converse,President,,REP,Donald J. Trump,5917
+Crook,President,,REP,Donald J. Trump,3651
+Fremont,President,,REP,Donald J. Trump,12007
+Goshen,President,,REP,Donald J. Trump,4878
+Hot Springs,President,,REP,Donald J. Trump,1999
+Johnson,President,,REP,Donald J. Trump,3881
+Laramie,President,,REP,Donald J. Trump,27891
+Lincoln,President,,REP,Donald J. Trump,8643
+Natrona,President,,REP,Donald J. Trump,25271
+Niobrara,President,,REP,Donald J. Trump,1118
+Park,President,,REP,Donald J. Trump,12813
+Platte,President,,REP,Donald J. Trump,3898
+Sheridan,President,,REP,Donald J. Trump,11843
+Sublette,President,,REP,Donald J. Trump,3957
+Sweetwater,President,,REP,Donald J. Trump,12229
+Teton,President,,REP,Donald J. Trump,4341
+Uinta,President,,REP,Donald J. Trump,7496
+Washakie,President,,REP,Donald J. Trump,3245
+Weston,President,,REP,Donald J. Trump,3107
+Albany,President,,DEM,Joseph R. Biden,9092
+Big Horn,President,,DEM,Joseph R. Biden,788
+Campbell,President,,DEM,Joseph R. Biden,1935
+Carbon,President,,DEM,Joseph R. Biden,1427
+Converse,President,,DEM,Joseph R. Biden,861
+Crook,President,,DEM,Joseph R. Biden,378
+Fremont,President,,DEM,Joseph R. Biden,5519
+Goshen,President,,DEM,Joseph R. Biden,1203
+Hot Springs,President,,DEM,Joseph R. Biden,482
+Johnson,President,,DEM,Joseph R. Biden,897
+Laramie,President,,DEM,Joseph R. Biden,15217
+Lincoln,President,,DEM,Joseph R. Biden,1509
+Natrona,President,,DEM,Joseph R. Biden,8530
+Niobrara,President,,DEM,Joseph R. Biden,155
+Park,President,,DEM,Joseph R. Biden,3410
+Platte,President,,DEM,Joseph R. Biden,890
+Sheridan,President,,DEM,Joseph R. Biden,4043
+Sublette,President,,DEM,Joseph R. Biden,882
+Sweetwater,President,,DEM,Joseph R. Biden,3823
+Teton,President,,DEM,Joseph R. Biden,9848
+Uinta,President,,DEM,Joseph R. Biden,1591
+Washakie,President,,DEM,Joseph R. Biden,651
+Weston,President,,DEM,Joseph R. Biden,360
+Albany,President,,LIB,Jo Jorgensen,595
+Big Horn,President,,LIB,Jo Jorgensen,74
+Campbell,President,,LIB,Jo Jorgensen,434
+Carbon,President,,LIB,Jo Jorgensen,142
+Converse,President,,LIB,Jo Jorgensen,121
+Crook,President,,LIB,Jo Jorgensen,57
+Fremont,President,,LIB,Jo Jorgensen,321
+Goshen,President,,LIB,Jo Jorgensen,86
+Hot Springs,President,,LIB,Jo Jorgensen,61
+Johnson,President,,LIB,Jo Jorgensen,86
+Laramie,President,,LIB,Jo Jorgensen,1063
+Lincoln,President,,LIB,Jo Jorgensen,167
+Natrona,President,,LIB,Jo Jorgensen,895
+Niobrara,President,,LIB,Jo Jorgensen,21
+Park,President,,LIB,Jo Jorgensen,282
+Platte,President,,LIB,Jo Jorgensen,65
+Sheridan,President,,LIB,Jo Jorgensen,339
+Sublette,President,,LIB,Jo Jorgensen,71
+Sweetwater,President,,LIB,Jo Jorgensen,350
+Teton,President,,LIB,Jo Jorgensen,255
+Uinta,President,,LIB,Jo Jorgensen,172
+Washakie,President,,LIB,Jo Jorgensen,65
+Weston,President,,LIB,Jo Jorgensen,46
+Albany,President,,IND,Brock Pierce,178
+Big Horn,President,,IND,Brock Pierce,46
+Campbell,President,,IND,Brock Pierce,120
+Carbon,President,,IND,Brock Pierce,49
+Converse,President,,IND,Brock Pierce,43
+Crook,President,,IND,Brock Pierce,19
+Fremont,President,,IND,Brock Pierce,157
+Goshen,President,,IND,Brock Pierce,43
+Hot Springs,President,,IND,Brock Pierce,24
+Johnson,President,,IND,Brock Pierce,27
+Laramie,President,,IND,Brock Pierce,491
+Lincoln,President,,IND,Brock Pierce,71
+Natrona,President,,IND,Brock Pierce,294
+Niobrara,President,,IND,Brock Pierce,11
+Park,President,,IND,Brock Pierce,97
+Platte,President,,IND,Brock Pierce,49
+Sheridan,President,,IND,Brock Pierce,114
+Sublette,President,,IND,Brock Pierce,37
+Sweetwater,President,,IND,Brock Pierce,118
+Teton,President,,IND,Brock Pierce,89
+Uinta,President,,IND,Brock Pierce,79
+Washakie,President,,IND,Brock Pierce,32
+Weston,President,,IND,Brock Pierce,20
+Albany,President,,,Write-ins,173
+Big Horn,President,,,Write-ins,38
+Campbell,President,,,Write-ins,102
+Carbon,President,,,Write-ins,32
+Converse,President,,,Write-ins,28
+Crook,President,,,Write-ins,14
+Fremont,President,,,Write-ins,107
+Goshen,President,,,Write-ins,31
+Hot Springs,President,,,Write-ins,11
+Johnson,President,,,Write-ins,23
+Laramie,President,,,Write-ins,320
+Lincoln,President,,,Write-ins,78
+Natrona,President,,,Write-ins,212
+Niobrara,President,,,Write-ins,3
+Park,President,,,Write-ins,115
+Platte,President,,,Write-ins,21
+Sheridan,President,,,Write-ins,89
+Sublette,President,,,Write-ins,23
+Sweetwater,President,,,Write-ins,83
+Teton,President,,,Write-ins,144
+Uinta,President,,,Write-ins,64
+Washakie,President,,,Write-ins,19
+Weston,President,,,Write-ins,9
+Albany,President,,,Over Votes,17
+Big Horn,President,,,Over Votes,6
+Campbell,President,,,Over Votes,55
+Carbon,President,,,Over Votes,17
+Converse,President,,,Over Votes,8
+Crook,President,,,Over Votes,4
+Fremont,President,,,Over Votes,14
+Goshen,President,,,Over Votes,12
+Hot Springs,President,,,Over Votes,3
+Johnson,President,,,Over Votes,6
+Laramie,President,,,Over Votes,18
+Lincoln,President,,,Over Votes,3
+Natrona,President,,,Over Votes,35
+Niobrara,President,,,Over Votes,3
+Park,President,,,Over Votes,8
+Platte,President,,,Over Votes,9
+Sheridan,President,,,Over Votes,9
+Sublette,President,,,Over Votes,1
+Sweetwater,President,,,Over Votes,24
+Teton,President,,,Over Votes,4
+Uinta,President,,,Over Votes,10
+Washakie,President,,,Over Votes,2
+Weston,President,,,Over Votes,11
+Albany,President,,,Under Votes,110
+Big Horn,President,,,Under Votes,26
+Campbell,President,,,Under Votes,114
+Carbon,President,,,Under Votes,25
+Converse,President,,,Under Votes,32
+Crook,President,,,Under Votes,20
+Fremont,President,,,Under Votes,109
+Goshen,President,,,Under Votes,19
+Hot Springs,President,,,Under Votes,8
+Johnson,President,,,Under Votes,32
+Laramie,President,,,Under Votes,237
+Lincoln,President,,,Under Votes,54
+Natrona,President,,,Under Votes,154
+Niobrara,President,,,Under Votes,11
+Park,President,,,Under Votes,90
+Platte,President,,,Under Votes,31
+Sheridan,President,,,Under Votes,109
+Sublette,President,,,Under Votes,29
+Sweetwater,President,,,Under Votes,71
+Teton,President,,,Under Votes,106
+Uinta,President,,,Under Votes,47
+Washakie,President,,,Under Votes,18
+Weston,President,,,Under Votes,7
+Albany,U.S. Senate,,REP,Cynthia M. Lummis,9220
+Big Horn,U.S. Senate,,REP,Cynthia M. Lummis,4887
+Campbell,U.S. Senate,,REP,Cynthia M. Lummis,16960
+Carbon,U.S. Senate,,REP,Cynthia M. Lummis,5091
+Converse,U.S. Senate,,REP,Cynthia M. Lummis,5715
+Crook,U.S. Senate,,REP,Cynthia M. Lummis,3653
+Fremont,U.S. Senate,,REP,Cynthia M. Lummis,12314
+Goshen,U.S. Senate,,REP,Cynthia M. Lummis,4910
+Hot Springs,U.S. Senate,,REP,Cynthia M. Lummis,2001
+Johnson,U.S. Senate,,REP,Cynthia M. Lummis,3921
+Laramie,U.S. Senate,,REP,Cynthia M. Lummis,29357
+Lincoln,U.S. Senate,,REP,Cynthia M. Lummis,8846
+Natrona,U.S. Senate,,REP,Cynthia M. Lummis,25061
+Niobrara,U.S. Senate,,REP,Cynthia M. Lummis,1133
+Park,U.S. Senate,,REP,Cynthia M. Lummis,13189
+Platte,U.S. Senate,,REP,Cynthia M. Lummis,3962
+Sheridan,U.S. Senate,,REP,Cynthia M. Lummis,12287
+Sublette,U.S. Senate,,REP,Cynthia M. Lummis,4004
+Sweetwater,U.S. Senate,,REP,Cynthia M. Lummis,12351
+Teton,U.S. Senate,,REP,Cynthia M. Lummis,5370
+Uinta,U.S. Senate,,REP,Cynthia M. Lummis,7550
+Washakie,U.S. Senate,,REP,Cynthia M. Lummis,3277
+Weston,U.S. Senate,,REP,Cynthia M. Lummis,3041
+Albany,U.S. Senate,,DEM,Merav Ben David,9038
+Big Horn,U.S. Senate,,DEM,Merav Ben David,756
+Campbell,U.S. Senate,,DEM,Merav Ben David,1938
+Carbon,U.S. Senate,,DEM,Merav Ben David,1441
+Converse,U.S. Senate,,DEM,Merav Ben David,1028
+Crook,U.S. Senate,,DEM,Merav Ben David,372
+Fremont,U.S. Senate,,DEM,Merav Ben David,5385
+Goshen,U.S. Senate,,DEM,Merav Ben David,1206
+Hot Springs,U.S. Senate,,DEM,Merav Ben David,527
+Johnson,U.S. Senate,,DEM,Merav Ben David,905
+Laramie,U.S. Senate,,DEM,Merav Ben David,15153
+Lincoln,U.S. Senate,,DEM,Merav Ben David,1460
+Natrona,U.S. Senate,,DEM,Merav Ben David,9210
+Niobrara,U.S. Senate,,DEM,Merav Ben David,156
+Park,U.S. Senate,,DEM,Merav Ben David,3117
+Platte,U.S. Senate,,DEM,Merav Ben David,898
+Sheridan,U.S. Senate,,DEM,Merav Ben David,3778
+Sublette,U.S. Senate,,DEM,Merav Ben David,835
+Sweetwater,U.S. Senate,,DEM,Merav Ben David,3877
+Teton,U.S. Senate,,DEM,Merav Ben David,9030
+Uinta,U.S. Senate,,DEM,Merav Ben David,1597
+Washakie,U.S. Senate,,DEM,Merav Ben David,659
+Weston,U.S. Senate,,DEM,Merav Ben David,400
+Albany,U.S. Senate,,,Write-ins,70
+Big Horn,U.S. Senate,,,Write-ins,12
+Campbell,U.S. Senate,,,Write-ins,117
+Carbon,U.S. Senate,,,Write-ins,20
+Converse,U.S. Senate,,,Write-ins,60
+Crook,U.S. Senate,,,Write-ins,18
+Fremont,U.S. Senate,,,Write-ins,36
+Goshen,U.S. Senate,,,Write-ins,27
+Hot Springs,U.S. Senate,,,Write-ins,4
+Johnson,U.S. Senate,,,Write-ins,6
+Laramie,U.S. Senate,,,Write-ins,212
+Lincoln,U.S. Senate,,,Write-ins,24
+Natrona,U.S. Senate,,,Write-ins,178
+Niobrara,U.S. Senate,,,Write-ins,3
+Park,U.S. Senate,,,Write-ins,70
+Platte,U.S. Senate,,,Write-ins,10
+Sheridan,U.S. Senate,,,Write-ins,67
+Sublette,U.S. Senate,,,Write-ins,13
+Sweetwater,U.S. Senate,,,Write-ins,46
+Teton,U.S. Senate,,,Write-ins,34
+Uinta,U.S. Senate,,,Write-ins,25
+Washakie,U.S. Senate,,,Write-ins,12
+Weston,U.S. Senate,,,Write-ins,7
+Albany,U.S. Senate,,,Over Votes,7
+Big Horn,U.S. Senate,,,Over Votes,5
+Campbell,U.S. Senate,,,Over Votes,49
+Carbon,U.S. Senate,,,Over Votes,3
+Converse,U.S. Senate,,,Over Votes,6
+Crook,U.S. Senate,,,Over Votes,4
+Fremont,U.S. Senate,,,Over Votes,11
+Goshen,U.S. Senate,,,Over Votes,4
+Hot Springs,U.S. Senate,,,Over Votes,1
+Johnson,U.S. Senate,,,Over Votes,4
+Laramie,U.S. Senate,,,Over Votes,9
+Lincoln,U.S. Senate,,,Over Votes,3
+Natrona,U.S. Senate,,,Over Votes,22
+Niobrara,U.S. Senate,,,Over Votes,0
+Park,U.S. Senate,,,Over Votes,10
+Platte,U.S. Senate,,,Over Votes,3
+Sheridan,U.S. Senate,,,Over Votes,3
+Sublette,U.S. Senate,,,Over Votes,1
+Sweetwater,U.S. Senate,,,Over Votes,5
+Teton,U.S. Senate,,,Over Votes,6
+Uinta,U.S. Senate,,,Over Votes,2
+Washakie,U.S. Senate,,,Over Votes,3
+Weston,U.S. Senate,,,Over Votes,4
+Albany,U.S. Senate,,,Under Votes,409
+Big Horn,U.S. Senate,,,Under Votes,124
+Campbell,U.S. Senate,,,Under Votes,671
+Carbon,U.S. Senate,,,Under Votes,151
+Converse,U.S. Senate,,,Under Votes,201
+Crook,U.S. Senate,,,Under Votes,96
+Fremont,U.S. Senate,,,Under Votes,488
+Goshen,U.S. Senate,,,Under Votes,125
+Hot Springs,U.S. Senate,,,Under Votes,55
+Johnson,U.S. Senate,,,Under Votes,116
+Laramie,U.S. Senate,,,Under Votes,506
+Lincoln,U.S. Senate,,,Under Votes,192
+Natrona,U.S. Senate,,,Under Votes,920
+Niobrara,U.S. Senate,,,Under Votes,30
+Park,U.S. Senate,,,Under Votes,429
+Platte,U.S. Senate,,,Under Votes,90
+Sheridan,U.S. Senate,,,Under Votes,411
+Sublette,U.S. Senate,,,Under Votes,147
+Sweetwater,U.S. Senate,,,Under Votes,419
+Teton,U.S. Senate,,,Under Votes,347
+Uinta,U.S. Senate,,,Under Votes,285
+Washakie,U.S. Senate,,,Under Votes,81
+Weston,U.S. Senate,,,Under Votes,108
+Albany,U.S. House,1,REP,Liz Cheney,8629
+Big Horn,U.S. House,1,REP,Liz Cheney,4587
+Campbell,U.S. House,1,REP,Liz Cheney,15732
+Carbon,U.S. House,1,REP,Liz Cheney,4644
+Converse,U.S. House,1,REP,Liz Cheney,5418
+Crook,U.S. House,1,REP,Liz Cheney,3442
+Fremont,U.S. House,1,REP,Liz Cheney,11505
+Goshen,U.S. House,1,REP,Liz Cheney,4722
+Hot Springs,U.S. House,1,REP,Liz Cheney,1915
+Johnson,U.S. House,1,REP,Liz Cheney,3715
+Laramie,U.S. House,1,REP,Liz Cheney,27641
+Lincoln,U.S. House,1,REP,Liz Cheney,8324
+Natrona,U.S. House,1,REP,Liz Cheney,24214
+Niobrara,U.S. House,1,REP,Liz Cheney,1053
+Park,U.S. House,1,REP,Liz Cheney,12374
+Platte,U.S. House,1,REP,Liz Cheney,3589
+Sheridan,U.S. House,1,REP,Liz Cheney,11588
+Sublette,U.S. House,1,REP,Liz Cheney,3729
+Sweetwater,U.S. House,1,REP,Liz Cheney,11097
+Teton,U.S. House,1,REP,Liz Cheney,5210
+Uinta,U.S. House,1,REP,Liz Cheney,6781
+Washakie,U.S. House,1,REP,Liz Cheney,3063
+Weston,U.S. House,1,REP,Liz Cheney,2760
+Albany,U.S. House,1,DEM,Lynette Grey Bull,8440
+Big Horn,U.S. House,1,DEM,Lynette Grey Bull,724
+Campbell,U.S. House,1,DEM,Lynette Grey Bull,1713
+Carbon,U.S. House,1,DEM,Lynette Grey Bull,1337
+Converse,U.S. House,1,DEM,Lynette Grey Bull,785
+Crook,U.S. House,1,DEM,Lynette Grey Bull,337
+Fremont,U.S. House,1,DEM,Lynette Grey Bull,5227
+Goshen,U.S. House,1,DEM,Lynette Grey Bull,1037
+Hot Springs,U.S. House,1,DEM,Lynette Grey Bull,424
+Johnson,U.S. House,1,DEM,Lynette Grey Bull,792
+Laramie,U.S. House,1,DEM,Lynette Grey Bull,13863
+Lincoln,U.S. House,1,DEM,Lynette Grey Bull,1429
+Natrona,U.S. House,1,DEM,Lynette Grey Bull,7454
+Niobrara,U.S. House,1,DEM,Lynette Grey Bull,145
+Park,U.S. House,1,DEM,Lynette Grey Bull,2874
+Platte,U.S. House,1,DEM,Lynette Grey Bull,868
+Sheridan,U.S. House,1,DEM,Lynette Grey Bull,3460
+Sublette,U.S. House,1,DEM,Lynette Grey Bull,837
+Sweetwater,U.S. House,1,DEM,Lynette Grey Bull,3680
+Teton,U.S. House,1,DEM,Lynette Grey Bull,8628
+Uinta,U.S. House,1,DEM,Lynette Grey Bull,1521
+Washakie,U.S. House,1,DEM,Lynette Grey Bull,599
+Weston,U.S. House,1,DEM,Lynette Grey Bull,402
+Albany,U.S. House,1,LIB,Richard Brubaker,737
+Big Horn,U.S. House,1,LIB,Richard Brubaker,143
+Campbell,U.S. House,1,LIB,Richard Brubaker,735
+Carbon,U.S. House,1,LIB,Richard Brubaker,313
+Converse,U.S. House,1,LIB,Richard Brubaker,254
+Crook,U.S. House,1,LIB,Richard Brubaker,117
+Fremont,U.S. House,1,LIB,Richard Brubaker,711
+Goshen,U.S. House,1,LIB,Richard Brubaker,159
+Hot Springs,U.S. House,1,LIB,Richard Brubaker,105
+Johnson,U.S. House,1,LIB,Richard Brubaker,186
+Laramie,U.S. House,1,LIB,Richard Brubaker,1790
+Lincoln,U.S. House,1,LIB,Richard Brubaker,262
+Natrona,U.S. House,1,LIB,Richard Brubaker,1652
+Niobrara,U.S. House,1,LIB,Richard Brubaker,31
+Park,U.S. House,1,LIB,Richard Brubaker,511
+Platte,U.S. House,1,LIB,Richard Brubaker,142
+Sheridan,U.S. House,1,LIB,Richard Brubaker,578
+Sublette,U.S. House,1,LIB,Richard Brubaker,128
+Sweetwater,U.S. House,1,LIB,Richard Brubaker,733
+Teton,U.S. House,1,LIB,Richard Brubaker,383
+Uinta,U.S. House,1,LIB,Richard Brubaker,269
+Washakie,U.S. House,1,LIB,Richard Brubaker,143
+Weston,U.S. House,1,LIB,Richard Brubaker,72
+Albany,U.S. House,1,CON,Jeff Haggit,392
+Big Horn,U.S. House,1,CON,Jeff Haggit,180
+Campbell,U.S. House,1,CON,Jeff Haggit,694
+Carbon,U.S. House,1,CON,Jeff Haggit,204
+Converse,U.S. House,1,CON,Jeff Haggit,293
+Crook,U.S. House,1,CON,Jeff Haggit,141
+Fremont,U.S. House,1,CON,Jeff Haggit,335
+Goshen,U.S. House,1,CON,Jeff Haggit,210
+Hot Springs,U.S. House,1,CON,Jeff Haggit,76
+Johnson,U.S. House,1,CON,Jeff Haggit,107
+Laramie,U.S. House,1,CON,Jeff Haggit,1198
+Lincoln,U.S. House,1,CON,Jeff Haggit,259
+Natrona,U.S. House,1,CON,Jeff Haggit,961
+Niobrara,U.S. House,1,CON,Jeff Haggit,58
+Park,U.S. House,1,CON,Jeff Haggit,505
+Platte,U.S. House,1,CON,Jeff Haggit,215
+Sheridan,U.S. House,1,CON,Jeff Haggit,373
+Sublette,U.S. House,1,CON,Jeff Haggit,149
+Sweetwater,U.S. House,1,CON,Jeff Haggit,611
+Teton,U.S. House,1,CON,Jeff Haggit,116
+Uinta,U.S. House,1,CON,Jeff Haggit,522
+Washakie,U.S. House,1,CON,Jeff Haggit,126
+Weston,U.S. House,1,CON,Jeff Haggit,180
+Albany,U.S. House,1,,Write-ins,28
+Big Horn,U.S. House,1,,Write-ins,6
+Campbell,U.S. House,1,,Write-ins,80
+Carbon,U.S. House,1,,Write-ins,10
+Converse,U.S. House,1,,Write-ins,16
+Crook,U.S. House,1,,Write-ins,9
+Fremont,U.S. House,1,,Write-ins,26
+Goshen,U.S. House,1,,Write-ins,7
+Hot Springs,U.S. House,1,,Write-ins,3
+Johnson,U.S. House,1,,Write-ins,3
+Laramie,U.S. House,1,,Write-ins,100
+Lincoln,U.S. House,1,,Write-ins,11
+Natrona,U.S. House,1,,Write-ins,78
+Niobrara,U.S. House,1,,Write-ins,2
+Park,U.S. House,1,,Write-ins,36
+Platte,U.S. House,1,,Write-ins,7
+Sheridan,U.S. House,1,,Write-ins,27
+Sublette,U.S. House,1,,Write-ins,7
+Sweetwater,U.S. House,1,,Write-ins,26
+Teton,U.S. House,1,,Write-ins,16
+Uinta,U.S. House,1,,Write-ins,14
+Washakie,U.S. House,1,,Write-ins,9
+Weston,U.S. House,1,,Write-ins,4
+Albany,U.S. House,1,,Over Votes,60
+Big Horn,U.S. House,1,,Over Votes,30
+Campbell,U.S. House,1,,Over Votes,133
+Carbon,U.S. House,1,,Over Votes,41
+Converse,U.S. House,1,,Over Votes,48
+Crook,U.S. House,1,,Over Votes,9
+Fremont,U.S. House,1,,Over Votes,58
+Goshen,U.S. House,1,,Over Votes,18
+Hot Springs,U.S. House,1,,Over Votes,16
+Johnson,U.S. House,1,,Over Votes,28
+Laramie,U.S. House,1,,Over Votes,90
+Lincoln,U.S. House,1,,Over Votes,28
+Natrona,U.S. House,1,,Over Votes,194
+Niobrara,U.S. House,1,,Over Votes,3
+Park,U.S. House,1,,Over Votes,83
+Platte,U.S. House,1,,Over Votes,38
+Sheridan,U.S. House,1,,Over Votes,89
+Sublette,U.S. House,1,,Over Votes,13
+Sweetwater,U.S. House,1,,Over Votes,88
+Teton,U.S. House,1,,Over Votes,106
+Uinta,U.S. House,1,,Over Votes,48
+Washakie,U.S. House,1,,Over Votes,23
+Weston,U.S. House,1,,Over Votes,30
+Albany,U.S. House,1,,Under Votes,458
+Big Horn,U.S. House,1,,Under Votes,114
+Campbell,U.S. House,1,,Under Votes,648
+Carbon,U.S. House,1,,Under Votes,157
+Converse,U.S. House,1,,Under Votes,196
+Crook,U.S. House,1,,Under Votes,88
+Fremont,U.S. House,1,,Under Votes,372
+Goshen,U.S. House,1,,Under Votes,119
+Hot Springs,U.S. House,1,,Under Votes,49
+Johnson,U.S. House,1,,Under Votes,121
+Laramie,U.S. House,1,,Under Votes,555
+Lincoln,U.S. House,1,,Under Votes,212
+Natrona,U.S. House,1,,Under Votes,838
+Niobrara,U.S. House,1,,Under Votes,30
+Park,U.S. House,1,,Under Votes,432
+Platte,U.S. House,1,,Under Votes,104
+Sheridan,U.S. House,1,,Under Votes,431
+Sublette,U.S. House,1,,Under Votes,137
+Sweetwater,U.S. House,1,,Under Votes,463
+Teton,U.S. House,1,,Under Votes,328
+Uinta,U.S. House,1,,Under Votes,304
+Washakie,U.S. House,1,,Under Votes,69
+Weston,U.S. House,1,,Under Votes,112
+Converse,State Senate,2,REP,Brian Boner,5074
+Platte,State Senate,2,REP,Brian Boner,4298
+Converse,State Senate,2,,Write-ins,44
+Platte,State Senate,2,,Write-ins,92
+Converse,State Senate,2,,Over Votes,2
+Platte,State Senate,2,,Over Votes,1
+Converse,State Senate,2,,Under Votes,527
+Platte,State Senate,2,,Under Votes,572
+Laramie,State Senate,4,REP,Tara Nethercott,9299
+Laramie,State Senate,4,,Write-ins,291
+Laramie,State Senate,4,,Over Votes,0
+Laramie,State Senate,4,,Under Votes,1456
+Goshen,State Senate,6,REP,Anthony Bouchard,199
+Laramie,State Senate,6,REP,Anthony Bouchard,6680
+Goshen,State Senate,6,DEM,Britney Wallesch,18
+Laramie,State Senate,6,DEM,Britney Wallesch,3706
+Goshen,State Senate,6,,Write-ins,0
+Laramie,State Senate,6,,Write-ins,32
+Goshen,State Senate,6,,Over Votes,181
+Laramie,State Senate,6,,Over Votes,6
+Goshen,State Senate,6,,Under Votes,5
+Laramie,State Senate,6,,Under Votes,190
+Laramie,State Senate,8,REP,Affie Ellis,4231
+Laramie,State Senate,8,DEM,James Byrd,2623
+Laramie,State Senate,8,,Write-ins,47
+Laramie,State Senate,8,,Over Votes,1
+Laramie,State Senate,8,,Under Votes,111
+Albany,State Senate,10,REP,Daniel Furphy,5593
+Albany,State Senate,10,DEM,Jackie Grimes,4343
+Albany,State Senate,10,,Write-ins,45
+Albany,State Senate,10,,Over Votes,5
+Albany,State Senate,10,,Under Votes,376
+Sweetwater,State Senate,12,REP,John K. Kolb,3278
+Sweetwater,State Senate,12,DEM,Liisa Anselmi-Dalton,2576
+Sweetwater,State Senate,12,,Write-ins,24
+Sweetwater,State Senate,12,,Over Votes,3
+Sweetwater,State Senate,12,,Under Votes,176
+Lincoln,State Senate,14,REP,Fred Baldwin,1709
+Sublette,State Senate,14,REP,Fred Baldwin,3740
+Sweetwater,State Senate,14,REP,Fred Baldwin,1640
+Uinta,State Senate,14,REP,Fred Baldwin,690
+Lincoln,State Senate,14,,Write-ins,85
+Sublette,State Senate,14,,Write-ins,81
+Sweetwater,State Senate,14,,Write-ins,45
+Uinta,State Senate,14,,Write-ins,24
+Lincoln,State Senate,14,,Over Votes,1
+Sublette,State Senate,14,,Over Votes,1
+Sweetwater,State Senate,14,,Over Votes,1
+Uinta,State Senate,14,,Over Votes,0
+Lincoln,State Senate,14,,Under Votes,200
+Sublette,State Senate,14,,Under Votes,670
+Sweetwater,State Senate,14,,Under Votes,311
+Uinta,State Senate,14,,Under Votes,100
+Lincoln,State Senate,16,REP,Dan Dockstader,7565
+Sublette,State Senate,16,REP,Dan Dockstader,408
+Teton,State Senate,16,REP,Dan Dockstader,1258
+Lincoln,State Senate,16,,Write-ins,121
+Sublette,State Senate,16,,Write-ins,9
+Teton,State Senate,16,,Write-ins,137
+Lincoln,State Senate,16,,Over Votes,0
+Sublette,State Senate,16,,Over Votes,0
+Teton,State Senate,16,,Over Votes,0
+Lincoln,State Senate,16,,Write-ins,844
+Sublette,State Senate,16,,Write-ins,91
+Teton,State Senate,16,,Write-ins,1087
+Park,State Senate,18,REP,Tim French,9153
+Park,State Senate,18,,Write-ins,506
+Park,State Senate,18,,Over Votes,3
+Park,State Senate,18,,Under Votes,1792
+Big Horn,State Senate,20,REP,Ed Cooper,1358
+Fremont,State Senate,20,REP,Ed Cooper,335
+Hot Springs,State Senate,20,REP,Ed Cooper,2031
+Park,State Senate,20,REP,Ed Cooper,405
+Washakie,State Senate,20,REP,Ed Cooper,3368
+Big Horn,State Senate,20,DEM,Theresa Livingston,171
+Fremont,State Senate,20,DEM,Theresa Livingston,32
+Hot Springs,State Senate,20,DEM,Theresa Livingston,472
+Park,State Senate,20,DEM,Theresa Livingston,75
+Washakie,State Senate,20,DEM,Theresa Livingston,543
+Big Horn,State Senate,20,,Write-ins,8
+Fremont,State Senate,20,,Write-ins,0
+Hot Springs,State Senate,20,,Write-ins,5
+Park,State Senate,20,,Write-ins,2
+Washakie,State Senate,20,,Write-ins,11
+Big Horn,State Senate,20,,Over Votes,1
+Fremont,State Senate,20,,Over Votes,0
+Hot Springs,State Senate,20,,Over Votes,0
+Park,State Senate,20,,Over Votes,0
+Washakie,State Senate,20,,Over Votes,2
+Big Horn,State Senate,20,,Under Votes,53
+Fremont,State Senate,20,,Under Votes,16
+Hot Springs,State Senate,20,,Under Votes,80
+Park,State Senate,20,,Under Votes,15
+Washakie,State Senate,20,,Under Votes,108
+Johnson,State Senate,22,REP,Dave Kinskey,4226
+Sheridan,State Senate,22,REP,Dave Kinskey,4290
+Johnson,State Senate,22,,Write-ins,80
+Sheridan,State Senate,22,,Write-ins,152
+Johnson,State Senate,22,,Over Votes,1
+Sheridan,State Senate,22,,Over Votes,3
+Johnson,State Senate,22,,Under Votes,64
+Sheridan,State Senate,22,,Under Votes,844
+Campbell,State Senate,24,REP,Troy D. McKeown,6822
+Campbell,State Senate,24,,Write-ins,351
+Campbell,State Senate,24,,Over Votes,17
+Campbell,State Senate,24,,Under Votes,1024
+Fremont,State Senate,26,REP,Tim Salazar,7790
+Fremont,State Senate,26,,Write-ins,231
+Fremont,State Senate,26,,Over Votes,1
+Fremont,State Senate,26,,Under Votes,1000
+Natrona,State Senate,28,REP,Jim Anderson,6132
+Natrona,State Senate,28,,Write-ins,283
+Natrona,State Senate,28,,Over Votes,2
+Natrona,State Senate,28,,Under Votes,1595
+Natrona,State Senate,30,REP,Charles K. Scott,6046
+Natrona,State Senate,30,LIB,Wendy Degroot,1762
+Natrona,State Senate,30,,Write-ins,47
+Natrona,State Senate,30,,Over Votes,2
+Natrona,State Senate,30,,Under Votes,454
+Crook,State House,1,REP,Chip Neiman,3406
+Weston,State House,1,REP,Chip Neiman,1300
+Crook,State House,1,,Write-ins,402
+Weston,State House,1,,Write-ins,52
+Crook,State House,1,,Over Votes,2
+Weston,State House,1,,Over Votes,0
+Crook,State House,1,,Under Votes,333
+Weston,State House,1,,Under Votes,112
+Goshen,State House,2,REP,Hans Hunt,1106
+Niobrara,State House,2,REP,Hans Hunt,1226
+Weston,State House,2,REP,Hans Hunt,1789
+Goshen,State House,2,,Write-ins,16
+Niobrara,State House,2,,Write-ins,7
+Weston,State House,2,,Write-ins,42
+Goshen,State House,2,,Over Votes,1
+Niobrara,State House,2,,Over Votes,0
+Weston,State House,2,,Over Votes,1
+Goshen,State House,2,,Under Votes,116
+Niobrara,State House,2,,Under Votes,89
+Weston,State House,2,,Under Votes,264
+Campbell,State House,3,REP,Eric Barlow,2832
+Converse,State House,3,REP,Eric Barlow,1184
+Campbell,State House,3,,Write-ins,78
+Converse,State House,3,,Write-ins,17
+Campbell,State House,3,,Over Votes,6
+Converse,State House,3,,Over Votes,0
+Campbell,State House,3,,Under Votes,337
+Converse,State House,3,,Under Votes,162
+Converse,State House,4,REP,Jeremy Haroldson,540
+Platte,State House,4,REP,Jeremy Haroldson,3687
+Converse,State House,4,,Write-ins,16
+Platte,State House,4,,Write-ins,678
+Converse,State House,4,,Over Votes,0
+Platte,State House,4,,Over Votes,1
+Converse,State House,4,,Under Votes,99
+Platte,State House,4,,Under Votes,597
+Goshen,State House,5,REP,Shelly Duncan,4122
+Goshen,State House,5,,Write-ins,133
+Goshen,State House,5,,Over Votes,4
+Goshen,State House,5,,Under Votes,552
+Converse,State House,6,REP,Aaron Clausen,4296
+Converse,State House,6,,Write-ins,65
+Converse,State House,6,,Over Votes,3
+Converse,State House,6,,Under Votes,628
+Laramie,State House,7,REP,Sue Wilson,5804
+Laramie,State House,7,,Write-ins,144
+Laramie,State House,7,,Over Votes,0
+Laramie,State House,7,,Under Votes,846
+Laramie,State House,8,REP,Bob Nicholas,2547
+Laramie,State House,8,DEM,Marcie Kindred,2259
+Laramie,State House,8,,Write-ins,13
+Laramie,State House,8,,Over Votes,2
+Laramie,State House,8,,Under Votes,89
+Laramie,State House,9,REP,Landon J. Brown,3798
+Laramie,State House,9,,Write-ins,159
+Laramie,State House,9,,Over Votes,0
+Laramie,State House,9,,Under Votes,632
+Goshen,State House,10,REP,John Eklund,205
+Laramie,State House,10,REP,John Eklund,5360
+Goshen,State House,10,,Write-ins,2
+Laramie,State House,10,,Write-ins,132
+Goshen,State House,10,,Over Votes,0
+Laramie,State House,10,,Over Votes,0
+Goshen,State House,10,,Under Votes,15
+Laramie,State House,10,,Under Votes,533
+Laramie,State House,11,REP,Jared Olsen,1807
+Laramie,State House,11,DEM,Amy Spieker,1470
+Laramie,State House,11,,Write-ins,11
+Laramie,State House,11,,Over Votes,1
+Laramie,State House,11,,Under Votes,58
+Laramie,State House,12,REP,Clarence Styvar,2327
+Laramie,State House,12,DEM,Lee Filer,1463
+Laramie,State House,12,,Write-ins,13
+Laramie,State House,12,,Over Votes,0
+Laramie,State House,12,,Under Votes,79
+Albany,State House,13,DEM,Cathy Connolly,3004
+Albany,State House,13,,Write-ins,245
+Albany,State House,13,,Over Votes,1
+Albany,State House,13,,Under Votes,927
+Albany,State House,14,REP,Matthew Burkhart,2063
+Albany,State House,14,DEM,Trey Sherwood,2148
+Albany,State House,14,,Write-ins,10
+Albany,State House,14,,Over Votes,2
+Albany,State House,14,,Under Votes,191
+Carbon,State House,15,REP,Donald Burkhart,2052
+Carbon,State House,15,DEM,Jacquelin Wells,1144
+Carbon,State House,15,,Write-ins,11
+Carbon,State House,15,,Over Votes,3
+Carbon,State House,15,,Under Votes,69
+Teton,State House,16,DEM,Mike Yin,4237
+Teton,State House,16,,Write-ins,168
+Teton,State House,16,,Over Votes,0
+Teton,State House,16,,Under Votes,963
+Sweetwater,State House,17,DEM,Chad M. Banks,1822
+Sweetwater,State House,17,,Write-ins,148
+Sweetwater,State House,17,,Over Votes,0
+Sweetwater,State House,17,,Under Votes,857
+Lincoln,State House,18,REP,Scott Heiner,1662
+Sweetwater,State House,18,REP,Scott Heiner,1621
+Uinta,State House,18,REP,Scott Heiner,698
+Lincoln,State House,18,,Write-ins,116
+Sweetwater,State House,18,,Write-ins,28
+Uinta,State House,18,,Write-ins,10
+Lincoln,State House,18,,Over Votes,0
+Sweetwater,State House,18,,Over Votes,0
+Uinta,State House,18,,Over Votes,0
+Lincoln,State House,18,,Under Votes,217
+Sweetwater,State House,18,,Under Votes,348
+Uinta,State House,18,,Under Votes,106
+Uinta,State House,19,REP,Danny Eyre,3915
+Uinta,State House,19,,Write-ins,118
+Uinta,State House,19,,Over Votes,1
+Uinta,State House,19,,Under Votes,503
+Sublette,State House,20,REP,Albert Sommers,3939
+Sublette,State House,20,,Write-ins,65
+Sublette,State House,20,,Over Votes,1
+Sublette,State House,20,,Under Votes,487
+Lincoln,State House,21,REP,Evan J. Simpson,4705
+Lincoln,State House,21,,Write-ins,65
+Lincoln,State House,21,,Over Votes,3
+Lincoln,State House,21,,Under Votes,328
+Lincoln,State House,22,REP,Bill Winney,1999
+Sublette,State House,22,REP,Bill Winney,191
+Teton,State House,22,REP,Bill Winney,635
+Lincoln,State House,22,IND,Jim Rosco,1227
+Sublette,State House,22,IND,Jim Rosco,285
+Teton,State House,22,IND,Jim Rosco,1679
+Lincoln,State House,22,,Write-ins,55
+Sublette,State House,22,,Write-ins,4
+Teton,State House,22,,Write-ins,6
+Lincoln,State House,22,,Over Votes,6
+Sublette,State House,22,,Over Votes,0
+Teton,State House,22,,Over Votes,1
+Lincoln,State House,22,,Under Votes,142
+Sublette,State House,22,,Under Votes,28
+Teton,State House,22,,Under Votes,161
+Teton,State House,23,DEM,Andy Schwartz,4885
+Teton,State House,23,,Write-ins,256
+Teton,State House,23,,Over Votes,2
+Teton,State House,23,,Under Votes,1794
+Park,State House,24,REP,Sandy Newsome,4009
+Park,State House,24,,Write-ins,304
+Park,State House,24,,Over Votes,1
+Park,State House,24,,Under Votes,1110
+Park,State House,25,REP,Dan Laursen,3722
+Park,State House,25,,Write-ins,388
+Park,State House,25,,Over Votes,5
+Park,State House,25,,Under Votes,549
+Big Horn,State House,26,REP,Jamie Flitner,3795
+Park,State House,26,REP,Jamie Flitner,164
+Big Horn,State House,26,,Write-ins,58
+Park,State House,26,,Write-ins,4
+Big Horn,State House,26,,Over Votes,2
+Park,State House,26,,Over Votes,0
+Big Horn,State House,26,,Under Votes,338
+Park,State House,26,,Under Votes,32
+Big Horn,State House,27,REP,Mike Greear,269
+Washakie,State House,27,REP,Mike Greear,3494
+Big Horn,State House,27,,Write-ins,0
+Washakie,State House,27,,Write-ins,67
+Big Horn,State House,27,,Over Votes,0
+Washakie,State House,27,,Over Votes,2
+Big Horn,State House,27,,Under Votes,26
+Washakie,State House,27,,Under Votes,469
+Big Horn,State House,28,REP,John R. Winter,1128
+Fremont,State House,28,REP,John R. Winter,330
+Hot Springs,State House,28,REP,John R. Winter,1902
+Park,State House,28,REP,John R. Winter,409
+Big Horn,State House,28,DEM,Levi J. Shinkle,123
+Fremont,State House,28,DEM,Levi J. Shinkle,32
+Hot Springs,State House,28,DEM,Levi J. Shinkle,595
+Park,State House,28,DEM,Levi J. Shinkle,66
+Big Horn,State House,28,,Write-ins,2
+Fremont,State House,28,,Write-ins,1
+Hot Springs,State House,28,,Write-ins,30
+Park,State House,28,,Write-ins,1
+Big Horn,State House,28,,Over Votes,1
+Fremont,State House,28,,Over Votes,0
+Hot Springs,State House,28,,Over Votes,2
+Park,State House,28,,Over Votes,1
+Big Horn,State House,28,,Under Votes,42
+Fremont,State House,28,,Under Votes,20
+Hot Springs,State House,28,,Under Votes,59
+Park,State House,28,,Under Votes,20
+Sheridan,State House,29,REP,Mark S. Kinner,3766
+Sheridan,State House,29,,Write-ins,99
+Sheridan,State House,29,,Over Votes,0
+Sheridan,State House,29,,Under Votes,639
+Sheridan,State House,30,REP,Mark Jennings,3985
+Sheridan,State House,30,,Write-ins,192
+Sheridan,State House,30,,Over Votes,0
+Sheridan,State House,30,,Under Votes,879
+Campbell,State House,31,REP,John Bear,3866
+Campbell,State House,31,,Write-ins,103
+Campbell,State House,31,,Over Votes,8
+Campbell,State House,31,,Under Votes,392
+Campbell,State House,32,REP,Timothy Hallinan,3980
+Campbell,State House,32,DEM,Lynne Huskinson,632
+Campbell,State House,32,,Write-ins,20
+Campbell,State House,32,,Over Votes,16
+Campbell,State House,32,,Under Votes,355
+Fremont,State House,33,REP,Valaira Whiteman,1338
+Fremont,State House,33,DEM,Andi Clifford,1434
+Fremont,State House,33,IND,Clinton D. Wagon,375
+Fremont,State House,33,,Write-ins,11
+Fremont,State House,33,,Over Votes,3
+Fremont,State House,33,,Under Votes,154
+Fremont,State House,34,REP,Pepper L. Ottman,4070
+Fremont,State House,34,,Write-ins,53
+Fremont,State House,34,,Over Votes,1
+Fremont,State House,34,,Under Votes,657
+Natrona,State House,35,REP,Joe MacGuire,5046
+Natrona,State House,35,,Write-ins,118
+Natrona,State House,35,,Over Votes,1
+Natrona,State House,35,,Under Votes,918
+Natrona,State House,36,REP,Art Washut,3041
+Natrona,State House,36,,Write-ins,109
+Natrona,State House,36,,Over Votes,0
+Natrona,State House,36,,Under Votes,649
+Natrona,State House,37,REP,Steve Harshman,4335
+Natrona,State House,37,,Write-ins,150
+Natrona,State House,37,,Over Votes,0
+Natrona,State House,37,,Under Votes,767
+Natrona,State House,38,REP,Tom Walters,3277
+Natrona,State House,38,LIB,Shawn Johnson,1068
+Natrona,State House,38,,Write-ins,19
+Natrona,State House,38,,Over Votes,8
+Natrona,State House,38,,Under Votes,305
+Sweetwater,State House,39,DEM,Stan Blake,1421
+Sweetwater,State House,39,LIB,Marshall A. Burt,1696
+Sweetwater,State House,39,,Write-ins,47
+Sweetwater,State House,39,,Over Votes,8
+Sweetwater,State House,39,,Under Votes,491
+Johnson,State House,40,REP,Barry Crago,4277
+Sheridan,State House,40,REP,Barry Crago,212
+Johnson,State House,40,,Write-ins,83
+Sheridan,State House,40,,Write-ins,2
+Johnson,State House,40,,Over Votes,0
+Sheridan,State House,40,,Over Votes,0
+Johnson,State House,40,,Under Votes,592
+Sheridan,State House,40,,Under Votes,19
+Laramie,State House,41,REP,Bill Henderson,2497
+Laramie,State House,41,DEM,Rebecca Fields,1629
+Laramie,State House,41,,Write-ins,13
+Laramie,State House,41,,Over Votes,3
+Laramie,State House,41,,Under Votes,110
+Laramie,State House,42,REP,Jim Blackburn,3918
+Laramie,State House,42,,Write-ins,216
+Laramie,State House,42,,Over Votes,0
+Laramie,State House,42,,Under Votes,672
+Laramie,State House,43,REP,Dan Zwonitzer,2918
+Laramie,State House,43,,Write-ins,185
+Laramie,State House,43,,Over Votes,0
+Laramie,State House,43,,Under Votes,398
+Laramie,State House,44,REP,John B. Romero-Martinez,1552
+Laramie,State House,44,DEM,Sara Burlingame,1504
+Laramie,State House,44,,Write-ins,22
+Laramie,State House,44,,Over Votes,0
+Laramie,State House,44,,Under Votes,53
+Albany,State House,45,REP,Roxie Hensley,1883
+Albany,State House,45,DEM,Karlee Provenza,2043
+Albany,State House,45,,Write-ins,13
+Albany,State House,45,,Over Votes,1
+Albany,State House,45,,Under Votes,113
+Albany,State House,46,REP,Ocean Andrew,3409
+Albany,State House,46,DEM,Tim Chestnut,2323
+Albany,State House,46,,Write-ins,22
+Albany,State House,46,,Over Votes,1
+Albany,State House,46,,Under Votes,193
+Albany,State House,47,REP,Jerry Paxton,119
+Carbon,State House,47,REP,Jerry Paxton,2505
+Sweetwater,State House,47,REP,Jerry Paxton,658
+Albany,State House,47,LIB,Lela Konecny,25
+Carbon,State House,47,LIB,Lela Konecny,767
+Sweetwater,State House,47,LIB,Lela Konecny,94
+Albany,State House,47,,Write-ins,0
+Carbon,State House,47,,Write-ins,21
+Sweetwater,State House,47,,Write-ins,10
+Albany,State House,47,,Over Votes,0
+Carbon,State House,47,,Over Votes,4
+Sweetwater,State House,47,,Over Votes,1
+Albany,State House,47,,Under Votes,8
+Carbon,State House,47,,Under Votes,130
+Sweetwater,State House,47,,Under Votes,34
+Sweetwater,State House,48,REP,Clark Stith,2573
+Sweetwater,State House,48,,Write-ins,89
+Sweetwater,State House,48,,Over Votes,1
+Sweetwater,State House,48,,Under Votes,567
+Uinta,State House,49,REP,Robert A. Wharff,3269
+Uinta,State House,49,,Write-ins,178
+Uinta,State House,49,,Over Votes,1
+Uinta,State House,49,,Under Votes,660
+Park,State House,50,REP,Rachel Rodriguez-Williams,4373
+Park,State House,50,IND,Cindy Johnson Bennett,1241
+Park,State House,50,,Write-ins,20
+Park,State House,50,,Over Votes,6
+Park,State House,50,,Under Votes,390
+Sheridan,State House,51,REP,Cyrus Western,5619
+Sheridan,State House,51,,Write-ins,181
+Sheridan,State House,51,,Over Votes,0
+Sheridan,State House,51,,Under Votes,953
+Campbell,State House,52,REP,Bill Fortner,3368
+Campbell,State House,52,,Write-ins,92
+Campbell,State House,52,,Over Votes,10
+Campbell,State House,52,,Under Votes,429
+Campbell,State House,53,REP,Roy Edwards,2303
+Campbell,State House,53,,Write-ins,117
+Campbell,State House,53,,Over Votes,7
+Campbell,State House,53,,Under Votes,784
+Fremont,State House,54,REP,Lloyd Charles Larsen,3148
+Fremont,State House,54,DEM,Kevin Wilson,2244
+Fremont,State House,54,,Write-ins,3
+Fremont,State House,54,,Over Votes,2
+Fremont,State House,54,,Under Votes,117
+Fremont,State House,55,REP,Ember Oakley,2058
+Fremont,State House,55,LIB,Bethany Baldes,2026
+Fremont,State House,55,,Write-ins,14
+Fremont,State House,55,,Over Votes,5
+Fremont,State House,55,,Under Votes,138
+Natrona,State House,56,REP,Jerry Obermueller,3166
+Natrona,State House,56,,Write-ins,107
+Natrona,State House,56,,Over Votes,2
+Natrona,State House,56,,Under Votes,916
+Natrona,State House,57,REP,Chuck Gray,2504
+Natrona,State House,57,DEM,Jane Ifland,1120
+Natrona,State House,57,,Write-ins,11
+Natrona,State House,57,,Over Votes,1
+Natrona,State House,57,,Under Votes,185
+Natrona,State House,58,REP,"Patrick ""Pat"" Sweeney",2725
+Natrona,State House,58,IND,Joseph S. Porambo,646
+Natrona,State House,58,,Write-ins,21
+Natrona,State House,58,,Over Votes,2
+Natrona,State House,58,,Under Votes,240
+Natrona,State House,59,REP,Kevin C. O'Hearn,2658
+Natrona,State House,59,DEM,Mike A. Gilmore,1104
+Natrona,State House,59,,Write-ins,26
+Natrona,State House,59,,Over Votes,9
+Natrona,State House,59,,Under Votes,137
+Sweetwater,State House,60,REP,Mark Baker,2793
+Sweetwater,State House,60,DEM,Lindsey Travis,1260
+Sweetwater,State House,60,,Write-ins,7
+Sweetwater,State House,60,,Over Votes,2
+Sweetwater,State House,60,,Under Votes,122
