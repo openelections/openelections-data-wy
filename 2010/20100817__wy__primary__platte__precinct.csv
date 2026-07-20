@@ -1,0 +1,977 @@
+county,precinct,office,district,party,candidate,votes
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,REP,Cynthia M. Lummis,372
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,REP,Evan Liam Slafter,63
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,REP,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,REP,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,REP,Under Votes,9
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,DEM,David Wendt,66
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,DEM,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,DEM,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,U.S. House,,DEM,Under Votes,5
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Alan Kousoulos,2
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Colin Simpson,37
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,John H. Self,0
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Matt Mead,131
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Rita Meyer,130
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Ron Micheli,141
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Tom A Ubben,2
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,Governor,,REP,Under Votes,1
+Platte,4-H Bldg./Wheatland 1-6,Governor,,DEM,Al Hamburg,6
+Platte,4-H Bldg./Wheatland 1-6,Governor,,DEM,Chris L. Zachary,8
+Platte,4-H Bldg./Wheatland 1-6,Governor,,DEM,Leslie Petersen,29
+Platte,4-H Bldg./Wheatland 1-6,Governor,,DEM,Pete Gosar,18
+Platte,4-H Bldg./Wheatland 1-6,Governor,,DEM,Rex Wilde,3
+Platte,4-H Bldg./Wheatland 1-6,Governor,,DEM,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,Governor,,DEM,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,Governor,,DEM,Under Votes,7
+Platte,4-H Bldg./Wheatland 1-6,Secretary of State,,REP,Max Maxfield,391
+Platte,4-H Bldg./Wheatland 1-6,Secretary of State,,REP,Write-ins,1
+Platte,4-H Bldg./Wheatland 1-6,Secretary of State,,REP,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,Secretary of State,,REP,Under Votes,52
+Platte,4-H Bldg./Wheatland 1-6,Secretary of State,,DEM,Andrew Simons,68
+Platte,4-H Bldg./Wheatland 1-6,Secretary of State,,DEM,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,Secretary of State,,DEM,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,Secretary of State,,DEM,Under Votes,3
+Platte,4-H Bldg./Wheatland 1-6,State Auditor,,REP,Bruce Brown,216
+Platte,4-H Bldg./Wheatland 1-6,State Auditor,,REP,Cynthia Cloud,186
+Platte,4-H Bldg./Wheatland 1-6,State Auditor,,REP,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,State Auditor,,REP,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,State Auditor,,REP,Under Votes,42
+Platte,4-H Bldg./Wheatland 1-6,State Auditor,,DEM,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,State Auditor,,DEM,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,State Auditor,,DEM,Under Votes,71
+Platte,4-H Bldg./Wheatland 1-6,State Treasurer,,REP,Joe Meyer,383
+Platte,4-H Bldg./Wheatland 1-6,State Treasurer,,REP,Write-ins,2
+Platte,4-H Bldg./Wheatland 1-6,State Treasurer,,REP,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,State Treasurer,,REP,Under Votes,59
+Platte,4-H Bldg./Wheatland 1-6,State Treasurer,,DEM,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,State Treasurer,,DEM,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,State Treasurer,,DEM,Under Votes,71
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,REP,Cindy Hill,246
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,REP,Jim McBride,94
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,REP,Ted Adams,35
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,REP,Trent Blankenship,40
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,REP,Write-ins,1
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,REP,Under Votes,28
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,DEM,Mike Massie,69
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,Superintendent of Public Instruction,,DEM,Under Votes,2
+Platte,4-H Bldg./Wheatland 1-6,State Senate,3,REP,Cheri E. Steinmetz,163
+Platte,4-H Bldg./Wheatland 1-6,State Senate,3,REP,Curt Meier,262
+Platte,4-H Bldg./Wheatland 1-6,State Senate,3,REP,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,State Senate,3,REP,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,State Senate,3,REP,Under Votes,19
+Platte,4-H Bldg./Wheatland 1-6,State Senate,3,DEM,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,State Senate,3,DEM,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,State Senate,3,DEM,Under Votes,71
+Platte,4-H Bldg./Wheatland 1-6,State House,5,REP,Matt Teeters,370
+Platte,4-H Bldg./Wheatland 1-6,State House,5,REP,Write-ins,5
+Platte,4-H Bldg./Wheatland 1-6,State House,5,REP,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,State House,5,REP,Under Votes,69
+Platte,4-H Bldg./Wheatland 1-6,State House,5,DEM,Write-ins,0
+Platte,4-H Bldg./Wheatland 1-6,State House,5,DEM,Over Votes,0
+Platte,4-H Bldg./Wheatland 1-6,State House,5,DEM,Under Votes,71
+Platte,4-H Bldg./Wheatland 1-6,Ballots Cast,,REP,Ballots Cast,444
+Platte,4-H Bldg./Wheatland 1-6,Ballots Cast,,DEM,Ballots Cast,71
+Platte,4-H Bldg./Wheatland 1-6,Ballots Cast,,NP,Ballots Cast,0
+Platte,4-H Bldg./Wheatland 1-6,Ballots Cast,,,Ballots Cast,515
+Platte,4-H Building 12-1,U.S. House,,REP,Cynthia M. Lummis,133
+Platte,4-H Building 12-1,U.S. House,,REP,Evan Liam Slafter,21
+Platte,4-H Building 12-1,U.S. House,,REP,Write-ins,2
+Platte,4-H Building 12-1,U.S. House,,REP,Over Votes,0
+Platte,4-H Building 12-1,U.S. House,,REP,Under Votes,4
+Platte,4-H Building 12-1,U.S. House,,DEM,David Wendt,9
+Platte,4-H Building 12-1,U.S. House,,DEM,Write-ins,0
+Platte,4-H Building 12-1,U.S. House,,DEM,Over Votes,0
+Platte,4-H Building 12-1,U.S. House,,DEM,Under Votes,3
+Platte,4-H Building 12-1,Governor,,REP,Alan Kousoulos,0
+Platte,4-H Building 12-1,Governor,,REP,Colin Simpson,11
+Platte,4-H Building 12-1,Governor,,REP,John H. Self,0
+Platte,4-H Building 12-1,Governor,,REP,Matt Mead,46
+Platte,4-H Building 12-1,Governor,,REP,Rita Meyer,34
+Platte,4-H Building 12-1,Governor,,REP,Ron Micheli,66
+Platte,4-H Building 12-1,Governor,,REP,Tom A Ubben,0
+Platte,4-H Building 12-1,Governor,,REP,Write-ins,0
+Platte,4-H Building 12-1,Governor,,REP,Over Votes,0
+Platte,4-H Building 12-1,Governor,,REP,Under Votes,3
+Platte,4-H Building 12-1,Governor,,DEM,Al Hamburg,1
+Platte,4-H Building 12-1,Governor,,DEM,Chris L. Zachary,0
+Platte,4-H Building 12-1,Governor,,DEM,Leslie Petersen,5
+Platte,4-H Building 12-1,Governor,,DEM,Pete Gosar,5
+Platte,4-H Building 12-1,Governor,,DEM,Rex Wilde,0
+Platte,4-H Building 12-1,Governor,,DEM,Write-ins,0
+Platte,4-H Building 12-1,Governor,,DEM,Over Votes,0
+Platte,4-H Building 12-1,Governor,,DEM,Under Votes,1
+Platte,4-H Building 12-1,Secretary of State,,REP,Max Maxfield,145
+Platte,4-H Building 12-1,Secretary of State,,REP,Write-ins,0
+Platte,4-H Building 12-1,Secretary of State,,REP,Over Votes,0
+Platte,4-H Building 12-1,Secretary of State,,REP,Under Votes,15
+Platte,4-H Building 12-1,Secretary of State,,DEM,Andrew Simons,9
+Platte,4-H Building 12-1,Secretary of State,,DEM,Write-ins,0
+Platte,4-H Building 12-1,Secretary of State,,DEM,Over Votes,0
+Platte,4-H Building 12-1,Secretary of State,,DEM,Under Votes,3
+Platte,4-H Building 12-1,State Auditor,,REP,Bruce Brown,74
+Platte,4-H Building 12-1,State Auditor,,REP,Cynthia Cloud,71
+Platte,4-H Building 12-1,State Auditor,,REP,Write-ins,0
+Platte,4-H Building 12-1,State Auditor,,REP,Over Votes,0
+Platte,4-H Building 12-1,State Auditor,,REP,Under Votes,15
+Platte,4-H Building 12-1,State Auditor,,DEM,Write-ins,1
+Platte,4-H Building 12-1,State Auditor,,DEM,Over Votes,0
+Platte,4-H Building 12-1,State Auditor,,DEM,Under Votes,11
+Platte,4-H Building 12-1,State Treasurer,,REP,Joe Meyer,143
+Platte,4-H Building 12-1,State Treasurer,,REP,Write-ins,1
+Platte,4-H Building 12-1,State Treasurer,,REP,Over Votes,0
+Platte,4-H Building 12-1,State Treasurer,,REP,Under Votes,16
+Platte,4-H Building 12-1,State Treasurer,,DEM,Write-ins,0
+Platte,4-H Building 12-1,State Treasurer,,DEM,Over Votes,0
+Platte,4-H Building 12-1,State Treasurer,,DEM,Under Votes,12
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,REP,Cindy Hill,101
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,REP,Jim McBride,30
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,REP,Ted Adams,8
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,REP,Trent Blankenship,12
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,REP,Under Votes,9
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,DEM,Mike Massie,12
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,4-H Building 12-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Platte,4-H Building 12-1,State House,3,REP,Frank Peasley,147
+Platte,4-H Building 12-1,State House,3,REP,Write-ins,0
+Platte,4-H Building 12-1,State House,3,REP,Over Votes,0
+Platte,4-H Building 12-1,State House,3,REP,Under Votes,13
+Platte,4-H Building 12-1,State House,3,DEM,Write-ins,0
+Platte,4-H Building 12-1,State House,3,DEM,Over Votes,0
+Platte,4-H Building 12-1,State House,3,DEM,Under Votes,12
+Platte,4-H Building 12-1,Ballots Cast,,REP,Ballots Cast,160
+Platte,4-H Building 12-1,Ballots Cast,,DEM,Ballots Cast,12
+Platte,4-H Building 12-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,4-H Building 12-1,Ballots Cast,,,Ballots Cast,172
+Platte,4-H Building 20-1,U.S. House,,REP,Cynthia M. Lummis,238
+Platte,4-H Building 20-1,U.S. House,,REP,Evan Liam Slafter,31
+Platte,4-H Building 20-1,U.S. House,,REP,Write-ins,0
+Platte,4-H Building 20-1,U.S. House,,REP,Over Votes,0
+Platte,4-H Building 20-1,U.S. House,,REP,Under Votes,6
+Platte,4-H Building 20-1,U.S. House,,DEM,David Wendt,26
+Platte,4-H Building 20-1,U.S. House,,DEM,Write-ins,0
+Platte,4-H Building 20-1,U.S. House,,DEM,Over Votes,0
+Platte,4-H Building 20-1,U.S. House,,DEM,Under Votes,3
+Platte,4-H Building 20-1,Governor,,REP,Alan Kousoulos,2
+Platte,4-H Building 20-1,Governor,,REP,Colin Simpson,14
+Platte,4-H Building 20-1,Governor,,REP,John H. Self,2
+Platte,4-H Building 20-1,Governor,,REP,Matt Mead,91
+Platte,4-H Building 20-1,Governor,,REP,Rita Meyer,82
+Platte,4-H Building 20-1,Governor,,REP,Ron Micheli,84
+Platte,4-H Building 20-1,Governor,,REP,Tom A Ubben,0
+Platte,4-H Building 20-1,Governor,,REP,Write-ins,0
+Platte,4-H Building 20-1,Governor,,REP,Over Votes,0
+Platte,4-H Building 20-1,Governor,,REP,Under Votes,0
+Platte,4-H Building 20-1,Governor,,DEM,Al Hamburg,3
+Platte,4-H Building 20-1,Governor,,DEM,Chris L. Zachary,1
+Platte,4-H Building 20-1,Governor,,DEM,Leslie Petersen,15
+Platte,4-H Building 20-1,Governor,,DEM,Pete Gosar,7
+Platte,4-H Building 20-1,Governor,,DEM,Rex Wilde,0
+Platte,4-H Building 20-1,Governor,,DEM,Write-ins,0
+Platte,4-H Building 20-1,Governor,,DEM,Over Votes,0
+Platte,4-H Building 20-1,Governor,,DEM,Under Votes,3
+Platte,4-H Building 20-1,Secretary of State,,REP,Max Maxfield,246
+Platte,4-H Building 20-1,Secretary of State,,REP,Write-ins,1
+Platte,4-H Building 20-1,Secretary of State,,REP,Over Votes,0
+Platte,4-H Building 20-1,Secretary of State,,REP,Under Votes,28
+Platte,4-H Building 20-1,Secretary of State,,DEM,Andrew Simons,27
+Platte,4-H Building 20-1,Secretary of State,,DEM,Write-ins,0
+Platte,4-H Building 20-1,Secretary of State,,DEM,Over Votes,0
+Platte,4-H Building 20-1,Secretary of State,,DEM,Under Votes,2
+Platte,4-H Building 20-1,State Auditor,,REP,Bruce Brown,132
+Platte,4-H Building 20-1,State Auditor,,REP,Cynthia Cloud,118
+Platte,4-H Building 20-1,State Auditor,,REP,Write-ins,0
+Platte,4-H Building 20-1,State Auditor,,REP,Over Votes,0
+Platte,4-H Building 20-1,State Auditor,,REP,Under Votes,25
+Platte,4-H Building 20-1,State Auditor,,DEM,Write-ins,1
+Platte,4-H Building 20-1,State Auditor,,DEM,Over Votes,0
+Platte,4-H Building 20-1,State Auditor,,DEM,Under Votes,28
+Platte,4-H Building 20-1,State Treasurer,,REP,Joe Meyer,244
+Platte,4-H Building 20-1,State Treasurer,,REP,Write-ins,0
+Platte,4-H Building 20-1,State Treasurer,,REP,Over Votes,0
+Platte,4-H Building 20-1,State Treasurer,,REP,Under Votes,31
+Platte,4-H Building 20-1,State Treasurer,,DEM,Write-ins,1
+Platte,4-H Building 20-1,State Treasurer,,DEM,Over Votes,0
+Platte,4-H Building 20-1,State Treasurer,,DEM,Under Votes,28
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,REP,Cindy Hill,163
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,REP,Jim McBride,49
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,REP,Ted Adams,34
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,REP,Trent Blankenship,13
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,REP,Under Votes,16
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,DEM,Mike Massie,26
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,4-H Building 20-1,Superintendent of Public Instruction,,DEM,Under Votes,3
+Platte,4-H Building 20-1,State House,3,REP,Frank Peasley,234
+Platte,4-H Building 20-1,State House,3,REP,Write-ins,1
+Platte,4-H Building 20-1,State House,3,REP,Over Votes,0
+Platte,4-H Building 20-1,State House,3,REP,Under Votes,40
+Platte,4-H Building 20-1,State House,3,DEM,Write-ins,0
+Platte,4-H Building 20-1,State House,3,DEM,Over Votes,0
+Platte,4-H Building 20-1,State House,3,DEM,Under Votes,29
+Platte,4-H Building 20-1,Ballots Cast,,REP,Ballots Cast,275
+Platte,4-H Building 20-1,Ballots Cast,,DEM,Ballots Cast,29
+Platte,4-H Building 20-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,4-H Building 20-1,Ballots Cast,,,Ballots Cast,304
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Cynthia M. Lummis,83
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Evan Liam Slafter,15
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Write-ins,0
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Under Votes,3
+Platte,Chugwater Community Center 10-1,U.S. House,,DEM,David Wendt,10
+Platte,Chugwater Community Center 10-1,U.S. House,,DEM,Write-ins,0
+Platte,Chugwater Community Center 10-1,U.S. House,,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,U.S. House,,DEM,Under Votes,1
+Platte,Chugwater Community Center 10-1,Governor,,REP,Alan Kousoulos,0
+Platte,Chugwater Community Center 10-1,Governor,,REP,Colin Simpson,5
+Platte,Chugwater Community Center 10-1,Governor,,REP,John H. Self,0
+Platte,Chugwater Community Center 10-1,Governor,,REP,Matt Mead,27
+Platte,Chugwater Community Center 10-1,Governor,,REP,Rita Meyer,36
+Platte,Chugwater Community Center 10-1,Governor,,REP,Ron Micheli,31
+Platte,Chugwater Community Center 10-1,Governor,,REP,Tom A Ubben,1
+Platte,Chugwater Community Center 10-1,Governor,,REP,Write-ins,0
+Platte,Chugwater Community Center 10-1,Governor,,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,Governor,,REP,Under Votes,1
+Platte,Chugwater Community Center 10-1,Governor,,DEM,Al Hamburg,1
+Platte,Chugwater Community Center 10-1,Governor,,DEM,Chris L. Zachary,0
+Platte,Chugwater Community Center 10-1,Governor,,DEM,Leslie Petersen,4
+Platte,Chugwater Community Center 10-1,Governor,,DEM,Pete Gosar,5
+Platte,Chugwater Community Center 10-1,Governor,,DEM,Rex Wilde,0
+Platte,Chugwater Community Center 10-1,Governor,,DEM,Write-ins,0
+Platte,Chugwater Community Center 10-1,Governor,,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,Governor,,DEM,Under Votes,1
+Platte,Chugwater Community Center 10-1,Secretary of State,,REP,Max Maxfield,89
+Platte,Chugwater Community Center 10-1,Secretary of State,,REP,Write-ins,0
+Platte,Chugwater Community Center 10-1,Secretary of State,,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,Secretary of State,,REP,Under Votes,12
+Platte,Chugwater Community Center 10-1,Secretary of State,,DEM,Andrew Simons,9
+Platte,Chugwater Community Center 10-1,Secretary of State,,DEM,Write-ins,0
+Platte,Chugwater Community Center 10-1,Secretary of State,,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,Secretary of State,,DEM,Under Votes,2
+Platte,Chugwater Community Center 10-1,State Auditor,,REP,Bruce Brown,40
+Platte,Chugwater Community Center 10-1,State Auditor,,REP,Cynthia Cloud,54
+Platte,Chugwater Community Center 10-1,State Auditor,,REP,Write-ins,0
+Platte,Chugwater Community Center 10-1,State Auditor,,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,State Auditor,,REP,Under Votes,7
+Platte,Chugwater Community Center 10-1,State Auditor,,DEM,Write-ins,1
+Platte,Chugwater Community Center 10-1,State Auditor,,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,State Auditor,,DEM,Under Votes,10
+Platte,Chugwater Community Center 10-1,State Treasurer,,REP,Joe Meyer,87
+Platte,Chugwater Community Center 10-1,State Treasurer,,REP,Write-ins,0
+Platte,Chugwater Community Center 10-1,State Treasurer,,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,State Treasurer,,REP,Under Votes,14
+Platte,Chugwater Community Center 10-1,State Treasurer,,DEM,Write-ins,1
+Platte,Chugwater Community Center 10-1,State Treasurer,,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,State Treasurer,,DEM,Under Votes,10
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,REP,Cindy Hill,49
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,REP,Jim McBride,18
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,REP,Ted Adams,13
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,REP,Trent Blankenship,13
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,REP,Under Votes,8
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,DEM,Mike Massie,9
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,Superintendent of Public Instruction,,DEM,Under Votes,2
+Platte,Chugwater Community Center 10-1,State House,3,REP,Frank Peasley,88
+Platte,Chugwater Community Center 10-1,State House,3,REP,Write-ins,0
+Platte,Chugwater Community Center 10-1,State House,3,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,State House,3,REP,Under Votes,13
+Platte,Chugwater Community Center 10-1,State House,3,DEM,Write-ins,1
+Platte,Chugwater Community Center 10-1,State House,3,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,State House,3,DEM,Under Votes,10
+Platte,Chugwater Community Center 10-1,Ballots Cast,,REP,Ballots Cast,101
+Platte,Chugwater Community Center 10-1,Ballots Cast,,DEM,Ballots Cast,11
+Platte,Chugwater Community Center 10-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,Chugwater Community Center 10-1,Ballots Cast,,,Ballots Cast,112
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Cynthia M. Lummis,46
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Evan Liam Slafter,6
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Under Votes,2
+Platte,Chugwater Community Center 9-1,U.S. House,,DEM,David Wendt,8
+Platte,Chugwater Community Center 9-1,U.S. House,,DEM,Write-ins,0
+Platte,Chugwater Community Center 9-1,U.S. House,,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,U.S. House,,DEM,Under Votes,1
+Platte,Chugwater Community Center 9-1,Governor,,REP,Alan Kousoulos,0
+Platte,Chugwater Community Center 9-1,Governor,,REP,Colin Simpson,2
+Platte,Chugwater Community Center 9-1,Governor,,REP,John H. Self,0
+Platte,Chugwater Community Center 9-1,Governor,,REP,Matt Mead,10
+Platte,Chugwater Community Center 9-1,Governor,,REP,Rita Meyer,15
+Platte,Chugwater Community Center 9-1,Governor,,REP,Ron Micheli,27
+Platte,Chugwater Community Center 9-1,Governor,,REP,Tom A Ubben,0
+Platte,Chugwater Community Center 9-1,Governor,,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,Governor,,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,Governor,,REP,Under Votes,0
+Platte,Chugwater Community Center 9-1,Governor,,DEM,Al Hamburg,0
+Platte,Chugwater Community Center 9-1,Governor,,DEM,Chris L. Zachary,2
+Platte,Chugwater Community Center 9-1,Governor,,DEM,Leslie Petersen,3
+Platte,Chugwater Community Center 9-1,Governor,,DEM,Pete Gosar,4
+Platte,Chugwater Community Center 9-1,Governor,,DEM,Rex Wilde,0
+Platte,Chugwater Community Center 9-1,Governor,,DEM,Write-ins,0
+Platte,Chugwater Community Center 9-1,Governor,,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,Governor,,DEM,Under Votes,0
+Platte,Chugwater Community Center 9-1,Secretary of State,,REP,Max Maxfield,50
+Platte,Chugwater Community Center 9-1,Secretary of State,,REP,Write-ins,1
+Platte,Chugwater Community Center 9-1,Secretary of State,,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,Secretary of State,,REP,Under Votes,3
+Platte,Chugwater Community Center 9-1,Secretary of State,,DEM,Andrew Simons,8
+Platte,Chugwater Community Center 9-1,Secretary of State,,DEM,Write-ins,0
+Platte,Chugwater Community Center 9-1,Secretary of State,,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,Secretary of State,,DEM,Under Votes,1
+Platte,Chugwater Community Center 9-1,State Auditor,,REP,Bruce Brown,34
+Platte,Chugwater Community Center 9-1,State Auditor,,REP,Cynthia Cloud,16
+Platte,Chugwater Community Center 9-1,State Auditor,,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,State Auditor,,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,State Auditor,,REP,Under Votes,4
+Platte,Chugwater Community Center 9-1,State Auditor,,DEM,Write-ins,0
+Platte,Chugwater Community Center 9-1,State Auditor,,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,State Auditor,,DEM,Under Votes,9
+Platte,Chugwater Community Center 9-1,State Treasurer,,REP,Joe Meyer,51
+Platte,Chugwater Community Center 9-1,State Treasurer,,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,State Treasurer,,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,State Treasurer,,REP,Under Votes,3
+Platte,Chugwater Community Center 9-1,State Treasurer,,DEM,Write-ins,0
+Platte,Chugwater Community Center 9-1,State Treasurer,,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,State Treasurer,,DEM,Under Votes,9
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,REP,Cindy Hill,36
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,REP,Jim McBride,10
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,REP,Ted Adams,2
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,REP,Trent Blankenship,4
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,REP,Under Votes,2
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,DEM,Mike Massie,9
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Platte,Chugwater Community Center 9-1,State Senate,3,REP,Cheri E. Steinmetz,17
+Platte,Chugwater Community Center 9-1,State Senate,3,REP,Curt Meier,32
+Platte,Chugwater Community Center 9-1,State Senate,3,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,State Senate,3,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,State Senate,3,REP,Under Votes,5
+Platte,Chugwater Community Center 9-1,State Senate,3,DEM,Write-ins,0
+Platte,Chugwater Community Center 9-1,State Senate,3,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,State Senate,3,DEM,Under Votes,9
+Platte,Chugwater Community Center 9-1,State House,5,REP,Matt Teeters,52
+Platte,Chugwater Community Center 9-1,State House,5,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,State House,5,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,State House,5,REP,Under Votes,2
+Platte,Chugwater Community Center 9-1,State House,5,DEM,Write-ins,0
+Platte,Chugwater Community Center 9-1,State House,5,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,State House,5,DEM,Under Votes,9
+Platte,Chugwater Community Center 9-1,Ballots Cast,,REP,Ballots Cast,54
+Platte,Chugwater Community Center 9-1,Ballots Cast,,DEM,Ballots Cast,9
+Platte,Chugwater Community Center 9-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,Chugwater Community Center 9-1,Ballots Cast,,,Ballots Cast,63
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Cynthia M. Lummis,183
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Evan Liam Slafter,32
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Write-ins,1
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Under Votes,6
+Platte,FSB Conference Center 1-1,U.S. House,,DEM,David Wendt,39
+Platte,FSB Conference Center 1-1,U.S. House,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-1,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,U.S. House,,DEM,Under Votes,5
+Platte,FSB Conference Center 1-1,Governor,,REP,Alan Kousoulos,0
+Platte,FSB Conference Center 1-1,Governor,,REP,Colin Simpson,17
+Platte,FSB Conference Center 1-1,Governor,,REP,John H. Self,0
+Platte,FSB Conference Center 1-1,Governor,,REP,Matt Mead,53
+Platte,FSB Conference Center 1-1,Governor,,REP,Rita Meyer,83
+Platte,FSB Conference Center 1-1,Governor,,REP,Ron Micheli,66
+Platte,FSB Conference Center 1-1,Governor,,REP,Tom A Ubben,2
+Platte,FSB Conference Center 1-1,Governor,,REP,Write-ins,1
+Platte,FSB Conference Center 1-1,Governor,,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,Governor,,REP,Under Votes,0
+Platte,FSB Conference Center 1-1,Governor,,DEM,Al Hamburg,4
+Platte,FSB Conference Center 1-1,Governor,,DEM,Chris L. Zachary,6
+Platte,FSB Conference Center 1-1,Governor,,DEM,Leslie Petersen,22
+Platte,FSB Conference Center 1-1,Governor,,DEM,Pete Gosar,8
+Platte,FSB Conference Center 1-1,Governor,,DEM,Rex Wilde,1
+Platte,FSB Conference Center 1-1,Governor,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-1,Governor,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,Governor,,DEM,Under Votes,3
+Platte,FSB Conference Center 1-1,Secretary of State,,REP,Max Maxfield,200
+Platte,FSB Conference Center 1-1,Secretary of State,,REP,Write-ins,2
+Platte,FSB Conference Center 1-1,Secretary of State,,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,Secretary of State,,REP,Under Votes,20
+Platte,FSB Conference Center 1-1,Secretary of State,,DEM,Andrew Simons,38
+Platte,FSB Conference Center 1-1,Secretary of State,,DEM,Write-ins,1
+Platte,FSB Conference Center 1-1,Secretary of State,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,Secretary of State,,DEM,Under Votes,5
+Platte,FSB Conference Center 1-1,State Auditor,,REP,Bruce Brown,117
+Platte,FSB Conference Center 1-1,State Auditor,,REP,Cynthia Cloud,89
+Platte,FSB Conference Center 1-1,State Auditor,,REP,Write-ins,0
+Platte,FSB Conference Center 1-1,State Auditor,,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,State Auditor,,REP,Under Votes,16
+Platte,FSB Conference Center 1-1,State Auditor,,DEM,Write-ins,2
+Platte,FSB Conference Center 1-1,State Auditor,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,State Auditor,,DEM,Under Votes,42
+Platte,FSB Conference Center 1-1,State Treasurer,,REP,Joe Meyer,198
+Platte,FSB Conference Center 1-1,State Treasurer,,REP,Write-ins,0
+Platte,FSB Conference Center 1-1,State Treasurer,,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,State Treasurer,,REP,Under Votes,24
+Platte,FSB Conference Center 1-1,State Treasurer,,DEM,Write-ins,2
+Platte,FSB Conference Center 1-1,State Treasurer,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,State Treasurer,,DEM,Under Votes,42
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,REP,Cindy Hill,117
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,REP,Jim McBride,51
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,REP,Ted Adams,26
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,REP,Trent Blankenship,19
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,REP,Under Votes,8
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,DEM,Mike Massie,38
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,Superintendent of Public Instruction,,DEM,Under Votes,6
+Platte,FSB Conference Center 1-1,State House,3,REP,Frank Peasley,192
+Platte,FSB Conference Center 1-1,State House,3,REP,Write-ins,3
+Platte,FSB Conference Center 1-1,State House,3,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,State House,3,REP,Under Votes,27
+Platte,FSB Conference Center 1-1,State House,3,DEM,Write-ins,2
+Platte,FSB Conference Center 1-1,State House,3,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,State House,3,DEM,Under Votes,42
+Platte,FSB Conference Center 1-1,Ballots Cast,,REP,Ballots Cast,222
+Platte,FSB Conference Center 1-1,Ballots Cast,,DEM,Ballots Cast,44
+Platte,FSB Conference Center 1-1,Ballots Cast,,NP,Ballots Cast,3
+Platte,FSB Conference Center 1-1,Ballots Cast,,,Ballots Cast,269
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Cynthia M. Lummis,177
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Evan Liam Slafter,30
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Write-ins,2
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Under Votes,14
+Platte,FSB Conference Center 1-2,U.S. House,,DEM,David Wendt,34
+Platte,FSB Conference Center 1-2,U.S. House,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-2,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,U.S. House,,DEM,Under Votes,5
+Platte,FSB Conference Center 1-2,Governor,,REP,Alan Kousoulos,0
+Platte,FSB Conference Center 1-2,Governor,,REP,Colin Simpson,27
+Platte,FSB Conference Center 1-2,Governor,,REP,John H. Self,0
+Platte,FSB Conference Center 1-2,Governor,,REP,Matt Mead,52
+Platte,FSB Conference Center 1-2,Governor,,REP,Rita Meyer,90
+Platte,FSB Conference Center 1-2,Governor,,REP,Ron Micheli,52
+Platte,FSB Conference Center 1-2,Governor,,REP,Tom A Ubben,0
+Platte,FSB Conference Center 1-2,Governor,,REP,Write-ins,0
+Platte,FSB Conference Center 1-2,Governor,,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,Governor,,REP,Under Votes,2
+Platte,FSB Conference Center 1-2,Governor,,DEM,Al Hamburg,3
+Platte,FSB Conference Center 1-2,Governor,,DEM,Chris L. Zachary,2
+Platte,FSB Conference Center 1-2,Governor,,DEM,Leslie Petersen,18
+Platte,FSB Conference Center 1-2,Governor,,DEM,Pete Gosar,10
+Platte,FSB Conference Center 1-2,Governor,,DEM,Rex Wilde,4
+Platte,FSB Conference Center 1-2,Governor,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-2,Governor,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,Governor,,DEM,Under Votes,2
+Platte,FSB Conference Center 1-2,Secretary of State,,REP,Max Maxfield,203
+Platte,FSB Conference Center 1-2,Secretary of State,,REP,Write-ins,1
+Platte,FSB Conference Center 1-2,Secretary of State,,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,Secretary of State,,REP,Under Votes,19
+Platte,FSB Conference Center 1-2,Secretary of State,,DEM,Andrew Simons,33
+Platte,FSB Conference Center 1-2,Secretary of State,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-2,Secretary of State,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,Secretary of State,,DEM,Under Votes,6
+Platte,FSB Conference Center 1-2,State Auditor,,REP,Bruce Brown,116
+Platte,FSB Conference Center 1-2,State Auditor,,REP,Cynthia Cloud,91
+Platte,FSB Conference Center 1-2,State Auditor,,REP,Write-ins,0
+Platte,FSB Conference Center 1-2,State Auditor,,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,State Auditor,,REP,Under Votes,16
+Platte,FSB Conference Center 1-2,State Auditor,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-2,State Auditor,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,State Auditor,,DEM,Under Votes,39
+Platte,FSB Conference Center 1-2,State Treasurer,,REP,Joe Meyer,207
+Platte,FSB Conference Center 1-2,State Treasurer,,REP,Write-ins,2
+Platte,FSB Conference Center 1-2,State Treasurer,,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,State Treasurer,,REP,Under Votes,14
+Platte,FSB Conference Center 1-2,State Treasurer,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-2,State Treasurer,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,State Treasurer,,DEM,Under Votes,39
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,REP,Cindy Hill,114
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,REP,Jim McBride,62
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,REP,Ted Adams,25
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,REP,Trent Blankenship,8
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,REP,Under Votes,14
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,DEM,Mike Massie,32
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,Superintendent of Public Instruction,,DEM,Under Votes,7
+Platte,FSB Conference Center 1-2,State House,3,REP,Frank Peasley,200
+Platte,FSB Conference Center 1-2,State House,3,REP,Write-ins,2
+Platte,FSB Conference Center 1-2,State House,3,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,State House,3,REP,Under Votes,21
+Platte,FSB Conference Center 1-2,State House,3,DEM,Write-ins,0
+Platte,FSB Conference Center 1-2,State House,3,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,State House,3,DEM,Under Votes,39
+Platte,FSB Conference Center 1-2,Ballots Cast,,REP,Ballots Cast,223
+Platte,FSB Conference Center 1-2,Ballots Cast,,DEM,Ballots Cast,39
+Platte,FSB Conference Center 1-2,Ballots Cast,,NP,Ballots Cast,3
+Platte,FSB Conference Center 1-2,Ballots Cast,,,Ballots Cast,265
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Cynthia M. Lummis,277
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Evan Liam Slafter,59
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Write-ins,1
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Under Votes,9
+Platte,FSB Conference Center 1-3,U.S. House,,DEM,David Wendt,59
+Platte,FSB Conference Center 1-3,U.S. House,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-3,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,U.S. House,,DEM,Under Votes,7
+Platte,FSB Conference Center 1-3,Governor,,REP,Alan Kousoulos,1
+Platte,FSB Conference Center 1-3,Governor,,REP,Colin Simpson,28
+Platte,FSB Conference Center 1-3,Governor,,REP,John H. Self,2
+Platte,FSB Conference Center 1-3,Governor,,REP,Matt Mead,99
+Platte,FSB Conference Center 1-3,Governor,,REP,Rita Meyer,132
+Platte,FSB Conference Center 1-3,Governor,,REP,Ron Micheli,82
+Platte,FSB Conference Center 1-3,Governor,,REP,Tom A Ubben,0
+Platte,FSB Conference Center 1-3,Governor,,REP,Write-ins,0
+Platte,FSB Conference Center 1-3,Governor,,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,Governor,,REP,Under Votes,2
+Platte,FSB Conference Center 1-3,Governor,,DEM,Al Hamburg,2
+Platte,FSB Conference Center 1-3,Governor,,DEM,Chris L. Zachary,3
+Platte,FSB Conference Center 1-3,Governor,,DEM,Leslie Petersen,39
+Platte,FSB Conference Center 1-3,Governor,,DEM,Pete Gosar,8
+Platte,FSB Conference Center 1-3,Governor,,DEM,Rex Wilde,6
+Platte,FSB Conference Center 1-3,Governor,,DEM,Write-ins,2
+Platte,FSB Conference Center 1-3,Governor,,DEM,Over Votes,1
+Platte,FSB Conference Center 1-3,Governor,,DEM,Under Votes,5
+Platte,FSB Conference Center 1-3,Secretary of State,,REP,Max Maxfield,314
+Platte,FSB Conference Center 1-3,Secretary of State,,REP,Write-ins,0
+Platte,FSB Conference Center 1-3,Secretary of State,,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,Secretary of State,,REP,Under Votes,32
+Platte,FSB Conference Center 1-3,Secretary of State,,DEM,Andrew Simons,57
+Platte,FSB Conference Center 1-3,Secretary of State,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-3,Secretary of State,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,Secretary of State,,DEM,Under Votes,9
+Platte,FSB Conference Center 1-3,State Auditor,,REP,Bruce Brown,173
+Platte,FSB Conference Center 1-3,State Auditor,,REP,Cynthia Cloud,150
+Platte,FSB Conference Center 1-3,State Auditor,,REP,Write-ins,0
+Platte,FSB Conference Center 1-3,State Auditor,,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,State Auditor,,REP,Under Votes,23
+Platte,FSB Conference Center 1-3,State Auditor,,DEM,Write-ins,1
+Platte,FSB Conference Center 1-3,State Auditor,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,State Auditor,,DEM,Under Votes,65
+Platte,FSB Conference Center 1-3,State Treasurer,,REP,Joe Meyer,314
+Platte,FSB Conference Center 1-3,State Treasurer,,REP,Write-ins,1
+Platte,FSB Conference Center 1-3,State Treasurer,,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,State Treasurer,,REP,Under Votes,31
+Platte,FSB Conference Center 1-3,State Treasurer,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-3,State Treasurer,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,State Treasurer,,DEM,Under Votes,66
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,REP,Cindy Hill,192
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,REP,Jim McBride,72
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,REP,Ted Adams,38
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,REP,Trent Blankenship,31
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,REP,Under Votes,13
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,DEM,Mike Massie,57
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,DEM,Write-ins,1
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,Superintendent of Public Instruction,,DEM,Under Votes,8
+Platte,FSB Conference Center 1-3,State House,3,REP,Frank Peasley,306
+Platte,FSB Conference Center 1-3,State House,3,REP,Write-ins,1
+Platte,FSB Conference Center 1-3,State House,3,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,State House,3,REP,Under Votes,39
+Platte,FSB Conference Center 1-3,State House,3,DEM,Write-ins,0
+Platte,FSB Conference Center 1-3,State House,3,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,State House,3,DEM,Under Votes,66
+Platte,FSB Conference Center 1-3,Ballots Cast,,REP,Ballots Cast,346
+Platte,FSB Conference Center 1-3,Ballots Cast,,DEM,Ballots Cast,66
+Platte,FSB Conference Center 1-3,Ballots Cast,,NP,Ballots Cast,10
+Platte,FSB Conference Center 1-3,Ballots Cast,,,Ballots Cast,422
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Cynthia M. Lummis,156
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Evan Liam Slafter,48
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Write-ins,0
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Over Votes,1
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Under Votes,18
+Platte,FSB Conference Center 1-4,U.S. House,,DEM,David Wendt,43
+Platte,FSB Conference Center 1-4,U.S. House,,DEM,Write-ins,1
+Platte,FSB Conference Center 1-4,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,U.S. House,,DEM,Under Votes,17
+Platte,FSB Conference Center 1-4,Governor,,REP,Alan Kousoulos,0
+Platte,FSB Conference Center 1-4,Governor,,REP,Colin Simpson,20
+Platte,FSB Conference Center 1-4,Governor,,REP,John H. Self,0
+Platte,FSB Conference Center 1-4,Governor,,REP,Matt Mead,70
+Platte,FSB Conference Center 1-4,Governor,,REP,Rita Meyer,72
+Platte,FSB Conference Center 1-4,Governor,,REP,Ron Micheli,54
+Platte,FSB Conference Center 1-4,Governor,,REP,Tom A Ubben,3
+Platte,FSB Conference Center 1-4,Governor,,REP,Write-ins,0
+Platte,FSB Conference Center 1-4,Governor,,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,Governor,,REP,Under Votes,4
+Platte,FSB Conference Center 1-4,Governor,,DEM,Al Hamburg,1
+Platte,FSB Conference Center 1-4,Governor,,DEM,Chris L. Zachary,3
+Platte,FSB Conference Center 1-4,Governor,,DEM,Leslie Petersen,28
+Platte,FSB Conference Center 1-4,Governor,,DEM,Pete Gosar,14
+Platte,FSB Conference Center 1-4,Governor,,DEM,Rex Wilde,2
+Platte,FSB Conference Center 1-4,Governor,,DEM,Write-ins,2
+Platte,FSB Conference Center 1-4,Governor,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,Governor,,DEM,Under Votes,11
+Platte,FSB Conference Center 1-4,Secretary of State,,REP,Max Maxfield,192
+Platte,FSB Conference Center 1-4,Secretary of State,,REP,Write-ins,2
+Platte,FSB Conference Center 1-4,Secretary of State,,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,Secretary of State,,REP,Under Votes,29
+Platte,FSB Conference Center 1-4,Secretary of State,,DEM,Andrew Simons,43
+Platte,FSB Conference Center 1-4,Secretary of State,,DEM,Write-ins,1
+Platte,FSB Conference Center 1-4,Secretary of State,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,Secretary of State,,DEM,Under Votes,17
+Platte,FSB Conference Center 1-4,State Auditor,,REP,Bruce Brown,94
+Platte,FSB Conference Center 1-4,State Auditor,,REP,Cynthia Cloud,108
+Platte,FSB Conference Center 1-4,State Auditor,,REP,Write-ins,0
+Platte,FSB Conference Center 1-4,State Auditor,,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,State Auditor,,REP,Under Votes,21
+Platte,FSB Conference Center 1-4,State Auditor,,DEM,Write-ins,1
+Platte,FSB Conference Center 1-4,State Auditor,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,State Auditor,,DEM,Under Votes,60
+Platte,FSB Conference Center 1-4,State Treasurer,,REP,Joe Meyer,192
+Platte,FSB Conference Center 1-4,State Treasurer,,REP,Write-ins,1
+Platte,FSB Conference Center 1-4,State Treasurer,,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,State Treasurer,,REP,Under Votes,30
+Platte,FSB Conference Center 1-4,State Treasurer,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-4,State Treasurer,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,State Treasurer,,DEM,Under Votes,61
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,REP,Cindy Hill,104
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,REP,Jim McBride,54
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,REP,Ted Adams,27
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,REP,Trent Blankenship,23
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,REP,Under Votes,15
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,DEM,Mike Massie,42
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,DEM,Write-ins,3
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,Superintendent of Public Instruction,,DEM,Under Votes,16
+Platte,FSB Conference Center 1-4,State House,3,REP,Frank Peasley,196
+Platte,FSB Conference Center 1-4,State House,3,REP,Write-ins,1
+Platte,FSB Conference Center 1-4,State House,3,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,State House,3,REP,Under Votes,26
+Platte,FSB Conference Center 1-4,State House,3,DEM,Write-ins,1
+Platte,FSB Conference Center 1-4,State House,3,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,State House,3,DEM,Under Votes,60
+Platte,FSB Conference Center 1-4,Ballots Cast,,REP,Ballots Cast,223
+Platte,FSB Conference Center 1-4,Ballots Cast,,DEM,Ballots Cast,61
+Platte,FSB Conference Center 1-4,Ballots Cast,,NP,Ballots Cast,13
+Platte,FSB Conference Center 1-4,Ballots Cast,,,Ballots Cast,297
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,REP,Cynthia M. Lummis,245
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,REP,Evan Liam Slafter,62
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,REP,Under Votes,17
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,DEM,David Wendt,147
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,DEM,Write-ins,1
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,U.S. House,,DEM,Under Votes,27
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Alan Kousoulos,1
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Colin Simpson,36
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,John H. Self,1
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Matt Mead,117
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Rita Meyer,98
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Ron Micheli,60
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Tom A Ubben,4
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,Governor,,REP,Under Votes,7
+Platte,FSB Conference Center Guernsey 2-1,Governor,,DEM,Al Hamburg,14
+Platte,FSB Conference Center Guernsey 2-1,Governor,,DEM,Chris L. Zachary,13
+Platte,FSB Conference Center Guernsey 2-1,Governor,,DEM,Leslie Petersen,69
+Platte,FSB Conference Center Guernsey 2-1,Governor,,DEM,Pete Gosar,54
+Platte,FSB Conference Center Guernsey 2-1,Governor,,DEM,Rex Wilde,10
+Platte,FSB Conference Center Guernsey 2-1,Governor,,DEM,Write-ins,1
+Platte,FSB Conference Center Guernsey 2-1,Governor,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,Governor,,DEM,Under Votes,14
+Platte,FSB Conference Center Guernsey 2-1,Secretary of State,,REP,Max Maxfield,293
+Platte,FSB Conference Center Guernsey 2-1,Secretary of State,,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 2-1,Secretary of State,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,Secretary of State,,REP,Under Votes,31
+Platte,FSB Conference Center Guernsey 2-1,Secretary of State,,DEM,Andrew Simons,151
+Platte,FSB Conference Center Guernsey 2-1,Secretary of State,,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 2-1,Secretary of State,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,Secretary of State,,DEM,Under Votes,24
+Platte,FSB Conference Center Guernsey 2-1,State Auditor,,REP,Bruce Brown,162
+Platte,FSB Conference Center Guernsey 2-1,State Auditor,,REP,Cynthia Cloud,138
+Platte,FSB Conference Center Guernsey 2-1,State Auditor,,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 2-1,State Auditor,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,State Auditor,,REP,Under Votes,24
+Platte,FSB Conference Center Guernsey 2-1,State Auditor,,DEM,Write-ins,3
+Platte,FSB Conference Center Guernsey 2-1,State Auditor,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,State Auditor,,DEM,Under Votes,172
+Platte,FSB Conference Center Guernsey 2-1,State Treasurer,,REP,Joe Meyer,288
+Platte,FSB Conference Center Guernsey 2-1,State Treasurer,,REP,Write-ins,1
+Platte,FSB Conference Center Guernsey 2-1,State Treasurer,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,State Treasurer,,REP,Under Votes,35
+Platte,FSB Conference Center Guernsey 2-1,State Treasurer,,DEM,Write-ins,3
+Platte,FSB Conference Center Guernsey 2-1,State Treasurer,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,State Treasurer,,DEM,Under Votes,172
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,REP,Cindy Hill,153
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,REP,Jim McBride,89
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,REP,Ted Adams,30
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,REP,Trent Blankenship,31
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,REP,Write-ins,3
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,REP,Under Votes,18
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,DEM,Mike Massie,148
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,DEM,Write-ins,2
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,Superintendent of Public Instruction,,DEM,Under Votes,25
+Platte,FSB Conference Center Guernsey 2-1,State Senate,3,REP,Cheri E. Steinmetz,150
+Platte,FSB Conference Center Guernsey 2-1,State Senate,3,REP,Curt Meier,163
+Platte,FSB Conference Center Guernsey 2-1,State Senate,3,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 2-1,State Senate,3,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,State Senate,3,REP,Under Votes,11
+Platte,FSB Conference Center Guernsey 2-1,State Senate,3,DEM,Write-ins,2
+Platte,FSB Conference Center Guernsey 2-1,State Senate,3,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,State Senate,3,DEM,Under Votes,173
+Platte,FSB Conference Center Guernsey 2-1,State House,5,REP,Matt Teeters,285
+Platte,FSB Conference Center Guernsey 2-1,State House,5,REP,Write-ins,4
+Platte,FSB Conference Center Guernsey 2-1,State House,5,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,State House,5,REP,Under Votes,35
+Platte,FSB Conference Center Guernsey 2-1,State House,5,DEM,Write-ins,2
+Platte,FSB Conference Center Guernsey 2-1,State House,5,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 2-1,State House,5,DEM,Under Votes,173
+Platte,FSB Conference Center Guernsey 2-1,Ballots Cast,,REP,Ballots Cast,324
+Platte,FSB Conference Center Guernsey 2-1,Ballots Cast,,DEM,Ballots Cast,175
+Platte,FSB Conference Center Guernsey 2-1,Ballots Cast,,NP,Ballots Cast,16
+Platte,FSB Conference Center Guernsey 2-1,Ballots Cast,,,Ballots Cast,515
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,REP,Cynthia M. Lummis,25
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,REP,Evan Liam Slafter,6
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,REP,Under Votes,2
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,DEM,David Wendt,11
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,U.S. House,,DEM,Under Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Alan Kousoulos,0
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Colin Simpson,2
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,John H. Self,0
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Matt Mead,8
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Rita Meyer,12
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Ron Micheli,7
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Tom A Ubben,0
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Write-ins,4
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Governor,,REP,Under Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Governor,,DEM,Al Hamburg,1
+Platte,FSB Conference Center Guernsey 3-1,Governor,,DEM,Chris L. Zachary,1
+Platte,FSB Conference Center Guernsey 3-1,Governor,,DEM,Leslie Petersen,4
+Platte,FSB Conference Center Guernsey 3-1,Governor,,DEM,Pete Gosar,3
+Platte,FSB Conference Center Guernsey 3-1,Governor,,DEM,Rex Wilde,2
+Platte,FSB Conference Center Guernsey 3-1,Governor,,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,Governor,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Governor,,DEM,Under Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Secretary of State,,REP,Max Maxfield,26
+Platte,FSB Conference Center Guernsey 3-1,Secretary of State,,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,Secretary of State,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Secretary of State,,REP,Under Votes,7
+Platte,FSB Conference Center Guernsey 3-1,Secretary of State,,DEM,Andrew Simons,10
+Platte,FSB Conference Center Guernsey 3-1,Secretary of State,,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,Secretary of State,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Secretary of State,,DEM,Under Votes,1
+Platte,FSB Conference Center Guernsey 3-1,State Auditor,,REP,Bruce Brown,14
+Platte,FSB Conference Center Guernsey 3-1,State Auditor,,REP,Cynthia Cloud,14
+Platte,FSB Conference Center Guernsey 3-1,State Auditor,,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,State Auditor,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State Auditor,,REP,Under Votes,5
+Platte,FSB Conference Center Guernsey 3-1,State Auditor,,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,State Auditor,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State Auditor,,DEM,Under Votes,11
+Platte,FSB Conference Center Guernsey 3-1,State Treasurer,,REP,Joe Meyer,26
+Platte,FSB Conference Center Guernsey 3-1,State Treasurer,,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,State Treasurer,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State Treasurer,,REP,Under Votes,7
+Platte,FSB Conference Center Guernsey 3-1,State Treasurer,,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,State Treasurer,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State Treasurer,,DEM,Under Votes,11
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,REP,Cindy Hill,12
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,REP,Jim McBride,9
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,REP,Ted Adams,4
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,REP,Trent Blankenship,4
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,REP,Under Votes,3
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,DEM,Mike Massie,11
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State Senate,3,REP,Cheri E. Steinmetz,16
+Platte,FSB Conference Center Guernsey 3-1,State Senate,3,REP,Curt Meier,15
+Platte,FSB Conference Center Guernsey 3-1,State Senate,3,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,State Senate,3,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State Senate,3,REP,Under Votes,2
+Platte,FSB Conference Center Guernsey 3-1,State Senate,3,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,State Senate,3,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State Senate,3,DEM,Under Votes,11
+Platte,FSB Conference Center Guernsey 3-1,State House,5,REP,Matt Teeters,24
+Platte,FSB Conference Center Guernsey 3-1,State House,5,REP,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,State House,5,REP,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State House,5,REP,Under Votes,9
+Platte,FSB Conference Center Guernsey 3-1,State House,5,DEM,Write-ins,0
+Platte,FSB Conference Center Guernsey 3-1,State House,5,DEM,Over Votes,0
+Platte,FSB Conference Center Guernsey 3-1,State House,5,DEM,Under Votes,11
+Platte,FSB Conference Center Guernsey 3-1,Ballots Cast,,REP,Ballots Cast,33
+Platte,FSB Conference Center Guernsey 3-1,Ballots Cast,,DEM,Ballots Cast,11
+Platte,FSB Conference Center Guernsey 3-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,FSB Conference Center Guernsey 3-1,Ballots Cast,,,Ballots Cast,44
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Cynthia M. Lummis,78
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Evan Liam Slafter,18
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Under Votes,5
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,David Wendt,30
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Under Votes,2
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Alan Kousoulos,0
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Colin Simpson,7
+Platte,Glendo Fire Hall 6-1,Governor,,REP,John H. Self,0
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Matt Mead,43
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Rita Meyer,26
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Ron Micheli,22
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Tom A Ubben,1
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Over Votes,1
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Under Votes,1
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Al Hamburg,3
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Chris L. Zachary,2
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Leslie Petersen,11
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Pete Gosar,12
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Rex Wilde,3
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Under Votes,1
+Platte,Glendo Fire Hall 6-1,Secretary of State,,REP,Max Maxfield,85
+Platte,Glendo Fire Hall 6-1,Secretary of State,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-1,Secretary of State,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,Secretary of State,,REP,Under Votes,16
+Platte,Glendo Fire Hall 6-1,Secretary of State,,DEM,Andrew Simons,28
+Platte,Glendo Fire Hall 6-1,Secretary of State,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,Secretary of State,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,Secretary of State,,DEM,Under Votes,4
+Platte,Glendo Fire Hall 6-1,State Auditor,,REP,Bruce Brown,42
+Platte,Glendo Fire Hall 6-1,State Auditor,,REP,Cynthia Cloud,46
+Platte,Glendo Fire Hall 6-1,State Auditor,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-1,State Auditor,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State Auditor,,REP,Under Votes,13
+Platte,Glendo Fire Hall 6-1,State Auditor,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,State Auditor,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State Auditor,,DEM,Under Votes,32
+Platte,Glendo Fire Hall 6-1,State Treasurer,,REP,Joe Meyer,89
+Platte,Glendo Fire Hall 6-1,State Treasurer,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-1,State Treasurer,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State Treasurer,,REP,Under Votes,12
+Platte,Glendo Fire Hall 6-1,State Treasurer,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,State Treasurer,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State Treasurer,,DEM,Under Votes,32
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Cindy Hill,40
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Jim McBride,29
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Ted Adams,3
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Trent Blankenship,20
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Under Votes,9
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,DEM,Mike Massie,27
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,DEM,Under Votes,5
+Platte,Glendo Fire Hall 6-1,State House,3,REP,Frank Peasley,82
+Platte,Glendo Fire Hall 6-1,State House,3,REP,Write-ins,1
+Platte,Glendo Fire Hall 6-1,State House,3,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State House,3,REP,Under Votes,18
+Platte,Glendo Fire Hall 6-1,State House,3,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,State House,3,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State House,3,DEM,Under Votes,32
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,REP,Ballots Cast,101
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,DEM,Ballots Cast,32
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,,Ballots Cast,133
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Cynthia M. Lummis,64
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Evan Liam Slafter,14
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Over Votes,1
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Under Votes,3
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,David Wendt,10
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Under Votes,4
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Alan Kousoulos,0
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Colin Simpson,3
+Platte,Glendo Fire Hall 6-2,Governor,,REP,John H. Self,0
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Matt Mead,30
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Rita Meyer,15
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Ron Micheli,33
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Tom A Ubben,0
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Under Votes,1
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Al Hamburg,0
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Chris L. Zachary,2
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Leslie Petersen,10
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Pete Gosar,1
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Rex Wilde,0
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Under Votes,1
+Platte,Glendo Fire Hall 6-2,Secretary of State,,REP,Max Maxfield,71
+Platte,Glendo Fire Hall 6-2,Secretary of State,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-2,Secretary of State,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,Secretary of State,,REP,Under Votes,11
+Platte,Glendo Fire Hall 6-2,Secretary of State,,DEM,Andrew Simons,12
+Platte,Glendo Fire Hall 6-2,Secretary of State,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,Secretary of State,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,Secretary of State,,DEM,Under Votes,2
+Platte,Glendo Fire Hall 6-2,State Auditor,,REP,Bruce Brown,39
+Platte,Glendo Fire Hall 6-2,State Auditor,,REP,Cynthia Cloud,33
+Platte,Glendo Fire Hall 6-2,State Auditor,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State Auditor,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State Auditor,,REP,Under Votes,10
+Platte,Glendo Fire Hall 6-2,State Auditor,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State Auditor,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State Auditor,,DEM,Under Votes,14
+Platte,Glendo Fire Hall 6-2,State Treasurer,,REP,Joe Meyer,72
+Platte,Glendo Fire Hall 6-2,State Treasurer,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State Treasurer,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State Treasurer,,REP,Under Votes,10
+Platte,Glendo Fire Hall 6-2,State Treasurer,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State Treasurer,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State Treasurer,,DEM,Under Votes,14
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Cindy Hill,40
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Jim McBride,19
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Ted Adams,4
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Trent Blankenship,11
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Under Votes,8
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,DEM,Mike Massie,12
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,DEM,Under Votes,2
+Platte,Glendo Fire Hall 6-2,State Senate,3,REP,Cheri E. Steinmetz,27
+Platte,Glendo Fire Hall 6-2,State Senate,3,REP,Curt Meier,46
+Platte,Glendo Fire Hall 6-2,State Senate,3,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State Senate,3,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State Senate,3,REP,Under Votes,9
+Platte,Glendo Fire Hall 6-2,State Senate,3,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State Senate,3,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State Senate,3,DEM,Under Votes,14
+Platte,Glendo Fire Hall 6-2,State House,5,REP,Matt Teeters,63
+Platte,Glendo Fire Hall 6-2,State House,5,REP,Write-ins,1
+Platte,Glendo Fire Hall 6-2,State House,5,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State House,5,REP,Under Votes,18
+Platte,Glendo Fire Hall 6-2,State House,5,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State House,5,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State House,5,DEM,Under Votes,14
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,REP,Ballots Cast,82
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,DEM,Ballots Cast,14
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,NP,Ballots Cast,0
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,,Ballots Cast,96

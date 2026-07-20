@@ -1,0 +1,521 @@
+county,precinct,office,district,party,candidate,votes
+Platte,4-H Building 1-6,U.S. Senate,,REP,Emmett A. Mavy,13
+Platte,4-H Building 1-6,U.S. Senate,,REP,John Barrasso,257
+Platte,4-H Building 1-6,U.S. Senate,,REP,Thomas Bleming,24
+Platte,4-H Building 1-6,U.S. Senate,,REP,Write-ins,0
+Platte,4-H Building 1-6,U.S. Senate,,REP,Over Votes,0
+Platte,4-H Building 1-6,U.S. Senate,,REP,Under Votes,6
+Platte,4-H Building 1-6,U.S. Senate,,DEM,Al Hamburg,14
+Platte,4-H Building 1-6,U.S. Senate,,DEM,Tim Chesnut,23
+Platte,4-H Building 1-6,U.S. Senate,,DEM,William Bryk,6
+Platte,4-H Building 1-6,U.S. Senate,,DEM,Write-ins,0
+Platte,4-H Building 1-6,U.S. Senate,,DEM,Over Votes,0
+Platte,4-H Building 1-6,U.S. Senate,,DEM,Under Votes,6
+Platte,4-H Building 1-6,U.S. House,,REP,Cynthia M. Lummis,266
+Platte,4-H Building 1-6,U.S. House,,REP,Write-ins,3
+Platte,4-H Building 1-6,U.S. House,,REP,Over Votes,0
+Platte,4-H Building 1-6,U.S. House,,REP,Under Votes,31
+Platte,4-H Building 1-6,U.S. House,,DEM,Chris Henrichsen,45
+Platte,4-H Building 1-6,U.S. House,,DEM,Write-ins,0
+Platte,4-H Building 1-6,U.S. House,,DEM,Over Votes,0
+Platte,4-H Building 1-6,U.S. House,,DEM,Under Votes,4
+Platte,4-H Building 1-6,State Senate,2,REP,Jim Anderson,247
+Platte,4-H Building 1-6,State Senate,2,REP,Write-ins,0
+Platte,4-H Building 1-6,State Senate,2,REP,Over Votes,0
+Platte,4-H Building 1-6,State Senate,2,REP,Under Votes,53
+Platte,4-H Building 1-6,State Senate,2,DEM,Write-ins,3
+Platte,4-H Building 1-6,State Senate,2,DEM,Over Votes,0
+Platte,4-H Building 1-6,State Senate,2,DEM,Under Votes,46
+Platte,4-H Building 1-6,State House,4,REP,Dan R. Kirkbride,94
+Platte,4-H Building 1-6,State House,4,REP,Kerry Powers,109
+Platte,4-H Building 1-6,State House,4,REP,Larry Cundall,90
+Platte,4-H Building 1-6,State House,4,REP,Write-ins,0
+Platte,4-H Building 1-6,State House,4,REP,Over Votes,0
+Platte,4-H Building 1-6,State House,4,REP,Under Votes,7
+Platte,4-H Building 1-6,State House,4,DEM,Write-ins,1
+Platte,4-H Building 1-6,State House,4,DEM,Over Votes,0
+Platte,4-H Building 1-6,State House,4,DEM,Under Votes,48
+Platte,4-H Building 1-6,Ballots Cast,,REP,Ballots Cast,300
+Platte,4-H Building 1-6,Ballots Cast,,DEM,Ballots Cast,49
+Platte,4-H Building 1-6,Ballots Cast,,NP,Ballots Cast,14
+Platte,4-H Building 1-6,Ballots Cast,,,Ballots Cast,363
+Platte,4-H Building 12-1,U.S. Senate,,REP,Emmett A. Mavy,15
+Platte,4-H Building 12-1,U.S. Senate,,REP,John Barrasso,240
+Platte,4-H Building 12-1,U.S. Senate,,REP,Thomas Bleming,21
+Platte,4-H Building 12-1,U.S. Senate,,REP,Write-ins,2
+Platte,4-H Building 12-1,U.S. Senate,,REP,Over Votes,0
+Platte,4-H Building 12-1,U.S. Senate,,REP,Under Votes,7
+Platte,4-H Building 12-1,U.S. Senate,,DEM,Al Hamburg,10
+Platte,4-H Building 12-1,U.S. Senate,,DEM,Tim Chesnut,13
+Platte,4-H Building 12-1,U.S. Senate,,DEM,William Bryk,6
+Platte,4-H Building 12-1,U.S. Senate,,DEM,Write-ins,0
+Platte,4-H Building 12-1,U.S. Senate,,DEM,Over Votes,0
+Platte,4-H Building 12-1,U.S. Senate,,DEM,Under Votes,7
+Platte,4-H Building 12-1,U.S. House,,REP,Cynthia M. Lummis,255
+Platte,4-H Building 12-1,U.S. House,,REP,Write-ins,6
+Platte,4-H Building 12-1,U.S. House,,REP,Over Votes,0
+Platte,4-H Building 12-1,U.S. House,,REP,Under Votes,24
+Platte,4-H Building 12-1,U.S. House,,DEM,Chris Henrichsen,30
+Platte,4-H Building 12-1,U.S. House,,DEM,Write-ins,0
+Platte,4-H Building 12-1,U.S. House,,DEM,Over Votes,0
+Platte,4-H Building 12-1,U.S. House,,DEM,Under Votes,6
+Platte,4-H Building 12-1,State Senate,2,REP,Jim Anderson,251
+Platte,4-H Building 12-1,State Senate,2,REP,Write-ins,1
+Platte,4-H Building 12-1,State Senate,2,REP,Over Votes,0
+Platte,4-H Building 12-1,State Senate,2,REP,Under Votes,33
+Platte,4-H Building 12-1,State Senate,2,DEM,Write-ins,3
+Platte,4-H Building 12-1,State Senate,2,DEM,Over Votes,0
+Platte,4-H Building 12-1,State Senate,2,DEM,Under Votes,33
+Platte,4-H Building 12-1,State House,4,REP,Dan R. Kirkbride,85
+Platte,4-H Building 12-1,State House,4,REP,Kerry Powers,118
+Platte,4-H Building 12-1,State House,4,REP,Larry Cundall,78
+Platte,4-H Building 12-1,State House,4,REP,Write-ins,1
+Platte,4-H Building 12-1,State House,4,REP,Over Votes,1
+Platte,4-H Building 12-1,State House,4,REP,Under Votes,2
+Platte,4-H Building 12-1,State House,4,DEM,Write-ins,3
+Platte,4-H Building 12-1,State House,4,DEM,Over Votes,0
+Platte,4-H Building 12-1,State House,4,DEM,Under Votes,33
+Platte,4-H Building 12-1,Ballots Cast,,REP,Ballots Cast,285
+Platte,4-H Building 12-1,Ballots Cast,,DEM,Ballots Cast,36
+Platte,4-H Building 12-1,Ballots Cast,,NP,Ballots Cast,15
+Platte,4-H Building 12-1,Ballots Cast,,,Ballots Cast,336
+Platte,4-H Building 20-1,U.S. Senate,,REP,Emmett A. Mavy,6
+Platte,4-H Building 20-1,U.S. Senate,,REP,John Barrasso,175
+Platte,4-H Building 20-1,U.S. Senate,,REP,Thomas Bleming,11
+Platte,4-H Building 20-1,U.S. Senate,,REP,Write-ins,1
+Platte,4-H Building 20-1,U.S. Senate,,REP,Over Votes,1
+Platte,4-H Building 20-1,U.S. Senate,,REP,Under Votes,6
+Platte,4-H Building 20-1,U.S. Senate,,DEM,Al Hamburg,5
+Platte,4-H Building 20-1,U.S. Senate,,DEM,Tim Chesnut,7
+Platte,4-H Building 20-1,U.S. Senate,,DEM,William Bryk,6
+Platte,4-H Building 20-1,U.S. Senate,,DEM,Write-ins,0
+Platte,4-H Building 20-1,U.S. Senate,,DEM,Over Votes,0
+Platte,4-H Building 20-1,U.S. Senate,,DEM,Under Votes,5
+Platte,4-H Building 20-1,U.S. House,,REP,Cynthia M. Lummis,175
+Platte,4-H Building 20-1,U.S. House,,REP,Write-ins,6
+Platte,4-H Building 20-1,U.S. House,,REP,Over Votes,0
+Platte,4-H Building 20-1,U.S. House,,REP,Under Votes,19
+Platte,4-H Building 20-1,U.S. House,,DEM,Chris Henrichsen,21
+Platte,4-H Building 20-1,U.S. House,,DEM,Write-ins,0
+Platte,4-H Building 20-1,U.S. House,,DEM,Over Votes,0
+Platte,4-H Building 20-1,U.S. House,,DEM,Under Votes,2
+Platte,4-H Building 20-1,State Senate,2,REP,Jim Anderson,168
+Platte,4-H Building 20-1,State Senate,2,REP,Write-ins,3
+Platte,4-H Building 20-1,State Senate,2,REP,Over Votes,0
+Platte,4-H Building 20-1,State Senate,2,REP,Under Votes,29
+Platte,4-H Building 20-1,State Senate,2,DEM,Write-ins,3
+Platte,4-H Building 20-1,State Senate,2,DEM,Over Votes,0
+Platte,4-H Building 20-1,State Senate,2,DEM,Under Votes,20
+Platte,4-H Building 20-1,State House,4,REP,Dan R. Kirkbride,57
+Platte,4-H Building 20-1,State House,4,REP,Kerry Powers,83
+Platte,4-H Building 20-1,State House,4,REP,Larry Cundall,56
+Platte,4-H Building 20-1,State House,4,REP,Write-ins,0
+Platte,4-H Building 20-1,State House,4,REP,Over Votes,1
+Platte,4-H Building 20-1,State House,4,REP,Under Votes,3
+Platte,4-H Building 20-1,State House,4,DEM,Write-ins,1
+Platte,4-H Building 20-1,State House,4,DEM,Over Votes,0
+Platte,4-H Building 20-1,State House,4,DEM,Under Votes,22
+Platte,4-H Building 20-1,Ballots Cast,,REP,Ballots Cast,200
+Platte,4-H Building 20-1,Ballots Cast,,DEM,Ballots Cast,23
+Platte,4-H Building 20-1,Ballots Cast,,NP,Ballots Cast,8
+Platte,4-H Building 20-1,Ballots Cast,,,Ballots Cast,231
+Platte,Chugwater Community Center 10-1,U.S. Senate,,REP,Emmett A. Mavy,3
+Platte,Chugwater Community Center 10-1,U.S. Senate,,REP,John Barrasso,92
+Platte,Chugwater Community Center 10-1,U.S. Senate,,REP,Thomas Bleming,7
+Platte,Chugwater Community Center 10-1,U.S. Senate,,REP,Write-ins,1
+Platte,Chugwater Community Center 10-1,U.S. Senate,,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,U.S. Senate,,REP,Under Votes,1
+Platte,Chugwater Community Center 10-1,U.S. Senate,,DEM,Al Hamburg,2
+Platte,Chugwater Community Center 10-1,U.S. Senate,,DEM,Tim Chesnut,6
+Platte,Chugwater Community Center 10-1,U.S. Senate,,DEM,William Bryk,3
+Platte,Chugwater Community Center 10-1,U.S. Senate,,DEM,Write-ins,0
+Platte,Chugwater Community Center 10-1,U.S. Senate,,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,U.S. Senate,,DEM,Under Votes,4
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Cynthia M. Lummis,97
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Write-ins,2
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,U.S. House,,REP,Under Votes,5
+Platte,Chugwater Community Center 10-1,U.S. House,,DEM,Chris Henrichsen,12
+Platte,Chugwater Community Center 10-1,U.S. House,,DEM,Write-ins,0
+Platte,Chugwater Community Center 10-1,U.S. House,,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,U.S. House,,DEM,Under Votes,3
+Platte,Chugwater Community Center 10-1,State Senate,2,REP,Jim Anderson,97
+Platte,Chugwater Community Center 10-1,State Senate,2,REP,Write-ins,1
+Platte,Chugwater Community Center 10-1,State Senate,2,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,State Senate,2,REP,Under Votes,6
+Platte,Chugwater Community Center 10-1,State Senate,2,DEM,Write-ins,1
+Platte,Chugwater Community Center 10-1,State Senate,2,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,State Senate,2,DEM,Under Votes,14
+Platte,Chugwater Community Center 10-1,State House,4,REP,Dan R. Kirkbride,61
+Platte,Chugwater Community Center 10-1,State House,4,REP,Kerry Powers,23
+Platte,Chugwater Community Center 10-1,State House,4,REP,Larry Cundall,20
+Platte,Chugwater Community Center 10-1,State House,4,REP,Write-ins,0
+Platte,Chugwater Community Center 10-1,State House,4,REP,Over Votes,0
+Platte,Chugwater Community Center 10-1,State House,4,REP,Under Votes,0
+Platte,Chugwater Community Center 10-1,State House,4,DEM,Write-ins,5
+Platte,Chugwater Community Center 10-1,State House,4,DEM,Over Votes,0
+Platte,Chugwater Community Center 10-1,State House,4,DEM,Under Votes,10
+Platte,Chugwater Community Center 10-1,Ballots Cast,,REP,Ballots Cast,104
+Platte,Chugwater Community Center 10-1,Ballots Cast,,DEM,Ballots Cast,15
+Platte,Chugwater Community Center 10-1,Ballots Cast,,NP,Ballots Cast,8
+Platte,Chugwater Community Center 10-1,Ballots Cast,,,Ballots Cast,127
+Platte,Chugwater Community Center 9-1,U.S. Senate,,REP,Emmett A. Mavy,0
+Platte,Chugwater Community Center 9-1,U.S. Senate,,REP,John Barrasso,45
+Platte,Chugwater Community Center 9-1,U.S. Senate,,REP,Thomas Bleming,1
+Platte,Chugwater Community Center 9-1,U.S. Senate,,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,U.S. Senate,,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,U.S. Senate,,REP,Under Votes,0
+Platte,Chugwater Community Center 9-1,U.S. Senate,,DEM,Al Hamburg,2
+Platte,Chugwater Community Center 9-1,U.S. Senate,,DEM,Tim Chesnut,3
+Platte,Chugwater Community Center 9-1,U.S. Senate,,DEM,William Bryk,2
+Platte,Chugwater Community Center 9-1,U.S. Senate,,DEM,Write-ins,1
+Platte,Chugwater Community Center 9-1,U.S. Senate,,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,U.S. Senate,,DEM,Under Votes,3
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Cynthia M. Lummis,45
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,U.S. House,,REP,Under Votes,1
+Platte,Chugwater Community Center 9-1,U.S. House,,DEM,Chris Henrichsen,6
+Platte,Chugwater Community Center 9-1,U.S. House,,DEM,Write-ins,1
+Platte,Chugwater Community Center 9-1,U.S. House,,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,U.S. House,,DEM,Under Votes,4
+Platte,Chugwater Community Center 9-1,State Senate,2,REP,Jim Anderson,45
+Platte,Chugwater Community Center 9-1,State Senate,2,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,State Senate,2,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,State Senate,2,REP,Under Votes,1
+Platte,Chugwater Community Center 9-1,State Senate,2,DEM,Write-ins,1
+Platte,Chugwater Community Center 9-1,State Senate,2,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,State Senate,2,DEM,Under Votes,10
+Platte,Chugwater Community Center 9-1,State House,4,REP,Dan R. Kirkbride,10
+Platte,Chugwater Community Center 9-1,State House,4,REP,Kerry Powers,16
+Platte,Chugwater Community Center 9-1,State House,4,REP,Larry Cundall,20
+Platte,Chugwater Community Center 9-1,State House,4,REP,Write-ins,0
+Platte,Chugwater Community Center 9-1,State House,4,REP,Over Votes,0
+Platte,Chugwater Community Center 9-1,State House,4,REP,Under Votes,0
+Platte,Chugwater Community Center 9-1,State House,4,DEM,Write-ins,1
+Platte,Chugwater Community Center 9-1,State House,4,DEM,Over Votes,0
+Platte,Chugwater Community Center 9-1,State House,4,DEM,Under Votes,10
+Platte,Chugwater Community Center 9-1,Ballots Cast,,REP,Ballots Cast,46
+Platte,Chugwater Community Center 9-1,Ballots Cast,,DEM,Ballots Cast,11
+Platte,Chugwater Community Center 9-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,Chugwater Community Center 9-1,Ballots Cast,,,Ballots Cast,57
+Platte,FSB Conference Center 1-1,U.S. Senate,,REP,Emmett A. Mavy,2
+Platte,FSB Conference Center 1-1,U.S. Senate,,REP,John Barrasso,162
+Platte,FSB Conference Center 1-1,U.S. Senate,,REP,Thomas Bleming,13
+Platte,FSB Conference Center 1-1,U.S. Senate,,REP,Write-ins,2
+Platte,FSB Conference Center 1-1,U.S. Senate,,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,U.S. Senate,,REP,Under Votes,4
+Platte,FSB Conference Center 1-1,U.S. Senate,,DEM,Al Hamburg,9
+Platte,FSB Conference Center 1-1,U.S. Senate,,DEM,Tim Chesnut,17
+Platte,FSB Conference Center 1-1,U.S. Senate,,DEM,William Bryk,13
+Platte,FSB Conference Center 1-1,U.S. Senate,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-1,U.S. Senate,,DEM,Over Votes,1
+Platte,FSB Conference Center 1-1,U.S. Senate,,DEM,Under Votes,8
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Cynthia M. Lummis,162
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Write-ins,6
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,U.S. House,,REP,Under Votes,15
+Platte,FSB Conference Center 1-1,U.S. House,,DEM,Chris Henrichsen,42
+Platte,FSB Conference Center 1-1,U.S. House,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-1,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,U.S. House,,DEM,Under Votes,6
+Platte,FSB Conference Center 1-1,State Senate,2,REP,Jim Anderson,160
+Platte,FSB Conference Center 1-1,State Senate,2,REP,Write-ins,0
+Platte,FSB Conference Center 1-1,State Senate,2,REP,Over Votes,0
+Platte,FSB Conference Center 1-1,State Senate,2,REP,Under Votes,23
+Platte,FSB Conference Center 1-1,State Senate,2,DEM,Write-ins,4
+Platte,FSB Conference Center 1-1,State Senate,2,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,State Senate,2,DEM,Under Votes,44
+Platte,FSB Conference Center 1-1,State House,4,REP,Dan R. Kirkbride,72
+Platte,FSB Conference Center 1-1,State House,4,REP,Kerry Powers,59
+Platte,FSB Conference Center 1-1,State House,4,REP,Larry Cundall,48
+Platte,FSB Conference Center 1-1,State House,4,REP,Write-ins,0
+Platte,FSB Conference Center 1-1,State House,4,REP,Over Votes,1
+Platte,FSB Conference Center 1-1,State House,4,REP,Under Votes,3
+Platte,FSB Conference Center 1-1,State House,4,DEM,Write-ins,3
+Platte,FSB Conference Center 1-1,State House,4,DEM,Over Votes,0
+Platte,FSB Conference Center 1-1,State House,4,DEM,Under Votes,45
+Platte,FSB Conference Center 1-1,Ballots Cast,,REP,Ballots Cast,183
+Platte,FSB Conference Center 1-1,Ballots Cast,,DEM,Ballots Cast,48
+Platte,FSB Conference Center 1-1,Ballots Cast,,NP,Ballots Cast,8
+Platte,FSB Conference Center 1-1,Ballots Cast,,,Ballots Cast,239
+Platte,FSB Conference Center 1-2,U.S. Senate,,REP,Emmett A. Mavy,10
+Platte,FSB Conference Center 1-2,U.S. Senate,,REP,John Barrasso,159
+Platte,FSB Conference Center 1-2,U.S. Senate,,REP,Thomas Bleming,11
+Platte,FSB Conference Center 1-2,U.S. Senate,,REP,Write-ins,1
+Platte,FSB Conference Center 1-2,U.S. Senate,,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,U.S. Senate,,REP,Under Votes,14
+Platte,FSB Conference Center 1-2,U.S. Senate,,DEM,Al Hamburg,8
+Platte,FSB Conference Center 1-2,U.S. Senate,,DEM,Tim Chesnut,13
+Platte,FSB Conference Center 1-2,U.S. Senate,,DEM,William Bryk,6
+Platte,FSB Conference Center 1-2,U.S. Senate,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-2,U.S. Senate,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,U.S. Senate,,DEM,Under Votes,4
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Cynthia M. Lummis,166
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Write-ins,2
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,U.S. House,,REP,Under Votes,27
+Platte,FSB Conference Center 1-2,U.S. House,,DEM,Chris Henrichsen,25
+Platte,FSB Conference Center 1-2,U.S. House,,DEM,Write-ins,1
+Platte,FSB Conference Center 1-2,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,U.S. House,,DEM,Under Votes,5
+Platte,FSB Conference Center 1-2,State Senate,2,REP,Jim Anderson,166
+Platte,FSB Conference Center 1-2,State Senate,2,REP,Write-ins,0
+Platte,FSB Conference Center 1-2,State Senate,2,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,State Senate,2,REP,Under Votes,29
+Platte,FSB Conference Center 1-2,State Senate,2,DEM,Write-ins,3
+Platte,FSB Conference Center 1-2,State Senate,2,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,State Senate,2,DEM,Under Votes,28
+Platte,FSB Conference Center 1-2,State House,4,REP,Dan R. Kirkbride,114
+Platte,FSB Conference Center 1-2,State House,4,REP,Kerry Powers,45
+Platte,FSB Conference Center 1-2,State House,4,REP,Larry Cundall,31
+Platte,FSB Conference Center 1-2,State House,4,REP,Write-ins,0
+Platte,FSB Conference Center 1-2,State House,4,REP,Over Votes,0
+Platte,FSB Conference Center 1-2,State House,4,REP,Under Votes,5
+Platte,FSB Conference Center 1-2,State House,4,DEM,Write-ins,2
+Platte,FSB Conference Center 1-2,State House,4,DEM,Over Votes,0
+Platte,FSB Conference Center 1-2,State House,4,DEM,Under Votes,29
+Platte,FSB Conference Center 1-2,Ballots Cast,,REP,Ballots Cast,195
+Platte,FSB Conference Center 1-2,Ballots Cast,,DEM,Ballots Cast,31
+Platte,FSB Conference Center 1-2,Ballots Cast,,NP,Ballots Cast,12
+Platte,FSB Conference Center 1-2,Ballots Cast,,,Ballots Cast,238
+Platte,FSB Conference Center 1-3,U.S. Senate,,REP,Emmett A. Mavy,8
+Platte,FSB Conference Center 1-3,U.S. Senate,,REP,John Barrasso,243
+Platte,FSB Conference Center 1-3,U.S. Senate,,REP,Thomas Bleming,30
+Platte,FSB Conference Center 1-3,U.S. Senate,,REP,Write-ins,1
+Platte,FSB Conference Center 1-3,U.S. Senate,,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,U.S. Senate,,REP,Under Votes,9
+Platte,FSB Conference Center 1-3,U.S. Senate,,DEM,Al Hamburg,12
+Platte,FSB Conference Center 1-3,U.S. Senate,,DEM,Tim Chesnut,18
+Platte,FSB Conference Center 1-3,U.S. Senate,,DEM,William Bryk,20
+Platte,FSB Conference Center 1-3,U.S. Senate,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-3,U.S. Senate,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,U.S. Senate,,DEM,Under Votes,15
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Cynthia M. Lummis,259
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Write-ins,1
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,U.S. House,,REP,Under Votes,31
+Platte,FSB Conference Center 1-3,U.S. House,,DEM,Chris Henrichsen,49
+Platte,FSB Conference Center 1-3,U.S. House,,DEM,Write-ins,1
+Platte,FSB Conference Center 1-3,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,U.S. House,,DEM,Under Votes,15
+Platte,FSB Conference Center 1-3,State Senate,2,REP,Jim Anderson,257
+Platte,FSB Conference Center 1-3,State Senate,2,REP,Write-ins,1
+Platte,FSB Conference Center 1-3,State Senate,2,REP,Over Votes,0
+Platte,FSB Conference Center 1-3,State Senate,2,REP,Under Votes,33
+Platte,FSB Conference Center 1-3,State Senate,2,DEM,Write-ins,1
+Platte,FSB Conference Center 1-3,State Senate,2,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,State Senate,2,DEM,Under Votes,64
+Platte,FSB Conference Center 1-3,State House,4,REP,Dan R. Kirkbride,119
+Platte,FSB Conference Center 1-3,State House,4,REP,Kerry Powers,95
+Platte,FSB Conference Center 1-3,State House,4,REP,Larry Cundall,71
+Platte,FSB Conference Center 1-3,State House,4,REP,Write-ins,0
+Platte,FSB Conference Center 1-3,State House,4,REP,Over Votes,1
+Platte,FSB Conference Center 1-3,State House,4,REP,Under Votes,5
+Platte,FSB Conference Center 1-3,State House,4,DEM,Write-ins,0
+Platte,FSB Conference Center 1-3,State House,4,DEM,Over Votes,0
+Platte,FSB Conference Center 1-3,State House,4,DEM,Under Votes,65
+Platte,FSB Conference Center 1-3,Ballots Cast,,REP,Ballots Cast,291
+Platte,FSB Conference Center 1-3,Ballots Cast,,DEM,Ballots Cast,65
+Platte,FSB Conference Center 1-3,Ballots Cast,,NP,Ballots Cast,17
+Platte,FSB Conference Center 1-3,Ballots Cast,,,Ballots Cast,373
+Platte,FSB Conference Center 1-4,U.S. Senate,,REP,Emmett A. Mavy,8
+Platte,FSB Conference Center 1-4,U.S. Senate,,REP,John Barrasso,176
+Platte,FSB Conference Center 1-4,U.S. Senate,,REP,Thomas Bleming,17
+Platte,FSB Conference Center 1-4,U.S. Senate,,REP,Write-ins,1
+Platte,FSB Conference Center 1-4,U.S. Senate,,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,U.S. Senate,,REP,Under Votes,6
+Platte,FSB Conference Center 1-4,U.S. Senate,,DEM,Al Hamburg,10
+Platte,FSB Conference Center 1-4,U.S. Senate,,DEM,Tim Chesnut,23
+Platte,FSB Conference Center 1-4,U.S. Senate,,DEM,William Bryk,11
+Platte,FSB Conference Center 1-4,U.S. Senate,,DEM,Write-ins,0
+Platte,FSB Conference Center 1-4,U.S. Senate,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,U.S. Senate,,DEM,Under Votes,9
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Cynthia M. Lummis,180
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Write-ins,4
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,U.S. House,,REP,Under Votes,24
+Platte,FSB Conference Center 1-4,U.S. House,,DEM,Chris Henrichsen,39
+Platte,FSB Conference Center 1-4,U.S. House,,DEM,Write-ins,2
+Platte,FSB Conference Center 1-4,U.S. House,,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,U.S. House,,DEM,Under Votes,12
+Platte,FSB Conference Center 1-4,State Senate,2,REP,Jim Anderson,178
+Platte,FSB Conference Center 1-4,State Senate,2,REP,Write-ins,2
+Platte,FSB Conference Center 1-4,State Senate,2,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,State Senate,2,REP,Under Votes,28
+Platte,FSB Conference Center 1-4,State Senate,2,DEM,Write-ins,8
+Platte,FSB Conference Center 1-4,State Senate,2,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,State Senate,2,DEM,Under Votes,45
+Platte,FSB Conference Center 1-4,State House,4,REP,Dan R. Kirkbride,78
+Platte,FSB Conference Center 1-4,State House,4,REP,Kerry Powers,76
+Platte,FSB Conference Center 1-4,State House,4,REP,Larry Cundall,48
+Platte,FSB Conference Center 1-4,State House,4,REP,Write-ins,2
+Platte,FSB Conference Center 1-4,State House,4,REP,Over Votes,0
+Platte,FSB Conference Center 1-4,State House,4,REP,Under Votes,4
+Platte,FSB Conference Center 1-4,State House,4,DEM,Write-ins,9
+Platte,FSB Conference Center 1-4,State House,4,DEM,Over Votes,0
+Platte,FSB Conference Center 1-4,State House,4,DEM,Under Votes,44
+Platte,FSB Conference Center 1-4,Ballots Cast,,REP,Ballots Cast,208
+Platte,FSB Conference Center 1-4,Ballots Cast,,DEM,Ballots Cast,53
+Platte,FSB Conference Center 1-4,Ballots Cast,,NP,Ballots Cast,20
+Platte,FSB Conference Center 1-4,Ballots Cast,,,Ballots Cast,281
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,REP,Emmett A. Mavy,2
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,REP,John Barrasso,77
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,REP,Thomas Bleming,9
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,REP,Write-ins,1
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,REP,Under Votes,5
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,DEM,Al Hamburg,8
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,DEM,Tim Chesnut,21
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,DEM,William Bryk,2
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,DEM,Under Votes,10
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Cynthia M. Lummis,89
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Write-ins,1
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Under Votes,4
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Chris Henrichsen,29
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Under Votes,12
+Platte,Glendo Fire Hall 6-1,State Senate,2,REP,Jim Anderson,87
+Platte,Glendo Fire Hall 6-1,State Senate,2,REP,Write-ins,1
+Platte,Glendo Fire Hall 6-1,State Senate,2,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State Senate,2,REP,Under Votes,6
+Platte,Glendo Fire Hall 6-1,State Senate,2,DEM,Write-ins,2
+Platte,Glendo Fire Hall 6-1,State Senate,2,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State Senate,2,DEM,Under Votes,39
+Platte,Glendo Fire Hall 6-1,State House,4,REP,Dan R. Kirkbride,17
+Platte,Glendo Fire Hall 6-1,State House,4,REP,Kerry Powers,12
+Platte,Glendo Fire Hall 6-1,State House,4,REP,Larry Cundall,64
+Platte,Glendo Fire Hall 6-1,State House,4,REP,Write-ins,1
+Platte,Glendo Fire Hall 6-1,State House,4,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State House,4,REP,Under Votes,0
+Platte,Glendo Fire Hall 6-1,State House,4,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-1,State House,4,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-1,State House,4,DEM,Under Votes,41
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,REP,Ballots Cast,94
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,DEM,Ballots Cast,41
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,NP,Ballots Cast,7
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,,Ballots Cast,142
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,REP,Emmett A. Mavy,5
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,REP,John Barrasso,59
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,REP,Thomas Bleming,5
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,REP,Write-ins,1
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,REP,Under Votes,4
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,DEM,Al Hamburg,2
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,DEM,Tim Chesnut,2
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,DEM,William Bryk,2
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,DEM,Under Votes,4
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Cynthia M. Lummis,61
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Write-ins,5
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Under Votes,8
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Chris Henrichsen,7
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Under Votes,3
+Platte,Glendo Fire Hall 6-2,State Senate,2,REP,Jim Anderson,63
+Platte,Glendo Fire Hall 6-2,State Senate,2,REP,Write-ins,1
+Platte,Glendo Fire Hall 6-2,State Senate,2,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State Senate,2,REP,Under Votes,10
+Platte,Glendo Fire Hall 6-2,State Senate,2,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State Senate,2,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State Senate,2,DEM,Under Votes,10
+Platte,Glendo Fire Hall 6-2,State House,4,REP,Dan R. Kirkbride,17
+Platte,Glendo Fire Hall 6-2,State House,4,REP,Kerry Powers,9
+Platte,Glendo Fire Hall 6-2,State House,4,REP,Larry Cundall,43
+Platte,Glendo Fire Hall 6-2,State House,4,REP,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State House,4,REP,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State House,4,REP,Under Votes,5
+Platte,Glendo Fire Hall 6-2,State House,4,DEM,Write-ins,0
+Platte,Glendo Fire Hall 6-2,State House,4,DEM,Over Votes,0
+Platte,Glendo Fire Hall 6-2,State House,4,DEM,Under Votes,10
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,REP,Ballots Cast,74
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,DEM,Ballots Cast,10
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,NP,Ballots Cast,1
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,,Ballots Cast,85
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,REP,Emmett A. Mavy,9
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,REP,John Barrasso,208
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,REP,Thomas Bleming,42
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,REP,Write-ins,0
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,REP,Over Votes,0
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,REP,Under Votes,6
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,DEM,Al Hamburg,32
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,DEM,Tim Chesnut,60
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,DEM,William Bryk,22
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,DEM,Write-ins,1
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,DEM,Over Votes,1
+Platte,Guernsey Sunrise School 2-1,U.S. Senate,,DEM,Under Votes,14
+Platte,Guernsey Sunrise School 2-1,U.S. House,,REP,Cynthia M. Lummis,228
+Platte,Guernsey Sunrise School 2-1,U.S. House,,REP,Write-ins,3
+Platte,Guernsey Sunrise School 2-1,U.S. House,,REP,Over Votes,0
+Platte,Guernsey Sunrise School 2-1,U.S. House,,REP,Under Votes,34
+Platte,Guernsey Sunrise School 2-1,U.S. House,,DEM,Chris Henrichsen,112
+Platte,Guernsey Sunrise School 2-1,U.S. House,,DEM,Write-ins,1
+Platte,Guernsey Sunrise School 2-1,U.S. House,,DEM,Over Votes,0
+Platte,Guernsey Sunrise School 2-1,U.S. House,,DEM,Under Votes,17
+Platte,Guernsey Sunrise School 2-1,State Senate,2,REP,Jim Anderson,241
+Platte,Guernsey Sunrise School 2-1,State Senate,2,REP,Write-ins,1
+Platte,Guernsey Sunrise School 2-1,State Senate,2,REP,Over Votes,1
+Platte,Guernsey Sunrise School 2-1,State Senate,2,REP,Under Votes,22
+Platte,Guernsey Sunrise School 2-1,State Senate,2,DEM,Write-ins,14
+Platte,Guernsey Sunrise School 2-1,State Senate,2,DEM,Over Votes,0
+Platte,Guernsey Sunrise School 2-1,State Senate,2,DEM,Under Votes,116
+Platte,Guernsey Sunrise School 2-1,State House,4,REP,Dan R. Kirkbride,124
+Platte,Guernsey Sunrise School 2-1,State House,4,REP,Kerry Powers,60
+Platte,Guernsey Sunrise School 2-1,State House,4,REP,Larry Cundall,73
+Platte,Guernsey Sunrise School 2-1,State House,4,REP,Write-ins,1
+Platte,Guernsey Sunrise School 2-1,State House,4,REP,Over Votes,1
+Platte,Guernsey Sunrise School 2-1,State House,4,REP,Under Votes,6
+Platte,Guernsey Sunrise School 2-1,State House,4,DEM,Write-ins,7
+Platte,Guernsey Sunrise School 2-1,State House,4,DEM,Over Votes,0
+Platte,Guernsey Sunrise School 2-1,State House,4,DEM,Under Votes,123
+Platte,Guernsey Sunrise School 2-1,Ballots Cast,,REP,Ballots Cast,265
+Platte,Guernsey Sunrise School 2-1,Ballots Cast,,DEM,Ballots Cast,130
+Platte,Guernsey Sunrise School 2-1,Ballots Cast,,NP,Ballots Cast,19
+Platte,Guernsey Sunrise School 2-1,Ballots Cast,,,Ballots Cast,414
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,REP,Emmett A. Mavy,2
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,REP,John Barrasso,22
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,REP,Thomas Bleming,3
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,REP,Write-ins,0
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,REP,Over Votes,0
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,REP,Under Votes,1
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,DEM,Al Hamburg,1
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,DEM,Tim Chesnut,7
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,DEM,William Bryk,3
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,DEM,Write-ins,0
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,DEM,Over Votes,0
+Platte,Guernsey Sunrise School 3-1,U.S. Senate,,DEM,Under Votes,1
+Platte,Guernsey Sunrise School 3-1,U.S. House,,REP,Cynthia M. Lummis,22
+Platte,Guernsey Sunrise School 3-1,U.S. House,,REP,Write-ins,0
+Platte,Guernsey Sunrise School 3-1,U.S. House,,REP,Over Votes,0
+Platte,Guernsey Sunrise School 3-1,U.S. House,,REP,Under Votes,6
+Platte,Guernsey Sunrise School 3-1,U.S. House,,DEM,Chris Henrichsen,11
+Platte,Guernsey Sunrise School 3-1,U.S. House,,DEM,Write-ins,0
+Platte,Guernsey Sunrise School 3-1,U.S. House,,DEM,Over Votes,0
+Platte,Guernsey Sunrise School 3-1,U.S. House,,DEM,Under Votes,1
+Platte,Guernsey Sunrise School 3-1,State Senate,2,REP,Jim Anderson,22
+Platte,Guernsey Sunrise School 3-1,State Senate,2,REP,Write-ins,0
+Platte,Guernsey Sunrise School 3-1,State Senate,2,REP,Over Votes,0
+Platte,Guernsey Sunrise School 3-1,State Senate,2,REP,Under Votes,6
+Platte,Guernsey Sunrise School 3-1,State Senate,2,DEM,Write-ins,0
+Platte,Guernsey Sunrise School 3-1,State Senate,2,DEM,Over Votes,0
+Platte,Guernsey Sunrise School 3-1,State Senate,2,DEM,Under Votes,12
+Platte,Guernsey Sunrise School 3-1,State House,4,REP,Dan R. Kirkbride,10
+Platte,Guernsey Sunrise School 3-1,State House,4,REP,Kerry Powers,9
+Platte,Guernsey Sunrise School 3-1,State House,4,REP,Larry Cundall,9
+Platte,Guernsey Sunrise School 3-1,State House,4,REP,Write-ins,0
+Platte,Guernsey Sunrise School 3-1,State House,4,REP,Over Votes,0
+Platte,Guernsey Sunrise School 3-1,State House,4,REP,Under Votes,0
+Platte,Guernsey Sunrise School 3-1,State House,4,DEM,Write-ins,1
+Platte,Guernsey Sunrise School 3-1,State House,4,DEM,Over Votes,0
+Platte,Guernsey Sunrise School 3-1,State House,4,DEM,Under Votes,11
+Platte,Guernsey Sunrise School 3-1,Ballots Cast,,REP,Ballots Cast,28
+Platte,Guernsey Sunrise School 3-1,Ballots Cast,,DEM,Ballots Cast,12
+Platte,Guernsey Sunrise School 3-1,Ballots Cast,,NP,Ballots Cast,4
+Platte,Guernsey Sunrise School 3-1,Ballots Cast,,,Ballots Cast,44

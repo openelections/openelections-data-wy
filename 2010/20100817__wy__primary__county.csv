@@ -1,0 +1,2295 @@
+county,office,district,party,candidate,votes
+Albany,U.S. House,,REP,Cynthia M. Lummis,2916
+Albany,U.S. House,,REP,Evan Liam Slafter,593
+Albany,U.S. House,,REP,Write-ins,13
+Albany,U.S. House,,REP,Over Votes,0
+Albany,U.S. House,,REP,Under Votes,157
+Albany,U.S. House,,DEM,David Wendt,2204
+Albany,U.S. House,,DEM,Write-ins,31
+Albany,U.S. House,,DEM,Over Votes,0
+Albany,U.S. House,,DEM,Under Votes,492
+Albany,Governor,,REP,Alan Kousoulos,13
+Albany,Governor,,REP,Colin Simpson,666
+Albany,Governor,,REP,John H. Self,10
+Albany,Governor,,REP,Matt Mead,908
+Albany,Governor,,REP,Rita Meyer,1314
+Albany,Governor,,REP,Ron Micheli,705
+Albany,Governor,,REP,Tom A Ubben,32
+Albany,Governor,,REP,Write-ins,13
+Albany,Governor,,REP,Over Votes,0
+Albany,Governor,,REP,Under Votes,18
+Albany,Governor,,DEM,Al Hamburg,73
+Albany,Governor,,DEM,Chris L. Zachary,107
+Albany,Governor,,DEM,Leslie Petersen,892
+Albany,Governor,,DEM,Pete Gosar,1382
+Albany,Governor,,DEM,Rex Wilde,55
+Albany,Governor,,DEM,Write-ins,33
+Albany,Governor,,DEM,Over Votes,1
+Albany,Governor,,DEM,Under Votes,184
+Albany,Secretary of State,,REP,Max Maxfield,3210
+Albany,Secretary of State,,REP,Write-ins,11
+Albany,Secretary of State,,REP,Over Votes,0
+Albany,Secretary of State,,REP,Under Votes,458
+Albany,Secretary of State,,DEM,Andrew Simons,2142
+Albany,Secretary of State,,DEM,Write-ins,17
+Albany,Secretary of State,,DEM,Over Votes,0
+Albany,Secretary of State,,DEM,Under Votes,568
+Albany,State Auditor,,REP,Bruce Brown,1709
+Albany,State Auditor,,REP,Cynthia Cloud,1458
+Albany,State Auditor,,REP,Write-ins,5
+Albany,State Auditor,,REP,Over Votes,0
+Albany,State Auditor,,REP,Under Votes,507
+Albany,State Auditor,,DEM,Write-ins,138
+Albany,State Auditor,,DEM,Over Votes,0
+Albany,State Auditor,,DEM,Under Votes,2589
+Albany,State Treasurer,,REP,Joe Meyer,3169
+Albany,State Treasurer,,REP,Write-ins,16
+Albany,State Treasurer,,REP,Over Votes,1
+Albany,State Treasurer,,REP,Under Votes,493
+Albany,State Treasurer,,DEM,Write-ins,111
+Albany,State Treasurer,,DEM,Over Votes,0
+Albany,State Treasurer,,DEM,Under Votes,2616
+Albany,Superintendent of Public Instruction,,REP,Cindy Hill,1295
+Albany,Superintendent of Public Instruction,,REP,Jim McBride,1051
+Albany,Superintendent of Public Instruction,,REP,Ted Adams,425
+Albany,Superintendent of Public Instruction,,REP,Trent Blankenship,524
+Albany,Superintendent of Public Instruction,,REP,Write-ins,16
+Albany,Superintendent of Public Instruction,,REP,Over Votes,4
+Albany,Superintendent of Public Instruction,,REP,Under Votes,364
+Albany,Superintendent of Public Instruction,,DEM,Mike Massie,2426
+Albany,Superintendent of Public Instruction,,DEM,Write-ins,17
+Albany,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,Superintendent of Public Instruction,,DEM,Under Votes,284
+Albany,State Senate,9,REP,Write-ins,109
+Albany,State Senate,9,REP,Over Votes,0
+Albany,State Senate,9,REP,Under Votes,1114
+Albany,State Senate,9,DEM,Chris Rothfuss,784
+Albany,State Senate,9,DEM,Jodi Guerin,510
+Albany,State Senate,9,DEM,Write-ins,3
+Albany,State Senate,9,DEM,Over Votes,0
+Albany,State Senate,9,DEM,Under Votes,47
+Albany,State Senate,11,REP,Blake L Waldrop,9
+Albany,State Senate,11,REP,Larry S. Hicks,23
+Albany,State Senate,11,REP,Sue T. Hewitt,12
+Albany,State Senate,11,REP,Write-ins,0
+Albany,State Senate,11,REP,Over Votes,0
+Albany,State Senate,11,REP,Under Votes,2
+Albany,State Senate,11,DEM,Jim Elliott,11
+Albany,State Senate,11,DEM,Write-ins,0
+Albany,State Senate,11,DEM,Over Votes,0
+Albany,State Senate,11,DEM,Under Votes,1
+Albany,State House,13,REP,Write-ins,19
+Albany,State House,13,REP,Over Votes,0
+Albany,State House,13,REP,Under Votes,559
+Albany,State House,13,DEM,Cathy Connolly,555
+Albany,State House,13,DEM,Write-ins,6
+Albany,State House,13,DEM,Over Votes,0
+Albany,State House,13,DEM,Under Votes,84
+Albany,State House,14,REP,Kermit C. Brown,855
+Albany,State House,14,REP,Write-ins,12
+Albany,State House,14,REP,Over Votes,0
+Albany,State House,14,REP,Under Votes,158
+Albany,State House,14,DEM,Write-ins,53
+Albany,State House,14,DEM,Over Votes,0
+Albany,State House,14,DEM,Under Votes,459
+Albany,State House,45,REP,Matt Greene,520
+Albany,State House,45,REP,Write-ins,2
+Albany,State House,45,REP,Over Votes,0
+Albany,State House,45,REP,Under Votes,123
+Albany,State House,45,DEM,Seth Carson,490
+Albany,State House,45,DEM,Write-ins,26
+Albany,State House,45,DEM,Over Votes,0
+Albany,State House,45,DEM,Under Votes,183
+Albany,State House,46,REP,Glenn Moniz,1183
+Albany,State House,46,REP,Write-ins,12
+Albany,State House,46,REP,Over Votes,0
+Albany,State House,46,REP,Under Votes,190
+Albany,State House,46,DEM,Write-ins,45
+Albany,State House,46,DEM,Over Votes,0
+Albany,State House,46,DEM,Under Votes,814
+Albany,State House,47,REP,"William ""Jeb"" Steward",40
+Albany,State House,47,REP,Write-ins,3
+Albany,State House,47,REP,Over Votes,0
+Albany,State House,47,REP,Under Votes,3
+Albany,State House,47,DEM,Write-ins,2
+Albany,State House,47,DEM,Over Votes,0
+Albany,State House,47,DEM,Under Votes,10
+Albany,Ballots Cast,,REP,Ballots Cast,3679
+Albany,Ballots Cast,,DEM,Ballots Cast,2727
+Albany,Ballots Cast,,NP,Ballots Cast,174
+Albany,Ballots Cast,,,Ballots Cast,6580
+Big Horn,U.S. House,,REP,Cynthia M. Lummis,3038
+Big Horn,U.S. House,,REP,Evan Liam Slafter,428
+Big Horn,U.S. House,,REP,Write-ins,11
+Big Horn,U.S. House,,REP,Over Votes,4
+Big Horn,U.S. House,,REP,Under Votes,174
+Big Horn,U.S. House,,DEM,David Wendt,230
+Big Horn,U.S. House,,DEM,Write-ins,1
+Big Horn,U.S. House,,DEM,Over Votes,2
+Big Horn,U.S. House,,DEM,Under Votes,54
+Big Horn,Governor,,REP,Alan Kousoulos,21
+Big Horn,Governor,,REP,Colin Simpson,669
+Big Horn,Governor,,REP,John H. Self,9
+Big Horn,Governor,,REP,Matt Mead,838
+Big Horn,Governor,,REP,Rita Meyer,721
+Big Horn,Governor,,REP,Ron Micheli,1341
+Big Horn,Governor,,REP,Tom A Ubben,9
+Big Horn,Governor,,REP,Write-ins,3
+Big Horn,Governor,,REP,Over Votes,0
+Big Horn,Governor,,REP,Under Votes,44
+Big Horn,Governor,,DEM,Al Hamburg,22
+Big Horn,Governor,,DEM,Chris L. Zachary,25
+Big Horn,Governor,,DEM,Leslie Petersen,120
+Big Horn,Governor,,DEM,Pete Gosar,58
+Big Horn,Governor,,DEM,Rex Wilde,18
+Big Horn,Governor,,DEM,Write-ins,10
+Big Horn,Governor,,DEM,Over Votes,0
+Big Horn,Governor,,DEM,Under Votes,34
+Big Horn,Secretary of State,,REP,Max Maxfield,3271
+Big Horn,Secretary of State,,REP,Write-ins,14
+Big Horn,Secretary of State,,REP,Over Votes,0
+Big Horn,Secretary of State,,REP,Under Votes,370
+Big Horn,Secretary of State,,DEM,Andrew Simons,218
+Big Horn,Secretary of State,,DEM,Write-ins,0
+Big Horn,Secretary of State,,DEM,Over Votes,0
+Big Horn,Secretary of State,,DEM,Under Votes,69
+Big Horn,State Auditor,,REP,Bruce Brown,1531
+Big Horn,State Auditor,,REP,Cynthia Cloud,1725
+Big Horn,State Auditor,,REP,Write-ins,7
+Big Horn,State Auditor,,REP,Over Votes,2
+Big Horn,State Auditor,,REP,Under Votes,390
+Big Horn,State Auditor,,DEM,Write-ins,14
+Big Horn,State Auditor,,DEM,Over Votes,0
+Big Horn,State Auditor,,DEM,Under Votes,273
+Big Horn,State Treasurer,,REP,Joe Meyer,3211
+Big Horn,State Treasurer,,REP,Write-ins,9
+Big Horn,State Treasurer,,REP,Over Votes,0
+Big Horn,State Treasurer,,REP,Under Votes,435
+Big Horn,State Treasurer,,DEM,Write-ins,9
+Big Horn,State Treasurer,,DEM,Over Votes,0
+Big Horn,State Treasurer,,DEM,Under Votes,278
+Big Horn,Superintendent of Public Instruction,,REP,Cindy Hill,2020
+Big Horn,Superintendent of Public Instruction,,REP,Jim McBride,718
+Big Horn,Superintendent of Public Instruction,,REP,Ted Adams,180
+Big Horn,Superintendent of Public Instruction,,REP,Trent Blankenship,440
+Big Horn,Superintendent of Public Instruction,,REP,Write-ins,7
+Big Horn,Superintendent of Public Instruction,,REP,Over Votes,2
+Big Horn,Superintendent of Public Instruction,,REP,Under Votes,288
+Big Horn,Superintendent of Public Instruction,,DEM,Mike Massie,218
+Big Horn,Superintendent of Public Instruction,,DEM,Write-ins,5
+Big Horn,Superintendent of Public Instruction,,DEM,Over Votes,0
+Big Horn,Superintendent of Public Instruction,,DEM,Under Votes,64
+Big Horn,State Senate,19,REP,R. Ray Peterson,2309
+Big Horn,State Senate,19,REP,Write-ins,24
+Big Horn,State Senate,19,REP,Over Votes,0
+Big Horn,State Senate,19,REP,Under Votes,273
+Big Horn,State Senate,19,DEM,Write-ins,5
+Big Horn,State Senate,19,DEM,Over Votes,0
+Big Horn,State Senate,19,DEM,Under Votes,220
+Big Horn,State House,26,REP,Elaine D. Harvey,2183
+Big Horn,State House,26,REP,Write-ins,33
+Big Horn,State House,26,REP,Over Votes,0
+Big Horn,State House,26,REP,Under Votes,390
+Big Horn,State House,26,DEM,Write-ins,8
+Big Horn,State House,26,DEM,Over Votes,0
+Big Horn,State House,26,DEM,Under Votes,217
+Big Horn,State House,28,REP,Lorraine Quarberg,926
+Big Horn,State House,28,REP,Write-ins,4
+Big Horn,State House,28,REP,Over Votes,0
+Big Horn,State House,28,REP,Under Votes,119
+Big Horn,State House,28,DEM,Write-ins,5
+Big Horn,State House,28,DEM,Over Votes,0
+Big Horn,State House,28,DEM,Under Votes,57
+Big Horn,Ballots Cast,,REP,Ballots Cast,3655
+Big Horn,Ballots Cast,,DEM,Ballots Cast,287
+Big Horn,Ballots Cast,,NP,Ballots Cast,75
+Big Horn,Ballots Cast,,,Ballots Cast,4017
+Campbell,U.S. House,,REP,Cynthia M. Lummis,6525
+Campbell,U.S. House,,REP,Evan Liam Slafter,1197
+Campbell,U.S. House,,REP,Write-ins,15
+Campbell,U.S. House,,REP,Over Votes,6
+Campbell,U.S. House,,REP,Under Votes,479
+Campbell,U.S. House,,DEM,David Wendt,378
+Campbell,U.S. House,,DEM,Write-ins,5
+Campbell,U.S. House,,DEM,Over Votes,0
+Campbell,U.S. House,,DEM,Under Votes,46
+Campbell,Governor,,REP,Alan Kousoulos,32
+Campbell,Governor,,REP,Colin Simpson,1753
+Campbell,Governor,,REP,John H. Self,19
+Campbell,Governor,,REP,Matt Mead,2463
+Campbell,Governor,,REP,Rita Meyer,1818
+Campbell,Governor,,REP,Ron Micheli,1865
+Campbell,Governor,,REP,Tom A Ubben,48
+Campbell,Governor,,REP,Write-ins,56
+Campbell,Governor,,REP,Over Votes,4
+Campbell,Governor,,REP,Under Votes,164
+Campbell,Governor,,DEM,Al Hamburg,37
+Campbell,Governor,,DEM,Chris L. Zachary,41
+Campbell,Governor,,DEM,Leslie Petersen,181
+Campbell,Governor,,DEM,Pete Gosar,82
+Campbell,Governor,,DEM,Rex Wilde,34
+Campbell,Governor,,DEM,Write-ins,15
+Campbell,Governor,,DEM,Over Votes,1
+Campbell,Governor,,DEM,Under Votes,38
+Campbell,Secretary of State,,REP,Max Maxfield,6926
+Campbell,Secretary of State,,REP,Write-ins,41
+Campbell,Secretary of State,,REP,Over Votes,1
+Campbell,Secretary of State,,REP,Under Votes,1254
+Campbell,Secretary of State,,DEM,Andrew Simons,363
+Campbell,Secretary of State,,DEM,Write-ins,5
+Campbell,Secretary of State,,DEM,Over Votes,0
+Campbell,Secretary of State,,DEM,Under Votes,61
+Campbell,State Auditor,,REP,Bruce Brown,3387
+Campbell,State Auditor,,REP,Cynthia Cloud,3792
+Campbell,State Auditor,,REP,Write-ins,7
+Campbell,State Auditor,,REP,Over Votes,1
+Campbell,State Auditor,,REP,Under Votes,1035
+Campbell,State Auditor,,DEM,Write-ins,20
+Campbell,State Auditor,,DEM,Over Votes,0
+Campbell,State Auditor,,DEM,Under Votes,409
+Campbell,State Treasurer,,REP,Joe Meyer,6821
+Campbell,State Treasurer,,REP,Write-ins,22
+Campbell,State Treasurer,,REP,Over Votes,0
+Campbell,State Treasurer,,REP,Under Votes,1379
+Campbell,State Treasurer,,DEM,Write-ins,19
+Campbell,State Treasurer,,DEM,Over Votes,0
+Campbell,State Treasurer,,DEM,Under Votes,410
+Campbell,Superintendent of Public Instruction,,REP,Cindy Hill,3392
+Campbell,Superintendent of Public Instruction,,REP,Jim McBride,1767
+Campbell,Superintendent of Public Instruction,,REP,Ted Adams,536
+Campbell,Superintendent of Public Instruction,,REP,Trent Blankenship,1313
+Campbell,Superintendent of Public Instruction,,REP,Write-ins,22
+Campbell,Superintendent of Public Instruction,,REP,Over Votes,5
+Campbell,Superintendent of Public Instruction,,REP,Under Votes,1187
+Campbell,Superintendent of Public Instruction,,DEM,Mike Massie,365
+Campbell,Superintendent of Public Instruction,,DEM,Write-ins,6
+Campbell,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,Superintendent of Public Instruction,,DEM,Under Votes,58
+Campbell,State Senate,23,REP,John J. Hines,3937
+Campbell,State Senate,23,REP,Write-ins,20
+Campbell,State Senate,23,REP,Over Votes,0
+Campbell,State Senate,23,REP,Under Votes,668
+Campbell,State Senate,23,DEM,Write-ins,8
+Campbell,State Senate,23,DEM,Over Votes,0
+Campbell,State Senate,23,DEM,Under Votes,220
+Campbell,State House,31,REP,John D. Robertson,675
+Campbell,State House,31,REP,Tom Lubnau II,1763
+Campbell,State House,31,REP,Write-ins,5
+Campbell,State House,31,REP,Over Votes,1
+Campbell,State House,31,REP,Under Votes,151
+Campbell,State House,31,DEM,Write-ins,5
+Campbell,State House,31,DEM,Over Votes,0
+Campbell,State House,31,DEM,Under Votes,106
+Campbell,State House,32,REP,Dan Carroll,632
+Campbell,State House,32,REP,Norine A. Kasperik,1232
+Campbell,State House,32,REP,Write-ins,5
+Campbell,State House,32,REP,Over Votes,1
+Campbell,State House,32,REP,Under Votes,237
+Campbell,State House,32,DEM,Duffy Jenniges,92
+Campbell,State House,32,DEM,Write-ins,3
+Campbell,State House,32,DEM,Over Votes,0
+Campbell,State House,32,DEM,Under Votes,24
+Campbell,State House,52,REP,Merle L. McClure,845
+Campbell,State House,52,REP,Sue Wallis,1022
+Campbell,State House,52,REP,Write-ins,6
+Campbell,State House,52,REP,Over Votes,3
+Campbell,State House,52,REP,Under Votes,154
+Campbell,State House,52,DEM,Write-ins,8
+Campbell,State House,52,DEM,Over Votes,0
+Campbell,State House,52,DEM,Under Votes,109
+Campbell,State House,53,REP,Gregg Blikre,953
+Campbell,State House,53,REP,Rodney Mathis,405
+Campbell,State House,53,REP,Write-ins,3
+Campbell,State House,53,REP,Over Votes,1
+Campbell,State House,53,REP,Under Votes,128
+Campbell,State House,53,DEM,Write-ins,7
+Campbell,State House,53,DEM,Over Votes,0
+Campbell,State House,53,DEM,Under Votes,75
+Campbell,Ballots Cast,,REP,Ballots Cast,8222
+Campbell,Ballots Cast,,DEM,Ballots Cast,429
+Campbell,Ballots Cast,,NP,Ballots Cast,118
+Campbell,Ballots Cast,,,Ballots Cast,8769
+Carbon,U.S. House,,REP,Cynthia M. Lummis,1957
+Carbon,U.S. House,,REP,Evan Liam Slafter,368
+Carbon,U.S. House,,REP,Write-ins,7
+Carbon,U.S. House,,REP,Over Votes,0
+Carbon,U.S. House,,REP,Under Votes,154
+Carbon,U.S. House,,DEM,David Wendt,688
+Carbon,U.S. House,,DEM,Write-ins,5
+Carbon,U.S. House,,DEM,Over Votes,0
+Carbon,U.S. House,,DEM,Under Votes,146
+Carbon,Governor,,REP,Alan Kousoulos,11
+Carbon,Governor,,REP,Colin Simpson,301
+Carbon,Governor,,REP,John H. Self,15
+Carbon,Governor,,REP,Matt Mead,770
+Carbon,Governor,,REP,Rita Meyer,799
+Carbon,Governor,,REP,Ron Micheli,520
+Carbon,Governor,,REP,Tom A Ubben,28
+Carbon,Governor,,REP,Write-ins,4
+Carbon,Governor,,REP,Over Votes,0
+Carbon,Governor,,REP,Under Votes,38
+Carbon,Governor,,DEM,Al Hamburg,55
+Carbon,Governor,,DEM,Chris L. Zachary,59
+Carbon,Governor,,DEM,Leslie Petersen,383
+Carbon,Governor,,DEM,Pete Gosar,219
+Carbon,Governor,,DEM,Rex Wilde,37
+Carbon,Governor,,DEM,Write-ins,7
+Carbon,Governor,,DEM,Over Votes,1
+Carbon,Governor,,DEM,Under Votes,78
+Carbon,Secretary of State,,REP,Max Maxfield,2111
+Carbon,Secretary of State,,REP,Write-ins,7
+Carbon,Secretary of State,,REP,Over Votes,0
+Carbon,Secretary of State,,REP,Under Votes,368
+Carbon,Secretary of State,,DEM,Andrew Simons,683
+Carbon,Secretary of State,,DEM,Write-ins,1
+Carbon,Secretary of State,,DEM,Over Votes,0
+Carbon,Secretary of State,,DEM,Under Votes,155
+Carbon,State Auditor,,REP,Bruce Brown,1010
+Carbon,State Auditor,,REP,Cynthia Cloud,1140
+Carbon,State Auditor,,REP,Write-ins,7
+Carbon,State Auditor,,REP,Over Votes,0
+Carbon,State Auditor,,REP,Under Votes,329
+Carbon,State Auditor,,DEM,Write-ins,11
+Carbon,State Auditor,,DEM,Over Votes,0
+Carbon,State Auditor,,DEM,Under Votes,828
+Carbon,State Treasurer,,REP,Joe Meyer,2154
+Carbon,State Treasurer,,REP,Write-ins,6
+Carbon,State Treasurer,,REP,Over Votes,0
+Carbon,State Treasurer,,REP,Under Votes,326
+Carbon,State Treasurer,,DEM,Write-ins,10
+Carbon,State Treasurer,,DEM,Over Votes,0
+Carbon,State Treasurer,,DEM,Under Votes,829
+Carbon,Superintendent of Public Instruction,,REP,Cindy Hill,1218
+Carbon,Superintendent of Public Instruction,,REP,Jim McBride,534
+Carbon,Superintendent of Public Instruction,,REP,Ted Adams,211
+Carbon,Superintendent of Public Instruction,,REP,Trent Blankenship,334
+Carbon,Superintendent of Public Instruction,,REP,Write-ins,5
+Carbon,Superintendent of Public Instruction,,REP,Over Votes,0
+Carbon,Superintendent of Public Instruction,,REP,Under Votes,184
+Carbon,Superintendent of Public Instruction,,DEM,Mike Massie,701
+Carbon,Superintendent of Public Instruction,,DEM,Write-ins,4
+Carbon,Superintendent of Public Instruction,,DEM,Over Votes,0
+Carbon,Superintendent of Public Instruction,,DEM,Under Votes,134
+Carbon,State Senate,11,REP,Blake L Waldrop,779
+Carbon,State Senate,11,REP,Larry S. Hicks,903
+Carbon,State Senate,11,REP,Sue T. Hewitt,652
+Carbon,State Senate,11,REP,Write-ins,10
+Carbon,State Senate,11,REP,Over Votes,0
+Carbon,State Senate,11,REP,Under Votes,142
+Carbon,State Senate,11,DEM,Jim Elliott,725
+Carbon,State Senate,11,DEM,Write-ins,2
+Carbon,State Senate,11,DEM,Over Votes,0
+Carbon,State Senate,11,DEM,Under Votes,112
+Carbon,State House,15,REP,Donald Burkhart,497
+Carbon,State House,15,REP,Michael B. Rose,437
+Carbon,State House,15,REP,Write-ins,2
+Carbon,State House,15,REP,Over Votes,1
+Carbon,State House,15,REP,Under Votes,104
+Carbon,State House,15,DEM,George Bagby,405
+Carbon,State House,15,DEM,Write-ins,1
+Carbon,State House,15,DEM,Over Votes,0
+Carbon,State House,15,DEM,Under Votes,36
+Carbon,State House,47,REP,"William ""Jeb"" Steward",1233
+Carbon,State House,47,REP,Write-ins,18
+Carbon,State House,47,REP,Over Votes,0
+Carbon,State House,47,REP,Under Votes,194
+Carbon,State House,47,DEM,Write-ins,5
+Carbon,State House,47,DEM,Over Votes,0
+Carbon,State House,47,DEM,Under Votes,392
+Carbon,Ballots Cast,,REP,Ballots Cast,2486
+Carbon,Ballots Cast,,DEM,Ballots Cast,839
+Carbon,Ballots Cast,,NP,Ballots Cast,198
+Carbon,Ballots Cast,,,Ballots Cast,3523
+Converse,U.S. House,,REP,Cynthia M. Lummis,2835
+Converse,U.S. House,,REP,Evan Liam Slafter,584
+Converse,U.S. House,,REP,Write-ins,10
+Converse,U.S. House,,REP,Over Votes,7
+Converse,U.S. House,,REP,Under Votes,144
+Converse,U.S. House,,DEM,David Wendt,322
+Converse,U.S. House,,DEM,Write-ins,0
+Converse,U.S. House,,DEM,Over Votes,0
+Converse,U.S. House,,DEM,Under Votes,56
+Converse,Governor,,REP,Alan Kousoulos,19
+Converse,Governor,,REP,Colin Simpson,535
+Converse,Governor,,REP,John H. Self,6
+Converse,Governor,,REP,Matt Mead,1166
+Converse,Governor,,REP,Rita Meyer,1030
+Converse,Governor,,REP,Ron Micheli,756
+Converse,Governor,,REP,Tom A Ubben,19
+Converse,Governor,,REP,Write-ins,6
+Converse,Governor,,REP,Over Votes,1
+Converse,Governor,,REP,Under Votes,42
+Converse,Governor,,DEM,Al Hamburg,22
+Converse,Governor,,DEM,Chris L. Zachary,19
+Converse,Governor,,DEM,Leslie Petersen,168
+Converse,Governor,,DEM,Pete Gosar,99
+Converse,Governor,,DEM,Rex Wilde,18
+Converse,Governor,,DEM,Write-ins,14
+Converse,Governor,,DEM,Over Votes,1
+Converse,Governor,,DEM,Under Votes,37
+Converse,Secretary of State,,REP,Max Maxfield,3117
+Converse,Secretary of State,,REP,Write-ins,10
+Converse,Secretary of State,,REP,Over Votes,0
+Converse,Secretary of State,,REP,Under Votes,453
+Converse,Secretary of State,,DEM,Andrew Simons,303
+Converse,Secretary of State,,DEM,Write-ins,3
+Converse,Secretary of State,,DEM,Over Votes,0
+Converse,Secretary of State,,DEM,Under Votes,72
+Converse,State Auditor,,REP,Bruce Brown,1514
+Converse,State Auditor,,REP,Cynthia Cloud,1694
+Converse,State Auditor,,REP,Write-ins,4
+Converse,State Auditor,,REP,Over Votes,2
+Converse,State Auditor,,REP,Under Votes,366
+Converse,State Auditor,,DEM,Write-ins,13
+Converse,State Auditor,,DEM,Over Votes,0
+Converse,State Auditor,,DEM,Under Votes,365
+Converse,State Treasurer,,REP,Joe Meyer,3117
+Converse,State Treasurer,,REP,Write-ins,9
+Converse,State Treasurer,,REP,Over Votes,0
+Converse,State Treasurer,,REP,Under Votes,454
+Converse,State Treasurer,,DEM,Write-ins,14
+Converse,State Treasurer,,DEM,Over Votes,0
+Converse,State Treasurer,,DEM,Under Votes,364
+Converse,Superintendent of Public Instruction,,REP,Cindy Hill,1623
+Converse,Superintendent of Public Instruction,,REP,Jim McBride,839
+Converse,Superintendent of Public Instruction,,REP,Ted Adams,264
+Converse,Superintendent of Public Instruction,,REP,Trent Blankenship,542
+Converse,Superintendent of Public Instruction,,REP,Write-ins,7
+Converse,Superintendent of Public Instruction,,REP,Over Votes,3
+Converse,Superintendent of Public Instruction,,REP,Under Votes,302
+Converse,Superintendent of Public Instruction,,DEM,Mike Massie,319
+Converse,Superintendent of Public Instruction,,DEM,Write-ins,3
+Converse,Superintendent of Public Instruction,,DEM,Over Votes,1
+Converse,Superintendent of Public Instruction,,DEM,Under Votes,55
+Converse,State Senate,1,REP,Ogden Driskill,32
+Converse,State Senate,1,REP,Terry Marie Henderson,161
+Converse,State Senate,1,REP,Tom Dunlap,80
+Converse,State Senate,1,REP,Write-ins,0
+Converse,State Senate,1,REP,Over Votes,0
+Converse,State Senate,1,REP,Under Votes,22
+Converse,State Senate,1,DEM,Write-ins,3
+Converse,State Senate,1,DEM,Over Votes,0
+Converse,State Senate,1,DEM,Under Votes,10
+Converse,State House,2,REP,Brad Reese,138
+Converse,State House,2,REP,Hans Hunt,55
+Converse,State House,2,REP,John Ellis,85
+Converse,State House,2,REP,Write-ins,0
+Converse,State House,2,REP,Over Votes,0
+Converse,State House,2,REP,Under Votes,17
+Converse,State House,2,DEM,Write-ins,3
+Converse,State House,2,DEM,Over Votes,0
+Converse,State House,2,DEM,Under Votes,10
+Converse,State House,3,REP,Frank Peasley,883
+Converse,State House,3,REP,Write-ins,5
+Converse,State House,3,REP,Over Votes,0
+Converse,State House,3,REP,Under Votes,129
+Converse,State House,3,DEM,Write-ins,3
+Converse,State House,3,DEM,Over Votes,0
+Converse,State House,3,DEM,Under Votes,108
+Converse,State House,6,REP,Richard C. Grant Jr.,1042
+Converse,State House,6,REP,Richard L. Cannady,1053
+Converse,State House,6,REP,Write-ins,5
+Converse,State House,6,REP,Over Votes,3
+Converse,State House,6,REP,Under Votes,165
+Converse,State House,6,DEM,Write-ins,8
+Converse,State House,6,DEM,Over Votes,0
+Converse,State House,6,DEM,Under Votes,246
+Converse,Ballots Cast,,REP,Ballots Cast,3580
+Converse,Ballots Cast,,DEM,Ballots Cast,378
+Converse,Ballots Cast,,NP,Ballots Cast,58
+Converse,Ballots Cast,,,Ballots Cast,4016
+Crook,U.S. House,,REP,Cynthia M. Lummis,1759
+Crook,U.S. House,,REP,Evan Liam Slafter,326
+Crook,U.S. House,,REP,Write-ins,5
+Crook,U.S. House,,REP,Over Votes,0
+Crook,U.S. House,,REP,Under Votes,97
+Crook,U.S. House,,DEM,David Wendt,146
+Crook,U.S. House,,DEM,Write-ins,0
+Crook,U.S. House,,DEM,Over Votes,0
+Crook,U.S. House,,DEM,Under Votes,28
+Crook,Governor,,REP,Alan Kousoulos,12
+Crook,Governor,,REP,Colin Simpson,388
+Crook,Governor,,REP,John H. Self,13
+Crook,Governor,,REP,Matt Mead,679
+Crook,Governor,,REP,Rita Meyer,521
+Crook,Governor,,REP,Ron Micheli,483
+Crook,Governor,,REP,Tom A Ubben,17
+Crook,Governor,,REP,Write-ins,9
+Crook,Governor,,REP,Over Votes,2
+Crook,Governor,,REP,Under Votes,63
+Crook,Governor,,DEM,Al Hamburg,10
+Crook,Governor,,DEM,Chris L. Zachary,15
+Crook,Governor,,DEM,Leslie Petersen,69
+Crook,Governor,,DEM,Pete Gosar,47
+Crook,Governor,,DEM,Rex Wilde,15
+Crook,Governor,,DEM,Write-ins,0
+Crook,Governor,,DEM,Over Votes,0
+Crook,Governor,,DEM,Under Votes,18
+Crook,Secretary of State,,REP,Max Maxfield,1826
+Crook,Secretary of State,,REP,Write-ins,6
+Crook,Secretary of State,,REP,Over Votes,0
+Crook,Secretary of State,,REP,Under Votes,355
+Crook,Secretary of State,,DEM,Andrew Simons,137
+Crook,Secretary of State,,DEM,Write-ins,0
+Crook,Secretary of State,,DEM,Over Votes,0
+Crook,Secretary of State,,DEM,Under Votes,37
+Crook,State Auditor,,REP,Bruce Brown,1352
+Crook,State Auditor,,REP,Cynthia Cloud,697
+Crook,State Auditor,,REP,Write-ins,3
+Crook,State Auditor,,REP,Over Votes,0
+Crook,State Auditor,,REP,Under Votes,135
+Crook,State Auditor,,DEM,Write-ins,4
+Crook,State Auditor,,DEM,Over Votes,0
+Crook,State Auditor,,DEM,Under Votes,170
+Crook,State Treasurer,,REP,Joe Meyer,1787
+Crook,State Treasurer,,REP,Write-ins,6
+Crook,State Treasurer,,REP,Over Votes,0
+Crook,State Treasurer,,REP,Under Votes,394
+Crook,State Treasurer,,DEM,Write-ins,5
+Crook,State Treasurer,,DEM,Over Votes,0
+Crook,State Treasurer,,DEM,Under Votes,169
+Crook,Superintendent of Public Instruction,,REP,Cindy Hill,1157
+Crook,Superintendent of Public Instruction,,REP,Jim McBride,372
+Crook,Superintendent of Public Instruction,,REP,Ted Adams,109
+Crook,Superintendent of Public Instruction,,REP,Trent Blankenship,288
+Crook,Superintendent of Public Instruction,,REP,Write-ins,6
+Crook,Superintendent of Public Instruction,,REP,Over Votes,2
+Crook,Superintendent of Public Instruction,,REP,Under Votes,253
+Crook,Superintendent of Public Instruction,,DEM,Mike Massie,147
+Crook,Superintendent of Public Instruction,,DEM,Write-ins,0
+Crook,Superintendent of Public Instruction,,DEM,Over Votes,0
+Crook,Superintendent of Public Instruction,,DEM,Under Votes,27
+Crook,State Senate,1,REP,Ogden Driskill,904
+Crook,State Senate,1,REP,Terry Marie Henderson,610
+Crook,State Senate,1,REP,Tom Dunlap,575
+Crook,State Senate,1,REP,Write-ins,2
+Crook,State Senate,1,REP,Over Votes,0
+Crook,State Senate,1,REP,Under Votes,96
+Crook,State Senate,1,DEM,Write-ins,6
+Crook,State Senate,1,DEM,Over Votes,0
+Crook,State Senate,1,DEM,Under Votes,168
+Crook,State House,1,REP,Mark A. Semlek,1828
+Crook,State House,1,REP,Write-ins,14
+Crook,State House,1,REP,Over Votes,0
+Crook,State House,1,REP,Under Votes,345
+Crook,State House,1,DEM,Stan Dodson,129
+Crook,State House,1,DEM,Write-ins,2
+Crook,State House,1,DEM,Over Votes,0
+Crook,State House,1,DEM,Under Votes,43
+Crook,Ballots Cast,,REP,Ballots Cast,2187
+Crook,Ballots Cast,,DEM,Ballots Cast,174
+Crook,Ballots Cast,,NP,Ballots Cast,24
+Crook,Ballots Cast,,,Ballots Cast,2385
+Fremont,U.S. House,,REP,Cynthia M. Lummis,6372
+Fremont,U.S. House,,REP,Evan Liam Slafter,1224
+Fremont,U.S. House,,REP,Write-ins,29
+Fremont,U.S. House,,REP,Over Votes,1
+Fremont,U.S. House,,REP,Under Votes,319
+Fremont,U.S. House,,DEM,David Wendt,1288
+Fremont,U.S. House,,DEM,Write-ins,18
+Fremont,U.S. House,,DEM,Over Votes,0
+Fremont,U.S. House,,DEM,Under Votes,286
+Fremont,Governor,,REP,Alan Kousoulos,30
+Fremont,Governor,,REP,Colin Simpson,1419
+Fremont,Governor,,REP,John H. Self,27
+Fremont,Governor,,REP,Matt Mead,1889
+Fremont,Governor,,REP,Rita Meyer,2320
+Fremont,Governor,,REP,Ron Micheli,2172
+Fremont,Governor,,REP,Tom A Ubben,32
+Fremont,Governor,,REP,Write-ins,2
+Fremont,Governor,,REP,Over Votes,5
+Fremont,Governor,,REP,Under Votes,49
+Fremont,Governor,,DEM,Al Hamburg,82
+Fremont,Governor,,DEM,Chris L. Zachary,67
+Fremont,Governor,,DEM,Leslie Petersen,850
+Fremont,Governor,,DEM,Pete Gosar,412
+Fremont,Governor,,DEM,Rex Wilde,46
+Fremont,Governor,,DEM,Write-ins,28
+Fremont,Governor,,DEM,Over Votes,0
+Fremont,Governor,,DEM,Under Votes,107
+Fremont,Secretary of State,,REP,Max Maxfield,6747
+Fremont,Secretary of State,,REP,Write-ins,27
+Fremont,Secretary of State,,REP,Over Votes,0
+Fremont,Secretary of State,,REP,Under Votes,1171
+Fremont,Secretary of State,,DEM,Andrew Simons,1258
+Fremont,Secretary of State,,DEM,Write-ins,13
+Fremont,Secretary of State,,DEM,Over Votes,0
+Fremont,Secretary of State,,DEM,Under Votes,321
+Fremont,State Auditor,,REP,Bruce Brown,3116
+Fremont,State Auditor,,REP,Cynthia Cloud,3849
+Fremont,State Auditor,,REP,Write-ins,7
+Fremont,State Auditor,,REP,Over Votes,1
+Fremont,State Auditor,,REP,Under Votes,972
+Fremont,State Auditor,,DEM,Write-ins,71
+Fremont,State Auditor,,DEM,Over Votes,0
+Fremont,State Auditor,,DEM,Under Votes,1521
+Fremont,State Treasurer,,REP,Joe Meyer,6696
+Fremont,State Treasurer,,REP,Write-ins,15
+Fremont,State Treasurer,,REP,Over Votes,0
+Fremont,State Treasurer,,REP,Under Votes,1234
+Fremont,State Treasurer,,DEM,Write-ins,50
+Fremont,State Treasurer,,DEM,Over Votes,0
+Fremont,State Treasurer,,DEM,Under Votes,1542
+Fremont,Superintendent of Public Instruction,,REP,Cindy Hill,4223
+Fremont,Superintendent of Public Instruction,,REP,Jim McBride,1323
+Fremont,Superintendent of Public Instruction,,REP,Ted Adams,583
+Fremont,Superintendent of Public Instruction,,REP,Trent Blankenship,1270
+Fremont,Superintendent of Public Instruction,,REP,Write-ins,11
+Fremont,Superintendent of Public Instruction,,REP,Over Votes,3
+Fremont,Superintendent of Public Instruction,,REP,Under Votes,532
+Fremont,Superintendent of Public Instruction,,DEM,Mike Massie,1327
+Fremont,Superintendent of Public Instruction,,DEM,Write-ins,11
+Fremont,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,Superintendent of Public Instruction,,DEM,Under Votes,254
+Fremont,State Senate,17,REP,Leland Christensen,276
+Fremont,State Senate,17,REP,Samuel M. Harrell,116
+Fremont,State Senate,17,REP,Write-ins,1
+Fremont,State Senate,17,REP,Over Votes,0
+Fremont,State Senate,17,REP,Under Votes,91
+Fremont,State Senate,17,DEM,Tom Frisbie,82
+Fremont,State Senate,17,DEM,Write-ins,0
+Fremont,State Senate,17,DEM,Over Votes,0
+Fremont,State Senate,17,DEM,Under Votes,7
+Fremont,State Senate,25,REP,Cale Case,1772
+Fremont,State Senate,25,REP,Joe Malek,1318
+Fremont,State Senate,25,REP,Write-ins,5
+Fremont,State Senate,25,REP,Over Votes,2
+Fremont,State Senate,25,REP,Under Votes,200
+Fremont,State Senate,25,DEM,Clarence V. Thomas,712
+Fremont,State Senate,25,DEM,Write-ins,19
+Fremont,State Senate,25,DEM,Over Votes,0
+Fremont,State Senate,25,DEM,Under Votes,174
+Fremont,State House,23,REP,Keith Gingery,408
+Fremont,State House,23,REP,Write-ins,2
+Fremont,State House,23,REP,Over Votes,0
+Fremont,State House,23,REP,Under Votes,74
+Fremont,State House,23,DEM,Write-ins,2
+Fremont,State House,23,DEM,Over Votes,0
+Fremont,State House,23,DEM,Under Votes,87
+Fremont,State House,33,REP,Daniel Cardenas,736
+Fremont,State House,33,REP,Write-ins,9
+Fremont,State House,33,REP,Over Votes,0
+Fremont,State House,33,REP,Under Votes,278
+Fremont,State House,33,DEM,W. Patrick Goggles,273
+Fremont,State House,33,DEM,Write-ins,15
+Fremont,State House,33,DEM,Over Votes,0
+Fremont,State House,33,DEM,Under Votes,51
+Fremont,State House,34,REP,Holly R. Galloway,148
+Fremont,State House,34,REP,Kevin Smith,673
+Fremont,State House,34,REP,Phil Christopherson,359
+Fremont,State House,34,REP,Rita Campbell,908
+Fremont,State House,34,REP,Write-ins,3
+Fremont,State House,34,REP,Over Votes,4
+Fremont,State House,34,REP,Under Votes,103
+Fremont,State House,34,DEM,Write-ins,5
+Fremont,State House,34,DEM,Over Votes,0
+Fremont,State House,34,DEM,Under Votes,236
+Fremont,State House,48,REP,Write-ins,3
+Fremont,State House,48,REP,Over Votes,0
+Fremont,State House,48,REP,Under Votes,25
+Fremont,State House,48,DEM,Joseph M. Barbuto,6
+Fremont,State House,48,DEM,Write-ins,0
+Fremont,State House,48,DEM,Over Votes,0
+Fremont,State House,48,DEM,Under Votes,0
+Fremont,State House,54,REP,Del McOmie,1446
+Fremont,State House,54,REP,Ryan J. Jones,730
+Fremont,State House,54,REP,Write-ins,4
+Fremont,State House,54,REP,Over Votes,0
+Fremont,State House,54,REP,Under Votes,94
+Fremont,State House,54,DEM,Write-ins,30
+Fremont,State House,54,DEM,Over Votes,0
+Fremont,State House,54,DEM,Under Votes,536
+Fremont,State House,55,REP,David R. Miller,1592
+Fremont,State House,55,REP,Write-ins,15
+Fremont,State House,55,REP,Over Votes,0
+Fremont,State House,55,REP,Under Votes,331
+Fremont,State House,55,DEM,Write-ins,11
+Fremont,State House,55,DEM,Over Votes,0
+Fremont,State House,55,DEM,Under Votes,340
+Fremont,Ballots Cast,,REP,Ballots Cast,7945
+Fremont,Ballots Cast,,DEM,Ballots Cast,1592
+Fremont,Ballots Cast,,NP,Ballots Cast,153
+Fremont,Ballots Cast,,,Ballots Cast,9690
+Goshen,U.S. House,,REP,Cynthia M. Lummis,2661
+Goshen,U.S. House,,REP,Evan Liam Slafter,428
+Goshen,U.S. House,,REP,Write-ins,6
+Goshen,U.S. House,,REP,Over Votes,1
+Goshen,U.S. House,,REP,Under Votes,158
+Goshen,U.S. House,,DEM,David Wendt,483
+Goshen,U.S. House,,DEM,Write-ins,1
+Goshen,U.S. House,,DEM,Over Votes,0
+Goshen,U.S. House,,DEM,Under Votes,99
+Goshen,Governor,,REP,Alan Kousoulos,22
+Goshen,Governor,,REP,Colin Simpson,327
+Goshen,Governor,,REP,John H. Self,11
+Goshen,Governor,,REP,Matt Mead,1063
+Goshen,Governor,,REP,Rita Meyer,883
+Goshen,Governor,,REP,Ron Micheli,889
+Goshen,Governor,,REP,Tom A Ubben,9
+Goshen,Governor,,REP,Write-ins,9
+Goshen,Governor,,REP,Over Votes,1
+Goshen,Governor,,REP,Under Votes,40
+Goshen,Governor,,DEM,Al Hamburg,30
+Goshen,Governor,,DEM,Chris L. Zachary,52
+Goshen,Governor,,DEM,Leslie Petersen,229
+Goshen,Governor,,DEM,Pete Gosar,171
+Goshen,Governor,,DEM,Rex Wilde,27
+Goshen,Governor,,DEM,Write-ins,7
+Goshen,Governor,,DEM,Over Votes,0
+Goshen,Governor,,DEM,Under Votes,67
+Goshen,Secretary of State,,REP,Max Maxfield,2869
+Goshen,Secretary of State,,REP,Write-ins,5
+Goshen,Secretary of State,,REP,Over Votes,0
+Goshen,Secretary of State,,REP,Under Votes,380
+Goshen,Secretary of State,,DEM,Andrew Simons,475
+Goshen,Secretary of State,,DEM,Write-ins,4
+Goshen,Secretary of State,,DEM,Over Votes,0
+Goshen,Secretary of State,,DEM,Under Votes,104
+Goshen,State Auditor,,REP,Bruce Brown,2064
+Goshen,State Auditor,,REP,Cynthia Cloud,906
+Goshen,State Auditor,,REP,Write-ins,1
+Goshen,State Auditor,,REP,Over Votes,0
+Goshen,State Auditor,,REP,Under Votes,283
+Goshen,State Auditor,,DEM,Write-ins,6
+Goshen,State Auditor,,DEM,Over Votes,0
+Goshen,State Auditor,,DEM,Under Votes,577
+Goshen,State Treasurer,,REP,Joe Meyer,2931
+Goshen,State Treasurer,,REP,Write-ins,8
+Goshen,State Treasurer,,REP,Over Votes,0
+Goshen,State Treasurer,,REP,Under Votes,315
+Goshen,State Treasurer,,DEM,Write-ins,5
+Goshen,State Treasurer,,DEM,Over Votes,0
+Goshen,State Treasurer,,DEM,Under Votes,578
+Goshen,Superintendent of Public Instruction,,REP,Cindy Hill,2025
+Goshen,Superintendent of Public Instruction,,REP,Jim McBride,582
+Goshen,Superintendent of Public Instruction,,REP,Ted Adams,204
+Goshen,Superintendent of Public Instruction,,REP,Trent Blankenship,223
+Goshen,Superintendent of Public Instruction,,REP,Write-ins,3
+Goshen,Superintendent of Public Instruction,,REP,Over Votes,2
+Goshen,Superintendent of Public Instruction,,REP,Under Votes,215
+Goshen,Superintendent of Public Instruction,,DEM,Mike Massie,486
+Goshen,Superintendent of Public Instruction,,DEM,Write-ins,6
+Goshen,Superintendent of Public Instruction,,DEM,Over Votes,0
+Goshen,Superintendent of Public Instruction,,DEM,Under Votes,91
+Goshen,State Senate,1,REP,Ogden Driskill,7
+Goshen,State Senate,1,REP,Terry Marie Henderson,55
+Goshen,State Senate,1,REP,Tom Dunlap,15
+Goshen,State Senate,1,REP,Write-ins,0
+Goshen,State Senate,1,REP,Over Votes,0
+Goshen,State Senate,1,REP,Under Votes,5
+Goshen,State Senate,1,DEM,Write-ins,0
+Goshen,State Senate,1,DEM,Over Votes,0
+Goshen,State Senate,1,DEM,Under Votes,11
+Goshen,State Senate,3,REP,Cheri E. Steinmetz,1197
+Goshen,State Senate,3,REP,Curt Meier,1904
+Goshen,State Senate,3,REP,Write-ins,2
+Goshen,State Senate,3,REP,Over Votes,0
+Goshen,State Senate,3,REP,Under Votes,69
+Goshen,State Senate,3,DEM,Write-ins,11
+Goshen,State Senate,3,DEM,Over Votes,0
+Goshen,State Senate,3,DEM,Under Votes,561
+Goshen,State House,2,REP,Brad Reese,20
+Goshen,State House,2,REP,Hans Hunt,3
+Goshen,State House,2,REP,John Ellis,57
+Goshen,State House,2,REP,Write-ins,0
+Goshen,State House,2,REP,Over Votes,0
+Goshen,State House,2,REP,Under Votes,2
+Goshen,State House,2,DEM,Write-ins,0
+Goshen,State House,2,DEM,Over Votes,0
+Goshen,State House,2,DEM,Under Votes,11
+Goshen,State House,4,REP,Edward Buchanan,1836
+Goshen,State House,4,REP,Write-ins,9
+Goshen,State House,4,REP,Over Votes,0
+Goshen,State House,4,REP,Under Votes,189
+Goshen,State House,4,DEM,Write-ins,6
+Goshen,State House,4,DEM,Over Votes,0
+Goshen,State House,4,DEM,Under Votes,357
+Goshen,State House,5,REP,Matt Teeters,1000
+Goshen,State House,5,REP,Write-ins,7
+Goshen,State House,5,REP,Over Votes,0
+Goshen,State House,5,REP,Under Votes,131
+Goshen,State House,5,DEM,Write-ins,1
+Goshen,State House,5,DEM,Over Votes,0
+Goshen,State House,5,DEM,Under Votes,208
+Goshen,Ballots Cast,,REP,Ballots Cast,3268
+Goshen,Ballots Cast,,DEM,Ballots Cast,569
+Goshen,Ballots Cast,,NP,Ballots Cast,20
+Goshen,Ballots Cast,,,Ballots Cast,3857
+Hot Springs,U.S. House,,REP,Cynthia M. Lummis,1130
+Hot Springs,U.S. House,,REP,Evan Liam Slafter,227
+Hot Springs,U.S. House,,REP,Write-ins,0
+Hot Springs,U.S. House,,REP,Over Votes,1
+Hot Springs,U.S. House,,REP,Under Votes,99
+Hot Springs,U.S. House,,DEM,David Wendt,119
+Hot Springs,U.S. House,,DEM,Write-ins,1
+Hot Springs,U.S. House,,DEM,Over Votes,0
+Hot Springs,U.S. House,,DEM,Under Votes,27
+Hot Springs,Governor,,REP,Alan Kousoulos,10
+Hot Springs,Governor,,REP,Colin Simpson,226
+Hot Springs,Governor,,REP,John H. Self,1
+Hot Springs,Governor,,REP,Matt Mead,436
+Hot Springs,Governor,,REP,Rita Meyer,384
+Hot Springs,Governor,,REP,Ron Micheli,384
+Hot Springs,Governor,,REP,Tom A Ubben,5
+Hot Springs,Governor,,REP,Write-ins,0
+Hot Springs,Governor,,REP,Over Votes,0
+Hot Springs,Governor,,REP,Under Votes,11
+Hot Springs,Governor,,DEM,Al Hamburg,13
+Hot Springs,Governor,,DEM,Chris L. Zachary,11
+Hot Springs,Governor,,DEM,Leslie Petersen,67
+Hot Springs,Governor,,DEM,Pete Gosar,37
+Hot Springs,Governor,,DEM,Rex Wilde,6
+Hot Springs,Governor,,DEM,Write-ins,2
+Hot Springs,Governor,,DEM,Over Votes,0
+Hot Springs,Governor,,DEM,Under Votes,11
+Hot Springs,Secretary of State,,REP,Max Maxfield,1224
+Hot Springs,Secretary of State,,REP,Write-ins,5
+Hot Springs,Secretary of State,,REP,Over Votes,0
+Hot Springs,Secretary of State,,REP,Under Votes,228
+Hot Springs,Secretary of State,,DEM,Andrew Simons,121
+Hot Springs,Secretary of State,,DEM,Write-ins,0
+Hot Springs,Secretary of State,,DEM,Over Votes,0
+Hot Springs,Secretary of State,,DEM,Under Votes,26
+Hot Springs,State Auditor,,REP,Bruce Brown,799
+Hot Springs,State Auditor,,REP,Cynthia Cloud,520
+Hot Springs,State Auditor,,REP,Write-ins,2
+Hot Springs,State Auditor,,REP,Over Votes,1
+Hot Springs,State Auditor,,REP,Under Votes,135
+Hot Springs,State Auditor,,DEM,Write-ins,7
+Hot Springs,State Auditor,,DEM,Over Votes,0
+Hot Springs,State Auditor,,DEM,Under Votes,140
+Hot Springs,State Treasurer,,REP,Joe Meyer,1218
+Hot Springs,State Treasurer,,REP,Write-ins,2
+Hot Springs,State Treasurer,,REP,Over Votes,0
+Hot Springs,State Treasurer,,REP,Under Votes,237
+Hot Springs,State Treasurer,,DEM,Write-ins,3
+Hot Springs,State Treasurer,,DEM,Over Votes,0
+Hot Springs,State Treasurer,,DEM,Under Votes,144
+Hot Springs,Superintendent of Public Instruction,,REP,Cindy Hill,653
+Hot Springs,Superintendent of Public Instruction,,REP,Jim McBride,328
+Hot Springs,Superintendent of Public Instruction,,REP,Ted Adams,154
+Hot Springs,Superintendent of Public Instruction,,REP,Trent Blankenship,158
+Hot Springs,Superintendent of Public Instruction,,REP,Write-ins,1
+Hot Springs,Superintendent of Public Instruction,,REP,Over Votes,2
+Hot Springs,Superintendent of Public Instruction,,REP,Under Votes,161
+Hot Springs,Superintendent of Public Instruction,,DEM,Mike Massie,122
+Hot Springs,Superintendent of Public Instruction,,DEM,Write-ins,0
+Hot Springs,Superintendent of Public Instruction,,DEM,Over Votes,0
+Hot Springs,Superintendent of Public Instruction,,DEM,Under Votes,25
+Hot Springs,State House,28,REP,Lorraine Quarberg,1005
+Hot Springs,State House,28,REP,Write-ins,50
+Hot Springs,State House,28,REP,Over Votes,0
+Hot Springs,State House,28,REP,Under Votes,402
+Hot Springs,State House,28,DEM,Write-ins,6
+Hot Springs,State House,28,DEM,Over Votes,0
+Hot Springs,State House,28,DEM,Under Votes,141
+Hot Springs,Ballots Cast,,REP,Ballots Cast,1457
+Hot Springs,Ballots Cast,,DEM,Ballots Cast,147
+Hot Springs,Ballots Cast,,NP,Ballots Cast,22
+Hot Springs,Ballots Cast,,,Ballots Cast,1626
+Johnson,U.S. House,,REP,Cynthia M. Lummis,2539
+Johnson,U.S. House,,REP,Evan Liam Slafter,490
+Johnson,U.S. House,,REP,Write-ins,7
+Johnson,U.S. House,,REP,Over Votes,0
+Johnson,U.S. House,,REP,Under Votes,201
+Johnson,U.S. House,,DEM,David Wendt,112
+Johnson,U.S. House,,DEM,Write-ins,1
+Johnson,U.S. House,,DEM,Over Votes,0
+Johnson,U.S. House,,DEM,Under Votes,15
+Johnson,Governor,,REP,Alan Kousoulos,11
+Johnson,Governor,,REP,Colin Simpson,395
+Johnson,Governor,,REP,John H. Self,11
+Johnson,Governor,,REP,Matt Mead,1175
+Johnson,Governor,,REP,Rita Meyer,939
+Johnson,Governor,,REP,Ron Micheli,627
+Johnson,Governor,,REP,Tom A Ubben,8
+Johnson,Governor,,REP,Write-ins,5
+Johnson,Governor,,REP,Over Votes,2
+Johnson,Governor,,REP,Under Votes,64
+Johnson,Governor,,DEM,Al Hamburg,6
+Johnson,Governor,,DEM,Chris L. Zachary,5
+Johnson,Governor,,DEM,Leslie Petersen,47
+Johnson,Governor,,DEM,Pete Gosar,66
+Johnson,Governor,,DEM,Rex Wilde,1
+Johnson,Governor,,DEM,Write-ins,1
+Johnson,Governor,,DEM,Over Votes,0
+Johnson,Governor,,DEM,Under Votes,2
+Johnson,Secretary of State,,REP,Max Maxfield,2759
+Johnson,Secretary of State,,REP,Write-ins,17
+Johnson,Secretary of State,,REP,Over Votes,1
+Johnson,Secretary of State,,REP,Under Votes,460
+Johnson,Secretary of State,,DEM,Andrew Simons,112
+Johnson,Secretary of State,,DEM,Write-ins,0
+Johnson,Secretary of State,,DEM,Over Votes,0
+Johnson,Secretary of State,,DEM,Under Votes,16
+Johnson,State Auditor,,REP,Bruce Brown,1603
+Johnson,State Auditor,,REP,Cynthia Cloud,1199
+Johnson,State Auditor,,REP,Write-ins,5
+Johnson,State Auditor,,REP,Over Votes,2
+Johnson,State Auditor,,REP,Under Votes,428
+Johnson,State Auditor,,DEM,Write-ins,3
+Johnson,State Auditor,,DEM,Over Votes,0
+Johnson,State Auditor,,DEM,Under Votes,125
+Johnson,State Treasurer,,REP,Joe Meyer,2704
+Johnson,State Treasurer,,REP,Write-ins,10
+Johnson,State Treasurer,,REP,Over Votes,2
+Johnson,State Treasurer,,REP,Under Votes,521
+Johnson,State Treasurer,,DEM,Write-ins,7
+Johnson,State Treasurer,,DEM,Over Votes,0
+Johnson,State Treasurer,,DEM,Under Votes,121
+Johnson,Superintendent of Public Instruction,,REP,Cindy Hill,1284
+Johnson,Superintendent of Public Instruction,,REP,Jim McBride,962
+Johnson,Superintendent of Public Instruction,,REP,Ted Adams,246
+Johnson,Superintendent of Public Instruction,,REP,Trent Blankenship,348
+Johnson,Superintendent of Public Instruction,,REP,Write-ins,5
+Johnson,Superintendent of Public Instruction,,REP,Over Votes,2
+Johnson,Superintendent of Public Instruction,,REP,Under Votes,390
+Johnson,Superintendent of Public Instruction,,DEM,Mike Massie,109
+Johnson,Superintendent of Public Instruction,,DEM,Write-ins,0
+Johnson,Superintendent of Public Instruction,,DEM,Over Votes,0
+Johnson,Superintendent of Public Instruction,,DEM,Under Votes,19
+Johnson,State House,40,REP,Joseph St. Pierre,419
+Johnson,State House,40,REP,Laura B. DeMatteis,632
+Johnson,State House,40,REP,Mike Madden,1984
+Johnson,State House,40,REP,Write-ins,9
+Johnson,State House,40,REP,Over Votes,6
+Johnson,State House,40,REP,Under Votes,187
+Johnson,State House,40,DEM,Write-ins,11
+Johnson,State House,40,DEM,Over Votes,0
+Johnson,State House,40,DEM,Under Votes,117
+Johnson,Ballots Cast,,REP,Ballots Cast,3237
+Johnson,Ballots Cast,,DEM,Ballots Cast,128
+Johnson,Ballots Cast,,NP,Ballots Cast,15
+Johnson,Ballots Cast,,,Ballots Cast,3380
+Laramie,U.S. House,,REP,Cynthia M. Lummis,11971
+Laramie,U.S. House,,REP,Evan Liam Slafter,2392
+Laramie,U.S. House,,REP,Write-ins,47
+Laramie,U.S. House,,REP,Over Votes,1
+Laramie,U.S. House,,REP,Under Votes,657
+Laramie,U.S. House,,DEM,David Wendt,3654
+Laramie,U.S. House,,DEM,Write-ins,37
+Laramie,U.S. House,,DEM,Over Votes,0
+Laramie,U.S. House,,DEM,Under Votes,606
+Laramie,Governor,,REP,Alan Kousoulos,38
+Laramie,Governor,,REP,Colin Simpson,1536
+Laramie,Governor,,REP,John H. Self,23
+Laramie,Governor,,REP,Matt Mead,4969
+Laramie,Governor,,REP,Rita Meyer,5609
+Laramie,Governor,,REP,Ron Micheli,2715
+Laramie,Governor,,REP,Tom A Ubben,40
+Laramie,Governor,,REP,Write-ins,56
+Laramie,Governor,,REP,Over Votes,2
+Laramie,Governor,,REP,Under Votes,80
+Laramie,Governor,,DEM,Al Hamburg,219
+Laramie,Governor,,DEM,Chris L. Zachary,240
+Laramie,Governor,,DEM,Leslie Petersen,2095
+Laramie,Governor,,DEM,Pete Gosar,1158
+Laramie,Governor,,DEM,Rex Wilde,254
+Laramie,Governor,,DEM,Write-ins,100
+Laramie,Governor,,DEM,Over Votes,2
+Laramie,Governor,,DEM,Under Votes,229
+Laramie,Secretary of State,,REP,Max Maxfield,12795
+Laramie,Secretary of State,,REP,Write-ins,74
+Laramie,Secretary of State,,REP,Over Votes,0
+Laramie,Secretary of State,,REP,Under Votes,2199
+Laramie,Secretary of State,,DEM,Andrew Simons,3573
+Laramie,Secretary of State,,DEM,Write-ins,23
+Laramie,Secretary of State,,DEM,Over Votes,0
+Laramie,Secretary of State,,DEM,Under Votes,701
+Laramie,State Auditor,,REP,Bruce Brown,6079
+Laramie,State Auditor,,REP,Cynthia Cloud,6884
+Laramie,State Auditor,,REP,Write-ins,26
+Laramie,State Auditor,,REP,Over Votes,0
+Laramie,State Auditor,,REP,Under Votes,2079
+Laramie,State Auditor,,DEM,Write-ins,156
+Laramie,State Auditor,,DEM,Over Votes,0
+Laramie,State Auditor,,DEM,Under Votes,4141
+Laramie,State Treasurer,,REP,Joe Meyer,12864
+Laramie,State Treasurer,,REP,Write-ins,57
+Laramie,State Treasurer,,REP,Over Votes,0
+Laramie,State Treasurer,,REP,Under Votes,2147
+Laramie,State Treasurer,,DEM,Write-ins,135
+Laramie,State Treasurer,,DEM,Over Votes,0
+Laramie,State Treasurer,,DEM,Under Votes,4162
+Laramie,Superintendent of Public Instruction,,REP,Cindy Hill,6287
+Laramie,Superintendent of Public Instruction,,REP,Jim McBride,3573
+Laramie,Superintendent of Public Instruction,,REP,Ted Adams,2638
+Laramie,Superintendent of Public Instruction,,REP,Trent Blankenship,1613
+Laramie,Superintendent of Public Instruction,,REP,Write-ins,26
+Laramie,Superintendent of Public Instruction,,REP,Over Votes,0
+Laramie,Superintendent of Public Instruction,,REP,Under Votes,931
+Laramie,Superintendent of Public Instruction,,DEM,Mike Massie,3658
+Laramie,Superintendent of Public Instruction,,DEM,Write-ins,41
+Laramie,Superintendent of Public Instruction,,DEM,Over Votes,0
+Laramie,Superintendent of Public Instruction,,DEM,Under Votes,598
+Laramie,State Senate,5,REP,Fred Emerich,2707
+Laramie,State Senate,5,REP,Write-ins,21
+Laramie,State Senate,5,REP,Over Votes,0
+Laramie,State Senate,5,REP,Under Votes,570
+Laramie,State Senate,5,DEM,Lori A. Millin,728
+Laramie,State Senate,5,DEM,Write-ins,0
+Laramie,State Senate,5,DEM,Over Votes,0
+Laramie,State Senate,5,DEM,Under Votes,83
+Laramie,State Senate,7,REP,Write-ins,139
+Laramie,State Senate,7,REP,Over Votes,0
+Laramie,State Senate,7,REP,Under Votes,1909
+Laramie,State Senate,7,DEM,Kathryn L. Sessions,699
+Laramie,State Senate,7,DEM,Write-ins,4
+Laramie,State Senate,7,DEM,Over Votes,0
+Laramie,State Senate,7,DEM,Under Votes,93
+Laramie,State House,7,REP,Bryan Pedersen,1552
+Laramie,State House,7,REP,Lynn Hutchings,1361
+Laramie,State House,7,REP,Write-ins,1
+Laramie,State House,7,REP,Over Votes,0
+Laramie,State House,7,REP,Under Votes,207
+Laramie,State House,7,DEM,Write-ins,7
+Laramie,State House,7,DEM,Over Votes,0
+Laramie,State House,7,DEM,Under Votes,536
+Laramie,State House,8,REP,Bob Nicholas,1598
+Laramie,State House,8,REP,Write-ins,17
+Laramie,State House,8,REP,Over Votes,0
+Laramie,State House,8,REP,Under Votes,339
+Laramie,State House,8,DEM,Bernard Q. Phelan,207
+Laramie,State House,8,DEM,Ken McCauley,370
+Laramie,State House,8,DEM,Write-ins,0
+Laramie,State House,8,DEM,Over Votes,0
+Laramie,State House,8,DEM,Under Votes,37
+Laramie,State House,9,REP,David L. Zwonitzer,1179
+Laramie,State House,9,REP,Write-ins,15
+Laramie,State House,9,REP,Over Votes,0
+Laramie,State House,9,REP,Under Votes,199
+Laramie,State House,9,DEM,Write-ins,7
+Laramie,State House,9,DEM,Over Votes,0
+Laramie,State House,9,DEM,Under Votes,388
+Laramie,State House,10,REP,Donn L Edmunds,649
+Laramie,State House,10,REP,John Eklund Jr.,1484
+Laramie,State House,10,REP,Write-ins,8
+Laramie,State House,10,REP,Over Votes,0
+Laramie,State House,10,REP,Under Votes,272
+Laramie,State House,10,DEM,Gary R. Roadifer,405
+Laramie,State House,10,DEM,Write-ins,4
+Laramie,State House,10,DEM,Over Votes,0
+Laramie,State House,10,DEM,Under Votes,79
+Laramie,State House,11,REP,Write-ins,20
+Laramie,State House,11,REP,Over Votes,0
+Laramie,State House,11,REP,Under Votes,930
+Laramie,State House,11,DEM,Mary A. Throne,386
+Laramie,State House,11,DEM,Write-ins,3
+Laramie,State House,11,DEM,Over Votes,0
+Laramie,State House,11,DEM,Under Votes,45
+Laramie,State House,12,REP,Amy Edmonds,780
+Laramie,State House,12,REP,Write-ins,4
+Laramie,State House,12,REP,Over Votes,0
+Laramie,State House,12,REP,Under Votes,84
+Laramie,State House,12,DEM,Robert Aylward,309
+Laramie,State House,12,DEM,Write-ins,0
+Laramie,State House,12,DEM,Over Votes,0
+Laramie,State House,12,DEM,Under Votes,50
+Laramie,State House,41,REP,John R. Kaiser,1061
+Laramie,State House,41,REP,Write-ins,8
+Laramie,State House,41,REP,Over Votes,0
+Laramie,State House,41,REP,Under Votes,203
+Laramie,State House,41,DEM,Ken A. Esquibel,466
+Laramie,State House,41,DEM,Write-ins,3
+Laramie,State House,41,DEM,Over Votes,0
+Laramie,State House,41,DEM,Under Votes,52
+Laramie,State House,42,REP,Pete Illoway,741
+Laramie,State House,42,REP,"Theodore ""Jim"" Blackburn",532
+Laramie,State House,42,REP,Write-ins,3
+Laramie,State House,42,REP,Over Votes,0
+Laramie,State House,42,REP,Under Votes,67
+Laramie,State House,42,DEM,Write-ins,2
+Laramie,State House,42,DEM,Over Votes,0
+Laramie,State House,42,DEM,Under Votes,195
+Laramie,State House,43,REP,Dan Zwonitzer,863
+Laramie,State House,43,REP,Write-ins,15
+Laramie,State House,43,REP,Over Votes,0
+Laramie,State House,43,REP,Under Votes,220
+Laramie,State House,43,DEM,Write-ins,18
+Laramie,State House,43,DEM,Over Votes,0
+Laramie,State House,43,DEM,Under Votes,344
+Laramie,State House,44,REP,Write-ins,56
+Laramie,State House,44,REP,Over Votes,0
+Laramie,State House,44,REP,Under Votes,599
+Laramie,State House,44,DEM,James W. Byrd,337
+Laramie,State House,44,DEM,Write-ins,9
+Laramie,State House,44,DEM,Over Votes,0
+Laramie,State House,44,DEM,Under Votes,38
+Laramie,Ballots Cast,,REP,Ballots Cast,15068
+Laramie,Ballots Cast,,DEM,Ballots Cast,4297
+Laramie,Ballots Cast,,NP,Ballots Cast,298
+Laramie,Ballots Cast,,,Ballots Cast,19663
+Lincoln,U.S. House,,REP,Cynthia M. Lummis,3527
+Lincoln,U.S. House,,REP,Evan Liam Slafter,677
+Lincoln,U.S. House,,REP,Write-ins,5
+Lincoln,U.S. House,,REP,Over Votes,1
+Lincoln,U.S. House,,REP,Under Votes,256
+Lincoln,U.S. House,,DEM,David Wendt,457
+Lincoln,U.S. House,,DEM,Write-ins,7
+Lincoln,U.S. House,,DEM,Over Votes,0
+Lincoln,U.S. House,,DEM,Under Votes,137
+Lincoln,Governor,,REP,Alan Kousoulos,14
+Lincoln,Governor,,REP,Colin Simpson,327
+Lincoln,Governor,,REP,John H. Self,18
+Lincoln,Governor,,REP,Matt Mead,752
+Lincoln,Governor,,REP,Rita Meyer,668
+Lincoln,Governor,,REP,Ron Micheli,2598
+Lincoln,Governor,,REP,Tom A Ubben,11
+Lincoln,Governor,,REP,Write-ins,1
+Lincoln,Governor,,REP,Over Votes,4
+Lincoln,Governor,,REP,Under Votes,73
+Lincoln,Governor,,DEM,Al Hamburg,32
+Lincoln,Governor,,DEM,Chris L. Zachary,20
+Lincoln,Governor,,DEM,Leslie Petersen,243
+Lincoln,Governor,,DEM,Pete Gosar,183
+Lincoln,Governor,,DEM,Rex Wilde,37
+Lincoln,Governor,,DEM,Write-ins,9
+Lincoln,Governor,,DEM,Over Votes,0
+Lincoln,Governor,,DEM,Under Votes,77
+Lincoln,Secretary of State,,REP,Max Maxfield,3835
+Lincoln,Secretary of State,,REP,Write-ins,14
+Lincoln,Secretary of State,,REP,Over Votes,0
+Lincoln,Secretary of State,,REP,Under Votes,617
+Lincoln,Secretary of State,,DEM,Andrew Simons,455
+Lincoln,Secretary of State,,DEM,Write-ins,3
+Lincoln,Secretary of State,,DEM,Over Votes,0
+Lincoln,Secretary of State,,DEM,Under Votes,143
+Lincoln,State Auditor,,REP,Bruce Brown,1842
+Lincoln,State Auditor,,REP,Cynthia Cloud,1896
+Lincoln,State Auditor,,REP,Write-ins,6
+Lincoln,State Auditor,,REP,Over Votes,1
+Lincoln,State Auditor,,REP,Under Votes,721
+Lincoln,State Auditor,,DEM,Write-ins,10
+Lincoln,State Auditor,,DEM,Over Votes,0
+Lincoln,State Auditor,,DEM,Under Votes,591
+Lincoln,State Treasurer,,REP,Joe Meyer,3716
+Lincoln,State Treasurer,,REP,Write-ins,15
+Lincoln,State Treasurer,,REP,Over Votes,2
+Lincoln,State Treasurer,,REP,Under Votes,733
+Lincoln,State Treasurer,,DEM,Write-ins,12
+Lincoln,State Treasurer,,DEM,Over Votes,0
+Lincoln,State Treasurer,,DEM,Under Votes,589
+Lincoln,Superintendent of Public Instruction,,REP,Cindy Hill,1674
+Lincoln,Superintendent of Public Instruction,,REP,Jim McBride,1118
+Lincoln,Superintendent of Public Instruction,,REP,Ted Adams,311
+Lincoln,Superintendent of Public Instruction,,REP,Trent Blankenship,680
+Lincoln,Superintendent of Public Instruction,,REP,Write-ins,11
+Lincoln,Superintendent of Public Instruction,,REP,Over Votes,1
+Lincoln,Superintendent of Public Instruction,,REP,Under Votes,671
+Lincoln,Superintendent of Public Instruction,,DEM,Mike Massie,467
+Lincoln,Superintendent of Public Instruction,,DEM,Write-ins,5
+Lincoln,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,Superintendent of Public Instruction,,DEM,Under Votes,129
+Lincoln,State House,20,REP,James S. Mickelson,474
+Lincoln,State House,20,REP,Kathy Davison,829
+Lincoln,State House,20,REP,Write-ins,1
+Lincoln,State House,20,REP,Over Votes,0
+Lincoln,State House,20,REP,Under Votes,49
+Lincoln,State House,20,DEM,Write-ins,12
+Lincoln,State House,20,DEM,Over Votes,0
+Lincoln,State House,20,DEM,Under Votes,353
+Lincoln,State House,21,REP,Robert McKim,2475
+Lincoln,State House,21,REP,Write-ins,20
+Lincoln,State House,21,REP,Over Votes,0
+Lincoln,State House,21,REP,Under Votes,368
+Lincoln,State House,21,DEM,Write-ins,10
+Lincoln,State House,21,DEM,Over Votes,0
+Lincoln,State House,21,DEM,Under Votes,178
+Lincoln,State House,22,REP,Bill Winney,125
+Lincoln,State House,22,REP,Emmett Mavy,92
+Lincoln,State House,22,REP,Write-ins,0
+Lincoln,State House,22,REP,Over Votes,0
+Lincoln,State House,22,REP,Under Votes,33
+Lincoln,State House,22,DEM,Jim Roscoe,39
+Lincoln,State House,22,DEM,Write-ins,0
+Lincoln,State House,22,DEM,Over Votes,0
+Lincoln,State House,22,DEM,Under Votes,9
+Lincoln,Ballots Cast,,REP,Ballots Cast,4466
+Lincoln,Ballots Cast,,DEM,Ballots Cast,601
+Lincoln,Ballots Cast,,NP,Ballots Cast,183
+Lincoln,Ballots Cast,,,Ballots Cast,5250
+Natrona,U.S. House,,REP,Cynthia M. Lummis,9424
+Natrona,U.S. House,,REP,Evan Liam Slafter,2081
+Natrona,U.S. House,,REP,Write-ins,23
+Natrona,U.S. House,,REP,Over Votes,8
+Natrona,U.S. House,,REP,Under Votes,460
+Natrona,U.S. House,,DEM,David Wendt,2404
+Natrona,U.S. House,,DEM,Write-ins,20
+Natrona,U.S. House,,DEM,Over Votes,1
+Natrona,U.S. House,,DEM,Under Votes,391
+Natrona,Governor,,REP,Alan Kousoulos,34
+Natrona,Governor,,REP,Colin Simpson,1894
+Natrona,Governor,,REP,John H. Self,20
+Natrona,Governor,,REP,Matt Mead,3135
+Natrona,Governor,,REP,Rita Meyer,4044
+Natrona,Governor,,REP,Ron Micheli,2779
+Natrona,Governor,,REP,Tom A Ubben,32
+Natrona,Governor,,REP,Write-ins,4
+Natrona,Governor,,REP,Over Votes,5
+Natrona,Governor,,REP,Under Votes,49
+Natrona,Governor,,DEM,Al Hamburg,131
+Natrona,Governor,,DEM,Chris L. Zachary,108
+Natrona,Governor,,DEM,Leslie Petersen,1271
+Natrona,Governor,,DEM,Pete Gosar,1103
+Natrona,Governor,,DEM,Rex Wilde,62
+Natrona,Governor,,DEM,Write-ins,35
+Natrona,Governor,,DEM,Over Votes,8
+Natrona,Governor,,DEM,Under Votes,98
+Natrona,Secretary of State,,REP,Max Maxfield,10121
+Natrona,Secretary of State,,REP,Write-ins,55
+Natrona,Secretary of State,,REP,Over Votes,1
+Natrona,Secretary of State,,REP,Under Votes,1819
+Natrona,Secretary of State,,DEM,Andrew Simons,2343
+Natrona,Secretary of State,,DEM,Write-ins,12
+Natrona,Secretary of State,,DEM,Over Votes,3
+Natrona,Secretary of State,,DEM,Under Votes,458
+Natrona,State Auditor,,REP,Bruce Brown,5059
+Natrona,State Auditor,,REP,Cynthia Cloud,5737
+Natrona,State Auditor,,REP,Write-ins,16
+Natrona,State Auditor,,REP,Over Votes,4
+Natrona,State Auditor,,REP,Under Votes,1180
+Natrona,State Auditor,,DEM,Write-ins,81
+Natrona,State Auditor,,DEM,Over Votes,0
+Natrona,State Auditor,,DEM,Under Votes,2735
+Natrona,State Treasurer,,REP,Joe Meyer,9941
+Natrona,State Treasurer,,REP,Write-ins,36
+Natrona,State Treasurer,,REP,Over Votes,1
+Natrona,State Treasurer,,REP,Under Votes,2018
+Natrona,State Treasurer,,DEM,Write-ins,112
+Natrona,State Treasurer,,DEM,Over Votes,0
+Natrona,State Treasurer,,DEM,Under Votes,2704
+Natrona,Superintendent of Public Instruction,,REP,Cindy Hill,5699
+Natrona,Superintendent of Public Instruction,,REP,Jim McBride,2711
+Natrona,Superintendent of Public Instruction,,REP,Ted Adams,1466
+Natrona,Superintendent of Public Instruction,,REP,Trent Blankenship,1249
+Natrona,Superintendent of Public Instruction,,REP,Write-ins,15
+Natrona,Superintendent of Public Instruction,,REP,Over Votes,5
+Natrona,Superintendent of Public Instruction,,REP,Under Votes,851
+Natrona,Superintendent of Public Instruction,,DEM,Mike Massie,2367
+Natrona,Superintendent of Public Instruction,,DEM,Write-ins,27
+Natrona,Superintendent of Public Instruction,,DEM,Over Votes,2
+Natrona,Superintendent of Public Instruction,,DEM,Under Votes,420
+Natrona,State Senate,27,REP,Bill Landen,3017
+Natrona,State Senate,27,REP,Write-ins,10
+Natrona,State Senate,27,REP,Over Votes,0
+Natrona,State Senate,27,REP,Under Votes,624
+Natrona,State Senate,27,DEM,Write-ins,12
+Natrona,State Senate,27,DEM,Over Votes,0
+Natrona,State Senate,27,DEM,Under Votes,751
+Natrona,State Senate,29,REP,Drew Perkins,2586
+Natrona,State Senate,29,REP,Write-ins,19
+Natrona,State Senate,29,REP,Over Votes,0
+Natrona,State Senate,29,REP,Under Votes,497
+Natrona,State Senate,29,DEM,Write-ins,18
+Natrona,State Senate,29,DEM,Over Votes,0
+Natrona,State Senate,29,DEM,Under Votes,764
+Natrona,State House,35,REP,Austin Jennings,185
+Natrona,State House,35,REP,Kathleen B. Dixon,573
+Natrona,State House,35,REP,Kendell Kroeker,792
+Natrona,State House,35,REP,Richard (Rick) Nelson,110
+Natrona,State House,35,REP,Thomas Brauer,549
+Natrona,State House,35,REP,Write-ins,1
+Natrona,State House,35,REP,Over Votes,33
+Natrona,State House,35,REP,Under Votes,146
+Natrona,State House,35,DEM,Jack Walts,289
+Natrona,State House,35,DEM,Write-ins,2
+Natrona,State House,35,DEM,Over Votes,0
+Natrona,State House,35,DEM,Under Votes,72
+Natrona,State House,36,REP,David W. Florence,400
+Natrona,State House,36,REP,Gerald Gay,742
+Natrona,State House,36,REP,Write-ins,5
+Natrona,State House,36,REP,Over Votes,5
+Natrona,State House,36,REP,Under Votes,110
+Natrona,State House,36,DEM,Mary Hales,339
+Natrona,State House,36,DEM,Write-ins,3
+Natrona,State House,36,DEM,Over Votes,0
+Natrona,State House,36,DEM,Under Votes,58
+Natrona,State House,37,REP,Steve Harshman,1731
+Natrona,State House,37,REP,Write-ins,34
+Natrona,State House,37,REP,Over Votes,0
+Natrona,State House,37,REP,Under Votes,350
+Natrona,State House,37,DEM,Write-ins,3
+Natrona,State House,37,DEM,Over Votes,0
+Natrona,State House,37,DEM,Under Votes,348
+Natrona,State House,38,REP,Bob Brechtel,1335
+Natrona,State House,38,REP,Write-ins,14
+Natrona,State House,38,REP,Over Votes,0
+Natrona,State House,38,REP,Under Votes,261
+Natrona,State House,38,DEM,Wayne Beatty,219
+Natrona,State House,38,DEM,Write-ins,1
+Natrona,State House,38,DEM,Over Votes,0
+Natrona,State House,38,DEM,Under Votes,49
+Natrona,State House,56,REP,Tim Stubson,1065
+Natrona,State House,56,REP,Write-ins,9
+Natrona,State House,56,REP,Over Votes,0
+Natrona,State House,56,REP,Under Votes,259
+Natrona,State House,56,DEM,Pamela RW Kandt,267
+Natrona,State House,56,DEM,Write-ins,1
+Natrona,State House,56,DEM,Over Votes,1
+Natrona,State House,56,DEM,Under Votes,81
+Natrona,State House,57,REP,Thomas A. Lockhart,909
+Natrona,State House,57,REP,Write-ins,6
+Natrona,State House,57,REP,Over Votes,0
+Natrona,State House,57,REP,Under Votes,160
+Natrona,State House,57,DEM,Write-ins,14
+Natrona,State House,57,DEM,Over Votes,0
+Natrona,State House,57,DEM,Under Votes,325
+Natrona,State House,58,REP,Lisa Shepperson,881
+Natrona,State House,58,REP,Shawn Johnson,242
+Natrona,State House,58,REP,Write-ins,2
+Natrona,State House,58,REP,Over Votes,1
+Natrona,State House,58,REP,Under Votes,99
+Natrona,State House,58,DEM,Write-ins,12
+Natrona,State House,58,DEM,Over Votes,0
+Natrona,State House,58,DEM,Under Votes,301
+Natrona,State House,59,REP,"Carl R. ""Bunky"" Loucks",802
+Natrona,State House,59,REP,Write-ins,6
+Natrona,State House,59,REP,Over Votes,0
+Natrona,State House,59,REP,Under Votes,179
+Natrona,State House,59,DEM,Mike Gilmore,377
+Natrona,State House,59,DEM,Write-ins,3
+Natrona,State House,59,DEM,Over Votes,0
+Natrona,State House,59,DEM,Under Votes,51
+Natrona,Ballots Cast,,REP,Ballots Cast,11996
+Natrona,Ballots Cast,,DEM,Ballots Cast,2816
+Natrona,Ballots Cast,,NP,Ballots Cast,239
+Natrona,Ballots Cast,,,Ballots Cast,15051
+Niobrara,U.S. House,,REP,Cynthia M. Lummis,878
+Niobrara,U.S. House,,REP,Evan Liam Slafter,146
+Niobrara,U.S. House,,REP,Write-ins,0
+Niobrara,U.S. House,,REP,Over Votes,1
+Niobrara,U.S. House,,REP,Under Votes,54
+Niobrara,U.S. House,,DEM,David Wendt,29
+Niobrara,U.S. House,,DEM,Write-ins,0
+Niobrara,U.S. House,,DEM,Over Votes,0
+Niobrara,U.S. House,,DEM,Under Votes,7
+Niobrara,Governor,,REP,Alan Kousoulos,5
+Niobrara,Governor,,REP,Colin Simpson,72
+Niobrara,Governor,,REP,John H. Self,6
+Niobrara,Governor,,REP,Matt Mead,519
+Niobrara,Governor,,REP,Rita Meyer,201
+Niobrara,Governor,,REP,Ron Micheli,248
+Niobrara,Governor,,REP,Tom A Ubben,5
+Niobrara,Governor,,REP,Write-ins,4
+Niobrara,Governor,,REP,Over Votes,2
+Niobrara,Governor,,REP,Under Votes,17
+Niobrara,Governor,,DEM,Al Hamburg,4
+Niobrara,Governor,,DEM,Chris L. Zachary,1
+Niobrara,Governor,,DEM,Leslie Petersen,12
+Niobrara,Governor,,DEM,Pete Gosar,12
+Niobrara,Governor,,DEM,Rex Wilde,2
+Niobrara,Governor,,DEM,Write-ins,0
+Niobrara,Governor,,DEM,Over Votes,0
+Niobrara,Governor,,DEM,Under Votes,5
+Niobrara,Secretary of State,,REP,Max Maxfield,945
+Niobrara,Secretary of State,,REP,Write-ins,2
+Niobrara,Secretary of State,,REP,Over Votes,0
+Niobrara,Secretary of State,,REP,Under Votes,132
+Niobrara,Secretary of State,,DEM,Andrew Simons,26
+Niobrara,Secretary of State,,DEM,Write-ins,0
+Niobrara,Secretary of State,,DEM,Over Votes,0
+Niobrara,Secretary of State,,DEM,Under Votes,10
+Niobrara,State Auditor,,REP,Bruce Brown,605
+Niobrara,State Auditor,,REP,Cynthia Cloud,339
+Niobrara,State Auditor,,REP,Write-ins,2
+Niobrara,State Auditor,,REP,Over Votes,0
+Niobrara,State Auditor,,REP,Under Votes,133
+Niobrara,State Auditor,,DEM,Write-ins,1
+Niobrara,State Auditor,,DEM,Over Votes,0
+Niobrara,State Auditor,,DEM,Under Votes,35
+Niobrara,State Treasurer,,REP,Joe Meyer,947
+Niobrara,State Treasurer,,REP,Write-ins,1
+Niobrara,State Treasurer,,REP,Over Votes,0
+Niobrara,State Treasurer,,REP,Under Votes,131
+Niobrara,State Treasurer,,DEM,Write-ins,0
+Niobrara,State Treasurer,,DEM,Over Votes,0
+Niobrara,State Treasurer,,DEM,Under Votes,36
+Niobrara,Superintendent of Public Instruction,,REP,Cindy Hill,556
+Niobrara,Superintendent of Public Instruction,,REP,Jim McBride,162
+Niobrara,Superintendent of Public Instruction,,REP,Ted Adams,152
+Niobrara,Superintendent of Public Instruction,,REP,Trent Blankenship,133
+Niobrara,Superintendent of Public Instruction,,REP,Write-ins,0
+Niobrara,Superintendent of Public Instruction,,REP,Over Votes,0
+Niobrara,Superintendent of Public Instruction,,REP,Under Votes,76
+Niobrara,Superintendent of Public Instruction,,DEM,Mike Massie,30
+Niobrara,Superintendent of Public Instruction,,DEM,Write-ins,0
+Niobrara,Superintendent of Public Instruction,,DEM,Over Votes,0
+Niobrara,Superintendent of Public Instruction,,DEM,Under Votes,6
+Niobrara,State Senate,1,REP,Ogden Driskill,140
+Niobrara,State Senate,1,REP,Terry Marie Henderson,321
+Niobrara,State Senate,1,REP,Tom Dunlap,555
+Niobrara,State Senate,1,REP,Write-ins,0
+Niobrara,State Senate,1,REP,Over Votes,0
+Niobrara,State Senate,1,REP,Under Votes,63
+Niobrara,State Senate,1,DEM,Write-ins,1
+Niobrara,State Senate,1,DEM,Over Votes,0
+Niobrara,State Senate,1,DEM,Under Votes,35
+Niobrara,State House,2,REP,Brad Reese,344
+Niobrara,State House,2,REP,Hans Hunt,336
+Niobrara,State House,2,REP,John Ellis,366
+Niobrara,State House,2,REP,Write-ins,0
+Niobrara,State House,2,REP,Over Votes,0
+Niobrara,State House,2,REP,Under Votes,33
+Niobrara,State House,2,DEM,Write-ins,1
+Niobrara,State House,2,DEM,Over Votes,0
+Niobrara,State House,2,DEM,Under Votes,35
+Niobrara,Ballots Cast,,REP,Ballots Cast,1079
+Niobrara,Ballots Cast,,DEM,Ballots Cast,36
+Niobrara,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,Ballots Cast,,,Ballots Cast,1115
+Park,U.S. House,,REP,Cynthia M. Lummis,6570
+Park,U.S. House,,REP,Evan Liam Slafter,1367
+Park,U.S. House,,REP,Write-ins,49
+Park,U.S. House,,REP,Over Votes,3
+Park,U.S. House,,REP,Under Votes,452
+Park,U.S. House,,DEM,David Wendt,643
+Park,U.S. House,,DEM,Write-ins,19
+Park,U.S. House,,DEM,Over Votes,1
+Park,U.S. House,,DEM,Under Votes,113
+Park,Governor,,REP,Alan Kousoulos,148
+Park,Governor,,REP,Colin Simpson,2793
+Park,Governor,,REP,John H. Self,16
+Park,Governor,,REP,Matt Mead,1413
+Park,Governor,,REP,Rita Meyer,1969
+Park,Governor,,REP,Ron Micheli,2031
+Park,Governor,,REP,Tom A Ubben,12
+Park,Governor,,REP,Write-ins,5
+Park,Governor,,REP,Over Votes,4
+Park,Governor,,REP,Under Votes,50
+Park,Governor,,DEM,Al Hamburg,33
+Park,Governor,,DEM,Chris L. Zachary,40
+Park,Governor,,DEM,Leslie Petersen,323
+Park,Governor,,DEM,Pete Gosar,195
+Park,Governor,,DEM,Rex Wilde,55
+Park,Governor,,DEM,Write-ins,29
+Park,Governor,,DEM,Over Votes,1
+Park,Governor,,DEM,Under Votes,100
+Park,Secretary of State,,REP,Max Maxfield,7241
+Park,Secretary of State,,REP,Write-ins,37
+Park,Secretary of State,,REP,Over Votes,2
+Park,Secretary of State,,REP,Under Votes,1161
+Park,Secretary of State,,DEM,Andrew Simons,624
+Park,Secretary of State,,DEM,Write-ins,11
+Park,Secretary of State,,DEM,Over Votes,0
+Park,Secretary of State,,DEM,Under Votes,141
+Park,State Auditor,,REP,Bruce Brown,2823
+Park,State Auditor,,REP,Cynthia Cloud,4775
+Park,State Auditor,,REP,Write-ins,21
+Park,State Auditor,,REP,Over Votes,1
+Park,State Auditor,,REP,Under Votes,821
+Park,State Auditor,,DEM,Write-ins,48
+Park,State Auditor,,DEM,Over Votes,0
+Park,State Auditor,,DEM,Under Votes,728
+Park,State Treasurer,,REP,Joe Meyer,7100
+Park,State Treasurer,,REP,Write-ins,40
+Park,State Treasurer,,REP,Over Votes,1
+Park,State Treasurer,,REP,Under Votes,1300
+Park,State Treasurer,,DEM,Write-ins,40
+Park,State Treasurer,,DEM,Over Votes,0
+Park,State Treasurer,,DEM,Under Votes,736
+Park,Superintendent of Public Instruction,,REP,Cindy Hill,3603
+Park,Superintendent of Public Instruction,,REP,Jim McBride,2099
+Park,Superintendent of Public Instruction,,REP,Ted Adams,443
+Park,Superintendent of Public Instruction,,REP,Trent Blankenship,1097
+Park,Superintendent of Public Instruction,,REP,Write-ins,23
+Park,Superintendent of Public Instruction,,REP,Over Votes,5
+Park,Superintendent of Public Instruction,,REP,Under Votes,1171
+Park,Superintendent of Public Instruction,,DEM,Mike Massie,636
+Park,Superintendent of Public Instruction,,DEM,Write-ins,5
+Park,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,Superintendent of Public Instruction,,DEM,Under Votes,135
+Park,State Senate,19,REP,R. Ray Peterson,1944
+Park,State Senate,19,REP,Write-ins,12
+Park,State Senate,19,REP,Over Votes,1
+Park,State Senate,19,REP,Under Votes,398
+Park,State Senate,19,DEM,Write-ins,14
+Park,State Senate,19,DEM,Over Votes,0
+Park,State Senate,19,DEM,Under Votes,256
+Park,State House,24,REP,Jason B. Whitman,521
+Park,State House,24,REP,Sam Krone,1459
+Park,State House,24,REP,Steve Simonton,868
+Park,State House,24,REP,Write-ins,6
+Park,State House,24,REP,Over Votes,3
+Park,State House,24,REP,Under Votes,101
+Park,State House,24,DEM,Write-ins,23
+Park,State House,24,DEM,Over Votes,0
+Park,State House,24,DEM,Under Votes,245
+Park,State House,25,REP,Dave Bonner,1049
+Park,State House,25,REP,David Kellett,390
+Park,State House,25,REP,Gerry Parker,720
+Park,State House,25,REP,Write-ins,5
+Park,State House,25,REP,Over Votes,1
+Park,State House,25,REP,Under Votes,111
+Park,State House,25,DEM,Write-ins,37
+Park,State House,25,DEM,Over Votes,0
+Park,State House,25,DEM,Under Votes,230
+Park,State House,26,REP,Elaine D. Harvey,68
+Park,State House,26,REP,Write-ins,1
+Park,State House,26,REP,Over Votes,0
+Park,State House,26,REP,Under Votes,10
+Park,State House,26,DEM,Write-ins,1
+Park,State House,26,DEM,Over Votes,0
+Park,State House,26,DEM,Under Votes,2
+Park,State House,50,REP,Pat Childers,2402
+Park,State House,50,REP,Write-ins,77
+Park,State House,50,REP,Over Votes,1
+Park,State House,50,REP,Under Votes,648
+Park,State House,50,DEM,Write-ins,11
+Park,State House,50,DEM,Over Votes,0
+Park,State House,50,DEM,Under Votes,227
+Park,Ballots Cast,,REP,Ballots Cast,8441
+Park,Ballots Cast,,DEM,Ballots Cast,776
+Park,Ballots Cast,,NP,Ballots Cast,343
+Park,Ballots Cast,,,Ballots Cast,9560
+Platte,U.S. House,,REP,Cynthia M. Lummis,2077
+Platte,U.S. House,,REP,Evan Liam Slafter,405
+Platte,U.S. House,,REP,Write-ins,6
+Platte,U.S. House,,REP,Over Votes,2
+Platte,U.S. House,,REP,Under Votes,98
+Platte,U.S. House,,DEM,David Wendt,492
+Platte,U.S. House,,DEM,Write-ins,2
+Platte,U.S. House,,DEM,Over Votes,0
+Platte,U.S. House,,DEM,Under Votes,80
+Platte,Governor,,REP,Alan Kousoulos,6
+Platte,Governor,,REP,Colin Simpson,209
+Platte,Governor,,REP,John H. Self,5
+Platte,Governor,,REP,Matt Mead,777
+Platte,Governor,,REP,Rita Meyer,825
+Platte,Governor,,REP,Ron Micheli,725
+Platte,Governor,,REP,Tom A Ubben,13
+Platte,Governor,,REP,Write-ins,5
+Platte,Governor,,REP,Over Votes,1
+Platte,Governor,,REP,Under Votes,22
+Platte,Governor,,DEM,Al Hamburg,39
+Platte,Governor,,DEM,Chris L. Zachary,43
+Platte,Governor,,DEM,Leslie Petersen,257
+Platte,Governor,,DEM,Pete Gosar,149
+Platte,Governor,,DEM,Rex Wilde,31
+Platte,Governor,,DEM,Write-ins,5
+Platte,Governor,,DEM,Over Votes,1
+Platte,Governor,,DEM,Under Votes,49
+Platte,Secretary of State,,REP,Max Maxfield,2305
+Platte,Secretary of State,,REP,Write-ins,8
+Platte,Secretary of State,,REP,Over Votes,0
+Platte,Secretary of State,,REP,Under Votes,275
+Platte,Secretary of State,,DEM,Andrew Simons,493
+Platte,Secretary of State,,DEM,Write-ins,2
+Platte,Secretary of State,,DEM,Over Votes,0
+Platte,Secretary of State,,DEM,Under Votes,79
+Platte,State Auditor,,REP,Bruce Brown,1253
+Platte,State Auditor,,REP,Cynthia Cloud,1114
+Platte,State Auditor,,REP,Write-ins,0
+Platte,State Auditor,,REP,Over Votes,0
+Platte,State Auditor,,REP,Under Votes,221
+Platte,State Auditor,,DEM,Write-ins,10
+Platte,State Auditor,,DEM,Over Votes,0
+Platte,State Auditor,,DEM,Under Votes,564
+Platte,State Treasurer,,REP,Joe Meyer,2294
+Platte,State Treasurer,,REP,Write-ins,8
+Platte,State Treasurer,,REP,Over Votes,0
+Platte,State Treasurer,,REP,Under Votes,286
+Platte,State Treasurer,,DEM,Write-ins,7
+Platte,State Treasurer,,DEM,Over Votes,0
+Platte,State Treasurer,,DEM,Under Votes,567
+Platte,Superintendent of Public Instruction,,REP,Cindy Hill,1367
+Platte,Superintendent of Public Instruction,,REP,Jim McBride,586
+Platte,Superintendent of Public Instruction,,REP,Ted Adams,249
+Platte,Superintendent of Public Instruction,,REP,Trent Blankenship,229
+Platte,Superintendent of Public Instruction,,REP,Write-ins,6
+Platte,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,Superintendent of Public Instruction,,REP,Under Votes,151
+Platte,Superintendent of Public Instruction,,DEM,Mike Massie,492
+Platte,Superintendent of Public Instruction,,DEM,Write-ins,6
+Platte,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,Superintendent of Public Instruction,,DEM,Under Votes,76
+Platte,State Senate,3,REP,Cheri E. Steinmetz,373
+Platte,State Senate,3,REP,Curt Meier,518
+Platte,State Senate,3,REP,Write-ins,0
+Platte,State Senate,3,REP,Over Votes,0
+Platte,State Senate,3,REP,Under Votes,46
+Platte,State Senate,3,DEM,Write-ins,2
+Platte,State Senate,3,DEM,Over Votes,0
+Platte,State Senate,3,DEM,Under Votes,278
+Platte,State House,3,REP,Frank Peasley,1445
+Platte,State House,3,REP,Write-ins,9
+Platte,State House,3,REP,Over Votes,0
+Platte,State House,3,REP,Under Votes,197
+Platte,State House,3,DEM,Write-ins,4
+Platte,State House,3,DEM,Over Votes,0
+Platte,State House,3,DEM,Under Votes,290
+Platte,State House,5,REP,Matt Teeters,794
+Platte,State House,5,REP,Write-ins,10
+Platte,State House,5,REP,Over Votes,0
+Platte,State House,5,REP,Under Votes,133
+Platte,State House,5,DEM,Write-ins,2
+Platte,State House,5,DEM,Over Votes,0
+Platte,State House,5,DEM,Under Votes,278
+Platte,Ballots Cast,,REP,Ballots Cast,2588
+Platte,Ballots Cast,,DEM,Ballots Cast,574
+Platte,Ballots Cast,,NP,Ballots Cast,45
+Platte,Ballots Cast,,,Ballots Cast,3207
+Sheridan,U.S. House,,REP,Cynthia M. Lummis,4603
+Sheridan,U.S. House,,REP,Evan Liam Slafter,946
+Sheridan,U.S. House,,REP,Write-ins,9
+Sheridan,U.S. House,,REP,Over Votes,0
+Sheridan,U.S. House,,REP,Under Votes,252
+Sheridan,U.S. House,,DEM,David Wendt,873
+Sheridan,U.S. House,,DEM,Write-ins,11
+Sheridan,U.S. House,,DEM,Over Votes,0
+Sheridan,U.S. House,,DEM,Under Votes,144
+Sheridan,Governor,,REP,Alan Kousoulos,18
+Sheridan,Governor,,REP,Colin Simpson,1185
+Sheridan,Governor,,REP,John H. Self,21
+Sheridan,Governor,,REP,Matt Mead,1575
+Sheridan,Governor,,REP,Rita Meyer,1874
+Sheridan,Governor,,REP,Ron Micheli,1035
+Sheridan,Governor,,REP,Tom A Ubben,23
+Sheridan,Governor,,REP,Write-ins,4
+Sheridan,Governor,,REP,Over Votes,6
+Sheridan,Governor,,REP,Under Votes,69
+Sheridan,Governor,,DEM,Al Hamburg,37
+Sheridan,Governor,,DEM,Chris L. Zachary,62
+Sheridan,Governor,,DEM,Leslie Petersen,384
+Sheridan,Governor,,DEM,Pete Gosar,434
+Sheridan,Governor,,DEM,Rex Wilde,38
+Sheridan,Governor,,DEM,Write-ins,15
+Sheridan,Governor,,DEM,Over Votes,2
+Sheridan,Governor,,DEM,Under Votes,56
+Sheridan,Secretary of State,,REP,Max Maxfield,4992
+Sheridan,Secretary of State,,REP,Write-ins,20
+Sheridan,Secretary of State,,REP,Over Votes,2
+Sheridan,Secretary of State,,REP,Under Votes,796
+Sheridan,Secretary of State,,DEM,Andrew Simons,863
+Sheridan,Secretary of State,,DEM,Write-ins,4
+Sheridan,Secretary of State,,DEM,Over Votes,0
+Sheridan,Secretary of State,,DEM,Under Votes,161
+Sheridan,State Auditor,,REP,Bruce Brown,3182
+Sheridan,State Auditor,,REP,Cynthia Cloud,1894
+Sheridan,State Auditor,,REP,Write-ins,13
+Sheridan,State Auditor,,REP,Over Votes,1
+Sheridan,State Auditor,,REP,Under Votes,720
+Sheridan,State Auditor,,DEM,Write-ins,19
+Sheridan,State Auditor,,DEM,Over Votes,0
+Sheridan,State Auditor,,DEM,Under Votes,1009
+Sheridan,State Treasurer,,REP,Joe Meyer,4949
+Sheridan,State Treasurer,,REP,Write-ins,14
+Sheridan,State Treasurer,,REP,Over Votes,1
+Sheridan,State Treasurer,,REP,Under Votes,846
+Sheridan,State Treasurer,,DEM,Write-ins,14
+Sheridan,State Treasurer,,DEM,Over Votes,0
+Sheridan,State Treasurer,,DEM,Under Votes,1014
+Sheridan,Superintendent of Public Instruction,,REP,Cindy Hill,2362
+Sheridan,Superintendent of Public Instruction,,REP,Jim McBride,1569
+Sheridan,Superintendent of Public Instruction,,REP,Ted Adams,381
+Sheridan,Superintendent of Public Instruction,,REP,Trent Blankenship,825
+Sheridan,Superintendent of Public Instruction,,REP,Write-ins,9
+Sheridan,Superintendent of Public Instruction,,REP,Over Votes,2
+Sheridan,Superintendent of Public Instruction,,REP,Under Votes,662
+Sheridan,Superintendent of Public Instruction,,DEM,Mike Massie,892
+Sheridan,Superintendent of Public Instruction,,DEM,Write-ins,5
+Sheridan,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sheridan,Superintendent of Public Instruction,,DEM,Under Votes,131
+Sheridan,State Senate,21,REP,Bruce Burns,3127
+Sheridan,State Senate,21,REP,Write-ins,26
+Sheridan,State Senate,21,REP,Over Votes,0
+Sheridan,State Senate,21,REP,Under Votes,544
+Sheridan,State Senate,21,DEM,Write-ins,10
+Sheridan,State Senate,21,DEM,Over Votes,0
+Sheridan,State Senate,21,DEM,Under Votes,664
+Sheridan,State House,29,REP,John W. Patton,1111
+Sheridan,State House,29,REP,Write-ins,14
+Sheridan,State House,29,REP,Over Votes,0
+Sheridan,State House,29,REP,Under Votes,210
+Sheridan,State House,29,DEM,Write-ins,4
+Sheridan,State House,29,DEM,Over Votes,0
+Sheridan,State House,29,DEM,Under Votes,300
+Sheridan,State House,30,REP,Daniel R. Blake,175
+Sheridan,State House,30,REP,Jon Botten,663
+Sheridan,State House,30,REP,R.G. Kekich,261
+Sheridan,State House,30,REP,Steve Cox,489
+Sheridan,State House,30,REP,Write-ins,5
+Sheridan,State House,30,REP,Over Votes,2
+Sheridan,State House,30,REP,Under Votes,138
+Sheridan,State House,30,DEM,Write-ins,8
+Sheridan,State House,30,DEM,Over Votes,0
+Sheridan,State House,30,DEM,Under Votes,288
+Sheridan,State House,40,REP,Joseph St. Pierre,21
+Sheridan,State House,40,REP,Laura B. DeMatteis,90
+Sheridan,State House,40,REP,Mike Madden,221
+Sheridan,State House,40,REP,Write-ins,1
+Sheridan,State House,40,REP,Over Votes,0
+Sheridan,State House,40,REP,Under Votes,47
+Sheridan,State House,40,DEM,Write-ins,0
+Sheridan,State House,40,DEM,Over Votes,0
+Sheridan,State House,40,DEM,Under Votes,58
+Sheridan,State House,51,REP,Rosie Berger,1504
+Sheridan,State House,51,REP,William J. Doenz,772
+Sheridan,State House,51,REP,Write-ins,2
+Sheridan,State House,51,REP,Over Votes,0
+Sheridan,State House,51,REP,Under Votes,84
+Sheridan,State House,51,DEM,Write-ins,6
+Sheridan,State House,51,DEM,Over Votes,0
+Sheridan,State House,51,DEM,Under Votes,364
+Sheridan,Ballots Cast,,REP,Ballots Cast,5810
+Sheridan,Ballots Cast,,DEM,Ballots Cast,1028
+Sheridan,Ballots Cast,,NP,Ballots Cast,127
+Sheridan,Ballots Cast,,,Ballots Cast,6965
+Sublette,U.S. House,,REP,Cynthia M. Lummis,1887
+Sublette,U.S. House,,REP,Evan Liam Slafter,474
+Sublette,U.S. House,,REP,Write-ins,4
+Sublette,U.S. House,,REP,Over Votes,2
+Sublette,U.S. House,,REP,Under Votes,197
+Sublette,U.S. House,,DEM,David Wendt,138
+Sublette,U.S. House,,DEM,Write-ins,2
+Sublette,U.S. House,,DEM,Over Votes,0
+Sublette,U.S. House,,DEM,Under Votes,61
+Sublette,Governor,,REP,Alan Kousoulos,10
+Sublette,Governor,,REP,Colin Simpson,169
+Sublette,Governor,,REP,John H. Self,8
+Sublette,Governor,,REP,Matt Mead,736
+Sublette,Governor,,REP,Rita Meyer,782
+Sublette,Governor,,REP,Ron Micheli,785
+Sublette,Governor,,REP,Tom A Ubben,12
+Sublette,Governor,,REP,Write-ins,6
+Sublette,Governor,,REP,Over Votes,1
+Sublette,Governor,,REP,Under Votes,55
+Sublette,Governor,,DEM,Al Hamburg,1
+Sublette,Governor,,DEM,Chris L. Zachary,7
+Sublette,Governor,,DEM,Leslie Petersen,45
+Sublette,Governor,,DEM,Pete Gosar,130
+Sublette,Governor,,DEM,Rex Wilde,3
+Sublette,Governor,,DEM,Write-ins,4
+Sublette,Governor,,DEM,Over Votes,0
+Sublette,Governor,,DEM,Under Votes,11
+Sublette,Secretary of State,,REP,Max Maxfield,2140
+Sublette,Secretary of State,,REP,Write-ins,3
+Sublette,Secretary of State,,REP,Over Votes,0
+Sublette,Secretary of State,,REP,Under Votes,421
+Sublette,Secretary of State,,DEM,Andrew Simons,130
+Sublette,Secretary of State,,DEM,Write-ins,1
+Sublette,Secretary of State,,DEM,Over Votes,0
+Sublette,Secretary of State,,DEM,Under Votes,70
+Sublette,State Auditor,,REP,Bruce Brown,791
+Sublette,State Auditor,,REP,Cynthia Cloud,1235
+Sublette,State Auditor,,REP,Write-ins,1
+Sublette,State Auditor,,REP,Over Votes,1
+Sublette,State Auditor,,REP,Under Votes,536
+Sublette,State Auditor,,DEM,Write-ins,4
+Sublette,State Auditor,,DEM,Over Votes,0
+Sublette,State Auditor,,DEM,Under Votes,197
+Sublette,State Treasurer,,REP,Joe Meyer,2156
+Sublette,State Treasurer,,REP,Write-ins,5
+Sublette,State Treasurer,,REP,Over Votes,0
+Sublette,State Treasurer,,REP,Under Votes,403
+Sublette,State Treasurer,,DEM,Write-ins,4
+Sublette,State Treasurer,,DEM,Over Votes,0
+Sublette,State Treasurer,,DEM,Under Votes,197
+Sublette,Superintendent of Public Instruction,,REP,Cindy Hill,916
+Sublette,Superintendent of Public Instruction,,REP,Jim McBride,507
+Sublette,Superintendent of Public Instruction,,REP,Ted Adams,227
+Sublette,Superintendent of Public Instruction,,REP,Trent Blankenship,441
+Sublette,Superintendent of Public Instruction,,REP,Write-ins,4
+Sublette,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,Superintendent of Public Instruction,,REP,Under Votes,469
+Sublette,Superintendent of Public Instruction,,DEM,Mike Massie,147
+Sublette,Superintendent of Public Instruction,,DEM,Write-ins,3
+Sublette,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,Superintendent of Public Instruction,,DEM,Under Votes,51
+Sublette,State House,20,REP,James S. Mickelson,346
+Sublette,State House,20,REP,Kathy Davison,276
+Sublette,State House,20,REP,Write-ins,0
+Sublette,State House,20,REP,Over Votes,0
+Sublette,State House,20,REP,Under Votes,28
+Sublette,State House,20,DEM,Write-ins,3
+Sublette,State House,20,DEM,Over Votes,0
+Sublette,State House,20,DEM,Under Votes,27
+Sublette,State House,22,REP,Bill Winney,1096
+Sublette,State House,22,REP,Emmett Mavy,415
+Sublette,State House,22,REP,Write-ins,10
+Sublette,State House,22,REP,Over Votes,1
+Sublette,State House,22,REP,Under Votes,392
+Sublette,State House,22,DEM,Jim Roscoe,142
+Sublette,State House,22,DEM,Write-ins,0
+Sublette,State House,22,DEM,Over Votes,0
+Sublette,State House,22,DEM,Under Votes,29
+Sublette,Ballots Cast,,REP,Ballots Cast,2564
+Sublette,Ballots Cast,,DEM,Ballots Cast,201
+Sublette,Ballots Cast,,NP,Ballots Cast,33
+Sublette,Ballots Cast,,,Ballots Cast,2798
+Sweetwater,U.S. House,,REP,Cynthia M. Lummis,2896
+Sweetwater,U.S. House,,REP,Evan Liam Slafter,890
+Sweetwater,U.S. House,,REP,Write-ins,7
+Sweetwater,U.S. House,,REP,Over Votes,1
+Sweetwater,U.S. House,,REP,Under Votes,174
+Sweetwater,U.S. House,,DEM,David Wendt,3163
+Sweetwater,U.S. House,,DEM,Write-ins,22
+Sweetwater,U.S. House,,DEM,Over Votes,0
+Sweetwater,U.S. House,,DEM,Under Votes,862
+Sweetwater,Governor,,REP,Alan Kousoulos,22
+Sweetwater,Governor,,REP,Colin Simpson,404
+Sweetwater,Governor,,REP,John H. Self,22
+Sweetwater,Governor,,REP,Matt Mead,1162
+Sweetwater,Governor,,REP,Rita Meyer,753
+Sweetwater,Governor,,REP,Ron Micheli,1519
+Sweetwater,Governor,,REP,Tom A Ubben,30
+Sweetwater,Governor,,REP,Write-ins,0
+Sweetwater,Governor,,REP,Over Votes,3
+Sweetwater,Governor,,REP,Under Votes,53
+Sweetwater,Governor,,DEM,Al Hamburg,145
+Sweetwater,Governor,,DEM,Chris L. Zachary,127
+Sweetwater,Governor,,DEM,Leslie Petersen,1246
+Sweetwater,Governor,,DEM,Pete Gosar,1914
+Sweetwater,Governor,,DEM,Rex Wilde,170
+Sweetwater,Governor,,DEM,Write-ins,42
+Sweetwater,Governor,,DEM,Over Votes,0
+Sweetwater,Governor,,DEM,Under Votes,403
+Sweetwater,Secretary of State,,REP,Max Maxfield,3497
+Sweetwater,Secretary of State,,REP,Write-ins,7
+Sweetwater,Secretary of State,,REP,Over Votes,0
+Sweetwater,Secretary of State,,REP,Under Votes,464
+Sweetwater,Secretary of State,,DEM,Andrew Simons,3116
+Sweetwater,Secretary of State,,DEM,Write-ins,13
+Sweetwater,Secretary of State,,DEM,Over Votes,0
+Sweetwater,Secretary of State,,DEM,Under Votes,918
+Sweetwater,State Auditor,,REP,Bruce Brown,1449
+Sweetwater,State Auditor,,REP,Cynthia Cloud,2015
+Sweetwater,State Auditor,,REP,Write-ins,2
+Sweetwater,State Auditor,,REP,Over Votes,0
+Sweetwater,State Auditor,,REP,Under Votes,502
+Sweetwater,State Auditor,,DEM,Write-ins,148
+Sweetwater,State Auditor,,DEM,Over Votes,0
+Sweetwater,State Auditor,,DEM,Under Votes,3899
+Sweetwater,State Treasurer,,REP,Joe Meyer,3409
+Sweetwater,State Treasurer,,REP,Write-ins,7
+Sweetwater,State Treasurer,,REP,Over Votes,0
+Sweetwater,State Treasurer,,REP,Under Votes,552
+Sweetwater,State Treasurer,,DEM,Write-ins,114
+Sweetwater,State Treasurer,,DEM,Over Votes,0
+Sweetwater,State Treasurer,,DEM,Under Votes,3933
+Sweetwater,Superintendent of Public Instruction,,REP,Cindy Hill,1266
+Sweetwater,Superintendent of Public Instruction,,REP,Jim McBride,915
+Sweetwater,Superintendent of Public Instruction,,REP,Ted Adams,536
+Sweetwater,Superintendent of Public Instruction,,REP,Trent Blankenship,818
+Sweetwater,Superintendent of Public Instruction,,REP,Write-ins,7
+Sweetwater,Superintendent of Public Instruction,,REP,Over Votes,2
+Sweetwater,Superintendent of Public Instruction,,REP,Under Votes,424
+Sweetwater,Superintendent of Public Instruction,,DEM,Mike Massie,3120
+Sweetwater,Superintendent of Public Instruction,,DEM,Write-ins,12
+Sweetwater,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,Superintendent of Public Instruction,,DEM,Under Votes,915
+Sweetwater,State Senate,13,REP,Write-ins,53
+Sweetwater,State Senate,13,REP,Over Votes,0
+Sweetwater,State Senate,13,REP,Under Votes,1591
+Sweetwater,State Senate,13,DEM,John M. Hastert,1442
+Sweetwater,State Senate,13,DEM,Write-ins,9
+Sweetwater,State Senate,13,DEM,Over Votes,0
+Sweetwater,State Senate,13,DEM,Under Votes,342
+Sweetwater,State House,17,REP,Stephen Watt,536
+Sweetwater,State House,17,REP,Write-ins,4
+Sweetwater,State House,17,REP,Over Votes,0
+Sweetwater,State House,17,REP,Under Votes,129
+Sweetwater,State House,17,DEM,Bernadine L. Craft,666
+Sweetwater,State House,17,DEM,Write-ins,4
+Sweetwater,State House,17,DEM,Over Votes,0
+Sweetwater,State House,17,DEM,Under Votes,125
+Sweetwater,State House,18,REP,Allen M. Jaggi,545
+Sweetwater,State House,18,REP,Write-ins,1
+Sweetwater,State House,18,REP,Over Votes,0
+Sweetwater,State House,18,REP,Under Votes,96
+Sweetwater,State House,18,DEM,Write-ins,6
+Sweetwater,State House,18,DEM,Over Votes,0
+Sweetwater,State House,18,DEM,Under Votes,453
+Sweetwater,State House,20,REP,James S. Mickelson,136
+Sweetwater,State House,20,REP,Kathy Davison,132
+Sweetwater,State House,20,REP,Write-ins,0
+Sweetwater,State House,20,REP,Over Votes,0
+Sweetwater,State House,20,REP,Under Votes,51
+Sweetwater,State House,20,DEM,Write-ins,1
+Sweetwater,State House,20,DEM,Over Votes,0
+Sweetwater,State House,20,DEM,Under Votes,121
+Sweetwater,State House,39,REP,Write-ins,20
+Sweetwater,State House,39,REP,Over Votes,0
+Sweetwater,State House,39,REP,Under Votes,792
+Sweetwater,State House,39,DEM,Stan Blake,724
+Sweetwater,State House,39,DEM,Write-ins,6
+Sweetwater,State House,39,DEM,Over Votes,0
+Sweetwater,State House,39,DEM,Under Votes,193
+Sweetwater,State House,48,REP,Write-ins,25
+Sweetwater,State House,48,REP,Over Votes,0
+Sweetwater,State House,48,REP,Under Votes,669
+Sweetwater,State House,48,DEM,Joseph M. Barbuto,724
+Sweetwater,State House,48,DEM,Write-ins,9
+Sweetwater,State House,48,DEM,Over Votes,0
+Sweetwater,State House,48,DEM,Under Votes,145
+Sweetwater,State House,60,REP,Ted York,586
+Sweetwater,State House,60,REP,Write-ins,33
+Sweetwater,State House,60,REP,Over Votes,0
+Sweetwater,State House,60,REP,Under Votes,213
+Sweetwater,State House,60,DEM,John L. Freeman,737
+Sweetwater,State House,60,DEM,Write-ins,2
+Sweetwater,State House,60,DEM,Over Votes,0
+Sweetwater,State House,60,DEM,Under Votes,131
+Sweetwater,Ballots Cast,,REP,Ballots Cast,3968
+Sweetwater,Ballots Cast,,DEM,Ballots Cast,4047
+Sweetwater,Ballots Cast,,NP,Ballots Cast,276
+Sweetwater,Ballots Cast,,,Ballots Cast,8291
+Teton,U.S. House,,REP,Cynthia M. Lummis,2260
+Teton,U.S. House,,REP,Evan Liam Slafter,752
+Teton,U.S. House,,REP,Write-ins,21
+Teton,U.S. House,,REP,Over Votes,8
+Teton,U.S. House,,REP,Under Votes,422
+Teton,U.S. House,,DEM,David Wendt,1504
+Teton,U.S. House,,DEM,Write-ins,8
+Teton,U.S. House,,DEM,Over Votes,0
+Teton,U.S. House,,DEM,Under Votes,302
+Teton,Governor,,REP,Alan Kousoulos,12
+Teton,Governor,,REP,Colin Simpson,611
+Teton,Governor,,REP,John H. Self,15
+Teton,Governor,,REP,Matt Mead,1814
+Teton,Governor,,REP,Rita Meyer,588
+Teton,Governor,,REP,Ron Micheli,305
+Teton,Governor,,REP,Tom A Ubben,15
+Teton,Governor,,REP,Write-ins,1
+Teton,Governor,,REP,Over Votes,1
+Teton,Governor,,REP,Under Votes,101
+Teton,Governor,,DEM,Al Hamburg,13
+Teton,Governor,,DEM,Chris L. Zachary,29
+Teton,Governor,,DEM,Leslie Petersen,1406
+Teton,Governor,,DEM,Pete Gosar,165
+Teton,Governor,,DEM,Rex Wilde,21
+Teton,Governor,,DEM,Write-ins,4
+Teton,Governor,,DEM,Over Votes,1
+Teton,Governor,,DEM,Under Votes,175
+Teton,Secretary of State,,REP,Max Maxfield,2647
+Teton,Secretary of State,,REP,Write-ins,10
+Teton,Secretary of State,,REP,Over Votes,0
+Teton,Secretary of State,,REP,Under Votes,806
+Teton,Secretary of State,,DEM,Andrew Simons,1363
+Teton,Secretary of State,,DEM,Write-ins,3
+Teton,Secretary of State,,DEM,Over Votes,0
+Teton,Secretary of State,,DEM,Under Votes,448
+Teton,State Auditor,,REP,Bruce Brown,996
+Teton,State Auditor,,REP,Cynthia Cloud,1293
+Teton,State Auditor,,REP,Write-ins,2
+Teton,State Auditor,,REP,Over Votes,0
+Teton,State Auditor,,REP,Under Votes,1172
+Teton,State Auditor,,DEM,Write-ins,38
+Teton,State Auditor,,DEM,Over Votes,0
+Teton,State Auditor,,DEM,Under Votes,1776
+Teton,State Treasurer,,REP,Joe Meyer,2553
+Teton,State Treasurer,,REP,Write-ins,6
+Teton,State Treasurer,,REP,Over Votes,0
+Teton,State Treasurer,,REP,Under Votes,904
+Teton,State Treasurer,,DEM,Write-ins,26
+Teton,State Treasurer,,DEM,Over Votes,0
+Teton,State Treasurer,,DEM,Under Votes,1788
+Teton,Superintendent of Public Instruction,,REP,Cindy Hill,886
+Teton,Superintendent of Public Instruction,,REP,Jim McBride,807
+Teton,Superintendent of Public Instruction,,REP,Ted Adams,198
+Teton,Superintendent of Public Instruction,,REP,Trent Blankenship,517
+Teton,Superintendent of Public Instruction,,REP,Write-ins,8
+Teton,Superintendent of Public Instruction,,REP,Over Votes,2
+Teton,Superintendent of Public Instruction,,REP,Under Votes,1045
+Teton,Superintendent of Public Instruction,,DEM,Mike Massie,1375
+Teton,Superintendent of Public Instruction,,DEM,Write-ins,2
+Teton,Superintendent of Public Instruction,,DEM,Over Votes,1
+Teton,Superintendent of Public Instruction,,DEM,Under Votes,436
+Teton,State Senate,17,REP,Leland Christensen,2172
+Teton,State Senate,17,REP,Samuel M. Harrell,494
+Teton,State Senate,17,REP,Write-ins,2
+Teton,State Senate,17,REP,Over Votes,4
+Teton,State Senate,17,REP,Under Votes,255
+Teton,State Senate,17,DEM,Tom Frisbie,1217
+Teton,State Senate,17,DEM,Write-ins,4
+Teton,State Senate,17,DEM,Over Votes,0
+Teton,State Senate,17,DEM,Under Votes,284
+Teton,State House,16,REP,Joe Schloss,536
+Teton,State House,16,REP,Ruth Ann Petroff,951
+Teton,State House,16,REP,Write-ins,1
+Teton,State House,16,REP,Over Votes,0
+Teton,State House,16,REP,Under Votes,134
+Teton,State House,16,DEM,Len Carlman,696
+Teton,State House,16,DEM,Write-ins,3
+Teton,State House,16,DEM,Over Votes,0
+Teton,State House,16,DEM,Under Votes,173
+Teton,State House,22,REP,Bill Winney,255
+Teton,State House,22,REP,Emmett Mavy,125
+Teton,State House,22,REP,Write-ins,4
+Teton,State House,22,REP,Over Votes,0
+Teton,State House,22,REP,Under Votes,152
+Teton,State House,22,DEM,Jim Roscoe,290
+Teton,State House,22,DEM,Write-ins,1
+Teton,State House,22,DEM,Over Votes,0
+Teton,State House,22,DEM,Under Votes,18
+Teton,State House,23,REP,Keith Gingery,1065
+Teton,State House,23,REP,Write-ins,11
+Teton,State House,23,REP,Over Votes,0
+Teton,State House,23,REP,Under Votes,229
+Teton,State House,23,DEM,Write-ins,12
+Teton,State House,23,DEM,Over Votes,0
+Teton,State House,23,DEM,Under Votes,621
+Teton,Ballots Cast,,REP,Ballots Cast,3463
+Teton,Ballots Cast,,DEM,Ballots Cast,1814
+Teton,Ballots Cast,,NP,Ballots Cast,493
+Teton,Ballots Cast,,,Ballots Cast,5770
+Uinta,U.S. House,,REP,Cynthia M. Lummis,2923
+Uinta,U.S. House,,REP,Evan Liam Slafter,533
+Uinta,U.S. House,,REP,Write-ins,5
+Uinta,U.S. House,,REP,Over Votes,0
+Uinta,U.S. House,,REP,Under Votes,206
+Uinta,U.S. House,,DEM,David Wendt,683
+Uinta,U.S. House,,DEM,Write-ins,5
+Uinta,U.S. House,,DEM,Over Votes,0
+Uinta,U.S. House,,DEM,Under Votes,89
+Uinta,Governor,,REP,Alan Kousoulos,58
+Uinta,Governor,,REP,Colin Simpson,133
+Uinta,Governor,,REP,John H. Self,4
+Uinta,Governor,,REP,Matt Mead,750
+Uinta,Governor,,REP,Rita Meyer,506
+Uinta,Governor,,REP,Ron Micheli,2180
+Uinta,Governor,,REP,Tom A Ubben,11
+Uinta,Governor,,REP,Write-ins,2
+Uinta,Governor,,REP,Over Votes,2
+Uinta,Governor,,REP,Under Votes,21
+Uinta,Governor,,DEM,Al Hamburg,43
+Uinta,Governor,,DEM,Chris L. Zachary,29
+Uinta,Governor,,DEM,Leslie Petersen,269
+Uinta,Governor,,DEM,Pete Gosar,301
+Uinta,Governor,,DEM,Rex Wilde,82
+Uinta,Governor,,DEM,Write-ins,15
+Uinta,Governor,,DEM,Over Votes,0
+Uinta,Governor,,DEM,Under Votes,38
+Uinta,Secretary of State,,REP,Max Maxfield,3286
+Uinta,Secretary of State,,REP,Write-ins,13
+Uinta,Secretary of State,,REP,Over Votes,0
+Uinta,Secretary of State,,REP,Under Votes,368
+Uinta,Secretary of State,,DEM,Andrew Simons,680
+Uinta,Secretary of State,,DEM,Write-ins,1
+Uinta,Secretary of State,,DEM,Over Votes,0
+Uinta,Secretary of State,,DEM,Under Votes,96
+Uinta,State Auditor,,REP,Bruce Brown,1668
+Uinta,State Auditor,,REP,Cynthia Cloud,1550
+Uinta,State Auditor,,REP,Write-ins,8
+Uinta,State Auditor,,REP,Over Votes,0
+Uinta,State Auditor,,REP,Under Votes,441
+Uinta,State Auditor,,DEM,Write-ins,28
+Uinta,State Auditor,,DEM,Over Votes,0
+Uinta,State Auditor,,DEM,Under Votes,749
+Uinta,State Treasurer,,REP,Joe Meyer,3216
+Uinta,State Treasurer,,REP,Write-ins,10
+Uinta,State Treasurer,,REP,Over Votes,1
+Uinta,State Treasurer,,REP,Under Votes,440
+Uinta,State Treasurer,,DEM,Write-ins,22
+Uinta,State Treasurer,,DEM,Over Votes,0
+Uinta,State Treasurer,,DEM,Under Votes,755
+Uinta,Superintendent of Public Instruction,,REP,Cindy Hill,1668
+Uinta,Superintendent of Public Instruction,,REP,Jim McBride,753
+Uinta,Superintendent of Public Instruction,,REP,Ted Adams,340
+Uinta,Superintendent of Public Instruction,,REP,Trent Blankenship,508
+Uinta,Superintendent of Public Instruction,,REP,Write-ins,10
+Uinta,Superintendent of Public Instruction,,REP,Over Votes,2
+Uinta,Superintendent of Public Instruction,,REP,Under Votes,386
+Uinta,Superintendent of Public Instruction,,DEM,Mike Massie,677
+Uinta,Superintendent of Public Instruction,,DEM,Write-ins,3
+Uinta,Superintendent of Public Instruction,,DEM,Over Votes,1
+Uinta,Superintendent of Public Instruction,,DEM,Under Votes,96
+Uinta,State Senate,15,REP,Janice Davis,856
+Uinta,State Senate,15,REP,Lyle L Williams,434
+Uinta,State Senate,15,REP,Paul R Barnard,1153
+Uinta,State Senate,15,REP,Write-ins,8
+Uinta,State Senate,15,REP,Over Votes,1
+Uinta,State Senate,15,REP,Under Votes,199
+Uinta,State Senate,15,DEM,Saundra Meyer,521
+Uinta,State Senate,15,DEM,Write-ins,6
+Uinta,State Senate,15,DEM,Over Votes,0
+Uinta,State Senate,15,DEM,Under Votes,35
+Uinta,State House,18,REP,Allen M. Jaggi,907
+Uinta,State House,18,REP,Write-ins,19
+Uinta,State House,18,REP,Over Votes,0
+Uinta,State House,18,REP,Under Votes,90
+Uinta,State House,18,DEM,Write-ins,2
+Uinta,State House,18,DEM,Over Votes,0
+Uinta,State House,18,DEM,Under Votes,213
+Uinta,State House,19,REP,Karl Allred,433
+Uinta,State House,19,REP,Owen Petersen,866
+Uinta,State House,19,REP,Write-ins,4
+Uinta,State House,19,REP,Over Votes,0
+Uinta,State House,19,REP,Under Votes,64
+Uinta,State House,19,DEM,Write-ins,7
+Uinta,State House,19,DEM,Over Votes,0
+Uinta,State House,19,DEM,Under Votes,218
+Uinta,State House,49,REP,Clarence J. Vranish,997
+Uinta,State House,49,REP,Write-ins,21
+Uinta,State House,49,REP,Over Votes,0
+Uinta,State House,49,REP,Under Votes,266
+Uinta,State House,49,DEM,Terry L. Kimble,288
+Uinta,State House,49,DEM,Write-ins,3
+Uinta,State House,49,DEM,Over Votes,0
+Uinta,State House,49,DEM,Under Votes,46
+Uinta,Ballots Cast,,REP,Ballots Cast,3667
+Uinta,Ballots Cast,,DEM,Ballots Cast,777
+Uinta,Ballots Cast,,NP,Ballots Cast,77
+Uinta,Ballots Cast,,,Ballots Cast,4521
+Washakie,U.S. House,,REP,Cynthia M. Lummis,1629
+Washakie,U.S. House,,REP,Evan Liam Slafter,317
+Washakie,U.S. House,,REP,Write-ins,7
+Washakie,U.S. House,,REP,Over Votes,1
+Washakie,U.S. House,,REP,Under Votes,97
+Washakie,U.S. House,,DEM,David Wendt,250
+Washakie,U.S. House,,DEM,Write-ins,1
+Washakie,U.S. House,,DEM,Over Votes,0
+Washakie,U.S. House,,DEM,Under Votes,35
+Washakie,Governor,,REP,Alan Kousoulos,8
+Washakie,Governor,,REP,Colin Simpson,362
+Washakie,Governor,,REP,John H. Self,4
+Washakie,Governor,,REP,Matt Mead,723
+Washakie,Governor,,REP,Rita Meyer,554
+Washakie,Governor,,REP,Ron Micheli,389
+Washakie,Governor,,REP,Tom A Ubben,2
+Washakie,Governor,,REP,Write-ins,2
+Washakie,Governor,,REP,Over Votes,0
+Washakie,Governor,,REP,Under Votes,7
+Washakie,Governor,,DEM,Al Hamburg,26
+Washakie,Governor,,DEM,Chris L. Zachary,18
+Washakie,Governor,,DEM,Leslie Petersen,150
+Washakie,Governor,,DEM,Pete Gosar,50
+Washakie,Governor,,DEM,Rex Wilde,19
+Washakie,Governor,,DEM,Write-ins,4
+Washakie,Governor,,DEM,Over Votes,0
+Washakie,Governor,,DEM,Under Votes,19
+Washakie,Secretary of State,,REP,Max Maxfield,1822
+Washakie,Secretary of State,,REP,Write-ins,6
+Washakie,Secretary of State,,REP,Over Votes,0
+Washakie,Secretary of State,,REP,Under Votes,223
+Washakie,Secretary of State,,DEM,Andrew Simons,251
+Washakie,Secretary of State,,DEM,Write-ins,1
+Washakie,Secretary of State,,DEM,Over Votes,0
+Washakie,Secretary of State,,DEM,Under Votes,34
+Washakie,State Auditor,,REP,Bruce Brown,878
+Washakie,State Auditor,,REP,Cynthia Cloud,953
+Washakie,State Auditor,,REP,Write-ins,3
+Washakie,State Auditor,,REP,Over Votes,1
+Washakie,State Auditor,,REP,Under Votes,216
+Washakie,State Auditor,,DEM,Write-ins,4
+Washakie,State Auditor,,DEM,Over Votes,0
+Washakie,State Auditor,,DEM,Under Votes,282
+Washakie,State Treasurer,,REP,Joe Meyer,1795
+Washakie,State Treasurer,,REP,Write-ins,5
+Washakie,State Treasurer,,REP,Over Votes,0
+Washakie,State Treasurer,,REP,Under Votes,251
+Washakie,State Treasurer,,DEM,Write-ins,5
+Washakie,State Treasurer,,DEM,Over Votes,0
+Washakie,State Treasurer,,DEM,Under Votes,281
+Washakie,Superintendent of Public Instruction,,REP,Cindy Hill,887
+Washakie,Superintendent of Public Instruction,,REP,Jim McBride,597
+Washakie,Superintendent of Public Instruction,,REP,Ted Adams,235
+Washakie,Superintendent of Public Instruction,,REP,Trent Blankenship,192
+Washakie,Superintendent of Public Instruction,,REP,Write-ins,4
+Washakie,Superintendent of Public Instruction,,REP,Over Votes,0
+Washakie,Superintendent of Public Instruction,,REP,Under Votes,136
+Washakie,Superintendent of Public Instruction,,DEM,Mike Massie,244
+Washakie,Superintendent of Public Instruction,,DEM,Write-ins,2
+Washakie,Superintendent of Public Instruction,,DEM,Over Votes,0
+Washakie,Superintendent of Public Instruction,,DEM,Under Votes,40
+Washakie,State House,27,REP,Mike Greear,1699
+Washakie,State House,27,REP,Write-ins,28
+Washakie,State House,27,REP,Over Votes,0
+Washakie,State House,27,REP,Under Votes,324
+Washakie,State House,27,DEM,Write-ins,8
+Washakie,State House,27,DEM,Over Votes,0
+Washakie,State House,27,DEM,Under Votes,278
+Washakie,Ballots Cast,,REP,Ballots Cast,2051
+Washakie,Ballots Cast,,DEM,Ballots Cast,286
+Washakie,Ballots Cast,,NP,Ballots Cast,26
+Washakie,Ballots Cast,,,Ballots Cast,2363
+Weston,U.S. House,,REP,Cynthia M. Lummis,1686
+Weston,U.S. House,,REP,Evan Liam Slafter,303
+Weston,U.S. House,,REP,Write-ins,3
+Weston,U.S. House,,REP,Over Votes,1
+Weston,U.S. House,,REP,Under Votes,114
+Weston,U.S. House,,DEM,David Wendt,150
+Weston,U.S. House,,DEM,Write-ins,1
+Weston,U.S. House,,DEM,Over Votes,0
+Weston,U.S. House,,DEM,Under Votes,33
+Weston,Governor,,REP,Alan Kousoulos,12
+Weston,Governor,,REP,Colin Simpson,348
+Weston,Governor,,REP,John H. Self,11
+Weston,Governor,,REP,Matt Mead,596
+Weston,Governor,,REP,Rita Meyer,503
+Weston,Governor,,REP,Ron Micheli,579
+Weston,Governor,,REP,Tom A Ubben,19
+Weston,Governor,,REP,Write-ins,5
+Weston,Governor,,REP,Over Votes,0
+Weston,Governor,,REP,Under Votes,34
+Weston,Governor,,DEM,Al Hamburg,19
+Weston,Governor,,DEM,Chris L. Zachary,14
+Weston,Governor,,DEM,Leslie Petersen,78
+Weston,Governor,,DEM,Pete Gosar,42
+Weston,Governor,,DEM,Rex Wilde,11
+Weston,Governor,,DEM,Write-ins,5
+Weston,Governor,,DEM,Over Votes,0
+Weston,Governor,,DEM,Under Votes,15
+Weston,Secretary of State,,REP,Max Maxfield,1798
+Weston,Secretary of State,,REP,Write-ins,7
+Weston,Secretary of State,,REP,Over Votes,0
+Weston,Secretary of State,,REP,Under Votes,302
+Weston,Secretary of State,,DEM,Andrew Simons,151
+Weston,Secretary of State,,DEM,Write-ins,0
+Weston,Secretary of State,,DEM,Over Votes,0
+Weston,Secretary of State,,DEM,Under Votes,33
+Weston,State Auditor,,REP,Bruce Brown,1151
+Weston,State Auditor,,REP,Cynthia Cloud,762
+Weston,State Auditor,,REP,Write-ins,3
+Weston,State Auditor,,REP,Over Votes,0
+Weston,State Auditor,,REP,Under Votes,191
+Weston,State Auditor,,DEM,Write-ins,5
+Weston,State Auditor,,DEM,Over Votes,0
+Weston,State Auditor,,DEM,Under Votes,179
+Weston,State Treasurer,,REP,Joe Meyer,1780
+Weston,State Treasurer,,REP,Write-ins,6
+Weston,State Treasurer,,REP,Over Votes,0
+Weston,State Treasurer,,REP,Under Votes,321
+Weston,State Treasurer,,DEM,Write-ins,3
+Weston,State Treasurer,,DEM,Over Votes,0
+Weston,State Treasurer,,DEM,Under Votes,181
+Weston,Superintendent of Public Instruction,,REP,Cindy Hill,1104
+Weston,Superintendent of Public Instruction,,REP,Jim McBride,411
+Weston,Superintendent of Public Instruction,,REP,Ted Adams,139
+Weston,Superintendent of Public Instruction,,REP,Trent Blankenship,246
+Weston,Superintendent of Public Instruction,,REP,Write-ins,3
+Weston,Superintendent of Public Instruction,,REP,Over Votes,0
+Weston,Superintendent of Public Instruction,,REP,Under Votes,204
+Weston,Superintendent of Public Instruction,,DEM,Mike Massie,153
+Weston,Superintendent of Public Instruction,,DEM,Write-ins,2
+Weston,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,Superintendent of Public Instruction,,DEM,Under Votes,29
+Weston,State Senate,1,REP,Ogden Driskill,761
+Weston,State Senate,1,REP,Terry Marie Henderson,629
+Weston,State Senate,1,REP,Tom Dunlap,566
+Weston,State Senate,1,REP,Write-ins,6
+Weston,State Senate,1,REP,Over Votes,3
+Weston,State Senate,1,REP,Under Votes,142
+Weston,State Senate,1,DEM,Write-ins,5
+Weston,State Senate,1,DEM,Over Votes,0
+Weston,State Senate,1,DEM,Under Votes,179
+Weston,State House,1,REP,Mark A. Semlek,635
+Weston,State House,1,REP,Write-ins,5
+Weston,State House,1,REP,Over Votes,0
+Weston,State House,1,REP,Under Votes,154
+Weston,State House,1,DEM,Stan Dodson,46
+Weston,State House,1,DEM,Write-ins,2
+Weston,State House,1,DEM,Over Votes,0
+Weston,State House,1,DEM,Under Votes,13
+Weston,State House,2,REP,Brad Reese,300
+Weston,State House,2,REP,Hans Hunt,823
+Weston,State House,2,REP,John Ellis,150
+Weston,State House,2,REP,Write-ins,2
+Weston,State House,2,REP,Over Votes,1
+Weston,State House,2,REP,Under Votes,37
+Weston,State House,2,DEM,Write-ins,4
+Weston,State House,2,DEM,Over Votes,0
+Weston,State House,2,DEM,Under Votes,119
+Weston,Ballots Cast,,REP,Ballots Cast,2107
+Weston,Ballots Cast,,DEM,Ballots Cast,184
+Weston,Ballots Cast,,NP,Ballots Cast,22
+Weston,Ballots Cast,,,Ballots Cast,2313

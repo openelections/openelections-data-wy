@@ -1,0 +1,682 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,REP,Emmett A. Mavy,11
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,REP,John Barrasso,348
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,REP,Thomas Bleming,13
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,REP,Write-ins,0
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,REP,Over Votes,1
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,REP,Under Votes,13
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,DEM,Al Hamburg,4
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,DEM,Tim Chesnut,4
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,DEM,William Bryk,0
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,DEM,Under Votes,2
+Lincoln,Afton Civic Center 2-1,U.S. House,,REP,Cynthia M. Lummis,351
+Lincoln,Afton Civic Center 2-1,U.S. House,,REP,Write-ins,2
+Lincoln,Afton Civic Center 2-1,U.S. House,,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-1,U.S. House,,REP,Under Votes,33
+Lincoln,Afton Civic Center 2-1,U.S. House,,DEM,Chris Henrichsen,10
+Lincoln,Afton Civic Center 2-1,U.S. House,,DEM,Write-ins,0
+Lincoln,Afton Civic Center 2-1,U.S. House,,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-1,U.S. House,,DEM,Under Votes,0
+Lincoln,Afton Civic Center 2-1,State Senate,16,REP,Dan Dockstader,365
+Lincoln,Afton Civic Center 2-1,State Senate,16,REP,Write-ins,3
+Lincoln,Afton Civic Center 2-1,State Senate,16,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-1,State Senate,16,REP,Under Votes,18
+Lincoln,Afton Civic Center 2-1,State Senate,16,DEM,Write-ins,3
+Lincoln,Afton Civic Center 2-1,State Senate,16,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-1,State Senate,16,DEM,Under Votes,7
+Lincoln,Afton Civic Center 2-1,State House,21,REP,Robert McKim,352
+Lincoln,Afton Civic Center 2-1,State House,21,REP,Write-ins,7
+Lincoln,Afton Civic Center 2-1,State House,21,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-1,State House,21,REP,Under Votes,27
+Lincoln,Afton Civic Center 2-1,State House,21,DEM,Write-ins,4
+Lincoln,Afton Civic Center 2-1,State House,21,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-1,State House,21,DEM,Under Votes,6
+Lincoln,Afton Civic Center 2-1,Ballots Cast,,REP,Ballots Cast,386
+Lincoln,Afton Civic Center 2-1,Ballots Cast,,DEM,Ballots Cast,10
+Lincoln,Afton Civic Center 2-1,Ballots Cast,,NP,Ballots Cast,7
+Lincoln,Afton Civic Center 2-1,Ballots Cast,,,Ballots Cast,403
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,REP,Emmett A. Mavy,11
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,REP,John Barrasso,90
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,REP,Thomas Bleming,7
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,REP,Write-ins,0
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,REP,Under Votes,2
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,DEM,Al Hamburg,2
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,DEM,Tim Chesnut,1
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,DEM,William Bryk,0
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,DEM,Write-ins,1
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,DEM,Under Votes,0
+Lincoln,Afton Civic Center 2-2,U.S. House,,REP,Cynthia M. Lummis,100
+Lincoln,Afton Civic Center 2-2,U.S. House,,REP,Write-ins,2
+Lincoln,Afton Civic Center 2-2,U.S. House,,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-2,U.S. House,,REP,Under Votes,8
+Lincoln,Afton Civic Center 2-2,U.S. House,,DEM,Chris Henrichsen,3
+Lincoln,Afton Civic Center 2-2,U.S. House,,DEM,Write-ins,1
+Lincoln,Afton Civic Center 2-2,U.S. House,,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-2,U.S. House,,DEM,Under Votes,0
+Lincoln,Afton Civic Center 2-2,State Senate,16,REP,Dan Dockstader,102
+Lincoln,Afton Civic Center 2-2,State Senate,16,REP,Write-ins,2
+Lincoln,Afton Civic Center 2-2,State Senate,16,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-2,State Senate,16,REP,Under Votes,6
+Lincoln,Afton Civic Center 2-2,State Senate,16,DEM,Write-ins,1
+Lincoln,Afton Civic Center 2-2,State Senate,16,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-2,State Senate,16,DEM,Under Votes,3
+Lincoln,Afton Civic Center 2-2,State House,21,REP,Robert McKim,99
+Lincoln,Afton Civic Center 2-2,State House,21,REP,Write-ins,3
+Lincoln,Afton Civic Center 2-2,State House,21,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-2,State House,21,REP,Under Votes,8
+Lincoln,Afton Civic Center 2-2,State House,21,DEM,Write-ins,1
+Lincoln,Afton Civic Center 2-2,State House,21,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-2,State House,21,DEM,Under Votes,3
+Lincoln,Afton Civic Center 2-2,Ballots Cast,,REP,Ballots Cast,110
+Lincoln,Afton Civic Center 2-2,Ballots Cast,,DEM,Ballots Cast,4
+Lincoln,Afton Civic Center 2-2,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,Afton Civic Center 2-2,Ballots Cast,,,Ballots Cast,114
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,REP,Emmett A. Mavy,7
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,REP,John Barrasso,165
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,REP,Thomas Bleming,4
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,REP,Write-ins,0
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,REP,Under Votes,1
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,DEM,Al Hamburg,0
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,DEM,Tim Chesnut,3
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,DEM,William Bryk,1
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,DEM,Under Votes,0
+Lincoln,Afton Civic Center 2-6,U.S. House,,REP,Cynthia M. Lummis,169
+Lincoln,Afton Civic Center 2-6,U.S. House,,REP,Write-ins,0
+Lincoln,Afton Civic Center 2-6,U.S. House,,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-6,U.S. House,,REP,Under Votes,8
+Lincoln,Afton Civic Center 2-6,U.S. House,,DEM,Chris Henrichsen,4
+Lincoln,Afton Civic Center 2-6,U.S. House,,DEM,Write-ins,0
+Lincoln,Afton Civic Center 2-6,U.S. House,,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-6,U.S. House,,DEM,Under Votes,0
+Lincoln,Afton Civic Center 2-6,State Senate,16,REP,Dan Dockstader,173
+Lincoln,Afton Civic Center 2-6,State Senate,16,REP,Write-ins,0
+Lincoln,Afton Civic Center 2-6,State Senate,16,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-6,State Senate,16,REP,Under Votes,4
+Lincoln,Afton Civic Center 2-6,State Senate,16,DEM,Write-ins,0
+Lincoln,Afton Civic Center 2-6,State Senate,16,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-6,State Senate,16,DEM,Under Votes,4
+Lincoln,Afton Civic Center 2-6,State House,21,REP,Robert McKim,152
+Lincoln,Afton Civic Center 2-6,State House,21,REP,Write-ins,3
+Lincoln,Afton Civic Center 2-6,State House,21,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-6,State House,21,REP,Under Votes,22
+Lincoln,Afton Civic Center 2-6,State House,21,DEM,Write-ins,1
+Lincoln,Afton Civic Center 2-6,State House,21,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-6,State House,21,DEM,Under Votes,3
+Lincoln,Afton Civic Center 2-6,Ballots Cast,,REP,Ballots Cast,177
+Lincoln,Afton Civic Center 2-6,Ballots Cast,,DEM,Ballots Cast,4
+Lincoln,Afton Civic Center 2-6,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,Afton Civic Center 2-6,Ballots Cast,,,Ballots Cast,181
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,REP,Emmett A. Mavy,13
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,REP,John Barrasso,288
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,REP,Thomas Bleming,14
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,REP,Write-ins,1
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,REP,Under Votes,6
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,DEM,Al Hamburg,3
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,DEM,Tim Chesnut,7
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,DEM,William Bryk,1
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,DEM,Under Votes,0
+Lincoln,Afton Civic Center 2-7,U.S. House,,REP,Cynthia M. Lummis,301
+Lincoln,Afton Civic Center 2-7,U.S. House,,REP,Write-ins,2
+Lincoln,Afton Civic Center 2-7,U.S. House,,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-7,U.S. House,,REP,Under Votes,19
+Lincoln,Afton Civic Center 2-7,U.S. House,,DEM,Chris Henrichsen,11
+Lincoln,Afton Civic Center 2-7,U.S. House,,DEM,Write-ins,0
+Lincoln,Afton Civic Center 2-7,U.S. House,,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-7,U.S. House,,DEM,Under Votes,0
+Lincoln,Afton Civic Center 2-7,State Senate,16,REP,Dan Dockstader,311
+Lincoln,Afton Civic Center 2-7,State Senate,16,REP,Write-ins,0
+Lincoln,Afton Civic Center 2-7,State Senate,16,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-7,State Senate,16,REP,Under Votes,11
+Lincoln,Afton Civic Center 2-7,State Senate,16,DEM,Write-ins,1
+Lincoln,Afton Civic Center 2-7,State Senate,16,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-7,State Senate,16,DEM,Under Votes,10
+Lincoln,Afton Civic Center 2-7,State House,21,REP,Robert McKim,302
+Lincoln,Afton Civic Center 2-7,State House,21,REP,Write-ins,0
+Lincoln,Afton Civic Center 2-7,State House,21,REP,Over Votes,0
+Lincoln,Afton Civic Center 2-7,State House,21,REP,Under Votes,20
+Lincoln,Afton Civic Center 2-7,State House,21,DEM,Write-ins,1
+Lincoln,Afton Civic Center 2-7,State House,21,DEM,Over Votes,0
+Lincoln,Afton Civic Center 2-7,State House,21,DEM,Under Votes,10
+Lincoln,Afton Civic Center 2-7,Ballots Cast,,REP,Ballots Cast,322
+Lincoln,Afton Civic Center 2-7,Ballots Cast,,DEM,Ballots Cast,11
+Lincoln,Afton Civic Center 2-7,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,Afton Civic Center 2-7,Ballots Cast,,,Ballots Cast,333
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,REP,Emmett A. Mavy,8
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,REP,John Barrasso,123
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,REP,Thomas Bleming,6
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,REP,Write-ins,0
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,REP,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,REP,Under Votes,3
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,DEM,Al Hamburg,1
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,DEM,Tim Chesnut,5
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,DEM,William Bryk,3
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,DEM,Under Votes,1
+Lincoln,Alpine Civic Center 2-3,U.S. House,,REP,Cynthia M. Lummis,132
+Lincoln,Alpine Civic Center 2-3,U.S. House,,REP,Write-ins,1
+Lincoln,Alpine Civic Center 2-3,U.S. House,,REP,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,U.S. House,,REP,Under Votes,7
+Lincoln,Alpine Civic Center 2-3,U.S. House,,DEM,Chris Henrichsen,9
+Lincoln,Alpine Civic Center 2-3,U.S. House,,DEM,Write-ins,0
+Lincoln,Alpine Civic Center 2-3,U.S. House,,DEM,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,U.S. House,,DEM,Under Votes,1
+Lincoln,Alpine Civic Center 2-3,State Senate,16,REP,Dan Dockstader,126
+Lincoln,Alpine Civic Center 2-3,State Senate,16,REP,Write-ins,2
+Lincoln,Alpine Civic Center 2-3,State Senate,16,REP,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,State Senate,16,REP,Under Votes,12
+Lincoln,Alpine Civic Center 2-3,State Senate,16,DEM,Write-ins,2
+Lincoln,Alpine Civic Center 2-3,State Senate,16,DEM,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,State Senate,16,DEM,Under Votes,8
+Lincoln,Alpine Civic Center 2-3,State House,22,REP,Marti Halverson,132
+Lincoln,Alpine Civic Center 2-3,State House,22,REP,Write-ins,1
+Lincoln,Alpine Civic Center 2-3,State House,22,REP,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,State House,22,REP,Under Votes,7
+Lincoln,Alpine Civic Center 2-3,State House,22,DEM,Write-ins,1
+Lincoln,Alpine Civic Center 2-3,State House,22,DEM,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,State House,22,DEM,Under Votes,9
+Lincoln,Alpine Civic Center 2-3,Ballots Cast,,REP,Ballots Cast,140
+Lincoln,Alpine Civic Center 2-3,Ballots Cast,,DEM,Ballots Cast,10
+Lincoln,Alpine Civic Center 2-3,Ballots Cast,,NP,Ballots Cast,4
+Lincoln,Alpine Civic Center 2-3,Ballots Cast,,,Ballots Cast,154
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,REP,Emmett A. Mavy,7
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,REP,John Barrasso,132
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,REP,Thomas Bleming,6
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,REP,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,REP,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,REP,Under Votes,2
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,DEM,Al Hamburg,2
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,DEM,Tim Chesnut,1
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,DEM,William Bryk,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,DEM,Under Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,REP,Cynthia M. Lummis,141
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,REP,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,REP,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,REP,Under Votes,6
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,DEM,Chris Henrichsen,3
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,DEM,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,DEM,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,DEM,Under Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Senate,16,REP,Dan Dockstader,143
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Senate,16,REP,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Senate,16,REP,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Senate,16,REP,Under Votes,4
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Senate,16,DEM,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Senate,16,DEM,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Senate,16,DEM,Under Votes,3
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,REP,Robert McKim,136
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,REP,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,REP,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,REP,Under Votes,11
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,DEM,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,DEM,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,DEM,Under Votes,3
+Lincoln,Bedford Water & Sewer Buliding 2-4,Ballots Cast,,REP,Ballots Cast,147
+Lincoln,Bedford Water & Sewer Buliding 2-4,Ballots Cast,,DEM,Ballots Cast,3
+Lincoln,Bedford Water & Sewer Buliding 2-4,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,Ballots Cast,,,Ballots Cast,150
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,REP,Emmett A. Mavy,2
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,REP,John Barrasso,112
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,REP,Thomas Bleming,4
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,REP,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,REP,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,REP,Under Votes,8
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,DEM,Al Hamburg,3
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,DEM,Tim Chesnut,4
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,DEM,William Bryk,0
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,DEM,Write-ins,1
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,DEM,Under Votes,0
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,REP,Cynthia M. Lummis,117
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,REP,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,REP,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,REP,Under Votes,9
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,DEM,Chris Henrichsen,7
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,DEM,Write-ins,1
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,DEM,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,DEM,Under Votes,0
+Lincoln,Cokeville Town Hall 2-9,State Senate,16,REP,Dan Dockstader,111
+Lincoln,Cokeville Town Hall 2-9,State Senate,16,REP,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,State Senate,16,REP,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,State Senate,16,REP,Under Votes,15
+Lincoln,Cokeville Town Hall 2-9,State Senate,16,DEM,Write-ins,2
+Lincoln,Cokeville Town Hall 2-9,State Senate,16,DEM,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,State Senate,16,DEM,Under Votes,6
+Lincoln,Cokeville Town Hall 2-9,State House,21,REP,Robert McKim,107
+Lincoln,Cokeville Town Hall 2-9,State House,21,REP,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,State House,21,REP,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,State House,21,REP,Under Votes,19
+Lincoln,Cokeville Town Hall 2-9,State House,21,DEM,Write-ins,1
+Lincoln,Cokeville Town Hall 2-9,State House,21,DEM,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,State House,21,DEM,Under Votes,7
+Lincoln,Cokeville Town Hall 2-9,Ballots Cast,,REP,Ballots Cast,126
+Lincoln,Cokeville Town Hall 2-9,Ballots Cast,,DEM,Ballots Cast,8
+Lincoln,Cokeville Town Hall 2-9,Ballots Cast,,NP,Ballots Cast,9
+Lincoln,Cokeville Town Hall 2-9,Ballots Cast,,,Ballots Cast,143
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,REP,Emmett A. Mavy,6
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,REP,John Barrasso,113
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,REP,Thomas Bleming,15
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,REP,Write-ins,0
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,REP,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,REP,Under Votes,4
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,DEM,Al Hamburg,25
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,DEM,Tim Chesnut,24
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,DEM,William Bryk,7
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,DEM,Under Votes,7
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,REP,Cynthia M. Lummis,116
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,REP,Write-ins,1
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,REP,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,REP,Under Votes,21
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,DEM,Chris Henrichsen,51
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,DEM,Write-ins,0
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,DEM,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,DEM,Under Votes,12
+Lincoln,Diamondville School Admin Bldg 1-4,State Senate,14,REP,Lyle L Williams,38
+Lincoln,Diamondville School Admin Bldg 1-4,State Senate,14,REP,Stan Cooper,98
+Lincoln,Diamondville School Admin Bldg 1-4,State Senate,14,REP,Write-ins,0
+Lincoln,Diamondville School Admin Bldg 1-4,State Senate,14,REP,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,State Senate,14,REP,Under Votes,2
+Lincoln,Diamondville School Admin Bldg 1-4,State Senate,14,DEM,Write-ins,3
+Lincoln,Diamondville School Admin Bldg 1-4,State Senate,14,DEM,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,State Senate,14,DEM,Under Votes,60
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,REP,Kathleen Davison,113
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,REP,Write-ins,4
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,REP,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,REP,Under Votes,21
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,DEM,Write-ins,0
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,DEM,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,DEM,Under Votes,63
+Lincoln,Diamondville School Admin Bldg 1-4,Ballots Cast,,REP,Ballots Cast,138
+Lincoln,Diamondville School Admin Bldg 1-4,Ballots Cast,,DEM,Ballots Cast,63
+Lincoln,Diamondville School Admin Bldg 1-4,Ballots Cast,,NP,Ballots Cast,3
+Lincoln,Diamondville School Admin Bldg 1-4,Ballots Cast,,,Ballots Cast,204
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,REP,Emmett A. Mavy,6
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,REP,John Barrasso,83
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,REP,Thomas Bleming,5
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,REP,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,REP,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,REP,Under Votes,5
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,DEM,Al Hamburg,3
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,DEM,Tim Chesnut,1
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,DEM,William Bryk,2
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,DEM,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,DEM,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,DEM,Under Votes,3
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,REP,Cynthia M. Lummis,88
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,REP,Write-ins,1
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,REP,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,REP,Under Votes,10
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,DEM,Chris Henrichsen,6
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,DEM,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,DEM,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,DEM,Under Votes,3
+Lincoln,LaBarge Town Hall 1-8,State Senate,14,REP,Lyle L Williams,18
+Lincoln,LaBarge Town Hall 1-8,State Senate,14,REP,Stan Cooper,53
+Lincoln,LaBarge Town Hall 1-8,State Senate,14,REP,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State Senate,14,REP,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State Senate,14,REP,Under Votes,6
+Lincoln,LaBarge Town Hall 1-8,State Senate,14,DEM,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State Senate,14,DEM,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State Senate,14,DEM,Under Votes,6
+Lincoln,LaBarge Town Hall 1-8,State Senate,16,REP,Dan Dockstader,16
+Lincoln,LaBarge Town Hall 1-8,State Senate,16,REP,Write-ins,1
+Lincoln,LaBarge Town Hall 1-8,State Senate,16,REP,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State Senate,16,REP,Under Votes,5
+Lincoln,LaBarge Town Hall 1-8,State Senate,16,DEM,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State Senate,16,DEM,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State Senate,16,DEM,Under Votes,3
+Lincoln,LaBarge Town Hall 1-8,State House,18,REP,Kathleen Davison,69
+Lincoln,LaBarge Town Hall 1-8,State House,18,REP,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State House,18,REP,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State House,18,REP,Under Votes,8
+Lincoln,LaBarge Town Hall 1-8,State House,18,DEM,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State House,18,DEM,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State House,18,DEM,Under Votes,6
+Lincoln,LaBarge Town Hall 1-8,State House,21,REP,Robert McKim,16
+Lincoln,LaBarge Town Hall 1-8,State House,21,REP,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State House,21,REP,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State House,21,REP,Under Votes,6
+Lincoln,LaBarge Town Hall 1-8,State House,21,DEM,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State House,21,DEM,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State House,21,DEM,Under Votes,3
+Lincoln,LaBarge Town Hall 1-8,Ballots Cast,,REP,Ballots Cast,99
+Lincoln,LaBarge Town Hall 1-8,Ballots Cast,,DEM,Ballots Cast,9
+Lincoln,LaBarge Town Hall 1-8,Ballots Cast,,NP,Ballots Cast,3
+Lincoln,LaBarge Town Hall 1-8,Ballots Cast,,,Ballots Cast,111
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,REP,Emmett A. Mavy,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,REP,John Barrasso,34
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,REP,Thomas Bleming,1
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,REP,Write-ins,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,REP,Over Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,REP,Under Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,DEM,Al Hamburg,1
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,DEM,Tim Chesnut,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,DEM,William Bryk,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,DEM,Under Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. House,,REP,Cynthia M. Lummis,35
+Lincoln,Opal Town Hall 1-7,U.S. House,,REP,Write-ins,0
+Lincoln,Opal Town Hall 1-7,U.S. House,,REP,Over Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. House,,REP,Under Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. House,,DEM,Chris Henrichsen,1
+Lincoln,Opal Town Hall 1-7,U.S. House,,DEM,Write-ins,0
+Lincoln,Opal Town Hall 1-7,U.S. House,,DEM,Over Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. House,,DEM,Under Votes,0
+Lincoln,Opal Town Hall 1-7,State Senate,14,REP,Lyle L Williams,9
+Lincoln,Opal Town Hall 1-7,State Senate,14,REP,Stan Cooper,25
+Lincoln,Opal Town Hall 1-7,State Senate,14,REP,Write-ins,0
+Lincoln,Opal Town Hall 1-7,State Senate,14,REP,Over Votes,0
+Lincoln,Opal Town Hall 1-7,State Senate,14,REP,Under Votes,1
+Lincoln,Opal Town Hall 1-7,State Senate,14,DEM,Write-ins,0
+Lincoln,Opal Town Hall 1-7,State Senate,14,DEM,Over Votes,0
+Lincoln,Opal Town Hall 1-7,State Senate,14,DEM,Under Votes,1
+Lincoln,Opal Town Hall 1-7,State House,18,REP,Kathleen Davison,31
+Lincoln,Opal Town Hall 1-7,State House,18,REP,Write-ins,4
+Lincoln,Opal Town Hall 1-7,State House,18,REP,Over Votes,0
+Lincoln,Opal Town Hall 1-7,State House,18,REP,Under Votes,0
+Lincoln,Opal Town Hall 1-7,State House,18,DEM,Write-ins,0
+Lincoln,Opal Town Hall 1-7,State House,18,DEM,Over Votes,0
+Lincoln,Opal Town Hall 1-7,State House,18,DEM,Under Votes,1
+Lincoln,Opal Town Hall 1-7,Ballots Cast,,REP,Ballots Cast,35
+Lincoln,Opal Town Hall 1-7,Ballots Cast,,DEM,Ballots Cast,1
+Lincoln,Opal Town Hall 1-7,Ballots Cast,,NP,Ballots Cast,1
+Lincoln,Opal Town Hall 1-7,Ballots Cast,,,Ballots Cast,37
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,REP,Emmett A. Mavy,4
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,REP,John Barrasso,103
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,REP,Thomas Bleming,9
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,REP,Under Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,DEM,Al Hamburg,10
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,DEM,Tim Chesnut,18
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,DEM,William Bryk,6
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,DEM,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,DEM,Under Votes,6
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,REP,Cynthia M. Lummis,100
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,REP,Under Votes,17
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,DEM,Chris Henrichsen,30
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,DEM,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,DEM,Under Votes,9
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Senate,14,REP,Lyle L Williams,25
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Senate,14,REP,Stan Cooper,88
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Senate,14,REP,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Senate,14,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Senate,14,REP,Under Votes,5
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Senate,14,DEM,Write-ins,4
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Senate,14,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Senate,14,DEM,Under Votes,36
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,REP,Kathleen Davison,99
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,REP,Under Votes,18
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,DEM,Write-ins,3
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,DEM,Under Votes,37
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Ballots Cast,,REP,Ballots Cast,118
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Ballots Cast,,DEM,Ballots Cast,40
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Ballots Cast,,NP,Ballots Cast,2
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Ballots Cast,,,Ballots Cast,160
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,REP,Emmett A. Mavy,4
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,REP,John Barrasso,130
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,REP,Thomas Bleming,15
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,REP,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,REP,Under Votes,8
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,DEM,Al Hamburg,21
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,DEM,Tim Chesnut,12
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,DEM,William Bryk,5
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,DEM,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,DEM,Under Votes,6
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,REP,Cynthia M. Lummis,127
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,REP,Write-ins,3
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,REP,Under Votes,27
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,DEM,Chris Henrichsen,36
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,DEM,Write-ins,2
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,DEM,Under Votes,7
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Senate,14,REP,Lyle L Williams,30
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Senate,14,REP,Stan Cooper,123
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Senate,14,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Senate,14,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Senate,14,REP,Under Votes,3
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Senate,14,DEM,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Senate,14,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Senate,14,DEM,Under Votes,44
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,REP,Kathleen Davison,134
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,REP,Write-ins,2
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,REP,Under Votes,21
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,DEM,Write-ins,2
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,DEM,Under Votes,43
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Ballots Cast,,REP,Ballots Cast,157
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Ballots Cast,,DEM,Ballots Cast,45
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Ballots Cast,,,Ballots Cast,202
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,REP,Emmett A. Mavy,11
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,REP,John Barrasso,164
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,REP,Thomas Bleming,16
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,REP,Under Votes,6
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,DEM,Al Hamburg,16
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,DEM,Tim Chesnut,16
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,DEM,William Bryk,5
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,DEM,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,DEM,Under Votes,10
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,REP,Cynthia M. Lummis,175
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,REP,Write-ins,2
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,REP,Under Votes,21
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,DEM,Chris Henrichsen,38
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,DEM,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,DEM,Under Votes,10
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Senate,14,REP,Lyle L Williams,40
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Senate,14,REP,Stan Cooper,152
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Senate,14,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Senate,14,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Senate,14,REP,Under Votes,5
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Senate,14,DEM,Write-ins,2
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Senate,14,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Senate,14,DEM,Under Votes,46
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,REP,Kathleen Davison,165
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,REP,Write-ins,5
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,REP,Under Votes,28
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,DEM,Write-ins,2
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,DEM,Under Votes,46
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Ballots Cast,,REP,Ballots Cast,198
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Ballots Cast,,DEM,Ballots Cast,48
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Ballots Cast,,NP,Ballots Cast,8
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Ballots Cast,,,Ballots Cast,254
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,REP,Emmett A. Mavy,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,REP,John Barrasso,60
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,REP,Thomas Bleming,2
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,REP,Under Votes,2
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,DEM,Al Hamburg,5
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,DEM,Tim Chesnut,4
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,DEM,William Bryk,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,DEM,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,DEM,Under Votes,2
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,REP,Cynthia M. Lummis,57
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,REP,Under Votes,8
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,DEM,Chris Henrichsen,10
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,DEM,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,DEM,Under Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,14,REP,Lyle L Williams,10
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,14,REP,Stan Cooper,46
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,14,REP,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,14,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,14,REP,Under Votes,3
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,14,DEM,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,14,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,14,DEM,Under Votes,8
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,16,REP,Dan Dockstader,6
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,16,REP,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,16,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,16,REP,Under Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,16,DEM,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,16,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Senate,16,DEM,Under Votes,3
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,REP,Kathleen Davison,48
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,REP,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,REP,Under Votes,10
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,DEM,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,DEM,Under Votes,8
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,REP,Robert McKim,6
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,REP,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,REP,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,REP,Under Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,DEM,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,DEM,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,DEM,Under Votes,3
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Ballots Cast,,REP,Ballots Cast,66
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Ballots Cast,,DEM,Ballots Cast,11
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Ballots Cast,,,Ballots Cast,77
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,REP,Emmett A. Mavy,18
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,REP,John Barrasso,153
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,REP,Thomas Bleming,6
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,REP,Write-ins,0
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,REP,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,REP,Under Votes,4
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,DEM,Al Hamburg,3
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,DEM,Tim Chesnut,4
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,DEM,William Bryk,4
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,DEM,Under Votes,0
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,REP,Cynthia M. Lummis,171
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,REP,Write-ins,2
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,REP,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,REP,Under Votes,8
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,DEM,Chris Henrichsen,10
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,DEM,Write-ins,0
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,DEM,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,DEM,Under Votes,1
+Lincoln,Star Valley Community Complex 2-5,State Senate,16,REP,Dan Dockstader,167
+Lincoln,Star Valley Community Complex 2-5,State Senate,16,REP,Write-ins,2
+Lincoln,Star Valley Community Complex 2-5,State Senate,16,REP,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,State Senate,16,REP,Under Votes,12
+Lincoln,Star Valley Community Complex 2-5,State Senate,16,DEM,Write-ins,0
+Lincoln,Star Valley Community Complex 2-5,State Senate,16,DEM,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,State Senate,16,DEM,Under Votes,11
+Lincoln,Star Valley Community Complex 2-5,State House,22,REP,Marti Halverson,172
+Lincoln,Star Valley Community Complex 2-5,State House,22,REP,Write-ins,1
+Lincoln,Star Valley Community Complex 2-5,State House,22,REP,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,State House,22,REP,Under Votes,8
+Lincoln,Star Valley Community Complex 2-5,State House,22,DEM,Write-ins,0
+Lincoln,Star Valley Community Complex 2-5,State House,22,DEM,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,State House,22,DEM,Under Votes,11
+Lincoln,Star Valley Community Complex 2-5,Ballots Cast,,REP,Ballots Cast,181
+Lincoln,Star Valley Community Complex 2-5,Ballots Cast,,DEM,Ballots Cast,11
+Lincoln,Star Valley Community Complex 2-5,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,Star Valley Community Complex 2-5,Ballots Cast,,,Ballots Cast,192
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,REP,Emmett A. Mavy,13
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,REP,John Barrasso,243
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,REP,Thomas Bleming,7
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,REP,Write-ins,2
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,REP,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,REP,Under Votes,6
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,DEM,Al Hamburg,11
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,DEM,Tim Chesnut,15
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,DEM,William Bryk,8
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,DEM,Write-ins,1
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,DEM,Under Votes,2
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,REP,Cynthia M. Lummis,245
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,REP,Write-ins,6
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,REP,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,REP,Under Votes,20
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,DEM,Chris Henrichsen,31
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,DEM,Write-ins,2
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,DEM,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,DEM,Under Votes,4
+Lincoln,Star Valley Ranch Town Hall 2-10,State Senate,16,REP,Dan Dockstader,249
+Lincoln,Star Valley Ranch Town Hall 2-10,State Senate,16,REP,Write-ins,2
+Lincoln,Star Valley Ranch Town Hall 2-10,State Senate,16,REP,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,State Senate,16,REP,Under Votes,20
+Lincoln,Star Valley Ranch Town Hall 2-10,State Senate,16,DEM,Write-ins,3
+Lincoln,Star Valley Ranch Town Hall 2-10,State Senate,16,DEM,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,State Senate,16,DEM,Under Votes,34
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,REP,Marti Halverson,246
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,REP,Write-ins,1
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,REP,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,REP,Under Votes,24
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,DEM,Write-ins,2
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,DEM,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,DEM,Under Votes,35
+Lincoln,Star Valley Ranch Town Hall 2-10,Ballots Cast,,REP,Ballots Cast,271
+Lincoln,Star Valley Ranch Town Hall 2-10,Ballots Cast,,DEM,Ballots Cast,37
+Lincoln,Star Valley Ranch Town Hall 2-10,Ballots Cast,,NP,Ballots Cast,19
+Lincoln,Star Valley Ranch Town Hall 2-10,Ballots Cast,,,Ballots Cast,327
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,REP,Emmett A. Mavy,14
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,REP,John Barrasso,151
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,REP,Thomas Bleming,4
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,REP,Write-ins,1
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,REP,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,REP,Under Votes,7
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,DEM,Al Hamburg,0
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,DEM,Tim Chesnut,0
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,DEM,William Bryk,0
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,DEM,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,DEM,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,DEM,Under Votes,0
+Lincoln,Thayne Town Hall 2-8,U.S. House,,REP,Cynthia M. Lummis,160
+Lincoln,Thayne Town Hall 2-8,U.S. House,,REP,Write-ins,1
+Lincoln,Thayne Town Hall 2-8,U.S. House,,REP,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,U.S. House,,REP,Under Votes,16
+Lincoln,Thayne Town Hall 2-8,U.S. House,,DEM,Chris Henrichsen,0
+Lincoln,Thayne Town Hall 2-8,U.S. House,,DEM,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,U.S. House,,DEM,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,U.S. House,,DEM,Under Votes,0
+Lincoln,Thayne Town Hall 2-8,State Senate,16,REP,Dan Dockstader,159
+Lincoln,Thayne Town Hall 2-8,State Senate,16,REP,Write-ins,2
+Lincoln,Thayne Town Hall 2-8,State Senate,16,REP,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,State Senate,16,REP,Under Votes,16
+Lincoln,Thayne Town Hall 2-8,State Senate,16,DEM,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,State Senate,16,DEM,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,State Senate,16,DEM,Under Votes,0
+Lincoln,Thayne Town Hall 2-8,State House,21,REP,Robert McKim,157
+Lincoln,Thayne Town Hall 2-8,State House,21,REP,Write-ins,2
+Lincoln,Thayne Town Hall 2-8,State House,21,REP,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,State House,21,REP,Under Votes,18
+Lincoln,Thayne Town Hall 2-8,State House,21,DEM,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,State House,21,DEM,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,State House,21,DEM,Under Votes,0
+Lincoln,Thayne Town Hall 2-8,Ballots Cast,,REP,Ballots Cast,177
+Lincoln,Thayne Town Hall 2-8,Ballots Cast,,DEM,Ballots Cast,0
+Lincoln,Thayne Town Hall 2-8,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,Thayne Town Hall 2-8,Ballots Cast,,,Ballots Cast,177
