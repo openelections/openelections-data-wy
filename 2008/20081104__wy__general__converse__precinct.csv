@@ -1,0 +1,857 @@
+county,precinct,office,district,party,candidate,votes
+Converse,Douglas Rec Center 2-2,President,,REP,John McCain,297
+Converse,Douglas Rec Center 2-2,President,,DEM,Barack Obama,71
+Converse,Douglas Rec Center 2-2,President,,LIB,Bob Barr,1
+Converse,Douglas Rec Center 2-2,President,,IND,Chuck Baldwin,1
+Converse,Douglas Rec Center 2-2,President,,IND,Ralph Nader,6
+Converse,Douglas Rec Center 2-2,President,,,Write-ins,1
+Converse,Douglas Rec Center 2-2,President,,,Over Votes,0
+Converse,Douglas Rec Center 2-2,President,,,Under Votes,4
+Converse,Douglas Rec Center 2-2,U.S. Senate,,REP,Mike Enzi,312
+Converse,Douglas Rec Center 2-2,U.S. Senate,,DEM,Chris Rothfuss,62
+Converse,Douglas Rec Center 2-2,U.S. Senate,,,Write-ins,1
+Converse,Douglas Rec Center 2-2,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 2-2,U.S. Senate,,,Under Votes,6
+Converse,Douglas Rec Center 2-2,U.S. Senate (Unexpired Term),,REP,John Barrasso,320
+Converse,Douglas Rec Center 2-2,U.S. Senate (Unexpired Term),,DEM,Nick Carter,58
+Converse,Douglas Rec Center 2-2,U.S. Senate (Unexpired Term),,,Write-ins,1
+Converse,Douglas Rec Center 2-2,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 2-2,U.S. Senate (Unexpired Term),,,Under Votes,2
+Converse,Douglas Rec Center 2-2,U.S. House,,REP,Cynthia M. Lummis,232
+Converse,Douglas Rec Center 2-2,U.S. House,,DEM,Gary Trauner,128
+Converse,Douglas Rec Center 2-2,U.S. House,,LIB,W. David Herbert,9
+Converse,Douglas Rec Center 2-2,U.S. House,,,Write-ins,2
+Converse,Douglas Rec Center 2-2,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 2-2,U.S. House,,,Under Votes,10
+Converse,Douglas Rec Center 2-2,State Senate,2,REP,Jim Anderson,275
+Converse,Douglas Rec Center 2-2,State Senate,2,DEM,"Jason ""Jay"" Wright",87
+Converse,Douglas Rec Center 2-2,State Senate,2,,Write-ins,2
+Converse,Douglas Rec Center 2-2,State Senate,2,,Over Votes,0
+Converse,Douglas Rec Center 2-2,State Senate,2,,Under Votes,17
+Converse,Douglas Rec Center 2-2,State House,3,REP,Frank Peasley,282
+Converse,Douglas Rec Center 2-2,State House,3,DEM,Terry R. Jones,88
+Converse,Douglas Rec Center 2-2,State House,3,,Write-ins,1
+Converse,Douglas Rec Center 2-2,State House,3,,Over Votes,0
+Converse,Douglas Rec Center 2-2,State House,3,,Under Votes,10
+Converse,Douglas Rec Center 2-2,Ballots Cast,,,Ballots Cast,381
+Converse,Douglas Rec Center 2-2,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 2-2,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,29
+Converse,Douglas Rec Center 2-2,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,1
+Converse,Douglas Rec Center 2-2,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,26
+Converse,Douglas Rec Center 2-2,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Douglas Rec Center 2-2,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,47
+Converse,Douglas Rec Center 2-2,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 2-2,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,40
+Converse,Douglas Rec Center 2-2,Justice of the Supreme Court William U. Hill,,,Over Votes,1
+Converse,Douglas Rec Center 2-2,Justice of the Supreme Court William U. Hill,,,Under Votes,46
+Converse,Douglas Rec Center 20-20,President,,REP,John McCain,102
+Converse,Douglas Rec Center 20-20,President,,DEM,Barack Obama,13
+Converse,Douglas Rec Center 20-20,President,,LIB,Bob Barr,1
+Converse,Douglas Rec Center 20-20,President,,IND,Chuck Baldwin,2
+Converse,Douglas Rec Center 20-20,President,,IND,Ralph Nader,0
+Converse,Douglas Rec Center 20-20,President,,,Write-ins,0
+Converse,Douglas Rec Center 20-20,President,,,Over Votes,0
+Converse,Douglas Rec Center 20-20,President,,,Under Votes,1
+Converse,Douglas Rec Center 20-20,U.S. Senate,,REP,Mike Enzi,103
+Converse,Douglas Rec Center 20-20,U.S. Senate,,DEM,Chris Rothfuss,13
+Converse,Douglas Rec Center 20-20,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 20-20,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 20-20,U.S. Senate,,,Under Votes,3
+Converse,Douglas Rec Center 20-20,U.S. Senate (Unexpired Term),,REP,John Barrasso,106
+Converse,Douglas Rec Center 20-20,U.S. Senate (Unexpired Term),,DEM,Nick Carter,10
+Converse,Douglas Rec Center 20-20,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Douglas Rec Center 20-20,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 20-20,U.S. Senate (Unexpired Term),,,Under Votes,3
+Converse,Douglas Rec Center 20-20,U.S. House,,REP,Cynthia M. Lummis,91
+Converse,Douglas Rec Center 20-20,U.S. House,,DEM,Gary Trauner,21
+Converse,Douglas Rec Center 20-20,U.S. House,,LIB,W. David Herbert,3
+Converse,Douglas Rec Center 20-20,U.S. House,,,Write-ins,0
+Converse,Douglas Rec Center 20-20,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 20-20,U.S. House,,,Under Votes,4
+Converse,Douglas Rec Center 20-20,State Senate,2,REP,Jim Anderson,93
+Converse,Douglas Rec Center 20-20,State Senate,2,DEM,"Jason ""Jay"" Wright",20
+Converse,Douglas Rec Center 20-20,State Senate,2,,Write-ins,0
+Converse,Douglas Rec Center 20-20,State Senate,2,,Over Votes,0
+Converse,Douglas Rec Center 20-20,State Senate,2,,Under Votes,6
+Converse,Douglas Rec Center 20-20,State House,6,REP,Richard Cannady,58
+Converse,Douglas Rec Center 20-20,State House,6,DEM,Chase Anfinson,12
+Converse,Douglas Rec Center 20-20,State House,6,IND,Tom L. Strock,39
+Converse,Douglas Rec Center 20-20,State House,6,,Write-ins,0
+Converse,Douglas Rec Center 20-20,State House,6,,Over Votes,0
+Converse,Douglas Rec Center 20-20,State House,6,,Under Votes,10
+Converse,Douglas Rec Center 20-20,Ballots Cast,,,Ballots Cast,119
+Converse,Douglas Rec Center 20-20,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 20-20,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,4
+Converse,Douglas Rec Center 20-20,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Douglas Rec Center 20-20,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,9
+Converse,Douglas Rec Center 20-20,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Douglas Rec Center 20-20,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,19
+Converse,Douglas Rec Center 20-20,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 20-20,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,14
+Converse,Douglas Rec Center 20-20,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 20-20,Justice of the Supreme Court William U. Hill,,,Under Votes,16
+Converse,Douglas Rec Center 23-1,President,,REP,John McCain,223
+Converse,Douglas Rec Center 23-1,President,,DEM,Barack Obama,87
+Converse,Douglas Rec Center 23-1,President,,LIB,Bob Barr,0
+Converse,Douglas Rec Center 23-1,President,,IND,Chuck Baldwin,2
+Converse,Douglas Rec Center 23-1,President,,IND,Ralph Nader,4
+Converse,Douglas Rec Center 23-1,President,,,Write-ins,2
+Converse,Douglas Rec Center 23-1,President,,,Over Votes,2
+Converse,Douglas Rec Center 23-1,President,,,Under Votes,0
+Converse,Douglas Rec Center 23-1,U.S. Senate,,REP,Mike Enzi,249
+Converse,Douglas Rec Center 23-1,U.S. Senate,,DEM,Chris Rothfuss,63
+Converse,Douglas Rec Center 23-1,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 23-1,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 23-1,U.S. Senate,,,Under Votes,8
+Converse,Douglas Rec Center 23-1,U.S. Senate (Unexpired Term),,REP,John Barrasso,257
+Converse,Douglas Rec Center 23-1,U.S. Senate (Unexpired Term),,DEM,Nick Carter,57
+Converse,Douglas Rec Center 23-1,U.S. Senate (Unexpired Term),,,Write-ins,1
+Converse,Douglas Rec Center 23-1,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 23-1,U.S. Senate (Unexpired Term),,,Under Votes,5
+Converse,Douglas Rec Center 23-1,U.S. House,,REP,Cynthia M. Lummis,171
+Converse,Douglas Rec Center 23-1,U.S. House,,DEM,Gary Trauner,121
+Converse,Douglas Rec Center 23-1,U.S. House,,LIB,W. David Herbert,17
+Converse,Douglas Rec Center 23-1,U.S. House,,,Write-ins,1
+Converse,Douglas Rec Center 23-1,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 23-1,U.S. House,,,Under Votes,10
+Converse,Douglas Rec Center 23-1,State Senate,2,REP,Jim Anderson,215
+Converse,Douglas Rec Center 23-1,State Senate,2,DEM,"Jason ""Jay"" Wright",97
+Converse,Douglas Rec Center 23-1,State Senate,2,,Write-ins,0
+Converse,Douglas Rec Center 23-1,State Senate,2,,Over Votes,0
+Converse,Douglas Rec Center 23-1,State Senate,2,,Under Votes,8
+Converse,Douglas Rec Center 23-1,State House,6,REP,Richard Cannady,147
+Converse,Douglas Rec Center 23-1,State House,6,DEM,Chase Anfinson,67
+Converse,Douglas Rec Center 23-1,State House,6,IND,Tom L. Strock,98
+Converse,Douglas Rec Center 23-1,State House,6,,Write-ins,1
+Converse,Douglas Rec Center 23-1,State House,6,,Over Votes,0
+Converse,Douglas Rec Center 23-1,State House,6,,Under Votes,7
+Converse,Douglas Rec Center 23-1,Ballots Cast,,,Ballots Cast,320
+Converse,Douglas Rec Center 23-1,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 23-1,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,28
+Converse,Douglas Rec Center 23-1,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,1
+Converse,Douglas Rec Center 23-1,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,18
+Converse,Douglas Rec Center 23-1,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Douglas Rec Center 23-1,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,32
+Converse,Douglas Rec Center 23-1,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 23-1,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,38
+Converse,Douglas Rec Center 23-1,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 23-1,Justice of the Supreme Court William U. Hill,,,Under Votes,42
+Converse,Douglas Rec Center 23-2,President,,REP,John McCain,299
+Converse,Douglas Rec Center 23-2,President,,DEM,Barack Obama,111
+Converse,Douglas Rec Center 23-2,President,,LIB,Bob Barr,4
+Converse,Douglas Rec Center 23-2,President,,IND,Chuck Baldwin,5
+Converse,Douglas Rec Center 23-2,President,,IND,Ralph Nader,8
+Converse,Douglas Rec Center 23-2,President,,,Write-ins,2
+Converse,Douglas Rec Center 23-2,President,,,Over Votes,1
+Converse,Douglas Rec Center 23-2,President,,,Under Votes,4
+Converse,Douglas Rec Center 23-2,U.S. Senate,,REP,Mike Enzi,353
+Converse,Douglas Rec Center 23-2,U.S. Senate,,DEM,Chris Rothfuss,72
+Converse,Douglas Rec Center 23-2,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 23-2,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 23-2,U.S. Senate,,,Under Votes,9
+Converse,Douglas Rec Center 23-2,U.S. Senate (Unexpired Term),,REP,John Barrasso,351
+Converse,Douglas Rec Center 23-2,U.S. Senate (Unexpired Term),,DEM,Nick Carter,73
+Converse,Douglas Rec Center 23-2,U.S. Senate (Unexpired Term),,,Write-ins,2
+Converse,Douglas Rec Center 23-2,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 23-2,U.S. Senate (Unexpired Term),,,Under Votes,8
+Converse,Douglas Rec Center 23-2,U.S. House,,REP,Cynthia M. Lummis,240
+Converse,Douglas Rec Center 23-2,U.S. House,,DEM,Gary Trauner,155
+Converse,Douglas Rec Center 23-2,U.S. House,,LIB,W. David Herbert,20
+Converse,Douglas Rec Center 23-2,U.S. House,,,Write-ins,1
+Converse,Douglas Rec Center 23-2,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 23-2,U.S. House,,,Under Votes,18
+Converse,Douglas Rec Center 23-2,State Senate,2,REP,Jim Anderson,303
+Converse,Douglas Rec Center 23-2,State Senate,2,DEM,"Jason ""Jay"" Wright",118
+Converse,Douglas Rec Center 23-2,State Senate,2,,Write-ins,0
+Converse,Douglas Rec Center 23-2,State Senate,2,,Over Votes,0
+Converse,Douglas Rec Center 23-2,State Senate,2,,Under Votes,13
+Converse,Douglas Rec Center 23-2,State House,6,REP,Richard Cannady,210
+Converse,Douglas Rec Center 23-2,State House,6,DEM,Chase Anfinson,77
+Converse,Douglas Rec Center 23-2,State House,6,IND,Tom L. Strock,116
+Converse,Douglas Rec Center 23-2,State House,6,,Write-ins,0
+Converse,Douglas Rec Center 23-2,State House,6,,Over Votes,1
+Converse,Douglas Rec Center 23-2,State House,6,,Under Votes,30
+Converse,Douglas Rec Center 23-2,Ballots Cast,,,Ballots Cast,434
+Converse,Douglas Rec Center 23-2,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 23-2,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,38
+Converse,Douglas Rec Center 23-2,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Douglas Rec Center 23-2,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,43
+Converse,Douglas Rec Center 23-2,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,2
+Converse,Douglas Rec Center 23-2,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,73
+Converse,Douglas Rec Center 23-2,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 23-2,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,58
+Converse,Douglas Rec Center 23-2,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 23-2,Justice of the Supreme Court William U. Hill,,,Under Votes,67
+Converse,Douglas Rec Center 23-3,President,,REP,John McCain,323
+Converse,Douglas Rec Center 23-3,President,,DEM,Barack Obama,107
+Converse,Douglas Rec Center 23-3,President,,LIB,Bob Barr,1
+Converse,Douglas Rec Center 23-3,President,,IND,Chuck Baldwin,1
+Converse,Douglas Rec Center 23-3,President,,IND,Ralph Nader,2
+Converse,Douglas Rec Center 23-3,President,,,Write-ins,4
+Converse,Douglas Rec Center 23-3,President,,,Over Votes,0
+Converse,Douglas Rec Center 23-3,President,,,Under Votes,2
+Converse,Douglas Rec Center 23-3,U.S. Senate,,REP,Mike Enzi,352
+Converse,Douglas Rec Center 23-3,U.S. Senate,,DEM,Chris Rothfuss,73
+Converse,Douglas Rec Center 23-3,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 23-3,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 23-3,U.S. Senate,,,Under Votes,15
+Converse,Douglas Rec Center 23-3,U.S. Senate (Unexpired Term),,REP,John Barrasso,358
+Converse,Douglas Rec Center 23-3,U.S. Senate (Unexpired Term),,DEM,Nick Carter,70
+Converse,Douglas Rec Center 23-3,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Douglas Rec Center 23-3,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 23-3,U.S. Senate (Unexpired Term),,,Under Votes,12
+Converse,Douglas Rec Center 23-3,U.S. House,,REP,Cynthia M. Lummis,252
+Converse,Douglas Rec Center 23-3,U.S. House,,DEM,Gary Trauner,143
+Converse,Douglas Rec Center 23-3,U.S. House,,LIB,W. David Herbert,23
+Converse,Douglas Rec Center 23-3,U.S. House,,,Write-ins,0
+Converse,Douglas Rec Center 23-3,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 23-3,U.S. House,,,Under Votes,22
+Converse,Douglas Rec Center 23-3,State Senate,2,REP,Jim Anderson,302
+Converse,Douglas Rec Center 23-3,State Senate,2,DEM,"Jason ""Jay"" Wright",117
+Converse,Douglas Rec Center 23-3,State Senate,2,,Write-ins,2
+Converse,Douglas Rec Center 23-3,State Senate,2,,Over Votes,1
+Converse,Douglas Rec Center 23-3,State Senate,2,,Under Votes,18
+Converse,Douglas Rec Center 23-3,State House,6,REP,Richard Cannady,202
+Converse,Douglas Rec Center 23-3,State House,6,DEM,Chase Anfinson,81
+Converse,Douglas Rec Center 23-3,State House,6,IND,Tom L. Strock,131
+Converse,Douglas Rec Center 23-3,State House,6,,Write-ins,0
+Converse,Douglas Rec Center 23-3,State House,6,,Over Votes,0
+Converse,Douglas Rec Center 23-3,State House,6,,Under Votes,26
+Converse,Douglas Rec Center 23-3,Ballots Cast,,,Ballots Cast,440
+Converse,Douglas Rec Center 23-3,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 23-3,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,31
+Converse,Douglas Rec Center 23-3,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Douglas Rec Center 23-3,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,31
+Converse,Douglas Rec Center 23-3,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Douglas Rec Center 23-3,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,56
+Converse,Douglas Rec Center 23-3,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 23-3,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,47
+Converse,Douglas Rec Center 23-3,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 23-3,Justice of the Supreme Court William U. Hill,,,Under Votes,55
+Converse,Douglas Rec Center 23-4,President,,REP,John McCain,176
+Converse,Douglas Rec Center 23-4,President,,DEM,Barack Obama,85
+Converse,Douglas Rec Center 23-4,President,,LIB,Bob Barr,3
+Converse,Douglas Rec Center 23-4,President,,IND,Chuck Baldwin,1
+Converse,Douglas Rec Center 23-4,President,,IND,Ralph Nader,1
+Converse,Douglas Rec Center 23-4,President,,,Write-ins,2
+Converse,Douglas Rec Center 23-4,President,,,Over Votes,0
+Converse,Douglas Rec Center 23-4,President,,,Under Votes,0
+Converse,Douglas Rec Center 23-4,U.S. Senate,,REP,Mike Enzi,203
+Converse,Douglas Rec Center 23-4,U.S. Senate,,DEM,Chris Rothfuss,64
+Converse,Douglas Rec Center 23-4,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 23-4,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 23-4,U.S. Senate,,,Under Votes,1
+Converse,Douglas Rec Center 23-4,U.S. Senate (Unexpired Term),,REP,John Barrasso,200
+Converse,Douglas Rec Center 23-4,U.S. Senate (Unexpired Term),,DEM,Nick Carter,65
+Converse,Douglas Rec Center 23-4,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Douglas Rec Center 23-4,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 23-4,U.S. Senate (Unexpired Term),,,Under Votes,3
+Converse,Douglas Rec Center 23-4,U.S. House,,REP,Cynthia M. Lummis,133
+Converse,Douglas Rec Center 23-4,U.S. House,,DEM,Gary Trauner,106
+Converse,Douglas Rec Center 23-4,U.S. House,,LIB,W. David Herbert,26
+Converse,Douglas Rec Center 23-4,U.S. House,,,Write-ins,1
+Converse,Douglas Rec Center 23-4,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 23-4,U.S. House,,,Under Votes,2
+Converse,Douglas Rec Center 23-4,State Senate,2,REP,Jim Anderson,169
+Converse,Douglas Rec Center 23-4,State Senate,2,DEM,"Jason ""Jay"" Wright",90
+Converse,Douglas Rec Center 23-4,State Senate,2,,Write-ins,2
+Converse,Douglas Rec Center 23-4,State Senate,2,,Over Votes,0
+Converse,Douglas Rec Center 23-4,State Senate,2,,Under Votes,7
+Converse,Douglas Rec Center 23-4,State House,3,REP,Frank Peasley,186
+Converse,Douglas Rec Center 23-4,State House,3,DEM,Terry R. Jones,75
+Converse,Douglas Rec Center 23-4,State House,3,,Write-ins,0
+Converse,Douglas Rec Center 23-4,State House,3,,Over Votes,0
+Converse,Douglas Rec Center 23-4,State House,3,,Under Votes,7
+Converse,Douglas Rec Center 23-4,Ballots Cast,,,Ballots Cast,268
+Converse,Douglas Rec Center 23-4,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 23-4,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,25
+Converse,Douglas Rec Center 23-4,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Douglas Rec Center 23-4,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,20
+Converse,Douglas Rec Center 23-4,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Douglas Rec Center 23-4,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,31
+Converse,Douglas Rec Center 23-4,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 23-4,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,34
+Converse,Douglas Rec Center 23-4,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 23-4,Justice of the Supreme Court William U. Hill,,,Under Votes,34
+Converse,Douglas Rec Center 23-5,President,,REP,John McCain,384
+Converse,Douglas Rec Center 23-5,President,,DEM,Barack Obama,140
+Converse,Douglas Rec Center 23-5,President,,LIB,Bob Barr,0
+Converse,Douglas Rec Center 23-5,President,,IND,Chuck Baldwin,3
+Converse,Douglas Rec Center 23-5,President,,IND,Ralph Nader,4
+Converse,Douglas Rec Center 23-5,President,,,Write-ins,2
+Converse,Douglas Rec Center 23-5,President,,,Over Votes,0
+Converse,Douglas Rec Center 23-5,President,,,Under Votes,2
+Converse,Douglas Rec Center 23-5,U.S. Senate,,REP,Mike Enzi,434
+Converse,Douglas Rec Center 23-5,U.S. Senate,,DEM,Chris Rothfuss,98
+Converse,Douglas Rec Center 23-5,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 23-5,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 23-5,U.S. Senate,,,Under Votes,3
+Converse,Douglas Rec Center 23-5,U.S. Senate (Unexpired Term),,REP,John Barrasso,434
+Converse,Douglas Rec Center 23-5,U.S. Senate (Unexpired Term),,DEM,Nick Carter,91
+Converse,Douglas Rec Center 23-5,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Douglas Rec Center 23-5,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 23-5,U.S. Senate (Unexpired Term),,,Under Votes,10
+Converse,Douglas Rec Center 23-5,U.S. House,,REP,Cynthia M. Lummis,279
+Converse,Douglas Rec Center 23-5,U.S. House,,DEM,Gary Trauner,205
+Converse,Douglas Rec Center 23-5,U.S. House,,LIB,W. David Herbert,34
+Converse,Douglas Rec Center 23-5,U.S. House,,,Write-ins,0
+Converse,Douglas Rec Center 23-5,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 23-5,U.S. House,,,Under Votes,17
+Converse,Douglas Rec Center 23-5,State Senate,2,REP,Jim Anderson,354
+Converse,Douglas Rec Center 23-5,State Senate,2,DEM,"Jason ""Jay"" Wright",168
+Converse,Douglas Rec Center 23-5,State Senate,2,,Write-ins,2
+Converse,Douglas Rec Center 23-5,State Senate,2,,Over Votes,0
+Converse,Douglas Rec Center 23-5,State Senate,2,,Under Votes,11
+Converse,Douglas Rec Center 23-5,State House,3,REP,Frank Peasley,396
+Converse,Douglas Rec Center 23-5,State House,3,DEM,Terry R. Jones,127
+Converse,Douglas Rec Center 23-5,State House,3,,Write-ins,1
+Converse,Douglas Rec Center 23-5,State House,3,,Over Votes,0
+Converse,Douglas Rec Center 23-5,State House,3,,Under Votes,11
+Converse,Douglas Rec Center 23-5,Ballots Cast,,,Ballots Cast,535
+Converse,Douglas Rec Center 23-5,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,1
+Converse,Douglas Rec Center 23-5,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,37
+Converse,Douglas Rec Center 23-5,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Douglas Rec Center 23-5,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,27
+Converse,Douglas Rec Center 23-5,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,1
+Converse,Douglas Rec Center 23-5,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,50
+Converse,Douglas Rec Center 23-5,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 23-5,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,55
+Converse,Douglas Rec Center 23-5,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 23-5,Justice of the Supreme Court William U. Hill,,,Under Votes,56
+Converse,Douglas Rec Center 23-6,President,,REP,John McCain,460
+Converse,Douglas Rec Center 23-6,President,,DEM,Barack Obama,154
+Converse,Douglas Rec Center 23-6,President,,LIB,Bob Barr,4
+Converse,Douglas Rec Center 23-6,President,,IND,Chuck Baldwin,3
+Converse,Douglas Rec Center 23-6,President,,IND,Ralph Nader,10
+Converse,Douglas Rec Center 23-6,President,,,Write-ins,2
+Converse,Douglas Rec Center 23-6,President,,,Over Votes,0
+Converse,Douglas Rec Center 23-6,President,,,Under Votes,5
+Converse,Douglas Rec Center 23-6,U.S. Senate,,REP,Mike Enzi,531
+Converse,Douglas Rec Center 23-6,U.S. Senate,,DEM,Chris Rothfuss,94
+Converse,Douglas Rec Center 23-6,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 23-6,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 23-6,U.S. Senate,,,Under Votes,13
+Converse,Douglas Rec Center 23-6,U.S. Senate (Unexpired Term),,REP,John Barrasso,525
+Converse,Douglas Rec Center 23-6,U.S. Senate (Unexpired Term),,DEM,Nick Carter,98
+Converse,Douglas Rec Center 23-6,U.S. Senate (Unexpired Term),,,Write-ins,1
+Converse,Douglas Rec Center 23-6,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 23-6,U.S. Senate (Unexpired Term),,,Under Votes,14
+Converse,Douglas Rec Center 23-6,U.S. House,,REP,Cynthia M. Lummis,382
+Converse,Douglas Rec Center 23-6,U.S. House,,DEM,Gary Trauner,221
+Converse,Douglas Rec Center 23-6,U.S. House,,LIB,W. David Herbert,15
+Converse,Douglas Rec Center 23-6,U.S. House,,,Write-ins,0
+Converse,Douglas Rec Center 23-6,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 23-6,U.S. House,,,Under Votes,20
+Converse,Douglas Rec Center 23-6,State Senate,2,REP,Jim Anderson,468
+Converse,Douglas Rec Center 23-6,State Senate,2,DEM,"Jason ""Jay"" Wright",155
+Converse,Douglas Rec Center 23-6,State Senate,2,,Write-ins,1
+Converse,Douglas Rec Center 23-6,State Senate,2,,Over Votes,1
+Converse,Douglas Rec Center 23-6,State Senate,2,,Under Votes,13
+Converse,Douglas Rec Center 23-6,State House,3,REP,Frank Peasley,487
+Converse,Douglas Rec Center 23-6,State House,3,DEM,Terry R. Jones,126
+Converse,Douglas Rec Center 23-6,State House,3,,Write-ins,2
+Converse,Douglas Rec Center 23-6,State House,3,,Over Votes,0
+Converse,Douglas Rec Center 23-6,State House,3,,Under Votes,23
+Converse,Douglas Rec Center 23-6,Ballots Cast,,,Ballots Cast,638
+Converse,Douglas Rec Center 23-6,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 23-6,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,50
+Converse,Douglas Rec Center 23-6,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Douglas Rec Center 23-6,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,32
+Converse,Douglas Rec Center 23-6,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,1
+Converse,Douglas Rec Center 23-6,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,65
+Converse,Douglas Rec Center 23-6,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 23-6,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,64
+Converse,Douglas Rec Center 23-6,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 23-6,Justice of the Supreme Court William U. Hill,,,Under Votes,77
+Converse,Douglas Rec Center 4-4,President,,REP,John McCain,347
+Converse,Douglas Rec Center 4-4,President,,DEM,Barack Obama,66
+Converse,Douglas Rec Center 4-4,President,,LIB,Bob Barr,1
+Converse,Douglas Rec Center 4-4,President,,IND,Chuck Baldwin,1
+Converse,Douglas Rec Center 4-4,President,,IND,Ralph Nader,4
+Converse,Douglas Rec Center 4-4,President,,,Write-ins,1
+Converse,Douglas Rec Center 4-4,President,,,Over Votes,0
+Converse,Douglas Rec Center 4-4,President,,,Under Votes,2
+Converse,Douglas Rec Center 4-4,U.S. Senate,,REP,Mike Enzi,369
+Converse,Douglas Rec Center 4-4,U.S. Senate,,DEM,Chris Rothfuss,47
+Converse,Douglas Rec Center 4-4,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 4-4,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 4-4,U.S. Senate,,,Under Votes,6
+Converse,Douglas Rec Center 4-4,U.S. Senate (Unexpired Term),,REP,John Barrasso,368
+Converse,Douglas Rec Center 4-4,U.S. Senate (Unexpired Term),,DEM,Nick Carter,45
+Converse,Douglas Rec Center 4-4,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Douglas Rec Center 4-4,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 4-4,U.S. Senate (Unexpired Term),,,Under Votes,9
+Converse,Douglas Rec Center 4-4,U.S. House,,REP,Cynthia M. Lummis,272
+Converse,Douglas Rec Center 4-4,U.S. House,,DEM,Gary Trauner,131
+Converse,Douglas Rec Center 4-4,U.S. House,,LIB,W. David Herbert,10
+Converse,Douglas Rec Center 4-4,U.S. House,,,Write-ins,0
+Converse,Douglas Rec Center 4-4,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 4-4,U.S. House,,,Under Votes,9
+Converse,Douglas Rec Center 4-4,State Senate,2,REP,Jim Anderson,330
+Converse,Douglas Rec Center 4-4,State Senate,2,DEM,"Jason ""Jay"" Wright",82
+Converse,Douglas Rec Center 4-4,State Senate,2,,Write-ins,0
+Converse,Douglas Rec Center 4-4,State Senate,2,,Over Votes,0
+Converse,Douglas Rec Center 4-4,State Senate,2,,Under Votes,10
+Converse,Douglas Rec Center 4-4,State House,6,REP,Richard Cannady,230
+Converse,Douglas Rec Center 4-4,State House,6,DEM,Chase Anfinson,57
+Converse,Douglas Rec Center 4-4,State House,6,IND,Tom L. Strock,115
+Converse,Douglas Rec Center 4-4,State House,6,,Write-ins,0
+Converse,Douglas Rec Center 4-4,State House,6,,Over Votes,0
+Converse,Douglas Rec Center 4-4,State House,6,,Under Votes,20
+Converse,Douglas Rec Center 4-4,Ballots Cast,,,Ballots Cast,422
+Converse,Douglas Rec Center 4-4,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 4-4,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,32
+Converse,Douglas Rec Center 4-4,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,1
+Converse,Douglas Rec Center 4-4,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,21
+Converse,Douglas Rec Center 4-4,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Douglas Rec Center 4-4,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,42
+Converse,Douglas Rec Center 4-4,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 4-4,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,37
+Converse,Douglas Rec Center 4-4,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 4-4,Justice of the Supreme Court William U. Hill,,,Under Votes,49
+Converse,Douglas Rec Center 7-7,President,,REP,John McCain,167
+Converse,Douglas Rec Center 7-7,President,,DEM,Barack Obama,27
+Converse,Douglas Rec Center 7-7,President,,LIB,Bob Barr,0
+Converse,Douglas Rec Center 7-7,President,,IND,Chuck Baldwin,2
+Converse,Douglas Rec Center 7-7,President,,IND,Ralph Nader,3
+Converse,Douglas Rec Center 7-7,President,,,Write-ins,0
+Converse,Douglas Rec Center 7-7,President,,,Over Votes,2
+Converse,Douglas Rec Center 7-7,President,,,Under Votes,0
+Converse,Douglas Rec Center 7-7,U.S. Senate,,REP,Mike Enzi,173
+Converse,Douglas Rec Center 7-7,U.S. Senate,,DEM,Chris Rothfuss,21
+Converse,Douglas Rec Center 7-7,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 7-7,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 7-7,U.S. Senate,,,Under Votes,7
+Converse,Douglas Rec Center 7-7,U.S. Senate (Unexpired Term),,REP,John Barrasso,177
+Converse,Douglas Rec Center 7-7,U.S. Senate (Unexpired Term),,DEM,Nick Carter,18
+Converse,Douglas Rec Center 7-7,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Douglas Rec Center 7-7,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 7-7,U.S. Senate (Unexpired Term),,,Under Votes,6
+Converse,Douglas Rec Center 7-7,U.S. House,,REP,Cynthia M. Lummis,145
+Converse,Douglas Rec Center 7-7,U.S. House,,DEM,Gary Trauner,38
+Converse,Douglas Rec Center 7-7,U.S. House,,LIB,W. David Herbert,5
+Converse,Douglas Rec Center 7-7,U.S. House,,,Write-ins,2
+Converse,Douglas Rec Center 7-7,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 7-7,U.S. House,,,Under Votes,11
+Converse,Douglas Rec Center 7-7,State Senate,2,REP,Jim Anderson,160
+Converse,Douglas Rec Center 7-7,State Senate,2,DEM,"Jason ""Jay"" Wright",29
+Converse,Douglas Rec Center 7-7,State Senate,2,,Write-ins,0
+Converse,Douglas Rec Center 7-7,State Senate,2,,Over Votes,0
+Converse,Douglas Rec Center 7-7,State Senate,2,,Under Votes,12
+Converse,Douglas Rec Center 7-7,State House,6,REP,Richard Cannady,81
+Converse,Douglas Rec Center 7-7,State House,6,DEM,Chase Anfinson,23
+Converse,Douglas Rec Center 7-7,State House,6,IND,Tom L. Strock,89
+Converse,Douglas Rec Center 7-7,State House,6,,Write-ins,0
+Converse,Douglas Rec Center 7-7,State House,6,,Over Votes,1
+Converse,Douglas Rec Center 7-7,State House,6,,Under Votes,7
+Converse,Douglas Rec Center 7-7,Ballots Cast,,,Ballots Cast,201
+Converse,Douglas Rec Center 7-7,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 7-7,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,21
+Converse,Douglas Rec Center 7-7,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Douglas Rec Center 7-7,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,19
+Converse,Douglas Rec Center 7-7,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Douglas Rec Center 7-7,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,32
+Converse,Douglas Rec Center 7-7,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 7-7,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,27
+Converse,Douglas Rec Center 7-7,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 7-7,Justice of the Supreme Court William U. Hill,,,Under Votes,31
+Converse,Douglas Rec Center 8-8,President,,REP,John McCain,252
+Converse,Douglas Rec Center 8-8,President,,DEM,Barack Obama,49
+Converse,Douglas Rec Center 8-8,President,,LIB,Bob Barr,1
+Converse,Douglas Rec Center 8-8,President,,IND,Chuck Baldwin,2
+Converse,Douglas Rec Center 8-8,President,,IND,Ralph Nader,6
+Converse,Douglas Rec Center 8-8,President,,,Write-ins,0
+Converse,Douglas Rec Center 8-8,President,,,Over Votes,0
+Converse,Douglas Rec Center 8-8,President,,,Under Votes,4
+Converse,Douglas Rec Center 8-8,U.S. Senate,,REP,Mike Enzi,271
+Converse,Douglas Rec Center 8-8,U.S. Senate,,DEM,Chris Rothfuss,37
+Converse,Douglas Rec Center 8-8,U.S. Senate,,,Write-ins,0
+Converse,Douglas Rec Center 8-8,U.S. Senate,,,Over Votes,0
+Converse,Douglas Rec Center 8-8,U.S. Senate,,,Under Votes,6
+Converse,Douglas Rec Center 8-8,U.S. Senate (Unexpired Term),,REP,John Barrasso,278
+Converse,Douglas Rec Center 8-8,U.S. Senate (Unexpired Term),,DEM,Nick Carter,30
+Converse,Douglas Rec Center 8-8,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Douglas Rec Center 8-8,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Douglas Rec Center 8-8,U.S. Senate (Unexpired Term),,,Under Votes,6
+Converse,Douglas Rec Center 8-8,U.S. House,,REP,Cynthia M. Lummis,211
+Converse,Douglas Rec Center 8-8,U.S. House,,DEM,Gary Trauner,81
+Converse,Douglas Rec Center 8-8,U.S. House,,LIB,W. David Herbert,15
+Converse,Douglas Rec Center 8-8,U.S. House,,,Write-ins,0
+Converse,Douglas Rec Center 8-8,U.S. House,,,Over Votes,0
+Converse,Douglas Rec Center 8-8,U.S. House,,,Under Votes,7
+Converse,Douglas Rec Center 8-8,State House,2,DEM,Ross Diercks,188
+Converse,Douglas Rec Center 8-8,State House,2,,Write-ins,12
+Converse,Douglas Rec Center 8-8,State House,2,,Over Votes,0
+Converse,Douglas Rec Center 8-8,State House,2,,Under Votes,114
+Converse,Douglas Rec Center 8-8,Ballots Cast,,,Ballots Cast,314
+Converse,Douglas Rec Center 8-8,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Douglas Rec Center 8-8,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,29
+Converse,Douglas Rec Center 8-8,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Douglas Rec Center 8-8,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,27
+Converse,Douglas Rec Center 8-8,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Douglas Rec Center 8-8,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,47
+Converse,Douglas Rec Center 8-8,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Douglas Rec Center 8-8,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,38
+Converse,Douglas Rec Center 8-8,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Douglas Rec Center 8-8,Justice of the Supreme Court William U. Hill,,,Under Votes,43
+Converse,Dry Creek 13-13,President,,REP,John McCain,94
+Converse,Dry Creek 13-13,President,,DEM,Barack Obama,7
+Converse,Dry Creek 13-13,President,,LIB,Bob Barr,0
+Converse,Dry Creek 13-13,President,,IND,Chuck Baldwin,0
+Converse,Dry Creek 13-13,President,,IND,Ralph Nader,0
+Converse,Dry Creek 13-13,President,,,Write-ins,0
+Converse,Dry Creek 13-13,President,,,Over Votes,0
+Converse,Dry Creek 13-13,President,,,Under Votes,0
+Converse,Dry Creek 13-13,U.S. Senate,,REP,Mike Enzi,95
+Converse,Dry Creek 13-13,U.S. Senate,,DEM,Chris Rothfuss,6
+Converse,Dry Creek 13-13,U.S. Senate,,,Write-ins,0
+Converse,Dry Creek 13-13,U.S. Senate,,,Over Votes,0
+Converse,Dry Creek 13-13,U.S. Senate,,,Under Votes,0
+Converse,Dry Creek 13-13,U.S. Senate (Unexpired Term),,REP,John Barrasso,95
+Converse,Dry Creek 13-13,U.S. Senate (Unexpired Term),,DEM,Nick Carter,6
+Converse,Dry Creek 13-13,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Dry Creek 13-13,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Dry Creek 13-13,U.S. Senate (Unexpired Term),,,Under Votes,0
+Converse,Dry Creek 13-13,U.S. House,,REP,Cynthia M. Lummis,88
+Converse,Dry Creek 13-13,U.S. House,,DEM,Gary Trauner,13
+Converse,Dry Creek 13-13,U.S. House,,LIB,W. David Herbert,0
+Converse,Dry Creek 13-13,U.S. House,,,Write-ins,0
+Converse,Dry Creek 13-13,U.S. House,,,Over Votes,0
+Converse,Dry Creek 13-13,U.S. House,,,Under Votes,0
+Converse,Dry Creek 13-13,State Senate,2,REP,Jim Anderson,89
+Converse,Dry Creek 13-13,State Senate,2,DEM,"Jason ""Jay"" Wright",11
+Converse,Dry Creek 13-13,State Senate,2,,Write-ins,0
+Converse,Dry Creek 13-13,State Senate,2,,Over Votes,0
+Converse,Dry Creek 13-13,State Senate,2,,Under Votes,1
+Converse,Dry Creek 13-13,State House,6,REP,Richard Cannady,53
+Converse,Dry Creek 13-13,State House,6,DEM,Chase Anfinson,3
+Converse,Dry Creek 13-13,State House,6,IND,Tom L. Strock,39
+Converse,Dry Creek 13-13,State House,6,,Write-ins,0
+Converse,Dry Creek 13-13,State House,6,,Over Votes,0
+Converse,Dry Creek 13-13,State House,6,,Under Votes,6
+Converse,Dry Creek 13-13,Ballots Cast,,,Ballots Cast,101
+Converse,Dry Creek 13-13,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Dry Creek 13-13,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,23
+Converse,Dry Creek 13-13,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Dry Creek 13-13,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,10
+Converse,Dry Creek 13-13,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Dry Creek 13-13,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,23
+Converse,Dry Creek 13-13,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Dry Creek 13-13,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,27
+Converse,Dry Creek 13-13,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Dry Creek 13-13,Justice of the Supreme Court William U. Hill,,,Under Votes,25
+Converse,Glenrock Rec Center 10-10,President,,REP,John McCain,237
+Converse,Glenrock Rec Center 10-10,President,,DEM,Barack Obama,60
+Converse,Glenrock Rec Center 10-10,President,,LIB,Bob Barr,2
+Converse,Glenrock Rec Center 10-10,President,,IND,Chuck Baldwin,0
+Converse,Glenrock Rec Center 10-10,President,,IND,Ralph Nader,4
+Converse,Glenrock Rec Center 10-10,President,,,Write-ins,1
+Converse,Glenrock Rec Center 10-10,President,,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,President,,,Under Votes,0
+Converse,Glenrock Rec Center 10-10,U.S. Senate,,REP,Mike Enzi,241
+Converse,Glenrock Rec Center 10-10,U.S. Senate,,DEM,Chris Rothfuss,59
+Converse,Glenrock Rec Center 10-10,U.S. Senate,,,Write-ins,0
+Converse,Glenrock Rec Center 10-10,U.S. Senate,,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,U.S. Senate,,,Under Votes,4
+Converse,Glenrock Rec Center 10-10,U.S. Senate (Unexpired Term),,REP,John Barrasso,255
+Converse,Glenrock Rec Center 10-10,U.S. Senate (Unexpired Term),,DEM,Nick Carter,48
+Converse,Glenrock Rec Center 10-10,U.S. Senate (Unexpired Term),,,Write-ins,1
+Converse,Glenrock Rec Center 10-10,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,U.S. Senate (Unexpired Term),,,Under Votes,0
+Converse,Glenrock Rec Center 10-10,U.S. House,,REP,Cynthia M. Lummis,202
+Converse,Glenrock Rec Center 10-10,U.S. House,,DEM,Gary Trauner,93
+Converse,Glenrock Rec Center 10-10,U.S. House,,LIB,W. David Herbert,5
+Converse,Glenrock Rec Center 10-10,U.S. House,,,Write-ins,0
+Converse,Glenrock Rec Center 10-10,U.S. House,,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,U.S. House,,,Under Votes,4
+Converse,Glenrock Rec Center 10-10,State Senate,2,REP,Jim Anderson,217
+Converse,Glenrock Rec Center 10-10,State Senate,2,DEM,"Jason ""Jay"" Wright",74
+Converse,Glenrock Rec Center 10-10,State Senate,2,,Write-ins,1
+Converse,Glenrock Rec Center 10-10,State Senate,2,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,State Senate,2,,Under Votes,12
+Converse,Glenrock Rec Center 10-10,State House,6,REP,Richard Cannady,170
+Converse,Glenrock Rec Center 10-10,State House,6,DEM,Chase Anfinson,74
+Converse,Glenrock Rec Center 10-10,State House,6,IND,Tom L. Strock,47
+Converse,Glenrock Rec Center 10-10,State House,6,,Write-ins,1
+Converse,Glenrock Rec Center 10-10,State House,6,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,State House,6,,Under Votes,12
+Converse,Glenrock Rec Center 10-10,Ballots Cast,,,Ballots Cast,304
+Converse,Glenrock Rec Center 10-10,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,33
+Converse,Glenrock Rec Center 10-10,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,29
+Converse,Glenrock Rec Center 10-10,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,37
+Converse,Glenrock Rec Center 10-10,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,34
+Converse,Glenrock Rec Center 10-10,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Glenrock Rec Center 10-10,Justice of the Supreme Court William U. Hill,,,Under Votes,38
+Converse,Glenrock Rec Center 11-11,President,,REP,John McCain,188
+Converse,Glenrock Rec Center 11-11,President,,DEM,Barack Obama,27
+Converse,Glenrock Rec Center 11-11,President,,LIB,Bob Barr,2
+Converse,Glenrock Rec Center 11-11,President,,IND,Chuck Baldwin,0
+Converse,Glenrock Rec Center 11-11,President,,IND,Ralph Nader,3
+Converse,Glenrock Rec Center 11-11,President,,,Write-ins,3
+Converse,Glenrock Rec Center 11-11,President,,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,President,,,Under Votes,1
+Converse,Glenrock Rec Center 11-11,U.S. Senate,,REP,Mike Enzi,188
+Converse,Glenrock Rec Center 11-11,U.S. Senate,,DEM,Chris Rothfuss,29
+Converse,Glenrock Rec Center 11-11,U.S. Senate,,,Write-ins,0
+Converse,Glenrock Rec Center 11-11,U.S. Senate,,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,U.S. Senate,,,Under Votes,7
+Converse,Glenrock Rec Center 11-11,U.S. Senate (Unexpired Term),,REP,John Barrasso,187
+Converse,Glenrock Rec Center 11-11,U.S. Senate (Unexpired Term),,DEM,Nick Carter,32
+Converse,Glenrock Rec Center 11-11,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Glenrock Rec Center 11-11,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,U.S. Senate (Unexpired Term),,,Under Votes,5
+Converse,Glenrock Rec Center 11-11,U.S. House,,REP,Cynthia M. Lummis,132
+Converse,Glenrock Rec Center 11-11,U.S. House,,DEM,Gary Trauner,77
+Converse,Glenrock Rec Center 11-11,U.S. House,,LIB,W. David Herbert,8
+Converse,Glenrock Rec Center 11-11,U.S. House,,,Write-ins,0
+Converse,Glenrock Rec Center 11-11,U.S. House,,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,U.S. House,,,Under Votes,7
+Converse,Glenrock Rec Center 11-11,State Senate,2,REP,Jim Anderson,177
+Converse,Glenrock Rec Center 11-11,State Senate,2,DEM,"Jason ""Jay"" Wright",38
+Converse,Glenrock Rec Center 11-11,State Senate,2,,Write-ins,0
+Converse,Glenrock Rec Center 11-11,State Senate,2,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,State Senate,2,,Under Votes,9
+Converse,Glenrock Rec Center 11-11,State House,6,REP,Richard Cannady,107
+Converse,Glenrock Rec Center 11-11,State House,6,DEM,Chase Anfinson,72
+Converse,Glenrock Rec Center 11-11,State House,6,IND,Tom L. Strock,34
+Converse,Glenrock Rec Center 11-11,State House,6,,Write-ins,0
+Converse,Glenrock Rec Center 11-11,State House,6,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,State House,6,,Under Votes,11
+Converse,Glenrock Rec Center 11-11,Ballots Cast,,,Ballots Cast,224
+Converse,Glenrock Rec Center 11-11,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,27
+Converse,Glenrock Rec Center 11-11,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,22
+Converse,Glenrock Rec Center 11-11,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,33
+Converse,Glenrock Rec Center 11-11,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,30
+Converse,Glenrock Rec Center 11-11,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Glenrock Rec Center 11-11,Justice of the Supreme Court William U. Hill,,,Under Votes,29
+Converse,Glenrock Rec Center 6-6,President,,REP,John McCain,251
+Converse,Glenrock Rec Center 6-6,President,,DEM,Barack Obama,42
+Converse,Glenrock Rec Center 6-6,President,,LIB,Bob Barr,2
+Converse,Glenrock Rec Center 6-6,President,,IND,Chuck Baldwin,2
+Converse,Glenrock Rec Center 6-6,President,,IND,Ralph Nader,0
+Converse,Glenrock Rec Center 6-6,President,,,Write-ins,1
+Converse,Glenrock Rec Center 6-6,President,,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,President,,,Under Votes,4
+Converse,Glenrock Rec Center 6-6,U.S. Senate,,REP,Mike Enzi,271
+Converse,Glenrock Rec Center 6-6,U.S. Senate,,DEM,Chris Rothfuss,28
+Converse,Glenrock Rec Center 6-6,U.S. Senate,,,Write-ins,0
+Converse,Glenrock Rec Center 6-6,U.S. Senate,,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,U.S. Senate,,,Under Votes,3
+Converse,Glenrock Rec Center 6-6,U.S. Senate (Unexpired Term),,REP,John Barrasso,267
+Converse,Glenrock Rec Center 6-6,U.S. Senate (Unexpired Term),,DEM,Nick Carter,33
+Converse,Glenrock Rec Center 6-6,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Glenrock Rec Center 6-6,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,U.S. Senate (Unexpired Term),,,Under Votes,2
+Converse,Glenrock Rec Center 6-6,U.S. House,,REP,Cynthia M. Lummis,202
+Converse,Glenrock Rec Center 6-6,U.S. House,,DEM,Gary Trauner,76
+Converse,Glenrock Rec Center 6-6,U.S. House,,LIB,W. David Herbert,14
+Converse,Glenrock Rec Center 6-6,U.S. House,,,Write-ins,0
+Converse,Glenrock Rec Center 6-6,U.S. House,,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,U.S. House,,,Under Votes,10
+Converse,Glenrock Rec Center 6-6,State Senate,2,REP,Jim Anderson,252
+Converse,Glenrock Rec Center 6-6,State Senate,2,DEM,"Jason ""Jay"" Wright",39
+Converse,Glenrock Rec Center 6-6,State Senate,2,,Write-ins,0
+Converse,Glenrock Rec Center 6-6,State Senate,2,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,State Senate,2,,Under Votes,11
+Converse,Glenrock Rec Center 6-6,State House,6,REP,Richard Cannady,161
+Converse,Glenrock Rec Center 6-6,State House,6,DEM,Chase Anfinson,75
+Converse,Glenrock Rec Center 6-6,State House,6,IND,Tom L. Strock,60
+Converse,Glenrock Rec Center 6-6,State House,6,,Write-ins,0
+Converse,Glenrock Rec Center 6-6,State House,6,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,State House,6,,Under Votes,6
+Converse,Glenrock Rec Center 6-6,Ballots Cast,,,Ballots Cast,302
+Converse,Glenrock Rec Center 6-6,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,23
+Converse,Glenrock Rec Center 6-6,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,1
+Converse,Glenrock Rec Center 6-6,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,18
+Converse,Glenrock Rec Center 6-6,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,1
+Converse,Glenrock Rec Center 6-6,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,40
+Converse,Glenrock Rec Center 6-6,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,33
+Converse,Glenrock Rec Center 6-6,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Glenrock Rec Center 6-6,Justice of the Supreme Court William U. Hill,,,Under Votes,28
+Converse,Glenrock Rec Center 9-1,President,,REP,John McCain,510
+Converse,Glenrock Rec Center 9-1,President,,DEM,Barack Obama,164
+Converse,Glenrock Rec Center 9-1,President,,LIB,Bob Barr,2
+Converse,Glenrock Rec Center 9-1,President,,IND,Chuck Baldwin,2
+Converse,Glenrock Rec Center 9-1,President,,IND,Ralph Nader,6
+Converse,Glenrock Rec Center 9-1,President,,,Write-ins,2
+Converse,Glenrock Rec Center 9-1,President,,,Over Votes,1
+Converse,Glenrock Rec Center 9-1,President,,,Under Votes,5
+Converse,Glenrock Rec Center 9-1,U.S. Senate,,REP,Mike Enzi,577
+Converse,Glenrock Rec Center 9-1,U.S. Senate,,DEM,Chris Rothfuss,105
+Converse,Glenrock Rec Center 9-1,U.S. Senate,,,Write-ins,1
+Converse,Glenrock Rec Center 9-1,U.S. Senate,,,Over Votes,0
+Converse,Glenrock Rec Center 9-1,U.S. Senate,,,Under Votes,9
+Converse,Glenrock Rec Center 9-1,U.S. Senate (Unexpired Term),,REP,John Barrasso,558
+Converse,Glenrock Rec Center 9-1,U.S. Senate (Unexpired Term),,DEM,Nick Carter,126
+Converse,Glenrock Rec Center 9-1,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Glenrock Rec Center 9-1,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Glenrock Rec Center 9-1,U.S. Senate (Unexpired Term),,,Under Votes,8
+Converse,Glenrock Rec Center 9-1,U.S. House,,REP,Cynthia M. Lummis,392
+Converse,Glenrock Rec Center 9-1,U.S. House,,DEM,Gary Trauner,252
+Converse,Glenrock Rec Center 9-1,U.S. House,,LIB,W. David Herbert,32
+Converse,Glenrock Rec Center 9-1,U.S. House,,,Write-ins,2
+Converse,Glenrock Rec Center 9-1,U.S. House,,,Over Votes,0
+Converse,Glenrock Rec Center 9-1,U.S. House,,,Under Votes,14
+Converse,Glenrock Rec Center 9-1,State Senate,2,REP,Jim Anderson,530
+Converse,Glenrock Rec Center 9-1,State Senate,2,DEM,"Jason ""Jay"" Wright",144
+Converse,Glenrock Rec Center 9-1,State Senate,2,,Write-ins,0
+Converse,Glenrock Rec Center 9-1,State Senate,2,,Over Votes,0
+Converse,Glenrock Rec Center 9-1,State Senate,2,,Under Votes,18
+Converse,Glenrock Rec Center 9-1,State House,6,REP,Richard Cannady,328
+Converse,Glenrock Rec Center 9-1,State House,6,DEM,Chase Anfinson,230
+Converse,Glenrock Rec Center 9-1,State House,6,IND,Tom L. Strock,113
+Converse,Glenrock Rec Center 9-1,State House,6,,Write-ins,0
+Converse,Glenrock Rec Center 9-1,State House,6,,Over Votes,2
+Converse,Glenrock Rec Center 9-1,State House,6,,Under Votes,19
+Converse,Glenrock Rec Center 9-1,Ballots Cast,,,Ballots Cast,692
+Converse,Glenrock Rec Center 9-1,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Glenrock Rec Center 9-1,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,51
+Converse,Glenrock Rec Center 9-1,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Glenrock Rec Center 9-1,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,52
+Converse,Glenrock Rec Center 9-1,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Glenrock Rec Center 9-1,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,79
+Converse,Glenrock Rec Center 9-1,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Glenrock Rec Center 9-1,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,71
+Converse,Glenrock Rec Center 9-1,Justice of the Supreme Court William U. Hill,,,Over Votes,1
+Converse,Glenrock Rec Center 9-1,Justice of the Supreme Court William U. Hill,,,Under Votes,74
+Converse,Glenrock Rec Center 9-2,President,,REP,John McCain,353
+Converse,Glenrock Rec Center 9-2,President,,DEM,Barack Obama,146
+Converse,Glenrock Rec Center 9-2,President,,LIB,Bob Barr,1
+Converse,Glenrock Rec Center 9-2,President,,IND,Chuck Baldwin,1
+Converse,Glenrock Rec Center 9-2,President,,IND,Ralph Nader,4
+Converse,Glenrock Rec Center 9-2,President,,,Write-ins,4
+Converse,Glenrock Rec Center 9-2,President,,,Over Votes,1
+Converse,Glenrock Rec Center 9-2,President,,,Under Votes,9
+Converse,Glenrock Rec Center 9-2,U.S. Senate,,REP,Mike Enzi,410
+Converse,Glenrock Rec Center 9-2,U.S. Senate,,DEM,Chris Rothfuss,96
+Converse,Glenrock Rec Center 9-2,U.S. Senate,,,Write-ins,0
+Converse,Glenrock Rec Center 9-2,U.S. Senate,,,Over Votes,1
+Converse,Glenrock Rec Center 9-2,U.S. Senate,,,Under Votes,12
+Converse,Glenrock Rec Center 9-2,U.S. Senate (Unexpired Term),,REP,John Barrasso,415
+Converse,Glenrock Rec Center 9-2,U.S. Senate (Unexpired Term),,DEM,Nick Carter,97
+Converse,Glenrock Rec Center 9-2,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Glenrock Rec Center 9-2,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Glenrock Rec Center 9-2,U.S. Senate (Unexpired Term),,,Under Votes,7
+Converse,Glenrock Rec Center 9-2,U.S. House,,REP,Cynthia M. Lummis,271
+Converse,Glenrock Rec Center 9-2,U.S. House,,DEM,Gary Trauner,218
+Converse,Glenrock Rec Center 9-2,U.S. House,,LIB,W. David Herbert,12
+Converse,Glenrock Rec Center 9-2,U.S. House,,,Write-ins,1
+Converse,Glenrock Rec Center 9-2,U.S. House,,,Over Votes,0
+Converse,Glenrock Rec Center 9-2,U.S. House,,,Under Votes,17
+Converse,Glenrock Rec Center 9-2,State Senate,2,REP,Jim Anderson,376
+Converse,Glenrock Rec Center 9-2,State Senate,2,DEM,"Jason ""Jay"" Wright",125
+Converse,Glenrock Rec Center 9-2,State Senate,2,,Write-ins,0
+Converse,Glenrock Rec Center 9-2,State Senate,2,,Over Votes,1
+Converse,Glenrock Rec Center 9-2,State Senate,2,,Under Votes,17
+Converse,Glenrock Rec Center 9-2,State House,6,REP,Richard Cannady,245
+Converse,Glenrock Rec Center 9-2,State House,6,DEM,Chase Anfinson,171
+Converse,Glenrock Rec Center 9-2,State House,6,IND,Tom L. Strock,77
+Converse,Glenrock Rec Center 9-2,State House,6,,Write-ins,0
+Converse,Glenrock Rec Center 9-2,State House,6,,Over Votes,1
+Converse,Glenrock Rec Center 9-2,State House,6,,Under Votes,25
+Converse,Glenrock Rec Center 9-2,Ballots Cast,,,Ballots Cast,519
+Converse,Glenrock Rec Center 9-2,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Glenrock Rec Center 9-2,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,48
+Converse,Glenrock Rec Center 9-2,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Glenrock Rec Center 9-2,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,52
+Converse,Glenrock Rec Center 9-2,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,1
+Converse,Glenrock Rec Center 9-2,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,70
+Converse,Glenrock Rec Center 9-2,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Glenrock Rec Center 9-2,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,48
+Converse,Glenrock Rec Center 9-2,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Glenrock Rec Center 9-2,Justice of the Supreme Court William U. Hill,,,Under Votes,53
+Converse,Lost Springs 1-1,President,,REP,John McCain,99
+Converse,Lost Springs 1-1,President,,DEM,Barack Obama,4
+Converse,Lost Springs 1-1,President,,LIB,Bob Barr,0
+Converse,Lost Springs 1-1,President,,IND,Chuck Baldwin,0
+Converse,Lost Springs 1-1,President,,IND,Ralph Nader,1
+Converse,Lost Springs 1-1,President,,,Write-ins,0
+Converse,Lost Springs 1-1,President,,,Over Votes,0
+Converse,Lost Springs 1-1,President,,,Under Votes,0
+Converse,Lost Springs 1-1,U.S. Senate,,REP,Mike Enzi,100
+Converse,Lost Springs 1-1,U.S. Senate,,DEM,Chris Rothfuss,4
+Converse,Lost Springs 1-1,U.S. Senate,,,Write-ins,0
+Converse,Lost Springs 1-1,U.S. Senate,,,Over Votes,0
+Converse,Lost Springs 1-1,U.S. Senate,,,Under Votes,0
+Converse,Lost Springs 1-1,U.S. Senate (Unexpired Term),,REP,John Barrasso,99
+Converse,Lost Springs 1-1,U.S. Senate (Unexpired Term),,DEM,Nick Carter,4
+Converse,Lost Springs 1-1,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,Lost Springs 1-1,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,Lost Springs 1-1,U.S. Senate (Unexpired Term),,,Under Votes,1
+Converse,Lost Springs 1-1,U.S. House,,REP,Cynthia M. Lummis,87
+Converse,Lost Springs 1-1,U.S. House,,DEM,Gary Trauner,13
+Converse,Lost Springs 1-1,U.S. House,,LIB,W. David Herbert,4
+Converse,Lost Springs 1-1,U.S. House,,,Write-ins,0
+Converse,Lost Springs 1-1,U.S. House,,,Over Votes,0
+Converse,Lost Springs 1-1,U.S. House,,,Under Votes,0
+Converse,Lost Springs 1-1,State House,2,DEM,Ross Diercks,60
+Converse,Lost Springs 1-1,State House,2,,Write-ins,9
+Converse,Lost Springs 1-1,State House,2,,Over Votes,0
+Converse,Lost Springs 1-1,State House,2,,Under Votes,35
+Converse,Lost Springs 1-1,Ballots Cast,,,Ballots Cast,104
+Converse,Lost Springs 1-1,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,Lost Springs 1-1,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,3
+Converse,Lost Springs 1-1,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,0
+Converse,Lost Springs 1-1,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,8
+Converse,Lost Springs 1-1,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,Lost Springs 1-1,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,12
+Converse,Lost Springs 1-1,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,Lost Springs 1-1,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,8
+Converse,Lost Springs 1-1,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,Lost Springs 1-1,Justice of the Supreme Court William U. Hill,,,Under Votes,8
+Converse,White School 3-1,President,,REP,John McCain,160
+Converse,White School 3-1,President,,DEM,Barack Obama,20
+Converse,White School 3-1,President,,LIB,Bob Barr,2
+Converse,White School 3-1,President,,IND,Chuck Baldwin,0
+Converse,White School 3-1,President,,IND,Ralph Nader,0
+Converse,White School 3-1,President,,,Write-ins,1
+Converse,White School 3-1,President,,,Over Votes,0
+Converse,White School 3-1,President,,,Under Votes,0
+Converse,White School 3-1,U.S. Senate,,REP,Mike Enzi,161
+Converse,White School 3-1,U.S. Senate,,DEM,Chris Rothfuss,19
+Converse,White School 3-1,U.S. Senate,,,Write-ins,0
+Converse,White School 3-1,U.S. Senate,,,Over Votes,0
+Converse,White School 3-1,U.S. Senate,,,Under Votes,3
+Converse,White School 3-1,U.S. Senate (Unexpired Term),,REP,John Barrasso,157
+Converse,White School 3-1,U.S. Senate (Unexpired Term),,DEM,Nick Carter,23
+Converse,White School 3-1,U.S. Senate (Unexpired Term),,,Write-ins,0
+Converse,White School 3-1,U.S. Senate (Unexpired Term),,,Over Votes,0
+Converse,White School 3-1,U.S. Senate (Unexpired Term),,,Under Votes,3
+Converse,White School 3-1,U.S. House,,REP,Cynthia M. Lummis,130
+Converse,White School 3-1,U.S. House,,DEM,Gary Trauner,39
+Converse,White School 3-1,U.S. House,,LIB,W. David Herbert,9
+Converse,White School 3-1,U.S. House,,,Write-ins,0
+Converse,White School 3-1,U.S. House,,,Over Votes,0
+Converse,White School 3-1,U.S. House,,,Under Votes,5
+Converse,White School 3-1,State Senate,2,REP,Jim Anderson,151
+Converse,White School 3-1,State Senate,2,DEM,"Jason ""Jay"" Wright",28
+Converse,White School 3-1,State Senate,2,,Write-ins,0
+Converse,White School 3-1,State Senate,2,,Over Votes,0
+Converse,White School 3-1,State Senate,2,,Under Votes,4
+Converse,White School 3-1,State House,6,REP,Richard Cannady,99
+Converse,White School 3-1,State House,6,DEM,Chase Anfinson,19
+Converse,White School 3-1,State House,6,IND,Tom L. Strock,57
+Converse,White School 3-1,State House,6,,Write-ins,0
+Converse,White School 3-1,State House,6,,Over Votes,0
+Converse,White School 3-1,State House,6,,Under Votes,8
+Converse,White School 3-1,Ballots Cast,,,Ballots Cast,183
+Converse,White School 3-1,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Over Votes,0
+Converse,White School 3-1,"Circuit Court Judge, Eighth Judicial District I. Vincent Case, Jr.",,,Under Votes,18
+Converse,White School 3-1,Constitutional Amendment A Modernization of Oath of Office,,,Over Votes,1
+Converse,White School 3-1,Constitutional Amendment A Modernization of Oath of Office,,,Under Votes,14
+Converse,White School 3-1,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Over Votes,0
+Converse,White School 3-1,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,26
+Converse,White School 3-1,"District Court Judge, Eighth Judicial District John C. Brooks",,,Over Votes,0
+Converse,White School 3-1,"District Court Judge, Eighth Judicial District John C. Brooks",,,Under Votes,17
+Converse,White School 3-1,Justice of the Supreme Court William U. Hill,,,Over Votes,0
+Converse,White School 3-1,Justice of the Supreme Court William U. Hill,,,Under Votes,22

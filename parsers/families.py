@@ -209,9 +209,103 @@ def parse_family_c(spec: ElectionSpec) -> dict[str, list[Row]]:
 # Dispatch
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# Family B: 2008
+# ---------------------------------------------------------------------------
+
+def family_b_cfg(role: str, election_type: str, county: str, party: str = "") -> LayoutCfg:
+    if role == "tbc":
+        return LayoutCfg(
+            office_rows=[0, 1],  # Either row may carry the label; forward-fill handles it.
+            candidate_rows=[1],
+            data_start_row=2,
+            na_markers=frozenset({"-", "`"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county=county,
+            election_type=election_type,
+            is_tbc=True,
+        )
+    # PbP and U-O-WI share the same layout: office row 1, candidate row 2, data row 3+.
+    return LayoutCfg(
+        office_rows=[1],
+        candidate_rows=[2],
+        data_start_row=3,
+        na_markers=frozenset({"-", "`"}),
+        total_row_labels=frozenset({"total", "totals", "official totals"}),
+        county=county,
+        election_type=election_type,
+        file_party=party,
+    )
+
+
+def _align_tbc_to_pbp(rows: list[Row], tbc: SheetResult, pbp_precincts: list[str]) -> list[Row]:
+    """Re-key TBC rows onto PbP precinct names by index."""
+    if len(tbc.precincts) != len(pbp_precincts):
+        return list(tbc.rows)
+    by_tname: dict[str, list[Row]] = {}
+    for r in tbc.rows:
+        by_tname.setdefault(r.precinct, []).append(r)
+    out: list[Row] = []
+    for i, tname in enumerate(tbc.precincts):
+        pname = pbp_precincts[i]
+        for r in by_tname.get(tname, []):
+            out.append(Row(
+                county=r.county, precinct=pname, office=r.office,
+                district=r.district, party=r.party, candidate=r.candidate,
+                votes=r.votes,
+            ))
+    return out
+
+
+def parse_family_b(spec: ElectionSpec) -> dict[str, list[Row]]:
+    per_county: dict[str, list[Row]] = {}
+    pbp_precincts_by_county: dict[str, list[str]] = {}
+    tbc_res_by_county: dict[str, SheetResult] = {}
+
+    def first_real_sheet(sheets):
+        for sh in sheets:
+            if not sh or all(all(v is None for v in r) for r in sh):
+                continue
+            return sh
+        return None
+
+    for path in sorted(spec.sources_dir.iterdir()):
+        if not path.is_file():
+            continue
+        info = classify_family_b(path.name, spec.election_type)
+        if info is None:
+            continue
+        county = info["county"]
+        role = info["role"]
+        party = info.get("party", "")
+        cfg = family_b_cfg(role, spec.election_type, county, party)
+        sheets = read_any(str(path))
+        sheet = first_real_sheet(sheets)
+        if sheet is None:
+            continue
+        res = parse_sheet(sheet, cfg)
+        if role == "tbc":
+            tbc_res_by_county[county] = res
+            continue
+        if not res.rows and not res.precincts:
+            continue
+        per_county.setdefault(county, []).extend(res.rows)
+        if county not in pbp_precincts_by_county or len(res.precincts) > len(pbp_precincts_by_county[county]):
+            pbp_precincts_by_county[county] = res.precincts
+
+    # Merge TBC rows onto PbP precinct names.
+    for county, tbc in tbc_res_by_county.items():
+        pbp_p = pbp_precincts_by_county.get(county, tbc.precincts)
+        aligned = _align_tbc_to_pbp(per_county.get(county, []), tbc, pbp_p)
+        per_county.setdefault(county, []).extend(aligned)
+    return per_county
+
+
 def parse_election(spec: ElectionSpec) -> dict[str, list[Row]]:
     if spec.family == "C":
         return parse_family_c(spec)
+    if spec.family == "B":
+        return parse_family_b(spec)
     raise NotImplementedError(spec.family)
 
 

@@ -339,11 +339,14 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
                     continue
                 if v in cfg.na_markers:
                     continue
-                # Unexpected string in a vote cell.
-                raise ValueError(
-                    f"non-numeric vote {v!r} at precinct {precinct!r} col {c} "
-                    f"office={meta['office']!r} candidate={meta['candidate']!r} in {cfg.county}"
-                )
+                # Tolerate text-formatted integers like "0" or "12".
+                if re.fullmatch(r"-?\d+", v.strip()):
+                    v = int(v.strip())
+                else:
+                    raise ValueError(
+                        f"non-numeric vote {v!r} at precinct {precinct!r} col {c} "
+                        f"office={meta['office']!r} candidate={meta['candidate']!r} in {cfg.county}"
+                    )
             if not _is_int_like(v):
                 raise ValueError(
                     f"non-integer vote {v!r} at precinct {precinct!r} col {c} in {cfg.county}"
