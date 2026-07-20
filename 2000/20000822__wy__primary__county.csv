@@ -1,0 +1,396 @@
+county,office,district,party,candidate,votes
+Albany,U.S. Senate,,REP,Thomas,2310
+Albany,U.S. Senate,,DEM,Logan,918
+Albany,U.S. Senate,,DEM,Sumey,490
+Albany,U.S. House,,REP,Cubin,1858
+Albany,U.S. House,,REP,Herdt,352
+Albany,U.S. House,,REP,Wenino,150
+Albany,U.S. House,,DEM,Green,874
+Albany,U.S. House,,DEM,Munker,609
+Albany,State Senate,10,REP,Devin,1180
+Albany,State Senate,10,REP,Murphy,465
+Albany,State House,13,DEM,Rose,367
+Albany,State House,14,REP,Nicholas,617
+Albany,State House,14,DEM,Saulino-Klein,319
+Albany,State House,45,DEM,Johnson,410
+Albany,State House,46,REP,Slater,846
+Albany,State House,46,DEM,Hanson,546
+Albany,State House,47,REP,Willford,18
+Albany,Ballots Cast,,REP,Ballots Cast,2510
+Albany,Ballots Cast,,DEM,Ballots Cast,1884
+Big Horn,U.S. Senate,,REP,Thomas,2457
+Big Horn,U.S. Senate,,DEM,Logan,289
+Big Horn,U.S. Senate,,DEM,Sumey,100
+Big Horn,U.S. House,,REP,Cubin,2115
+Big Horn,U.S. House,,REP,Herdt,281
+Big Horn,U.S. House,,REP,Wenino,103
+Big Horn,U.S. House,,DEM,Green,259
+Big Horn,U.S. House,,DEM,Munker,133
+Big Horn,State Senate,20,REP,Geis,469
+Big Horn,State House,25,REP,Jones,61
+Big Horn,State House,26,REP,Henderson,584
+Big Horn,State House,26,REP,Hessenthaler,1304
+Big Horn,State House,26,DEM,Amend,310
+Big Horn,State House,28,REP,Baker,467
+Big Horn,Ballots Cast,,REP,Ballots Cast,2667
+Big Horn,Ballots Cast,,DEM,Ballots Cast,483
+Campbell,U.S. Senate,,REP,Thomas,4721
+Campbell,U.S. Senate,,DEM,Logan,390
+Campbell,U.S. Senate,,DEM,Sumey,201
+Campbell,U.S. House,,REP,Cubin,4090
+Campbell,U.S. House,,REP,Herdt,629
+Campbell,U.S. House,,REP,Wenino,258
+Campbell,U.S. House,,DEM,Green,388
+Campbell,U.S. House,,DEM,Munker,217
+Campbell,State Senate,24,REP,Erb,1211
+Campbell,State Senate,24,REP,Sorensen,1208
+Campbell,State Senate,24,DEM,Calhoun,273
+Campbell,State House,31,REP,Hines,1218
+Campbell,State House,31,DEM,Claar,155
+Campbell,State House,32,REP,Wasserburger,1190
+Campbell,State House,32,DEM,Jenniges,145
+Campbell,State House,52,REP,McMurtrey,1077
+Campbell,State House,53,DEM,Deegan,136
+Campbell,Ballots Cast,,REP,Ballots Cast,5279
+Campbell,Ballots Cast,,DEM,Ballots Cast,685
+Carbon,U.S. Senate,,REP,Thomas,1632
+Carbon,U.S. Senate,,DEM,Logan,768
+Carbon,U.S. Senate,,DEM,Sumey,408
+Carbon,U.S. House,,REP,Cubin,1281
+Carbon,U.S. House,,REP,Herdt,267
+Carbon,U.S. House,,REP,Wenino,85
+Carbon,U.S. House,,DEM,Green,669
+Carbon,U.S. House,,DEM,Munker,526
+Carbon,State Senate,12,REP,Stith,69
+Carbon,State Senate,12,DEM,Job,39
+Carbon,State House,15,REP,Rose,567
+Carbon,State House,15,DEM,Medina,583
+Carbon,State House,16,REP,Watt,67
+Carbon,State House,16,DEM,Levitt,37
+Carbon,State House,47,REP,Willford,854
+Carbon,Ballots Cast,,REP,Ballots Cast,1709
+Carbon,Ballots Cast,,DEM,Ballots Cast,1432
+Converse,U.S. Senate,,REP,Thomas,2142
+Converse,U.S. Senate,,DEM,Logan,255
+Converse,U.S. Senate,,DEM,Sumey,172
+Converse,U.S. House,,REP,Cubin,1697
+Converse,U.S. House,,REP,Herdt,355
+Converse,U.S. House,,REP,Wenino,188
+Converse,U.S. House,,DEM,Green,203
+Converse,U.S. House,,DEM,Munker,245
+Converse,State Senate,2,REP,Anderson,2063
+Converse,State Senate,2,DEM,Beckstead,443
+Converse,State House,2,DEM,Diercks,3
+Converse,State House,5,REP,Hageman,607
+Converse,State House,6,REP,Edwards,1241
+Converse,Ballots Cast,,REP,Ballots Cast,2347
+Converse,Ballots Cast,,DEM,Ballots Cast,482
+Crook,U.S. Senate,,DEM,Logan,156
+Crook,U.S. Senate,,DEM,Sumey,90
+Crook,U.S. House,,REP,Cubin,1314
+Crook,U.S. House,,REP,Herdt,135
+Crook,U.S. House,,REP,Wenino,46
+Crook,U.S. House,,DEM,Green,148
+Crook,U.S. House,,DEM,Munker,101
+Crook,State House,1,REP,Barritt,564
+Crook,State House,1,REP,Simons,939
+Crook,State House,1,DEM,Dodson,222
+Crook,Ballots Cast,,REP,Ballots Cast,1535
+Crook,Ballots Cast,,DEM,Ballots Cast,282
+Crook,United States Senate,,REP,Thomas,1445
+Fremont,U.S. Senate,,REP,Thomas,6301
+Fremont,U.S. Senate,,DEM,Logan,1370
+Fremont,U.S. Senate,,DEM,Sumey,636
+Fremont,U.S. House,,REP,Cubin,5229
+Fremont,U.S. House,,REP,Herdt,854
+Fremont,U.S. House,,REP,Wenino,385
+Fremont,U.S. House,,DEM,Green,1209
+Fremont,U.S. House,,DEM,Munker,894
+Fremont,State Senate,12,REP,Stith,78
+Fremont,State Senate,12,DEM,Job,10
+Fremont,State Senate,26,REP,Peck,2699
+Fremont,State Senate,30,REP,Scott,23
+Fremont,State Senate,30,DEM,Horton,5
+Fremont,State House,16,REP,Watt,80
+Fremont,State House,16,DEM,Levitt,8
+Fremont,State House,22,REP,Shivler,433
+Fremont,State House,33,REP,Tipton,1034
+Fremont,State House,34,REP,Philp,1420
+Fremont,State House,38,REP,Brechtel,8
+Fremont,State House,38,REP,Paseneaux,21
+Fremont,State House,38,DEM,Brady,1
+Fremont,State House,38,DEM,Jolley,4
+Fremont,State House,54,REP,McOmie,1518
+Fremont,State House,55,REP,Miller,1247
+Fremont,State House,55,DEM,Bebout,426
+Fremont,Ballots Cast,,REP,Ballots Cast,6876
+Fremont,Ballots Cast,,DEM,Ballots Cast,2597
+Goshen,U.S. Senate,,REP,Thomas,1650
+Goshen,U.S. Senate,,DEM,Logan,361
+Goshen,U.S. Senate,,DEM,Sumey,208
+Goshen,U.S. House,,REP,Cubin,1280
+Goshen,U.S. House,,REP,Herdt,310
+Goshen,U.S. House,,REP,Wenino,69
+Goshen,U.S. House,,DEM,Green,353
+Goshen,U.S. House,,DEM,Munker,222
+Goshen,State Senate,2,REP,Anderson,344
+Goshen,State Senate,2,DEM,Beckstead,148
+Goshen,State House,2,DEM,Diercks,9
+Goshen,State House,3,REP,Stafford,130
+Goshen,State House,4,REP,Huckfeldt,942
+Goshen,State House,5,REP,Hageman,357
+Goshen,Ballots Cast,,REP,Ballots Cast,1760
+Goshen,Ballots Cast,,DEM,Ballots Cast,628
+Hot Springs,U.S. Senate,,REP,Thomas,1064
+Hot Springs,U.S. Senate,,DEM,Logan,163
+Hot Springs,U.S. Senate,,DEM,Sumey,85
+Hot Springs,U.S. House,,REP,Cubin,832
+Hot Springs,U.S. House,,REP,Herdt,211
+Hot Springs,U.S. House,,REP,Wenino,62
+Hot Springs,U.S. House,,DEM,Green,139
+Hot Springs,U.S. House,,DEM,Munker,120
+Hot Springs,State Senate,20,REP,Geis,991
+Hot Springs,State House,28,REP,Baker,1004
+Hot Springs,Ballots Cast,,REP,Ballots Cast,1183
+Hot Springs,Ballots Cast,,DEM,Ballots Cast,302
+Johnson,U.S. Senate,,REP,Thomas,1568
+Johnson,U.S. Senate,,DEM,Logan,80
+Johnson,U.S. Senate,,DEM,Sumey,26
+Johnson,U.S. House,,REP,Cubin,1308
+Johnson,U.S. House,,REP,Herdt,212
+Johnson,U.S. House,,REP,Wenino,85
+Johnson,U.S. House,,DEM,Green,55
+Johnson,U.S. House,,DEM,Munker,56
+Johnson,State Senate,22,REP,Schiffer,1566
+Johnson,State House,40,REP,Osborn,1518
+Johnson,Ballots Cast,,REP,Ballots Cast,1709
+Johnson,Ballots Cast,,DEM,Ballots Cast,121
+Laramie,U.S. Senate,,REP,Thomas,8669
+Laramie,U.S. Senate,,DEM,Logan,3057
+Laramie,U.S. Senate,,DEM,Sumey,1556
+Laramie,U.S. House,,REP,Cubin,6818
+Laramie,U.S. House,,REP,Herdt,1446
+Laramie,U.S. House,,REP,Wenino,545
+Laramie,U.S. House,,DEM,Green,2289
+Laramie,U.S. House,,DEM,Munker,2803
+Laramie,State Senate,4,REP,Kunz,2331
+Laramie,State Senate,4,DEM,Tuma,1144
+Laramie,State Senate,6,REP,Moore,1734
+Laramie,State Senate,6,DEM,Cathcart,907
+Laramie,State Senate,8,DEM,Mockler,930
+Laramie,State House,7,REP,Ross,1437
+Laramie,State House,7,DEM,Bierma,576
+Laramie,State House,8,REP,Meuli,1022
+Laramie,State House,8,DEM,Barrett,591
+Laramie,State House,9,REP,Burt,227
+Laramie,State House,9,REP,Johnson,740
+Laramie,State House,10,REP,Anderson,968
+Laramie,State House,11,DEM,Reese,572
+Laramie,State House,12,REP,Campbell,373
+Laramie,State House,12,DEM,Morgan,405
+Laramie,State House,41,DEM,McGraw,609
+Laramie,State House,42,REP,Illoway,620
+Laramie,State House,42,REP,Pretty,314
+Laramie,State House,43,REP,Samuelson,602
+Laramie,State House,44,REP,Hill,362
+Laramie,State House,44,DEM,Esquibel,518
+Laramie,Ballots Cast,,REP,Ballots Cast,9259
+Laramie,Ballots Cast,,DEM,Ballots Cast,5582
+Lincoln,U.S. Senate,,REP,Thomas,2030
+Lincoln,U.S. Senate,,DEM,Logan,338
+Lincoln,U.S. Senate,,DEM,Sumey,202
+Lincoln,U.S. House,,REP,Cubin,1702
+Lincoln,U.S. House,,REP,Herdt,238
+Lincoln,U.S. House,,REP,Wenino,103
+Lincoln,U.S. House,,DEM,Green,346
+Lincoln,U.S. House,,DEM,Munker,207
+Lincoln,State Senate,16,REP,Roberts,1941
+Lincoln,State House,20,REP,Olsen,402
+Lincoln,State House,20,REP,Tomassi,399
+Lincoln,State House,21,REP,Luthi,1212
+Lincoln,Ballots Cast,,REP,Ballots Cast,2155
+Lincoln,Ballots Cast,,DEM,Ballots Cast,617
+Natrona,U.S. Senate,,REP,Thomas,7966
+Natrona,U.S. Senate,,DEM,Logan,2204
+Natrona,U.S. Senate,,DEM,Sumey,1546
+Natrona,U.S. House,,REP,Cubin,5720
+Natrona,U.S. House,,REP,Herdt,1490
+Natrona,U.S. House,,REP,Wenino,1193
+Natrona,U.S. House,,DEM,Green,1699
+Natrona,U.S. House,,DEM,Munker,2163
+Natrona,State Senate,28,REP,Walsh,1564
+Natrona,State Senate,28,DEM,Goodenough,918
+Natrona,State Senate,30,REP,Scott,1691
+Natrona,State Senate,30,DEM,Horton,907
+Natrona,State House,35,REP,Cohee,1040
+Natrona,State House,36,REP,Gay,845
+Natrona,State House,36,DEM,Gentile,528
+Natrona,State House,37,REP,Olson,524
+Natrona,State House,37,REP,Tempest,1057
+Natrona,State House,38,REP,Brechtel,562
+Natrona,State House,38,REP,Paseneaux,657
+Natrona,State House,38,DEM,Brady,213
+Natrona,State House,38,DEM,Jolley,285
+Natrona,State House,56,REP,Nagel,845
+Natrona,State House,56,DEM,Herb,446
+Natrona,State House,57,REP,Lockhart,826
+Natrona,State House,57,DEM,Stoval,480
+Natrona,State House,58,DEM,Robinson,453
+Natrona,State House,59,REP,Hanlin,812
+Natrona,State House,59,DEM,Sadler,605
+Natrona,Ballots Cast,,REP,Ballots Cast,8670
+Natrona,Ballots Cast,,DEM,Ballots Cast,4092
+Niobrara,U.S. House,,REP,Cubin,566
+Niobrara,U.S. House,,REP,Herdt,99
+Niobrara,U.S. House,,REP,Wenino,73
+Niobrara,U.S. House,,DEM,Green,33
+Niobrara,U.S. House,,DEM,Munker,28
+Niobrara,State House,2,DEM,Diercks,70
+Niobrara,Ballots Cast,,REP,Ballots Cast,776
+Niobrara,Ballots Cast,,DEM,Ballots Cast,71
+Niobrara,United States Senate,,REP,Thomas,706
+Niobrara,United States Senate,,DEM,Logan,42
+Niobrara,United States Senate,,DEM,Sumey,19
+Park,U.S. Senate,,REP,Thomas,5243
+Park,U.S. Senate,,DEM,Logan,391
+Park,U.S. Senate,,DEM,Sumey,198
+Park,U.S. House,,REP,Cubin,4407
+Park,U.S. House,,REP,Herdt,658
+Park,U.S. House,,REP,Wenino,367
+Park,U.S. House,,DEM,Green,382
+Park,U.S. House,,DEM,Munker,205
+Park,State Senate,18,REP,Coe,3769
+Park,State House,24,REP,Simpson,1971
+Park,State House,25,REP,Jones,1177
+Park,State House,50,REP,Childers,1789
+Park,State House,50,DEM,Capron,200
+Park,Ballots Cast,,REP,Ballots Cast,5745
+Park,Ballots Cast,,DEM,Ballots Cast,679
+Platte,U.S. Senate,,REP,Thomas,1624
+Platte,U.S. Senate,,DEM,Logan,458
+Platte,U.S. Senate,,DEM,Sumey,268
+Platte,U.S. House,,REP,Cubin,1343
+Platte,U.S. House,,REP,Herdt,250
+Platte,U.S. House,,REP,Wenino,73
+Platte,U.S. House,,DEM,Green,423
+Platte,U.S. House,,DEM,Munker,330
+Platte,State Senate,2,REP,Anderson,223
+Platte,State Senate,2,DEM,Beckstead,239
+Platte,State House,3,REP,Stafford,1297
+Platte,State House,5,REP,Hageman,229
+Platte,Ballots Cast,,REP,Ballots Cast,1744
+Platte,Ballots Cast,,DEM,Ballots Cast,875
+Sheridan,U.S. Senate,,REP,Thomas,3622
+Sheridan,U.S. Senate,,DEM,Logan,900
+Sheridan,U.S. Senate,,DEM,Sumey,348
+Sheridan,U.S. House,,REP,Cubin,2887
+Sheridan,U.S. House,,REP,Herdt,686
+Sheridan,U.S. House,,REP,Wenino,226
+Sheridan,U.S. House,,DEM,Green,761
+Sheridan,U.S. House,,DEM,Munker,425
+Sheridan,State Senate,22,REP,Schiffer,1271
+Sheridan,State House,29,REP,Badgett,402
+Sheridan,State House,29,REP,Iekel,645
+Sheridan,State House,30,REP,"Landon, Jr.",964
+Sheridan,State House,30,REP,Webster,186
+Sheridan,State House,30,DEM,May,338
+Sheridan,State House,40,REP,Osborn,217
+Sheridan,State House,51,REP,Burns,1339
+Sheridan,Ballots Cast,,REP,Ballots Cast,4008
+Sheridan,Ballots Cast,,DEM,Ballots Cast,1325
+Sublette,U.S. House,,REP,Cubin,1061
+Sublette,U.S. House,,REP,Herdt,242
+Sublette,U.S. House,,REP,Wenino,117
+Sublette,U.S. House,,DEM,Green,57
+Sublette,U.S. House,,DEM,Munker,37
+Sublette,State Senate,16,REP,Roberts,656
+Sublette,State House,20,REP,Olsen,378
+Sublette,State House,20,REP,Tomassi,410
+Sublette,State House,22,REP,Shivler,540
+Sublette,Ballots Cast,,REP,Ballots Cast,1579
+Sublette,Ballots Cast,,DEM,Ballots Cast,110
+Sublette,United States Senate,,REP,Thomas,1388
+Sublette,United States Senate,,DEM,Logan,64
+Sublette,United States Senate,,DEM,Sumey,32
+Sweetwater,U.S. Senate,,REP,Thomas,3304
+Sweetwater,U.S. Senate,,DEM,Logan,3059
+Sweetwater,U.S. Senate,,DEM,Sumey,1623
+Sweetwater,U.S. House,,REP,Cubin,2811
+Sweetwater,U.S. House,,REP,Herdt,347
+Sweetwater,U.S. House,,REP,Wenino,191
+Sweetwater,U.S. House,,DEM,Green,2629
+Sweetwater,U.S. House,,DEM,Munker,2349
+Sweetwater,State Senate,12,REP,Stith,875
+Sweetwater,State Senate,12,DEM,Job,1834
+Sweetwater,State Senate,14,DEM,Harris,1368
+Sweetwater,State House,16,REP,Watt,353
+Sweetwater,State House,16,DEM,Levitt,714
+Sweetwater,State House,17,REP,Parady,580
+Sweetwater,State House,17,DEM,Hughs,874
+Sweetwater,State House,18,REP,Eyre,437
+Sweetwater,State House,18,DEM,Jackman,338
+Sweetwater,State House,39,DEM,Boswell,1014
+Sweetwater,State House,48,REP,Steinbrech,570
+Sweetwater,State House,48,DEM,Nelson,1152
+Sweetwater,State House,60,REP,Smith,498
+Sweetwater,State House,60,DEM,Thompson,1081
+Sweetwater,Ballots Cast,,REP,Ballots Cast,3506
+Sweetwater,Ballots Cast,,DEM,Ballots Cast,5968
+Teton,U.S. Senate,,REP,Thomas,2493
+Teton,U.S. Senate,,DEM,Logan,157
+Teton,U.S. Senate,,DEM,Sumey,134
+Teton,U.S. House,,REP,Cubin,1743
+Teton,U.S. House,,REP,Herdt,364
+Teton,U.S. House,,REP,Wenino,868
+Teton,U.S. House,,DEM,Green,175
+Teton,U.S. House,,DEM,Munker,125
+Teton,State House,22,REP,Shivler,785
+Teton,State House,23,REP,Law,1832
+Teton,Ballots Cast,,REP,Ballots Cast,3220
+Teton,Ballots Cast,,DEM,Ballots Cast,357
+Uinta,U.S. Senate,,REP,Thomas,2387
+Uinta,U.S. Senate,,DEM,Logan,712
+Uinta,U.S. Senate,,DEM,Sumey,446
+Uinta,U.S. House,,REP,Cubin,2039
+Uinta,U.S. House,,REP,Herdt,256
+Uinta,U.S. House,,REP,Wenino,118
+Uinta,U.S. House,,DEM,Green,718
+Uinta,U.S. House,,DEM,Munker,488
+Uinta,State Senate,14,DEM,Harris,291
+Uinta,State House,18,REP,Eyre,443
+Uinta,State House,18,DEM,Jackman,300
+Uinta,State House,19,REP,Petersen,518
+Uinta,State House,19,REP,Vercimak,487
+Uinta,State House,19,DEM,Rounds,423
+Uinta,State House,49,REP,Park,759
+Uinta,State House,49,DEM,Bolger,184
+Uinta,State House,49,DEM,Meyer,371
+Uinta,Ballots Cast,,REP,Ballots Cast,2522
+Uinta,Ballots Cast,,DEM,Ballots Cast,1325
+Washakie,U.S. Senate,,REP,Thomas,1811
+Washakie,U.S. Senate,,DEM,Logan,228
+Washakie,U.S. Senate,,DEM,Sumey,166
+Washakie,U.S. House,,REP,Cubin,1535
+Washakie,U.S. House,,REP,Herdt,242
+Washakie,U.S. House,,REP,Wenino,104
+Washakie,U.S. House,,DEM,Green,245
+Washakie,U.S. House,,DEM,Munker,160
+Washakie,State Senate,20,REP,Geis,1780
+Washakie,State House,27,REP,Wostenberg,1442
+Washakie,State House,28,REP,Baker,207
+Washakie,Ballots Cast,,REP,Ballots Cast,2166
+Washakie,Ballots Cast,,DEM,Ballots Cast,544
+Weston,U.S. House,,REP,Cubin,1310
+Weston,U.S. House,,REP,Herdt,224
+Weston,U.S. House,,REP,Wenino,106
+Weston,U.S. House,,DEM,Green,165
+Weston,U.S. House,,DEM,Munker,112
+Weston,State House,1,REP,Barritt,437
+Weston,State House,1,REP,Simons,252
+Weston,State House,1,DEM,Dodson,75
+Weston,State House,2,DEM,Diercks,210
+Weston,Ballots Cast,,REP,Ballots Cast,1738
+Weston,Ballots Cast,,DEM,Ballots Cast,324
+Weston,United States Senate,,REP,Thomas,1599
+Weston,United States Senate,,DEM,Logan,170
+Weston,United States Senate,,DEM,Sumey,108

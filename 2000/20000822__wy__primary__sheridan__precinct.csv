@@ -1,0 +1,376 @@
+county,precinct,office,district,party,candidate,votes
+Sheridan,Arvada School 9-1,U.S. Senate,,REP,Thomas,17
+Sheridan,Arvada School 9-1,U.S. Senate,,DEM,Logan,12
+Sheridan,Arvada School 9-1,U.S. Senate,,DEM,Sumey,4
+Sheridan,Arvada School 9-1,U.S. House,,REP,Cubin,12
+Sheridan,Arvada School 9-1,U.S. House,,REP,Herdt,5
+Sheridan,Arvada School 9-1,U.S. House,,REP,Wenino,0
+Sheridan,Arvada School 9-1,U.S. House,,DEM,Green,10
+Sheridan,Arvada School 9-1,U.S. House,,DEM,Munker,5
+Sheridan,Arvada School 9-1,State Senate,22,REP,Schiffer,16
+Sheridan,Arvada School 9-1,State House,40,REP,Osborn,17
+Sheridan,Arvada School 9-1,Ballots Cast,,REP,Ballots Cast,17
+Sheridan,Arvada School 9-1,Ballots Cast,,DEM,Ballots Cast,16
+Sheridan,Beckton School 7-1,U.S. Senate,,REP,Thomas,91
+Sheridan,Beckton School 7-1,U.S. Senate,,DEM,Logan,13
+Sheridan,Beckton School 7-1,U.S. Senate,,DEM,Sumey,3
+Sheridan,Beckton School 7-1,U.S. House,,REP,Cubin,76
+Sheridan,Beckton School 7-1,U.S. House,,REP,Herdt,15
+Sheridan,Beckton School 7-1,U.S. House,,REP,Wenino,4
+Sheridan,Beckton School 7-1,U.S. House,,DEM,Green,7
+Sheridan,Beckton School 7-1,U.S. House,,DEM,Munker,9
+Sheridan,Beckton School 7-1,State House,51,REP,Burns,82
+Sheridan,Beckton School 7-1,Ballots Cast,,REP,Ballots Cast,102
+Sheridan,Beckton School 7-1,Ballots Cast,,DEM,Ballots Cast,16
+Sheridan,Big Horn Women's Club 12-1,U.S. Senate,,REP,Thomas,277
+Sheridan,Big Horn Women's Club 12-1,U.S. Senate,,DEM,Logan,37
+Sheridan,Big Horn Women's Club 12-1,U.S. Senate,,DEM,Sumey,22
+Sheridan,Big Horn Women's Club 12-1,U.S. House,,REP,Cubin,214
+Sheridan,Big Horn Women's Club 12-1,U.S. House,,REP,Herdt,45
+Sheridan,Big Horn Women's Club 12-1,U.S. House,,REP,Wenino,17
+Sheridan,Big Horn Women's Club 12-1,U.S. House,,DEM,Green,36
+Sheridan,Big Horn Women's Club 12-1,U.S. House,,DEM,Munker,22
+Sheridan,Big Horn Women's Club 12-1,State Senate,22,REP,Schiffer,10
+Sheridan,Big Horn Women's Club 12-1,State House,30,REP,"Landon, Jr.",8
+Sheridan,Big Horn Women's Club 12-1,State House,30,REP,Webster,4
+Sheridan,Big Horn Women's Club 12-1,State House,30,DEM,May,4
+Sheridan,Big Horn Women's Club 12-1,State House,40,REP,Osborn,0
+Sheridan,Big Horn Women's Club 12-1,State House,51,REP,Burns,256
+Sheridan,Big Horn Women's Club 12-1,Ballots Cast,,REP,Ballots Cast,301
+Sheridan,Big Horn Women's Club 12-1,Ballots Cast,,DEM,Ballots Cast,60
+Sheridan,Central Middle School 4-3,U.S. Senate,,REP,Thomas,127
+Sheridan,Central Middle School 4-3,U.S. Senate,,DEM,Logan,47
+Sheridan,Central Middle School 4-3,U.S. Senate,,DEM,Sumey,10
+Sheridan,Central Middle School 4-3,U.S. House,,REP,Cubin,101
+Sheridan,Central Middle School 4-3,U.S. House,,REP,Herdt,21
+Sheridan,Central Middle School 4-3,U.S. House,,REP,Wenino,8
+Sheridan,Central Middle School 4-3,U.S. House,,DEM,Green,38
+Sheridan,Central Middle School 4-3,U.S. House,,DEM,Munker,17
+Sheridan,Central Middle School 4-3,State Senate,22,REP,Schiffer,118
+Sheridan,Central Middle School 4-3,State House,30,REP,"Landon, Jr.",100
+Sheridan,Central Middle School 4-3,State House,30,REP,Webster,30
+Sheridan,Central Middle School 4-3,State House,30,DEM,May,52
+Sheridan,Central Middle School 4-3,Ballots Cast,,REP,Ballots Cast,140
+Sheridan,Central Middle School 4-3,Ballots Cast,,DEM,Ballots Cast,61
+Sheridan,Clearmont Town Hall 10-1,U.S. Senate,,REP,Thomas,51
+Sheridan,Clearmont Town Hall 10-1,U.S. Senate,,DEM,Logan,6
+Sheridan,Clearmont Town Hall 10-1,U.S. Senate,,DEM,Sumey,2
+Sheridan,Clearmont Town Hall 10-1,U.S. House,,REP,Cubin,38
+Sheridan,Clearmont Town Hall 10-1,U.S. House,,REP,Herdt,11
+Sheridan,Clearmont Town Hall 10-1,U.S. House,,REP,Wenino,2
+Sheridan,Clearmont Town Hall 10-1,U.S. House,,DEM,Green,3
+Sheridan,Clearmont Town Hall 10-1,U.S. House,,DEM,Munker,4
+Sheridan,Clearmont Town Hall 10-1,State Senate,22,REP,Schiffer,50
+Sheridan,Clearmont Town Hall 10-1,State House,40,REP,Osborn,47
+Sheridan,Clearmont Town Hall 10-1,Ballots Cast,,REP,Ballots Cast,51
+Sheridan,Clearmont Town Hall 10-1,Ballots Cast,,DEM,Ballots Cast,8
+Sheridan,Coffeen School 4-2,U.S. Senate,,REP,Thomas,180
+Sheridan,Coffeen School 4-2,U.S. Senate,,DEM,Logan,69
+Sheridan,Coffeen School 4-2,U.S. Senate,,DEM,Sumey,24
+Sheridan,Coffeen School 4-2,U.S. House,,REP,Cubin,132
+Sheridan,Coffeen School 4-2,U.S. House,,REP,Herdt,39
+Sheridan,Coffeen School 4-2,U.S. House,,REP,Wenino,13
+Sheridan,Coffeen School 4-2,U.S. House,,DEM,Green,64
+Sheridan,Coffeen School 4-2,U.S. House,,DEM,Munker,29
+Sheridan,Coffeen School 4-2,State Senate,22,REP,Schiffer,177
+Sheridan,Coffeen School 4-2,State House,30,REP,"Landon, Jr.",158
+Sheridan,Coffeen School 4-2,State House,30,REP,Webster,28
+Sheridan,Coffeen School 4-2,State House,30,DEM,May,89
+Sheridan,Coffeen School 4-2,Ballots Cast,,REP,Ballots Cast,194
+Sheridan,Coffeen School 4-2,Ballots Cast,,DEM,Ballots Cast,101
+Sheridan,Dayton Town Hall 20-1,U.S. Senate,,REP,Thomas,131
+Sheridan,Dayton Town Hall 20-1,U.S. Senate,,DEM,Logan,48
+Sheridan,Dayton Town Hall 20-1,U.S. Senate,,DEM,Sumey,21
+Sheridan,Dayton Town Hall 20-1,U.S. House,,REP,Cubin,112
+Sheridan,Dayton Town Hall 20-1,U.S. House,,REP,Herdt,22
+Sheridan,Dayton Town Hall 20-1,U.S. House,,REP,Wenino,3
+Sheridan,Dayton Town Hall 20-1,U.S. House,,DEM,Green,42
+Sheridan,Dayton Town Hall 20-1,U.S. House,,DEM,Munker,19
+Sheridan,Dayton Town Hall 20-1,State House,51,REP,Burns,126
+Sheridan,Dayton Town Hall 20-1,Ballots Cast,,REP,Ballots Cast,142
+Sheridan,Dayton Town Hall 20-1,Ballots Cast,,DEM,Ballots Cast,77
+Sheridan,Dayton Town Hall 20-2,U.S. Senate,,REP,Thomas,24
+Sheridan,Dayton Town Hall 20-2,U.S. Senate,,DEM,Logan,1
+Sheridan,Dayton Town Hall 20-2,U.S. Senate,,DEM,Sumey,2
+Sheridan,Dayton Town Hall 20-2,U.S. House,,REP,Cubin,24
+Sheridan,Dayton Town Hall 20-2,U.S. House,,REP,Herdt,0
+Sheridan,Dayton Town Hall 20-2,U.S. House,,REP,Wenino,1
+Sheridan,Dayton Town Hall 20-2,U.S. House,,DEM,Green,2
+Sheridan,Dayton Town Hall 20-2,U.S. House,,DEM,Munker,1
+Sheridan,Dayton Town Hall 20-2,State House,51,REP,Burns,21
+Sheridan,Dayton Town Hall 20-2,Ballots Cast,,REP,Ballots Cast,27
+Sheridan,Dayton Town Hall 20-2,Ballots Cast,,DEM,Ballots Cast,3
+Sheridan,Episcopal Church 3-3,U.S. Senate,,REP,Thomas,97
+Sheridan,Episcopal Church 3-3,U.S. Senate,,DEM,Logan,24
+Sheridan,Episcopal Church 3-3,U.S. Senate,,DEM,Sumey,6
+Sheridan,Episcopal Church 3-3,U.S. House,,REP,Cubin,69
+Sheridan,Episcopal Church 3-3,U.S. House,,REP,Herdt,26
+Sheridan,Episcopal Church 3-3,U.S. House,,REP,Wenino,10
+Sheridan,Episcopal Church 3-3,U.S. House,,DEM,Green,14
+Sheridan,Episcopal Church 3-3,U.S. House,,DEM,Munker,14
+Sheridan,Episcopal Church 3-3,State House,29,REP,Badgett,13
+Sheridan,Episcopal Church 3-3,State House,29,REP,Iekel,35
+Sheridan,Episcopal Church 3-3,State House,51,REP,Burns,54
+Sheridan,Episcopal Church 3-3,Ballots Cast,,REP,Ballots Cast,113
+Sheridan,Episcopal Church 3-3,Ballots Cast,,DEM,Ballots Cast,33
+Sheridan,Fairgrounds Exhibit Hall 13-1,U.S. Senate,,REP,Thomas,89
+Sheridan,Fairgrounds Exhibit Hall 13-1,U.S. Senate,,DEM,Logan,25
+Sheridan,Fairgrounds Exhibit Hall 13-1,U.S. Senate,,DEM,Sumey,4
+Sheridan,Fairgrounds Exhibit Hall 13-1,U.S. House,,REP,Cubin,66
+Sheridan,Fairgrounds Exhibit Hall 13-1,U.S. House,,REP,Herdt,22
+Sheridan,Fairgrounds Exhibit Hall 13-1,U.S. House,,REP,Wenino,3
+Sheridan,Fairgrounds Exhibit Hall 13-1,U.S. House,,DEM,Green,19
+Sheridan,Fairgrounds Exhibit Hall 13-1,U.S. House,,DEM,Munker,9
+Sheridan,Fairgrounds Exhibit Hall 13-1,State House,51,REP,Burns,85
+Sheridan,Fairgrounds Exhibit Hall 13-1,Ballots Cast,,REP,Ballots Cast,93
+Sheridan,Fairgrounds Exhibit Hall 13-1,Ballots Cast,,DEM,Ballots Cast,33
+Sheridan,Fairgrounds Exhibit Hall 2-1,U.S. Senate,,REP,Thomas,123
+Sheridan,Fairgrounds Exhibit Hall 2-1,U.S. Senate,,DEM,Logan,46
+Sheridan,Fairgrounds Exhibit Hall 2-1,U.S. Senate,,DEM,Sumey,17
+Sheridan,Fairgrounds Exhibit Hall 2-1,U.S. House,,REP,Cubin,92
+Sheridan,Fairgrounds Exhibit Hall 2-1,U.S. House,,REP,Herdt,29
+Sheridan,Fairgrounds Exhibit Hall 2-1,U.S. House,,REP,Wenino,12
+Sheridan,Fairgrounds Exhibit Hall 2-1,U.S. House,,DEM,Green,40
+Sheridan,Fairgrounds Exhibit Hall 2-1,U.S. House,,DEM,Munker,21
+Sheridan,Fairgrounds Exhibit Hall 2-1,State House,29,REP,Badgett,57
+Sheridan,Fairgrounds Exhibit Hall 2-1,State House,29,REP,Iekel,78
+Sheridan,Fairgrounds Exhibit Hall 2-1,Ballots Cast,,REP,Ballots Cast,137
+Sheridan,Fairgrounds Exhibit Hall 2-1,Ballots Cast,,DEM,Ballots Cast,65
+Sheridan,Fairgrounds Exhibit Hall 2-3,U.S. Senate,,REP,Thomas,176
+Sheridan,Fairgrounds Exhibit Hall 2-3,U.S. Senate,,DEM,Logan,58
+Sheridan,Fairgrounds Exhibit Hall 2-3,U.S. Senate,,DEM,Sumey,22
+Sheridan,Fairgrounds Exhibit Hall 2-3,U.S. House,,REP,Cubin,145
+Sheridan,Fairgrounds Exhibit Hall 2-3,U.S. House,,REP,Herdt,29
+Sheridan,Fairgrounds Exhibit Hall 2-3,U.S. House,,REP,Wenino,10
+Sheridan,Fairgrounds Exhibit Hall 2-3,U.S. House,,DEM,Green,46
+Sheridan,Fairgrounds Exhibit Hall 2-3,U.S. House,,DEM,Munker,30
+Sheridan,Fairgrounds Exhibit Hall 2-3,State House,29,REP,Badgett,83
+Sheridan,Fairgrounds Exhibit Hall 2-3,State House,29,REP,Iekel,111
+Sheridan,Fairgrounds Exhibit Hall 2-3,Ballots Cast,,REP,Ballots Cast,195
+Sheridan,Fairgrounds Exhibit Hall 2-3,Ballots Cast,,DEM,Ballots Cast,82
+Sheridan,Fairgrounds Exhibit Hall 2-5,U.S. Senate,,REP,Thomas,331
+Sheridan,Fairgrounds Exhibit Hall 2-5,U.S. Senate,,DEM,Logan,47
+Sheridan,Fairgrounds Exhibit Hall 2-5,U.S. Senate,,DEM,Sumey,29
+Sheridan,Fairgrounds Exhibit Hall 2-5,U.S. House,,REP,Cubin,252
+Sheridan,Fairgrounds Exhibit Hall 2-5,U.S. House,,REP,Herdt,61
+Sheridan,Fairgrounds Exhibit Hall 2-5,U.S. House,,REP,Wenino,23
+Sheridan,Fairgrounds Exhibit Hall 2-5,U.S. House,,DEM,Green,48
+Sheridan,Fairgrounds Exhibit Hall 2-5,U.S. House,,DEM,Munker,27
+Sheridan,Fairgrounds Exhibit Hall 2-5,State House,51,REP,Burns,340
+Sheridan,Fairgrounds Exhibit Hall 2-5,Ballots Cast,,REP,Ballots Cast,367
+Sheridan,Fairgrounds Exhibit Hall 2-5,Ballots Cast,,DEM,Ballots Cast,80
+Sheridan,First Baptist Church 3-4,U.S. Senate,,REP,Thomas,227
+Sheridan,First Baptist Church 3-4,U.S. Senate,,DEM,Logan,44
+Sheridan,First Baptist Church 3-4,U.S. Senate,,DEM,Sumey,20
+Sheridan,First Baptist Church 3-4,U.S. House,,REP,Cubin,188
+Sheridan,First Baptist Church 3-4,U.S. House,,REP,Herdt,47
+Sheridan,First Baptist Church 3-4,U.S. House,,REP,Wenino,20
+Sheridan,First Baptist Church 3-4,U.S. House,,DEM,Green,40
+Sheridan,First Baptist Church 3-4,U.S. House,,DEM,Munker,22
+Sheridan,First Baptist Church 3-4,State Senate,22,REP,Schiffer,34
+Sheridan,First Baptist Church 3-4,State House,29,REP,Badgett,68
+Sheridan,First Baptist Church 3-4,State House,29,REP,Iekel,153
+Sheridan,First Baptist Church 3-4,State House,30,REP,"Landon, Jr.",37
+Sheridan,First Baptist Church 3-4,State House,30,REP,Webster,6
+Sheridan,First Baptist Church 3-4,State House,30,DEM,May,5
+Sheridan,First Baptist Church 3-4,Ballots Cast,,REP,Ballots Cast,270
+Sheridan,First Baptist Church 3-4,Ballots Cast,,DEM,Ballots Cast,68
+Sheridan,Holy Name Church 4-4,U.S. Senate,,REP,Thomas,51
+Sheridan,Holy Name Church 4-4,U.S. Senate,,DEM,Logan,15
+Sheridan,Holy Name Church 4-4,U.S. Senate,,DEM,Sumey,2
+Sheridan,Holy Name Church 4-4,U.S. House,,REP,Cubin,45
+Sheridan,Holy Name Church 4-4,U.S. House,,REP,Herdt,9
+Sheridan,Holy Name Church 4-4,U.S. House,,REP,Wenino,4
+Sheridan,Holy Name Church 4-4,U.S. House,,DEM,Green,11
+Sheridan,Holy Name Church 4-4,U.S. House,,DEM,Munker,6
+Sheridan,Holy Name Church 4-4,State House,29,REP,Badgett,20
+Sheridan,Holy Name Church 4-4,State House,29,REP,Iekel,41
+Sheridan,Holy Name Church 4-4,Ballots Cast,,REP,Ballots Cast,61
+Sheridan,Holy Name Church 4-4,Ballots Cast,,DEM,Ballots Cast,17
+Sheridan,Meadowlark School 3-5,U.S. Senate,,REP,Thomas,233
+Sheridan,Meadowlark School 3-5,U.S. Senate,,DEM,Logan,46
+Sheridan,Meadowlark School 3-5,U.S. Senate,,DEM,Sumey,19
+Sheridan,Meadowlark School 3-5,U.S. House,,REP,Cubin,196
+Sheridan,Meadowlark School 3-5,U.S. House,,REP,Herdt,45
+Sheridan,Meadowlark School 3-5,U.S. House,,REP,Wenino,8
+Sheridan,Meadowlark School 3-5,U.S. House,,DEM,Green,41
+Sheridan,Meadowlark School 3-5,U.S. House,,DEM,Munker,19
+Sheridan,Meadowlark School 3-5,State Senate,22,REP,Schiffer,241
+Sheridan,Meadowlark School 3-5,State House,30,REP,"Landon, Jr.",226
+Sheridan,Meadowlark School 3-5,State House,30,REP,Webster,29
+Sheridan,Meadowlark School 3-5,State House,30,DEM,May,61
+Sheridan,Meadowlark School 3-5,Ballots Cast,,REP,Ballots Cast,261
+Sheridan,Meadowlark School 3-5,Ballots Cast,,DEM,Ballots Cast,76
+Sheridan,National Guard Armory 6-1,U.S. Senate,,REP,Thomas,192
+Sheridan,National Guard Armory 6-1,U.S. Senate,,DEM,Logan,28
+Sheridan,National Guard Armory 6-1,U.S. Senate,,DEM,Sumey,17
+Sheridan,National Guard Armory 6-1,U.S. House,,REP,Cubin,144
+Sheridan,National Guard Armory 6-1,U.S. House,,REP,Herdt,46
+Sheridan,National Guard Armory 6-1,U.S. House,,REP,Wenino,15
+Sheridan,National Guard Armory 6-1,U.S. House,,DEM,Green,26
+Sheridan,National Guard Armory 6-1,U.S. House,,DEM,Munker,21
+Sheridan,National Guard Armory 6-1,State Senate,22,REP,Schiffer,184
+Sheridan,National Guard Armory 6-1,State House,30,REP,"Landon, Jr.",169
+Sheridan,National Guard Armory 6-1,State House,30,REP,Webster,41
+Sheridan,National Guard Armory 6-1,State House,30,DEM,May,42
+Sheridan,National Guard Armory 6-1,Ballots Cast,,REP,Ballots Cast,217
+Sheridan,National Guard Armory 6-1,Ballots Cast,,DEM,Ballots Cast,48
+Sheridan,Poll Motor Company 1-1,U.S. Senate,,REP,Thomas,95
+Sheridan,Poll Motor Company 1-1,U.S. Senate,,DEM,Logan,56
+Sheridan,Poll Motor Company 1-1,U.S. Senate,,DEM,Sumey,24
+Sheridan,Poll Motor Company 1-1,U.S. House,,REP,Cubin,71
+Sheridan,Poll Motor Company 1-1,U.S. House,,REP,Herdt,26
+Sheridan,Poll Motor Company 1-1,U.S. House,,REP,Wenino,5
+Sheridan,Poll Motor Company 1-1,U.S. House,,DEM,Green,48
+Sheridan,Poll Motor Company 1-1,U.S. House,,DEM,Munker,29
+Sheridan,Poll Motor Company 1-1,State Senate,22,REP,Schiffer,7
+Sheridan,Poll Motor Company 1-1,State House,29,REP,Badgett,49
+Sheridan,Poll Motor Company 1-1,State House,29,REP,Iekel,44
+Sheridan,Poll Motor Company 1-1,State House,30,REP,"Landon, Jr.",5
+Sheridan,Poll Motor Company 1-1,State House,30,REP,Webster,4
+Sheridan,Poll Motor Company 1-1,State House,30,DEM,May,7
+Sheridan,Poll Motor Company 1-1,Ballots Cast,,REP,Ballots Cast,102
+Sheridan,Poll Motor Company 1-1,Ballots Cast,,DEM,Ballots Cast,84
+Sheridan,Prairie Dog Women's Club 19-1,U.S. Senate,,REP,Thomas,53
+Sheridan,Prairie Dog Women's Club 19-1,U.S. Senate,,DEM,Logan,8
+Sheridan,Prairie Dog Women's Club 19-1,U.S. Senate,,DEM,Sumey,2
+Sheridan,Prairie Dog Women's Club 19-1,U.S. House,,REP,Cubin,46
+Sheridan,Prairie Dog Women's Club 19-1,U.S. House,,REP,Herdt,11
+Sheridan,Prairie Dog Women's Club 19-1,U.S. House,,REP,Wenino,1
+Sheridan,Prairie Dog Women's Club 19-1,U.S. House,,DEM,Green,9
+Sheridan,Prairie Dog Women's Club 19-1,U.S. House,,DEM,Munker,1
+Sheridan,Prairie Dog Women's Club 19-1,State Senate,22,REP,Schiffer,54
+Sheridan,Prairie Dog Women's Club 19-1,State House,30,REP,"Landon, Jr.",45
+Sheridan,Prairie Dog Women's Club 19-1,State House,30,REP,Webster,8
+Sheridan,Prairie Dog Women's Club 19-1,State House,30,DEM,May,10
+Sheridan,Prairie Dog Women's Club 19-1,State House,40,REP,Osborn,4
+Sheridan,Prairie Dog Women's Club 19-1,Ballots Cast,,REP,Ballots Cast,61
+Sheridan,Prairie Dog Women's Club 19-1,Ballots Cast,,DEM,Ballots Cast,10
+Sheridan,Ranchester Town Hall 17-1,U.S. Senate,,REP,Thomas,82
+Sheridan,Ranchester Town Hall 17-1,U.S. Senate,,DEM,Logan,32
+Sheridan,Ranchester Town Hall 17-1,U.S. Senate,,DEM,Sumey,7
+Sheridan,Ranchester Town Hall 17-1,U.S. House,,REP,Cubin,63
+Sheridan,Ranchester Town Hall 17-1,U.S. House,,REP,Herdt,18
+Sheridan,Ranchester Town Hall 17-1,U.S. House,,REP,Wenino,4
+Sheridan,Ranchester Town Hall 17-1,U.S. House,,DEM,Green,28
+Sheridan,Ranchester Town Hall 17-1,U.S. House,,DEM,Munker,8
+Sheridan,Ranchester Town Hall 17-1,State House,51,REP,Burns,78
+Sheridan,Ranchester Town Hall 17-1,Ballots Cast,,REP,Ballots Cast,88
+Sheridan,Ranchester Town Hall 17-1,Ballots Cast,,DEM,Ballots Cast,41
+Sheridan,Ranchester Town Hall 17-2,U.S. Senate,,REP,Thomas,86
+Sheridan,Ranchester Town Hall 17-2,U.S. Senate,,DEM,Logan,17
+Sheridan,Ranchester Town Hall 17-2,U.S. Senate,,DEM,Sumey,7
+Sheridan,Ranchester Town Hall 17-2,U.S. House,,REP,Cubin,69
+Sheridan,Ranchester Town Hall 17-2,U.S. House,,REP,Herdt,13
+Sheridan,Ranchester Town Hall 17-2,U.S. House,,REP,Wenino,4
+Sheridan,Ranchester Town Hall 17-2,U.S. House,,DEM,Green,9
+Sheridan,Ranchester Town Hall 17-2,U.S. House,,DEM,Munker,15
+Sheridan,Ranchester Town Hall 17-2,State House,51,REP,Burns,77
+Sheridan,Ranchester Town Hall 17-2,Ballots Cast,,REP,Ballots Cast,89
+Sheridan,Ranchester Town Hall 17-2,Ballots Cast,,DEM,Ballots Cast,25
+Sheridan,Senior Citizens Center 2-2,U.S. Senate,,REP,Thomas,154
+Sheridan,Senior Citizens Center 2-2,U.S. Senate,,DEM,Logan,39
+Sheridan,Senior Citizens Center 2-2,U.S. Senate,,DEM,Sumey,17
+Sheridan,Senior Citizens Center 2-2,U.S. House,,REP,Cubin,123
+Sheridan,Senior Citizens Center 2-2,U.S. House,,REP,Herdt,28
+Sheridan,Senior Citizens Center 2-2,U.S. House,,REP,Wenino,13
+Sheridan,Senior Citizens Center 2-2,U.S. House,,DEM,Green,26
+Sheridan,Senior Citizens Center 2-2,U.S. House,,DEM,Munker,23
+Sheridan,Senior Citizens Center 2-2,State House,51,REP,Burns,151
+Sheridan,Senior Citizens Center 2-2,Ballots Cast,,REP,Ballots Cast,170
+Sheridan,Senior Citizens Center 2-2,Ballots Cast,,DEM,Ballots Cast,61
+Sheridan,Senior Citizens Center 2-4,U.S. Senate,,REP,Thomas,168
+Sheridan,Senior Citizens Center 2-4,U.S. Senate,,DEM,Logan,57
+Sheridan,Senior Citizens Center 2-4,U.S. Senate,,DEM,Sumey,22
+Sheridan,Senior Citizens Center 2-4,U.S. House,,REP,Cubin,140
+Sheridan,Senior Citizens Center 2-4,U.S. House,,REP,Herdt,31
+Sheridan,Senior Citizens Center 2-4,U.S. House,,REP,Wenino,12
+Sheridan,Senior Citizens Center 2-4,U.S. House,,DEM,Green,49
+Sheridan,Senior Citizens Center 2-4,U.S. House,,DEM,Munker,22
+Sheridan,Senior Citizens Center 2-4,State House,29,REP,Badgett,74
+Sheridan,Senior Citizens Center 2-4,State House,29,REP,Iekel,100
+Sheridan,Senior Citizens Center 2-4,State House,51,REP,Burns,12
+Sheridan,Senior Citizens Center 2-4,Ballots Cast,,REP,Ballots Cast,188
+Sheridan,Senior Citizens Center 2-4,Ballots Cast,,DEM,Ballots Cast,82
+Sheridan,Sheridan County Courthouse 3-2,U.S. Senate,,REP,Thomas,116
+Sheridan,Sheridan County Courthouse 3-2,U.S. Senate,,DEM,Logan,27
+Sheridan,Sheridan County Courthouse 3-2,U.S. Senate,,DEM,Sumey,3
+Sheridan,Sheridan County Courthouse 3-2,U.S. House,,REP,Cubin,96
+Sheridan,Sheridan County Courthouse 3-2,U.S. House,,REP,Herdt,20
+Sheridan,Sheridan County Courthouse 3-2,U.S. House,,REP,Wenino,10
+Sheridan,Sheridan County Courthouse 3-2,U.S. House,,DEM,Green,21
+Sheridan,Sheridan County Courthouse 3-2,U.S. House,,DEM,Munker,7
+Sheridan,Sheridan County Courthouse 3-2,State Senate,22,REP,Schiffer,7
+Sheridan,Sheridan County Courthouse 3-2,State House,29,REP,Badgett,38
+Sheridan,Sheridan County Courthouse 3-2,State House,29,REP,Iekel,83
+Sheridan,Sheridan County Courthouse 3-2,State House,30,REP,"Landon, Jr.",6
+Sheridan,Sheridan County Courthouse 3-2,State House,30,REP,Webster,2
+Sheridan,Sheridan County Courthouse 3-2,State House,30,DEM,May,1
+Sheridan,Sheridan County Courthouse 3-2,Ballots Cast,,REP,Ballots Cast,133
+Sheridan,Sheridan County Courthouse 3-2,Ballots Cast,,DEM,Ballots Cast,34
+Sheridan,Slack School - Parkman 18-1,U.S. Senate,,REP,Thomas,25
+Sheridan,Slack School - Parkman 18-1,U.S. Senate,,DEM,Logan,3
+Sheridan,Slack School - Parkman 18-1,U.S. Senate,,DEM,Sumey,0
+Sheridan,Slack School - Parkman 18-1,U.S. House,,REP,Cubin,24
+Sheridan,Slack School - Parkman 18-1,U.S. House,,REP,Herdt,2
+Sheridan,Slack School - Parkman 18-1,U.S. House,,REP,Wenino,0
+Sheridan,Slack School - Parkman 18-1,U.S. House,,DEM,Green,3
+Sheridan,Slack School - Parkman 18-1,U.S. House,,DEM,Munker,0
+Sheridan,Slack School - Parkman 18-1,State House,51,REP,Burns,24
+Sheridan,Slack School - Parkman 18-1,Ballots Cast,,REP,Ballots Cast,26
+Sheridan,Slack School - Parkman 18-1,Ballots Cast,,DEM,Ballots Cast,3
+Sheridan,Story Women's Club 8-1,U.S. Senate,,REP,Thomas,150
+Sheridan,Story Women's Club 8-1,U.S. Senate,,DEM,Logan,40
+Sheridan,Story Women's Club 8-1,U.S. Senate,,DEM,Sumey,18
+Sheridan,Story Women's Club 8-1,U.S. House,,REP,Cubin,123
+Sheridan,Story Women's Club 8-1,U.S. House,,REP,Herdt,30
+Sheridan,Story Women's Club 8-1,U.S. House,,REP,Wenino,8
+Sheridan,Story Women's Club 8-1,U.S. House,,DEM,Green,28
+Sheridan,Story Women's Club 8-1,U.S. House,,DEM,Munker,29
+Sheridan,Story Women's Club 8-1,State Senate,22,REP,Schiffer,148
+Sheridan,Story Women's Club 8-1,State House,40,REP,Osborn,149
+Sheridan,Story Women's Club 8-1,Ballots Cast,,REP,Ballots Cast,171
+Sheridan,Story Women's Club 8-1,Ballots Cast,,DEM,Ballots Cast,60
+Sheridan,Tourist Information Center 5-1,U.S. Senate,,REP,Thomas,25
+Sheridan,Tourist Information Center 5-1,U.S. Senate,,DEM,Logan,8
+Sheridan,Tourist Information Center 5-1,U.S. Senate,,DEM,Sumey,7
+Sheridan,Tourist Information Center 5-1,U.S. House,,REP,Cubin,20
+Sheridan,Tourist Information Center 5-1,U.S. House,,REP,Herdt,3
+Sheridan,Tourist Information Center 5-1,U.S. House,,REP,Wenino,1
+Sheridan,Tourist Information Center 5-1,U.S. House,,DEM,Green,12
+Sheridan,Tourist Information Center 5-1,U.S. House,,DEM,Munker,1
+Sheridan,Tourist Information Center 5-1,State Senate,22,REP,Schiffer,24
+Sheridan,Tourist Information Center 5-1,State House,30,REP,"Landon, Jr.",22
+Sheridan,Tourist Information Center 5-1,State House,30,REP,Webster,4
+Sheridan,Tourist Information Center 5-1,State House,30,DEM,May,11
+Sheridan,Tourist Information Center 5-1,Ballots Cast,,REP,Ballots Cast,26
+Sheridan,Tourist Information Center 5-1,Ballots Cast,,DEM,Ballots Cast,15
+Sheridan,WY Agrilculture Sub-station 16-1,U.S. Senate,,REP,Thomas,62
+Sheridan,WY Agrilculture Sub-station 16-1,U.S. Senate,,DEM,Logan,16
+Sheridan,WY Agrilculture Sub-station 16-1,U.S. Senate,,DEM,Sumey,0
+Sheridan,WY Agrilculture Sub-station 16-1,U.S. House,,REP,Cubin,60
+Sheridan,WY Agrilculture Sub-station 16-1,U.S. House,,REP,Herdt,3
+Sheridan,WY Agrilculture Sub-station 16-1,U.S. House,,REP,Wenino,2
+Sheridan,WY Agrilculture Sub-station 16-1,U.S. House,,DEM,Green,12
+Sheridan,WY Agrilculture Sub-station 16-1,U.S. House,,DEM,Munker,4
+Sheridan,WY Agrilculture Sub-station 16-1,State Senate,22,REP,Schiffer,62
+Sheridan,WY Agrilculture Sub-station 16-1,State House,30,REP,"Landon, Jr.",60
+Sheridan,WY Agrilculture Sub-station 16-1,State House,30,REP,Webster,6
+Sheridan,WY Agrilculture Sub-station 16-1,State House,30,DEM,May,14
+Sheridan,WY Agrilculture Sub-station 16-1,Ballots Cast,,REP,Ballots Cast,69
+Sheridan,WY Agrilculture Sub-station 16-1,Ballots Cast,,DEM,Ballots Cast,16
+Sheridan,Woodland Park School 11-1,U.S. Senate,,REP,Thomas,189
+Sheridan,Woodland Park School 11-1,U.S. Senate,,DEM,Logan,31
+Sheridan,Woodland Park School 11-1,U.S. Senate,,DEM,Sumey,17
+Sheridan,Woodland Park School 11-1,U.S. House,,REP,Cubin,146
+Sheridan,Woodland Park School 11-1,U.S. House,,REP,Herdt,29
+Sheridan,Woodland Park School 11-1,U.S. House,,REP,Wenino,13
+Sheridan,Woodland Park School 11-1,U.S. House,,DEM,Green,29
+Sheridan,Woodland Park School 11-1,U.S. House,,DEM,Munker,11
+Sheridan,Woodland Park School 11-1,State Senate,22,REP,Schiffer,139
+Sheridan,Woodland Park School 11-1,State House,30,REP,"Landon, Jr.",128
+Sheridan,Woodland Park School 11-1,State House,30,REP,Webster,24
+Sheridan,Woodland Park School 11-1,State House,30,DEM,May,42
+Sheridan,Woodland Park School 11-1,State House,51,REP,Burns,33
+Sheridan,Woodland Park School 11-1,Ballots Cast,,REP,Ballots Cast,197
+Sheridan,Woodland Park School 11-1,Ballots Cast,,DEM,Ballots Cast,50

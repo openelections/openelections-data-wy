@@ -1,0 +1,215 @@
+county,precinct,office,district,party,candidate,votes
+Albany,Albany County Fairgrounds 1-2,President,,REP,Bush,1091
+Albany,Albany County Fairgrounds 1-2,President,,DEM,Gore,453
+Albany,Albany County Fairgrounds 1-2,President,,LIB,Browne,13
+Albany,Albany County Fairgrounds 1-2,President,,IND,Phillips,2
+Albany,Albany County Fairgrounds 1-2,President,,NL,Hagelin,0
+Albany,Albany County Fairgrounds 1-2,President,,REF,Buchanan,11
+Albany,Albany County Fairgrounds 1-2,U.S. Senate,,REP,Thomas,1200
+Albany,Albany County Fairgrounds 1-2,U.S. Senate,,DEM,Logan,356
+Albany,Albany County Fairgrounds 1-2,U.S. Senate,,LIB,Dawson,67
+Albany,Albany County Fairgrounds 1-2,U.S. House,,REP,Cubin,1070
+Albany,Albany County Fairgrounds 1-2,U.S. House,,DEM,Green,462
+Albany,Albany County Fairgrounds 1-2,U.S. House,,LIB,Stock,53
+Albany,Albany County Fairgrounds 1-2,U.S. House,,NL,Raymond,26
+Albany,Albany County Fairgrounds 1-2,State Senate,10,REP,Devin,1010
+Albany,Albany County Fairgrounds 1-2,State Senate,10,DEM,Murphy,539
+Albany,Albany County Fairgrounds 1-2,State Senate,10,LIB,O'Reilly,68
+Albany,Albany County Fairgrounds 1-2,State House,46,REP,Slater,995
+Albany,Albany County Fairgrounds 1-2,State House,46,DEM,Hanson,606
+Albany,Albany County Fairgrounds 1-2,Ballots Cast,,,Ballots Cast,1676
+Albany,Albany County Library 5-1,President,,REP,Bush,726
+Albany,Albany County Library 5-1,President,,DEM,Gore,616
+Albany,Albany County Library 5-1,President,,LIB,Browne,22
+Albany,Albany County Library 5-1,President,,IND,Phillips,3
+Albany,Albany County Library 5-1,President,,NL,Hagelin,6
+Albany,Albany County Library 5-1,President,,REF,Buchanan,11
+Albany,Albany County Library 5-1,U.S. Senate,,REP,Thomas,864
+Albany,Albany County Library 5-1,U.S. Senate,,DEM,Logan,544
+Albany,Albany County Library 5-1,U.S. Senate,,LIB,Dawson,139
+Albany,Albany County Library 5-1,U.S. House,,REP,Cubin,714
+Albany,Albany County Library 5-1,U.S. House,,DEM,Green,670
+Albany,Albany County Library 5-1,U.S. House,,LIB,Stock,87
+Albany,Albany County Library 5-1,U.S. House,,NL,Raymond,50
+Albany,Albany County Library 5-1,State House,45,DEM,Johnson,1176
+Albany,Albany County Library 5-1,Ballots Cast,,,Ballots Cast,1633
+Albany,Beitel School 6-2,President,,REP,Bush,584
+Albany,Beitel School 6-2,President,,DEM,Gore,393
+Albany,Beitel School 6-2,President,,LIB,Browne,6
+Albany,Beitel School 6-2,President,,IND,Phillips,1
+Albany,Beitel School 6-2,President,,NL,Hagelin,4
+Albany,Beitel School 6-2,President,,REF,Buchanan,5
+Albany,Beitel School 6-2,U.S. Senate,,REP,Thomas,674
+Albany,Beitel School 6-2,U.S. Senate,,DEM,Logan,296
+Albany,Beitel School 6-2,U.S. Senate,,LIB,Dawson,52
+Albany,Beitel School 6-2,U.S. House,,REP,Cubin,582
+Albany,Beitel School 6-2,U.S. House,,DEM,Green,385
+Albany,Beitel School 6-2,U.S. House,,LIB,Stock,33
+Albany,Beitel School 6-2,U.S. House,,NL,Raymond,15
+Albany,Beitel School 6-2,State Senate,10,REP,Devin,591
+Albany,Beitel School 6-2,State Senate,10,DEM,Murphy,388
+Albany,Beitel School 6-2,State Senate,10,LIB,O'Reilly,50
+Albany,Beitel School 6-2,State House,46,REP,Slater,516
+Albany,Beitel School 6-2,State House,46,DEM,Hanson,505
+Albany,Beitel School 6-2,Ballots Cast,,,Ballots Cast,1081
+Albany,Centennial School 1-3,President,,REP,Bush,174
+Albany,Centennial School 1-3,President,,DEM,Gore,85
+Albany,Centennial School 1-3,President,,LIB,Browne,2
+Albany,Centennial School 1-3,President,,IND,Phillips,1
+Albany,Centennial School 1-3,President,,NL,Hagelin,0
+Albany,Centennial School 1-3,President,,REF,Buchanan,0
+Albany,Centennial School 1-3,U.S. Senate,,REP,Thomas,183
+Albany,Centennial School 1-3,U.S. Senate,,DEM,Logan,79
+Albany,Centennial School 1-3,U.S. Senate,,LIB,Dawson,13
+Albany,Centennial School 1-3,U.S. House,,REP,Cubin,169
+Albany,Centennial School 1-3,U.S. House,,DEM,Green,95
+Albany,Centennial School 1-3,U.S. House,,LIB,Stock,9
+Albany,Centennial School 1-3,U.S. House,,NL,Raymond,2
+Albany,Centennial School 1-3,State Senate,10,REP,Devin,165
+Albany,Centennial School 1-3,State Senate,10,DEM,Murphy,98
+Albany,Centennial School 1-3,State Senate,10,LIB,O'Reilly,12
+Albany,Centennial School 1-3,State House,46,REP,Slater,172
+Albany,Centennial School 1-3,State House,46,DEM,Hanson,95
+Albany,Centennial School 1-3,Ballots Cast,,,Ballots Cast,284
+Albany,Laramie Jr. High School 4-1,President,,REP,Bush,633
+Albany,Laramie Jr. High School 4-1,President,,DEM,Gore,457
+Albany,Laramie Jr. High School 4-1,President,,LIB,Browne,5
+Albany,Laramie Jr. High School 4-1,President,,IND,Phillips,4
+Albany,Laramie Jr. High School 4-1,President,,NL,Hagelin,4
+Albany,Laramie Jr. High School 4-1,President,,REF,Buchanan,3
+Albany,Laramie Jr. High School 4-1,U.S. Senate,,REP,Thomas,739
+Albany,Laramie Jr. High School 4-1,U.S. Senate,,DEM,Logan,337
+Albany,Laramie Jr. High School 4-1,U.S. Senate,,LIB,Dawson,46
+Albany,Laramie Jr. High School 4-1,U.S. House,,REP,Cubin,640
+Albany,Laramie Jr. High School 4-1,U.S. House,,DEM,Green,426
+Albany,Laramie Jr. High School 4-1,U.S. House,,LIB,Stock,32
+Albany,Laramie Jr. High School 4-1,U.S. House,,NL,Raymond,17
+Albany,Laramie Jr. High School 4-1,State Senate,10,REP,Devin,638
+Albany,Laramie Jr. High School 4-1,State Senate,10,DEM,Murphy,458
+Albany,Laramie Jr. High School 4-1,State Senate,10,LIB,O'Reilly,39
+Albany,Laramie Jr. High School 4-1,State House,14,REP,Nicholas,606
+Albany,Laramie Jr. High School 4-1,State House,14,DEM,Saulino-Klein,520
+Albany,Laramie Jr. High School 4-1,Ballots Cast,,,Ballots Cast,1189
+Albany,Linford School 5-2,President,,REP,Bush,970
+Albany,Linford School 5-2,President,,DEM,Gore,700
+Albany,Linford School 5-2,President,,LIB,Browne,10
+Albany,Linford School 5-2,President,,IND,Phillips,10
+Albany,Linford School 5-2,President,,NL,Hagelin,1
+Albany,Linford School 5-2,President,,REF,Buchanan,12
+Albany,Linford School 5-2,U.S. Senate,,REP,Thomas,1098
+Albany,Linford School 5-2,U.S. Senate,,DEM,Logan,589
+Albany,Linford School 5-2,U.S. Senate,,LIB,Dawson,97
+Albany,Linford School 5-2,U.S. House,,REP,Cubin,969
+Albany,Linford School 5-2,U.S. House,,DEM,Green,684
+Albany,Linford School 5-2,U.S. House,,LIB,Stock,68
+Albany,Linford School 5-2,U.S. House,,NL,Raymond,29
+Albany,Linford School 5-2,State House,45,DEM,Johnson,1210
+Albany,Linford School 5-2,Ballots Cast,,,Ballots Cast,1834
+Albany,National Guard Armory 4-2,President,,REP,Bush,1017
+Albany,National Guard Armory 4-2,President,,DEM,Gore,569
+Albany,National Guard Armory 4-2,President,,LIB,Browne,19
+Albany,National Guard Armory 4-2,President,,IND,Phillips,3
+Albany,National Guard Armory 4-2,President,,NL,Hagelin,15
+Albany,National Guard Armory 4-2,President,,REF,Buchanan,3
+Albany,National Guard Armory 4-2,U.S. Senate,,REP,Thomas,1177
+Albany,National Guard Armory 4-2,U.S. Senate,,DEM,Logan,418
+Albany,National Guard Armory 4-2,U.S. Senate,,LIB,Dawson,101
+Albany,National Guard Armory 4-2,U.S. House,,REP,Cubin,968
+Albany,National Guard Armory 4-2,U.S. House,,DEM,Green,566
+Albany,National Guard Armory 4-2,U.S. House,,LIB,Stock,73
+Albany,National Guard Armory 4-2,U.S. House,,NL,Raymond,43
+Albany,National Guard Armory 4-2,State Senate,10,REP,Devin,910
+Albany,National Guard Armory 4-2,State Senate,10,DEM,Murphy,615
+Albany,National Guard Armory 4-2,State Senate,10,LIB,O'Reilly,135
+Albany,National Guard Armory 4-2,State House,14,REP,Nicholas,933
+Albany,National Guard Armory 4-2,State House,14,DEM,Saulino-Klein,718
+Albany,National Guard Armory 4-2,Ballots Cast,,,Ballots Cast,1776
+Albany,Northern Albany County 1-1,President,,REP,Bush,264
+Albany,Northern Albany County 1-1,President,,DEM,Gore,92
+Albany,Northern Albany County 1-1,President,,LIB,Browne,4
+Albany,Northern Albany County 1-1,President,,IND,Phillips,0
+Albany,Northern Albany County 1-1,President,,NL,Hagelin,2
+Albany,Northern Albany County 1-1,President,,REF,Buchanan,1
+Albany,Northern Albany County 1-1,U.S. Senate,,REP,Thomas,284
+Albany,Northern Albany County 1-1,U.S. Senate,,DEM,Logan,77
+Albany,Northern Albany County 1-1,U.S. Senate,,LIB,Dawson,7
+Albany,Northern Albany County 1-1,U.S. House,,REP,Cubin,262
+Albany,Northern Albany County 1-1,U.S. House,,DEM,Green,95
+Albany,Northern Albany County 1-1,U.S. House,,LIB,Stock,6
+Albany,Northern Albany County 1-1,U.S. House,,NL,Raymond,7
+Albany,Northern Albany County 1-1,State Senate,10,REP,Devin,229
+Albany,Northern Albany County 1-1,State Senate,10,DEM,Murphy,114
+Albany,Northern Albany County 1-1,State Senate,10,LIB,O'Reilly,18
+Albany,Northern Albany County 1-1,State House,14,REP,Nicholas,223
+Albany,Northern Albany County 1-1,State House,14,DEM,Saulino-Klein,139
+Albany,Northern Albany County 1-1,Ballots Cast,,,Ballots Cast,382
+Albany,Rock River Town Hall 1-4,President,,REP,Bush,102
+Albany,Rock River Town Hall 1-4,President,,DEM,Gore,34
+Albany,Rock River Town Hall 1-4,President,,LIB,Browne,4
+Albany,Rock River Town Hall 1-4,President,,IND,Phillips,1
+Albany,Rock River Town Hall 1-4,President,,NL,Hagelin,0
+Albany,Rock River Town Hall 1-4,President,,REF,Buchanan,0
+Albany,Rock River Town Hall 1-4,U.S. Senate,,REP,Thomas,97
+Albany,Rock River Town Hall 1-4,U.S. Senate,,DEM,Logan,36
+Albany,Rock River Town Hall 1-4,U.S. Senate,,LIB,Dawson,9
+Albany,Rock River Town Hall 1-4,U.S. House,,REP,Cubin,89
+Albany,Rock River Town Hall 1-4,U.S. House,,DEM,Green,48
+Albany,Rock River Town Hall 1-4,U.S. House,,LIB,Stock,4
+Albany,Rock River Town Hall 1-4,U.S. House,,NL,Raymond,3
+Albany,Rock River Town Hall 1-4,State House,13,DEM,Warren,925
+Albany,Rock River Town Hall 1-4,State House,47,REP,Willford,88
+Albany,Rock River Town Hall 1-4,State House,47,DEM,McGuire,53
+Albany,Rock River Town Hall 1-4,Ballots Cast,,,Ballots Cast,147
+Albany,Slade School 3-1,President,,REP,Bush,863
+Albany,Slade School 3-1,President,,DEM,Gore,530
+Albany,Slade School 3-1,President,,LIB,Browne,7
+Albany,Slade School 3-1,President,,IND,Phillips,7
+Albany,Slade School 3-1,President,,NL,Hagelin,5
+Albany,Slade School 3-1,President,,REF,Buchanan,12
+Albany,Slade School 3-1,U.S. Senate,,REP,Thomas,946
+Albany,Slade School 3-1,U.S. Senate,,DEM,Logan,454
+Albany,Slade School 3-1,U.S. Senate,,LIB,Dawson,74
+Albany,Slade School 3-1,U.S. House,,REP,Cubin,815
+Albany,Slade School 3-1,U.S. House,,DEM,Green,554
+Albany,Slade School 3-1,U.S. House,,LIB,Stock,48
+Albany,Slade School 3-1,U.S. House,,NL,Raymond,32
+Albany,Slade School 3-1,State Senate,10,REP,Devin,25
+Albany,Slade School 3-1,State Senate,10,DEM,Murphy,20
+Albany,Slade School 3-1,State Senate,10,LIB,O'Reilly,0
+Albany,Slade School 3-1,State House,14,REP,Nicholas,18
+Albany,Slade School 3-1,State House,14,DEM,Saulino-Klein,27
+Albany,Slade School 3-1,Ballots Cast,,,Ballots Cast,1532
+Albany,Spring Creek School 3-2,President,,REP,Bush,768
+Albany,Spring Creek School 3-2,President,,DEM,Gore,612
+Albany,Spring Creek School 3-2,President,,LIB,Browne,20
+Albany,Spring Creek School 3-2,President,,IND,Phillips,2
+Albany,Spring Creek School 3-2,President,,NL,Hagelin,8
+Albany,Spring Creek School 3-2,President,,REF,Buchanan,6
+Albany,Spring Creek School 3-2,U.S. Senate,,REP,Thomas,886
+Albany,Spring Creek School 3-2,U.S. Senate,,DEM,Logan,502
+Albany,Spring Creek School 3-2,U.S. Senate,,LIB,Dawson,104
+Albany,Spring Creek School 3-2,U.S. House,,REP,Cubin,735
+Albany,Spring Creek School 3-2,U.S. House,,DEM,Green,631
+Albany,Spring Creek School 3-2,U.S. House,,LIB,Stock,71
+Albany,Spring Creek School 3-2,U.S. House,,NL,Raymond,36
+Albany,Spring Creek School 3-2,State House,13,DEM,Warren,1083
+Albany,Spring Creek School 3-2,Ballots Cast,,,Ballots Cast,1597
+Albany,Thayer School 6-1,President,,REP,Bush,622
+Albany,Thayer School 6-1,President,,DEM,Gore,528
+Albany,Thayer School 6-1,President,,LIB,Browne,16
+Albany,Thayer School 6-1,President,,IND,Phillips,1
+Albany,Thayer School 6-1,President,,NL,Hagelin,1
+Albany,Thayer School 6-1,President,,REF,Buchanan,7
+Albany,Thayer School 6-1,U.S. Senate,,REP,Thomas,736
+Albany,Thayer School 6-1,U.S. Senate,,DEM,Logan,418
+Albany,Thayer School 6-1,U.S. Senate,,LIB,Dawson,69
+Albany,Thayer School 6-1,U.S. House,,REP,Cubin,628
+Albany,Thayer School 6-1,U.S. House,,DEM,Green,487
+Albany,Thayer School 6-1,U.S. House,,LIB,Stock,47
+Albany,Thayer School 6-1,U.S. House,,NL,Raymond,35
+Albany,Thayer School 6-1,State Senate,10,REP,Devin,622
+Albany,Thayer School 6-1,State Senate,10,DEM,Murphy,550
+Albany,Thayer School 6-1,State Senate,10,LIB,O'Reilly,65
+Albany,Thayer School 6-1,State House,46,REP,Slater,579
+Albany,Thayer School 6-1,State House,46,DEM,Hanson,646
+Albany,Thayer School 6-1,Ballots Cast,,,Ballots Cast,1286

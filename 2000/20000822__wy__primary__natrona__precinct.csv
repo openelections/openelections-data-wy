@@ -1,0 +1,648 @@
+county,precinct,office,district,party,candidate,votes
+Natrona,Alcova School 11-2,U.S. Senate,,REP,Thomas,56
+Natrona,Alcova School 11-2,U.S. Senate,,DEM,Logan,6
+Natrona,Alcova School 11-2,U.S. Senate,,DEM,Sumey,6
+Natrona,Alcova School 11-2,U.S. House,,REP,Cubin,48
+Natrona,Alcova School 11-2,U.S. House,,REP,Herdt,7
+Natrona,Alcova School 11-2,U.S. House,,REP,Wenino,6
+Natrona,Alcova School 11-2,U.S. House,,DEM,Green,9
+Natrona,Alcova School 11-2,U.S. House,,DEM,Munker,7
+Natrona,Alcova School 11-2,State Senate,30,REP,Scott,53
+Natrona,Alcova School 11-2,State Senate,30,DEM,Horton,16
+Natrona,Alcova School 11-2,State House,38,REP,Brechtel,12
+Natrona,Alcova School 11-2,State House,38,REP,Paseneaux,47
+Natrona,Alcova School 11-2,State House,38,DEM,Brady,14
+Natrona,Alcova School 11-2,State House,38,DEM,Jolley,2
+Natrona,Alcova School 11-2,Ballots Cast,,REP,Ballots Cast,61
+Natrona,Alcova School 11-2,Ballots Cast,,DEM,Ballots Cast,16
+Natrona,Bar Nunn School 8-5,U.S. Senate,,REP,Thomas,92
+Natrona,Bar Nunn School 8-5,U.S. Senate,,DEM,Logan,26
+Natrona,Bar Nunn School 8-5,U.S. Senate,,DEM,Sumey,10
+Natrona,Bar Nunn School 8-5,U.S. House,,REP,Cubin,61
+Natrona,Bar Nunn School 8-5,U.S. House,,REP,Herdt,22
+Natrona,Bar Nunn School 8-5,U.S. House,,REP,Wenino,14
+Natrona,Bar Nunn School 8-5,U.S. House,,DEM,Green,16
+Natrona,Bar Nunn School 8-5,U.S. House,,DEM,Munker,21
+Natrona,Bar Nunn School 8-5,State Senate,30,REP,Scott,86
+Natrona,Bar Nunn School 8-5,State Senate,30,DEM,Horton,35
+Natrona,Bar Nunn School 8-5,State House,58,DEM,Robinson,37
+Natrona,Bar Nunn School 8-5,Ballots Cast,,REP,Ballots Cast,99
+Natrona,Bar Nunn School 8-5,Ballots Cast,,DEM,Ballots Cast,42
+Natrona,Bethel Baptist Church 2-10,U.S. Senate,,REP,Thomas,328
+Natrona,Bethel Baptist Church 2-10,U.S. Senate,,DEM,Logan,30
+Natrona,Bethel Baptist Church 2-10,U.S. Senate,,DEM,Sumey,31
+Natrona,Bethel Baptist Church 2-10,U.S. House,,REP,Cubin,262
+Natrona,Bethel Baptist Church 2-10,U.S. House,,REP,Herdt,48
+Natrona,Bethel Baptist Church 2-10,U.S. House,,REP,Wenino,43
+Natrona,Bethel Baptist Church 2-10,U.S. House,,DEM,Green,26
+Natrona,Bethel Baptist Church 2-10,U.S. House,,DEM,Munker,40
+Natrona,Bethel Baptist Church 2-10,State House,37,REP,Olson,90
+Natrona,Bethel Baptist Church 2-10,State House,37,REP,Tempest,265
+Natrona,Bethel Baptist Church 2-10,Ballots Cast,,REP,Ballots Cast,363
+Natrona,Bethel Baptist Church 2-10,Ballots Cast,,DEM,Ballots Cast,74
+Natrona,Bressler Ranch 13-1,U.S. Senate,,REP,Thomas,22
+Natrona,Bressler Ranch 13-1,U.S. Senate,,DEM,Logan,0
+Natrona,Bressler Ranch 13-1,U.S. Senate,,DEM,Sumey,3
+Natrona,Bressler Ranch 13-1,U.S. House,,REP,Cubin,18
+Natrona,Bressler Ranch 13-1,U.S. House,,REP,Herdt,3
+Natrona,Bressler Ranch 13-1,U.S. House,,REP,Wenino,1
+Natrona,Bressler Ranch 13-1,U.S. House,,DEM,Green,2
+Natrona,Bressler Ranch 13-1,U.S. House,,DEM,Munker,1
+Natrona,Bressler Ranch 13-1,State Senate,30,REP,Scott,22
+Natrona,Bressler Ranch 13-1,State Senate,30,DEM,Horton,3
+Natrona,Bressler Ranch 13-1,State House,38,REP,Brechtel,6
+Natrona,Bressler Ranch 13-1,State House,38,REP,Paseneaux,16
+Natrona,Bressler Ranch 13-1,State House,38,DEM,Brady,2
+Natrona,Bressler Ranch 13-1,State House,38,DEM,Jolley,1
+Natrona,Bressler Ranch 13-1,Ballots Cast,,REP,Ballots Cast,24
+Natrona,Bressler Ranch 13-1,Ballots Cast,,DEM,Ballots Cast,3
+Natrona,CY Junior High School 2-3,U.S. Senate,,REP,Thomas,233
+Natrona,CY Junior High School 2-3,U.S. Senate,,DEM,Logan,67
+Natrona,CY Junior High School 2-3,U.S. Senate,,DEM,Sumey,45
+Natrona,CY Junior High School 2-3,U.S. House,,REP,Cubin,166
+Natrona,CY Junior High School 2-3,U.S. House,,REP,Herdt,42
+Natrona,CY Junior High School 2-3,U.S. House,,REP,Wenino,34
+Natrona,CY Junior High School 2-3,U.S. House,,DEM,Green,45
+Natrona,CY Junior High School 2-3,U.S. House,,DEM,Munker,69
+Natrona,CY Junior High School 2-3,State House,59,REP,Hanlin,217
+Natrona,CY Junior High School 2-3,State House,59,DEM,Sadler,106
+Natrona,CY Junior High School 2-3,Ballots Cast,,REP,Ballots Cast,256
+Natrona,CY Junior High School 2-3,Ballots Cast,,DEM,Ballots Cast,116
+Natrona,Casper College 1-4,U.S. Senate,,REP,Thomas,213
+Natrona,Casper College 1-4,U.S. Senate,,DEM,Logan,42
+Natrona,Casper College 1-4,U.S. Senate,,DEM,Sumey,32
+Natrona,Casper College 1-4,U.S. House,,REP,Cubin,163
+Natrona,Casper College 1-4,U.S. House,,REP,Herdt,30
+Natrona,Casper College 1-4,U.S. House,,REP,Wenino,30
+Natrona,Casper College 1-4,U.S. House,,DEM,Green,38
+Natrona,Casper College 1-4,U.S. House,,DEM,Munker,42
+Natrona,Casper College 1-4,State Senate,28,REP,Walsh,186
+Natrona,Casper College 1-4,State Senate,28,DEM,Goodenough,83
+Natrona,Casper College 1-4,State House,56,REP,Nagel,204
+Natrona,Casper College 1-4,State House,56,DEM,Herb,78
+Natrona,Casper College 1-4,Ballots Cast,,REP,Ballots Cast,237
+Natrona,Casper College 1-4,Ballots Cast,,DEM,Ballots Cast,93
+Natrona,Centennial Jr. High School 3-10,U.S. Senate,,REP,Thomas,314
+Natrona,Centennial Jr. High School 3-10,U.S. Senate,,DEM,Logan,39
+Natrona,Centennial Jr. High School 3-10,U.S. Senate,,DEM,Sumey,19
+Natrona,Centennial Jr. High School 3-10,U.S. House,,REP,Cubin,248
+Natrona,Centennial Jr. High School 3-10,U.S. House,,REP,Herdt,37
+Natrona,Centennial Jr. High School 3-10,U.S. House,,REP,Wenino,45
+Natrona,Centennial Jr. High School 3-10,U.S. House,,DEM,Green,28
+Natrona,Centennial Jr. High School 3-10,U.S. House,,DEM,Munker,35
+Natrona,Centennial Jr. High School 3-10,State House,35,REP,Cohee,304
+Natrona,Centennial Jr. High School 3-10,Ballots Cast,,REP,Ballots Cast,338
+Natrona,Centennial Jr. High School 3-10,Ballots Cast,,DEM,Ballots Cast,71
+Natrona,Cresthill School 2-5,U.S. Senate,,REP,Thomas,341
+Natrona,Cresthill School 2-5,U.S. Senate,,DEM,Logan,37
+Natrona,Cresthill School 2-5,U.S. Senate,,DEM,Sumey,23
+Natrona,Cresthill School 2-5,U.S. House,,REP,Cubin,257
+Natrona,Cresthill School 2-5,U.S. House,,REP,Herdt,57
+Natrona,Cresthill School 2-5,U.S. House,,REP,Wenino,42
+Natrona,Cresthill School 2-5,U.S. House,,DEM,Green,22
+Natrona,Cresthill School 2-5,U.S. House,,DEM,Munker,44
+Natrona,Cresthill School 2-5,State House,37,REP,Olson,112
+Natrona,Cresthill School 2-5,State House,37,REP,Tempest,254
+Natrona,Cresthill School 2-5,Ballots Cast,,REP,Ballots Cast,371
+Natrona,Cresthill School 2-5,Ballots Cast,,DEM,Ballots Cast,72
+Natrona,Dean Morgan Jr. High School 1-3,U.S. Senate,,REP,Thomas,200
+Natrona,Dean Morgan Jr. High School 1-3,U.S. Senate,,DEM,Logan,65
+Natrona,Dean Morgan Jr. High School 1-3,U.S. Senate,,DEM,Sumey,55
+Natrona,Dean Morgan Jr. High School 1-3,U.S. House,,REP,Cubin,133
+Natrona,Dean Morgan Jr. High School 1-3,U.S. House,,REP,Herdt,34
+Natrona,Dean Morgan Jr. High School 1-3,U.S. House,,REP,Wenino,56
+Natrona,Dean Morgan Jr. High School 1-3,U.S. House,,DEM,Green,47
+Natrona,Dean Morgan Jr. High School 1-3,U.S. House,,DEM,Munker,83
+Natrona,Dean Morgan Jr. High School 1-3,State Senate,28,REP,Walsh,182
+Natrona,Dean Morgan Jr. High School 1-3,State Senate,28,DEM,Goodenough,123
+Natrona,Dean Morgan Jr. High School 1-3,State House,56,REP,Nagel,198
+Natrona,Dean Morgan Jr. High School 1-3,State House,56,DEM,Herb,123
+Natrona,Dean Morgan Jr. High School 1-3,Ballots Cast,,REP,Ballots Cast,232
+Natrona,Dean Morgan Jr. High School 1-3,Ballots Cast,,DEM,Ballots Cast,139
+Natrona,East Junior High School 1-7,U.S. Senate,,REP,Thomas,143
+Natrona,East Junior High School 1-7,U.S. Senate,,DEM,Logan,66
+Natrona,East Junior High School 1-7,U.S. Senate,,DEM,Sumey,47
+Natrona,East Junior High School 1-7,U.S. House,,REP,Cubin,92
+Natrona,East Junior High School 1-7,U.S. House,,REP,Herdt,39
+Natrona,East Junior High School 1-7,U.S. House,,REP,Wenino,22
+Natrona,East Junior High School 1-7,U.S. House,,DEM,Green,52
+Natrona,East Junior High School 1-7,U.S. House,,DEM,Munker,60
+Natrona,East Junior High School 1-7,State Senate,28,REP,Walsh,129
+Natrona,East Junior High School 1-7,State Senate,28,DEM,Goodenough,104
+Natrona,East Junior High School 1-7,State House,57,REP,Lockhart,139
+Natrona,East Junior High School 1-7,State House,57,DEM,Stoval,106
+Natrona,East Junior High School 1-7,Ballots Cast,,REP,Ballots Cast,158
+Natrona,East Junior High School 1-7,Ballots Cast,,DEM,Ballots Cast,118
+Natrona,Edgerton Town Hall 7-2,U.S. Senate,,REP,Thomas,38
+Natrona,Edgerton Town Hall 7-2,U.S. Senate,,DEM,Logan,15
+Natrona,Edgerton Town Hall 7-2,U.S. Senate,,DEM,Sumey,7
+Natrona,Edgerton Town Hall 7-2,U.S. House,,REP,Cubin,24
+Natrona,Edgerton Town Hall 7-2,U.S. House,,REP,Herdt,8
+Natrona,Edgerton Town Hall 7-2,U.S. House,,REP,Wenino,6
+Natrona,Edgerton Town Hall 7-2,U.S. House,,DEM,Green,14
+Natrona,Edgerton Town Hall 7-2,U.S. House,,DEM,Munker,8
+Natrona,Edgerton Town Hall 7-2,State Senate,30,REP,Scott,30
+Natrona,Edgerton Town Hall 7-2,State Senate,30,DEM,Horton,20
+Natrona,Edgerton Town Hall 7-2,State House,58,DEM,Robinson,21
+Natrona,Edgerton Town Hall 7-2,Ballots Cast,,REP,Ballots Cast,39
+Natrona,Edgerton Town Hall 7-2,Ballots Cast,,DEM,Ballots Cast,22
+Natrona,Evansville School 4-1,U.S. Senate,,REP,Thomas,125
+Natrona,Evansville School 4-1,U.S. Senate,,DEM,Logan,74
+Natrona,Evansville School 4-1,U.S. Senate,,DEM,Sumey,53
+Natrona,Evansville School 4-1,U.S. House,,REP,Cubin,82
+Natrona,Evansville School 4-1,U.S. House,,REP,Herdt,27
+Natrona,Evansville School 4-1,U.S. House,,REP,Wenino,19
+Natrona,Evansville School 4-1,U.S. House,,DEM,Green,74
+Natrona,Evansville School 4-1,U.S. House,,DEM,Munker,57
+Natrona,Evansville School 4-1,State Senate,30,REP,Scott,5
+Natrona,Evansville School 4-1,State Senate,30,DEM,Horton,7
+Natrona,Evansville School 4-1,State House,35,REP,Cohee,4
+Natrona,Evansville School 4-1,State House,36,REP,Gay,107
+Natrona,Evansville School 4-1,State House,36,DEM,Gentile,111
+Natrona,Evansville School 4-1,State House,58,DEM,Robinson,7
+Natrona,Evansville School 4-1,Ballots Cast,,REP,Ballots Cast,131
+Natrona,Evansville School 4-1,Ballots Cast,,DEM,Ballots Cast,139
+Natrona,Evansville School 4-2,U.S. Senate,,REP,Thomas,167
+Natrona,Evansville School 4-2,U.S. Senate,,DEM,Logan,30
+Natrona,Evansville School 4-2,U.S. Senate,,DEM,Sumey,27
+Natrona,Evansville School 4-2,U.S. House,,REP,Cubin,116
+Natrona,Evansville School 4-2,U.S. House,,REP,Herdt,35
+Natrona,Evansville School 4-2,U.S. House,,REP,Wenino,23
+Natrona,Evansville School 4-2,U.S. House,,DEM,Green,26
+Natrona,Evansville School 4-2,U.S. House,,DEM,Munker,30
+Natrona,Evansville School 4-2,State Senate,30,REP,Scott,0
+Natrona,Evansville School 4-2,State Senate,30,DEM,Horton,0
+Natrona,Evansville School 4-2,State House,35,REP,Cohee,136
+Natrona,Evansville School 4-2,State House,58,DEM,Robinson,0
+Natrona,Evansville School 4-2,Ballots Cast,,REP,Ballots Cast,180
+Natrona,Evansville School 4-2,Ballots Cast,,DEM,Ballots Cast,59
+Natrona,Fairdale School 3-4,U.S. Senate,,REP,Thomas,199
+Natrona,Fairdale School 3-4,U.S. Senate,,DEM,Logan,63
+Natrona,Fairdale School 3-4,U.S. Senate,,DEM,Sumey,46
+Natrona,Fairdale School 3-4,U.S. House,,REP,Cubin,129
+Natrona,Fairdale School 3-4,U.S. House,,REP,Herdt,52
+Natrona,Fairdale School 3-4,U.S. House,,REP,Wenino,34
+Natrona,Fairdale School 3-4,U.S. House,,DEM,Green,53
+Natrona,Fairdale School 3-4,U.S. House,,DEM,Munker,57
+Natrona,Fairdale School 3-4,State Senate,28,REP,Walsh,175
+Natrona,Fairdale School 3-4,State Senate,28,DEM,Goodenough,104
+Natrona,Fairdale School 3-4,State House,35,REP,Cohee,5
+Natrona,Fairdale School 3-4,State House,57,REP,Lockhart,187
+Natrona,Fairdale School 3-4,State House,57,DEM,Stoval,107
+Natrona,Fairdale School 3-4,Ballots Cast,,REP,Ballots Cast,219
+Natrona,Fairdale School 3-4,Ballots Cast,,DEM,Ballots Cast,120
+Natrona,First Assembly of God Church 3-8,U.S. Senate,,REP,Thomas,283
+Natrona,First Assembly of God Church 3-8,U.S. Senate,,DEM,Logan,87
+Natrona,First Assembly of God Church 3-8,U.S. Senate,,DEM,Sumey,65
+Natrona,First Assembly of God Church 3-8,U.S. House,,REP,Cubin,184
+Natrona,First Assembly of God Church 3-8,U.S. House,,REP,Herdt,63
+Natrona,First Assembly of God Church 3-8,U.S. House,,REP,Wenino,50
+Natrona,First Assembly of God Church 3-8,U.S. House,,DEM,Green,74
+Natrona,First Assembly of God Church 3-8,U.S. House,,DEM,Munker,77
+Natrona,First Assembly of God Church 3-8,State Senate,28,REP,Walsh,267
+Natrona,First Assembly of God Church 3-8,State Senate,28,DEM,Goodenough,147
+Natrona,First Assembly of God Church 3-8,State House,57,REP,Lockhart,292
+Natrona,First Assembly of God Church 3-8,State House,57,DEM,Stoval,147
+Natrona,First Assembly of God Church 3-8,Ballots Cast,,REP,Ballots Cast,307
+Natrona,First Assembly of God Church 3-8,Ballots Cast,,DEM,Ballots Cast,158
+Natrona,Fish Hatchery 11-3,U.S. Senate,,REP,Thomas,91
+Natrona,Fish Hatchery 11-3,U.S. Senate,,DEM,Logan,14
+Natrona,Fish Hatchery 11-3,U.S. Senate,,DEM,Sumey,13
+Natrona,Fish Hatchery 11-3,U.S. House,,REP,Cubin,64
+Natrona,Fish Hatchery 11-3,U.S. House,,REP,Herdt,23
+Natrona,Fish Hatchery 11-3,U.S. House,,REP,Wenino,11
+Natrona,Fish Hatchery 11-3,U.S. House,,DEM,Green,7
+Natrona,Fish Hatchery 11-3,U.S. House,,DEM,Munker,19
+Natrona,Fish Hatchery 11-3,State Senate,30,REP,Scott,85
+Natrona,Fish Hatchery 11-3,State Senate,30,DEM,Horton,25
+Natrona,Fish Hatchery 11-3,State House,38,REP,Brechtel,42
+Natrona,Fish Hatchery 11-3,State House,38,REP,Paseneaux,53
+Natrona,Fish Hatchery 11-3,State House,38,DEM,Brady,15
+Natrona,Fish Hatchery 11-3,State House,38,DEM,Jolley,14
+Natrona,Fish Hatchery 11-3,Ballots Cast,,REP,Ballots Cast,100
+Natrona,Fish Hatchery 11-3,Ballots Cast,,DEM,Ballots Cast,29
+Natrona,Grant School 1-6,U.S. Senate,,REP,Thomas,206
+Natrona,Grant School 1-6,U.S. Senate,,DEM,Logan,71
+Natrona,Grant School 1-6,U.S. Senate,,DEM,Sumey,63
+Natrona,Grant School 1-6,U.S. House,,REP,Cubin,138
+Natrona,Grant School 1-6,U.S. House,,REP,Herdt,35
+Natrona,Grant School 1-6,U.S. House,,REP,Wenino,49
+Natrona,Grant School 1-6,U.S. House,,DEM,Green,64
+Natrona,Grant School 1-6,U.S. House,,DEM,Munker,79
+Natrona,Grant School 1-6,State House,35,REP,Cohee,189
+Natrona,Grant School 1-6,Ballots Cast,,REP,Ballots Cast,225
+Natrona,Grant School 1-6,Ballots Cast,,DEM,Ballots Cast,150
+Natrona,Hat Six Ranch 5-1,U.S. Senate,,REP,Thomas,28
+Natrona,Hat Six Ranch 5-1,U.S. Senate,,DEM,Logan,8
+Natrona,Hat Six Ranch 5-1,U.S. Senate,,DEM,Sumey,1
+Natrona,Hat Six Ranch 5-1,U.S. House,,REP,Cubin,25
+Natrona,Hat Six Ranch 5-1,U.S. House,,REP,Herdt,0
+Natrona,Hat Six Ranch 5-1,U.S. House,,REP,Wenino,2
+Natrona,Hat Six Ranch 5-1,U.S. House,,DEM,Green,6
+Natrona,Hat Six Ranch 5-1,U.S. House,,DEM,Munker,3
+Natrona,Hat Six Ranch 5-1,State Senate,30,REP,Scott,23
+Natrona,Hat Six Ranch 5-1,State Senate,30,DEM,Horton,8
+Natrona,Hat Six Ranch 5-1,State House,38,REP,Brechtel,11
+Natrona,Hat Six Ranch 5-1,State House,38,REP,Paseneaux,14
+Natrona,Hat Six Ranch 5-1,State House,38,DEM,Brady,7
+Natrona,Hat Six Ranch 5-1,State House,38,DEM,Jolley,3
+Natrona,Hat Six Ranch 5-1,Ballots Cast,,REP,Ballots Cast,28
+Natrona,Hat Six Ranch 5-1,Ballots Cast,,DEM,Ballots Cast,10
+Natrona,Jefferson School 1-5,U.S. Senate,,REP,Thomas,213
+Natrona,Jefferson School 1-5,U.S. Senate,,DEM,Logan,67
+Natrona,Jefferson School 1-5,U.S. Senate,,DEM,Sumey,47
+Natrona,Jefferson School 1-5,U.S. House,,REP,Cubin,137
+Natrona,Jefferson School 1-5,U.S. House,,REP,Herdt,43
+Natrona,Jefferson School 1-5,U.S. House,,REP,Wenino,52
+Natrona,Jefferson School 1-5,U.S. House,,DEM,Green,52
+Natrona,Jefferson School 1-5,U.S. House,,DEM,Munker,66
+Natrona,Jefferson School 1-5,State Senate,28,REP,Walsh,191
+Natrona,Jefferson School 1-5,State Senate,28,DEM,Goodenough,113
+Natrona,Jefferson School 1-5,State House,57,REP,Lockhart,208
+Natrona,Jefferson School 1-5,State House,57,DEM,Stoval,120
+Natrona,Jefferson School 1-5,Ballots Cast,,REP,Ballots Cast,243
+Natrona,Jefferson School 1-5,Ballots Cast,,DEM,Ballots Cast,124
+Natrona,Kelly Walsh High School 3-5,U.S. Senate,,REP,Thomas,283
+Natrona,Kelly Walsh High School 3-5,U.S. Senate,,DEM,Logan,55
+Natrona,Kelly Walsh High School 3-5,U.S. Senate,,DEM,Sumey,42
+Natrona,Kelly Walsh High School 3-5,U.S. House,,REP,Cubin,206
+Natrona,Kelly Walsh High School 3-5,U.S. House,,REP,Herdt,50
+Natrona,Kelly Walsh High School 3-5,U.S. House,,REP,Wenino,38
+Natrona,Kelly Walsh High School 3-5,U.S. House,,DEM,Green,46
+Natrona,Kelly Walsh High School 3-5,U.S. House,,DEM,Munker,58
+Natrona,Kelly Walsh High School 3-5,State House,36,REP,Gay,235
+Natrona,Kelly Walsh High School 3-5,State House,36,DEM,Gentile,94
+Natrona,Kelly Walsh High School 3-5,Ballots Cast,,REP,Ballots Cast,308
+Natrona,Kelly Walsh High School 3-5,Ballots Cast,,DEM,Ballots Cast,106
+Natrona,Manor Heights School 3-6,U.S. Senate,,REP,Thomas,347
+Natrona,Manor Heights School 3-6,U.S. Senate,,DEM,Logan,46
+Natrona,Manor Heights School 3-6,U.S. Senate,,DEM,Sumey,38
+Natrona,Manor Heights School 3-6,U.S. House,,REP,Cubin,266
+Natrona,Manor Heights School 3-6,U.S. House,,REP,Herdt,60
+Natrona,Manor Heights School 3-6,U.S. House,,REP,Wenino,43
+Natrona,Manor Heights School 3-6,U.S. House,,DEM,Green,38
+Natrona,Manor Heights School 3-6,U.S. House,,DEM,Munker,49
+Natrona,Manor Heights School 3-6,State House,35,REP,Cohee,327
+Natrona,Manor Heights School 3-6,Ballots Cast,,REP,Ballots Cast,382
+Natrona,Manor Heights School 3-6,Ballots Cast,,DEM,Ballots Cast,100
+Natrona,McKinley School 1-10,U.S. Senate,,REP,Thomas,170
+Natrona,McKinley School 1-10,U.S. Senate,,DEM,Logan,109
+Natrona,McKinley School 1-10,U.S. Senate,,DEM,Sumey,54
+Natrona,McKinley School 1-10,U.S. House,,REP,Cubin,111
+Natrona,McKinley School 1-10,U.S. House,,REP,Herdt,39
+Natrona,McKinley School 1-10,U.S. House,,REP,Wenino,43
+Natrona,McKinley School 1-10,U.S. House,,DEM,Green,70
+Natrona,McKinley School 1-10,U.S. House,,DEM,Munker,88
+Natrona,McKinley School 1-10,State House,59,REP,Hanlin,162
+Natrona,McKinley School 1-10,State House,59,DEM,Sadler,151
+Natrona,McKinley School 1-10,Ballots Cast,,REP,Ballots Cast,195
+Natrona,McKinley School 1-10,Ballots Cast,,DEM,Ballots Cast,170
+Natrona,Midwest Town Hall 7-1,U.S. Senate,,REP,Thomas,50
+Natrona,Midwest Town Hall 7-1,U.S. Senate,,DEM,Logan,24
+Natrona,Midwest Town Hall 7-1,U.S. Senate,,DEM,Sumey,15
+Natrona,Midwest Town Hall 7-1,U.S. House,,REP,Cubin,36
+Natrona,Midwest Town Hall 7-1,U.S. House,,REP,Herdt,9
+Natrona,Midwest Town Hall 7-1,U.S. House,,REP,Wenino,4
+Natrona,Midwest Town Hall 7-1,U.S. House,,DEM,Green,22
+Natrona,Midwest Town Hall 7-1,U.S. House,,DEM,Munker,17
+Natrona,Midwest Town Hall 7-1,State Senate,30,REP,Scott,49
+Natrona,Midwest Town Hall 7-1,State Senate,30,DEM,Horton,35
+Natrona,Midwest Town Hall 7-1,State House,38,REP,Brechtel,19
+Natrona,Midwest Town Hall 7-1,State House,38,REP,Paseneaux,30
+Natrona,Midwest Town Hall 7-1,State House,38,DEM,Brady,15
+Natrona,Midwest Town Hall 7-1,State House,38,DEM,Jolley,23
+Natrona,Midwest Town Hall 7-1,Ballots Cast,,REP,Ballots Cast,51
+Natrona,Midwest Town Hall 7-1,Ballots Cast,,DEM,Ballots Cast,40
+Natrona,Mills Fire Hall 8-1,U.S. Senate,,REP,Thomas,174
+Natrona,Mills Fire Hall 8-1,U.S. Senate,,DEM,Logan,95
+Natrona,Mills Fire Hall 8-1,U.S. Senate,,DEM,Sumey,59
+Natrona,Mills Fire Hall 8-1,U.S. House,,REP,Cubin,124
+Natrona,Mills Fire Hall 8-1,U.S. House,,REP,Herdt,34
+Natrona,Mills Fire Hall 8-1,U.S. House,,REP,Wenino,28
+Natrona,Mills Fire Hall 8-1,U.S. House,,DEM,Green,67
+Natrona,Mills Fire Hall 8-1,U.S. House,,DEM,Munker,92
+Natrona,Mills Fire Hall 8-1,State Senate,30,REP,Scott,26
+Natrona,Mills Fire Hall 8-1,State Senate,30,DEM,Horton,29
+Natrona,Mills Fire Hall 8-1,State House,58,DEM,Robinson,29
+Natrona,Mills Fire Hall 8-1,State House,59,REP,Hanlin,135
+Natrona,Mills Fire Hall 8-1,State House,59,DEM,Sadler,127
+Natrona,Mills Fire Hall 8-1,Ballots Cast,,REP,Ballots Cast,189
+Natrona,Mills Fire Hall 8-1,Ballots Cast,,DEM,Ballots Cast,165
+Natrona,Mountain View School 8-2,U.S. Senate,,REP,Thomas,110
+Natrona,Mountain View School 8-2,U.S. Senate,,DEM,Logan,52
+Natrona,Mountain View School 8-2,U.S. Senate,,DEM,Sumey,51
+Natrona,Mountain View School 8-2,U.S. House,,REP,Cubin,78
+Natrona,Mountain View School 8-2,U.S. House,,REP,Herdt,31
+Natrona,Mountain View School 8-2,U.S. House,,REP,Wenino,11
+Natrona,Mountain View School 8-2,U.S. House,,DEM,Green,43
+Natrona,Mountain View School 8-2,U.S. House,,DEM,Munker,64
+Natrona,Mountain View School 8-2,State Senate,30,REP,Scott,46
+Natrona,Mountain View School 8-2,State Senate,30,DEM,Horton,50
+Natrona,Mountain View School 8-2,State House,58,DEM,Robinson,52
+Natrona,Mountain View School 8-2,State House,59,REP,Hanlin,60
+Natrona,Mountain View School 8-2,State House,59,DEM,Sadler,52
+Natrona,Mountain View School 8-2,Ballots Cast,,REP,Ballots Cast,122
+Natrona,Mountain View School 8-2,Ballots Cast,,DEM,Ballots Cast,108
+Natrona,National Guard Armory 9-1,U.S. Senate,,REP,Thomas,341
+Natrona,National Guard Armory 9-1,U.S. Senate,,DEM,Logan,51
+Natrona,National Guard Armory 9-1,U.S. Senate,,DEM,Sumey,33
+Natrona,National Guard Armory 9-1,U.S. House,,REP,Cubin,251
+Natrona,National Guard Armory 9-1,U.S. House,,REP,Herdt,62
+Natrona,National Guard Armory 9-1,U.S. House,,REP,Wenino,45
+Natrona,National Guard Armory 9-1,U.S. House,,DEM,Green,37
+Natrona,National Guard Armory 9-1,U.S. House,,DEM,Munker,50
+Natrona,National Guard Armory 9-1,State House,37,REP,Olson,158
+Natrona,National Guard Armory 9-1,State House,37,REP,Tempest,197
+Natrona,National Guard Armory 9-1,State House,59,REP,Hanlin,1
+Natrona,National Guard Armory 9-1,State House,59,DEM,Sadler,0
+Natrona,National Guard Armory 9-1,Ballots Cast,,REP,Ballots Cast,369
+Natrona,National Guard Armory 9-1,Ballots Cast,,DEM,Ballots Cast,93
+Natrona,Natrona County Library 1-2,U.S. Senate,,REP,Thomas,132
+Natrona,Natrona County Library 1-2,U.S. Senate,,DEM,Logan,59
+Natrona,Natrona County Library 1-2,U.S. Senate,,DEM,Sumey,44
+Natrona,Natrona County Library 1-2,U.S. House,,REP,Cubin,94
+Natrona,Natrona County Library 1-2,U.S. House,,REP,Herdt,25
+Natrona,Natrona County Library 1-2,U.S. House,,REP,Wenino,25
+Natrona,Natrona County Library 1-2,U.S. House,,DEM,Green,47
+Natrona,Natrona County Library 1-2,U.S. House,,DEM,Munker,55
+Natrona,Natrona County Library 1-2,State Senate,28,REP,Walsh,123
+Natrona,Natrona County Library 1-2,State Senate,28,DEM,Goodenough,98
+Natrona,Natrona County Library 1-2,State Senate,30,REP,Scott,4
+Natrona,Natrona County Library 1-2,State Senate,30,DEM,Horton,0
+Natrona,Natrona County Library 1-2,State House,56,REP,Nagel,124
+Natrona,Natrona County Library 1-2,State House,56,DEM,Herb,103
+Natrona,Natrona County Library 1-2,State House,58,DEM,Robinson,0
+Natrona,Natrona County Library 1-2,Ballots Cast,,REP,Ballots Cast,146
+Natrona,Natrona County Library 1-2,Ballots Cast,,DEM,Ballots Cast,108
+Natrona,Oregon Trail School 2-8,U.S. Senate,,REP,Thomas,235
+Natrona,Oregon Trail School 2-8,U.S. Senate,,DEM,Logan,66
+Natrona,Oregon Trail School 2-8,U.S. Senate,,DEM,Sumey,42
+Natrona,Oregon Trail School 2-8,U.S. House,,REP,Cubin,173
+Natrona,Oregon Trail School 2-8,U.S. House,,REP,Herdt,46
+Natrona,Oregon Trail School 2-8,U.S. House,,REP,Wenino,39
+Natrona,Oregon Trail School 2-8,U.S. House,,DEM,Green,52
+Natrona,Oregon Trail School 2-8,U.S. House,,DEM,Munker,58
+Natrona,Oregon Trail School 2-8,State Senate,30,REP,Scott,225
+Natrona,Oregon Trail School 2-8,State Senate,30,DEM,Horton,106
+Natrona,Oregon Trail School 2-8,State House,38,REP,Brechtel,154
+Natrona,Oregon Trail School 2-8,State House,38,REP,Paseneaux,102
+Natrona,Oregon Trail School 2-8,State House,38,DEM,Brady,46
+Natrona,Oregon Trail School 2-8,State House,38,DEM,Jolley,67
+Natrona,Oregon Trail School 2-8,Ballots Cast,,REP,Ballots Cast,263
+Natrona,Oregon Trail School 2-8,Ballots Cast,,DEM,Ballots Cast,113
+Natrona,Paradise Valley School 2-7,U.S. Senate,,REP,Thomas,359
+Natrona,Paradise Valley School 2-7,U.S. Senate,,DEM,Logan,107
+Natrona,Paradise Valley School 2-7,U.S. Senate,,DEM,Sumey,56
+Natrona,Paradise Valley School 2-7,U.S. House,,REP,Cubin,256
+Natrona,Paradise Valley School 2-7,U.S. House,,REP,Herdt,80
+Natrona,Paradise Valley School 2-7,U.S. House,,REP,Wenino,42
+Natrona,Paradise Valley School 2-7,U.S. House,,DEM,Green,73
+Natrona,Paradise Valley School 2-7,U.S. House,,DEM,Munker,93
+Natrona,Paradise Valley School 2-7,State Senate,30,REP,Scott,335
+Natrona,Paradise Valley School 2-7,State Senate,30,DEM,Horton,160
+Natrona,Paradise Valley School 2-7,State House,38,REP,Brechtel,191
+Natrona,Paradise Valley School 2-7,State House,38,REP,Paseneaux,182
+Natrona,Paradise Valley School 2-7,State House,38,DEM,Brady,65
+Natrona,Paradise Valley School 2-7,State House,38,DEM,Jolley,109
+Natrona,Paradise Valley School 2-7,Ballots Cast,,REP,Ballots Cast,388
+Natrona,Paradise Valley School 2-7,Ballots Cast,,DEM,Ballots Cast,180
+Natrona,Pineview School 3-3,U.S. Senate,,REP,Thomas,266
+Natrona,Pineview School 3-3,U.S. Senate,,DEM,Logan,90
+Natrona,Pineview School 3-3,U.S. Senate,,DEM,Sumey,68
+Natrona,Pineview School 3-3,U.S. House,,REP,Cubin,199
+Natrona,Pineview School 3-3,U.S. House,,REP,Herdt,42
+Natrona,Pineview School 3-3,U.S. House,,REP,Wenino,44
+Natrona,Pineview School 3-3,U.S. House,,DEM,Green,63
+Natrona,Pineview School 3-3,U.S. House,,DEM,Munker,97
+Natrona,Pineview School 3-3,State House,36,REP,Gay,253
+Natrona,Pineview School 3-3,State House,36,DEM,Gentile,159
+Natrona,Pineview School 3-3,Ballots Cast,,REP,Ballots Cast,289
+Natrona,Pineview School 3-3,Ballots Cast,,DEM,Ballots Cast,167
+Natrona,Poison Spider School 11-4,U.S. Senate,,REP,Thomas,34
+Natrona,Poison Spider School 11-4,U.S. Senate,,DEM,Logan,4
+Natrona,Poison Spider School 11-4,U.S. Senate,,DEM,Sumey,3
+Natrona,Poison Spider School 11-4,U.S. House,,REP,Cubin,27
+Natrona,Poison Spider School 11-4,U.S. House,,REP,Herdt,3
+Natrona,Poison Spider School 11-4,U.S. House,,REP,Wenino,5
+Natrona,Poison Spider School 11-4,U.S. House,,DEM,Green,2
+Natrona,Poison Spider School 11-4,U.S. House,,DEM,Munker,6
+Natrona,Poison Spider School 11-4,State Senate,30,REP,Scott,31
+Natrona,Poison Spider School 11-4,State Senate,30,DEM,Horton,8
+Natrona,Poison Spider School 11-4,State House,38,REP,Brechtel,5
+Natrona,Poison Spider School 11-4,State House,38,REP,Paseneaux,7
+Natrona,Poison Spider School 11-4,State House,38,DEM,Brady,2
+Natrona,Poison Spider School 11-4,State House,38,DEM,Jolley,2
+Natrona,Poison Spider School 11-4,State House,58,DEM,Robinson,4
+Natrona,Poison Spider School 11-4,Ballots Cast,,REP,Ballots Cast,36
+Natrona,Poison Spider School 11-4,Ballots Cast,,DEM,Ballots Cast,8
+Natrona,Powder River School 13-2,U.S. Senate,,REP,Thomas,46
+Natrona,Powder River School 13-2,U.S. Senate,,DEM,Logan,2
+Natrona,Powder River School 13-2,U.S. Senate,,DEM,Sumey,2
+Natrona,Powder River School 13-2,U.S. House,,REP,Cubin,42
+Natrona,Powder River School 13-2,U.S. House,,REP,Herdt,5
+Natrona,Powder River School 13-2,U.S. House,,REP,Wenino,1
+Natrona,Powder River School 13-2,U.S. House,,DEM,Green,2
+Natrona,Powder River School 13-2,U.S. House,,DEM,Munker,2
+Natrona,Powder River School 13-2,State Senate,30,REP,Scott,37
+Natrona,Powder River School 13-2,State Senate,30,DEM,Horton,3
+Natrona,Powder River School 13-2,State House,38,REP,Brechtel,8
+Natrona,Powder River School 13-2,State House,38,REP,Paseneaux,38
+Natrona,Powder River School 13-2,State House,38,DEM,Brady,1
+Natrona,Powder River School 13-2,State House,38,DEM,Jolley,3
+Natrona,Powder River School 13-2,Ballots Cast,,REP,Ballots Cast,48
+Natrona,Powder River School 13-2,Ballots Cast,,DEM,Ballots Cast,6
+Natrona,Red Creek School 11-1,U.S. Senate,,REP,Thomas,60
+Natrona,Red Creek School 11-1,U.S. Senate,,DEM,Logan,2
+Natrona,Red Creek School 11-1,U.S. Senate,,DEM,Sumey,2
+Natrona,Red Creek School 11-1,U.S. House,,REP,Cubin,48
+Natrona,Red Creek School 11-1,U.S. House,,REP,Herdt,5
+Natrona,Red Creek School 11-1,U.S. House,,REP,Wenino,6
+Natrona,Red Creek School 11-1,U.S. House,,DEM,Green,2
+Natrona,Red Creek School 11-1,U.S. House,,DEM,Munker,2
+Natrona,Red Creek School 11-1,State Senate,30,REP,Scott,58
+Natrona,Red Creek School 11-1,State Senate,30,DEM,Horton,3
+Natrona,Red Creek School 11-1,State House,38,REP,Brechtel,20
+Natrona,Red Creek School 11-1,State House,38,REP,Paseneaux,39
+Natrona,Red Creek School 11-1,State House,38,DEM,Brady,3
+Natrona,Red Creek School 11-1,State House,38,DEM,Jolley,1
+Natrona,Red Creek School 11-1,Ballots Cast,,REP,Ballots Cast,63
+Natrona,Red Creek School 11-1,Ballots Cast,,DEM,Ballots Cast,4
+Natrona,Roosevelt School 1-1,U.S. Senate,,REP,Thomas,71
+Natrona,Roosevelt School 1-1,U.S. Senate,,DEM,Logan,105
+Natrona,Roosevelt School 1-1,U.S. Senate,,DEM,Sumey,56
+Natrona,Roosevelt School 1-1,U.S. House,,REP,Cubin,48
+Natrona,Roosevelt School 1-1,U.S. House,,REP,Herdt,15
+Natrona,Roosevelt School 1-1,U.S. House,,REP,Wenino,14
+Natrona,Roosevelt School 1-1,U.S. House,,DEM,Green,63
+Natrona,Roosevelt School 1-1,U.S. House,,DEM,Munker,99
+Natrona,Roosevelt School 1-1,State Senate,28,REP,Walsh,2
+Natrona,Roosevelt School 1-1,State Senate,28,DEM,Goodenough,2
+Natrona,Roosevelt School 1-1,State Senate,30,REP,Scott,60
+Natrona,Roosevelt School 1-1,State Senate,30,DEM,Horton,154
+Natrona,Roosevelt School 1-1,State House,56,REP,Nagel,2
+Natrona,Roosevelt School 1-1,State House,56,DEM,Herb,3
+Natrona,Roosevelt School 1-1,State House,58,DEM,Robinson,154
+Natrona,Roosevelt School 1-1,Ballots Cast,,REP,Ballots Cast,78
+Natrona,Roosevelt School 1-1,Ballots Cast,,DEM,Ballots Cast,170
+Natrona,Seventh Day Adventist School 1-9,U.S. Senate,,REP,Thomas,200
+Natrona,Seventh Day Adventist School 1-9,U.S. Senate,,DEM,Logan,19
+Natrona,Seventh Day Adventist School 1-9,U.S. Senate,,DEM,Sumey,21
+Natrona,Seventh Day Adventist School 1-9,U.S. House,,REP,Cubin,157
+Natrona,Seventh Day Adventist School 1-9,U.S. House,,REP,Herdt,25
+Natrona,Seventh Day Adventist School 1-9,U.S. House,,REP,Wenino,26
+Natrona,Seventh Day Adventist School 1-9,U.S. House,,DEM,Green,16
+Natrona,Seventh Day Adventist School 1-9,U.S. House,,DEM,Munker,27
+Natrona,Seventh Day Adventist School 1-9,State Senate,28,REP,Walsh,167
+Natrona,Seventh Day Adventist School 1-9,State Senate,28,DEM,Goodenough,43
+Natrona,Seventh Day Adventist School 1-9,State House,35,REP,Cohee,6
+Natrona,Seventh Day Adventist School 1-9,State House,37,REP,Olson,0
+Natrona,Seventh Day Adventist School 1-9,State House,37,REP,Tempest,0
+Natrona,Seventh Day Adventist School 1-9,State House,56,REP,Nagel,175
+Natrona,Seventh Day Adventist School 1-9,State House,56,DEM,Herb,40
+Natrona,Seventh Day Adventist School 1-9,Ballots Cast,,REP,Ballots Cast,216
+Natrona,Seventh Day Adventist School 1-9,Ballots Cast,,DEM,Ballots Cast,49
+Natrona,Shepherd of the Hills Church 2-6,U.S. Senate,,REP,Thomas,314
+Natrona,Shepherd of the Hills Church 2-6,U.S. Senate,,DEM,Logan,33
+Natrona,Shepherd of the Hills Church 2-6,U.S. Senate,,DEM,Sumey,44
+Natrona,Shepherd of the Hills Church 2-6,U.S. House,,REP,Cubin,231
+Natrona,Shepherd of the Hills Church 2-6,U.S. House,,REP,Herdt,48
+Natrona,Shepherd of the Hills Church 2-6,U.S. House,,REP,Wenino,40
+Natrona,Shepherd of the Hills Church 2-6,U.S. House,,DEM,Green,26
+Natrona,Shepherd of the Hills Church 2-6,U.S. House,,DEM,Munker,54
+Natrona,Shepherd of the Hills Church 2-6,State House,37,REP,Olson,98
+Natrona,Shepherd of the Hills Church 2-6,State House,37,REP,Tempest,228
+Natrona,Shepherd of the Hills Church 2-6,Ballots Cast,,REP,Ballots Cast,336
+Natrona,Shepherd of the Hills Church 2-6,Ballots Cast,,DEM,Ballots Cast,85
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. Senate,,REP,Thomas,215
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. Senate,,DEM,Logan,63
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. Senate,,DEM,Sumey,33
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. House,,REP,Cubin,150
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. House,,REP,Herdt,53
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. House,,REP,Wenino,18
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. House,,DEM,Green,43
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. House,,DEM,Munker,57
+Natrona,Shepherd of the Valley Care Ctr 2-9,State Senate,30,REP,Scott,192
+Natrona,Shepherd of the Valley Care Ctr 2-9,State Senate,30,DEM,Horton,91
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,37,REP,Olson,0
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,37,REP,Tempest,0
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,38,REP,Brechtel,92
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,38,REP,Paseneaux,125
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,38,DEM,Brady,42
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,38,DEM,Jolley,60
+Natrona,Shepherd of the Valley Care Ctr 2-9,Ballots Cast,,REP,Ballots Cast,228
+Natrona,Shepherd of the Valley Care Ctr 2-9,Ballots Cast,,DEM,Ballots Cast,105
+Natrona,Southridge School 2-4,U.S. Senate,,REP,Thomas,165
+Natrona,Southridge School 2-4,U.S. Senate,,DEM,Logan,44
+Natrona,Southridge School 2-4,U.S. Senate,,DEM,Sumey,40
+Natrona,Southridge School 2-4,U.S. House,,REP,Cubin,110
+Natrona,Southridge School 2-4,U.S. House,,REP,Herdt,35
+Natrona,Southridge School 2-4,U.S. House,,REP,Wenino,31
+Natrona,Southridge School 2-4,U.S. House,,DEM,Green,39
+Natrona,Southridge School 2-4,U.S. House,,DEM,Munker,49
+Natrona,Southridge School 2-4,State House,37,REP,Olson,66
+Natrona,Southridge School 2-4,State House,37,REP,Tempest,113
+Natrona,Southridge School 2-4,Ballots Cast,,REP,Ballots Cast,184
+Natrona,Southridge School 2-4,Ballots Cast,,DEM,Ballots Cast,91
+Natrona,St. Stephen's Church 12-2,U.S. Senate,,REP,Thomas,69
+Natrona,St. Stephen's Church 12-2,U.S. Senate,,DEM,Logan,12
+Natrona,St. Stephen's Church 12-2,U.S. Senate,,DEM,Sumey,16
+Natrona,St. Stephen's Church 12-2,U.S. House,,REP,Cubin,51
+Natrona,St. Stephen's Church 12-2,U.S. House,,REP,Herdt,13
+Natrona,St. Stephen's Church 12-2,U.S. House,,REP,Wenino,10
+Natrona,St. Stephen's Church 12-2,U.S. House,,DEM,Green,13
+Natrona,St. Stephen's Church 12-2,U.S. House,,DEM,Munker,15
+Natrona,St. Stephen's Church 12-2,State House,35,REP,Cohee,69
+Natrona,St. Stephen's Church 12-2,Ballots Cast,,REP,Ballots Cast,76
+Natrona,St. Stephen's Church 12-2,Ballots Cast,,DEM,Ballots Cast,29
+Natrona,University Park School 3-2,U.S. Senate,,REP,Thomas,116
+Natrona,University Park School 3-2,U.S. Senate,,DEM,Logan,68
+Natrona,University Park School 3-2,U.S. Senate,,DEM,Sumey,36
+Natrona,University Park School 3-2,U.S. House,,REP,Cubin,76
+Natrona,University Park School 3-2,U.S. House,,REP,Herdt,24
+Natrona,University Park School 3-2,U.S. House,,REP,Wenino,18
+Natrona,University Park School 3-2,U.S. House,,DEM,Green,52
+Natrona,University Park School 3-2,U.S. House,,DEM,Munker,55
+Natrona,University Park School 3-2,State House,36,REP,Gay,102
+Natrona,University Park School 3-2,State House,36,DEM,Gentile,97
+Natrona,University Park School 3-2,Ballots Cast,,REP,Ballots Cast,122
+Natrona,University Park School 3-2,Ballots Cast,,DEM,Ballots Cast,111
+Natrona,Upper Willow Creek School 14-1,U.S. Senate,,REP,Thomas,8
+Natrona,Upper Willow Creek School 14-1,U.S. Senate,,DEM,Logan,1
+Natrona,Upper Willow Creek School 14-1,U.S. Senate,,DEM,Sumey,0
+Natrona,Upper Willow Creek School 14-1,U.S. House,,REP,Cubin,7
+Natrona,Upper Willow Creek School 14-1,U.S. House,,REP,Herdt,0
+Natrona,Upper Willow Creek School 14-1,U.S. House,,REP,Wenino,0
+Natrona,Upper Willow Creek School 14-1,U.S. House,,DEM,Green,1
+Natrona,Upper Willow Creek School 14-1,U.S. House,,DEM,Munker,0
+Natrona,Upper Willow Creek School 14-1,State Senate,30,REP,Scott,6
+Natrona,Upper Willow Creek School 14-1,State Senate,30,DEM,Horton,1
+Natrona,Upper Willow Creek School 14-1,State House,38,REP,Brechtel,2
+Natrona,Upper Willow Creek School 14-1,State House,38,REP,Paseneaux,4
+Natrona,Upper Willow Creek School 14-1,State House,38,DEM,Brady,1
+Natrona,Upper Willow Creek School 14-1,State House,38,DEM,Jolley,0
+Natrona,Upper Willow Creek School 14-1,Ballots Cast,,REP,Ballots Cast,8
+Natrona,Upper Willow Creek School 14-1,Ballots Cast,,DEM,Ballots Cast,2
+Natrona,Verda James School 3-9,U.S. Senate,,REP,Thomas,168
+Natrona,Verda James School 3-9,U.S. Senate,,DEM,Logan,36
+Natrona,Verda James School 3-9,U.S. Senate,,DEM,Sumey,29
+Natrona,Verda James School 3-9,U.S. House,,REP,Cubin,123
+Natrona,Verda James School 3-9,U.S. House,,REP,Herdt,33
+Natrona,Verda James School 3-9,U.S. House,,REP,Wenino,18
+Natrona,Verda James School 3-9,U.S. House,,DEM,Green,27
+Natrona,Verda James School 3-9,U.S. House,,DEM,Munker,42
+Natrona,Verda James School 3-9,State House,36,REP,Gay,148
+Natrona,Verda James School 3-9,State House,36,DEM,Gentile,67
+Natrona,Verda James School 3-9,Ballots Cast,,REP,Ballots Cast,179
+Natrona,Verda James School 3-9,Ballots Cast,,DEM,Ballots Cast,75
+Natrona,Vista West Church 8-4,U.S. Senate,,REP,Thomas,230
+Natrona,Vista West Church 8-4,U.S. Senate,,DEM,Logan,54
+Natrona,Vista West Church 8-4,U.S. Senate,,DEM,Sumey,39
+Natrona,Vista West Church 8-4,U.S. House,,REP,Cubin,168
+Natrona,Vista West Church 8-4,U.S. House,,REP,Herdt,39
+Natrona,Vista West Church 8-4,U.S. House,,REP,Wenino,29
+Natrona,Vista West Church 8-4,U.S. House,,DEM,Green,46
+Natrona,Vista West Church 8-4,U.S. House,,DEM,Munker,53
+Natrona,Vista West Church 8-4,State Senate,30,REP,Scott,216
+Natrona,Vista West Church 8-4,State Senate,30,DEM,Horton,95
+Natrona,Vista West Church 8-4,State House,58,DEM,Robinson,91
+Natrona,Vista West Church 8-4,Ballots Cast,,REP,Ballots Cast,240
+Natrona,Vista West Church 8-4,Ballots Cast,,DEM,Ballots Cast,103
+Natrona,Wardwell Water & Sewer 8-3,U.S. Senate,,REP,Thomas,104
+Natrona,Wardwell Water & Sewer 8-3,U.S. Senate,,DEM,Logan,38
+Natrona,Wardwell Water & Sewer 8-3,U.S. Senate,,DEM,Sumey,21
+Natrona,Wardwell Water & Sewer 8-3,U.S. House,,REP,Cubin,71
+Natrona,Wardwell Water & Sewer 8-3,U.S. House,,REP,Herdt,20
+Natrona,Wardwell Water & Sewer 8-3,U.S. House,,REP,Wenino,15
+Natrona,Wardwell Water & Sewer 8-3,U.S. House,,DEM,Green,23
+Natrona,Wardwell Water & Sewer 8-3,U.S. House,,DEM,Munker,36
+Natrona,Wardwell Water & Sewer 8-3,State Senate,30,REP,Scott,102
+Natrona,Wardwell Water & Sewer 8-3,State Senate,30,DEM,Horton,58
+Natrona,Wardwell Water & Sewer 8-3,State House,58,DEM,Robinson,58
+Natrona,Wardwell Water & Sewer 8-3,Ballots Cast,,REP,Ballots Cast,111
+Natrona,Wardwell Water & Sewer 8-3,Ballots Cast,,DEM,Ballots Cast,60
+Natrona,Westwood School 2-1,U.S. Senate,,REP,Thomas,258
+Natrona,Westwood School 2-1,U.S. Senate,,DEM,Logan,101
+Natrona,Westwood School 2-1,U.S. Senate,,DEM,Sumey,72
+Natrona,Westwood School 2-1,U.S. House,,REP,Cubin,166
+Natrona,Westwood School 2-1,U.S. House,,REP,Herdt,58
+Natrona,Westwood School 2-1,U.S. House,,REP,Wenino,41
+Natrona,Westwood School 2-1,U.S. House,,DEM,Green,82
+Natrona,Westwood School 2-1,U.S. House,,DEM,Munker,93
+Natrona,Westwood School 2-1,State House,59,REP,Hanlin,237
+Natrona,Westwood School 2-1,State House,59,DEM,Sadler,169
+Natrona,Westwood School 2-1,Ballots Cast,,REP,Ballots Cast,275
+Natrona,Westwood School 2-1,Ballots Cast,,DEM,Ballots Cast,183
+Natrona,Willard School 3-1,U.S. Senate,,REP,Thomas,149
+Natrona,Willard School 3-1,U.S. Senate,,DEM,Logan,61
+Natrona,Willard School 3-1,U.S. Senate,,DEM,Sumey,37
+Natrona,Willard School 3-1,U.S. House,,REP,Cubin,104
+Natrona,Willard School 3-1,U.S. House,,REP,Herdt,31
+Natrona,Willard School 3-1,U.S. House,,REP,Wenino,20
+Natrona,Willard School 3-1,U.S. House,,DEM,Green,49
+Natrona,Willard School 3-1,U.S. House,,DEM,Munker,54
+Natrona,Willard School 3-1,State Senate,28,REP,Walsh,142
+Natrona,Willard School 3-1,State Senate,28,DEM,Goodenough,101
+Natrona,Willard School 3-1,State House,56,REP,Nagel,142
+Natrona,Willard School 3-1,State House,56,DEM,Herb,99
+Natrona,Willard School 3-1,Ballots Cast,,REP,Ballots Cast,157
+Natrona,Willard School 3-1,Ballots Cast,,DEM,Ballots Cast,106

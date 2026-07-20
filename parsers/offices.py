@@ -70,6 +70,7 @@ PARTY_ALIASES = {
     "non partisan": PARTY_NP,
     "nl": PARTY_NL,
     "(nl)": PARTY_NL,
+    "n": PARTY_NL,  # 2000 general used "(N)" for Natural Law (Hagelin)
     "ref": PARTY_REF,
     "reform": PARTY_REF,
     "(ref)": PARTY_REF,

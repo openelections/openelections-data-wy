@@ -1,0 +1,482 @@
+county,office,district,party,candidate,votes
+Albany,President,,REP,Bush,7814
+Albany,President,,DEM,Gore,5069
+Albany,President,,LIB,Browne,128
+Albany,President,,IND,Phillips,35
+Albany,President,,NL,Hagelin,46
+Albany,President,,REF,Buchanan,71
+Albany,U.S. Senate,,REP,Thomas,8884
+Albany,U.S. Senate,,DEM,Logan,4106
+Albany,U.S. Senate,,LIB,Dawson,778
+Albany,U.S. House,,REP,Cubin,7641
+Albany,U.S. House,,DEM,Green,5103
+Albany,U.S. House,,LIB,Stock,531
+Albany,U.S. House,,NL,Raymond,295
+Albany,State Senate,10,REP,Devin,4190
+Albany,State Senate,10,DEM,Murphy,2782
+Albany,State Senate,10,LIB,O'Reilly,387
+Albany,State House,13,DEM,Warren,2008
+Albany,State House,14,REP,Nicholas,1780
+Albany,State House,14,DEM,Saulino-Klein,1404
+Albany,State House,45,DEM,Johnson,2386
+Albany,State House,46,REP,Slater,2262
+Albany,State House,46,DEM,Hanson,1852
+Albany,State House,47,REP,Willford,88
+Albany,State House,47,DEM,McGuire,53
+Albany,Ballots Cast,,,Ballots Cast,14417
+Big Horn,President,,REP,Bush,3720
+Big Horn,President,,DEM,Gore,1004
+Big Horn,President,,LIB,Browne,27
+Big Horn,President,,IND,Phillips,12
+Big Horn,President,,NL,Hagelin,4
+Big Horn,President,,REF,Buchanan,111
+Big Horn,U.S. Senate,,REP,Thomas,3972
+Big Horn,U.S. Senate,,DEM,Logan,598
+Big Horn,U.S. Senate,,LIB,Dawson,201
+Big Horn,U.S. House,,REP,Cubin,3781
+Big Horn,U.S. House,,DEM,Green,778
+Big Horn,U.S. House,,LIB,Stock,118
+Big Horn,U.S. House,,NL,Raymond,59
+Big Horn,State Senate,20,REP,Geis,909
+Big Horn,State House,25,REP,Jones,184
+Big Horn,State House,26,REP,Hessenthaler,2364
+Big Horn,State House,26,DEM,Amend,1195
+Big Horn,State House,28,REP,Baker,901
+Big Horn,Ballots Cast,,,Ballots Cast,5016
+Campbell,President,,REP,Bush,10203
+Campbell,President,,DEM,Gore,1967
+Campbell,President,,LIB,Browne,61
+Campbell,President,,IND,Phillips,43
+Campbell,President,,NL,Hagelin,14
+Campbell,President,,REF,Buchanan,166
+Campbell,U.S. Senate,,REP,Thomas,10005
+Campbell,U.S. Senate,,DEM,Logan,1557
+Campbell,U.S. Senate,,LIB,Dawson,434
+Campbell,U.S. House,,REP,Cubin,9832
+Campbell,U.S. House,,DEM,Green,2149
+Campbell,U.S. House,,LIB,Stock,291
+Campbell,U.S. House,,NL,Raymond,125
+Campbell,State Senate,24,REP,Erb,4037
+Campbell,State Senate,24,DEM,Calhoun,1671
+Campbell,State House,31,REP,Hines,2129
+Campbell,State House,31,DEM,Claar,987
+Campbell,State House,32,REP,Wasserburger,2666
+Campbell,State House,32,DEM,Jenniges,541
+Campbell,State House,52,REP,McMurtrey,2670
+Campbell,State House,53,DEM,Deegan,1358
+Campbell,Ballots Cast,,,Ballots Cast,12737
+Carbon,President,,REP,Bush,4498
+Carbon,President,,DEM,Gore,2206
+Carbon,President,,LIB,Browne,54
+Carbon,President,,IND,Phillips,32
+Carbon,President,,NL,Hagelin,7
+Carbon,President,,REF,Buchanan,66
+Carbon,U.S. Senate,,REP,Thomas,4775
+Carbon,U.S. Senate,,DEM,Logan,1791
+Carbon,U.S. Senate,,LIB,Dawson,312
+Carbon,U.S. House,,REP,Cubin,4318
+Carbon,U.S. House,,DEM,Green,2209
+Carbon,U.S. House,,LIB,Stock,170
+Carbon,U.S. House,,NL,Raymond,91
+Carbon,State Senate,12,REP,Stith,138
+Carbon,State Senate,12,DEM,Job,87
+Carbon,State House,15,REP,Rose,2024
+Carbon,State House,15,DEM,Medina,1153
+Carbon,State House,16,REP,Watt,151
+Carbon,State House,16,DEM,Levitt,67
+Carbon,State House,47,REP,Willford,2086
+Carbon,State House,47,DEM,McGuire,1309
+Carbon,Ballots Cast,,,Ballots Cast,7014
+Converse,President,,REP,Bush,3919
+Converse,President,,DEM,Gore,1076
+Converse,President,,LIB,Browne,39
+Converse,President,,IND,Phillips,34
+Converse,President,,NL,Hagelin,11
+Converse,President,,REF,Buchanan,64
+Converse,U.S. Senate,,REP,Thomas,4125
+Converse,U.S. Senate,,DEM,Logan,887
+Converse,U.S. Senate,,LIB,Dawson,168
+Converse,U.S. House,,REP,Cubin,3648
+Converse,U.S. House,,DEM,Green,1182
+Converse,U.S. House,,LIB,Stock,261
+Converse,U.S. House,,NL,Raymond,38
+Converse,State Senate,2,REP,Anderson,3177
+Converse,State Senate,2,DEM,Beckstead,1938
+Converse,State House,2,DEM,Diercks,45
+Converse,State House,5,REP,Hageman,1143
+Converse,State House,5,LIB,Spungin,207
+Converse,State House,6,REP,Edwards,2945
+Converse,Ballots Cast,,,Ballots Cast,5319
+Crook,President,,REP,Bush,2289
+Crook,President,,DEM,Gore,361
+Crook,President,,LIB,Browne,20
+Crook,President,,IND,Phillips,5
+Crook,President,,NL,Hagelin,3
+Crook,President,,REF,Buchanan,28
+Crook,U.S. Senate,,REP,Thomas,2330
+Crook,U.S. Senate,,DEM,Logan,316
+Crook,U.S. Senate,,LIB,Dawson,94
+Crook,U.S. House,,REP,Cubin,2259
+Crook,U.S. House,,DEM,Green,389
+Crook,U.S. House,,LIB,Stock,55
+Crook,U.S. House,,NL,Raymond,23
+Crook,State House,1,REP,Simons,2094
+Crook,State House,1,DEM,Dodson,588
+Crook,Ballots Cast,,,Ballots Cast,2780
+Fremont,President,,REP,Bush,10560
+Fremont,President,,DEM,Gore,4172
+Fremont,President,,LIB,Browne,97
+Fremont,President,,IND,Phillips,35
+Fremont,President,,NL,Hagelin,38
+Fremont,President,,REF,Buchanan,238
+Fremont,U.S. Senate,,REP,Thomas,11293
+Fremont,U.S. Senate,,DEM,Logan,3299
+Fremont,U.S. Senate,,LIB,Dawson,611
+Fremont,U.S. House,,REP,Cubin,10181
+Fremont,U.S. House,,DEM,Green,4250
+Fremont,U.S. House,,LIB,Stock,401
+Fremont,U.S. House,,NL,Raymond,206
+Fremont,State Senate,12,REP,Stith,110
+Fremont,State Senate,12,DEM,Job,33
+Fremont,State Senate,26,REP,Peck,5464
+Fremont,State Senate,30,REP,Scott,37
+Fremont,State Senate,30,DEM,Horton,9
+Fremont,State House,16,REP,Watt,118
+Fremont,State House,16,DEM,Levitt,21
+Fremont,State House,22,REP,Shivler,921
+Fremont,State House,33,REP,Tipton,2641
+Fremont,State House,34,REP,Philp,2854
+Fremont,State House,38,REP,Paseneaux,37
+Fremont,State House,38,DEM,Jolley,9
+Fremont,State House,54,REP,McOmie,3124
+Fremont,State House,54,LIB,Brossman,608
+Fremont,State House,55,REP,Miller,1943
+Fremont,State House,55,DEM,Bebout,1310
+Fremont,Ballots Cast,,,Ballots Cast,15592
+Goshen,President,,REP,Bush,3922
+Goshen,President,,DEM,Gore,1439
+Goshen,President,,LIB,Browne,24
+Goshen,President,,IND,Phillips,30
+Goshen,President,,NL,Hagelin,7
+Goshen,President,,REF,Buchanan,71
+Goshen,U.S. Senate,,REP,Thomas,4014
+Goshen,U.S. Senate,,DEM,Logan,1036
+Goshen,U.S. Senate,,LIB,Dawson,171
+Goshen,U.S. House,,REP,Cubin,3972
+Goshen,U.S. House,,DEM,Green,1323
+Goshen,U.S. House,,LIB,Stock,142
+Goshen,U.S. House,,NL,Raymond,57
+Goshen,State Senate,2,REP,Anderson,891
+Goshen,State Senate,2,DEM,Beckstead,413
+Goshen,State House,2,DEM,Diercks,73
+Goshen,State House,3,REP,Stafford,515
+Goshen,State House,4,REP,Huckfeldt,2841
+Goshen,State House,5,REP,Hageman,1061
+Goshen,State House,5,LIB,Spungin,236
+Goshen,Ballots Cast,,,Ballots Cast,5748
+Hot Springs,President,,REP,Bush,1733
+Hot Springs,President,,DEM,Gore,544
+Hot Springs,President,,LIB,Browne,21
+Hot Springs,President,,IND,Phillips,5
+Hot Springs,President,,NL,Hagelin,2
+Hot Springs,President,,REF,Buchanan,34
+Hot Springs,U.S. Senate,,REP,Thomas,1769
+Hot Springs,U.S. Senate,,DEM,Logan,359
+Hot Springs,U.S. Senate,,LIB,Dawson,63
+Hot Springs,U.S. House,,REP,Cubin,1524
+Hot Springs,U.S. House,,DEM,Green,459
+Hot Springs,U.S. House,,LIB,Stock,51
+Hot Springs,U.S. House,,NL,Raymond,17
+Hot Springs,State Senate,20,REP,Geis,1687
+Hot Springs,State House,28,REP,Baker,1822
+Hot Springs,Ballots Cast,,,Ballots Cast,2391
+Johnson,President,,REP,Bush,2886
+Johnson,President,,DEM,Gore,555
+Johnson,President,,LIB,Browne,21
+Johnson,President,,IND,Phillips,10
+Johnson,President,,NL,Hagelin,3
+Johnson,President,,REF,Buchanan,42
+Johnson,U.S. Senate,,REP,Thomas,2828
+Johnson,U.S. Senate,,DEM,Logan,316
+Johnson,U.S. Senate,,LIB,Dawson,88
+Johnson,U.S. House,,REP,Cubin,2643
+Johnson,U.S. House,,DEM,Green,431
+Johnson,U.S. House,,LIB,Stock,67
+Johnson,U.S. House,,NL,Raymond,42
+Johnson,State Senate,22,REP,Schiffer,2905
+Johnson,State House,40,REP,Osborn,2862
+Johnson,Ballots Cast,,,Ballots Cast,3638
+Laramie,President,,REP,Bush,21797
+Laramie,President,,DEM,Gore,12162
+Laramie,President,,LIB,Browne,185
+Laramie,President,,IND,Phillips,122
+Laramie,President,,NL,Hagelin,47
+Laramie,President,,REF,Buchanan,402
+Laramie,U.S. Senate,,REP,Thomas,24230
+Laramie,U.S. Senate,,DEM,Logan,9314
+Laramie,U.S. Senate,,LIB,Dawson,1300
+Laramie,U.S. House,,REP,Cubin,20676
+Laramie,U.S. House,,DEM,Green,12125
+Laramie,U.S. House,,LIB,Stock,1059
+Laramie,U.S. House,,NL,Raymond,377
+Laramie,State Senate,4,REP,Kunz,5583
+Laramie,State Senate,4,DEM,Tuma,2990
+Laramie,State Senate,6,REP,Moore,3285
+Laramie,State Senate,6,DEM,Cathcart,4363
+Laramie,State Senate,8,DEM,Mockler,4092
+Laramie,State House,7,REP,Ross,3722
+Laramie,State House,7,DEM,Bierma,1464
+Laramie,State House,8,REP,Meuli,1974
+Laramie,State House,8,DEM,Barrett,1880
+Laramie,State House,9,REP,Johnson,2840
+Laramie,State House,10,REP,Anderson,3389
+Laramie,State House,11,DEM,Reese,2300
+Laramie,State House,12,REP,Campbell,1101
+Laramie,State House,12,DEM,Morgan,1484
+Laramie,State House,41,DEM,McGraw,2684
+Laramie,State House,42,REP,Illoway,2428
+Laramie,State House,43,REP,Samuelson,2373
+Laramie,State House,44,REP,Hill,1036
+Laramie,State House,44,DEM,Esquibel,1510
+Laramie,Ballots Cast,,,Ballots Cast,35597
+Lincoln,President,,REP,Bush,5415
+Lincoln,President,,DEM,Gore,1184
+Lincoln,President,,LIB,Browne,39
+Lincoln,President,,IND,Phillips,24
+Lincoln,President,,NL,Hagelin,2
+Lincoln,President,,REF,Buchanan,98
+Lincoln,U.S. Senate,,REP,Thomas,5519
+Lincoln,U.S. Senate,,DEM,Logan,1075
+Lincoln,U.S. Senate,,LIB,Dawson,207
+Lincoln,U.S. House,,REP,Cubin,5261
+Lincoln,U.S. House,,DEM,Green,1281
+Lincoln,U.S. House,,LIB,Stock,134
+Lincoln,U.S. House,,NL,Raymond,64
+Lincoln,State Senate,16,REP,Roberts,5963
+Lincoln,State House,20,REP,Tomassi,1093
+Lincoln,State House,20,DEM,Linville,1052
+Lincoln,State House,21,REP,Luthi,4110
+Lincoln,Ballots Cast,,,Ballots Cast,6953
+Natrona,President,,REP,Bush,18439
+Natrona,President,,DEM,Gore,8646
+Natrona,President,,LIB,Browne,195
+Natrona,President,,IND,Phillips,86
+Natrona,President,,NL,Hagelin,61
+Natrona,President,,REF,Buchanan,371
+Natrona,U.S. Senate,,REP,Thomas,20274
+Natrona,U.S. Senate,,DEM,Logan,6312
+Natrona,U.S. Senate,,LIB,Dawson,1340
+Natrona,U.S. House,,REP,Cubin,16832
+Natrona,U.S. House,,DEM,Green,9066
+Natrona,U.S. House,,LIB,Stock,1089
+Natrona,U.S. House,,NL,Raymond,489
+Natrona,State Senate,28,REP,Walsh,3341
+Natrona,State Senate,28,DEM,Goodenough,3431
+Natrona,State Senate,30,REP,Scott,4035
+Natrona,State Senate,30,DEM,Horton,2170
+Natrona,State House,35,REP,Cohee,3125
+Natrona,State House,36,REP,Gay,1798
+Natrona,State House,36,DEM,Gentile,1673
+Natrona,State House,37,REP,Tempest,3456
+Natrona,State House,38,REP,Paseneaux,1380
+Natrona,State House,38,DEM,Jolley,1258
+Natrona,State House,56,REP,Nagel,1990
+Natrona,State House,56,DEM,Herb,1409
+Natrona,State House,57,REP,Lockhart,1815
+Natrona,State House,57,DEM,Stoval,1485
+Natrona,State House,58,REP,Stark,1347
+Natrona,State House,58,DEM,Robinson,1394
+Natrona,State House,59,REP,Hanlin,1211
+Natrona,State House,59,DEM,Sadler,1912
+Natrona,Ballots Cast,,,Ballots Cast,28674
+Niobrara,President,,REP,Bush,888
+Niobrara,President,,DEM,Gore,190
+Niobrara,President,,LIB,Browne,3
+Niobrara,President,,IND,Phillips,10
+Niobrara,President,,NL,Hagelin,2
+Niobrara,President,,REF,Buchanan,18
+Niobrara,U.S. Senate,,REP,Thomas,929
+Niobrara,U.S. Senate,,DEM,Logan,120
+Niobrara,U.S. Senate,,LIB,Dawson,36
+Niobrara,U.S. House,,REP,Cubin,892
+Niobrara,U.S. House,,DEM,Green,176
+Niobrara,U.S. House,,LIB,Stock,32
+Niobrara,U.S. House,,NL,Raymond,13
+Niobrara,State House,2,DEM,Diercks,1008
+Niobrara,Ballots Cast,,,Ballots Cast,1175
+Park,President,,REP,Bush,9884
+Park,President,,DEM,Gore,2424
+Park,President,,LIB,Browne,98
+Park,President,,IND,Phillips,34
+Park,President,,NL,Hagelin,16
+Park,President,,REF,Buchanan,153
+Park,U.S. Senate,,REP,Thomas,10421
+Park,U.S. Senate,,DEM,Logan,1890
+Park,U.S. Senate,,LIB,Dawson,420
+Park,U.S. House,,REP,Cubin,9549
+Park,U.S. House,,DEM,Green,2538
+Park,U.S. House,,LIB,Stock,348
+Park,U.S. House,,NL,Raymond,102
+Park,State Senate,18,REP,Coe,7801
+Park,State House,24,REP,Simpson,3990
+Park,State House,25,REP,Jones,2898
+Park,State House,50,REP,Childers,2936
+Park,State House,50,DEM,Capron,1567
+Park,Ballots Cast,,,Ballots Cast,13019
+Platte,President,,REP,Bush,2925
+Platte,President,,DEM,Gore,1249
+Platte,President,,LIB,Browne,30
+Platte,President,,IND,Phillips,24
+Platte,President,,NL,Hagelin,9
+Platte,President,,REF,Buchanan,67
+Platte,U.S. Senate,,REP,Thomas,3263
+Platte,U.S. Senate,,DEM,Logan,874
+Platte,U.S. Senate,,LIB,Dawson,209
+Platte,U.S. House,,REP,Cubin,3000
+Platte,U.S. House,,DEM,Green,1140
+Platte,U.S. House,,LIB,Stock,121
+Platte,U.S. House,,NL,Raymond,59
+Platte,State Senate,2,REP,Anderson,510
+Platte,State Senate,2,DEM,Beckstead,440
+Platte,State House,3,REP,Stafford,2760
+Platte,State House,5,REP,Hageman,692
+Platte,State House,5,LIB,Spungin,214
+Platte,Ballots Cast,,,Ballots Cast,4496
+Sheridan,President,,REP,Bush,8424
+Sheridan,President,,DEM,Gore,3330
+Sheridan,President,,LIB,Browne,92
+Sheridan,President,,IND,Phillips,40
+Sheridan,President,,NL,Hagelin,21
+Sheridan,President,,REF,Buchanan,121
+Sheridan,U.S. Senate,,REP,Thomas,8803
+Sheridan,U.S. Senate,,DEM,Logan,2729
+Sheridan,U.S. Senate,,LIB,Dawson,645
+Sheridan,U.S. House,,REP,Cubin,7979
+Sheridan,U.S. House,,DEM,Green,3581
+Sheridan,U.S. House,,LIB,Stock,341
+Sheridan,U.S. House,,NL,Raymond,151
+Sheridan,State Senate,22,REP,Schiffer,3867
+Sheridan,State House,29,REP,Iekel,2421
+Sheridan,State House,29,LIB,Kuball,616
+Sheridan,State House,30,REP,"Landon, Jr.",2469
+Sheridan,State House,30,DEM,May,1438
+Sheridan,State House,40,REP,Osborn,653
+Sheridan,State House,51,REP,Burns,3648
+Sheridan,Ballots Cast,,,Ballots Cast,12473
+Sublette,President,,REP,Bush,2624
+Sublette,President,,DEM,Gore,458
+Sublette,President,,LIB,Browne,32
+Sublette,President,,IND,Phillips,10
+Sublette,President,,NL,Hagelin,3
+Sublette,President,,REF,Buchanan,42
+Sublette,U.S. Senate,,REP,Thomas,2265
+Sublette,U.S. Senate,,DEM,Logan,329
+Sublette,U.S. Senate,,LIB,Dawson,102
+Sublette,U.S. House,,REP,Cubin,2501
+Sublette,U.S. House,,DEM,Green,548
+Sublette,U.S. House,,LIB,Stock,107
+Sublette,U.S. House,,NL,Raymond,26
+Sublette,State Senate,16,REP,Roberts,1258
+Sublette,State House,20,REP,Tomassi,1053
+Sublette,State House,20,DEM,Linville,371
+Sublette,State House,22,REP,Shivler,1437
+Sublette,Ballots Cast,,,Ballots Cast,3297
+Sweetwater,President,,REP,Bush,9425
+Sweetwater,President,,DEM,Gore,5521
+Sweetwater,President,,LIB,Browne,112
+Sweetwater,President,,IND,Phillips,67
+Sweetwater,President,,NL,Hagelin,21
+Sweetwater,President,,REF,Buchanan,323
+Sweetwater,U.S. Senate,,REP,Thomas,10072
+Sweetwater,U.S. Senate,,DEM,Logan,4728
+Sweetwater,U.S. Senate,,LIB,Dawson,710
+Sweetwater,U.S. House,,REP,Cubin,9055
+Sweetwater,U.S. House,,DEM,Green,5535
+Sweetwater,U.S. House,,LIB,Stock,510
+Sweetwater,U.S. House,,NL,Raymond,200
+Sweetwater,State Senate,12,REP,Stith,2139
+Sweetwater,State Senate,12,DEM,Job,2865
+Sweetwater,State Senate,14,DEM,Harris,3553
+Sweetwater,State House,16,REP,Watt,897
+Sweetwater,State House,16,DEM,Levitt,1002
+Sweetwater,State House,17,REP,Parady,1727
+Sweetwater,State House,17,DEM,Hughs,1397
+Sweetwater,State House,18,REP,Eyre,885
+Sweetwater,State House,18,DEM,Jackman,633
+Sweetwater,State House,39,DEM,Boswell,2321
+Sweetwater,State House,48,REP,Steinbrech,1375
+Sweetwater,State House,48,DEM,Nelson,1692
+Sweetwater,State House,60,REP,Smith,1032
+Sweetwater,State House,60,DEM,Thompson,1749
+Sweetwater,Ballots Cast,,,Ballots Cast,15892
+Teton,President,,REP,Bush,5454
+Teton,President,,DEM,Gore,4019
+Teton,President,,LIB,Browne,73
+Teton,President,,IND,Phillips,20
+Teton,President,,NL,Hagelin,69
+Teton,President,,REF,Buchanan,32
+Teton,U.S. Senate,,REP,Thomas,6443
+Teton,U.S. Senate,,DEM,Logan,2949
+Teton,U.S. Senate,,LIB,Dawson,527
+Teton,U.S. House,,REP,Cubin,5581
+Teton,U.S. House,,DEM,Green,3238
+Teton,U.S. House,,LIB,Stock,273
+Teton,U.S. House,,NL,Raymond,818
+Teton,State House,22,REP,Shivler,2640
+Teton,State House,23,REP,Law,5342
+Teton,Ballots Cast,,,Ballots Cast,10587
+Uinta,President,,REP,Bush,5469
+Uinta,President,,DEM,Gore,1650
+Uinta,President,,LIB,Browne,70
+Uinta,President,,IND,Phillips,24
+Uinta,President,,NL,Hagelin,11
+Uinta,President,,REF,Buchanan,118
+Uinta,U.S. Senate,,REP,Thomas,5613
+Uinta,U.S. Senate,,DEM,Logan,1544
+Uinta,U.S. Senate,,LIB,Dawson,327
+Uinta,U.S. House,,REP,Cubin,5357
+Uinta,U.S. House,,DEM,Green,1810
+Uinta,U.S. House,,LIB,Stock,195
+Uinta,U.S. House,,NL,Raymond,86
+Uinta,State Senate,14,DEM,Harris,1007
+Uinta,State House,18,REP,Eyre,661
+Uinta,State House,18,DEM,Jackman,851
+Uinta,State House,19,REP,Petersen,1599
+Uinta,State House,19,DEM,Rounds,1373
+Uinta,State House,49,REP,Park,1455
+Uinta,State House,49,DEM,Meyer,1543
+Uinta,Ballots Cast,,,Ballots Cast,7648
+Washakie,President,,REP,Bush,3138
+Washakie,President,,DEM,Gore,806
+Washakie,President,,LIB,Browne,11
+Washakie,President,,IND,Phillips,8
+Washakie,President,,NL,Hagelin,10
+Washakie,President,,REF,Buchanan,49
+Washakie,U.S. Senate,,REP,Thomas,3209
+Washakie,U.S. Senate,,DEM,Logan,568
+Washakie,U.S. Senate,,LIB,Dawson,106
+Washakie,U.S. House,,REP,Cubin,2982
+Washakie,U.S. House,,DEM,Green,767
+Washakie,U.S. House,,LIB,Stock,54
+Washakie,U.S. House,,NL,Raymond,39
+Washakie,State Senate,20,REP,Geis,3376
+Washakie,State House,27,REP,Wostenberg,2838
+Washakie,State House,28,REP,Baker,399
+Washakie,Ballots Cast,,,Ballots Cast,4096
+Weston,President,,REP,Bush,2521
+Weston,President,,DEM,Gore,449
+Weston,President,,LIB,Browne,11
+Weston,President,,IND,Phillips,10
+Weston,President,,NL,Hagelin,4
+Weston,President,,REF,Buchanan,39
+Weston,U.S. Senate,,REP,Thomas,2586
+Weston,U.S. Senate,,DEM,Logan,390
+Weston,U.S. Senate,,LIB,Dawson,101
+Weston,U.S. House,,REP,Cubin,2384
+Weston,U.S. House,,DEM,Green,560
+Weston,U.S. House,,LIB,Stock,61
+Weston,U.S. House,,NL,Raymond,38
+Weston,State House,1,REP,Simons,778
+Weston,State House,1,DEM,Dodson,224
+Weston,State House,2,DEM,Diercks,1580
+Weston,Ballots Cast,,,Ballots Cast,3126

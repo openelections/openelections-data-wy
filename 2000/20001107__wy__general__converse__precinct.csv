@@ -1,0 +1,340 @@
+county,precinct,office,district,party,candidate,votes
+Converse,Beaver 5-5,President,,REP,Bush,23
+Converse,Beaver 5-5,President,,DEM,Gore,0
+Converse,Beaver 5-5,President,,LIB,Browne,0
+Converse,Beaver 5-5,President,,IND,Phillips,0
+Converse,Beaver 5-5,President,,NL,Hagelin,0
+Converse,Beaver 5-5,President,,REF,Buchanan,0
+Converse,Beaver 5-5,U.S. Senate,,REP,Thomas,23
+Converse,Beaver 5-5,U.S. Senate,,DEM,Logan,0
+Converse,Beaver 5-5,U.S. Senate,,LIB,Dawson,0
+Converse,Beaver 5-5,U.S. House,,REP,Cubin,22
+Converse,Beaver 5-5,U.S. House,,DEM,Green,1
+Converse,Beaver 5-5,U.S. House,,LIB,Stock,0
+Converse,Beaver 5-5,U.S. House,,NL,Raymond,0
+Converse,Beaver 5-5,State Senate,2,REP,Anderson,22
+Converse,Beaver 5-5,State Senate,2,DEM,Beckstead,1
+Converse,Beaver 5-5,State House,6,REP,Edwards,16
+Converse,Beaver 5-5,Ballots Cast,,,Ballots Cast,23
+Converse,Boxelder 6-6,President,,REP,Bush,16
+Converse,Boxelder 6-6,President,,DEM,Gore,2
+Converse,Boxelder 6-6,President,,LIB,Browne,0
+Converse,Boxelder 6-6,President,,IND,Phillips,0
+Converse,Boxelder 6-6,President,,NL,Hagelin,0
+Converse,Boxelder 6-6,President,,REF,Buchanan,0
+Converse,Boxelder 6-6,U.S. Senate,,REP,Thomas,18
+Converse,Boxelder 6-6,U.S. Senate,,DEM,Logan,1
+Converse,Boxelder 6-6,U.S. Senate,,LIB,Dawson,0
+Converse,Boxelder 6-6,U.S. House,,REP,Cubin,18
+Converse,Boxelder 6-6,U.S. House,,DEM,Green,1
+Converse,Boxelder 6-6,U.S. House,,LIB,Stock,0
+Converse,Boxelder 6-6,U.S. House,,NL,Raymond,2
+Converse,Boxelder 6-6,State Senate,2,REP,Anderson,17
+Converse,Boxelder 6-6,State Senate,2,DEM,Beckstead,2
+Converse,Boxelder 6-6,State House,6,REP,Edwards,12
+Converse,Boxelder 6-6,Ballots Cast,,,Ballots Cast,20
+Converse,Courthouse 23-4,President,,REP,Bush,148
+Converse,Courthouse 23-4,President,,DEM,Gore,70
+Converse,Courthouse 23-4,President,,LIB,Browne,1
+Converse,Courthouse 23-4,President,,IND,Phillips,2
+Converse,Courthouse 23-4,President,,NL,Hagelin,0
+Converse,Courthouse 23-4,President,,REF,Buchanan,3
+Converse,Courthouse 23-4,U.S. Senate,,REP,Thomas,163
+Converse,Courthouse 23-4,U.S. Senate,,DEM,Logan,57
+Converse,Courthouse 23-4,U.S. Senate,,LIB,Dawson,11
+Converse,Courthouse 23-4,U.S. House,,REP,Cubin,136
+Converse,Courthouse 23-4,U.S. House,,DEM,Green,73
+Converse,Courthouse 23-4,U.S. House,,LIB,Stock,17
+Converse,Courthouse 23-4,U.S. House,,NL,Raymond,2
+Converse,Courthouse 23-4,State Senate,2,REP,Anderson,135
+Converse,Courthouse 23-4,State Senate,2,DEM,Beckstead,97
+Converse,Courthouse 23-4,State House,6,REP,Edwards,174
+Converse,Courthouse 23-4,Ballots Cast,,,Ballots Cast,237
+Converse,Dry Creek 13-13,President,,REP,Bush,72
+Converse,Dry Creek 13-13,President,,DEM,Gore,3
+Converse,Dry Creek 13-13,President,,LIB,Browne,0
+Converse,Dry Creek 13-13,President,,IND,Phillips,0
+Converse,Dry Creek 13-13,President,,NL,Hagelin,0
+Converse,Dry Creek 13-13,President,,REF,Buchanan,0
+Converse,Dry Creek 13-13,U.S. Senate,,REP,Thomas,71
+Converse,Dry Creek 13-13,U.S. Senate,,DEM,Logan,3
+Converse,Dry Creek 13-13,U.S. Senate,,LIB,Dawson,0
+Converse,Dry Creek 13-13,U.S. House,,REP,Cubin,69
+Converse,Dry Creek 13-13,U.S. House,,DEM,Green,4
+Converse,Dry Creek 13-13,U.S. House,,LIB,Stock,1
+Converse,Dry Creek 13-13,U.S. House,,NL,Raymond,0
+Converse,Dry Creek 13-13,State Senate,2,REP,Anderson,71
+Converse,Dry Creek 13-13,State Senate,2,DEM,Beckstead,2
+Converse,Dry Creek 13-13,State House,6,REP,Edwards,55
+Converse,Dry Creek 13-13,Ballots Cast,,,Ballots Cast,75
+Converse,East Glenrock 9-1,President,,REP,Bush,427
+Converse,East Glenrock 9-1,President,,DEM,Gore,127
+Converse,East Glenrock 9-1,President,,LIB,Browne,2
+Converse,East Glenrock 9-1,President,,IND,Phillips,6
+Converse,East Glenrock 9-1,President,,NL,Hagelin,1
+Converse,East Glenrock 9-1,President,,REF,Buchanan,7
+Converse,East Glenrock 9-1,U.S. Senate,,REP,Thomas,472
+Converse,East Glenrock 9-1,U.S. Senate,,DEM,Logan,89
+Converse,East Glenrock 9-1,U.S. Senate,,LIB,Dawson,15
+Converse,East Glenrock 9-1,U.S. House,,REP,Cubin,409
+Converse,East Glenrock 9-1,U.S. House,,DEM,Green,135
+Converse,East Glenrock 9-1,U.S. House,,LIB,Stock,26
+Converse,East Glenrock 9-1,U.S. House,,NL,Raymond,3
+Converse,East Glenrock 9-1,State Senate,2,REP,Anderson,285
+Converse,East Glenrock 9-1,State Senate,2,DEM,Beckstead,296
+Converse,East Glenrock 9-1,State House,6,REP,Edwards,507
+Converse,East Glenrock 9-1,Ballots Cast,,,Ballots Cast,586
+Converse,Fairview 23-6,President,,REP,Bush,425
+Converse,Fairview 23-6,President,,DEM,Gore,123
+Converse,Fairview 23-6,President,,LIB,Browne,3
+Converse,Fairview 23-6,President,,IND,Phillips,2
+Converse,Fairview 23-6,President,,NL,Hagelin,0
+Converse,Fairview 23-6,President,,REF,Buchanan,5
+Converse,Fairview 23-6,U.S. Senate,,REP,Thomas,438
+Converse,Fairview 23-6,U.S. Senate,,DEM,Logan,104
+Converse,Fairview 23-6,U.S. Senate,,LIB,Dawson,11
+Converse,Fairview 23-6,U.S. House,,REP,Cubin,381
+Converse,Fairview 23-6,U.S. House,,DEM,Green,140
+Converse,Fairview 23-6,U.S. House,,LIB,Stock,27
+Converse,Fairview 23-6,U.S. House,,NL,Raymond,0
+Converse,Fairview 23-6,State Senate,2,REP,Anderson,332
+Converse,Fairview 23-6,State Senate,2,DEM,Beckstead,229
+Converse,Fairview 23-6,State House,5,REP,Hageman,449
+Converse,Fairview 23-6,State House,5,LIB,Spungin,78
+Converse,Fairview 23-6,Ballots Cast,,,Ballots Cast,573
+Converse,Guthrie 3-1,President,,REP,Bush,141
+Converse,Guthrie 3-1,President,,DEM,Gore,13
+Converse,Guthrie 3-1,President,,LIB,Browne,1
+Converse,Guthrie 3-1,President,,IND,Phillips,0
+Converse,Guthrie 3-1,President,,NL,Hagelin,0
+Converse,Guthrie 3-1,President,,REF,Buchanan,2
+Converse,Guthrie 3-1,U.S. Senate,,REP,Thomas,143
+Converse,Guthrie 3-1,U.S. Senate,,DEM,Logan,10
+Converse,Guthrie 3-1,U.S. Senate,,LIB,Dawson,5
+Converse,Guthrie 3-1,U.S. House,,REP,Cubin,133
+Converse,Guthrie 3-1,U.S. House,,DEM,Green,18
+Converse,Guthrie 3-1,U.S. House,,LIB,Stock,4
+Converse,Guthrie 3-1,U.S. House,,NL,Raymond,1
+Converse,Guthrie 3-1,State Senate,2,REP,Anderson,133
+Converse,Guthrie 3-1,State Senate,2,DEM,Beckstead,21
+Converse,Guthrie 3-1,State House,6,REP,Edwards,129
+Converse,Guthrie 3-1,Ballots Cast,,,Ballots Cast,160
+Converse,La Prele 7-7,President,,REP,Bush,80
+Converse,La Prele 7-7,President,,DEM,Gore,14
+Converse,La Prele 7-7,President,,LIB,Browne,1
+Converse,La Prele 7-7,President,,IND,Phillips,1
+Converse,La Prele 7-7,President,,NL,Hagelin,0
+Converse,La Prele 7-7,President,,REF,Buchanan,0
+Converse,La Prele 7-7,U.S. Senate,,REP,Thomas,78
+Converse,La Prele 7-7,U.S. Senate,,DEM,Logan,14
+Converse,La Prele 7-7,U.S. Senate,,LIB,Dawson,1
+Converse,La Prele 7-7,U.S. House,,REP,Cubin,73
+Converse,La Prele 7-7,U.S. House,,DEM,Green,13
+Converse,La Prele 7-7,U.S. House,,LIB,Stock,6
+Converse,La Prele 7-7,U.S. House,,NL,Raymond,6
+Converse,La Prele 7-7,State Senate,2,REP,Anderson,76
+Converse,La Prele 7-7,State Senate,2,DEM,Beckstead,21
+Converse,La Prele 7-7,State House,6,REP,Edwards,69
+Converse,La Prele 7-7,Ballots Cast,,,Ballots Cast,97
+Converse,Lost Springs 1-1,President,,REP,Bush,40
+Converse,Lost Springs 1-1,President,,DEM,Gore,4
+Converse,Lost Springs 1-1,President,,LIB,Browne,1
+Converse,Lost Springs 1-1,President,,IND,Phillips,1
+Converse,Lost Springs 1-1,President,,NL,Hagelin,0
+Converse,Lost Springs 1-1,President,,REF,Buchanan,0
+Converse,Lost Springs 1-1,U.S. Senate,,REP,Thomas,41
+Converse,Lost Springs 1-1,U.S. Senate,,DEM,Logan,4
+Converse,Lost Springs 1-1,U.S. Senate,,LIB,Dawson,1
+Converse,Lost Springs 1-1,U.S. House,,REP,Cubin,41
+Converse,Lost Springs 1-1,U.S. House,,DEM,Green,3
+Converse,Lost Springs 1-1,U.S. House,,LIB,Stock,2
+Converse,Lost Springs 1-1,U.S. House,,NL,Raymond,0
+Converse,Lost Springs 1-1,State House,2,DEM,Diercks,26
+Converse,Lost Springs 1-1,Ballots Cast,,,Ballots Cast,48
+Converse,Northeast Douglas 23-1,President,,REP,Bush,181
+Converse,Northeast Douglas 23-1,President,,DEM,Gore,67
+Converse,Northeast Douglas 23-1,President,,LIB,Browne,4
+Converse,Northeast Douglas 23-1,President,,IND,Phillips,2
+Converse,Northeast Douglas 23-1,President,,NL,Hagelin,0
+Converse,Northeast Douglas 23-1,President,,REF,Buchanan,0
+Converse,Northeast Douglas 23-1,U.S. Senate,,REP,Thomas,197
+Converse,Northeast Douglas 23-1,U.S. Senate,,DEM,Logan,58
+Converse,Northeast Douglas 23-1,U.S. Senate,,LIB,Dawson,9
+Converse,Northeast Douglas 23-1,U.S. House,,REP,Cubin,164
+Converse,Northeast Douglas 23-1,U.S. House,,DEM,Green,70
+Converse,Northeast Douglas 23-1,U.S. House,,LIB,Stock,20
+Converse,Northeast Douglas 23-1,U.S. House,,NL,Raymond,0
+Converse,Northeast Douglas 23-1,State Senate,2,REP,Anderson,167
+Converse,Northeast Douglas 23-1,State Senate,2,DEM,Beckstead,100
+Converse,Northeast Douglas 23-1,State House,6,REP,Edwards,198
+Converse,Northeast Douglas 23-1,Ballots Cast,,,Ballots Cast,272
+Converse,Northwest Douglas 23-2,President,,REP,Bush,263
+Converse,Northwest Douglas 23-2,President,,DEM,Gore,95
+Converse,Northwest Douglas 23-2,President,,LIB,Browne,6
+Converse,Northwest Douglas 23-2,President,,IND,Phillips,1
+Converse,Northwest Douglas 23-2,President,,NL,Hagelin,4
+Converse,Northwest Douglas 23-2,President,,REF,Buchanan,5
+Converse,Northwest Douglas 23-2,U.S. Senate,,REP,Thomas,286
+Converse,Northwest Douglas 23-2,U.S. Senate,,DEM,Logan,70
+Converse,Northwest Douglas 23-2,U.S. Senate,,LIB,Dawson,19
+Converse,Northwest Douglas 23-2,U.S. House,,REP,Cubin,260
+Converse,Northwest Douglas 23-2,U.S. House,,DEM,Green,88
+Converse,Northwest Douglas 23-2,U.S. House,,LIB,Stock,21
+Converse,Northwest Douglas 23-2,U.S. House,,NL,Raymond,5
+Converse,Northwest Douglas 23-2,State Senate,2,REP,Anderson,234
+Converse,Northwest Douglas 23-2,State Senate,2,DEM,Beckstead,140
+Converse,Northwest Douglas 23-2,State House,6,REP,Edwards,289
+Converse,Northwest Douglas 23-2,Ballots Cast,,,Ballots Cast,385
+Converse,Orin 2-2,President,,REP,Bush,434
+Converse,Orin 2-2,President,,DEM,Gore,92
+Converse,Orin 2-2,President,,LIB,Browne,7
+Converse,Orin 2-2,President,,IND,Phillips,3
+Converse,Orin 2-2,President,,NL,Hagelin,3
+Converse,Orin 2-2,President,,REF,Buchanan,3
+Converse,Orin 2-2,U.S. Senate,,REP,Thomas,449
+Converse,Orin 2-2,U.S. Senate,,DEM,Logan,69
+Converse,Orin 2-2,U.S. Senate,,LIB,Dawson,28
+Converse,Orin 2-2,U.S. House,,REP,Cubin,384
+Converse,Orin 2-2,U.S. House,,DEM,Green,105
+Converse,Orin 2-2,U.S. House,,LIB,Stock,42
+Converse,Orin 2-2,U.S. House,,NL,Raymond,2
+Converse,Orin 2-2,State Senate,2,REP,Anderson,390
+Converse,Orin 2-2,State Senate,2,DEM,Beckstead,155
+Converse,Orin 2-2,State House,5,REP,Hageman,442
+Converse,Orin 2-2,State House,5,LIB,Spungin,83
+Converse,Orin 2-2,Ballots Cast,,,Ballots Cast,557
+Converse,Orpha 20-20,President,,REP,Bush,67
+Converse,Orpha 20-20,President,,DEM,Gore,8
+Converse,Orpha 20-20,President,,LIB,Browne,0
+Converse,Orpha 20-20,President,,IND,Phillips,0
+Converse,Orpha 20-20,President,,NL,Hagelin,0
+Converse,Orpha 20-20,President,,REF,Buchanan,2
+Converse,Orpha 20-20,U.S. Senate,,REP,Thomas,68
+Converse,Orpha 20-20,U.S. Senate,,DEM,Logan,8
+Converse,Orpha 20-20,U.S. Senate,,LIB,Dawson,0
+Converse,Orpha 20-20,U.S. House,,REP,Cubin,65
+Converse,Orpha 20-20,U.S. House,,DEM,Green,9
+Converse,Orpha 20-20,U.S. House,,LIB,Stock,2
+Converse,Orpha 20-20,U.S. House,,NL,Raymond,1
+Converse,Orpha 20-20,State Senate,2,REP,Anderson,62
+Converse,Orpha 20-20,State Senate,2,DEM,Beckstead,16
+Converse,Orpha 20-20,State House,6,REP,Edwards,58
+Converse,Orpha 20-20,Ballots Cast,,,Ballots Cast,79
+Converse,Rolling Hills 11-11,President,,REP,Bush,133
+Converse,Rolling Hills 11-11,President,,DEM,Gore,31
+Converse,Rolling Hills 11-11,President,,LIB,Browne,0
+Converse,Rolling Hills 11-11,President,,IND,Phillips,3
+Converse,Rolling Hills 11-11,President,,NL,Hagelin,0
+Converse,Rolling Hills 11-11,President,,REF,Buchanan,9
+Converse,Rolling Hills 11-11,U.S. Senate,,REP,Thomas,133
+Converse,Rolling Hills 11-11,U.S. Senate,,DEM,Logan,36
+Converse,Rolling Hills 11-11,U.S. Senate,,LIB,Dawson,6
+Converse,Rolling Hills 11-11,U.S. House,,REP,Cubin,122
+Converse,Rolling Hills 11-11,U.S. House,,DEM,Green,44
+Converse,Rolling Hills 11-11,U.S. House,,LIB,Stock,5
+Converse,Rolling Hills 11-11,U.S. House,,NL,Raymond,1
+Converse,Rolling Hills 11-11,State Senate,2,REP,Anderson,97
+Converse,Rolling Hills 11-11,State Senate,2,DEM,Beckstead,83
+Converse,Rolling Hills 11-11,State House,6,REP,Edwards,149
+Converse,Rolling Hills 11-11,Ballots Cast,,,Ballots Cast,182
+Converse,Rural Douglas 4-4,President,,REP,Bush,301
+Converse,Rural Douglas 4-4,President,,DEM,Gore,56
+Converse,Rural Douglas 4-4,President,,LIB,Browne,2
+Converse,Rural Douglas 4-4,President,,IND,Phillips,2
+Converse,Rural Douglas 4-4,President,,NL,Hagelin,0
+Converse,Rural Douglas 4-4,President,,REF,Buchanan,4
+Converse,Rural Douglas 4-4,U.S. Senate,,REP,Thomas,309
+Converse,Rural Douglas 4-4,U.S. Senate,,DEM,Logan,47
+Converse,Rural Douglas 4-4,U.S. Senate,,LIB,Dawson,11
+Converse,Rural Douglas 4-4,U.S. House,,REP,Cubin,277
+Converse,Rural Douglas 4-4,U.S. House,,DEM,Green,70
+Converse,Rural Douglas 4-4,U.S. House,,LIB,Stock,18
+Converse,Rural Douglas 4-4,U.S. House,,NL,Raymond,2
+Converse,Rural Douglas 4-4,State Senate,2,REP,Anderson,269
+Converse,Rural Douglas 4-4,State Senate,2,DEM,Beckstead,100
+Converse,Rural Douglas 4-4,State House,6,REP,Edwards,289
+Converse,Rural Douglas 4-4,Ballots Cast,,,Ballots Cast,375
+Converse,Rural Glenrock 10-10,President,,REP,Bush,366
+Converse,Rural Glenrock 10-10,President,,DEM,Gore,82
+Converse,Rural Glenrock 10-10,President,,LIB,Browne,7
+Converse,Rural Glenrock 10-10,President,,IND,Phillips,2
+Converse,Rural Glenrock 10-10,President,,NL,Hagelin,1
+Converse,Rural Glenrock 10-10,President,,REF,Buchanan,8
+Converse,Rural Glenrock 10-10,U.S. Senate,,REP,Thomas,373
+Converse,Rural Glenrock 10-10,U.S. Senate,,DEM,Logan,77
+Converse,Rural Glenrock 10-10,U.S. Senate,,LIB,Dawson,17
+Converse,Rural Glenrock 10-10,U.S. House,,REP,Cubin,346
+Converse,Rural Glenrock 10-10,U.S. House,,DEM,Green,92
+Converse,Rural Glenrock 10-10,U.S. House,,LIB,Stock,22
+Converse,Rural Glenrock 10-10,U.S. House,,NL,Raymond,2
+Converse,Rural Glenrock 10-10,State Senate,2,REP,Anderson,281
+Converse,Rural Glenrock 10-10,State Senate,2,DEM,Beckstead,187
+Converse,Rural Glenrock 10-10,State House,6,REP,Edwards,399
+Converse,Rural Glenrock 10-10,Ballots Cast,,,Ballots Cast,474
+Converse,South Douglas 23-5,President,,REP,Bush,218
+Converse,South Douglas 23-5,President,,DEM,Gore,90
+Converse,South Douglas 23-5,President,,LIB,Browne,1
+Converse,South Douglas 23-5,President,,IND,Phillips,3
+Converse,South Douglas 23-5,President,,NL,Hagelin,2
+Converse,South Douglas 23-5,President,,REF,Buchanan,3
+Converse,South Douglas 23-5,U.S. Senate,,REP,Thomas,253
+Converse,South Douglas 23-5,U.S. Senate,,DEM,Logan,69
+Converse,South Douglas 23-5,U.S. Senate,,LIB,Dawson,5
+Converse,South Douglas 23-5,U.S. House,,REP,Cubin,207
+Converse,South Douglas 23-5,U.S. House,,DEM,Green,96
+Converse,South Douglas 23-5,U.S. House,,LIB,Stock,10
+Converse,South Douglas 23-5,U.S. House,,NL,Raymond,4
+Converse,South Douglas 23-5,State Senate,2,REP,Anderson,200
+Converse,South Douglas 23-5,State Senate,2,DEM,Beckstead,120
+Converse,South Douglas 23-5,State House,5,REP,Hageman,252
+Converse,South Douglas 23-5,State House,5,LIB,Spungin,46
+Converse,South Douglas 23-5,Ballots Cast,,,Ballots Cast,337
+Converse,Southwest Douglas 23-3,President,,REP,Bush,234
+Converse,Southwest Douglas 23-3,President,,DEM,Gore,75
+Converse,Southwest Douglas 23-3,President,,LIB,Browne,1
+Converse,Southwest Douglas 23-3,President,,IND,Phillips,2
+Converse,Southwest Douglas 23-3,President,,NL,Hagelin,0
+Converse,Southwest Douglas 23-3,President,,REF,Buchanan,2
+Converse,Southwest Douglas 23-3,U.S. Senate,,REP,Thomas,246
+Converse,Southwest Douglas 23-3,U.S. Senate,,DEM,Logan,52
+Converse,Southwest Douglas 23-3,U.S. Senate,,LIB,Dawson,17
+Converse,Southwest Douglas 23-3,U.S. House,,REP,Cubin,216
+Converse,Southwest Douglas 23-3,U.S. House,,DEM,Green,74
+Converse,Southwest Douglas 23-3,U.S. House,,LIB,Stock,21
+Converse,Southwest Douglas 23-3,U.S. House,,NL,Raymond,4
+Converse,Southwest Douglas 23-3,State Senate,2,REP,Anderson,193
+Converse,Southwest Douglas 23-3,State Senate,2,DEM,Beckstead,114
+Converse,Southwest Douglas 23-3,State House,6,REP,Edwards,250
+Converse,Southwest Douglas 23-3,Ballots Cast,,,Ballots Cast,323
+Converse,Walker Creek 24-25,President,,REP,Bush,43
+Converse,Walker Creek 24-25,President,,DEM,Gore,0
+Converse,Walker Creek 24-25,President,,LIB,Browne,0
+Converse,Walker Creek 24-25,President,,IND,Phillips,0
+Converse,Walker Creek 24-25,President,,NL,Hagelin,0
+Converse,Walker Creek 24-25,President,,REF,Buchanan,0
+Converse,Walker Creek 24-25,U.S. Senate,,REP,Thomas,42
+Converse,Walker Creek 24-25,U.S. Senate,,DEM,Logan,0
+Converse,Walker Creek 24-25,U.S. Senate,,LIB,Dawson,1
+Converse,Walker Creek 24-25,U.S. House,,REP,Cubin,41
+Converse,Walker Creek 24-25,U.S. House,,DEM,Green,1
+Converse,Walker Creek 24-25,U.S. House,,LIB,Stock,1
+Converse,Walker Creek 24-25,U.S. House,,NL,Raymond,0
+Converse,Walker Creek 24-25,State House,2,DEM,Diercks,19
+Converse,Walker Creek 24-25,Ballots Cast,,,Ballots Cast,43
+Converse,West Glenrock 9-2,President,,REP,Bush,307
+Converse,West Glenrock 9-2,President,,DEM,Gore,124
+Converse,West Glenrock 9-2,President,,LIB,Browne,2
+Converse,West Glenrock 9-2,President,,IND,Phillips,4
+Converse,West Glenrock 9-2,President,,NL,Hagelin,0
+Converse,West Glenrock 9-2,President,,REF,Buchanan,11
+Converse,West Glenrock 9-2,U.S. Senate,,REP,Thomas,322
+Converse,West Glenrock 9-2,U.S. Senate,,DEM,Logan,119
+Converse,West Glenrock 9-2,U.S. Senate,,LIB,Dawson,11
+Converse,West Glenrock 9-2,U.S. House,,REP,Cubin,284
+Converse,West Glenrock 9-2,U.S. House,,DEM,Green,145
+Converse,West Glenrock 9-2,U.S. House,,LIB,Stock,16
+Converse,West Glenrock 9-2,U.S. House,,NL,Raymond,3
+Converse,West Glenrock 9-2,State Senate,2,REP,Anderson,213
+Converse,West Glenrock 9-2,State Senate,2,DEM,Beckstead,254
+Converse,West Glenrock 9-2,State House,6,REP,Edwards,351
+Converse,West Glenrock 9-2,Ballots Cast,,,Ballots Cast,473

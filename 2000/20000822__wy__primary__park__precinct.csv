@@ -1,0 +1,360 @@
+county,precinct,office,district,party,candidate,votes
+Park,Absentee Precinct 11-2,U.S. Senate,,REP,Thomas,38
+Park,Absentee Precinct 11-2,U.S. Senate,,DEM,Logan,5
+Park,Absentee Precinct 11-2,U.S. Senate,,DEM,Sumey,4
+Park,Absentee Precinct 11-2,U.S. House,,REP,Cubin,34
+Park,Absentee Precinct 11-2,U.S. House,,REP,Herdt,6
+Park,Absentee Precinct 11-2,U.S. House,,REP,Wenino,1
+Park,Absentee Precinct 11-2,U.S. House,,DEM,Green,4
+Park,Absentee Precinct 11-2,U.S. House,,DEM,Munker,5
+Park,Absentee Precinct 11-2,State Senate,18,REP,Coe,38
+Park,Absentee Precinct 11-2,State House,24,REP,Simpson,2
+Park,Absentee Precinct 11-2,State House,50,REP,Childers,37
+Park,Absentee Precinct 11-2,State House,50,DEM,Capron,9
+Park,Absentee Precinct 11-2,Ballots Cast,,REP,Ballots Cast,43
+Park,Absentee Precinct 11-2,Ballots Cast,,DEM,Ballots Cast,9
+Park,Clark/Pioneer Rec. Center 1-1,U.S. Senate,,REP,Thomas,77
+Park,Clark/Pioneer Rec. Center 1-1,U.S. Senate,,DEM,Logan,6
+Park,Clark/Pioneer Rec. Center 1-1,U.S. Senate,,DEM,Sumey,3
+Park,Clark/Pioneer Rec. Center 1-1,U.S. House,,REP,Cubin,67
+Park,Clark/Pioneer Rec. Center 1-1,U.S. House,,REP,Herdt,10
+Park,Clark/Pioneer Rec. Center 1-1,U.S. House,,REP,Wenino,2
+Park,Clark/Pioneer Rec. Center 1-1,U.S. House,,DEM,Green,7
+Park,Clark/Pioneer Rec. Center 1-1,U.S. House,,DEM,Munker,2
+Park,Clark/Pioneer Rec. Center 1-1,State Senate,18,REP,Coe,75
+Park,Clark/Pioneer Rec. Center 1-1,State House,24,REP,Simpson,2
+Park,Clark/Pioneer Rec. Center 1-1,State House,50,REP,Childers,70
+Park,Clark/Pioneer Rec. Center 1-1,State House,50,DEM,Capron,8
+Park,Clark/Pioneer Rec. Center 1-1,Ballots Cast,,REP,Ballots Cast,81
+Park,Clark/Pioneer Rec. Center 1-1,Ballots Cast,,DEM,Ballots Cast,9
+Park,Cody Auditorium 24-1,U.S. Senate,,REP,Thomas,200
+Park,Cody Auditorium 24-1,U.S. Senate,,DEM,Logan,20
+Park,Cody Auditorium 24-1,U.S. Senate,,DEM,Sumey,9
+Park,Cody Auditorium 24-1,U.S. House,,REP,Cubin,170
+Park,Cody Auditorium 24-1,U.S. House,,REP,Herdt,28
+Park,Cody Auditorium 24-1,U.S. House,,REP,Wenino,17
+Park,Cody Auditorium 24-1,U.S. House,,DEM,Green,19
+Park,Cody Auditorium 24-1,U.S. House,,DEM,Munker,10
+Park,Cody Auditorium 24-1,State Senate,18,REP,Coe,192
+Park,Cody Auditorium 24-1,State House,24,REP,Simpson,190
+Park,Cody Auditorium 24-1,Ballots Cast,,REP,Ballots Cast,222
+Park,Cody Auditorium 24-1,Ballots Cast,,DEM,Ballots Cast,37
+Park,Cody Auditorium 24-2,U.S. Senate,,REP,Thomas,303
+Park,Cody Auditorium 24-2,U.S. Senate,,DEM,Logan,23
+Park,Cody Auditorium 24-2,U.S. Senate,,DEM,Sumey,18
+Park,Cody Auditorium 24-2,U.S. House,,REP,Cubin,247
+Park,Cody Auditorium 24-2,U.S. House,,REP,Herdt,55
+Park,Cody Auditorium 24-2,U.S. House,,REP,Wenino,22
+Park,Cody Auditorium 24-2,U.S. House,,DEM,Green,31
+Park,Cody Auditorium 24-2,U.S. House,,DEM,Munker,12
+Park,Cody Auditorium 24-2,State Senate,18,REP,Coe,288
+Park,Cody Auditorium 24-2,State House,24,REP,Simpson,283
+Park,Cody Auditorium 24-2,Ballots Cast,,REP,Ballots Cast,339
+Park,Cody Auditorium 24-2,Ballots Cast,,DEM,Ballots Cast,47
+Park,Cody Auditorium 24-3,U.S. Senate,,REP,Thomas,101
+Park,Cody Auditorium 24-3,U.S. Senate,,DEM,Logan,3
+Park,Cody Auditorium 24-3,U.S. Senate,,DEM,Sumey,8
+Park,Cody Auditorium 24-3,U.S. House,,REP,Cubin,89
+Park,Cody Auditorium 24-3,U.S. House,,REP,Herdt,14
+Park,Cody Auditorium 24-3,U.S. House,,REP,Wenino,6
+Park,Cody Auditorium 24-3,U.S. House,,DEM,Green,4
+Park,Cody Auditorium 24-3,U.S. House,,DEM,Munker,6
+Park,Cody Auditorium 24-3,State Senate,18,REP,Coe,93
+Park,Cody Auditorium 24-3,State House,50,REP,Childers,97
+Park,Cody Auditorium 24-3,State House,50,DEM,Capron,11
+Park,Cody Auditorium 24-3,Ballots Cast,,REP,Ballots Cast,113
+Park,Cody Auditorium 24-3,Ballots Cast,,DEM,Ballots Cast,13
+Park,Cody Auditorium 25-1,U.S. Senate,,REP,Thomas,297
+Park,Cody Auditorium 25-1,U.S. Senate,,DEM,Logan,29
+Park,Cody Auditorium 25-1,U.S. Senate,,DEM,Sumey,9
+Park,Cody Auditorium 25-1,U.S. House,,REP,Cubin,259
+Park,Cody Auditorium 25-1,U.S. House,,REP,Herdt,21
+Park,Cody Auditorium 25-1,U.S. House,,REP,Wenino,26
+Park,Cody Auditorium 25-1,U.S. House,,DEM,Green,28
+Park,Cody Auditorium 25-1,U.S. House,,DEM,Munker,10
+Park,Cody Auditorium 25-1,State Senate,18,REP,Coe,287
+Park,Cody Auditorium 25-1,State House,24,REP,Simpson,292
+Park,Cody Auditorium 25-1,Ballots Cast,,REP,Ballots Cast,343
+Park,Cody Auditorium 25-1,Ballots Cast,,DEM,Ballots Cast,49
+Park,Cody Auditorium 25-2,U.S. Senate,,REP,Thomas,279
+Park,Cody Auditorium 25-2,U.S. Senate,,DEM,Logan,11
+Park,Cody Auditorium 25-2,U.S. Senate,,DEM,Sumey,5
+Park,Cody Auditorium 25-2,U.S. House,,REP,Cubin,227
+Park,Cody Auditorium 25-2,U.S. House,,REP,Herdt,33
+Park,Cody Auditorium 25-2,U.S. House,,REP,Wenino,21
+Park,Cody Auditorium 25-2,U.S. House,,DEM,Green,8
+Park,Cody Auditorium 25-2,U.S. House,,DEM,Munker,8
+Park,Cody Auditorium 25-2,State Senate,18,REP,Coe,258
+Park,Cody Auditorium 25-2,State House,24,REP,Simpson,263
+Park,Cody Auditorium 25-2,Ballots Cast,,REP,Ballots Cast,300
+Park,Cody Auditorium 25-2,Ballots Cast,,DEM,Ballots Cast,20
+Park,Cody Auditorium 25-3,U.S. Senate,,REP,Thomas,209
+Park,Cody Auditorium 25-3,U.S. Senate,,DEM,Logan,5
+Park,Cody Auditorium 25-3,U.S. Senate,,DEM,Sumey,10
+Park,Cody Auditorium 25-3,U.S. House,,REP,Cubin,181
+Park,Cody Auditorium 25-3,U.S. House,,REP,Herdt,18
+Park,Cody Auditorium 25-3,U.S. House,,REP,Wenino,17
+Park,Cody Auditorium 25-3,U.S. House,,DEM,Green,11
+Park,Cody Auditorium 25-3,U.S. House,,DEM,Munker,5
+Park,Cody Auditorium 25-3,State Senate,18,REP,Coe,189
+Park,Cody Auditorium 25-3,State House,24,REP,Simpson,192
+Park,Cody Auditorium 25-3,Ballots Cast,,REP,Ballots Cast,231
+Park,Cody Auditorium 25-3,Ballots Cast,,DEM,Ballots Cast,23
+Park,Cody Presbyterian Church 2-1,U.S. Senate,,REP,Thomas,311
+Park,Cody Presbyterian Church 2-1,U.S. Senate,,DEM,Logan,28
+Park,Cody Presbyterian Church 2-1,U.S. Senate,,DEM,Sumey,17
+Park,Cody Presbyterian Church 2-1,U.S. House,,REP,Cubin,257
+Park,Cody Presbyterian Church 2-1,U.S. House,,REP,Herdt,43
+Park,Cody Presbyterian Church 2-1,U.S. House,,REP,Wenino,20
+Park,Cody Presbyterian Church 2-1,U.S. House,,DEM,Green,22
+Park,Cody Presbyterian Church 2-1,U.S. House,,DEM,Munker,22
+Park,Cody Presbyterian Church 2-1,State Senate,18,REP,Coe,287
+Park,Cody Presbyterian Church 2-1,State House,50,REP,Childers,280
+Park,Cody Presbyterian Church 2-1,State House,50,DEM,Capron,48
+Park,Cody Presbyterian Church 2-1,Ballots Cast,,REP,Ballots Cast,335
+Park,Cody Presbyterian Church 2-1,Ballots Cast,,DEM,Ballots Cast,53
+Park,Cody Presbyterian Church 2-2,U.S. Senate,,REP,Thomas,355
+Park,Cody Presbyterian Church 2-2,U.S. Senate,,DEM,Logan,22
+Park,Cody Presbyterian Church 2-2,U.S. Senate,,DEM,Sumey,8
+Park,Cody Presbyterian Church 2-2,U.S. House,,REP,Cubin,287
+Park,Cody Presbyterian Church 2-2,U.S. House,,REP,Herdt,47
+Park,Cody Presbyterian Church 2-2,U.S. House,,REP,Wenino,24
+Park,Cody Presbyterian Church 2-2,U.S. House,,DEM,Green,19
+Park,Cody Presbyterian Church 2-2,U.S. House,,DEM,Munker,11
+Park,Cody Presbyterian Church 2-2,State Senate,18,REP,Coe,343
+Park,Cody Presbyterian Church 2-2,State House,50,REP,Childers,334
+Park,Cody Presbyterian Church 2-2,State House,50,DEM,Capron,36
+Park,Cody Presbyterian Church 2-2,Ballots Cast,,REP,Ballots Cast,393
+Park,Cody Presbyterian Church 2-2,Ballots Cast,,DEM,Ballots Cast,41
+Park,Eastside School Library 4-2,U.S. Senate,,REP,Thomas,54
+Park,Eastside School Library 4-2,U.S. Senate,,DEM,Logan,0
+Park,Eastside School Library 4-2,U.S. Senate,,DEM,Sumey,1
+Park,Eastside School Library 4-2,U.S. House,,REP,Cubin,40
+Park,Eastside School Library 4-2,U.S. House,,REP,Herdt,6
+Park,Eastside School Library 4-2,U.S. House,,REP,Wenino,3
+Park,Eastside School Library 4-2,U.S. House,,DEM,Green,1
+Park,Eastside School Library 4-2,U.S. House,,DEM,Munker,0
+Park,Eastside School Library 4-2,State Senate,18,REP,Coe,48
+Park,Eastside School Library 4-2,State House,24,REP,Simpson,39
+Park,Eastside School Library 4-2,State House,50,REP,Childers,7
+Park,Eastside School Library 4-2,State House,50,DEM,Capron,0
+Park,Eastside School Library 4-2,Ballots Cast,,REP,Ballots Cast,56
+Park,Eastside School Library 4-2,Ballots Cast,,DEM,Ballots Cast,1
+Park,Fairgrounds Lg Ex Hall 9-1,U.S. Senate,,REP,Thomas,114
+Park,Fairgrounds Lg Ex Hall 9-1,U.S. Senate,,DEM,Logan,21
+Park,Fairgrounds Lg Ex Hall 9-1,U.S. Senate,,DEM,Sumey,10
+Park,Fairgrounds Lg Ex Hall 9-1,U.S. House,,REP,Cubin,88
+Park,Fairgrounds Lg Ex Hall 9-1,U.S. House,,REP,Herdt,24
+Park,Fairgrounds Lg Ex Hall 9-1,U.S. House,,REP,Wenino,5
+Park,Fairgrounds Lg Ex Hall 9-1,U.S. House,,DEM,Green,23
+Park,Fairgrounds Lg Ex Hall 9-1,U.S. House,,DEM,Munker,8
+Park,Fairgrounds Lg Ex Hall 9-1,State House,25,REP,Jones,108
+Park,Fairgrounds Lg Ex Hall 9-1,Ballots Cast,,REP,Ballots Cast,126
+Park,Fairgrounds Lg Ex Hall 9-1,Ballots Cast,,DEM,Ballots Cast,34
+Park,Fairgrounds Lg Ex Hall 9-2,U.S. Senate,,REP,Thomas,168
+Park,Fairgrounds Lg Ex Hall 9-2,U.S. Senate,,DEM,Logan,22
+Park,Fairgrounds Lg Ex Hall 9-2,U.S. Senate,,DEM,Sumey,15
+Park,Fairgrounds Lg Ex Hall 9-2,U.S. House,,REP,Cubin,139
+Park,Fairgrounds Lg Ex Hall 9-2,U.S. House,,REP,Herdt,17
+Park,Fairgrounds Lg Ex Hall 9-2,U.S. House,,REP,Wenino,12
+Park,Fairgrounds Lg Ex Hall 9-2,U.S. House,,DEM,Green,26
+Park,Fairgrounds Lg Ex Hall 9-2,U.S. House,,DEM,Munker,11
+Park,Fairgrounds Lg Ex Hall 9-2,State House,25,REP,Jones,156
+Park,Fairgrounds Lg Ex Hall 9-2,Ballots Cast,,REP,Ballots Cast,182
+Park,Fairgrounds Lg Ex Hall 9-2,Ballots Cast,,DEM,Ballots Cast,40
+Park,Fairgrounds Lg Ex Hall 9-4,U.S. Senate,,REP,Thomas,162
+Park,Fairgrounds Lg Ex Hall 9-4,U.S. Senate,,DEM,Logan,16
+Park,Fairgrounds Lg Ex Hall 9-4,U.S. Senate,,DEM,Sumey,4
+Park,Fairgrounds Lg Ex Hall 9-4,U.S. House,,REP,Cubin,135
+Park,Fairgrounds Lg Ex Hall 9-4,U.S. House,,REP,Herdt,18
+Park,Fairgrounds Lg Ex Hall 9-4,U.S. House,,REP,Wenino,17
+Park,Fairgrounds Lg Ex Hall 9-4,U.S. House,,DEM,Green,16
+Park,Fairgrounds Lg Ex Hall 9-4,U.S. House,,DEM,Munker,4
+Park,Fairgrounds Lg Ex Hall 9-4,State House,25,REP,Jones,163
+Park,Fairgrounds Lg Ex Hall 9-4,Ballots Cast,,REP,Ballots Cast,187
+Park,Fairgrounds Lg Ex Hall 9-4,Ballots Cast,,DEM,Ballots Cast,24
+Park,Fairgrounds Lg Ex Hall 9-5,U.S. Senate,,REP,Thomas,167
+Park,Fairgrounds Lg Ex Hall 9-5,U.S. Senate,,DEM,Logan,13
+Park,Fairgrounds Lg Ex Hall 9-5,U.S. Senate,,DEM,Sumey,3
+Park,Fairgrounds Lg Ex Hall 9-5,U.S. House,,REP,Cubin,148
+Park,Fairgrounds Lg Ex Hall 9-5,U.S. House,,REP,Herdt,28
+Park,Fairgrounds Lg Ex Hall 9-5,U.S. House,,REP,Wenino,11
+Park,Fairgrounds Lg Ex Hall 9-5,U.S. House,,DEM,Green,13
+Park,Fairgrounds Lg Ex Hall 9-5,U.S. House,,DEM,Munker,4
+Park,Fairgrounds Lg Ex Hall 9-5,State Senate,18,REP,Coe,10
+Park,Fairgrounds Lg Ex Hall 9-5,State House,25,REP,Jones,157
+Park,Fairgrounds Lg Ex Hall 9-5,State House,50,REP,Childers,8
+Park,Fairgrounds Lg Ex Hall 9-5,State House,50,DEM,Capron,2
+Park,Fairgrounds Lg Ex Hall 9-5,Ballots Cast,,REP,Ballots Cast,192
+Park,Fairgrounds Lg Ex Hall 9-5,Ballots Cast,,DEM,Ballots Cast,22
+Park,Fairgrounds Lg Ex Hall 9-7,U.S. Senate,,REP,Thomas,190
+Park,Fairgrounds Lg Ex Hall 9-7,U.S. Senate,,DEM,Logan,27
+Park,Fairgrounds Lg Ex Hall 9-7,U.S. Senate,,DEM,Sumey,11
+Park,Fairgrounds Lg Ex Hall 9-7,U.S. House,,REP,Cubin,159
+Park,Fairgrounds Lg Ex Hall 9-7,U.S. House,,REP,Herdt,25
+Park,Fairgrounds Lg Ex Hall 9-7,U.S. House,,REP,Wenino,10
+Park,Fairgrounds Lg Ex Hall 9-7,U.S. House,,DEM,Green,29
+Park,Fairgrounds Lg Ex Hall 9-7,U.S. House,,DEM,Munker,9
+Park,Fairgrounds Lg Ex Hall 9-7,State Senate,18,REP,Coe,4
+Park,Fairgrounds Lg Ex Hall 9-7,State House,25,REP,Jones,178
+Park,Fairgrounds Lg Ex Hall 9-7,State House,50,REP,Childers,4
+Park,Fairgrounds Lg Ex Hall 9-7,State House,50,DEM,Capron,0
+Park,Fairgrounds Lg Ex Hall 9-7,Ballots Cast,,REP,Ballots Cast,202
+Park,Fairgrounds Lg Ex Hall 9-7,Ballots Cast,,DEM,Ballots Cast,45
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. Senate,,REP,Thomas,152
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. Senate,,DEM,Logan,14
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. Senate,,DEM,Sumey,5
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. House,,REP,Cubin,126
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. House,,REP,Herdt,24
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. House,,REP,Wenino,7
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. House,,DEM,Green,13
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. House,,DEM,Munker,6
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,State House,25,REP,Jones,146
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Ballots Cast,,REP,Ballots Cast,163
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Ballots Cast,,DEM,Ballots Cast,19
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. Senate,,REP,Thomas,255
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. Senate,,DEM,Logan,22
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. Senate,,DEM,Sumey,12
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. House,,REP,Cubin,217
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. House,,REP,Herdt,28
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. House,,REP,Wenino,12
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. House,,DEM,Green,18
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. House,,DEM,Munker,16
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,State Senate,18,REP,Coe,236
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,State House,50,REP,Childers,238
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,State House,50,DEM,Capron,31
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Ballots Cast,,REP,Ballots Cast,270
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Ballots Cast,,DEM,Ballots Cast,34
+Park,Garland Comm. Church 6-1,U.S. Senate,,REP,Thomas,177
+Park,Garland Comm. Church 6-1,U.S. Senate,,DEM,Logan,11
+Park,Garland Comm. Church 6-1,U.S. Senate,,DEM,Sumey,2
+Park,Garland Comm. Church 6-1,U.S. House,,REP,Cubin,143
+Park,Garland Comm. Church 6-1,U.S. House,,REP,Herdt,29
+Park,Garland Comm. Church 6-1,U.S. House,,REP,Wenino,9
+Park,Garland Comm. Church 6-1,U.S. House,,DEM,Green,10
+Park,Garland Comm. Church 6-1,U.S. House,,DEM,Munker,3
+Park,Garland Comm. Church 6-1,State House,25,REP,Jones,167
+Park,Garland Comm. Church 6-1,Ballots Cast,,REP,Ballots Cast,189
+Park,Garland Comm. Church 6-1,Ballots Cast,,DEM,Ballots Cast,16
+Park,Grace Baptist Church 4-1,U.S. Senate,,REP,Thomas,283
+Park,Grace Baptist Church 4-1,U.S. Senate,,DEM,Logan,15
+Park,Grace Baptist Church 4-1,U.S. Senate,,DEM,Sumey,8
+Park,Grace Baptist Church 4-1,U.S. House,,REP,Cubin,249
+Park,Grace Baptist Church 4-1,U.S. House,,REP,Herdt,32
+Park,Grace Baptist Church 4-1,U.S. House,,REP,Wenino,23
+Park,Grace Baptist Church 4-1,U.S. House,,DEM,Green,12
+Park,Grace Baptist Church 4-1,U.S. House,,DEM,Munker,11
+Park,Grace Baptist Church 4-1,State Senate,18,REP,Coe,254
+Park,Grace Baptist Church 4-1,State House,24,REP,Simpson,262
+Park,Grace Baptist Church 4-1,Ballots Cast,,REP,Ballots Cast,316
+Park,Grace Baptist Church 4-1,Ballots Cast,,DEM,Ballots Cast,24
+Park,Meeteetse Episcopal Church 8-1,U.S. Senate,,REP,Thomas,72
+Park,Meeteetse Episcopal Church 8-1,U.S. Senate,,DEM,Logan,0
+Park,Meeteetse Episcopal Church 8-1,U.S. Senate,,DEM,Sumey,1
+Park,Meeteetse Episcopal Church 8-1,U.S. House,,REP,Cubin,63
+Park,Meeteetse Episcopal Church 8-1,U.S. House,,REP,Herdt,8
+Park,Meeteetse Episcopal Church 8-1,U.S. House,,REP,Wenino,4
+Park,Meeteetse Episcopal Church 8-1,U.S. House,,DEM,Green,1
+Park,Meeteetse Episcopal Church 8-1,U.S. House,,DEM,Munker,0
+Park,Meeteetse Episcopal Church 8-1,State Senate,18,REP,Coe,68
+Park,Meeteetse Episcopal Church 8-1,State House,24,REP,Simpson,76
+Park,Meeteetse Episcopal Church 8-1,Ballots Cast,,REP,Ballots Cast,78
+Park,Meeteetse Episcopal Church 8-1,Ballots Cast,,DEM,Ballots Cast,1
+Park,Meeteetse Episcopal Church 8-3,U.S. Senate,,REP,Thomas,63
+Park,Meeteetse Episcopal Church 8-3,U.S. Senate,,DEM,Logan,3
+Park,Meeteetse Episcopal Church 8-3,U.S. Senate,,DEM,Sumey,4
+Park,Meeteetse Episcopal Church 8-3,U.S. House,,REP,Cubin,56
+Park,Meeteetse Episcopal Church 8-3,U.S. House,,REP,Herdt,5
+Park,Meeteetse Episcopal Church 8-3,U.S. House,,REP,Wenino,5
+Park,Meeteetse Episcopal Church 8-3,U.S. House,,DEM,Green,2
+Park,Meeteetse Episcopal Church 8-3,U.S. House,,DEM,Munker,4
+Park,Meeteetse Episcopal Church 8-3,State Senate,18,REP,Coe,58
+Park,Meeteetse Episcopal Church 8-3,State House,24,REP,Simpson,63
+Park,Meeteetse Episcopal Church 8-3,Ballots Cast,,REP,Ballots Cast,67
+Park,Meeteetse Episcopal Church 8-3,Ballots Cast,,DEM,Ballots Cast,7
+Park,Meeteetse Town Hall 8-2,U.S. Senate,,REP,Thomas,117
+Park,Meeteetse Town Hall 8-2,U.S. Senate,,DEM,Logan,13
+Park,Meeteetse Town Hall 8-2,U.S. Senate,,DEM,Sumey,2
+Park,Meeteetse Town Hall 8-2,U.S. House,,REP,Cubin,95
+Park,Meeteetse Town Hall 8-2,U.S. House,,REP,Herdt,14
+Park,Meeteetse Town Hall 8-2,U.S. House,,REP,Wenino,9
+Park,Meeteetse Town Hall 8-2,U.S. House,,DEM,Green,9
+Park,Meeteetse Town Hall 8-2,U.S. House,,DEM,Munker,7
+Park,Meeteetse Town Hall 8-2,State Senate,18,REP,Coe,113
+Park,Meeteetse Town Hall 8-2,State House,24,REP,Simpson,108
+Park,Meeteetse Town Hall 8-2,Ballots Cast,,REP,Ballots Cast,124
+Park,Meeteetse Town Hall 8-2,Ballots Cast,,DEM,Ballots Cast,16
+Park,National Guard Armory 3-1,U.S. Senate,,REP,Thomas,204
+Park,National Guard Armory 3-1,U.S. Senate,,DEM,Logan,10
+Park,National Guard Armory 3-1,U.S. Senate,,DEM,Sumey,5
+Park,National Guard Armory 3-1,U.S. House,,REP,Cubin,168
+Park,National Guard Armory 3-1,U.S. House,,REP,Herdt,25
+Park,National Guard Armory 3-1,U.S. House,,REP,Wenino,17
+Park,National Guard Armory 3-1,U.S. House,,DEM,Green,13
+Park,National Guard Armory 3-1,U.S. House,,DEM,Munker,2
+Park,National Guard Armory 3-1,State Senate,18,REP,Coe,192
+Park,National Guard Armory 3-1,State House,50,REP,Childers,191
+Park,National Guard Armory 3-1,State House,50,DEM,Capron,14
+Park,National Guard Armory 3-1,Ballots Cast,,REP,Ballots Cast,220
+Park,National Guard Armory 3-1,Ballots Cast,,DEM,Ballots Cast,16
+Park,National Guard Armory 3-2,U.S. Senate,,REP,Thomas,340
+Park,National Guard Armory 3-2,U.S. Senate,,DEM,Logan,16
+Park,National Guard Armory 3-2,U.S. Senate,,DEM,Sumey,8
+Park,National Guard Armory 3-2,U.S. House,,REP,Cubin,283
+Park,National Guard Armory 3-2,U.S. House,,REP,Herdt,35
+Park,National Guard Armory 3-2,U.S. House,,REP,Wenino,22
+Park,National Guard Armory 3-2,U.S. House,,DEM,Green,13
+Park,National Guard Armory 3-2,U.S. House,,DEM,Munker,9
+Park,National Guard Armory 3-2,State Senate,18,REP,Coe,314
+Park,National Guard Armory 3-2,State House,50,REP,Childers,308
+Park,National Guard Armory 3-2,State House,50,DEM,Capron,22
+Park,National Guard Armory 3-2,Ballots Cast,,REP,Ballots Cast,358
+Park,National Guard Armory 3-2,Ballots Cast,,DEM,Ballots Cast,26
+Park,Ralston Mountain View Club 21-1,U.S. Senate,,REP,Thomas,240
+Park,Ralston Mountain View Club 21-1,U.S. Senate,,DEM,Logan,12
+Park,Ralston Mountain View Club 21-1,U.S. Senate,,DEM,Sumey,9
+Park,Ralston Mountain View Club 21-1,U.S. House,,REP,Cubin,206
+Park,Ralston Mountain View Club 21-1,U.S. House,,REP,Herdt,26
+Park,Ralston Mountain View Club 21-1,U.S. House,,REP,Wenino,15
+Park,Ralston Mountain View Club 21-1,U.S. House,,DEM,Green,12
+Park,Ralston Mountain View Club 21-1,U.S. House,,DEM,Munker,8
+Park,Ralston Mountain View Club 21-1,State Senate,18,REP,Coe,224
+Park,Ralston Mountain View Club 21-1,State House,50,REP,Childers,215
+Park,Ralston Mountain View Club 21-1,State House,50,DEM,Capron,19
+Park,Ralston Mountain View Club 21-1,Ballots Cast,,REP,Ballots Cast,261
+Park,Ralston Mountain View Club 21-1,Ballots Cast,,DEM,Ballots Cast,22
+Park,Valley School House 7-2,U.S. Senate,,REP,Thomas,41
+Park,Valley School House 7-2,U.S. Senate,,DEM,Logan,0
+Park,Valley School House 7-2,U.S. Senate,,DEM,Sumey,0
+Park,Valley School House 7-2,U.S. House,,REP,Cubin,33
+Park,Valley School House 7-2,U.S. House,,REP,Herdt,6
+Park,Valley School House 7-2,U.S. House,,REP,Wenino,1
+Park,Valley School House 7-2,U.S. House,,DEM,Green,0
+Park,Valley School House 7-2,U.S. House,,DEM,Munker,0
+Park,Valley School House 7-2,State Senate,18,REP,Coe,36
+Park,Valley School House 7-2,State House,24,REP,Simpson,38
+Park,Valley School House 7-2,Ballots Cast,,REP,Ballots Cast,42
+Park,Valley School House 7-2,Ballots Cast,,DEM,Ballots Cast,0
+Park,Wapiti School House 16-1,U.S. Senate,,REP,Thomas,171
+Park,Wapiti School House 16-1,U.S. Senate,,DEM,Logan,13
+Park,Wapiti School House 16-1,U.S. Senate,,DEM,Sumey,6
+Park,Wapiti School House 16-1,U.S. House,,REP,Cubin,143
+Park,Wapiti School House 16-1,U.S. House,,REP,Herdt,23
+Park,Wapiti School House 16-1,U.S. House,,REP,Wenino,24
+Park,Wapiti School House 16-1,U.S. House,,DEM,Green,12
+Park,Wapiti School House 16-1,U.S. House,,DEM,Munker,7
+Park,Wapiti School House 16-1,State Senate,18,REP,Coe,162
+Park,Wapiti School House 16-1,State House,24,REP,Simpson,161
+Park,Wapiti School House 16-1,Ballots Cast,,REP,Ballots Cast,196
+Park,Wapiti School House 16-1,Ballots Cast,,DEM,Ballots Cast,19
+Park,Willwood Irrigation Dist. 23-1,U.S. Senate,,REP,Thomas,103
+Park,Willwood Irrigation Dist. 23-1,U.S. Senate,,DEM,Logan,11
+Park,Willwood Irrigation Dist. 23-1,U.S. Senate,,DEM,Sumey,1
+Park,Willwood Irrigation Dist. 23-1,U.S. House,,REP,Cubin,98
+Park,Willwood Irrigation Dist. 23-1,U.S. House,,REP,Herdt,10
+Park,Willwood Irrigation Dist. 23-1,U.S. House,,REP,Wenino,5
+Park,Willwood Irrigation Dist. 23-1,U.S. House,,DEM,Green,6
+Park,Willwood Irrigation Dist. 23-1,U.S. House,,DEM,Munker,5
+Park,Willwood Irrigation Dist. 23-1,State House,25,REP,Jones,102
+Park,Willwood Irrigation Dist. 23-1,Ballots Cast,,REP,Ballots Cast,116
+Park,Willwood Irrigation Dist. 23-1,Ballots Cast,,DEM,Ballots Cast,12

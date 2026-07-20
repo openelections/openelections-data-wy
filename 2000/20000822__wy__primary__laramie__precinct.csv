@@ -1,0 +1,721 @@
+county,precinct,office,district,party,candidate,votes
+Laramie,Afflerbach Elementary School 4-8,U.S. Senate,,REP,Thomas,182
+Laramie,Afflerbach Elementary School 4-8,U.S. Senate,,DEM,Logan,69
+Laramie,Afflerbach Elementary School 4-8,U.S. Senate,,DEM,Sumey,43
+Laramie,Afflerbach Elementary School 4-8,U.S. House,,REP,Cubin,138
+Laramie,Afflerbach Elementary School 4-8,U.S. House,,REP,Herdt,38
+Laramie,Afflerbach Elementary School 4-8,U.S. House,,REP,Wenino,10
+Laramie,Afflerbach Elementary School 4-8,U.S. House,,DEM,Green,68
+Laramie,Afflerbach Elementary School 4-8,U.S. House,,DEM,Munker,50
+Laramie,Afflerbach Elementary School 4-8,State Senate,8,DEM,Mockler,115
+Laramie,Afflerbach Elementary School 4-8,State House,12,REP,Campbell,155
+Laramie,Afflerbach Elementary School 4-8,State House,12,DEM,Morgan,113
+Laramie,Afflerbach Elementary School 4-8,Ballots Cast,,REP,Ballots Cast,187
+Laramie,Afflerbach Elementary School 4-8,Ballots Cast,,DEM,Ballots Cast,124
+Laramie,Air Guard Dorm Bldg 2-2,U.S. Senate,,REP,Thomas,199
+Laramie,Air Guard Dorm Bldg 2-2,U.S. Senate,,DEM,Logan,76
+Laramie,Air Guard Dorm Bldg 2-2,U.S. Senate,,DEM,Sumey,46
+Laramie,Air Guard Dorm Bldg 2-2,U.S. House,,REP,Cubin,158
+Laramie,Air Guard Dorm Bldg 2-2,U.S. House,,REP,Herdt,34
+Laramie,Air Guard Dorm Bldg 2-2,U.S. House,,REP,Wenino,7
+Laramie,Air Guard Dorm Bldg 2-2,U.S. House,,DEM,Green,54
+Laramie,Air Guard Dorm Bldg 2-2,U.S. House,,DEM,Munker,82
+Laramie,Air Guard Dorm Bldg 2-2,State Senate,4,REP,Kunz,184
+Laramie,Air Guard Dorm Bldg 2-2,State Senate,4,DEM,Tuma,124
+Laramie,Air Guard Dorm Bldg 2-2,State House,7,REP,Ross,182
+Laramie,Air Guard Dorm Bldg 2-2,State House,7,DEM,Bierma,125
+Laramie,Air Guard Dorm Bldg 2-2,Ballots Cast,,REP,Ballots Cast,214
+Laramie,Air Guard Dorm Bldg 2-2,Ballots Cast,,DEM,Ballots Cast,148
+Laramie,Albin Fire Station 6-5,U.S. Senate,,REP,Thomas,67
+Laramie,Albin Fire Station 6-5,U.S. Senate,,DEM,Logan,17
+Laramie,Albin Fire Station 6-5,U.S. Senate,,DEM,Sumey,4
+Laramie,Albin Fire Station 6-5,U.S. House,,REP,Cubin,58
+Laramie,Albin Fire Station 6-5,U.S. House,,REP,Herdt,8
+Laramie,Albin Fire Station 6-5,U.S. House,,REP,Wenino,1
+Laramie,Albin Fire Station 6-5,U.S. House,,DEM,Green,11
+Laramie,Albin Fire Station 6-5,U.S. House,,DEM,Munker,13
+Laramie,Albin Fire Station 6-5,State Senate,6,REP,Moore,63
+Laramie,Albin Fire Station 6-5,State Senate,6,DEM,Cathcart,26
+Laramie,Albin Fire Station 6-5,State House,10,REP,Anderson,66
+Laramie,Albin Fire Station 6-5,Ballots Cast,,REP,Ballots Cast,71
+Laramie,Albin Fire Station 6-5,Ballots Cast,,DEM,Ballots Cast,26
+Laramie,Alta Vista Elem. School 1-4,U.S. Senate,,REP,Thomas,257
+Laramie,Alta Vista Elem. School 1-4,U.S. Senate,,DEM,Logan,114
+Laramie,Alta Vista Elem. School 1-4,U.S. Senate,,DEM,Sumey,58
+Laramie,Alta Vista Elem. School 1-4,U.S. House,,REP,Cubin,204
+Laramie,Alta Vista Elem. School 1-4,U.S. House,,REP,Herdt,38
+Laramie,Alta Vista Elem. School 1-4,U.S. House,,REP,Wenino,18
+Laramie,Alta Vista Elem. School 1-4,U.S. House,,DEM,Green,80
+Laramie,Alta Vista Elem. School 1-4,U.S. House,,DEM,Munker,115
+Laramie,Alta Vista Elem. School 1-4,State House,11,DEM,Reese,193
+Laramie,Alta Vista Elem. School 1-4,Ballots Cast,,REP,Ballots Cast,279
+Laramie,Alta Vista Elem. School 1-4,Ballots Cast,,DEM,Ballots Cast,224
+Laramie,American Legion Post #6 1-9,U.S. Senate,,REP,Thomas,117
+Laramie,American Legion Post #6 1-9,U.S. Senate,,DEM,Logan,103
+Laramie,American Legion Post #6 1-9,U.S. Senate,,DEM,Sumey,32
+Laramie,American Legion Post #6 1-9,U.S. House,,REP,Cubin,85
+Laramie,American Legion Post #6 1-9,U.S. House,,REP,Herdt,25
+Laramie,American Legion Post #6 1-9,U.S. House,,REP,Wenino,7
+Laramie,American Legion Post #6 1-9,U.S. House,,DEM,Green,86
+Laramie,American Legion Post #6 1-9,U.S. House,,DEM,Munker,61
+Laramie,American Legion Post #6 1-9,State House,11,DEM,Reese,140
+Laramie,American Legion Post #6 1-9,Ballots Cast,,REP,Ballots Cast,127
+Laramie,American Legion Post #6 1-9,Ballots Cast,,DEM,Ballots Cast,159
+Laramie,Anderson Elementary School 3-9,U.S. Senate,,REP,Thomas,296
+Laramie,Anderson Elementary School 3-9,U.S. Senate,,DEM,Logan,90
+Laramie,Anderson Elementary School 3-9,U.S. Senate,,DEM,Sumey,47
+Laramie,Anderson Elementary School 3-9,U.S. House,,REP,Cubin,215
+Laramie,Anderson Elementary School 3-9,U.S. House,,REP,Herdt,58
+Laramie,Anderson Elementary School 3-9,U.S. House,,REP,Wenino,21
+Laramie,Anderson Elementary School 3-9,U.S. House,,DEM,Green,74
+Laramie,Anderson Elementary School 3-9,U.S. House,,DEM,Munker,81
+Laramie,Anderson Elementary School 3-9,State Senate,6,REP,Moore,251
+Laramie,Anderson Elementary School 3-9,State Senate,6,DEM,Cathcart,159
+Laramie,Anderson Elementary School 3-9,State House,9,REP,Burt,83
+Laramie,Anderson Elementary School 3-9,State House,9,REP,Johnson,224
+Laramie,Anderson Elementary School 3-9,Ballots Cast,,REP,Ballots Cast,318
+Laramie,Anderson Elementary School 3-9,Ballots Cast,,DEM,Ballots Cast,170
+Laramie,Army National Guard Armory 2-3,U.S. Senate,,REP,Thomas,331
+Laramie,Army National Guard Armory 2-3,U.S. Senate,,DEM,Logan,53
+Laramie,Army National Guard Armory 2-3,U.S. Senate,,DEM,Sumey,23
+Laramie,Army National Guard Armory 2-3,U.S. House,,REP,Cubin,255
+Laramie,Army National Guard Armory 2-3,U.S. House,,REP,Herdt,56
+Laramie,Army National Guard Armory 2-3,U.S. House,,REP,Wenino,30
+Laramie,Army National Guard Armory 2-3,U.S. House,,DEM,Green,38
+Laramie,Army National Guard Armory 2-3,U.S. House,,DEM,Munker,48
+Laramie,Army National Guard Armory 2-3,State House,42,REP,Illoway,217
+Laramie,Army National Guard Armory 2-3,State House,42,REP,Pretty,132
+Laramie,Army National Guard Armory 2-3,Ballots Cast,,REP,Ballots Cast,357
+Laramie,Army National Guard Armory 2-3,Ballots Cast,,DEM,Ballots Cast,102
+Laramie,Ascension Lutheran Church 2-8,U.S. Senate,,REP,Thomas,237
+Laramie,Ascension Lutheran Church 2-8,U.S. Senate,,DEM,Logan,82
+Laramie,Ascension Lutheran Church 2-8,U.S. Senate,,DEM,Sumey,46
+Laramie,Ascension Lutheran Church 2-8,U.S. House,,REP,Cubin,195
+Laramie,Ascension Lutheran Church 2-8,U.S. House,,REP,Herdt,38
+Laramie,Ascension Lutheran Church 2-8,U.S. House,,REP,Wenino,15
+Laramie,Ascension Lutheran Church 2-8,U.S. House,,DEM,Green,63
+Laramie,Ascension Lutheran Church 2-8,U.S. House,,DEM,Munker,88
+Laramie,Ascension Lutheran Church 2-8,State House,8,REP,Meuli,213
+Laramie,Ascension Lutheran Church 2-8,State House,8,DEM,Barrett,137
+Laramie,Ascension Lutheran Church 2-8,Ballots Cast,,REP,Ballots Cast,261
+Laramie,Ascension Lutheran Church 2-8,Ballots Cast,,DEM,Ballots Cast,171
+Laramie,Baggs Elementary School 3-2,U.S. Senate,,REP,Thomas,205
+Laramie,Baggs Elementary School 3-2,U.S. Senate,,DEM,Logan,95
+Laramie,Baggs Elementary School 3-2,U.S. Senate,,DEM,Sumey,56
+Laramie,Baggs Elementary School 3-2,U.S. House,,REP,Cubin,159
+Laramie,Baggs Elementary School 3-2,U.S. House,,REP,Herdt,38
+Laramie,Baggs Elementary School 3-2,U.S. House,,REP,Wenino,5
+Laramie,Baggs Elementary School 3-2,U.S. House,,DEM,Green,70
+Laramie,Baggs Elementary School 3-2,U.S. House,,DEM,Munker,92
+Laramie,Baggs Elementary School 3-2,State Senate,4,REP,Kunz,188
+Laramie,Baggs Elementary School 3-2,State Senate,4,DEM,Tuma,153
+Laramie,Baggs Elementary School 3-2,State House,41,DEM,McGraw,166
+Laramie,Baggs Elementary School 3-2,Ballots Cast,,REP,Ballots Cast,211
+Laramie,Baggs Elementary School 3-2,Ballots Cast,,DEM,Ballots Cast,179
+Laramie,Bain Elementary School 3-5,U.S. Senate,,REP,Thomas,311
+Laramie,Bain Elementary School 3-5,U.S. Senate,,DEM,Logan,133
+Laramie,Bain Elementary School 3-5,U.S. Senate,,DEM,Sumey,74
+Laramie,Bain Elementary School 3-5,U.S. House,,REP,Cubin,246
+Laramie,Bain Elementary School 3-5,U.S. House,,REP,Herdt,55
+Laramie,Bain Elementary School 3-5,U.S. House,,REP,Wenino,13
+Laramie,Bain Elementary School 3-5,U.S. House,,DEM,Green,103
+Laramie,Bain Elementary School 3-5,U.S. House,,DEM,Munker,127
+Laramie,Bain Elementary School 3-5,State House,43,REP,Samuelson,282
+Laramie,Bain Elementary School 3-5,Ballots Cast,,REP,Ballots Cast,328
+Laramie,Bain Elementary School 3-5,Ballots Cast,,DEM,Ballots Cast,260
+Laramie,Buffalo Ridge Elem. School 3-3,U.S. Senate,,REP,Thomas,326
+Laramie,Buffalo Ridge Elem. School 3-3,U.S. Senate,,DEM,Logan,107
+Laramie,Buffalo Ridge Elem. School 3-3,U.S. Senate,,DEM,Sumey,53
+Laramie,Buffalo Ridge Elem. School 3-3,U.S. House,,REP,Cubin,256
+Laramie,Buffalo Ridge Elem. School 3-3,U.S. House,,REP,Herdt,69
+Laramie,Buffalo Ridge Elem. School 3-3,U.S. House,,REP,Wenino,26
+Laramie,Buffalo Ridge Elem. School 3-3,U.S. House,,DEM,Green,84
+Laramie,Buffalo Ridge Elem. School 3-3,U.S. House,,DEM,Munker,93
+Laramie,Buffalo Ridge Elem. School 3-3,State Senate,6,REP,Moore,287
+Laramie,Buffalo Ridge Elem. School 3-3,State Senate,6,DEM,Cathcart,177
+Laramie,Buffalo Ridge Elem. School 3-3,State House,9,REP,Burt,75
+Laramie,Buffalo Ridge Elem. School 3-3,State House,9,REP,Johnson,273
+Laramie,Buffalo Ridge Elem. School 3-3,Ballots Cast,,REP,Ballots Cast,356
+Laramie,Buffalo Ridge Elem. School 3-3,Ballots Cast,,DEM,Ballots Cast,193
+Laramie,Calvary Baptist Church 3-7,U.S. Senate,,REP,Thomas,166
+Laramie,Calvary Baptist Church 3-7,U.S. Senate,,DEM,Logan,62
+Laramie,Calvary Baptist Church 3-7,U.S. Senate,,DEM,Sumey,33
+Laramie,Calvary Baptist Church 3-7,U.S. House,,REP,Cubin,126
+Laramie,Calvary Baptist Church 3-7,U.S. House,,REP,Herdt,24
+Laramie,Calvary Baptist Church 3-7,U.S. House,,REP,Wenino,17
+Laramie,Calvary Baptist Church 3-7,U.S. House,,DEM,Green,51
+Laramie,Calvary Baptist Church 3-7,U.S. House,,DEM,Munker,51
+Laramie,Calvary Baptist Church 3-7,State House,43,REP,Samuelson,154
+Laramie,Calvary Baptist Church 3-7,Ballots Cast,,REP,Ballots Cast,178
+Laramie,Calvary Baptist Church 3-7,Ballots Cast,,DEM,Ballots Cast,105
+Laramie,Carpenter Elementary School 5-4,U.S. Senate,,REP,Thomas,14
+Laramie,Carpenter Elementary School 5-4,U.S. Senate,,DEM,Logan,1
+Laramie,Carpenter Elementary School 5-4,U.S. Senate,,DEM,Sumey,0
+Laramie,Carpenter Elementary School 5-4,U.S. House,,REP,Cubin,12
+Laramie,Carpenter Elementary School 5-4,U.S. House,,REP,Herdt,2
+Laramie,Carpenter Elementary School 5-4,U.S. House,,REP,Wenino,0
+Laramie,Carpenter Elementary School 5-4,U.S. House,,DEM,Green,2
+Laramie,Carpenter Elementary School 5-4,U.S. House,,DEM,Munker,0
+Laramie,Carpenter Elementary School 5-4,State House,43,REP,Samuelson,13
+Laramie,Carpenter Elementary School 5-4,Ballots Cast,,REP,Ballots Cast,14
+Laramie,Carpenter Elementary School 5-4,Ballots Cast,,DEM,Ballots Cast,2
+Laramie,Carpenter Elementary School 6-1,U.S. Senate,,REP,Thomas,79
+Laramie,Carpenter Elementary School 6-1,U.S. Senate,,DEM,Logan,16
+Laramie,Carpenter Elementary School 6-1,U.S. Senate,,DEM,Sumey,9
+Laramie,Carpenter Elementary School 6-1,U.S. House,,REP,Cubin,68
+Laramie,Carpenter Elementary School 6-1,U.S. House,,REP,Herdt,8
+Laramie,Carpenter Elementary School 6-1,U.S. House,,REP,Wenino,4
+Laramie,Carpenter Elementary School 6-1,U.S. House,,DEM,Green,14
+Laramie,Carpenter Elementary School 6-1,U.S. House,,DEM,Munker,12
+Laramie,Carpenter Elementary School 6-1,State Senate,6,REP,Moore,71
+Laramie,Carpenter Elementary School 6-1,State Senate,6,DEM,Cathcart,26
+Laramie,Carpenter Elementary School 6-1,State House,10,REP,Anderson,75
+Laramie,Carpenter Elementary School 6-1,Ballots Cast,,REP,Ballots Cast,83
+Laramie,Carpenter Elementary School 6-1,Ballots Cast,,DEM,Ballots Cast,28
+Laramie,Central High School 2-4,U.S. Senate,,REP,Thomas,355
+Laramie,Central High School 2-4,U.S. Senate,,DEM,Logan,62
+Laramie,Central High School 2-4,U.S. Senate,,DEM,Sumey,40
+Laramie,Central High School 2-4,U.S. House,,REP,Cubin,287
+Laramie,Central High School 2-4,U.S. House,,REP,Herdt,51
+Laramie,Central High School 2-4,U.S. House,,REP,Wenino,22
+Laramie,Central High School 2-4,U.S. House,,DEM,Green,55
+Laramie,Central High School 2-4,U.S. House,,DEM,Munker,74
+Laramie,Central High School 2-4,State House,8,REP,Meuli,315
+Laramie,Central High School 2-4,State House,8,DEM,Barrett,125
+Laramie,Central High School 2-4,Ballots Cast,,REP,Ballots Cast,379
+Laramie,Central High School 2-4,Ballots Cast,,DEM,Ballots Cast,138
+Laramie,Cheyenne Berean Church 2-10,U.S. Senate,,REP,Thomas,338
+Laramie,Cheyenne Berean Church 2-10,U.S. Senate,,DEM,Logan,75
+Laramie,Cheyenne Berean Church 2-10,U.S. Senate,,DEM,Sumey,49
+Laramie,Cheyenne Berean Church 2-10,U.S. House,,REP,Cubin,270
+Laramie,Cheyenne Berean Church 2-10,U.S. House,,REP,Herdt,46
+Laramie,Cheyenne Berean Church 2-10,U.S. House,,REP,Wenino,8
+Laramie,Cheyenne Berean Church 2-10,U.S. House,,DEM,Green,61
+Laramie,Cheyenne Berean Church 2-10,U.S. House,,DEM,Munker,83
+Laramie,Cheyenne Berean Church 2-10,State Senate,4,REP,Kunz,298
+Laramie,Cheyenne Berean Church 2-10,State Senate,4,DEM,Tuma,126
+Laramie,Cheyenne Berean Church 2-10,State House,7,REP,Ross,312
+Laramie,Cheyenne Berean Church 2-10,State House,7,DEM,Bierma,123
+Laramie,Cheyenne Berean Church 2-10,Ballots Cast,,REP,Ballots Cast,350
+Laramie,Cheyenne Berean Church 2-10,Ballots Cast,,DEM,Ballots Cast,157
+Laramie,Cheyenne Botanic Gardens 2-1,U.S. Senate,,REP,Thomas,256
+Laramie,Cheyenne Botanic Gardens 2-1,U.S. Senate,,DEM,Logan,84
+Laramie,Cheyenne Botanic Gardens 2-1,U.S. Senate,,DEM,Sumey,52
+Laramie,Cheyenne Botanic Gardens 2-1,U.S. House,,REP,Cubin,194
+Laramie,Cheyenne Botanic Gardens 2-1,U.S. House,,REP,Herdt,46
+Laramie,Cheyenne Botanic Gardens 2-1,U.S. House,,REP,Wenino,21
+Laramie,Cheyenne Botanic Gardens 2-1,U.S. House,,DEM,Green,68
+Laramie,Cheyenne Botanic Gardens 2-1,U.S. House,,DEM,Munker,94
+Laramie,Cheyenne Botanic Gardens 2-1,State House,8,REP,Meuli,229
+Laramie,Cheyenne Botanic Gardens 2-1,State House,8,DEM,Barrett,151
+Laramie,Cheyenne Botanic Gardens 2-1,Ballots Cast,,REP,Ballots Cast,280
+Laramie,Cheyenne Botanic Gardens 2-1,Ballots Cast,,DEM,Ballots Cast,185
+Laramie,Clawson Elementary School 4-4,U.S. Senate,,REP,Thomas,37
+Laramie,Clawson Elementary School 4-4,U.S. Senate,,DEM,Logan,5
+Laramie,Clawson Elementary School 4-4,U.S. Senate,,DEM,Sumey,4
+Laramie,Clawson Elementary School 4-4,U.S. House,,REP,Cubin,32
+Laramie,Clawson Elementary School 4-4,U.S. House,,REP,Herdt,5
+Laramie,Clawson Elementary School 4-4,U.S. House,,REP,Wenino,0
+Laramie,Clawson Elementary School 4-4,U.S. House,,DEM,Green,7
+Laramie,Clawson Elementary School 4-4,U.S. House,,DEM,Munker,3
+Laramie,Clawson Elementary School 4-4,State Senate,4,REP,Kunz,34
+Laramie,Clawson Elementary School 4-4,State Senate,4,DEM,Tuma,10
+Laramie,Clawson Elementary School 4-4,State House,7,REP,Ross,36
+Laramie,Clawson Elementary School 4-4,State House,7,DEM,Bierma,9
+Laramie,Clawson Elementary School 4-4,Ballots Cast,,REP,Ballots Cast,37
+Laramie,Clawson Elementary School 4-4,Ballots Cast,,DEM,Ballots Cast,10
+Laramie,Cole Elementary School 1-2,U.S. Senate,,REP,Thomas,57
+Laramie,Cole Elementary School 1-2,U.S. Senate,,DEM,Logan,76
+Laramie,Cole Elementary School 1-2,U.S. Senate,,DEM,Sumey,39
+Laramie,Cole Elementary School 1-2,U.S. House,,REP,Cubin,44
+Laramie,Cole Elementary School 1-2,U.S. House,,REP,Herdt,9
+Laramie,Cole Elementary School 1-2,U.S. House,,REP,Wenino,3
+Laramie,Cole Elementary School 1-2,U.S. House,,DEM,Green,63
+Laramie,Cole Elementary School 1-2,U.S. House,,DEM,Munker,56
+Laramie,Cole Elementary School 1-2,State Senate,8,DEM,Mockler,115
+Laramie,Cole Elementary School 1-2,State House,44,REP,Hill,43
+Laramie,Cole Elementary School 1-2,State House,44,DEM,Esquibel,120
+Laramie,Cole Elementary School 1-2,Ballots Cast,,REP,Ballots Cast,58
+Laramie,Cole Elementary School 1-2,Ballots Cast,,DEM,Ballots Cast,128
+Laramie,County Building #1 1-11,U.S. Senate,,REP,Thomas,0
+Laramie,County Building #1 1-11,U.S. Senate,,DEM,Logan,0
+Laramie,County Building #1 1-11,U.S. Senate,,DEM,Sumey,0
+Laramie,County Building #1 1-11,U.S. House,,REP,Cubin,0
+Laramie,County Building #1 1-11,U.S. House,,REP,Herdt,0
+Laramie,County Building #1 1-11,U.S. House,,REP,Wenino,0
+Laramie,County Building #1 1-11,U.S. House,,DEM,Green,0
+Laramie,County Building #1 1-11,U.S. House,,DEM,Munker,0
+Laramie,County Building #1 1-11,Ballots Cast,,REP,Ballots Cast,0
+Laramie,County Building #1 1-11,Ballots Cast,,DEM,Ballots Cast,0
+Laramie,County Building #2 3-8,U.S. Senate,,REP,Thomas,0
+Laramie,County Building #2 3-8,U.S. Senate,,DEM,Logan,0
+Laramie,County Building #2 3-8,U.S. Senate,,DEM,Sumey,0
+Laramie,County Building #2 3-8,U.S. House,,REP,Cubin,0
+Laramie,County Building #2 3-8,U.S. House,,REP,Herdt,0
+Laramie,County Building #2 3-8,U.S. House,,REP,Wenino,0
+Laramie,County Building #2 3-8,U.S. House,,DEM,Green,0
+Laramie,County Building #2 3-8,U.S. House,,DEM,Munker,0
+Laramie,County Building #2 3-8,Ballots Cast,,REP,Ballots Cast,0
+Laramie,County Building #2 3-8,Ballots Cast,,DEM,Ballots Cast,0
+Laramie,County Building #3 3-10,U.S. Senate,,REP,Thomas,22
+Laramie,County Building #3 3-10,U.S. Senate,,DEM,Logan,4
+Laramie,County Building #3 3-10,U.S. Senate,,DEM,Sumey,1
+Laramie,County Building #3 3-10,U.S. House,,REP,Cubin,17
+Laramie,County Building #3 3-10,U.S. House,,REP,Herdt,4
+Laramie,County Building #3 3-10,U.S. House,,REP,Wenino,1
+Laramie,County Building #3 3-10,U.S. House,,DEM,Green,1
+Laramie,County Building #3 3-10,U.S. House,,DEM,Munker,5
+Laramie,County Building #3 3-10,State Senate,4,REP,Kunz,20
+Laramie,County Building #3 3-10,State Senate,4,DEM,Tuma,5
+Laramie,County Building #3 3-10,State House,7,REP,Ross,20
+Laramie,County Building #3 3-10,State House,7,DEM,Bierma,4
+Laramie,County Building #3 3-10,Ballots Cast,,REP,Ballots Cast,22
+Laramie,County Building #3 3-10,Ballots Cast,,DEM,Ballots Cast,7
+Laramie,County Building #4 4-7,U.S. Senate,,REP,Thomas,0
+Laramie,County Building #4 4-7,U.S. Senate,,DEM,Logan,0
+Laramie,County Building #4 4-7,U.S. Senate,,DEM,Sumey,0
+Laramie,County Building #4 4-7,U.S. House,,REP,Cubin,0
+Laramie,County Building #4 4-7,U.S. House,,REP,Herdt,0
+Laramie,County Building #4 4-7,U.S. House,,REP,Wenino,0
+Laramie,County Building #4 4-7,U.S. House,,DEM,Green,0
+Laramie,County Building #4 4-7,U.S. House,,DEM,Munker,0
+Laramie,County Building #4 4-7,Ballots Cast,,REP,Ballots Cast,0
+Laramie,County Building #4 4-7,Ballots Cast,,DEM,Ballots Cast,0
+Laramie,County Building #5 7-3,U.S. Senate,,REP,Thomas,1
+Laramie,County Building #5 7-3,U.S. Senate,,DEM,Logan,0
+Laramie,County Building #5 7-3,U.S. Senate,,DEM,Sumey,0
+Laramie,County Building #5 7-3,U.S. House,,REP,Cubin,1
+Laramie,County Building #5 7-3,U.S. House,,REP,Herdt,0
+Laramie,County Building #5 7-3,U.S. House,,REP,Wenino,0
+Laramie,County Building #5 7-3,U.S. House,,DEM,Green,0
+Laramie,County Building #5 7-3,U.S. House,,DEM,Munker,0
+Laramie,County Building #5 7-3,Ballots Cast,,REP,Ballots Cast,1
+Laramie,County Building #5 7-3,Ballots Cast,,DEM,Ballots Cast,0
+Laramie,County Building #6 7-4,U.S. Senate,,REP,Thomas,1
+Laramie,County Building #6 7-4,U.S. Senate,,DEM,Logan,0
+Laramie,County Building #6 7-4,U.S. Senate,,DEM,Sumey,0
+Laramie,County Building #6 7-4,U.S. House,,REP,Cubin,1
+Laramie,County Building #6 7-4,U.S. House,,REP,Herdt,0
+Laramie,County Building #6 7-4,U.S. House,,REP,Wenino,0
+Laramie,County Building #6 7-4,U.S. House,,DEM,Green,0
+Laramie,County Building #6 7-4,U.S. House,,DEM,Munker,0
+Laramie,County Building #6 7-4,State House,8,REP,Meuli,1
+Laramie,County Building #6 7-4,Ballots Cast,,REP,Ballots Cast,1
+Laramie,County Building #6 7-4,Ballots Cast,,DEM,Ballots Cast,0
+Laramie,Davis Elementary School 5-3,U.S. Senate,,REP,Thomas,310
+Laramie,Davis Elementary School 5-3,U.S. Senate,,DEM,Logan,73
+Laramie,Davis Elementary School 5-3,U.S. Senate,,DEM,Sumey,48
+Laramie,Davis Elementary School 5-3,U.S. House,,REP,Cubin,269
+Laramie,Davis Elementary School 5-3,U.S. House,,REP,Herdt,34
+Laramie,Davis Elementary School 5-3,U.S. House,,REP,Wenino,12
+Laramie,Davis Elementary School 5-3,U.S. House,,DEM,Green,64
+Laramie,Davis Elementary School 5-3,U.S. House,,DEM,Munker,62
+Laramie,Davis Elementary School 5-3,State Senate,4,REP,Kunz,290
+Laramie,Davis Elementary School 5-3,State Senate,4,DEM,Tuma,116
+Laramie,Davis Elementary School 5-3,State House,7,REP,Ross,288
+Laramie,Davis Elementary School 5-3,State House,7,DEM,Bierma,116
+Laramie,Davis Elementary School 5-3,Ballots Cast,,REP,Ballots Cast,326
+Laramie,Davis Elementary School 5-3,Ballots Cast,,DEM,Ballots Cast,135
+Laramie,Deming Elementary School 2-7,U.S. Senate,,REP,Thomas,230
+Laramie,Deming Elementary School 2-7,U.S. Senate,,DEM,Logan,99
+Laramie,Deming Elementary School 2-7,U.S. Senate,,DEM,Sumey,34
+Laramie,Deming Elementary School 2-7,U.S. House,,REP,Cubin,169
+Laramie,Deming Elementary School 2-7,U.S. House,,REP,Herdt,47
+Laramie,Deming Elementary School 2-7,U.S. House,,REP,Wenino,18
+Laramie,Deming Elementary School 2-7,U.S. House,,DEM,Green,57
+Laramie,Deming Elementary School 2-7,U.S. House,,DEM,Munker,90
+Laramie,Deming Elementary School 2-7,State House,8,REP,Meuli,211
+Laramie,Deming Elementary School 2-7,State House,8,DEM,Barrett,142
+Laramie,Deming Elementary School 2-7,Ballots Cast,,REP,Ballots Cast,254
+Laramie,Deming Elementary School 2-7,Ballots Cast,,DEM,Ballots Cast,171
+Laramie,Dildine Elementary School 5-2,U.S. Senate,,REP,Thomas,125
+Laramie,Dildine Elementary School 5-2,U.S. Senate,,DEM,Logan,31
+Laramie,Dildine Elementary School 5-2,U.S. Senate,,DEM,Sumey,12
+Laramie,Dildine Elementary School 5-2,U.S. House,,REP,Cubin,108
+Laramie,Dildine Elementary School 5-2,U.S. House,,REP,Herdt,13
+Laramie,Dildine Elementary School 5-2,U.S. House,,REP,Wenino,8
+Laramie,Dildine Elementary School 5-2,U.S. House,,DEM,Green,22
+Laramie,Dildine Elementary School 5-2,U.S. House,,DEM,Munker,29
+Laramie,Dildine Elementary School 5-2,State Senate,6,REP,Moore,106
+Laramie,Dildine Elementary School 5-2,State Senate,6,DEM,Cathcart,48
+Laramie,Dildine Elementary School 5-2,State House,10,REP,Anderson,114
+Laramie,Dildine Elementary School 5-2,Ballots Cast,,REP,Ballots Cast,133
+Laramie,Dildine Elementary School 5-2,Ballots Cast,,DEM,Ballots Cast,52
+Laramie,East High School #1 7-1,U.S. Senate,,REP,Thomas,22
+Laramie,East High School #1 7-1,U.S. Senate,,DEM,Logan,22
+Laramie,East High School #1 7-1,U.S. Senate,,DEM,Sumey,6
+Laramie,East High School #1 7-1,U.S. House,,REP,Cubin,17
+Laramie,East High School #1 7-1,U.S. House,,REP,Herdt,3
+Laramie,East High School #1 7-1,U.S. House,,REP,Wenino,1
+Laramie,East High School #1 7-1,U.S. House,,DEM,Green,15
+Laramie,East High School #1 7-1,U.S. House,,DEM,Munker,13
+Laramie,East High School #1 7-1,State Senate,4,REP,Kunz,22
+Laramie,East High School #1 7-1,State Senate,4,DEM,Tuma,25
+Laramie,East High School #1 7-1,State House,41,DEM,McGraw,26
+Laramie,East High School #1 7-1,Ballots Cast,,REP,Ballots Cast,22
+Laramie,East High School #1 7-1,Ballots Cast,,DEM,Ballots Cast,28
+Laramie,East High School #2 7-2,U.S. Senate,,REP,Thomas,21
+Laramie,East High School #2 7-2,U.S. Senate,,DEM,Logan,3
+Laramie,East High School #2 7-2,U.S. Senate,,DEM,Sumey,1
+Laramie,East High School #2 7-2,U.S. House,,REP,Cubin,15
+Laramie,East High School #2 7-2,U.S. House,,REP,Herdt,5
+Laramie,East High School #2 7-2,U.S. House,,REP,Wenino,1
+Laramie,East High School #2 7-2,U.S. House,,DEM,Green,4
+Laramie,East High School #2 7-2,U.S. House,,DEM,Munker,0
+Laramie,East High School #2 7-2,State Senate,6,REP,Moore,18
+Laramie,East High School #2 7-2,State Senate,6,DEM,Cathcart,4
+Laramie,East High School #2 7-2,State House,9,REP,Burt,4
+Laramie,East High School #2 7-2,State House,9,REP,Johnson,17
+Laramie,East High School #2 7-2,Ballots Cast,,REP,Ballots Cast,21
+Laramie,East High School #2 7-2,Ballots Cast,,DEM,Ballots Cast,4
+Laramie,East High School #3 7-5,U.S. Senate,,REP,Thomas,0
+Laramie,East High School #3 7-5,U.S. Senate,,DEM,Logan,0
+Laramie,East High School #3 7-5,U.S. Senate,,DEM,Sumey,0
+Laramie,East High School #3 7-5,U.S. House,,REP,Cubin,0
+Laramie,East High School #3 7-5,U.S. House,,REP,Herdt,0
+Laramie,East High School #3 7-5,U.S. House,,REP,Wenino,0
+Laramie,East High School #3 7-5,U.S. House,,DEM,Green,0
+Laramie,East High School #3 7-5,U.S. House,,DEM,Munker,0
+Laramie,East High School #3 7-5,Ballots Cast,,REP,Ballots Cast,0
+Laramie,East High School #3 7-5,Ballots Cast,,DEM,Ballots Cast,0
+Laramie,First Baptist Church 2-9,U.S. Senate,,REP,Thomas,298
+Laramie,First Baptist Church 2-9,U.S. Senate,,DEM,Logan,92
+Laramie,First Baptist Church 2-9,U.S. Senate,,DEM,Sumey,49
+Laramie,First Baptist Church 2-9,U.S. House,,REP,Cubin,240
+Laramie,First Baptist Church 2-9,U.S. House,,REP,Herdt,45
+Laramie,First Baptist Church 2-9,U.S. House,,REP,Wenino,13
+Laramie,First Baptist Church 2-9,U.S. House,,DEM,Green,57
+Laramie,First Baptist Church 2-9,U.S. House,,DEM,Munker,102
+Laramie,First Baptist Church 2-9,State Senate,4,REP,Kunz,286
+Laramie,First Baptist Church 2-9,State Senate,4,DEM,Tuma,147
+Laramie,First Baptist Church 2-9,State House,41,DEM,McGraw,165
+Laramie,First Baptist Church 2-9,Ballots Cast,,REP,Ballots Cast,313
+Laramie,First Baptist Church 2-9,Ballots Cast,,DEM,Ballots Cast,184
+Laramie,Goins Elementary School 1-1,U.S. Senate,,REP,Thomas,153
+Laramie,Goins Elementary School 1-1,U.S. Senate,,DEM,Logan,140
+Laramie,Goins Elementary School 1-1,U.S. Senate,,DEM,Sumey,73
+Laramie,Goins Elementary School 1-1,U.S. House,,REP,Cubin,122
+Laramie,Goins Elementary School 1-1,U.S. House,,REP,Herdt,31
+Laramie,Goins Elementary School 1-1,U.S. House,,REP,Wenino,7
+Laramie,Goins Elementary School 1-1,U.S. House,,DEM,Green,100
+Laramie,Goins Elementary School 1-1,U.S. House,,DEM,Munker,125
+Laramie,Goins Elementary School 1-1,State Senate,8,DEM,Mockler,216
+Laramie,Goins Elementary School 1-1,State House,12,REP,Campbell,146
+Laramie,Goins Elementary School 1-1,State House,12,DEM,Morgan,210
+Laramie,Goins Elementary School 1-1,Ballots Cast,,REP,Ballots Cast,163
+Laramie,Goins Elementary School 1-1,Ballots Cast,,DEM,Ballots Cast,239
+Laramie,Hebard Elementary School 1-10,U.S. Senate,,REP,Thomas,3
+Laramie,Hebard Elementary School 1-10,U.S. Senate,,DEM,Logan,5
+Laramie,Hebard Elementary School 1-10,U.S. Senate,,DEM,Sumey,2
+Laramie,Hebard Elementary School 1-10,U.S. House,,REP,Cubin,4
+Laramie,Hebard Elementary School 1-10,U.S. House,,REP,Herdt,0
+Laramie,Hebard Elementary School 1-10,U.S. House,,REP,Wenino,0
+Laramie,Hebard Elementary School 1-10,U.S. House,,DEM,Green,3
+Laramie,Hebard Elementary School 1-10,U.S. House,,DEM,Munker,4
+Laramie,Hebard Elementary School 1-10,State House,43,REP,Samuelson,3
+Laramie,Hebard Elementary School 1-10,Ballots Cast,,REP,Ballots Cast,4
+Laramie,Hebard Elementary School 1-10,Ballots Cast,,DEM,Ballots Cast,9
+Laramie,Hebard Elementary School 1-12,U.S. Senate,,REP,Thomas,99
+Laramie,Hebard Elementary School 1-12,U.S. Senate,,DEM,Logan,101
+Laramie,Hebard Elementary School 1-12,U.S. Senate,,DEM,Sumey,53
+Laramie,Hebard Elementary School 1-12,U.S. House,,REP,Cubin,69
+Laramie,Hebard Elementary School 1-12,U.S. House,,REP,Herdt,22
+Laramie,Hebard Elementary School 1-12,U.S. House,,REP,Wenino,8
+Laramie,Hebard Elementary School 1-12,U.S. House,,DEM,Green,82
+Laramie,Hebard Elementary School 1-12,U.S. House,,DEM,Munker,78
+Laramie,Hebard Elementary School 1-12,State Senate,8,DEM,Mockler,151
+Laramie,Hebard Elementary School 1-12,State House,44,REP,Hill,90
+Laramie,Hebard Elementary School 1-12,State House,44,DEM,Esquibel,154
+Laramie,Hebard Elementary School 1-12,Ballots Cast,,REP,Ballots Cast,102
+Laramie,Hebard Elementary School 1-12,Ballots Cast,,DEM,Ballots Cast,171
+Laramie,Henderson Elementary School 2-6,U.S. Senate,,REP,Thomas,315
+Laramie,Henderson Elementary School 2-6,U.S. Senate,,DEM,Logan,98
+Laramie,Henderson Elementary School 2-6,U.S. Senate,,DEM,Sumey,42
+Laramie,Henderson Elementary School 2-6,U.S. House,,REP,Cubin,237
+Laramie,Henderson Elementary School 2-6,U.S. House,,REP,Herdt,62
+Laramie,Henderson Elementary School 2-6,U.S. House,,REP,Wenino,20
+Laramie,Henderson Elementary School 2-6,U.S. House,,DEM,Green,63
+Laramie,Henderson Elementary School 2-6,U.S. House,,DEM,Munker,102
+Laramie,Henderson Elementary School 2-6,State Senate,4,REP,Kunz,297
+Laramie,Henderson Elementary School 2-6,State Senate,4,DEM,Tuma,140
+Laramie,Henderson Elementary School 2-6,State House,41,DEM,McGraw,158
+Laramie,Henderson Elementary School 2-6,Ballots Cast,,REP,Ballots Cast,338
+Laramie,Henderson Elementary School 2-6,Ballots Cast,,DEM,Ballots Cast,168
+Laramie,Hitching Post Inn 4-3,U.S. Senate,,REP,Thomas,315
+Laramie,Hitching Post Inn 4-3,U.S. Senate,,DEM,Logan,70
+Laramie,Hitching Post Inn 4-3,U.S. Senate,,DEM,Sumey,26
+Laramie,Hitching Post Inn 4-3,U.S. House,,REP,Cubin,255
+Laramie,Hitching Post Inn 4-3,U.S. House,,REP,Herdt,44
+Laramie,Hitching Post Inn 4-3,U.S. House,,REP,Wenino,24
+Laramie,Hitching Post Inn 4-3,U.S. House,,DEM,Green,49
+Laramie,Hitching Post Inn 4-3,U.S. House,,DEM,Munker,57
+Laramie,Hitching Post Inn 4-3,State House,42,REP,Illoway,214
+Laramie,Hitching Post Inn 4-3,State House,42,REP,Pretty,113
+Laramie,Hitching Post Inn 4-3,Ballots Cast,,REP,Ballots Cast,334
+Laramie,Hitching Post Inn 4-3,Ballots Cast,,DEM,Ballots Cast,111
+Laramie,Hobbs Elementary School 2-5,U.S. Senate,,REP,Thomas,296
+Laramie,Hobbs Elementary School 2-5,U.S. Senate,,DEM,Logan,74
+Laramie,Hobbs Elementary School 2-5,U.S. Senate,,DEM,Sumey,32
+Laramie,Hobbs Elementary School 2-5,U.S. House,,REP,Cubin,232
+Laramie,Hobbs Elementary School 2-5,U.S. House,,REP,Herdt,51
+Laramie,Hobbs Elementary School 2-5,U.S. House,,REP,Wenino,13
+Laramie,Hobbs Elementary School 2-5,U.S. House,,DEM,Green,43
+Laramie,Hobbs Elementary School 2-5,U.S. House,,DEM,Munker,80
+Laramie,Hobbs Elementary School 2-5,State Senate,4,REP,Kunz,273
+Laramie,Hobbs Elementary School 2-5,State Senate,4,DEM,Tuma,111
+Laramie,Hobbs Elementary School 2-5,State House,7,REP,Ross,271
+Laramie,Hobbs Elementary School 2-5,State House,7,DEM,Bierma,103
+Laramie,Hobbs Elementary School 2-5,Ballots Cast,,REP,Ballots Cast,317
+Laramie,Hobbs Elementary School 2-5,Ballots Cast,,DEM,Ballots Cast,140
+Laramie,Jessup Elementary School 2-11,U.S. Senate,,REP,Thomas,224
+Laramie,Jessup Elementary School 2-11,U.S. Senate,,DEM,Logan,32
+Laramie,Jessup Elementary School 2-11,U.S. Senate,,DEM,Sumey,13
+Laramie,Jessup Elementary School 2-11,U.S. House,,REP,Cubin,174
+Laramie,Jessup Elementary School 2-11,U.S. House,,REP,Herdt,32
+Laramie,Jessup Elementary School 2-11,U.S. House,,REP,Wenino,18
+Laramie,Jessup Elementary School 2-11,U.S. House,,DEM,Green,23
+Laramie,Jessup Elementary School 2-11,U.S. House,,DEM,Munker,34
+Laramie,Jessup Elementary School 2-11,State House,42,REP,Illoway,169
+Laramie,Jessup Elementary School 2-11,State House,42,REP,Pretty,66
+Laramie,Jessup Elementary School 2-11,Ballots Cast,,REP,Ballots Cast,241
+Laramie,Jessup Elementary School 2-11,Ballots Cast,,DEM,Ballots Cast,68
+Laramie,Laramie Co. Fire Dist. #2 5-5,U.S. Senate,,REP,Thomas,206
+Laramie,Laramie Co. Fire Dist. #2 5-5,U.S. Senate,,DEM,Logan,89
+Laramie,Laramie Co. Fire Dist. #2 5-5,U.S. Senate,,DEM,Sumey,37
+Laramie,Laramie Co. Fire Dist. #2 5-5,U.S. House,,REP,Cubin,160
+Laramie,Laramie Co. Fire Dist. #2 5-5,U.S. House,,REP,Herdt,39
+Laramie,Laramie Co. Fire Dist. #2 5-5,U.S. House,,REP,Wenino,8
+Laramie,Laramie Co. Fire Dist. #2 5-5,U.S. House,,DEM,Green,56
+Laramie,Laramie Co. Fire Dist. #2 5-5,U.S. House,,DEM,Munker,78
+Laramie,Laramie Co. Fire Dist. #2 5-5,State Senate,6,REP,Moore,183
+Laramie,Laramie Co. Fire Dist. #2 5-5,State Senate,6,DEM,Cathcart,134
+Laramie,Laramie Co. Fire Dist. #2 5-5,State House,10,REP,Anderson,186
+Laramie,Laramie Co. Fire Dist. #2 5-5,Ballots Cast,,REP,Ballots Cast,219
+Laramie,Laramie Co. Fire Dist. #2 5-5,Ballots Cast,,DEM,Ballots Cast,145
+Laramie,Laramie County Comm. College 5-1,U.S. Senate,,REP,Thomas,162
+Laramie,Laramie County Comm. College 5-1,U.S. Senate,,DEM,Logan,81
+Laramie,Laramie County Comm. College 5-1,U.S. Senate,,DEM,Sumey,50
+Laramie,Laramie County Comm. College 5-1,U.S. House,,REP,Cubin,126
+Laramie,Laramie County Comm. College 5-1,U.S. House,,REP,Herdt,21
+Laramie,Laramie County Comm. College 5-1,U.S. House,,REP,Wenino,17
+Laramie,Laramie County Comm. College 5-1,U.S. House,,DEM,Green,72
+Laramie,Laramie County Comm. College 5-1,U.S. House,,DEM,Munker,63
+Laramie,Laramie County Comm. College 5-1,State House,43,REP,Samuelson,150
+Laramie,Laramie County Comm. College 5-1,Ballots Cast,,REP,Ballots Cast,169
+Laramie,Laramie County Comm. College 5-1,Ballots Cast,,DEM,Ballots Cast,137
+Laramie,Laramie County Library 1-8,U.S. Senate,,REP,Thomas,122
+Laramie,Laramie County Library 1-8,U.S. Senate,,DEM,Logan,48
+Laramie,Laramie County Library 1-8,U.S. Senate,,DEM,Sumey,30
+Laramie,Laramie County Library 1-8,U.S. House,,REP,Cubin,93
+Laramie,Laramie County Library 1-8,U.S. House,,REP,Herdt,21
+Laramie,Laramie County Library 1-8,U.S. House,,REP,Wenino,17
+Laramie,Laramie County Library 1-8,U.S. House,,DEM,Green,27
+Laramie,Laramie County Library 1-8,U.S. House,,DEM,Munker,67
+Laramie,Laramie County Library 1-8,State Senate,8,DEM,Mockler,89
+Laramie,Laramie County Library 1-8,State House,44,REP,Hill,112
+Laramie,Laramie County Library 1-8,State House,44,DEM,Esquibel,79
+Laramie,Laramie County Library 1-8,Ballots Cast,,REP,Ballots Cast,141
+Laramie,Laramie County Library 1-8,Ballots Cast,,DEM,Ballots Cast,102
+Laramie,Lebhart Elementary School 3-1,U.S. Senate,,REP,Thomas,267
+Laramie,Lebhart Elementary School 3-1,U.S. Senate,,DEM,Logan,149
+Laramie,Lebhart Elementary School 3-1,U.S. Senate,,DEM,Sumey,77
+Laramie,Lebhart Elementary School 3-1,U.S. House,,REP,Cubin,207
+Laramie,Lebhart Elementary School 3-1,U.S. House,,REP,Herdt,48
+Laramie,Lebhart Elementary School 3-1,U.S. House,,REP,Wenino,17
+Laramie,Lebhart Elementary School 3-1,U.S. House,,DEM,Green,109
+Laramie,Lebhart Elementary School 3-1,U.S. House,,DEM,Munker,137
+Laramie,Lebhart Elementary School 3-1,State House,11,DEM,Reese,239
+Laramie,Lebhart Elementary School 3-1,Ballots Cast,,REP,Ballots Cast,296
+Laramie,Lebhart Elementary School 3-1,Ballots Cast,,DEM,Ballots Cast,268
+Laramie,Little Bear Grange Hall 4-6,U.S. Senate,,REP,Thomas,35
+Laramie,Little Bear Grange Hall 4-6,U.S. Senate,,DEM,Logan,3
+Laramie,Little Bear Grange Hall 4-6,U.S. Senate,,DEM,Sumey,2
+Laramie,Little Bear Grange Hall 4-6,U.S. House,,REP,Cubin,26
+Laramie,Little Bear Grange Hall 4-6,U.S. House,,REP,Herdt,7
+Laramie,Little Bear Grange Hall 4-6,U.S. House,,REP,Wenino,1
+Laramie,Little Bear Grange Hall 4-6,U.S. House,,DEM,Green,2
+Laramie,Little Bear Grange Hall 4-6,U.S. House,,DEM,Munker,3
+Laramie,Little Bear Grange Hall 4-6,State Senate,4,REP,Kunz,35
+Laramie,Little Bear Grange Hall 4-6,State Senate,4,DEM,Tuma,4
+Laramie,Little Bear Grange Hall 4-6,State House,7,REP,Ross,34
+Laramie,Little Bear Grange Hall 4-6,State House,7,DEM,Bierma,4
+Laramie,Little Bear Grange Hall 4-6,Ballots Cast,,REP,Ballots Cast,35
+Laramie,Little Bear Grange Hall 4-6,Ballots Cast,,DEM,Ballots Cast,5
+Laramie,Little Bear Grange Hall 6-7,U.S. Senate,,REP,Thomas,0
+Laramie,Little Bear Grange Hall 6-7,U.S. Senate,,DEM,Logan,1
+Laramie,Little Bear Grange Hall 6-7,U.S. Senate,,DEM,Sumey,0
+Laramie,Little Bear Grange Hall 6-7,U.S. House,,REP,Cubin,0
+Laramie,Little Bear Grange Hall 6-7,U.S. House,,REP,Herdt,0
+Laramie,Little Bear Grange Hall 6-7,U.S. House,,REP,Wenino,0
+Laramie,Little Bear Grange Hall 6-7,U.S. House,,DEM,Green,0
+Laramie,Little Bear Grange Hall 6-7,U.S. House,,DEM,Munker,1
+Laramie,Little Bear Grange Hall 6-7,State Senate,6,DEM,Cathcart,1
+Laramie,Little Bear Grange Hall 6-7,Ballots Cast,,REP,Ballots Cast,0
+Laramie,Little Bear Grange Hall 6-7,Ballots Cast,,DEM,Ballots Cast,1
+Laramie,Meriden 6-4,U.S. Senate,,REP,Thomas,34
+Laramie,Meriden 6-4,U.S. Senate,,DEM,Logan,3
+Laramie,Meriden 6-4,U.S. Senate,,DEM,Sumey,3
+Laramie,Meriden 6-4,U.S. House,,REP,Cubin,26
+Laramie,Meriden 6-4,U.S. House,,REP,Herdt,6
+Laramie,Meriden 6-4,U.S. House,,REP,Wenino,1
+Laramie,Meriden 6-4,U.S. House,,DEM,Green,0
+Laramie,Meriden 6-4,U.S. House,,DEM,Munker,7
+Laramie,Meriden 6-4,State Senate,6,REP,Moore,33
+Laramie,Meriden 6-4,State Senate,6,DEM,Cathcart,7
+Laramie,Meriden 6-4,State House,10,REP,Anderson,31
+Laramie,Meriden 6-4,Ballots Cast,,REP,Ballots Cast,36
+Laramie,Meriden 6-4,Ballots Cast,,DEM,Ballots Cast,7
+Laramie,Northwoods Presbyterian Church 3-4,U.S. Senate,,REP,Thomas,279
+Laramie,Northwoods Presbyterian Church 3-4,U.S. Senate,,DEM,Logan,88
+Laramie,Northwoods Presbyterian Church 3-4,U.S. Senate,,DEM,Sumey,39
+Laramie,Northwoods Presbyterian Church 3-4,U.S. House,,REP,Cubin,215
+Laramie,Northwoods Presbyterian Church 3-4,U.S. House,,REP,Herdt,50
+Laramie,Northwoods Presbyterian Church 3-4,U.S. House,,REP,Wenino,19
+Laramie,Northwoods Presbyterian Church 3-4,U.S. House,,DEM,Green,66
+Laramie,Northwoods Presbyterian Church 3-4,U.S. House,,DEM,Munker,66
+Laramie,Northwoods Presbyterian Church 3-4,State Senate,6,REP,Moore,221
+Laramie,Northwoods Presbyterian Church 3-4,State Senate,6,DEM,Cathcart,127
+Laramie,Northwoods Presbyterian Church 3-4,State House,9,REP,Burt,65
+Laramie,Northwoods Presbyterian Church 3-4,State House,9,REP,Johnson,226
+Laramie,Northwoods Presbyterian Church 3-4,Ballots Cast,,REP,Ballots Cast,299
+Laramie,Northwoods Presbyterian Church 3-4,Ballots Cast,,DEM,Ballots Cast,153
+Laramie,Pine Bluffs High School 6-3,U.S. Senate,,REP,Thomas,195
+Laramie,Pine Bluffs High School 6-3,U.S. Senate,,DEM,Logan,36
+Laramie,Pine Bluffs High School 6-3,U.S. Senate,,DEM,Sumey,18
+Laramie,Pine Bluffs High School 6-3,U.S. House,,REP,Cubin,167
+Laramie,Pine Bluffs High School 6-3,U.S. House,,REP,Herdt,20
+Laramie,Pine Bluffs High School 6-3,U.S. House,,REP,Wenino,13
+Laramie,Pine Bluffs High School 6-3,U.S. House,,DEM,Green,25
+Laramie,Pine Bluffs High School 6-3,U.S. House,,DEM,Munker,31
+Laramie,Pine Bluffs High School 6-3,State Senate,6,REP,Moore,179
+Laramie,Pine Bluffs High School 6-3,State Senate,6,DEM,Cathcart,59
+Laramie,Pine Bluffs High School 6-3,State House,10,REP,Anderson,179
+Laramie,Pine Bluffs High School 6-3,Ballots Cast,,REP,Ballots Cast,201
+Laramie,Pine Bluffs High School 6-3,Ballots Cast,,DEM,Ballots Cast,60
+Laramie,Pioneer Park Elem. School 1-3,U.S. Senate,,REP,Thomas,139
+Laramie,Pioneer Park Elem. School 1-3,U.S. Senate,,DEM,Logan,103
+Laramie,Pioneer Park Elem. School 1-3,U.S. Senate,,DEM,Sumey,59
+Laramie,Pioneer Park Elem. School 1-3,U.S. House,,REP,Cubin,108
+Laramie,Pioneer Park Elem. School 1-3,U.S. House,,REP,Herdt,24
+Laramie,Pioneer Park Elem. School 1-3,U.S. House,,REP,Wenino,13
+Laramie,Pioneer Park Elem. School 1-3,U.S. House,,DEM,Green,80
+Laramie,Pioneer Park Elem. School 1-3,U.S. House,,DEM,Munker,97
+Laramie,Pioneer Park Elem. School 1-3,State Senate,8,DEM,Mockler,165
+Laramie,Pioneer Park Elem. School 1-3,State House,44,REP,Hill,117
+Laramie,Pioneer Park Elem. School 1-3,State House,44,DEM,Esquibel,165
+Laramie,Pioneer Park Elem. School 1-3,Ballots Cast,,REP,Ballots Cast,155
+Laramie,Pioneer Park Elem. School 1-3,Ballots Cast,,DEM,Ballots Cast,190
+Laramie,Rossman Elementary School 4-2,U.S. Senate,,REP,Thomas,97
+Laramie,Rossman Elementary School 4-2,U.S. Senate,,DEM,Logan,52
+Laramie,Rossman Elementary School 4-2,U.S. Senate,,DEM,Sumey,22
+Laramie,Rossman Elementary School 4-2,U.S. House,,REP,Cubin,71
+Laramie,Rossman Elementary School 4-2,U.S. House,,REP,Herdt,20
+Laramie,Rossman Elementary School 4-2,U.S. House,,REP,Wenino,9
+Laramie,Rossman Elementary School 4-2,U.S. House,,DEM,Green,36
+Laramie,Rossman Elementary School 4-2,U.S. House,,DEM,Munker,46
+Laramie,Rossman Elementary School 4-2,State Senate,8,DEM,Mockler,79
+Laramie,Rossman Elementary School 4-2,State House,12,REP,Campbell,72
+Laramie,Rossman Elementary School 4-2,State House,12,DEM,Morgan,82
+Laramie,Rossman Elementary School 4-2,Ballots Cast,,REP,Ballots Cast,101
+Laramie,Rossman Elementary School 4-2,Ballots Cast,,DEM,Ballots Cast,90
+Laramie,Shrine Club 4-5,U.S. Senate,,REP,Thomas,314
+Laramie,Shrine Club 4-5,U.S. Senate,,DEM,Logan,56
+Laramie,Shrine Club 4-5,U.S. Senate,,DEM,Sumey,35
+Laramie,Shrine Club 4-5,U.S. House,,REP,Cubin,253
+Laramie,Shrine Club 4-5,U.S. House,,REP,Herdt,55
+Laramie,Shrine Club 4-5,U.S. House,,REP,Wenino,22
+Laramie,Shrine Club 4-5,U.S. House,,DEM,Green,46
+Laramie,Shrine Club 4-5,U.S. House,,DEM,Munker,55
+Laramie,Shrine Club 4-5,State Senate,4,REP,Kunz,295
+Laramie,Shrine Club 4-5,State Senate,4,DEM,Tuma,95
+Laramie,Shrine Club 4-5,State House,7,REP,Ross,294
+Laramie,Shrine Club 4-5,State House,7,DEM,Bierma,92
+Laramie,Shrine Club 4-5,Ballots Cast,,REP,Ballots Cast,339
+Laramie,Shrine Club 4-5,Ballots Cast,,DEM,Ballots Cast,110
+Laramie,Shrine Club 6-6,U.S. Senate,,REP,Thomas,0
+Laramie,Shrine Club 6-6,U.S. Senate,,DEM,Logan,1
+Laramie,Shrine Club 6-6,U.S. Senate,,DEM,Sumey,0
+Laramie,Shrine Club 6-6,U.S. House,,REP,Cubin,0
+Laramie,Shrine Club 6-6,U.S. House,,REP,Herdt,0
+Laramie,Shrine Club 6-6,U.S. House,,REP,Wenino,0
+Laramie,Shrine Club 6-6,U.S. House,,DEM,Green,1
+Laramie,Shrine Club 6-6,U.S. House,,DEM,Munker,0
+Laramie,Shrine Club 6-6,State Senate,6,DEM,Cathcart,1
+Laramie,Shrine Club 6-6,Ballots Cast,,REP,Ballots Cast,0
+Laramie,Shrine Club 6-6,Ballots Cast,,DEM,Ballots Cast,1
+Laramie,Storey Gym 1-6,U.S. Senate,,REP,Thomas,59
+Laramie,Storey Gym 1-6,U.S. Senate,,DEM,Logan,20
+Laramie,Storey Gym 1-6,U.S. Senate,,DEM,Sumey,14
+Laramie,Storey Gym 1-6,U.S. House,,REP,Cubin,43
+Laramie,Storey Gym 1-6,U.S. House,,REP,Herdt,13
+Laramie,Storey Gym 1-6,U.S. House,,REP,Wenino,10
+Laramie,Storey Gym 1-6,U.S. House,,DEM,Green,22
+Laramie,Storey Gym 1-6,U.S. House,,DEM,Munker,14
+Laramie,Storey Gym 1-6,State House,8,REP,Meuli,53
+Laramie,Storey Gym 1-6,State House,8,DEM,Barrett,36
+Laramie,Storey Gym 1-6,Ballots Cast,,REP,Ballots Cast,70
+Laramie,Storey Gym 1-6,Ballots Cast,,DEM,Ballots Cast,44
+Laramie,Storey Gym 1-7,U.S. Senate,,REP,Thomas,28
+Laramie,Storey Gym 1-7,U.S. Senate,,DEM,Logan,17
+Laramie,Storey Gym 1-7,U.S. Senate,,DEM,Sumey,4
+Laramie,Storey Gym 1-7,U.S. House,,REP,Cubin,20
+Laramie,Storey Gym 1-7,U.S. House,,REP,Herdt,8
+Laramie,Storey Gym 1-7,U.S. House,,REP,Wenino,2
+Laramie,Storey Gym 1-7,U.S. House,,DEM,Green,11
+Laramie,Storey Gym 1-7,U.S. House,,DEM,Munker,11
+Laramie,Storey Gym 1-7,State Senate,4,REP,Kunz,25
+Laramie,Storey Gym 1-7,State Senate,4,DEM,Tuma,20
+Laramie,Storey Gym 1-7,State House,41,DEM,McGraw,23
+Laramie,Storey Gym 1-7,Ballots Cast,,REP,Ballots Cast,30
+Laramie,Storey Gym 1-7,Ballots Cast,,DEM,Ballots Cast,26
+Laramie,Sunnyside Baptist Church 3-6,U.S. Senate,,REP,Thomas,139
+Laramie,Sunnyside Baptist Church 3-6,U.S. Senate,,DEM,Logan,43
+Laramie,Sunnyside Baptist Church 3-6,U.S. Senate,,DEM,Sumey,18
+Laramie,Sunnyside Baptist Church 3-6,U.S. House,,REP,Cubin,95
+Laramie,Sunnyside Baptist Church 3-6,U.S. House,,REP,Herdt,26
+Laramie,Sunnyside Baptist Church 3-6,U.S. House,,REP,Wenino,14
+Laramie,Sunnyside Baptist Church 3-6,U.S. House,,DEM,Green,29
+Laramie,Sunnyside Baptist Church 3-6,U.S. House,,DEM,Munker,37
+Laramie,Sunnyside Baptist Church 3-6,State Senate,6,REP,Moore,113
+Laramie,Sunnyside Baptist Church 3-6,State Senate,6,DEM,Cathcart,62
+Laramie,Sunnyside Baptist Church 3-6,State House,10,REP,Anderson,117
+Laramie,Sunnyside Baptist Church 3-6,Ballots Cast,,REP,Ballots Cast,147
+Laramie,Sunnyside Baptist Church 3-6,Ballots Cast,,DEM,Ballots Cast,73
+Laramie,United Medical Ctr. East 1-5,U.S. Senate,,REP,Thomas,89
+Laramie,United Medical Ctr. East 1-5,U.S. Senate,,DEM,Logan,52
+Laramie,United Medical Ctr. East 1-5,U.S. Senate,,DEM,Sumey,24
+Laramie,United Medical Ctr. East 1-5,U.S. House,,REP,Cubin,70
+Laramie,United Medical Ctr. East 1-5,U.S. House,,REP,Herdt,17
+Laramie,United Medical Ctr. East 1-5,U.S. House,,REP,Wenino,5
+Laramie,United Medical Ctr. East 1-5,U.S. House,,DEM,Green,28
+Laramie,United Medical Ctr. East 1-5,U.S. House,,DEM,Munker,49
+Laramie,United Medical Ctr. East 1-5,State Senate,4,REP,Kunz,84
+Laramie,United Medical Ctr. East 1-5,State Senate,4,DEM,Tuma,68
+Laramie,United Medical Ctr. East 1-5,State House,41,DEM,McGraw,71
+Laramie,United Medical Ctr. East 1-5,Ballots Cast,,REP,Ballots Cast,97
+Laramie,United Medical Ctr. East 1-5,Ballots Cast,,DEM,Ballots Cast,85
+Laramie,West Elementary School 6-2,U.S. Senate,,REP,Thomas,216
+Laramie,West Elementary School 6-2,U.S. Senate,,DEM,Logan,48
+Laramie,West Elementary School 6-2,U.S. Senate,,DEM,Sumey,23
+Laramie,West Elementary School 6-2,U.S. House,,REP,Cubin,185
+Laramie,West Elementary School 6-2,U.S. House,,REP,Herdt,28
+Laramie,West Elementary School 6-2,U.S. House,,REP,Wenino,5
+Laramie,West Elementary School 6-2,U.S. House,,DEM,Green,42
+Laramie,West Elementary School 6-2,U.S. House,,DEM,Munker,35
+Laramie,West Elementary School 6-2,State Senate,6,REP,Moore,209
+Laramie,West Elementary School 6-2,State Senate,6,DEM,Cathcart,76
+Laramie,West Elementary School 6-2,State House,10,REP,Anderson,200
+Laramie,West Elementary School 6-2,Ballots Cast,,REP,Ballots Cast,221
+Laramie,West Elementary School 6-2,Ballots Cast,,DEM,Ballots Cast,83
+Laramie,Willadsen Elementary School 4-1,U.S. Senate,,REP,Thomas,23
+Laramie,Willadsen Elementary School 4-1,U.S. Senate,,DEM,Logan,3
+Laramie,Willadsen Elementary School 4-1,U.S. Senate,,DEM,Sumey,1
+Laramie,Willadsen Elementary School 4-1,U.S. House,,REP,Cubin,21
+Laramie,Willadsen Elementary School 4-1,U.S. House,,REP,Herdt,2
+Laramie,Willadsen Elementary School 4-1,U.S. House,,REP,Wenino,0
+Laramie,Willadsen Elementary School 4-1,U.S. House,,DEM,Green,2
+Laramie,Willadsen Elementary School 4-1,U.S. House,,DEM,Munker,2
+Laramie,Willadsen Elementary School 4-1,State House,42,REP,Illoway,20
+Laramie,Willadsen Elementary School 4-1,State House,42,REP,Pretty,3
+Laramie,Willadsen Elementary School 4-1,Ballots Cast,,REP,Ballots Cast,23
+Laramie,Willadsen Elementary School 4-1,Ballots Cast,,DEM,Ballots Cast,6

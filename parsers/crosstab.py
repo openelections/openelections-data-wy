@@ -335,6 +335,30 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
     # Labels in the precinct column that should be skipped as block separators
     # (2000 primary uses "::" to delimit race groups within a single sheet).
     SKIP_PRECINCT_LABELS = {"::", ":"}
+
+    # Pre-scan: detect repeated precinct-name columns. 2000 source layouts
+    # split the sheet into side-by-side blocks and repeat the precinct name
+    # in spacer columns between blocks. Those columns have no candidate label
+    # and would otherwise be misclassified as ballots-cast columns. Mark any
+    # column whose value matches the row's precinct label as skip.
+    for r in range(cfg.data_start_row, nrows):
+        if r >= nrows:
+            break
+        row = mat[r]
+        if not row:
+            continue
+        label = row[cfg.precinct_col] if cfg.precinct_col < len(row) else None
+        if not isinstance(label, str) or not label or label in SKIP_PRECINCT_LABELS:
+            continue
+        for c, meta in enumerate(col_meta):
+            if meta.get("skip"):
+                continue
+            if c >= len(row):
+                continue
+            v = row[c]
+            if isinstance(v, str) and v == label:
+                meta["skip"] = True
+
     for r in range(cfg.data_start_row, nrows):
         row = mat[r]
         if not row:

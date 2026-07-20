@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Niobrara,Hat Creek - Lusk 3-2,President,,REP,Bush,61
+Niobrara,Hat Creek - Lusk 3-2,President,,DEM,Gore,0
+Niobrara,Hat Creek - Lusk 3-2,President,,LIB,Browne,1
+Niobrara,Hat Creek - Lusk 3-2,President,,IND,Phillips,0
+Niobrara,Hat Creek - Lusk 3-2,President,,NL,Hagelin,1
+Niobrara,Hat Creek - Lusk 3-2,President,,REF,Buchanan,2
+Niobrara,Hat Creek - Lusk 3-2,U.S. Senate,,REP,Thomas,62
+Niobrara,Hat Creek - Lusk 3-2,U.S. Senate,,DEM,Logan,1
+Niobrara,Hat Creek - Lusk 3-2,U.S. Senate,,LIB,Dawson,2
+Niobrara,Hat Creek - Lusk 3-2,U.S. House,,REP,Cubin,60
+Niobrara,Hat Creek - Lusk 3-2,U.S. House,,DEM,Green,1
+Niobrara,Hat Creek - Lusk 3-2,U.S. House,,LIB,Stock,5
+Niobrara,Hat Creek - Lusk 3-2,U.S. House,,NL,Raymond,0
+Niobrara,Hat Creek - Lusk 3-2,State House,2,DEM,Diercks,60
+Niobrara,Hat Creek - Lusk 3-2,Ballots Cast,,,Ballots Cast,66
+Niobrara,Lance Creek 4-1,President,,REP,Bush,85
+Niobrara,Lance Creek 4-1,President,,DEM,Gore,1
+Niobrara,Lance Creek 4-1,President,,LIB,Browne,0
+Niobrara,Lance Creek 4-1,President,,IND,Phillips,0
+Niobrara,Lance Creek 4-1,President,,NL,Hagelin,0
+Niobrara,Lance Creek 4-1,President,,REF,Buchanan,2
+Niobrara,Lance Creek 4-1,U.S. Senate,,REP,Thomas,84
+Niobrara,Lance Creek 4-1,U.S. Senate,,DEM,Logan,1
+Niobrara,Lance Creek 4-1,U.S. Senate,,LIB,Dawson,2
+Niobrara,Lance Creek 4-1,U.S. House,,REP,Cubin,80
+Niobrara,Lance Creek 4-1,U.S. House,,DEM,Green,3
+Niobrara,Lance Creek 4-1,U.S. House,,LIB,Stock,4
+Niobrara,Lance Creek 4-1,U.S. House,,NL,Raymond,0
+Niobrara,Lance Creek 4-1,State House,2,DEM,Diercks,68
+Niobrara,Lance Creek 4-1,Ballots Cast,,,Ballots Cast,89
+Niobrara,Manville 7-1,President,,REP,Bush,95
+Niobrara,Manville 7-1,President,,DEM,Gore,13
+Niobrara,Manville 7-1,President,,LIB,Browne,0
+Niobrara,Manville 7-1,President,,IND,Phillips,1
+Niobrara,Manville 7-1,President,,NL,Hagelin,1
+Niobrara,Manville 7-1,President,,REF,Buchanan,0
+Niobrara,Manville 7-1,U.S. Senate,,REP,Thomas,99
+Niobrara,Manville 7-1,U.S. Senate,,DEM,Logan,6
+Niobrara,Manville 7-1,U.S. Senate,,LIB,Dawson,1
+Niobrara,Manville 7-1,U.S. House,,REP,Cubin,96
+Niobrara,Manville 7-1,U.S. House,,DEM,Green,10
+Niobrara,Manville 7-1,U.S. House,,LIB,Stock,1
+Niobrara,Manville 7-1,U.S. House,,NL,Raymond,2
+Niobrara,Manville 7-1,State House,2,DEM,Diercks,98
+Niobrara,Manville 7-1,Ballots Cast,,,Ballots Cast,118
+Niobrara,North Lusk 6-1,President,,REP,Bush,209
+Niobrara,North Lusk 6-1,President,,DEM,Gore,52
+Niobrara,North Lusk 6-1,President,,LIB,Browne,0
+Niobrara,North Lusk 6-1,President,,IND,Phillips,4
+Niobrara,North Lusk 6-1,President,,NL,Hagelin,0
+Niobrara,North Lusk 6-1,President,,REF,Buchanan,3
+Niobrara,North Lusk 6-1,U.S. Senate,,REP,Thomas,218
+Niobrara,North Lusk 6-1,U.S. Senate,,DEM,Logan,37
+Niobrara,North Lusk 6-1,U.S. Senate,,LIB,Dawson,12
+Niobrara,North Lusk 6-1,U.S. House,,REP,Cubin,209
+Niobrara,North Lusk 6-1,U.S. House,,DEM,Green,46
+Niobrara,North Lusk 6-1,U.S. House,,LIB,Stock,10
+Niobrara,North Lusk 6-1,U.S. House,,NL,Raymond,5
+Niobrara,North Lusk 6-1,State House,2,DEM,Diercks,243
+Niobrara,North Lusk 6-1,Ballots Cast,,,Ballots Cast,287
+Niobrara,South Lusk 6-2,President,,REP,Bush,363
+Niobrara,South Lusk 6-2,President,,DEM,Gore,124
+Niobrara,South Lusk 6-2,President,,LIB,Browne,2
+Niobrara,South Lusk 6-2,President,,IND,Phillips,5
+Niobrara,South Lusk 6-2,President,,NL,Hagelin,0
+Niobrara,South Lusk 6-2,President,,REF,Buchanan,9
+Niobrara,South Lusk 6-2,U.S. Senate,,REP,Thomas,397
+Niobrara,South Lusk 6-2,U.S. Senate,,DEM,Logan,74
+Niobrara,South Lusk 6-2,U.S. Senate,,LIB,Dawson,17
+Niobrara,South Lusk 6-2,U.S. House,,REP,Cubin,372
+Niobrara,South Lusk 6-2,U.S. House,,DEM,Green,115
+Niobrara,South Lusk 6-2,U.S. House,,LIB,Stock,11
+Niobrara,South Lusk 6-2,U.S. House,,NL,Raymond,6
+Niobrara,South Lusk 6-2,State House,2,DEM,Diercks,474
+Niobrara,South Lusk 6-2,Ballots Cast,,,Ballots Cast,536
+Niobrara,Warren - Lusk 1-2,President,,REP,Bush,75
+Niobrara,Warren - Lusk 1-2,President,,DEM,Gore,0
+Niobrara,Warren - Lusk 1-2,President,,LIB,Browne,0
+Niobrara,Warren - Lusk 1-2,President,,IND,Phillips,0
+Niobrara,Warren - Lusk 1-2,President,,NL,Hagelin,0
+Niobrara,Warren - Lusk 1-2,President,,REF,Buchanan,2
+Niobrara,Warren - Lusk 1-2,U.S. Senate,,REP,Thomas,69
+Niobrara,Warren - Lusk 1-2,U.S. Senate,,DEM,Logan,1
+Niobrara,Warren - Lusk 1-2,U.S. Senate,,LIB,Dawson,2
+Niobrara,Warren - Lusk 1-2,U.S. House,,REP,Cubin,75
+Niobrara,Warren - Lusk 1-2,U.S. House,,DEM,Green,1
+Niobrara,Warren - Lusk 1-2,U.S. House,,LIB,Stock,1
+Niobrara,Warren - Lusk 1-2,U.S. House,,NL,Raymond,0
+Niobrara,Warren - Lusk 1-2,State House,2,DEM,Diercks,65
+Niobrara,Warren - Lusk 1-2,Ballots Cast,,,Ballots Cast,79

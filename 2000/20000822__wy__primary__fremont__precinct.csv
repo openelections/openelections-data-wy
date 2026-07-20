@@ -1,0 +1,391 @@
+county,precinct,office,district,party,candidate,votes
+Fremont,Arapahoe School 8-1,U.S. Senate,,REP,Thomas,70
+Fremont,Arapahoe School 8-1,U.S. Senate,,DEM,Logan,21
+Fremont,Arapahoe School 8-1,U.S. Senate,,DEM,Sumey,15
+Fremont,Arapahoe School 8-1,U.S. House,,REP,Cubin,58
+Fremont,Arapahoe School 8-1,U.S. House,,REP,Herdt,14
+Fremont,Arapahoe School 8-1,U.S. House,,REP,Wenino,6
+Fremont,Arapahoe School 8-1,U.S. House,,DEM,Green,21
+Fremont,Arapahoe School 8-1,U.S. House,,DEM,Munker,16
+Fremont,Arapahoe School 8-1,State Senate,26,REP,Peck,52
+Fremont,Arapahoe School 8-1,State House,33,REP,Tipton,7
+Fremont,Arapahoe School 8-1,State House,34,REP,Philp,60
+Fremont,Arapahoe School 8-1,Ballots Cast,,REP,Ballots Cast,80
+Fremont,Arapahoe School 8-1,Ballots Cast,,DEM,Ballots Cast,57
+Fremont,Atlantic City Fire Hall 24-1,U.S. Senate,,REP,Thomas,21
+Fremont,Atlantic City Fire Hall 24-1,U.S. Senate,,DEM,Logan,4
+Fremont,Atlantic City Fire Hall 24-1,U.S. Senate,,DEM,Sumey,1
+Fremont,Atlantic City Fire Hall 24-1,U.S. House,,REP,Cubin,14
+Fremont,Atlantic City Fire Hall 24-1,U.S. House,,REP,Herdt,5
+Fremont,Atlantic City Fire Hall 24-1,U.S. House,,REP,Wenino,4
+Fremont,Atlantic City Fire Hall 24-1,U.S. House,,DEM,Green,4
+Fremont,Atlantic City Fire Hall 24-1,U.S. House,,DEM,Munker,2
+Fremont,Atlantic City Fire Hall 24-1,State Senate,12,REP,Stith,20
+Fremont,Atlantic City Fire Hall 24-1,State Senate,12,DEM,Job,7
+Fremont,Atlantic City Fire Hall 24-1,State House,16,REP,Watt,21
+Fremont,Atlantic City Fire Hall 24-1,State House,16,DEM,Levitt,5
+Fremont,Atlantic City Fire Hall 24-1,Ballots Cast,,REP,Ballots Cast,26
+Fremont,Atlantic City Fire Hall 24-1,Ballots Cast,,DEM,Ballots Cast,10
+Fremont,Beebe 6-1,U.S. Senate,,REP,Thomas,343
+Fremont,Beebe 6-1,U.S. Senate,,DEM,Logan,49
+Fremont,Beebe 6-1,U.S. Senate,,DEM,Sumey,36
+Fremont,Beebe 6-1,U.S. House,,REP,Cubin,284
+Fremont,Beebe 6-1,U.S. House,,REP,Herdt,54
+Fremont,Beebe 6-1,U.S. House,,REP,Wenino,28
+Fremont,Beebe 6-1,U.S. House,,DEM,Green,50
+Fremont,Beebe 6-1,U.S. House,,DEM,Munker,41
+Fremont,Beebe 6-1,State House,33,REP,Tipton,311
+Fremont,Beebe 6-1,Ballots Cast,,REP,Ballots Cast,387
+Fremont,Beebe 6-1,Ballots Cast,,DEM,Ballots Cast,128
+Fremont,Big Bend 18-1,U.S. Senate,,REP,Thomas,384
+Fremont,Big Bend 18-1,U.S. Senate,,DEM,Logan,57
+Fremont,Big Bend 18-1,U.S. Senate,,DEM,Sumey,27
+Fremont,Big Bend 18-1,U.S. House,,REP,Cubin,326
+Fremont,Big Bend 18-1,U.S. House,,REP,Herdt,39
+Fremont,Big Bend 18-1,U.S. House,,REP,Wenino,22
+Fremont,Big Bend 18-1,U.S. House,,DEM,Green,52
+Fremont,Big Bend 18-1,U.S. House,,DEM,Munker,36
+Fremont,Big Bend 18-1,State Senate,26,REP,Peck,326
+Fremont,Big Bend 18-1,State House,33,REP,Tipton,19
+Fremont,Big Bend 18-1,State House,34,REP,Philp,333
+Fremont,Big Bend 18-1,Ballots Cast,,REP,Ballots Cast,416
+Fremont,Big Bend 18-1,Ballots Cast,,DEM,Ballots Cast,102
+Fremont,Crowheart School 19-1,U.S. Senate,,REP,Thomas,56
+Fremont,Crowheart School 19-1,U.S. Senate,,DEM,Logan,11
+Fremont,Crowheart School 19-1,U.S. Senate,,DEM,Sumey,1
+Fremont,Crowheart School 19-1,U.S. House,,REP,Cubin,50
+Fremont,Crowheart School 19-1,U.S. House,,REP,Herdt,5
+Fremont,Crowheart School 19-1,U.S. House,,REP,Wenino,0
+Fremont,Crowheart School 19-1,U.S. House,,DEM,Green,10
+Fremont,Crowheart School 19-1,U.S. House,,DEM,Munker,2
+Fremont,Crowheart School 19-1,State House,22,REP,Shivler,1
+Fremont,Crowheart School 19-1,State House,33,REP,Tipton,47
+Fremont,Crowheart School 19-1,Ballots Cast,,REP,Ballots Cast,57
+Fremont,Crowheart School 19-1,Ballots Cast,,DEM,Ballots Cast,17
+Fremont,Delfelder Hall 10-1,U.S. Senate,,REP,Thomas,256
+Fremont,Delfelder Hall 10-1,U.S. Senate,,DEM,Logan,45
+Fremont,Delfelder Hall 10-1,U.S. Senate,,DEM,Sumey,23
+Fremont,Delfelder Hall 10-1,U.S. House,,REP,Cubin,220
+Fremont,Delfelder Hall 10-1,U.S. House,,REP,Herdt,26
+Fremont,Delfelder Hall 10-1,U.S. House,,REP,Wenino,13
+Fremont,Delfelder Hall 10-1,U.S. House,,DEM,Green,36
+Fremont,Delfelder Hall 10-1,U.S. House,,DEM,Munker,29
+Fremont,Delfelder Hall 10-1,State Senate,26,REP,Peck,233
+Fremont,Delfelder Hall 10-1,State House,34,REP,Philp,244
+Fremont,Delfelder Hall 10-1,Ballots Cast,,REP,Ballots Cast,280
+Fremont,Delfelder Hall 10-1,Ballots Cast,,DEM,Ballots Cast,79
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,U.S. Senate,,REP,Thomas,498
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,U.S. Senate,,DEM,Logan,36
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,U.S. Senate,,DEM,Sumey,29
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,U.S. House,,REP,Cubin,430
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,U.S. House,,REP,Herdt,57
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,U.S. House,,REP,Wenino,23
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,U.S. House,,DEM,Green,44
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,U.S. House,,DEM,Munker,25
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,State House,22,REP,Shivler,432
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,Ballots Cast,,REP,Ballots Cast,536
+Fremont,Dubois: Headwaters Comm. Ctr. 7-1,Ballots Cast,,DEM,Ballots Cast,90
+Fremont,Ethete: WY Indian High School 13-1,U.S. Senate,,REP,Thomas,65
+Fremont,Ethete: WY Indian High School 13-1,U.S. Senate,,DEM,Logan,53
+Fremont,Ethete: WY Indian High School 13-1,U.S. Senate,,DEM,Sumey,30
+Fremont,Ethete: WY Indian High School 13-1,U.S. House,,REP,Cubin,55
+Fremont,Ethete: WY Indian High School 13-1,U.S. House,,REP,Herdt,9
+Fremont,Ethete: WY Indian High School 13-1,U.S. House,,REP,Wenino,3
+Fremont,Ethete: WY Indian High School 13-1,U.S. House,,DEM,Green,62
+Fremont,Ethete: WY Indian High School 13-1,U.S. House,,DEM,Munker,25
+Fremont,Ethete: WY Indian High School 13-1,State House,33,REP,Tipton,64
+Fremont,Ethete: WY Indian High School 13-1,Ballots Cast,,REP,Ballots Cast,77
+Fremont,Ethete: WY Indian High School 13-1,Ballots Cast,,DEM,Ballots Cast,102
+Fremont,Ft. Washakie School 4-1,U.S. Senate,,REP,Thomas,40
+Fremont,Ft. Washakie School 4-1,U.S. Senate,,DEM,Logan,57
+Fremont,Ft. Washakie School 4-1,U.S. Senate,,DEM,Sumey,31
+Fremont,Ft. Washakie School 4-1,U.S. House,,REP,Cubin,35
+Fremont,Ft. Washakie School 4-1,U.S. House,,REP,Herdt,3
+Fremont,Ft. Washakie School 4-1,U.S. House,,REP,Wenino,2
+Fremont,Ft. Washakie School 4-1,U.S. House,,DEM,Green,62
+Fremont,Ft. Washakie School 4-1,U.S. House,,DEM,Munker,28
+Fremont,Ft. Washakie School 4-1,State House,33,REP,Tipton,37
+Fremont,Ft. Washakie School 4-1,Ballots Cast,,REP,Ballots Cast,44
+Fremont,Ft. Washakie School 4-1,Ballots Cast,,DEM,Ballots Cast,95
+Fremont,Hudson Town Hall 2-1,U.S. Senate,,REP,Thomas,99
+Fremont,Hudson Town Hall 2-1,U.S. Senate,,DEM,Logan,48
+Fremont,Hudson Town Hall 2-1,U.S. Senate,,DEM,Sumey,24
+Fremont,Hudson Town Hall 2-1,U.S. House,,REP,Cubin,86
+Fremont,Hudson Town Hall 2-1,U.S. House,,REP,Herdt,10
+Fremont,Hudson Town Hall 2-1,U.S. House,,REP,Wenino,7
+Fremont,Hudson Town Hall 2-1,U.S. House,,DEM,Green,39
+Fremont,Hudson Town Hall 2-1,U.S. House,,DEM,Munker,39
+Fremont,Hudson Town Hall 2-1,State House,33,REP,Tipton,93
+Fremont,Hudson Town Hall 2-1,Ballots Cast,,REP,Ballots Cast,107
+Fremont,Hudson Town Hall 2-1,Ballots Cast,,DEM,Ballots Cast,104
+Fremont,Jeffrey City Fire Hall 12-1,U.S. Senate,,REP,Thomas,71
+Fremont,Jeffrey City Fire Hall 12-1,U.S. Senate,,DEM,Logan,4
+Fremont,Jeffrey City Fire Hall 12-1,U.S. Senate,,DEM,Sumey,0
+Fremont,Jeffrey City Fire Hall 12-1,U.S. House,,REP,Cubin,65
+Fremont,Jeffrey City Fire Hall 12-1,U.S. House,,REP,Herdt,5
+Fremont,Jeffrey City Fire Hall 12-1,U.S. House,,REP,Wenino,1
+Fremont,Jeffrey City Fire Hall 12-1,U.S. House,,DEM,Green,1
+Fremont,Jeffrey City Fire Hall 12-1,U.S. House,,DEM,Munker,3
+Fremont,Jeffrey City Fire Hall 12-1,State Senate,12,REP,Stith,58
+Fremont,Jeffrey City Fire Hall 12-1,State Senate,12,DEM,Job,3
+Fremont,Jeffrey City Fire Hall 12-1,State House,16,REP,Watt,59
+Fremont,Jeffrey City Fire Hall 12-1,State House,16,DEM,Levitt,3
+Fremont,Jeffrey City Fire Hall 12-1,Ballots Cast,,REP,Ballots Cast,74
+Fremont,Jeffrey City Fire Hall 12-1,Ballots Cast,,DEM,Ballots Cast,5
+Fremont,Kinnear Fire Hall 16-1,U.S. Senate,,REP,Thomas,124
+Fremont,Kinnear Fire Hall 16-1,U.S. Senate,,DEM,Logan,23
+Fremont,Kinnear Fire Hall 16-1,U.S. Senate,,DEM,Sumey,14
+Fremont,Kinnear Fire Hall 16-1,U.S. House,,REP,Cubin,107
+Fremont,Kinnear Fire Hall 16-1,U.S. House,,REP,Herdt,14
+Fremont,Kinnear Fire Hall 16-1,U.S. House,,REP,Wenino,5
+Fremont,Kinnear Fire Hall 16-1,U.S. House,,DEM,Green,22
+Fremont,Kinnear Fire Hall 16-1,U.S. House,,DEM,Munker,15
+Fremont,Kinnear Fire Hall 16-1,State House,33,REP,Tipton,118
+Fremont,Kinnear Fire Hall 16-1,Ballots Cast,,REP,Ballots Cast,130
+Fremont,Kinnear Fire Hall 16-1,Ballots Cast,,DEM,Ballots Cast,52
+Fremont,Lander HS Fieldhouse 1-1,U.S. Senate,,REP,Thomas,243
+Fremont,Lander HS Fieldhouse 1-1,U.S. Senate,,DEM,Logan,99
+Fremont,Lander HS Fieldhouse 1-1,U.S. Senate,,DEM,Sumey,48
+Fremont,Lander HS Fieldhouse 1-1,U.S. House,,REP,Cubin,201
+Fremont,Lander HS Fieldhouse 1-1,U.S. House,,REP,Herdt,40
+Fremont,Lander HS Fieldhouse 1-1,U.S. House,,REP,Wenino,18
+Fremont,Lander HS Fieldhouse 1-1,U.S. House,,DEM,Green,84
+Fremont,Lander HS Fieldhouse 1-1,U.S. House,,DEM,Munker,63
+Fremont,Lander HS Fieldhouse 1-1,State House,54,REP,McOmie,233
+Fremont,Lander HS Fieldhouse 1-1,Ballots Cast,,REP,Ballots Cast,268
+Fremont,Lander HS Fieldhouse 1-1,Ballots Cast,,DEM,Ballots Cast,174
+Fremont,Lander HS Fieldhouse 1-2,U.S. Senate,,REP,Thomas,122
+Fremont,Lander HS Fieldhouse 1-2,U.S. Senate,,DEM,Logan,47
+Fremont,Lander HS Fieldhouse 1-2,U.S. Senate,,DEM,Sumey,20
+Fremont,Lander HS Fieldhouse 1-2,U.S. House,,REP,Cubin,88
+Fremont,Lander HS Fieldhouse 1-2,U.S. House,,REP,Herdt,29
+Fremont,Lander HS Fieldhouse 1-2,U.S. House,,REP,Wenino,6
+Fremont,Lander HS Fieldhouse 1-2,U.S. House,,DEM,Green,40
+Fremont,Lander HS Fieldhouse 1-2,U.S. House,,DEM,Munker,29
+Fremont,Lander HS Fieldhouse 1-2,State House,54,REP,McOmie,113
+Fremont,Lander HS Fieldhouse 1-2,Ballots Cast,,REP,Ballots Cast,136
+Fremont,Lander HS Fieldhouse 1-2,Ballots Cast,,DEM,Ballots Cast,80
+Fremont,Lander HS Fieldhouse 1-3,U.S. Senate,,REP,Thomas,194
+Fremont,Lander HS Fieldhouse 1-3,U.S. Senate,,DEM,Logan,60
+Fremont,Lander HS Fieldhouse 1-3,U.S. Senate,,DEM,Sumey,24
+Fremont,Lander HS Fieldhouse 1-3,U.S. House,,REP,Cubin,160
+Fremont,Lander HS Fieldhouse 1-3,U.S. House,,REP,Herdt,32
+Fremont,Lander HS Fieldhouse 1-3,U.S. House,,REP,Wenino,8
+Fremont,Lander HS Fieldhouse 1-3,U.S. House,,DEM,Green,58
+Fremont,Lander HS Fieldhouse 1-3,U.S. House,,DEM,Munker,37
+Fremont,Lander HS Fieldhouse 1-3,State House,54,REP,McOmie,182
+Fremont,Lander HS Fieldhouse 1-3,Ballots Cast,,REP,Ballots Cast,215
+Fremont,Lander HS Fieldhouse 1-3,Ballots Cast,,DEM,Ballots Cast,108
+Fremont,Lander HS Fieldhouse 1-4,U.S. Senate,,REP,Thomas,201
+Fremont,Lander HS Fieldhouse 1-4,U.S. Senate,,DEM,Logan,53
+Fremont,Lander HS Fieldhouse 1-4,U.S. Senate,,DEM,Sumey,26
+Fremont,Lander HS Fieldhouse 1-4,U.S. House,,REP,Cubin,166
+Fremont,Lander HS Fieldhouse 1-4,U.S. House,,REP,Herdt,23
+Fremont,Lander HS Fieldhouse 1-4,U.S. House,,REP,Wenino,15
+Fremont,Lander HS Fieldhouse 1-4,U.S. House,,DEM,Green,48
+Fremont,Lander HS Fieldhouse 1-4,U.S. House,,DEM,Munker,35
+Fremont,Lander HS Fieldhouse 1-4,State House,54,REP,McOmie,182
+Fremont,Lander HS Fieldhouse 1-4,Ballots Cast,,REP,Ballots Cast,221
+Fremont,Lander HS Fieldhouse 1-4,Ballots Cast,,DEM,Ballots Cast,102
+Fremont,Lander HS Fieldhouse 1-5,U.S. Senate,,REP,Thomas,316
+Fremont,Lander HS Fieldhouse 1-5,U.S. Senate,,DEM,Logan,88
+Fremont,Lander HS Fieldhouse 1-5,U.S. Senate,,DEM,Sumey,38
+Fremont,Lander HS Fieldhouse 1-5,U.S. House,,REP,Cubin,262
+Fremont,Lander HS Fieldhouse 1-5,U.S. House,,REP,Herdt,44
+Fremont,Lander HS Fieldhouse 1-5,U.S. House,,REP,Wenino,33
+Fremont,Lander HS Fieldhouse 1-5,U.S. House,,DEM,Green,72
+Fremont,Lander HS Fieldhouse 1-5,U.S. House,,DEM,Munker,59
+Fremont,Lander HS Fieldhouse 1-5,State House,54,REP,McOmie,304
+Fremont,Lander HS Fieldhouse 1-5,Ballots Cast,,REP,Ballots Cast,362
+Fremont,Lander HS Fieldhouse 1-5,Ballots Cast,,DEM,Ballots Cast,162
+Fremont,Lander HS Fieldhouse 1-6,U.S. Senate,,REP,Thomas,254
+Fremont,Lander HS Fieldhouse 1-6,U.S. Senate,,DEM,Logan,52
+Fremont,Lander HS Fieldhouse 1-6,U.S. Senate,,DEM,Sumey,36
+Fremont,Lander HS Fieldhouse 1-6,U.S. House,,REP,Cubin,196
+Fremont,Lander HS Fieldhouse 1-6,U.S. House,,REP,Herdt,35
+Fremont,Lander HS Fieldhouse 1-6,U.S. House,,REP,Wenino,28
+Fremont,Lander HS Fieldhouse 1-6,U.S. House,,DEM,Green,56
+Fremont,Lander HS Fieldhouse 1-6,U.S. House,,DEM,Munker,44
+Fremont,Lander HS Fieldhouse 1-6,State House,54,REP,McOmie,261
+Fremont,Lander HS Fieldhouse 1-6,Ballots Cast,,REP,Ballots Cast,292
+Fremont,Lander HS Fieldhouse 1-6,Ballots Cast,,DEM,Ballots Cast,125
+Fremont,Luthy 17-1,U.S. Senate,,REP,Thomas,115
+Fremont,Luthy 17-1,U.S. Senate,,DEM,Logan,14
+Fremont,Luthy 17-1,U.S. Senate,,DEM,Sumey,7
+Fremont,Luthy 17-1,U.S. House,,REP,Cubin,96
+Fremont,Luthy 17-1,U.S. House,,REP,Herdt,15
+Fremont,Luthy 17-1,U.S. House,,REP,Wenino,5
+Fremont,Luthy 17-1,U.S. House,,DEM,Green,11
+Fremont,Luthy 17-1,U.S. House,,DEM,Munker,11
+Fremont,Luthy 17-1,State Senate,26,REP,Peck,17
+Fremont,Luthy 17-1,State House,33,REP,Tipton,94
+Fremont,Luthy 17-1,State House,34,REP,Philp,15
+Fremont,Luthy 17-1,Ballots Cast,,REP,Ballots Cast,125
+Fremont,Luthy 17-1,Ballots Cast,,DEM,Ballots Cast,37
+Fremont,Lysite School 22-1,U.S. Senate,,REP,Thomas,30
+Fremont,Lysite School 22-1,U.S. Senate,,DEM,Logan,4
+Fremont,Lysite School 22-1,U.S. Senate,,DEM,Sumey,1
+Fremont,Lysite School 22-1,U.S. House,,REP,Cubin,29
+Fremont,Lysite School 22-1,U.S. House,,REP,Herdt,1
+Fremont,Lysite School 22-1,U.S. House,,REP,Wenino,1
+Fremont,Lysite School 22-1,U.S. House,,DEM,Green,2
+Fremont,Lysite School 22-1,U.S. House,,DEM,Munker,3
+Fremont,Lysite School 22-1,State Senate,30,REP,Scott,23
+Fremont,Lysite School 22-1,State Senate,30,DEM,Horton,5
+Fremont,Lysite School 22-1,State House,38,REP,Brechtel,8
+Fremont,Lysite School 22-1,State House,38,REP,Paseneaux,21
+Fremont,Lysite School 22-1,State House,38,DEM,Brady,1
+Fremont,Lysite School 22-1,State House,38,DEM,Jolley,4
+Fremont,Lysite School 22-1,Ballots Cast,,REP,Ballots Cast,31
+Fremont,Lysite School 22-1,Ballots Cast,,DEM,Ballots Cast,5
+Fremont,Midvale Store 15-1,U.S. Senate,,REP,Thomas,88
+Fremont,Midvale Store 15-1,U.S. Senate,,DEM,Logan,9
+Fremont,Midvale Store 15-1,U.S. Senate,,DEM,Sumey,0
+Fremont,Midvale Store 15-1,U.S. House,,REP,Cubin,68
+Fremont,Midvale Store 15-1,U.S. House,,REP,Herdt,13
+Fremont,Midvale Store 15-1,U.S. House,,REP,Wenino,7
+Fremont,Midvale Store 15-1,U.S. House,,DEM,Green,6
+Fremont,Midvale Store 15-1,U.S. House,,DEM,Munker,3
+Fremont,Midvale Store 15-1,State House,33,REP,Tipton,77
+Fremont,Midvale Store 15-1,Ballots Cast,,REP,Ballots Cast,93
+Fremont,Midvale Store 15-1,Ballots Cast,,DEM,Ballots Cast,12
+Fremont,Milford 5-1,U.S. Senate,,REP,Thomas,261
+Fremont,Milford 5-1,U.S. Senate,,DEM,Logan,45
+Fremont,Milford 5-1,U.S. Senate,,DEM,Sumey,26
+Fremont,Milford 5-1,U.S. House,,REP,Cubin,222
+Fremont,Milford 5-1,U.S. House,,REP,Herdt,28
+Fremont,Milford 5-1,U.S. House,,REP,Wenino,26
+Fremont,Milford 5-1,U.S. House,,DEM,Green,40
+Fremont,Milford 5-1,U.S. House,,DEM,Munker,41
+Fremont,Milford 5-1,State House,54,REP,McOmie,243
+Fremont,Milford 5-1,Ballots Cast,,REP,Ballots Cast,291
+Fremont,Milford 5-1,Ballots Cast,,DEM,Ballots Cast,105
+Fremont,Missouri Valley Fire Hall 9-1,U.S. Senate,,REP,Thomas,178
+Fremont,Missouri Valley Fire Hall 9-1,U.S. Senate,,DEM,Logan,18
+Fremont,Missouri Valley Fire Hall 9-1,U.S. Senate,,DEM,Sumey,6
+Fremont,Missouri Valley Fire Hall 9-1,U.S. House,,REP,Cubin,143
+Fremont,Missouri Valley Fire Hall 9-1,U.S. House,,REP,Herdt,30
+Fremont,Missouri Valley Fire Hall 9-1,U.S. House,,REP,Wenino,1
+Fremont,Missouri Valley Fire Hall 9-1,U.S. House,,DEM,Green,13
+Fremont,Missouri Valley Fire Hall 9-1,U.S. House,,DEM,Munker,12
+Fremont,Missouri Valley Fire Hall 9-1,State Senate,26,REP,Peck,155
+Fremont,Missouri Valley Fire Hall 9-1,State House,34,REP,Philp,169
+Fremont,Missouri Valley Fire Hall 9-1,Ballots Cast,,REP,Ballots Cast,188
+Fremont,Missouri Valley Fire Hall 9-1,Ballots Cast,,DEM,Ballots Cast,28
+Fremont,Pavillion Community Center 14-1,U.S. Senate,,REP,Thomas,207
+Fremont,Pavillion Community Center 14-1,U.S. Senate,,DEM,Logan,31
+Fremont,Pavillion Community Center 14-1,U.S. Senate,,DEM,Sumey,8
+Fremont,Pavillion Community Center 14-1,U.S. House,,REP,Cubin,177
+Fremont,Pavillion Community Center 14-1,U.S. House,,REP,Herdt,20
+Fremont,Pavillion Community Center 14-1,U.S. House,,REP,Wenino,8
+Fremont,Pavillion Community Center 14-1,U.S. House,,DEM,Green,17
+Fremont,Pavillion Community Center 14-1,U.S. House,,DEM,Munker,25
+Fremont,Pavillion Community Center 14-1,State Senate,26,REP,Peck,22
+Fremont,Pavillion Community Center 14-1,State House,33,REP,Tipton,158
+Fremont,Pavillion Community Center 14-1,State House,34,REP,Philp,22
+Fremont,Pavillion Community Center 14-1,Ballots Cast,,REP,Ballots Cast,215
+Fremont,Pavillion Community Center 14-1,Ballots Cast,,DEM,Ballots Cast,49
+Fremont,Reclamation 21-1,U.S. Senate,,REP,Thomas,165
+Fremont,Reclamation 21-1,U.S. Senate,,DEM,Logan,54
+Fremont,Reclamation 21-1,U.S. Senate,,DEM,Sumey,17
+Fremont,Reclamation 21-1,U.S. House,,REP,Cubin,121
+Fremont,Reclamation 21-1,U.S. House,,REP,Herdt,32
+Fremont,Reclamation 21-1,U.S. House,,REP,Wenino,11
+Fremont,Reclamation 21-1,U.S. House,,DEM,Green,45
+Fremont,Reclamation 21-1,U.S. House,,DEM,Munker,27
+Fremont,Reclamation 21-1,State Senate,26,REP,Peck,146
+Fremont,Reclamation 21-1,State House,34,REP,Philp,155
+Fremont,Reclamation 21-1,Ballots Cast,,REP,Ballots Cast,177
+Fremont,Reclamation 21-1,Ballots Cast,,DEM,Ballots Cast,81
+Fremont,Riverton Natl. Guard Armory 3-1,U.S. Senate,,REP,Thomas,319
+Fremont,Riverton Natl. Guard Armory 3-1,U.S. Senate,,DEM,Logan,60
+Fremont,Riverton Natl. Guard Armory 3-1,U.S. Senate,,DEM,Sumey,26
+Fremont,Riverton Natl. Guard Armory 3-1,U.S. House,,REP,Cubin,254
+Fremont,Riverton Natl. Guard Armory 3-1,U.S. House,,REP,Herdt,52
+Fremont,Riverton Natl. Guard Armory 3-1,U.S. House,,REP,Wenino,18
+Fremont,Riverton Natl. Guard Armory 3-1,U.S. House,,DEM,Green,54
+Fremont,Riverton Natl. Guard Armory 3-1,U.S. House,,DEM,Munker,36
+Fremont,Riverton Natl. Guard Armory 3-1,State Senate,26,REP,Peck,299
+Fremont,Riverton Natl. Guard Armory 3-1,State House,55,REP,Miller,278
+Fremont,Riverton Natl. Guard Armory 3-1,State House,55,DEM,Bebout,92
+Fremont,Riverton Natl. Guard Armory 3-1,Ballots Cast,,REP,Ballots Cast,343
+Fremont,Riverton Natl. Guard Armory 3-1,Ballots Cast,,DEM,Ballots Cast,106
+Fremont,Riverton Natl. Guard Armory 3-2,U.S. Senate,,REP,Thomas,110
+Fremont,Riverton Natl. Guard Armory 3-2,U.S. Senate,,DEM,Logan,33
+Fremont,Riverton Natl. Guard Armory 3-2,U.S. Senate,,DEM,Sumey,7
+Fremont,Riverton Natl. Guard Armory 3-2,U.S. House,,REP,Cubin,84
+Fremont,Riverton Natl. Guard Armory 3-2,U.S. House,,REP,Herdt,22
+Fremont,Riverton Natl. Guard Armory 3-2,U.S. House,,REP,Wenino,7
+Fremont,Riverton Natl. Guard Armory 3-2,U.S. House,,DEM,Green,30
+Fremont,Riverton Natl. Guard Armory 3-2,U.S. House,,DEM,Munker,15
+Fremont,Riverton Natl. Guard Armory 3-2,State Senate,26,REP,Peck,103
+Fremont,Riverton Natl. Guard Armory 3-2,State House,34,REP,Philp,0
+Fremont,Riverton Natl. Guard Armory 3-2,State House,55,REP,Miller,94
+Fremont,Riverton Natl. Guard Armory 3-2,State House,55,DEM,Bebout,42
+Fremont,Riverton Natl. Guard Armory 3-2,Ballots Cast,,REP,Ballots Cast,117
+Fremont,Riverton Natl. Guard Armory 3-2,Ballots Cast,,DEM,Ballots Cast,50
+Fremont,Riverton Natl. Guard Armory 3-3,U.S. Senate,,REP,Thomas,381
+Fremont,Riverton Natl. Guard Armory 3-3,U.S. Senate,,DEM,Logan,70
+Fremont,Riverton Natl. Guard Armory 3-3,U.S. Senate,,DEM,Sumey,22
+Fremont,Riverton Natl. Guard Armory 3-3,U.S. House,,REP,Cubin,323
+Fremont,Riverton Natl. Guard Armory 3-3,U.S. House,,REP,Herdt,51
+Fremont,Riverton Natl. Guard Armory 3-3,U.S. House,,REP,Wenino,16
+Fremont,Riverton Natl. Guard Armory 3-3,U.S. House,,DEM,Green,58
+Fremont,Riverton Natl. Guard Armory 3-3,U.S. House,,DEM,Munker,43
+Fremont,Riverton Natl. Guard Armory 3-3,State Senate,26,REP,Peck,353
+Fremont,Riverton Natl. Guard Armory 3-3,State House,34,REP,Philp,6
+Fremont,Riverton Natl. Guard Armory 3-3,State House,55,REP,Miller,319
+Fremont,Riverton Natl. Guard Armory 3-3,State House,55,DEM,Bebout,107
+Fremont,Riverton Natl. Guard Armory 3-3,Ballots Cast,,REP,Ballots Cast,412
+Fremont,Riverton Natl. Guard Armory 3-3,Ballots Cast,,DEM,Ballots Cast,131
+Fremont,Riverton Natl. Guard Armory 3-4,U.S. Senate,,REP,Thomas,178
+Fremont,Riverton Natl. Guard Armory 3-4,U.S. Senate,,DEM,Logan,40
+Fremont,Riverton Natl. Guard Armory 3-4,U.S. Senate,,DEM,Sumey,13
+Fremont,Riverton Natl. Guard Armory 3-4,U.S. House,,REP,Cubin,145
+Fremont,Riverton Natl. Guard Armory 3-4,U.S. House,,REP,Herdt,33
+Fremont,Riverton Natl. Guard Armory 3-4,U.S. House,,REP,Wenino,11
+Fremont,Riverton Natl. Guard Armory 3-4,U.S. House,,DEM,Green,29
+Fremont,Riverton Natl. Guard Armory 3-4,U.S. House,,DEM,Munker,25
+Fremont,Riverton Natl. Guard Armory 3-4,State Senate,26,REP,Peck,173
+Fremont,Riverton Natl. Guard Armory 3-4,State House,55,REP,Miller,158
+Fremont,Riverton Natl. Guard Armory 3-4,State House,55,DEM,Bebout,62
+Fremont,Riverton Natl. Guard Armory 3-4,Ballots Cast,,REP,Ballots Cast,200
+Fremont,Riverton Natl. Guard Armory 3-4,Ballots Cast,,DEM,Ballots Cast,73
+Fremont,Riverton Natl. Guard Armory 3-5,U.S. Senate,,REP,Thomas,300
+Fremont,Riverton Natl. Guard Armory 3-5,U.S. Senate,,DEM,Logan,64
+Fremont,Riverton Natl. Guard Armory 3-5,U.S. Senate,,DEM,Sumey,32
+Fremont,Riverton Natl. Guard Armory 3-5,U.S. House,,REP,Cubin,256
+Fremont,Riverton Natl. Guard Armory 3-5,U.S. House,,REP,Herdt,33
+Fremont,Riverton Natl. Guard Armory 3-5,U.S. House,,REP,Wenino,21
+Fremont,Riverton Natl. Guard Armory 3-5,U.S. House,,DEM,Green,44
+Fremont,Riverton Natl. Guard Armory 3-5,U.S. House,,DEM,Munker,54
+Fremont,Riverton Natl. Guard Armory 3-5,State Senate,26,REP,Peck,262
+Fremont,Riverton Natl. Guard Armory 3-5,State House,33,REP,Tipton,9
+Fremont,Riverton Natl. Guard Armory 3-5,State House,34,REP,Philp,265
+Fremont,Riverton Natl. Guard Armory 3-5,Ballots Cast,,REP,Ballots Cast,325
+Fremont,Riverton Natl. Guard Armory 3-5,Ballots Cast,,DEM,Ballots Cast,118
+Fremont,Riverton Natl. Guard Armory 3-6,U.S. Senate,,REP,Thomas,460
+Fremont,Riverton Natl. Guard Armory 3-6,U.S. Senate,,DEM,Logan,76
+Fremont,Riverton Natl. Guard Armory 3-6,U.S. Senate,,DEM,Sumey,31
+Fremont,Riverton Natl. Guard Armory 3-6,U.S. House,,REP,Cubin,394
+Fremont,Riverton Natl. Guard Armory 3-6,U.S. House,,REP,Herdt,53
+Fremont,Riverton Natl. Guard Armory 3-6,U.S. House,,REP,Wenino,19
+Fremont,Riverton Natl. Guard Armory 3-6,U.S. House,,DEM,Green,64
+Fremont,Riverton Natl. Guard Armory 3-6,U.S. House,,DEM,Munker,47
+Fremont,Riverton Natl. Guard Armory 3-6,State Senate,26,REP,Peck,422
+Fremont,Riverton Natl. Guard Armory 3-6,State House,55,REP,Miller,398
+Fremont,Riverton Natl. Guard Armory 3-6,State House,55,DEM,Bebout,123
+Fremont,Riverton Natl. Guard Armory 3-6,Ballots Cast,,REP,Ballots Cast,489
+Fremont,Riverton Natl. Guard Armory 3-6,Ballots Cast,,DEM,Ballots Cast,140
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. Senate,,REP,Thomas,152
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. Senate,,DEM,Logan,45
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. Senate,,DEM,Sumey,17
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. House,,REP,Cubin,114
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. House,,REP,Herdt,27
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. House,,REP,Wenino,12
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. House,,DEM,Green,35
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. House,,DEM,Munker,24
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,State Senate,26,REP,Peck,136
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,State House,34,REP,Philp,151
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Ballots Cast,,REP,Ballots Cast,162
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Ballots Cast,,DEM,Ballots Cast,70

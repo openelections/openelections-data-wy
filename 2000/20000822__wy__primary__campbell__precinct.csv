@@ -1,0 +1,464 @@
+county,precinct,office,district,party,candidate,votes
+Campbell,4-J School 13-1,U.S. Senate,,REP,Thomas,56
+Campbell,4-J School 13-1,U.S. Senate,,DEM,Logan,2
+Campbell,4-J School 13-1,U.S. Senate,,DEM,Sumey,0
+Campbell,4-J School 13-1,U.S. House,,REP,Cubin,58
+Campbell,4-J School 13-1,U.S. House,,REP,Herdt,5
+Campbell,4-J School 13-1,U.S. House,,REP,Wenino,0
+Campbell,4-J School 13-1,U.S. House,,DEM,Green,2
+Campbell,4-J School 13-1,U.S. House,,DEM,Munker,0
+Campbell,4-J School 13-1,State House,31,REP,Hines,59
+Campbell,4-J School 13-1,State House,31,DEM,Claar,2
+Campbell,4-J School 13-1,Ballots Cast,,REP,Ballots Cast,63
+Campbell,4-J School 13-1,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,4-J School 16-1,U.S. Senate,,REP,Thomas,27
+Campbell,4-J School 16-1,U.S. Senate,,DEM,Logan,1
+Campbell,4-J School 16-1,U.S. Senate,,DEM,Sumey,0
+Campbell,4-J School 16-1,U.S. House,,REP,Cubin,31
+Campbell,4-J School 16-1,U.S. House,,REP,Herdt,0
+Campbell,4-J School 16-1,U.S. House,,REP,Wenino,0
+Campbell,4-J School 16-1,U.S. House,,DEM,Green,1
+Campbell,4-J School 16-1,U.S. House,,DEM,Munker,0
+Campbell,4-J School 16-1,State House,31,REP,Hines,31
+Campbell,4-J School 16-1,State House,31,DEM,Claar,0
+Campbell,4-J School 16-1,Ballots Cast,,REP,Ballots Cast,31
+Campbell,4-J School 16-1,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,Absentee Precinct 11-1,U.S. Senate,,REP,Thomas,4
+Campbell,Absentee Precinct 11-1,U.S. Senate,,DEM,Logan,1
+Campbell,Absentee Precinct 11-1,U.S. Senate,,DEM,Sumey,0
+Campbell,Absentee Precinct 11-1,U.S. House,,REP,Cubin,4
+Campbell,Absentee Precinct 11-1,U.S. House,,REP,Herdt,0
+Campbell,Absentee Precinct 11-1,U.S. House,,REP,Wenino,0
+Campbell,Absentee Precinct 11-1,U.S. House,,DEM,Green,0
+Campbell,Absentee Precinct 11-1,U.S. House,,DEM,Munker,1
+Campbell,Absentee Precinct 11-1,State House,52,REP,McMurtrey,2
+Campbell,Absentee Precinct 11-1,Ballots Cast,,REP,Ballots Cast,4
+Campbell,Absentee Precinct 11-1,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,Camplex Energy Hall 1-1,U.S. Senate,,REP,Thomas,103
+Campbell,Camplex Energy Hall 1-1,U.S. Senate,,DEM,Logan,15
+Campbell,Camplex Energy Hall 1-1,U.S. Senate,,DEM,Sumey,6
+Campbell,Camplex Energy Hall 1-1,U.S. House,,REP,Cubin,91
+Campbell,Camplex Energy Hall 1-1,U.S. House,,REP,Herdt,18
+Campbell,Camplex Energy Hall 1-1,U.S. House,,REP,Wenino,6
+Campbell,Camplex Energy Hall 1-1,U.S. House,,DEM,Green,16
+Campbell,Camplex Energy Hall 1-1,U.S. House,,DEM,Munker,5
+Campbell,Camplex Energy Hall 1-1,State House,31,REP,Hines,109
+Campbell,Camplex Energy Hall 1-1,State House,31,DEM,Claar,19
+Campbell,Camplex Energy Hall 1-1,Ballots Cast,,REP,Ballots Cast,126
+Campbell,Camplex Energy Hall 1-1,Ballots Cast,,DEM,Ballots Cast,24
+Campbell,Camplex Energy Hall 1-10,U.S. Senate,,REP,Thomas,147
+Campbell,Camplex Energy Hall 1-10,U.S. Senate,,DEM,Logan,12
+Campbell,Camplex Energy Hall 1-10,U.S. Senate,,DEM,Sumey,8
+Campbell,Camplex Energy Hall 1-10,U.S. House,,REP,Cubin,123
+Campbell,Camplex Energy Hall 1-10,U.S. House,,REP,Herdt,24
+Campbell,Camplex Energy Hall 1-10,U.S. House,,REP,Wenino,8
+Campbell,Camplex Energy Hall 1-10,U.S. House,,DEM,Green,12
+Campbell,Camplex Energy Hall 1-10,U.S. House,,DEM,Munker,8
+Campbell,Camplex Energy Hall 1-10,State Senate,24,REP,Erb,88
+Campbell,Camplex Energy Hall 1-10,State Senate,24,REP,Sorensen,71
+Campbell,Camplex Energy Hall 1-10,State Senate,24,DEM,Calhoun,19
+Campbell,Camplex Energy Hall 1-10,State House,53,DEM,Deegan,14
+Campbell,Camplex Energy Hall 1-10,Ballots Cast,,REP,Ballots Cast,164
+Campbell,Camplex Energy Hall 1-10,Ballots Cast,,DEM,Ballots Cast,22
+Campbell,Camplex Energy Hall 1-11,U.S. Senate,,REP,Thomas,130
+Campbell,Camplex Energy Hall 1-11,U.S. Senate,,DEM,Logan,10
+Campbell,Camplex Energy Hall 1-11,U.S. Senate,,DEM,Sumey,8
+Campbell,Camplex Energy Hall 1-11,U.S. House,,REP,Cubin,103
+Campbell,Camplex Energy Hall 1-11,U.S. House,,REP,Herdt,18
+Campbell,Camplex Energy Hall 1-11,U.S. House,,REP,Wenino,5
+Campbell,Camplex Energy Hall 1-11,U.S. House,,DEM,Green,9
+Campbell,Camplex Energy Hall 1-11,U.S. House,,DEM,Munker,11
+Campbell,Camplex Energy Hall 1-11,State Senate,24,REP,Erb,78
+Campbell,Camplex Energy Hall 1-11,State Senate,24,REP,Sorensen,54
+Campbell,Camplex Energy Hall 1-11,State Senate,24,DEM,Calhoun,20
+Campbell,Camplex Energy Hall 1-11,State House,32,REP,Wasserburger,119
+Campbell,Camplex Energy Hall 1-11,State House,32,DEM,Jenniges,17
+Campbell,Camplex Energy Hall 1-11,Ballots Cast,,REP,Ballots Cast,138
+Campbell,Camplex Energy Hall 1-11,Ballots Cast,,DEM,Ballots Cast,21
+Campbell,Camplex Energy Hall 1-12,U.S. Senate,,REP,Thomas,129
+Campbell,Camplex Energy Hall 1-12,U.S. Senate,,DEM,Logan,13
+Campbell,Camplex Energy Hall 1-12,U.S. Senate,,DEM,Sumey,4
+Campbell,Camplex Energy Hall 1-12,U.S. House,,REP,Cubin,108
+Campbell,Camplex Energy Hall 1-12,U.S. House,,REP,Herdt,11
+Campbell,Camplex Energy Hall 1-12,U.S. House,,REP,Wenino,13
+Campbell,Camplex Energy Hall 1-12,U.S. House,,DEM,Green,13
+Campbell,Camplex Energy Hall 1-12,U.S. House,,DEM,Munker,5
+Campbell,Camplex Energy Hall 1-12,State Senate,24,REP,Erb,69
+Campbell,Camplex Energy Hall 1-12,State Senate,24,REP,Sorensen,65
+Campbell,Camplex Energy Hall 1-12,State Senate,24,DEM,Calhoun,19
+Campbell,Camplex Energy Hall 1-12,State House,32,REP,Wasserburger,127
+Campbell,Camplex Energy Hall 1-12,State House,32,DEM,Jenniges,19
+Campbell,Camplex Energy Hall 1-12,Ballots Cast,,REP,Ballots Cast,139
+Campbell,Camplex Energy Hall 1-12,Ballots Cast,,DEM,Ballots Cast,21
+Campbell,Camplex Energy Hall 1-13,U.S. Senate,,REP,Thomas,75
+Campbell,Camplex Energy Hall 1-13,U.S. Senate,,DEM,Logan,1
+Campbell,Camplex Energy Hall 1-13,U.S. Senate,,DEM,Sumey,4
+Campbell,Camplex Energy Hall 1-13,U.S. House,,REP,Cubin,64
+Campbell,Camplex Energy Hall 1-13,U.S. House,,REP,Herdt,7
+Campbell,Camplex Energy Hall 1-13,U.S. House,,REP,Wenino,4
+Campbell,Camplex Energy Hall 1-13,U.S. House,,DEM,Green,2
+Campbell,Camplex Energy Hall 1-13,U.S. House,,DEM,Munker,3
+Campbell,Camplex Energy Hall 1-13,State Senate,24,REP,Erb,35
+Campbell,Camplex Energy Hall 1-13,State Senate,24,REP,Sorensen,48
+Campbell,Camplex Energy Hall 1-13,State Senate,24,DEM,Calhoun,5
+Campbell,Camplex Energy Hall 1-13,State House,32,REP,Wasserburger,74
+Campbell,Camplex Energy Hall 1-13,State House,32,DEM,Jenniges,5
+Campbell,Camplex Energy Hall 1-13,Ballots Cast,,REP,Ballots Cast,84
+Campbell,Camplex Energy Hall 1-13,Ballots Cast,,DEM,Ballots Cast,6
+Campbell,Camplex Energy Hall 1-14,U.S. Senate,,REP,Thomas,262
+Campbell,Camplex Energy Hall 1-14,U.S. Senate,,DEM,Logan,25
+Campbell,Camplex Energy Hall 1-14,U.S. Senate,,DEM,Sumey,15
+Campbell,Camplex Energy Hall 1-14,U.S. House,,REP,Cubin,208
+Campbell,Camplex Energy Hall 1-14,U.S. House,,REP,Herdt,46
+Campbell,Camplex Energy Hall 1-14,U.S. House,,REP,Wenino,9
+Campbell,Camplex Energy Hall 1-14,U.S. House,,DEM,Green,22
+Campbell,Camplex Energy Hall 1-14,U.S. House,,DEM,Munker,19
+Campbell,Camplex Energy Hall 1-14,State Senate,24,REP,Erb,120
+Campbell,Camplex Energy Hall 1-14,State Senate,24,REP,Sorensen,161
+Campbell,Camplex Energy Hall 1-14,State Senate,24,DEM,Calhoun,37
+Campbell,Camplex Energy Hall 1-14,State House,32,REP,Wasserburger,257
+Campbell,Camplex Energy Hall 1-14,State House,32,DEM,Jenniges,38
+Campbell,Camplex Energy Hall 1-14,Ballots Cast,,REP,Ballots Cast,287
+Campbell,Camplex Energy Hall 1-14,Ballots Cast,,DEM,Ballots Cast,49
+Campbell,Camplex Energy Hall 1-15,U.S. Senate,,REP,Thomas,359
+Campbell,Camplex Energy Hall 1-15,U.S. Senate,,DEM,Logan,22
+Campbell,Camplex Energy Hall 1-15,U.S. Senate,,DEM,Sumey,12
+Campbell,Camplex Energy Hall 1-15,U.S. House,,REP,Cubin,307
+Campbell,Camplex Energy Hall 1-15,U.S. House,,REP,Herdt,46
+Campbell,Camplex Energy Hall 1-15,U.S. House,,REP,Wenino,20
+Campbell,Camplex Energy Hall 1-15,U.S. House,,DEM,Green,18
+Campbell,Camplex Energy Hall 1-15,U.S. House,,DEM,Munker,15
+Campbell,Camplex Energy Hall 1-15,State Senate,24,REP,Erb,189
+Campbell,Camplex Energy Hall 1-15,State Senate,24,REP,Sorensen,196
+Campbell,Camplex Energy Hall 1-15,State Senate,24,DEM,Calhoun,33
+Campbell,Camplex Energy Hall 1-15,State House,32,REP,Wasserburger,340
+Campbell,Camplex Energy Hall 1-15,State House,32,DEM,Jenniges,35
+Campbell,Camplex Energy Hall 1-15,Ballots Cast,,REP,Ballots Cast,393
+Campbell,Camplex Energy Hall 1-15,Ballots Cast,,DEM,Ballots Cast,38
+Campbell,Camplex Energy Hall 1-16,U.S. Senate,,REP,Thomas,238
+Campbell,Camplex Energy Hall 1-16,U.S. Senate,,DEM,Logan,12
+Campbell,Camplex Energy Hall 1-16,U.S. Senate,,DEM,Sumey,13
+Campbell,Camplex Energy Hall 1-16,U.S. House,,REP,Cubin,207
+Campbell,Camplex Energy Hall 1-16,U.S. House,,REP,Herdt,27
+Campbell,Camplex Energy Hall 1-16,U.S. House,,REP,Wenino,14
+Campbell,Camplex Energy Hall 1-16,U.S. House,,DEM,Green,17
+Campbell,Camplex Energy Hall 1-16,U.S. House,,DEM,Munker,9
+Campbell,Camplex Energy Hall 1-16,State Senate,24,REP,Erb,89
+Campbell,Camplex Energy Hall 1-16,State Senate,24,REP,Sorensen,124
+Campbell,Camplex Energy Hall 1-16,State Senate,24,DEM,Calhoun,20
+Campbell,Camplex Energy Hall 1-16,State House,31,REP,Hines,39
+Campbell,Camplex Energy Hall 1-16,State House,31,DEM,Claar,3
+Campbell,Camplex Energy Hall 1-16,State House,32,REP,Wasserburger,198
+Campbell,Camplex Energy Hall 1-16,State House,32,DEM,Jenniges,17
+Campbell,Camplex Energy Hall 1-16,Ballots Cast,,REP,Ballots Cast,261
+Campbell,Camplex Energy Hall 1-16,Ballots Cast,,DEM,Ballots Cast,29
+Campbell,Camplex Energy Hall 1-17,U.S. Senate,,REP,Thomas,162
+Campbell,Camplex Energy Hall 1-17,U.S. Senate,,DEM,Logan,23
+Campbell,Camplex Energy Hall 1-17,U.S. Senate,,DEM,Sumey,6
+Campbell,Camplex Energy Hall 1-17,U.S. House,,REP,Cubin,141
+Campbell,Camplex Energy Hall 1-17,U.S. House,,REP,Herdt,19
+Campbell,Camplex Energy Hall 1-17,U.S. House,,REP,Wenino,14
+Campbell,Camplex Energy Hall 1-17,U.S. House,,DEM,Green,19
+Campbell,Camplex Energy Hall 1-17,U.S. House,,DEM,Munker,9
+Campbell,Camplex Energy Hall 1-17,State House,31,REP,Hines,161
+Campbell,Camplex Energy Hall 1-17,State House,31,DEM,Claar,29
+Campbell,Camplex Energy Hall 1-17,Ballots Cast,,REP,Ballots Cast,181
+Campbell,Camplex Energy Hall 1-17,Ballots Cast,,DEM,Ballots Cast,31
+Campbell,Camplex Energy Hall 1-2,U.S. Senate,,REP,Thomas,77
+Campbell,Camplex Energy Hall 1-2,U.S. Senate,,DEM,Logan,8
+Campbell,Camplex Energy Hall 1-2,U.S. Senate,,DEM,Sumey,6
+Campbell,Camplex Energy Hall 1-2,U.S. House,,REP,Cubin,60
+Campbell,Camplex Energy Hall 1-2,U.S. House,,REP,Herdt,13
+Campbell,Camplex Energy Hall 1-2,U.S. House,,REP,Wenino,4
+Campbell,Camplex Energy Hall 1-2,U.S. House,,DEM,Green,10
+Campbell,Camplex Energy Hall 1-2,U.S. House,,DEM,Munker,3
+Campbell,Camplex Energy Hall 1-2,State Senate,24,REP,Erb,42
+Campbell,Camplex Energy Hall 1-2,State Senate,24,REP,Sorensen,41
+Campbell,Camplex Energy Hall 1-2,State Senate,24,DEM,Calhoun,13
+Campbell,Camplex Energy Hall 1-2,State House,32,REP,Wasserburger,75
+Campbell,Camplex Energy Hall 1-2,State House,32,DEM,Jenniges,14
+Campbell,Camplex Energy Hall 1-2,Ballots Cast,,REP,Ballots Cast,86
+Campbell,Camplex Energy Hall 1-2,Ballots Cast,,DEM,Ballots Cast,14
+Campbell,Camplex Energy Hall 1-3,U.S. Senate,,REP,Thomas,38
+Campbell,Camplex Energy Hall 1-3,U.S. Senate,,DEM,Logan,6
+Campbell,Camplex Energy Hall 1-3,U.S. Senate,,DEM,Sumey,1
+Campbell,Camplex Energy Hall 1-3,U.S. House,,REP,Cubin,27
+Campbell,Camplex Energy Hall 1-3,U.S. House,,REP,Herdt,5
+Campbell,Camplex Energy Hall 1-3,U.S. House,,REP,Wenino,5
+Campbell,Camplex Energy Hall 1-3,U.S. House,,DEM,Green,2
+Campbell,Camplex Energy Hall 1-3,U.S. House,,DEM,Munker,4
+Campbell,Camplex Energy Hall 1-3,State Senate,24,REP,Erb,25
+Campbell,Camplex Energy Hall 1-3,State Senate,24,REP,Sorensen,17
+Campbell,Camplex Energy Hall 1-3,State Senate,24,DEM,Calhoun,7
+Campbell,Camplex Energy Hall 1-3,State House,53,DEM,Deegan,8
+Campbell,Camplex Energy Hall 1-3,Ballots Cast,,REP,Ballots Cast,42
+Campbell,Camplex Energy Hall 1-3,Ballots Cast,,DEM,Ballots Cast,8
+Campbell,Camplex Energy Hall 1-4,U.S. Senate,,REP,Thomas,133
+Campbell,Camplex Energy Hall 1-4,U.S. Senate,,DEM,Logan,18
+Campbell,Camplex Energy Hall 1-4,U.S. Senate,,DEM,Sumey,8
+Campbell,Camplex Energy Hall 1-4,U.S. House,,REP,Cubin,113
+Campbell,Camplex Energy Hall 1-4,U.S. House,,REP,Herdt,16
+Campbell,Camplex Energy Hall 1-4,U.S. House,,REP,Wenino,11
+Campbell,Camplex Energy Hall 1-4,U.S. House,,DEM,Green,16
+Campbell,Camplex Energy Hall 1-4,U.S. House,,DEM,Munker,13
+Campbell,Camplex Energy Hall 1-4,State Senate,24,REP,Erb,90
+Campbell,Camplex Energy Hall 1-4,State Senate,24,REP,Sorensen,51
+Campbell,Camplex Energy Hall 1-4,State Senate,24,DEM,Calhoun,27
+Campbell,Camplex Energy Hall 1-4,State House,53,DEM,Deegan,31
+Campbell,Camplex Energy Hall 1-4,Ballots Cast,,REP,Ballots Cast,152
+Campbell,Camplex Energy Hall 1-4,Ballots Cast,,DEM,Ballots Cast,34
+Campbell,Camplex Energy Hall 1-5,U.S. Senate,,REP,Thomas,199
+Campbell,Camplex Energy Hall 1-5,U.S. Senate,,DEM,Logan,22
+Campbell,Camplex Energy Hall 1-5,U.S. Senate,,DEM,Sumey,6
+Campbell,Camplex Energy Hall 1-5,U.S. House,,REP,Cubin,164
+Campbell,Camplex Energy Hall 1-5,U.S. House,,REP,Herdt,25
+Campbell,Camplex Energy Hall 1-5,U.S. House,,REP,Wenino,14
+Campbell,Camplex Energy Hall 1-5,U.S. House,,DEM,Green,22
+Campbell,Camplex Energy Hall 1-5,U.S. House,,DEM,Munker,7
+Campbell,Camplex Energy Hall 1-5,State Senate,24,REP,Erb,93
+Campbell,Camplex Energy Hall 1-5,State Senate,24,REP,Sorensen,108
+Campbell,Camplex Energy Hall 1-5,State Senate,24,DEM,Calhoun,29
+Campbell,Camplex Energy Hall 1-5,State House,53,DEM,Deegan,32
+Campbell,Camplex Energy Hall 1-5,Ballots Cast,,REP,Ballots Cast,218
+Campbell,Camplex Energy Hall 1-5,Ballots Cast,,DEM,Ballots Cast,39
+Campbell,Camplex Energy Hall 1-6,U.S. Senate,,REP,Thomas,163
+Campbell,Camplex Energy Hall 1-6,U.S. Senate,,DEM,Logan,7
+Campbell,Camplex Energy Hall 1-6,U.S. Senate,,DEM,Sumey,4
+Campbell,Camplex Energy Hall 1-6,U.S. House,,REP,Cubin,133
+Campbell,Camplex Energy Hall 1-6,U.S. House,,REP,Herdt,14
+Campbell,Camplex Energy Hall 1-6,U.S. House,,REP,Wenino,14
+Campbell,Camplex Energy Hall 1-6,U.S. House,,DEM,Green,6
+Campbell,Camplex Energy Hall 1-6,U.S. House,,DEM,Munker,3
+Campbell,Camplex Energy Hall 1-6,State Senate,24,REP,Erb,101
+Campbell,Camplex Energy Hall 1-6,State Senate,24,REP,Sorensen,71
+Campbell,Camplex Energy Hall 1-6,State Senate,24,DEM,Calhoun,8
+Campbell,Camplex Energy Hall 1-6,State House,53,DEM,Deegan,9
+Campbell,Camplex Energy Hall 1-6,Ballots Cast,,REP,Ballots Cast,179
+Campbell,Camplex Energy Hall 1-6,Ballots Cast,,DEM,Ballots Cast,12
+Campbell,Camplex Energy Hall 1-7,U.S. Senate,,REP,Thomas,153
+Campbell,Camplex Energy Hall 1-7,U.S. Senate,,DEM,Logan,9
+Campbell,Camplex Energy Hall 1-7,U.S. Senate,,DEM,Sumey,4
+Campbell,Camplex Energy Hall 1-7,U.S. House,,REP,Cubin,124
+Campbell,Camplex Energy Hall 1-7,U.S. House,,REP,Herdt,26
+Campbell,Camplex Energy Hall 1-7,U.S. House,,REP,Wenino,11
+Campbell,Camplex Energy Hall 1-7,U.S. House,,DEM,Green,9
+Campbell,Camplex Energy Hall 1-7,U.S. House,,DEM,Munker,5
+Campbell,Camplex Energy Hall 1-7,State Senate,24,REP,Erb,73
+Campbell,Camplex Energy Hall 1-7,State Senate,24,REP,Sorensen,90
+Campbell,Camplex Energy Hall 1-7,State Senate,24,DEM,Calhoun,12
+Campbell,Camplex Energy Hall 1-7,State House,53,DEM,Deegan,14
+Campbell,Camplex Energy Hall 1-7,Ballots Cast,,REP,Ballots Cast,176
+Campbell,Camplex Energy Hall 1-7,Ballots Cast,,DEM,Ballots Cast,17
+Campbell,Camplex Energy Hall 1-8,U.S. Senate,,REP,Thomas,148
+Campbell,Camplex Energy Hall 1-8,U.S. Senate,,DEM,Logan,14
+Campbell,Camplex Energy Hall 1-8,U.S. Senate,,DEM,Sumey,11
+Campbell,Camplex Energy Hall 1-8,U.S. House,,REP,Cubin,123
+Campbell,Camplex Energy Hall 1-8,U.S. House,,REP,Herdt,28
+Campbell,Camplex Energy Hall 1-8,U.S. House,,REP,Wenino,10
+Campbell,Camplex Energy Hall 1-8,U.S. House,,DEM,Green,15
+Campbell,Camplex Energy Hall 1-8,U.S. House,,DEM,Munker,11
+Campbell,Camplex Energy Hall 1-8,State Senate,24,REP,Erb,42
+Campbell,Camplex Energy Hall 1-8,State Senate,24,REP,Sorensen,23
+Campbell,Camplex Energy Hall 1-8,State Senate,24,DEM,Calhoun,10
+Campbell,Camplex Energy Hall 1-8,State House,31,REP,Hines,58
+Campbell,Camplex Energy Hall 1-8,State House,31,DEM,Claar,9
+Campbell,Camplex Energy Hall 1-8,State House,52,REP,McMurtrey,26
+Campbell,Camplex Energy Hall 1-8,State House,53,DEM,Deegan,13
+Campbell,Camplex Energy Hall 1-8,Ballots Cast,,REP,Ballots Cast,174
+Campbell,Camplex Energy Hall 1-8,Ballots Cast,,DEM,Ballots Cast,30
+Campbell,Camplex Energy Hall 1-9,U.S. Senate,,REP,Thomas,153
+Campbell,Camplex Energy Hall 1-9,U.S. Senate,,DEM,Logan,10
+Campbell,Camplex Energy Hall 1-9,U.S. Senate,,DEM,Sumey,4
+Campbell,Camplex Energy Hall 1-9,U.S. House,,REP,Cubin,120
+Campbell,Camplex Energy Hall 1-9,U.S. House,,REP,Herdt,27
+Campbell,Camplex Energy Hall 1-9,U.S. House,,REP,Wenino,14
+Campbell,Camplex Energy Hall 1-9,U.S. House,,DEM,Green,10
+Campbell,Camplex Energy Hall 1-9,U.S. House,,DEM,Munker,5
+Campbell,Camplex Energy Hall 1-9,State Senate,24,REP,Erb,77
+Campbell,Camplex Energy Hall 1-9,State Senate,24,REP,Sorensen,88
+Campbell,Camplex Energy Hall 1-9,State Senate,24,DEM,Calhoun,14
+Campbell,Camplex Energy Hall 1-9,State House,53,DEM,Deegan,15
+Campbell,Camplex Energy Hall 1-9,Ballots Cast,,REP,Ballots Cast,170
+Campbell,Camplex Energy Hall 1-9,Ballots Cast,,DEM,Ballots Cast,15
+Campbell,Camplex Energy Hall 18-1,U.S. Senate,,REP,Thomas,259
+Campbell,Camplex Energy Hall 18-1,U.S. Senate,,DEM,Logan,24
+Campbell,Camplex Energy Hall 18-1,U.S. Senate,,DEM,Sumey,11
+Campbell,Camplex Energy Hall 18-1,U.S. House,,REP,Cubin,237
+Campbell,Camplex Energy Hall 18-1,U.S. House,,REP,Herdt,33
+Campbell,Camplex Energy Hall 18-1,U.S. House,,REP,Wenino,7
+Campbell,Camplex Energy Hall 18-1,U.S. House,,DEM,Green,21
+Campbell,Camplex Energy Hall 18-1,U.S. House,,DEM,Munker,15
+Campbell,Camplex Energy Hall 18-1,State House,52,REP,McMurtrey,216
+Campbell,Camplex Energy Hall 18-1,Ballots Cast,,REP,Ballots Cast,288
+Campbell,Camplex Energy Hall 18-1,Ballots Cast,,DEM,Ballots Cast,37
+Campbell,Camplex Energy Hall 2-1,U.S. Senate,,REP,Thomas,96
+Campbell,Camplex Energy Hall 2-1,U.S. Senate,,DEM,Logan,8
+Campbell,Camplex Energy Hall 2-1,U.S. Senate,,DEM,Sumey,6
+Campbell,Camplex Energy Hall 2-1,U.S. House,,REP,Cubin,85
+Campbell,Camplex Energy Hall 2-1,U.S. House,,REP,Herdt,14
+Campbell,Camplex Energy Hall 2-1,U.S. House,,REP,Wenino,9
+Campbell,Camplex Energy Hall 2-1,U.S. House,,DEM,Green,7
+Campbell,Camplex Energy Hall 2-1,U.S. House,,DEM,Munker,7
+Campbell,Camplex Energy Hall 2-1,State House,31,REP,Hines,92
+Campbell,Camplex Energy Hall 2-1,State House,31,DEM,Claar,14
+Campbell,Camplex Energy Hall 2-1,Ballots Cast,,REP,Ballots Cast,110
+Campbell,Camplex Energy Hall 2-1,Ballots Cast,,DEM,Ballots Cast,15
+Campbell,Conestoga School 19-1,U.S. Senate,,REP,Thomas,275
+Campbell,Conestoga School 19-1,U.S. Senate,,DEM,Logan,35
+Campbell,Conestoga School 19-1,U.S. Senate,,DEM,Sumey,11
+Campbell,Conestoga School 19-1,U.S. House,,REP,Cubin,244
+Campbell,Conestoga School 19-1,U.S. House,,REP,Herdt,45
+Campbell,Conestoga School 19-1,U.S. House,,REP,Wenino,8
+Campbell,Conestoga School 19-1,U.S. House,,DEM,Green,36
+Campbell,Conestoga School 19-1,U.S. House,,DEM,Munker,11
+Campbell,Conestoga School 19-1,State House,52,REP,McMurtrey,267
+Campbell,Conestoga School 19-1,Ballots Cast,,REP,Ballots Cast,304
+Campbell,Conestoga School 19-1,Ballots Cast,,DEM,Ballots Cast,51
+Campbell,County Shop 3-1,U.S. Senate,,REP,Thomas,193
+Campbell,County Shop 3-1,U.S. Senate,,DEM,Logan,19
+Campbell,County Shop 3-1,U.S. Senate,,DEM,Sumey,8
+Campbell,County Shop 3-1,U.S. House,,REP,Cubin,179
+Campbell,County Shop 3-1,U.S. House,,REP,Herdt,20
+Campbell,County Shop 3-1,U.S. House,,REP,Wenino,5
+Campbell,County Shop 3-1,U.S. House,,DEM,Green,17
+Campbell,County Shop 3-1,U.S. House,,DEM,Munker,10
+Campbell,County Shop 3-1,State House,31,REP,Hines,189
+Campbell,County Shop 3-1,State House,31,DEM,Claar,27
+Campbell,County Shop 3-1,Ballots Cast,,REP,Ballots Cast,211
+Campbell,County Shop 3-1,Ballots Cast,,DEM,Ballots Cast,31
+Campbell,Fire Training Center 8-1,U.S. Senate,,REP,Thomas,17
+Campbell,Fire Training Center 8-1,U.S. Senate,,DEM,Logan,1
+Campbell,Fire Training Center 8-1,U.S. Senate,,DEM,Sumey,1
+Campbell,Fire Training Center 8-1,U.S. House,,REP,Cubin,17
+Campbell,Fire Training Center 8-1,U.S. House,,REP,Herdt,3
+Campbell,Fire Training Center 8-1,U.S. House,,REP,Wenino,1
+Campbell,Fire Training Center 8-1,U.S. House,,DEM,Green,1
+Campbell,Fire Training Center 8-1,U.S. House,,DEM,Munker,1
+Campbell,Fire Training Center 8-1,State House,52,REP,McMurtrey,14
+Campbell,Fire Training Center 8-1,Ballots Cast,,REP,Ballots Cast,21
+Campbell,Fire Training Center 8-1,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,First Methodist Church 9-1,U.S. Senate,,REP,Thomas,227
+Campbell,First Methodist Church 9-1,U.S. Senate,,DEM,Logan,18
+Campbell,First Methodist Church 9-1,U.S. Senate,,DEM,Sumey,2
+Campbell,First Methodist Church 9-1,U.S. House,,REP,Cubin,201
+Campbell,First Methodist Church 9-1,U.S. House,,REP,Herdt,29
+Campbell,First Methodist Church 9-1,U.S. House,,REP,Wenino,9
+Campbell,First Methodist Church 9-1,U.S. House,,DEM,Green,14
+Campbell,First Methodist Church 9-1,U.S. House,,DEM,Munker,7
+Campbell,First Methodist Church 9-1,State House,31,REP,Hines,220
+Campbell,First Methodist Church 9-1,State House,31,DEM,Claar,21
+Campbell,First Methodist Church 9-1,Ballots Cast,,REP,Ballots Cast,250
+Campbell,First Methodist Church 9-1,Ballots Cast,,DEM,Ballots Cast,21
+Campbell,Haight Residence 12-1,U.S. Senate,,REP,Thomas,42
+Campbell,Haight Residence 12-1,U.S. Senate,,DEM,Logan,3
+Campbell,Haight Residence 12-1,U.S. Senate,,DEM,Sumey,0
+Campbell,Haight Residence 12-1,U.S. House,,REP,Cubin,37
+Campbell,Haight Residence 12-1,U.S. House,,REP,Herdt,5
+Campbell,Haight Residence 12-1,U.S. House,,REP,Wenino,1
+Campbell,Haight Residence 12-1,U.S. House,,DEM,Green,3
+Campbell,Haight Residence 12-1,U.S. House,,DEM,Munker,0
+Campbell,Haight Residence 12-1,State House,52,REP,McMurtrey,33
+Campbell,Haight Residence 12-1,Ballots Cast,,REP,Ballots Cast,48
+Campbell,Haight Residence 12-1,Ballots Cast,,DEM,Ballots Cast,3
+Campbell,Knights of Columbus 5-1,U.S. Senate,,REP,Thomas,225
+Campbell,Knights of Columbus 5-1,U.S. Senate,,DEM,Logan,15
+Campbell,Knights of Columbus 5-1,U.S. Senate,,DEM,Sumey,7
+Campbell,Knights of Columbus 5-1,U.S. House,,REP,Cubin,197
+Campbell,Knights of Columbus 5-1,U.S. House,,REP,Herdt,35
+Campbell,Knights of Columbus 5-1,U.S. House,,REP,Wenino,14
+Campbell,Knights of Columbus 5-1,U.S. House,,DEM,Green,17
+Campbell,Knights of Columbus 5-1,U.S. House,,DEM,Munker,6
+Campbell,Knights of Columbus 5-1,State House,31,REP,Hines,224
+Campbell,Knights of Columbus 5-1,State House,31,DEM,Claar,27
+Campbell,Knights of Columbus 5-1,Ballots Cast,,REP,Ballots Cast,253
+Campbell,Knights of Columbus 5-1,Ballots Cast,,DEM,Ballots Cast,29
+Campbell,Little Powder School 10-1,U.S. Senate,,REP,Thomas,38
+Campbell,Little Powder School 10-1,U.S. Senate,,DEM,Logan,0
+Campbell,Little Powder School 10-1,U.S. Senate,,DEM,Sumey,0
+Campbell,Little Powder School 10-1,U.S. House,,REP,Cubin,37
+Campbell,Little Powder School 10-1,U.S. House,,REP,Herdt,4
+Campbell,Little Powder School 10-1,U.S. House,,REP,Wenino,1
+Campbell,Little Powder School 10-1,U.S. House,,DEM,Green,0
+Campbell,Little Powder School 10-1,U.S. House,,DEM,Munker,0
+Campbell,Little Powder School 10-1,State House,52,REP,McMurtrey,33
+Campbell,Little Powder School 10-1,Ballots Cast,,REP,Ballots Cast,44
+Campbell,Little Powder School 10-1,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,Moore Residence 17-1,U.S. Senate,,REP,Thomas,10
+Campbell,Moore Residence 17-1,U.S. Senate,,DEM,Logan,1
+Campbell,Moore Residence 17-1,U.S. Senate,,DEM,Sumey,0
+Campbell,Moore Residence 17-1,U.S. House,,REP,Cubin,11
+Campbell,Moore Residence 17-1,U.S. House,,REP,Herdt,0
+Campbell,Moore Residence 17-1,U.S. House,,REP,Wenino,0
+Campbell,Moore Residence 17-1,U.S. House,,DEM,Green,1
+Campbell,Moore Residence 17-1,U.S. House,,DEM,Munker,0
+Campbell,Moore Residence 17-1,State House,31,REP,Hines,9
+Campbell,Moore Residence 17-1,State House,31,DEM,Claar,1
+Campbell,Moore Residence 17-1,Ballots Cast,,REP,Ballots Cast,14
+Campbell,Moore Residence 17-1,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,Rawhide School 20-1,U.S. Senate,,REP,Thomas,25
+Campbell,Rawhide School 20-1,U.S. Senate,,DEM,Logan,1
+Campbell,Rawhide School 20-1,U.S. Senate,,DEM,Sumey,1
+Campbell,Rawhide School 20-1,U.S. House,,REP,Cubin,19
+Campbell,Rawhide School 20-1,U.S. House,,REP,Herdt,6
+Campbell,Rawhide School 20-1,U.S. House,,REP,Wenino,2
+Campbell,Rawhide School 20-1,U.S. House,,DEM,Green,1
+Campbell,Rawhide School 20-1,U.S. House,,DEM,Munker,2
+Campbell,Rawhide School 20-1,State House,31,REP,Hines,27
+Campbell,Rawhide School 20-1,State House,31,DEM,Claar,3
+Campbell,Rawhide School 20-1,Ballots Cast,,REP,Ballots Cast,29
+Campbell,Rawhide School 20-1,Ballots Cast,,DEM,Ballots Cast,3
+Campbell,Rawhide School 6-1,U.S. Senate,,REP,Thomas,76
+Campbell,Rawhide School 6-1,U.S. Senate,,DEM,Logan,1
+Campbell,Rawhide School 6-1,U.S. Senate,,DEM,Sumey,4
+Campbell,Rawhide School 6-1,U.S. House,,REP,Cubin,73
+Campbell,Rawhide School 6-1,U.S. House,,REP,Herdt,6
+Campbell,Rawhide School 6-1,U.S. House,,REP,Wenino,2
+Campbell,Rawhide School 6-1,U.S. House,,DEM,Green,4
+Campbell,Rawhide School 6-1,U.S. House,,DEM,Munker,1
+Campbell,Rawhide School 6-1,State House,52,REP,McMurtrey,64
+Campbell,Rawhide School 6-1,Ballots Cast,,REP,Ballots Cast,82
+Campbell,Rawhide School 6-1,Ballots Cast,,DEM,Ballots Cast,5
+Campbell,Recluse School 7-1,U.S. Senate,,REP,Thomas,60
+Campbell,Recluse School 7-1,U.S. Senate,,DEM,Logan,5
+Campbell,Recluse School 7-1,U.S. Senate,,DEM,Sumey,0
+Campbell,Recluse School 7-1,U.S. House,,REP,Cubin,59
+Campbell,Recluse School 7-1,U.S. House,,REP,Herdt,4
+Campbell,Recluse School 7-1,U.S. House,,REP,Wenino,3
+Campbell,Recluse School 7-1,U.S. House,,DEM,Green,4
+Campbell,Recluse School 7-1,U.S. House,,DEM,Munker,1
+Campbell,Recluse School 7-1,State House,52,REP,McMurtrey,52
+Campbell,Recluse School 7-1,Ballots Cast,,REP,Ballots Cast,73
+Campbell,Recluse School 7-1,Ballots Cast,,DEM,Ballots Cast,7
+Campbell,Rozet School 4-1,U.S. Senate,,REP,Thomas,165
+Campbell,Rozet School 4-1,U.S. Senate,,DEM,Logan,10
+Campbell,Rozet School 4-1,U.S. Senate,,DEM,Sumey,2
+Campbell,Rozet School 4-1,U.S. House,,REP,Cubin,160
+Campbell,Rozet School 4-1,U.S. House,,REP,Herdt,19
+Campbell,Rozet School 4-1,U.S. House,,REP,Wenino,3
+Campbell,Rozet School 4-1,U.S. House,,DEM,Green,7
+Campbell,Rozet School 4-1,U.S. House,,DEM,Munker,6
+Campbell,Rozet School 4-1,State House,52,REP,McMurtrey,154
+Campbell,Rozet School 4-1,Ballots Cast,,REP,Ballots Cast,192
+Campbell,Rozet School 4-1,Ballots Cast,,DEM,Ballots Cast,14
+Campbell,Wright Town Hall 14-1,U.S. Senate,,REP,Thomas,184
+Campbell,Wright Town Hall 14-1,U.S. Senate,,DEM,Logan,17
+Campbell,Wright Town Hall 14-1,U.S. Senate,,DEM,Sumey,28
+Campbell,Wright Town Hall 14-1,U.S. House,,REP,Cubin,150
+Campbell,Wright Town Hall 14-1,U.S. House,,REP,Herdt,26
+Campbell,Wright Town Hall 14-1,U.S. House,,REP,Wenino,17
+Campbell,Wright Town Hall 14-1,U.S. House,,DEM,Green,33
+Campbell,Wright Town Hall 14-1,U.S. House,,DEM,Munker,14
+Campbell,Wright Town Hall 14-1,State House,52,REP,McMurtrey,153
+Campbell,Wright Town Hall 14-1,Ballots Cast,,REP,Ballots Cast,208
+Campbell,Wright Town Hall 14-1,Ballots Cast,,DEM,Ballots Cast,51
+Campbell,Wright Town Hall 14-2,U.S. Senate,,REP,Thomas,73
+Campbell,Wright Town Hall 14-2,U.S. Senate,,DEM,Logan,1
+Campbell,Wright Town Hall 14-2,U.S. Senate,,DEM,Sumey,0
+Campbell,Wright Town Hall 14-2,U.S. House,,REP,Cubin,75
+Campbell,Wright Town Hall 14-2,U.S. House,,REP,Herdt,5
+Campbell,Wright Town Hall 14-2,U.S. House,,REP,Wenino,0
+Campbell,Wright Town Hall 14-2,U.S. House,,DEM,Green,1
+Campbell,Wright Town Hall 14-2,U.S. House,,DEM,Munker,0
+Campbell,Wright Town Hall 14-2,State House,52,REP,McMurtrey,63
+Campbell,Wright Town Hall 14-2,Ballots Cast,,REP,Ballots Cast,84
+Campbell,Wright Town Hall 14-2,Ballots Cast,,DEM,Ballots Cast,1

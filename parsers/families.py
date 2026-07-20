@@ -326,14 +326,29 @@ def sheet_party(sheet_name: str) -> str:
     return ""
 
 
-def family_a_cfg(spec: ElectionSpec, sheet_name: str, county: str) -> LayoutCfg:
-    """Family A has two office-row layouts and two candidate-row layouts.
+def family_a_cfg(spec: ElectionSpec, sheet_name: str, county: str, file_party: str = "") -> LayoutCfg:
+    """Family A layouts vary by year and election type.
 
-    2000/2002: 3 office rows (0-2) + 1 candidate row (3). data_start_row=4.
-    2004:     2 office rows (0-1) + 2 candidate rows (3-4). data_start_row=4.
-    Generals:  2 office rows (0-1) + 1 candidate row (3). data_start_row=4.
+    2000 primary:   2 office rows (0-1) + 1 candidate row (3). data_start_row=4.
+                    Per-county-party files (AL-D-2000.xls); party from filename.
+    2000 general:   2 office rows (0-1) + 1 candidate row (4). data_start_row=5.
+    2002 primary:   3 office rows (0-2) + 1 candidate row (3). data_start_row=4.
+    2002 general:   3 office rows (0-1, with row 2 frag) + 1 candidate row (3). data_start_row=4.
+    2004 primary:   2 office rows (0-1) + 2 candidate rows (3-4). data_start_row=4.
+    2004 general:   2 office rows (0-1) + 2 candidate rows (3-4). data_start_row=4.
     """
-    party = sheet_party(sheet_name) if spec.election_type == "primary" else ""
+    if spec.year == "2000" and spec.election_type == "general":
+        return LayoutCfg(
+            office_rows=[0, 1],
+            candidate_rows=[4],
+            data_start_row=5,
+            na_markers=frozenset({"NA", "N", "-", "`"}),
+            total_row_labels=frozenset({"official totals", "official results", "total", "totals"}),
+            county=county,
+            election_type=spec.election_type,
+            file_party="",
+        )
+    party = file_party or (sheet_party(sheet_name) if spec.election_type == "primary" else "")
     if spec.year == "2004":
         office_rows = [0, 1]
         candidate_rows = [3, 4]
@@ -341,7 +356,7 @@ def family_a_cfg(spec: ElectionSpec, sheet_name: str, county: str) -> LayoutCfg:
         office_rows = [0, 1, 2]
         candidate_rows = [3]
     else:
-        # 2000/2002 general.
+        # 2002 general.
         office_rows = [0, 1]
         candidate_rows = [3]
     return LayoutCfg(
@@ -383,7 +398,7 @@ def parse_family_a(spec: ElectionSpec) -> dict[str, list[Row]]:
         # 2002 general: skip natrona2.xls (identical + recount flags) -- use natrona.xls.
         if spec.date == "20021105" and path.name.lower() == "natrona2.xls":
             continue
-        county = _family_a_county_from_path(path, spec)
+        county, file_party = _family_a_county_from_path(path, spec)
         if county is None:
             continue
         overrides = FAMILY_A_OFFICE_OVERRIDES.get((spec.date, county))
@@ -397,7 +412,7 @@ def parse_family_a(spec: ElectionSpec) -> dict[str, list[Row]]:
         for sheet_name, sheet in sheets:
             if not sheet or all(all(v is None for v in r) for r in sheet):
                 continue
-            cfg = family_a_cfg(spec, sheet_name, county)
+            cfg = family_a_cfg(spec, sheet_name, county, file_party=file_party)
             if overrides:
                 cfg.office_overrides = overrides
             try:
@@ -409,10 +424,12 @@ def parse_family_a(spec: ElectionSpec) -> dict[str, list[Row]]:
     return per_county
 
 
-def _family_a_county_from_path(path: Path, spec: ElectionSpec) -> str | None:
-    """Family A county filenames are like 'Albany.xls', 'Big Horn.xls', 'natrona.xls'.
+def _family_a_county_from_path(path: Path, spec: ElectionSpec) -> tuple[str | None, str]:
+    """Return (county, file_party) for a Family A source path.
 
-    Look up by case-insensitive full-name match against the 23 counties.
+    Family A county filenames are like 'Albany.xls', 'Big Horn.xls', 'natrona.xls'.
+    2000 primary uses per-county-party files like 'AL-D-2000.xls' where the
+    single-letter token carries the party.
     """
     name = path.stem
     nlow = name.lower().strip()
@@ -420,12 +437,18 @@ def _family_a_county_from_path(path: Path, spec: ElectionSpec) -> str | None:
     if spec.year == "2000" and spec.election_type == "primary":
         m = re.match(r"^([A-Z]{2})-([A-Z])-\d{4}$", path.stem, re.IGNORECASE)
         if m:
-            return county_from_abbr(m.group(1))
-        return None
+            county = county_from_abbr(m.group(1))
+            party_token = m.group(2).upper()
+            try:
+                file_party = normalize_party(party_token)
+            except ValueError:
+                file_party = ""
+            return county, file_party
+        return None, ""
     for c in COUNTY_NAMES_SET:
         if nlow == c.lower():
-            return c
-    return None
+            return c, ""
+    return None, ""
 
 
 def _sheet_name(path: Path, idx: int) -> str:
