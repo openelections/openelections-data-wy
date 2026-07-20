@@ -1,0 +1,678 @@
+county,precinct,office,district,party,candidate,votes
+Albany,Albany Co. Library 51-1,U.S. Senate,,REP,Allen,1
+Albany,Albany Co. Library 51-1,U.S. Senate,,REP,Enzi,11
+Albany,Albany Co. Library 51-1,U.S. Senate,,DEM,Corcoran,16
+Albany,Albany Co. Library 51-1,U.S. House,,REP,Cubin,9
+Albany,Albany Co. Library 51-1,U.S. House,,DEM,Akin,11
+Albany,Albany Co. Library 51-1,U.S. House,,DEM,Casner,0
+Albany,Albany Co. Library 51-1,U.S. House,,DEM,Swett,4
+Albany,Albany Co. Library 51-1,Governor,,REP,Bebout,5
+Albany,Albany Co. Library 51-1,Governor,,REP,Hunkins,6
+Albany,Albany Co. Library 51-1,Governor,,REP,Self,0
+Albany,Albany Co. Library 51-1,Governor,,REP,Sniffin,2
+Albany,Albany Co. Library 51-1,Governor,,REP,Watt,0
+Albany,Albany Co. Library 51-1,Governor,,DEM,Freudenthal,13
+Albany,Albany Co. Library 51-1,Governor,,DEM,Hickey,6
+Albany,Albany Co. Library 51-1,Governor,,DEM,Simpson,1
+Albany,Albany Co. Library 51-1,Secretary of State,,REP,Meyer,11
+Albany,Albany Co. Library 51-1,Secretary of State,,DEM,Fagan,14
+Albany,Albany Co. Library 51-1,State Auditor,,DEM,Harris,15
+Albany,Albany Co. Library 51-1,State Treasurer,,REP,Lummis,9
+Albany,Albany Co. Library 51-1,State Treasurer,,REP,Maxfield,10
+Albany,Albany Co. Library 51-1,State Treasurer,,DEM,Emmons,10
+Albany,Albany Co. Library 51-1,Superintendent of Public Instruction,,REP,Blankenship,3
+Albany,Albany Co. Library 51-1,Superintendent of Public Instruction,,REP,Mingle,4
+Albany,Albany Co. Library 51-1,Superintendent of Public Instruction,,REP,Twiford,2
+Albany,Albany Co. Library 51-1,Superintendent of Public Instruction,,REP,Waring,0
+Albany,Albany Co. Library 51-1,Superintendent of Public Instruction,,DEM,Shoults,3
+Albany,Albany Co. Library 51-1,Superintendent of Public Instruction,,DEM,Wiederspahn,2
+Albany,Albany Co. Library 51-1,State Senate,9,DEM,Massie,18
+Albany,Albany Co. Library 51-1,State House,45,DEM,Johnson,19
+Albany,Albany Co. Library 51-1,Ballots Cast,,REP,Ballots Cast,13
+Albany,Albany Co. Library 51-1,Ballots Cast,,DEM,Ballots Cast,20
+Albany,Albany Co. Library 51-2,U.S. Senate,,REP,Allen,11
+Albany,Albany Co. Library 51-2,U.S. Senate,,REP,Enzi,61
+Albany,Albany Co. Library 51-2,U.S. Senate,,DEM,Corcoran,76
+Albany,Albany Co. Library 51-2,U.S. House,,REP,Cubin,53
+Albany,Albany Co. Library 51-2,U.S. House,,DEM,Akin,43
+Albany,Albany Co. Library 51-2,U.S. House,,DEM,Casner,5
+Albany,Albany Co. Library 51-2,U.S. House,,DEM,Swett,32
+Albany,Albany Co. Library 51-2,Governor,,REP,Bebout,33
+Albany,Albany Co. Library 51-2,Governor,,REP,Hunkins,26
+Albany,Albany Co. Library 51-2,Governor,,REP,Self,4
+Albany,Albany Co. Library 51-2,Governor,,REP,Sniffin,8
+Albany,Albany Co. Library 51-2,Governor,,REP,Watt,1
+Albany,Albany Co. Library 51-2,Governor,,DEM,Freudenthal,62
+Albany,Albany Co. Library 51-2,Governor,,DEM,Hickey,23
+Albany,Albany Co. Library 51-2,Governor,,DEM,Simpson,7
+Albany,Albany Co. Library 51-2,Secretary of State,,REP,Meyer,68
+Albany,Albany Co. Library 51-2,Secretary of State,,DEM,Fagan,71
+Albany,Albany Co. Library 51-2,State Auditor,,DEM,Harris,73
+Albany,Albany Co. Library 51-2,State Treasurer,,REP,Lummis,68
+Albany,Albany Co. Library 51-2,State Treasurer,,REP,Maxfield,66
+Albany,Albany Co. Library 51-2,State Treasurer,,DEM,Emmons,43
+Albany,Albany Co. Library 51-2,Superintendent of Public Instruction,,REP,Blankenship,32
+Albany,Albany Co. Library 51-2,Superintendent of Public Instruction,,REP,Mingle,11
+Albany,Albany Co. Library 51-2,Superintendent of Public Instruction,,REP,Twiford,16
+Albany,Albany Co. Library 51-2,Superintendent of Public Instruction,,REP,Waring,4
+Albany,Albany Co. Library 51-2,Superintendent of Public Instruction,,DEM,Shoults,15
+Albany,Albany Co. Library 51-2,Superintendent of Public Instruction,,DEM,Wiederspahn,21
+Albany,Albany Co. Library 51-2,State Senate,9,DEM,Massie,87
+Albany,Albany Co. Library 51-2,State House,45,DEM,Johnson,89
+Albany,Albany Co. Library 51-2,Ballots Cast,,REP,Ballots Cast,76
+Albany,Albany Co. Library 51-2,Ballots Cast,,DEM,Ballots Cast,104
+Albany,Albany County Fairgrounds 12-1,U.S. Senate,,REP,Allen,46
+Albany,Albany County Fairgrounds 12-1,U.S. Senate,,REP,Enzi,484
+Albany,Albany County Fairgrounds 12-1,U.S. Senate,,DEM,Corcoran,296
+Albany,Albany County Fairgrounds 12-1,U.S. House,,REP,Cubin,471
+Albany,Albany County Fairgrounds 12-1,U.S. House,,DEM,Akin,158
+Albany,Albany County Fairgrounds 12-1,U.S. House,,DEM,Casner,11
+Albany,Albany County Fairgrounds 12-1,U.S. House,,DEM,Swett,155
+Albany,Albany County Fairgrounds 12-1,Governor,,REP,Bebout,240
+Albany,Albany County Fairgrounds 12-1,Governor,,REP,Hunkins,206
+Albany,Albany County Fairgrounds 12-1,Governor,,REP,Self,12
+Albany,Albany County Fairgrounds 12-1,Governor,,REP,Sniffin,46
+Albany,Albany County Fairgrounds 12-1,Governor,,REP,Watt,15
+Albany,Albany County Fairgrounds 12-1,Governor,,DEM,Freudenthal,246
+Albany,Albany County Fairgrounds 12-1,Governor,,DEM,Hickey,85
+Albany,Albany County Fairgrounds 12-1,Governor,,DEM,Simpson,23
+Albany,Albany County Fairgrounds 12-1,Secretary of State,,REP,Meyer,484
+Albany,Albany County Fairgrounds 12-1,Secretary of State,,DEM,Fagan,302
+Albany,Albany County Fairgrounds 12-1,State Auditor,,DEM,Harris,302
+Albany,Albany County Fairgrounds 12-1,State Treasurer,,REP,Lummis,479
+Albany,Albany County Fairgrounds 12-1,State Treasurer,,REP,Maxfield,479
+Albany,Albany County Fairgrounds 12-1,State Treasurer,,DEM,Emmons,175
+Albany,Albany County Fairgrounds 12-1,Superintendent of Public Instruction,,REP,Blankenship,180
+Albany,Albany County Fairgrounds 12-1,Superintendent of Public Instruction,,REP,Mingle,71
+Albany,Albany County Fairgrounds 12-1,Superintendent of Public Instruction,,REP,Twiford,137
+Albany,Albany County Fairgrounds 12-1,Superintendent of Public Instruction,,REP,Waring,61
+Albany,Albany County Fairgrounds 12-1,Superintendent of Public Instruction,,DEM,Shoults,40
+Albany,Albany County Fairgrounds 12-1,Superintendent of Public Instruction,,DEM,Wiederspahn,108
+Albany,Albany County Fairgrounds 12-1,State House,46,REP,Slater,478
+Albany,Albany County Fairgrounds 12-1,Ballots Cast,,REP,Ballots Cast,535
+Albany,Albany County Fairgrounds 12-1,Ballots Cast,,DEM,Ballots Cast,383
+Albany,Albany County Library 31-3,U.S. Senate,,REP,Allen,13
+Albany,Albany County Library 31-3,U.S. Senate,,REP,Enzi,85
+Albany,Albany County Library 31-3,U.S. Senate,,DEM,Corcoran,183
+Albany,Albany County Library 31-3,U.S. House,,REP,Cubin,81
+Albany,Albany County Library 31-3,U.S. House,,DEM,Akin,104
+Albany,Albany County Library 31-3,U.S. House,,DEM,Casner,6
+Albany,Albany County Library 31-3,U.S. House,,DEM,Swett,90
+Albany,Albany County Library 31-3,Governor,,REP,Bebout,47
+Albany,Albany County Library 31-3,Governor,,REP,Hunkins,32
+Albany,Albany County Library 31-3,Governor,,REP,Self,3
+Albany,Albany County Library 31-3,Governor,,REP,Sniffin,16
+Albany,Albany County Library 31-3,Governor,,REP,Watt,4
+Albany,Albany County Library 31-3,Governor,,DEM,Freudenthal,151
+Albany,Albany County Library 31-3,Governor,,DEM,Hickey,55
+Albany,Albany County Library 31-3,Governor,,DEM,Simpson,11
+Albany,Albany County Library 31-3,Secretary of State,,REP,Meyer,90
+Albany,Albany County Library 31-3,Secretary of State,,DEM,Fagan,182
+Albany,Albany County Library 31-3,State Auditor,,DEM,Harris,183
+Albany,Albany County Library 31-3,State Treasurer,,REP,Lummis,86
+Albany,Albany County Library 31-3,State Treasurer,,REP,Maxfield,92
+Albany,Albany County Library 31-3,State Treasurer,,DEM,Emmons,94
+Albany,Albany County Library 31-3,Superintendent of Public Instruction,,REP,Blankenship,38
+Albany,Albany County Library 31-3,Superintendent of Public Instruction,,REP,Mingle,10
+Albany,Albany County Library 31-3,Superintendent of Public Instruction,,REP,Twiford,16
+Albany,Albany County Library 31-3,Superintendent of Public Instruction,,REP,Waring,13
+Albany,Albany County Library 31-3,Superintendent of Public Instruction,,DEM,Shoults,36
+Albany,Albany County Library 31-3,Superintendent of Public Instruction,,DEM,Wiederspahn,62
+Albany,Albany County Library 31-3,State Senate,9,DEM,Massie,212
+Albany,Albany County Library 31-3,State House,13,REP,Shumway,78
+Albany,Albany County Library 31-3,State House,13,DEM,Warren,201
+Albany,Albany County Library 31-3,Ballots Cast,,REP,Ballots Cast,105
+Albany,Albany County Library 31-3,Ballots Cast,,DEM,Ballots Cast,233
+Albany,Beitel School 61-1,U.S. Senate,,REP,Allen,0
+Albany,Beitel School 61-1,U.S. Senate,,REP,Enzi,0
+Albany,Beitel School 61-1,U.S. Senate,,DEM,Corcoran,0
+Albany,Beitel School 61-1,U.S. House,,REP,Cubin,0
+Albany,Beitel School 61-1,U.S. House,,DEM,Akin,0
+Albany,Beitel School 61-1,U.S. House,,DEM,Casner,0
+Albany,Beitel School 61-1,U.S. House,,DEM,Swett,0
+Albany,Beitel School 61-1,Governor,,REP,Bebout,0
+Albany,Beitel School 61-1,Governor,,REP,Hunkins,0
+Albany,Beitel School 61-1,Governor,,REP,Self,0
+Albany,Beitel School 61-1,Governor,,REP,Sniffin,0
+Albany,Beitel School 61-1,Governor,,REP,Watt,0
+Albany,Beitel School 61-1,Governor,,DEM,Freudenthal,0
+Albany,Beitel School 61-1,Governor,,DEM,Hickey,0
+Albany,Beitel School 61-1,Governor,,DEM,Simpson,0
+Albany,Beitel School 61-1,Secretary of State,,REP,Meyer,0
+Albany,Beitel School 61-1,Secretary of State,,DEM,Fagan,0
+Albany,Beitel School 61-1,State Auditor,,DEM,Harris,0
+Albany,Beitel School 61-1,State Treasurer,,REP,Lummis,0
+Albany,Beitel School 61-1,State Treasurer,,REP,Maxfield,0
+Albany,Beitel School 61-1,State Treasurer,,DEM,Emmons,0
+Albany,Beitel School 61-1,Superintendent of Public Instruction,,REP,Blankenship,0
+Albany,Beitel School 61-1,Superintendent of Public Instruction,,REP,Mingle,0
+Albany,Beitel School 61-1,Superintendent of Public Instruction,,REP,Twiford,0
+Albany,Beitel School 61-1,Superintendent of Public Instruction,,REP,Waring,0
+Albany,Beitel School 61-1,Superintendent of Public Instruction,,DEM,Shoults,0
+Albany,Beitel School 61-1,Superintendent of Public Instruction,,DEM,Wiederspahn,0
+Albany,Beitel School 61-1,State House,46,REP,Slater,0
+Albany,Beitel School 61-1,Ballots Cast,,REP,Ballots Cast,0
+Albany,Beitel School 61-1,Ballots Cast,,DEM,Ballots Cast,0
+Albany,Beitel School 61-2,U.S. Senate,,REP,Allen,23
+Albany,Beitel School 61-2,U.S. Senate,,REP,Enzi,275
+Albany,Beitel School 61-2,U.S. Senate,,DEM,Corcoran,199
+Albany,Beitel School 61-2,U.S. House,,REP,Cubin,244
+Albany,Beitel School 61-2,U.S. House,,DEM,Akin,113
+Albany,Beitel School 61-2,U.S. House,,DEM,Casner,12
+Albany,Beitel School 61-2,U.S. House,,DEM,Swett,101
+Albany,Beitel School 61-2,Governor,,REP,Bebout,144
+Albany,Beitel School 61-2,Governor,,REP,Hunkins,83
+Albany,Beitel School 61-2,Governor,,REP,Self,8
+Albany,Beitel School 61-2,Governor,,REP,Sniffin,41
+Albany,Beitel School 61-2,Governor,,REP,Watt,9
+Albany,Beitel School 61-2,Governor,,DEM,Freudenthal,155
+Albany,Beitel School 61-2,Governor,,DEM,Hickey,82
+Albany,Beitel School 61-2,Governor,,DEM,Simpson,14
+Albany,Beitel School 61-2,Secretary of State,,REP,Meyer,252
+Albany,Beitel School 61-2,Secretary of State,,DEM,Fagan,209
+Albany,Beitel School 61-2,State Auditor,,DEM,Harris,208
+Albany,Beitel School 61-2,State Treasurer,,REP,Lummis,247
+Albany,Beitel School 61-2,State Treasurer,,REP,Maxfield,251
+Albany,Beitel School 61-2,State Treasurer,,DEM,Emmons,132
+Albany,Beitel School 61-2,Superintendent of Public Instruction,,REP,Blankenship,120
+Albany,Beitel School 61-2,Superintendent of Public Instruction,,REP,Mingle,27
+Albany,Beitel School 61-2,Superintendent of Public Instruction,,REP,Twiford,64
+Albany,Beitel School 61-2,Superintendent of Public Instruction,,REP,Waring,34
+Albany,Beitel School 61-2,Superintendent of Public Instruction,,DEM,Shoults,29
+Albany,Beitel School 61-2,Superintendent of Public Instruction,,DEM,Wiederspahn,68
+Albany,Beitel School 61-2,State House,46,REP,Slater,258
+Albany,Beitel School 61-2,Ballots Cast,,REP,Ballots Cast,309
+Albany,Beitel School 61-2,Ballots Cast,,DEM,Ballots Cast,280
+Albany,Centennial School 13-1,U.S. Senate,,REP,Allen,4
+Albany,Centennial School 13-1,U.S. Senate,,REP,Enzi,80
+Albany,Centennial School 13-1,U.S. Senate,,DEM,Corcoran,44
+Albany,Centennial School 13-1,U.S. House,,REP,Cubin,72
+Albany,Centennial School 13-1,U.S. House,,DEM,Akin,16
+Albany,Centennial School 13-1,U.S. House,,DEM,Casner,4
+Albany,Centennial School 13-1,U.S. House,,DEM,Swett,29
+Albany,Centennial School 13-1,Governor,,REP,Bebout,42
+Albany,Centennial School 13-1,Governor,,REP,Hunkins,29
+Albany,Centennial School 13-1,Governor,,REP,Self,2
+Albany,Centennial School 13-1,Governor,,REP,Sniffin,5
+Albany,Centennial School 13-1,Governor,,REP,Watt,3
+Albany,Centennial School 13-1,Governor,,DEM,Freudenthal,29
+Albany,Centennial School 13-1,Governor,,DEM,Hickey,17
+Albany,Centennial School 13-1,Governor,,DEM,Simpson,3
+Albany,Centennial School 13-1,Secretary of State,,REP,Meyer,71
+Albany,Centennial School 13-1,Secretary of State,,DEM,Fagan,46
+Albany,Centennial School 13-1,State Auditor,,DEM,Harris,45
+Albany,Centennial School 13-1,State Treasurer,,REP,Lummis,70
+Albany,Centennial School 13-1,State Treasurer,,REP,Maxfield,74
+Albany,Centennial School 13-1,State Treasurer,,DEM,Emmons,16
+Albany,Centennial School 13-1,Superintendent of Public Instruction,,REP,Blankenship,16
+Albany,Centennial School 13-1,Superintendent of Public Instruction,,REP,Mingle,8
+Albany,Centennial School 13-1,Superintendent of Public Instruction,,REP,Twiford,27
+Albany,Centennial School 13-1,Superintendent of Public Instruction,,REP,Waring,9
+Albany,Centennial School 13-1,Superintendent of Public Instruction,,DEM,Shoults,11
+Albany,Centennial School 13-1,Superintendent of Public Instruction,,DEM,Wiederspahn,17
+Albany,Centennial School 13-1,State House,46,REP,Slater,73
+Albany,Centennial School 13-1,Ballots Cast,,REP,Ballots Cast,84
+Albany,Centennial School 13-1,Ballots Cast,,DEM,Ballots Cast,56
+Albany,Indian Paintbrush School 41-3,U.S. Senate,,REP,Allen,28
+Albany,Indian Paintbrush School 41-3,U.S. Senate,,REP,Enzi,269
+Albany,Indian Paintbrush School 41-3,U.S. Senate,,DEM,Corcoran,205
+Albany,Indian Paintbrush School 41-3,U.S. House,,REP,Cubin,242
+Albany,Indian Paintbrush School 41-3,U.S. House,,DEM,Akin,124
+Albany,Indian Paintbrush School 41-3,U.S. House,,DEM,Casner,10
+Albany,Indian Paintbrush School 41-3,U.S. House,,DEM,Swett,100
+Albany,Indian Paintbrush School 41-3,Governor,,REP,Bebout,161
+Albany,Indian Paintbrush School 41-3,Governor,,REP,Hunkins,74
+Albany,Indian Paintbrush School 41-3,Governor,,REP,Self,5
+Albany,Indian Paintbrush School 41-3,Governor,,REP,Sniffin,55
+Albany,Indian Paintbrush School 41-3,Governor,,REP,Watt,6
+Albany,Indian Paintbrush School 41-3,Governor,,DEM,Freudenthal,169
+Albany,Indian Paintbrush School 41-3,Governor,,DEM,Hickey,98
+Albany,Indian Paintbrush School 41-3,Governor,,DEM,Simpson,10
+Albany,Indian Paintbrush School 41-3,Secretary of State,,REP,Meyer,269
+Albany,Indian Paintbrush School 41-3,Secretary of State,,DEM,Fagan,206
+Albany,Indian Paintbrush School 41-3,State Auditor,,DEM,Harris,209
+Albany,Indian Paintbrush School 41-3,State Treasurer,,REP,Lummis,269
+Albany,Indian Paintbrush School 41-3,State Treasurer,,REP,Maxfield,263
+Albany,Indian Paintbrush School 41-3,State Treasurer,,DEM,Emmons,127
+Albany,Indian Paintbrush School 41-3,Superintendent of Public Instruction,,REP,Blankenship,99
+Albany,Indian Paintbrush School 41-3,Superintendent of Public Instruction,,REP,Mingle,38
+Albany,Indian Paintbrush School 41-3,Superintendent of Public Instruction,,REP,Twiford,84
+Albany,Indian Paintbrush School 41-3,Superintendent of Public Instruction,,REP,Waring,41
+Albany,Indian Paintbrush School 41-3,Superintendent of Public Instruction,,DEM,Shoults,36
+Albany,Indian Paintbrush School 41-3,Superintendent of Public Instruction,,DEM,Wiederspahn,73
+Albany,Indian Paintbrush School 41-3,State House,14,REP,Nicholas,266
+Albany,Indian Paintbrush School 41-3,Ballots Cast,,REP,Ballots Cast,318
+Albany,Indian Paintbrush School 41-3,Ballots Cast,,DEM,Ballots Cast,299
+Albany,Indian Paintbrush School 41-4,U.S. Senate,,REP,Allen,0
+Albany,Indian Paintbrush School 41-4,U.S. Senate,,REP,Enzi,5
+Albany,Indian Paintbrush School 41-4,U.S. Senate,,DEM,Corcoran,7
+Albany,Indian Paintbrush School 41-4,U.S. House,,REP,Cubin,5
+Albany,Indian Paintbrush School 41-4,U.S. House,,DEM,Akin,5
+Albany,Indian Paintbrush School 41-4,U.S. House,,DEM,Casner,0
+Albany,Indian Paintbrush School 41-4,U.S. House,,DEM,Swett,3
+Albany,Indian Paintbrush School 41-4,Governor,,REP,Bebout,1
+Albany,Indian Paintbrush School 41-4,Governor,,REP,Hunkins,4
+Albany,Indian Paintbrush School 41-4,Governor,,REP,Self,0
+Albany,Indian Paintbrush School 41-4,Governor,,REP,Sniffin,0
+Albany,Indian Paintbrush School 41-4,Governor,,REP,Watt,0
+Albany,Indian Paintbrush School 41-4,Governor,,DEM,Freudenthal,4
+Albany,Indian Paintbrush School 41-4,Governor,,DEM,Hickey,4
+Albany,Indian Paintbrush School 41-4,Governor,,DEM,Simpson,0
+Albany,Indian Paintbrush School 41-4,Secretary of State,,REP,Meyer,4
+Albany,Indian Paintbrush School 41-4,Secretary of State,,DEM,Fagan,7
+Albany,Indian Paintbrush School 41-4,State Auditor,,DEM,Harris,7
+Albany,Indian Paintbrush School 41-4,State Treasurer,,REP,Lummis,4
+Albany,Indian Paintbrush School 41-4,State Treasurer,,REP,Maxfield,5
+Albany,Indian Paintbrush School 41-4,State Treasurer,,DEM,Emmons,1
+Albany,Indian Paintbrush School 41-4,Superintendent of Public Instruction,,REP,Blankenship,0
+Albany,Indian Paintbrush School 41-4,Superintendent of Public Instruction,,REP,Mingle,1
+Albany,Indian Paintbrush School 41-4,Superintendent of Public Instruction,,REP,Twiford,1
+Albany,Indian Paintbrush School 41-4,Superintendent of Public Instruction,,REP,Waring,1
+Albany,Indian Paintbrush School 41-4,Superintendent of Public Instruction,,DEM,Shoults,1
+Albany,Indian Paintbrush School 41-4,Superintendent of Public Instruction,,DEM,Wiederspahn,4
+Albany,Indian Paintbrush School 41-4,State House,14,REP,Nicholas,3
+Albany,Indian Paintbrush School 41-4,Ballots Cast,,REP,Ballots Cast,5
+Albany,Indian Paintbrush School 41-4,Ballots Cast,,DEM,Ballots Cast,8
+Albany,Laramie Jr. High School 41-1,U.S. Senate,,REP,Allen,24
+Albany,Laramie Jr. High School 41-1,U.S. Senate,,REP,Enzi,207
+Albany,Laramie Jr. High School 41-1,U.S. Senate,,DEM,Corcoran,204
+Albany,Laramie Jr. High School 41-1,U.S. House,,REP,Cubin,190
+Albany,Laramie Jr. High School 41-1,U.S. House,,DEM,Akin,123
+Albany,Laramie Jr. High School 41-1,U.S. House,,DEM,Casner,6
+Albany,Laramie Jr. High School 41-1,U.S. House,,DEM,Swett,95
+Albany,Laramie Jr. High School 41-1,Governor,,REP,Bebout,101
+Albany,Laramie Jr. High School 41-1,Governor,,REP,Hunkins,83
+Albany,Laramie Jr. High School 41-1,Governor,,REP,Self,3
+Albany,Laramie Jr. High School 41-1,Governor,,REP,Sniffin,32
+Albany,Laramie Jr. High School 41-1,Governor,,REP,Watt,7
+Albany,Laramie Jr. High School 41-1,Governor,,DEM,Freudenthal,172
+Albany,Laramie Jr. High School 41-1,Governor,,DEM,Hickey,63
+Albany,Laramie Jr. High School 41-1,Governor,,DEM,Simpson,12
+Albany,Laramie Jr. High School 41-1,Secretary of State,,REP,Meyer,215
+Albany,Laramie Jr. High School 41-1,Secretary of State,,DEM,Fagan,209
+Albany,Laramie Jr. High School 41-1,State Auditor,,DEM,Harris,209
+Albany,Laramie Jr. High School 41-1,State Treasurer,,REP,Lummis,208
+Albany,Laramie Jr. High School 41-1,State Treasurer,,REP,Maxfield,206
+Albany,Laramie Jr. High School 41-1,State Treasurer,,DEM,Emmons,103
+Albany,Laramie Jr. High School 41-1,Superintendent of Public Instruction,,REP,Blankenship,74
+Albany,Laramie Jr. High School 41-1,Superintendent of Public Instruction,,REP,Mingle,37
+Albany,Laramie Jr. High School 41-1,Superintendent of Public Instruction,,REP,Twiford,50
+Albany,Laramie Jr. High School 41-1,Superintendent of Public Instruction,,REP,Waring,32
+Albany,Laramie Jr. High School 41-1,Superintendent of Public Instruction,,DEM,Shoults,45
+Albany,Laramie Jr. High School 41-1,Superintendent of Public Instruction,,DEM,Wiederspahn,73
+Albany,Laramie Jr. High School 41-1,State House,14,REP,Nicholas,199
+Albany,Laramie Jr. High School 41-1,Ballots Cast,,REP,Ballots Cast,238
+Albany,Laramie Jr. High School 41-1,Ballots Cast,,DEM,Ballots Cast,266
+Albany,Laramie Jr. High School 41-2,U.S. Senate,,REP,Allen,4
+Albany,Laramie Jr. High School 41-2,U.S. Senate,,REP,Enzi,67
+Albany,Laramie Jr. High School 41-2,U.S. Senate,,DEM,Corcoran,29
+Albany,Laramie Jr. High School 41-2,U.S. House,,REP,Cubin,66
+Albany,Laramie Jr. High School 41-2,U.S. House,,DEM,Akin,10
+Albany,Laramie Jr. High School 41-2,U.S. House,,DEM,Casner,0
+Albany,Laramie Jr. High School 41-2,U.S. House,,DEM,Swett,17
+Albany,Laramie Jr. High School 41-2,Governor,,REP,Bebout,51
+Albany,Laramie Jr. High School 41-2,Governor,,REP,Hunkins,13
+Albany,Laramie Jr. High School 41-2,Governor,,REP,Self,1
+Albany,Laramie Jr. High School 41-2,Governor,,REP,Sniffin,3
+Albany,Laramie Jr. High School 41-2,Governor,,REP,Watt,2
+Albany,Laramie Jr. High School 41-2,Governor,,DEM,Freudenthal,25
+Albany,Laramie Jr. High School 41-2,Governor,,DEM,Hickey,12
+Albany,Laramie Jr. High School 41-2,Governor,,DEM,Simpson,2
+Albany,Laramie Jr. High School 41-2,Secretary of State,,REP,Meyer,67
+Albany,Laramie Jr. High School 41-2,Secretary of State,,DEM,Fagan,27
+Albany,Laramie Jr. High School 41-2,State Auditor,,DEM,Harris,26
+Albany,Laramie Jr. High School 41-2,State Treasurer,,REP,Lummis,71
+Albany,Laramie Jr. High School 41-2,State Treasurer,,REP,Maxfield,67
+Albany,Laramie Jr. High School 41-2,State Treasurer,,DEM,Emmons,18
+Albany,Laramie Jr. High School 41-2,Superintendent of Public Instruction,,REP,Blankenship,40
+Albany,Laramie Jr. High School 41-2,Superintendent of Public Instruction,,REP,Mingle,4
+Albany,Laramie Jr. High School 41-2,Superintendent of Public Instruction,,REP,Twiford,17
+Albany,Laramie Jr. High School 41-2,Superintendent of Public Instruction,,REP,Waring,6
+Albany,Laramie Jr. High School 41-2,Superintendent of Public Instruction,,DEM,Shoults,6
+Albany,Laramie Jr. High School 41-2,Superintendent of Public Instruction,,DEM,Wiederspahn,9
+Albany,Laramie Jr. High School 41-2,State House,14,REP,Nicholas,62
+Albany,Laramie Jr. High School 41-2,Ballots Cast,,REP,Ballots Cast,73
+Albany,Laramie Jr. High School 41-2,Ballots Cast,,DEM,Ballots Cast,43
+Albany,Linford School 51-4,U.S. Senate,,REP,Allen,0
+Albany,Linford School 51-4,U.S. Senate,,REP,Enzi,8
+Albany,Linford School 51-4,U.S. Senate,,DEM,Corcoran,6
+Albany,Linford School 51-4,U.S. House,,REP,Cubin,8
+Albany,Linford School 51-4,U.S. House,,DEM,Akin,2
+Albany,Linford School 51-4,U.S. House,,DEM,Casner,1
+Albany,Linford School 51-4,U.S. House,,DEM,Swett,4
+Albany,Linford School 51-4,Governor,,REP,Bebout,6
+Albany,Linford School 51-4,Governor,,REP,Hunkins,3
+Albany,Linford School 51-4,Governor,,REP,Self,0
+Albany,Linford School 51-4,Governor,,REP,Sniffin,0
+Albany,Linford School 51-4,Governor,,REP,Watt,0
+Albany,Linford School 51-4,Governor,,DEM,Freudenthal,3
+Albany,Linford School 51-4,Governor,,DEM,Hickey,1
+Albany,Linford School 51-4,Governor,,DEM,Simpson,2
+Albany,Linford School 51-4,Secretary of State,,REP,Meyer,7
+Albany,Linford School 51-4,Secretary of State,,DEM,Fagan,6
+Albany,Linford School 51-4,State Auditor,,DEM,Harris,5
+Albany,Linford School 51-4,State Treasurer,,REP,Lummis,7
+Albany,Linford School 51-4,State Treasurer,,REP,Maxfield,7
+Albany,Linford School 51-4,State Treasurer,,DEM,Emmons,4
+Albany,Linford School 51-4,Superintendent of Public Instruction,,REP,Blankenship,2
+Albany,Linford School 51-4,Superintendent of Public Instruction,,REP,Mingle,1
+Albany,Linford School 51-4,Superintendent of Public Instruction,,REP,Twiford,2
+Albany,Linford School 51-4,Superintendent of Public Instruction,,REP,Waring,0
+Albany,Linford School 51-4,Superintendent of Public Instruction,,DEM,Shoults,0
+Albany,Linford School 51-4,Superintendent of Public Instruction,,DEM,Wiederspahn,2
+Albany,Linford School 51-4,State Senate,9,DEM,Massie,6
+Albany,Linford School 51-4,State House,45,DEM,Johnson,6
+Albany,Linford School 51-4,Ballots Cast,,REP,Ballots Cast,9
+Albany,Linford School 51-4,Ballots Cast,,DEM,Ballots Cast,7
+Albany,Linford School 51-5,U.S. Senate,,REP,Allen,42
+Albany,Linford School 51-5,U.S. Senate,,REP,Enzi,262
+Albany,Linford School 51-5,U.S. Senate,,DEM,Corcoran,282
+Albany,Linford School 51-5,U.S. House,,REP,Cubin,271
+Albany,Linford School 51-5,U.S. House,,DEM,Akin,154
+Albany,Linford School 51-5,U.S. House,,DEM,Casner,15
+Albany,Linford School 51-5,U.S. House,,DEM,Swett,139
+Albany,Linford School 51-5,Governor,,REP,Bebout,123
+Albany,Linford School 51-5,Governor,,REP,Hunkins,123
+Albany,Linford School 51-5,Governor,,REP,Self,9
+Albany,Linford School 51-5,Governor,,REP,Sniffin,38
+Albany,Linford School 51-5,Governor,,REP,Watt,16
+Albany,Linford School 51-5,Governor,,DEM,Freudenthal,192
+Albany,Linford School 51-5,Governor,,DEM,Hickey,96
+Albany,Linford School 51-5,Governor,,DEM,Simpson,20
+Albany,Linford School 51-5,Secretary of State,,REP,Meyer,273
+Albany,Linford School 51-5,Secretary of State,,DEM,Fagan,281
+Albany,Linford School 51-5,State Auditor,,DEM,Harris,285
+Albany,Linford School 51-5,State Treasurer,,REP,Lummis,268
+Albany,Linford School 51-5,State Treasurer,,REP,Maxfield,273
+Albany,Linford School 51-5,State Treasurer,,DEM,Emmons,145
+Albany,Linford School 51-5,Superintendent of Public Instruction,,REP,Blankenship,108
+Albany,Linford School 51-5,Superintendent of Public Instruction,,REP,Mingle,46
+Albany,Linford School 51-5,Superintendent of Public Instruction,,REP,Twiford,67
+Albany,Linford School 51-5,Superintendent of Public Instruction,,REP,Waring,48
+Albany,Linford School 51-5,Superintendent of Public Instruction,,DEM,Shoults,52
+Albany,Linford School 51-5,Superintendent of Public Instruction,,DEM,Wiederspahn,90
+Albany,Linford School 51-5,State Senate,9,DEM,Massie,297
+Albany,Linford School 51-5,State House,45,DEM,Johnson,296
+Albany,Linford School 51-5,Ballots Cast,,REP,Ballots Cast,324
+Albany,Linford School 51-5,Ballots Cast,,DEM,Ballots Cast,340
+Albany,Linford School 51-6,U.S. Senate,,REP,Allen,9
+Albany,Linford School 51-6,U.S. Senate,,REP,Enzi,30
+Albany,Linford School 51-6,U.S. Senate,,DEM,Corcoran,108
+Albany,Linford School 51-6,U.S. House,,REP,Cubin,36
+Albany,Linford School 51-6,U.S. House,,DEM,Akin,57
+Albany,Linford School 51-6,U.S. House,,DEM,Casner,5
+Albany,Linford School 51-6,U.S. House,,DEM,Swett,55
+Albany,Linford School 51-6,Governor,,REP,Bebout,12
+Albany,Linford School 51-6,Governor,,REP,Hunkins,17
+Albany,Linford School 51-6,Governor,,REP,Self,2
+Albany,Linford School 51-6,Governor,,REP,Sniffin,4
+Albany,Linford School 51-6,Governor,,REP,Watt,1
+Albany,Linford School 51-6,Governor,,DEM,Freudenthal,77
+Albany,Linford School 51-6,Governor,,DEM,Hickey,32
+Albany,Linford School 51-6,Governor,,DEM,Simpson,15
+Albany,Linford School 51-6,Secretary of State,,REP,Meyer,36
+Albany,Linford School 51-6,Secretary of State,,DEM,Fagan,105
+Albany,Linford School 51-6,State Auditor,,DEM,Harris,108
+Albany,Linford School 51-6,State Treasurer,,REP,Lummis,36
+Albany,Linford School 51-6,State Treasurer,,REP,Maxfield,35
+Albany,Linford School 51-6,State Treasurer,,DEM,Emmons,49
+Albany,Linford School 51-6,Superintendent of Public Instruction,,REP,Blankenship,13
+Albany,Linford School 51-6,Superintendent of Public Instruction,,REP,Mingle,8
+Albany,Linford School 51-6,Superintendent of Public Instruction,,REP,Twiford,9
+Albany,Linford School 51-6,Superintendent of Public Instruction,,REP,Waring,2
+Albany,Linford School 51-6,Superintendent of Public Instruction,,DEM,Shoults,33
+Albany,Linford School 51-6,Superintendent of Public Instruction,,DEM,Wiederspahn,35
+Albany,Linford School 51-6,State Senate,9,DEM,Massie,120
+Albany,Linford School 51-6,State House,45,DEM,Johnson,120
+Albany,Linford School 51-6,Ballots Cast,,REP,Ballots Cast,42
+Albany,Linford School 51-6,Ballots Cast,,DEM,Ballots Cast,138
+Albany,Northern Albany County 11-1,U.S. Senate,,REP,Allen,12
+Albany,Northern Albany County 11-1,U.S. Senate,,REP,Enzi,130
+Albany,Northern Albany County 11-1,U.S. Senate,,DEM,Corcoran,64
+Albany,Northern Albany County 11-1,U.S. House,,REP,Cubin,125
+Albany,Northern Albany County 11-1,U.S. House,,DEM,Akin,40
+Albany,Northern Albany County 11-1,U.S. House,,DEM,Casner,4
+Albany,Northern Albany County 11-1,U.S. House,,DEM,Swett,31
+Albany,Northern Albany County 11-1,Governor,,REP,Bebout,67
+Albany,Northern Albany County 11-1,Governor,,REP,Hunkins,65
+Albany,Northern Albany County 11-1,Governor,,REP,Self,0
+Albany,Northern Albany County 11-1,Governor,,REP,Sniffin,9
+Albany,Northern Albany County 11-1,Governor,,REP,Watt,5
+Albany,Northern Albany County 11-1,Governor,,DEM,Freudenthal,44
+Albany,Northern Albany County 11-1,Governor,,DEM,Hickey,29
+Albany,Northern Albany County 11-1,Governor,,DEM,Simpson,3
+Albany,Northern Albany County 11-1,Secretary of State,,REP,Meyer,129
+Albany,Northern Albany County 11-1,Secretary of State,,DEM,Fagan,61
+Albany,Northern Albany County 11-1,State Auditor,,DEM,Harris,61
+Albany,Northern Albany County 11-1,State Treasurer,,REP,Lummis,129
+Albany,Northern Albany County 11-1,State Treasurer,,REP,Maxfield,129
+Albany,Northern Albany County 11-1,State Treasurer,,DEM,Emmons,37
+Albany,Northern Albany County 11-1,Superintendent of Public Instruction,,REP,Blankenship,57
+Albany,Northern Albany County 11-1,Superintendent of Public Instruction,,REP,Mingle,13
+Albany,Northern Albany County 11-1,Superintendent of Public Instruction,,REP,Twiford,39
+Albany,Northern Albany County 11-1,Superintendent of Public Instruction,,REP,Waring,14
+Albany,Northern Albany County 11-1,Superintendent of Public Instruction,,DEM,Shoults,16
+Albany,Northern Albany County 11-1,Superintendent of Public Instruction,,DEM,Wiederspahn,12
+Albany,Northern Albany County 11-1,State House,14,REP,Nicholas,128
+Albany,Northern Albany County 11-1,Ballots Cast,,REP,Ballots Cast,150
+Albany,Northern Albany County 11-1,Ballots Cast,,DEM,Ballots Cast,85
+Albany,Rock River Town Hall 14-1,U.S. Senate,,REP,Allen,5
+Albany,Rock River Town Hall 14-1,U.S. Senate,,REP,Enzi,20
+Albany,Rock River Town Hall 14-1,U.S. Senate,,DEM,Corcoran,24
+Albany,Rock River Town Hall 14-1,U.S. House,,REP,Cubin,26
+Albany,Rock River Town Hall 14-1,U.S. House,,DEM,Akin,16
+Albany,Rock River Town Hall 14-1,U.S. House,,DEM,Casner,1
+Albany,Rock River Town Hall 14-1,U.S. House,,DEM,Swett,8
+Albany,Rock River Town Hall 14-1,Governor,,REP,Bebout,11
+Albany,Rock River Town Hall 14-1,Governor,,REP,Hunkins,12
+Albany,Rock River Town Hall 14-1,Governor,,REP,Self,0
+Albany,Rock River Town Hall 14-1,Governor,,REP,Sniffin,2
+Albany,Rock River Town Hall 14-1,Governor,,REP,Watt,1
+Albany,Rock River Town Hall 14-1,Governor,,DEM,Freudenthal,14
+Albany,Rock River Town Hall 14-1,Governor,,DEM,Hickey,5
+Albany,Rock River Town Hall 14-1,Governor,,DEM,Simpson,6
+Albany,Rock River Town Hall 14-1,Secretary of State,,REP,Meyer,26
+Albany,Rock River Town Hall 14-1,Secretary of State,,DEM,Fagan,25
+Albany,Rock River Town Hall 14-1,State Auditor,,DEM,Harris,25
+Albany,Rock River Town Hall 14-1,State Treasurer,,REP,Lummis,24
+Albany,Rock River Town Hall 14-1,State Treasurer,,REP,Maxfield,21
+Albany,Rock River Town Hall 14-1,State Treasurer,,DEM,Emmons,12
+Albany,Rock River Town Hall 14-1,Superintendent of Public Instruction,,REP,Blankenship,6
+Albany,Rock River Town Hall 14-1,Superintendent of Public Instruction,,REP,Mingle,4
+Albany,Rock River Town Hall 14-1,Superintendent of Public Instruction,,REP,Twiford,9
+Albany,Rock River Town Hall 14-1,Superintendent of Public Instruction,,REP,Waring,6
+Albany,Rock River Town Hall 14-1,Superintendent of Public Instruction,,DEM,Shoults,5
+Albany,Rock River Town Hall 14-1,Superintendent of Public Instruction,,DEM,Wiederspahn,9
+Albany,Rock River Town Hall 14-1,State Senate,11,REP,Hicks,24
+Albany,Rock River Town Hall 14-1,State Senate,11,DEM,Vasey,25
+Albany,Rock River Town Hall 14-1,State House,47,REP,Bucholz,9
+Albany,Rock River Town Hall 14-1,State House,47,REP,Willford,16
+Albany,Rock River Town Hall 14-1,Ballots Cast,,REP,Ballots Cast,27
+Albany,Rock River Town Hall 14-1,Ballots Cast,,DEM,Ballots Cast,28
+Albany,Slade School 31-1,U.S. Senate,,REP,Allen,1
+Albany,Slade School 31-1,U.S. Senate,,REP,Enzi,3
+Albany,Slade School 31-1,U.S. Senate,,DEM,Corcoran,7
+Albany,Slade School 31-1,U.S. House,,REP,Cubin,4
+Albany,Slade School 31-1,U.S. House,,DEM,Akin,4
+Albany,Slade School 31-1,U.S. House,,DEM,Casner,2
+Albany,Slade School 31-1,U.S. House,,DEM,Swett,4
+Albany,Slade School 31-1,Governor,,REP,Bebout,1
+Albany,Slade School 31-1,Governor,,REP,Hunkins,1
+Albany,Slade School 31-1,Governor,,REP,Self,0
+Albany,Slade School 31-1,Governor,,REP,Sniffin,2
+Albany,Slade School 31-1,Governor,,REP,Watt,0
+Albany,Slade School 31-1,Governor,,DEM,Freudenthal,2
+Albany,Slade School 31-1,Governor,,DEM,Hickey,4
+Albany,Slade School 31-1,Governor,,DEM,Simpson,0
+Albany,Slade School 31-1,Secretary of State,,REP,Meyer,4
+Albany,Slade School 31-1,Secretary of State,,DEM,Fagan,7
+Albany,Slade School 31-1,State Auditor,,DEM,Harris,7
+Albany,Slade School 31-1,State Treasurer,,REP,Lummis,4
+Albany,Slade School 31-1,State Treasurer,,REP,Maxfield,4
+Albany,Slade School 31-1,State Treasurer,,DEM,Emmons,5
+Albany,Slade School 31-1,Superintendent of Public Instruction,,REP,Blankenship,1
+Albany,Slade School 31-1,Superintendent of Public Instruction,,REP,Mingle,1
+Albany,Slade School 31-1,Superintendent of Public Instruction,,REP,Twiford,1
+Albany,Slade School 31-1,Superintendent of Public Instruction,,REP,Waring,1
+Albany,Slade School 31-1,Superintendent of Public Instruction,,DEM,Shoults,2
+Albany,Slade School 31-1,Superintendent of Public Instruction,,DEM,Wiederspahn,1
+Albany,Slade School 31-1,State Senate,9,DEM,Massie,7
+Albany,Slade School 31-1,State House,13,REP,Shumway,3
+Albany,Slade School 31-1,State House,13,DEM,Warren,8
+Albany,Slade School 31-1,Ballots Cast,,REP,Ballots Cast,4
+Albany,Slade School 31-1,Ballots Cast,,DEM,Ballots Cast,8
+Albany,Slade School 31-2,U.S. Senate,,REP,Allen,35
+Albany,Slade School 31-2,U.S. Senate,,REP,Enzi,308
+Albany,Slade School 31-2,U.S. Senate,,DEM,Corcoran,299
+Albany,Slade School 31-2,U.S. House,,REP,Cubin,289
+Albany,Slade School 31-2,U.S. House,,DEM,Akin,179
+Albany,Slade School 31-2,U.S. House,,DEM,Casner,17
+Albany,Slade School 31-2,U.S. House,,DEM,Swett,148
+Albany,Slade School 31-2,Governor,,REP,Bebout,151
+Albany,Slade School 31-2,Governor,,REP,Hunkins,113
+Albany,Slade School 31-2,Governor,,REP,Self,9
+Albany,Slade School 31-2,Governor,,REP,Sniffin,51
+Albany,Slade School 31-2,Governor,,REP,Watt,17
+Albany,Slade School 31-2,Governor,,DEM,Freudenthal,232
+Albany,Slade School 31-2,Governor,,DEM,Hickey,83
+Albany,Slade School 31-2,Governor,,DEM,Simpson,23
+Albany,Slade School 31-2,Secretary of State,,REP,Meyer,312
+Albany,Slade School 31-2,Secretary of State,,DEM,Fagan,299
+Albany,Slade School 31-2,State Auditor,,DEM,Harris,297
+Albany,Slade School 31-2,State Treasurer,,REP,Lummis,299
+Albany,Slade School 31-2,State Treasurer,,REP,Maxfield,310
+Albany,Slade School 31-2,State Treasurer,,DEM,Emmons,168
+Albany,Slade School 31-2,Superintendent of Public Instruction,,REP,Blankenship,121
+Albany,Slade School 31-2,Superintendent of Public Instruction,,REP,Mingle,46
+Albany,Slade School 31-2,Superintendent of Public Instruction,,REP,Twiford,70
+Albany,Slade School 31-2,Superintendent of Public Instruction,,REP,Waring,60
+Albany,Slade School 31-2,Superintendent of Public Instruction,,DEM,Shoults,37
+Albany,Slade School 31-2,Superintendent of Public Instruction,,DEM,Wiederspahn,111
+Albany,Slade School 31-2,State Senate,9,DEM,Massie,338
+Albany,Slade School 31-2,State House,13,REP,Shumway,260
+Albany,Slade School 31-2,State House,13,DEM,Warren,332
+Albany,Slade School 31-2,Ballots Cast,,REP,Ballots Cast,354
+Albany,Slade School 31-2,Ballots Cast,,DEM,Ballots Cast,375
+Albany,Spring Creek School 31-4,U.S. Senate,,REP,Allen,13
+Albany,Spring Creek School 31-4,U.S. Senate,,REP,Enzi,98
+Albany,Spring Creek School 31-4,U.S. Senate,,DEM,Corcoran,156
+Albany,Spring Creek School 31-4,U.S. House,,REP,Cubin,95
+Albany,Spring Creek School 31-4,U.S. House,,DEM,Akin,97
+Albany,Spring Creek School 31-4,U.S. House,,DEM,Casner,6
+Albany,Spring Creek School 31-4,U.S. House,,DEM,Swett,67
+Albany,Spring Creek School 31-4,Governor,,REP,Bebout,45
+Albany,Spring Creek School 31-4,Governor,,REP,Hunkins,42
+Albany,Spring Creek School 31-4,Governor,,REP,Self,1
+Albany,Spring Creek School 31-4,Governor,,REP,Sniffin,15
+Albany,Spring Creek School 31-4,Governor,,REP,Watt,5
+Albany,Spring Creek School 31-4,Governor,,DEM,Freudenthal,116
+Albany,Spring Creek School 31-4,Governor,,DEM,Hickey,70
+Albany,Spring Creek School 31-4,Governor,,DEM,Simpson,7
+Albany,Spring Creek School 31-4,Secretary of State,,REP,Meyer,101
+Albany,Spring Creek School 31-4,Secretary of State,,DEM,Fagan,152
+Albany,Spring Creek School 31-4,State Auditor,,DEM,Harris,150
+Albany,Spring Creek School 31-4,State Treasurer,,REP,Lummis,99
+Albany,Spring Creek School 31-4,State Treasurer,,REP,Maxfield,100
+Albany,Spring Creek School 31-4,State Treasurer,,DEM,Emmons,99
+Albany,Spring Creek School 31-4,Superintendent of Public Instruction,,REP,Blankenship,43
+Albany,Spring Creek School 31-4,Superintendent of Public Instruction,,REP,Mingle,14
+Albany,Spring Creek School 31-4,Superintendent of Public Instruction,,REP,Twiford,20
+Albany,Spring Creek School 31-4,Superintendent of Public Instruction,,REP,Waring,20
+Albany,Spring Creek School 31-4,Superintendent of Public Instruction,,DEM,Shoults,27
+Albany,Spring Creek School 31-4,Superintendent of Public Instruction,,DEM,Wiederspahn,43
+Albany,Spring Creek School 31-4,State Senate,9,DEM,Massie,179
+Albany,Spring Creek School 31-4,State House,13,REP,Shumway,84
+Albany,Spring Creek School 31-4,State House,13,DEM,Warren,174
+Albany,Spring Creek School 31-4,Ballots Cast,,REP,Ballots Cast,113
+Albany,Spring Creek School 31-4,Ballots Cast,,DEM,Ballots Cast,203
+Albany,Spring Creek School 51-3,U.S. Senate,,REP,Allen,17
+Albany,Spring Creek School 51-3,U.S. Senate,,REP,Enzi,83
+Albany,Spring Creek School 51-3,U.S. Senate,,DEM,Corcoran,145
+Albany,Spring Creek School 51-3,U.S. House,,REP,Cubin,78
+Albany,Spring Creek School 51-3,U.S. House,,DEM,Akin,75
+Albany,Spring Creek School 51-3,U.S. House,,DEM,Casner,1
+Albany,Spring Creek School 51-3,U.S. House,,DEM,Swett,66
+Albany,Spring Creek School 51-3,Governor,,REP,Bebout,34
+Albany,Spring Creek School 51-3,Governor,,REP,Hunkins,27
+Albany,Spring Creek School 51-3,Governor,,REP,Self,7
+Albany,Spring Creek School 51-3,Governor,,REP,Sniffin,15
+Albany,Spring Creek School 51-3,Governor,,REP,Watt,10
+Albany,Spring Creek School 51-3,Governor,,DEM,Freudenthal,120
+Albany,Spring Creek School 51-3,Governor,,DEM,Hickey,45
+Albany,Spring Creek School 51-3,Governor,,DEM,Simpson,6
+Albany,Spring Creek School 51-3,Secretary of State,,REP,Meyer,83
+Albany,Spring Creek School 51-3,Secretary of State,,DEM,Fagan,135
+Albany,Spring Creek School 51-3,State Auditor,,DEM,Harris,136
+Albany,Spring Creek School 51-3,State Treasurer,,REP,Lummis,85
+Albany,Spring Creek School 51-3,State Treasurer,,REP,Maxfield,86
+Albany,Spring Creek School 51-3,State Treasurer,,DEM,Emmons,85
+Albany,Spring Creek School 51-3,Superintendent of Public Instruction,,REP,Blankenship,32
+Albany,Spring Creek School 51-3,Superintendent of Public Instruction,,REP,Mingle,15
+Albany,Spring Creek School 51-3,Superintendent of Public Instruction,,REP,Twiford,23
+Albany,Spring Creek School 51-3,Superintendent of Public Instruction,,REP,Waring,17
+Albany,Spring Creek School 51-3,Superintendent of Public Instruction,,DEM,Shoults,25
+Albany,Spring Creek School 51-3,Superintendent of Public Instruction,,DEM,Wiederspahn,42
+Albany,Spring Creek School 51-3,State Senate,9,DEM,Massie,164
+Albany,Spring Creek School 51-3,State House,45,DEM,Johnson,156
+Albany,Spring Creek School 51-3,Ballots Cast,,REP,Ballots Cast,105
+Albany,Spring Creek School 51-3,Ballots Cast,,DEM,Ballots Cast,178
+Albany,Thayer School 61-3,U.S. Senate,,REP,Allen,22
+Albany,Thayer School 61-3,U.S. Senate,,REP,Enzi,200
+Albany,Thayer School 61-3,U.S. Senate,,DEM,Corcoran,238
+Albany,Thayer School 61-3,U.S. House,,REP,Cubin,185
+Albany,Thayer School 61-3,U.S. House,,DEM,Akin,131
+Albany,Thayer School 61-3,U.S. House,,DEM,Casner,7
+Albany,Thayer School 61-3,U.S. House,,DEM,Swett,108
+Albany,Thayer School 61-3,Governor,,REP,Bebout,112
+Albany,Thayer School 61-3,Governor,,REP,Hunkins,62
+Albany,Thayer School 61-3,Governor,,REP,Self,5
+Albany,Thayer School 61-3,Governor,,REP,Sniffin,26
+Albany,Thayer School 61-3,Governor,,REP,Watt,10
+Albany,Thayer School 61-3,Governor,,DEM,Freudenthal,198
+Albany,Thayer School 61-3,Governor,,DEM,Hickey,87
+Albany,Thayer School 61-3,Governor,,DEM,Simpson,9
+Albany,Thayer School 61-3,Secretary of State,,REP,Meyer,206
+Albany,Thayer School 61-3,Secretary of State,,DEM,Fagan,234
+Albany,Thayer School 61-3,State Auditor,,DEM,Harris,231
+Albany,Thayer School 61-3,State Treasurer,,REP,Lummis,198
+Albany,Thayer School 61-3,State Treasurer,,REP,Maxfield,204
+Albany,Thayer School 61-3,State Treasurer,,DEM,Emmons,131
+Albany,Thayer School 61-3,Superintendent of Public Instruction,,REP,Blankenship,78
+Albany,Thayer School 61-3,Superintendent of Public Instruction,,REP,Mingle,23
+Albany,Thayer School 61-3,Superintendent of Public Instruction,,REP,Twiford,52
+Albany,Thayer School 61-3,Superintendent of Public Instruction,,REP,Waring,26
+Albany,Thayer School 61-3,Superintendent of Public Instruction,,DEM,Shoults,34
+Albany,Thayer School 61-3,Superintendent of Public Instruction,,DEM,Wiederspahn,89
+Albany,Thayer School 61-3,State House,46,REP,Slater,200
+Albany,Thayer School 61-3,Ballots Cast,,REP,Ballots Cast,229
+Albany,Thayer School 61-3,Ballots Cast,,DEM,Ballots Cast,307
+Albany,Thayer School 61-4,U.S. Senate,,REP,Allen,11
+Albany,Thayer School 61-4,U.S. Senate,,REP,Enzi,79
+Albany,Thayer School 61-4,U.S. Senate,,DEM,Corcoran,59
+Albany,Thayer School 61-4,U.S. House,,REP,Cubin,77
+Albany,Thayer School 61-4,U.S. House,,DEM,Akin,31
+Albany,Thayer School 61-4,U.S. House,,DEM,Casner,2
+Albany,Thayer School 61-4,U.S. House,,DEM,Swett,32
+Albany,Thayer School 61-4,Governor,,REP,Bebout,48
+Albany,Thayer School 61-4,Governor,,REP,Hunkins,14
+Albany,Thayer School 61-4,Governor,,REP,Self,5
+Albany,Thayer School 61-4,Governor,,REP,Sniffin,15
+Albany,Thayer School 61-4,Governor,,REP,Watt,4
+Albany,Thayer School 61-4,Governor,,DEM,Freudenthal,38
+Albany,Thayer School 61-4,Governor,,DEM,Hickey,23
+Albany,Thayer School 61-4,Governor,,DEM,Simpson,4
+Albany,Thayer School 61-4,Secretary of State,,REP,Meyer,79
+Albany,Thayer School 61-4,Secretary of State,,DEM,Fagan,58
+Albany,Thayer School 61-4,State Auditor,,DEM,Harris,58
+Albany,Thayer School 61-4,State Treasurer,,REP,Lummis,76
+Albany,Thayer School 61-4,State Treasurer,,REP,Maxfield,81
+Albany,Thayer School 61-4,State Treasurer,,DEM,Emmons,31
+Albany,Thayer School 61-4,Superintendent of Public Instruction,,REP,Blankenship,24
+Albany,Thayer School 61-4,Superintendent of Public Instruction,,REP,Mingle,13
+Albany,Thayer School 61-4,Superintendent of Public Instruction,,REP,Twiford,18
+Albany,Thayer School 61-4,Superintendent of Public Instruction,,REP,Waring,14
+Albany,Thayer School 61-4,Superintendent of Public Instruction,,DEM,Shoults,10
+Albany,Thayer School 61-4,Superintendent of Public Instruction,,DEM,Wiederspahn,20
+Albany,Thayer School 61-4,State House,46,REP,Slater,77
+Albany,Thayer School 61-4,Ballots Cast,,REP,Ballots Cast,96
+Albany,Thayer School 61-4,Ballots Cast,,DEM,Ballots Cast,73

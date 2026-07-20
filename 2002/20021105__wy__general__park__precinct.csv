@@ -1,0 +1,522 @@
+county,precinct,office,district,party,candidate,votes
+Park,Absentee Precinct 11-2,U.S. Senate,,REP,Enzi,57
+Park,Absentee Precinct 11-2,U.S. Senate,,DEM,Akin,16
+Park,Absentee Precinct 11-2,U.S. Senate,,DEM,Corcoran,13
+Park,Absentee Precinct 11-2,U.S. House,,REP,Cubin,49
+Park,Absentee Precinct 11-2,U.S. House,,LIB,Stock,4
+Park,Absentee Precinct 11-2,Governor,,REP,Bebout,54
+Park,Absentee Precinct 11-2,Governor,,DEM,Freudenthal,14
+Park,Absentee Precinct 11-2,Governor,,LIB,Brossman,10
+Park,Absentee Precinct 11-2,Governor,,LIB,Dawson,2
+Park,Absentee Precinct 11-2,Secretary of State,,REP,Meyer,58
+Park,Absentee Precinct 11-2,State Auditor,,REP,Maxfield,49
+Park,Absentee Precinct 11-2,State Auditor,,DEM,Harris,17
+Park,Absentee Precinct 11-2,State Treasurer,,REP,Lummis,63
+Park,Absentee Precinct 11-2,Superintendent of Public Instruction,,REP,Blankenship,45
+Park,Absentee Precinct 11-2,Superintendent of Public Instruction,,DEM,Emmons,21
+Park,Absentee Precinct 11-2,State House,50,REP,Childers,55
+Park,Absentee Precinct 11-2,State House,50,LIB,Carlson,14
+Park,Absentee Precinct 11-2,Ballots Cast,,,Ballots Cast,70
+Park,Clark/Pioneer Rec. Center 1-1,U.S. Senate,,REP,Enzi,146
+Park,Clark/Pioneer Rec. Center 1-1,U.S. Senate,,DEM,Akin,36
+Park,Clark/Pioneer Rec. Center 1-1,U.S. Senate,,DEM,Corcoran,31
+Park,Clark/Pioneer Rec. Center 1-1,U.S. House,,REP,Cubin,127
+Park,Clark/Pioneer Rec. Center 1-1,U.S. House,,LIB,Stock,14
+Park,Clark/Pioneer Rec. Center 1-1,Governor,,REP,Bebout,107
+Park,Clark/Pioneer Rec. Center 1-1,Governor,,DEM,Freudenthal,63
+Park,Clark/Pioneer Rec. Center 1-1,Governor,,LIB,Brossman,33
+Park,Clark/Pioneer Rec. Center 1-1,Governor,,LIB,Dawson,7
+Park,Clark/Pioneer Rec. Center 1-1,Secretary of State,,REP,Meyer,139
+Park,Clark/Pioneer Rec. Center 1-1,State Auditor,,REP,Maxfield,143
+Park,Clark/Pioneer Rec. Center 1-1,State Auditor,,DEM,Harris,32
+Park,Clark/Pioneer Rec. Center 1-1,State Treasurer,,REP,Lummis,155
+Park,Clark/Pioneer Rec. Center 1-1,Superintendent of Public Instruction,,REP,Blankenship,127
+Park,Clark/Pioneer Rec. Center 1-1,Superintendent of Public Instruction,,DEM,Emmons,46
+Park,Clark/Pioneer Rec. Center 1-1,State House,50,REP,Childers,118
+Park,Clark/Pioneer Rec. Center 1-1,State House,50,LIB,Carlson,50
+Park,Clark/Pioneer Rec. Center 1-1,Ballots Cast,,,Ballots Cast,178
+Park,Cody Auditorium 24-1,U.S. Senate,,REP,Enzi,256
+Park,Cody Auditorium 24-1,U.S. Senate,,DEM,Akin,91
+Park,Cody Auditorium 24-1,U.S. Senate,,DEM,Corcoran,78
+Park,Cody Auditorium 24-1,U.S. House,,REP,Cubin,231
+Park,Cody Auditorium 24-1,U.S. House,,LIB,Stock,12
+Park,Cody Auditorium 24-1,Governor,,REP,Bebout,185
+Park,Cody Auditorium 24-1,Governor,,DEM,Freudenthal,150
+Park,Cody Auditorium 24-1,Governor,,LIB,Brossman,47
+Park,Cody Auditorium 24-1,Governor,,LIB,Dawson,5
+Park,Cody Auditorium 24-1,Secretary of State,,REP,Meyer,276
+Park,Cody Auditorium 24-1,State Auditor,,REP,Maxfield,255
+Park,Cody Auditorium 24-1,State Auditor,,DEM,Harris,74
+Park,Cody Auditorium 24-1,State Treasurer,,REP,Lummis,293
+Park,Cody Auditorium 24-1,Superintendent of Public Instruction,,REP,Blankenship,201
+Park,Cody Auditorium 24-1,Superintendent of Public Instruction,,DEM,Emmons,135
+Park,Cody Auditorium 24-1,State House,24,REP,Simpson,282
+Park,Cody Auditorium 24-1,Ballots Cast,,,Ballots Cast,340
+Park,Cody Auditorium 24-2,U.S. Senate,,REP,Enzi,374
+Park,Cody Auditorium 24-2,U.S. Senate,,DEM,Akin,126
+Park,Cody Auditorium 24-2,U.S. Senate,,DEM,Corcoran,98
+Park,Cody Auditorium 24-2,U.S. House,,REP,Cubin,323
+Park,Cody Auditorium 24-2,U.S. House,,LIB,Stock,18
+Park,Cody Auditorium 24-2,Governor,,REP,Bebout,240
+Park,Cody Auditorium 24-2,Governor,,DEM,Freudenthal,225
+Park,Cody Auditorium 24-2,Governor,,LIB,Brossman,69
+Park,Cody Auditorium 24-2,Governor,,LIB,Dawson,6
+Park,Cody Auditorium 24-2,Secretary of State,,REP,Meyer,369
+Park,Cody Auditorium 24-2,State Auditor,,REP,Maxfield,354
+Park,Cody Auditorium 24-2,State Auditor,,DEM,Harris,105
+Park,Cody Auditorium 24-2,State Treasurer,,REP,Lummis,387
+Park,Cody Auditorium 24-2,Superintendent of Public Instruction,,REP,Blankenship,278
+Park,Cody Auditorium 24-2,Superintendent of Public Instruction,,DEM,Emmons,182
+Park,Cody Auditorium 24-2,State House,24,REP,Simpson,248
+Park,Cody Auditorium 24-2,State House,50,REP,Childers,125
+Park,Cody Auditorium 24-2,State House,50,LIB,Carlson,44
+Park,Cody Auditorium 24-2,Ballots Cast,,,Ballots Cast,477
+Park,Cody Auditorium 24-3,U.S. Senate,,REP,Enzi,139
+Park,Cody Auditorium 24-3,U.S. Senate,,DEM,Akin,44
+Park,Cody Auditorium 24-3,U.S. Senate,,DEM,Corcoran,33
+Park,Cody Auditorium 24-3,U.S. House,,REP,Cubin,125
+Park,Cody Auditorium 24-3,U.S. House,,LIB,Stock,4
+Park,Cody Auditorium 24-3,Governor,,REP,Bebout,102
+Park,Cody Auditorium 24-3,Governor,,DEM,Freudenthal,68
+Park,Cody Auditorium 24-3,Governor,,LIB,Brossman,31
+Park,Cody Auditorium 24-3,Governor,,LIB,Dawson,4
+Park,Cody Auditorium 24-3,Secretary of State,,REP,Meyer,136
+Park,Cody Auditorium 24-3,State Auditor,,REP,Maxfield,138
+Park,Cody Auditorium 24-3,State Auditor,,DEM,Harris,37
+Park,Cody Auditorium 24-3,State Treasurer,,REP,Lummis,149
+Park,Cody Auditorium 24-3,Superintendent of Public Instruction,,REP,Blankenship,116
+Park,Cody Auditorium 24-3,Superintendent of Public Instruction,,DEM,Emmons,51
+Park,Cody Auditorium 24-3,State House,24,REP,Simpson,62
+Park,Cody Auditorium 24-3,State House,50,REP,Childers,71
+Park,Cody Auditorium 24-3,State House,50,LIB,Carlson,25
+Park,Cody Auditorium 24-3,Ballots Cast,,,Ballots Cast,176
+Park,Cody Auditorium 25-1,U.S. Senate,,REP,Enzi,487
+Park,Cody Auditorium 25-1,U.S. Senate,,DEM,Akin,147
+Park,Cody Auditorium 25-1,U.S. Senate,,DEM,Corcoran,105
+Park,Cody Auditorium 25-1,U.S. House,,REP,Cubin,415
+Park,Cody Auditorium 25-1,U.S. House,,LIB,Stock,24
+Park,Cody Auditorium 25-1,Governor,,REP,Bebout,349
+Park,Cody Auditorium 25-1,Governor,,DEM,Freudenthal,242
+Park,Cody Auditorium 25-1,Governor,,LIB,Brossman,80
+Park,Cody Auditorium 25-1,Governor,,LIB,Dawson,15
+Park,Cody Auditorium 25-1,Secretary of State,,REP,Meyer,493
+Park,Cody Auditorium 25-1,State Auditor,,REP,Maxfield,464
+Park,Cody Auditorium 25-1,State Auditor,,DEM,Harris,124
+Park,Cody Auditorium 25-1,State Treasurer,,REP,Lummis,511
+Park,Cody Auditorium 25-1,Superintendent of Public Instruction,,REP,Blankenship,370
+Park,Cody Auditorium 25-1,Superintendent of Public Instruction,,DEM,Emmons,218
+Park,Cody Auditorium 25-1,State House,24,REP,Simpson,509
+Park,Cody Auditorium 25-1,Ballots Cast,,,Ballots Cast,613
+Park,Cody Auditorium 25-2,U.S. Senate,,REP,Enzi,347
+Park,Cody Auditorium 25-2,U.S. Senate,,DEM,Akin,72
+Park,Cody Auditorium 25-2,U.S. Senate,,DEM,Corcoran,50
+Park,Cody Auditorium 25-2,U.S. House,,REP,Cubin,301
+Park,Cody Auditorium 25-2,U.S. House,,LIB,Stock,13
+Park,Cody Auditorium 25-2,Governor,,REP,Bebout,227
+Park,Cody Auditorium 25-2,Governor,,DEM,Freudenthal,164
+Park,Cody Auditorium 25-2,Governor,,LIB,Brossman,32
+Park,Cody Auditorium 25-2,Governor,,LIB,Dawson,7
+Park,Cody Auditorium 25-2,Secretary of State,,REP,Meyer,339
+Park,Cody Auditorium 25-2,State Auditor,,REP,Maxfield,316
+Park,Cody Auditorium 25-2,State Auditor,,DEM,Harris,59
+Park,Cody Auditorium 25-2,State Treasurer,,REP,Lummis,342
+Park,Cody Auditorium 25-2,Superintendent of Public Instruction,,REP,Blankenship,269
+Park,Cody Auditorium 25-2,Superintendent of Public Instruction,,DEM,Emmons,111
+Park,Cody Auditorium 25-2,State House,24,REP,Simpson,341
+Park,Cody Auditorium 25-2,Ballots Cast,,,Ballots Cast,403
+Park,Cody Auditorium 25-3,U.S. Senate,,REP,Enzi,331
+Park,Cody Auditorium 25-3,U.S. Senate,,DEM,Akin,69
+Park,Cody Auditorium 25-3,U.S. Senate,,DEM,Corcoran,60
+Park,Cody Auditorium 25-3,U.S. House,,REP,Cubin,296
+Park,Cody Auditorium 25-3,U.S. House,,LIB,Stock,17
+Park,Cody Auditorium 25-3,Governor,,REP,Bebout,249
+Park,Cody Auditorium 25-3,Governor,,DEM,Freudenthal,133
+Park,Cody Auditorium 25-3,Governor,,LIB,Brossman,54
+Park,Cody Auditorium 25-3,Governor,,LIB,Dawson,8
+Park,Cody Auditorium 25-3,Secretary of State,,REP,Meyer,318
+Park,Cody Auditorium 25-3,State Auditor,,REP,Maxfield,320
+Park,Cody Auditorium 25-3,State Auditor,,DEM,Harris,68
+Park,Cody Auditorium 25-3,State Treasurer,,REP,Lummis,333
+Park,Cody Auditorium 25-3,Superintendent of Public Instruction,,REP,Blankenship,248
+Park,Cody Auditorium 25-3,Superintendent of Public Instruction,,DEM,Emmons,132
+Park,Cody Auditorium 25-3,State House,24,REP,Simpson,331
+Park,Cody Auditorium 25-3,Ballots Cast,,,Ballots Cast,396
+Park,Cody Presbyterian Church 2-1,U.S. Senate,,REP,Enzi,532
+Park,Cody Presbyterian Church 2-1,U.S. Senate,,DEM,Akin,148
+Park,Cody Presbyterian Church 2-1,U.S. Senate,,DEM,Corcoran,116
+Park,Cody Presbyterian Church 2-1,U.S. House,,REP,Cubin,468
+Park,Cody Presbyterian Church 2-1,U.S. House,,LIB,Stock,26
+Park,Cody Presbyterian Church 2-1,Governor,,REP,Bebout,389
+Park,Cody Presbyterian Church 2-1,Governor,,DEM,Freudenthal,242
+Park,Cody Presbyterian Church 2-1,Governor,,LIB,Brossman,93
+Park,Cody Presbyterian Church 2-1,Governor,,LIB,Dawson,20
+Park,Cody Presbyterian Church 2-1,Secretary of State,,REP,Meyer,537
+Park,Cody Presbyterian Church 2-1,State Auditor,,REP,Maxfield,527
+Park,Cody Presbyterian Church 2-1,State Auditor,,DEM,Harris,110
+Park,Cody Presbyterian Church 2-1,State Treasurer,,REP,Lummis,566
+Park,Cody Presbyterian Church 2-1,Superintendent of Public Instruction,,REP,Blankenship,431
+Park,Cody Presbyterian Church 2-1,Superintendent of Public Instruction,,DEM,Emmons,203
+Park,Cody Presbyterian Church 2-1,State House,50,REP,Childers,490
+Park,Cody Presbyterian Church 2-1,State House,50,LIB,Carlson,136
+Park,Cody Presbyterian Church 2-1,Ballots Cast,,,Ballots Cast,655
+Park,Cody Presbyterian Church 2-2,U.S. Senate,,REP,Enzi,493
+Park,Cody Presbyterian Church 2-2,U.S. Senate,,DEM,Akin,141
+Park,Cody Presbyterian Church 2-2,U.S. Senate,,DEM,Corcoran,105
+Park,Cody Presbyterian Church 2-2,U.S. House,,REP,Cubin,425
+Park,Cody Presbyterian Church 2-2,U.S. House,,LIB,Stock,19
+Park,Cody Presbyterian Church 2-2,Governor,,REP,Bebout,324
+Park,Cody Presbyterian Church 2-2,Governor,,DEM,Freudenthal,264
+Park,Cody Presbyterian Church 2-2,Governor,,LIB,Brossman,91
+Park,Cody Presbyterian Church 2-2,Governor,,LIB,Dawson,10
+Park,Cody Presbyterian Church 2-2,Secretary of State,,REP,Meyer,481
+Park,Cody Presbyterian Church 2-2,State Auditor,,REP,Maxfield,468
+Park,Cody Presbyterian Church 2-2,State Auditor,,DEM,Harris,123
+Park,Cody Presbyterian Church 2-2,State Treasurer,,REP,Lummis,512
+Park,Cody Presbyterian Church 2-2,Superintendent of Public Instruction,,REP,Blankenship,366
+Park,Cody Presbyterian Church 2-2,Superintendent of Public Instruction,,DEM,Emmons,217
+Park,Cody Presbyterian Church 2-2,State House,50,REP,Childers,457
+Park,Cody Presbyterian Church 2-2,State House,50,LIB,Carlson,113
+Park,Cody Presbyterian Church 2-2,Ballots Cast,,,Ballots Cast,609
+Park,Eastside School Library 4-2,U.S. Senate,,REP,Enzi,100
+Park,Eastside School Library 4-2,U.S. Senate,,DEM,Akin,22
+Park,Eastside School Library 4-2,U.S. Senate,,DEM,Corcoran,13
+Park,Eastside School Library 4-2,U.S. House,,REP,Cubin,83
+Park,Eastside School Library 4-2,U.S. House,,LIB,Stock,6
+Park,Eastside School Library 4-2,Governor,,REP,Bebout,74
+Park,Eastside School Library 4-2,Governor,,DEM,Freudenthal,35
+Park,Eastside School Library 4-2,Governor,,LIB,Brossman,15
+Park,Eastside School Library 4-2,Governor,,LIB,Dawson,6
+Park,Eastside School Library 4-2,Secretary of State,,REP,Meyer,96
+Park,Eastside School Library 4-2,State Auditor,,REP,Maxfield,94
+Park,Eastside School Library 4-2,State Auditor,,DEM,Harris,21
+Park,Eastside School Library 4-2,State Treasurer,,REP,Lummis,98
+Park,Eastside School Library 4-2,Superintendent of Public Instruction,,REP,Blankenship,74
+Park,Eastside School Library 4-2,Superintendent of Public Instruction,,DEM,Emmons,36
+Park,Eastside School Library 4-2,State House,24,REP,Simpson,8
+Park,Eastside School Library 4-2,State House,50,REP,Childers,83
+Park,Eastside School Library 4-2,State House,50,LIB,Carlson,19
+Park,Eastside School Library 4-2,Ballots Cast,,,Ballots Cast,115
+Park,Fairgrounds Lg. Ex. Hall 9-1,U.S. Senate,,REP,Enzi,235
+Park,Fairgrounds Lg. Ex. Hall 9-1,U.S. Senate,,DEM,Akin,111
+Park,Fairgrounds Lg. Ex. Hall 9-1,U.S. Senate,,DEM,Corcoran,75
+Park,Fairgrounds Lg. Ex. Hall 9-1,U.S. House,,REP,Cubin,179
+Park,Fairgrounds Lg. Ex. Hall 9-1,U.S. House,,LIB,Stock,12
+Park,Fairgrounds Lg. Ex. Hall 9-1,Governor,,REP,Bebout,147
+Park,Fairgrounds Lg. Ex. Hall 9-1,Governor,,DEM,Freudenthal,150
+Park,Fairgrounds Lg. Ex. Hall 9-1,Governor,,LIB,Brossman,51
+Park,Fairgrounds Lg. Ex. Hall 9-1,Governor,,LIB,Dawson,12
+Park,Fairgrounds Lg. Ex. Hall 9-1,Secretary of State,,REP,Meyer,236
+Park,Fairgrounds Lg. Ex. Hall 9-1,State Auditor,,REP,Maxfield,220
+Park,Fairgrounds Lg. Ex. Hall 9-1,State Auditor,,DEM,Harris,79
+Park,Fairgrounds Lg. Ex. Hall 9-1,State Treasurer,,REP,Lummis,257
+Park,Fairgrounds Lg. Ex. Hall 9-1,Superintendent of Public Instruction,,REP,Blankenship,171
+Park,Fairgrounds Lg. Ex. Hall 9-1,Superintendent of Public Instruction,,DEM,Emmons,129
+Park,Fairgrounds Lg. Ex. Hall 9-1,State Senate,19,REP,Northrup,258
+Park,Fairgrounds Lg. Ex. Hall 9-1,State House,25,REP,Jones,261
+Park,Fairgrounds Lg. Ex. Hall 9-1,Ballots Cast,,,Ballots Cast,313
+Park,Fairgrounds Lg. Ex. Hall 9-2,U.S. Senate,,REP,Enzi,289
+Park,Fairgrounds Lg. Ex. Hall 9-2,U.S. Senate,,DEM,Akin,116
+Park,Fairgrounds Lg. Ex. Hall 9-2,U.S. Senate,,DEM,Corcoran,87
+Park,Fairgrounds Lg. Ex. Hall 9-2,U.S. House,,REP,Cubin,233
+Park,Fairgrounds Lg. Ex. Hall 9-2,U.S. House,,LIB,Stock,15
+Park,Fairgrounds Lg. Ex. Hall 9-2,Governor,,REP,Bebout,182
+Park,Fairgrounds Lg. Ex. Hall 9-2,Governor,,DEM,Freudenthal,185
+Park,Fairgrounds Lg. Ex. Hall 9-2,Governor,,LIB,Brossman,58
+Park,Fairgrounds Lg. Ex. Hall 9-2,Governor,,LIB,Dawson,10
+Park,Fairgrounds Lg. Ex. Hall 9-2,Secretary of State,,REP,Meyer,290
+Park,Fairgrounds Lg. Ex. Hall 9-2,State Auditor,,REP,Maxfield,275
+Park,Fairgrounds Lg. Ex. Hall 9-2,State Auditor,,DEM,Harris,89
+Park,Fairgrounds Lg. Ex. Hall 9-2,State Treasurer,,REP,Lummis,306
+Park,Fairgrounds Lg. Ex. Hall 9-2,Superintendent of Public Instruction,,REP,Blankenship,208
+Park,Fairgrounds Lg. Ex. Hall 9-2,Superintendent of Public Instruction,,DEM,Emmons,161
+Park,Fairgrounds Lg. Ex. Hall 9-2,State Senate,19,REP,Northrup,313
+Park,Fairgrounds Lg. Ex. Hall 9-2,State House,25,REP,Jones,312
+Park,Fairgrounds Lg. Ex. Hall 9-2,Ballots Cast,,,Ballots Cast,384
+Park,Fairgrounds Lg. Ex. Hall 9-4,U.S. Senate,,REP,Enzi,295
+Park,Fairgrounds Lg. Ex. Hall 9-4,U.S. Senate,,DEM,Akin,145
+Park,Fairgrounds Lg. Ex. Hall 9-4,U.S. Senate,,DEM,Corcoran,103
+Park,Fairgrounds Lg. Ex. Hall 9-4,U.S. House,,REP,Cubin,245
+Park,Fairgrounds Lg. Ex. Hall 9-4,U.S. House,,LIB,Stock,5
+Park,Fairgrounds Lg. Ex. Hall 9-4,Governor,,REP,Bebout,187
+Park,Fairgrounds Lg. Ex. Hall 9-4,Governor,,DEM,Freudenthal,211
+Park,Fairgrounds Lg. Ex. Hall 9-4,Governor,,LIB,Brossman,62
+Park,Fairgrounds Lg. Ex. Hall 9-4,Governor,,LIB,Dawson,4
+Park,Fairgrounds Lg. Ex. Hall 9-4,Secretary of State,,REP,Meyer,320
+Park,Fairgrounds Lg. Ex. Hall 9-4,State Auditor,,REP,Maxfield,287
+Park,Fairgrounds Lg. Ex. Hall 9-4,State Auditor,,DEM,Harris,104
+Park,Fairgrounds Lg. Ex. Hall 9-4,State Treasurer,,REP,Lummis,334
+Park,Fairgrounds Lg. Ex. Hall 9-4,Superintendent of Public Instruction,,REP,Blankenship,226
+Park,Fairgrounds Lg. Ex. Hall 9-4,Superintendent of Public Instruction,,DEM,Emmons,170
+Park,Fairgrounds Lg. Ex. Hall 9-4,State Senate,19,REP,Northrup,337
+Park,Fairgrounds Lg. Ex. Hall 9-4,State House,25,REP,Jones,350
+Park,Fairgrounds Lg. Ex. Hall 9-4,Ballots Cast,,,Ballots Cast,408
+Park,Fairgrounds Lg. Ex. Hall 9-5,U.S. Senate,,REP,Enzi,259
+Park,Fairgrounds Lg. Ex. Hall 9-5,U.S. Senate,,DEM,Akin,113
+Park,Fairgrounds Lg. Ex. Hall 9-5,U.S. Senate,,DEM,Corcoran,91
+Park,Fairgrounds Lg. Ex. Hall 9-5,U.S. House,,REP,Cubin,224
+Park,Fairgrounds Lg. Ex. Hall 9-5,U.S. House,,LIB,Stock,13
+Park,Fairgrounds Lg. Ex. Hall 9-5,Governor,,REP,Bebout,174
+Park,Fairgrounds Lg. Ex. Hall 9-5,Governor,,DEM,Freudenthal,168
+Park,Fairgrounds Lg. Ex. Hall 9-5,Governor,,LIB,Brossman,50
+Park,Fairgrounds Lg. Ex. Hall 9-5,Governor,,LIB,Dawson,9
+Park,Fairgrounds Lg. Ex. Hall 9-5,Secretary of State,,REP,Meyer,277
+Park,Fairgrounds Lg. Ex. Hall 9-5,State Auditor,,REP,Maxfield,257
+Park,Fairgrounds Lg. Ex. Hall 9-5,State Auditor,,DEM,Harris,87
+Park,Fairgrounds Lg. Ex. Hall 9-5,State Treasurer,,REP,Lummis,282
+Park,Fairgrounds Lg. Ex. Hall 9-5,Superintendent of Public Instruction,,REP,Blankenship,203
+Park,Fairgrounds Lg. Ex. Hall 9-5,Superintendent of Public Instruction,,DEM,Emmons,138
+Park,Fairgrounds Lg. Ex. Hall 9-5,State Senate,19,REP,Northrup,294
+Park,Fairgrounds Lg. Ex. Hall 9-5,State House,25,REP,Jones,297
+Park,Fairgrounds Lg. Ex. Hall 9-5,Ballots Cast,,,Ballots Cast,357
+Park,Fairgrounds Lg. Ex. Hall 9-7,U.S. Senate,,REP,Enzi,338
+Park,Fairgrounds Lg. Ex. Hall 9-7,U.S. Senate,,DEM,Akin,119
+Park,Fairgrounds Lg. Ex. Hall 9-7,U.S. Senate,,DEM,Corcoran,106
+Park,Fairgrounds Lg. Ex. Hall 9-7,U.S. House,,REP,Cubin,297
+Park,Fairgrounds Lg. Ex. Hall 9-7,U.S. House,,LIB,Stock,27
+Park,Fairgrounds Lg. Ex. Hall 9-7,Governor,,REP,Bebout,229
+Park,Fairgrounds Lg. Ex. Hall 9-7,Governor,,DEM,Freudenthal,196
+Park,Fairgrounds Lg. Ex. Hall 9-7,Governor,,LIB,Brossman,86
+Park,Fairgrounds Lg. Ex. Hall 9-7,Governor,,LIB,Dawson,26
+Park,Fairgrounds Lg. Ex. Hall 9-7,Secretary of State,,REP,Meyer,336
+Park,Fairgrounds Lg. Ex. Hall 9-7,State Auditor,,REP,Maxfield,327
+Park,Fairgrounds Lg. Ex. Hall 9-7,State Auditor,,DEM,Harris,110
+Park,Fairgrounds Lg. Ex. Hall 9-7,State Treasurer,,REP,Lummis,386
+Park,Fairgrounds Lg. Ex. Hall 9-7,Superintendent of Public Instruction,,REP,Blankenship,261
+Park,Fairgrounds Lg. Ex. Hall 9-7,Superintendent of Public Instruction,,DEM,Emmons,172
+Park,Fairgrounds Lg. Ex. Hall 9-7,State Senate,19,REP,Northrup,390
+Park,Fairgrounds Lg. Ex. Hall 9-7,State House,25,REP,Jones,395
+Park,Fairgrounds Lg. Ex. Hall 9-7,Ballots Cast,,,Ballots Cast,454
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. Senate,,REP,Enzi,299
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. Senate,,DEM,Akin,86
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. Senate,,DEM,Corcoran,57
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. House,,REP,Cubin,260
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,U.S. House,,LIB,Stock,9
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Governor,,REP,Bebout,250
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Governor,,DEM,Freudenthal,102
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Governor,,LIB,Brossman,40
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Governor,,LIB,Dawson,4
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Secretary of State,,REP,Meyer,294
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,State Auditor,,REP,Maxfield,277
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,State Auditor,,DEM,Harris,69
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,State Treasurer,,REP,Lummis,310
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Superintendent of Public Instruction,,REP,Blankenship,225
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Superintendent of Public Instruction,,DEM,Emmons,117
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,State Senate,19,REP,Northrup,314
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,State House,25,REP,Jones,314
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,State House,50,REP,Childers,4
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,State House,50,LIB,Carlson,1
+Park,Fairgrounds Multi-Purp. Bldg. 10-1,Ballots Cast,,,Ballots Cast,360
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. Senate,,REP,Enzi,497
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. Senate,,DEM,Akin,108
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. Senate,,DEM,Corcoran,78
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. House,,REP,Cubin,437
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,U.S. House,,LIB,Stock,21
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Governor,,REP,Bebout,356
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Governor,,DEM,Freudenthal,206
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Governor,,LIB,Brossman,65
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Governor,,LIB,Dawson,11
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Secretary of State,,REP,Meyer,483
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,State Auditor,,REP,Maxfield,470
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,State Auditor,,DEM,Harris,94
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,State Treasurer,,REP,Lummis,505
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Superintendent of Public Instruction,,REP,Blankenship,374
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Superintendent of Public Instruction,,DEM,Emmons,193
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,State Senate,19,REP,Northrup,506
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,State House,25,REP,Jones,509
+Park,Fairgrounds Multi-Purp. Bldg. 10-2,Ballots Cast,,,Ballots Cast,578
+Park,Garland Comm. Church 6-1,U.S. Senate,,REP,Enzi,329
+Park,Garland Comm. Church 6-1,U.S. Senate,,DEM,Akin,95
+Park,Garland Comm. Church 6-1,U.S. Senate,,DEM,Corcoran,55
+Park,Garland Comm. Church 6-1,U.S. House,,REP,Cubin,275
+Park,Garland Comm. Church 6-1,U.S. House,,LIB,Stock,13
+Park,Garland Comm. Church 6-1,Governor,,REP,Bebout,224
+Park,Garland Comm. Church 6-1,Governor,,DEM,Freudenthal,148
+Park,Garland Comm. Church 6-1,Governor,,LIB,Brossman,57
+Park,Garland Comm. Church 6-1,Governor,,LIB,Dawson,11
+Park,Garland Comm. Church 6-1,Secretary of State,,REP,Meyer,307
+Park,Garland Comm. Church 6-1,State Auditor,,REP,Maxfield,313
+Park,Garland Comm. Church 6-1,State Auditor,,DEM,Harris,62
+Park,Garland Comm. Church 6-1,State Treasurer,,REP,Lummis,335
+Park,Garland Comm. Church 6-1,Superintendent of Public Instruction,,REP,Blankenship,234
+Park,Garland Comm. Church 6-1,Superintendent of Public Instruction,,DEM,Emmons,139
+Park,Garland Comm. Church 6-1,State Senate,19,REP,Northrup,335
+Park,Garland Comm. Church 6-1,State House,25,REP,Jones,338
+Park,Garland Comm. Church 6-1,Ballots Cast,,,Ballots Cast,388
+Park,Grace Baptist Church 4-1,U.S. Senate,,REP,Enzi,649
+Park,Grace Baptist Church 4-1,U.S. Senate,,DEM,Akin,142
+Park,Grace Baptist Church 4-1,U.S. Senate,,DEM,Corcoran,121
+Park,Grace Baptist Church 4-1,U.S. House,,REP,Cubin,595
+Park,Grace Baptist Church 4-1,U.S. House,,LIB,Stock,26
+Park,Grace Baptist Church 4-1,Governor,,REP,Bebout,478
+Park,Grace Baptist Church 4-1,Governor,,DEM,Freudenthal,272
+Park,Grace Baptist Church 4-1,Governor,,LIB,Brossman,83
+Park,Grace Baptist Church 4-1,Governor,,LIB,Dawson,21
+Park,Grace Baptist Church 4-1,Secretary of State,,REP,Meyer,649
+Park,Grace Baptist Church 4-1,State Auditor,,REP,Maxfield,629
+Park,Grace Baptist Church 4-1,State Auditor,,DEM,Harris,116
+Park,Grace Baptist Church 4-1,State Treasurer,,REP,Lummis,657
+Park,Grace Baptist Church 4-1,Superintendent of Public Instruction,,REP,Blankenship,530
+Park,Grace Baptist Church 4-1,Superintendent of Public Instruction,,DEM,Emmons,201
+Park,Grace Baptist Church 4-1,State House,24,REP,Simpson,634
+Park,Grace Baptist Church 4-1,Ballots Cast,,,Ballots Cast,782
+Park,Meeteetse Episcopal Church 8-1,U.S. Senate,,REP,Enzi,99
+Park,Meeteetse Episcopal Church 8-1,U.S. Senate,,DEM,Akin,12
+Park,Meeteetse Episcopal Church 8-1,U.S. Senate,,DEM,Corcoran,9
+Park,Meeteetse Episcopal Church 8-1,U.S. House,,REP,Cubin,92
+Park,Meeteetse Episcopal Church 8-1,U.S. House,,LIB,Stock,2
+Park,Meeteetse Episcopal Church 8-1,Governor,,REP,Bebout,87
+Park,Meeteetse Episcopal Church 8-1,Governor,,DEM,Freudenthal,17
+Park,Meeteetse Episcopal Church 8-1,Governor,,LIB,Brossman,7
+Park,Meeteetse Episcopal Church 8-1,Governor,,LIB,Dawson,2
+Park,Meeteetse Episcopal Church 8-1,Secretary of State,,REP,Meyer,98
+Park,Meeteetse Episcopal Church 8-1,State Auditor,,REP,Maxfield,95
+Park,Meeteetse Episcopal Church 8-1,State Auditor,,DEM,Harris,9
+Park,Meeteetse Episcopal Church 8-1,State Treasurer,,REP,Lummis,101
+Park,Meeteetse Episcopal Church 8-1,Superintendent of Public Instruction,,REP,Blankenship,88
+Park,Meeteetse Episcopal Church 8-1,Superintendent of Public Instruction,,DEM,Emmons,19
+Park,Meeteetse Episcopal Church 8-1,State House,24,REP,Simpson,101
+Park,Meeteetse Episcopal Church 8-1,State House,28,REP,Baker,0
+Park,Meeteetse Episcopal Church 8-1,Ballots Cast,,,Ballots Cast,108
+Park,Meeteetse Episcopal Church 8-3,U.S. Senate,,REP,Enzi,126
+Park,Meeteetse Episcopal Church 8-3,U.S. Senate,,DEM,Akin,18
+Park,Meeteetse Episcopal Church 8-3,U.S. Senate,,DEM,Corcoran,19
+Park,Meeteetse Episcopal Church 8-3,U.S. House,,REP,Cubin,121
+Park,Meeteetse Episcopal Church 8-3,U.S. House,,LIB,Stock,4
+Park,Meeteetse Episcopal Church 8-3,Governor,,REP,Bebout,106
+Park,Meeteetse Episcopal Church 8-3,Governor,,DEM,Freudenthal,35
+Park,Meeteetse Episcopal Church 8-3,Governor,,LIB,Brossman,21
+Park,Meeteetse Episcopal Church 8-3,Governor,,LIB,Dawson,5
+Park,Meeteetse Episcopal Church 8-3,Secretary of State,,REP,Meyer,118
+Park,Meeteetse Episcopal Church 8-3,State Auditor,,REP,Maxfield,122
+Park,Meeteetse Episcopal Church 8-3,State Auditor,,DEM,Harris,23
+Park,Meeteetse Episcopal Church 8-3,State Treasurer,,REP,Lummis,126
+Park,Meeteetse Episcopal Church 8-3,Superintendent of Public Instruction,,REP,Blankenship,116
+Park,Meeteetse Episcopal Church 8-3,Superintendent of Public Instruction,,DEM,Emmons,27
+Park,Meeteetse Episcopal Church 8-3,State House,24,REP,Simpson,131
+Park,Meeteetse Episcopal Church 8-3,Ballots Cast,,,Ballots Cast,147
+Park,Meeteetse Town Hall 8-2,U.S. Senate,,REP,Enzi,134
+Park,Meeteetse Town Hall 8-2,U.S. Senate,,DEM,Akin,30
+Park,Meeteetse Town Hall 8-2,U.S. Senate,,DEM,Corcoran,32
+Park,Meeteetse Town Hall 8-2,U.S. House,,REP,Cubin,130
+Park,Meeteetse Town Hall 8-2,U.S. House,,LIB,Stock,7
+Park,Meeteetse Town Hall 8-2,Governor,,REP,Bebout,101
+Park,Meeteetse Town Hall 8-2,Governor,,DEM,Freudenthal,60
+Park,Meeteetse Town Hall 8-2,Governor,,LIB,Brossman,26
+Park,Meeteetse Town Hall 8-2,Governor,,LIB,Dawson,6
+Park,Meeteetse Town Hall 8-2,Secretary of State,,REP,Meyer,135
+Park,Meeteetse Town Hall 8-2,State Auditor,,REP,Maxfield,133
+Park,Meeteetse Town Hall 8-2,State Auditor,,DEM,Harris,34
+Park,Meeteetse Town Hall 8-2,State Treasurer,,REP,Lummis,154
+Park,Meeteetse Town Hall 8-2,Superintendent of Public Instruction,,REP,Blankenship,100
+Park,Meeteetse Town Hall 8-2,Superintendent of Public Instruction,,DEM,Emmons,61
+Park,Meeteetse Town Hall 8-2,State House,24,REP,Simpson,152
+Park,Meeteetse Town Hall 8-2,Ballots Cast,,,Ballots Cast,168
+Park,National Guard Armory 3-1,U.S. Senate,,REP,Enzi,437
+Park,National Guard Armory 3-1,U.S. Senate,,DEM,Akin,109
+Park,National Guard Armory 3-1,U.S. Senate,,DEM,Corcoran,90
+Park,National Guard Armory 3-1,U.S. House,,REP,Cubin,385
+Park,National Guard Armory 3-1,U.S. House,,LIB,Stock,27
+Park,National Guard Armory 3-1,Governor,,REP,Bebout,327
+Park,National Guard Armory 3-1,Governor,,DEM,Freudenthal,187
+Park,National Guard Armory 3-1,Governor,,LIB,Brossman,74
+Park,National Guard Armory 3-1,Governor,,LIB,Dawson,13
+Park,National Guard Armory 3-1,Secretary of State,,REP,Meyer,432
+Park,National Guard Armory 3-1,State Auditor,,REP,Maxfield,411
+Park,National Guard Armory 3-1,State Auditor,,DEM,Harris,104
+Park,National Guard Armory 3-1,State Treasurer,,REP,Lummis,449
+Park,National Guard Armory 3-1,Superintendent of Public Instruction,,REP,Blankenship,341
+Park,National Guard Armory 3-1,Superintendent of Public Instruction,,DEM,Emmons,170
+Park,National Guard Armory 3-1,State House,50,REP,Childers,381
+Park,National Guard Armory 3-1,State House,50,LIB,Carlson,120
+Park,National Guard Armory 3-1,Ballots Cast,,,Ballots Cast,530
+Park,National Guard Armory 3-2,U.S. Senate,,REP,Enzi,596
+Park,National Guard Armory 3-2,U.S. Senate,,DEM,Akin,111
+Park,National Guard Armory 3-2,U.S. Senate,,DEM,Corcoran,93
+Park,National Guard Armory 3-2,U.S. House,,REP,Cubin,551
+Park,National Guard Armory 3-2,U.S. House,,LIB,Stock,26
+Park,National Guard Armory 3-2,Governor,,REP,Bebout,450
+Park,National Guard Armory 3-2,Governor,,DEM,Freudenthal,226
+Park,National Guard Armory 3-2,Governor,,LIB,Brossman,77
+Park,National Guard Armory 3-2,Governor,,LIB,Dawson,18
+Park,National Guard Armory 3-2,Secretary of State,,REP,Meyer,595
+Park,National Guard Armory 3-2,State Auditor,,REP,Maxfield,573
+Park,National Guard Armory 3-2,State Auditor,,DEM,Harris,107
+Park,National Guard Armory 3-2,State Treasurer,,REP,Lummis,617
+Park,National Guard Armory 3-2,Superintendent of Public Instruction,,REP,Blankenship,488
+Park,National Guard Armory 3-2,Superintendent of Public Instruction,,DEM,Emmons,187
+Park,National Guard Armory 3-2,State House,50,REP,Childers,523
+Park,National Guard Armory 3-2,State House,50,LIB,Carlson,131
+Park,National Guard Armory 3-2,Ballots Cast,,,Ballots Cast,701
+Park,Ralston Mountain View Club 21-1,U.S. Senate,,REP,Enzi,346
+Park,Ralston Mountain View Club 21-1,U.S. Senate,,DEM,Akin,99
+Park,Ralston Mountain View Club 21-1,U.S. Senate,,DEM,Corcoran,89
+Park,Ralston Mountain View Club 21-1,U.S. House,,REP,Cubin,316
+Park,Ralston Mountain View Club 21-1,U.S. House,,LIB,Stock,9
+Park,Ralston Mountain View Club 21-1,Governor,,REP,Bebout,272
+Park,Ralston Mountain View Club 21-1,Governor,,DEM,Freudenthal,151
+Park,Ralston Mountain View Club 21-1,Governor,,LIB,Brossman,64
+Park,Ralston Mountain View Club 21-1,Governor,,LIB,Dawson,12
+Park,Ralston Mountain View Club 21-1,Secretary of State,,REP,Meyer,346
+Park,Ralston Mountain View Club 21-1,State Auditor,,REP,Maxfield,343
+Park,Ralston Mountain View Club 21-1,State Auditor,,DEM,Harris,81
+Park,Ralston Mountain View Club 21-1,State Treasurer,,REP,Lummis,354
+Park,Ralston Mountain View Club 21-1,Superintendent of Public Instruction,,REP,Blankenship,274
+Park,Ralston Mountain View Club 21-1,Superintendent of Public Instruction,,DEM,Emmons,144
+Park,Ralston Mountain View Club 21-1,State House,50,REP,Childers,320
+Park,Ralston Mountain View Club 21-1,State House,50,LIB,Carlson,89
+Park,Ralston Mountain View Club 21-1,Ballots Cast,,,Ballots Cast,440
+Park,Valley School House 7-2,U.S. Senate,,REP,Enzi,56
+Park,Valley School House 7-2,U.S. Senate,,DEM,Akin,4
+Park,Valley School House 7-2,U.S. Senate,,DEM,Corcoran,3
+Park,Valley School House 7-2,U.S. House,,REP,Cubin,52
+Park,Valley School House 7-2,U.S. House,,LIB,Stock,0
+Park,Valley School House 7-2,Governor,,REP,Bebout,50
+Park,Valley School House 7-2,Governor,,DEM,Freudenthal,10
+Park,Valley School House 7-2,Governor,,LIB,Brossman,2
+Park,Valley School House 7-2,Governor,,LIB,Dawson,0
+Park,Valley School House 7-2,Secretary of State,,REP,Meyer,54
+Park,Valley School House 7-2,State Auditor,,REP,Maxfield,54
+Park,Valley School House 7-2,State Auditor,,DEM,Harris,2
+Park,Valley School House 7-2,State Treasurer,,REP,Lummis,54
+Park,Valley School House 7-2,Superintendent of Public Instruction,,REP,Blankenship,48
+Park,Valley School House 7-2,Superintendent of Public Instruction,,DEM,Emmons,8
+Park,Valley School House 7-2,State House,24,REP,Simpson,54
+Park,Valley School House 7-2,Ballots Cast,,,Ballots Cast,60
+Park,Wapiti School House 16-1,U.S. Senate,,REP,Enzi,310
+Park,Wapiti School House 16-1,U.S. Senate,,DEM,Akin,148
+Park,Wapiti School House 16-1,U.S. Senate,,DEM,Corcoran,127
+Park,Wapiti School House 16-1,U.S. House,,REP,Cubin,275
+Park,Wapiti School House 16-1,U.S. House,,LIB,Stock,12
+Park,Wapiti School House 16-1,Governor,,REP,Bebout,245
+Park,Wapiti School House 16-1,Governor,,DEM,Freudenthal,185
+Park,Wapiti School House 16-1,Governor,,LIB,Brossman,65
+Park,Wapiti School House 16-1,Governor,,LIB,Dawson,7
+Park,Wapiti School House 16-1,Secretary of State,,REP,Meyer,327
+Park,Wapiti School House 16-1,State Auditor,,REP,Maxfield,284
+Park,Wapiti School House 16-1,State Auditor,,DEM,Harris,140
+Park,Wapiti School House 16-1,State Treasurer,,REP,Lummis,322
+Park,Wapiti School House 16-1,Superintendent of Public Instruction,,REP,Blankenship,267
+Park,Wapiti School House 16-1,Superintendent of Public Instruction,,DEM,Emmons,150
+Park,Wapiti School House 16-1,State House,24,REP,Simpson,331
+Park,Wapiti School House 16-1,Ballots Cast,,,Ballots Cast,441
+Park,Willwood Irrigation Dist. 23-1,U.S. Senate,,REP,Enzi,167
+Park,Willwood Irrigation Dist. 23-1,U.S. Senate,,DEM,Akin,48
+Park,Willwood Irrigation Dist. 23-1,U.S. Senate,,DEM,Corcoran,44
+Park,Willwood Irrigation Dist. 23-1,U.S. House,,REP,Cubin,150
+Park,Willwood Irrigation Dist. 23-1,U.S. House,,LIB,Stock,8
+Park,Willwood Irrigation Dist. 23-1,Governor,,REP,Bebout,122
+Park,Willwood Irrigation Dist. 23-1,Governor,,DEM,Freudenthal,83
+Park,Willwood Irrigation Dist. 23-1,Governor,,LIB,Brossman,26
+Park,Willwood Irrigation Dist. 23-1,Governor,,LIB,Dawson,8
+Park,Willwood Irrigation Dist. 23-1,Secretary of State,,REP,Meyer,179
+Park,Willwood Irrigation Dist. 23-1,State Auditor,,REP,Maxfield,168
+Park,Willwood Irrigation Dist. 23-1,State Auditor,,DEM,Harris,40
+Park,Willwood Irrigation Dist. 23-1,State Treasurer,,REP,Lummis,188
+Park,Willwood Irrigation Dist. 23-1,Superintendent of Public Instruction,,REP,Blankenship,130
+Park,Willwood Irrigation Dist. 23-1,Superintendent of Public Instruction,,DEM,Emmons,75
+Park,Willwood Irrigation Dist. 23-1,State Senate,19,REP,Northrup,103
+Park,Willwood Irrigation Dist. 23-1,State House,26,REP,Harvey,100
+Park,Willwood Irrigation Dist. 23-1,State House,26,LIB,Garrison,8
+Park,Willwood Irrigation Dist. 23-1,State House,50,REP,Childers,82
+Park,Willwood Irrigation Dist. 23-1,State House,50,LIB,Carlson,14
+Park,Willwood Irrigation Dist. 23-1,Ballots Cast,,,Ballots Cast,214

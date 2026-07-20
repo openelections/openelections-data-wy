@@ -301,11 +301,176 @@ def parse_family_b(spec: ElectionSpec) -> dict[str, list[Row]]:
     return per_county
 
 
+# ---------------------------------------------------------------------------
+# Family A: 2000, 2002, 2004
+# ---------------------------------------------------------------------------
+
+# Map sheet-name party token -> canonical party code.
+SHEET_PARTY_TOKENS = {
+    "democratic": "DEM",
+    "republican": "REP",
+    "libertarian": "LIB",
+    "non-partisan": "NP",
+    "nonpartisan": "NP",
+    "independent": "IND",
+    "constitution": "CTRY",
+    "reform": "REF",
+}
+
+
+def sheet_party(sheet_name: str) -> str:
+    s = sheet_name.lower()
+    for token, code in SHEET_PARTY_TOKENS.items():
+        if token in s:
+            return code
+    return ""
+
+
+def family_a_cfg(spec: ElectionSpec, sheet_name: str, county: str) -> LayoutCfg:
+    """Family A has two office-row layouts and two candidate-row layouts.
+
+    2000/2002: 3 office rows (0-2) + 1 candidate row (3). data_start_row=4.
+    2004:     2 office rows (0-1) + 2 candidate rows (3-4). data_start_row=4.
+    Generals:  2 office rows (0-1) + 1 candidate row (3). data_start_row=4.
+    """
+    party = sheet_party(sheet_name) if spec.election_type == "primary" else ""
+    if spec.year == "2004":
+        office_rows = [0, 1]
+        candidate_rows = [3, 4]
+    elif spec.election_type == "primary":
+        office_rows = [0, 1, 2]
+        candidate_rows = [3]
+    else:
+        # 2000/2002 general.
+        office_rows = [0, 1]
+        candidate_rows = [3]
+    return LayoutCfg(
+        office_rows=office_rows,
+        candidate_rows=candidate_rows,
+        data_start_row=4,
+        na_markers=frozenset({"NA", "N", "-", "`"}),
+        total_row_labels=frozenset({"official totals", "official results", "total", "totals"}),
+        county=county,
+        election_type=spec.election_type,
+        file_party=party,
+    )
+
+
+# 2002 primary Albany col 11 (State Treasurer) has a missing office label.
+# We inject the correct label per-file.
+FAMILY_A_OFFICE_OVERRIDES: dict[tuple[str, str], dict[int, str]] = {
+    ("20020820", "Albany"): {11: "State Treasurer"},
+}
+
+# 2002 general: every county file has 4 Governor candidates (Freudenthal, Dawson,
+# Bebout, Brossman) at cols 7-10, but the source's "Governor" merged-cell range
+# spans only cols 7-9, so Brossman (c10) is mislabeled as "Secretary of State".
+# Override cols 7-10 to "Governor" and c11 to "Secretary of State" uniformly.
+FAMILY_2002_GENERAL_OVERRIDES = {
+    7: "Governor", 8: "Governor", 9: "Governor", 10: "Governor",
+    11: "Secretary of State",
+}
+
+
+def parse_family_a(spec: ElectionSpec) -> dict[str, list[Row]]:
+    per_county: dict[str, list[Row]] = {}
+    for path in sorted(spec.sources_dir.iterdir()):
+        if not path.is_file():
+            continue
+        base = path.stem.lower()
+        if "summary" in base or "recount" in base:
+            continue
+        # 2002 general: skip natrona2.xls (identical + recount flags) -- use natrona.xls.
+        if spec.date == "20021105" and path.name.lower() == "natrona2.xls":
+            continue
+        county = _family_a_county_from_path(path, spec)
+        if county is None:
+            continue
+        overrides = FAMILY_A_OFFICE_OVERRIDES.get((spec.date, county))
+        if spec.date == "20021105":
+            # 2002 general: every county file has the same column layout for the
+            # Governor group; apply the uniform override.
+            overrides = dict(FAMILY_2002_GENERAL_OVERRIDES)
+            if FAMILY_A_OFFICE_OVERRIDES.get((spec.date, county)):
+                overrides.update(FAMILY_A_OFFICE_OVERRIDES[(spec.date, county)])
+        sheets = read_any_with_names(str(path))
+        for sheet_name, sheet in sheets:
+            if not sheet or all(all(v is None for v in r) for r in sheet):
+                continue
+            cfg = family_a_cfg(spec, sheet_name, county)
+            if overrides:
+                cfg.office_overrides = overrides
+            try:
+                res = parse_sheet(sheet, cfg)
+            except ValueError as e:
+                raise ValueError(f"{path.name} sheet {sheet_name!r}: {e}") from e
+            if res.rows or res.precincts:
+                per_county.setdefault(county, []).extend(res.rows)
+    return per_county
+
+
+def _family_a_county_from_path(path: Path, spec: ElectionSpec) -> str | None:
+    """Family A county filenames are like 'Albany.xls', 'Big Horn.xls', 'natrona.xls'.
+
+    Look up by case-insensitive full-name match against the 23 counties.
+    """
+    name = path.stem
+    nlow = name.lower().strip()
+    # 2000 primary: per-county-party files like 'AL-D-2000.xls'.
+    if spec.year == "2000" and spec.election_type == "primary":
+        m = re.match(r"^([A-Z]{2})-([A-Z])-\d{4}$", path.stem, re.IGNORECASE)
+        if m:
+            return county_from_abbr(m.group(1))
+        return None
+    for c in COUNTY_NAMES_SET:
+        if nlow == c.lower():
+            return c
+    return None
+
+
+def _sheet_name(path: Path, idx: int) -> str:
+    p = str(path).lower()
+    if p.endswith(".xls"):
+        import xlrd
+        b = xlrd.open_workbook(str(path))
+        return b.sheet_names()[idx] if idx < b.nsheets else ""
+    if p.endswith(".xlsx") or p.endswith(".xlsm"):
+        from openpyxl import load_workbook
+        b = load_workbook(str(path), read_only=True)
+        names = b.sheetnames
+        return names[idx] if idx < len(names) else ""
+    return ""
+
+
+def read_any_with_names(path: str | Path) -> list[tuple[str, list[list]]]:
+    p = str(path).lower()
+    if p.endswith(".xls"):
+        import xlrd
+        book = xlrd.open_workbook(str(path))
+        out = []
+        for sname in book.sheet_names():
+            sh = book.sheet_by_name(sname)
+            rows = [[sh.cell_value(r, c) for c in range(sh.ncols)] for r in range(sh.nrows)]
+            out.append((sname, rows))
+        return out
+    if p.endswith(".xlsx") or p.endswith(".xlsm"):
+        from openpyxl import load_workbook
+        wb = load_workbook(str(path), data_only=True, read_only=True)
+        out = []
+        for ws in wb.worksheets:
+            rows = [list(r) for r in ws.iter_rows(values_only=True)]
+            out.append((ws.title, rows))
+        return out
+    raise ValueError(f"unsupported file type: {path}")
+
+
 def parse_election(spec: ElectionSpec) -> dict[str, list[Row]]:
-    if spec.family == "C":
-        return parse_family_c(spec)
+    if spec.family == "A":
+        return parse_family_a(spec)
     if spec.family == "B":
         return parse_family_b(spec)
+    if spec.family == "C":
+        return parse_family_c(spec)
     raise NotImplementedError(spec.family)
 
 

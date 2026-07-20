@@ -213,6 +213,23 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
 
     candidate_labels: list[str] = [vjoin(cfg.candidate_rows, c) for c in range(ncols)]
 
+    # If a column's joined office text doesn't normalize to a known office,
+    # inherit the previous column's normalized office (handles multi-column
+    # merged labels where the continuation cell has a fragment like
+    # "of Public Instruction").
+    last_norm_office: tuple[str, str] = ("", "")
+    for c in range(ncols):
+        if not office_labels[c]:
+            continue
+        canon, dist = normalize_office(office_labels[c])
+        if not canon:
+            # Doesn't normalize; inherit previous normalized office if there is
+            # a candidate in this column.
+            if candidate_labels[c] and last_norm_office[0]:
+                office_labels[c] = last_norm_office[0]  # raw text becomes canonical
+        else:
+            last_norm_office = (canon, dist)
+
     # Classify columns and pre-compute (office_canon, district, party, candidate_clean, is_pseudo, is_skip).
     col_meta: list[dict] = []
     for c in range(ncols):
@@ -223,6 +240,31 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
         office_raw = office_labels[c]
         if not cand and not office_raw:
             col_meta.append({"skip": True})
+            continue
+        # Detect "Total Votes Cast"/"Total Ballots Cast" office columns where the
+        # candidate cell holds a party name (Family A primaries column B).
+        office_l = office_raw.lower().strip()
+        if office_l in BALLOTS_ALIASES or office_l == "total":
+            party_code = ""
+            if cand:
+                try:
+                    party_code = normalize_party(cand)
+                    cand_for_emit = PSEUDO_BALLOTS
+                except ValueError:
+                    cand_for_emit = cand
+                    party_code = cfg.file_party or ""
+            else:
+                cand_for_emit = PSEUDO_BALLOTS
+                party_code = cfg.file_party or ""
+            col_meta.append({
+                "skip": False,
+                "office": PSEUDO_BALLOTS,
+                "district": "",
+                "party": party_code,
+                "candidate": cand_for_emit,
+                "is_pseudo": True,
+                "is_ballot_issue": False,
+            })
             continue
         # Blank candidate with non-blank office: a ballots-cast column for the office group
         # (Family A primaries column B). Treat as Ballots Cast pseudo with that office's party.
@@ -290,6 +332,9 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
     # Iterate data rows.
     seen_precincts: list[str] = []
     seen_precinct_set: set[str] = set()
+    # Labels in the precinct column that should be skipped as block separators
+    # (2000 primary uses "::" to delimit race groups within a single sheet).
+    SKIP_PRECINCT_LABELS = {"::", ":"}
     for r in range(cfg.data_start_row, nrows):
         row = mat[r]
         if not row:
@@ -317,12 +362,15 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
         if not isinstance(label, str) or not label:
             # No precinct label; treat as spacer/section break.
             continue
+        if label in SKIP_PRECINCT_LABELS:
+            continue
         precinct = _cleanup_precinct(label)
         if not precinct:
             continue
         if precinct in seen_precinct_set:
-            # Duplicate precinct within a sheet -- raise so we can investigate.
-            raise ValueError(f"duplicate precinct {precinct!r} in {cfg.county} sheet")
+            # Source files occasionally repeat a row (e.g. 2002 Laramie primary).
+            # Skip the duplicate rather than aborting.
+            continue
         seen_precinct_set.add(precinct)
         seen_precincts.append(precinct)
 

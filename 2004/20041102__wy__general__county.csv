@@ -1,0 +1,360 @@
+county,office,district,party,candidate,votes
+Albany,President,,REP,Bush,9006
+Albany,President,,DEM,Kerry,7117
+Albany,President,,LIB,Badnarik,112
+Albany,President,,IND,Nader,297
+Albany,President,,IND,Peroutka,29
+Albany,U.S. House,,REP,Barbara Cubin,7224
+Albany,U.S. House,,DEM,Ted Ladd,8637
+Albany,U.S. House,,LIB,Lewis Stock,446
+Albany,State Senate,10,REP,Phil Nicholas,4693
+Albany,State Senate,10,DEM,Tim Chestnut,3710
+Albany,State House,13,DEM,Jane Warren,2886
+Albany,State House,14,REP,Kermit C. Brown,2011
+Albany,State House,14,DEM,Joseph R. Kiovsky,1543
+Albany,State House,45,REP,Kevin A. White,1942
+Albany,State House,45,DEM,Vaughn Neubauer,1732
+Albany,State House,46,REP,James J. Slater,2717
+Albany,State House,46,DEM,Jan Alvaney,1982
+Albany,State House,47,REP,Kurt S. Bucholz,129
+Albany,Ballots Cast,,,Ballots Cast,16744
+Big Horn,President,,REP,Bush,4232
+Big Horn,President,,DEM,Kerry,960
+Big Horn,President,,LIB,Badnarik,25
+Big Horn,President,,IND,Nader,48
+Big Horn,President,,IND,Peroutka,15
+Big Horn,U.S. House,,REP,Barbara Cubin,3562
+Big Horn,U.S. House,,DEM,Ted Ladd,1381
+Big Horn,U.S. House,,LIB,Lewis Stock,117
+Big Horn,State Senate,20,REP,Gerald E. Geis,1244
+Big Horn,State House,26,REP,Elaine D. Harvey,3284
+Big Horn,State House,28,REP,Lorraine Quarberg,1274
+Big Horn,Ballots Cast,,,Ballots Cast,5338
+Campbell,President,,REP,Bush,12415
+Campbell,President,,DEM,Kerry,2464
+Campbell,President,,LIB,Badnarik,48
+Campbell,President,,IND,Nader,125
+Campbell,President,,IND,Peroutka,41
+Campbell,U.S. House,,REP,Barbara Cubin,10414
+Campbell,U.S. House,,DEM,Ted Ladd,3702
+Campbell,U.S. House,,LIB,Lewis Stock,368
+Campbell,State Senate,24,REP,Michael Von Flatern,5817
+Campbell,State Senate,24,DEM,Robert J. O'Neil,1148
+Campbell,State House,31,REP,Thomas E. Lubnau II,3769
+Campbell,State House,32,REP,Jeff Wasserburger,3164
+Campbell,State House,32,DEM,Duffy Jenniges,681
+Campbell,State House,52,REP,Burke Jackson,3199
+Campbell,State House,53,REP,Frank W. Latta,2756
+Campbell,Ballots Cast,,,Ballots Cast,15302
+Carbon,President,,REP,Bush,4758
+Carbon,President,,DEM,Kerry,2158
+Carbon,President,,LIB,Badnarik,27
+Carbon,President,,IND,Nader,89
+Carbon,President,,IND,Peroutka,29
+Carbon,U.S. House,,REP,Barbara Cubin,3682
+Carbon,U.S. House,,DEM,Ted Ladd,3070
+Carbon,U.S. House,,LIB,Lewis Stock,197
+Carbon,State House,15,REP,Dave Rader,1645
+Carbon,State House,15,DEM,George W. Bagby,1721
+Carbon,State House,47,REP,Kurt S. Bucholz,2982
+Carbon,Ballots Cast,,,Ballots Cast,7121
+Converse,President,,REP,Bush,4447
+Converse,President,,DEM,Kerry,1184
+Converse,President,,LIB,Badnarik,16
+Converse,President,,IND,Nader,60
+Converse,President,,IND,Peroutka,14
+Converse,U.S. House,,REP,Barbara Cubin,3569
+Converse,U.S. House,,DEM,Ted Ladd,1959
+Converse,U.S. House,,LIB,Lewis Stock,259
+Converse,State Senate,01,REP,"C.L. ""Chuck"" Townsend",320
+Converse,State Senate,02,REP,Jim Anderson,4800
+Converse,State House,02,REP,Kari Jo Gray,256
+Converse,State House,02,DEM,Ross Diercks,94
+Converse,State House,03,REP,Deborah Alden,1297
+Converse,State House,06,REP,Dave Edwards,3381
+Converse,Ballots Cast,,,Ballots Cast,5931
+Crook,President,,REP,Bush,2836
+Crook,President,,DEM,Kerry,501
+Crook,President,,LIB,Badnarik,19
+Crook,President,,IND,Nader,27
+Crook,President,,IND,Peroutka,9
+Crook,U.S. House,,REP,Barbara Cubin,2530
+Crook,U.S. House,,DEM,Ted Ladd,738
+Crook,U.S. House,,LIB,Lewis Stock,74
+Crook,State Senate,01,REP,"C.L. ""Chuck"" Townsend",3036
+Crook,State House,01,REP,Mark A. Semlek,3049
+Crook,Ballots Cast,,,Ballots Cast,3428
+Fremont,President,,REP,Bush,11429
+Fremont,President,,DEM,Kerry,5338
+Fremont,President,,LIB,Badnarik,87
+Fremont,President,,IND,Nader,179
+Fremont,President,,IND,Peroutka,39
+Fremont,U.S. House,,REP,Barbara Cubin,9496
+Fremont,U.S. House,,DEM,Ted Ladd,6829
+Fremont,U.S. House,,LIB,Lewis Stock,511
+Fremont,State Senate,12,DEM,Rae Lynn Job,28
+Fremont,State Senate,26,REP,Robert A. Peck,6585
+Fremont,State House,23,REP,Keith Gingery,870
+Fremont,State House,23,DEM,Mike Gierau,212
+Fremont,State House,33,REP,Jim Allen,1419
+Fremont,State House,33,DEM,W. Patrick Goggles,1778
+Fremont,State House,34,REP,Frank Philp,3398
+Fremont,State House,48,DEM,Marty Martin,31
+Fremont,State House,54,REP,Del McOmie,3907
+Fremont,State House,55,REP,David R Miller,3273
+Fremont,Ballots Cast,,,Ballots Cast,17217
+Goshen,President,,REP,Bush,4114
+Goshen,President,,DEM,Kerry,1566
+Goshen,President,,LIB,Badnarik,32
+Goshen,President,,IND,Nader,52
+Goshen,President,,IND,Peroutka,15
+Goshen,U.S. House,,REP,Barbara Cubin,3346
+Goshen,U.S. House,,DEM,Ted Ladd,2032
+Goshen,U.S. House,,LIB,Lewis Stock,130
+Goshen,State Senate,01,REP,"C.L. ""Chuck"" Townsend",103
+Goshen,State House,02,REP,Kari Jo Gray,63
+Goshen,State House,02,DEM,Ross Diercks,50
+Goshen,State House,04,REP,Edward A. Buchanan,3136
+Goshen,State House,05,REP,James C. Hageman,1748
+Goshen,Ballots Cast,,,Ballots Cast,5953
+Hot Springs,President,,REP,Bush,1812
+Hot Springs,President,,DEM,Kerry,623
+Hot Springs,President,,LIB,Badnarik,21
+Hot Springs,President,,IND,Nader,18
+Hot Springs,President,,IND,Peroutka,5
+Hot Springs,U.S. House,,REP,Barbara Cubin,1386
+Hot Springs,U.S. House,,DEM,Ted Ladd,917
+Hot Springs,U.S. House,,LIB,Lewis Stock,91
+Hot Springs,State Senate,20,REP,Gerald E. Geis,1715
+Hot Springs,State House,28,REP,Lorraine Quarberg,1793
+Hot Springs,Ballots Cast,,,Ballots Cast,2507
+Johnson,President,,REP,Bush,3231
+Johnson,President,,DEM,Kerry,676
+Johnson,President,,LIB,Badnarik,22
+Johnson,President,,IND,Nader,38
+Johnson,President,,IND,Peroutka,18
+Johnson,U.S. House,,REP,Barbara Cubin,2636
+Johnson,U.S. House,,DEM,Ted Ladd,980
+Johnson,U.S. House,,LIB,Lewis Stock,60
+Johnson,State Senate,22,REP,John C. Schiffer,3148
+Johnson,State House,40,REP,Doug Osborn,3130
+Johnson,Ballots Cast,,,Ballots Cast,4088
+Laramie,President,,REP,Bush,25951
+Laramie,President,,DEM,Kerry,13171
+Laramie,President,,LIB,Badnarik,154
+Laramie,President,,IND,Nader,421
+Laramie,President,,IND,Peroutka,109
+Laramie,U.S. House,,REP,Barbara Cubin,17969
+Laramie,U.S. House,,DEM,Ted Ladd,20097
+Laramie,U.S. House,,LIB,Lewis Stock,1159
+Laramie,State Senate,04,REP,Tony Ross,7449
+Laramie,State Senate,06,REP,Wayne Johnson,5108
+Laramie,State Senate,06,DEM,Jana Howard Ginter,3638
+Laramie,State Senate,08,DEM,Jayne Mockler,4685
+Laramie,State House,07,REP,Doug Samuelson,3292
+Laramie,State House,07,DEM,Mike Shonsey,1875
+Laramie,State House,08,REP,Larry Meuli,3745
+Laramie,State House,09,REP,Bryan Pedersen,2264
+Laramie,State House,09,DEM,Ruth Bell,1611
+Laramie,State House,10,REP,"Rodney ""Pete"" Anderson",3017
+Laramie,State House,10,DEM,Melinda M. Young,1677
+Laramie,State House,11,DEM,Wayne Reese,2651
+Laramie,State House,12,DEM,Layton D. Morgan,2295
+Laramie,State House,41,REP,Becket B. Hinckley,2403
+Laramie,State House,41,DEM,Ken Esquibel,1469
+Laramie,State House,42,REP,Pete Illoway,1979
+Laramie,State House,42,DEM,Randall M. Lane,1074
+Laramie,State House,43,REP,Dan Zwonitzer,2169
+Laramie,State House,43,DEM,Terry Barbre,1441
+Laramie,State House,44,DEM,Floyd A. Esquibel,2303
+Laramie,Ballots Cast,,,Ballots Cast,40131
+Lincoln,President,,REP,Bush,6423
+Lincoln,President,,DEM,Kerry,1364
+Lincoln,President,,LIB,Badnarik,22
+Lincoln,President,,IND,Nader,67
+Lincoln,President,,IND,Peroutka,28
+Lincoln,U.S. House,,REP,Barbara Cubin,5500
+Lincoln,U.S. House,,DEM,Ted Ladd,2183
+Lincoln,U.S. House,,LIB,Lewis Stock,148
+Lincoln,State Senate,14,REP,Stan Cooper,1801
+Lincoln,State Senate,14,DEM,Larry Caller,727
+Lincoln,State Senate,16,REP,Pat Aullman,4155
+Lincoln,State Senate,16,DEM,Jerry Bosch,1141
+Lincoln,State House,20,REP,Kathy Davison,1998
+Lincoln,State House,21,REP,Randall Luthi,4336
+Lincoln,State House,22,REP,Monte Olsen,533
+Lincoln,Ballots Cast,,,Ballots Cast,7983
+Natrona,President,,REP,Bush,21512
+Natrona,President,,DEM,Kerry,9863
+Natrona,President,,LIB,Badnarik,183
+Natrona,President,,IND,Nader,331
+Natrona,President,,IND,Peroutka,66
+Natrona,U.S. House,,REP,Barbara Cubin,15630
+Natrona,U.S. House,,DEM,Ted Ladd,14886
+Natrona,U.S. House,,LIB,Lewis Stock,1170
+Natrona,State Senate,28,REP,Kit Jennings,3808
+Natrona,State Senate,28,DEM,Keith Goodenough,3696
+Natrona,State Senate,30,REP,Charles K. Scott,4774
+Natrona,State Senate,30,DEM,Ron Akin,2383
+Natrona,State House,35,REP,Roy Cohee,3884
+Natrona,State House,36,REP,Gerald Gay,1992
+Natrona,State House,36,DEM,Liz Gentile,1826
+Natrona,State House,37,REP,Steve Harshman,3198
+Natrona,State House,37,DEM,Scott Koenekamp,1369
+Natrona,State House,38,REP,Bob Brechtel,2426
+Natrona,State House,38,DEM,Joan Bangen,1494
+Natrona,State House,56,REP,Tom Walsh,2480
+Natrona,State House,56,DEM,Kathy DeLisa,1259
+Natrona,State House,57,REP,Thomas A. Lockhart,2321
+Natrona,State House,57,DEM,Margo Miller,1050
+Natrona,State House,57,LIB,Hubert AR Townsend,221
+Natrona,State House,58,DEM,Ann Robinson,2608
+Natrona,State House,59,REP,Ted Lee,1510
+Natrona,State House,59,DEM,Mary Meyer Gilmore,1736
+Natrona,Ballots Cast,,,Ballots Cast,32307
+Niobrara,President,,REP,Bush,1064
+Niobrara,President,,DEM,Kerry,230
+Niobrara,President,,LIB,Badnarik,4
+Niobrara,President,,IND,Nader,10
+Niobrara,President,,IND,Peroutka,6
+Niobrara,U.S. House,,REP,Barbara Cubin,878
+Niobrara,U.S. House,,DEM,Ted Ladd,345
+Niobrara,U.S. House,,LIB,Lewis Stock,29
+Niobrara,State Senate,01,REP,"C.L. ""Chuck"" Townsend",1195
+Niobrara,State House,02,REP,Kari Jo Gray,517
+Niobrara,State House,02,DEM,Ross Diercks,805
+Niobrara,Ballots Cast,,,Ballots Cast,1351
+Park,President,,REP,Bush,10917
+Park,President,,DEM,Kerry,3007
+Park,President,,LIB,Badnarik,70
+Park,President,,IND,Nader,163
+Park,President,,IND,Peroutka,42
+Park,U.S. House,,REP,Barbara Cubin,9274
+Park,U.S. House,,DEM,Ted Ladd,4265
+Park,U.S. House,,LIB,Lewis Stock,404
+Park,State Senate,18,REP,"Henry H.R. ""Hank"" Coe",8049
+Park,State Senate,20,REP,Gerald E. Geis,0
+Park,State House,24,REP,Colin M. Simpson,4017
+Park,State House,25,REP,Alan C. Jones,3720
+Park,State House,26,REP,Elaine D. Harvey,116
+Park,State House,28,REP,Lorraine Quarberg,0
+Park,State House,50,REP,Pat Childers,3935
+Park,Ballots Cast,,,Ballots Cast,14354
+Platte,President,,REP,Bush,3149
+Platte,President,,DEM,Kerry,1328
+Platte,President,,LIB,Badnarik,23
+Platte,President,,IND,Nader,52
+Platte,President,,IND,Peroutka,14
+Platte,U.S. House,,REP,Barbara Cubin,2610
+Platte,U.S. House,,DEM,Ted Ladd,1830
+Platte,U.S. House,,LIB,Lewis Stock,118
+Platte,State Senate,02,REP,Jim Anderson,2447
+Platte,State House,03,REP,Deborah Alden,2274
+Platte,State House,05,REP,James C. Hageman,1457
+Platte,Ballots Cast,,,Ballots Cast,4614
+Sheridan,President,,REP,Bush,9689
+Sheridan,President,,DEM,Kerry,4066
+Sheridan,President,,LIB,Badnarik,68
+Sheridan,President,,IND,Nader,155
+Sheridan,President,,IND,Peroutka,28
+Sheridan,U.S. House,,REP,Barbara Cubin,7409
+Sheridan,U.S. House,,DEM,Ted Ladd,6187
+Sheridan,U.S. House,,LIB,Lewis Stock,294
+Sheridan,State Senate,22,REP,John C. Schiffer,4256
+Sheridan,State House,29,REP,Jerry Iekel,3380
+Sheridan,State House,30,REP,"Jack Landon, Jr.",2581
+Sheridan,State House,30,DEM,Cissy Dillon,1605
+Sheridan,State House,40,REP,Doug Osborn,665
+Sheridan,State House,51,REP,Rosie Berger,3532
+Sheridan,State House,51,DEM,Susan Cannon,1315
+Sheridan,Ballots Cast,,,Ballots Cast,14141
+Sublette,President,,REP,Bush,2847
+Sublette,President,,DEM,Kerry,730
+Sublette,President,,LIB,Badnarik,17
+Sublette,President,,IND,Nader,46
+Sublette,President,,IND,Peroutka,10
+Sublette,U.S. House,,REP,Barbara Cubin,2488
+Sublette,U.S. House,,DEM,Ted Ladd,1009
+Sublette,U.S. House,,LIB,Lewis Stock,66
+Sublette,State Senate,14,REP,Stan Cooper,691
+Sublette,State Senate,14,DEM,Larry Caller,133
+Sublette,State Senate,16,REP,Pat Aullman,1783
+Sublette,State Senate,16,DEM,Jerry Bosch,875
+Sublette,State House,20,REP,Kathy Davison,783
+Sublette,State House,22,REP,Monte Olsen,2394
+Sublette,Ballots Cast,,,Ballots Cast,3719
+Sweetwater,President,,REP,Bush,10653
+Sweetwater,President,,DEM,Kerry,5208
+Sweetwater,President,,LIB,Badnarik,79
+Sweetwater,President,,IND,Nader,229
+Sweetwater,President,,IND,Peroutka,56
+Sweetwater,U.S. House,,REP,Barbara Cubin,8555
+Sweetwater,U.S. House,,DEM,Ted Ladd,7082
+Sweetwater,U.S. House,,LIB,Lewis Stock,374
+Sweetwater,State Senate,12,DEM,Rae Lynn Job,5240
+Sweetwater,State Senate,14,REP,Stan Cooper,1398
+Sweetwater,State Senate,14,DEM,Larry Caller,1063
+Sweetwater,State House,17,REP,Steve Watt,1540
+Sweetwater,State House,17,DEM,Stephen J. Shea,1455
+Sweetwater,State House,18,REP,Mick Powers,1472
+Sweetwater,State House,20,REP,Kathy Davison,580
+Sweetwater,State House,39,DEM,John M. Hastert,2800
+Sweetwater,State House,48,DEM,Marty Martin,2767
+Sweetwater,State House,60,DEM,Bill Thompson,2952
+Sweetwater,Ballots Cast,,,Ballots Cast,16394
+Teton,President,,REP,Bush,5124
+Teton,President,,DEM,Kerry,5972
+Teton,President,,LIB,Badnarik,61
+Teton,President,,IND,Nader,167
+Teton,President,,IND,Peroutka,11
+Teton,U.S. House,,REP,Barbara Cubin,4019
+Teton,U.S. House,,DEM,Ted Ladd,6943
+Teton,U.S. House,,LIB,Lewis Stock,177
+Teton,State Senate,16,REP,Pat Aullman,761
+Teton,State Senate,16,DEM,Jerry Bosch,1065
+Teton,State House,16,DEM,Pete Jorgensen,4047
+Teton,State House,22,REP,Monte Olsen,1293
+Teton,State House,23,REP,Keith Gingery,1753
+Teton,State House,23,DEM,Mike Gierau,2230
+Teton,Ballots Cast,,,Ballots Cast,11445
+Uinta,President,,REP,Bush,6081
+Uinta,President,,DEM,Kerry,1815
+Uinta,President,,LIB,Badnarik,53
+Uinta,President,,IND,Nader,96
+Uinta,President,,IND,Peroutka,25
+Uinta,U.S. House,,REP,Barbara Cubin,5111
+Uinta,U.S. House,,DEM,Ted Ladd,2663
+Uinta,U.S. House,,LIB,Lewis Stock,209
+Uinta,State Senate,14,REP,Stan Cooper,1096
+Uinta,State Senate,14,DEM,Larry Caller,571
+Uinta,State House,18,REP,Mick Powers,1584
+Uinta,State House,19,REP,Owen Petersen,2605
+Uinta,State House,49,REP,Bruce R. Barnard,1730
+Uinta,State House,49,DEM,Saundra Meyer,1623
+Uinta,Ballots Cast,,,Ballots Cast,8129
+Washakie,President,,REP,Bush,3200
+Washakie,President,,DEM,Kerry,855
+Washakie,President,,LIB,Badnarik,11
+Washakie,President,,IND,Nader,33
+Washakie,President,,IND,Peroutka,10
+Washakie,U.S. House,,REP,Barbara Cubin,2399
+Washakie,U.S. House,,DEM,Ted Ladd,1421
+Washakie,U.S. House,,LIB,Lewis Stock,85
+Washakie,State Senate,20,REP,Gerald E. Geis,3157
+Washakie,State House,27,REP,Jane Wostenberg,1784
+Washakie,State House,27,DEM,Debbie Healy Hammons,2203
+Washakie,Ballots Cast,,,Ballots Cast,4165
+Weston,President,,REP,Bush,2739
+Weston,President,,DEM,Kerry,580
+Weston,President,,LIB,Badnarik,17
+Weston,President,,IND,Nader,38
+Weston,President,,IND,Peroutka,12
+Weston,U.S. House,,REP,Barbara Cubin,2420
+Weston,U.S. House,,DEM,Ted Ladd,833
+Weston,U.S. House,,LIB,Lewis Stock,95
+Weston,State Senate,01,REP,"C.L. ""Chuck"" Townsend",3070
+Weston,State House,01,REP,Mark A. Semlek,1173
+Weston,State House,02,REP,Kari Jo Gray,942
+Weston,State House,02,DEM,Ross Diercks,1064
+Weston,Ballots Cast,,,Ballots Cast,3427
+Weston,House District 02,,,Ballots Cast,1064

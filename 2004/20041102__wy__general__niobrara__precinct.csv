@@ -1,0 +1,73 @@
+county,precinct,office,district,party,candidate,votes
+Niobrara,Hat Creek 3-2,President,,REP,Bush,76
+Niobrara,Hat Creek 3-2,President,,DEM,Kerry,0
+Niobrara,Hat Creek 3-2,President,,LIB,Badnarik,2
+Niobrara,Hat Creek 3-2,President,,IND,Nader,0
+Niobrara,Hat Creek 3-2,President,,IND,Peroutka,0
+Niobrara,Hat Creek 3-2,U.S. House,,REP,Barbara Cubin,68
+Niobrara,Hat Creek 3-2,U.S. House,,DEM,Ted Ladd,6
+Niobrara,Hat Creek 3-2,U.S. House,,LIB,Lewis Stock,0
+Niobrara,Hat Creek 3-2,State Senate,01,REP,"C.L. ""Chuck"" Townsend",74
+Niobrara,Hat Creek 3-2,State House,02,REP,Kari Jo Gray,30
+Niobrara,Hat Creek 3-2,State House,02,DEM,Ross Diercks,48
+Niobrara,Hat Creek 3-2,Ballots Cast,,,Ballots Cast,79
+Niobrara,Lance Creek 4-1,President,,REP,Bush,86
+Niobrara,Lance Creek 4-1,President,,DEM,Kerry,1
+Niobrara,Lance Creek 4-1,President,,LIB,Badnarik,0
+Niobrara,Lance Creek 4-1,President,,IND,Nader,1
+Niobrara,Lance Creek 4-1,President,,IND,Peroutka,0
+Niobrara,Lance Creek 4-1,U.S. House,,REP,Barbara Cubin,73
+Niobrara,Lance Creek 4-1,U.S. House,,DEM,Ted Ladd,11
+Niobrara,Lance Creek 4-1,U.S. House,,LIB,Lewis Stock,1
+Niobrara,Lance Creek 4-1,State Senate,01,REP,"C.L. ""Chuck"" Townsend",78
+Niobrara,Lance Creek 4-1,State House,02,REP,Kari Jo Gray,39
+Niobrara,Lance Creek 4-1,State House,02,DEM,Ross Diercks,48
+Niobrara,Lance Creek 4-1,Ballots Cast,,,Ballots Cast,90
+Niobrara,Manville 7-1,President,,REP,Bush,131
+Niobrara,Manville 7-1,President,,DEM,Kerry,16
+Niobrara,Manville 7-1,President,,LIB,Badnarik,0
+Niobrara,Manville 7-1,President,,IND,Nader,1
+Niobrara,Manville 7-1,President,,IND,Peroutka,0
+Niobrara,Manville 7-1,U.S. House,,REP,Barbara Cubin,112
+Niobrara,Manville 7-1,U.S. House,,DEM,Ted Ladd,23
+Niobrara,Manville 7-1,U.S. House,,LIB,Lewis Stock,4
+Niobrara,Manville 7-1,State Senate,01,REP,"C.L. ""Chuck"" Townsend",138
+Niobrara,Manville 7-1,State House,02,REP,Kari Jo Gray,79
+Niobrara,Manville 7-1,State House,02,DEM,Ross Diercks,74
+Niobrara,Manville 7-1,Ballots Cast,,,Ballots Cast,153
+Niobrara,North Lusk 6-1,President,,REP,Bush,286
+Niobrara,North Lusk 6-1,President,,DEM,Kerry,71
+Niobrara,North Lusk 6-1,President,,LIB,Badnarik,0
+Niobrara,North Lusk 6-1,President,,IND,Nader,4
+Niobrara,North Lusk 6-1,President,,IND,Peroutka,4
+Niobrara,North Lusk 6-1,U.S. House,,REP,Barbara Cubin,239
+Niobrara,North Lusk 6-1,U.S. House,,DEM,Ted Ladd,103
+Niobrara,North Lusk 6-1,U.S. House,,LIB,Lewis Stock,8
+Niobrara,North Lusk 6-1,State Senate,01,REP,"C.L. ""Chuck"" Townsend",330
+Niobrara,North Lusk 6-1,State House,02,REP,Kari Jo Gray,161
+Niobrara,North Lusk 6-1,State House,02,DEM,Ross Diercks,203
+Niobrara,North Lusk 6-1,Ballots Cast,,,Ballots Cast,376
+Niobrara,South Lusk 6-2,President,,REP,Bush,416
+Niobrara,South Lusk 6-2,President,,DEM,Kerry,140
+Niobrara,South Lusk 6-2,President,,LIB,Badnarik,2
+Niobrara,South Lusk 6-2,President,,IND,Nader,4
+Niobrara,South Lusk 6-2,President,,IND,Peroutka,2
+Niobrara,South Lusk 6-2,U.S. House,,REP,Barbara Cubin,324
+Niobrara,South Lusk 6-2,U.S. House,,DEM,Ted Ladd,195
+Niobrara,South Lusk 6-2,U.S. House,,LIB,Lewis Stock,14
+Niobrara,South Lusk 6-2,State Senate,01,REP,"C.L. ""Chuck"" Townsend",506
+Niobrara,South Lusk 6-2,State House,02,REP,Kari Jo Gray,161
+Niobrara,South Lusk 6-2,State House,02,DEM,Ross Diercks,406
+Niobrara,South Lusk 6-2,Ballots Cast,,,Ballots Cast,580
+Niobrara,Warren 1-2,President,,REP,Bush,69
+Niobrara,Warren 1-2,President,,DEM,Kerry,2
+Niobrara,Warren 1-2,President,,LIB,Badnarik,0
+Niobrara,Warren 1-2,President,,IND,Nader,0
+Niobrara,Warren 1-2,President,,IND,Peroutka,0
+Niobrara,Warren 1-2,U.S. House,,REP,Barbara Cubin,62
+Niobrara,Warren 1-2,U.S. House,,DEM,Ted Ladd,7
+Niobrara,Warren 1-2,U.S. House,,LIB,Lewis Stock,2
+Niobrara,Warren 1-2,State Senate,01,REP,"C.L. ""Chuck"" Townsend",69
+Niobrara,Warren 1-2,State House,02,REP,Kari Jo Gray,47
+Niobrara,Warren 1-2,State House,02,DEM,Ross Diercks,26
+Niobrara,Warren 1-2,Ballots Cast,,,Ballots Cast,73

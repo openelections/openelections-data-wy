@@ -1,0 +1,404 @@
+county,precinct,office,district,party,candidate,votes
+Platte,4-H Bldg. Fair Grounds 1-6,U.S. Senate,,REP,Allen,44
+Platte,4-H Bldg. Fair Grounds 1-6,U.S. Senate,,REP,Enzi,341
+Platte,4-H Bldg. Fair Grounds 1-6,U.S. Senate,,DEM,Corcoran,102
+Platte,4-H Bldg. Fair Grounds 1-6,U.S. House,,REP,Cubin,342
+Platte,4-H Bldg. Fair Grounds 1-6,U.S. House,,DEM,Akin,71
+Platte,4-H Bldg. Fair Grounds 1-6,U.S. House,,DEM,Swett,45
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,REP,Bebout,90
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,REP,Hunkins,265
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,REP,Self,3
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,REP,Sniffin,28
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,REP,Watt,6
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,DEM,Casner,6
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,DEM,Freudenthal,57
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,DEM,Hickey,63
+Platte,4-H Bldg. Fair Grounds 1-6,Governor,,DEM,Simpson,6
+Platte,4-H Bldg. Fair Grounds 1-6,Secretary of State,,REP,Meyer,356
+Platte,4-H Bldg. Fair Grounds 1-6,Secretary of State,,DEM,Fagan,112
+Platte,4-H Bldg. Fair Grounds 1-6,State Auditor,,REP,Maxfield,343
+Platte,4-H Bldg. Fair Grounds 1-6,State Auditor,,DEM,Emmons,56
+Platte,4-H Bldg. Fair Grounds 1-6,State Auditor,,DEM,Harris,110
+Platte,4-H Bldg. Fair Grounds 1-6,State Treasurer,,REP,Lummis,352
+Platte,4-H Bldg. Fair Grounds 1-6,Superintendent of Public Instruction,,REP,Blankenship,75
+Platte,4-H Bldg. Fair Grounds 1-6,Superintendent of Public Instruction,,REP,Mingle,28
+Platte,4-H Bldg. Fair Grounds 1-6,Superintendent of Public Instruction,,REP,Twiford,179
+Platte,4-H Bldg. Fair Grounds 1-6,Superintendent of Public Instruction,,REP,Waring,60
+Platte,4-H Bldg. Fair Grounds 1-6,Superintendent of Public Instruction,,DEM,Shoults,21
+Platte,4-H Bldg. Fair Grounds 1-6,Superintendent of Public Instruction,,DEM,Wiederspahn,43
+Platte,4-H Bldg. Fair Grounds 1-6,State Senate,3,REP,Meier,358
+Platte,4-H Bldg. Fair Grounds 1-6,State House,5,REP,Hageman,341
+Platte,4-H Bldg. Fair Grounds 1-6,Ballots Cast,,REP,Ballots Cast,395
+Platte,4-H Bldg. Fair Grounds 1-6,Ballots Cast,,DEM,Ballots Cast,133
+Platte,Chugwater Comm. Center 10-1,U.S. Senate,,REP,Allen,5
+Platte,Chugwater Comm. Center 10-1,U.S. Senate,,REP,Enzi,93
+Platte,Chugwater Comm. Center 10-1,U.S. Senate,,DEM,Corcoran,17
+Platte,Chugwater Comm. Center 10-1,U.S. House,,REP,Cubin,87
+Platte,Chugwater Comm. Center 10-1,U.S. House,,DEM,Akin,13
+Platte,Chugwater Comm. Center 10-1,U.S. House,,DEM,Swett,4
+Platte,Chugwater Comm. Center 10-1,Governor,,REP,Bebout,28
+Platte,Chugwater Comm. Center 10-1,Governor,,REP,Hunkins,50
+Platte,Chugwater Comm. Center 10-1,Governor,,REP,Self,0
+Platte,Chugwater Comm. Center 10-1,Governor,,REP,Sniffin,13
+Platte,Chugwater Comm. Center 10-1,Governor,,REP,Watt,6
+Platte,Chugwater Comm. Center 10-1,Governor,,DEM,Casner,1
+Platte,Chugwater Comm. Center 10-1,Governor,,DEM,Freudenthal,10
+Platte,Chugwater Comm. Center 10-1,Governor,,DEM,Hickey,7
+Platte,Chugwater Comm. Center 10-1,Governor,,DEM,Simpson,2
+Platte,Chugwater Comm. Center 10-1,Secretary of State,,REP,Meyer,88
+Platte,Chugwater Comm. Center 10-1,Secretary of State,,DEM,Fagan,19
+Platte,Chugwater Comm. Center 10-1,State Auditor,,REP,Maxfield,84
+Platte,Chugwater Comm. Center 10-1,State Auditor,,DEM,Emmons,13
+Platte,Chugwater Comm. Center 10-1,State Auditor,,DEM,Harris,16
+Platte,Chugwater Comm. Center 10-1,State Treasurer,,REP,Lummis,86
+Platte,Chugwater Comm. Center 10-1,Superintendent of Public Instruction,,REP,Blankenship,18
+Platte,Chugwater Comm. Center 10-1,Superintendent of Public Instruction,,REP,Mingle,4
+Platte,Chugwater Comm. Center 10-1,Superintendent of Public Instruction,,REP,Twiford,51
+Platte,Chugwater Comm. Center 10-1,Superintendent of Public Instruction,,REP,Waring,10
+Platte,Chugwater Comm. Center 10-1,Superintendent of Public Instruction,,DEM,Shoults,2
+Platte,Chugwater Comm. Center 10-1,Superintendent of Public Instruction,,DEM,Wiederspahn,4
+Platte,Chugwater Comm. Center 10-1,State House,3,REP,Alden,39
+Platte,Chugwater Comm. Center 10-1,State House,3,REP,Stafford,57
+Platte,Chugwater Comm. Center 10-1,Ballots Cast,,REP,Ballots Cast,99
+Platte,Chugwater Comm. Center 10-1,Ballots Cast,,DEM,Ballots Cast,23
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,REP,Allen,5
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,REP,Enzi,49
+Platte,Glendo Fire Hall 6-1,U.S. Senate,,DEM,Corcoran,63
+Platte,Glendo Fire Hall 6-1,U.S. House,,REP,Cubin,45
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Akin,38
+Platte,Glendo Fire Hall 6-1,U.S. House,,DEM,Swett,23
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Bebout,13
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Hunkins,34
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Self,1
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Sniffin,5
+Platte,Glendo Fire Hall 6-1,Governor,,REP,Watt,1
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Casner,5
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Freudenthal,40
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Hickey,19
+Platte,Glendo Fire Hall 6-1,Governor,,DEM,Simpson,6
+Platte,Glendo Fire Hall 6-1,Secretary of State,,REP,Meyer,49
+Platte,Glendo Fire Hall 6-1,Secretary of State,,DEM,Fagan,60
+Platte,Glendo Fire Hall 6-1,State Auditor,,REP,Maxfield,46
+Platte,Glendo Fire Hall 6-1,State Auditor,,DEM,Emmons,23
+Platte,Glendo Fire Hall 6-1,State Auditor,,DEM,Harris,61
+Platte,Glendo Fire Hall 6-1,State Treasurer,,REP,Lummis,49
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Blankenship,16
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Mingle,3
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Twiford,27
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,REP,Waring,4
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,DEM,Shoults,19
+Platte,Glendo Fire Hall 6-1,Superintendent of Public Instruction,,DEM,Wiederspahn,22
+Platte,Glendo Fire Hall 6-1,State House,3,REP,Alden,20
+Platte,Glendo Fire Hall 6-1,State House,3,REP,Stafford,30
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,REP,Ballots Cast,56
+Platte,Glendo Fire Hall 6-1,Ballots Cast,,DEM,Ballots Cast,70
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,REP,Allen,5
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,REP,Enzi,39
+Platte,Glendo Fire Hall 6-2,U.S. Senate,,DEM,Corcoran,18
+Platte,Glendo Fire Hall 6-2,U.S. House,,REP,Cubin,39
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Akin,9
+Platte,Glendo Fire Hall 6-2,U.S. House,,DEM,Swett,10
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Bebout,12
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Hunkins,28
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Self,0
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Sniffin,5
+Platte,Glendo Fire Hall 6-2,Governor,,REP,Watt,1
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Casner,2
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Freudenthal,13
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Hickey,5
+Platte,Glendo Fire Hall 6-2,Governor,,DEM,Simpson,3
+Platte,Glendo Fire Hall 6-2,Secretary of State,,REP,Meyer,39
+Platte,Glendo Fire Hall 6-2,Secretary of State,,DEM,Fagan,17
+Platte,Glendo Fire Hall 6-2,State Auditor,,REP,Maxfield,35
+Platte,Glendo Fire Hall 6-2,State Auditor,,DEM,Emmons,13
+Platte,Glendo Fire Hall 6-2,State Auditor,,DEM,Harris,18
+Platte,Glendo Fire Hall 6-2,State Treasurer,,REP,Lummis,37
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Blankenship,9
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Mingle,3
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Twiford,19
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,REP,Waring,11
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,DEM,Shoults,2
+Platte,Glendo Fire Hall 6-2,Superintendent of Public Instruction,,DEM,Wiederspahn,7
+Platte,Glendo Fire Hall 6-2,State Senate,3,REP,Meier,35
+Platte,Glendo Fire Hall 6-2,State House,5,REP,Hageman,36
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,REP,Ballots Cast,46
+Platte,Glendo Fire Hall 6-2,Ballots Cast,,DEM,Ballots Cast,23
+Platte,Guernsey Natl. Guard Armory 2-1,U.S. Senate,,REP,Allen,39
+Platte,Guernsey Natl. Guard Armory 2-1,U.S. Senate,,REP,Enzi,174
+Platte,Guernsey Natl. Guard Armory 2-1,U.S. Senate,,DEM,Corcoran,198
+Platte,Guernsey Natl. Guard Armory 2-1,U.S. House,,REP,Cubin,185
+Platte,Guernsey Natl. Guard Armory 2-1,U.S. House,,DEM,Akin,133
+Platte,Guernsey Natl. Guard Armory 2-1,U.S. House,,DEM,Swett,63
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,REP,Bebout,50
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,REP,Hunkins,102
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,REP,Self,9
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,REP,Sniffin,30
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,REP,Watt,18
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,DEM,Casner,23
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,DEM,Freudenthal,113
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,DEM,Hickey,57
+Platte,Guernsey Natl. Guard Armory 2-1,Governor,,DEM,Simpson,26
+Platte,Guernsey Natl. Guard Armory 2-1,Secretary of State,,REP,Meyer,197
+Platte,Guernsey Natl. Guard Armory 2-1,Secretary of State,,DEM,Fagan,211
+Platte,Guernsey Natl. Guard Armory 2-1,State Auditor,,REP,Maxfield,194
+Platte,Guernsey Natl. Guard Armory 2-1,State Auditor,,DEM,Emmons,116
+Platte,Guernsey Natl. Guard Armory 2-1,State Auditor,,DEM,Harris,200
+Platte,Guernsey Natl. Guard Armory 2-1,State Treasurer,,REP,Lummis,187
+Platte,Guernsey Natl. Guard Armory 2-1,Superintendent of Public Instruction,,REP,Blankenship,18
+Platte,Guernsey Natl. Guard Armory 2-1,Superintendent of Public Instruction,,REP,Mingle,3
+Platte,Guernsey Natl. Guard Armory 2-1,Superintendent of Public Instruction,,REP,Twiford,62
+Platte,Guernsey Natl. Guard Armory 2-1,Superintendent of Public Instruction,,REP,Waring,125
+Platte,Guernsey Natl. Guard Armory 2-1,Superintendent of Public Instruction,,DEM,Shoults,41
+Platte,Guernsey Natl. Guard Armory 2-1,Superintendent of Public Instruction,,DEM,Wiederspahn,44
+Platte,Guernsey Natl. Guard Armory 2-1,State Senate,3,REP,Meier,190
+Platte,Guernsey Natl. Guard Armory 2-1,State House,5,REP,Hageman,197
+Platte,Guernsey Natl. Guard Armory 2-1,Ballots Cast,,REP,Ballots Cast,221
+Platte,Guernsey Natl. Guard Armory 2-1,Ballots Cast,,DEM,Ballots Cast,231
+Platte,Hartville City Hall 3-1,U.S. Senate,,REP,Allen,2
+Platte,Hartville City Hall 3-1,U.S. Senate,,REP,Enzi,17
+Platte,Hartville City Hall 3-1,U.S. Senate,,DEM,Corcoran,23
+Platte,Hartville City Hall 3-1,U.S. House,,REP,Cubin,17
+Platte,Hartville City Hall 3-1,U.S. House,,DEM,Akin,14
+Platte,Hartville City Hall 3-1,U.S. House,,DEM,Swett,10
+Platte,Hartville City Hall 3-1,Governor,,REP,Bebout,3
+Platte,Hartville City Hall 3-1,Governor,,REP,Hunkins,16
+Platte,Hartville City Hall 3-1,Governor,,REP,Self,1
+Platte,Hartville City Hall 3-1,Governor,,REP,Sniffin,2
+Platte,Hartville City Hall 3-1,Governor,,REP,Watt,0
+Platte,Hartville City Hall 3-1,Governor,,DEM,Casner,1
+Platte,Hartville City Hall 3-1,Governor,,DEM,Freudenthal,15
+Platte,Hartville City Hall 3-1,Governor,,DEM,Hickey,7
+Platte,Hartville City Hall 3-1,Governor,,DEM,Simpson,1
+Platte,Hartville City Hall 3-1,Secretary of State,,REP,Meyer,20
+Platte,Hartville City Hall 3-1,Secretary of State,,DEM,Fagan,23
+Platte,Hartville City Hall 3-1,State Auditor,,REP,Maxfield,19
+Platte,Hartville City Hall 3-1,State Auditor,,DEM,Emmons,6
+Platte,Hartville City Hall 3-1,State Auditor,,DEM,Harris,21
+Platte,Hartville City Hall 3-1,State Treasurer,,REP,Lummis,18
+Platte,Hartville City Hall 3-1,Superintendent of Public Instruction,,REP,Blankenship,2
+Platte,Hartville City Hall 3-1,Superintendent of Public Instruction,,REP,Mingle,1
+Platte,Hartville City Hall 3-1,Superintendent of Public Instruction,,REP,Twiford,12
+Platte,Hartville City Hall 3-1,Superintendent of Public Instruction,,REP,Waring,5
+Platte,Hartville City Hall 3-1,Superintendent of Public Instruction,,DEM,Shoults,4
+Platte,Hartville City Hall 3-1,Superintendent of Public Instruction,,DEM,Wiederspahn,11
+Platte,Hartville City Hall 3-1,State Senate,3,REP,Meier,20
+Platte,Hartville City Hall 3-1,State House,5,REP,Hageman,19
+Platte,Hartville City Hall 3-1,Ballots Cast,,REP,Ballots Cast,22
+Platte,Hartville City Hall 3-1,Ballots Cast,,DEM,Ballots Cast,24
+Platte,Slater Hall 9-1,U.S. Senate,,REP,Allen,4
+Platte,Slater Hall 9-1,U.S. Senate,,REP,Enzi,36
+Platte,Slater Hall 9-1,U.S. Senate,,DEM,Corcoran,10
+Platte,Slater Hall 9-1,U.S. House,,REP,Cubin,36
+Platte,Slater Hall 9-1,U.S. House,,DEM,Akin,8
+Platte,Slater Hall 9-1,U.S. House,,DEM,Swett,5
+Platte,Slater Hall 9-1,Governor,,REP,Bebout,7
+Platte,Slater Hall 9-1,Governor,,REP,Hunkins,25
+Platte,Slater Hall 9-1,Governor,,REP,Self,0
+Platte,Slater Hall 9-1,Governor,,REP,Sniffin,6
+Platte,Slater Hall 9-1,Governor,,REP,Watt,2
+Platte,Slater Hall 9-1,Governor,,DEM,Casner,0
+Platte,Slater Hall 9-1,Governor,,DEM,Freudenthal,2
+Platte,Slater Hall 9-1,Governor,,DEM,Hickey,11
+Platte,Slater Hall 9-1,Governor,,DEM,Simpson,1
+Platte,Slater Hall 9-1,Secretary of State,,REP,Meyer,36
+Platte,Slater Hall 9-1,Secretary of State,,DEM,Fagan,11
+Platte,Slater Hall 9-1,State Auditor,,REP,Maxfield,34
+Platte,Slater Hall 9-1,State Auditor,,DEM,Emmons,7
+Platte,Slater Hall 9-1,State Auditor,,DEM,Harris,11
+Platte,Slater Hall 9-1,State Treasurer,,REP,Lummis,36
+Platte,Slater Hall 9-1,Superintendent of Public Instruction,,REP,Blankenship,1
+Platte,Slater Hall 9-1,Superintendent of Public Instruction,,REP,Mingle,6
+Platte,Slater Hall 9-1,Superintendent of Public Instruction,,REP,Twiford,27
+Platte,Slater Hall 9-1,Superintendent of Public Instruction,,REP,Waring,2
+Platte,Slater Hall 9-1,Superintendent of Public Instruction,,DEM,Shoults,2
+Platte,Slater Hall 9-1,Superintendent of Public Instruction,,DEM,Wiederspahn,3
+Platte,Slater Hall 9-1,State Senate,3,REP,Meier,36
+Platte,Slater Hall 9-1,State House,5,REP,Hageman,36
+Platte,Slater Hall 9-1,Ballots Cast,,REP,Ballots Cast,40
+Platte,Slater Hall 9-1,Ballots Cast,,DEM,Ballots Cast,15
+Platte,Wheatland Bible Church 12-1,U.S. Senate,,REP,Allen,13
+Platte,Wheatland Bible Church 12-1,U.S. Senate,,REP,Enzi,126
+Platte,Wheatland Bible Church 12-1,U.S. Senate,,DEM,Corcoran,20
+Platte,Wheatland Bible Church 12-1,U.S. House,,REP,Cubin,128
+Platte,Wheatland Bible Church 12-1,U.S. House,,DEM,Akin,12
+Platte,Wheatland Bible Church 12-1,U.S. House,,DEM,Swett,9
+Platte,Wheatland Bible Church 12-1,Governor,,REP,Bebout,35
+Platte,Wheatland Bible Church 12-1,Governor,,REP,Hunkins,95
+Platte,Wheatland Bible Church 12-1,Governor,,REP,Self,0
+Platte,Wheatland Bible Church 12-1,Governor,,REP,Sniffin,10
+Platte,Wheatland Bible Church 12-1,Governor,,REP,Watt,4
+Platte,Wheatland Bible Church 12-1,Governor,,DEM,Casner,0
+Platte,Wheatland Bible Church 12-1,Governor,,DEM,Freudenthal,5
+Platte,Wheatland Bible Church 12-1,Governor,,DEM,Hickey,18
+Platte,Wheatland Bible Church 12-1,Governor,,DEM,Simpson,0
+Platte,Wheatland Bible Church 12-1,Secretary of State,,REP,Meyer,128
+Platte,Wheatland Bible Church 12-1,Secretary of State,,DEM,Fagan,22
+Platte,Wheatland Bible Church 12-1,State Auditor,,REP,Maxfield,124
+Platte,Wheatland Bible Church 12-1,State Auditor,,DEM,Emmons,12
+Platte,Wheatland Bible Church 12-1,State Auditor,,DEM,Harris,21
+Platte,Wheatland Bible Church 12-1,State Treasurer,,REP,Lummis,121
+Platte,Wheatland Bible Church 12-1,Superintendent of Public Instruction,,REP,Blankenship,26
+Platte,Wheatland Bible Church 12-1,Superintendent of Public Instruction,,REP,Mingle,10
+Platte,Wheatland Bible Church 12-1,Superintendent of Public Instruction,,REP,Twiford,71
+Platte,Wheatland Bible Church 12-1,Superintendent of Public Instruction,,REP,Waring,13
+Platte,Wheatland Bible Church 12-1,Superintendent of Public Instruction,,DEM,Shoults,4
+Platte,Wheatland Bible Church 12-1,Superintendent of Public Instruction,,DEM,Wiederspahn,7
+Platte,Wheatland Bible Church 12-1,State House,3,REP,Alden,76
+Platte,Wheatland Bible Church 12-1,State House,3,REP,Stafford,64
+Platte,Wheatland Bible Church 12-1,Ballots Cast,,REP,Ballots Cast,144
+Platte,Wheatland Bible Church 12-1,Ballots Cast,,DEM,Ballots Cast,25
+Platte,Wheatland Jr. High 1-1,U.S. Senate,,REP,Allen,13
+Platte,Wheatland Jr. High 1-1,U.S. Senate,,REP,Enzi,133
+Platte,Wheatland Jr. High 1-1,U.S. Senate,,DEM,Corcoran,69
+Platte,Wheatland Jr. High 1-1,U.S. House,,REP,Cubin,121
+Platte,Wheatland Jr. High 1-1,U.S. House,,DEM,Akin,44
+Platte,Wheatland Jr. High 1-1,U.S. House,,DEM,Swett,29
+Platte,Wheatland Jr. High 1-1,Governor,,REP,Bebout,23
+Platte,Wheatland Jr. High 1-1,Governor,,REP,Hunkins,99
+Platte,Wheatland Jr. High 1-1,Governor,,REP,Self,0
+Platte,Wheatland Jr. High 1-1,Governor,,REP,Sniffin,20
+Platte,Wheatland Jr. High 1-1,Governor,,REP,Watt,9
+Platte,Wheatland Jr. High 1-1,Governor,,DEM,Casner,2
+Platte,Wheatland Jr. High 1-1,Governor,,DEM,Freudenthal,30
+Platte,Wheatland Jr. High 1-1,Governor,,DEM,Hickey,46
+Platte,Wheatland Jr. High 1-1,Governor,,DEM,Simpson,4
+Platte,Wheatland Jr. High 1-1,Secretary of State,,REP,Meyer,138
+Platte,Wheatland Jr. High 1-1,Secretary of State,,DEM,Fagan,67
+Platte,Wheatland Jr. High 1-1,State Auditor,,REP,Maxfield,138
+Platte,Wheatland Jr. High 1-1,State Auditor,,DEM,Emmons,26
+Platte,Wheatland Jr. High 1-1,State Auditor,,DEM,Harris,65
+Platte,Wheatland Jr. High 1-1,State Treasurer,,REP,Lummis,139
+Platte,Wheatland Jr. High 1-1,Superintendent of Public Instruction,,REP,Blankenship,31
+Platte,Wheatland Jr. High 1-1,Superintendent of Public Instruction,,REP,Mingle,5
+Platte,Wheatland Jr. High 1-1,Superintendent of Public Instruction,,REP,Twiford,75
+Platte,Wheatland Jr. High 1-1,Superintendent of Public Instruction,,REP,Waring,22
+Platte,Wheatland Jr. High 1-1,Superintendent of Public Instruction,,DEM,Shoults,13
+Platte,Wheatland Jr. High 1-1,Superintendent of Public Instruction,,DEM,Wiederspahn,35
+Platte,Wheatland Jr. High 1-1,State House,3,REP,Alden,76
+Platte,Wheatland Jr. High 1-1,State House,3,REP,Stafford,70
+Platte,Wheatland Jr. High 1-1,Ballots Cast,,REP,Ballots Cast,152
+Platte,Wheatland Jr. High 1-1,Ballots Cast,,DEM,Ballots Cast,83
+Platte,Wheatland Jr. High 1-2,U.S. Senate,,REP,Allen,14
+Platte,Wheatland Jr. High 1-2,U.S. Senate,,REP,Enzi,174
+Platte,Wheatland Jr. High 1-2,U.S. Senate,,DEM,Corcoran,68
+Platte,Wheatland Jr. High 1-2,U.S. House,,REP,Cubin,151
+Platte,Wheatland Jr. High 1-2,U.S. House,,DEM,Akin,40
+Platte,Wheatland Jr. High 1-2,U.S. House,,DEM,Swett,22
+Platte,Wheatland Jr. High 1-2,Governor,,REP,Bebout,48
+Platte,Wheatland Jr. High 1-2,Governor,,REP,Hunkins,125
+Platte,Wheatland Jr. High 1-2,Governor,,REP,Self,0
+Platte,Wheatland Jr. High 1-2,Governor,,REP,Sniffin,13
+Platte,Wheatland Jr. High 1-2,Governor,,REP,Watt,3
+Platte,Wheatland Jr. High 1-2,Governor,,DEM,Casner,1
+Platte,Wheatland Jr. High 1-2,Governor,,DEM,Freudenthal,24
+Platte,Wheatland Jr. High 1-2,Governor,,DEM,Hickey,50
+Platte,Wheatland Jr. High 1-2,Governor,,DEM,Simpson,3
+Platte,Wheatland Jr. High 1-2,Secretary of State,,REP,Meyer,183
+Platte,Wheatland Jr. High 1-2,Secretary of State,,DEM,Fagan,69
+Platte,Wheatland Jr. High 1-2,State Auditor,,REP,Maxfield,172
+Platte,Wheatland Jr. High 1-2,State Auditor,,DEM,Emmons,38
+Platte,Wheatland Jr. High 1-2,State Auditor,,DEM,Harris,64
+Platte,Wheatland Jr. High 1-2,State Treasurer,,REP,Lummis,173
+Platte,Wheatland Jr. High 1-2,Superintendent of Public Instruction,,REP,Blankenship,40
+Platte,Wheatland Jr. High 1-2,Superintendent of Public Instruction,,REP,Mingle,10
+Platte,Wheatland Jr. High 1-2,Superintendent of Public Instruction,,REP,Twiford,85
+Platte,Wheatland Jr. High 1-2,Superintendent of Public Instruction,,REP,Waring,36
+Platte,Wheatland Jr. High 1-2,Superintendent of Public Instruction,,DEM,Shoults,11
+Platte,Wheatland Jr. High 1-2,Superintendent of Public Instruction,,DEM,Wiederspahn,25
+Platte,Wheatland Jr. High 1-2,State House,3,REP,Alden,109
+Platte,Wheatland Jr. High 1-2,State House,3,REP,Stafford,80
+Platte,Wheatland Jr. High 1-2,Ballots Cast,,REP,Ballots Cast,196
+Platte,Wheatland Jr. High 1-2,Ballots Cast,,DEM,Ballots Cast,83
+Platte,Wheatland Jr. High 1-3,U.S. Senate,,REP,Allen,30
+Platte,Wheatland Jr. High 1-3,U.S. Senate,,REP,Enzi,227
+Platte,Wheatland Jr. High 1-3,U.S. Senate,,DEM,Corcoran,102
+Platte,Wheatland Jr. High 1-3,U.S. House,,REP,Cubin,219
+Platte,Wheatland Jr. High 1-3,U.S. House,,DEM,Akin,62
+Platte,Wheatland Jr. High 1-3,U.S. House,,DEM,Swett,40
+Platte,Wheatland Jr. High 1-3,Governor,,REP,Bebout,55
+Platte,Wheatland Jr. High 1-3,Governor,,REP,Hunkins,172
+Platte,Wheatland Jr. High 1-3,Governor,,REP,Self,4
+Platte,Wheatland Jr. High 1-3,Governor,,REP,Sniffin,28
+Platte,Wheatland Jr. High 1-3,Governor,,REP,Watt,3
+Platte,Wheatland Jr. High 1-3,Governor,,DEM,Casner,3
+Platte,Wheatland Jr. High 1-3,Governor,,DEM,Freudenthal,50
+Platte,Wheatland Jr. High 1-3,Governor,,DEM,Hickey,55
+Platte,Wheatland Jr. High 1-3,Governor,,DEM,Simpson,5
+Platte,Wheatland Jr. High 1-3,Secretary of State,,REP,Meyer,240
+Platte,Wheatland Jr. High 1-3,Secretary of State,,DEM,Fagan,101
+Platte,Wheatland Jr. High 1-3,State Auditor,,REP,Maxfield,228
+Platte,Wheatland Jr. High 1-3,State Auditor,,DEM,Emmons,43
+Platte,Wheatland Jr. High 1-3,State Auditor,,DEM,Harris,100
+Platte,Wheatland Jr. High 1-3,State Treasurer,,REP,Lummis,229
+Platte,Wheatland Jr. High 1-3,Superintendent of Public Instruction,,REP,Blankenship,46
+Platte,Wheatland Jr. High 1-3,Superintendent of Public Instruction,,REP,Mingle,19
+Platte,Wheatland Jr. High 1-3,Superintendent of Public Instruction,,REP,Twiford,133
+Platte,Wheatland Jr. High 1-3,Superintendent of Public Instruction,,REP,Waring,33
+Platte,Wheatland Jr. High 1-3,Superintendent of Public Instruction,,DEM,Shoults,20
+Platte,Wheatland Jr. High 1-3,Superintendent of Public Instruction,,DEM,Wiederspahn,46
+Platte,Wheatland Jr. High 1-3,State House,3,REP,Alden,128
+Platte,Wheatland Jr. High 1-3,State House,3,REP,Stafford,120
+Platte,Wheatland Jr. High 1-3,Ballots Cast,,REP,Ballots Cast,268
+Platte,Wheatland Jr. High 1-3,Ballots Cast,,DEM,Ballots Cast,117
+Platte,Wheatland Jr. High 1-4,U.S. Senate,,REP,Allen,23
+Platte,Wheatland Jr. High 1-4,U.S. Senate,,REP,Enzi,151
+Platte,Wheatland Jr. High 1-4,U.S. Senate,,DEM,Corcoran,60
+Platte,Wheatland Jr. High 1-4,U.S. House,,REP,Cubin,135
+Platte,Wheatland Jr. High 1-4,U.S. House,,DEM,Akin,46
+Platte,Wheatland Jr. High 1-4,U.S. House,,DEM,Swett,14
+Platte,Wheatland Jr. High 1-4,Governor,,REP,Bebout,30
+Platte,Wheatland Jr. High 1-4,Governor,,REP,Hunkins,121
+Platte,Wheatland Jr. High 1-4,Governor,,REP,Self,2
+Platte,Wheatland Jr. High 1-4,Governor,,REP,Sniffin,20
+Platte,Wheatland Jr. High 1-4,Governor,,REP,Watt,4
+Platte,Wheatland Jr. High 1-4,Governor,,DEM,Casner,1
+Platte,Wheatland Jr. High 1-4,Governor,,DEM,Freudenthal,32
+Platte,Wheatland Jr. High 1-4,Governor,,DEM,Hickey,34
+Platte,Wheatland Jr. High 1-4,Governor,,DEM,Simpson,4
+Platte,Wheatland Jr. High 1-4,Secretary of State,,REP,Meyer,162
+Platte,Wheatland Jr. High 1-4,Secretary of State,,DEM,Fagan,59
+Platte,Wheatland Jr. High 1-4,State Auditor,,REP,Maxfield,157
+Platte,Wheatland Jr. High 1-4,State Auditor,,DEM,Emmons,22
+Platte,Wheatland Jr. High 1-4,State Auditor,,DEM,Harris,58
+Platte,Wheatland Jr. High 1-4,State Treasurer,,REP,Lummis,161
+Platte,Wheatland Jr. High 1-4,Superintendent of Public Instruction,,REP,Blankenship,21
+Platte,Wheatland Jr. High 1-4,Superintendent of Public Instruction,,REP,Mingle,12
+Platte,Wheatland Jr. High 1-4,Superintendent of Public Instruction,,REP,Twiford,92
+Platte,Wheatland Jr. High 1-4,Superintendent of Public Instruction,,REP,Waring,36
+Platte,Wheatland Jr. High 1-4,Superintendent of Public Instruction,,DEM,Shoults,11
+Platte,Wheatland Jr. High 1-4,Superintendent of Public Instruction,,DEM,Wiederspahn,30
+Platte,Wheatland Jr. High 1-4,State House,3,REP,Alden,92
+Platte,Wheatland Jr. High 1-4,State House,3,REP,Stafford,84
+Platte,Wheatland Jr. High 1-4,Ballots Cast,,REP,Ballots Cast,180
+Platte,Wheatland Jr. High 1-4,Ballots Cast,,DEM,Ballots Cast,77
+Platte,Wheatland Jr. High 20-1,U.S. Senate,,REP,Allen,15
+Platte,Wheatland Jr. High 20-1,U.S. Senate,,REP,Enzi,198
+Platte,Wheatland Jr. High 20-1,U.S. Senate,,DEM,Corcoran,55
+Platte,Wheatland Jr. High 20-1,U.S. House,,REP,Cubin,173
+Platte,Wheatland Jr. High 20-1,U.S. House,,DEM,Akin,28
+Platte,Wheatland Jr. High 20-1,U.S. House,,DEM,Swett,25
+Platte,Wheatland Jr. High 20-1,Governor,,REP,Bebout,32
+Platte,Wheatland Jr. High 20-1,Governor,,REP,Hunkins,151
+Platte,Wheatland Jr. High 20-1,Governor,,REP,Self,2
+Platte,Wheatland Jr. High 20-1,Governor,,REP,Sniffin,21
+Platte,Wheatland Jr. High 20-1,Governor,,REP,Watt,6
+Platte,Wheatland Jr. High 20-1,Governor,,DEM,Casner,0
+Platte,Wheatland Jr. High 20-1,Governor,,DEM,Freudenthal,31
+Platte,Wheatland Jr. High 20-1,Governor,,DEM,Hickey,37
+Platte,Wheatland Jr. High 20-1,Governor,,DEM,Simpson,2
+Platte,Wheatland Jr. High 20-1,Secretary of State,,REP,Meyer,192
+Platte,Wheatland Jr. High 20-1,Secretary of State,,DEM,Fagan,61
+Platte,Wheatland Jr. High 20-1,State Auditor,,REP,Maxfield,189
+Platte,Wheatland Jr. High 20-1,State Auditor,,DEM,Emmons,27
+Platte,Wheatland Jr. High 20-1,State Auditor,,DEM,Harris,55
+Platte,Wheatland Jr. High 20-1,State Treasurer,,REP,Lummis,191
+Platte,Wheatland Jr. High 20-1,Superintendent of Public Instruction,,REP,Blankenship,53
+Platte,Wheatland Jr. High 20-1,Superintendent of Public Instruction,,REP,Mingle,11
+Platte,Wheatland Jr. High 20-1,Superintendent of Public Instruction,,REP,Twiford,92
+Platte,Wheatland Jr. High 20-1,Superintendent of Public Instruction,,REP,Waring,31
+Platte,Wheatland Jr. High 20-1,Superintendent of Public Instruction,,DEM,Shoults,17
+Platte,Wheatland Jr. High 20-1,Superintendent of Public Instruction,,DEM,Wiederspahn,20
+Platte,Wheatland Jr. High 20-1,State House,3,REP,Alden,124
+Platte,Wheatland Jr. High 20-1,State House,3,REP,Stafford,84
+Platte,Wheatland Jr. High 20-1,Ballots Cast,,REP,Ballots Cast,215
+Platte,Wheatland Jr. High 20-1,Ballots Cast,,DEM,Ballots Cast,73

@@ -1,0 +1,161 @@
+county,precinct,office,district,party,candidate,votes
+Sublette,Big Piney 2-1,U.S. Senate,,REP,Enzi,389
+Sublette,Big Piney 2-1,U.S. Senate,,DEM,Akin,79
+Sublette,Big Piney 2-1,U.S. Senate,,DEM,Corcoran,53
+Sublette,Big Piney 2-1,U.S. House,,REP,Cubin,341
+Sublette,Big Piney 2-1,U.S. House,,LIB,Stock,13
+Sublette,Big Piney 2-1,Governor,,REP,Bebout,292
+Sublette,Big Piney 2-1,Governor,,DEM,Freudenthal,144
+Sublette,Big Piney 2-1,Governor,,LIB,Brossman,33
+Sublette,Big Piney 2-1,Governor,,LIB,Dawson,6
+Sublette,Big Piney 2-1,Secretary of State,,REP,Meyer,379
+Sublette,Big Piney 2-1,State Auditor,,REP,Maxfield,337
+Sublette,Big Piney 2-1,State Auditor,,DEM,Harris,78
+Sublette,Big Piney 2-1,State Treasurer,,REP,Lummis,389
+Sublette,Big Piney 2-1,Superintendent of Public Instruction,,REP,Blankenship,290
+Sublette,Big Piney 2-1,Superintendent of Public Instruction,,DEM,Emmons,135
+Sublette,Big Piney 2-1,State House,20,REP,Cooper,401
+Sublette,Big Piney 2-1,Ballots Cast,,,Ballots Cast,459
+Sublette,Bondurant 5-1,U.S. Senate,,REP,Enzi,92
+Sublette,Bondurant 5-1,U.S. Senate,,DEM,Akin,42
+Sublette,Bondurant 5-1,U.S. Senate,,DEM,Corcoran,37
+Sublette,Bondurant 5-1,U.S. House,,REP,Cubin,89
+Sublette,Bondurant 5-1,U.S. House,,LIB,Stock,1
+Sublette,Bondurant 5-1,Governor,,REP,Bebout,68
+Sublette,Bondurant 5-1,Governor,,DEM,Freudenthal,62
+Sublette,Bondurant 5-1,Governor,,LIB,Brossman,15
+Sublette,Bondurant 5-1,Governor,,LIB,Dawson,3
+Sublette,Bondurant 5-1,Secretary of State,,REP,Meyer,94
+Sublette,Bondurant 5-1,State Auditor,,REP,Maxfield,75
+Sublette,Bondurant 5-1,State Auditor,,DEM,Harris,50
+Sublette,Bondurant 5-1,State Treasurer,,REP,Lummis,99
+Sublette,Bondurant 5-1,Superintendent of Public Instruction,,REP,Blankenship,73
+Sublette,Bondurant 5-1,Superintendent of Public Instruction,,DEM,Emmons,55
+Sublette,Bondurant 5-1,State House,22,REP,Olsen,92
+Sublette,Bondurant 5-1,State House,22,DEM,Gosar,36
+Sublette,Bondurant 5-1,Ballots Cast,,,Ballots Cast,136
+Sublette,Boulder 1-4,U.S. Senate,,REP,Enzi,182
+Sublette,Boulder 1-4,U.S. Senate,,DEM,Akin,36
+Sublette,Boulder 1-4,U.S. Senate,,DEM,Corcoran,30
+Sublette,Boulder 1-4,U.S. House,,REP,Cubin,167
+Sublette,Boulder 1-4,U.S. House,,LIB,Stock,5
+Sublette,Boulder 1-4,Governor,,REP,Bebout,130
+Sublette,Boulder 1-4,Governor,,DEM,Freudenthal,80
+Sublette,Boulder 1-4,Governor,,LIB,Brossman,27
+Sublette,Boulder 1-4,Governor,,LIB,Dawson,2
+Sublette,Boulder 1-4,Secretary of State,,REP,Meyer,171
+Sublette,Boulder 1-4,State Auditor,,REP,Maxfield,162
+Sublette,Boulder 1-4,State Auditor,,DEM,Harris,37
+Sublette,Boulder 1-4,State Treasurer,,REP,Lummis,183
+Sublette,Boulder 1-4,Superintendent of Public Instruction,,REP,Blankenship,142
+Sublette,Boulder 1-4,Superintendent of Public Instruction,,DEM,Emmons,70
+Sublette,Boulder 1-4,State House,22,REP,Olsen,173
+Sublette,Boulder 1-4,State House,22,DEM,Gosar,41
+Sublette,Boulder 1-4,Ballots Cast,,,Ballots Cast,223
+Sublette,Cora 4-1,U.S. Senate,,REP,Enzi,146
+Sublette,Cora 4-1,U.S. Senate,,DEM,Akin,42
+Sublette,Cora 4-1,U.S. Senate,,DEM,Corcoran,33
+Sublette,Cora 4-1,U.S. House,,REP,Cubin,129
+Sublette,Cora 4-1,U.S. House,,LIB,Stock,9
+Sublette,Cora 4-1,Governor,,REP,Bebout,111
+Sublette,Cora 4-1,Governor,,DEM,Freudenthal,65
+Sublette,Cora 4-1,Governor,,LIB,Brossman,19
+Sublette,Cora 4-1,Governor,,LIB,Dawson,3
+Sublette,Cora 4-1,Secretary of State,,REP,Meyer,148
+Sublette,Cora 4-1,State Auditor,,REP,Maxfield,128
+Sublette,Cora 4-1,State Auditor,,DEM,Harris,36
+Sublette,Cora 4-1,State Treasurer,,REP,Lummis,155
+Sublette,Cora 4-1,Superintendent of Public Instruction,,REP,Blankenship,120
+Sublette,Cora 4-1,Superintendent of Public Instruction,,DEM,Emmons,51
+Sublette,Cora 4-1,State House,22,REP,Olsen,143
+Sublette,Cora 4-1,State House,22,DEM,Gosar,36
+Sublette,Cora 4-1,Ballots Cast,,,Ballots Cast,184
+Sublette,Daniel 4-2,U.S. Senate,,REP,Enzi,155
+Sublette,Daniel 4-2,U.S. Senate,,DEM,Akin,20
+Sublette,Daniel 4-2,U.S. Senate,,DEM,Corcoran,19
+Sublette,Daniel 4-2,U.S. House,,REP,Cubin,151
+Sublette,Daniel 4-2,U.S. House,,LIB,Stock,4
+Sublette,Daniel 4-2,Governor,,REP,Bebout,123
+Sublette,Daniel 4-2,Governor,,DEM,Freudenthal,52
+Sublette,Daniel 4-2,Governor,,LIB,Brossman,12
+Sublette,Daniel 4-2,Governor,,LIB,Dawson,2
+Sublette,Daniel 4-2,Secretary of State,,REP,Meyer,152
+Sublette,Daniel 4-2,State Auditor,,REP,Maxfield,151
+Sublette,Daniel 4-2,State Auditor,,DEM,Harris,17
+Sublette,Daniel 4-2,State Treasurer,,REP,Lummis,158
+Sublette,Daniel 4-2,Superintendent of Public Instruction,,REP,Blankenship,133
+Sublette,Daniel 4-2,Superintendent of Public Instruction,,DEM,Emmons,37
+Sublette,Daniel 4-2,State House,22,REP,Olsen,151
+Sublette,Daniel 4-2,State House,22,DEM,Gosar,29
+Sublette,Daniel 4-2,Ballots Cast,,,Ballots Cast,182
+Sublette,Marbleton 2-2,U.S. Senate,,REP,Enzi,212
+Sublette,Marbleton 2-2,U.S. Senate,,DEM,Akin,52
+Sublette,Marbleton 2-2,U.S. Senate,,DEM,Corcoran,35
+Sublette,Marbleton 2-2,U.S. House,,REP,Cubin,186
+Sublette,Marbleton 2-2,U.S. House,,LIB,Stock,5
+Sublette,Marbleton 2-2,Governor,,REP,Bebout,157
+Sublette,Marbleton 2-2,Governor,,DEM,Freudenthal,85
+Sublette,Marbleton 2-2,Governor,,LIB,Brossman,25
+Sublette,Marbleton 2-2,Governor,,LIB,Dawson,3
+Sublette,Marbleton 2-2,Secretary of State,,REP,Meyer,201
+Sublette,Marbleton 2-2,State Auditor,,REP,Maxfield,188
+Sublette,Marbleton 2-2,State Auditor,,DEM,Harris,43
+Sublette,Marbleton 2-2,State Treasurer,,REP,Lummis,212
+Sublette,Marbleton 2-2,Superintendent of Public Instruction,,REP,Blankenship,166
+Sublette,Marbleton 2-2,Superintendent of Public Instruction,,DEM,Emmons,73
+Sublette,Marbleton 2-2,State House,20,REP,Cooper,227
+Sublette,Marbleton 2-2,Ballots Cast,,,Ballots Cast,251
+Sublette,Marbleton North 2-4,U.S. Senate,,REP,Enzi,57
+Sublette,Marbleton North 2-4,U.S. Senate,,DEM,Akin,7
+Sublette,Marbleton North 2-4,U.S. Senate,,DEM,Corcoran,8
+Sublette,Marbleton North 2-4,U.S. House,,REP,Cubin,56
+Sublette,Marbleton North 2-4,U.S. House,,LIB,Stock,3
+Sublette,Marbleton North 2-4,Governor,,REP,Bebout,51
+Sublette,Marbleton North 2-4,Governor,,DEM,Freudenthal,15
+Sublette,Marbleton North 2-4,Governor,,LIB,Brossman,4
+Sublette,Marbleton North 2-4,Governor,,LIB,Dawson,1
+Sublette,Marbleton North 2-4,Secretary of State,,REP,Meyer,57
+Sublette,Marbleton North 2-4,State Auditor,,REP,Maxfield,53
+Sublette,Marbleton North 2-4,State Auditor,,DEM,Harris,11
+Sublette,Marbleton North 2-4,State Treasurer,,REP,Lummis,58
+Sublette,Marbleton North 2-4,Superintendent of Public Instruction,,REP,Blankenship,52
+Sublette,Marbleton North 2-4,Superintendent of Public Instruction,,DEM,Emmons,14
+Sublette,Marbleton North 2-4,State House,22,REP,Olsen,47
+Sublette,Marbleton North 2-4,State House,22,DEM,Gosar,17
+Sublette,Marbleton North 2-4,Ballots Cast,,,Ballots Cast,67
+Sublette,Pinedale 1-1,U.S. Senate,,REP,Enzi,508
+Sublette,Pinedale 1-1,U.S. Senate,,DEM,Akin,187
+Sublette,Pinedale 1-1,U.S. Senate,,DEM,Corcoran,144
+Sublette,Pinedale 1-1,U.S. House,,REP,Cubin,433
+Sublette,Pinedale 1-1,U.S. House,,LIB,Stock,29
+Sublette,Pinedale 1-1,Governor,,REP,Bebout,322
+Sublette,Pinedale 1-1,Governor,,DEM,Freudenthal,325
+Sublette,Pinedale 1-1,Governor,,LIB,Brossman,79
+Sublette,Pinedale 1-1,Governor,,LIB,Dawson,15
+Sublette,Pinedale 1-1,Secretary of State,,REP,Meyer,507
+Sublette,Pinedale 1-1,State Auditor,,REP,Maxfield,460
+Sublette,Pinedale 1-1,State Auditor,,DEM,Harris,177
+Sublette,Pinedale 1-1,State Treasurer,,REP,Lummis,546
+Sublette,Pinedale 1-1,Superintendent of Public Instruction,,REP,Blankenship,368
+Sublette,Pinedale 1-1,Superintendent of Public Instruction,,DEM,Emmons,276
+Sublette,Pinedale 1-1,State House,22,REP,Olsen,483
+Sublette,Pinedale 1-1,State House,22,DEM,Gosar,174
+Sublette,Pinedale 1-1,Ballots Cast,,,Ballots Cast,685
+Sublette,Pinedale West 1-3,U.S. Senate,,REP,Enzi,405
+Sublette,Pinedale West 1-3,U.S. Senate,,DEM,Akin,112
+Sublette,Pinedale West 1-3,U.S. Senate,,DEM,Corcoran,79
+Sublette,Pinedale West 1-3,U.S. House,,REP,Cubin,352
+Sublette,Pinedale West 1-3,U.S. House,,LIB,Stock,17
+Sublette,Pinedale West 1-3,Governor,,REP,Bebout,285
+Sublette,Pinedale West 1-3,Governor,,DEM,Freudenthal,197
+Sublette,Pinedale West 1-3,Governor,,LIB,Brossman,50
+Sublette,Pinedale West 1-3,Governor,,LIB,Dawson,11
+Sublette,Pinedale West 1-3,Secretary of State,,REP,Meyer,401
+Sublette,Pinedale West 1-3,State Auditor,,REP,Maxfield,386
+Sublette,Pinedale West 1-3,State Auditor,,DEM,Harris,80
+Sublette,Pinedale West 1-3,State Treasurer,,REP,Lummis,422
+Sublette,Pinedale West 1-3,Superintendent of Public Instruction,,REP,Blankenship,307
+Sublette,Pinedale West 1-3,Superintendent of Public Instruction,,DEM,Emmons,170
+Sublette,Pinedale West 1-3,State House,22,REP,Olsen,368
+Sublette,Pinedale West 1-3,State House,22,DEM,Gosar,121
+Sublette,Pinedale West 1-3,Ballots Cast,,,Ballots Cast,506

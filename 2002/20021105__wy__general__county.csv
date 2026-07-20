@@ -1,0 +1,515 @@
+county,office,district,party,candidate,votes
+Albany,U.S. Senate,,REP,Enzi,7017
+Albany,U.S. Senate,,DEM,Akin,5138
+Albany,U.S. Senate,,DEM,Corcoran,4218
+Albany,U.S. House,,REP,Cubin,5639
+Albany,U.S. House,,LIB,Stock,408
+Albany,Governor,,REP,Bebout,4404
+Albany,Governor,,DEM,Freudenthal,6772
+Albany,Governor,,LIB,Brossman,2132
+Albany,Governor,,LIB,Dawson,205
+Albany,Secretary of State,,REP,Meyer,7857
+Albany,State Auditor,,REP,Maxfield,6488
+Albany,State Auditor,,DEM,Harris,4348
+Albany,State Treasurer,,REP,Lummis,8723
+Albany,Superintendent of Public Instruction,,REP,Blankenship,4833
+Albany,Superintendent of Public Instruction,,DEM,Emmons,6089
+Albany,State Senate,9,DEM,Massie,3797
+Albany,State Senate,11,REP,Hicks,72
+Albany,State Senate,11,DEM,Vasey,47
+Albany,State House,13,REP,Shumway,835
+Albany,State House,13,DEM,Warren,1593
+Albany,State House,14,REP,Nicholas,1519
+Albany,State House,14,DEM,Moore,958
+Albany,State House,45,DEM,Johnson,1823
+Albany,State House,46,REP,Slater,2878
+Albany,State House,47,REP,Bucholz,103
+Albany,Ballots Cast,,,Ballots Cast,11513
+Big Horn,U.S. Senate,,REP,Enzi,3406
+Big Horn,U.S. Senate,,DEM,Akin,895
+Big Horn,U.S. Senate,,DEM,Corcoran,736
+Big Horn,U.S. House,,REP,Cubin,3016
+Big Horn,U.S. House,,LIB,Stock,175
+Big Horn,Governor,,REP,Bebout,2579
+Big Horn,Governor,,DEM,Freudenthal,1438
+Big Horn,Governor,,LIB,Brossman,602
+Big Horn,Governor,,LIB,Dawson,161
+Big Horn,Secretary of State,,REP,Meyer,3204
+Big Horn,State Auditor,,REP,Maxfield,3187
+Big Horn,State Auditor,,DEM,Harris,771
+Big Horn,State Treasurer,,REP,Lummis,3657
+Big Horn,Superintendent of Public Instruction,,REP,Blankenship,2415
+Big Horn,Superintendent of Public Instruction,,DEM,Emmons,1562
+Big Horn,State Senate,19,REP,Northrup,2489
+Big Horn,State House,26,REP,Harvey,2384
+Big Horn,State House,26,LIB,Garrison,411
+Big Horn,State House,28,REP,Baker,1049
+Big Horn,Ballots Cast,,,Ballots Cast,4316
+Campbell,U.S. Senate,,REP,Enzi,8938
+Campbell,U.S. Senate,,DEM,Akin,1964
+Campbell,U.S. Senate,,DEM,Corcoran,1302
+Campbell,U.S. House,,REP,Cubin,7828
+Campbell,U.S. House,,LIB,Stock,298
+Campbell,Governor,,REP,Bebout,6501
+Campbell,Governor,,DEM,Freudenthal,3498
+Campbell,Governor,,LIB,Brossman,1288
+Campbell,Governor,,LIB,Dawson,235
+Campbell,Secretary of State,,REP,Meyer,8421
+Campbell,State Auditor,,REP,Maxfield,7872
+Campbell,State Auditor,,DEM,Harris,2042
+Campbell,State Treasurer,,REP,Lummis,9109
+Campbell,Superintendent of Public Instruction,,REP,Blankenship,6780
+Campbell,Superintendent of Public Instruction,,DEM,Emmons,3177
+Campbell,State Senate,23,REP,Hines,4780
+Campbell,State House,31,REP,Jansen,2496
+Campbell,State House,32,REP,Wasserburger,2246
+Campbell,State House,32,DEM,Jenniges,410
+Campbell,State House,52,REP,McMurtrey,2203
+Campbell,State House,53,REP,Latta,1344
+Campbell,State House,53,DEM,Warfield,844
+Campbell,Ballots Cast,,,Ballots Cast,10403
+Carbon,U.S. Senate,,REP,Enzi,4091
+Carbon,U.S. Senate,,DEM,Corcoran,1860
+Carbon,U.S. House,,REP,Cubin,3409
+Carbon,U.S. House,,DEM,Akin,2286
+Carbon,U.S. House,,LIB,Stock,234
+Carbon,Governor,,REP,Bebout,2345
+Carbon,Governor,,DEM,Freudenthal,3493
+Carbon,Governor,,LIB,Brossman,1435
+Carbon,Governor,,LIB,Dawson,148
+Carbon,Secretary of State,,REP,Meyer,4122
+Carbon,State Auditor,,REP,Maxfield,3505
+Carbon,State Auditor,,DEM,Harris,2317
+Carbon,State Treasurer,,REP,Lummis,4935
+Carbon,Superintendent of Public Instruction,,REP,Blankenship,2025
+Carbon,Superintendent of Public Instruction,,DEM,Emmons,3814
+Carbon,State Senate,11,REP,Hicks,2406
+Carbon,State Senate,11,DEM,Vasey,3530
+Carbon,State House,15,REP,Rader,1418
+Carbon,State House,15,DEM,Bagby,1446
+Carbon,State House,47,REP,Bucholz,2542
+Carbon,Ballots Cast,,,Ballots Cast,6059
+Converse,U.S. Senate,,REP,Enzi,3520
+Converse,U.S. Senate,,DEM,Corcoran,926
+Converse,U.S. House,,REP,Cubin,2805
+Converse,U.S. House,,DEM,Akin,1424
+Converse,U.S. House,,LIB,Stock,209
+Converse,Governor,,REP,Bebout,2281
+Converse,Governor,,DEM,Freudenthal,2092
+Converse,Governor,,LIB,Brossman,640
+Converse,Governor,,LIB,Dawson,98
+Converse,Secretary of State,,REP,Meyer,3664
+Converse,State Auditor,,REP,Maxfield,3251
+Converse,State Auditor,,DEM,Harris,1158
+Converse,State Treasurer,,REP,Lummis,3952
+Converse,Superintendent of Public Instruction,,REP,Blankenship,2546
+Converse,Superintendent of Public Instruction,,DEM,Emmons,1868
+Converse,State Senate,1,REP,Barton,252
+Converse,State House,2,REP,ZumBrunnen,204
+Converse,State House,2,DEM,Diercks,70
+Converse,State House,3,REP,Alden,984
+Converse,State House,6,REP,Edwards,2529
+Converse,Ballots Cast,,,Ballots Cast,4536
+Crook,U.S. Senate,,REP,Enzi,2440
+Crook,U.S. Senate,,DEM,Akin,505
+Crook,U.S. Senate,,DEM,Corcoran,379
+Crook,U.S. House,,REP,Cubin,2225
+Crook,U.S. House,,LIB,Stock,80
+Crook,Governor,,REP,Bebout,1807
+Crook,Governor,,DEM,Freudenthal,931
+Crook,Governor,,LIB,Brossman,311
+Crook,Governor,,LIB,Dawson,81
+Crook,Secretary of State,,REP,Meyer,2368
+Crook,State Auditor,,REP,Maxfield,2129
+Crook,State Auditor,,DEM,Harris,594
+Crook,State Treasurer,,REP,Lummis,2496
+Crook,Superintendent of Public Instruction,,REP,Blankenship,1925
+Crook,Superintendent of Public Instruction,,DEM,Emmons,805
+Crook,State Senate,1,REP,Barton,2508
+Crook,State House,1,,Semlek -R,2533
+Crook,Ballots Cast,,,Ballots Cast,2873
+Fremont,U.S. Senate,,REP,Enzi,10262
+Fremont,U.S. Senate,,DEM,Corcoran,3384
+Fremont,U.S. House,,REP,Cubin,8412
+Fremont,U.S. House,,DEM,Akin,4713
+Fremont,U.S. House,,LIB,Stock,409
+Fremont,Governor,,REP,Bebout,8108
+Fremont,Governor,,DEM,Freudenthal,5500
+Fremont,Governor,,LIB,Brossman,1907
+Fremont,Governor,,LIB,Dawson,258
+Fremont,Secretary of State,,REP,Meyer,10725
+Fremont,State Auditor,,REP,Maxfield,9321
+Fremont,State Auditor,,DEM,Harris,4056
+Fremont,State Treasurer,,REP,Lummis,11475
+Fremont,Superintendent of Public Instruction,,REP,Blankenship,7833
+Fremont,Superintendent of Public Instruction,,DEM,Emmons,5662
+Fremont,State Senate,17,REP,Larson,798
+Fremont,State Senate,25,REP,Case,4879
+Fremont,State House,23,REP,Law,783
+Fremont,State House,33,REP,Tipton,1303
+Fremont,State House,33,DEM,Kennedy,844
+Fremont,State House,34,REP,Philp,2832
+Fremont,State House,48,REP,Stith,33
+Fremont,State House,48,DEM,Martin,13
+Fremont,State House,54,REP,McOmie,3302
+Fremont,State House,55,REP,Miller,2745
+Fremont,Ballots Cast,,,Ballots Cast,13988
+Goshen,U.S. Senate,,REP,Enzi,3555
+Goshen,U.S. Senate,,DEM,Corcoran,1108
+Goshen,U.S. House,,REP,Cubin,3173
+Goshen,U.S. House,,DEM,Akin,1339
+Goshen,U.S. House,,LIB,Stock,111
+Goshen,Governor,,REP,Bebout,2718
+Goshen,Governor,,DEM,Freudenthal,1893
+Goshen,Governor,,LIB,Brossman,553
+Goshen,Governor,,LIB,Dawson,82
+Goshen,Secretary of State,,REP,Meyer,3885
+Goshen,State Auditor,,REP,Maxfield,3412
+Goshen,State Auditor,,DEM,Harris,1217
+Goshen,State Treasurer,,REP,Lummis,4124
+Goshen,Superintendent of Public Instruction,,REP,Blankenship,2712
+Goshen,Superintendent of Public Instruction,,DEM,Emmons,1890
+Goshen,State Senate,1,REP,Barton,83
+Goshen,State Senate,3,REP,Meier,4018
+Goshen,State House,2,REP,ZumBrunnen,61
+Goshen,State House,2,DEM,Diercks,31
+Goshen,State House,4,REP,Buchanan,2659
+Goshen,State House,5,REP,Hageman,1345
+Goshen,Ballots Cast,,,Ballots Cast,4800
+Hot Springs,U.S. Senate,,REP,Enzi,1503
+Hot Springs,U.S. Senate,,DEM,Corcoran,399
+Hot Springs,U.S. House,,REP,Cubin,1273
+Hot Springs,U.S. House,,DEM,Akin,598
+Hot Springs,U.S. House,,LIB,Stock,50
+Hot Springs,Governor,,REP,Bebout,942
+Hot Springs,Governor,,DEM,Freudenthal,1212
+Hot Springs,Governor,,LIB,Brossman,128
+Hot Springs,Governor,,LIB,Dawson,27
+Hot Springs,Secretary of State,,REP,Meyer,1382
+Hot Springs,State Auditor,,REP,Maxfield,1426
+Hot Springs,State Auditor,,DEM,Harris,500
+Hot Springs,State Treasurer,,REP,Lummis,1505
+Hot Springs,Superintendent of Public Instruction,,REP,Blankenship,1083
+Hot Springs,Superintendent of Public Instruction,,DEM,Emmons,864
+Hot Springs,State House,28,REP,Baker,1530
+Hot Springs,Ballots Cast,,,Ballots Cast,2228
+Johnson,U.S. Senate,,REP,Enzi,2540
+Johnson,U.S. Senate,,DEM,Akin,658
+Johnson,U.S. Senate,,DEM,Corcoran,407
+Johnson,U.S. House,,REP,Cubin,2278
+Johnson,U.S. House,,LIB,Stock,58
+Johnson,Governor,,REP,Bebout,1829
+Johnson,Governor,,DEM,Freudenthal,1263
+Johnson,Governor,,LIB,Brossman,148
+Johnson,Governor,,LIB,Dawson,48
+Johnson,Secretary of State,,REP,Meyer,2451
+Johnson,State Auditor,,REP,Maxfield,2421
+Johnson,State Auditor,,DEM,Harris,514
+Johnson,State Treasurer,,REP,Lummis,2536
+Johnson,Superintendent of Public Instruction,,REP,Blankenship,1911
+Johnson,Superintendent of Public Instruction,,DEM,Emmons,1048
+Johnson,State House,40,REP,Osborn,2643
+Johnson,Ballots Cast,,,Ballots Cast,3208
+Laramie,U.S. Senate,,REP,Enzi,21169
+Laramie,U.S. Senate,,DEM,Akin,13193
+Laramie,U.S. Senate,,DEM,Corcoran,9034
+Laramie,U.S. House,,REP,Cubin,16013
+Laramie,U.S. House,,LIB,Stock,781
+Laramie,Governor,,REP,Bebout,11487
+Laramie,Governor,,DEM,Freudenthal,18563
+Laramie,Governor,,LIB,Brossman,5260
+Laramie,Governor,,LIB,Dawson,385
+Laramie,Secretary of State,,REP,Meyer,23185
+Laramie,State Auditor,,REP,Maxfield,19320
+Laramie,State Auditor,,DEM,Harris,10458
+Laramie,State Treasurer,,REP,Lummis,25104
+Laramie,Superintendent of Public Instruction,,REP,Blankenship,13925
+Laramie,Superintendent of Public Instruction,,DEM,Emmons,15954
+Laramie,State Senate,5,REP,Hanes,5080
+Laramie,State Senate,7,,Sessions- D,4307
+Laramie,State House,7,REP,Ross,3389
+Laramie,State House,8,REP,Meuli,2184
+Laramie,State House,8,DEM,Sullivan,1816
+Laramie,State House,9,REP,Johnson,2581
+Laramie,State House,10,REP,Anderson,2862
+Laramie,State House,11,REP,D. Lummis,1245
+Laramie,State House,11,DEM,Reese,1534
+Laramie,State House,12,REP,Campbell,957
+Laramie,State House,12,DEM,Morgan,1283
+Laramie,State House,41,REP,Hinckley,1608
+Laramie,State House,41,DEM,Castaneda,1553
+Laramie,State House,42,REP,Illoway,1656
+Laramie,State House,42,IND,Pinther,544
+Laramie,State House,43,REP,Prosser,1328
+Laramie,State House,43,DEM,Beaver,1213
+Laramie,State House,44,REP,Roybal,749
+Laramie,State House,44,DEM,Esquibel,1394
+Laramie,Ballots Cast,,,Ballots Cast,30691
+Lincoln,U.S. Senate,,REP,Enzi,4319
+Lincoln,U.S. Senate,,DEM,Akin,1454
+Lincoln,U.S. Senate,,DEM,Corcoran,1204
+Lincoln,U.S. House,,REP,Cubin,3836
+Lincoln,U.S. House,,LIB,Stock,214
+Lincoln,Governor,,REP,Bebout,3520
+Lincoln,Governor,,DEM,Freudenthal,1887
+Lincoln,Governor,,LIB,Brossman,712
+Lincoln,Governor,,LIB,Dawson,139
+Lincoln,Secretary of State,,REP,Meyer,4468
+Lincoln,State Auditor,,REP,Maxfield,4044
+Lincoln,State Auditor,,DEM,Harris,1366
+Lincoln,State Treasurer,,REP,Lummis,4802
+Lincoln,Superintendent of Public Instruction,,REP,Blankenship,3448
+Lincoln,Superintendent of Public Instruction,,DEM,Emmons,1929
+Lincoln,State House,20,REP,Cooper,1739
+Lincoln,State House,21,REP,Luthi,2836
+Lincoln,State House,22,REP,Olsen,233
+Lincoln,State House,22,DEM,Gosar,79
+Lincoln,Ballots Cast,,,Ballots Cast,5632
+Natrona,U.S. Senate,,REP,Enzi,16229
+Natrona,U.S. Senate,,DEM,Akin,11181
+Natrona,U.S. Senate,,DEM,Corcoran,7106
+Natrona,U.S. House,,REP,Cubin,11182
+Natrona,U.S. House,,LIB,Stock,861
+Natrona,Governor,,REP,Bebout,9825
+Natrona,Governor,,DEM,Freudenthal,13175
+Natrona,Governor,,LIB,Brossman,4254
+Natrona,Governor,,LIB,Dawson,610
+Natrona,Secretary of State,,REP,Meyer,17303
+Natrona,State Auditor,,REP,Maxfield,14513
+Natrona,State Auditor,,DEM,Harris,8468
+Natrona,State Treasurer,,REP,Lummis,19082
+Natrona,Superintendent of Public Instruction,,REP,Blankenship,11241
+Natrona,Superintendent of Public Instruction,,DEM,Emmons,11821
+Natrona,State Senate,27,REP,Barrasso,5021
+Natrona,State Senate,29,REP,Hawks,5017
+Natrona,State House,35,REP,Cohee,2726
+Natrona,State House,36,REP,Tanner,1460
+Natrona,State House,36,DEM,Gentile,1461
+Natrona,State House,37,REP,Harshman,2321
+Natrona,State House,37,DEM,Koch,1408
+Natrona,State House,38,REP,Brechtel,1405
+Natrona,State House,38,DEM,Berry,1084
+Natrona,State House,56,REP,Walsh,1344
+Natrona,State House,56,DEM,Mahaffey,1003
+Natrona,State House,57,REP,Lockhart,1240
+Natrona,State House,57,DEM,Bullard,1049
+Natrona,State House,58,DEM,Robinson,1452
+Natrona,State House,59,REP,Dorsett,940
+Natrona,State House,59,DEM,Gilmore,1575
+Natrona,Ballots Cast,,,Ballots Cast,23838
+Niobrara,U.S. Senate,,REP,Enzi,1036
+Niobrara,U.S. Senate,,DEM,Akin,255
+Niobrara,U.S. Senate,,DEM,Corcoran,169
+Niobrara,U.S. House,,REP,Cubin,904
+Niobrara,U.S. House,,LIB,Stock,35
+Niobrara,Governor,,REP,Bebout,774
+Niobrara,Governor,,DEM,Freudenthal,411
+Niobrara,Governor,,LIB,Brossman,124
+Niobrara,Governor,,LIB,Dawson,32
+Niobrara,Secretary of State,,REP,Meyer,1050
+Niobrara,State Auditor,,REP,Maxfield,982
+Niobrara,State Auditor,,DEM,Harris,223
+Niobrara,State Treasurer,,REP,Lummis,1108
+Niobrara,Superintendent of Public Instruction,,REP,Blankenship,824
+Niobrara,Superintendent of Public Instruction,,DEM,Emmons,355
+Niobrara,State Senate,1,REP,Barton,1052
+Niobrara,State House,2,REP,ZumBrunnen,496
+Niobrara,State House,2,DEM,Diercks,728
+Niobrara,Ballots Cast,,,Ballots Cast,1242
+Park,U.S. Senate,,REP,Enzi,8723
+Park,U.S. Senate,,DEM,Akin,2526
+Park,U.S. Senate,,DEM,Corcoran,1981
+Park,U.S. House,,REP,Cubin,7660
+Park,U.S. House,,LIB,Stock,393
+Park,Governor,,REP,Bebout,6287
+Park,Governor,,DEM,Freudenthal,4192
+Park,Governor,,LIB,Brossman,1469
+Park,Governor,,LIB,Dawson,269
+Park,Secretary of State,,REP,Meyer,8718
+Park,State Auditor,,REP,Maxfield,8366
+Park,State Auditor,,DEM,Harris,2120
+Park,State Treasurer,,REP,Lummis,9146
+Park,Superintendent of Public Instruction,,REP,Blankenship,6809
+Park,Superintendent of Public Instruction,,DEM,Emmons,3613
+Park,State Senate,19,REP,Northrup,2850
+Park,State House,24,REP,Simpson,3184
+Park,State House,25,REP,Jones,2776
+Park,State House,26,REP,Harvey,100
+Park,State House,26,LIB,Garrison,8
+Park,State House,28,REP,Baker,0
+Park,State House,50,REP,Childers,2709
+Park,State House,50,LIB,Carlson,756
+Park,Ballots Cast,,,Ballots Cast,10865
+Platte,U.S. Senate,,REP,Enzi,2817
+Platte,U.S. Senate,,DEM,Akin,1279
+Platte,U.S. Senate,,DEM,Corcoran,1042
+Platte,U.S. House,,REP,Cubin,2454
+Platte,U.S. House,,LIB,Stock,120
+Platte,Governor,,REP,Bebout,1645
+Platte,Governor,,DEM,Freudenthal,2122
+Platte,Governor,,LIB,Brossman,635
+Platte,Governor,,LIB,Dawson,101
+Platte,Secretary of State,,REP,Meyer,3050
+Platte,State Auditor,,REP,Maxfield,2529
+Platte,State Auditor,,DEM,Harris,1282
+Platte,State Treasurer,,REP,Lummis,3330
+Platte,Superintendent of Public Instruction,,REP,Blankenship,1876
+Platte,Superintendent of Public Instruction,,DEM,Emmons,1929
+Platte,State Senate,3,REP,Meier,1219
+Platte,State House,3,REP,Alden,1833
+Platte,State House,5,REP,Hageman,1225
+Platte,Ballots Cast,,,Ballots Cast,3957
+Sheridan,U.S. Senate,,REP,Enzi,8357
+Sheridan,U.S. Senate,,DEM,Akin,3700
+Sheridan,U.S. Senate,,DEM,Corcoran,2853
+Sheridan,U.S. House,,REP,Cubin,7081
+Sheridan,U.S. House,,LIB,Stock,344
+Sheridan,Governor,,REP,Bebout,5567
+Sheridan,Governor,,DEM,Freudenthal,5510
+Sheridan,Governor,,LIB,Brossman,1636
+Sheridan,Governor,,LIB,Dawson,189
+Sheridan,Secretary of State,,REP,Meyer,8882
+Sheridan,State Auditor,,REP,Maxfield,7561
+Sheridan,State Auditor,,DEM,Harris,3431
+Sheridan,State Treasurer,,REP,Lummis,9360
+Sheridan,Superintendent of Public Instruction,,REP,Blankenship,6013
+Sheridan,Superintendent of Public Instruction,,DEM,Emmons,4861
+Sheridan,State Senate,21,REP,Burns,4066
+Sheridan,State Senate,21,DEM,Cannon,3080
+Sheridan,State House,29,REP,Iekel,1891
+Sheridan,State House,29,DEM,Carroll-Reece,1068
+Sheridan,State House,30,REP,"Landon, Jr.",1949
+Sheridan,State House,30,DEM,Dillon,1440
+Sheridan,State House,40,REP,Osborn,544
+Sheridan,State House,51,REP,Berger,2628
+Sheridan,State House,51,DEM,Bare,1486
+Sheridan,Ballots Cast,,,Ballots Cast,11363
+Sublette,U.S. Senate,,REP,Enzi,2146
+Sublette,U.S. Senate,,DEM,Akin,577
+Sublette,U.S. Senate,,DEM,Corcoran,438
+Sublette,U.S. House,,REP,Cubin,1904
+Sublette,U.S. House,,LIB,Stock,86
+Sublette,Governor,,REP,Bebout,1539
+Sublette,Governor,,DEM,Freudenthal,1025
+Sublette,Governor,,LIB,Brossman,264
+Sublette,Governor,,LIB,Dawson,46
+Sublette,Secretary of State,,REP,Meyer,2110
+Sublette,State Auditor,,REP,Maxfield,1940
+Sublette,State Auditor,,DEM,Harris,529
+Sublette,State Treasurer,,REP,Lummis,2222
+Sublette,Superintendent of Public Instruction,,REP,Blankenship,1651
+Sublette,Superintendent of Public Instruction,,DEM,Emmons,881
+Sublette,State House,20,REP,Cooper,628
+Sublette,State House,22,REP,Olsen,1457
+Sublette,State House,22,DEM,Gosar,454
+Sublette,Ballots Cast,,,Ballots Cast,2693
+Sweetwater,U.S. Senate,,REP,Enzi,7986
+Sweetwater,U.S. Senate,,DEM,Akin,5721
+Sweetwater,U.S. Senate,,DEM,Corcoran,4932
+Sweetwater,U.S. House,,REP,Cubin,6754
+Sweetwater,U.S. House,,LIB,Stock,438
+Sweetwater,Governor,,REP,Bebout,5026
+Sweetwater,Governor,,DEM,Freudenthal,7809
+Sweetwater,Governor,,LIB,Brossman,3073
+Sweetwater,Governor,,LIB,Dawson,328
+Sweetwater,Secretary of State,,REP,Meyer,8479
+Sweetwater,State Auditor,,REP,Maxfield,5432
+Sweetwater,State Auditor,,DEM,Harris,7354
+Sweetwater,State Treasurer,,REP,Lummis,9976
+Sweetwater,Superintendent of Public Instruction,,REP,Blankenship,5559
+Sweetwater,Superintendent of Public Instruction,,DEM,Emmons,7091
+Sweetwater,State Senate,13,REP,Radosevich,1980
+Sweetwater,State Senate,13,DEM,Boggs,3578
+Sweetwater,State House,17,REP,Parady,1360
+Sweetwater,State House,17,DEM,Wells,1228
+Sweetwater,State House,18,REP,Powers,710
+Sweetwater,State House,18,DEM,Jackman,672
+Sweetwater,State House,20,REP,Cooper,468
+Sweetwater,State House,39,DEM,Boswell,2176
+Sweetwater,State House,48,REP,Stith,1243
+Sweetwater,State House,48,DEM,Martin,1556
+Sweetwater,State House,60,DEM,Thompson,2248
+Sweetwater,Ballots Cast,,,Ballots Cast,13407
+Teton,U.S. Senate,,REP,Enzi,4153
+Teton,U.S. Senate,,DEM,Akin,3247
+Teton,U.S. Senate,,DEM,Corcoran,3351
+Teton,U.S. House,,REP,Cubin,3894
+Teton,U.S. House,,LIB,Stock,272
+Teton,Governor,,REP,Bebout,3128
+Teton,Governor,,DEM,Freudenthal,4281
+Teton,Governor,,LIB,Brossman,1580
+Teton,Governor,,LIB,Dawson,155
+Teton,Secretary of State,,REP,Meyer,4769
+Teton,State Auditor,,REP,Maxfield,3913
+Teton,State Auditor,,DEM,Harris,3100
+Teton,State Treasurer,,REP,Lummis,5372
+Teton,Superintendent of Public Instruction,,REP,Blankenship,3376
+Teton,Superintendent of Public Instruction,,DEM,Emmons,3700
+Teton,State Senate,17,REP,Larson,4503
+Teton,State House,16,REP,Scarlett,1438
+Teton,State House,16,DEM,Jorgensen,2011
+Teton,State House,22,REP,Olsen,774
+Teton,State House,22,DEM,Gosar,495
+Teton,State House,23,REP,Law,2086
+Teton,Ballots Cast,,,Ballots Cast,7706
+Uinta,U.S. Senate,,REP,Enzi,4569
+Uinta,U.S. Senate,,DEM,Akin,1892
+Uinta,U.S. Senate,,DEM,Corcoran,1685
+Uinta,U.S. House,,REP,Cubin,4123
+Uinta,U.S. House,,LIB,Stock,219
+Uinta,Governor,,REP,Bebout,3125
+Uinta,Governor,,DEM,Freudenthal,3004
+Uinta,Governor,,LIB,Brossman,1036
+Uinta,Governor,,LIB,Dawson,185
+Uinta,Secretary of State,,REP,Meyer,4911
+Uinta,State Auditor,,REP,Maxfield,3719
+Uinta,State Auditor,,DEM,Harris,2506
+Uinta,State Treasurer,,REP,Lummis,5484
+Uinta,Superintendent of Public Instruction,,REP,Blankenship,3463
+Uinta,Superintendent of Public Instruction,,DEM,Emmons,2664
+Uinta,State Senate,15,REP,Ottley,2078
+Uinta,State Senate,15,DEM,Decaria,2906
+Uinta,State House,18,REP,Powers,690
+Uinta,State House,18,DEM,Jackman,617
+Uinta,State House,19,REP,Petersen,1575
+Uinta,State House,19,DEM,Player,691
+Uinta,State House,49,DEM,Meyer,1740
+Uinta,State House,49,,Jackson -R,984
+Uinta,Ballots Cast,,,Ballots Cast,6419
+Washakie,U.S. Senate,,REP,Enzi,2644
+Washakie,U.S. Senate,,DEM,Akin,852
+Washakie,U.S. Senate,,DEM,Corcoran,566
+Washakie,U.S. House,,REP,Cubin,2259
+Washakie,U.S. House,,LIB,Stock,70
+Washakie,Governor,,REP,Bebout,1805
+Washakie,Governor,,DEM,Freudenthal,1533
+Washakie,Governor,,LIB,Brossman,198
+Washakie,Governor,,LIB,Dawson,49
+Washakie,Secretary of State,,REP,Meyer,2442
+Washakie,State Auditor,,REP,Maxfield,2431
+Washakie,State Auditor,,DEM,Harris,701
+Washakie,State Treasurer,,REP,Lummis,2619
+Washakie,Superintendent of Public Instruction,,REP,Blankenship,1776
+Washakie,Superintendent of Public Instruction,,DEM,Emmons,1407
+Washakie,State House,27,REP,Wostenberg,2528
+Washakie,Ballots Cast,,,Ballots Cast,3454
+Weston,U.S. Senate,,REP,Enzi,2290
+Weston,U.S. Senate,,DEM,Akin,564
+Weston,U.S. Senate,,DEM,Corcoran,490
+Weston,U.S. House,,REP,Cubin,2107
+Weston,U.S. House,,LIB,Stock,97
+Weston,Governor,,REP,Bebout,1631
+Weston,Governor,,DEM,Freudenthal,1058
+Weston,Governor,,LIB,Brossman,366
+Weston,Governor,,LIB,Dawson,93
+Weston,Secretary of State,,REP,Meyer,2275
+Weston,State Auditor,,REP,Maxfield,2095
+Weston,State Auditor,,DEM,Harris,613
+Weston,State Treasurer,,REP,Lummis,2466
+Weston,Superintendent of Public Instruction,,REP,Blankenship,1648
+Weston,Superintendent of Public Instruction,,DEM,Emmons,1072
+Weston,State Senate,1,REP,Barton,2252
+Weston,State House,1,REP,Semlek,953
+Weston,State House,2,REP,ZumBrunnen,794
+Weston,State House,2,DEM,Diercks,919
+Weston,Ballots Cast,,,Ballots Cast,2837

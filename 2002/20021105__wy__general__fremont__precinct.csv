@@ -1,0 +1,578 @@
+county,precinct,office,district,party,candidate,votes
+Fremont,Arapahoe School 8-1,U.S. Senate,,REP,Enzi,145
+Fremont,Arapahoe School 8-1,U.S. Senate,,DEM,Corcoran,116
+Fremont,Arapahoe School 8-1,U.S. House,,REP,Cubin,136
+Fremont,Arapahoe School 8-1,U.S. House,,DEM,Akin,118
+Fremont,Arapahoe School 8-1,U.S. House,,LIB,Stock,10
+Fremont,Arapahoe School 8-1,Governor,,REP,Bebout,130
+Fremont,Arapahoe School 8-1,Governor,,DEM,Freudenthal,134
+Fremont,Arapahoe School 8-1,Governor,,LIB,Brossman,72
+Fremont,Arapahoe School 8-1,Governor,,LIB,Dawson,9
+Fremont,Arapahoe School 8-1,Secretary of State,,REP,Meyer,143
+Fremont,Arapahoe School 8-1,State Auditor,,REP,Maxfield,126
+Fremont,Arapahoe School 8-1,State Auditor,,DEM,Harris,129
+Fremont,Arapahoe School 8-1,State Treasurer,,REP,Lummis,172
+Fremont,Arapahoe School 8-1,Superintendent of Public Instruction,,REP,Blankenship,104
+Fremont,Arapahoe School 8-1,Superintendent of Public Instruction,,DEM,Emmons,145
+Fremont,Arapahoe School 8-1,State Senate,25,REP,Case,156
+Fremont,Arapahoe School 8-1,State House,33,REP,Tipton,106
+Fremont,Arapahoe School 8-1,State House,33,DEM,Kennedy,156
+Fremont,Arapahoe School 8-1,Ballots Cast,,,Ballots Cast,279
+Fremont,Atlantic City Fire Hall 24-1,U.S. Senate,,REP,Enzi,42
+Fremont,Atlantic City Fire Hall 24-1,U.S. Senate,,DEM,Corcoran,12
+Fremont,Atlantic City Fire Hall 24-1,U.S. House,,REP,Cubin,22
+Fremont,Atlantic City Fire Hall 24-1,U.S. House,,DEM,Akin,20
+Fremont,Atlantic City Fire Hall 24-1,U.S. House,,LIB,Stock,11
+Fremont,Atlantic City Fire Hall 24-1,Governor,,REP,Bebout,29
+Fremont,Atlantic City Fire Hall 24-1,Governor,,DEM,Freudenthal,22
+Fremont,Atlantic City Fire Hall 24-1,Governor,,LIB,Brossman,13
+Fremont,Atlantic City Fire Hall 24-1,Governor,,LIB,Dawson,3
+Fremont,Atlantic City Fire Hall 24-1,Secretary of State,,REP,Meyer,38
+Fremont,Atlantic City Fire Hall 24-1,State Auditor,,REP,Maxfield,35
+Fremont,Atlantic City Fire Hall 24-1,State Auditor,,DEM,Harris,14
+Fremont,Atlantic City Fire Hall 24-1,State Treasurer,,REP,Lummis,41
+Fremont,Atlantic City Fire Hall 24-1,Superintendent of Public Instruction,,REP,Blankenship,33
+Fremont,Atlantic City Fire Hall 24-1,Superintendent of Public Instruction,,DEM,Emmons,16
+Fremont,Atlantic City Fire Hall 24-1,State House,48,REP,Stith,33
+Fremont,Atlantic City Fire Hall 24-1,State House,48,DEM,Martin,13
+Fremont,Atlantic City Fire Hall 24-1,Ballots Cast,,,Ballots Cast,56
+Fremont,Beebe 6-1,U.S. Senate,,REP,Enzi,307
+Fremont,Beebe 6-1,U.S. Senate,,DEM,Corcoran,88
+Fremont,Beebe 6-1,U.S. House,,REP,Cubin,246
+Fremont,Beebe 6-1,U.S. House,,DEM,Akin,128
+Fremont,Beebe 6-1,U.S. House,,LIB,Stock,20
+Fremont,Beebe 6-1,Governor,,REP,Bebout,202
+Fremont,Beebe 6-1,Governor,,DEM,Freudenthal,183
+Fremont,Beebe 6-1,Governor,,LIB,Brossman,57
+Fremont,Beebe 6-1,Governor,,LIB,Dawson,14
+Fremont,Beebe 6-1,Secretary of State,,REP,Meyer,311
+Fremont,Beebe 6-1,State Auditor,,REP,Maxfield,273
+Fremont,Beebe 6-1,State Auditor,,DEM,Harris,111
+Fremont,Beebe 6-1,State Treasurer,,REP,Lummis,324
+Fremont,Beebe 6-1,Superintendent of Public Instruction,,REP,Blankenship,212
+Fremont,Beebe 6-1,Superintendent of Public Instruction,,DEM,Emmons,174
+Fremont,Beebe 6-1,State Senate,25,REP,Case,319
+Fremont,Beebe 6-1,State House,33,REP,Tipton,274
+Fremont,Beebe 6-1,State House,33,DEM,Kennedy,106
+Fremont,Beebe 6-1,State House,34,REP,Philp,0
+Fremont,Beebe 6-1,Ballots Cast,,,Ballots Cast,402
+Fremont,Big Bend 18-1,U.S. Senate,,REP,Enzi,773
+Fremont,Big Bend 18-1,U.S. Senate,,DEM,Corcoran,126
+Fremont,Big Bend 18-1,U.S. House,,REP,Cubin,631
+Fremont,Big Bend 18-1,U.S. House,,DEM,Akin,233
+Fremont,Big Bend 18-1,U.S. House,,LIB,Stock,27
+Fremont,Big Bend 18-1,Governor,,REP,Bebout,679
+Fremont,Big Bend 18-1,Governor,,DEM,Freudenthal,218
+Fremont,Big Bend 18-1,Governor,,LIB,Brossman,86
+Fremont,Big Bend 18-1,Governor,,LIB,Dawson,15
+Fremont,Big Bend 18-1,Secretary of State,,REP,Meyer,776
+Fremont,Big Bend 18-1,State Auditor,,REP,Maxfield,685
+Fremont,Big Bend 18-1,State Auditor,,DEM,Harris,189
+Fremont,Big Bend 18-1,State Treasurer,,REP,Lummis,802
+Fremont,Big Bend 18-1,Superintendent of Public Instruction,,REP,Blankenship,640
+Fremont,Big Bend 18-1,Superintendent of Public Instruction,,DEM,Emmons,244
+Fremont,Big Bend 18-1,State House,34,REP,Philp,807
+Fremont,Big Bend 18-1,Ballots Cast,,,Ballots Cast,920
+Fremont,Crowheart School 19-1,U.S. Senate,,REP,Enzi,69
+Fremont,Crowheart School 19-1,U.S. Senate,,DEM,Corcoran,16
+Fremont,Crowheart School 19-1,U.S. House,,REP,Cubin,61
+Fremont,Crowheart School 19-1,U.S. House,,DEM,Akin,17
+Fremont,Crowheart School 19-1,U.S. House,,LIB,Stock,7
+Fremont,Crowheart School 19-1,Governor,,REP,Bebout,60
+Fremont,Crowheart School 19-1,Governor,,DEM,Freudenthal,21
+Fremont,Crowheart School 19-1,Governor,,LIB,Brossman,10
+Fremont,Crowheart School 19-1,Governor,,LIB,Dawson,5
+Fremont,Crowheart School 19-1,Secretary of State,,REP,Meyer,64
+Fremont,Crowheart School 19-1,State Auditor,,REP,Maxfield,67
+Fremont,Crowheart School 19-1,State Auditor,,DEM,Harris,15
+Fremont,Crowheart School 19-1,State Treasurer,,REP,Lummis,71
+Fremont,Crowheart School 19-1,Superintendent of Public Instruction,,REP,Blankenship,60
+Fremont,Crowheart School 19-1,Superintendent of Public Instruction,,DEM,Emmons,25
+Fremont,Crowheart School 19-1,State Senate,25,REP,Case,64
+Fremont,Crowheart School 19-1,State House,33,REP,Tipton,70
+Fremont,Crowheart School 19-1,State House,33,DEM,Kennedy,13
+Fremont,Crowheart School 19-1,Ballots Cast,,,Ballots Cast,87
+Fremont,Delfelder Hall 10-1,U.S. Senate,,REP,Enzi,426
+Fremont,Delfelder Hall 10-1,U.S. Senate,,DEM,Corcoran,102
+Fremont,Delfelder Hall 10-1,U.S. House,,REP,Cubin,375
+Fremont,Delfelder Hall 10-1,U.S. House,,DEM,Akin,126
+Fremont,Delfelder Hall 10-1,U.S. House,,LIB,Stock,22
+Fremont,Delfelder Hall 10-1,Governor,,REP,Bebout,372
+Fremont,Delfelder Hall 10-1,Governor,,DEM,Freudenthal,152
+Fremont,Delfelder Hall 10-1,Governor,,LIB,Brossman,67
+Fremont,Delfelder Hall 10-1,Governor,,LIB,Dawson,5
+Fremont,Delfelder Hall 10-1,Secretary of State,,REP,Meyer,444
+Fremont,Delfelder Hall 10-1,State Auditor,,REP,Maxfield,402
+Fremont,Delfelder Hall 10-1,State Auditor,,DEM,Harris,120
+Fremont,Delfelder Hall 10-1,State Treasurer,,REP,Lummis,473
+Fremont,Delfelder Hall 10-1,Superintendent of Public Instruction,,REP,Blankenship,372
+Fremont,Delfelder Hall 10-1,Superintendent of Public Instruction,,DEM,Emmons,148
+Fremont,Delfelder Hall 10-1,State House,34,REP,Philp,471
+Fremont,Delfelder Hall 10-1,Ballots Cast,,,Ballots Cast,534
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,U.S. Senate,,REP,Enzi,780
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,U.S. Senate,,DEM,Corcoran,181
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,U.S. House,,REP,Cubin,709
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,U.S. House,,DEM,Akin,220
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,U.S. House,,LIB,Stock,24
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,Governor,,REP,Bebout,629
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,Governor,,DEM,Freudenthal,315
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,Governor,,LIB,Brossman,104
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,Governor,,LIB,Dawson,22
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,Secretary of State,,REP,Meyer,798
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,State Auditor,,REP,Maxfield,746
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,State Auditor,,DEM,Harris,184
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,State Treasurer,,REP,Lummis,827
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,Superintendent of Public Instruction,,REP,Blankenship,455
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,Superintendent of Public Instruction,,DEM,Emmons,487
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,State Senate,17,REP,Larson,798
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,State Senate,25,REP,Case,20
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,State House,23,REP,Law,783
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,State House,33,REP,Tipton,16
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,State House,33,DEM,Kennedy,4
+Fremont,Dubois Headwaters Comm. Ctr. 7-1,Ballots Cast,,,Ballots Cast,975
+Fremont,Ethete WY Indian High School 13-1,U.S. Senate,,REP,Enzi,167
+Fremont,Ethete WY Indian High School 13-1,U.S. Senate,,DEM,Corcoran,223
+Fremont,Ethete WY Indian High School 13-1,U.S. House,,REP,Cubin,144
+Fremont,Ethete WY Indian High School 13-1,U.S. House,,DEM,Akin,233
+Fremont,Ethete WY Indian High School 13-1,U.S. House,,LIB,Stock,6
+Fremont,Ethete WY Indian High School 13-1,Governor,,REP,Bebout,137
+Fremont,Ethete WY Indian High School 13-1,Governor,,DEM,Freudenthal,240
+Fremont,Ethete WY Indian High School 13-1,Governor,,LIB,Brossman,123
+Fremont,Ethete WY Indian High School 13-1,Governor,,LIB,Dawson,13
+Fremont,Ethete WY Indian High School 13-1,Secretary of State,,REP,Meyer,201
+Fremont,Ethete WY Indian High School 13-1,State Auditor,,REP,Maxfield,138
+Fremont,Ethete WY Indian High School 13-1,State Auditor,,DEM,Harris,236
+Fremont,Ethete WY Indian High School 13-1,State Treasurer,,REP,Lummis,250
+Fremont,Ethete WY Indian High School 13-1,Superintendent of Public Instruction,,REP,Blankenship,136
+Fremont,Ethete WY Indian High School 13-1,Superintendent of Public Instruction,,DEM,Emmons,241
+Fremont,Ethete WY Indian High School 13-1,State Senate,25,REP,Case,242
+Fremont,Ethete WY Indian High School 13-1,State House,33,REP,Tipton,197
+Fremont,Ethete WY Indian High School 13-1,State House,33,DEM,Kennedy,190
+Fremont,Ethete WY Indian High School 13-1,Ballots Cast,,,Ballots Cast,395
+Fremont,Ft. Washakie School 4-1,U.S. Senate,,REP,Enzi,126
+Fremont,Ft. Washakie School 4-1,U.S. Senate,,DEM,Corcoran,166
+Fremont,Ft. Washakie School 4-1,U.S. House,,REP,Cubin,110
+Fremont,Ft. Washakie School 4-1,U.S. House,,DEM,Akin,176
+Fremont,Ft. Washakie School 4-1,U.S. House,,LIB,Stock,7
+Fremont,Ft. Washakie School 4-1,Governor,,REP,Bebout,88
+Fremont,Ft. Washakie School 4-1,Governor,,DEM,Freudenthal,201
+Fremont,Ft. Washakie School 4-1,Governor,,LIB,Brossman,110
+Fremont,Ft. Washakie School 4-1,Governor,,LIB,Dawson,8
+Fremont,Ft. Washakie School 4-1,Secretary of State,,REP,Meyer,152
+Fremont,Ft. Washakie School 4-1,State Auditor,,REP,Maxfield,102
+Fremont,Ft. Washakie School 4-1,State Auditor,,DEM,Harris,192
+Fremont,Ft. Washakie School 4-1,State Treasurer,,REP,Lummis,221
+Fremont,Ft. Washakie School 4-1,Superintendent of Public Instruction,,REP,Blankenship,105
+Fremont,Ft. Washakie School 4-1,Superintendent of Public Instruction,,DEM,Emmons,187
+Fremont,Ft. Washakie School 4-1,State Senate,25,REP,Case,223
+Fremont,Ft. Washakie School 4-1,State House,33,REP,Tipton,160
+Fremont,Ft. Washakie School 4-1,State House,33,DEM,Kennedy,131
+Fremont,Ft. Washakie School 4-1,Ballots Cast,,,Ballots Cast,299
+Fremont,Hudson Town Hall 2-1,U.S. Senate,,REP,Enzi,187
+Fremont,Hudson Town Hall 2-1,U.S. Senate,,DEM,Corcoran,64
+Fremont,Hudson Town Hall 2-1,U.S. House,,REP,Cubin,150
+Fremont,Hudson Town Hall 2-1,U.S. House,,DEM,Akin,90
+Fremont,Hudson Town Hall 2-1,U.S. House,,LIB,Stock,9
+Fremont,Hudson Town Hall 2-1,Governor,,REP,Bebout,149
+Fremont,Hudson Town Hall 2-1,Governor,,DEM,Freudenthal,106
+Fremont,Hudson Town Hall 2-1,Governor,,LIB,Brossman,54
+Fremont,Hudson Town Hall 2-1,Governor,,LIB,Dawson,4
+Fremont,Hudson Town Hall 2-1,Secretary of State,,REP,Meyer,167
+Fremont,Hudson Town Hall 2-1,State Auditor,,REP,Maxfield,160
+Fremont,Hudson Town Hall 2-1,State Auditor,,DEM,Harris,88
+Fremont,Hudson Town Hall 2-1,State Treasurer,,REP,Lummis,191
+Fremont,Hudson Town Hall 2-1,Superintendent of Public Instruction,,REP,Blankenship,139
+Fremont,Hudson Town Hall 2-1,Superintendent of Public Instruction,,DEM,Emmons,108
+Fremont,Hudson Town Hall 2-1,State Senate,25,REP,Case,197
+Fremont,Hudson Town Hall 2-1,State House,33,REP,Tipton,171
+Fremont,Hudson Town Hall 2-1,State House,33,DEM,Kennedy,79
+Fremont,Hudson Town Hall 2-1,Ballots Cast,,,Ballots Cast,265
+Fremont,Jeffrey City Fire Hall 12-1,U.S. Senate,,REP,Enzi,80
+Fremont,Jeffrey City Fire Hall 12-1,U.S. Senate,,DEM,Corcoran,8
+Fremont,Jeffrey City Fire Hall 12-1,U.S. House,,REP,Cubin,68
+Fremont,Jeffrey City Fire Hall 12-1,U.S. House,,DEM,Akin,12
+Fremont,Jeffrey City Fire Hall 12-1,U.S. House,,LIB,Stock,4
+Fremont,Jeffrey City Fire Hall 12-1,Governor,,REP,Bebout,65
+Fremont,Jeffrey City Fire Hall 12-1,Governor,,DEM,Freudenthal,19
+Fremont,Jeffrey City Fire Hall 12-1,Governor,,LIB,Brossman,6
+Fremont,Jeffrey City Fire Hall 12-1,Governor,,LIB,Dawson,3
+Fremont,Jeffrey City Fire Hall 12-1,Secretary of State,,REP,Meyer,78
+Fremont,Jeffrey City Fire Hall 12-1,State Auditor,,REP,Maxfield,72
+Fremont,Jeffrey City Fire Hall 12-1,State Auditor,,DEM,Harris,13
+Fremont,Jeffrey City Fire Hall 12-1,State Treasurer,,REP,Lummis,83
+Fremont,Jeffrey City Fire Hall 12-1,Superintendent of Public Instruction,,REP,Blankenship,64
+Fremont,Jeffrey City Fire Hall 12-1,Superintendent of Public Instruction,,DEM,Emmons,20
+Fremont,Jeffrey City Fire Hall 12-1,State House,33,REP,Tipton,0
+Fremont,Jeffrey City Fire Hall 12-1,State House,34,REP,Philp,81
+Fremont,Jeffrey City Fire Hall 12-1,Ballots Cast,,,Ballots Cast,88
+Fremont,Kinnear Fire Hall 16-1,U.S. Senate,,REP,Enzi,138
+Fremont,Kinnear Fire Hall 16-1,U.S. Senate,,DEM,Corcoran,36
+Fremont,Kinnear Fire Hall 16-1,U.S. House,,REP,Cubin,119
+Fremont,Kinnear Fire Hall 16-1,U.S. House,,DEM,Akin,47
+Fremont,Kinnear Fire Hall 16-1,U.S. House,,LIB,Stock,5
+Fremont,Kinnear Fire Hall 16-1,Governor,,REP,Bebout,117
+Fremont,Kinnear Fire Hall 16-1,Governor,,DEM,Freudenthal,56
+Fremont,Kinnear Fire Hall 16-1,Governor,,LIB,Brossman,20
+Fremont,Kinnear Fire Hall 16-1,Governor,,LIB,Dawson,3
+Fremont,Kinnear Fire Hall 16-1,Secretary of State,,REP,Meyer,141
+Fremont,Kinnear Fire Hall 16-1,State Auditor,,REP,Maxfield,121
+Fremont,Kinnear Fire Hall 16-1,State Auditor,,DEM,Harris,51
+Fremont,Kinnear Fire Hall 16-1,State Treasurer,,REP,Lummis,154
+Fremont,Kinnear Fire Hall 16-1,Superintendent of Public Instruction,,REP,Blankenship,121
+Fremont,Kinnear Fire Hall 16-1,Superintendent of Public Instruction,,DEM,Emmons,49
+Fremont,Kinnear Fire Hall 16-1,State Senate,25,REP,Case,140
+Fremont,Kinnear Fire Hall 16-1,State House,33,REP,Tipton,123
+Fremont,Kinnear Fire Hall 16-1,State House,33,DEM,Kennedy,48
+Fremont,Kinnear Fire Hall 16-1,Ballots Cast,,,Ballots Cast,177
+Fremont,Lander Community Center 1-1,U.S. Senate,,REP,Enzi,430
+Fremont,Lander Community Center 1-1,U.S. Senate,,DEM,Corcoran,171
+Fremont,Lander Community Center 1-1,U.S. House,,REP,Cubin,332
+Fremont,Lander Community Center 1-1,U.S. House,,DEM,Akin,256
+Fremont,Lander Community Center 1-1,U.S. House,,LIB,Stock,10
+Fremont,Lander Community Center 1-1,Governor,,REP,Bebout,258
+Fremont,Lander Community Center 1-1,Governor,,DEM,Freudenthal,356
+Fremont,Lander Community Center 1-1,Governor,,LIB,Brossman,93
+Fremont,Lander Community Center 1-1,Governor,,LIB,Dawson,6
+Fremont,Lander Community Center 1-1,Secretary of State,,REP,Meyer,454
+Fremont,Lander Community Center 1-1,State Auditor,,REP,Maxfield,373
+Fremont,Lander Community Center 1-1,State Auditor,,DEM,Harris,225
+Fremont,Lander Community Center 1-1,State Treasurer,,REP,Lummis,493
+Fremont,Lander Community Center 1-1,Superintendent of Public Instruction,,REP,Blankenship,286
+Fremont,Lander Community Center 1-1,Superintendent of Public Instruction,,DEM,Emmons,314
+Fremont,Lander Community Center 1-1,State Senate,25,REP,Case,502
+Fremont,Lander Community Center 1-1,State House,54,REP,McOmie,493
+Fremont,Lander Community Center 1-1,Ballots Cast,,,Ballots Cast,623
+Fremont,Lander Community Center 1-2,U.S. Senate,,REP,Enzi,214
+Fremont,Lander Community Center 1-2,U.S. Senate,,DEM,Corcoran,84
+Fremont,Lander Community Center 1-2,U.S. House,,REP,Cubin,159
+Fremont,Lander Community Center 1-2,U.S. House,,DEM,Akin,135
+Fremont,Lander Community Center 1-2,U.S. House,,LIB,Stock,6
+Fremont,Lander Community Center 1-2,Governor,,REP,Bebout,124
+Fremont,Lander Community Center 1-2,Governor,,DEM,Freudenthal,176
+Fremont,Lander Community Center 1-2,Governor,,LIB,Brossman,41
+Fremont,Lander Community Center 1-2,Governor,,LIB,Dawson,5
+Fremont,Lander Community Center 1-2,Secretary of State,,REP,Meyer,227
+Fremont,Lander Community Center 1-2,State Auditor,,REP,Maxfield,193
+Fremont,Lander Community Center 1-2,State Auditor,,DEM,Harris,96
+Fremont,Lander Community Center 1-2,State Treasurer,,REP,Lummis,249
+Fremont,Lander Community Center 1-2,Superintendent of Public Instruction,,REP,Blankenship,139
+Fremont,Lander Community Center 1-2,Superintendent of Public Instruction,,DEM,Emmons,159
+Fremont,Lander Community Center 1-2,State Senate,25,REP,Case,244
+Fremont,Lander Community Center 1-2,State House,54,REP,McOmie,247
+Fremont,Lander Community Center 1-2,Ballots Cast,,,Ballots Cast,310
+Fremont,Lander Community Center 1-3,U.S. Senate,,REP,Enzi,331
+Fremont,Lander Community Center 1-3,U.S. Senate,,DEM,Corcoran,175
+Fremont,Lander Community Center 1-3,U.S. House,,REP,Cubin,249
+Fremont,Lander Community Center 1-3,U.S. House,,DEM,Akin,231
+Fremont,Lander Community Center 1-3,U.S. House,,LIB,Stock,21
+Fremont,Lander Community Center 1-3,Governor,,REP,Bebout,201
+Fremont,Lander Community Center 1-3,Governor,,DEM,Freudenthal,299
+Fremont,Lander Community Center 1-3,Governor,,LIB,Brossman,98
+Fremont,Lander Community Center 1-3,Governor,,LIB,Dawson,15
+Fremont,Lander Community Center 1-3,Secretary of State,,REP,Meyer,352
+Fremont,Lander Community Center 1-3,State Auditor,,REP,Maxfield,291
+Fremont,Lander Community Center 1-3,State Auditor,,DEM,Harris,200
+Fremont,Lander Community Center 1-3,State Treasurer,,REP,Lummis,393
+Fremont,Lander Community Center 1-3,Superintendent of Public Instruction,,REP,Blankenship,232
+Fremont,Lander Community Center 1-3,Superintendent of Public Instruction,,DEM,Emmons,261
+Fremont,Lander Community Center 1-3,State Senate,25,REP,Case,395
+Fremont,Lander Community Center 1-3,State House,54,REP,McOmie,398
+Fremont,Lander Community Center 1-3,Ballots Cast,,,Ballots Cast,518
+Fremont,Lander Community Center 1-4,U.S. Senate,,REP,Enzi,306
+Fremont,Lander Community Center 1-4,U.S. Senate,,DEM,Corcoran,147
+Fremont,Lander Community Center 1-4,U.S. House,,REP,Cubin,236
+Fremont,Lander Community Center 1-4,U.S. House,,DEM,Akin,205
+Fremont,Lander Community Center 1-4,U.S. House,,LIB,Stock,10
+Fremont,Lander Community Center 1-4,Governor,,REP,Bebout,176
+Fremont,Lander Community Center 1-4,Governor,,DEM,Freudenthal,285
+Fremont,Lander Community Center 1-4,Governor,,LIB,Brossman,70
+Fremont,Lander Community Center 1-4,Governor,,LIB,Dawson,4
+Fremont,Lander Community Center 1-4,Secretary of State,,REP,Meyer,343
+Fremont,Lander Community Center 1-4,State Auditor,,REP,Maxfield,273
+Fremont,Lander Community Center 1-4,State Auditor,,DEM,Harris,171
+Fremont,Lander Community Center 1-4,State Treasurer,,REP,Lummis,360
+Fremont,Lander Community Center 1-4,Superintendent of Public Instruction,,REP,Blankenship,194
+Fremont,Lander Community Center 1-4,Superintendent of Public Instruction,,DEM,Emmons,248
+Fremont,Lander Community Center 1-4,State Senate,25,REP,Case,364
+Fremont,Lander Community Center 1-4,State House,54,REP,McOmie,363
+Fremont,Lander Community Center 1-4,Ballots Cast,,,Ballots Cast,465
+Fremont,Lander Community Center 1-5,U.S. Senate,,REP,Enzi,493
+Fremont,Lander Community Center 1-5,U.S. Senate,,DEM,Corcoran,202
+Fremont,Lander Community Center 1-5,U.S. House,,REP,Cubin,370
+Fremont,Lander Community Center 1-5,U.S. House,,DEM,Akin,306
+Fremont,Lander Community Center 1-5,U.S. House,,LIB,Stock,11
+Fremont,Lander Community Center 1-5,Governor,,REP,Bebout,301
+Fremont,Lander Community Center 1-5,Governor,,DEM,Freudenthal,407
+Fremont,Lander Community Center 1-5,Governor,,LIB,Brossman,82
+Fremont,Lander Community Center 1-5,Governor,,LIB,Dawson,6
+Fremont,Lander Community Center 1-5,Secretary of State,,REP,Meyer,538
+Fremont,Lander Community Center 1-5,State Auditor,,REP,Maxfield,444
+Fremont,Lander Community Center 1-5,State Auditor,,DEM,Harris,246
+Fremont,Lander Community Center 1-5,State Treasurer,,REP,Lummis,574
+Fremont,Lander Community Center 1-5,Superintendent of Public Instruction,,REP,Blankenship,319
+Fremont,Lander Community Center 1-5,Superintendent of Public Instruction,,DEM,Emmons,376
+Fremont,Lander Community Center 1-5,State Senate,25,REP,Case,570
+Fremont,Lander Community Center 1-5,State House,54,REP,McOmie,585
+Fremont,Lander Community Center 1-5,Ballots Cast,,,Ballots Cast,722
+Fremont,Lander Community Center 1-6,U.S. Senate,,REP,Enzi,383
+Fremont,Lander Community Center 1-6,U.S. Senate,,DEM,Corcoran,166
+Fremont,Lander Community Center 1-6,U.S. House,,REP,Cubin,265
+Fremont,Lander Community Center 1-6,U.S. House,,DEM,Akin,269
+Fremont,Lander Community Center 1-6,U.S. House,,LIB,Stock,14
+Fremont,Lander Community Center 1-6,Governor,,REP,Bebout,221
+Fremont,Lander Community Center 1-6,Governor,,DEM,Freudenthal,335
+Fremont,Lander Community Center 1-6,Governor,,LIB,Brossman,61
+Fremont,Lander Community Center 1-6,Governor,,LIB,Dawson,6
+Fremont,Lander Community Center 1-6,Secretary of State,,REP,Meyer,437
+Fremont,Lander Community Center 1-6,State Auditor,,REP,Maxfield,344
+Fremont,Lander Community Center 1-6,State Auditor,,DEM,Harris,196
+Fremont,Lander Community Center 1-6,State Treasurer,,REP,Lummis,434
+Fremont,Lander Community Center 1-6,Superintendent of Public Instruction,,REP,Blankenship,263
+Fremont,Lander Community Center 1-6,Superintendent of Public Instruction,,DEM,Emmons,283
+Fremont,Lander Community Center 1-6,State Senate,25,REP,Case,445
+Fremont,Lander Community Center 1-6,State House,54,REP,McOmie,464
+Fremont,Lander Community Center 1-6,Ballots Cast,,,Ballots Cast,566
+Fremont,Luthy 17-1,U.S. Senate,,REP,Enzi,218
+Fremont,Luthy 17-1,U.S. Senate,,DEM,Corcoran,82
+Fremont,Luthy 17-1,U.S. House,,REP,Cubin,197
+Fremont,Luthy 17-1,U.S. House,,DEM,Akin,99
+Fremont,Luthy 17-1,U.S. House,,LIB,Stock,7
+Fremont,Luthy 17-1,Governor,,REP,Bebout,200
+Fremont,Luthy 17-1,Governor,,DEM,Freudenthal,102
+Fremont,Luthy 17-1,Governor,,LIB,Brossman,31
+Fremont,Luthy 17-1,Governor,,LIB,Dawson,3
+Fremont,Luthy 17-1,Secretary of State,,REP,Meyer,245
+Fremont,Luthy 17-1,State Auditor,,REP,Maxfield,214
+Fremont,Luthy 17-1,State Auditor,,DEM,Harris,85
+Fremont,Luthy 17-1,State Treasurer,,REP,Lummis,258
+Fremont,Luthy 17-1,Superintendent of Public Instruction,,REP,Blankenship,202
+Fremont,Luthy 17-1,Superintendent of Public Instruction,,DEM,Emmons,102
+Fremont,Luthy 17-1,State Senate,25,REP,Case,239
+Fremont,Luthy 17-1,State House,33,REP,Tipton,181
+Fremont,Luthy 17-1,State House,33,DEM,Kennedy,116
+Fremont,Luthy 17-1,Ballots Cast,,,Ballots Cast,308
+Fremont,Lysite School 22-1,U.S. Senate,,REP,Enzi,44
+Fremont,Lysite School 22-1,U.S. Senate,,DEM,Corcoran,2
+Fremont,Lysite School 22-1,U.S. House,,REP,Cubin,39
+Fremont,Lysite School 22-1,U.S. House,,DEM,Akin,7
+Fremont,Lysite School 22-1,U.S. House,,LIB,Stock,0
+Fremont,Lysite School 22-1,Governor,,REP,Bebout,43
+Fremont,Lysite School 22-1,Governor,,DEM,Freudenthal,2
+Fremont,Lysite School 22-1,Governor,,LIB,Brossman,2
+Fremont,Lysite School 22-1,Governor,,LIB,Dawson,0
+Fremont,Lysite School 22-1,Secretary of State,,REP,Meyer,42
+Fremont,Lysite School 22-1,State Auditor,,REP,Maxfield,38
+Fremont,Lysite School 22-1,State Auditor,,DEM,Harris,6
+Fremont,Lysite School 22-1,State Treasurer,,REP,Lummis,45
+Fremont,Lysite School 22-1,Superintendent of Public Instruction,,REP,Blankenship,34
+Fremont,Lysite School 22-1,Superintendent of Public Instruction,,DEM,Emmons,11
+Fremont,Lysite School 22-1,State House,34,REP,Philp,45
+Fremont,Lysite School 22-1,Ballots Cast,,,Ballots Cast,46
+Fremont,Midvale Store 15-1,U.S. Senate,,REP,Enzi,115
+Fremont,Midvale Store 15-1,U.S. Senate,,DEM,Corcoran,23
+Fremont,Midvale Store 15-1,U.S. House,,REP,Cubin,102
+Fremont,Midvale Store 15-1,U.S. House,,DEM,Akin,31
+Fremont,Midvale Store 15-1,U.S. House,,LIB,Stock,4
+Fremont,Midvale Store 15-1,Governor,,REP,Bebout,102
+Fremont,Midvale Store 15-1,Governor,,DEM,Freudenthal,36
+Fremont,Midvale Store 15-1,Governor,,LIB,Brossman,20
+Fremont,Midvale Store 15-1,Governor,,LIB,Dawson,1
+Fremont,Midvale Store 15-1,Secretary of State,,REP,Meyer,113
+Fremont,Midvale Store 15-1,State Auditor,,REP,Maxfield,104
+Fremont,Midvale Store 15-1,State Auditor,,DEM,Harris,32
+Fremont,Midvale Store 15-1,State Treasurer,,REP,Lummis,118
+Fremont,Midvale Store 15-1,Superintendent of Public Instruction,,REP,Blankenship,96
+Fremont,Midvale Store 15-1,Superintendent of Public Instruction,,DEM,Emmons,40
+Fremont,Midvale Store 15-1,State House,34,REP,Philp,117
+Fremont,Midvale Store 15-1,Ballots Cast,,,Ballots Cast,139
+Fremont,Milford 5-1,U.S. Senate,,REP,Enzi,679
+Fremont,Milford 5-1,U.S. Senate,,DEM,Corcoran,252
+Fremont,Milford 5-1,U.S. House,,REP,Cubin,558
+Fremont,Milford 5-1,U.S. House,,DEM,Akin,345
+Fremont,Milford 5-1,U.S. House,,LIB,Stock,23
+Fremont,Milford 5-1,Governor,,REP,Bebout,462
+Fremont,Milford 5-1,Governor,,DEM,Freudenthal,465
+Fremont,Milford 5-1,Governor,,LIB,Brossman,110
+Fremont,Milford 5-1,Governor,,LIB,Dawson,18
+Fremont,Milford 5-1,Secretary of State,,REP,Meyer,727
+Fremont,Milford 5-1,State Auditor,,REP,Maxfield,633
+Fremont,Milford 5-1,State Auditor,,DEM,Harris,275
+Fremont,Milford 5-1,State Treasurer,,REP,Lummis,760
+Fremont,Milford 5-1,Superintendent of Public Instruction,,REP,Blankenship,486
+Fremont,Milford 5-1,Superintendent of Public Instruction,,DEM,Emmons,435
+Fremont,Milford 5-1,State Senate,25,REP,Case,759
+Fremont,Milford 5-1,State House,33,REP,Tipton,5
+Fremont,Milford 5-1,State House,33,DEM,Kennedy,1
+Fremont,Milford 5-1,State House,54,REP,McOmie,752
+Fremont,Milford 5-1,Ballots Cast,,,Ballots Cast,951
+Fremont,Missouri Valley Fire Hall 9-1,U.S. Senate,,REP,Enzi,254
+Fremont,Missouri Valley Fire Hall 9-1,U.S. Senate,,DEM,Corcoran,20
+Fremont,Missouri Valley Fire Hall 9-1,U.S. House,,REP,Cubin,225
+Fremont,Missouri Valley Fire Hall 9-1,U.S. House,,DEM,Akin,41
+Fremont,Missouri Valley Fire Hall 9-1,U.S. House,,LIB,Stock,6
+Fremont,Missouri Valley Fire Hall 9-1,Governor,,REP,Bebout,249
+Fremont,Missouri Valley Fire Hall 9-1,Governor,,DEM,Freudenthal,28
+Fremont,Missouri Valley Fire Hall 9-1,Governor,,LIB,Brossman,16
+Fremont,Missouri Valley Fire Hall 9-1,Governor,,LIB,Dawson,5
+Fremont,Missouri Valley Fire Hall 9-1,Secretary of State,,REP,Meyer,252
+Fremont,Missouri Valley Fire Hall 9-1,State Auditor,,REP,Maxfield,235
+Fremont,Missouri Valley Fire Hall 9-1,State Auditor,,DEM,Harris,36
+Fremont,Missouri Valley Fire Hall 9-1,State Treasurer,,REP,Lummis,255
+Fremont,Missouri Valley Fire Hall 9-1,Superintendent of Public Instruction,,REP,Blankenship,219
+Fremont,Missouri Valley Fire Hall 9-1,Superintendent of Public Instruction,,DEM,Emmons,54
+Fremont,Missouri Valley Fire Hall 9-1,State House,34,REP,Philp,248
+Fremont,Missouri Valley Fire Hall 9-1,Ballots Cast,,,Ballots Cast,282
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,U.S. Senate,,REP,Enzi,346
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,U.S. Senate,,DEM,Corcoran,74
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,U.S. House,,REP,Cubin,316
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,U.S. House,,DEM,Akin,90
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,U.S. House,,LIB,Stock,12
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,Governor,,REP,Bebout,292
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,Governor,,DEM,Freudenthal,128
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,Governor,,LIB,Brossman,59
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,Governor,,LIB,Dawson,4
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,Secretary of State,,REP,Meyer,343
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,State Auditor,,REP,Maxfield,328
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,State Auditor,,DEM,Harris,88
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,State Treasurer,,REP,Lummis,368
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,Superintendent of Public Instruction,,REP,Blankenship,309
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,Superintendent of Public Instruction,,DEM,Emmons,113
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,State House,34,REP,Philp,367
+Fremont,Pavillion Wind River Rec. Ctr. 14-1,Ballots Cast,,,Ballots Cast,428
+Fremont,Reclamation 21-1,U.S. Senate,,REP,Enzi,150
+Fremont,Reclamation 21-1,U.S. Senate,,DEM,Corcoran,63
+Fremont,Reclamation 21-1,U.S. House,,REP,Cubin,135
+Fremont,Reclamation 21-1,U.S. House,,DEM,Akin,72
+Fremont,Reclamation 21-1,U.S. House,,LIB,Stock,5
+Fremont,Reclamation 21-1,Governor,,REP,Bebout,135
+Fremont,Reclamation 21-1,Governor,,DEM,Freudenthal,79
+Fremont,Reclamation 21-1,Governor,,LIB,Brossman,44
+Fremont,Reclamation 21-1,Governor,,LIB,Dawson,5
+Fremont,Reclamation 21-1,Secretary of State,,REP,Meyer,156
+Fremont,Reclamation 21-1,State Auditor,,REP,Maxfield,135
+Fremont,Reclamation 21-1,State Auditor,,DEM,Harris,76
+Fremont,Reclamation 21-1,State Treasurer,,REP,Lummis,172
+Fremont,Reclamation 21-1,Superintendent of Public Instruction,,REP,Blankenship,119
+Fremont,Reclamation 21-1,Superintendent of Public Instruction,,DEM,Emmons,91
+Fremont,Reclamation 21-1,State House,34,REP,Philp,177
+Fremont,Reclamation 21-1,Ballots Cast,,,Ballots Cast,219
+Fremont,Riverton Fair Office/Armory 3-1,U.S. Senate,,REP,Enzi,510
+Fremont,Riverton Fair Office/Armory 3-1,U.S. Senate,,DEM,Corcoran,133
+Fremont,Riverton Fair Office/Armory 3-1,U.S. House,,REP,Cubin,399
+Fremont,Riverton Fair Office/Armory 3-1,U.S. House,,DEM,Akin,210
+Fremont,Riverton Fair Office/Armory 3-1,U.S. House,,LIB,Stock,29
+Fremont,Riverton Fair Office/Armory 3-1,Governor,,REP,Bebout,431
+Fremont,Riverton Fair Office/Armory 3-1,Governor,,DEM,Freudenthal,206
+Fremont,Riverton Fair Office/Armory 3-1,Governor,,LIB,Brossman,87
+Fremont,Riverton Fair Office/Armory 3-1,Governor,,LIB,Dawson,17
+Fremont,Riverton Fair Office/Armory 3-1,Secretary of State,,REP,Meyer,515
+Fremont,Riverton Fair Office/Armory 3-1,State Auditor,,REP,Maxfield,455
+Fremont,Riverton Fair Office/Armory 3-1,State Auditor,,DEM,Harris,175
+Fremont,Riverton Fair Office/Armory 3-1,State Treasurer,,REP,Lummis,570
+Fremont,Riverton Fair Office/Armory 3-1,Superintendent of Public Instruction,,REP,Blankenship,395
+Fremont,Riverton Fair Office/Armory 3-1,Superintendent of Public Instruction,,DEM,Emmons,246
+Fremont,Riverton Fair Office/Armory 3-1,State House,55,REP,Miller,550
+Fremont,Riverton Fair Office/Armory 3-1,Ballots Cast,,,Ballots Cast,664
+Fremont,Riverton Fair Office/Armory 3-2,U.S. Senate,,REP,Enzi,184
+Fremont,Riverton Fair Office/Armory 3-2,U.S. Senate,,DEM,Corcoran,55
+Fremont,Riverton Fair Office/Armory 3-2,U.S. House,,REP,Cubin,136
+Fremont,Riverton Fair Office/Armory 3-2,U.S. House,,DEM,Akin,87
+Fremont,Riverton Fair Office/Armory 3-2,U.S. House,,LIB,Stock,11
+Fremont,Riverton Fair Office/Armory 3-2,Governor,,REP,Bebout,158
+Fremont,Riverton Fair Office/Armory 3-2,Governor,,DEM,Freudenthal,79
+Fremont,Riverton Fair Office/Armory 3-2,Governor,,LIB,Brossman,31
+Fremont,Riverton Fair Office/Armory 3-2,Governor,,LIB,Dawson,6
+Fremont,Riverton Fair Office/Armory 3-2,Secretary of State,,REP,Meyer,195
+Fremont,Riverton Fair Office/Armory 3-2,State Auditor,,REP,Maxfield,162
+Fremont,Riverton Fair Office/Armory 3-2,State Auditor,,DEM,Harris,73
+Fremont,Riverton Fair Office/Armory 3-2,State Treasurer,,REP,Lummis,211
+Fremont,Riverton Fair Office/Armory 3-2,Superintendent of Public Instruction,,REP,Blankenship,152
+Fremont,Riverton Fair Office/Armory 3-2,Superintendent of Public Instruction,,DEM,Emmons,81
+Fremont,Riverton Fair Office/Armory 3-2,State House,34,REP,Philp,205
+Fremont,Riverton Fair Office/Armory 3-2,Ballots Cast,,,Ballots Cast,248
+Fremont,Riverton Fair Office/Armory 3-3,U.S. Senate,,REP,Enzi,536
+Fremont,Riverton Fair Office/Armory 3-3,U.S. Senate,,DEM,Corcoran,138
+Fremont,Riverton Fair Office/Armory 3-3,U.S. House,,REP,Cubin,414
+Fremont,Riverton Fair Office/Armory 3-3,U.S. House,,DEM,Akin,240
+Fremont,Riverton Fair Office/Armory 3-3,U.S. House,,LIB,Stock,15
+Fremont,Riverton Fair Office/Armory 3-3,Governor,,REP,Bebout,461
+Fremont,Riverton Fair Office/Armory 3-3,Governor,,DEM,Freudenthal,206
+Fremont,Riverton Fair Office/Armory 3-3,Governor,,LIB,Brossman,66
+Fremont,Riverton Fair Office/Armory 3-3,Governor,,LIB,Dawson,12
+Fremont,Riverton Fair Office/Armory 3-3,Secretary of State,,REP,Meyer,579
+Fremont,Riverton Fair Office/Armory 3-3,State Auditor,,REP,Maxfield,496
+Fremont,Riverton Fair Office/Armory 3-3,State Auditor,,DEM,Harris,170
+Fremont,Riverton Fair Office/Armory 3-3,State Treasurer,,REP,Lummis,592
+Fremont,Riverton Fair Office/Armory 3-3,Superintendent of Public Instruction,,REP,Blankenship,446
+Fremont,Riverton Fair Office/Armory 3-3,Superintendent of Public Instruction,,DEM,Emmons,230
+Fremont,Riverton Fair Office/Armory 3-3,State House,55,REP,Miller,565
+Fremont,Riverton Fair Office/Armory 3-3,Ballots Cast,,,Ballots Cast,685
+Fremont,Riverton Fair Office/Armory 3-4,U.S. Senate,,REP,Enzi,312
+Fremont,Riverton Fair Office/Armory 3-4,U.S. Senate,,DEM,Corcoran,89
+Fremont,Riverton Fair Office/Armory 3-4,U.S. House,,REP,Cubin,262
+Fremont,Riverton Fair Office/Armory 3-4,U.S. House,,DEM,Akin,114
+Fremont,Riverton Fair Office/Armory 3-4,U.S. House,,LIB,Stock,25
+Fremont,Riverton Fair Office/Armory 3-4,Governor,,REP,Bebout,271
+Fremont,Riverton Fair Office/Armory 3-4,Governor,,DEM,Freudenthal,121
+Fremont,Riverton Fair Office/Armory 3-4,Governor,,LIB,Brossman,76
+Fremont,Riverton Fair Office/Armory 3-4,Governor,,LIB,Dawson,18
+Fremont,Riverton Fair Office/Armory 3-4,Secretary of State,,REP,Meyer,310
+Fremont,Riverton Fair Office/Armory 3-4,State Auditor,,REP,Maxfield,300
+Fremont,Riverton Fair Office/Armory 3-4,State Auditor,,DEM,Harris,100
+Fremont,Riverton Fair Office/Armory 3-4,State Treasurer,,REP,Lummis,356
+Fremont,Riverton Fair Office/Armory 3-4,Superintendent of Public Instruction,,REP,Blankenship,268
+Fremont,Riverton Fair Office/Armory 3-4,Superintendent of Public Instruction,,DEM,Emmons,138
+Fremont,Riverton Fair Office/Armory 3-4,State House,55,REP,Miller,336
+Fremont,Riverton Fair Office/Armory 3-4,Ballots Cast,,,Ballots Cast,413
+Fremont,Riverton Fair Office/Armory 3-5,U.S. Senate,,REP,Enzi,721
+Fremont,Riverton Fair Office/Armory 3-5,U.S. Senate,,DEM,Corcoran,161
+Fremont,Riverton Fair Office/Armory 3-5,U.S. House,,REP,Cubin,589
+Fremont,Riverton Fair Office/Armory 3-5,U.S. House,,DEM,Akin,257
+Fremont,Riverton Fair Office/Armory 3-5,U.S. House,,LIB,Stock,13
+Fremont,Riverton Fair Office/Armory 3-5,Governor,,REP,Bebout,638
+Fremont,Riverton Fair Office/Armory 3-5,Governor,,DEM,Freudenthal,243
+Fremont,Riverton Fair Office/Armory 3-5,Governor,,LIB,Brossman,73
+Fremont,Riverton Fair Office/Armory 3-5,Governor,,LIB,Dawson,12
+Fremont,Riverton Fair Office/Armory 3-5,Secretary of State,,REP,Meyer,751
+Fremont,Riverton Fair Office/Armory 3-5,State Auditor,,REP,Maxfield,659
+Fremont,Riverton Fair Office/Armory 3-5,State Auditor,,DEM,Harris,195
+Fremont,Riverton Fair Office/Armory 3-5,State Treasurer,,REP,Lummis,775
+Fremont,Riverton Fair Office/Armory 3-5,Superintendent of Public Instruction,,REP,Blankenship,588
+Fremont,Riverton Fair Office/Armory 3-5,Superintendent of Public Instruction,,DEM,Emmons,282
+Fremont,Riverton Fair Office/Armory 3-5,State House,34,REP,Philp,48
+Fremont,Riverton Fair Office/Armory 3-5,State House,55,REP,Miller,691
+Fremont,Riverton Fair Office/Armory 3-5,Ballots Cast,,,Ballots Cast,898
+Fremont,Riverton Fair Office/Armory 3-6,U.S. Senate,,REP,Enzi,569
+Fremont,Riverton Fair Office/Armory 3-6,U.S. Senate,,DEM,Corcoran,141
+Fremont,Riverton Fair Office/Armory 3-6,U.S. House,,REP,Cubin,476
+Fremont,Riverton Fair Office/Armory 3-6,U.S. House,,DEM,Akin,205
+Fremont,Riverton Fair Office/Armory 3-6,U.S. House,,LIB,Stock,17
+Fremont,Riverton Fair Office/Armory 3-6,Governor,,REP,Bebout,516
+Fremont,Riverton Fair Office/Armory 3-6,Governor,,DEM,Freudenthal,198
+Fremont,Riverton Fair Office/Armory 3-6,Governor,,LIB,Brossman,69
+Fremont,Riverton Fair Office/Armory 3-6,Governor,,LIB,Dawson,4
+Fremont,Riverton Fair Office/Armory 3-6,Secretary of State,,REP,Meyer,607
+Fremont,Riverton Fair Office/Armory 3-6,State Auditor,,REP,Maxfield,528
+Fremont,Riverton Fair Office/Armory 3-6,State Auditor,,DEM,Harris,167
+Fremont,Riverton Fair Office/Armory 3-6,State Treasurer,,REP,Lummis,629
+Fremont,Riverton Fair Office/Armory 3-6,Superintendent of Public Instruction,,REP,Blankenship,451
+Fremont,Riverton Fair Office/Armory 3-6,Superintendent of Public Instruction,,DEM,Emmons,253
+Fremont,Riverton Fair Office/Armory 3-6,State House,55,REP,Miller,603
+Fremont,Riverton Fair Office/Armory 3-6,Ballots Cast,,,Ballots Cast,722
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. Senate,,REP,Enzi,227
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. Senate,,DEM,Corcoran,68
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. House,,REP,Cubin,182
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. House,,DEM,Akin,93
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,U.S. House,,LIB,Stock,18
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Governor,,REP,Bebout,212
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Governor,,DEM,Freudenthal,82
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Governor,,LIB,Brossman,56
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Governor,,LIB,Dawson,7
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Secretary of State,,REP,Meyer,226
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,State Auditor,,REP,Maxfield,189
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,State Auditor,,DEM,Harris,102
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,State Treasurer,,REP,Lummis,254
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Superintendent of Public Instruction,,REP,Blankenship,194
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Superintendent of Public Instruction,,DEM,Emmons,101
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,State House,34,REP,Philp,266
+Fremont,Shoshoni Senior Citizens Ctr. 20-1,Ballots Cast,,,Ballots Cast,304

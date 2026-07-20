@@ -1,0 +1,505 @@
+county,office,district,party,candidate,votes
+Albany,U.S. House,,REP,Barbara Cubin,1567
+Albany,U.S. House,,REP,Bruce S. Asay,782
+Albany,U.S. House,,REP,Cale Case,424
+Albany,U.S. House,,REP,James (Jim) Altebaumer,36
+Albany,U.S. House,,REP,"Marvin ""Trip"" Applequist",62
+Albany,U.S. House,,DEM,Al Hamburg,141
+Albany,U.S. House,,DEM,John I. Henley,1112
+Albany,U.S. House,,DEM,Ted Ladd,1183
+Albany,U.S. House,,LIB,Lewis Stock,5
+Albany,State Senate,10,REP,Phil Nicholas,1545
+Albany,State Senate,10,DEM,Tim Chesnut,1259
+Albany,State House,13,DEM,Jane Warren,564
+Albany,State House,14,REP,Charles Taulbee,173
+Albany,State House,14,REP,Kermit C. Brown,483
+Albany,State House,14,DEM,Jeremiah A. Brewer,185
+Albany,State House,14,DEM,Joseph R. Kiovsky,293
+Albany,State House,45,REP,Kevin A. White,346
+Albany,State House,45,REP,Roger Britton,194
+Albany,State House,45,DEM,Vaughn Neubauer,480
+Albany,State House,46,REP,James J. Slater,927
+Albany,State House,46,DEM,Jan Alvaney,698
+Albany,State House,47,REP,Kurt S. Bucholz,44
+Albany,Ballots Cast,,REP,Ballots Cast,2967
+Albany,Ballots Cast,,DEM,Ballots Cast,2620
+Albany,Ballots Cast,,LIB,Ballots Cast,6
+Albany,Ballots Cast,,NP,Ballots Cast,268
+Big Horn,U.S. House,,REP,Barbara Cubin,1198
+Big Horn,U.S. House,,REP,Bruce S. Asay,1004
+Big Horn,U.S. House,,REP,Cale Case,168
+Big Horn,U.S. House,,REP,James (Jim) Altebaumer,52
+Big Horn,U.S. House,,REP,"Marvin ""Trip"" Applequist",31
+Big Horn,U.S. House,,LIB,Lewis Stock,4
+Big Horn,U.S. House,,,Al Hamburg,44
+Big Horn,U.S. House,,,John I. Henley,86
+Big Horn,U.S. House,,,Ted Ladd,140
+Big Horn,State Senate,20,REP,Gerald E. Geis,329
+Big Horn,State Senate,20,REP,Mark E. Hillman,453
+Big Horn,State House,26,REP,Elaine D. Harvey,1536
+Big Horn,State House,28,REP,"Charles N Stump, Jr.",176
+Big Horn,State House,28,REP,Lorraine Quarberg,593
+Big Horn,Ballots Cast,,REP,Ballots Cast,2500
+Big Horn,Ballots Cast,,DEM,Ballots Cast,316
+Big Horn,Ballots Cast,,LIB,Ballots Cast,5
+Big Horn,Ballots Cast,,NP,Ballots Cast,43
+Campbell,U.S. House,,REP,Barbara Cubin,3814
+Campbell,U.S. House,,REP,Bruce S. Asay,1198
+Campbell,U.S. House,,REP,Cale Case,608
+Campbell,U.S. House,,REP,James (Jim) Altebaumer,93
+Campbell,U.S. House,,REP,"Marvin ""Trip"" Applequist",89
+Campbell,U.S. House,,DEM,Al Hamburg,82
+Campbell,U.S. House,,DEM,John I. Henley,221
+Campbell,U.S. House,,DEM,Ted Ladd,254
+Campbell,U.S. House,,LIB,Lewis Stock,8
+Campbell,State Senate,24,REP,Dick Erb,1072
+Campbell,State Senate,24,REP,Michael Von Flatern,1670
+Campbell,State House,32,REP,Jeff Wasserburger,1392
+Campbell,State House,32,DEM,Duffy Jenniges,135
+Campbell,State House,52,REP,Burke Jackson,944
+Campbell,State House,53,REP,Frank W. Latta,1074
+Campbell,Ballots Cast,,REP,Ballots Cast,6104
+Campbell,Ballots Cast,,DEM,Ballots Cast,610
+Campbell,Ballots Cast,,LIB,Ballots Cast,8
+Campbell,Ballots Cast,,NP,Ballots Cast,87
+Carbon,U.S. House,,REP,Barbara Cubin,1256
+Carbon,U.S. House,,REP,Bruce S. Asay,418
+Carbon,U.S. House,,REP,Cale Case,302
+Carbon,U.S. House,,REP,James (Jim) Altebaumer,45
+Carbon,U.S. House,,REP,"Marvin ""Trip"" Applequist",57
+Carbon,U.S. House,,DEM,Al Hamburg,118
+Carbon,U.S. House,,DEM,John I. Henley,910
+Carbon,U.S. House,,DEM,Ted Ladd,462
+Carbon,U.S. House,,LIB,Lewis Stock,0
+Carbon,State House,15,REP,Dave Rader,840
+Carbon,State House,15,DEM,George W. Bagby,812
+Carbon,State House,47,REP,Kurt S. Bucholz,1008
+Carbon,Ballots Cast,,REP,Ballots Cast,2081
+Carbon,Ballots Cast,,DEM,Ballots Cast,1494
+Carbon,Ballots Cast,,LIB,Ballots Cast,0
+Carbon,Ballots Cast,,NP,Ballots Cast,1244
+Converse,U.S. House,,REP,Barbara Cubin,1309
+Converse,U.S. House,,REP,Bruce S. Asay,478
+Converse,U.S. House,,REP,Cale Case,394
+Converse,U.S. House,,REP,James (Jim) Altebaumer,52
+Converse,U.S. House,,REP,"Marvin ""Trip"" Applequist",73
+Converse,U.S. House,,DEM,Al Hamburg,61
+Converse,U.S. House,,DEM,John I. Henley,167
+Converse,U.S. House,,DEM,Ted Ladd,202
+Converse,State Senate,01,REP,"C.L. ""Chuck"" Townsend",130
+Converse,State Senate,02,REP,Jim Anderson,1980
+Converse,State House,02,REP,Kari Jo Gray,125
+Converse,State House,02,DEM,Ross Diercks,19
+Converse,State House,03,REP,Deborah Alden,534
+Converse,State House,06,REP,Dave Edwards,1304
+Converse,Ballots Cast,,REP,Ballots Cast,2378
+Converse,Ballots Cast,,DEM,Ballots Cast,456
+Converse,Ballots Cast,,LIB,Ballots Cast,7
+Converse,Ballots Cast,,NP,Ballots Cast,46
+Converse,United States,,LIB,Lewis Stock,4
+Crook,U.S. House,,REP,Barbara Cubin,1269
+Crook,U.S. House,,REP,Bruce S. Asay,219
+Crook,U.S. House,,REP,Cale Case,212
+Crook,U.S. House,,REP,James (Jim) Altebaumer,27
+Crook,U.S. House,,REP,"Marvin ""Trip"" Applequist",31
+Crook,U.S. House,,DEM,Al Hamburg,27
+Crook,U.S. House,,DEM,John I. Henley,74
+Crook,U.S. House,,DEM,Ted Ladd,100
+Crook,U.S. House,,LIB,Lewis Stock,6
+Crook,State Senate,01,REP,"C.L. ""Chuck"" Townsend",1555
+Crook,State House,01,REP,Mark A. Semlek,1376
+Crook,State House,01,REP,Ogden Driskill,396
+Crook,Ballots Cast,,REP,Ballots Cast,1806
+Crook,Ballots Cast,,DEM,Ballots Cast,227
+Crook,Ballots Cast,,LIB,Ballots Cast,8
+Crook,Ballots Cast,,NP,Ballots Cast,34
+Fremont,U.S. House,,REP,Barbara Cubin,3529
+Fremont,U.S. House,,REP,Bruce S. Asay,1145
+Fremont,U.S. House,,REP,Cale Case,2284
+Fremont,U.S. House,,REP,James (Jim) Altebaumer,35
+Fremont,U.S. House,,REP,"Marvin ""Trip"" Applequist",146
+Fremont,U.S. House,,DEM,Al Hamburg,264
+Fremont,U.S. House,,DEM,John I. Henley,815
+Fremont,U.S. House,,DEM,Ted Ladd,956
+Fremont,U.S. House,,LIB,Lewis Stock,9
+Fremont,State Senate,12,DEM,Rae Lynn Job,6
+Fremont,State Senate,26,REP,Robert A. Peck,3074
+Fremont,State House,23,REP,Keith Gingery,151
+Fremont,State House,23,REP,Lisa M. daCosta,120
+Fremont,State House,23,REP,Rod Everett,158
+Fremont,State House,23,DEM,Mike Gierau,84
+Fremont,State House,33,REP,Jim Allen,713
+Fremont,State House,33,DEM,Clarence V. Thomas,190
+Fremont,State House,33,DEM,Travis C. Brockie,147
+Fremont,State House,33,DEM,W. Patrick Goggles,258
+Fremont,State House,34,REP,Dennis Christensen,791
+Fremont,State House,34,REP,Frank Philp,1048
+Fremont,State House,48,DEM,Marty Martin,3
+Fremont,State House,54,REP,Del McOmie,1806
+Fremont,State House,55,REP,David R. Miller,1542
+Fremont,Ballots Cast,,REP,Ballots Cast,7286
+Fremont,Ballots Cast,,DEM,Ballots Cast,2187
+Fremont,Ballots Cast,,LIB,Ballots Cast,10
+Fremont,Ballots Cast,,NP,Ballots Cast,116
+Goshen,U.S. House,,REP,Barbara Cubin,1387
+Goshen,U.S. House,,REP,Bruce S. Asay,557
+Goshen,U.S. House,,REP,Cale Case,179
+Goshen,U.S. House,,REP,James (Jim) Altebaumer,36
+Goshen,U.S. House,,REP,"Marvin ""Trip"" Applequist",51
+Goshen,U.S. House,,DEM,Al Hamburg,77
+Goshen,U.S. House,,DEM,John I. Henley,304
+Goshen,U.S. House,,DEM,Ted Ladd,332
+Goshen,U.S. House,,LIB,Lewis Stock,2
+Goshen,State Senate,01,REP,"C.L. ""Chuck"" Townsend",47
+Goshen,State House,02,REP,Kari Jo Gray,48
+Goshen,State House,02,DEM,Ross Diercks,9
+Goshen,State House,04,REP,Edward A. Buchanan,1306
+Goshen,State House,05,REP,James C. Hageman,523
+Goshen,State House,05,REP,Roseanna Davison,252
+Goshen,Ballots Cast,,REP,Ballots Cast,2317
+Goshen,Ballots Cast,,DEM,Ballots Cast,760
+Goshen,Ballots Cast,,LIB,Ballots Cast,2
+Goshen,Ballots Cast,,NP,Ballots Cast,8
+Hot Springs,U.S. House,,REP,Barbara Cubin,733
+Hot Springs,U.S. House,,REP,Bruce S. Asay,329
+Hot Springs,U.S. House,,REP,Cale Case,202
+Hot Springs,U.S. House,,REP,James (Jim) Altebaumer,24
+Hot Springs,U.S. House,,REP,"Marvin ""Trip"" Applequist",51
+Hot Springs,U.S. House,,DEM,Al Hamburg,17
+Hot Springs,U.S. House,,DEM,John I. Henley,98
+Hot Springs,U.S. House,,DEM,Ted Ladd,108
+Hot Springs,U.S. House,,LIB,Lewis Stock,0
+Hot Springs,State Senate,20,REP,Gerald E. Geis,837
+Hot Springs,State Senate,20,REP,Mark E. Hillman,477
+Hot Springs,State House,28,REP,"Charles N Stump, Jr.",637
+Hot Springs,State House,28,REP,Lorraine Quarberg,718
+Hot Springs,Ballots Cast,,REP,Ballots Cast,1378
+Hot Springs,Ballots Cast,,DEM,Ballots Cast,233
+Hot Springs,Ballots Cast,,LIB,Ballots Cast,1
+Hot Springs,Ballots Cast,,NP,Ballots Cast,18
+Johnson,U.S. House,,REP,Barbara Cubin,1174
+Johnson,U.S. House,,REP,Bruce S. Asay,284
+Johnson,U.S. House,,REP,Cale Case,221
+Johnson,U.S. House,,REP,James (Jim) Altebaumer,35
+Johnson,U.S. House,,REP,"Marvin ""Trip"" Applequist",49
+Johnson,U.S. House,,DEM,Al Hamburg,21
+Johnson,U.S. House,,DEM,John I. Henley,72
+Johnson,U.S. House,,DEM,Ted Ladd,50
+Johnson,U.S. House,,LIB,Lewis Stock,9
+Johnson,State Senate,22,REP,John C. Schiffer,1668
+Johnson,State House,40,REP,Doug Osborn,1630
+Johnson,Ballots Cast,,REP,Ballots Cast,1820
+Johnson,Ballots Cast,,DEM,Ballots Cast,143
+Johnson,Ballots Cast,,LIB,Ballots Cast,9
+Johnson,Ballots Cast,,NP,Ballots Cast,12
+Laramie,U.S. House,,REP,Barbara Cubin,5259
+Laramie,U.S. House,,REP,Bruce S. Asay,4500
+Laramie,U.S. House,,REP,Cale Case,1610
+Laramie,U.S. House,,REP,James (Jim) Altebaumer,164
+Laramie,U.S. House,,REP,"Marvin ""Trip"" Applequist",214
+Laramie,U.S. House,,DEM,Al Hamburg,624
+Laramie,U.S. House,,DEM,John I. Henley,2149
+Laramie,U.S. House,,DEM,Ted Ladd,3476
+Laramie,U.S. House,,LIB,Lewis Stock,23
+Laramie,State Senate,04,REP,James Haller,1243
+Laramie,State Senate,04,REP,Tony Ross,1780
+Laramie,State Senate,06,REP,Cynthia A. Meister,275
+Laramie,State Senate,06,REP,Jon Kirkbride,1168
+Laramie,State Senate,06,REP,Wayne Johnson,1389
+Laramie,State Senate,06,DEM,Jana Howard Ginter,1062
+Laramie,State Senate,08,DEM,Jayne Mockler,1106
+Laramie,State House,07,REP,Doug Samuelson,1614
+Laramie,State House,07,DEM,Ken Tuma,231
+Laramie,State House,07,DEM,Mike Shonsey,520
+Laramie,State House,08,REP,David R. Miller,690
+Laramie,State House,08,REP,Greg Thomas,416
+Laramie,State House,08,REP,Larry Meuli,721
+Laramie,State House,09,REP,Bryan Pedersen,523
+Laramie,State House,09,REP,Dana Hannon,267
+Laramie,State House,09,REP,Martin N. Altenbern,397
+Laramie,State House,09,DEM,Ruth Bell,555
+Laramie,State House,10,REP,Donn L. Edmunds,281
+Laramie,State House,10,REP,John Brent Nichols,219
+Laramie,State House,10,REP,"Rodney ""Pete"" Anderson",973
+Laramie,State House,10,DEM,Melinda M. Young,502
+Laramie,State House,11,DEM,Tim Kingston,202
+Laramie,State House,11,DEM,Wayne Reese,537
+Laramie,State House,12,DEM,Layton D. Morgan,539
+Laramie,State House,41,REP,Becket B. Hinckley,1064
+Laramie,State House,41,DEM,Ken Esquibel,672
+Laramie,State House,42,REP,Pete Illoway,850
+Laramie,State House,42,DEM,Randall M. Lane,315
+Laramie,State House,43,REP,Dan Zwonitzer,488
+Laramie,State House,43,REP,Ed Prosser,443
+Laramie,State House,43,DEM,Terry Barbre,496
+Laramie,State House,44,DEM,Floyd A. Esquibel,551
+Laramie,Ballots Cast,,REP,Ballots Cast,11885
+Laramie,Ballots Cast,,DEM,Ballots Cast,6603
+Laramie,Ballots Cast,,LIB,Ballots Cast,27
+Laramie,Ballots Cast,,NP,Ballots Cast,563
+Lincoln,U.S. House,,REP,Barbara Cubin,2040
+Lincoln,U.S. House,,REP,Bruce S. Asay,886
+Lincoln,U.S. House,,REP,Cale Case,196
+Lincoln,U.S. House,,REP,James (Jim) Altebaumer,60
+Lincoln,U.S. House,,REP,"Marvin ""Trip"" Applequist",78
+Lincoln,U.S. House,,DEM,Al Hamburg,68
+Lincoln,U.S. House,,DEM,John I. Henley,364
+Lincoln,U.S. House,,DEM,Ted Ladd,180
+Lincoln,U.S. House,,LIB,Lewis Stock,3
+Lincoln,State Senate,14,REP,Stan Cooper,875
+Lincoln,State Senate,14,DEM,Larry Caller,380
+Lincoln,State Senate,16,REP,Ceci Elise Clover,112
+Lincoln,State Senate,16,REP,Mike Vinson,602
+Lincoln,State Senate,16,REP,Pat Aullman,890
+Lincoln,State Senate,16,REP,Steve Duerr,152
+Lincoln,State Senate,16,REP,Vince Zimmer,567
+Lincoln,State Senate,16,DEM,Jerry Bosch,197
+Lincoln,State House,20,REP,Frank A. Johnson,529
+Lincoln,State House,20,REP,Kathy Davison,484
+Lincoln,State House,21,REP,Randall Luthi,1964
+Lincoln,State House,22,REP,Monte Olsen,149
+Lincoln,Ballots Cast,,REP,Ballots Cast,3404
+Lincoln,Ballots Cast,,DEM,Ballots Cast,663
+Lincoln,Ballots Cast,,LIB,Ballots Cast,5
+Lincoln,Ballots Cast,,NP,Ballots Cast,78
+Natrona,U.S. House,,REP,Barbara Cubin,4682
+Natrona,U.S. House,,REP,Bruce S. Asay,2682
+Natrona,U.S. House,,REP,Cale Case,2292
+Natrona,U.S. House,,REP,James (Jim) Altebaumer,204
+Natrona,U.S. House,,REP,"Marvin ""Trip"" Applequist",217
+Natrona,U.S. House,,DEM,Al Hamburg,303
+Natrona,U.S. House,,DEM,John I. Henley,2492
+Natrona,U.S. House,,DEM,Ted Ladd,1763
+Natrona,U.S. House,,LIB,Lewis Stock,18
+Natrona,State Senate,28,REP,Kit Jennings,1707
+Natrona,State Senate,28,DEM,Keith Goodenough,1021
+Natrona,State Senate,30,REP,Charles K. Scott,1387
+Natrona,State Senate,30,REP,Tom Walters,853
+Natrona,State Senate,30,DEM,Ron Akin,946
+Natrona,State House,35,REP,Roy Cohee,1428
+Natrona,State House,36,REP,Gerald Gay,1009
+Natrona,State House,36,DEM,Liz Gentile,608
+Natrona,State House,37,REP,Kathy L. Martin,547
+Natrona,State House,37,REP,Steve Harshman,1243
+Natrona,State House,37,DEM,Scott Koenekamp,449
+Natrona,State House,38,REP,Bob Brechtel,700
+Natrona,State House,38,REP,Christine Frude,339
+Natrona,State House,38,REP,Elaine F. Scott,364
+Natrona,State House,38,DEM,Joan Bangen,467
+Natrona,State House,56,REP,Tom Walsh,957
+Natrona,State House,56,DEM,Kathy DeLisa,487
+Natrona,State House,57,REP,Thomas A. Lockhart,885
+Natrona,State House,57,DEM,Margo Miller,488
+Natrona,State House,57,LIB,Hubert AR Townsend,4
+Natrona,State House,57,LIB,Timothy A. De Lany,3
+Natrona,State House,58,DEM,Ann Robinson,498
+Natrona,State House,59,REP,Ted Lee,801
+Natrona,State House,59,DEM,Mary Meyer Gilmore,624
+Natrona,Ballots Cast,,REP,Ballots Cast,10276
+Natrona,Ballots Cast,,DEM,Ballots Cast,4695
+Natrona,Ballots Cast,,LIB,Ballots Cast,23
+Natrona,Ballots Cast,,NP,Ballots Cast,172
+Niobrara,U.S. House,,REP,Barbara Cubin,520
+Niobrara,U.S. House,,REP,Bruce S. Asay,218
+Niobrara,U.S. House,,REP,Cale Case,82
+Niobrara,U.S. House,,REP,James (Jim) Altebaumer,12
+Niobrara,U.S. House,,REP,"Marvin ""Trip"" Applequist",31
+Niobrara,U.S. House,,DEM,Al Hamburg,8
+Niobrara,U.S. House,,DEM,John I. Henley,23
+Niobrara,U.S. House,,DEM,Ted Ladd,31
+Niobrara,U.S. House,,LIB,Lewis Stock,3
+Niobrara,State Senate,01,REP,"C.L. ""Chuck"" Townsend",746
+Niobrara,State House,02,REP,Kari Jo Gray,675
+Niobrara,State House,02,DEM,Ross Diercks,65
+Niobrara,Ballots Cast,,REP,Ballots Cast,890
+Niobrara,Ballots Cast,,DEM,Ballots Cast,70
+Niobrara,Ballots Cast,,LIB,Ballots Cast,3
+Niobrara,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,County Coroner,,DEM,Cissie Edwards,46
+Park,U.S. House,,REP,Barbara Cubin,3071
+Park,U.S. House,,REP,Bruce S. Asay,1348
+Park,U.S. House,,REP,Cale Case,981
+Park,U.S. House,,REP,James (Jim) Altebaumer,91
+Park,U.S. House,,REP,"Marvin ""Trip"" Applequist",106
+Park,U.S. House,,DEM,Al Hamburg,80
+Park,U.S. House,,DEM,John I. Henley,340
+Park,U.S. House,,DEM,Ted Ladd,267
+Park,U.S. House,,LIB,Lewis Stock,25
+Park,State Senate,18,REP,"Henry H.R. ""Hank"" Coe",3357
+Park,State Senate,20,REP,Gerald E. Geis,0
+Park,State Senate,20,REP,Mark E. Hillman,0
+Park,State House,24,REP,Colin M. Simpson,1772
+Park,State House,25,REP,Alan C. Jones,1385
+Park,State House,26,REP,Elaine D. Harvey,49
+Park,State House,28,REP,"Charles N Stump, Jr.",0
+Park,State House,28,REP,Lorraine Quarberg,0
+Park,State House,50,REP,Pat Childers,1682
+Park,Ballots Cast,,REP,Ballots Cast,5773
+Park,Ballots Cast,,DEM,Ballots Cast,743
+Park,Ballots Cast,,LIB,Ballots Cast,32
+Park,Ballots Cast,,NP,Ballots Cast,146
+Platte,U.S. House,,REP,Barbara Cubin,892
+Platte,U.S. House,,REP,Bruce S. Asay,314
+Platte,U.S. House,,REP,Cale Case,183
+Platte,U.S. House,,REP,James (Jim) Altebaumer,29
+Platte,U.S. House,,REP,"Marvin ""Trip"" Applequist",29
+Platte,U.S. House,,DEM,Al Hamburg,75
+Platte,U.S. House,,DEM,John I. Henley,376
+Platte,U.S. House,,DEM,Ted Ladd,187
+Platte,U.S. House,,LIB,Lewis Stock,1
+Platte,State Senate,02,REP,Jim Anderson,827
+Platte,State House,03,REP,Deborah Alden,740
+Platte,State House,05,REP,James C. Hageman,283
+Platte,State House,05,REP,Roseanna Davison,223
+Platte,Ballots Cast,,REP,Ballots Cast,1475
+Platte,Ballots Cast,,DEM,Ballots Cast,675
+Platte,Ballots Cast,,LIB,Ballots Cast,2
+Platte,Ballots Cast,,NP,Ballots Cast,33
+Sheridan,U.S. House,,REP,Barbara Cubin,3328
+Sheridan,U.S. House,,REP,Bruce S. Asay,1318
+Sheridan,U.S. House,,REP,Cale Case,671
+Sheridan,U.S. House,,REP,James (Jim) Altebaumer,97
+Sheridan,U.S. House,,REP,"Marvin ""Trip"" Applequist",91
+Sheridan,U.S. House,,DEM,Al Hamburg,139
+Sheridan,U.S. House,,DEM,John I. Henley,742
+Sheridan,U.S. House,,DEM,Ted Ladd,1011
+Sheridan,U.S. House,,LIB,Lewis Stock,14
+Sheridan,State Senate,22,REP,John C. Schiffer,1711
+Sheridan,State House,29,REP,Jerry Iekel,1347
+Sheridan,State House,30,REP,Jack Landon Jr.,1454
+Sheridan,State House,30,DEM,Cissy Dillon,540
+Sheridan,State House,40,REP,Doug Osborn,267
+Sheridan,State House,51,REP,Carole Perkins,759
+Sheridan,State House,51,REP,Rosie Berger,1389
+Sheridan,Ballots Cast,,REP,Ballots Cast,5679
+Sheridan,Ballots Cast,,DEM,Ballots Cast,2046
+Sheridan,Ballots Cast,,LIB,Ballots Cast,18
+Sheridan,Ballots Cast,,NP,Ballots Cast,228
+Sublette,U.S. House,,REP,Barbara Cubin,1164
+Sublette,U.S. House,,REP,Bruce S. Asay,149
+Sublette,U.S. House,,REP,Cale Case,187
+Sublette,U.S. House,,REP,James (Jim) Altebaumer,43
+Sublette,U.S. House,,REP,"Marvin ""Trip"" Applequist",290
+Sublette,U.S. House,,DEM,Al Hamburg,18
+Sublette,U.S. House,,DEM,John I. Henley,47
+Sublette,U.S. House,,DEM,Ted Ladd,74
+Sublette,U.S. House,,LIB,Lewis Stock,0
+Sublette,State Senate,14,REP,Stan Cooper,464
+Sublette,State Senate,14,DEM,Larry Caller,28
+Sublette,State Senate,16,REP,Ceci Elise Clover,173
+Sublette,State Senate,16,REP,Mike Vinson,387
+Sublette,State Senate,16,REP,Pat Aullman,152
+Sublette,State Senate,16,REP,Steve Duerr,480
+Sublette,State Senate,16,REP,Vince Zimmer,121
+Sublette,State Senate,16,DEM,Jerry Bosch,104
+Sublette,State House,20,REP,Frank A. Johnson,180
+Sublette,State House,20,REP,Kathy Davison,270
+Sublette,State House,22,REP,Monte Olsen,1074
+Sublette,Ballots Cast,,REP,Ballots Cast,1924
+Sublette,Ballots Cast,,DEM,Ballots Cast,147
+Sublette,Ballots Cast,,LIB,Ballots Cast,0
+Sublette,Ballots Cast,,NP,Ballots Cast,1
+Sweetwater,U.S. House,,REP,Barbara Cubin,2383
+Sweetwater,U.S. House,,REP,Bruce S. Asay,526
+Sweetwater,U.S. House,,REP,Cale Case,340
+Sweetwater,U.S. House,,REP,James (Jim) Altebaumer,60
+Sweetwater,U.S. House,,REP,"Marvin ""Trip"" Applequist",374
+Sweetwater,U.S. House,,DEM,Al Hamburg,468
+Sweetwater,U.S. House,,DEM,John I. Henley,1864
+Sweetwater,U.S. House,,DEM,Ted Ladd,2318
+Sweetwater,U.S. House,,LIB,Lewis Stock,20
+Sweetwater,State Senate,12,DEM,Rae Lynn Job,2038
+Sweetwater,State Senate,14,REP,Stan Cooper,704
+Sweetwater,State Senate,14,DEM,Larry Caller,507
+Sweetwater,State House,17,REP,Steve Watt,547
+Sweetwater,State House,17,DEM,Stephen J. Shea,856
+Sweetwater,State House,18,REP,Mick Powers,439
+Sweetwater,State House,20,REP,Frank A. Johnson,139
+Sweetwater,State House,20,REP,Kathy Davison,119
+Sweetwater,State House,39,DEM,John M. Hastert,982
+Sweetwater,State House,48,DEM,Marty Martin,1099
+Sweetwater,State House,60,DEM,Bill Thompson,962
+Sweetwater,Ballots Cast,,REP,Ballots Cast,3850
+Sweetwater,Ballots Cast,,DEM,Ballots Cast,5167
+Sweetwater,Ballots Cast,,LIB,Ballots Cast,25
+Sweetwater,Ballots Cast,,NP,Ballots Cast,297
+Teton,U.S. House,,REP,Barbara Cubin,1318
+Teton,U.S. House,,REP,Bruce Asay,424
+Teton,U.S. House,,REP,Cale Case,901
+Teton,U.S. House,,REP,James (Jim) Altebaumer,73
+Teton,U.S. House,,REP,"Marvin ""Trip"" Applequist",103
+Teton,U.S. House,,DEM,Al Hamburg,36
+Teton,U.S. House,,DEM,John I. Henley,111
+Teton,U.S. House,,DEM,Ted Ladd,1049
+Teton,U.S. House,,LIB,Lewis Stock,4
+Teton,State Senate,16,REP,Ceci Elise Clover,217
+Teton,State Senate,16,REP,Mike Vinson,30
+Teton,State Senate,16,REP,Pat Aullman,27
+Teton,State Senate,16,REP,Steve Duerr,237
+Teton,State Senate,16,REP,Vince Zimmer,24
+Teton,State Senate,16,DEM,Jerry Bosch,178
+Teton,State House,16,DEM,Pete Jorgensen,549
+Teton,State House,22,REP,Monte Olsen,414
+Teton,State House,23,REP,Keith Gingery,436
+Teton,State House,23,REP,Lisa M. daCosta,274
+Teton,State House,23,REP,Rod Everett,361
+Teton,State House,23,DEM,Mike Gierau,393
+Teton,Ballots Cast,,REP,Ballots Cast,3075
+Teton,Ballots Cast,,DEM,Ballots Cast,1242
+Teton,Ballots Cast,,LIB,Ballots Cast,4
+Teton,Ballots Cast,,NP,Ballots Cast,17
+Teton,House District 23,,DEM,Ballots Cast,1258
+Uinta,U.S. House,,REP,Barbara Cubin,1273
+Uinta,U.S. House,,REP,Bruce S. Asay,728
+Uinta,U.S. House,,REP,Cale Case,199
+Uinta,U.S. House,,REP,James (Jim) Altebaumer,24
+Uinta,U.S. House,,REP,"Marvin ""Trip"" Applequist",80
+Uinta,U.S. House,,DEM,Al Hamburg,91
+Uinta,U.S. House,,DEM,John I. Henley,581
+Uinta,U.S. House,,DEM,Ted Ladd,290
+Uinta,U.S. House,,LIB,Lewis Stock,1
+Uinta,State Senate,14,REP,Stan Cooper,481
+Uinta,State Senate,14,DEM,Larry Caller,184
+Uinta,State House,18,REP,Mick Powers,527
+Uinta,State House,19,REP,Owen Petersen,810
+Uinta,State House,49,REP,Bruce R. Barnard,793
+Uinta,State House,49,DEM,Saundra Meyer,435
+Uinta,Ballots Cast,,REP,Ballots Cast,2352
+Uinta,Ballots Cast,,DEM,Ballots Cast,1015
+Uinta,Ballots Cast,,LIB,Ballots Cast,1
+Uinta,Ballots Cast,,NP,Ballots Cast,85
+Washakie,U.S. House,,REP,Barbara Cubin,1125
+Washakie,U.S. House,,REP,Bruce S. Asay,547
+Washakie,U.S. House,,REP,Cale Case,297
+Washakie,U.S. House,,REP,James (Jim) Altebaumer,48
+Washakie,U.S. House,,REP,"Marvin ""Trip"" Applequist",51
+Washakie,U.S. House,,DEM,Al Hamburg,47
+Washakie,U.S. House,,DEM,John I. Henley,175
+Washakie,U.S. House,,DEM,Ted Ladd,180
+Washakie,U.S. House,,LIB,Lewis Stock,1
+Washakie,State Senate,20,REP,Gerald E. Geis,1459
+Washakie,State Senate,20,REP,Mark E. Hillman,614
+Washakie,State House,27,REP,Jane Wostenberg,1365
+Washakie,State House,27,DEM,Debbie Healy Hammons,412
+Washakie,Ballots Cast,,REP,Ballots Cast,2148
+Washakie,Ballots Cast,,DEM,Ballots Cast,451
+Washakie,Ballots Cast,,LIB,Ballots Cast,1
+Washakie,Ballots Cast,,NP,Ballots Cast,30
+Weston,U.S. House,,REP,Barbara Cubin,1142
+Weston,U.S. House,,REP,Bruce S. Asay,278
+Weston,U.S. House,,REP,Cale Case,171
+Weston,U.S. House,,REP,James (Jim) Altebaumer,34
+Weston,U.S. House,,REP,"Marvin ""Trip"" Applequist",48
+Weston,U.S. House,,DEM,Al Hamburg,36
+Weston,U.S. House,,DEM,John I. Henley,85
+Weston,U.S. House,,DEM,Ted Ladd,103
+Weston,U.S. House,,LIB,Lewis Stock,2
+Weston,State Senate,01,REP,"C.L. ""Chuck"" Townsend",1585
+Weston,State House,01,REP,Mark A. Semlek,491
+Weston,State House,01,REP,Ogden Driskill,214
+Weston,State House,02,REP,Kari Jo Gray,766
+Weston,State House,02,DEM,Ross Diercks,156
+Weston,Ballots Cast,,REP,Ballots Cast,1736
+Weston,Ballots Cast,,DEM,Ballots Cast,262
+Weston,Ballots Cast,,LIB,Ballots Cast,2
+Weston,Ballots Cast,,NP,Ballots Cast,34

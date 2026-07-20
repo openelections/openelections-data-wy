@@ -1,0 +1,855 @@
+county,precinct,office,district,party,candidate,votes
+Natrona,Alcova School 11-2,U.S. Senate,,REP,Enzi,92
+Natrona,Alcova School 11-2,U.S. Senate,,DEM,Akin,37
+Natrona,Alcova School 11-2,U.S. Senate,,DEM,Corcoran,19
+Natrona,Alcova School 11-2,U.S. House,,REP,Cubin,75
+Natrona,Alcova School 11-2,U.S. House,,LIB,Stock,4
+Natrona,Alcova School 11-2,Governor,,REP,Bebout,72
+Natrona,Alcova School 11-2,Governor,,DEM,Freudenthal,42
+Natrona,Alcova School 11-2,Governor,,LIB,Brossman,12
+Natrona,Alcova School 11-2,Governor,,LIB,Dawson,6
+Natrona,Alcova School 11-2,Secretary of State,,REP,Meyer,92
+Natrona,Alcova School 11-2,State Auditor,,REP,Maxfield,84
+Natrona,Alcova School 11-2,State Auditor,,DEM,Harris,29
+Natrona,Alcova School 11-2,State Treasurer,,REP,Lummis,101
+Natrona,Alcova School 11-2,Superintendent of Public Instruction,,REP,Blankenship,70
+Natrona,Alcova School 11-2,Superintendent of Public Instruction,,DEM,Emmons,43
+Natrona,Alcova School 11-2,State House,38,REP,Brechtel,62
+Natrona,Alcova School 11-2,State House,38,DEM,Berry,38
+Natrona,Alcova School 11-2,Ballots Cast,,,Ballots Cast,120
+Natrona,Bar Nunn School 8-5,U.S. Senate,,REP,Enzi,215
+Natrona,Bar Nunn School 8-5,U.S. Senate,,DEM,Akin,113
+Natrona,Bar Nunn School 8-5,U.S. Senate,,DEM,Corcoran,71
+Natrona,Bar Nunn School 8-5,U.S. House,,REP,Cubin,153
+Natrona,Bar Nunn School 8-5,U.S. House,,LIB,Stock,20
+Natrona,Bar Nunn School 8-5,Governor,,REP,Bebout,129
+Natrona,Bar Nunn School 8-5,Governor,,DEM,Freudenthal,143
+Natrona,Bar Nunn School 8-5,Governor,,LIB,Brossman,64
+Natrona,Bar Nunn School 8-5,Governor,,LIB,Dawson,17
+Natrona,Bar Nunn School 8-5,Secretary of State,,REP,Meyer,207
+Natrona,Bar Nunn School 8-5,State Auditor,,REP,Maxfield,177
+Natrona,Bar Nunn School 8-5,State Auditor,,DEM,Harris,105
+Natrona,Bar Nunn School 8-5,State Treasurer,,REP,Lummis,243
+Natrona,Bar Nunn School 8-5,Superintendent of Public Instruction,,REP,Blankenship,160
+Natrona,Bar Nunn School 8-5,Superintendent of Public Instruction,,DEM,Emmons,122
+Natrona,Bar Nunn School 8-5,State House,58,DEM,Robinson,189
+Natrona,Bar Nunn School 8-5,Ballots Cast,,,Ballots Cast,289
+Natrona,Bethel Baptist Church 2-10,U.S. Senate,,REP,Enzi,752
+Natrona,Bethel Baptist Church 2-10,U.S. Senate,,DEM,Akin,393
+Natrona,Bethel Baptist Church 2-10,U.S. Senate,,DEM,Corcoran,197
+Natrona,Bethel Baptist Church 2-10,U.S. House,,REP,Cubin,511
+Natrona,Bethel Baptist Church 2-10,U.S. House,,LIB,Stock,23
+Natrona,Bethel Baptist Church 2-10,Governor,,REP,Bebout,482
+Natrona,Bethel Baptist Church 2-10,Governor,,DEM,Freudenthal,462
+Natrona,Bethel Baptist Church 2-10,Governor,,LIB,Brossman,100
+Natrona,Bethel Baptist Church 2-10,Governor,,LIB,Dawson,10
+Natrona,Bethel Baptist Church 2-10,Secretary of State,,REP,Meyer,769
+Natrona,Bethel Baptist Church 2-10,State Auditor,,REP,Maxfield,665
+Natrona,Bethel Baptist Church 2-10,State Auditor,,DEM,Harris,261
+Natrona,Bethel Baptist Church 2-10,State Treasurer,,REP,Lummis,785
+Natrona,Bethel Baptist Church 2-10,Superintendent of Public Instruction,,REP,Blankenship,534
+Natrona,Bethel Baptist Church 2-10,Superintendent of Public Instruction,,DEM,Emmons,396
+Natrona,Bethel Baptist Church 2-10,State Senate,29,REP,Hawks,759
+Natrona,Bethel Baptist Church 2-10,State House,37,REP,Harshman,596
+Natrona,Bethel Baptist Church 2-10,State House,37,DEM,Koch,330
+Natrona,Bethel Baptist Church 2-10,Ballots Cast,,,Ballots Cast,965
+Natrona,Bressler Ranch 13-1,U.S. Senate,,REP,Enzi,46
+Natrona,Bressler Ranch 13-1,U.S. Senate,,DEM,Akin,12
+Natrona,Bressler Ranch 13-1,U.S. Senate,,DEM,Corcoran,4
+Natrona,Bressler Ranch 13-1,U.S. House,,REP,Cubin,35
+Natrona,Bressler Ranch 13-1,U.S. House,,LIB,Stock,1
+Natrona,Bressler Ranch 13-1,Governor,,REP,Bebout,37
+Natrona,Bressler Ranch 13-1,Governor,,DEM,Freudenthal,9
+Natrona,Bressler Ranch 13-1,Governor,,LIB,Brossman,2
+Natrona,Bressler Ranch 13-1,Governor,,LIB,Dawson,2
+Natrona,Bressler Ranch 13-1,Secretary of State,,REP,Meyer,46
+Natrona,Bressler Ranch 13-1,State Auditor,,REP,Maxfield,43
+Natrona,Bressler Ranch 13-1,State Auditor,,DEM,Harris,5
+Natrona,Bressler Ranch 13-1,State Treasurer,,REP,Lummis,45
+Natrona,Bressler Ranch 13-1,Superintendent of Public Instruction,,REP,Blankenship,39
+Natrona,Bressler Ranch 13-1,Superintendent of Public Instruction,,DEM,Emmons,9
+Natrona,Bressler Ranch 13-1,State House,38,REP,Brechtel,29
+Natrona,Bressler Ranch 13-1,State House,38,DEM,Berry,12
+Natrona,Bressler Ranch 13-1,Ballots Cast,,,Ballots Cast,50
+Natrona,CY Junior High School 2-3,U.S. Senate,,REP,Enzi,392
+Natrona,CY Junior High School 2-3,U.S. Senate,,DEM,Akin,277
+Natrona,CY Junior High School 2-3,U.S. Senate,,DEM,Corcoran,163
+Natrona,CY Junior High School 2-3,U.S. House,,REP,Cubin,251
+Natrona,CY Junior High School 2-3,U.S. House,,LIB,Stock,26
+Natrona,CY Junior High School 2-3,Governor,,REP,Bebout,224
+Natrona,CY Junior High School 2-3,Governor,,DEM,Freudenthal,319
+Natrona,CY Junior High School 2-3,Governor,,LIB,Brossman,106
+Natrona,CY Junior High School 2-3,Governor,,LIB,Dawson,20
+Natrona,CY Junior High School 2-3,Secretary of State,,REP,Meyer,412
+Natrona,CY Junior High School 2-3,State Auditor,,REP,Maxfield,340
+Natrona,CY Junior High School 2-3,State Auditor,,DEM,Harris,205
+Natrona,CY Junior High School 2-3,State Treasurer,,REP,Lummis,451
+Natrona,CY Junior High School 2-3,Superintendent of Public Instruction,,REP,Blankenship,269
+Natrona,CY Junior High School 2-3,Superintendent of Public Instruction,,DEM,Emmons,278
+Natrona,CY Junior High School 2-3,State Senate,29,REP,Hawks,437
+Natrona,CY Junior High School 2-3,State House,59,REP,Dorsett,257
+Natrona,CY Junior High School 2-3,State House,59,DEM,Gilmore,287
+Natrona,CY Junior High School 2-3,Ballots Cast,,,Ballots Cast,570
+Natrona,Casper College 1-4,U.S. Senate,,REP,Enzi,453
+Natrona,Casper College 1-4,U.S. Senate,,DEM,Akin,303
+Natrona,Casper College 1-4,U.S. Senate,,DEM,Corcoran,192
+Natrona,Casper College 1-4,U.S. House,,REP,Cubin,329
+Natrona,Casper College 1-4,U.S. House,,LIB,Stock,18
+Natrona,Casper College 1-4,Governor,,REP,Bebout,263
+Natrona,Casper College 1-4,Governor,,DEM,Freudenthal,381
+Natrona,Casper College 1-4,Governor,,LIB,Brossman,111
+Natrona,Casper College 1-4,Governor,,LIB,Dawson,20
+Natrona,Casper College 1-4,Secretary of State,,REP,Meyer,480
+Natrona,Casper College 1-4,State Auditor,,REP,Maxfield,425
+Natrona,Casper College 1-4,State Auditor,,DEM,Harris,224
+Natrona,Casper College 1-4,State Treasurer,,REP,Lummis,525
+Natrona,Casper College 1-4,Superintendent of Public Instruction,,REP,Blankenship,317
+Natrona,Casper College 1-4,Superintendent of Public Instruction,,DEM,Emmons,331
+Natrona,Casper College 1-4,State House,56,REP,Walsh,337
+Natrona,Casper College 1-4,State House,56,DEM,Mahaffey,186
+Natrona,Casper College 1-4,Ballots Cast,,,Ballots Cast,673
+Natrona,Centennial Jr. High School 3-10,U.S. Senate,,REP,Enzi,762
+Natrona,Centennial Jr. High School 3-10,U.S. Senate,,DEM,Akin,339
+Natrona,Centennial Jr. High School 3-10,U.S. Senate,,DEM,Corcoran,172
+Natrona,Centennial Jr. High School 3-10,U.S. House,,REP,Cubin,550
+Natrona,Centennial Jr. High School 3-10,U.S. House,,LIB,Stock,32
+Natrona,Centennial Jr. High School 3-10,Governor,,REP,Bebout,498
+Natrona,Centennial Jr. High School 3-10,Governor,,DEM,Freudenthal,441
+Natrona,Centennial Jr. High School 3-10,Governor,,LIB,Brossman,91
+Natrona,Centennial Jr. High School 3-10,Governor,,LIB,Dawson,10
+Natrona,Centennial Jr. High School 3-10,Secretary of State,,REP,Meyer,783
+Natrona,Centennial Jr. High School 3-10,State Auditor,,REP,Maxfield,692
+Natrona,Centennial Jr. High School 3-10,State Auditor,,DEM,Harris,223
+Natrona,Centennial Jr. High School 3-10,State Treasurer,,REP,Lummis,800
+Natrona,Centennial Jr. High School 3-10,Superintendent of Public Instruction,,REP,Blankenship,533
+Natrona,Centennial Jr. High School 3-10,Superintendent of Public Instruction,,DEM,Emmons,391
+Natrona,Centennial Jr. High School 3-10,State Senate,27,REP,Barrasso,796
+Natrona,Centennial Jr. High School 3-10,State House,35,REP,Cohee,791
+Natrona,Centennial Jr. High School 3-10,Ballots Cast,,,Ballots Cast,954
+Natrona,Crest Hill School 1-11,U.S. Senate,,REP,Enzi,475
+Natrona,Crest Hill School 1-11,U.S. Senate,,DEM,Akin,261
+Natrona,Crest Hill School 1-11,U.S. Senate,,DEM,Corcoran,125
+Natrona,Crest Hill School 1-11,U.S. House,,REP,Cubin,331
+Natrona,Crest Hill School 1-11,U.S. House,,LIB,Stock,6
+Natrona,Crest Hill School 1-11,Governor,,REP,Bebout,281
+Natrona,Crest Hill School 1-11,Governor,,DEM,Freudenthal,318
+Natrona,Crest Hill School 1-11,Governor,,LIB,Brossman,49
+Natrona,Crest Hill School 1-11,Governor,,LIB,Dawson,6
+Natrona,Crest Hill School 1-11,Secretary of State,,REP,Meyer,518
+Natrona,Crest Hill School 1-11,State Auditor,,REP,Maxfield,431
+Natrona,Crest Hill School 1-11,State Auditor,,DEM,Harris,162
+Natrona,Crest Hill School 1-11,State Treasurer,,REP,Lummis,517
+Natrona,Crest Hill School 1-11,Superintendent of Public Instruction,,REP,Blankenship,291
+Natrona,Crest Hill School 1-11,Superintendent of Public Instruction,,DEM,Emmons,308
+Natrona,Crest Hill School 1-11,State Senate,29,REP,Hawks,505
+Natrona,Crest Hill School 1-11,State House,37,REP,Harshman,356
+Natrona,Crest Hill School 1-11,State House,37,DEM,Koch,229
+Natrona,Crest Hill School 1-11,Ballots Cast,,,Ballots Cast,609
+Natrona,Dean Morgan Jr. High School 1-3,U.S. Senate,,REP,Enzi,425
+Natrona,Dean Morgan Jr. High School 1-3,U.S. Senate,,DEM,Akin,372
+Natrona,Dean Morgan Jr. High School 1-3,U.S. Senate,,DEM,Corcoran,248
+Natrona,Dean Morgan Jr. High School 1-3,U.S. House,,REP,Cubin,262
+Natrona,Dean Morgan Jr. High School 1-3,U.S. House,,LIB,Stock,34
+Natrona,Dean Morgan Jr. High School 1-3,Governor,,REP,Bebout,220
+Natrona,Dean Morgan Jr. High School 1-3,Governor,,DEM,Freudenthal,432
+Natrona,Dean Morgan Jr. High School 1-3,Governor,,LIB,Brossman,149
+Natrona,Dean Morgan Jr. High School 1-3,Governor,,LIB,Dawson,25
+Natrona,Dean Morgan Jr. High School 1-3,Secretary of State,,REP,Meyer,464
+Natrona,Dean Morgan Jr. High School 1-3,State Auditor,,REP,Maxfield,374
+Natrona,Dean Morgan Jr. High School 1-3,State Auditor,,DEM,Harris,286
+Natrona,Dean Morgan Jr. High School 1-3,State Treasurer,,REP,Lummis,529
+Natrona,Dean Morgan Jr. High School 1-3,Superintendent of Public Instruction,,REP,Blankenship,268
+Natrona,Dean Morgan Jr. High School 1-3,Superintendent of Public Instruction,,DEM,Emmons,392
+Natrona,Dean Morgan Jr. High School 1-3,State House,56,REP,Walsh,286
+Natrona,Dean Morgan Jr. High School 1-3,State House,56,DEM,Mahaffey,272
+Natrona,Dean Morgan Jr. High School 1-3,Ballots Cast,,,Ballots Cast,683
+Natrona,East Junior High School 1-7,U.S. Senate,,REP,Enzi,218
+Natrona,East Junior High School 1-7,U.S. Senate,,DEM,Akin,206
+Natrona,East Junior High School 1-7,U.S. Senate,,DEM,Corcoran,143
+Natrona,East Junior High School 1-7,U.S. House,,REP,Cubin,139
+Natrona,East Junior High School 1-7,U.S. House,,LIB,Stock,23
+Natrona,East Junior High School 1-7,Governor,,REP,Bebout,129
+Natrona,East Junior High School 1-7,Governor,,DEM,Freudenthal,231
+Natrona,East Junior High School 1-7,Governor,,LIB,Brossman,103
+Natrona,East Junior High School 1-7,Governor,,LIB,Dawson,16
+Natrona,East Junior High School 1-7,Secretary of State,,REP,Meyer,239
+Natrona,East Junior High School 1-7,State Auditor,,REP,Maxfield,190
+Natrona,East Junior High School 1-7,State Auditor,,DEM,Harris,177
+Natrona,East Junior High School 1-7,State Treasurer,,REP,Lummis,294
+Natrona,East Junior High School 1-7,Superintendent of Public Instruction,,REP,Blankenship,132
+Natrona,East Junior High School 1-7,Superintendent of Public Instruction,,DEM,Emmons,230
+Natrona,East Junior High School 1-7,State House,57,REP,Lockhart,152
+Natrona,East Junior High School 1-7,State House,57,DEM,Bullard,162
+Natrona,East Junior High School 1-7,Ballots Cast,,,Ballots Cast,377
+Natrona,Edgerton Town Hall 7-2,U.S. Senate,,REP,Enzi,65
+Natrona,Edgerton Town Hall 7-2,U.S. Senate,,DEM,Akin,27
+Natrona,Edgerton Town Hall 7-2,U.S. Senate,,DEM,Corcoran,17
+Natrona,Edgerton Town Hall 7-2,U.S. House,,REP,Cubin,50
+Natrona,Edgerton Town Hall 7-2,U.S. House,,LIB,Stock,3
+Natrona,Edgerton Town Hall 7-2,Governor,,REP,Bebout,42
+Natrona,Edgerton Town Hall 7-2,Governor,,DEM,Freudenthal,37
+Natrona,Edgerton Town Hall 7-2,Governor,,LIB,Brossman,19
+Natrona,Edgerton Town Hall 7-2,Governor,,LIB,Dawson,3
+Natrona,Edgerton Town Hall 7-2,Secretary of State,,REP,Meyer,62
+Natrona,Edgerton Town Hall 7-2,State Auditor,,REP,Maxfield,55
+Natrona,Edgerton Town Hall 7-2,State Auditor,,DEM,Harris,22
+Natrona,Edgerton Town Hall 7-2,State Treasurer,,REP,Lummis,71
+Natrona,Edgerton Town Hall 7-2,Superintendent of Public Instruction,,REP,Blankenship,41
+Natrona,Edgerton Town Hall 7-2,Superintendent of Public Instruction,,DEM,Emmons,38
+Natrona,Edgerton Town Hall 7-2,State House,58,DEM,Robinson,52
+Natrona,Edgerton Town Hall 7-2,Ballots Cast,,,Ballots Cast,82
+Natrona,Evansville School 4-1,U.S. Senate,,REP,Enzi,319
+Natrona,Evansville School 4-1,U.S. Senate,,DEM,Akin,227
+Natrona,Evansville School 4-1,U.S. Senate,,DEM,Corcoran,159
+Natrona,Evansville School 4-1,U.S. House,,REP,Cubin,223
+Natrona,Evansville School 4-1,U.S. House,,LIB,Stock,27
+Natrona,Evansville School 4-1,Governor,,REP,Bebout,205
+Natrona,Evansville School 4-1,Governor,,DEM,Freudenthal,264
+Natrona,Evansville School 4-1,Governor,,LIB,Brossman,114
+Natrona,Evansville School 4-1,Governor,,LIB,Dawson,17
+Natrona,Evansville School 4-1,Secretary of State,,REP,Meyer,335
+Natrona,Evansville School 4-1,State Auditor,,REP,Maxfield,283
+Natrona,Evansville School 4-1,State Auditor,,DEM,Harris,194
+Natrona,Evansville School 4-1,State Treasurer,,REP,Lummis,401
+Natrona,Evansville School 4-1,Superintendent of Public Instruction,,REP,Blankenship,224
+Natrona,Evansville School 4-1,Superintendent of Public Instruction,,DEM,Emmons,247
+Natrona,Evansville School 4-1,State Senate,27,REP,Barrasso,401
+Natrona,Evansville School 4-1,State House,35,REP,Cohee,25
+Natrona,Evansville School 4-1,State House,36,REP,Tanner,212
+Natrona,Evansville School 4-1,State House,36,DEM,Gentile,237
+Natrona,Evansville School 4-1,Ballots Cast,,,Ballots Cast,494
+Natrona,Evansville School 4-2,U.S. Senate,,REP,Enzi,394
+Natrona,Evansville School 4-2,U.S. Senate,,DEM,Akin,223
+Natrona,Evansville School 4-2,U.S. Senate,,DEM,Corcoran,152
+Natrona,Evansville School 4-2,U.S. House,,REP,Cubin,300
+Natrona,Evansville School 4-2,U.S. House,,LIB,Stock,19
+Natrona,Evansville School 4-2,Governor,,REP,Bebout,258
+Natrona,Evansville School 4-2,Governor,,DEM,Freudenthal,268
+Natrona,Evansville School 4-2,Governor,,LIB,Brossman,87
+Natrona,Evansville School 4-2,Governor,,LIB,Dawson,20
+Natrona,Evansville School 4-2,Secretary of State,,REP,Meyer,412
+Natrona,Evansville School 4-2,State Auditor,,REP,Maxfield,365
+Natrona,Evansville School 4-2,State Auditor,,DEM,Harris,171
+Natrona,Evansville School 4-2,State Treasurer,,REP,Lummis,440
+Natrona,Evansville School 4-2,Superintendent of Public Instruction,,REP,Blankenship,279
+Natrona,Evansville School 4-2,Superintendent of Public Instruction,,DEM,Emmons,252
+Natrona,Evansville School 4-2,State Senate,27,REP,Barrasso,418
+Natrona,Evansville School 4-2,State House,35,REP,Cohee,410
+Natrona,Evansville School 4-2,Ballots Cast,,,Ballots Cast,552
+Natrona,Fairdale School 3-4,U.S. Senate,,REP,Enzi,637
+Natrona,Fairdale School 3-4,U.S. Senate,,DEM,Akin,489
+Natrona,Fairdale School 3-4,U.S. Senate,,DEM,Corcoran,329
+Natrona,Fairdale School 3-4,U.S. House,,REP,Cubin,441
+Natrona,Fairdale School 3-4,U.S. House,,LIB,Stock,37
+Natrona,Fairdale School 3-4,Governor,,REP,Bebout,381
+Natrona,Fairdale School 3-4,Governor,,DEM,Freudenthal,565
+Natrona,Fairdale School 3-4,Governor,,LIB,Brossman,198
+Natrona,Fairdale School 3-4,Governor,,LIB,Dawson,32
+Natrona,Fairdale School 3-4,Secretary of State,,REP,Meyer,696
+Natrona,Fairdale School 3-4,State Auditor,,REP,Maxfield,592
+Natrona,Fairdale School 3-4,State Auditor,,DEM,Harris,356
+Natrona,Fairdale School 3-4,State Treasurer,,REP,Lummis,792
+Natrona,Fairdale School 3-4,Superintendent of Public Instruction,,REP,Blankenship,446
+Natrona,Fairdale School 3-4,Superintendent of Public Instruction,,DEM,Emmons,499
+Natrona,Fairdale School 3-4,State House,57,REP,Lockhart,456
+Natrona,Fairdale School 3-4,State House,57,DEM,Bullard,366
+Natrona,Fairdale School 3-4,Ballots Cast,,,Ballots Cast,981
+Natrona,First Assembly of God Church 3-8,U.S. Senate,,REP,Enzi,546
+Natrona,First Assembly of God Church 3-8,U.S. Senate,,DEM,Akin,428
+Natrona,First Assembly of God Church 3-8,U.S. Senate,,DEM,Corcoran,278
+Natrona,First Assembly of God Church 3-8,U.S. House,,REP,Cubin,352
+Natrona,First Assembly of God Church 3-8,U.S. House,,LIB,Stock,40
+Natrona,First Assembly of God Church 3-8,Governor,,REP,Bebout,323
+Natrona,First Assembly of God Church 3-8,Governor,,DEM,Freudenthal,499
+Natrona,First Assembly of God Church 3-8,Governor,,LIB,Brossman,154
+Natrona,First Assembly of God Church 3-8,Governor,,LIB,Dawson,17
+Natrona,First Assembly of God Church 3-8,Secretary of State,,REP,Meyer,613
+Natrona,First Assembly of God Church 3-8,State Auditor,,REP,Maxfield,484
+Natrona,First Assembly of God Church 3-8,State Auditor,,DEM,Harris,334
+Natrona,First Assembly of God Church 3-8,State Treasurer,,REP,Lummis,680
+Natrona,First Assembly of God Church 3-8,Superintendent of Public Instruction,,REP,Blankenship,366
+Natrona,First Assembly of God Church 3-8,Superintendent of Public Instruction,,DEM,Emmons,459
+Natrona,First Assembly of God Church 3-8,State House,57,REP,Lockhart,400
+Natrona,First Assembly of God Church 3-8,State House,57,DEM,Bullard,307
+Natrona,First Assembly of God Church 3-8,Ballots Cast,,,Ballots Cast,843
+Natrona,Fish Hatchery 11-3,U.S. Senate,,REP,Enzi,157
+Natrona,Fish Hatchery 11-3,U.S. Senate,,DEM,Akin,81
+Natrona,Fish Hatchery 11-3,U.S. Senate,,DEM,Corcoran,42
+Natrona,Fish Hatchery 11-3,U.S. House,,REP,Cubin,106
+Natrona,Fish Hatchery 11-3,U.S. House,,LIB,Stock,6
+Natrona,Fish Hatchery 11-3,Governor,,REP,Bebout,99
+Natrona,Fish Hatchery 11-3,Governor,,DEM,Freudenthal,94
+Natrona,Fish Hatchery 11-3,Governor,,LIB,Brossman,20
+Natrona,Fish Hatchery 11-3,Governor,,LIB,Dawson,3
+Natrona,Fish Hatchery 11-3,Secretary of State,,REP,Meyer,162
+Natrona,Fish Hatchery 11-3,State Auditor,,REP,Maxfield,139
+Natrona,Fish Hatchery 11-3,State Auditor,,DEM,Harris,55
+Natrona,Fish Hatchery 11-3,State Treasurer,,REP,Lummis,167
+Natrona,Fish Hatchery 11-3,Superintendent of Public Instruction,,REP,Blankenship,107
+Natrona,Fish Hatchery 11-3,Superintendent of Public Instruction,,DEM,Emmons,86
+Natrona,Fish Hatchery 11-3,State House,38,REP,Brechtel,104
+Natrona,Fish Hatchery 11-3,State House,38,DEM,Berry,76
+Natrona,Fish Hatchery 11-3,Ballots Cast,,,Ballots Cast,199
+Natrona,Grant School 1-6,U.S. Senate,,REP,Enzi,489
+Natrona,Grant School 1-6,U.S. Senate,,DEM,Akin,429
+Natrona,Grant School 1-6,U.S. Senate,,DEM,Corcoran,278
+Natrona,Grant School 1-6,U.S. House,,REP,Cubin,304
+Natrona,Grant School 1-6,U.S. House,,LIB,Stock,33
+Natrona,Grant School 1-6,Governor,,REP,Bebout,284
+Natrona,Grant School 1-6,Governor,,DEM,Freudenthal,457
+Natrona,Grant School 1-6,Governor,,LIB,Brossman,169
+Natrona,Grant School 1-6,Governor,,LIB,Dawson,30
+Natrona,Grant School 1-6,Secretary of State,,REP,Meyer,514
+Natrona,Grant School 1-6,State Auditor,,REP,Maxfield,420
+Natrona,Grant School 1-6,State Auditor,,DEM,Harris,322
+Natrona,Grant School 1-6,State Treasurer,,REP,Lummis,597
+Natrona,Grant School 1-6,Superintendent of Public Instruction,,REP,Blankenship,331
+Natrona,Grant School 1-6,Superintendent of Public Instruction,,DEM,Emmons,426
+Natrona,Grant School 1-6,State Senate,27,REP,Barrasso,561
+Natrona,Grant School 1-6,State House,35,REP,Cohee,562
+Natrona,Grant School 1-6,Ballots Cast,,,Ballots Cast,782
+Natrona,Hat Six Ranch 5-1,U.S. Senate,,REP,Enzi,39
+Natrona,Hat Six Ranch 5-1,U.S. Senate,,DEM,Akin,15
+Natrona,Hat Six Ranch 5-1,U.S. Senate,,DEM,Corcoran,10
+Natrona,Hat Six Ranch 5-1,U.S. House,,REP,Cubin,34
+Natrona,Hat Six Ranch 5-1,U.S. House,,LIB,Stock,2
+Natrona,Hat Six Ranch 5-1,Governor,,REP,Bebout,22
+Natrona,Hat Six Ranch 5-1,Governor,,DEM,Freudenthal,28
+Natrona,Hat Six Ranch 5-1,Governor,,LIB,Brossman,7
+Natrona,Hat Six Ranch 5-1,Governor,,LIB,Dawson,0
+Natrona,Hat Six Ranch 5-1,Secretary of State,,REP,Meyer,37
+Natrona,Hat Six Ranch 5-1,State Auditor,,REP,Maxfield,27
+Natrona,Hat Six Ranch 5-1,State Auditor,,DEM,Harris,20
+Natrona,Hat Six Ranch 5-1,State Treasurer,,REP,Lummis,42
+Natrona,Hat Six Ranch 5-1,Superintendent of Public Instruction,,REP,Blankenship,31
+Natrona,Hat Six Ranch 5-1,Superintendent of Public Instruction,,DEM,Emmons,17
+Natrona,Hat Six Ranch 5-1,State House,38,REP,Brechtel,25
+Natrona,Hat Six Ranch 5-1,State House,38,DEM,Berry,16
+Natrona,Hat Six Ranch 5-1,Ballots Cast,,,Ballots Cast,51
+Natrona,Jefferson School 1-5,U.S. Senate,,REP,Enzi,341
+Natrona,Jefferson School 1-5,U.S. Senate,,DEM,Akin,297
+Natrona,Jefferson School 1-5,U.S. Senate,,DEM,Corcoran,189
+Natrona,Jefferson School 1-5,U.S. House,,REP,Cubin,216
+Natrona,Jefferson School 1-5,U.S. House,,LIB,Stock,17
+Natrona,Jefferson School 1-5,Governor,,REP,Bebout,189
+Natrona,Jefferson School 1-5,Governor,,DEM,Freudenthal,333
+Natrona,Jefferson School 1-5,Governor,,LIB,Brossman,94
+Natrona,Jefferson School 1-5,Governor,,LIB,Dawson,15
+Natrona,Jefferson School 1-5,Secretary of State,,REP,Meyer,372
+Natrona,Jefferson School 1-5,State Auditor,,REP,Maxfield,295
+Natrona,Jefferson School 1-5,State Auditor,,DEM,Harris,218
+Natrona,Jefferson School 1-5,State Treasurer,,REP,Lummis,415
+Natrona,Jefferson School 1-5,Superintendent of Public Instruction,,REP,Blankenship,220
+Natrona,Jefferson School 1-5,Superintendent of Public Instruction,,DEM,Emmons,308
+Natrona,Jefferson School 1-5,State House,57,REP,Lockhart,232
+Natrona,Jefferson School 1-5,State House,57,DEM,Bullard,214
+Natrona,Jefferson School 1-5,Ballots Cast,,,Ballots Cast,545
+Natrona,Kelly Walsh High School 3-5,U.S. Senate,,REP,Enzi,583
+Natrona,Kelly Walsh High School 3-5,U.S. Senate,,DEM,Akin,362
+Natrona,Kelly Walsh High School 3-5,U.S. Senate,,DEM,Corcoran,205
+Natrona,Kelly Walsh High School 3-5,U.S. House,,REP,Cubin,398
+Natrona,Kelly Walsh High School 3-5,U.S. House,,LIB,Stock,15
+Natrona,Kelly Walsh High School 3-5,Governor,,REP,Bebout,356
+Natrona,Kelly Walsh High School 3-5,Governor,,DEM,Freudenthal,432
+Natrona,Kelly Walsh High School 3-5,Governor,,LIB,Brossman,109
+Natrona,Kelly Walsh High School 3-5,Governor,,LIB,Dawson,9
+Natrona,Kelly Walsh High School 3-5,Secretary of State,,REP,Meyer,609
+Natrona,Kelly Walsh High School 3-5,State Auditor,,REP,Maxfield,526
+Natrona,Kelly Walsh High School 3-5,State Auditor,,DEM,Harris,246
+Natrona,Kelly Walsh High School 3-5,State Treasurer,,REP,Lummis,648
+Natrona,Kelly Walsh High School 3-5,Superintendent of Public Instruction,,REP,Blankenship,400
+Natrona,Kelly Walsh High School 3-5,Superintendent of Public Instruction,,DEM,Emmons,376
+Natrona,Kelly Walsh High School 3-5,State Senate,27,REP,Barrasso,613
+Natrona,Kelly Walsh High School 3-5,State House,36,REP,Tanner,412
+Natrona,Kelly Walsh High School 3-5,State House,36,DEM,Gentile,360
+Natrona,Kelly Walsh High School 3-5,Ballots Cast,,,Ballots Cast,804
+Natrona,Manor Heights School 3-6,U.S. Senate,,REP,Enzi,742
+Natrona,Manor Heights School 3-6,U.S. Senate,,DEM,Akin,344
+Natrona,Manor Heights School 3-6,U.S. Senate,,DEM,Corcoran,154
+Natrona,Manor Heights School 3-6,U.S. House,,REP,Cubin,511
+Natrona,Manor Heights School 3-6,U.S. House,,LIB,Stock,21
+Natrona,Manor Heights School 3-6,Governor,,REP,Bebout,450
+Natrona,Manor Heights School 3-6,Governor,,DEM,Freudenthal,454
+Natrona,Manor Heights School 3-6,Governor,,LIB,Brossman,74
+Natrona,Manor Heights School 3-6,Governor,,LIB,Dawson,9
+Natrona,Manor Heights School 3-6,Secretary of State,,REP,Meyer,767
+Natrona,Manor Heights School 3-6,State Auditor,,REP,Maxfield,669
+Natrona,Manor Heights School 3-6,State Auditor,,DEM,Harris,216
+Natrona,Manor Heights School 3-6,State Treasurer,,REP,Lummis,773
+Natrona,Manor Heights School 3-6,Superintendent of Public Instruction,,REP,Blankenship,473
+Natrona,Manor Heights School 3-6,Superintendent of Public Instruction,,DEM,Emmons,423
+Natrona,Manor Heights School 3-6,State Senate,27,REP,Barrasso,748
+Natrona,Manor Heights School 3-6,State House,35,REP,Cohee,737
+Natrona,Manor Heights School 3-6,Ballots Cast,,,Ballots Cast,919
+Natrona,McKinley School 2-2,U.S. Senate,,REP,Enzi,329
+Natrona,McKinley School 2-2,U.S. Senate,,DEM,Akin,352
+Natrona,McKinley School 2-2,U.S. Senate,,DEM,Corcoran,274
+Natrona,McKinley School 2-2,U.S. House,,REP,Cubin,220
+Natrona,McKinley School 2-2,U.S. House,,LIB,Stock,31
+Natrona,McKinley School 2-2,Governor,,REP,Bebout,182
+Natrona,McKinley School 2-2,Governor,,DEM,Freudenthal,394
+Natrona,McKinley School 2-2,Governor,,LIB,Brossman,146
+Natrona,McKinley School 2-2,Governor,,LIB,Dawson,28
+Natrona,McKinley School 2-2,Secretary of State,,REP,Meyer,390
+Natrona,McKinley School 2-2,State Auditor,,REP,Maxfield,294
+Natrona,McKinley School 2-2,State Auditor,,DEM,Harris,291
+Natrona,McKinley School 2-2,State Treasurer,,REP,Lummis,460
+Natrona,McKinley School 2-2,Superintendent of Public Instruction,,REP,Blankenship,228
+Natrona,McKinley School 2-2,Superintendent of Public Instruction,,DEM,Emmons,364
+Natrona,McKinley School 2-2,State Senate,29,REP,Hawks,447
+Natrona,McKinley School 2-2,State House,59,REP,Dorsett,198
+Natrona,McKinley School 2-2,State House,59,DEM,Gilmore,391
+Natrona,McKinley School 2-2,Ballots Cast,,,Ballots Cast,608
+Natrona,Midwest Town Hall 7-1,U.S. Senate,,REP,Enzi,86
+Natrona,Midwest Town Hall 7-1,U.S. Senate,,DEM,Akin,40
+Natrona,Midwest Town Hall 7-1,U.S. Senate,,DEM,Corcoran,28
+Natrona,Midwest Town Hall 7-1,U.S. House,,REP,Cubin,70
+Natrona,Midwest Town Hall 7-1,U.S. House,,LIB,Stock,4
+Natrona,Midwest Town Hall 7-1,Governor,,REP,Bebout,60
+Natrona,Midwest Town Hall 7-1,Governor,,DEM,Freudenthal,50
+Natrona,Midwest Town Hall 7-1,Governor,,LIB,Brossman,23
+Natrona,Midwest Town Hall 7-1,Governor,,LIB,Dawson,3
+Natrona,Midwest Town Hall 7-1,Secretary of State,,REP,Meyer,85
+Natrona,Midwest Town Hall 7-1,State Auditor,,REP,Maxfield,78
+Natrona,Midwest Town Hall 7-1,State Auditor,,DEM,Harris,33
+Natrona,Midwest Town Hall 7-1,State Treasurer,,REP,Lummis,98
+Natrona,Midwest Town Hall 7-1,Superintendent of Public Instruction,,REP,Blankenship,58
+Natrona,Midwest Town Hall 7-1,Superintendent of Public Instruction,,DEM,Emmons,53
+Natrona,Midwest Town Hall 7-1,State House,38,REP,Brechtel,64
+Natrona,Midwest Town Hall 7-1,State House,38,DEM,Berry,33
+Natrona,Midwest Town Hall 7-1,Ballots Cast,,,Ballots Cast,115
+Natrona,Mills Fire Hall 8-1,U.S. Senate,,REP,Enzi,378
+Natrona,Mills Fire Hall 8-1,U.S. Senate,,DEM,Akin,325
+Natrona,Mills Fire Hall 8-1,U.S. Senate,,DEM,Corcoran,249
+Natrona,Mills Fire Hall 8-1,U.S. House,,REP,Cubin,275
+Natrona,Mills Fire Hall 8-1,U.S. House,,LIB,Stock,30
+Natrona,Mills Fire Hall 8-1,Governor,,REP,Bebout,230
+Natrona,Mills Fire Hall 8-1,Governor,,DEM,Freudenthal,378
+Natrona,Mills Fire Hall 8-1,Governor,,LIB,Brossman,174
+Natrona,Mills Fire Hall 8-1,Governor,,LIB,Dawson,28
+Natrona,Mills Fire Hall 8-1,Secretary of State,,REP,Meyer,405
+Natrona,Mills Fire Hall 8-1,State Auditor,,REP,Maxfield,333
+Natrona,Mills Fire Hall 8-1,State Auditor,,DEM,Harris,287
+Natrona,Mills Fire Hall 8-1,State Treasurer,,REP,Lummis,502
+Natrona,Mills Fire Hall 8-1,Superintendent of Public Instruction,,REP,Blankenship,248
+Natrona,Mills Fire Hall 8-1,Superintendent of Public Instruction,,DEM,Emmons,373
+Natrona,Mills Fire Hall 8-1,State Senate,29,REP,Hawks,338
+Natrona,Mills Fire Hall 8-1,State House,58,DEM,Robinson,108
+Natrona,Mills Fire Hall 8-1,State House,59,REP,Dorsett,153
+Natrona,Mills Fire Hall 8-1,State House,59,DEM,Gilmore,308
+Natrona,Mills Fire Hall 8-1,Ballots Cast,,,Ballots Cast,639
+Natrona,Mountain View School 8-2,U.S. Senate,,REP,Enzi,225
+Natrona,Mountain View School 8-2,U.S. Senate,,DEM,Akin,214
+Natrona,Mountain View School 8-2,U.S. Senate,,DEM,Corcoran,148
+Natrona,Mountain View School 8-2,U.S. House,,REP,Cubin,139
+Natrona,Mountain View School 8-2,U.S. House,,LIB,Stock,17
+Natrona,Mountain View School 8-2,Governor,,REP,Bebout,116
+Natrona,Mountain View School 8-2,Governor,,DEM,Freudenthal,253
+Natrona,Mountain View School 8-2,Governor,,LIB,Brossman,101
+Natrona,Mountain View School 8-2,Governor,,LIB,Dawson,7
+Natrona,Mountain View School 8-2,Secretary of State,,REP,Meyer,248
+Natrona,Mountain View School 8-2,State Auditor,,REP,Maxfield,190
+Natrona,Mountain View School 8-2,State Auditor,,DEM,Harris,185
+Natrona,Mountain View School 8-2,State Treasurer,,REP,Lummis,297
+Natrona,Mountain View School 8-2,Superintendent of Public Instruction,,REP,Blankenship,148
+Natrona,Mountain View School 8-2,Superintendent of Public Instruction,,DEM,Emmons,225
+Natrona,Mountain View School 8-2,State Senate,29,REP,Hawks,149
+Natrona,Mountain View School 8-2,State House,58,DEM,Robinson,123
+Natrona,Mountain View School 8-2,State House,59,REP,Dorsett,52
+Natrona,Mountain View School 8-2,State House,59,DEM,Gilmore,142
+Natrona,Mountain View School 8-2,Ballots Cast,,,Ballots Cast,381
+Natrona,Natrona County Library 1-2,U.S. Senate,,REP,Enzi,246
+Natrona,Natrona County Library 1-2,U.S. Senate,,DEM,Akin,267
+Natrona,Natrona County Library 1-2,U.S. Senate,,DEM,Corcoran,205
+Natrona,Natrona County Library 1-2,U.S. House,,REP,Cubin,168
+Natrona,Natrona County Library 1-2,U.S. House,,LIB,Stock,16
+Natrona,Natrona County Library 1-2,Governor,,REP,Bebout,151
+Natrona,Natrona County Library 1-2,Governor,,DEM,Freudenthal,295
+Natrona,Natrona County Library 1-2,Governor,,LIB,Brossman,113
+Natrona,Natrona County Library 1-2,Governor,,LIB,Dawson,9
+Natrona,Natrona County Library 1-2,Secretary of State,,REP,Meyer,274
+Natrona,Natrona County Library 1-2,State Auditor,,REP,Maxfield,214
+Natrona,Natrona County Library 1-2,State Auditor,,DEM,Harris,227
+Natrona,Natrona County Library 1-2,State Treasurer,,REP,Lummis,316
+Natrona,Natrona County Library 1-2,Superintendent of Public Instruction,,REP,Blankenship,169
+Natrona,Natrona County Library 1-2,Superintendent of Public Instruction,,DEM,Emmons,273
+Natrona,Natrona County Library 1-2,State House,56,REP,Walsh,182
+Natrona,Natrona County Library 1-2,State House,56,DEM,Mahaffey,207
+Natrona,Natrona County Library 1-2,Ballots Cast,,,Ballots Cast,462
+Natrona,Oregon Trail School 2-8,U.S. Senate,,REP,Enzi,421
+Natrona,Oregon Trail School 2-8,U.S. Senate,,DEM,Akin,267
+Natrona,Oregon Trail School 2-8,U.S. Senate,,DEM,Corcoran,182
+Natrona,Oregon Trail School 2-8,U.S. House,,REP,Cubin,305
+Natrona,Oregon Trail School 2-8,U.S. House,,LIB,Stock,27
+Natrona,Oregon Trail School 2-8,Governor,,REP,Bebout,251
+Natrona,Oregon Trail School 2-8,Governor,,DEM,Freudenthal,338
+Natrona,Oregon Trail School 2-8,Governor,,LIB,Brossman,107
+Natrona,Oregon Trail School 2-8,Governor,,LIB,Dawson,20
+Natrona,Oregon Trail School 2-8,Secretary of State,,REP,Meyer,449
+Natrona,Oregon Trail School 2-8,State Auditor,,REP,Maxfield,373
+Natrona,Oregon Trail School 2-8,State Auditor,,DEM,Harris,216
+Natrona,Oregon Trail School 2-8,State Treasurer,,REP,Lummis,498
+Natrona,Oregon Trail School 2-8,Superintendent of Public Instruction,,REP,Blankenship,306
+Natrona,Oregon Trail School 2-8,Superintendent of Public Instruction,,DEM,Emmons,288
+Natrona,Oregon Trail School 2-8,State House,38,REP,Brechtel,281
+Natrona,Oregon Trail School 2-8,State House,38,DEM,Berry,234
+Natrona,Oregon Trail School 2-8,Ballots Cast,,,Ballots Cast,617
+Natrona,Paradise Valley School 2-7,U.S. Senate,,REP,Enzi,717
+Natrona,Paradise Valley School 2-7,U.S. Senate,,DEM,Akin,450
+Natrona,Paradise Valley School 2-7,U.S. Senate,,DEM,Corcoran,291
+Natrona,Paradise Valley School 2-7,U.S. House,,REP,Cubin,518
+Natrona,Paradise Valley School 2-7,U.S. House,,LIB,Stock,30
+Natrona,Paradise Valley School 2-7,Governor,,REP,Bebout,450
+Natrona,Paradise Valley School 2-7,Governor,,DEM,Freudenthal,543
+Natrona,Paradise Valley School 2-7,Governor,,LIB,Brossman,174
+Natrona,Paradise Valley School 2-7,Governor,,LIB,Dawson,23
+Natrona,Paradise Valley School 2-7,Secretary of State,,REP,Meyer,770
+Natrona,Paradise Valley School 2-7,State Auditor,,REP,Maxfield,656
+Natrona,Paradise Valley School 2-7,State Auditor,,DEM,Harris,339
+Natrona,Paradise Valley School 2-7,State Treasurer,,REP,Lummis,831
+Natrona,Paradise Valley School 2-7,Superintendent of Public Instruction,,REP,Blankenship,540
+Natrona,Paradise Valley School 2-7,Superintendent of Public Instruction,,DEM,Emmons,460
+Natrona,Paradise Valley School 2-7,State Senate,29,REP,Hawks,3
+Natrona,Paradise Valley School 2-7,State House,37,REP,Harshman,0
+Natrona,Paradise Valley School 2-7,State House,37,DEM,Koch,3
+Natrona,Paradise Valley School 2-7,State House,38,REP,Brechtel,459
+Natrona,Paradise Valley School 2-7,State House,38,DEM,Berry,406
+Natrona,Paradise Valley School 2-7,Ballots Cast,,,Ballots Cast,1023
+Natrona,Pineview School 3-3,U.S. Senate,,REP,Enzi,486
+Natrona,Pineview School 3-3,U.S. Senate,,DEM,Akin,424
+Natrona,Pineview School 3-3,U.S. Senate,,DEM,Corcoran,288
+Natrona,Pineview School 3-3,U.S. House,,REP,Cubin,308
+Natrona,Pineview School 3-3,U.S. House,,LIB,Stock,41
+Natrona,Pineview School 3-3,Governor,,REP,Bebout,283
+Natrona,Pineview School 3-3,Governor,,DEM,Freudenthal,473
+Natrona,Pineview School 3-3,Governor,,LIB,Brossman,160
+Natrona,Pineview School 3-3,Governor,,LIB,Dawson,23
+Natrona,Pineview School 3-3,Secretary of State,,REP,Meyer,535
+Natrona,Pineview School 3-3,State Auditor,,REP,Maxfield,445
+Natrona,Pineview School 3-3,State Auditor,,DEM,Harris,319
+Natrona,Pineview School 3-3,State Treasurer,,REP,Lummis,610
+Natrona,Pineview School 3-3,Superintendent of Public Instruction,,REP,Blankenship,324
+Natrona,Pineview School 3-3,Superintendent of Public Instruction,,DEM,Emmons,440
+Natrona,Pineview School 3-3,State Senate,27,REP,Barrasso,569
+Natrona,Pineview School 3-3,State House,36,REP,Tanner,377
+Natrona,Pineview School 3-3,State House,36,DEM,Gentile,386
+Natrona,Pineview School 3-3,Ballots Cast,,,Ballots Cast,788
+Natrona,Poison Powder School 11-4,U.S. Senate,,REP,Enzi,53
+Natrona,Poison Powder School 11-4,U.S. Senate,,DEM,Akin,29
+Natrona,Poison Powder School 11-4,U.S. Senate,,DEM,Corcoran,18
+Natrona,Poison Powder School 11-4,U.S. House,,REP,Cubin,42
+Natrona,Poison Powder School 11-4,U.S. House,,LIB,Stock,1
+Natrona,Poison Powder School 11-4,Governor,,REP,Bebout,37
+Natrona,Poison Powder School 11-4,Governor,,DEM,Freudenthal,32
+Natrona,Poison Powder School 11-4,Governor,,LIB,Brossman,6
+Natrona,Poison Powder School 11-4,Governor,,LIB,Dawson,2
+Natrona,Poison Powder School 11-4,Secretary of State,,REP,Meyer,58
+Natrona,Poison Powder School 11-4,State Auditor,,REP,Maxfield,45
+Natrona,Poison Powder School 11-4,State Auditor,,DEM,Harris,21
+Natrona,Poison Powder School 11-4,State Treasurer,,REP,Lummis,58
+Natrona,Poison Powder School 11-4,Superintendent of Public Instruction,,REP,Blankenship,37
+Natrona,Poison Powder School 11-4,Superintendent of Public Instruction,,DEM,Emmons,29
+Natrona,Poison Powder School 11-4,State House,38,REP,Brechtel,10
+Natrona,Poison Powder School 11-4,State House,38,DEM,Berry,5
+Natrona,Poison Powder School 11-4,State House,58,DEM,Robinson,29
+Natrona,Poison Powder School 11-4,Ballots Cast,,,Ballots Cast,72
+Natrona,Powder River School 13-2,U.S. Senate,,REP,Enzi,57
+Natrona,Powder River School 13-2,U.S. Senate,,DEM,Akin,15
+Natrona,Powder River School 13-2,U.S. Senate,,DEM,Corcoran,9
+Natrona,Powder River School 13-2,U.S. House,,REP,Cubin,51
+Natrona,Powder River School 13-2,U.S. House,,LIB,Stock,1
+Natrona,Powder River School 13-2,Governor,,REP,Bebout,49
+Natrona,Powder River School 13-2,Governor,,DEM,Freudenthal,16
+Natrona,Powder River School 13-2,Governor,,LIB,Brossman,9
+Natrona,Powder River School 13-2,Governor,,LIB,Dawson,2
+Natrona,Powder River School 13-2,Secretary of State,,REP,Meyer,53
+Natrona,Powder River School 13-2,State Auditor,,REP,Maxfield,49
+Natrona,Powder River School 13-2,State Auditor,,DEM,Harris,11
+Natrona,Powder River School 13-2,State Treasurer,,REP,Lummis,58
+Natrona,Powder River School 13-2,Superintendent of Public Instruction,,REP,Blankenship,42
+Natrona,Powder River School 13-2,Superintendent of Public Instruction,,DEM,Emmons,19
+Natrona,Powder River School 13-2,State House,38,REP,Brechtel,40
+Natrona,Powder River School 13-2,State House,38,DEM,Berry,13
+Natrona,Powder River School 13-2,Ballots Cast,,,Ballots Cast,67
+Natrona,Red Creek School 11-1,U.S. Senate,,REP,Enzi,81
+Natrona,Red Creek School 11-1,U.S. Senate,,DEM,Akin,13
+Natrona,Red Creek School 11-1,U.S. Senate,,DEM,Corcoran,7
+Natrona,Red Creek School 11-1,U.S. House,,REP,Cubin,72
+Natrona,Red Creek School 11-1,U.S. House,,LIB,Stock,3
+Natrona,Red Creek School 11-1,Governor,,REP,Bebout,52
+Natrona,Red Creek School 11-1,Governor,,DEM,Freudenthal,35
+Natrona,Red Creek School 11-1,Governor,,LIB,Brossman,2
+Natrona,Red Creek School 11-1,Governor,,LIB,Dawson,0
+Natrona,Red Creek School 11-1,Secretary of State,,REP,Meyer,84
+Natrona,Red Creek School 11-1,State Auditor,,REP,Maxfield,73
+Natrona,Red Creek School 11-1,State Auditor,,DEM,Harris,12
+Natrona,Red Creek School 11-1,State Treasurer,,REP,Lummis,84
+Natrona,Red Creek School 11-1,Superintendent of Public Instruction,,REP,Blankenship,56
+Natrona,Red Creek School 11-1,Superintendent of Public Instruction,,DEM,Emmons,27
+Natrona,Red Creek School 11-1,State House,38,REP,Brechtel,55
+Natrona,Red Creek School 11-1,State House,38,DEM,Berry,25
+Natrona,Red Creek School 11-1,Ballots Cast,,,Ballots Cast,91
+Natrona,Roosevelt School 1-1,U.S. Senate,,REP,Enzi,177
+Natrona,Roosevelt School 1-1,U.S. Senate,,DEM,Akin,295
+Natrona,Roosevelt School 1-1,U.S. Senate,,DEM,Corcoran,239
+Natrona,Roosevelt School 1-1,U.S. House,,REP,Cubin,105
+Natrona,Roosevelt School 1-1,U.S. House,,LIB,Stock,20
+Natrona,Roosevelt School 1-1,Governor,,REP,Bebout,87
+Natrona,Roosevelt School 1-1,Governor,,DEM,Freudenthal,323
+Natrona,Roosevelt School 1-1,Governor,,LIB,Brossman,172
+Natrona,Roosevelt School 1-1,Governor,,LIB,Dawson,15
+Natrona,Roosevelt School 1-1,Secretary of State,,REP,Meyer,191
+Natrona,Roosevelt School 1-1,State Auditor,,REP,Maxfield,143
+Natrona,Roosevelt School 1-1,State Auditor,,DEM,Harris,273
+Natrona,Roosevelt School 1-1,State Treasurer,,REP,Lummis,284
+Natrona,Roosevelt School 1-1,Superintendent of Public Instruction,,REP,Blankenship,119
+Natrona,Roosevelt School 1-1,Superintendent of Public Instruction,,DEM,Emmons,299
+Natrona,Roosevelt School 1-1,State House,56,REP,Walsh,3
+Natrona,Roosevelt School 1-1,State House,56,DEM,Mahaffey,1
+Natrona,Roosevelt School 1-1,State House,58,DEM,Robinson,288
+Natrona,Roosevelt School 1-1,Ballots Cast,,,Ballots Cast,435
+Natrona,Seventh Day Adventist School 1-9,U.S. Senate,,REP,Enzi,452
+Natrona,Seventh Day Adventist School 1-9,U.S. Senate,,DEM,Akin,251
+Natrona,Seventh Day Adventist School 1-9,U.S. Senate,,DEM,Corcoran,138
+Natrona,Seventh Day Adventist School 1-9,U.S. House,,REP,Cubin,312
+Natrona,Seventh Day Adventist School 1-9,U.S. House,,LIB,Stock,18
+Natrona,Seventh Day Adventist School 1-9,Governor,,REP,Bebout,285
+Natrona,Seventh Day Adventist School 1-9,Governor,,DEM,Freudenthal,301
+Natrona,Seventh Day Adventist School 1-9,Governor,,LIB,Brossman,57
+Natrona,Seventh Day Adventist School 1-9,Governor,,LIB,Dawson,10
+Natrona,Seventh Day Adventist School 1-9,Secretary of State,,REP,Meyer,492
+Natrona,Seventh Day Adventist School 1-9,State Auditor,,REP,Maxfield,402
+Natrona,Seventh Day Adventist School 1-9,State Auditor,,DEM,Harris,176
+Natrona,Seventh Day Adventist School 1-9,State Treasurer,,REP,Lummis,487
+Natrona,Seventh Day Adventist School 1-9,Superintendent of Public Instruction,,REP,Blankenship,325
+Natrona,Seventh Day Adventist School 1-9,Superintendent of Public Instruction,,DEM,Emmons,253
+Natrona,Seventh Day Adventist School 1-9,State House,56,REP,Walsh,333
+Natrona,Seventh Day Adventist School 1-9,State House,56,DEM,Mahaffey,150
+Natrona,Seventh Day Adventist School 1-9,Ballots Cast,,,Ballots Cast,602
+Natrona,Shepherd of the Hills Church 2-6,U.S. Senate,,REP,Enzi,637
+Natrona,Shepherd of the Hills Church 2-6,U.S. Senate,,DEM,Akin,370
+Natrona,Shepherd of the Hills Church 2-6,U.S. Senate,,DEM,Corcoran,201
+Natrona,Shepherd of the Hills Church 2-6,U.S. House,,REP,Cubin,451
+Natrona,Shepherd of the Hills Church 2-6,U.S. House,,LIB,Stock,14
+Natrona,Shepherd of the Hills Church 2-6,Governor,,REP,Bebout,391
+Natrona,Shepherd of the Hills Church 2-6,Governor,,DEM,Freudenthal,451
+Natrona,Shepherd of the Hills Church 2-6,Governor,,LIB,Brossman,107
+Natrona,Shepherd of the Hills Church 2-6,Governor,,LIB,Dawson,10
+Natrona,Shepherd of the Hills Church 2-6,Secretary of State,,REP,Meyer,693
+Natrona,Shepherd of the Hills Church 2-6,State Auditor,,REP,Maxfield,560
+Natrona,Shepherd of the Hills Church 2-6,State Auditor,,DEM,Harris,267
+Natrona,Shepherd of the Hills Church 2-6,State Treasurer,,REP,Lummis,702
+Natrona,Shepherd of the Hills Church 2-6,Superintendent of Public Instruction,,REP,Blankenship,442
+Natrona,Shepherd of the Hills Church 2-6,Superintendent of Public Instruction,,DEM,Emmons,391
+Natrona,Shepherd of the Hills Church 2-6,State Senate,29,REP,Hawks,677
+Natrona,Shepherd of the Hills Church 2-6,State House,37,REP,Harshman,512
+Natrona,Shepherd of the Hills Church 2-6,State House,37,DEM,Koch,312
+Natrona,Shepherd of the Hills Church 2-6,Ballots Cast,,,Ballots Cast,861
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. Senate,,REP,Enzi,407
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. Senate,,DEM,Akin,266
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. Senate,,DEM,Corcoran,165
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. House,,REP,Cubin,283
+Natrona,Shepherd of the Valley Care Ctr 2-9,U.S. House,,LIB,Stock,13
+Natrona,Shepherd of the Valley Care Ctr 2-9,Governor,,REP,Bebout,238
+Natrona,Shepherd of the Valley Care Ctr 2-9,Governor,,DEM,Freudenthal,318
+Natrona,Shepherd of the Valley Care Ctr 2-9,Governor,,LIB,Brossman,95
+Natrona,Shepherd of the Valley Care Ctr 2-9,Governor,,LIB,Dawson,17
+Natrona,Shepherd of the Valley Care Ctr 2-9,Secretary of State,,REP,Meyer,438
+Natrona,Shepherd of the Valley Care Ctr 2-9,State Auditor,,REP,Maxfield,355
+Natrona,Shepherd of the Valley Care Ctr 2-9,State Auditor,,DEM,Harris,210
+Natrona,Shepherd of the Valley Care Ctr 2-9,State Treasurer,,REP,Lummis,476
+Natrona,Shepherd of the Valley Care Ctr 2-9,Superintendent of Public Instruction,,REP,Blankenship,283
+Natrona,Shepherd of the Valley Care Ctr 2-9,Superintendent of Public Instruction,,DEM,Emmons,281
+Natrona,Shepherd of the Valley Care Ctr 2-9,State Senate,29,REP,Hawks,0
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,37,REP,Harshman,0
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,37,DEM,Koch,0
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,38,REP,Brechtel,266
+Natrona,Shepherd of the Valley Care Ctr 2-9,State House,38,DEM,Berry,223
+Natrona,Shepherd of the Valley Care Ctr 2-9,Ballots Cast,,,Ballots Cast,579
+Natrona,Southridge School 2-4,U.S. Senate,,REP,Enzi,352
+Natrona,Southridge School 2-4,U.S. Senate,,DEM,Akin,290
+Natrona,Southridge School 2-4,U.S. Senate,,DEM,Corcoran,186
+Natrona,Southridge School 2-4,U.S. House,,REP,Cubin,247
+Natrona,Southridge School 2-4,U.S. House,,LIB,Stock,10
+Natrona,Southridge School 2-4,Governor,,REP,Bebout,208
+Natrona,Southridge School 2-4,Governor,,DEM,Freudenthal,338
+Natrona,Southridge School 2-4,Governor,,LIB,Brossman,95
+Natrona,Southridge School 2-4,Governor,,LIB,Dawson,9
+Natrona,Southridge School 2-4,Secretary of State,,REP,Meyer,406
+Natrona,Southridge School 2-4,State Auditor,,REP,Maxfield,318
+Natrona,Southridge School 2-4,State Auditor,,DEM,Harris,215
+Natrona,Southridge School 2-4,State Treasurer,,REP,Lummis,436
+Natrona,Southridge School 2-4,Superintendent of Public Instruction,,REP,Blankenship,247
+Natrona,Southridge School 2-4,Superintendent of Public Instruction,,DEM,Emmons,294
+Natrona,Southridge School 2-4,State Senate,29,REP,Hawks,415
+Natrona,Southridge School 2-4,State House,37,REP,Harshman,282
+Natrona,Southridge School 2-4,State House,37,DEM,Koch,256
+Natrona,Southridge School 2-4,Ballots Cast,,,Ballots Cast,561
+Natrona,St. Stephen's Church 12-2,U.S. Senate,,REP,Enzi,182
+Natrona,St. Stephen's Church 12-2,U.S. Senate,,DEM,Akin,103
+Natrona,St. Stephen's Church 12-2,U.S. Senate,,DEM,Corcoran,68
+Natrona,St. Stephen's Church 12-2,U.S. House,,REP,Cubin,136
+Natrona,St. Stephen's Church 12-2,U.S. House,,LIB,Stock,11
+Natrona,St. Stephen's Church 12-2,Governor,,REP,Bebout,113
+Natrona,St. Stephen's Church 12-2,Governor,,DEM,Freudenthal,130
+Natrona,St. Stephen's Church 12-2,Governor,,LIB,Brossman,45
+Natrona,St. Stephen's Church 12-2,Governor,,LIB,Dawson,10
+Natrona,St. Stephen's Church 12-2,Secretary of State,,REP,Meyer,192
+Natrona,St. Stephen's Church 12-2,State Auditor,,REP,Maxfield,168
+Natrona,St. Stephen's Church 12-2,State Auditor,,DEM,Harris,80
+Natrona,St. Stephen's Church 12-2,State Treasurer,,REP,Lummis,213
+Natrona,St. Stephen's Church 12-2,Superintendent of Public Instruction,,REP,Blankenship,134
+Natrona,St. Stephen's Church 12-2,Superintendent of Public Instruction,,DEM,Emmons,103
+Natrona,St. Stephen's Church 12-2,State Senate,27,REP,Barrasso,202
+Natrona,St. Stephen's Church 12-2,State House,35,REP,Cohee,201
+Natrona,St. Stephen's Church 12-2,Ballots Cast,,,Ballots Cast,255
+Natrona,University Park School 3-2,U.S. Senate,,REP,Enzi,368
+Natrona,University Park School 3-2,U.S. Senate,,DEM,Akin,350
+Natrona,University Park School 3-2,U.S. Senate,,DEM,Corcoran,239
+Natrona,University Park School 3-2,U.S. House,,REP,Cubin,238
+Natrona,University Park School 3-2,U.S. House,,LIB,Stock,21
+Natrona,University Park School 3-2,Governor,,REP,Bebout,202
+Natrona,University Park School 3-2,Governor,,DEM,Freudenthal,392
+Natrona,University Park School 3-2,Governor,,LIB,Brossman,143
+Natrona,University Park School 3-2,Governor,,LIB,Dawson,17
+Natrona,University Park School 3-2,Secretary of State,,REP,Meyer,406
+Natrona,University Park School 3-2,State Auditor,,REP,Maxfield,324
+Natrona,University Park School 3-2,State Auditor,,DEM,Harris,278
+Natrona,University Park School 3-2,State Treasurer,,REP,Lummis,477
+Natrona,University Park School 3-2,Superintendent of Public Instruction,,REP,Blankenship,242
+Natrona,University Park School 3-2,Superintendent of Public Instruction,,DEM,Emmons,363
+Natrona,University Park School 3-2,State Senate,27,REP,Barrasso,335
+Natrona,University Park School 3-2,State House,36,REP,Tanner,180
+Natrona,University Park School 3-2,State House,36,DEM,Gentile,265
+Natrona,University Park School 3-2,State House,56,REP,Walsh,69
+Natrona,University Park School 3-2,State House,56,DEM,Mahaffey,65
+Natrona,University Park School 3-2,Ballots Cast,,,Ballots Cast,620
+Natrona,Upper Willow Creek School 14-1,U.S. Senate,,REP,Enzi,15
+Natrona,Upper Willow Creek School 14-1,U.S. Senate,,DEM,Akin,0
+Natrona,Upper Willow Creek School 14-1,U.S. Senate,,DEM,Corcoran,0
+Natrona,Upper Willow Creek School 14-1,U.S. House,,REP,Cubin,15
+Natrona,Upper Willow Creek School 14-1,U.S. House,,LIB,Stock,0
+Natrona,Upper Willow Creek School 14-1,Governor,,REP,Bebout,14
+Natrona,Upper Willow Creek School 14-1,Governor,,DEM,Freudenthal,1
+Natrona,Upper Willow Creek School 14-1,Governor,,LIB,Brossman,3
+Natrona,Upper Willow Creek School 14-1,Governor,,LIB,Dawson,0
+Natrona,Upper Willow Creek School 14-1,Secretary of State,,REP,Meyer,12
+Natrona,Upper Willow Creek School 14-1,State Auditor,,REP,Maxfield,13
+Natrona,Upper Willow Creek School 14-1,State Auditor,,DEM,Harris,2
+Natrona,Upper Willow Creek School 14-1,State Treasurer,,REP,Lummis,14
+Natrona,Upper Willow Creek School 14-1,Superintendent of Public Instruction,,REP,Blankenship,13
+Natrona,Upper Willow Creek School 14-1,Superintendent of Public Instruction,,DEM,Emmons,1
+Natrona,Upper Willow Creek School 14-1,State House,38,REP,Brechtel,10
+Natrona,Upper Willow Creek School 14-1,State House,38,DEM,Berry,3
+Natrona,Upper Willow Creek School 14-1,Ballots Cast,,,Ballots Cast,15
+Natrona,Verda James School 3-9,U.S. Senate,,REP,Enzi,344
+Natrona,Verda James School 3-9,U.S. Senate,,DEM,Akin,246
+Natrona,Verda James School 3-9,U.S. Senate,,DEM,Corcoran,152
+Natrona,Verda James School 3-9,U.S. House,,REP,Cubin,229
+Natrona,Verda James School 3-9,U.S. House,,LIB,Stock,18
+Natrona,Verda James School 3-9,Governor,,REP,Bebout,197
+Natrona,Verda James School 3-9,Governor,,DEM,Freudenthal,297
+Natrona,Verda James School 3-9,Governor,,LIB,Brossman,83
+Natrona,Verda James School 3-9,Governor,,LIB,Dawson,8
+Natrona,Verda James School 3-9,Secretary of State,,REP,Meyer,367
+Natrona,Verda James School 3-9,State Auditor,,REP,Maxfield,313
+Natrona,Verda James School 3-9,State Auditor,,DEM,Harris,172
+Natrona,Verda James School 3-9,State Treasurer,,REP,Lummis,408
+Natrona,Verda James School 3-9,Superintendent of Public Instruction,,REP,Blankenship,255
+Natrona,Verda James School 3-9,Superintendent of Public Instruction,,DEM,Emmons,240
+Natrona,Verda James School 3-9,State Senate,27,REP,Barrasso,378
+Natrona,Verda James School 3-9,State House,36,REP,Tanner,279
+Natrona,Verda James School 3-9,State House,36,DEM,Gentile,213
+Natrona,Verda James School 3-9,Ballots Cast,,,Ballots Cast,507
+Natrona,Vista West Christian Church 8-4,U.S. Senate,,REP,Enzi,525
+Natrona,Vista West Christian Church 8-4,U.S. Senate,,DEM,Akin,276
+Natrona,Vista West Christian Church 8-4,U.S. Senate,,DEM,Corcoran,158
+Natrona,Vista West Christian Church 8-4,U.S. House,,REP,Cubin,376
+Natrona,Vista West Christian Church 8-4,U.S. House,,LIB,Stock,30
+Natrona,Vista West Christian Church 8-4,Governor,,REP,Bebout,330
+Natrona,Vista West Christian Church 8-4,Governor,,DEM,Freudenthal,334
+Natrona,Vista West Christian Church 8-4,Governor,,LIB,Brossman,112
+Natrona,Vista West Christian Church 8-4,Governor,,LIB,Dawson,23
+Natrona,Vista West Christian Church 8-4,Secretary of State,,REP,Meyer,539
+Natrona,Vista West Christian Church 8-4,State Auditor,,REP,Maxfield,484
+Natrona,Vista West Christian Church 8-4,State Auditor,,DEM,Harris,190
+Natrona,Vista West Christian Church 8-4,State Treasurer,,REP,Lummis,590
+Natrona,Vista West Christian Church 8-4,Superintendent of Public Instruction,,REP,Blankenship,378
+Natrona,Vista West Christian Church 8-4,Superintendent of Public Instruction,,DEM,Emmons,300
+Natrona,Vista West Christian Church 8-4,State House,58,DEM,Robinson,441
+Natrona,Vista West Christian Church 8-4,Ballots Cast,,,Ballots Cast,694
+Natrona,Wardwell Water & Sewer 8-3,U.S. Senate,,REP,Enzi,233
+Natrona,Wardwell Water & Sewer 8-3,U.S. Senate,,DEM,Akin,162
+Natrona,Wardwell Water & Sewer 8-3,U.S. Senate,,DEM,Corcoran,107
+Natrona,Wardwell Water & Sewer 8-3,U.S. House,,REP,Cubin,155
+Natrona,Wardwell Water & Sewer 8-3,U.S. House,,LIB,Stock,24
+Natrona,Wardwell Water & Sewer 8-3,Governor,,REP,Bebout,162
+Natrona,Wardwell Water & Sewer 8-3,Governor,,DEM,Freudenthal,166
+Natrona,Wardwell Water & Sewer 8-3,Governor,,LIB,Brossman,91
+Natrona,Wardwell Water & Sewer 8-3,Governor,,LIB,Dawson,16
+Natrona,Wardwell Water & Sewer 8-3,Secretary of State,,REP,Meyer,229
+Natrona,Wardwell Water & Sewer 8-3,State Auditor,,REP,Maxfield,214
+Natrona,Wardwell Water & Sewer 8-3,State Auditor,,DEM,Harris,118
+Natrona,Wardwell Water & Sewer 8-3,State Treasurer,,REP,Lummis,288
+Natrona,Wardwell Water & Sewer 8-3,Superintendent of Public Instruction,,REP,Blankenship,167
+Natrona,Wardwell Water & Sewer 8-3,Superintendent of Public Instruction,,DEM,Emmons,162
+Natrona,Wardwell Water & Sewer 8-3,State House,58,DEM,Robinson,222
+Natrona,Wardwell Water & Sewer 8-3,Ballots Cast,,,Ballots Cast,347
+Natrona,Westwood School 2-1,U.S. Senate,,REP,Enzi,464
+Natrona,Westwood School 2-1,U.S. Senate,,DEM,Akin,405
+Natrona,Westwood School 2-1,U.S. Senate,,DEM,Corcoran,275
+Natrona,Westwood School 2-1,U.S. House,,REP,Cubin,305
+Natrona,Westwood School 2-1,U.S. House,,LIB,Stock,24
+Natrona,Westwood School 2-1,Governor,,REP,Bebout,280
+Natrona,Westwood School 2-1,Governor,,DEM,Freudenthal,452
+Natrona,Westwood School 2-1,Governor,,LIB,Brossman,184
+Natrona,Westwood School 2-1,Governor,,LIB,Dawson,19
+Natrona,Westwood School 2-1,Secretary of State,,REP,Meyer,507
+Natrona,Westwood School 2-1,State Auditor,,REP,Maxfield,414
+Natrona,Westwood School 2-1,State Auditor,,DEM,Harris,324
+Natrona,Westwood School 2-1,State Treasurer,,REP,Lummis,596
+Natrona,Westwood School 2-1,Superintendent of Public Instruction,,REP,Blankenship,319
+Natrona,Westwood School 2-1,Superintendent of Public Instruction,,DEM,Emmons,416
+Natrona,Westwood School 2-1,State Senate,29,REP,Hawks,571
+Natrona,Westwood School 2-1,State House,59,REP,Dorsett,278
+Natrona,Westwood School 2-1,State House,59,DEM,Gilmore,440
+Natrona,Westwood School 2-1,Ballots Cast,,,Ballots Cast,753
+Natrona,Willard School 1-12,U.S. Senate,,REP,Enzi,169
+Natrona,Willard School 1-12,U.S. Senate,,DEM,Akin,160
+Natrona,Willard School 1-12,U.S. Senate,,DEM,Corcoran,130
+Natrona,Willard School 1-12,U.S. House,,REP,Cubin,123
+Natrona,Willard School 1-12,U.S. House,,LIB,Stock,16
+Natrona,Willard School 1-12,Governor,,REP,Bebout,108
+Natrona,Willard School 1-12,Governor,,DEM,Freudenthal,183
+Natrona,Willard School 1-12,Governor,,LIB,Brossman,88
+Natrona,Willard School 1-12,Governor,,LIB,Dawson,10
+Natrona,Willard School 1-12,Secretary of State,,REP,Meyer,184
+Natrona,Willard School 1-12,State Auditor,,REP,Maxfield,161
+Natrona,Willard School 1-12,State Auditor,,DEM,Harris,135
+Natrona,Willard School 1-12,State Treasurer,,REP,Lummis,235
+Natrona,Willard School 1-12,Superintendent of Public Instruction,,REP,Blankenship,127
+Natrona,Willard School 1-12,Superintendent of Public Instruction,,DEM,Emmons,169
+Natrona,Willard School 1-12,State House,56,REP,Walsh,134
+Natrona,Willard School 1-12,State House,56,DEM,Mahaffey,122
+Natrona,Willard School 1-12,Ballots Cast,,,Ballots Cast,305
+Natrona,Wyo. Game and Fish 9-1,U.S. Senate,,REP,Enzi,683
+Natrona,Wyo. Game and Fish 9-1,U.S. Senate,,DEM,Akin,376
+Natrona,Wyo. Game and Fish 9-1,U.S. Senate,,DEM,Corcoran,202
+Natrona,Wyo. Game and Fish 9-1,U.S. House,,REP,Cubin,468
+Natrona,Wyo. Game and Fish 9-1,U.S. House,,LIB,Stock,34
+Natrona,Wyo. Game and Fish 9-1,Governor,,REP,Bebout,405
+Natrona,Wyo. Game and Fish 9-1,Governor,,DEM,Freudenthal,473
+Natrona,Wyo. Game and Fish 9-1,Governor,,LIB,Brossman,132
+Natrona,Wyo. Game and Fish 9-1,Governor,,LIB,Dawson,14
+Natrona,Wyo. Game and Fish 9-1,Secretary of State,,REP,Meyer,707
+Natrona,Wyo. Game and Fish 9-1,State Auditor,,REP,Maxfield,618
+Natrona,Wyo. Game and Fish 9-1,State Auditor,,DEM,Harris,256
+Natrona,Wyo. Game and Fish 9-1,State Treasurer,,REP,Lummis,748
+Natrona,Wyo. Game and Fish 9-1,Superintendent of Public Instruction,,REP,Blankenship,503
+Natrona,Wyo. Game and Fish 9-1,Superintendent of Public Instruction,,DEM,Emmons,367
+Natrona,Wyo. Game and Fish 9-1,State Senate,29,REP,Hawks,716
+Natrona,Wyo. Game and Fish 9-1,State House,37,REP,Harshman,575
+Natrona,Wyo. Game and Fish 9-1,State House,37,DEM,Koch,278
+Natrona,Wyo. Game and Fish 9-1,State House,59,REP,Dorsett,2
+Natrona,Wyo. Game and Fish 9-1,State House,59,DEM,Gilmore,7
+Natrona,Wyo. Game and Fish 9-1,Ballots Cast,,,Ballots Cast,899

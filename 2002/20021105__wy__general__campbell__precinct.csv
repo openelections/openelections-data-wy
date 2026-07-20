@@ -1,0 +1,631 @@
+county,precinct,office,district,party,candidate,votes
+Campbell,4-J School 13-1,U.S. Senate,,REP,Enzi,244
+Campbell,4-J School 13-1,U.S. Senate,,DEM,Akin,23
+Campbell,4-J School 13-1,U.S. Senate,,DEM,Corcoran,20
+Campbell,4-J School 13-1,U.S. House,,REP,Cubin,221
+Campbell,4-J School 13-1,U.S. House,,LIB,Stock,13
+Campbell,4-J School 13-1,Governor,,REP,Bebout,207
+Campbell,4-J School 13-1,Governor,,DEM,Freudenthal,50
+Campbell,4-J School 13-1,Governor,,LIB,Brossman,18
+Campbell,4-J School 13-1,Governor,,LIB,Dawson,9
+Campbell,4-J School 13-1,Secretary of State,,REP,Meyer,231
+Campbell,4-J School 13-1,State Auditor,,REP,Maxfield,212
+Campbell,4-J School 13-1,State Auditor,,DEM,Harris,42
+Campbell,4-J School 13-1,State Treasurer,,REP,Lummis,236
+Campbell,4-J School 13-1,Superintendent of Public Instruction,,REP,Blankenship,216
+Campbell,4-J School 13-1,Superintendent of Public Instruction,,DEM,Emmons,43
+Campbell,4-J School 13-1,State Senate,23,REP,Hines,241
+Campbell,4-J School 13-1,State House,31,REP,Jansen,212
+Campbell,4-J School 13-1,Ballots Cast,,,Ballots Cast,271
+Campbell,Camplex Energy Hall 1-1,U.S. Senate,,REP,Enzi,177
+Campbell,Camplex Energy Hall 1-1,U.S. Senate,,DEM,Akin,46
+Campbell,Camplex Energy Hall 1-1,U.S. Senate,,DEM,Corcoran,29
+Campbell,Camplex Energy Hall 1-1,U.S. House,,REP,Cubin,150
+Campbell,Camplex Energy Hall 1-1,U.S. House,,LIB,Stock,6
+Campbell,Camplex Energy Hall 1-1,Governor,,REP,Bebout,123
+Campbell,Camplex Energy Hall 1-1,Governor,,DEM,Freudenthal,82
+Campbell,Camplex Energy Hall 1-1,Governor,,LIB,Brossman,26
+Campbell,Camplex Energy Hall 1-1,Governor,,LIB,Dawson,2
+Campbell,Camplex Energy Hall 1-1,Secretary of State,,REP,Meyer,166
+Campbell,Camplex Energy Hall 1-1,State Auditor,,REP,Maxfield,163
+Campbell,Camplex Energy Hall 1-1,State Auditor,,DEM,Harris,41
+Campbell,Camplex Energy Hall 1-1,State Treasurer,,REP,Lummis,190
+Campbell,Camplex Energy Hall 1-1,Superintendent of Public Instruction,,REP,Blankenship,136
+Campbell,Camplex Energy Hall 1-1,Superintendent of Public Instruction,,DEM,Emmons,66
+Campbell,Camplex Energy Hall 1-1,State Senate,23,REP,Hines,190
+Campbell,Camplex Energy Hall 1-1,State House,31,REP,Jansen,184
+Campbell,Camplex Energy Hall 1-1,Ballots Cast,,,Ballots Cast,214
+Campbell,Camplex Energy Hall 1-10,U.S. Senate,,REP,Enzi,298
+Campbell,Camplex Energy Hall 1-10,U.S. Senate,,DEM,Akin,72
+Campbell,Camplex Energy Hall 1-10,U.S. Senate,,DEM,Corcoran,52
+Campbell,Camplex Energy Hall 1-10,U.S. House,,REP,Cubin,258
+Campbell,Camplex Energy Hall 1-10,U.S. House,,LIB,Stock,6
+Campbell,Camplex Energy Hall 1-10,Governor,,REP,Bebout,221
+Campbell,Camplex Energy Hall 1-10,Governor,,DEM,Freudenthal,121
+Campbell,Camplex Energy Hall 1-10,Governor,,LIB,Brossman,39
+Campbell,Camplex Energy Hall 1-10,Governor,,LIB,Dawson,8
+Campbell,Camplex Energy Hall 1-10,Secretary of State,,REP,Meyer,289
+Campbell,Camplex Energy Hall 1-10,State Auditor,,REP,Maxfield,262
+Campbell,Camplex Energy Hall 1-10,State Auditor,,DEM,Harris,77
+Campbell,Camplex Energy Hall 1-10,State Treasurer,,REP,Lummis,303
+Campbell,Camplex Energy Hall 1-10,Superintendent of Public Instruction,,REP,Blankenship,224
+Campbell,Camplex Energy Hall 1-10,Superintendent of Public Instruction,,DEM,Emmons,110
+Campbell,Camplex Energy Hall 1-10,State House,53,REP,Latta,210
+Campbell,Camplex Energy Hall 1-10,State House,53,DEM,Warfield,125
+Campbell,Camplex Energy Hall 1-10,Ballots Cast,,,Ballots Cast,353
+Campbell,Camplex Energy Hall 1-11,U.S. Senate,,REP,Enzi,215
+Campbell,Camplex Energy Hall 1-11,U.S. Senate,,DEM,Akin,46
+Campbell,Camplex Energy Hall 1-11,U.S. Senate,,DEM,Corcoran,30
+Campbell,Camplex Energy Hall 1-11,U.S. House,,REP,Cubin,186
+Campbell,Camplex Energy Hall 1-11,U.S. House,,LIB,Stock,6
+Campbell,Camplex Energy Hall 1-11,Governor,,REP,Bebout,161
+Campbell,Camplex Energy Hall 1-11,Governor,,DEM,Freudenthal,80
+Campbell,Camplex Energy Hall 1-11,Governor,,LIB,Brossman,31
+Campbell,Camplex Energy Hall 1-11,Governor,,LIB,Dawson,2
+Campbell,Camplex Energy Hall 1-11,Secretary of State,,REP,Meyer,205
+Campbell,Camplex Energy Hall 1-11,State Auditor,,REP,Maxfield,186
+Campbell,Camplex Energy Hall 1-11,State Auditor,,DEM,Harris,53
+Campbell,Camplex Energy Hall 1-11,State Treasurer,,REP,Lummis,224
+Campbell,Camplex Energy Hall 1-11,Superintendent of Public Instruction,,REP,Blankenship,148
+Campbell,Camplex Energy Hall 1-11,Superintendent of Public Instruction,,DEM,Emmons,90
+Campbell,Camplex Energy Hall 1-11,State House,32,REP,Wasserburger,193
+Campbell,Camplex Energy Hall 1-11,State House,32,DEM,Jenniges,45
+Campbell,Camplex Energy Hall 1-11,Ballots Cast,,,Ballots Cast,247
+Campbell,Camplex Energy Hall 1-12,U.S. Senate,,REP,Enzi,246
+Campbell,Camplex Energy Hall 1-12,U.S. Senate,,DEM,Akin,68
+Campbell,Camplex Energy Hall 1-12,U.S. Senate,,DEM,Corcoran,45
+Campbell,Camplex Energy Hall 1-12,U.S. House,,REP,Cubin,213
+Campbell,Camplex Energy Hall 1-12,U.S. House,,LIB,Stock,4
+Campbell,Camplex Energy Hall 1-12,Governor,,REP,Bebout,172
+Campbell,Camplex Energy Hall 1-12,Governor,,DEM,Freudenthal,115
+Campbell,Camplex Energy Hall 1-12,Governor,,LIB,Brossman,39
+Campbell,Camplex Energy Hall 1-12,Governor,,LIB,Dawson,5
+Campbell,Camplex Energy Hall 1-12,Secretary of State,,REP,Meyer,235
+Campbell,Camplex Energy Hall 1-12,State Auditor,,REP,Maxfield,215
+Campbell,Camplex Energy Hall 1-12,State Auditor,,DEM,Harris,64
+Campbell,Camplex Energy Hall 1-12,State Treasurer,,REP,Lummis,256
+Campbell,Camplex Energy Hall 1-12,Superintendent of Public Instruction,,REP,Blankenship,191
+Campbell,Camplex Energy Hall 1-12,Superintendent of Public Instruction,,DEM,Emmons,87
+Campbell,Camplex Energy Hall 1-12,State House,32,REP,Wasserburger,232
+Campbell,Camplex Energy Hall 1-12,State House,32,DEM,Jenniges,52
+Campbell,Camplex Energy Hall 1-12,Ballots Cast,,,Ballots Cast,293
+Campbell,Camplex Energy Hall 1-13,U.S. Senate,,REP,Enzi,135
+Campbell,Camplex Energy Hall 1-13,U.S. Senate,,DEM,Akin,25
+Campbell,Camplex Energy Hall 1-13,U.S. Senate,,DEM,Corcoran,15
+Campbell,Camplex Energy Hall 1-13,U.S. House,,REP,Cubin,122
+Campbell,Camplex Energy Hall 1-13,U.S. House,,LIB,Stock,1
+Campbell,Camplex Energy Hall 1-13,Governor,,REP,Bebout,96
+Campbell,Camplex Energy Hall 1-13,Governor,,DEM,Freudenthal,54
+Campbell,Camplex Energy Hall 1-13,Governor,,LIB,Brossman,20
+Campbell,Camplex Energy Hall 1-13,Governor,,LIB,Dawson,1
+Campbell,Camplex Energy Hall 1-13,Secretary of State,,REP,Meyer,123
+Campbell,Camplex Energy Hall 1-13,State Auditor,,REP,Maxfield,123
+Campbell,Camplex Energy Hall 1-13,State Auditor,,DEM,Harris,24
+Campbell,Camplex Energy Hall 1-13,State Treasurer,,REP,Lummis,136
+Campbell,Camplex Energy Hall 1-13,Superintendent of Public Instruction,,REP,Blankenship,94
+Campbell,Camplex Energy Hall 1-13,Superintendent of Public Instruction,,DEM,Emmons,52
+Campbell,Camplex Energy Hall 1-13,State House,32,REP,Wasserburger,123
+Campbell,Camplex Energy Hall 1-13,State House,32,DEM,Jenniges,25
+Campbell,Camplex Energy Hall 1-13,Ballots Cast,,,Ballots Cast,153
+Campbell,Camplex Energy Hall 1-14,U.S. Senate,,REP,Enzi,527
+Campbell,Camplex Energy Hall 1-14,U.S. Senate,,DEM,Akin,120
+Campbell,Camplex Energy Hall 1-14,U.S. Senate,,DEM,Corcoran,64
+Campbell,Camplex Energy Hall 1-14,U.S. House,,REP,Cubin,444
+Campbell,Camplex Energy Hall 1-14,U.S. House,,LIB,Stock,13
+Campbell,Camplex Energy Hall 1-14,Governor,,REP,Bebout,388
+Campbell,Camplex Energy Hall 1-14,Governor,,DEM,Freudenthal,196
+Campbell,Camplex Energy Hall 1-14,Governor,,LIB,Brossman,67
+Campbell,Camplex Energy Hall 1-14,Governor,,LIB,Dawson,11
+Campbell,Camplex Energy Hall 1-14,Secretary of State,,REP,Meyer,492
+Campbell,Camplex Energy Hall 1-14,State Auditor,,REP,Maxfield,460
+Campbell,Camplex Energy Hall 1-14,State Auditor,,DEM,Harris,108
+Campbell,Camplex Energy Hall 1-14,State Treasurer,,REP,Lummis,530
+Campbell,Camplex Energy Hall 1-14,Superintendent of Public Instruction,,REP,Blankenship,374
+Campbell,Camplex Energy Hall 1-14,Superintendent of Public Instruction,,DEM,Emmons,202
+Campbell,Camplex Energy Hall 1-14,State House,32,REP,Wasserburger,513
+Campbell,Camplex Energy Hall 1-14,State House,32,DEM,Jenniges,72
+Campbell,Camplex Energy Hall 1-14,Ballots Cast,,,Ballots Cast,600
+Campbell,Camplex Energy Hall 1-15,U.S. Senate,,REP,Enzi,267
+Campbell,Camplex Energy Hall 1-15,U.S. Senate,,DEM,Akin,40
+Campbell,Camplex Energy Hall 1-15,U.S. Senate,,DEM,Corcoran,29
+Campbell,Camplex Energy Hall 1-15,U.S. House,,REP,Cubin,239
+Campbell,Camplex Energy Hall 1-15,U.S. House,,LIB,Stock,16
+Campbell,Camplex Energy Hall 1-15,Governor,,REP,Bebout,196
+Campbell,Camplex Energy Hall 1-15,Governor,,DEM,Freudenthal,84
+Campbell,Camplex Energy Hall 1-15,Governor,,LIB,Brossman,31
+Campbell,Camplex Energy Hall 1-15,Governor,,LIB,Dawson,12
+Campbell,Camplex Energy Hall 1-15,Secretary of State,,REP,Meyer,246
+Campbell,Camplex Energy Hall 1-15,State Auditor,,REP,Maxfield,238
+Campbell,Camplex Energy Hall 1-15,State Auditor,,DEM,Harris,47
+Campbell,Camplex Energy Hall 1-15,State Treasurer,,REP,Lummis,265
+Campbell,Camplex Energy Hall 1-15,Superintendent of Public Instruction,,REP,Blankenship,200
+Campbell,Camplex Energy Hall 1-15,Superintendent of Public Instruction,,DEM,Emmons,84
+Campbell,Camplex Energy Hall 1-15,State House,32,REP,Wasserburger,250
+Campbell,Camplex Energy Hall 1-15,State House,32,DEM,Jenniges,38
+Campbell,Camplex Energy Hall 1-15,Ballots Cast,,,Ballots Cast,298
+Campbell,Camplex Energy Hall 1-16,U.S. Senate,,REP,Enzi,440
+Campbell,Camplex Energy Hall 1-16,U.S. Senate,,DEM,Akin,118
+Campbell,Camplex Energy Hall 1-16,U.S. Senate,,DEM,Corcoran,67
+Campbell,Camplex Energy Hall 1-16,U.S. House,,REP,Cubin,370
+Campbell,Camplex Energy Hall 1-16,U.S. House,,LIB,Stock,10
+Campbell,Camplex Energy Hall 1-16,Governor,,REP,Bebout,319
+Campbell,Camplex Energy Hall 1-16,Governor,,DEM,Freudenthal,175
+Campbell,Camplex Energy Hall 1-16,Governor,,LIB,Brossman,73
+Campbell,Camplex Energy Hall 1-16,Governor,,LIB,Dawson,11
+Campbell,Camplex Energy Hall 1-16,Secretary of State,,REP,Meyer,404
+Campbell,Camplex Energy Hall 1-16,State Auditor,,REP,Maxfield,380
+Campbell,Camplex Energy Hall 1-16,State Auditor,,DEM,Harris,111
+Campbell,Camplex Energy Hall 1-16,State Treasurer,,REP,Lummis,447
+Campbell,Camplex Energy Hall 1-16,Superintendent of Public Instruction,,REP,Blankenship,308
+Campbell,Camplex Energy Hall 1-16,Superintendent of Public Instruction,,DEM,Emmons,191
+Campbell,Camplex Energy Hall 1-16,State House,32,REP,Wasserburger,425
+Campbell,Camplex Energy Hall 1-16,State House,32,DEM,Jenniges,74
+Campbell,Camplex Energy Hall 1-16,Ballots Cast,,,Ballots Cast,511
+Campbell,Camplex Energy Hall 1-17,U.S. Senate,,REP,Enzi,340
+Campbell,Camplex Energy Hall 1-17,U.S. Senate,,DEM,Akin,90
+Campbell,Camplex Energy Hall 1-17,U.S. Senate,,DEM,Corcoran,59
+Campbell,Camplex Energy Hall 1-17,U.S. House,,REP,Cubin,294
+Campbell,Camplex Energy Hall 1-17,U.S. House,,LIB,Stock,15
+Campbell,Camplex Energy Hall 1-17,Governor,,REP,Bebout,220
+Campbell,Camplex Energy Hall 1-17,Governor,,DEM,Freudenthal,170
+Campbell,Camplex Energy Hall 1-17,Governor,,LIB,Brossman,61
+Campbell,Camplex Energy Hall 1-17,Governor,,LIB,Dawson,13
+Campbell,Camplex Energy Hall 1-17,Secretary of State,,REP,Meyer,317
+Campbell,Camplex Energy Hall 1-17,State Auditor,,REP,Maxfield,291
+Campbell,Camplex Energy Hall 1-17,State Auditor,,DEM,Harris,95
+Campbell,Camplex Energy Hall 1-17,State Treasurer,,REP,Lummis,344
+Campbell,Camplex Energy Hall 1-17,Superintendent of Public Instruction,,REP,Blankenship,248
+Campbell,Camplex Energy Hall 1-17,Superintendent of Public Instruction,,DEM,Emmons,138
+Campbell,Camplex Energy Hall 1-17,State Senate,23,REP,Hines,343
+Campbell,Camplex Energy Hall 1-17,State House,31,REP,Jansen,341
+Campbell,Camplex Energy Hall 1-17,Ballots Cast,,,Ballots Cast,407
+Campbell,Camplex Energy Hall 1-18,U.S. Senate,,REP,Enzi,158
+Campbell,Camplex Energy Hall 1-18,U.S. Senate,,DEM,Akin,29
+Campbell,Camplex Energy Hall 1-18,U.S. Senate,,DEM,Corcoran,24
+Campbell,Camplex Energy Hall 1-18,U.S. House,,REP,Cubin,145
+Campbell,Camplex Energy Hall 1-18,U.S. House,,LIB,Stock,7
+Campbell,Camplex Energy Hall 1-18,Governor,,REP,Bebout,112
+Campbell,Camplex Energy Hall 1-18,Governor,,DEM,Freudenthal,62
+Campbell,Camplex Energy Hall 1-18,Governor,,LIB,Brossman,30
+Campbell,Camplex Energy Hall 1-18,Governor,,LIB,Dawson,8
+Campbell,Camplex Energy Hall 1-18,Secretary of State,,REP,Meyer,147
+Campbell,Camplex Energy Hall 1-18,State Auditor,,REP,Maxfield,143
+Campbell,Camplex Energy Hall 1-18,State Auditor,,DEM,Harris,36
+Campbell,Camplex Energy Hall 1-18,State Treasurer,,REP,Lummis,166
+Campbell,Camplex Energy Hall 1-18,Superintendent of Public Instruction,,REP,Blankenship,117
+Campbell,Camplex Energy Hall 1-18,Superintendent of Public Instruction,,DEM,Emmons,60
+Campbell,Camplex Energy Hall 1-18,State Senate,23,REP,Hines,162
+Campbell,Camplex Energy Hall 1-18,State House,31,REP,Jansen,163
+Campbell,Camplex Energy Hall 1-18,Ballots Cast,,,Ballots Cast,185
+Campbell,Camplex Energy Hall 1-19,U.S. Senate,,REP,Enzi,414
+Campbell,Camplex Energy Hall 1-19,U.S. Senate,,DEM,Akin,101
+Campbell,Camplex Energy Hall 1-19,U.S. Senate,,DEM,Corcoran,51
+Campbell,Camplex Energy Hall 1-19,U.S. House,,REP,Cubin,342
+Campbell,Camplex Energy Hall 1-19,U.S. House,,LIB,Stock,12
+Campbell,Camplex Energy Hall 1-19,Governor,,REP,Bebout,288
+Campbell,Camplex Energy Hall 1-19,Governor,,DEM,Freudenthal,166
+Campbell,Camplex Energy Hall 1-19,Governor,,LIB,Brossman,43
+Campbell,Camplex Energy Hall 1-19,Governor,,LIB,Dawson,10
+Campbell,Camplex Energy Hall 1-19,Secretary of State,,REP,Meyer,389
+Campbell,Camplex Energy Hall 1-19,State Auditor,,REP,Maxfield,367
+Campbell,Camplex Energy Hall 1-19,State Auditor,,DEM,Harris,84
+Campbell,Camplex Energy Hall 1-19,State Treasurer,,REP,Lummis,411
+Campbell,Camplex Energy Hall 1-19,Superintendent of Public Instruction,,REP,Blankenship,296
+Campbell,Camplex Energy Hall 1-19,Superintendent of Public Instruction,,DEM,Emmons,154
+Campbell,Camplex Energy Hall 1-19,State House,32,REP,Wasserburger,395
+Campbell,Camplex Energy Hall 1-19,State House,32,DEM,Jenniges,64
+Campbell,Camplex Energy Hall 1-19,Ballots Cast,,,Ballots Cast,468
+Campbell,Camplex Energy Hall 1-2,U.S. Senate,,REP,Enzi,125
+Campbell,Camplex Energy Hall 1-2,U.S. Senate,,DEM,Akin,47
+Campbell,Camplex Energy Hall 1-2,U.S. Senate,,DEM,Corcoran,36
+Campbell,Camplex Energy Hall 1-2,U.S. House,,REP,Cubin,112
+Campbell,Camplex Energy Hall 1-2,U.S. House,,LIB,Stock,3
+Campbell,Camplex Energy Hall 1-2,Governor,,REP,Bebout,78
+Campbell,Camplex Energy Hall 1-2,Governor,,DEM,Freudenthal,81
+Campbell,Camplex Energy Hall 1-2,Governor,,LIB,Brossman,33
+Campbell,Camplex Energy Hall 1-2,Governor,,LIB,Dawson,4
+Campbell,Camplex Energy Hall 1-2,Secretary of State,,REP,Meyer,119
+Campbell,Camplex Energy Hall 1-2,State Auditor,,REP,Maxfield,112
+Campbell,Camplex Energy Hall 1-2,State Auditor,,DEM,Harris,47
+Campbell,Camplex Energy Hall 1-2,State Treasurer,,REP,Lummis,133
+Campbell,Camplex Energy Hall 1-2,Superintendent of Public Instruction,,REP,Blankenship,97
+Campbell,Camplex Energy Hall 1-2,Superintendent of Public Instruction,,DEM,Emmons,61
+Campbell,Camplex Energy Hall 1-2,State House,32,REP,Wasserburger,115
+Campbell,Camplex Energy Hall 1-2,State House,32,DEM,Jenniges,40
+Campbell,Camplex Energy Hall 1-2,Ballots Cast,,,Ballots Cast,169
+Campbell,Camplex Energy Hall 1-20,U.S. Senate,,REP,Enzi,99
+Campbell,Camplex Energy Hall 1-20,U.S. Senate,,DEM,Akin,21
+Campbell,Camplex Energy Hall 1-20,U.S. Senate,,DEM,Corcoran,11
+Campbell,Camplex Energy Hall 1-20,U.S. House,,REP,Cubin,79
+Campbell,Camplex Energy Hall 1-20,U.S. House,,LIB,Stock,6
+Campbell,Camplex Energy Hall 1-20,Governor,,REP,Bebout,65
+Campbell,Camplex Energy Hall 1-20,Governor,,DEM,Freudenthal,41
+Campbell,Camplex Energy Hall 1-20,Governor,,LIB,Brossman,14
+Campbell,Camplex Energy Hall 1-20,Governor,,LIB,Dawson,3
+Campbell,Camplex Energy Hall 1-20,Secretary of State,,REP,Meyer,91
+Campbell,Camplex Energy Hall 1-20,State Auditor,,REP,Maxfield,87
+Campbell,Camplex Energy Hall 1-20,State Auditor,,DEM,Harris,17
+Campbell,Camplex Energy Hall 1-20,State Treasurer,,REP,Lummis,99
+Campbell,Camplex Energy Hall 1-20,Superintendent of Public Instruction,,REP,Blankenship,74
+Campbell,Camplex Energy Hall 1-20,Superintendent of Public Instruction,,DEM,Emmons,32
+Campbell,Camplex Energy Hall 1-20,State Senate,23,REP,Hines,98
+Campbell,Camplex Energy Hall 1-20,State House,31,REP,Jansen,97
+Campbell,Camplex Energy Hall 1-20,Ballots Cast,,,Ballots Cast,112
+Campbell,Camplex Energy Hall 1-21,U.S. Senate,,REP,Enzi,24
+Campbell,Camplex Energy Hall 1-21,U.S. Senate,,DEM,Akin,2
+Campbell,Camplex Energy Hall 1-21,U.S. Senate,,DEM,Corcoran,1
+Campbell,Camplex Energy Hall 1-21,U.S. House,,REP,Cubin,21
+Campbell,Camplex Energy Hall 1-21,U.S. House,,LIB,Stock,2
+Campbell,Camplex Energy Hall 1-21,Governor,,REP,Bebout,19
+Campbell,Camplex Energy Hall 1-21,Governor,,DEM,Freudenthal,6
+Campbell,Camplex Energy Hall 1-21,Governor,,LIB,Brossman,2
+Campbell,Camplex Energy Hall 1-21,Governor,,LIB,Dawson,0
+Campbell,Camplex Energy Hall 1-21,Secretary of State,,REP,Meyer,21
+Campbell,Camplex Energy Hall 1-21,State Auditor,,REP,Maxfield,22
+Campbell,Camplex Energy Hall 1-21,State Auditor,,DEM,Harris,2
+Campbell,Camplex Energy Hall 1-21,State Treasurer,,REP,Lummis,21
+Campbell,Camplex Energy Hall 1-21,Superintendent of Public Instruction,,REP,Blankenship,21
+Campbell,Camplex Energy Hall 1-21,Superintendent of Public Instruction,,DEM,Emmons,3
+Campbell,Camplex Energy Hall 1-21,State Senate,23,REP,Hines,22
+Campbell,Camplex Energy Hall 1-21,State House,52,REP,McMurtrey,22
+Campbell,Camplex Energy Hall 1-21,Ballots Cast,,,Ballots Cast,25
+Campbell,Camplex Energy Hall 1-3,U.S. Senate,,REP,Enzi,196
+Campbell,Camplex Energy Hall 1-3,U.S. Senate,,DEM,Akin,57
+Campbell,Camplex Energy Hall 1-3,U.S. Senate,,DEM,Corcoran,38
+Campbell,Camplex Energy Hall 1-3,U.S. House,,REP,Cubin,162
+Campbell,Camplex Energy Hall 1-3,U.S. House,,LIB,Stock,8
+Campbell,Camplex Energy Hall 1-3,Governor,,REP,Bebout,129
+Campbell,Camplex Energy Hall 1-3,Governor,,DEM,Freudenthal,95
+Campbell,Camplex Energy Hall 1-3,Governor,,LIB,Brossman,30
+Campbell,Camplex Energy Hall 1-3,Governor,,LIB,Dawson,9
+Campbell,Camplex Energy Hall 1-3,Secretary of State,,REP,Meyer,179
+Campbell,Camplex Energy Hall 1-3,State Auditor,,REP,Maxfield,174
+Campbell,Camplex Energy Hall 1-3,State Auditor,,DEM,Harris,48
+Campbell,Camplex Energy Hall 1-3,State Treasurer,,REP,Lummis,186
+Campbell,Camplex Energy Hall 1-3,Superintendent of Public Instruction,,REP,Blankenship,142
+Campbell,Camplex Energy Hall 1-3,Superintendent of Public Instruction,,DEM,Emmons,81
+Campbell,Camplex Energy Hall 1-3,State House,53,REP,Latta,133
+Campbell,Camplex Energy Hall 1-3,State House,53,DEM,Warfield,96
+Campbell,Camplex Energy Hall 1-3,Ballots Cast,,,Ballots Cast,237
+Campbell,Camplex Energy Hall 1-4,U.S. Senate,,REP,Enzi,318
+Campbell,Camplex Energy Hall 1-4,U.S. Senate,,DEM,Akin,68
+Campbell,Camplex Energy Hall 1-4,U.S. Senate,,DEM,Corcoran,43
+Campbell,Camplex Energy Hall 1-4,U.S. House,,REP,Cubin,277
+Campbell,Camplex Energy Hall 1-4,U.S. House,,LIB,Stock,8
+Campbell,Camplex Energy Hall 1-4,Governor,,REP,Bebout,240
+Campbell,Camplex Energy Hall 1-4,Governor,,DEM,Freudenthal,116
+Campbell,Camplex Energy Hall 1-4,Governor,,LIB,Brossman,34
+Campbell,Camplex Energy Hall 1-4,Governor,,LIB,Dawson,6
+Campbell,Camplex Energy Hall 1-4,Secretary of State,,REP,Meyer,304
+Campbell,Camplex Energy Hall 1-4,State Auditor,,REP,Maxfield,280
+Campbell,Camplex Energy Hall 1-4,State Auditor,,DEM,Harris,63
+Campbell,Camplex Energy Hall 1-4,State Treasurer,,REP,Lummis,305
+Campbell,Camplex Energy Hall 1-4,Superintendent of Public Instruction,,REP,Blankenship,234
+Campbell,Camplex Energy Hall 1-4,Superintendent of Public Instruction,,DEM,Emmons,114
+Campbell,Camplex Energy Hall 1-4,State House,53,REP,Latta,219
+Campbell,Camplex Energy Hall 1-4,State House,53,DEM,Warfield,138
+Campbell,Camplex Energy Hall 1-4,Ballots Cast,,,Ballots Cast,369
+Campbell,Camplex Energy Hall 1-5,U.S. Senate,,REP,Enzi,435
+Campbell,Camplex Energy Hall 1-5,U.S. Senate,,DEM,Akin,104
+Campbell,Camplex Energy Hall 1-5,U.S. Senate,,DEM,Corcoran,65
+Campbell,Camplex Energy Hall 1-5,U.S. House,,REP,Cubin,375
+Campbell,Camplex Energy Hall 1-5,U.S. House,,LIB,Stock,15
+Campbell,Camplex Energy Hall 1-5,Governor,,REP,Bebout,312
+Campbell,Camplex Energy Hall 1-5,Governor,,DEM,Freudenthal,184
+Campbell,Camplex Energy Hall 1-5,Governor,,LIB,Brossman,55
+Campbell,Camplex Energy Hall 1-5,Governor,,LIB,Dawson,5
+Campbell,Camplex Energy Hall 1-5,Secretary of State,,REP,Meyer,422
+Campbell,Camplex Energy Hall 1-5,State Auditor,,REP,Maxfield,372
+Campbell,Camplex Energy Hall 1-5,State Auditor,,DEM,Harris,114
+Campbell,Camplex Energy Hall 1-5,State Treasurer,,REP,Lummis,453
+Campbell,Camplex Energy Hall 1-5,Superintendent of Public Instruction,,REP,Blankenship,314
+Campbell,Camplex Energy Hall 1-5,Superintendent of Public Instruction,,DEM,Emmons,181
+Campbell,Camplex Energy Hall 1-5,State House,53,REP,Latta,297
+Campbell,Camplex Energy Hall 1-5,State House,53,DEM,Warfield,193
+Campbell,Camplex Energy Hall 1-5,Ballots Cast,,,Ballots Cast,509
+Campbell,Camplex Energy Hall 1-7,U.S. Senate,,REP,Enzi,256
+Campbell,Camplex Energy Hall 1-7,U.S. Senate,,DEM,Akin,58
+Campbell,Camplex Energy Hall 1-7,U.S. Senate,,DEM,Corcoran,36
+Campbell,Camplex Energy Hall 1-7,U.S. House,,REP,Cubin,219
+Campbell,Camplex Energy Hall 1-7,U.S. House,,LIB,Stock,9
+Campbell,Camplex Energy Hall 1-7,Governor,,REP,Bebout,188
+Campbell,Camplex Energy Hall 1-7,Governor,,DEM,Freudenthal,100
+Campbell,Camplex Energy Hall 1-7,Governor,,LIB,Brossman,49
+Campbell,Camplex Energy Hall 1-7,Governor,,LIB,Dawson,8
+Campbell,Camplex Energy Hall 1-7,Secretary of State,,REP,Meyer,236
+Campbell,Camplex Energy Hall 1-7,State Auditor,,REP,Maxfield,215
+Campbell,Camplex Energy Hall 1-7,State Auditor,,DEM,Harris,70
+Campbell,Camplex Energy Hall 1-7,State Treasurer,,REP,Lummis,256
+Campbell,Camplex Energy Hall 1-7,Superintendent of Public Instruction,,REP,Blankenship,202
+Campbell,Camplex Energy Hall 1-7,Superintendent of Public Instruction,,DEM,Emmons,85
+Campbell,Camplex Energy Hall 1-7,State House,53,REP,Latta,181
+Campbell,Camplex Energy Hall 1-7,State House,53,DEM,Warfield,110
+Campbell,Camplex Energy Hall 1-7,Ballots Cast,,,Ballots Cast,300
+Campbell,Camplex Energy Hall 1-8,U.S. Senate,,REP,Enzi,187
+Campbell,Camplex Energy Hall 1-8,U.S. Senate,,DEM,Akin,53
+Campbell,Camplex Energy Hall 1-8,U.S. Senate,,DEM,Corcoran,30
+Campbell,Camplex Energy Hall 1-8,U.S. House,,REP,Cubin,153
+Campbell,Camplex Energy Hall 1-8,U.S. House,,LIB,Stock,10
+Campbell,Camplex Energy Hall 1-8,Governor,,REP,Bebout,125
+Campbell,Camplex Energy Hall 1-8,Governor,,DEM,Freudenthal,88
+Campbell,Camplex Energy Hall 1-8,Governor,,LIB,Brossman,37
+Campbell,Camplex Energy Hall 1-8,Governor,,LIB,Dawson,3
+Campbell,Camplex Energy Hall 1-8,Secretary of State,,REP,Meyer,169
+Campbell,Camplex Energy Hall 1-8,State Auditor,,REP,Maxfield,157
+Campbell,Camplex Energy Hall 1-8,State Auditor,,DEM,Harris,57
+Campbell,Camplex Energy Hall 1-8,State Treasurer,,REP,Lummis,186
+Campbell,Camplex Energy Hall 1-8,Superintendent of Public Instruction,,REP,Blankenship,133
+Campbell,Camplex Energy Hall 1-8,Superintendent of Public Instruction,,DEM,Emmons,83
+Campbell,Camplex Energy Hall 1-8,State House,53,REP,Latta,128
+Campbell,Camplex Energy Hall 1-8,State House,53,DEM,Warfield,87
+Campbell,Camplex Energy Hall 1-8,Ballots Cast,,,Ballots Cast,220
+Campbell,Camplex Energy Hall 1-9,U.S. Senate,,REP,Enzi,239
+Campbell,Camplex Energy Hall 1-9,U.S. Senate,,DEM,Akin,65
+Campbell,Camplex Energy Hall 1-9,U.S. Senate,,DEM,Corcoran,41
+Campbell,Camplex Energy Hall 1-9,U.S. House,,REP,Cubin,204
+Campbell,Camplex Energy Hall 1-9,U.S. House,,LIB,Stock,5
+Campbell,Camplex Energy Hall 1-9,Governor,,REP,Bebout,167
+Campbell,Camplex Energy Hall 1-9,Governor,,DEM,Freudenthal,106
+Campbell,Camplex Energy Hall 1-9,Governor,,LIB,Brossman,36
+Campbell,Camplex Energy Hall 1-9,Governor,,LIB,Dawson,6
+Campbell,Camplex Energy Hall 1-9,Secretary of State,,REP,Meyer,232
+Campbell,Camplex Energy Hall 1-9,State Auditor,,REP,Maxfield,209
+Campbell,Camplex Energy Hall 1-9,State Auditor,,DEM,Harris,65
+Campbell,Camplex Energy Hall 1-9,State Treasurer,,REP,Lummis,256
+Campbell,Camplex Energy Hall 1-9,Superintendent of Public Instruction,,REP,Blankenship,179
+Campbell,Camplex Energy Hall 1-9,Superintendent of Public Instruction,,DEM,Emmons,96
+Campbell,Camplex Energy Hall 1-9,State House,53,REP,Latta,176
+Campbell,Camplex Energy Hall 1-9,State House,53,DEM,Warfield,95
+Campbell,Camplex Energy Hall 1-9,Ballots Cast,,,Ballots Cast,284
+Campbell,Camplex Energy Hall 18-1,U.S. Senate,,REP,Enzi,441
+Campbell,Camplex Energy Hall 18-1,U.S. Senate,,DEM,Akin,99
+Campbell,Camplex Energy Hall 18-1,U.S. Senate,,DEM,Corcoran,71
+Campbell,Camplex Energy Hall 18-1,U.S. House,,REP,Cubin,395
+Campbell,Camplex Energy Hall 18-1,U.S. House,,LIB,Stock,14
+Campbell,Camplex Energy Hall 18-1,Governor,,REP,Bebout,338
+Campbell,Camplex Energy Hall 18-1,Governor,,DEM,Freudenthal,169
+Campbell,Camplex Energy Hall 18-1,Governor,,LIB,Brossman,71
+Campbell,Camplex Energy Hall 18-1,Governor,,LIB,Dawson,9
+Campbell,Camplex Energy Hall 18-1,Secretary of State,,REP,Meyer,418
+Campbell,Camplex Energy Hall 18-1,State Auditor,,REP,Maxfield,406
+Campbell,Camplex Energy Hall 18-1,State Auditor,,DEM,Harris,94
+Campbell,Camplex Energy Hall 18-1,State Treasurer,,REP,Lummis,466
+Campbell,Camplex Energy Hall 18-1,Superintendent of Public Instruction,,REP,Blankenship,352
+Campbell,Camplex Energy Hall 18-1,Superintendent of Public Instruction,,DEM,Emmons,152
+Campbell,Camplex Energy Hall 18-1,State Senate,23,REP,Hines,462
+Campbell,Camplex Energy Hall 18-1,State House,52,REP,McMurtrey,459
+Campbell,Camplex Energy Hall 18-1,Ballots Cast,,,Ballots Cast,526
+Campbell,Camplex Energy Hall 2-1,U.S. Senate,,REP,Enzi,217
+Campbell,Camplex Energy Hall 2-1,U.S. Senate,,DEM,Akin,45
+Campbell,Camplex Energy Hall 2-1,U.S. Senate,,DEM,Corcoran,34
+Campbell,Camplex Energy Hall 2-1,U.S. House,,REP,Cubin,191
+Campbell,Camplex Energy Hall 2-1,U.S. House,,LIB,Stock,8
+Campbell,Camplex Energy Hall 2-1,Governor,,REP,Bebout,163
+Campbell,Camplex Energy Hall 2-1,Governor,,DEM,Freudenthal,74
+Campbell,Camplex Energy Hall 2-1,Governor,,LIB,Brossman,39
+Campbell,Camplex Energy Hall 2-1,Governor,,LIB,Dawson,12
+Campbell,Camplex Energy Hall 2-1,Secretary of State,,REP,Meyer,194
+Campbell,Camplex Energy Hall 2-1,State Auditor,,REP,Maxfield,185
+Campbell,Camplex Energy Hall 2-1,State Auditor,,DEM,Harris,56
+Campbell,Camplex Energy Hall 2-1,State Treasurer,,REP,Lummis,217
+Campbell,Camplex Energy Hall 2-1,Superintendent of Public Instruction,,REP,Blankenship,163
+Campbell,Camplex Energy Hall 2-1,Superintendent of Public Instruction,,DEM,Emmons,78
+Campbell,Camplex Energy Hall 2-1,State Senate,23,REP,Hines,218
+Campbell,Camplex Energy Hall 2-1,State House,31,REP,Jansen,212
+Campbell,Camplex Energy Hall 2-1,Ballots Cast,,,Ballots Cast,257
+Campbell,Camplex Energy Hall 3-1,U.S. Senate,,REP,Enzi,246
+Campbell,Camplex Energy Hall 3-1,U.S. Senate,,DEM,Akin,54
+Campbell,Camplex Energy Hall 3-1,U.S. Senate,,DEM,Corcoran,38
+Campbell,Camplex Energy Hall 3-1,U.S. House,,REP,Cubin,219
+Campbell,Camplex Energy Hall 3-1,U.S. House,,LIB,Stock,7
+Campbell,Camplex Energy Hall 3-1,Governor,,REP,Bebout,187
+Campbell,Camplex Energy Hall 3-1,Governor,,DEM,Freudenthal,83
+Campbell,Camplex Energy Hall 3-1,Governor,,LIB,Brossman,34
+Campbell,Camplex Energy Hall 3-1,Governor,,LIB,Dawson,10
+Campbell,Camplex Energy Hall 3-1,Secretary of State,,REP,Meyer,244
+Campbell,Camplex Energy Hall 3-1,State Auditor,,REP,Maxfield,227
+Campbell,Camplex Energy Hall 3-1,State Auditor,,DEM,Harris,54
+Campbell,Camplex Energy Hall 3-1,State Treasurer,,REP,Lummis,263
+Campbell,Camplex Energy Hall 3-1,Superintendent of Public Instruction,,REP,Blankenship,199
+Campbell,Camplex Energy Hall 3-1,Superintendent of Public Instruction,,DEM,Emmons,78
+Campbell,Camplex Energy Hall 3-1,State Senate,23,REP,Hines,264
+Campbell,Camplex Energy Hall 3-1,State House,31,REP,Jansen,257
+Campbell,Camplex Energy Hall 3-1,Ballots Cast,,,Ballots Cast,289
+Campbell,Conestoga School 19-1,U.S. Senate,,REP,Enzi,249
+Campbell,Conestoga School 19-1,U.S. Senate,,DEM,Akin,33
+Campbell,Conestoga School 19-1,U.S. Senate,,DEM,Corcoran,23
+Campbell,Conestoga School 19-1,U.S. House,,REP,Cubin,230
+Campbell,Conestoga School 19-1,U.S. House,,LIB,Stock,4
+Campbell,Conestoga School 19-1,Governor,,REP,Bebout,187
+Campbell,Conestoga School 19-1,Governor,,DEM,Freudenthal,81
+Campbell,Conestoga School 19-1,Governor,,LIB,Brossman,31
+Campbell,Conestoga School 19-1,Governor,,LIB,Dawson,2
+Campbell,Conestoga School 19-1,Secretary of State,,REP,Meyer,234
+Campbell,Conestoga School 19-1,State Auditor,,REP,Maxfield,222
+Campbell,Conestoga School 19-1,State Auditor,,DEM,Harris,40
+Campbell,Conestoga School 19-1,State Treasurer,,REP,Lummis,254
+Campbell,Conestoga School 19-1,Superintendent of Public Instruction,,REP,Blankenship,205
+Campbell,Conestoga School 19-1,Superintendent of Public Instruction,,DEM,Emmons,59
+Campbell,Conestoga School 19-1,State Senate,23,REP,Hines,254
+Campbell,Conestoga School 19-1,State House,52,REP,McMurtrey,252
+Campbell,Conestoga School 19-1,Ballots Cast,,,Ballots Cast,273
+Campbell,Conestoga School 22-1,U.S. Senate,,REP,Enzi,348
+Campbell,Conestoga School 22-1,U.S. Senate,,DEM,Akin,102
+Campbell,Conestoga School 22-1,U.S. Senate,,DEM,Corcoran,69
+Campbell,Conestoga School 22-1,U.S. House,,REP,Cubin,299
+Campbell,Conestoga School 22-1,U.S. House,,LIB,Stock,12
+Campbell,Conestoga School 22-1,Governor,,REP,Bebout,239
+Campbell,Conestoga School 22-1,Governor,,DEM,Freudenthal,165
+Campbell,Conestoga School 22-1,Governor,,LIB,Brossman,69
+Campbell,Conestoga School 22-1,Governor,,LIB,Dawson,13
+Campbell,Conestoga School 22-1,Secretary of State,,REP,Meyer,333
+Campbell,Conestoga School 22-1,State Auditor,,REP,Maxfield,318
+Campbell,Conestoga School 22-1,State Auditor,,DEM,Harris,94
+Campbell,Conestoga School 22-1,State Treasurer,,REP,Lummis,373
+Campbell,Conestoga School 22-1,Superintendent of Public Instruction,,REP,Blankenship,264
+Campbell,Conestoga School 22-1,Superintendent of Public Instruction,,DEM,Emmons,141
+Campbell,Conestoga School 22-1,State Senate,23,REP,Hines,370
+Campbell,Conestoga School 22-1,State House,52,REP,McMurtrey,370
+Campbell,Conestoga School 22-1,Ballots Cast,,,Ballots Cast,421
+Campbell,First Methodist Church 9-1,U.S. Senate,,REP,Enzi,374
+Campbell,First Methodist Church 9-1,U.S. Senate,,DEM,Akin,62
+Campbell,First Methodist Church 9-1,U.S. Senate,,DEM,Corcoran,56
+Campbell,First Methodist Church 9-1,U.S. House,,REP,Cubin,349
+Campbell,First Methodist Church 9-1,U.S. House,,LIB,Stock,14
+Campbell,First Methodist Church 9-1,Governor,,REP,Bebout,282
+Campbell,First Methodist Church 9-1,Governor,,DEM,Freudenthal,137
+Campbell,First Methodist Church 9-1,Governor,,LIB,Brossman,46
+Campbell,First Methodist Church 9-1,Governor,,LIB,Dawson,6
+Campbell,First Methodist Church 9-1,Secretary of State,,REP,Meyer,362
+Campbell,First Methodist Church 9-1,State Auditor,,REP,Maxfield,341
+Campbell,First Methodist Church 9-1,State Auditor,,DEM,Harris,74
+Campbell,First Methodist Church 9-1,State Treasurer,,REP,Lummis,387
+Campbell,First Methodist Church 9-1,Superintendent of Public Instruction,,REP,Blankenship,305
+Campbell,First Methodist Church 9-1,Superintendent of Public Instruction,,DEM,Emmons,114
+Campbell,First Methodist Church 9-1,State Senate,23,REP,Hines,391
+Campbell,First Methodist Church 9-1,State House,31,REP,Jansen,386
+Campbell,First Methodist Church 9-1,Ballots Cast,,,Ballots Cast,433
+Campbell,Haight Residence 12-1,U.S. Senate,,REP,Enzi,74
+Campbell,Haight Residence 12-1,U.S. Senate,,DEM,Akin,9
+Campbell,Haight Residence 12-1,U.S. Senate,,DEM,Corcoran,5
+Campbell,Haight Residence 12-1,U.S. House,,REP,Cubin,64
+Campbell,Haight Residence 12-1,U.S. House,,LIB,Stock,6
+Campbell,Haight Residence 12-1,Governor,,REP,Bebout,55
+Campbell,Haight Residence 12-1,Governor,,DEM,Freudenthal,19
+Campbell,Haight Residence 12-1,Governor,,LIB,Brossman,4
+Campbell,Haight Residence 12-1,Governor,,LIB,Dawson,2
+Campbell,Haight Residence 12-1,Secretary of State,,REP,Meyer,71
+Campbell,Haight Residence 12-1,State Auditor,,REP,Maxfield,66
+Campbell,Haight Residence 12-1,State Auditor,,DEM,Harris,6
+Campbell,Haight Residence 12-1,State Treasurer,,REP,Lummis,70
+Campbell,Haight Residence 12-1,Superintendent of Public Instruction,,REP,Blankenship,59
+Campbell,Haight Residence 12-1,Superintendent of Public Instruction,,DEM,Emmons,12
+Campbell,Haight Residence 12-1,State Senate,23,REP,Hines,74
+Campbell,Haight Residence 12-1,State House,52,REP,McMurtrey,73
+Campbell,Haight Residence 12-1,Ballots Cast,,,Ballots Cast,80
+Campbell,Knights of Columbus 5-1,U.S. Senate,,REP,Enzi,502
+Campbell,Knights of Columbus 5-1,U.S. Senate,,DEM,Akin,100
+Campbell,Knights of Columbus 5-1,U.S. Senate,,DEM,Corcoran,59
+Campbell,Knights of Columbus 5-1,U.S. House,,REP,Cubin,444
+Campbell,Knights of Columbus 5-1,U.S. House,,LIB,Stock,14
+Campbell,Knights of Columbus 5-1,Governor,,REP,Bebout,344
+Campbell,Knights of Columbus 5-1,Governor,,DEM,Freudenthal,207
+Campbell,Knights of Columbus 5-1,Governor,,LIB,Brossman,64
+Campbell,Knights of Columbus 5-1,Governor,,LIB,Dawson,10
+Campbell,Knights of Columbus 5-1,Secretary of State,,REP,Meyer,461
+Campbell,Knights of Columbus 5-1,State Auditor,,REP,Maxfield,434
+Campbell,Knights of Columbus 5-1,State Auditor,,DEM,Harris,97
+Campbell,Knights of Columbus 5-1,State Treasurer,,REP,Lummis,487
+Campbell,Knights of Columbus 5-1,Superintendent of Public Instruction,,REP,Blankenship,380
+Campbell,Knights of Columbus 5-1,Superintendent of Public Instruction,,DEM,Emmons,161
+Campbell,Knights of Columbus 5-1,State Senate,23,REP,Hines,500
+Campbell,Knights of Columbus 5-1,State House,31,REP,Jansen,494
+Campbell,Knights of Columbus 5-1,Ballots Cast,,,Ballots Cast,566
+Campbell,Little Powder School 8-1,U.S. Senate,,REP,Enzi,108
+Campbell,Little Powder School 8-1,U.S. Senate,,DEM,Akin,10
+Campbell,Little Powder School 8-1,U.S. Senate,,DEM,Corcoran,5
+Campbell,Little Powder School 8-1,U.S. House,,REP,Cubin,104
+Campbell,Little Powder School 8-1,U.S. House,,LIB,Stock,3
+Campbell,Little Powder School 8-1,Governor,,REP,Bebout,91
+Campbell,Little Powder School 8-1,Governor,,DEM,Freudenthal,21
+Campbell,Little Powder School 8-1,Governor,,LIB,Brossman,9
+Campbell,Little Powder School 8-1,Governor,,LIB,Dawson,5
+Campbell,Little Powder School 8-1,Secretary of State,,REP,Meyer,101
+Campbell,Little Powder School 8-1,State Auditor,,REP,Maxfield,99
+Campbell,Little Powder School 8-1,State Auditor,,DEM,Harris,15
+Campbell,Little Powder School 8-1,State Treasurer,,REP,Lummis,105
+Campbell,Little Powder School 8-1,Superintendent of Public Instruction,,REP,Blankenship,95
+Campbell,Little Powder School 8-1,Superintendent of Public Instruction,,DEM,Emmons,19
+Campbell,Little Powder School 8-1,State Senate,23,REP,Hines,106
+Campbell,Little Powder School 8-1,State House,52,REP,McMurtrey,104
+Campbell,Little Powder School 8-1,Ballots Cast,,,Ballots Cast,117
+Campbell,Rawhide School 6-1,U.S. Senate,,REP,Enzi,157
+Campbell,Rawhide School 6-1,U.S. Senate,,DEM,Akin,19
+Campbell,Rawhide School 6-1,U.S. Senate,,DEM,Corcoran,13
+Campbell,Rawhide School 6-1,U.S. House,,REP,Cubin,142
+Campbell,Rawhide School 6-1,U.S. House,,LIB,Stock,5
+Campbell,Rawhide School 6-1,Governor,,REP,Bebout,105
+Campbell,Rawhide School 6-1,Governor,,DEM,Freudenthal,59
+Campbell,Rawhide School 6-1,Governor,,LIB,Brossman,22
+Campbell,Rawhide School 6-1,Governor,,LIB,Dawson,4
+Campbell,Rawhide School 6-1,Secretary of State,,REP,Meyer,140
+Campbell,Rawhide School 6-1,State Auditor,,REP,Maxfield,136
+Campbell,Rawhide School 6-1,State Auditor,,DEM,Harris,24
+Campbell,Rawhide School 6-1,State Treasurer,,REP,Lummis,148
+Campbell,Rawhide School 6-1,Superintendent of Public Instruction,,REP,Blankenship,130
+Campbell,Rawhide School 6-1,Superintendent of Public Instruction,,DEM,Emmons,35
+Campbell,Rawhide School 6-1,State Senate,23,REP,Hines,156
+Campbell,Rawhide School 6-1,State House,31,REP,Jansen,150
+Campbell,Rawhide School 6-1,Ballots Cast,,,Ballots Cast,172
+Campbell,Recluse School 7-1,U.S. Senate,,REP,Enzi,111
+Campbell,Recluse School 7-1,U.S. Senate,,DEM,Akin,11
+Campbell,Recluse School 7-1,U.S. Senate,,DEM,Corcoran,11
+Campbell,Recluse School 7-1,U.S. House,,REP,Cubin,106
+Campbell,Recluse School 7-1,U.S. House,,LIB,Stock,3
+Campbell,Recluse School 7-1,Governor,,REP,Bebout,86
+Campbell,Recluse School 7-1,Governor,,DEM,Freudenthal,33
+Campbell,Recluse School 7-1,Governor,,LIB,Brossman,15
+Campbell,Recluse School 7-1,Governor,,LIB,Dawson,1
+Campbell,Recluse School 7-1,Secretary of State,,REP,Meyer,97
+Campbell,Recluse School 7-1,State Auditor,,REP,Maxfield,83
+Campbell,Recluse School 7-1,State Auditor,,DEM,Harris,35
+Campbell,Recluse School 7-1,State Treasurer,,REP,Lummis,105
+Campbell,Recluse School 7-1,Superintendent of Public Instruction,,REP,Blankenship,78
+Campbell,Recluse School 7-1,Superintendent of Public Instruction,,DEM,Emmons,39
+Campbell,Recluse School 7-1,State Senate,23,REP,Hines,108
+Campbell,Recluse School 7-1,State House,52,REP,McMurtrey,106
+Campbell,Recluse School 7-1,Ballots Cast,,,Ballots Cast,122
+Campbell,Rozet School 4-1,U.S. Senate,,REP,Enzi,342
+Campbell,Rozet School 4-1,U.S. Senate,,DEM,Akin,50
+Campbell,Rozet School 4-1,U.S. Senate,,DEM,Corcoran,43
+Campbell,Rozet School 4-1,U.S. House,,REP,Cubin,322
+Campbell,Rozet School 4-1,U.S. House,,LIB,Stock,12
+Campbell,Rozet School 4-1,Governor,,REP,Bebout,280
+Campbell,Rozet School 4-1,Governor,,DEM,Freudenthal,92
+Campbell,Rozet School 4-1,Governor,,LIB,Brossman,43
+Campbell,Rozet School 4-1,Governor,,LIB,Dawson,10
+Campbell,Rozet School 4-1,Secretary of State,,REP,Meyer,326
+Campbell,Rozet School 4-1,State Auditor,,REP,Maxfield,306
+Campbell,Rozet School 4-1,State Auditor,,DEM,Harris,68
+Campbell,Rozet School 4-1,State Treasurer,,REP,Lummis,351
+Campbell,Rozet School 4-1,Superintendent of Public Instruction,,REP,Blankenship,275
+Campbell,Rozet School 4-1,Superintendent of Public Instruction,,DEM,Emmons,98
+Campbell,Rozet School 4-1,State Senate,23,REP,Hines,351
+Campbell,Rozet School 4-1,State House,52,REP,McMurtrey,350
+Campbell,Rozet School 4-1,Ballots Cast,,,Ballots Cast,392
+Campbell,Wright Town Hall 14-1,U.S. Senate,,REP,Enzi,309
+Campbell,Wright Town Hall 14-1,U.S. Senate,,DEM,Akin,102
+Campbell,Wright Town Hall 14-1,U.S. Senate,,DEM,Corcoran,72
+Campbell,Wright Town Hall 14-1,U.S. House,,REP,Cubin,260
+Campbell,Wright Town Hall 14-1,U.S. House,,LIB,Stock,16
+Campbell,Wright Town Hall 14-1,Governor,,REP,Bebout,216
+Campbell,Wright Town Hall 14-1,Governor,,DEM,Freudenthal,153
+Campbell,Wright Town Hall 14-1,Governor,,LIB,Brossman,58
+Campbell,Wright Town Hall 14-1,Governor,,LIB,Dawson,12
+Campbell,Wright Town Hall 14-1,Secretary of State,,REP,Meyer,311
+Campbell,Wright Town Hall 14-1,State Auditor,,REP,Maxfield,279
+Campbell,Wright Town Hall 14-1,State Auditor,,DEM,Harris,91
+Campbell,Wright Town Hall 14-1,State Treasurer,,REP,Lummis,357
+Campbell,Wright Town Hall 14-1,Superintendent of Public Instruction,,REP,Blankenship,230
+Campbell,Wright Town Hall 14-1,Superintendent of Public Instruction,,DEM,Emmons,144
+Campbell,Wright Town Hall 14-1,State Senate,23,REP,Hines,344
+Campbell,Wright Town Hall 14-1,State House,52,REP,McMurtrey,344
+Campbell,Wright Town Hall 14-1,Ballots Cast,,,Ballots Cast,388
+Campbell,Wright Town Hall 14-2,U.S. Senate,,REP,Enzi,120
+Campbell,Wright Town Hall 14-2,U.S. Senate,,DEM,Akin,15
+Campbell,Wright Town Hall 14-2,U.S. Senate,,DEM,Corcoran,17
+Campbell,Wright Town Hall 14-2,U.S. House,,REP,Cubin,117
+Campbell,Wright Town Hall 14-2,U.S. House,,LIB,Stock,5
+Campbell,Wright Town Hall 14-2,Governor,,REP,Bebout,102
+Campbell,Wright Town Hall 14-2,Governor,,DEM,Freudenthal,33
+Campbell,Wright Town Hall 14-2,Governor,,LIB,Brossman,15
+Campbell,Wright Town Hall 14-2,Governor,,LIB,Dawson,3
+Campbell,Wright Town Hall 14-2,Secretary of State,,REP,Meyer,112
+Campbell,Wright Town Hall 14-2,State Auditor,,REP,Maxfield,102
+Campbell,Wright Town Hall 14-2,State Auditor,,DEM,Harris,29
+Campbell,Wright Town Hall 14-2,State Treasurer,,REP,Lummis,123
+Campbell,Wright Town Hall 14-2,Superintendent of Public Instruction,,REP,Blankenship,97
+Campbell,Wright Town Hall 14-2,Superintendent of Public Instruction,,DEM,Emmons,34
+Campbell,Wright Town Hall 14-2,State Senate,23,REP,Hines,126
+Campbell,Wright Town Hall 14-2,State House,52,REP,McMurtrey,123
+Campbell,Wright Town Hall 14-2,Ballots Cast,,,Ballots Cast,142

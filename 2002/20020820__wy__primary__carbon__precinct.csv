@@ -1,0 +1,632 @@
+county,precinct,office,district,party,candidate,votes
+Carbon,Baggs Town Hall 15-1,U.S. Senate,,REP,Allen,9
+Carbon,Baggs Town Hall 15-1,U.S. Senate,,REP,Enzi,58
+Carbon,Baggs Town Hall 15-1,U.S. Senate,,DEM,Corcoran,22
+Carbon,Baggs Town Hall 15-1,U.S. House,,REP,Cubin,58
+Carbon,Baggs Town Hall 15-1,U.S. House,,DEM,Akin,10
+Carbon,Baggs Town Hall 15-1,U.S. House,,DEM,Swett,13
+Carbon,Baggs Town Hall 15-1,Governor,,REP,Bebout,36
+Carbon,Baggs Town Hall 15-1,Governor,,REP,Hunkins,21
+Carbon,Baggs Town Hall 15-1,Governor,,REP,Self,1
+Carbon,Baggs Town Hall 15-1,Governor,,REP,Sniffin,3
+Carbon,Baggs Town Hall 15-1,Governor,,REP,Watt,9
+Carbon,Baggs Town Hall 15-1,Governor,,DEM,Casner,4
+Carbon,Baggs Town Hall 15-1,Governor,,DEM,Freudenthal,2
+Carbon,Baggs Town Hall 15-1,Governor,,DEM,Hickey,18
+Carbon,Baggs Town Hall 15-1,Governor,,DEM,Simpson,3
+Carbon,Baggs Town Hall 15-1,Secretary of State,,REP,Meyer,62
+Carbon,Baggs Town Hall 15-1,Secretary of State,,DEM,Fagan,23
+Carbon,Baggs Town Hall 15-1,State Auditor,,REP,Maxfield,52
+Carbon,Baggs Town Hall 15-1,State Auditor,,DEM,Harris,23
+Carbon,Baggs Town Hall 15-1,State Treasurer,,REP,Lummis,59
+Carbon,Baggs Town Hall 15-1,Superintendent of Public Instruction,,REP,Blankenship,28
+Carbon,Baggs Town Hall 15-1,Superintendent of Public Instruction,,REP,Mingle,5
+Carbon,Baggs Town Hall 15-1,Superintendent of Public Instruction,,REP,Twiford,26
+Carbon,Baggs Town Hall 15-1,Superintendent of Public Instruction,,REP,Waring,4
+Carbon,Baggs Town Hall 15-1,Superintendent of Public Instruction,,DEM,Emmons,16
+Carbon,Baggs Town Hall 15-1,Superintendent of Public Instruction,,DEM,Shoults,5
+Carbon,Baggs Town Hall 15-1,Superintendent of Public Instruction,,DEM,Wiederspahn,3
+Carbon,Baggs Town Hall 15-1,State Senate,11,REP,Hicks,53
+Carbon,Baggs Town Hall 15-1,State Senate,11,DEM,Vasey,26
+Carbon,Baggs Town Hall 15-1,State House,47,REP,Bucholz,36
+Carbon,Baggs Town Hall 15-1,State House,47,REP,Willford,29
+Carbon,Baggs Town Hall 15-1,Ballots Cast,,REP,Ballots Cast,71
+Carbon,Baggs Town Hall 15-1,Ballots Cast,,DEM,Ballots Cast,29
+Carbon,Dixon/Savery Senior Center 14-1,U.S. Senate,,REP,Allen,8
+Carbon,Dixon/Savery Senior Center 14-1,U.S. Senate,,REP,Enzi,38
+Carbon,Dixon/Savery Senior Center 14-1,U.S. Senate,,DEM,Corcoran,13
+Carbon,Dixon/Savery Senior Center 14-1,U.S. House,,REP,Cubin,42
+Carbon,Dixon/Savery Senior Center 14-1,U.S. House,,DEM,Akin,8
+Carbon,Dixon/Savery Senior Center 14-1,U.S. House,,DEM,Swett,6
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,REP,Bebout,20
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,REP,Hunkins,11
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,REP,Self,2
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,REP,Sniffin,3
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,REP,Watt,10
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,DEM,Casner,1
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,DEM,Freudenthal,2
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,DEM,Hickey,11
+Carbon,Dixon/Savery Senior Center 14-1,Governor,,DEM,Simpson,1
+Carbon,Dixon/Savery Senior Center 14-1,Secretary of State,,REP,Meyer,42
+Carbon,Dixon/Savery Senior Center 14-1,Secretary of State,,DEM,Fagan,12
+Carbon,Dixon/Savery Senior Center 14-1,State Auditor,,REP,Maxfield,37
+Carbon,Dixon/Savery Senior Center 14-1,State Auditor,,DEM,Harris,13
+Carbon,Dixon/Savery Senior Center 14-1,State Treasurer,,REP,Lummis,42
+Carbon,Dixon/Savery Senior Center 14-1,Superintendent of Public Instruction,,REP,Blankenship,22
+Carbon,Dixon/Savery Senior Center 14-1,Superintendent of Public Instruction,,REP,Mingle,4
+Carbon,Dixon/Savery Senior Center 14-1,Superintendent of Public Instruction,,REP,Twiford,12
+Carbon,Dixon/Savery Senior Center 14-1,Superintendent of Public Instruction,,REP,Waring,7
+Carbon,Dixon/Savery Senior Center 14-1,Superintendent of Public Instruction,,DEM,Emmons,8
+Carbon,Dixon/Savery Senior Center 14-1,Superintendent of Public Instruction,,DEM,Shoults,2
+Carbon,Dixon/Savery Senior Center 14-1,Superintendent of Public Instruction,,DEM,Wiederspahn,3
+Carbon,Dixon/Savery Senior Center 14-1,State Senate,11,REP,Hicks,34
+Carbon,Dixon/Savery Senior Center 14-1,State Senate,11,DEM,Vasey,14
+Carbon,Dixon/Savery Senior Center 14-1,State House,47,REP,Bucholz,29
+Carbon,Dixon/Savery Senior Center 14-1,State House,47,REP,Willford,17
+Carbon,Dixon/Savery Senior Center 14-1,Ballots Cast,,REP,Ballots Cast,46
+Carbon,Dixon/Savery Senior Center 14-1,Ballots Cast,,DEM,Ballots Cast,16
+Carbon,Elk Mountain Town Hall 9-1,U.S. Senate,,REP,Allen,5
+Carbon,Elk Mountain Town Hall 9-1,U.S. Senate,,REP,Enzi,88
+Carbon,Elk Mountain Town Hall 9-1,U.S. Senate,,DEM,Corcoran,19
+Carbon,Elk Mountain Town Hall 9-1,U.S. House,,REP,Cubin,80
+Carbon,Elk Mountain Town Hall 9-1,U.S. House,,DEM,Akin,13
+Carbon,Elk Mountain Town Hall 9-1,U.S. House,,DEM,Swett,7
+Carbon,Elk Mountain Town Hall 9-1,Governor,,REP,Bebout,41
+Carbon,Elk Mountain Town Hall 9-1,Governor,,REP,Hunkins,37
+Carbon,Elk Mountain Town Hall 9-1,Governor,,REP,Self,0
+Carbon,Elk Mountain Town Hall 9-1,Governor,,REP,Sniffin,6
+Carbon,Elk Mountain Town Hall 9-1,Governor,,REP,Watt,4
+Carbon,Elk Mountain Town Hall 9-1,Governor,,DEM,Casner,7
+Carbon,Elk Mountain Town Hall 9-1,Governor,,DEM,Freudenthal,6
+Carbon,Elk Mountain Town Hall 9-1,Governor,,DEM,Hickey,7
+Carbon,Elk Mountain Town Hall 9-1,Governor,,DEM,Simpson,3
+Carbon,Elk Mountain Town Hall 9-1,Secretary of State,,REP,Meyer,84
+Carbon,Elk Mountain Town Hall 9-1,Secretary of State,,DEM,Fagan,20
+Carbon,Elk Mountain Town Hall 9-1,State Auditor,,REP,Maxfield,81
+Carbon,Elk Mountain Town Hall 9-1,State Auditor,,DEM,Harris,18
+Carbon,Elk Mountain Town Hall 9-1,State Treasurer,,REP,Lummis,84
+Carbon,Elk Mountain Town Hall 9-1,Superintendent of Public Instruction,,REP,Blankenship,37
+Carbon,Elk Mountain Town Hall 9-1,Superintendent of Public Instruction,,REP,Mingle,7
+Carbon,Elk Mountain Town Hall 9-1,Superintendent of Public Instruction,,REP,Twiford,28
+Carbon,Elk Mountain Town Hall 9-1,Superintendent of Public Instruction,,REP,Waring,14
+Carbon,Elk Mountain Town Hall 9-1,Superintendent of Public Instruction,,DEM,Emmons,11
+Carbon,Elk Mountain Town Hall 9-1,Superintendent of Public Instruction,,DEM,Shoults,5
+Carbon,Elk Mountain Town Hall 9-1,Superintendent of Public Instruction,,DEM,Wiederspahn,4
+Carbon,Elk Mountain Town Hall 9-1,State Senate,11,REP,Hicks,82
+Carbon,Elk Mountain Town Hall 9-1,State Senate,11,DEM,Vasey,19
+Carbon,Elk Mountain Town Hall 9-1,State House,47,REP,Bucholz,42
+Carbon,Elk Mountain Town Hall 9-1,State House,47,REP,Willford,48
+Carbon,Elk Mountain Town Hall 9-1,Ballots Cast,,REP,Ballots Cast,93
+Carbon,Elk Mountain Town Hall 9-1,Ballots Cast,,DEM,Ballots Cast,23
+Carbon,Encampment Town Hall 12-1,U.S. Senate,,REP,Allen,9
+Carbon,Encampment Town Hall 12-1,U.S. Senate,,REP,Enzi,105
+Carbon,Encampment Town Hall 12-1,U.S. Senate,,DEM,Corcoran,62
+Carbon,Encampment Town Hall 12-1,U.S. House,,REP,Cubin,104
+Carbon,Encampment Town Hall 12-1,U.S. House,,DEM,Akin,32
+Carbon,Encampment Town Hall 12-1,U.S. House,,DEM,Swett,31
+Carbon,Encampment Town Hall 12-1,Governor,,REP,Bebout,61
+Carbon,Encampment Town Hall 12-1,Governor,,REP,Hunkins,20
+Carbon,Encampment Town Hall 12-1,Governor,,REP,Self,5
+Carbon,Encampment Town Hall 12-1,Governor,,REP,Sniffin,16
+Carbon,Encampment Town Hall 12-1,Governor,,REP,Watt,11
+Carbon,Encampment Town Hall 12-1,Governor,,DEM,Casner,6
+Carbon,Encampment Town Hall 12-1,Governor,,DEM,Freudenthal,22
+Carbon,Encampment Town Hall 12-1,Governor,,DEM,Hickey,39
+Carbon,Encampment Town Hall 12-1,Governor,,DEM,Simpson,5
+Carbon,Encampment Town Hall 12-1,Secretary of State,,REP,Meyer,104
+Carbon,Encampment Town Hall 12-1,Secretary of State,,DEM,Fagan,64
+Carbon,Encampment Town Hall 12-1,State Auditor,,REP,Maxfield,107
+Carbon,Encampment Town Hall 12-1,State Auditor,,DEM,Harris,63
+Carbon,Encampment Town Hall 12-1,State Treasurer,,REP,Lummis,108
+Carbon,Encampment Town Hall 12-1,Superintendent of Public Instruction,,REP,Blankenship,43
+Carbon,Encampment Town Hall 12-1,Superintendent of Public Instruction,,REP,Mingle,18
+Carbon,Encampment Town Hall 12-1,Superintendent of Public Instruction,,REP,Twiford,17
+Carbon,Encampment Town Hall 12-1,Superintendent of Public Instruction,,REP,Waring,26
+Carbon,Encampment Town Hall 12-1,Superintendent of Public Instruction,,DEM,Emmons,38
+Carbon,Encampment Town Hall 12-1,Superintendent of Public Instruction,,DEM,Shoults,11
+Carbon,Encampment Town Hall 12-1,Superintendent of Public Instruction,,DEM,Wiederspahn,17
+Carbon,Encampment Town Hall 12-1,State Senate,11,REP,Hicks,100
+Carbon,Encampment Town Hall 12-1,State Senate,11,DEM,Vasey,65
+Carbon,Encampment Town Hall 12-1,State House,47,REP,Bucholz,79
+Carbon,Encampment Town Hall 12-1,State House,47,REP,Willford,38
+Carbon,Encampment Town Hall 12-1,Ballots Cast,,REP,Ballots Cast,118
+Carbon,Encampment Town Hall 12-1,Ballots Cast,,DEM,Ballots Cast,73
+Carbon,Hanna Town Hall 8-1,U.S. Senate,,REP,Allen,31
+Carbon,Hanna Town Hall 8-1,U.S. Senate,,REP,Enzi,97
+Carbon,Hanna Town Hall 8-1,U.S. Senate,,DEM,Corcoran,115
+Carbon,Hanna Town Hall 8-1,U.S. House,,REP,Cubin,108
+Carbon,Hanna Town Hall 8-1,U.S. House,,DEM,Akin,63
+Carbon,Hanna Town Hall 8-1,U.S. House,,DEM,Swett,62
+Carbon,Hanna Town Hall 8-1,Governor,,REP,Bebout,53
+Carbon,Hanna Town Hall 8-1,Governor,,REP,Hunkins,23
+Carbon,Hanna Town Hall 8-1,Governor,,REP,Self,5
+Carbon,Hanna Town Hall 8-1,Governor,,REP,Sniffin,19
+Carbon,Hanna Town Hall 8-1,Governor,,REP,Watt,22
+Carbon,Hanna Town Hall 8-1,Governor,,DEM,Casner,25
+Carbon,Hanna Town Hall 8-1,Governor,,DEM,Freudenthal,58
+Carbon,Hanna Town Hall 8-1,Governor,,DEM,Hickey,52
+Carbon,Hanna Town Hall 8-1,Governor,,DEM,Simpson,7
+Carbon,Hanna Town Hall 8-1,Secretary of State,,REP,Meyer,112
+Carbon,Hanna Town Hall 8-1,Secretary of State,,DEM,Fagan,122
+Carbon,Hanna Town Hall 8-1,State Auditor,,REP,Maxfield,113
+Carbon,Hanna Town Hall 8-1,State Auditor,,DEM,Harris,119
+Carbon,Hanna Town Hall 8-1,State Treasurer,,REP,Lummis,111
+Carbon,Hanna Town Hall 8-1,Superintendent of Public Instruction,,REP,Blankenship,43
+Carbon,Hanna Town Hall 8-1,Superintendent of Public Instruction,,REP,Mingle,21
+Carbon,Hanna Town Hall 8-1,Superintendent of Public Instruction,,REP,Twiford,32
+Carbon,Hanna Town Hall 8-1,Superintendent of Public Instruction,,REP,Waring,19
+Carbon,Hanna Town Hall 8-1,Superintendent of Public Instruction,,DEM,Emmons,68
+Carbon,Hanna Town Hall 8-1,Superintendent of Public Instruction,,DEM,Shoults,28
+Carbon,Hanna Town Hall 8-1,Superintendent of Public Instruction,,DEM,Wiederspahn,34
+Carbon,Hanna Town Hall 8-1,State Senate,11,REP,Hicks,113
+Carbon,Hanna Town Hall 8-1,State Senate,11,DEM,Vasey,132
+Carbon,Hanna Town Hall 8-1,State House,47,REP,Bucholz,45
+Carbon,Hanna Town Hall 8-1,State House,47,REP,Willford,75
+Carbon,Hanna Town Hall 8-1,Ballots Cast,,REP,Ballots Cast,135
+Carbon,Hanna Town Hall 8-1,Ballots Cast,,DEM,Ballots Cast,149
+Carbon,Jeffrey Center 1-2,U.S. Senate,,REP,Allen,9
+Carbon,Jeffrey Center 1-2,U.S. Senate,,REP,Enzi,41
+Carbon,Jeffrey Center 1-2,U.S. Senate,,DEM,Corcoran,40
+Carbon,Jeffrey Center 1-2,U.S. House,,REP,Cubin,40
+Carbon,Jeffrey Center 1-2,U.S. House,,DEM,Akin,28
+Carbon,Jeffrey Center 1-2,U.S. House,,DEM,Swett,14
+Carbon,Jeffrey Center 1-2,Governor,,REP,Bebout,18
+Carbon,Jeffrey Center 1-2,Governor,,REP,Hunkins,13
+Carbon,Jeffrey Center 1-2,Governor,,REP,Self,0
+Carbon,Jeffrey Center 1-2,Governor,,REP,Sniffin,7
+Carbon,Jeffrey Center 1-2,Governor,,REP,Watt,14
+Carbon,Jeffrey Center 1-2,Governor,,DEM,Casner,5
+Carbon,Jeffrey Center 1-2,Governor,,DEM,Freudenthal,19
+Carbon,Jeffrey Center 1-2,Governor,,DEM,Hickey,32
+Carbon,Jeffrey Center 1-2,Governor,,DEM,Simpson,0
+Carbon,Jeffrey Center 1-2,Secretary of State,,REP,Meyer,45
+Carbon,Jeffrey Center 1-2,Secretary of State,,DEM,Fagan,44
+Carbon,Jeffrey Center 1-2,State Auditor,,REP,Maxfield,43
+Carbon,Jeffrey Center 1-2,State Auditor,,DEM,Harris,41
+Carbon,Jeffrey Center 1-2,State Treasurer,,REP,Lummis,45
+Carbon,Jeffrey Center 1-2,Superintendent of Public Instruction,,REP,Blankenship,17
+Carbon,Jeffrey Center 1-2,Superintendent of Public Instruction,,REP,Mingle,7
+Carbon,Jeffrey Center 1-2,Superintendent of Public Instruction,,REP,Twiford,18
+Carbon,Jeffrey Center 1-2,Superintendent of Public Instruction,,REP,Waring,4
+Carbon,Jeffrey Center 1-2,Superintendent of Public Instruction,,DEM,Emmons,33
+Carbon,Jeffrey Center 1-2,Superintendent of Public Instruction,,DEM,Shoults,7
+Carbon,Jeffrey Center 1-2,Superintendent of Public Instruction,,DEM,Wiederspahn,8
+Carbon,Jeffrey Center 1-2,State Senate,11,REP,Hicks,44
+Carbon,Jeffrey Center 1-2,State Senate,11,DEM,Vasey,55
+Carbon,Jeffrey Center 1-2,State House,15,REP,Rader,35
+Carbon,Jeffrey Center 1-2,State House,15,DEM,Bagby,35
+Carbon,Jeffrey Center 1-2,State House,47,REP,Bucholz,6
+Carbon,Jeffrey Center 1-2,State House,47,REP,Willford,5
+Carbon,Jeffrey Center 1-2,Ballots Cast,,REP,Ballots Cast,52
+Carbon,Jeffrey Center 1-2,Ballots Cast,,DEM,Ballots Cast,58
+Carbon,Jeffrey Center 2-1,U.S. Senate,,REP,Allen,19
+Carbon,Jeffrey Center 2-1,U.S. Senate,,REP,Enzi,127
+Carbon,Jeffrey Center 2-1,U.S. Senate,,DEM,Corcoran,130
+Carbon,Jeffrey Center 2-1,U.S. House,,REP,Cubin,108
+Carbon,Jeffrey Center 2-1,U.S. House,,DEM,Akin,64
+Carbon,Jeffrey Center 2-1,U.S. House,,DEM,Swett,67
+Carbon,Jeffrey Center 2-1,Governor,,REP,Bebout,49
+Carbon,Jeffrey Center 2-1,Governor,,REP,Hunkins,37
+Carbon,Jeffrey Center 2-1,Governor,,REP,Self,2
+Carbon,Jeffrey Center 2-1,Governor,,REP,Sniffin,17
+Carbon,Jeffrey Center 2-1,Governor,,REP,Watt,41
+Carbon,Jeffrey Center 2-1,Governor,,DEM,Casner,11
+Carbon,Jeffrey Center 2-1,Governor,,DEM,Freudenthal,67
+Carbon,Jeffrey Center 2-1,Governor,,DEM,Hickey,84
+Carbon,Jeffrey Center 2-1,Governor,,DEM,Simpson,2
+Carbon,Jeffrey Center 2-1,Secretary of State,,REP,Meyer,137
+Carbon,Jeffrey Center 2-1,Secretary of State,,DEM,Fagan,134
+Carbon,Jeffrey Center 2-1,State Auditor,,REP,Maxfield,132
+Carbon,Jeffrey Center 2-1,State Auditor,,DEM,Harris,131
+Carbon,Jeffrey Center 2-1,State Treasurer,,REP,Lummis,136
+Carbon,Jeffrey Center 2-1,Superintendent of Public Instruction,,REP,Blankenship,42
+Carbon,Jeffrey Center 2-1,Superintendent of Public Instruction,,REP,Mingle,12
+Carbon,Jeffrey Center 2-1,Superintendent of Public Instruction,,REP,Twiford,67
+Carbon,Jeffrey Center 2-1,Superintendent of Public Instruction,,REP,Waring,24
+Carbon,Jeffrey Center 2-1,Superintendent of Public Instruction,,DEM,Emmons,76
+Carbon,Jeffrey Center 2-1,Superintendent of Public Instruction,,DEM,Shoults,32
+Carbon,Jeffrey Center 2-1,Superintendent of Public Instruction,,DEM,Wiederspahn,40
+Carbon,Jeffrey Center 2-1,State Senate,11,REP,Hicks,129
+Carbon,Jeffrey Center 2-1,State Senate,11,DEM,Vasey,154
+Carbon,Jeffrey Center 2-1,State House,15,REP,Rader,113
+Carbon,Jeffrey Center 2-1,State House,15,DEM,Bagby,129
+Carbon,Jeffrey Center 2-1,State House,47,REP,Bucholz,7
+Carbon,Jeffrey Center 2-1,State House,47,REP,Willford,18
+Carbon,Jeffrey Center 2-1,Ballots Cast,,REP,Ballots Cast,151
+Carbon,Jeffrey Center 2-1,Ballots Cast,,DEM,Ballots Cast,169
+Carbon,Jeffrey Center 2-2,U.S. Senate,,REP,Allen,23
+Carbon,Jeffrey Center 2-2,U.S. Senate,,REP,Enzi,198
+Carbon,Jeffrey Center 2-2,U.S. Senate,,DEM,Corcoran,168
+Carbon,Jeffrey Center 2-2,U.S. House,,REP,Cubin,185
+Carbon,Jeffrey Center 2-2,U.S. House,,DEM,Akin,110
+Carbon,Jeffrey Center 2-2,U.S. House,,DEM,Swett,67
+Carbon,Jeffrey Center 2-2,Governor,,REP,Bebout,94
+Carbon,Jeffrey Center 2-2,Governor,,REP,Hunkins,52
+Carbon,Jeffrey Center 2-2,Governor,,REP,Self,1
+Carbon,Jeffrey Center 2-2,Governor,,REP,Sniffin,28
+Carbon,Jeffrey Center 2-2,Governor,,REP,Watt,43
+Carbon,Jeffrey Center 2-2,Governor,,DEM,Casner,14
+Carbon,Jeffrey Center 2-2,Governor,,DEM,Freudenthal,105
+Carbon,Jeffrey Center 2-2,Governor,,DEM,Hickey,97
+Carbon,Jeffrey Center 2-2,Governor,,DEM,Simpson,3
+Carbon,Jeffrey Center 2-2,Secretary of State,,REP,Meyer,195
+Carbon,Jeffrey Center 2-2,Secretary of State,,DEM,Fagan,170
+Carbon,Jeffrey Center 2-2,State Auditor,,REP,Maxfield,192
+Carbon,Jeffrey Center 2-2,State Auditor,,DEM,Harris,172
+Carbon,Jeffrey Center 2-2,State Treasurer,,REP,Lummis,200
+Carbon,Jeffrey Center 2-2,Superintendent of Public Instruction,,REP,Blankenship,58
+Carbon,Jeffrey Center 2-2,Superintendent of Public Instruction,,REP,Mingle,26
+Carbon,Jeffrey Center 2-2,Superintendent of Public Instruction,,REP,Twiford,88
+Carbon,Jeffrey Center 2-2,Superintendent of Public Instruction,,REP,Waring,40
+Carbon,Jeffrey Center 2-2,Superintendent of Public Instruction,,DEM,Emmons,84
+Carbon,Jeffrey Center 2-2,Superintendent of Public Instruction,,DEM,Shoults,37
+Carbon,Jeffrey Center 2-2,Superintendent of Public Instruction,,DEM,Wiederspahn,60
+Carbon,Jeffrey Center 2-2,State Senate,11,REP,Hicks,185
+Carbon,Jeffrey Center 2-2,State Senate,11,DEM,Vasey,217
+Carbon,Jeffrey Center 2-2,State House,15,REP,Rader,195
+Carbon,Jeffrey Center 2-2,State House,15,DEM,Bagby,178
+Carbon,Jeffrey Center 2-2,Ballots Cast,,REP,Ballots Cast,231
+Carbon,Jeffrey Center 2-2,Ballots Cast,,DEM,Ballots Cast,228
+Carbon,Jeffrey Center 3-1,U.S. Senate,,REP,Allen,18
+Carbon,Jeffrey Center 3-1,U.S. Senate,,REP,Enzi,128
+Carbon,Jeffrey Center 3-1,U.S. Senate,,DEM,Corcoran,137
+Carbon,Jeffrey Center 3-1,U.S. House,,REP,Cubin,115
+Carbon,Jeffrey Center 3-1,U.S. House,,DEM,Akin,73
+Carbon,Jeffrey Center 3-1,U.S. House,,DEM,Swett,65
+Carbon,Jeffrey Center 3-1,Governor,,REP,Bebout,42
+Carbon,Jeffrey Center 3-1,Governor,,REP,Hunkins,42
+Carbon,Jeffrey Center 3-1,Governor,,REP,Self,0
+Carbon,Jeffrey Center 3-1,Governor,,REP,Sniffin,26
+Carbon,Jeffrey Center 3-1,Governor,,REP,Watt,36
+Carbon,Jeffrey Center 3-1,Governor,,DEM,Casner,7
+Carbon,Jeffrey Center 3-1,Governor,,DEM,Freudenthal,60
+Carbon,Jeffrey Center 3-1,Governor,,DEM,Hickey,95
+Carbon,Jeffrey Center 3-1,Governor,,DEM,Simpson,4
+Carbon,Jeffrey Center 3-1,Secretary of State,,REP,Meyer,135
+Carbon,Jeffrey Center 3-1,Secretary of State,,DEM,Fagan,142
+Carbon,Jeffrey Center 3-1,State Auditor,,REP,Maxfield,131
+Carbon,Jeffrey Center 3-1,State Auditor,,DEM,Harris,138
+Carbon,Jeffrey Center 3-1,State Treasurer,,REP,Lummis,129
+Carbon,Jeffrey Center 3-1,Superintendent of Public Instruction,,REP,Blankenship,56
+Carbon,Jeffrey Center 3-1,Superintendent of Public Instruction,,REP,Mingle,14
+Carbon,Jeffrey Center 3-1,Superintendent of Public Instruction,,REP,Twiford,47
+Carbon,Jeffrey Center 3-1,Superintendent of Public Instruction,,REP,Waring,25
+Carbon,Jeffrey Center 3-1,Superintendent of Public Instruction,,DEM,Emmons,67
+Carbon,Jeffrey Center 3-1,Superintendent of Public Instruction,,DEM,Shoults,31
+Carbon,Jeffrey Center 3-1,Superintendent of Public Instruction,,DEM,Wiederspahn,49
+Carbon,Jeffrey Center 3-1,State Senate,11,REP,Hicks,116
+Carbon,Jeffrey Center 3-1,State Senate,11,DEM,Vasey,160
+Carbon,Jeffrey Center 3-1,State House,15,REP,Rader,123
+Carbon,Jeffrey Center 3-1,State House,15,DEM,Bagby,142
+Carbon,Jeffrey Center 3-1,Ballots Cast,,REP,Ballots Cast,151
+Carbon,Jeffrey Center 3-1,Ballots Cast,,DEM,Ballots Cast,171
+Carbon,Jeffrey Center 3-2,U.S. Senate,,REP,Allen,19
+Carbon,Jeffrey Center 3-2,U.S. Senate,,REP,Enzi,137
+Carbon,Jeffrey Center 3-2,U.S. Senate,,DEM,Corcoran,166
+Carbon,Jeffrey Center 3-2,U.S. House,,REP,Cubin,116
+Carbon,Jeffrey Center 3-2,U.S. House,,DEM,Akin,91
+Carbon,Jeffrey Center 3-2,U.S. House,,DEM,Swett,67
+Carbon,Jeffrey Center 3-2,Governor,,REP,Bebout,66
+Carbon,Jeffrey Center 3-2,Governor,,REP,Hunkins,34
+Carbon,Jeffrey Center 3-2,Governor,,REP,Self,3
+Carbon,Jeffrey Center 3-2,Governor,,REP,Sniffin,15
+Carbon,Jeffrey Center 3-2,Governor,,REP,Watt,30
+Carbon,Jeffrey Center 3-2,Governor,,DEM,Casner,19
+Carbon,Jeffrey Center 3-2,Governor,,DEM,Freudenthal,76
+Carbon,Jeffrey Center 3-2,Governor,,DEM,Hickey,107
+Carbon,Jeffrey Center 3-2,Governor,,DEM,Simpson,5
+Carbon,Jeffrey Center 3-2,Secretary of State,,REP,Meyer,136
+Carbon,Jeffrey Center 3-2,Secretary of State,,DEM,Fagan,169
+Carbon,Jeffrey Center 3-2,State Auditor,,REP,Maxfield,133
+Carbon,Jeffrey Center 3-2,State Auditor,,DEM,Harris,166
+Carbon,Jeffrey Center 3-2,State Treasurer,,REP,Lummis,129
+Carbon,Jeffrey Center 3-2,Superintendent of Public Instruction,,REP,Blankenship,60
+Carbon,Jeffrey Center 3-2,Superintendent of Public Instruction,,REP,Mingle,11
+Carbon,Jeffrey Center 3-2,Superintendent of Public Instruction,,REP,Twiford,58
+Carbon,Jeffrey Center 3-2,Superintendent of Public Instruction,,REP,Waring,18
+Carbon,Jeffrey Center 3-2,Superintendent of Public Instruction,,DEM,Emmons,93
+Carbon,Jeffrey Center 3-2,Superintendent of Public Instruction,,DEM,Shoults,31
+Carbon,Jeffrey Center 3-2,Superintendent of Public Instruction,,DEM,Wiederspahn,49
+Carbon,Jeffrey Center 3-2,State Senate,11,REP,Hicks,123
+Carbon,Jeffrey Center 3-2,State Senate,11,DEM,Vasey,198
+Carbon,Jeffrey Center 3-2,State House,15,REP,Rader,127
+Carbon,Jeffrey Center 3-2,State House,15,DEM,Bagby,178
+Carbon,Jeffrey Center 3-2,Ballots Cast,,REP,Ballots Cast,159
+Carbon,Jeffrey Center 3-2,Ballots Cast,,DEM,Ballots Cast,215
+Carbon,Leo Community Hall 6-1,U.S. Senate,,REP,Allen,4
+Carbon,Leo Community Hall 6-1,U.S. Senate,,REP,Enzi,22
+Carbon,Leo Community Hall 6-1,U.S. Senate,,DEM,Corcoran,2
+Carbon,Leo Community Hall 6-1,U.S. House,,REP,Cubin,26
+Carbon,Leo Community Hall 6-1,U.S. House,,DEM,Akin,1
+Carbon,Leo Community Hall 6-1,U.S. House,,DEM,Swett,1
+Carbon,Leo Community Hall 6-1,Governor,,REP,Bebout,13
+Carbon,Leo Community Hall 6-1,Governor,,REP,Hunkins,13
+Carbon,Leo Community Hall 6-1,Governor,,REP,Self,0
+Carbon,Leo Community Hall 6-1,Governor,,REP,Sniffin,0
+Carbon,Leo Community Hall 6-1,Governor,,REP,Watt,1
+Carbon,Leo Community Hall 6-1,Governor,,DEM,Casner,0
+Carbon,Leo Community Hall 6-1,Governor,,DEM,Freudenthal,1
+Carbon,Leo Community Hall 6-1,Governor,,DEM,Hickey,0
+Carbon,Leo Community Hall 6-1,Governor,,DEM,Simpson,1
+Carbon,Leo Community Hall 6-1,Secretary of State,,REP,Meyer,26
+Carbon,Leo Community Hall 6-1,Secretary of State,,DEM,Fagan,1
+Carbon,Leo Community Hall 6-1,State Auditor,,REP,Maxfield,26
+Carbon,Leo Community Hall 6-1,State Auditor,,DEM,Harris,2
+Carbon,Leo Community Hall 6-1,State Treasurer,,REP,Lummis,24
+Carbon,Leo Community Hall 6-1,Superintendent of Public Instruction,,REP,Blankenship,1
+Carbon,Leo Community Hall 6-1,Superintendent of Public Instruction,,REP,Mingle,0
+Carbon,Leo Community Hall 6-1,Superintendent of Public Instruction,,REP,Twiford,19
+Carbon,Leo Community Hall 6-1,Superintendent of Public Instruction,,REP,Waring,4
+Carbon,Leo Community Hall 6-1,Superintendent of Public Instruction,,DEM,Emmons,1
+Carbon,Leo Community Hall 6-1,Superintendent of Public Instruction,,DEM,Shoults,1
+Carbon,Leo Community Hall 6-1,Superintendent of Public Instruction,,DEM,Wiederspahn,0
+Carbon,Leo Community Hall 6-1,State Senate,11,REP,Hicks,18
+Carbon,Leo Community Hall 6-1,State Senate,11,DEM,Vasey,2
+Carbon,Leo Community Hall 6-1,State House,47,REP,Bucholz,13
+Carbon,Leo Community Hall 6-1,State House,47,REP,Willford,13
+Carbon,Leo Community Hall 6-1,Ballots Cast,,REP,Ballots Cast,27
+Carbon,Leo Community Hall 6-1,Ballots Cast,,DEM,Ballots Cast,2
+Carbon,McFadden Fire Hall 10-1,U.S. Senate,,REP,Allen,1
+Carbon,McFadden Fire Hall 10-1,U.S. Senate,,REP,Enzi,35
+Carbon,McFadden Fire Hall 10-1,U.S. Senate,,DEM,Corcoran,3
+Carbon,McFadden Fire Hall 10-1,U.S. House,,REP,Cubin,36
+Carbon,McFadden Fire Hall 10-1,U.S. House,,DEM,Akin,2
+Carbon,McFadden Fire Hall 10-1,U.S. House,,DEM,Swett,1
+Carbon,McFadden Fire Hall 10-1,Governor,,REP,Bebout,20
+Carbon,McFadden Fire Hall 10-1,Governor,,REP,Hunkins,11
+Carbon,McFadden Fire Hall 10-1,Governor,,REP,Self,0
+Carbon,McFadden Fire Hall 10-1,Governor,,REP,Sniffin,2
+Carbon,McFadden Fire Hall 10-1,Governor,,REP,Watt,2
+Carbon,McFadden Fire Hall 10-1,Governor,,DEM,Casner,1
+Carbon,McFadden Fire Hall 10-1,Governor,,DEM,Freudenthal,1
+Carbon,McFadden Fire Hall 10-1,Governor,,DEM,Hickey,0
+Carbon,McFadden Fire Hall 10-1,Governor,,DEM,Simpson,1
+Carbon,McFadden Fire Hall 10-1,Secretary of State,,REP,Meyer,34
+Carbon,McFadden Fire Hall 10-1,Secretary of State,,DEM,Fagan,3
+Carbon,McFadden Fire Hall 10-1,State Auditor,,REP,Maxfield,32
+Carbon,McFadden Fire Hall 10-1,State Auditor,,DEM,Harris,3
+Carbon,McFadden Fire Hall 10-1,State Treasurer,,REP,Lummis,33
+Carbon,McFadden Fire Hall 10-1,Superintendent of Public Instruction,,REP,Blankenship,6
+Carbon,McFadden Fire Hall 10-1,Superintendent of Public Instruction,,REP,Mingle,2
+Carbon,McFadden Fire Hall 10-1,Superintendent of Public Instruction,,REP,Twiford,17
+Carbon,McFadden Fire Hall 10-1,Superintendent of Public Instruction,,REP,Waring,10
+Carbon,McFadden Fire Hall 10-1,Superintendent of Public Instruction,,DEM,Emmons,3
+Carbon,McFadden Fire Hall 10-1,Superintendent of Public Instruction,,DEM,Shoults,0
+Carbon,McFadden Fire Hall 10-1,Superintendent of Public Instruction,,DEM,Wiederspahn,0
+Carbon,McFadden Fire Hall 10-1,State Senate,11,REP,Hicks,32
+Carbon,McFadden Fire Hall 10-1,State Senate,11,DEM,Vasey,3
+Carbon,McFadden Fire Hall 10-1,State House,47,REP,Bucholz,19
+Carbon,McFadden Fire Hall 10-1,State House,47,REP,Willford,14
+Carbon,McFadden Fire Hall 10-1,Ballots Cast,,REP,Ballots Cast,36
+Carbon,McFadden Fire Hall 10-1,Ballots Cast,,DEM,Ballots Cast,3
+Carbon,Medicine Bow Community Hall 7-1,U.S. Senate,,REP,Allen,14
+Carbon,Medicine Bow Community Hall 7-1,U.S. Senate,,REP,Enzi,66
+Carbon,Medicine Bow Community Hall 7-1,U.S. Senate,,DEM,Corcoran,46
+Carbon,Medicine Bow Community Hall 7-1,U.S. House,,REP,Cubin,69
+Carbon,Medicine Bow Community Hall 7-1,U.S. House,,DEM,Akin,31
+Carbon,Medicine Bow Community Hall 7-1,U.S. House,,DEM,Swett,16
+Carbon,Medicine Bow Community Hall 7-1,Governor,,REP,Bebout,38
+Carbon,Medicine Bow Community Hall 7-1,Governor,,REP,Hunkins,26
+Carbon,Medicine Bow Community Hall 7-1,Governor,,REP,Self,1
+Carbon,Medicine Bow Community Hall 7-1,Governor,,REP,Sniffin,10
+Carbon,Medicine Bow Community Hall 7-1,Governor,,REP,Watt,5
+Carbon,Medicine Bow Community Hall 7-1,Governor,,DEM,Casner,9
+Carbon,Medicine Bow Community Hall 7-1,Governor,,DEM,Freudenthal,31
+Carbon,Medicine Bow Community Hall 7-1,Governor,,DEM,Hickey,12
+Carbon,Medicine Bow Community Hall 7-1,Governor,,DEM,Simpson,5
+Carbon,Medicine Bow Community Hall 7-1,Secretary of State,,REP,Meyer,75
+Carbon,Medicine Bow Community Hall 7-1,Secretary of State,,DEM,Fagan,50
+Carbon,Medicine Bow Community Hall 7-1,State Auditor,,REP,Maxfield,75
+Carbon,Medicine Bow Community Hall 7-1,State Auditor,,DEM,Harris,49
+Carbon,Medicine Bow Community Hall 7-1,State Treasurer,,REP,Lummis,73
+Carbon,Medicine Bow Community Hall 7-1,Superintendent of Public Instruction,,REP,Blankenship,24
+Carbon,Medicine Bow Community Hall 7-1,Superintendent of Public Instruction,,REP,Mingle,7
+Carbon,Medicine Bow Community Hall 7-1,Superintendent of Public Instruction,,REP,Twiford,24
+Carbon,Medicine Bow Community Hall 7-1,Superintendent of Public Instruction,,REP,Waring,17
+Carbon,Medicine Bow Community Hall 7-1,Superintendent of Public Instruction,,DEM,Emmons,27
+Carbon,Medicine Bow Community Hall 7-1,Superintendent of Public Instruction,,DEM,Shoults,9
+Carbon,Medicine Bow Community Hall 7-1,Superintendent of Public Instruction,,DEM,Wiederspahn,16
+Carbon,Medicine Bow Community Hall 7-1,State Senate,11,REP,Hicks,70
+Carbon,Medicine Bow Community Hall 7-1,State Senate,11,DEM,Vasey,51
+Carbon,Medicine Bow Community Hall 7-1,State House,47,REP,Bucholz,17
+Carbon,Medicine Bow Community Hall 7-1,State House,47,REP,Willford,63
+Carbon,Medicine Bow Community Hall 7-1,Ballots Cast,,REP,Ballots Cast,83
+Carbon,Medicine Bow Community Hall 7-1,Ballots Cast,,DEM,Ballots Cast,59
+Carbon,Muddy Gap Fire Station 4-1,U.S. Senate,,REP,Allen,1
+Carbon,Muddy Gap Fire Station 4-1,U.S. Senate,,REP,Enzi,21
+Carbon,Muddy Gap Fire Station 4-1,U.S. Senate,,DEM,Corcoran,4
+Carbon,Muddy Gap Fire Station 4-1,U.S. House,,REP,Cubin,16
+Carbon,Muddy Gap Fire Station 4-1,U.S. House,,DEM,Akin,0
+Carbon,Muddy Gap Fire Station 4-1,U.S. House,,DEM,Swett,3
+Carbon,Muddy Gap Fire Station 4-1,Governor,,REP,Bebout,15
+Carbon,Muddy Gap Fire Station 4-1,Governor,,REP,Hunkins,7
+Carbon,Muddy Gap Fire Station 4-1,Governor,,REP,Self,0
+Carbon,Muddy Gap Fire Station 4-1,Governor,,REP,Sniffin,0
+Carbon,Muddy Gap Fire Station 4-1,Governor,,REP,Watt,1
+Carbon,Muddy Gap Fire Station 4-1,Governor,,DEM,Casner,0
+Carbon,Muddy Gap Fire Station 4-1,Governor,,DEM,Freudenthal,3
+Carbon,Muddy Gap Fire Station 4-1,Governor,,DEM,Hickey,1
+Carbon,Muddy Gap Fire Station 4-1,Governor,,DEM,Simpson,0
+Carbon,Muddy Gap Fire Station 4-1,Secretary of State,,REP,Meyer,18
+Carbon,Muddy Gap Fire Station 4-1,Secretary of State,,DEM,Fagan,4
+Carbon,Muddy Gap Fire Station 4-1,State Auditor,,REP,Maxfield,16
+Carbon,Muddy Gap Fire Station 4-1,State Auditor,,DEM,Harris,4
+Carbon,Muddy Gap Fire Station 4-1,State Treasurer,,REP,Lummis,19
+Carbon,Muddy Gap Fire Station 4-1,Superintendent of Public Instruction,,REP,Blankenship,1
+Carbon,Muddy Gap Fire Station 4-1,Superintendent of Public Instruction,,REP,Mingle,4
+Carbon,Muddy Gap Fire Station 4-1,Superintendent of Public Instruction,,REP,Twiford,10
+Carbon,Muddy Gap Fire Station 4-1,Superintendent of Public Instruction,,REP,Waring,5
+Carbon,Muddy Gap Fire Station 4-1,Superintendent of Public Instruction,,DEM,Emmons,1
+Carbon,Muddy Gap Fire Station 4-1,Superintendent of Public Instruction,,DEM,Shoults,0
+Carbon,Muddy Gap Fire Station 4-1,Superintendent of Public Instruction,,DEM,Wiederspahn,2
+Carbon,Muddy Gap Fire Station 4-1,State Senate,11,REP,Hicks,16
+Carbon,Muddy Gap Fire Station 4-1,State Senate,11,DEM,Vasey,4
+Carbon,Muddy Gap Fire Station 4-1,State House,47,REP,Bucholz,7
+Carbon,Muddy Gap Fire Station 4-1,State House,47,REP,Willford,12
+Carbon,Muddy Gap Fire Station 4-1,Ballots Cast,,REP,Ballots Cast,23
+Carbon,Muddy Gap Fire Station 4-1,Ballots Cast,,DEM,Ballots Cast,4
+Carbon,Pershing School 1-1,U.S. Senate,,REP,Allen,17
+Carbon,Pershing School 1-1,U.S. Senate,,REP,Enzi,55
+Carbon,Pershing School 1-1,U.S. Senate,,DEM,Corcoran,178
+Carbon,Pershing School 1-1,U.S. House,,REP,Cubin,61
+Carbon,Pershing School 1-1,U.S. House,,DEM,Akin,93
+Carbon,Pershing School 1-1,U.S. House,,DEM,Swett,99
+Carbon,Pershing School 1-1,Governor,,REP,Bebout,18
+Carbon,Pershing School 1-1,Governor,,REP,Hunkins,17
+Carbon,Pershing School 1-1,Governor,,REP,Self,0
+Carbon,Pershing School 1-1,Governor,,REP,Sniffin,12
+Carbon,Pershing School 1-1,Governor,,REP,Watt,19
+Carbon,Pershing School 1-1,Governor,,DEM,Casner,10
+Carbon,Pershing School 1-1,Governor,,DEM,Freudenthal,80
+Carbon,Pershing School 1-1,Governor,,DEM,Hickey,117
+Carbon,Pershing School 1-1,Governor,,DEM,Simpson,8
+Carbon,Pershing School 1-1,Secretary of State,,REP,Meyer,61
+Carbon,Pershing School 1-1,Secretary of State,,DEM,Fagan,180
+Carbon,Pershing School 1-1,State Auditor,,REP,Maxfield,64
+Carbon,Pershing School 1-1,State Auditor,,DEM,Harris,180
+Carbon,Pershing School 1-1,State Treasurer,,REP,Lummis,62
+Carbon,Pershing School 1-1,Superintendent of Public Instruction,,REP,Blankenship,26
+Carbon,Pershing School 1-1,Superintendent of Public Instruction,,REP,Mingle,8
+Carbon,Pershing School 1-1,Superintendent of Public Instruction,,REP,Twiford,25
+Carbon,Pershing School 1-1,Superintendent of Public Instruction,,REP,Waring,9
+Carbon,Pershing School 1-1,Superintendent of Public Instruction,,DEM,Emmons,97
+Carbon,Pershing School 1-1,Superintendent of Public Instruction,,DEM,Shoults,45
+Carbon,Pershing School 1-1,Superintendent of Public Instruction,,DEM,Wiederspahn,54
+Carbon,Pershing School 1-1,State Senate,11,REP,Hicks,62
+Carbon,Pershing School 1-1,State Senate,11,DEM,Vasey,202
+Carbon,Pershing School 1-1,State House,15,REP,Rader,62
+Carbon,Pershing School 1-1,State House,15,DEM,Bagby,196
+Carbon,Pershing School 1-1,Ballots Cast,,REP,Ballots Cast,73
+Carbon,Pershing School 1-1,Ballots Cast,,DEM,Ballots Cast,230
+Carbon,Riverside Town Hall 13-1,U.S. Senate,,REP,Allen,17
+Carbon,Riverside Town Hall 13-1,U.S. Senate,,REP,Enzi,103
+Carbon,Riverside Town Hall 13-1,U.S. Senate,,DEM,Corcoran,18
+Carbon,Riverside Town Hall 13-1,U.S. House,,REP,Cubin,105
+Carbon,Riverside Town Hall 13-1,U.S. House,,DEM,Akin,8
+Carbon,Riverside Town Hall 13-1,U.S. House,,DEM,Swett,9
+Carbon,Riverside Town Hall 13-1,Governor,,REP,Bebout,64
+Carbon,Riverside Town Hall 13-1,Governor,,REP,Hunkins,31
+Carbon,Riverside Town Hall 13-1,Governor,,REP,Self,1
+Carbon,Riverside Town Hall 13-1,Governor,,REP,Sniffin,16
+Carbon,Riverside Town Hall 13-1,Governor,,REP,Watt,6
+Carbon,Riverside Town Hall 13-1,Governor,,DEM,Casner,2
+Carbon,Riverside Town Hall 13-1,Governor,,DEM,Freudenthal,8
+Carbon,Riverside Town Hall 13-1,Governor,,DEM,Hickey,11
+Carbon,Riverside Town Hall 13-1,Governor,,DEM,Simpson,0
+Carbon,Riverside Town Hall 13-1,Secretary of State,,REP,Meyer,95
+Carbon,Riverside Town Hall 13-1,Secretary of State,,DEM,Fagan,17
+Carbon,Riverside Town Hall 13-1,State Auditor,,REP,Maxfield,97
+Carbon,Riverside Town Hall 13-1,State Auditor,,DEM,Harris,17
+Carbon,Riverside Town Hall 13-1,State Treasurer,,REP,Lummis,101
+Carbon,Riverside Town Hall 13-1,Superintendent of Public Instruction,,REP,Blankenship,37
+Carbon,Riverside Town Hall 13-1,Superintendent of Public Instruction,,REP,Mingle,12
+Carbon,Riverside Town Hall 13-1,Superintendent of Public Instruction,,REP,Twiford,26
+Carbon,Riverside Town Hall 13-1,Superintendent of Public Instruction,,REP,Waring,27
+Carbon,Riverside Town Hall 13-1,Superintendent of Public Instruction,,DEM,Emmons,11
+Carbon,Riverside Town Hall 13-1,Superintendent of Public Instruction,,DEM,Shoults,2
+Carbon,Riverside Town Hall 13-1,Superintendent of Public Instruction,,DEM,Wiederspahn,4
+Carbon,Riverside Town Hall 13-1,State Senate,11,REP,Hicks,99
+Carbon,Riverside Town Hall 13-1,State Senate,11,DEM,Vasey,20
+Carbon,Riverside Town Hall 13-1,State House,47,REP,Bucholz,84
+Carbon,Riverside Town Hall 13-1,State House,47,REP,Willford,39
+Carbon,Riverside Town Hall 13-1,Ballots Cast,,REP,Ballots Cast,126
+Carbon,Riverside Town Hall 13-1,Ballots Cast,,DEM,Ballots Cast,21
+Carbon,Saratoga Senior Center 11-1,U.S. Senate,,REP,Allen,33
+Carbon,Saratoga Senior Center 11-1,U.S. Senate,,REP,Enzi,334
+Carbon,Saratoga Senior Center 11-1,U.S. Senate,,DEM,Corcoran,138
+Carbon,Saratoga Senior Center 11-1,U.S. House,,REP,Cubin,297
+Carbon,Saratoga Senior Center 11-1,U.S. House,,DEM,Akin,77
+Carbon,Saratoga Senior Center 11-1,U.S. House,,DEM,Swett,66
+Carbon,Saratoga Senior Center 11-1,Governor,,REP,Bebout,175
+Carbon,Saratoga Senior Center 11-1,Governor,,REP,Hunkins,89
+Carbon,Saratoga Senior Center 11-1,Governor,,REP,Self,9
+Carbon,Saratoga Senior Center 11-1,Governor,,REP,Sniffin,48
+Carbon,Saratoga Senior Center 11-1,Governor,,REP,Watt,37
+Carbon,Saratoga Senior Center 11-1,Governor,,DEM,Casner,9
+Carbon,Saratoga Senior Center 11-1,Governor,,DEM,Freudenthal,109
+Carbon,Saratoga Senior Center 11-1,Governor,,DEM,Hickey,61
+Carbon,Saratoga Senior Center 11-1,Governor,,DEM,Simpson,5
+Carbon,Saratoga Senior Center 11-1,Secretary of State,,REP,Meyer,332
+Carbon,Saratoga Senior Center 11-1,Secretary of State,,DEM,Fagan,143
+Carbon,Saratoga Senior Center 11-1,State Auditor,,REP,Maxfield,323
+Carbon,Saratoga Senior Center 11-1,State Auditor,,DEM,Harris,139
+Carbon,Saratoga Senior Center 11-1,State Treasurer,,REP,Lummis,331
+Carbon,Saratoga Senior Center 11-1,Superintendent of Public Instruction,,REP,Blankenship,113
+Carbon,Saratoga Senior Center 11-1,Superintendent of Public Instruction,,REP,Mingle,49
+Carbon,Saratoga Senior Center 11-1,Superintendent of Public Instruction,,REP,Twiford,107
+Carbon,Saratoga Senior Center 11-1,Superintendent of Public Instruction,,REP,Waring,54
+Carbon,Saratoga Senior Center 11-1,Superintendent of Public Instruction,,DEM,Emmons,76
+Carbon,Saratoga Senior Center 11-1,Superintendent of Public Instruction,,DEM,Shoults,25
+Carbon,Saratoga Senior Center 11-1,Superintendent of Public Instruction,,DEM,Wiederspahn,59
+Carbon,Saratoga Senior Center 11-1,State Senate,11,REP,Hicks,311
+Carbon,Saratoga Senior Center 11-1,State Senate,11,DEM,Vasey,165
+Carbon,Saratoga Senior Center 11-1,State House,47,REP,Bucholz,195
+Carbon,Saratoga Senior Center 11-1,State House,47,REP,Willford,179
+Carbon,Saratoga Senior Center 11-1,Ballots Cast,,REP,Ballots Cast,380
+Carbon,Saratoga Senior Center 11-1,Ballots Cast,,DEM,Ballots Cast,190
+Carbon,Saratoga Senior Center 11-2,U.S. Senate,,REP,Allen,21
+Carbon,Saratoga Senior Center 11-2,U.S. Senate,,REP,Enzi,170
+Carbon,Saratoga Senior Center 11-2,U.S. Senate,,DEM,Corcoran,24
+Carbon,Saratoga Senior Center 11-2,U.S. House,,REP,Cubin,174
+Carbon,Saratoga Senior Center 11-2,U.S. House,,DEM,Akin,14
+Carbon,Saratoga Senior Center 11-2,U.S. House,,DEM,Swett,11
+Carbon,Saratoga Senior Center 11-2,Governor,,REP,Bebout,84
+Carbon,Saratoga Senior Center 11-2,Governor,,REP,Hunkins,74
+Carbon,Saratoga Senior Center 11-2,Governor,,REP,Self,1
+Carbon,Saratoga Senior Center 11-2,Governor,,REP,Sniffin,15
+Carbon,Saratoga Senior Center 11-2,Governor,,REP,Watt,12
+Carbon,Saratoga Senior Center 11-2,Governor,,DEM,Casner,3
+Carbon,Saratoga Senior Center 11-2,Governor,,DEM,Freudenthal,16
+Carbon,Saratoga Senior Center 11-2,Governor,,DEM,Hickey,12
+Carbon,Saratoga Senior Center 11-2,Governor,,DEM,Simpson,0
+Carbon,Saratoga Senior Center 11-2,Secretary of State,,REP,Meyer,171
+Carbon,Saratoga Senior Center 11-2,Secretary of State,,DEM,Fagan,23
+Carbon,Saratoga Senior Center 11-2,State Auditor,,REP,Maxfield,168
+Carbon,Saratoga Senior Center 11-2,State Auditor,,DEM,Harris,23
+Carbon,Saratoga Senior Center 11-2,State Treasurer,,REP,Lummis,173
+Carbon,Saratoga Senior Center 11-2,Superintendent of Public Instruction,,REP,Blankenship,56
+Carbon,Saratoga Senior Center 11-2,Superintendent of Public Instruction,,REP,Mingle,23
+Carbon,Saratoga Senior Center 11-2,Superintendent of Public Instruction,,REP,Twiford,48
+Carbon,Saratoga Senior Center 11-2,Superintendent of Public Instruction,,REP,Waring,30
+Carbon,Saratoga Senior Center 11-2,Superintendent of Public Instruction,,DEM,Emmons,14
+Carbon,Saratoga Senior Center 11-2,Superintendent of Public Instruction,,DEM,Shoults,4
+Carbon,Saratoga Senior Center 11-2,Superintendent of Public Instruction,,DEM,Wiederspahn,5
+Carbon,Saratoga Senior Center 11-2,State Senate,11,REP,Hicks,166
+Carbon,Saratoga Senior Center 11-2,State Senate,11,DEM,Vasey,27
+Carbon,Saratoga Senior Center 11-2,State House,47,REP,Bucholz,129
+Carbon,Saratoga Senior Center 11-2,State House,47,REP,Willford,63
+Carbon,Saratoga Senior Center 11-2,Ballots Cast,,REP,Ballots Cast,196
+Carbon,Saratoga Senior Center 11-2,Ballots Cast,,DEM,Ballots Cast,31
+Carbon,Sinclair Town Hall 5-1,U.S. Senate,,REP,Allen,18
+Carbon,Sinclair Town Hall 5-1,U.S. Senate,,REP,Enzi,80
+Carbon,Sinclair Town Hall 5-1,U.S. Senate,,DEM,Corcoran,62
+Carbon,Sinclair Town Hall 5-1,U.S. House,,REP,Cubin,81
+Carbon,Sinclair Town Hall 5-1,U.S. House,,DEM,Akin,42
+Carbon,Sinclair Town Hall 5-1,U.S. House,,DEM,Swett,22
+Carbon,Sinclair Town Hall 5-1,Governor,,REP,Bebout,39
+Carbon,Sinclair Town Hall 5-1,Governor,,REP,Hunkins,27
+Carbon,Sinclair Town Hall 5-1,Governor,,REP,Self,2
+Carbon,Sinclair Town Hall 5-1,Governor,,REP,Sniffin,10
+Carbon,Sinclair Town Hall 5-1,Governor,,REP,Watt,19
+Carbon,Sinclair Town Hall 5-1,Governor,,DEM,Casner,11
+Carbon,Sinclair Town Hall 5-1,Governor,,DEM,Freudenthal,27
+Carbon,Sinclair Town Hall 5-1,Governor,,DEM,Hickey,36
+Carbon,Sinclair Town Hall 5-1,Governor,,DEM,Simpson,2
+Carbon,Sinclair Town Hall 5-1,Secretary of State,,REP,Meyer,83
+Carbon,Sinclair Town Hall 5-1,Secretary of State,,DEM,Fagan,61
+Carbon,Sinclair Town Hall 5-1,State Auditor,,REP,Maxfield,87
+Carbon,Sinclair Town Hall 5-1,State Auditor,,DEM,Harris,63
+Carbon,Sinclair Town Hall 5-1,State Treasurer,,REP,Lummis,85
+Carbon,Sinclair Town Hall 5-1,Superintendent of Public Instruction,,REP,Blankenship,33
+Carbon,Sinclair Town Hall 5-1,Superintendent of Public Instruction,,REP,Mingle,7
+Carbon,Sinclair Town Hall 5-1,Superintendent of Public Instruction,,REP,Twiford,39
+Carbon,Sinclair Town Hall 5-1,Superintendent of Public Instruction,,REP,Waring,12
+Carbon,Sinclair Town Hall 5-1,Superintendent of Public Instruction,,DEM,Emmons,40
+Carbon,Sinclair Town Hall 5-1,Superintendent of Public Instruction,,DEM,Shoults,9
+Carbon,Sinclair Town Hall 5-1,Superintendent of Public Instruction,,DEM,Wiederspahn,18
+Carbon,Sinclair Town Hall 5-1,State Senate,11,REP,Hicks,80
+Carbon,Sinclair Town Hall 5-1,State Senate,11,DEM,Vasey,73
+Carbon,Sinclair Town Hall 5-1,State House,47,REP,Bucholz,34
+Carbon,Sinclair Town Hall 5-1,State House,47,REP,Willford,55
+Carbon,Sinclair Town Hall 5-1,Ballots Cast,,REP,Ballots Cast,101
+Carbon,Sinclair Town Hall 5-1,Ballots Cast,,DEM,Ballots Cast,78

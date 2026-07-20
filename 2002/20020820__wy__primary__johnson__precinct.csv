@@ -1,0 +1,507 @@
+county,precinct,office,district,party,candidate,votes
+Johnson,Billy Creek School 5-9,U.S. Senate,,REP,Allen,2
+Johnson,Billy Creek School 5-9,U.S. Senate,,REP,Enzi,67
+Johnson,Billy Creek School 5-9,U.S. Senate,,DEM,Corcoran,1
+Johnson,Billy Creek School 5-9,U.S. House,,REP,Cubin,62
+Johnson,Billy Creek School 5-9,U.S. House,,DEM,Swett,0
+Johnson,Billy Creek School 5-9,Governor,,REP,Bebout,31
+Johnson,Billy Creek School 5-9,Governor,,REP,Hunkins,28
+Johnson,Billy Creek School 5-9,Governor,,REP,Self,2
+Johnson,Billy Creek School 5-9,Governor,,REP,Sniffin,6
+Johnson,Billy Creek School 5-9,Governor,,DEM,Casner,0
+Johnson,Billy Creek School 5-9,Governor,,DEM,Freudenthal,1
+Johnson,Billy Creek School 5-9,Governor,,DEM,Simpson,0
+Johnson,Billy Creek School 5-9,Secretary of State,,REP,Meyer,60
+Johnson,Billy Creek School 5-9,Secretary of State,,DEM,Fagan,1
+Johnson,Billy Creek School 5-9,State Auditor,,REP,Maxfield,63
+Johnson,Billy Creek School 5-9,State Auditor,,DEM,Emmons,0
+Johnson,Billy Creek School 5-9,State Auditor,,DEM,Harris,1
+Johnson,Billy Creek School 5-9,State Treasurer,,REP,Lummis,60
+Johnson,Billy Creek School 5-9,Superintendent of Public Instruction,,REP,Blankenship,18
+Johnson,Billy Creek School 5-9,Superintendent of Public Instruction,,REP,Mingle,3
+Johnson,Billy Creek School 5-9,Superintendent of Public Instruction,,REP,Twiford,23
+Johnson,Billy Creek School 5-9,Superintendent of Public Instruction,,REP,Waring,5
+Johnson,Billy Creek School 5-9,Superintendent of Public Instruction,,DEM,Shoults,0
+Johnson,Billy Creek School 5-9,Superintendent of Public Instruction,,DEM,Wiederspahn,0
+Johnson,Billy Creek School 5-9,State House,40,REP,Osborn,66
+Johnson,Billy Creek School 5-9,Ballots Cast,,REP,Ballots Cast,69
+Johnson,Billy Creek School 5-9,Ballots Cast,,DEM,Ballots Cast,1
+Johnson,East Buffalo 3-5,U.S. Senate,,REP,Allen,12
+Johnson,East Buffalo 3-5,U.S. Senate,,REP,Enzi,96
+Johnson,East Buffalo 3-5,U.S. Senate,,DEM,Corcoran,10
+Johnson,East Buffalo 3-5,U.S. House,,REP,Cubin,85
+Johnson,East Buffalo 3-5,U.S. House,,DEM,Akin,7
+Johnson,East Buffalo 3-5,U.S. House,,DEM,Swett,4
+Johnson,East Buffalo 3-5,Governor,,REP,Bebout,39
+Johnson,East Buffalo 3-5,Governor,,REP,Hunkins,45
+Johnson,East Buffalo 3-5,Governor,,REP,Self,1
+Johnson,East Buffalo 3-5,Governor,,REP,Sniffin,20
+Johnson,East Buffalo 3-5,Governor,,REP,Watt,3
+Johnson,East Buffalo 3-5,Governor,,DEM,Casner,0
+Johnson,East Buffalo 3-5,Governor,,DEM,Freudenthal,8
+Johnson,East Buffalo 3-5,Governor,,DEM,Hickey,3
+Johnson,East Buffalo 3-5,Governor,,DEM,Simpson,0
+Johnson,East Buffalo 3-5,Secretary of State,,REP,Meyer,103
+Johnson,East Buffalo 3-5,Secretary of State,,DEM,Fagan,11
+Johnson,East Buffalo 3-5,State Auditor,,REP,Maxfield,95
+Johnson,East Buffalo 3-5,State Auditor,,DEM,Emmons,5
+Johnson,East Buffalo 3-5,State Auditor,,DEM,Harris,11
+Johnson,East Buffalo 3-5,State Treasurer,,REP,Lummis,101
+Johnson,East Buffalo 3-5,Superintendent of Public Instruction,,REP,Blankenship,20
+Johnson,East Buffalo 3-5,Superintendent of Public Instruction,,REP,Mingle,14
+Johnson,East Buffalo 3-5,Superintendent of Public Instruction,,REP,Twiford,38
+Johnson,East Buffalo 3-5,Superintendent of Public Instruction,,REP,Waring,21
+Johnson,East Buffalo 3-5,Superintendent of Public Instruction,,DEM,Shoults,4
+Johnson,East Buffalo 3-5,Superintendent of Public Instruction,,DEM,Wiederspahn,2
+Johnson,East Buffalo 3-5,State House,40,REP,Osborn,94
+Johnson,East Buffalo 3-5,Ballots Cast,,REP,Ballots Cast,113
+Johnson,East Buffalo 3-5,Ballots Cast,,DEM,Ballots Cast,12
+Johnson,Kaycee 6-10,U.S. Senate,,REP,Allen,14
+Johnson,Kaycee 6-10,U.S. Senate,,REP,Enzi,89
+Johnson,Kaycee 6-10,U.S. Senate,,DEM,Corcoran,5
+Johnson,Kaycee 6-10,U.S. House,,REP,Cubin,78
+Johnson,Kaycee 6-10,U.S. House,,DEM,Akin,5
+Johnson,Kaycee 6-10,U.S. House,,DEM,Swett,1
+Johnson,Kaycee 6-10,Governor,,REP,Bebout,50
+Johnson,Kaycee 6-10,Governor,,REP,Hunkins,47
+Johnson,Kaycee 6-10,Governor,,REP,Sniffin,5
+Johnson,Kaycee 6-10,Governor,,REP,Watt,2
+Johnson,Kaycee 6-10,Governor,,DEM,Casner,0
+Johnson,Kaycee 6-10,Governor,,DEM,Freudenthal,4
+Johnson,Kaycee 6-10,Governor,,DEM,Hickey,3
+Johnson,Kaycee 6-10,Governor,,DEM,Simpson,0
+Johnson,Kaycee 6-10,Secretary of State,,REP,Meyer,91
+Johnson,Kaycee 6-10,Secretary of State,,DEM,Fagan,5
+Johnson,Kaycee 6-10,State Auditor,,REP,Maxfield,90
+Johnson,Kaycee 6-10,State Auditor,,DEM,Emmons,3
+Johnson,Kaycee 6-10,State Auditor,,DEM,Harris,5
+Johnson,Kaycee 6-10,State Treasurer,,REP,Lummis,89
+Johnson,Kaycee 6-10,Superintendent of Public Instruction,,REP,Blankenship,26
+Johnson,Kaycee 6-10,Superintendent of Public Instruction,,REP,Mingle,8
+Johnson,Kaycee 6-10,Superintendent of Public Instruction,,REP,Twiford,32
+Johnson,Kaycee 6-10,Superintendent of Public Instruction,,REP,Waring,15
+Johnson,Kaycee 6-10,Superintendent of Public Instruction,,DEM,Shoults,0
+Johnson,Kaycee 6-10,Superintendent of Public Instruction,,DEM,Wiederspahn,3
+Johnson,Kaycee 6-10,State House,40,REP,Osborn,86
+Johnson,Kaycee 6-10,Ballots Cast,,REP,Ballots Cast,110
+Johnson,Kaycee 6-10,Ballots Cast,,DEM,Ballots Cast,6
+Johnson,Linch Fire Hall 9-13,U.S. Senate,,REP,Allen,2
+Johnson,Linch Fire Hall 9-13,U.S. Senate,,REP,Enzi,14
+Johnson,Linch Fire Hall 9-13,U.S. Senate,,DEM,Corcoran,1
+Johnson,Linch Fire Hall 9-13,U.S. House,,REP,Cubin,14
+Johnson,Linch Fire Hall 9-13,U.S. House,,DEM,Akin,1
+Johnson,Linch Fire Hall 9-13,U.S. House,,DEM,Swett,0
+Johnson,Linch Fire Hall 9-13,Governor,,REP,Bebout,11
+Johnson,Linch Fire Hall 9-13,Governor,,REP,Hunkins,3
+Johnson,Linch Fire Hall 9-13,Governor,,REP,Self,0
+Johnson,Linch Fire Hall 9-13,Governor,,REP,Sniffin,2
+Johnson,Linch Fire Hall 9-13,Governor,,REP,Watt,0
+Johnson,Linch Fire Hall 9-13,Governor,,DEM,Casner,0
+Johnson,Linch Fire Hall 9-13,Governor,,DEM,Freudenthal,1
+Johnson,Linch Fire Hall 9-13,Governor,,DEM,Hickey,1
+Johnson,Linch Fire Hall 9-13,Governor,,DEM,Simpson,0
+Johnson,Linch Fire Hall 9-13,Secretary of State,,REP,Meyer,15
+Johnson,Linch Fire Hall 9-13,Secretary of State,,DEM,Fagan,1
+Johnson,Linch Fire Hall 9-13,State Auditor,,REP,Maxfield,15
+Johnson,Linch Fire Hall 9-13,State Auditor,,DEM,Emmons,1
+Johnson,Linch Fire Hall 9-13,State Auditor,,DEM,Harris,1
+Johnson,Linch Fire Hall 9-13,State Treasurer,,REP,Lummis,15
+Johnson,Linch Fire Hall 9-13,Superintendent of Public Instruction,,REP,Blankenship,4
+Johnson,Linch Fire Hall 9-13,Superintendent of Public Instruction,,REP,Mingle,2
+Johnson,Linch Fire Hall 9-13,Superintendent of Public Instruction,,REP,Twiford,7
+Johnson,Linch Fire Hall 9-13,Superintendent of Public Instruction,,REP,Waring,3
+Johnson,Linch Fire Hall 9-13,Superintendent of Public Instruction,,DEM,Shoults,0
+Johnson,Linch Fire Hall 9-13,Superintendent of Public Instruction,,DEM,Wiederspahn,0
+Johnson,Linch Fire Hall 9-13,State House,40,REP,Osborn,14
+Johnson,Linch Fire Hall 9-13,Ballots Cast,,REP,Ballots Cast,16
+Johnson,Linch Fire Hall 9-13,Ballots Cast,,DEM,Ballots Cast,2
+Johnson,Middlefork 8-11,U.S. Senate,,REP,Allen,19
+Johnson,Middlefork 8-11,U.S. Senate,,REP,Enzi,144
+Johnson,Middlefork 8-11,U.S. Senate,,DEM,Corcoran,5
+Johnson,Middlefork 8-11,U.S. House,,REP,Cubin,145
+Johnson,Middlefork 8-11,U.S. House,,DEM,Akin,3
+Johnson,Middlefork 8-11,U.S. House,,DEM,Swett,2
+Johnson,Middlefork 8-11,Governor,,REP,Bebout,78
+Johnson,Middlefork 8-11,Governor,,REP,Hunkins,75
+Johnson,Middlefork 8-11,Governor,,REP,Self,0
+Johnson,Middlefork 8-11,Governor,,REP,Sniffin,10
+Johnson,Middlefork 8-11,Governor,,REP,Watt,1
+Johnson,Middlefork 8-11,Governor,,DEM,Casner,1
+Johnson,Middlefork 8-11,Governor,,DEM,Freudenthal,1
+Johnson,Middlefork 8-11,Governor,,DEM,Hickey,2
+Johnson,Middlefork 8-11,Governor,,DEM,Simpson,1
+Johnson,Middlefork 8-11,Secretary of State,,REP,Meyer,150
+Johnson,Middlefork 8-11,Secretary of State,,DEM,Fagan,5
+Johnson,Middlefork 8-11,State Auditor,,REP,Maxfield,138
+Johnson,Middlefork 8-11,State Auditor,,DEM,Emmons,5
+Johnson,Middlefork 8-11,State Auditor,,DEM,Harris,5
+Johnson,Middlefork 8-11,State Treasurer,,REP,Lummis,148
+Johnson,Middlefork 8-11,Superintendent of Public Instruction,,REP,Blankenship,22
+Johnson,Middlefork 8-11,Superintendent of Public Instruction,,REP,Mingle,10
+Johnson,Middlefork 8-11,Superintendent of Public Instruction,,REP,Twiford,69
+Johnson,Middlefork 8-11,Superintendent of Public Instruction,,REP,Waring,40
+Johnson,Middlefork 8-11,Superintendent of Public Instruction,,DEM,Shoults,0
+Johnson,Middlefork 8-11,Superintendent of Public Instruction,,DEM,Wiederspahn,0
+Johnson,Middlefork 8-11,State House,40,REP,Osborn,141
+Johnson,Middlefork 8-11,Ballots Cast,,REP,Ballots Cast,171
+Johnson,Middlefork 8-11,Ballots Cast,,DEM,Ballots Cast,6
+Johnson,Northeast Buffalo 3-3,U.S. Senate,,REP,Allen,17
+Johnson,Northeast Buffalo 3-3,U.S. Senate,,REP,Enzi,112
+Johnson,Northeast Buffalo 3-3,U.S. Senate,,DEM,Corcoran,8
+Johnson,Northeast Buffalo 3-3,U.S. House,,REP,Cubin,109
+Johnson,Northeast Buffalo 3-3,U.S. House,,DEM,Akin,3
+Johnson,Northeast Buffalo 3-3,U.S. House,,DEM,Swett,6
+Johnson,Northeast Buffalo 3-3,Governor,,REP,Bebout,66
+Johnson,Northeast Buffalo 3-3,Governor,,REP,Hunkins,32
+Johnson,Northeast Buffalo 3-3,Governor,,REP,Self,3
+Johnson,Northeast Buffalo 3-3,Governor,,REP,Sniffin,17
+Johnson,Northeast Buffalo 3-3,Governor,,REP,Watt,6
+Johnson,Northeast Buffalo 3-3,Governor,,DEM,Casner,0
+Johnson,Northeast Buffalo 3-3,Governor,,DEM,Freudenthal,4
+Johnson,Northeast Buffalo 3-3,Governor,,DEM,Hickey,2
+Johnson,Northeast Buffalo 3-3,Governor,,DEM,Simpson,4
+Johnson,Northeast Buffalo 3-3,Secretary of State,,REP,Meyer,117
+Johnson,Northeast Buffalo 3-3,Secretary of State,,DEM,Fagan,10
+Johnson,Northeast Buffalo 3-3,State Auditor,,REP,Maxfield,114
+Johnson,Northeast Buffalo 3-3,State Auditor,,DEM,Emmons,7
+Johnson,Northeast Buffalo 3-3,State Auditor,,DEM,Harris,9
+Johnson,Northeast Buffalo 3-3,State Treasurer,,REP,Lummis,115
+Johnson,Northeast Buffalo 3-3,Superintendent of Public Instruction,,REP,Blankenship,30
+Johnson,Northeast Buffalo 3-3,Superintendent of Public Instruction,,REP,Mingle,12
+Johnson,Northeast Buffalo 3-3,Superintendent of Public Instruction,,REP,Twiford,48
+Johnson,Northeast Buffalo 3-3,Superintendent of Public Instruction,,REP,Waring,16
+Johnson,Northeast Buffalo 3-3,Superintendent of Public Instruction,,DEM,Shoults,1
+Johnson,Northeast Buffalo 3-3,Superintendent of Public Instruction,,DEM,Wiederspahn,1
+Johnson,Northeast Buffalo 3-3,State House,40,REP,Osborn,105
+Johnson,Northeast Buffalo 3-3,Ballots Cast,,REP,Ballots Cast,133
+Johnson,Northeast Buffalo 3-3,Ballots Cast,,DEM,Ballots Cast,13
+Johnson,Northwest Buffalo 3-1,U.S. Senate,,REP,Allen,25
+Johnson,Northwest Buffalo 3-1,U.S. Senate,,REP,Enzi,199
+Johnson,Northwest Buffalo 3-1,U.S. Senate,,DEM,Corcoran,21
+Johnson,Northwest Buffalo 3-1,U.S. House,,REP,Cubin,175
+Johnson,Northwest Buffalo 3-1,U.S. House,,DEM,Akin,14
+Johnson,Northwest Buffalo 3-1,U.S. House,,DEM,Swett,10
+Johnson,Northwest Buffalo 3-1,Governor,,REP,Bebout,106
+Johnson,Northwest Buffalo 3-1,Governor,,REP,Hunkins,72
+Johnson,Northwest Buffalo 3-1,Governor,,REP,Self,3
+Johnson,Northwest Buffalo 3-1,Governor,,REP,Sniffin,42
+Johnson,Northwest Buffalo 3-1,Governor,,REP,Watt,7
+Johnson,Northwest Buffalo 3-1,Governor,,DEM,Casner,0
+Johnson,Northwest Buffalo 3-1,Governor,,DEM,Freudenthal,14
+Johnson,Northwest Buffalo 3-1,Governor,,DEM,Hickey,11
+Johnson,Northwest Buffalo 3-1,Governor,,DEM,Simpson,2
+Johnson,Northwest Buffalo 3-1,Secretary of State,,REP,Meyer,199
+Johnson,Northwest Buffalo 3-1,Secretary of State,,DEM,Fagan,24
+Johnson,Northwest Buffalo 3-1,State Auditor,,REP,Maxfield,200
+Johnson,Northwest Buffalo 3-1,State Auditor,,DEM,Emmons,16
+Johnson,Northwest Buffalo 3-1,State Auditor,,DEM,Harris,23
+Johnson,Northwest Buffalo 3-1,State Treasurer,,REP,Lummis,195
+Johnson,Northwest Buffalo 3-1,Superintendent of Public Instruction,,REP,Blankenship,59
+Johnson,Northwest Buffalo 3-1,Superintendent of Public Instruction,,REP,Mingle,19
+Johnson,Northwest Buffalo 3-1,Superintendent of Public Instruction,,REP,Twiford,82
+Johnson,Northwest Buffalo 3-1,Superintendent of Public Instruction,,REP,Waring,33
+Johnson,Northwest Buffalo 3-1,Superintendent of Public Instruction,,DEM,Shoults,5
+Johnson,Northwest Buffalo 3-1,Superintendent of Public Instruction,,DEM,Wiederspahn,6
+Johnson,Northwest Buffalo 3-1,State House,40,REP,Osborn,193
+Johnson,Northwest Buffalo 3-1,Ballots Cast,,REP,Ballots Cast,238
+Johnson,Northwest Buffalo 3-1,Ballots Cast,,DEM,Ballots Cast,30
+Johnson,Oliver 4-7,U.S. Senate,,REP,Allen,60
+Johnson,Oliver 4-7,U.S. Senate,,REP,Enzi,317
+Johnson,Oliver 4-7,U.S. Senate,,DEM,Corcoran,17
+Johnson,Oliver 4-7,U.S. House,,REP,Cubin,310
+Johnson,Oliver 4-7,U.S. House,,DEM,Akin,10
+Johnson,Oliver 4-7,U.S. House,,DEM,Swett,6
+Johnson,Oliver 4-7,Governor,,REP,Bebout,165
+Johnson,Oliver 4-7,Governor,,REP,Hunkins,129
+Johnson,Oliver 4-7,Governor,,REP,Self,7
+Johnson,Oliver 4-7,Governor,,REP,Sniffin,66
+Johnson,Oliver 4-7,Governor,,REP,Watt,15
+Johnson,Oliver 4-7,Governor,,DEM,Casner,1
+Johnson,Oliver 4-7,Governor,,DEM,Freudenthal,12
+Johnson,Oliver 4-7,Governor,,DEM,Hickey,6
+Johnson,Oliver 4-7,Governor,,DEM,Simpson,0
+Johnson,Oliver 4-7,Secretary of State,,REP,Meyer,340
+Johnson,Oliver 4-7,Secretary of State,,DEM,Fagan,14
+Johnson,Oliver 4-7,State Auditor,,REP,Maxfield,338
+Johnson,Oliver 4-7,State Auditor,,DEM,Emmons,9
+Johnson,Oliver 4-7,State Auditor,,DEM,Harris,15
+Johnson,Oliver 4-7,State Treasurer,,REP,Lummis,345
+Johnson,Oliver 4-7,Superintendent of Public Instruction,,REP,Blankenship,110
+Johnson,Oliver 4-7,Superintendent of Public Instruction,,REP,Mingle,29
+Johnson,Oliver 4-7,Superintendent of Public Instruction,,REP,Twiford,143
+Johnson,Oliver 4-7,Superintendent of Public Instruction,,REP,Waring,37
+Johnson,Oliver 4-7,Superintendent of Public Instruction,,DEM,Shoults,5
+Johnson,Oliver 4-7,Superintendent of Public Instruction,,DEM,Wiederspahn,3
+Johnson,Oliver 4-7,State House,40,REP,Osborn,326
+Johnson,Oliver 4-7,Ballots Cast,,REP,Ballots Cast,400
+Johnson,Oliver 4-7,Ballots Cast,,DEM,Ballots Cast,16
+Johnson,Piney Shell 2-14,U.S. Senate,,REP,Allen,6
+Johnson,Piney Shell 2-14,U.S. Senate,,REP,Enzi,56
+Johnson,Piney Shell 2-14,U.S. Senate,,DEM,Corcoran,2
+Johnson,Piney Shell 2-14,U.S. House,,REP,Cubin,52
+Johnson,Piney Shell 2-14,U.S. House,,DEM,Akin,1
+Johnson,Piney Shell 2-14,U.S. House,,DEM,Swett,2
+Johnson,Piney Shell 2-14,Governor,,REP,Bebout,28
+Johnson,Piney Shell 2-14,Governor,,REP,Hunkins,24
+Johnson,Piney Shell 2-14,Governor,,REP,Self,0
+Johnson,Piney Shell 2-14,Governor,,REP,Sniffin,6
+Johnson,Piney Shell 2-14,Governor,,REP,Watt,1
+Johnson,Piney Shell 2-14,Governor,,DEM,Casner,0
+Johnson,Piney Shell 2-14,Governor,,DEM,Freudenthal,4
+Johnson,Piney Shell 2-14,Governor,,DEM,Hickey,0
+Johnson,Piney Shell 2-14,Governor,,DEM,Simpson,0
+Johnson,Piney Shell 2-14,Secretary of State,,REP,Meyer,53
+Johnson,Piney Shell 2-14,Secretary of State,,DEM,Fagan,2
+Johnson,Piney Shell 2-14,State Auditor,,REP,Maxfield,52
+Johnson,Piney Shell 2-14,State Auditor,,DEM,Emmons,1
+Johnson,Piney Shell 2-14,State Auditor,,DEM,Harris,2
+Johnson,Piney Shell 2-14,State Treasurer,,REP,Lummis,53
+Johnson,Piney Shell 2-14,Superintendent of Public Instruction,,REP,Blankenship,17
+Johnson,Piney Shell 2-14,Superintendent of Public Instruction,,REP,Mingle,3
+Johnson,Piney Shell 2-14,Superintendent of Public Instruction,,REP,Twiford,11
+Johnson,Piney Shell 2-14,Superintendent of Public Instruction,,REP,Waring,11
+Johnson,Piney Shell 2-14,Superintendent of Public Instruction,,DEM,Shoults,1
+Johnson,Piney Shell 2-14,Superintendent of Public Instruction,,DEM,Wiederspahn,1
+Johnson,Piney Shell 2-14,State House,40,REP,Osborn,53
+Johnson,Piney Shell 2-14,Ballots Cast,,REP,Ballots Cast,66
+Johnson,Piney Shell 2-14,Ballots Cast,,DEM,Ballots Cast,4
+Johnson,Soldiers & Sailors 4-8,U.S. Senate,,REP,Allen,61
+Johnson,Soldiers & Sailors 4-8,U.S. Senate,,REP,Enzi,341
+Johnson,Soldiers & Sailors 4-8,U.S. Senate,,DEM,Corcoran,25
+Johnson,Soldiers & Sailors 4-8,U.S. House,,REP,Cubin,330
+Johnson,Soldiers & Sailors 4-8,U.S. House,,DEM,Akin,14
+Johnson,Soldiers & Sailors 4-8,U.S. House,,DEM,Swett,11
+Johnson,Soldiers & Sailors 4-8,Governor,,REP,Bebout,161
+Johnson,Soldiers & Sailors 4-8,Governor,,REP,Hunkins,146
+Johnson,Soldiers & Sailors 4-8,Governor,,REP,Self,1
+Johnson,Soldiers & Sailors 4-8,Governor,,REP,Sniffin,82
+Johnson,Soldiers & Sailors 4-8,Governor,,REP,Watt,10
+Johnson,Soldiers & Sailors 4-8,Governor,,DEM,Casner,1
+Johnson,Soldiers & Sailors 4-8,Governor,,DEM,Freudenthal,16
+Johnson,Soldiers & Sailors 4-8,Governor,,DEM,Hickey,8
+Johnson,Soldiers & Sailors 4-8,Governor,,DEM,Simpson,1
+Johnson,Soldiers & Sailors 4-8,Secretary of State,,REP,Meyer,341
+Johnson,Soldiers & Sailors 4-8,Secretary of State,,DEM,Fagan,25
+Johnson,Soldiers & Sailors 4-8,State Auditor,,REP,Maxfield,344
+Johnson,Soldiers & Sailors 4-8,State Auditor,,DEM,Emmons,16
+Johnson,Soldiers & Sailors 4-8,State Auditor,,DEM,Harris,25
+Johnson,Soldiers & Sailors 4-8,State Treasurer,,REP,Lummis,343
+Johnson,Soldiers & Sailors 4-8,Superintendent of Public Instruction,,REP,Blankenship,102
+Johnson,Soldiers & Sailors 4-8,Superintendent of Public Instruction,,REP,Mingle,31
+Johnson,Soldiers & Sailors 4-8,Superintendent of Public Instruction,,REP,Twiford,155
+Johnson,Soldiers & Sailors 4-8,Superintendent of Public Instruction,,REP,Waring,44
+Johnson,Soldiers & Sailors 4-8,Superintendent of Public Instruction,,DEM,Shoults,3
+Johnson,Soldiers & Sailors 4-8,Superintendent of Public Instruction,,DEM,Wiederspahn,7
+Johnson,Soldiers & Sailors 4-8,State House,40,REP,Osborn,332
+Johnson,Soldiers & Sailors 4-8,Ballots Cast,,REP,Ballots Cast,431
+Johnson,Soldiers & Sailors 4-8,Ballots Cast,,DEM,Ballots Cast,25
+Johnson,Southeast Buffalo 3-6,U.S. Senate,,REP,Allen,31
+Johnson,Southeast Buffalo 3-6,U.S. Senate,,REP,Enzi,156
+Johnson,Southeast Buffalo 3-6,U.S. Senate,,DEM,Corcoran,6
+Johnson,Southeast Buffalo 3-6,U.S. House,,REP,Cubin,149
+Johnson,Southeast Buffalo 3-6,U.S. House,,DEM,Akin,4
+Johnson,Southeast Buffalo 3-6,U.S. House,,DEM,Swett,2
+Johnson,Southeast Buffalo 3-6,Governor,,REP,Bebout,91
+Johnson,Southeast Buffalo 3-6,Governor,,REP,Hunkins,65
+Johnson,Southeast Buffalo 3-6,Governor,,REP,Self,2
+Johnson,Southeast Buffalo 3-6,Governor,,REP,Sniffin,20
+Johnson,Southeast Buffalo 3-6,Governor,,REP,Watt,6
+Johnson,Southeast Buffalo 3-6,Governor,,DEM,Casner,0
+Johnson,Southeast Buffalo 3-6,Governor,,DEM,Freudenthal,5
+Johnson,Southeast Buffalo 3-6,Governor,,DEM,Hickey,1
+Johnson,Southeast Buffalo 3-6,Governor,,DEM,Simpson,1
+Johnson,Southeast Buffalo 3-6,Secretary of State,,REP,Meyer,165
+Johnson,Southeast Buffalo 3-6,Secretary of State,,DEM,Fagan,7
+Johnson,Southeast Buffalo 3-6,State Auditor,,REP,Maxfield,167
+Johnson,Southeast Buffalo 3-6,State Auditor,,DEM,Emmons,2
+Johnson,Southeast Buffalo 3-6,State Auditor,,DEM,Harris,7
+Johnson,Southeast Buffalo 3-6,State Treasurer,,REP,Lummis,161
+Johnson,Southeast Buffalo 3-6,Superintendent of Public Instruction,,REP,Blankenship,49
+Johnson,Southeast Buffalo 3-6,Superintendent of Public Instruction,,REP,Mingle,22
+Johnson,Southeast Buffalo 3-6,Superintendent of Public Instruction,,REP,Twiford,65
+Johnson,Southeast Buffalo 3-6,Superintendent of Public Instruction,,REP,Waring,21
+Johnson,Southeast Buffalo 3-6,Superintendent of Public Instruction,,DEM,Shoults,1
+Johnson,Southeast Buffalo 3-6,Superintendent of Public Instruction,,DEM,Wiederspahn,3
+Johnson,Southeast Buffalo 3-6,State House,40,REP,Osborn,162
+Johnson,Southeast Buffalo 3-6,Ballots Cast,,REP,Ballots Cast,188
+Johnson,Southeast Buffalo 3-6,Ballots Cast,,DEM,Ballots Cast,9
+Johnson,Southwest Buffalo 3-7,U.S. Senate,,REP,Allen,20
+Johnson,Southwest Buffalo 3-7,U.S. Senate,,REP,Enzi,126
+Johnson,Southwest Buffalo 3-7,U.S. Senate,,DEM,Corcoran,3
+Johnson,Southwest Buffalo 3-7,U.S. House,,REP,Cubin,109
+Johnson,Southwest Buffalo 3-7,U.S. House,,DEM,Akin,1
+Johnson,Southwest Buffalo 3-7,U.S. House,,DEM,Swett,3
+Johnson,Southwest Buffalo 3-7,Governor,,REP,Bebout,58
+Johnson,Southwest Buffalo 3-7,Governor,,REP,Hunkins,47
+Johnson,Southwest Buffalo 3-7,Governor,,REP,Self,1
+Johnson,Southwest Buffalo 3-7,Governor,,REP,Sniffin,34
+Johnson,Southwest Buffalo 3-7,Governor,,REP,Watt,2
+Johnson,Southwest Buffalo 3-7,Governor,,DEM,Casner,0
+Johnson,Southwest Buffalo 3-7,Governor,,DEM,Freudenthal,4
+Johnson,Southwest Buffalo 3-7,Governor,,DEM,Hickey,4
+Johnson,Southwest Buffalo 3-7,Governor,,DEM,Simpson,1
+Johnson,Southwest Buffalo 3-7,Secretary of State,,REP,Meyer,127
+Johnson,Southwest Buffalo 3-7,Secretary of State,,DEM,Fagan,5
+Johnson,Southwest Buffalo 3-7,State Auditor,,REP,Maxfield,130
+Johnson,Southwest Buffalo 3-7,State Auditor,,DEM,Emmons,5
+Johnson,Southwest Buffalo 3-7,State Auditor,,DEM,Harris,5
+Johnson,Southwest Buffalo 3-7,State Treasurer,,REP,Lummis,128
+Johnson,Southwest Buffalo 3-7,Superintendent of Public Instruction,,REP,Blankenship,24
+Johnson,Southwest Buffalo 3-7,Superintendent of Public Instruction,,REP,Mingle,12
+Johnson,Southwest Buffalo 3-7,Superintendent of Public Instruction,,REP,Twiford,60
+Johnson,Southwest Buffalo 3-7,Superintendent of Public Instruction,,REP,Waring,27
+Johnson,Southwest Buffalo 3-7,Superintendent of Public Instruction,,DEM,Shoults,2
+Johnson,Southwest Buffalo 3-7,Superintendent of Public Instruction,,DEM,Wiederspahn,2
+Johnson,Southwest Buffalo 3-7,State House,40,REP,Osborn,123
+Johnson,Southwest Buffalo 3-7,Ballots Cast,,REP,Ballots Cast,153
+Johnson,Southwest Buffalo 3-7,Ballots Cast,,DEM,Ballots Cast,9
+Johnson,Southwest Central Buffalo 3-4,U.S. Senate,,REP,Allen,30
+Johnson,Southwest Central Buffalo 3-4,U.S. Senate,,REP,Enzi,175
+Johnson,Southwest Central Buffalo 3-4,U.S. Senate,,DEM,Corcoran,3
+Johnson,Southwest Central Buffalo 3-4,U.S. House,,REP,Cubin,160
+Johnson,Southwest Central Buffalo 3-4,U.S. House,,DEM,Akin,2
+Johnson,Southwest Central Buffalo 3-4,U.S. House,,DEM,Swett,3
+Johnson,Southwest Central Buffalo 3-4,Governor,,REP,Bebout,80
+Johnson,Southwest Central Buffalo 3-4,Governor,,REP,Hunkins,78
+Johnson,Southwest Central Buffalo 3-4,Governor,,REP,Self,7
+Johnson,Southwest Central Buffalo 3-4,Governor,,REP,Sniffin,26
+Johnson,Southwest Central Buffalo 3-4,Governor,,REP,Watt,11
+Johnson,Southwest Central Buffalo 3-4,Governor,,DEM,Casner,0
+Johnson,Southwest Central Buffalo 3-4,Governor,,DEM,Freudenthal,5
+Johnson,Southwest Central Buffalo 3-4,Governor,,DEM,Hickey,1
+Johnson,Southwest Central Buffalo 3-4,Governor,,DEM,Simpson,0
+Johnson,Southwest Central Buffalo 3-4,Secretary of State,,REP,Meyer,184
+Johnson,Southwest Central Buffalo 3-4,Secretary of State,,DEM,Fagan,5
+Johnson,Southwest Central Buffalo 3-4,State Auditor,,REP,Maxfield,181
+Johnson,Southwest Central Buffalo 3-4,State Auditor,,DEM,Emmons,5
+Johnson,Southwest Central Buffalo 3-4,State Auditor,,DEM,Harris,5
+Johnson,Southwest Central Buffalo 3-4,State Treasurer,,REP,Lummis,183
+Johnson,Southwest Central Buffalo 3-4,Superintendent of Public Instruction,,REP,Blankenship,55
+Johnson,Southwest Central Buffalo 3-4,Superintendent of Public Instruction,,REP,Mingle,11
+Johnson,Southwest Central Buffalo 3-4,Superintendent of Public Instruction,,REP,Twiford,74
+Johnson,Southwest Central Buffalo 3-4,Superintendent of Public Instruction,,REP,Waring,31
+Johnson,Southwest Central Buffalo 3-4,Superintendent of Public Instruction,,DEM,Shoults,0
+Johnson,Southwest Central Buffalo 3-4,Superintendent of Public Instruction,,DEM,Wiederspahn,1
+Johnson,Southwest Central Buffalo 3-4,State House,40,REP,Osborn,173
+Johnson,Southwest Central Buffalo 3-4,Ballots Cast,,REP,Ballots Cast,216
+Johnson,Southwest Central Buffalo 3-4,Ballots Cast,,DEM,Ballots Cast,7
+Johnson,Sussex Community Hall 9-12,U.S. Senate,,REP,Allen,5
+Johnson,Sussex Community Hall 9-12,U.S. Senate,,REP,Enzi,38
+Johnson,Sussex Community Hall 9-12,U.S. Senate,,DEM,Corcoran,3
+Johnson,Sussex Community Hall 9-12,U.S. House,,REP,Cubin,39
+Johnson,Sussex Community Hall 9-12,U.S. House,,DEM,Akin,1
+Johnson,Sussex Community Hall 9-12,U.S. House,,DEM,Swett,2
+Johnson,Sussex Community Hall 9-12,Governor,,REP,Bebout,30
+Johnson,Sussex Community Hall 9-12,Governor,,REP,Hunkins,11
+Johnson,Sussex Community Hall 9-12,Governor,,REP,Self,1
+Johnson,Sussex Community Hall 9-12,Governor,,REP,Sniffin,0
+Johnson,Sussex Community Hall 9-12,Governor,,REP,Watt,1
+Johnson,Sussex Community Hall 9-12,Governor,,DEM,Casner,0
+Johnson,Sussex Community Hall 9-12,Governor,,DEM,Freudenthal,3
+Johnson,Sussex Community Hall 9-12,Governor,,DEM,Hickey,1
+Johnson,Sussex Community Hall 9-12,Governor,,DEM,Simpson,0
+Johnson,Sussex Community Hall 9-12,Secretary of State,,REP,Meyer,39
+Johnson,Sussex Community Hall 9-12,Secretary of State,,DEM,Fagan,4
+Johnson,Sussex Community Hall 9-12,State Auditor,,REP,Maxfield,39
+Johnson,Sussex Community Hall 9-12,State Auditor,,DEM,Emmons,3
+Johnson,Sussex Community Hall 9-12,State Auditor,,DEM,Harris,4
+Johnson,Sussex Community Hall 9-12,State Treasurer,,REP,Lummis,39
+Johnson,Sussex Community Hall 9-12,Superintendent of Public Instruction,,REP,Blankenship,5
+Johnson,Sussex Community Hall 9-12,Superintendent of Public Instruction,,REP,Mingle,6
+Johnson,Sussex Community Hall 9-12,Superintendent of Public Instruction,,REP,Twiford,21
+Johnson,Sussex Community Hall 9-12,Superintendent of Public Instruction,,REP,Waring,7
+Johnson,Sussex Community Hall 9-12,Superintendent of Public Instruction,,DEM,Shoults,1
+Johnson,Sussex Community Hall 9-12,Superintendent of Public Instruction,,DEM,Wiederspahn,0
+Johnson,Sussex Community Hall 9-12,State House,40,REP,Osborn,39
+Johnson,Sussex Community Hall 9-12,Ballots Cast,,REP,Ballots Cast,44
+Johnson,Sussex Community Hall 9-12,Ballots Cast,,DEM,Ballots Cast,4
+Johnson,Tipperary 10-15,U.S. Senate,,REP,Allen,1
+Johnson,Tipperary 10-15,U.S. Senate,,REP,Enzi,45
+Johnson,Tipperary 10-15,U.S. Senate,,DEM,Corcoran,0
+Johnson,Tipperary 10-15,U.S. House,,REP,Cubin,43
+Johnson,Tipperary 10-15,U.S. House,,DEM,Akin,0
+Johnson,Tipperary 10-15,U.S. House,,DEM,Swett,0
+Johnson,Tipperary 10-15,Governor,,REP,Bebout,22
+Johnson,Tipperary 10-15,Governor,,REP,Hunkins,20
+Johnson,Tipperary 10-15,Governor,,REP,Self,0
+Johnson,Tipperary 10-15,Governor,,REP,Sniffin,3
+Johnson,Tipperary 10-15,Governor,,REP,Watt,1
+Johnson,Tipperary 10-15,Governor,,DEM,Casner,0
+Johnson,Tipperary 10-15,Governor,,DEM,Freudenthal,0
+Johnson,Tipperary 10-15,Governor,,DEM,Hickey,0
+Johnson,Tipperary 10-15,Governor,,DEM,Simpson,0
+Johnson,Tipperary 10-15,Secretary of State,,REP,Meyer,43
+Johnson,Tipperary 10-15,Secretary of State,,DEM,Fagan,0
+Johnson,Tipperary 10-15,State Auditor,,REP,Maxfield,43
+Johnson,Tipperary 10-15,State Auditor,,DEM,Emmons,0
+Johnson,Tipperary 10-15,State Auditor,,DEM,Harris,0
+Johnson,Tipperary 10-15,State Treasurer,,REP,Lummis,45
+Johnson,Tipperary 10-15,Superintendent of Public Instruction,,REP,Blankenship,10
+Johnson,Tipperary 10-15,Superintendent of Public Instruction,,REP,Mingle,3
+Johnson,Tipperary 10-15,Superintendent of Public Instruction,,REP,Twiford,14
+Johnson,Tipperary 10-15,Superintendent of Public Instruction,,REP,Waring,16
+Johnson,Tipperary 10-15,Superintendent of Public Instruction,,DEM,Shoults,0
+Johnson,Tipperary 10-15,Superintendent of Public Instruction,,DEM,Wiederspahn,0
+Johnson,Tipperary 10-15,State House,40,REP,Osborn,43
+Johnson,Tipperary 10-15,Ballots Cast,,REP,Ballots Cast,46
+Johnson,Tipperary 10-15,Ballots Cast,,DEM,Ballots Cast,0
+Johnson,West Buffalo 3-8,U.S. Senate,,REP,Allen,24
+Johnson,West Buffalo 3-8,U.S. Senate,,REP,Enzi,133
+Johnson,West Buffalo 3-8,U.S. Senate,,DEM,Corcoran,11
+Johnson,West Buffalo 3-8,U.S. House,,REP,Cubin,128
+Johnson,West Buffalo 3-8,U.S. House,,DEM,Akin,8
+Johnson,West Buffalo 3-8,U.S. House,,DEM,Swett,5
+Johnson,West Buffalo 3-8,Governor,,REP,Bebout,77
+Johnson,West Buffalo 3-8,Governor,,REP,Hunkins,38
+Johnson,West Buffalo 3-8,Governor,,REP,Self,5
+Johnson,West Buffalo 3-8,Governor,,REP,Sniffin,32
+Johnson,West Buffalo 3-8,Governor,,REP,Watt,13
+Johnson,West Buffalo 3-8,Governor,,DEM,Casner,1
+Johnson,West Buffalo 3-8,Governor,,DEM,Freudenthal,9
+Johnson,West Buffalo 3-8,Governor,,DEM,Hickey,1
+Johnson,West Buffalo 3-8,Governor,,DEM,Simpson,3
+Johnson,West Buffalo 3-8,Secretary of State,,REP,Meyer,137
+Johnson,West Buffalo 3-8,Secretary of State,,DEM,Fagan,13
+Johnson,West Buffalo 3-8,State Auditor,,REP,Maxfield,143
+Johnson,West Buffalo 3-8,State Auditor,,DEM,Emmons,8
+Johnson,West Buffalo 3-8,State Auditor,,DEM,Harris,12
+Johnson,West Buffalo 3-8,State Treasurer,,REP,Lummis,142
+Johnson,West Buffalo 3-8,Superintendent of Public Instruction,,REP,Blankenship,30
+Johnson,West Buffalo 3-8,Superintendent of Public Instruction,,REP,Mingle,16
+Johnson,West Buffalo 3-8,Superintendent of Public Instruction,,REP,Twiford,62
+Johnson,West Buffalo 3-8,Superintendent of Public Instruction,,REP,Waring,26
+Johnson,West Buffalo 3-8,Superintendent of Public Instruction,,DEM,Shoults,2
+Johnson,West Buffalo 3-8,Superintendent of Public Instruction,,DEM,Wiederspahn,6
+Johnson,West Buffalo 3-8,State House,40,REP,Osborn,129
+Johnson,West Buffalo 3-8,Ballots Cast,,REP,Ballots Cast,170
+Johnson,West Buffalo 3-8,Ballots Cast,,DEM,Ballots Cast,12
+Johnson,West Central Buffalo 3-2,U.S. Senate,,REP,Allen,30
+Johnson,West Central Buffalo 3-2,U.S. Senate,,REP,Enzi,130
+Johnson,West Central Buffalo 3-2,U.S. Senate,,DEM,Corcoran,15
+Johnson,West Central Buffalo 3-2,U.S. House,,REP,Cubin,132
+Johnson,West Central Buffalo 3-2,U.S. House,,DEM,Akin,7
+Johnson,West Central Buffalo 3-2,U.S. House,,DEM,Swett,6
+Johnson,West Central Buffalo 3-2,Governor,,REP,Bebout,66
+Johnson,West Central Buffalo 3-2,Governor,,REP,Hunkins,61
+Johnson,West Central Buffalo 3-2,Governor,,REP,Self,2
+Johnson,West Central Buffalo 3-2,Governor,,REP,Sniffin,30
+Johnson,West Central Buffalo 3-2,Governor,,REP,Watt,5
+Johnson,West Central Buffalo 3-2,Governor,,DEM,Casner,0
+Johnson,West Central Buffalo 3-2,Governor,,DEM,Freudenthal,12
+Johnson,West Central Buffalo 3-2,Governor,,DEM,Hickey,6
+Johnson,West Central Buffalo 3-2,Governor,,DEM,Simpson,0
+Johnson,West Central Buffalo 3-2,Secretary of State,,REP,Meyer,141
+Johnson,West Central Buffalo 3-2,Secretary of State,,DEM,Fagan,16
+Johnson,West Central Buffalo 3-2,State Auditor,,REP,Maxfield,139
+Johnson,West Central Buffalo 3-2,State Auditor,,DEM,Emmons,12
+Johnson,West Central Buffalo 3-2,State Auditor,,DEM,Harris,16
+Johnson,West Central Buffalo 3-2,State Treasurer,,REP,Lummis,136
+Johnson,West Central Buffalo 3-2,Superintendent of Public Instruction,,REP,Blankenship,43
+Johnson,West Central Buffalo 3-2,Superintendent of Public Instruction,,REP,Mingle,13
+Johnson,West Central Buffalo 3-2,Superintendent of Public Instruction,,REP,Twiford,59
+Johnson,West Central Buffalo 3-2,Superintendent of Public Instruction,,REP,Waring,24
+Johnson,West Central Buffalo 3-2,Superintendent of Public Instruction,,DEM,Shoults,2
+Johnson,West Central Buffalo 3-2,Superintendent of Public Instruction,,DEM,Wiederspahn,2
+Johnson,West Central Buffalo 3-2,State House,40,REP,Osborn,127
+Johnson,West Central Buffalo 3-2,Ballots Cast,,REP,Ballots Cast,176
+Johnson,West Central Buffalo 3-2,Ballots Cast,,DEM,Ballots Cast,14
