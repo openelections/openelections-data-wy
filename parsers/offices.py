@@ -132,10 +132,11 @@ OFFICE_PATTERNS = [
 SENATE_DISTRICT_RE = re.compile(r"sen(?:ate)?\s*(?:district)?\s*(\d+)", re.I)
 HOUSE_DISTRICT_RE = re.compile(r"house\s*(?:district)?\s*(\d+)", re.I)
 # Some sheets label legislative races as "State Senate District 10" or "Senate District 10" or "Sen 10".
+# Allow trailing content (e.g. "(Unexpired Term: 2 years)") after the district number.
 LEG_SENATE_RE = re.compile(r"^state\s+sen(?:ate)?(\s+district\s*\d+)?", re.I)
 LEG_HOUSE_RE = re.compile(r"^state\s+house(\s+district\s*\d+)?", re.I)
-SEN_DISTRICT_ONLY_RE = re.compile(r"^sen(?:ate)?\s+(?:district\s*)?(\d+)$", re.I)
-HOUSE_DISTRICT_ONLY_RE = re.compile(r"^house\s+(?:district\s*)?(\d+)$", re.I)
+SEN_DISTRICT_ONLY_RE = re.compile(r"^sen(?:ate)?\s+(?:district\s*)?(\d+)\b", re.I)
+HOUSE_DISTRICT_ONLY_RE = re.compile(r"^house\s+(?:district\s*)?(\d+)\b", re.I)
 
 
 def normalize_office(raw: str) -> tuple[str, str]:
@@ -145,8 +146,10 @@ def normalize_office(raw: str) -> tuple[str, str]:
     s = re.sub(r"\s+", " ", raw).strip()
     if not s:
         return "", ""
-    # Unexpired U.S. Senate term (2008).
-    if "unexpired" in s.lower() and "sen" in s.lower():
+    sl = s.lower()
+    # Unexpired U.S. Senate term (2008). Must be U.S. Senate (not State Senate
+    # District N (Unexpired Term: M years), which is a State Senate race).
+    if "unexpired" in sl and ("united states sen" in sl or "u.s. sen" in sl or "u s sen" in sl):
         return US_SENATE_UNEXPIRED, ""
     # State legislative.
     m = SENATE_DISTRICT_RE.search(s)

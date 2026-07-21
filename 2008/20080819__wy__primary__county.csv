@@ -2,51 +2,24 @@ county,office,district,party,candidate,votes
 Albany,U.S. Senate,,REP,Mike Enzi,2308
 Albany,U.S. Senate,,DEM,Al Hamburg,502
 Albany,U.S. Senate,,DEM,Chris Rothfuss,1299
-Albany,U.S. Senate,,,Write-ins,37
-Albany,U.S. Senate,,,Over Votes,1
-Albany,U.S. Senate,,,Under Votes,397
 Albany,U.S. Senate (Unexpired Term),,REP,John Barrasso,2257
 Albany,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,828
 Albany,U.S. Senate (Unexpired Term),,DEM,Nick Carter,1063
-Albany,U.S. Senate (Unexpired Term),,,Write-ins,38
-Albany,U.S. Senate (Unexpired Term),,,Over Votes,3
-Albany,U.S. Senate (Unexpired Term),,,Under Votes,355
 Albany,U.S. House,,REP,Bill Winney,196
 Albany,U.S. House,,REP,Cynthia M. Lummis,1280
 Albany,U.S. House,,REP,Mark Gordon,773
 Albany,U.S. House,,REP,Michael S. Holland,141
 Albany,U.S. House,,DEM,Gary Trauner,1946
 Albany,U.S. House,,LIB,W. David Herbert,13
-Albany,U.S. House,,,Write-ins,14
-Albany,U.S. House,,,Over Votes,13
-Albany,U.S. House,,,Under Votes,168
 Albany,State Senate,10,REP,Phil Nicholas,1383
-Albany,State Senate,10,,Write-ins,121
-Albany,State Senate,10,,Over Votes,1
-Albany,State Senate,10,,Under Votes,1208
 Albany,State House,13,REP,Ember Oakley,319
 Albany,State House,13,DEM,Cathy Connolly,461
-Albany,State House,13,,Write-ins,9
-Albany,State House,13,,Over Votes,0
-Albany,State House,13,,Under Votes,124
 Albany,State House,14,REP,Kermit C. Brown,558
 Albany,State House,14,DEM,Pat Kiovsky,334
-Albany,State House,14,,Write-ins,9
-Albany,State House,14,,Over Votes,0
-Albany,State House,14,,Under Votes,166
 Albany,State House,45,DEM,Seth Carson,343
-Albany,State House,45,,Write-ins,103
-Albany,State House,45,,Over Votes,0
-Albany,State House,45,,Under Votes,414
 Albany,State House,46,DEM,Jan Alvaney,344
 Albany,State House,46,DEM,Jim Thompson,348
-Albany,State House,46,,Write-ins,154
-Albany,State House,46,,Over Votes,0
-Albany,State House,46,,Under Votes,368
 Albany,State House,47,REP,"William ""Jeb"" Steward",39
-Albany,State House,47,,Write-ins,2
-Albany,State House,47,,Over Votes,0
-Albany,State House,47,,Under Votes,17
 Albany,Ballots Cast,,REP,Ballots Cast,2459
 Albany,Ballots Cast,,DEM,Ballots Cast,2067
 Albany,Ballots Cast,,LIB,Ballots Cast,18
@@ -55,36 +28,18 @@ Albany,Ballots Cast,,,Ballots Cast,4735
 Big Horn,U.S. Senate,,REP,Mike Enzi,2286
 Big Horn,U.S. Senate,,DEM,Al Hamburg,110
 Big Horn,U.S. Senate,,DEM,Chris Rothfuss,151
-Big Horn,U.S. Senate,,,Write-ins,14
-Big Horn,U.S. Senate,,,Over Votes,1
-Big Horn,U.S. Senate,,,Under Votes,195
 Big Horn,U.S. Senate (Unexpired Term),,REP,John Barrasso,2270
 Big Horn,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,159
 Big Horn,U.S. Senate (Unexpired Term),,DEM,Nick Carter,113
-Big Horn,U.S. Senate (Unexpired Term),,,Write-ins,10
-Big Horn,U.S. Senate (Unexpired Term),,,Over Votes,0
-Big Horn,U.S. Senate (Unexpired Term),,,Under Votes,205
 Big Horn,U.S. House,,REP,Bill Winney,237
 Big Horn,U.S. House,,REP,Cynthia M. Lummis,1122
 Big Horn,U.S. House,,REP,Mark Gordon,900
 Big Horn,U.S. House,,REP,Michael S. Holland,107
 Big Horn,U.S. House,,DEM,Gary Trauner,269
 Big Horn,U.S. House,,LIB,W. David Herbert,5
-Big Horn,U.S. House,,,Write-ins,2
-Big Horn,U.S. House,,,Over Votes,5
-Big Horn,U.S. House,,,Under Votes,110
 Big Horn,State Senate,20,REP,Gerald E. Geis,678
-Big Horn,State Senate,20,,Write-ins,16
-Big Horn,State Senate,20,,Over Votes,0
-Big Horn,State Senate,20,,Under Votes,125
 Big Horn,State House,26,REP,Elaine D. Harvey,1463
-Big Horn,State House,26,,Write-ins,51
-Big Horn,State House,26,,Over Votes,0
-Big Horn,State House,26,,Under Votes,424
 Big Horn,State House,28,REP,Lorraine Quarberg,679
-Big Horn,State House,28,,Write-ins,8
-Big Horn,State House,28,,Over Votes,0
-Big Horn,State House,28,,Under Votes,88
 Big Horn,Ballots Cast,,REP,Ballots Cast,2460
 Big Horn,Ballots Cast,,DEM,Ballots Cast,291
 Big Horn,Ballots Cast,,LIB,Ballots Cast,6
@@ -93,75 +48,36 @@ Big Horn,Ballots Cast,,,Ballots Cast,2817
 Campbell,U.S. Senate,,REP,Mike Enzi,4863
 Campbell,U.S. Senate,,DEM,Al Hamburg,165
 Campbell,U.S. Senate,,DEM,Chris Rothfuss,287
-Campbell,U.S. Senate,,,Write-ins,39
-Campbell,U.S. Senate,,,Over Votes,0
-Campbell,U.S. Senate,,,Under Votes,330
 Campbell,U.S. Senate (Unexpired Term),,REP,John Barrasso,4576
 Campbell,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,155
 Campbell,U.S. Senate (Unexpired Term),,DEM,Nick Carter,352
-Campbell,U.S. Senate (Unexpired Term),,,Write-ins,57
-Campbell,U.S. Senate (Unexpired Term),,,Over Votes,0
-Campbell,U.S. Senate (Unexpired Term),,,Under Votes,544
 Campbell,U.S. House,,REP,Bill Winney,421
 Campbell,U.S. House,,REP,Cynthia M. Lummis,2914
 Campbell,U.S. House,,REP,Mark Gordon,1154
 Campbell,U.S. House,,REP,Michael S. Holland,345
 Campbell,U.S. House,,DEM,Gary Trauner,482
 Campbell,U.S. House,,LIB,W. David Herbert,7
-Campbell,U.S. House,,,Write-ins,12
-Campbell,U.S. House,,,Over Votes,54
-Campbell,U.S. House,,,Under Votes,295
 Campbell,State Senate,24,REP,Michael Von Flatern,1921
-Campbell,State Senate,24,,Write-ins,26
-Campbell,State Senate,24,,Over Votes,0
-Campbell,State Senate,24,,Under Votes,552
 Campbell,State House,31,REP,Tom Lubnau II,1399
 Campbell,State House,31,DEM,Billy Montgomery,121
-Campbell,State House,31,,Write-ins,17
-Campbell,State House,31,,Over Votes,0
-Campbell,State House,31,,Under Votes,213
 Campbell,State House,32,REP,Timothy P. Hallinan,1023
 Campbell,State House,32,DEM,Duffy Jenniges,97
-Campbell,State House,32,,Write-ins,15
-Campbell,State House,32,,Over Votes,0
-Campbell,State House,32,,Under Votes,225
 Campbell,State House,52,REP,Sue Wallis,1111
-Campbell,State House,52,,Write-ins,18
-Campbell,State House,52,,Over Votes,0
-Campbell,State House,52,,Under Votes,306
 Campbell,State House,53,REP,Erin E. Mercer,839
-Campbell,State House,53,,Write-ins,13
-Campbell,State House,53,,Over Votes,1
-Campbell,State House,53,,Under Votes,286
 Carbon,U.S. Senate,,REP,Mike Enzi,1746
 Carbon,U.S. Senate,,DEM,Al Hamburg,432
 Carbon,U.S. Senate,,DEM,Chris Rothfuss,504
-Carbon,U.S. Senate,,,Write-ins,13
-Carbon,U.S. Senate,,,Over Votes,2
-Carbon,U.S. Senate,,,Under Votes,327
 Carbon,U.S. Senate (Unexpired Term),,REP,John Barrasso,1748
 Carbon,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,531
 Carbon,U.S. Senate (Unexpired Term),,DEM,Nick Carter,458
-Carbon,U.S. Senate (Unexpired Term),,,Write-ins,12
-Carbon,U.S. Senate (Unexpired Term),,,Over Votes,0
-Carbon,U.S. Senate (Unexpired Term),,,Under Votes,275
 Carbon,U.S. House,,REP,Bill Winney,164
 Carbon,U.S. House,,REP,Cynthia M. Lummis,855
 Carbon,U.S. House,,REP,Mark Gordon,679
 Carbon,U.S. House,,REP,Michael S. Holland,78
 Carbon,U.S. House,,DEM,Gary Trauner,1006
 Carbon,U.S. House,,LIB,W. David Herbert,2
-Carbon,U.S. House,,,Write-ins,8
-Carbon,U.S. House,,,Over Votes,4
-Carbon,U.S. House,,,Under Votes,228
 Carbon,State House,15,DEM,George W. Bagby,593
-Carbon,State House,15,,Write-ins,28
-Carbon,State House,15,,Over Votes,0
-Carbon,State House,15,,Under Votes,702
 Carbon,State House,47,REP,"William ""Jeb"" Steward",1060
-Carbon,State House,47,,Write-ins,33
-Carbon,State House,47,,Over Votes,0
-Carbon,State House,47,,Under Votes,608
 Carbon,Ballots Cast,,REP,Ballots Cast,1881
 Carbon,Ballots Cast,,DEM,Ballots Cast,1139
 Carbon,Ballots Cast,,LIB,Ballots Cast,4
@@ -170,47 +86,26 @@ Carbon,Ballots Cast,,,Ballots Cast,3193
 Converse,U.S. Senate,,REP,Mike Enzi,2612
 Converse,U.S. Senate,,DEM,Al Hamburg,149
 Converse,U.S. Senate,,DEM,Chris Rothfuss,286
-Converse,U.S. Senate,,,Write-ins,21
-Converse,U.S. Senate,,,Over Votes,3
-Converse,U.S. Senate,,,Under Votes,271
 Converse,U.S. Senate (Unexpired Term),,REP,John Barrasso,2638
 Converse,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,273
 Converse,U.S. Senate (Unexpired Term),,DEM,Nick Carter,186
-Converse,U.S. Senate (Unexpired Term),,,Write-ins,17
-Converse,U.S. Senate (Unexpired Term),,,Over Votes,0
-Converse,U.S. Senate (Unexpired Term),,,Under Votes,228
 Converse,U.S. House,,REP,Bill Winney,402
 Converse,U.S. House,,REP,Cynthia M. Lummis,1241
 Converse,U.S. House,,REP,Mark Gordon,929
 Converse,U.S. House,,REP,Michael S. Holland,105
 Converse,U.S. House,,DEM,Gary Trauner,458
 Converse,U.S. House,,LIB,W. David Herbert,7
-Converse,U.S. House,,,Write-ins,7
-Converse,U.S. House,,,Over Votes,23
-Converse,U.S. House,,,Under Votes,170
 Converse,State Senate,2,REP,Jim Anderson,2351
 Converse,State Senate,2,DEM,"Jason ""Jay"" Wright",402
-Converse,State Senate,2,,Write-ins,34
-Converse,State Senate,2,,Over Votes,0
-Converse,State Senate,2,,Under Votes,342
 Converse,State House,2,DEM,Ross Diercks,18
-Converse,State House,2,,Write-ins,7
-Converse,State House,2,,Over Votes,0
-Converse,State House,2,,Under Votes,188
 Converse,State House,3,REP,Frank Peasley,594
 Converse,State House,3,REP,Kirby Wilson,80
 Converse,State House,3,REP,Randy Stevenson,104
 Converse,State House,3,DEM,Laurell Marker,41
 Converse,State House,3,DEM,Terry R. Jones,91
-Converse,State House,3,,Write-ins,4
-Converse,State House,3,,Over Votes,1
-Converse,State House,3,,Under Votes,62
 Converse,State House,6,REP,Mark Cash,682
 Converse,State House,6,REP,Richard Cannady,881
 Converse,State House,6,DEM,Chase Anfinson,275
-Converse,State House,6,,Write-ins,49
-Converse,State House,6,,Over Votes,1
-Converse,State House,6,,Under Votes,264
 Converse,Ballots Cast,,REP,Ballots Cast,2841
 Converse,Ballots Cast,,DEM,Ballots Cast,493
 Converse,Ballots Cast,,LIB,Ballots Cast,8
@@ -219,28 +114,16 @@ Converse,Ballots Cast,,,Ballots Cast,3390
 Crook,U.S. Senate,,REP,Mike Enzi,1498
 Crook,U.S. Senate,,DEM,Al Hamburg,68
 Crook,U.S. Senate,,DEM,Chris Rothfuss,70
-Crook,U.S. Senate,,,Write-ins,7
-Crook,U.S. Senate,,,Over Votes,0
-Crook,U.S. Senate,,,Under Votes,142
 Crook,U.S. Senate (Unexpired Term),,REP,John Barrasso,1454
 Crook,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,71
 Crook,U.S. Senate (Unexpired Term),,DEM,Nick Carter,77
-Crook,U.S. Senate (Unexpired Term),,,Write-ins,4
-Crook,U.S. Senate (Unexpired Term),,,Over Votes,0
-Crook,U.S. Senate (Unexpired Term),,,Under Votes,179
 Crook,U.S. House,,REP,Bill Winney,138
 Crook,U.S. House,,REP,Cynthia M. Lummis,637
 Crook,U.S. House,,REP,Mark Gordon,686
 Crook,U.S. House,,REP,Michael S. Holland,68
 Crook,U.S. House,,DEM,Gary Trauner,145
 Crook,U.S. House,,LIB,W. David Herbert,10
-Crook,U.S. House,,,Write-ins,3
-Crook,U.S. House,,,Over Votes,9
-Crook,U.S. House,,,Under Votes,89
 Crook,State House,1,REP,Mark A. Semlek,1441
-Crook,State House,1,,Write-ins,26
-Crook,State House,1,,Over Votes,0
-Crook,State House,1,,Under Votes,318
 Crook,Ballots Cast,,REP,Ballots Cast,1606
 Crook,Ballots Cast,,DEM,Ballots Cast,168
 Crook,Ballots Cast,,LIB,Ballots Cast,11
@@ -249,62 +132,29 @@ Crook,Ballots Cast,,,Ballots Cast,1807
 Fremont,U.S. Senate,,REP,Mike Enzi,5539
 Fremont,U.S. Senate,,DEM,Al Hamburg,668
 Fremont,U.S. Senate,,DEM,Chris Rothfuss,970
-Fremont,U.S. Senate,,,Write-ins,55
-Fremont,U.S. Senate,,,Over Votes,2
-Fremont,U.S. Senate,,,Under Votes,819
 Fremont,U.S. Senate (Unexpired Term),,REP,John Barrasso,5527
 Fremont,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,1014
 Fremont,U.S. Senate (Unexpired Term),,DEM,Nick Carter,728
-Fremont,U.S. Senate (Unexpired Term),,,Write-ins,53
-Fremont,U.S. Senate (Unexpired Term),,,Over Votes,1
-Fremont,U.S. Senate (Unexpired Term),,,Under Votes,730
 Fremont,U.S. House,,REP,Bill Winney,671
 Fremont,U.S. House,,REP,Cynthia M. Lummis,2783
 Fremont,U.S. House,,REP,Mark Gordon,2110
 Fremont,U.S. House,,REP,Michael S. Holland,263
 Fremont,U.S. House,,DEM,Gary Trauner,1733
 Fremont,U.S. House,,LIB,W. David Herbert,13
-Fremont,U.S. House,,,Write-ins,23
-Fremont,U.S. House,,,Over Votes,40
-Fremont,U.S. House,,,Under Votes,417
 Fremont,State Senate,12,DEM,Marty Martin,9
-Fremont,State Senate,12,,Write-ins,1
-Fremont,State Senate,12,,Over Votes,0
-Fremont,State Senate,12,,Under Votes,23
 Fremont,State Senate,26,REP,Eli D. Bebout,2979
-Fremont,State Senate,26,,Write-ins,51
-Fremont,State Senate,26,,Over Votes,1
-Fremont,State Senate,26,,Under Votes,994
 Fremont,State House,23,REP,Keith Gingery,380
-Fremont,State House,23,,Write-ins,3
-Fremont,State House,23,,Over Votes,0
-Fremont,State House,23,,Under Votes,107
 Fremont,State House,33,REP,Joe Malek,544
 Fremont,State House,33,DEM,W. Patrick Goggles,367
-Fremont,State House,33,,Write-ins,28
-Fremont,State House,33,,Over Votes,0
-Fremont,State House,33,,Under Votes,236
 Fremont,State House,34,REP,Frank Philp,1490
 Fremont,State House,34,LIB,"Richard ""Bru"" Brubaker",7
-Fremont,State House,34,,Write-ins,22
-Fremont,State House,34,,Over Votes,1
-Fremont,State House,34,,Under Votes,500
 Fremont,State House,48,DEM,Joseph M. Barbuto,2
 Fremont,State House,48,DEM,Tony Herrera,7
-Fremont,State House,48,,Write-ins,1
-Fremont,State House,48,,Over Votes,0
-Fremont,State House,48,,Under Votes,23
 Fremont,State House,54,REP,Del McOmie,1418
 Fremont,State House,54,DEM,David M. Neary,555
-Fremont,State House,54,,Write-ins,28
-Fremont,State House,54,,Over Votes,1
-Fremont,State House,54,,Under Votes,328
 Fremont,State House,55,REP,David R. Miller,826
 Fremont,State House,55,REP,Larry Bauman,289
 Fremont,State House,55,REP,William J. Russell,401
-Fremont,State House,55,,Write-ins,11
-Fremont,State House,55,,Over Votes,1
-Fremont,State House,55,,Under Votes,477
 Fremont,Ballots Cast,,REP,Ballots Cast,6100
 Fremont,Ballots Cast,,DEM,Ballots Cast,1939
 Fremont,Ballots Cast,,LIB,Ballots Cast,14
@@ -313,37 +163,19 @@ Fremont,Ballots Cast,,,Ballots Cast,8174
 Goshen,U.S. Senate,,REP,Mike Enzi,1569
 Goshen,U.S. Senate,,DEM,Al Hamburg,87
 Goshen,U.S. Senate,,DEM,Chris Rothfuss,378
-Goshen,U.S. Senate,,,Write-ins,6
-Goshen,U.S. Senate,,,Over Votes,0
-Goshen,U.S. Senate,,,Under Votes,169
 Goshen,U.S. Senate (Unexpired Term),,REP,John Barrasso,1614
 Goshen,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,260
 Goshen,U.S. Senate (Unexpired Term),,DEM,Nick Carter,213
-Goshen,U.S. Senate (Unexpired Term),,,Write-ins,2
-Goshen,U.S. Senate (Unexpired Term),,,Over Votes,0
-Goshen,U.S. Senate (Unexpired Term),,,Under Votes,120
 Goshen,U.S. House,,REP,Bill Winney,311
 Goshen,U.S. House,,REP,Cynthia M. Lummis,728
 Goshen,U.S. House,,REP,Mark Gordon,589
 Goshen,U.S. House,,REP,Michael S. Holland,40
 Goshen,U.S. House,,DEM,Gary Trauner,442
 Goshen,U.S. House,,LIB,W. David Herbert,2
-Goshen,U.S. House,,,Write-ins,1
-Goshen,U.S. House,,,Over Votes,2
-Goshen,U.S. House,,,Under Votes,94
 Goshen,State House,2,DEM,Ross Diercks,6
-Goshen,State House,2,,Write-ins,0
-Goshen,State House,2,,Over Votes,0
-Goshen,State House,2,,Under Votes,63
 Goshen,State House,4,REP,Edward Buchanan,982
-Goshen,State House,4,,Write-ins,16
-Goshen,State House,4,,Over Votes,0
-Goshen,State House,4,,Under Votes,369
 Goshen,State House,5,REP,Matt Teeters,530
 Goshen,State House,5,DEM,Russell Johnson,183
-Goshen,State House,5,,Write-ins,3
-Goshen,State House,5,,Over Votes,0
-Goshen,State House,5,,Under Votes,57
 Goshen,Ballots Cast,,REP,Ballots Cast,1699
 Goshen,Ballots Cast,,DEM,Ballots Cast,506
 Goshen,Ballots Cast,,LIB,Ballots Cast,4
@@ -352,32 +184,17 @@ Goshen,Ballots Cast,,,Ballots Cast,2223
 Hot Springs,U.S. Senate,,REP,Mike Enzi,1149
 Hot Springs,U.S. Senate,,DEM,Al Hamburg,83
 Hot Springs,U.S. Senate,,DEM,Chris Rothfuss,102
-Hot Springs,U.S. Senate,,,Write-ins,8
-Hot Springs,U.S. Senate,,,Over Votes,0
-Hot Springs,U.S. Senate,,,Under Votes,154
 Hot Springs,U.S. Senate (Unexpired Term),,REP,John Barrasso,1181
 Hot Springs,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,107
 Hot Springs,U.S. Senate (Unexpired Term),,DEM,Nick Carter,83
-Hot Springs,U.S. Senate (Unexpired Term),,,Write-ins,10
-Hot Springs,U.S. Senate (Unexpired Term),,,Over Votes,0
-Hot Springs,U.S. Senate (Unexpired Term),,,Under Votes,115
 Hot Springs,U.S. House,,REP,Bill Winney,141
 Hot Springs,U.S. House,,REP,Cynthia M. Lummis,508
 Hot Springs,U.S. House,,REP,Mark Gordon,520
 Hot Springs,U.S. House,,REP,Michael S. Holland,49
 Hot Springs,U.S. House,,DEM,Gary Trauner,200
 Hot Springs,U.S. House,,LIB,W. David Herbert,1
-Hot Springs,U.S. House,,,Write-ins,6
-Hot Springs,U.S. House,,,Over Votes,8
-Hot Springs,U.S. House,,,Under Votes,63
 Hot Springs,State Senate,20,REP,Gerald E. Geis,1123
-Hot Springs,State Senate,20,,Write-ins,7
-Hot Springs,State Senate,20,,Over Votes,0
-Hot Springs,State Senate,20,,Under Votes,366
 Hot Springs,State House,28,REP,Lorraine Quarberg,917
-Hot Springs,State House,28,,Write-ins,64
-Hot Springs,State House,28,,Over Votes,0
-Hot Springs,State House,28,,Under Votes,405
 Hot Springs,Ballots Cast,,REP,Ballots Cast,1276
 Hot Springs,Ballots Cast,,DEM,Ballots Cast,218
 Hot Springs,Ballots Cast,,LIB,Ballots Cast,2
@@ -386,33 +203,18 @@ Hot Springs,Ballots Cast,,,Ballots Cast,1514
 Johnson,U.S. Senate,,REP,Mike Enzi,1870
 Johnson,U.S. Senate,,DEM,Al Hamburg,47
 Johnson,U.S. Senate,,DEM,Chris Rothfuss,85
-Johnson,U.S. Senate,,,Write-ins,13
-Johnson,U.S. Senate,,,Over Votes,0
-Johnson,U.S. Senate,,,Under Votes,150
 Johnson,U.S. Senate (Unexpired Term),,REP,John Barrasso,1846
 Johnson,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,75
 Johnson,U.S. Senate (Unexpired Term),,DEM,Nick Carter,68
-Johnson,U.S. Senate (Unexpired Term),,,Write-ins,14
-Johnson,U.S. Senate (Unexpired Term),,,Over Votes,0
-Johnson,U.S. Senate (Unexpired Term),,,Under Votes,162
 Johnson,U.S. House,,REP,Bill Winney,113
 Johnson,U.S. House,,REP,Cynthia M. Lummis,655
 Johnson,U.S. House,,REP,Mark Gordon,1173
 Johnson,U.S. House,,REP,Michael S. Holland,25
 Johnson,U.S. House,,DEM,Gary Trauner,143
 Johnson,U.S. House,,LIB,W. David Herbert,3
-Johnson,U.S. House,,,Write-ins,11
-Johnson,U.S. House,,,Over Votes,15
-Johnson,U.S. House,,,Under Votes,27
 Johnson,State Senate,22,REP,Al Snell,310
 Johnson,State Senate,22,REP,John Schiffer,1581
-Johnson,State Senate,22,,Write-ins,10
-Johnson,State Senate,22,,Over Votes,0
-Johnson,State Senate,22,,Under Votes,264
 Johnson,State House,40,REP,Mike Madden,1735
-Johnson,State House,40,,Write-ins,28
-Johnson,State House,40,,Over Votes,0
-Johnson,State House,40,,Under Votes,402
 Johnson,Ballots Cast,,REP,Ballots Cast,2003
 Johnson,Ballots Cast,,DEM,Ballots Cast,156
 Johnson,Ballots Cast,,LIB,Ballots Cast,6
@@ -421,94 +223,46 @@ Johnson,Ballots Cast,,,Ballots Cast,2189
 Laramie,U.S. Senate,,REP,Mike Enzi,9847
 Laramie,U.S. Senate,,DEM,Al Hamburg,1831
 Laramie,U.S. Senate,,DEM,Chris Rothfuss,3009
-Laramie,U.S. Senate,,,Write-ins,109
-Laramie,U.S. Senate,,,Over Votes,0
-Laramie,U.S. Senate,,,Under Votes,1616
 Laramie,U.S. Senate (Unexpired Term),,REP,John Barrasso,9528
 Laramie,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,2183
 Laramie,U.S. Senate (Unexpired Term),,DEM,Nick Carter,3019
-Laramie,U.S. Senate (Unexpired Term),,,Write-ins,119
-Laramie,U.S. Senate (Unexpired Term),,,Over Votes,0
-Laramie,U.S. Senate (Unexpired Term),,,Under Votes,1563
 Laramie,U.S. House,,REP,Bill Winney,1651
 Laramie,U.S. House,,REP,Cynthia M. Lummis,5038
 Laramie,U.S. House,,REP,Mark Gordon,3406
 Laramie,U.S. House,,REP,Michael S. Holland,288
 Laramie,U.S. House,,DEM,Gary Trauner,5240
 Laramie,U.S. House,,LIB,W. David Herbert,25
-Laramie,U.S. House,,,Write-ins,49
-Laramie,U.S. House,,,Over Votes,14
-Laramie,U.S. House,,,Under Votes,701
 Laramie,State Senate,4,REP,Tony Ross,2723
-Laramie,State Senate,4,,Write-ins,64
-Laramie,State Senate,4,,Over Votes,0
-Laramie,State Senate,4,,Under Votes,1790
 Laramie,State Senate,6,REP,Wayne Johnson,2269
 Laramie,State Senate,6,DEM,Phyllis Sherard,946
-Laramie,State Senate,6,,Write-ins,21
-Laramie,State Senate,6,,Over Votes,0
-Laramie,State Senate,6,,Under Votes,504
 Laramie,State Senate,8,DEM,Floyd A. Esquibel,904
-Laramie,State Senate,8,,Write-ins,84
-Laramie,State Senate,8,,Over Votes,0
-Laramie,State Senate,8,,Under Votes,1069
 Laramie,State House,7,REP,Bryan Pedersen,1309
 Laramie,State House,7,REP,Jeff Matthews,632
 Laramie,State House,7,DEM,Ken Tuma,559
 Laramie,State House,7,LIB,Clair A. Schwan,5
-Laramie,State House,7,,Write-ins,10
-Laramie,State House,7,,Over Votes,1
-Laramie,State House,7,,Under Votes,319
 Laramie,State House,8,REP,Bob Nicholas,1300
 Laramie,State House,8,DEM,Lori A. Millin,741
-Laramie,State House,8,,Write-ins,14
-Laramie,State House,8,,Over Votes,0
-Laramie,State House,8,,Under Votes,291
 Laramie,State House,9,REP,David L. Zwonitzer,633
 Laramie,State House,9,REP,Marirose Morris,285
 Laramie,State House,9,DEM,Anthony M. Reyes,472
-Laramie,State House,9,,Write-ins,3
-Laramie,State House,9,,Over Votes,0
-Laramie,State House,9,,Under Votes,144
 Laramie,State House,10,REP,Donn L. Edmunds,503
 Laramie,State House,10,REP,"Rodney ""Pete"" Anderson",984
 Laramie,State House,10,DEM,Gary Roadifer,182
 Laramie,State House,10,DEM,Jana Howard Ginter,384
-Laramie,State House,10,,Write-ins,6
-Laramie,State House,10,,Over Votes,0
-Laramie,State House,10,,Under Votes,144
 Laramie,State House,11,DEM,Mary A. Throne,507
-Laramie,State House,11,,Write-ins,32
-Laramie,State House,11,,Over Votes,0
-Laramie,State House,11,,Under Votes,711
 Laramie,State House,12,REP,Amy Edmonds,456
 Laramie,State House,12,DEM,Katherine Van Dell,390
-Laramie,State House,12,,Write-ins,11
-Laramie,State House,12,,Over Votes,0
-Laramie,State House,12,,Under Votes,146
 Laramie,State House,41,REP,Becket B. Hinckley,722
 Laramie,State House,41,REP,Tim Bolin,249
 Laramie,State House,41,DEM,Ken A. Esquibel,605
-Laramie,State House,41,,Write-ins,4
-Laramie,State House,41,,Over Votes,0
-Laramie,State House,41,,Under Votes,162
 Laramie,State House,42,REP,Pete Illoway,756
-Laramie,State House,42,,Write-ins,49
-Laramie,State House,42,,Over Votes,0
-Laramie,State House,42,,Under Votes,427
 Laramie,State House,43,REP,Dan Zwonitzer,658
 Laramie,State House,43,DEM,Kevin Lumsden,375
-Laramie,State House,43,,Write-ins,15
-Laramie,State House,43,,Over Votes,0
-Laramie,State House,43,,Under Votes,162
 Laramie,State House,44,REP,Drew Hill,339
 Laramie,State House,44,DEM,James W. Byrd,219
 Laramie,State House,44,DEM,Nate Breen,110
 Laramie,State House,44,DEM,Richard Leslie,58
 Laramie,State House,44,DEM,Tammy R. Rasnake,150
-Laramie,State House,44,,Write-ins,7
-Laramie,State House,44,,Over Votes,5
-Laramie,State House,44,,Under Votes,166
 Laramie,Ballots Cast,,REP,Ballots Cast,10617
 Laramie,Ballots Cast,,DEM,Ballots Cast,5759
 Laramie,Ballots Cast,,LIB,Ballots Cast,36
@@ -517,46 +271,22 @@ Laramie,Ballots Cast,,,Ballots Cast,16985
 Lincoln,U.S. Senate,,REP,Mike Enzi,2494
 Lincoln,U.S. Senate,,DEM,Al Hamburg,254
 Lincoln,U.S. Senate,,DEM,Chris Rothfuss,261
-Lincoln,U.S. Senate,,,Write-ins,18
-Lincoln,U.S. Senate,,,Over Votes,1
-Lincoln,U.S. Senate,,,Under Votes,316
 Lincoln,U.S. Senate (Unexpired Term),,REP,John Barrasso,2497
 Lincoln,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,268
 Lincoln,U.S. Senate (Unexpired Term),,DEM,Nick Carter,266
-Lincoln,U.S. Senate (Unexpired Term),,,Write-ins,16
-Lincoln,U.S. Senate (Unexpired Term),,,Over Votes,2
-Lincoln,U.S. Senate (Unexpired Term),,,Under Votes,295
 Lincoln,U.S. House,,REP,Bill Winney,362
 Lincoln,U.S. House,,REP,Cynthia M. Lummis,1100
 Lincoln,U.S. House,,REP,Mark Gordon,857
 Lincoln,U.S. House,,REP,Michael S. Holland,159
 Lincoln,U.S. House,,DEM,Gary Trauner,549
 Lincoln,U.S. House,,LIB,W. David Herbert,8
-Lincoln,U.S. House,,,Write-ins,13
-Lincoln,U.S. House,,,Over Votes,33
-Lincoln,U.S. House,,,Under Votes,263
 Lincoln,State Senate,14,REP,Stan Cooper,717
-Lincoln,State Senate,14,,Write-ins,13
-Lincoln,State Senate,14,,Over Votes,0
-Lincoln,State Senate,14,,Under Votes,449
 Lincoln,State Senate,16,REP,Dan Dockstader,1751
-Lincoln,State Senate,16,,Write-ins,21
-Lincoln,State Senate,16,,Over Votes,0
-Lincoln,State Senate,16,,Under Votes,393
 Lincoln,State House,20,REP,Kathy Davison,651
-Lincoln,State House,20,,Write-ins,26
-Lincoln,State House,20,,Over Votes,0
-Lincoln,State House,20,,Under Votes,502
 Lincoln,State House,21,REP,Robert McKim,1481
-Lincoln,State House,21,,Write-ins,35
-Lincoln,State House,21,,Over Votes,0
-Lincoln,State House,21,,Under Votes,423
 Lincoln,State House,22,REP,Charles Stough,39
 Lincoln,State House,22,REP,Donn Wooden,140
 Lincoln,State House,22,DEM,Jim Roscoe,31
-Lincoln,State House,22,,Write-ins,1
-Lincoln,State House,22,,Over Votes,0
-Lincoln,State House,22,,Under Votes,15
 Lincoln,Ballots Cast,,REP,Ballots Cast,2737
 Lincoln,Ballots Cast,,DEM,Ballots Cast,596
 Lincoln,Ballots Cast,,LIB,Ballots Cast,11
@@ -565,76 +295,34 @@ Lincoln,Ballots Cast,,,Ballots Cast,3498
 Natrona,U.S. Senate,,REP,Mike Enzi,7997
 Natrona,U.S. Senate,,DEM,Al Hamburg,889
 Natrona,U.S. Senate,,DEM,Chris Rothfuss,2067
-Natrona,U.S. Senate,,,Write-ins,103
-Natrona,U.S. Senate,,,Over Votes,5
-Natrona,U.S. Senate,,,Under Votes,1046
 Natrona,U.S. Senate (Unexpired Term),,REP,John Barrasso,7926
 Natrona,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,1978
 Natrona,U.S. Senate (Unexpired Term),,DEM,Nick Carter,1286
-Natrona,U.S. Senate (Unexpired Term),,,Write-ins,106
-Natrona,U.S. Senate (Unexpired Term),,,Over Votes,1
-Natrona,U.S. Senate (Unexpired Term),,,Under Votes,810
 Natrona,U.S. House,,REP,Bill Winney,909
 Natrona,U.S. House,,REP,Cynthia M. Lummis,3925
 Natrona,U.S. House,,REP,Mark Gordon,3264
 Natrona,U.S. House,,REP,Michael S. Holland,302
 Natrona,U.S. House,,DEM,Gary Trauner,3156
 Natrona,U.S. House,,LIB,W. David Herbert,19
-Natrona,U.S. House,,,Write-ins,29
-Natrona,U.S. House,,,Over Votes,94
-Natrona,U.S. House,,,Under Votes,409
 Natrona,State Senate,27,REP,Bill Landen,2202
 Natrona,State Senate,27,DEM,Bert Toews,739
-Natrona,State Senate,27,,Write-ins,17
-Natrona,State Senate,27,,Over Votes,1
-Natrona,State Senate,27,,Under Votes,443
 Natrona,State Senate,28,REP,Kit Jennings,1379
 Natrona,State Senate,28,DEM,Erich Frankland,690
-Natrona,State Senate,28,,Write-ins,21
-Natrona,State Senate,28,,Over Votes,0
-Natrona,State Senate,28,,Under Votes,460
 Natrona,State Senate,30,REP,Charles K. Scott,1253
 Natrona,State Senate,30,REP,Tom Walters,804
-Natrona,State Senate,30,,Write-ins,24
-Natrona,State Senate,30,,Over Votes,0
-Natrona,State Senate,30,,Under Votes,764
 Natrona,State House,35,REP,Beth Nachbar,481
 Natrona,State House,35,REP,Roy Cohee,1088
-Natrona,State House,35,,Write-ins,11
-Natrona,State House,35,,Over Votes,4
-Natrona,State House,35,,Under Votes,497
 Natrona,State House,36,DEM,Mary Hales,390
-Natrona,State House,36,,Write-ins,45
-Natrona,State House,36,,Over Votes,0
-Natrona,State House,36,,Under Votes,886
 Natrona,State House,37,REP,Steve Harshman,1395
-Natrona,State House,37,,Write-ins,27
-Natrona,State House,37,,Over Votes,0
-Natrona,State House,37,,Under Votes,614
 Natrona,State House,38,REP,Bob Brechtel,1070
 Natrona,State House,38,DEM,Fred Arnold,274
-Natrona,State House,38,,Write-ins,12
-Natrona,State House,38,,Over Votes,0
-Natrona,State House,38,,Under Votes,199
 Natrona,State House,56,REP,Tim Stubson,782
-Natrona,State House,56,,Write-ins,18
-Natrona,State House,56,,Over Votes,0
-Natrona,State House,56,,Under Votes,366
 Natrona,State House,57,REP,Thomas A. Lockhart,678
 Natrona,State House,57,DEM,Jane Ifland,349
 Natrona,State House,57,LIB,Timothy A. DeLany,3
-Natrona,State House,57,,Write-ins,8
-Natrona,State House,57,,Over Votes,1
-Natrona,State House,57,,Under Votes,137
 Natrona,State House,58,REP,Lisa Shepperson,757
-Natrona,State House,58,,Write-ins,16
-Natrona,State House,58,,Over Votes,0
-Natrona,State House,58,,Under Votes,517
 Natrona,State House,59,REP,Tanise M. Lavering,585
 Natrona,State House,59,DEM,Mike A. Gilmore,463
-Natrona,State House,59,,Write-ins,21
-Natrona,State House,59,,Over Votes,0
-Natrona,State House,59,,Under Votes,205
 Natrona,Ballots Cast,,REP,Ballots Cast,8706
 Natrona,Ballots Cast,,DEM,Ballots Cast,3374
 Natrona,Ballots Cast,,LIB,Ballots Cast,27
@@ -643,28 +331,16 @@ Natrona,Ballots Cast,,,Ballots Cast,12329
 Niobrara,U.S. Senate,,REP,Mike Enzi,654
 Niobrara,U.S. Senate,,DEM,Al Hamburg,15
 Niobrara,U.S. Senate,,DEM,Chris Rothfuss,31
-Niobrara,U.S. Senate,,,Write-ins,2
-Niobrara,U.S. Senate,,,Over Votes,0
-Niobrara,U.S. Senate,,,Under Votes,65
 Niobrara,U.S. Senate (Unexpired Term),,REP,John Barrasso,655
 Niobrara,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,34
 Niobrara,U.S. Senate (Unexpired Term),,DEM,Nick Carter,19
-Niobrara,U.S. Senate (Unexpired Term),,,Write-ins,2
-Niobrara,U.S. Senate (Unexpired Term),,,Over Votes,0
-Niobrara,U.S. Senate (Unexpired Term),,,Under Votes,57
 Niobrara,U.S. House,,REP,Bill Winney,112
 Niobrara,U.S. House,,REP,Cynthia M. Lummis,362
 Niobrara,U.S. House,,REP,Mark Gordon,177
 Niobrara,U.S. House,,REP,Michael S. Holland,27
 Niobrara,U.S. House,,DEM,Gary Trauner,50
 Niobrara,U.S. House,,LIB,W. David Herbert,1
-Niobrara,U.S. House,,,Write-ins,0
-Niobrara,U.S. House,,,Over Votes,2
-Niobrara,U.S. House,,,Under Votes,36
 Niobrara,State House,2,DEM,Ross Diercks,58
-Niobrara,State House,2,,Write-ins,23
-Niobrara,State House,2,,Over Votes,0
-Niobrara,State House,2,,Under Votes,686
 Niobrara,Ballots Cast,,REP,Ballots Cast,706
 Niobrara,Ballots Cast,,DEM,Ballots Cast,60
 Niobrara,Ballots Cast,,LIB,Ballots Cast,1
@@ -673,44 +349,20 @@ Niobrara,Ballots Cast,,,Ballots Cast,774
 Park,U.S. Senate,,REP,Mike Enzi,5241
 Park,U.S. Senate,,DEM,Al Hamburg,217
 Park,U.S. Senate,,DEM,Chris Rothfuss,406
-Park,U.S. Senate,,,Write-ins,54
-Park,U.S. Senate,,,Over Votes,2
-Park,U.S. Senate,,,Under Votes,589
 Park,U.S. Senate (Unexpired Term),,REP,John Barrasso,5190
 Park,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,282
 Park,U.S. Senate (Unexpired Term),,DEM,Nick Carter,373
-Park,U.S. Senate (Unexpired Term),,,Write-ins,53
-Park,U.S. Senate (Unexpired Term),,,Over Votes,0
-Park,U.S. Senate (Unexpired Term),,,Under Votes,611
 Park,U.S. House,,REP,Bill Winney,689
 Park,U.S. House,,REP,Cynthia M. Lummis,2510
 Park,U.S. House,,REP,Mark Gordon,2095
 Park,U.S. House,,REP,Michael S. Holland,171
 Park,U.S. House,,DEM,Gary Trauner,655
 Park,U.S. House,,LIB,W. David Herbert,16
-Park,U.S. House,,,Write-ins,26
-Park,U.S. House,,,Over Votes,47
-Park,U.S. House,,,Under Votes,300
 Park,State Senate,18,REP,"Henry H.R. ""Hank"" Coe",3331
-Park,State Senate,18,,Write-ins,109
-Park,State Senate,18,,Over Votes,0
-Park,State Senate,18,,Under Votes,1132
 Park,State House,24,REP,Colin M. Simpson,1714
-Park,State House,24,,Write-ins,46
-Park,State House,24,,Over Votes,0
-Park,State House,24,,Under Votes,550
 Park,State House,25,REP,Dave Bonner,1242
-Park,State House,25,,Write-ins,123
-Park,State House,25,,Over Votes,0
-Park,State House,25,,Under Votes,468
 Park,State House,26,REP,Elaine D. Harvey,82
-Park,State House,26,,Write-ins,4
-Park,State House,26,,Over Votes,0
-Park,State House,26,,Under Votes,16
 Park,State House,50,REP,Pat Childers,1640
-Park,State House,50,,Write-ins,46
-Park,State House,50,,Over Votes,0
-Park,State House,50,,Under Votes,576
 Park,Ballots Cast,,REP,Ballots Cast,5768
 Park,Ballots Cast,,DEM,Ballots Cast,723
 Park,Ballots Cast,,LIB,Ballots Cast,18
@@ -719,42 +371,24 @@ Park,Ballots Cast,,,Ballots Cast,6604
 Platte,U.S. Senate,,REP,Mike Enzi,1834
 Platte,U.S. Senate,,DEM,Al Hamburg,233
 Platte,U.S. Senate,,DEM,Chris Rothfuss,442
-Platte,U.S. Senate,,,Write-ins,12
-Platte,U.S. Senate,,,Over Votes,0
-Platte,U.S. Senate,,,Under Votes,240
 Platte,U.S. Senate (Unexpired Term),,REP,John Barrasso,1816
 Platte,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,411
 Platte,U.S. Senate (Unexpired Term),,DEM,Nick Carter,298
-Platte,U.S. Senate (Unexpired Term),,,Write-ins,11
-Platte,U.S. Senate (Unexpired Term),,,Over Votes,0
-Platte,U.S. Senate (Unexpired Term),,,Under Votes,225
 Platte,U.S. House,,REP,Bill Winney,211
 Platte,U.S. House,,REP,Cynthia M. Lummis,1004
 Platte,U.S. House,,REP,Mark Gordon,522
 Platte,U.S. House,,REP,Michael S. Holland,110
 Platte,U.S. House,,DEM,Gary Trauner,706
 Platte,U.S. House,,LIB,W. David Herbert,1
-Platte,U.S. House,,,Write-ins,8
-Platte,U.S. House,,,Over Votes,14
-Platte,U.S. House,,,Under Votes,185
 Platte,State Senate,2,REP,Jim Anderson,1068
 Platte,State Senate,2,DEM,"Jason ""Jay"" Wright",340
-Platte,State Senate,2,,Write-ins,5
-Platte,State Senate,2,,Over Votes,0
-Platte,State Senate,2,,Under Votes,255
 Platte,State House,3,REP,Frank Peasley,465
 Platte,State House,3,REP,Kirby Wilson,210
 Platte,State House,3,REP,Randy Stevenson,529
 Platte,State House,3,DEM,Laurell Marker,104
 Platte,State House,3,DEM,Terry R. Jones,311
-Platte,State House,3,,Write-ins,4
-Platte,State House,3,,Over Votes,3
-Platte,State House,3,,Under Votes,42
 Platte,State House,5,REP,Matt Teeters,642
 Platte,State House,5,DEM,Russell Johnson,301
-Platte,State House,5,,Write-ins,8
-Platte,State House,5,,Over Votes,0
-Platte,State House,5,,Under Votes,142
 Platte,Ballots Cast,,REP,Ballots Cast,1959
 Platte,Ballots Cast,,DEM,Ballots Cast,800
 Platte,Ballots Cast,,LIB,Ballots Cast,2
@@ -763,47 +397,23 @@ Platte,Ballots Cast,,,Ballots Cast,2864
 Sheridan,U.S. Senate,,REP,Mike Enzi,4659
 Sheridan,U.S. Senate,,DEM,Al Hamburg,503
 Sheridan,U.S. Senate,,DEM,Chris Rothfuss,735
-Sheridan,U.S. Senate,,,Write-ins,44
-Sheridan,U.S. Senate,,,Over Votes,3
-Sheridan,U.S. Senate,,,Under Votes,616
 Sheridan,U.S. Senate (Unexpired Term),,REP,John Barrasso,4513
 Sheridan,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,581
 Sheridan,U.S. Senate (Unexpired Term),,DEM,Nick Carter,731
-Sheridan,U.S. Senate (Unexpired Term),,,Write-ins,53
-Sheridan,U.S. Senate (Unexpired Term),,,Over Votes,0
-Sheridan,U.S. Senate (Unexpired Term),,,Under Votes,682
 Sheridan,U.S. House,,REP,Bill Winney,383
 Sheridan,U.S. House,,REP,Cynthia M. Lummis,1937
 Sheridan,U.S. House,,REP,Mark Gordon,2385
 Sheridan,U.S. House,,REP,Michael S. Holland,164
 Sheridan,U.S. House,,DEM,Gary Trauner,1353
 Sheridan,U.S. House,,LIB,W. David Herbert,18
-Sheridan,U.S. House,,,Write-ins,25
-Sheridan,U.S. House,,,Over Votes,39
-Sheridan,U.S. House,,,Under Votes,256
 Sheridan,State Senate,22,REP,Al Snell,249
 Sheridan,State Senate,22,REP,John Schiffer,1386
-Sheridan,State Senate,22,,Write-ins,23
-Sheridan,State Senate,22,,Over Votes,0
-Sheridan,State Senate,22,,Under Votes,652
 Sheridan,State House,29,REP,David A. DeBolt,394
 Sheridan,State House,29,REP,John W. Patton,827
 Sheridan,State House,29,LIB,Elmer Kuball,2
-Sheridan,State House,29,,Write-ins,17
-Sheridan,State House,29,,Over Votes,0
-Sheridan,State House,29,,Under Votes,606
 Sheridan,State House,30,REP,"Jack Landon, Jr.",1298
-Sheridan,State House,30,,Write-ins,18
-Sheridan,State House,30,,Over Votes,0
-Sheridan,State House,30,,Under Votes,604
 Sheridan,State House,40,REP,Mike Madden,254
-Sheridan,State House,40,,Write-ins,3
-Sheridan,State House,40,,Over Votes,0
-Sheridan,State House,40,,Under Votes,133
 Sheridan,State House,51,REP,Rosie Berger,1743
-Sheridan,State House,51,,Write-ins,29
-Sheridan,State House,51,,Over Votes,0
-Sheridan,State House,51,,Under Votes,632
 Sheridan,Ballots Cast,,REP,Ballots Cast,5043
 Sheridan,Ballots Cast,,DEM,Ballots Cast,1485
 Sheridan,Ballots Cast,,LIB,Ballots Cast,32
@@ -812,42 +422,21 @@ Sheridan,Ballots Cast,,,Ballots Cast,6734
 Sublette,U.S. Senate,,REP,Mike Enzi,1330
 Sublette,U.S. Senate,,DEM,Al Hamburg,33
 Sublette,U.S. Senate,,DEM,Chris Rothfuss,80
-Sublette,U.S. Senate,,,Write-ins,8
-Sublette,U.S. Senate,,,Over Votes,0
-Sublette,U.S. Senate,,,Under Votes,171
 Sublette,U.S. Senate (Unexpired Term),,REP,John Barrasso,1319
 Sublette,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,82
 Sublette,U.S. Senate (Unexpired Term),,DEM,Nick Carter,39
-Sublette,U.S. Senate (Unexpired Term),,,Write-ins,11
-Sublette,U.S. Senate (Unexpired Term),,,Over Votes,0
-Sublette,U.S. Senate (Unexpired Term),,,Under Votes,171
 Sublette,U.S. House,,REP,Bill Winney,343
 Sublette,U.S. House,,REP,Cynthia M. Lummis,503
 Sublette,U.S. House,,REP,Mark Gordon,441
 Sublette,U.S. House,,REP,Michael S. Holland,60
 Sublette,U.S. House,,DEM,Gary Trauner,132
 Sublette,U.S. House,,LIB,W. David Herbert,0
-Sublette,U.S. House,,,Write-ins,4
-Sublette,U.S. House,,,Over Votes,6
-Sublette,U.S. House,,,Under Votes,133
 Sublette,State Senate,14,REP,Stan Cooper,357
-Sublette,State Senate,14,,Write-ins,0
-Sublette,State Senate,14,,Over Votes,0
-Sublette,State Senate,14,,Under Votes,43
 Sublette,State Senate,16,REP,Dan Dockstader,812
-Sublette,State Senate,16,,Write-ins,4
-Sublette,State Senate,16,,Over Votes,0
-Sublette,State Senate,16,,Under Votes,406
 Sublette,State House,20,REP,Kathy Davison,345
-Sublette,State House,20,,Write-ins,0
-Sublette,State House,20,,Over Votes,0
-Sublette,State House,20,,Under Votes,55
 Sublette,State House,22,REP,Charles Stough,717
 Sublette,State House,22,REP,Donn Wooden,257
 Sublette,State House,22,DEM,Jim Roscoe,114
-Sublette,State House,22,,Write-ins,5
-Sublette,State House,22,,Over Votes,0
-Sublette,State House,22,,Under Votes,129
 Sublette,Ballots Cast,,REP,Ballots Cast,1474
 Sublette,Ballots Cast,,DEM,Ballots Cast,148
 Sublette,Ballots Cast,,LIB,Ballots Cast,0
@@ -856,59 +445,26 @@ Sublette,Ballots Cast,,,Ballots Cast,1643
 Sweetwater,U.S. Senate,,REP,Mike Enzi,2387
 Sweetwater,U.S. Senate,,DEM,Al Hamburg,1422
 Sweetwater,U.S. Senate,,DEM,Chris Rothfuss,1650
-Sweetwater,U.S. Senate,,,Write-ins,43
-Sweetwater,U.S. Senate,,,Over Votes,0
-Sweetwater,U.S. Senate,,,Under Votes,659
 Sweetwater,U.S. Senate (Unexpired Term),,REP,John Barrasso,2358
 Sweetwater,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,1495
 Sweetwater,U.S. Senate (Unexpired Term),,DEM,Nick Carter,1699
-Sweetwater,U.S. Senate (Unexpired Term),,,Write-ins,38
-Sweetwater,U.S. Senate (Unexpired Term),,,Over Votes,1
-Sweetwater,U.S. Senate (Unexpired Term),,,Under Votes,570
 Sweetwater,U.S. House,,REP,Bill Winney,327
 Sweetwater,U.S. House,,REP,Cynthia M.Lummis,1026
 Sweetwater,U.S. House,,REP,Mark Gordon,930
 Sweetwater,U.S. House,,REP,Michael S. Holland,209
 Sweetwater,U.S. House,,DEM,Gary Trauner,3200
 Sweetwater,U.S. House,,LIB,W. David Herbert,17
-Sweetwater,U.S. House,,,Write-ins,25
-Sweetwater,U.S. House,,,Over Votes,16
-Sweetwater,U.S. House,,,Under Votes,411
 Sweetwater,State Senate,12,DEM,Marty Martin,1453
-Sweetwater,State Senate,12,,Write-ins,50
-Sweetwater,State Senate,12,,Over Votes,0
-Sweetwater,State Senate,12,,Under Votes,1090
 Sweetwater,State Senate,14,REP,Stan Cooper,591
-Sweetwater,State Senate,14,,Write-ins,19
-Sweetwater,State Senate,14,,Over Votes,0
-Sweetwater,State Senate,14,,Under Votes,510
 Sweetwater,State House,17,REP,Clark Stith,374
 Sweetwater,State House,17,DEM,Bernadine L. Craft,643
-Sweetwater,State House,17,,Write-ins,16
-Sweetwater,State House,17,,Over Votes,0
-Sweetwater,State House,17,,Under Votes,165
 Sweetwater,State House,18,REP,Allen M. Jaggi,364
 Sweetwater,State House,18,DEM,Aaron Thomas Wostrel,281
-Sweetwater,State House,18,,Write-ins,6
-Sweetwater,State House,18,,Over Votes,0
-Sweetwater,State House,18,,Under Votes,134
 Sweetwater,State House,20,REP,Kathy Davison,208
-Sweetwater,State House,20,,Write-ins,6
-Sweetwater,State House,20,,Over Votes,0
-Sweetwater,State House,20,,Under Votes,121
 Sweetwater,State House,39,DEM,Stan Blake,639
-Sweetwater,State House,39,,Write-ins,34
-Sweetwater,State House,39,,Over Votes,0
-Sweetwater,State House,39,,Under Votes,607
 Sweetwater,State House,48,DEM,Joseph M. Barbuto,478
 Sweetwater,State House,48,DEM,Tony Herrera,399
-Sweetwater,State House,48,,Write-ins,9
-Sweetwater,State House,48,,Over Votes,0
-Sweetwater,State House,48,,Under Votes,509
 Sweetwater,State House,60,DEM,Bill Thompson,654
-Sweetwater,State House,60,,Write-ins,9
-Sweetwater,State House,60,,Over Votes,0
-Sweetwater,State House,60,,Under Votes,505
 Sweetwater,Ballots Cast,,REP,Ballots Cast,2581
 Sweetwater,Ballots Cast,,DEM,Ballots Cast,3560
 Sweetwater,Ballots Cast,,LIB,Ballots Cast,20
@@ -917,43 +473,22 @@ Sweetwater,Ballots Cast,,,Ballots Cast,6284
 Teton,U.S. Senate,,REP,Mike Enzi,2111
 Teton,U.S. Senate,,DEM,Al Hamburg,327
 Teton,U.S. Senate,,DEM,Chris Rothfuss,793
-Teton,U.S. Senate,,,Write-ins,51
-Teton,U.S. Senate,,,Over Votes,1
-Teton,U.S. Senate,,,Under Votes,998
 Teton,U.S. Senate (Unexpired Term),,REP,John Barrasso,2102
 Teton,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,603
 Teton,U.S. Senate (Unexpired Term),,DEM,Nick Carter,656
-Teton,U.S. Senate (Unexpired Term),,,Write-ins,38
-Teton,U.S. Senate (Unexpired Term),,,Over Votes,0
-Teton,U.S. Senate (Unexpired Term),,,Under Votes,882
 Teton,U.S. House,,REP,Bill Winney,158
 Teton,U.S. House,,REP,Cynthia M. Lummis,721
 Teton,U.S. House,,REP,Mark Gordon,1187
 Teton,U.S. House,,REP,Michael S. Holland,96
 Teton,U.S. House,,DEM,Gary Trauner,1670
 Teton,U.S. House,,LIB,W. David Herbert,6
-Teton,U.S. House,,,Write-ins,24
-Teton,U.S. House,,,Over Votes,32
-Teton,U.S. House,,,Under Votes,387
 Teton,State Senate,16,REP,Dan Dockstader,250
-Teton,State Senate,16,,Write-ins,12
-Teton,State Senate,16,,Over Votes,0
-Teton,State Senate,16,,Under Votes,458
 Teton,State House,16,REP,Joe Schloss,813
 Teton,State House,16,DEM,Pete Jorgensen,711
-Teton,State House,16,,Write-ins,19
-Teton,State House,16,,Over Votes,0
-Teton,State House,16,,Under Votes,390
 Teton,State House,22,REP,Charles Stough,128
 Teton,State House,22,REP,Donn Wooden,144
 Teton,State House,22,DEM,Jim Roscoe,310
-Teton,State House,22,,Write-ins,4
-Teton,State House,22,,Over Votes,0
-Teton,State House,22,,Under Votes,134
 Teton,State House,23,REP,Keith Gingery,802
-Teton,State House,23,,Write-ins,33
-Teton,State House,23,,Over Votes,1
-Teton,State House,23,,Under Votes,791
 Teton,Ballots Cast,,REP,Ballots Cast,2495
 Teton,Ballots Cast,,DEM,Ballots Cast,1773
 Teton,Ballots Cast,,LIB,Ballots Cast,13
@@ -962,41 +497,20 @@ Teton,Ballots Cast,,,Ballots Cast,4522
 Uinta,U.S. Senate,,REP,Mike Enzi,2031
 Uinta,U.S. Senate,,DEM,Al Hamburg,306
 Uinta,U.S. Senate,,DEM,Chris Rothfuss,331
-Uinta,U.S. Senate,,,Write-ins,14
-Uinta,U.S. Senate,,,Over Votes,1
-Uinta,U.S. Senate,,,Under Votes,165
 Uinta,U.S. Senate (Unexpired Term),,REP,John Barrasso,2001
 Uinta,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,312
 Uinta,U.S. Senate (Unexpired Term),,DEM,Nick Carter,333
-Uinta,U.S. Senate (Unexpired Term),,,Write-ins,10
-Uinta,U.S. Senate (Unexpired Term),,,Over Votes,0
-Uinta,U.S. Senate (Unexpired Term),,,Under Votes,192
 Uinta,U.S. House,,REP,Bill Winney,208
 Uinta,U.S. House,,REP,Cynthia M. Lummis,950
 Uinta,U.S. House,,REP,Mark Gordon,691
 Uinta,U.S. House,,REP,Michael S. Holland,176
 Uinta,U.S. House,,DEM,Gary Trauner,656
 Uinta,U.S. House,,LIB,W. David Herbert,6
-Uinta,U.S. House,,,Write-ins,5
-Uinta,U.S. House,,,Over Votes,19
-Uinta,U.S. House,,,Under Votes,137
 Uinta,State Senate,14,REP,Stan Cooper,433
-Uinta,State Senate,14,,Write-ins,9
-Uinta,State Senate,14,,Over Votes,0
-Uinta,State Senate,14,,Under Votes,183
 Uinta,State House,18,REP,Allen M. Jaggi,450
 Uinta,State House,18,DEM,Aaron Thomas Wostrel,128
-Uinta,State House,18,,Write-ins,6
-Uinta,State House,18,,Over Votes,0
-Uinta,State House,18,,Under Votes,41
 Uinta,State House,19,REP,Owen Petersen,731
-Uinta,State House,19,,Write-ins,27
-Uinta,State House,19,,Over Votes,0
-Uinta,State House,19,,Under Votes,277
 Uinta,State House,49,DEM,Saundra Meyer,328
-Uinta,State House,49,,Write-ins,66
-Uinta,State House,49,,Over Votes,0
-Uinta,State House,49,,Under Votes,794
 Uinta,Ballots Cast,,REP,Ballots Cast,2138
 Uinta,Ballots Cast,,DEM,Ballots Cast,704
 Uinta,Ballots Cast,,LIB,Ballots Cast,6
@@ -1005,32 +519,17 @@ Uinta,Ballots Cast,,,Ballots Cast,2920
 Washakie,U.S. Senate,,REP,Mike Enzi,1829
 Washakie,U.S. Senate,,DEM,Al Hamburg,173
 Washakie,U.S. Senate,,DEM,Chris Rothfuss,171
-Washakie,U.S. Senate,,,Write-ins,12
-Washakie,U.S. Senate,,,Over Votes,0
-Washakie,U.S. Senate,,,Under Votes,247
 Washakie,U.S. Senate (Unexpired Term),,REP,John Barrasso,1854
 Washakie,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,190
 Washakie,U.S. Senate (Unexpired Term),,DEM,Nick Carter,169
-Washakie,U.S. Senate (Unexpired Term),,,Write-ins,5
-Washakie,U.S. Senate (Unexpired Term),,,Over Votes,1
-Washakie,U.S. Senate (Unexpired Term),,,Under Votes,213
 Washakie,U.S. House,,REP,Bill Winney,265
 Washakie,U.S. House,,REP,Cynthia M. Lummis,768
 Washakie,U.S. House,,REP,Mark Gordon,764
 Washakie,U.S. House,,REP,Michael S. Holland,117
 Washakie,U.S. House,,DEM,Gary Trauner,375
 Washakie,U.S. House,,LIB,W. David Herbert,6
-Washakie,U.S. House,,,Write-ins,4
-Washakie,U.S. House,,,Over Votes,12
-Washakie,U.S. House,,,Under Votes,121
 Washakie,State Senate,20,REP,Gerald E. Geis,1749
-Washakie,State Senate,20,,Write-ins,26
-Washakie,State Senate,20,,Over Votes,0
-Washakie,State Senate,20,,Under Votes,657
 Washakie,State House,27,DEM,Debbie Healy Hammons,400
-Washakie,State House,27,,Write-ins,64
-Washakie,State House,27,,Over Votes,1
-Washakie,State House,27,,Under Votes,1966
 Washakie,Ballots Cast,,REP,Ballots Cast,2004
 Washakie,Ballots Cast,,DEM,Ballots Cast,419
 Washakie,Ballots Cast,,LIB,Ballots Cast,9
@@ -1039,32 +538,17 @@ Washakie,Ballots Cast,,,Ballots Cast,2501
 Weston,U.S. Senate,,REP,Mike Enzi,1341
 Weston,U.S. Senate,,DEM,Al Hamburg,64
 Weston,U.S. Senate,,DEM,Chris Rothfuss,113
-Weston,U.S. Senate,,,Write-ins,7
-Weston,U.S. Senate,,,Over Votes,0
-Weston,U.S. Senate,,,Under Votes,142
 Weston,U.S. Senate (Unexpired Term),,REP,John Barrasso,1324
 Weston,U.S. Senate (Unexpired Term),,DEM,Keith B. Goodenough,92
 Weston,U.S. Senate (Unexpired Term),,DEM,Nick Carter,87
-Weston,U.S. Senate (Unexpired Term),,,Write-ins,7
-Weston,U.S. Senate (Unexpired Term),,,Over Votes,0
-Weston,U.S. Senate (Unexpired Term),,,Under Votes,157
 Weston,U.S. House,,REP,Bill Winney,125
 Weston,U.S. House,,REP,Cynthia M. Lummis,582
 Weston,U.S. House,,REP,Mark Gordon,595
 Weston,U.S. House,,REP,Michael S. Holland,71
 Weston,U.S. House,,DEM,Gary Trauner,175
 Weston,U.S. House,,LIB,W. David Herbert,1
-Weston,U.S. House,,,Write-ins,4
-Weston,U.S. House,,,Over Votes,10
-Weston,U.S. House,,,Under Votes,104
 Weston,State House,1,REP,Mark A. Semlek,515
-Weston,State House,1,,Write-ins,6
-Weston,State House,1,,Over Votes,0
-Weston,State House,1,,Under Votes,173
 Weston,State House,2,DEM,Ross Diercks,112
-Weston,State House,2,,Write-ins,25
-Weston,State House,2,,Over Votes,0
-Weston,State House,2,,Under Votes,836
 Weston,Ballots Cast,,REP,Ballots Cast,1463
 Weston,Ballots Cast,,DEM,Ballots Cast,203
 Weston,Ballots Cast,,LIB,Ballots Cast,1

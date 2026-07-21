@@ -207,9 +207,13 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
         office_labels.append(cur_office)
 
     party_labels: list[str] = [""] * ncols
+    party_raw: list[str] = [""] * ncols
     if cfg.party_row is not None and cfg.party_row < nrows:
         party_labels = [("" if v is None else (v if isinstance(v, str) else str(v)))
                         for v in ffill_row(cfg.party_row)]
+        for c in range(ncols):
+            v = mat[cfg.party_row][c] if c < len(mat[cfg.party_row]) else None
+            party_raw[c] = (v if isinstance(v, str) and v else "")
 
     candidate_labels: list[str] = [vjoin(cfg.candidate_rows, c) for c in range(ncols)]
 
@@ -268,7 +272,13 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
             continue
         # Blank candidate with non-blank office: a ballots-cast column for the office group
         # (Family A primaries column B). Treat as Ballots Cast pseudo with that office's party.
+        # Only fire when the office label is explicit in the source -- a forward-filled
+        # label in a spacer column (e.g. 2004 Teton primary unlabeled cols after a
+        # single-candidate House district) is not a real ballots-cast column.
         if not cand and office_raw:
+            if not office_labels_raw[c]:
+                col_meta.append({"skip": True})
+                continue
             party = party_labels[c] if party_labels else (cfg.file_party or "")
             party_code = normalize_party(party) if party else (cfg.file_party or "")
             col_meta.append({
@@ -285,11 +295,38 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
         pseudo = _is_pseudo_candidate(cand)
         office_canon, district = normalize_office(office_raw) if office_raw else ("", "")
         if pseudo:
+            # Skip orphan pseudo-candidate columns. Some 2012 source files have
+            # stray Write-Ins/Over Votes/Under Votes columns wedged between office
+            # groups with no associated candidate; they would otherwise inherit
+            # the preceding office/party via forward-fill and emit duplicates.
+            # Walk backwards through contiguous pseudo columns; if the first
+            # non-pseudo column we hit is blank (no explicit office, no
+            # candidate), this pseudo is orphan -- UNLESS the current column
+            # carries an explicit party label (e.g. 2010 DEM-only primaries
+            # where a statewide office only had write-ins filed).
+            is_orphan = True
+            if party_raw and party_raw[c]:
+                is_orphan = False
+            else:
+                for j in range(c - 1, -1, -1):
+                    cj = candidate_labels[j]
+                    if _is_pseudo_candidate(cj):
+                        continue
+                    if not office_labels_raw[j] and not cj:
+                        is_orphan = True
+                    else:
+                        is_orphan = False
+                    break
+            if is_orphan:
+                col_meta.append({"skip": True})
+                continue
             raw_party = party_labels[c] if party_labels else ""
             try:
                 pcode = normalize_party(raw_party) if raw_party else ""
             except ValueError:
                 pcode = ""
+            if not pcode:
+                pcode = cfg.file_party or ""
             col_meta.append({
                 "skip": False,
                 "office": office_canon or office_raw,

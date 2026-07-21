@@ -639,6 +639,11 @@ Lincoln,State House,21,REP,Robert McKim,4467
 Lincoln,State House,21,,Write-ins,81
 Lincoln,State House,21,,Over Votes,1
 Lincoln,State House,21,,Under Votes,696
+Lincoln,State House,22,REP,Charles Stough,323
+Lincoln,State House,22,DEM,Jim Roscoe,368
+Lincoln,State House,22,,Write-ins,1
+Lincoln,State House,22,,Over Votes,0
+Lincoln,State House,22,,Under Votes,44
 Lincoln,Ballots Cast,,,Ballots Cast,8615
 Lincoln,"Circuit Court Judge, Third Judicial District Daniel L. Forgey",,,Over Votes,2
 Lincoln,"Circuit Court Judge, Third Judicial District Daniel L. Forgey",,,Under Votes,1596
@@ -654,11 +659,6 @@ Lincoln,"District Court Judge, Third Judicial District Jere Ryckman",,,Over Vote
 Lincoln,"District Court Judge, Third Judicial District Jere Ryckman",,,Under Votes,1512
 Lincoln,"District Court Judge, Third Judicial District Nena James",,,Over Votes,1
 Lincoln,"District Court Judge, Third Judicial District Nena James",,,Under Votes,1433
-Lincoln,House District 22*,,REP,Charles Stough,323
-Lincoln,House District 22*,,DEM,Jim Roscoe,368
-Lincoln,House District 22*,,,Write-ins,1
-Lincoln,House District 22*,,,Over Votes,0
-Lincoln,House District 22*,,,Under Votes,44
 Lincoln,Justice of the Supreme Court William U. Hill,,,Over Votes,2
 Lincoln,Justice of the Supreme Court William U. Hill,,,Under Votes,1433
 Natrona,President,,REP,John McCain,21906
@@ -674,19 +674,22 @@ Natrona,U.S. Senate,,DEM,Chris Rothfuss,7848
 Natrona,U.S. Senate,,,Write-ins,34
 Natrona,U.S. Senate,,,Over Votes,13
 Natrona,U.S. Senate,,,Under Votes,854
-Natrona,U.S. Senate (Unexpired Term),,REP,Bill Landen,5563
 Natrona,U.S. Senate (Unexpired Term),,REP,John Barrasso,24489
-Natrona,U.S. Senate (Unexpired Term),,DEM,Bert Toews,3523
 Natrona,U.S. Senate (Unexpired Term),,DEM,Nick Carter,8171
-Natrona,U.S. Senate (Unexpired Term),,,Write-ins,52
-Natrona,U.S. Senate (Unexpired Term),,,Over Votes,11
-Natrona,U.S. Senate (Unexpired Term),,,Under Votes,1150
+Natrona,U.S. Senate (Unexpired Term),,,Write-ins,39
+Natrona,U.S. Senate (Unexpired Term),,,Over Votes,6
+Natrona,U.S. Senate (Unexpired Term),,,Under Votes,768
 Natrona,U.S. House,,REP,Cynthia M. Lummis,16380
 Natrona,U.S. House,,DEM,Gary Trauner,14940
 Natrona,U.S. House,,LIB,W. David Herbert,1344
 Natrona,U.S. House,,,Write-ins,60
 Natrona,U.S. House,,,Over Votes,53
 Natrona,U.S. House,,,Under Votes,696
+Natrona,State Senate,27,REP,Bill Landen,5563
+Natrona,State Senate,27,DEM,Bert Toews,3523
+Natrona,State Senate,27,,Write-ins,13
+Natrona,State Senate,27,,Over Votes,5
+Natrona,State Senate,27,,Under Votes,382
 Natrona,State Senate,28,REP,Kit Jennings,4219
 Natrona,State Senate,28,DEM,Erich Frankland,2961
 Natrona,State Senate,28,,Write-ins,15
@@ -979,6 +982,11 @@ Sublette,State House,20,REP,Kathy Davison,927
 Sublette,State House,20,,Write-ins,3
 Sublette,State House,20,,Over Votes,0
 Sublette,State House,20,,Under Votes,108
+Sublette,State House,22,REP,Charles Stough,2022
+Sublette,State House,22,DEM,Jim Roscoe,1216
+Sublette,State House,22,,Write-ins,5
+Sublette,State House,22,,Over Votes,2
+Sublette,State House,22,,Under Votes,92
 Sublette,Ballots Cast,,,Ballots Cast,4375
 Sublette,"Circuit Court Judge, Ninth Judicial District Curt A. Haws",,,Over Votes,0
 Sublette,"Circuit Court Judge, Ninth Judicial District Curt A. Haws",,,Under Votes,898
@@ -992,11 +1000,6 @@ Sublette,Constitutional Amendment B Initiative/Referendum Signature Requirement,
 Sublette,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,617
 Sublette,"District Court Judge, Ninth Judicial District Nancy J. Guthrie",,,Over Votes,0
 Sublette,"District Court Judge, Ninth Judicial District Nancy J. Guthrie",,,Under Votes,567
-Sublette,House District 22*,,REP,Charles Stough,2022
-Sublette,House District 22*,,DEM,Jim Roscoe,1216
-Sublette,House District 22*,,,Write-ins,5
-Sublette,House District 22*,,,Over Votes,2
-Sublette,House District 22*,,,Under Votes,92
 Sublette,Justice of the Supreme Court William U. Hill,,,Over Votes,0
 Sublette,Justice of the Supreme Court William U. Hill,,,Under Votes,734
 Sweetwater,President,,REP,John McCain,10360
@@ -1107,6 +1110,11 @@ Teton,State House,16,DEM,Pete Jorgensen,3594
 Teton,State House,16,,Write-ins,8
 Teton,State House,16,,Over Votes,1
 Teton,State House,16,,Under Votes,334
+Teton,State House,22,REP,Charles Stough,542
+Teton,State House,22,DEM,Jim Roscoe,1307
+Teton,State House,22,,Write-ins,3
+Teton,State House,22,,Over Votes,0
+Teton,State House,22,,Under Votes,79
 Teton,State House,23,REP,Keith Gingery,3177
 Teton,State House,23,,Write-ins,128
 Teton,State House,23,,Over Votes,0
@@ -1124,11 +1132,6 @@ Teton,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,O
 Teton,Constitutional Amendment B Initiative/Referendum Signature Requirement,,,Under Votes,2717
 Teton,"District Court Judge, Ninth Judicial District Nancy J. Guthrie",,,Over Votes,2
 Teton,"District Court Judge, Ninth Judicial District Nancy J. Guthrie",,,Under Votes,2976
-Teton,House District 22*,,REP,Charles Stough,542
-Teton,House District 22*,,DEM,Jim Roscoe,1307
-Teton,House District 22*,,,Write-ins,3
-Teton,House District 22*,,,Over Votes,0
-Teton,House District 22*,,,Under Votes,79
 Teton,Justice of the Supreme Court William U. Hill,,,Over Votes,3
 Teton,Justice of the Supreme Court William U. Hill,,,Under Votes,4175
 Uinta,President,,REP,John McCain,5763
