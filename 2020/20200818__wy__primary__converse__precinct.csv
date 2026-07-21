@@ -1,0 +1,880 @@
+county,precinct,office,district,party,candidate,votes
+Converse,1-1,U.S. Senate,,REP,Bryan E Miller,6
+Converse,1-1,U.S. Senate,,REP,Cynthia M. Lummis,40
+Converse,1-1,U.S. Senate,,REP,Devon Cade,1
+Converse,1-1,U.S. Senate,,REP,Donna Rice,3
+Converse,1-1,U.S. Senate,,REP,John Holtz,2
+Converse,1-1,U.S. Senate,,REP,Josh Wheeler,4
+Converse,1-1,U.S. Senate,,REP,Michael Kemler,0
+Converse,1-1,U.S. Senate,,REP,R. Mark Armstrong,1
+Converse,1-1,U.S. Senate,,REP,Robert G. Short,39
+Converse,1-1,U.S. Senate,,REP,Star Roselli,0
+Converse,1-1,U.S. Senate,,REP,Write-ins,0
+Converse,1-1,U.S. Senate,,REP,Over Votes,0
+Converse,1-1,U.S. Senate,,REP,Under Votes,0
+Converse,1-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,1-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Converse,1-1,U.S. Senate,,DEM,Merav Ben David,0
+Converse,1-1,U.S. Senate,,DEM,Nathan Wendt,0
+Converse,1-1,U.S. Senate,,DEM,Rex Wilde,0
+Converse,1-1,U.S. Senate,,DEM,Yana Ludwig,0
+Converse,1-1,U.S. Senate,,DEM,Write-ins,1
+Converse,1-1,U.S. Senate,,DEM,Over Votes,0
+Converse,1-1,U.S. Senate,,DEM,Under Votes,0
+Converse,1-1,U.S. House,,REP,Blake Stanley,24
+Converse,1-1,U.S. House,,REP,Liz Cheney,68
+Converse,1-1,U.S. House,,REP,Write-ins,0
+Converse,1-1,U.S. House,,REP,Over Votes,1
+Converse,1-1,U.S. House,,REP,Under Votes,3
+Converse,1-1,U.S. House,,DEM,Carl Beach,1
+Converse,1-1,U.S. House,,DEM,Carol Hafner,0
+Converse,1-1,U.S. House,,DEM,Lynnette Grey Bull,0
+Converse,1-1,U.S. House,,DEM,Write-ins,0
+Converse,1-1,U.S. House,,DEM,Over Votes,0
+Converse,1-1,U.S. House,,DEM,Under Votes,0
+Converse,1-1,State House,3,REP,Eric Barlow,68
+Converse,1-1,State House,3,REP,Martin E. Phillips,23
+Converse,1-1,State House,3,REP,Write-ins,1
+Converse,1-1,State House,3,REP,Over Votes,0
+Converse,1-1,State House,3,REP,Under Votes,4
+Converse,1-1,State House,3,DEM,Write-ins,0
+Converse,1-1,Ballots Cast,,REP,Ballots Cast,96
+Converse,1-1,Ballots Cast,,DEM,Ballots Cast,1
+Converse,1-1,Ballots Cast,,NP,Ballots Cast,0
+Converse,1-1,Ballots Cast,,,Ballots Cast,97
+Converse,10-10,U.S. Senate,,REP,Bryan E Miller,12
+Converse,10-10,U.S. Senate,,REP,Cynthia M. Lummis,41
+Converse,10-10,U.S. Senate,,REP,Devon Cade,1
+Converse,10-10,U.S. Senate,,REP,Donna Rice,9
+Converse,10-10,U.S. Senate,,REP,John Holtz,2
+Converse,10-10,U.S. Senate,,REP,Josh Wheeler,5
+Converse,10-10,U.S. Senate,,REP,Michael Kemler,1
+Converse,10-10,U.S. Senate,,REP,R. Mark Armstrong,3
+Converse,10-10,U.S. Senate,,REP,Robert G. Short,97
+Converse,10-10,U.S. Senate,,REP,Star Roselli,0
+Converse,10-10,U.S. Senate,,REP,Write-ins,1
+Converse,10-10,U.S. Senate,,REP,Over Votes,2
+Converse,10-10,U.S. Senate,,REP,Under Votes,1
+Converse,10-10,U.S. Senate,,DEM,James Kirk DeBrine,3
+Converse,10-10,U.S. Senate,,DEM,Kenneth R. Casner,2
+Converse,10-10,U.S. Senate,,DEM,Merav Ben David,2
+Converse,10-10,U.S. Senate,,DEM,Nathan Wendt,2
+Converse,10-10,U.S. Senate,,DEM,Rex Wilde,2
+Converse,10-10,U.S. Senate,,DEM,Yana Ludwig,0
+Converse,10-10,U.S. Senate,,DEM,Write-ins,0
+Converse,10-10,U.S. Senate,,DEM,Over Votes,0
+Converse,10-10,U.S. Senate,,DEM,Under Votes,0
+Converse,10-10,U.S. House,,REP,Blake Stanley,47
+Converse,10-10,U.S. House,,REP,Liz Cheney,126
+Converse,10-10,U.S. House,,REP,Write-ins,0
+Converse,10-10,U.S. House,,REP,Over Votes,0
+Converse,10-10,U.S. House,,REP,Under Votes,2
+Converse,10-10,U.S. House,,DEM,Carl Beach,1
+Converse,10-10,U.S. House,,DEM,Carol Hafner,0
+Converse,10-10,U.S. House,,DEM,Lynnette Grey Bull,10
+Converse,10-10,U.S. House,,DEM,Write-ins,0
+Converse,10-10,U.S. House,,DEM,Over Votes,0
+Converse,10-10,U.S. House,,DEM,Under Votes,0
+Converse,10-10,State Senate,2,REP,Brian Boner,161
+Converse,10-10,State Senate,2,REP,Write-ins,0
+Converse,10-10,State Senate,2,REP,Over Votes,0
+Converse,10-10,State Senate,2,REP,Under Votes,14
+Converse,10-10,State Senate,2,DEM,Write-ins,2
+Converse,10-10,State House,6,REP,Aaron Clausen,96
+Converse,10-10,State House,6,REP,Camilla F. Hicks,70
+Converse,10-10,State House,6,REP,Write-ins,0
+Converse,10-10,State House,6,REP,Over Votes,0
+Converse,10-10,State House,6,REP,Under Votes,9
+Converse,10-10,Ballots Cast,,REP,Ballots Cast,175
+Converse,10-10,Ballots Cast,,DEM,Ballots Cast,11
+Converse,10-10,Ballots Cast,,NP,Ballots Cast,0
+Converse,10-10,Ballots Cast,,,Ballots Cast,186
+Converse,11-11,U.S. Senate,,REP,Bryan E Miller,7
+Converse,11-11,U.S. Senate,,REP,Cynthia M. Lummis,38
+Converse,11-11,U.S. Senate,,REP,Devon Cade,2
+Converse,11-11,U.S. Senate,,REP,Donna Rice,5
+Converse,11-11,U.S. Senate,,REP,John Holtz,0
+Converse,11-11,U.S. Senate,,REP,Josh Wheeler,3
+Converse,11-11,U.S. Senate,,REP,Michael Kemler,0
+Converse,11-11,U.S. Senate,,REP,R. Mark Armstrong,6
+Converse,11-11,U.S. Senate,,REP,Robert G. Short,52
+Converse,11-11,U.S. Senate,,REP,Star Roselli,0
+Converse,11-11,U.S. Senate,,REP,Write-ins,0
+Converse,11-11,U.S. Senate,,REP,Over Votes,0
+Converse,11-11,U.S. Senate,,REP,Under Votes,0
+Converse,11-11,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,11-11,U.S. Senate,,DEM,Kenneth R. Casner,0
+Converse,11-11,U.S. Senate,,DEM,Merav Ben David,0
+Converse,11-11,U.S. Senate,,DEM,Nathan Wendt,0
+Converse,11-11,U.S. Senate,,DEM,Rex Wilde,0
+Converse,11-11,U.S. Senate,,DEM,Yana Ludwig,1
+Converse,11-11,U.S. Senate,,DEM,Write-ins,0
+Converse,11-11,U.S. Senate,,DEM,Over Votes,0
+Converse,11-11,U.S. Senate,,DEM,Under Votes,0
+Converse,11-11,U.S. House,,REP,Blake Stanley,38
+Converse,11-11,U.S. House,,REP,Liz Cheney,70
+Converse,11-11,U.S. House,,REP,Write-ins,0
+Converse,11-11,U.S. House,,REP,Over Votes,0
+Converse,11-11,U.S. House,,REP,Under Votes,5
+Converse,11-11,U.S. House,,DEM,Carl Beach,0
+Converse,11-11,U.S. House,,DEM,Carol Hafner,1
+Converse,11-11,U.S. House,,DEM,Lynnette Grey Bull,0
+Converse,11-11,U.S. House,,DEM,Write-ins,0
+Converse,11-11,U.S. House,,DEM,Over Votes,0
+Converse,11-11,U.S. House,,DEM,Under Votes,0
+Converse,11-11,State Senate,2,REP,Brian Boner,100
+Converse,11-11,State Senate,2,REP,Write-ins,0
+Converse,11-11,State Senate,2,REP,Over Votes,0
+Converse,11-11,State Senate,2,REP,Under Votes,13
+Converse,11-11,State Senate,2,DEM,Write-ins,0
+Converse,11-11,State House,6,REP,Aaron Clausen,54
+Converse,11-11,State House,6,REP,Camilla F. Hicks,51
+Converse,11-11,State House,6,REP,Write-ins,0
+Converse,11-11,State House,6,REP,Over Votes,0
+Converse,11-11,State House,6,REP,Under Votes,8
+Converse,11-11,Ballots Cast,,REP,Ballots Cast,113
+Converse,11-11,Ballots Cast,,DEM,Ballots Cast,1
+Converse,11-11,Ballots Cast,,NP,Ballots Cast,2
+Converse,11-11,Ballots Cast,,,Ballots Cast,116
+Converse,13-13,U.S. Senate,,REP,Bryan E Miller,8
+Converse,13-13,U.S. Senate,,REP,Cynthia M. Lummis,30
+Converse,13-13,U.S. Senate,,REP,Devon Cade,0
+Converse,13-13,U.S. Senate,,REP,Donna Rice,6
+Converse,13-13,U.S. Senate,,REP,John Holtz,0
+Converse,13-13,U.S. Senate,,REP,Josh Wheeler,1
+Converse,13-13,U.S. Senate,,REP,Michael Kemler,1
+Converse,13-13,U.S. Senate,,REP,R. Mark Armstrong,0
+Converse,13-13,U.S. Senate,,REP,Robert G. Short,33
+Converse,13-13,U.S. Senate,,REP,Star Roselli,1
+Converse,13-13,U.S. Senate,,REP,Write-ins,0
+Converse,13-13,U.S. Senate,,REP,Over Votes,0
+Converse,13-13,U.S. Senate,,REP,Under Votes,3
+Converse,13-13,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,13-13,U.S. Senate,,DEM,Kenneth R. Casner,0
+Converse,13-13,U.S. Senate,,DEM,Merav Ben David,1
+Converse,13-13,U.S. Senate,,DEM,Nathan Wendt,0
+Converse,13-13,U.S. Senate,,DEM,Rex Wilde,0
+Converse,13-13,U.S. Senate,,DEM,Yana Ludwig,0
+Converse,13-13,U.S. Senate,,DEM,Write-ins,0
+Converse,13-13,U.S. Senate,,DEM,Over Votes,0
+Converse,13-13,U.S. Senate,,DEM,Under Votes,0
+Converse,13-13,U.S. House,,REP,Blake Stanley,15
+Converse,13-13,U.S. House,,REP,Liz Cheney,62
+Converse,13-13,U.S. House,,REP,Write-ins,0
+Converse,13-13,U.S. House,,REP,Over Votes,1
+Converse,13-13,U.S. House,,REP,Under Votes,5
+Converse,13-13,U.S. House,,DEM,Carl Beach,0
+Converse,13-13,U.S. House,,DEM,Carol Hafner,1
+Converse,13-13,U.S. House,,DEM,Lynnette Grey Bull,0
+Converse,13-13,U.S. House,,DEM,Write-ins,0
+Converse,13-13,U.S. House,,DEM,Over Votes,0
+Converse,13-13,U.S. House,,DEM,Under Votes,0
+Converse,13-13,State House,3,REP,Eric Barlow,58
+Converse,13-13,State House,3,REP,Martin E. Phillips,19
+Converse,13-13,State House,3,REP,Write-ins,0
+Converse,13-13,State House,3,REP,Over Votes,0
+Converse,13-13,State House,3,REP,Under Votes,6
+Converse,13-13,State House,3,DEM,Write-ins,0
+Converse,13-13,Ballots Cast,,REP,Ballots Cast,83
+Converse,13-13,Ballots Cast,,DEM,Ballots Cast,1
+Converse,13-13,Ballots Cast,,NP,Ballots Cast,0
+Converse,13-13,Ballots Cast,,,Ballots Cast,84
+Converse,2-2,U.S. Senate,,REP,Bryan E Miller,20
+Converse,2-2,U.S. Senate,,REP,Cynthia M. Lummis,76
+Converse,2-2,U.S. Senate,,REP,Devon Cade,1
+Converse,2-2,U.S. Senate,,REP,Donna Rice,7
+Converse,2-2,U.S. Senate,,REP,John Holtz,8
+Converse,2-2,U.S. Senate,,REP,Josh Wheeler,4
+Converse,2-2,U.S. Senate,,REP,Michael Kemler,3
+Converse,2-2,U.S. Senate,,REP,R. Mark Armstrong,0
+Converse,2-2,U.S. Senate,,REP,Robert G. Short,183
+Converse,2-2,U.S. Senate,,REP,Star Roselli,0
+Converse,2-2,U.S. Senate,,REP,Write-ins,1
+Converse,2-2,U.S. Senate,,REP,Over Votes,0
+Converse,2-2,U.S. Senate,,REP,Under Votes,1
+Converse,2-2,U.S. Senate,,DEM,James Kirk DeBrine,1
+Converse,2-2,U.S. Senate,,DEM,Kenneth R. Casner,2
+Converse,2-2,U.S. Senate,,DEM,Merav Ben David,4
+Converse,2-2,U.S. Senate,,DEM,Nathan Wendt,2
+Converse,2-2,U.S. Senate,,DEM,Rex Wilde,1
+Converse,2-2,U.S. Senate,,DEM,Yana Ludwig,4
+Converse,2-2,U.S. Senate,,DEM,Write-ins,0
+Converse,2-2,U.S. Senate,,DEM,Over Votes,0
+Converse,2-2,U.S. Senate,,DEM,Under Votes,0
+Converse,2-2,U.S. House,,REP,Blake Stanley,68
+Converse,2-2,U.S. House,,REP,Liz Cheney,224
+Converse,2-2,U.S. House,,REP,Write-ins,3
+Converse,2-2,U.S. House,,REP,Over Votes,0
+Converse,2-2,U.S. House,,REP,Under Votes,9
+Converse,2-2,U.S. House,,DEM,Carl Beach,0
+Converse,2-2,U.S. House,,DEM,Carol Hafner,6
+Converse,2-2,U.S. House,,DEM,Lynnette Grey Bull,5
+Converse,2-2,U.S. House,,DEM,Write-ins,0
+Converse,2-2,U.S. House,,DEM,Over Votes,1
+Converse,2-2,U.S. House,,DEM,Under Votes,2
+Converse,2-2,State Senate,2,REP,Brian Boner,268
+Converse,2-2,State Senate,2,REP,Write-ins,2
+Converse,2-2,State Senate,2,REP,Over Votes,0
+Converse,2-2,State Senate,2,REP,Under Votes,34
+Converse,2-2,State Senate,2,DEM,Write-ins,0
+Converse,2-2,State House,6,REP,Aaron Clausen,226
+Converse,2-2,State House,6,REP,Camilla F. Hicks,66
+Converse,2-2,State House,6,REP,Write-ins,0
+Converse,2-2,State House,6,REP,Over Votes,1
+Converse,2-2,State House,6,REP,Under Votes,11
+Converse,2-2,Ballots Cast,,REP,Ballots Cast,304
+Converse,2-2,Ballots Cast,,DEM,Ballots Cast,14
+Converse,2-2,Ballots Cast,,NP,Ballots Cast,0
+Converse,2-2,Ballots Cast,,,Ballots Cast,318
+Converse,20-20,U.S. Senate,,REP,Bryan E Miller,2
+Converse,20-20,U.S. Senate,,REP,Cynthia M. Lummis,34
+Converse,20-20,U.S. Senate,,REP,Devon Cade,0
+Converse,20-20,U.S. Senate,,REP,Donna Rice,2
+Converse,20-20,U.S. Senate,,REP,John Holtz,1
+Converse,20-20,U.S. Senate,,REP,Josh Wheeler,1
+Converse,20-20,U.S. Senate,,REP,Michael Kemler,0
+Converse,20-20,U.S. Senate,,REP,R. Mark Armstrong,2
+Converse,20-20,U.S. Senate,,REP,Robert G. Short,25
+Converse,20-20,U.S. Senate,,REP,Star Roselli,0
+Converse,20-20,U.S. Senate,,REP,Write-ins,0
+Converse,20-20,U.S. Senate,,REP,Over Votes,0
+Converse,20-20,U.S. Senate,,REP,Under Votes,0
+Converse,20-20,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,20-20,U.S. Senate,,DEM,Kenneth R. Casner,0
+Converse,20-20,U.S. Senate,,DEM,Merav Ben David,1
+Converse,20-20,U.S. Senate,,DEM,Nathan Wendt,1
+Converse,20-20,U.S. Senate,,DEM,Rex Wilde,0
+Converse,20-20,U.S. Senate,,DEM,Yana Ludwig,0
+Converse,20-20,U.S. Senate,,DEM,Write-ins,0
+Converse,20-20,U.S. Senate,,DEM,Over Votes,0
+Converse,20-20,U.S. Senate,,DEM,Under Votes,0
+Converse,20-20,U.S. House,,REP,Blake Stanley,12
+Converse,20-20,U.S. House,,REP,Liz Cheney,54
+Converse,20-20,U.S. House,,REP,Write-ins,1
+Converse,20-20,U.S. House,,REP,Over Votes,0
+Converse,20-20,U.S. House,,REP,Under Votes,0
+Converse,20-20,U.S. House,,DEM,Carl Beach,0
+Converse,20-20,U.S. House,,DEM,Carol Hafner,1
+Converse,20-20,U.S. House,,DEM,Lynnette Grey Bull,0
+Converse,20-20,U.S. House,,DEM,Write-ins,0
+Converse,20-20,U.S. House,,DEM,Over Votes,0
+Converse,20-20,U.S. House,,DEM,Under Votes,1
+Converse,20-20,State Senate,2,REP,Brian Boner,63
+Converse,20-20,State Senate,2,REP,Write-ins,0
+Converse,20-20,State Senate,2,REP,Over Votes,0
+Converse,20-20,State Senate,2,REP,Under Votes,4
+Converse,20-20,State Senate,2,DEM,Write-ins,0
+Converse,20-20,State House,6,REP,Aaron Clausen,44
+Converse,20-20,State House,6,REP,Camilla F. Hicks,22
+Converse,20-20,State House,6,REP,Write-ins,0
+Converse,20-20,State House,6,REP,Over Votes,0
+Converse,20-20,State House,6,REP,Under Votes,1
+Converse,20-20,Ballots Cast,,REP,Ballots Cast,67
+Converse,20-20,Ballots Cast,,DEM,Ballots Cast,2
+Converse,20-20,Ballots Cast,,NP,Ballots Cast,0
+Converse,20-20,Ballots Cast,,,Ballots Cast,69
+Converse,23-1,U.S. Senate,,REP,Bryan E Miller,9
+Converse,23-1,U.S. Senate,,REP,Cynthia M. Lummis,40
+Converse,23-1,U.S. Senate,,REP,Devon Cade,0
+Converse,23-1,U.S. Senate,,REP,Donna Rice,2
+Converse,23-1,U.S. Senate,,REP,John Holtz,2
+Converse,23-1,U.S. Senate,,REP,Josh Wheeler,5
+Converse,23-1,U.S. Senate,,REP,Michael Kemler,3
+Converse,23-1,U.S. Senate,,REP,R. Mark Armstrong,1
+Converse,23-1,U.S. Senate,,REP,Robert G. Short,88
+Converse,23-1,U.S. Senate,,REP,Star Roselli,2
+Converse,23-1,U.S. Senate,,REP,Write-ins,0
+Converse,23-1,U.S. Senate,,REP,Over Votes,1
+Converse,23-1,U.S. Senate,,REP,Under Votes,1
+Converse,23-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,23-1,U.S. Senate,,DEM,Kenneth R. Casner,2
+Converse,23-1,U.S. Senate,,DEM,Merav Ben David,4
+Converse,23-1,U.S. Senate,,DEM,Nathan Wendt,1
+Converse,23-1,U.S. Senate,,DEM,Rex Wilde,5
+Converse,23-1,U.S. Senate,,DEM,Yana Ludwig,3
+Converse,23-1,U.S. Senate,,DEM,Write-ins,0
+Converse,23-1,U.S. Senate,,DEM,Over Votes,0
+Converse,23-1,U.S. Senate,,DEM,Under Votes,0
+Converse,23-1,U.S. House,,REP,Blake Stanley,46
+Converse,23-1,U.S. House,,REP,Liz Cheney,105
+Converse,23-1,U.S. House,,REP,Write-ins,0
+Converse,23-1,U.S. House,,REP,Over Votes,0
+Converse,23-1,U.S. House,,REP,Under Votes,3
+Converse,23-1,U.S. House,,DEM,Carl Beach,5
+Converse,23-1,U.S. House,,DEM,Carol Hafner,3
+Converse,23-1,U.S. House,,DEM,Lynnette Grey Bull,5
+Converse,23-1,U.S. House,,DEM,Write-ins,0
+Converse,23-1,U.S. House,,DEM,Over Votes,0
+Converse,23-1,U.S. House,,DEM,Under Votes,2
+Converse,23-1,State House,3,REP,Eric Barlow,120
+Converse,23-1,State House,3,REP,Martin E. Phillips,30
+Converse,23-1,State House,3,REP,Write-ins,0
+Converse,23-1,State House,3,REP,Over Votes,0
+Converse,23-1,State House,3,REP,Under Votes,4
+Converse,23-1,State House,3,DEM,Write-ins,0
+Converse,23-1,Ballots Cast,,REP,Ballots Cast,154
+Converse,23-1,Ballots Cast,,DEM,Ballots Cast,15
+Converse,23-1,Ballots Cast,,NP,Ballots Cast,10
+Converse,23-1,Ballots Cast,,,Ballots Cast,179
+Converse,23-2,U.S. Senate,,REP,Bryan E Miller,25
+Converse,23-2,U.S. Senate,,REP,Cynthia M. Lummis,84
+Converse,23-2,U.S. Senate,,REP,Devon Cade,0
+Converse,23-2,U.S. Senate,,REP,Donna Rice,14
+Converse,23-2,U.S. Senate,,REP,John Holtz,3
+Converse,23-2,U.S. Senate,,REP,Josh Wheeler,7
+Converse,23-2,U.S. Senate,,REP,Michael Kemler,1
+Converse,23-2,U.S. Senate,,REP,R. Mark Armstrong,0
+Converse,23-2,U.S. Senate,,REP,Robert G. Short,146
+Converse,23-2,U.S. Senate,,REP,Star Roselli,0
+Converse,23-2,U.S. Senate,,REP,Write-ins,0
+Converse,23-2,U.S. Senate,,REP,Over Votes,2
+Converse,23-2,U.S. Senate,,REP,Under Votes,5
+Converse,23-2,U.S. Senate,,DEM,James Kirk DeBrine,3
+Converse,23-2,U.S. Senate,,DEM,Kenneth R. Casner,2
+Converse,23-2,U.S. Senate,,DEM,Merav Ben David,4
+Converse,23-2,U.S. Senate,,DEM,Nathan Wendt,4
+Converse,23-2,U.S. Senate,,DEM,Rex Wilde,2
+Converse,23-2,U.S. Senate,,DEM,Yana Ludwig,5
+Converse,23-2,U.S. Senate,,DEM,Write-ins,0
+Converse,23-2,U.S. Senate,,DEM,Over Votes,0
+Converse,23-2,U.S. Senate,,DEM,Under Votes,2
+Converse,23-2,U.S. House,,REP,Blake Stanley,81
+Converse,23-2,U.S. House,,REP,Liz Cheney,197
+Converse,23-2,U.S. House,,REP,Write-ins,0
+Converse,23-2,U.S. House,,REP,Over Votes,1
+Converse,23-2,U.S. House,,REP,Under Votes,8
+Converse,23-2,U.S. House,,DEM,Carl Beach,7
+Converse,23-2,U.S. House,,DEM,Carol Hafner,4
+Converse,23-2,U.S. House,,DEM,Lynnette Grey Bull,9
+Converse,23-2,U.S. House,,DEM,Write-ins,0
+Converse,23-2,U.S. House,,DEM,Over Votes,1
+Converse,23-2,U.S. House,,DEM,Under Votes,1
+Converse,23-2,State Senate,2,REP,Brian Boner,256
+Converse,23-2,State Senate,2,REP,Write-ins,4
+Converse,23-2,State Senate,2,REP,Over Votes,0
+Converse,23-2,State Senate,2,REP,Under Votes,27
+Converse,23-2,State Senate,2,DEM,Write-ins,0
+Converse,23-2,State House,6,REP,Aaron Clausen,179
+Converse,23-2,State House,6,REP,Camilla F. Hicks,93
+Converse,23-2,State House,6,REP,Write-ins,0
+Converse,23-2,State House,6,REP,Over Votes,0
+Converse,23-2,State House,6,REP,Under Votes,15
+Converse,23-2,Ballots Cast,,REP,Ballots Cast,287
+Converse,23-2,Ballots Cast,,DEM,Ballots Cast,22
+Converse,23-2,Ballots Cast,,NP,Ballots Cast,11
+Converse,23-2,Ballots Cast,,,Ballots Cast,320
+Converse,23-3,U.S. Senate,,REP,Bryan E Miller,16
+Converse,23-3,U.S. Senate,,REP,Cynthia M. Lummis,67
+Converse,23-3,U.S. Senate,,REP,Devon Cade,1
+Converse,23-3,U.S. Senate,,REP,Donna Rice,14
+Converse,23-3,U.S. Senate,,REP,John Holtz,4
+Converse,23-3,U.S. Senate,,REP,Josh Wheeler,8
+Converse,23-3,U.S. Senate,,REP,Michael Kemler,2
+Converse,23-3,U.S. Senate,,REP,R. Mark Armstrong,2
+Converse,23-3,U.S. Senate,,REP,Robert G. Short,103
+Converse,23-3,U.S. Senate,,REP,Star Roselli,0
+Converse,23-3,U.S. Senate,,REP,Write-ins,0
+Converse,23-3,U.S. Senate,,REP,Over Votes,1
+Converse,23-3,U.S. Senate,,REP,Under Votes,3
+Converse,23-3,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,23-3,U.S. Senate,,DEM,Kenneth R. Casner,2
+Converse,23-3,U.S. Senate,,DEM,Merav Ben David,3
+Converse,23-3,U.S. Senate,,DEM,Nathan Wendt,1
+Converse,23-3,U.S. Senate,,DEM,Rex Wilde,2
+Converse,23-3,U.S. Senate,,DEM,Yana Ludwig,5
+Converse,23-3,U.S. Senate,,DEM,Write-ins,4
+Converse,23-3,U.S. Senate,,DEM,Over Votes,0
+Converse,23-3,U.S. Senate,,DEM,Under Votes,2
+Converse,23-3,U.S. House,,REP,Blake Stanley,63
+Converse,23-3,U.S. House,,REP,Liz Cheney,152
+Converse,23-3,U.S. House,,REP,Write-ins,0
+Converse,23-3,U.S. House,,REP,Over Votes,0
+Converse,23-3,U.S. House,,REP,Under Votes,6
+Converse,23-3,U.S. House,,DEM,Carl Beach,3
+Converse,23-3,U.S. House,,DEM,Carol Hafner,5
+Converse,23-3,U.S. House,,DEM,Lynnette Grey Bull,8
+Converse,23-3,U.S. House,,DEM,Write-ins,0
+Converse,23-3,U.S. House,,DEM,Over Votes,0
+Converse,23-3,U.S. House,,DEM,Under Votes,3
+Converse,23-3,State Senate,2,REP,Brian Boner,198
+Converse,23-3,State Senate,2,REP,Write-ins,1
+Converse,23-3,State Senate,2,REP,Over Votes,0
+Converse,23-3,State Senate,2,REP,Under Votes,22
+Converse,23-3,State Senate,2,DEM,Write-ins,2
+Converse,23-3,State House,6,REP,Aaron Clausen,126
+Converse,23-3,State House,6,REP,Camilla F. Hicks,88
+Converse,23-3,State House,6,REP,Write-ins,0
+Converse,23-3,State House,6,REP,Over Votes,0
+Converse,23-3,State House,6,REP,Under Votes,7
+Converse,23-3,Ballots Cast,,REP,Ballots Cast,221
+Converse,23-3,Ballots Cast,,DEM,Ballots Cast,19
+Converse,23-3,Ballots Cast,,NP,Ballots Cast,4
+Converse,23-3,Ballots Cast,,,Ballots Cast,244
+Converse,23-4,U.S. Senate,,REP,Bryan E Miller,29
+Converse,23-4,U.S. Senate,,REP,Cynthia M. Lummis,90
+Converse,23-4,U.S. Senate,,REP,Devon Cade,1
+Converse,23-4,U.S. Senate,,REP,Donna Rice,6
+Converse,23-4,U.S. Senate,,REP,John Holtz,8
+Converse,23-4,U.S. Senate,,REP,Josh Wheeler,8
+Converse,23-4,U.S. Senate,,REP,Michael Kemler,0
+Converse,23-4,U.S. Senate,,REP,R. Mark Armstrong,10
+Converse,23-4,U.S. Senate,,REP,Robert G. Short,216
+Converse,23-4,U.S. Senate,,REP,Star Roselli,1
+Converse,23-4,U.S. Senate,,REP,Write-ins,1
+Converse,23-4,U.S. Senate,,REP,Over Votes,1
+Converse,23-4,U.S. Senate,,REP,Under Votes,7
+Converse,23-4,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,23-4,U.S. Senate,,DEM,Kenneth R. Casner,8
+Converse,23-4,U.S. Senate,,DEM,Merav Ben David,17
+Converse,23-4,U.S. Senate,,DEM,Nathan Wendt,7
+Converse,23-4,U.S. Senate,,DEM,Rex Wilde,1
+Converse,23-4,U.S. Senate,,DEM,Yana Ludwig,9
+Converse,23-4,U.S. Senate,,DEM,Write-ins,1
+Converse,23-4,U.S. Senate,,DEM,Over Votes,3
+Converse,23-4,U.S. Senate,,DEM,Under Votes,6
+Converse,23-4,U.S. House,,REP,Blake Stanley,88
+Converse,23-4,U.S. House,,REP,Liz Cheney,275
+Converse,23-4,U.S. House,,REP,Write-ins,1
+Converse,23-4,U.S. House,,REP,Over Votes,2
+Converse,23-4,U.S. House,,REP,Under Votes,12
+Converse,23-4,U.S. House,,DEM,Carl Beach,5
+Converse,23-4,U.S. House,,DEM,Carol Hafner,12
+Converse,23-4,U.S. House,,DEM,Lynnette Grey Bull,26
+Converse,23-4,U.S. House,,DEM,Write-ins,1
+Converse,23-4,U.S. House,,DEM,Over Votes,0
+Converse,23-4,U.S. House,,DEM,Under Votes,8
+Converse,23-4,State House,3,REP,Eric Barlow,288
+Converse,23-4,State House,3,REP,Martin E. Phillips,53
+Converse,23-4,State House,3,REP,Write-ins,2
+Converse,23-4,State House,3,REP,Over Votes,1
+Converse,23-4,State House,3,REP,Under Votes,34
+Converse,23-4,State House,3,DEM,Write-ins,3
+Converse,23-4,Ballots Cast,,REP,Ballots Cast,378
+Converse,23-4,Ballots Cast,,DEM,Ballots Cast,52
+Converse,23-4,Ballots Cast,,NP,Ballots Cast,20
+Converse,23-4,Ballots Cast,,,Ballots Cast,450
+Converse,23-5,U.S. Senate,,REP,Bryan E Miller,5
+Converse,23-5,U.S. Senate,,REP,Cynthia M. Lummis,42
+Converse,23-5,U.S. Senate,,REP,Devon Cade,1
+Converse,23-5,U.S. Senate,,REP,Donna Rice,14
+Converse,23-5,U.S. Senate,,REP,John Holtz,0
+Converse,23-5,U.S. Senate,,REP,Josh Wheeler,4
+Converse,23-5,U.S. Senate,,REP,Michael Kemler,0
+Converse,23-5,U.S. Senate,,REP,R. Mark Armstrong,4
+Converse,23-5,U.S. Senate,,REP,Robert G. Short,79
+Converse,23-5,U.S. Senate,,REP,Star Roselli,0
+Converse,23-5,U.S. Senate,,REP,Write-ins,0
+Converse,23-5,U.S. Senate,,REP,Over Votes,0
+Converse,23-5,U.S. Senate,,REP,Under Votes,1
+Converse,23-5,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,23-5,U.S. Senate,,DEM,Kenneth R. Casner,3
+Converse,23-5,U.S. Senate,,DEM,Merav Ben David,8
+Converse,23-5,U.S. Senate,,DEM,Nathan Wendt,1
+Converse,23-5,U.S. Senate,,DEM,Rex Wilde,0
+Converse,23-5,U.S. Senate,,DEM,Yana Ludwig,4
+Converse,23-5,U.S. Senate,,DEM,Write-ins,0
+Converse,23-5,U.S. Senate,,DEM,Over Votes,0
+Converse,23-5,U.S. Senate,,DEM,Under Votes,0
+Converse,23-5,U.S. House,,REP,Blake Stanley,39
+Converse,23-5,U.S. House,,REP,Liz Cheney,106
+Converse,23-5,U.S. House,,REP,Write-ins,1
+Converse,23-5,U.S. House,,REP,Over Votes,0
+Converse,23-5,U.S. House,,REP,Under Votes,4
+Converse,23-5,U.S. House,,DEM,Carl Beach,2
+Converse,23-5,U.S. House,,DEM,Carol Hafner,1
+Converse,23-5,U.S. House,,DEM,Lynnette Grey Bull,12
+Converse,23-5,U.S. House,,DEM,Write-ins,0
+Converse,23-5,U.S. House,,DEM,Over Votes,1
+Converse,23-5,U.S. House,,DEM,Under Votes,0
+Converse,23-5,State Senate,2,REP,Brian Boner,135
+Converse,23-5,State Senate,2,REP,Write-ins,2
+Converse,23-5,State Senate,2,REP,Over Votes,0
+Converse,23-5,State Senate,2,REP,Under Votes,13
+Converse,23-5,State Senate,2,DEM,Write-ins,0
+Converse,23-5,State House,6,REP,Aaron Clausen,110
+Converse,23-5,State House,6,REP,Camilla F. Hicks,39
+Converse,23-5,State House,6,REP,Write-ins,0
+Converse,23-5,State House,6,REP,Over Votes,0
+Converse,23-5,State House,6,REP,Under Votes,1
+Converse,23-5,Ballots Cast,,REP,Ballots Cast,150
+Converse,23-5,Ballots Cast,,DEM,Ballots Cast,16
+Converse,23-5,Ballots Cast,,NP,Ballots Cast,4
+Converse,23-5,Ballots Cast,,,Ballots Cast,170
+Converse,23-6,U.S. Senate,,REP,Bryan E Miller,5
+Converse,23-6,U.S. Senate,,REP,Cynthia M. Lummis,51
+Converse,23-6,U.S. Senate,,REP,Devon Cade,1
+Converse,23-6,U.S. Senate,,REP,Donna Rice,8
+Converse,23-6,U.S. Senate,,REP,John Holtz,3
+Converse,23-6,U.S. Senate,,REP,Josh Wheeler,9
+Converse,23-6,U.S. Senate,,REP,Michael Kemler,0
+Converse,23-6,U.S. Senate,,REP,R. Mark Armstrong,3
+Converse,23-6,U.S. Senate,,REP,Robert G. Short,113
+Converse,23-6,U.S. Senate,,REP,Star Roselli,0
+Converse,23-6,U.S. Senate,,REP,Write-ins,1
+Converse,23-6,U.S. Senate,,REP,Over Votes,1
+Converse,23-6,U.S. Senate,,REP,Under Votes,2
+Converse,23-6,U.S. Senate,,DEM,James Kirk DeBrine,3
+Converse,23-6,U.S. Senate,,DEM,Kenneth R. Casner,0
+Converse,23-6,U.S. Senate,,DEM,Merav Ben David,8
+Converse,23-6,U.S. Senate,,DEM,Nathan Wendt,0
+Converse,23-6,U.S. Senate,,DEM,Rex Wilde,0
+Converse,23-6,U.S. Senate,,DEM,Yana Ludwig,0
+Converse,23-6,U.S. Senate,,DEM,Write-ins,0
+Converse,23-6,U.S. Senate,,DEM,Over Votes,0
+Converse,23-6,U.S. Senate,,DEM,Under Votes,1
+Converse,23-6,U.S. House,,REP,Blake Stanley,56
+Converse,23-6,U.S. House,,REP,Liz Cheney,136
+Converse,23-6,U.S. House,,REP,Write-ins,0
+Converse,23-6,U.S. House,,REP,Over Votes,0
+Converse,23-6,U.S. House,,REP,Under Votes,5
+Converse,23-6,U.S. House,,DEM,Carl Beach,5
+Converse,23-6,U.S. House,,DEM,Carol Hafner,3
+Converse,23-6,U.S. House,,DEM,Lynnette Grey Bull,3
+Converse,23-6,U.S. House,,DEM,Write-ins,0
+Converse,23-6,U.S. House,,DEM,Over Votes,0
+Converse,23-6,U.S. House,,DEM,Under Votes,1
+Converse,23-6,State Senate,2,REP,Brian Boner,126
+Converse,23-6,State Senate,2,REP,Write-ins,0
+Converse,23-6,State Senate,2,REP,Over Votes,0
+Converse,23-6,State Senate,2,REP,Under Votes,71
+Converse,23-6,State Senate,2,DEM,Write-ins,0
+Converse,23-6,State House,4,REP,Dan R. Kirkbride,131
+Converse,23-6,State House,4,REP,Jeremy Haroldson,40
+Converse,23-6,State House,4,REP,Write-ins,0
+Converse,23-6,State House,4,REP,Over Votes,6
+Converse,23-6,State House,4,REP,Under Votes,20
+Converse,23-6,State House,4,DEM,Write-ins,0
+Converse,23-6,Ballots Cast,,REP,Ballots Cast,197
+Converse,23-6,Ballots Cast,,DEM,Ballots Cast,12
+Converse,23-6,Ballots Cast,,NP,Ballots Cast,2
+Converse,23-6,Ballots Cast,,,Ballots Cast,211
+Converse,3-1,U.S. Senate,,REP,Bryan E Miller,2
+Converse,3-1,U.S. Senate,,REP,Cynthia M. Lummis,46
+Converse,3-1,U.S. Senate,,REP,Devon Cade,1
+Converse,3-1,U.S. Senate,,REP,Donna Rice,5
+Converse,3-1,U.S. Senate,,REP,John Holtz,0
+Converse,3-1,U.S. Senate,,REP,Josh Wheeler,5
+Converse,3-1,U.S. Senate,,REP,Michael Kemler,0
+Converse,3-1,U.S. Senate,,REP,R. Mark Armstrong,2
+Converse,3-1,U.S. Senate,,REP,Robert G. Short,53
+Converse,3-1,U.S. Senate,,REP,Star Roselli,1
+Converse,3-1,U.S. Senate,,REP,Write-ins,0
+Converse,3-1,U.S. Senate,,REP,Over Votes,0
+Converse,3-1,U.S. Senate,,REP,Under Votes,2
+Converse,3-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,3-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Converse,3-1,U.S. Senate,,DEM,Merav Ben David,1
+Converse,3-1,U.S. Senate,,DEM,Nathan Wendt,0
+Converse,3-1,U.S. Senate,,DEM,Rex Wilde,0
+Converse,3-1,U.S. Senate,,DEM,Yana Ludwig,1
+Converse,3-1,U.S. Senate,,DEM,Write-ins,1
+Converse,3-1,U.S. Senate,,DEM,Over Votes,0
+Converse,3-1,U.S. Senate,,DEM,Under Votes,1
+Converse,3-1,U.S. House,,REP,Blake Stanley,28
+Converse,3-1,U.S. House,,REP,Liz Cheney,84
+Converse,3-1,U.S. House,,REP,Write-ins,0
+Converse,3-1,U.S. House,,REP,Over Votes,0
+Converse,3-1,U.S. House,,REP,Under Votes,5
+Converse,3-1,U.S. House,,DEM,Carl Beach,0
+Converse,3-1,U.S. House,,DEM,Carol Hafner,1
+Converse,3-1,U.S. House,,DEM,Lynnette Grey Bull,4
+Converse,3-1,U.S. House,,DEM,Write-ins,0
+Converse,3-1,U.S. House,,DEM,Over Votes,0
+Converse,3-1,U.S. House,,DEM,Under Votes,0
+Converse,3-1,State Senate,2,REP,Brian Boner,105
+Converse,3-1,State Senate,2,REP,Write-ins,0
+Converse,3-1,State Senate,2,REP,Over Votes,0
+Converse,3-1,State Senate,2,REP,Under Votes,12
+Converse,3-1,State Senate,2,DEM,Write-ins,0
+Converse,3-1,State House,6,REP,Aaron Clausen,66
+Converse,3-1,State House,6,REP,Camilla F. Hicks,50
+Converse,3-1,State House,6,REP,Write-ins,0
+Converse,3-1,State House,6,REP,Over Votes,0
+Converse,3-1,State House,6,REP,Under Votes,1
+Converse,3-1,Ballots Cast,,REP,Ballots Cast,117
+Converse,3-1,Ballots Cast,,DEM,Ballots Cast,5
+Converse,3-1,Ballots Cast,,NP,Ballots Cast,0
+Converse,3-1,Ballots Cast,,,Ballots Cast,122
+Converse,4-4,U.S. Senate,,REP,Bryan E Miller,17
+Converse,4-4,U.S. Senate,,REP,Cynthia M. Lummis,64
+Converse,4-4,U.S. Senate,,REP,Devon Cade,0
+Converse,4-4,U.S. Senate,,REP,Donna Rice,13
+Converse,4-4,U.S. Senate,,REP,John Holtz,1
+Converse,4-4,U.S. Senate,,REP,Josh Wheeler,10
+Converse,4-4,U.S. Senate,,REP,Michael Kemler,1
+Converse,4-4,U.S. Senate,,REP,R. Mark Armstrong,5
+Converse,4-4,U.S. Senate,,REP,Robert G. Short,154
+Converse,4-4,U.S. Senate,,REP,Star Roselli,0
+Converse,4-4,U.S. Senate,,REP,Write-ins,0
+Converse,4-4,U.S. Senate,,REP,Over Votes,0
+Converse,4-4,U.S. Senate,,REP,Under Votes,1
+Converse,4-4,U.S. Senate,,DEM,James Kirk DeBrine,1
+Converse,4-4,U.S. Senate,,DEM,Kenneth R. Casner,1
+Converse,4-4,U.S. Senate,,DEM,Merav Ben David,1
+Converse,4-4,U.S. Senate,,DEM,Nathan Wendt,3
+Converse,4-4,U.S. Senate,,DEM,Rex Wilde,1
+Converse,4-4,U.S. Senate,,DEM,Yana Ludwig,2
+Converse,4-4,U.S. Senate,,DEM,Write-ins,0
+Converse,4-4,U.S. Senate,,DEM,Over Votes,0
+Converse,4-4,U.S. Senate,,DEM,Under Votes,0
+Converse,4-4,U.S. House,,REP,Blake Stanley,89
+Converse,4-4,U.S. House,,REP,Liz Cheney,171
+Converse,4-4,U.S. House,,REP,Write-ins,0
+Converse,4-4,U.S. House,,REP,Over Votes,0
+Converse,4-4,U.S. House,,REP,Under Votes,6
+Converse,4-4,U.S. House,,DEM,Carl Beach,0
+Converse,4-4,U.S. House,,DEM,Carol Hafner,5
+Converse,4-4,U.S. House,,DEM,Lynnette Grey Bull,4
+Converse,4-4,U.S. House,,DEM,Write-ins,0
+Converse,4-4,U.S. House,,DEM,Over Votes,0
+Converse,4-4,U.S. House,,DEM,Under Votes,0
+Converse,4-4,State Senate,2,REP,Brian Boner,242
+Converse,4-4,State Senate,2,REP,Write-ins,1
+Converse,4-4,State Senate,2,REP,Over Votes,0
+Converse,4-4,State Senate,2,REP,Under Votes,23
+Converse,4-4,State Senate,2,DEM,Write-ins,1
+Converse,4-4,State House,6,REP,Aaron Clausen,167
+Converse,4-4,State House,6,REP,Camilla F. Hicks,89
+Converse,4-4,State House,6,REP,Write-ins,1
+Converse,4-4,State House,6,REP,Over Votes,0
+Converse,4-4,State House,6,REP,Under Votes,9
+Converse,4-4,Ballots Cast,,REP,Ballots Cast,266
+Converse,4-4,Ballots Cast,,DEM,Ballots Cast,9
+Converse,4-4,Ballots Cast,,NP,Ballots Cast,0
+Converse,4-4,Ballots Cast,,,Ballots Cast,275
+Converse,6-6,U.S. Senate,,REP,Bryan E Miller,17
+Converse,6-6,U.S. Senate,,REP,Cynthia M. Lummis,46
+Converse,6-6,U.S. Senate,,REP,Devon Cade,0
+Converse,6-6,U.S. Senate,,REP,Donna Rice,1
+Converse,6-6,U.S. Senate,,REP,John Holtz,1
+Converse,6-6,U.S. Senate,,REP,Josh Wheeler,0
+Converse,6-6,U.S. Senate,,REP,Michael Kemler,0
+Converse,6-6,U.S. Senate,,REP,R. Mark Armstrong,3
+Converse,6-6,U.S. Senate,,REP,Robert G. Short,112
+Converse,6-6,U.S. Senate,,REP,Star Roselli,0
+Converse,6-6,U.S. Senate,,REP,Write-ins,0
+Converse,6-6,U.S. Senate,,REP,Over Votes,2
+Converse,6-6,U.S. Senate,,REP,Under Votes,0
+Converse,6-6,U.S. Senate,,DEM,James Kirk DeBrine,1
+Converse,6-6,U.S. Senate,,DEM,Kenneth R. Casner,1
+Converse,6-6,U.S. Senate,,DEM,Merav Ben David,4
+Converse,6-6,U.S. Senate,,DEM,Nathan Wendt,1
+Converse,6-6,U.S. Senate,,DEM,Rex Wilde,1
+Converse,6-6,U.S. Senate,,DEM,Yana Ludwig,2
+Converse,6-6,U.S. Senate,,DEM,Write-ins,0
+Converse,6-6,U.S. Senate,,DEM,Over Votes,0
+Converse,6-6,U.S. Senate,,DEM,Under Votes,0
+Converse,6-6,U.S. House,,REP,Blake Stanley,47
+Converse,6-6,U.S. House,,REP,Liz Cheney,130
+Converse,6-6,U.S. House,,REP,Write-ins,0
+Converse,6-6,U.S. House,,REP,Over Votes,0
+Converse,6-6,U.S. House,,REP,Under Votes,5
+Converse,6-6,U.S. House,,DEM,Carl Beach,2
+Converse,6-6,U.S. House,,DEM,Carol Hafner,3
+Converse,6-6,U.S. House,,DEM,Lynnette Grey Bull,5
+Converse,6-6,U.S. House,,DEM,Write-ins,0
+Converse,6-6,U.S. House,,DEM,Over Votes,0
+Converse,6-6,U.S. House,,DEM,Under Votes,0
+Converse,6-6,State Senate,2,REP,Brian Boner,166
+Converse,6-6,State Senate,2,REP,Write-ins,0
+Converse,6-6,State Senate,2,REP,Over Votes,0
+Converse,6-6,State Senate,2,REP,Under Votes,16
+Converse,6-6,State Senate,2,DEM,Write-ins,0
+Converse,6-6,State House,6,REP,Aaron Clausen,107
+Converse,6-6,State House,6,REP,Camilla F. Hicks,66
+Converse,6-6,State House,6,REP,Write-ins,0
+Converse,6-6,State House,6,REP,Over Votes,0
+Converse,6-6,State House,6,REP,Under Votes,9
+Converse,6-6,Ballots Cast,,REP,Ballots Cast,182
+Converse,6-6,Ballots Cast,,DEM,Ballots Cast,10
+Converse,6-6,Ballots Cast,,NP,Ballots Cast,0
+Converse,6-6,Ballots Cast,,,Ballots Cast,192
+Converse,7-7,U.S. Senate,,REP,Bryan E Miller,15
+Converse,7-7,U.S. Senate,,REP,Cynthia M. Lummis,62
+Converse,7-7,U.S. Senate,,REP,Devon Cade,0
+Converse,7-7,U.S. Senate,,REP,Donna Rice,6
+Converse,7-7,U.S. Senate,,REP,John Holtz,5
+Converse,7-7,U.S. Senate,,REP,Josh Wheeler,2
+Converse,7-7,U.S. Senate,,REP,Michael Kemler,0
+Converse,7-7,U.S. Senate,,REP,R. Mark Armstrong,1
+Converse,7-7,U.S. Senate,,REP,Robert G. Short,61
+Converse,7-7,U.S. Senate,,REP,Star Roselli,0
+Converse,7-7,U.S. Senate,,REP,Write-ins,0
+Converse,7-7,U.S. Senate,,REP,Over Votes,0
+Converse,7-7,U.S. Senate,,REP,Under Votes,0
+Converse,7-7,U.S. Senate,,DEM,James Kirk DeBrine,0
+Converse,7-7,U.S. Senate,,DEM,Kenneth R. Casner,1
+Converse,7-7,U.S. Senate,,DEM,Merav Ben David,3
+Converse,7-7,U.S. Senate,,DEM,Nathan Wendt,0
+Converse,7-7,U.S. Senate,,DEM,Rex Wilde,0
+Converse,7-7,U.S. Senate,,DEM,Yana Ludwig,3
+Converse,7-7,U.S. Senate,,DEM,Write-ins,0
+Converse,7-7,U.S. Senate,,DEM,Over Votes,0
+Converse,7-7,U.S. Senate,,DEM,Under Votes,2
+Converse,7-7,U.S. House,,REP,Blake Stanley,26
+Converse,7-7,U.S. House,,REP,Liz Cheney,123
+Converse,7-7,U.S. House,,REP,Write-ins,0
+Converse,7-7,U.S. House,,REP,Over Votes,0
+Converse,7-7,U.S. House,,REP,Under Votes,3
+Converse,7-7,U.S. House,,DEM,Carl Beach,2
+Converse,7-7,U.S. House,,DEM,Carol Hafner,1
+Converse,7-7,U.S. House,,DEM,Lynnette Grey Bull,4
+Converse,7-7,U.S. House,,DEM,Write-ins,0
+Converse,7-7,U.S. House,,DEM,Over Votes,0
+Converse,7-7,U.S. House,,DEM,Under Votes,2
+Converse,7-7,State Senate,2,REP,Brian Boner,129
+Converse,7-7,State Senate,2,REP,Write-ins,0
+Converse,7-7,State Senate,2,REP,Over Votes,0
+Converse,7-7,State Senate,2,REP,Under Votes,23
+Converse,7-7,State Senate,2,DEM,Write-ins,1
+Converse,7-7,State House,6,REP,Aaron Clausen,91
+Converse,7-7,State House,6,REP,Camilla F. Hicks,52
+Converse,7-7,State House,6,REP,Write-ins,2
+Converse,7-7,State House,6,REP,Over Votes,0
+Converse,7-7,State House,6,REP,Under Votes,7
+Converse,7-7,Ballots Cast,,REP,Ballots Cast,152
+Converse,7-7,Ballots Cast,,DEM,Ballots Cast,9
+Converse,7-7,Ballots Cast,,NP,Ballots Cast,0
+Converse,7-7,Ballots Cast,,,Ballots Cast,161
+Converse,8-8,U.S. Senate,,REP,Bryan E Miller,17
+Converse,8-8,U.S. Senate,,REP,Cynthia M. Lummis,46
+Converse,8-8,U.S. Senate,,REP,Devon Cade,0
+Converse,8-8,U.S. Senate,,REP,Donna Rice,7
+Converse,8-8,U.S. Senate,,REP,John Holtz,3
+Converse,8-8,U.S. Senate,,REP,Josh Wheeler,4
+Converse,8-8,U.S. Senate,,REP,Michael Kemler,0
+Converse,8-8,U.S. Senate,,REP,R. Mark Armstrong,0
+Converse,8-8,U.S. Senate,,REP,Robert G. Short,106
+Converse,8-8,U.S. Senate,,REP,Star Roselli,0
+Converse,8-8,U.S. Senate,,REP,Write-ins,0
+Converse,8-8,U.S. Senate,,REP,Over Votes,2
+Converse,8-8,U.S. Senate,,REP,Under Votes,2
+Converse,8-8,U.S. Senate,,DEM,James Kirk DeBrine,1
+Converse,8-8,U.S. Senate,,DEM,Kenneth R. Casner,1
+Converse,8-8,U.S. Senate,,DEM,Merav Ben David,1
+Converse,8-8,U.S. Senate,,DEM,Nathan Wendt,4
+Converse,8-8,U.S. Senate,,DEM,Rex Wilde,0
+Converse,8-8,U.S. Senate,,DEM,Yana Ludwig,3
+Converse,8-8,U.S. Senate,,DEM,Write-ins,0
+Converse,8-8,U.S. Senate,,DEM,Over Votes,0
+Converse,8-8,U.S. Senate,,DEM,Under Votes,0
+Converse,8-8,U.S. House,,REP,Blake Stanley,42
+Converse,8-8,U.S. House,,REP,Liz Cheney,140
+Converse,8-8,U.S. House,,REP,Write-ins,0
+Converse,8-8,U.S. House,,REP,Over Votes,0
+Converse,8-8,U.S. House,,REP,Under Votes,5
+Converse,8-8,U.S. House,,DEM,Carl Beach,1
+Converse,8-8,U.S. House,,DEM,Carol Hafner,5
+Converse,8-8,U.S. House,,DEM,Lynnette Grey Bull,4
+Converse,8-8,U.S. House,,DEM,Write-ins,0
+Converse,8-8,U.S. House,,DEM,Over Votes,0
+Converse,8-8,U.S. House,,DEM,Under Votes,0
+Converse,8-8,State Senate,2,REP,Brian Boner,127
+Converse,8-8,State Senate,2,REP,Write-ins,3
+Converse,8-8,State Senate,2,REP,Over Votes,0
+Converse,8-8,State Senate,2,REP,Under Votes,57
+Converse,8-8,State Senate,2,DEM,Write-ins,1
+Converse,8-8,State House,4,REP,Dan R. Kirkbride,124
+Converse,8-8,State House,4,REP,Jeremy Haroldson,40
+Converse,8-8,State House,4,REP,Write-ins,1
+Converse,8-8,State House,4,REP,Over Votes,5
+Converse,8-8,State House,4,REP,Under Votes,17
+Converse,8-8,State House,4,DEM,Write-ins,1
+Converse,8-8,Ballots Cast,,REP,Ballots Cast,187
+Converse,8-8,Ballots Cast,,DEM,Ballots Cast,10
+Converse,8-8,Ballots Cast,,NP,Ballots Cast,0
+Converse,8-8,Ballots Cast,,,Ballots Cast,197
+Converse,9-1,U.S. Senate,,REP,Bryan E Miller,15
+Converse,9-1,U.S. Senate,,REP,Cynthia M. Lummis,97
+Converse,9-1,U.S. Senate,,REP,Devon Cade,2
+Converse,9-1,U.S. Senate,,REP,Donna Rice,10
+Converse,9-1,U.S. Senate,,REP,John Holtz,0
+Converse,9-1,U.S. Senate,,REP,Josh Wheeler,3
+Converse,9-1,U.S. Senate,,REP,Michael Kemler,1
+Converse,9-1,U.S. Senate,,REP,R. Mark Armstrong,7
+Converse,9-1,U.S. Senate,,REP,Robert G. Short,175
+Converse,9-1,U.S. Senate,,REP,Star Roselli,0
+Converse,9-1,U.S. Senate,,REP,Write-ins,0
+Converse,9-1,U.S. Senate,,REP,Over Votes,0
+Converse,9-1,U.S. Senate,,REP,Under Votes,6
+Converse,9-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Converse,9-1,U.S. Senate,,DEM,Kenneth R. Casner,5
+Converse,9-1,U.S. Senate,,DEM,Merav Ben David,7
+Converse,9-1,U.S. Senate,,DEM,Nathan Wendt,4
+Converse,9-1,U.S. Senate,,DEM,Rex Wilde,3
+Converse,9-1,U.S. Senate,,DEM,Yana Ludwig,3
+Converse,9-1,U.S. Senate,,DEM,Write-ins,0
+Converse,9-1,U.S. Senate,,DEM,Over Votes,0
+Converse,9-1,U.S. Senate,,DEM,Under Votes,3
+Converse,9-1,U.S. House,,REP,Blake Stanley,80
+Converse,9-1,U.S. House,,REP,Liz Cheney,225
+Converse,9-1,U.S. House,,REP,Write-ins,2
+Converse,9-1,U.S. House,,REP,Over Votes,0
+Converse,9-1,U.S. House,,REP,Under Votes,9
+Converse,9-1,U.S. House,,DEM,Carl Beach,4
+Converse,9-1,U.S. House,,DEM,Carol Hafner,9
+Converse,9-1,U.S. House,,DEM,Lynnette Grey Bull,10
+Converse,9-1,U.S. House,,DEM,Write-ins,0
+Converse,9-1,U.S. House,,DEM,Over Votes,0
+Converse,9-1,U.S. House,,DEM,Under Votes,3
+Converse,9-1,State Senate,2,REP,Brian Boner,275
+Converse,9-1,State Senate,2,REP,Write-ins,2
+Converse,9-1,State Senate,2,REP,Over Votes,0
+Converse,9-1,State Senate,2,REP,Under Votes,39
+Converse,9-1,State Senate,2,DEM,Write-ins,1
+Converse,9-1,State House,6,REP,Aaron Clausen,135
+Converse,9-1,State House,6,REP,Camilla F. Hicks,156
+Converse,9-1,State House,6,REP,Write-ins,1
+Converse,9-1,State House,6,REP,Over Votes,0
+Converse,9-1,State House,6,REP,Under Votes,24
+Converse,9-1,Ballots Cast,,REP,Ballots Cast,316
+Converse,9-1,Ballots Cast,,DEM,Ballots Cast,26
+Converse,9-1,Ballots Cast,,NP,Ballots Cast,9
+Converse,9-1,Ballots Cast,,,Ballots Cast,351
+Converse,9-2,U.S. Senate,,REP,Bryan E Miller,11
+Converse,9-2,U.S. Senate,,REP,Cynthia M. Lummis,62
+Converse,9-2,U.S. Senate,,REP,Devon Cade,2
+Converse,9-2,U.S. Senate,,REP,Donna Rice,10
+Converse,9-2,U.S. Senate,,REP,John Holtz,3
+Converse,9-2,U.S. Senate,,REP,Josh Wheeler,2
+Converse,9-2,U.S. Senate,,REP,Michael Kemler,0
+Converse,9-2,U.S. Senate,,REP,R. Mark Armstrong,7
+Converse,9-2,U.S. Senate,,REP,Robert G. Short,159
+Converse,9-2,U.S. Senate,,REP,Star Roselli,1
+Converse,9-2,U.S. Senate,,REP,Write-ins,0
+Converse,9-2,U.S. Senate,,REP,Over Votes,1
+Converse,9-2,U.S. Senate,,REP,Under Votes,2
+Converse,9-2,U.S. Senate,,DEM,James Kirk DeBrine,3
+Converse,9-2,U.S. Senate,,DEM,Kenneth R. Casner,5
+Converse,9-2,U.S. Senate,,DEM,Merav Ben David,9
+Converse,9-2,U.S. Senate,,DEM,Nathan Wendt,7
+Converse,9-2,U.S. Senate,,DEM,Rex Wilde,1
+Converse,9-2,U.S. Senate,,DEM,Yana Ludwig,8
+Converse,9-2,U.S. Senate,,DEM,Write-ins,0
+Converse,9-2,U.S. Senate,,DEM,Over Votes,0
+Converse,9-2,U.S. Senate,,DEM,Under Votes,1
+Converse,9-2,U.S. House,,REP,Blake Stanley,65
+Converse,9-2,U.S. House,,REP,Liz Cheney,190
+Converse,9-2,U.S. House,,REP,Write-ins,0
+Converse,9-2,U.S. House,,REP,Over Votes,0
+Converse,9-2,U.S. House,,REP,Under Votes,5
+Converse,9-2,U.S. House,,DEM,Carl Beach,10
+Converse,9-2,U.S. House,,DEM,Carol Hafner,8
+Converse,9-2,U.S. House,,DEM,Lynnette Grey Bull,12
+Converse,9-2,U.S. House,,DEM,Write-ins,0
+Converse,9-2,U.S. House,,DEM,Over Votes,3
+Converse,9-2,U.S. House,,DEM,Under Votes,1
+Converse,9-2,State Senate,2,REP,Brian Boner,231
+Converse,9-2,State Senate,2,REP,Write-ins,2
+Converse,9-2,State Senate,2,REP,Over Votes,0
+Converse,9-2,State Senate,2,REP,Under Votes,27
+Converse,9-2,State Senate,2,DEM,Write-ins,1
+Converse,9-2,State House,6,REP,Aaron Clausen,141
+Converse,9-2,State House,6,REP,Camilla F. Hicks,107
+Converse,9-2,State House,6,REP,Write-ins,2
+Converse,9-2,State House,6,REP,Over Votes,0
+Converse,9-2,State House,6,REP,Under Votes,10
+Converse,9-2,Ballots Cast,,REP,Ballots Cast,260
+Converse,9-2,Ballots Cast,,DEM,Ballots Cast,34
+Converse,9-2,Ballots Cast,,NP,Ballots Cast,9
+Converse,9-2,Ballots Cast,,,Ballots Cast,303

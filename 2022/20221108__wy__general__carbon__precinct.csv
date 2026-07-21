@@ -1,0 +1,894 @@
+county,precinct,office,district,party,candidate,votes
+Carbon,13-01,U.S. House,,REP,Harriet Hageman,156
+Carbon,13-01,U.S. House,,DEM,Lynnette GreyBull,40
+Carbon,13-01,U.S. House,,LIB,Richard Brubaker,5
+Carbon,13-01,U.S. House,,CTRY,Marissa Joy Selvig,1
+Carbon,13-01,U.S. House,,,Write-ins,6
+Carbon,13-01,U.S. House,,,Over Votes,1
+Carbon,13-01,U.S. House,,,Under Votes,6
+Carbon,13-01,Governor,,REP,Mark Gordon,165
+Carbon,13-01,Governor,,DEM,Theresa A. Livingston,29
+Carbon,13-01,Governor,,LIB,Jared J. Baldes,8
+Carbon,13-01,Governor,,,Write-ins,11
+Carbon,13-01,Governor,,,Over Votes,0
+Carbon,13-01,Governor,,,Under Votes,2
+Carbon,13-01,Secretary of State,,REP,Chuck Gray,162
+Carbon,13-01,Secretary of State,,,Write-ins,12
+Carbon,13-01,Secretary of State,,,Over Votes,0
+Carbon,13-01,Secretary of State,,,Under Votes,41
+Carbon,13-01,State Auditor,,REP,Kristi Racines,178
+Carbon,13-01,State Auditor,,,Write-ins,0
+Carbon,13-01,State Auditor,,,Over Votes,0
+Carbon,13-01,State Auditor,,,Under Votes,37
+Carbon,13-01,State Treasurer,,REP,Curt Meier,179
+Carbon,13-01,State Treasurer,,,Write-ins,2
+Carbon,13-01,State Treasurer,,,Over Votes,0
+Carbon,13-01,State Treasurer,,,Under Votes,34
+Carbon,13-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,169
+Carbon,13-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",38
+Carbon,13-01,Superintendent of Public Instruction,,,Write-ins,1
+Carbon,13-01,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,13-01,Superintendent of Public Instruction,,,Under Votes,7
+Carbon,13-01,State Senate,11,REP,Larry Hicks,158
+Carbon,13-01,State Senate,11,CTRY,Michael Ray Williams,27
+Carbon,13-01,State Senate,11,,Write-ins,1
+Carbon,13-01,State Senate,11,,Over Votes,0
+Carbon,13-01,State Senate,11,,Under Votes,29
+Carbon,13-01,State House,47,REP,"Robert ""Bob"" Davis",145
+Carbon,13-01,State House,47,DEM,Lee Ann Stephenson,65
+Carbon,13-01,State House,47,,Write-ins,0
+Carbon,13-01,State House,47,,Over Votes,1
+Carbon,13-01,State House,47,,Under Votes,4
+Carbon,13-01,Ballots Cast,,,Ballots Cast,215
+Carbon,13-01,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,13-01,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,44
+Carbon,13-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,13-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,27
+Carbon,13-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,13-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,16
+Carbon,14-01,U.S. House,,REP,Harriet Hageman,84
+Carbon,14-01,U.S. House,,DEM,Lynnette GreyBull,7
+Carbon,14-01,U.S. House,,LIB,Richard Brubaker,1
+Carbon,14-01,U.S. House,,CTRY,Marissa Joy Selvig,1
+Carbon,14-01,U.S. House,,,Write-ins,2
+Carbon,14-01,U.S. House,,,Over Votes,3
+Carbon,14-01,U.S. House,,,Under Votes,2
+Carbon,14-01,Governor,,REP,Mark Gordon,91
+Carbon,14-01,Governor,,DEM,Theresa A. Livingston,2
+Carbon,14-01,Governor,,LIB,Jared J. Baldes,5
+Carbon,14-01,Governor,,,Write-ins,0
+Carbon,14-01,Governor,,,Over Votes,0
+Carbon,14-01,Governor,,,Under Votes,2
+Carbon,14-01,Secretary of State,,REP,Chuck Gray,85
+Carbon,14-01,Secretary of State,,,Write-ins,5
+Carbon,14-01,Secretary of State,,,Over Votes,0
+Carbon,14-01,Secretary of State,,,Under Votes,10
+Carbon,14-01,State Auditor,,REP,Kristi Racines,87
+Carbon,14-01,State Auditor,,,Write-ins,1
+Carbon,14-01,State Auditor,,,Over Votes,0
+Carbon,14-01,State Auditor,,,Under Votes,12
+Carbon,14-01,State Treasurer,,REP,Curt Meier,90
+Carbon,14-01,State Treasurer,,,Write-ins,0
+Carbon,14-01,State Treasurer,,,Over Votes,0
+Carbon,14-01,State Treasurer,,,Under Votes,10
+Carbon,14-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,86
+Carbon,14-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Carbon,14-01,Superintendent of Public Instruction,,,Write-ins,1
+Carbon,14-01,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,14-01,Superintendent of Public Instruction,,,Under Votes,8
+Carbon,14-01,State Senate,11,REP,Larry Hicks,76
+Carbon,14-01,State Senate,11,CTRY,Michael Ray Williams,17
+Carbon,14-01,State Senate,11,,Write-ins,2
+Carbon,14-01,State Senate,11,,Over Votes,0
+Carbon,14-01,State Senate,11,,Under Votes,5
+Carbon,14-01,State House,47,REP,"Robert ""Bob"" Davis",84
+Carbon,14-01,State House,47,DEM,Lee Ann Stephenson,10
+Carbon,14-01,State House,47,,Write-ins,1
+Carbon,14-01,State House,47,,Over Votes,0
+Carbon,14-01,State House,47,,Under Votes,5
+Carbon,14-01,Ballots Cast,,,Ballots Cast,100
+Carbon,14-01,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,14-01,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,18
+Carbon,14-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,14-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,12
+Carbon,14-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,14-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,7
+Carbon,15-01,U.S. House,,REP,Harriet Hageman,240
+Carbon,15-01,U.S. House,,DEM,Lynnette GreyBull,12
+Carbon,15-01,U.S. House,,LIB,Richard Brubaker,4
+Carbon,15-01,U.S. House,,CTRY,Marissa Joy Selvig,4
+Carbon,15-01,U.S. House,,,Write-ins,0
+Carbon,15-01,U.S. House,,,Over Votes,0
+Carbon,15-01,U.S. House,,,Under Votes,2
+Carbon,15-01,Governor,,REP,Mark Gordon,225
+Carbon,15-01,Governor,,DEM,Theresa A. Livingston,8
+Carbon,15-01,Governor,,LIB,Jared J. Baldes,14
+Carbon,15-01,Governor,,,Write-ins,5
+Carbon,15-01,Governor,,,Over Votes,0
+Carbon,15-01,Governor,,,Under Votes,10
+Carbon,15-01,Secretary of State,,REP,Chuck Gray,233
+Carbon,15-01,Secretary of State,,,Write-ins,4
+Carbon,15-01,Secretary of State,,,Over Votes,0
+Carbon,15-01,Secretary of State,,,Under Votes,25
+Carbon,15-01,State Auditor,,REP,Kristi Racines,232
+Carbon,15-01,State Auditor,,,Write-ins,1
+Carbon,15-01,State Auditor,,,Over Votes,0
+Carbon,15-01,State Auditor,,,Under Votes,29
+Carbon,15-01,State Treasurer,,REP,Curt Meier,226
+Carbon,15-01,State Treasurer,,,Write-ins,1
+Carbon,15-01,State Treasurer,,,Over Votes,0
+Carbon,15-01,State Treasurer,,,Under Votes,35
+Carbon,15-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,224
+Carbon,15-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",21
+Carbon,15-01,Superintendent of Public Instruction,,,Write-ins,2
+Carbon,15-01,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,15-01,Superintendent of Public Instruction,,,Under Votes,15
+Carbon,15-01,State Senate,11,REP,Larry Hicks,209
+Carbon,15-01,State Senate,11,CTRY,Michael Ray Williams,48
+Carbon,15-01,State Senate,11,,Write-ins,0
+Carbon,15-01,State Senate,11,,Over Votes,0
+Carbon,15-01,State Senate,11,,Under Votes,5
+Carbon,15-01,State House,47,REP,"Robert ""Bob"" Davis",227
+Carbon,15-01,State House,47,DEM,Lee Ann Stephenson,27
+Carbon,15-01,State House,47,,Write-ins,1
+Carbon,15-01,State House,47,,Over Votes,1
+Carbon,15-01,State House,47,,Under Votes,6
+Carbon,15-01,Ballots Cast,,,Ballots Cast,262
+Carbon,15-01,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,1
+Carbon,15-01,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,43
+Carbon,15-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,15-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,33
+Carbon,15-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,15-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,26
+Carbon,2022-01-01 00:00:00,U.S. House,,REP,Harriet Hageman,176
+Carbon,2022-01-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,90
+Carbon,2022-01-01 00:00:00,U.S. House,,LIB,Richard Brubaker,15
+Carbon,2022-01-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,9
+Carbon,2022-01-01 00:00:00,U.S. House,,,Write-ins,2
+Carbon,2022-01-01 00:00:00,U.S. House,,,Over Votes,0
+Carbon,2022-01-01 00:00:00,U.S. House,,,Under Votes,8
+Carbon,2022-01-01 00:00:00,Governor,,REP,Mark Gordon,194
+Carbon,2022-01-01 00:00:00,Governor,,DEM,Theresa A. Livingston,71
+Carbon,2022-01-01 00:00:00,Governor,,LIB,Jared J. Baldes,19
+Carbon,2022-01-01 00:00:00,Governor,,,Write-ins,8
+Carbon,2022-01-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-01-01 00:00:00,Governor,,,Under Votes,8
+Carbon,2022-01-01 00:00:00,Secretary of State,,REP,Chuck Gray,237
+Carbon,2022-01-01 00:00:00,Secretary of State,,,Write-ins,7
+Carbon,2022-01-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-01-01 00:00:00,Secretary of State,,,Under Votes,56
+Carbon,2022-01-01 00:00:00,State Auditor,,REP,Kristi Racines,242
+Carbon,2022-01-01 00:00:00,State Auditor,,,Write-ins,1
+Carbon,2022-01-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-01-01 00:00:00,State Auditor,,,Under Votes,57
+Carbon,2022-01-01 00:00:00,State Treasurer,,REP,Curt Meier,231
+Carbon,2022-01-01 00:00:00,State Treasurer,,,Write-ins,1
+Carbon,2022-01-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-01-01 00:00:00,State Treasurer,,,Under Votes,68
+Carbon,2022-01-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,182
+Carbon,2022-01-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",98
+Carbon,2022-01-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,5
+Carbon,2022-01-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-01-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,15
+Carbon,2022-01-01 00:00:00,State Senate,11,REP,Larry Hicks,187
+Carbon,2022-01-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,85
+Carbon,2022-01-01 00:00:00,State Senate,11,,Write-ins,3
+Carbon,2022-01-01 00:00:00,State Senate,11,,Over Votes,1
+Carbon,2022-01-01 00:00:00,State Senate,11,,Under Votes,24
+Carbon,2022-01-01 00:00:00,State House,15,REP,Donald Burkhart,182
+Carbon,2022-01-01 00:00:00,State House,15,LIB,Patrick Gonzales,96
+Carbon,2022-01-01 00:00:00,State House,15,,Write-ins,4
+Carbon,2022-01-01 00:00:00,State House,15,,Over Votes,0
+Carbon,2022-01-01 00:00:00,State House,15,,Under Votes,18
+Carbon,2022-01-01 00:00:00,Ballots Cast,,,Ballots Cast,300
+Carbon,2022-01-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-01-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,27
+Carbon,2022-01-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-01-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,31
+Carbon,2022-01-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-01-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,15
+Carbon,2022-01-02 00:00:00,U.S. House,,REP,Harriet Hageman,167
+Carbon,2022-01-02 00:00:00,U.S. House,,DEM,Lynnette GreyBull,33
+Carbon,2022-01-02 00:00:00,U.S. House,,LIB,Richard Brubaker,14
+Carbon,2022-01-02 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,4
+Carbon,2022-01-02 00:00:00,U.S. House,,,Write-ins,3
+Carbon,2022-01-02 00:00:00,U.S. House,,,Over Votes,1
+Carbon,2022-01-02 00:00:00,U.S. House,,,Under Votes,3
+Carbon,2022-01-02 00:00:00,Governor,,REP,Mark Gordon,162
+Carbon,2022-01-02 00:00:00,Governor,,DEM,Theresa A. Livingston,25
+Carbon,2022-01-02 00:00:00,Governor,,LIB,Jared J. Baldes,14
+Carbon,2022-01-02 00:00:00,Governor,,,Write-ins,13
+Carbon,2022-01-02 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-01-02 00:00:00,Governor,,,Under Votes,11
+Carbon,2022-01-02 00:00:00,Secretary of State,,REP,Chuck Gray,189
+Carbon,2022-01-02 00:00:00,Secretary of State,,,Write-ins,12
+Carbon,2022-01-02 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-01-02 00:00:00,Secretary of State,,,Under Votes,24
+Carbon,2022-01-02 00:00:00,State Auditor,,REP,Kristi Racines,190
+Carbon,2022-01-02 00:00:00,State Auditor,,,Write-ins,3
+Carbon,2022-01-02 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-01-02 00:00:00,State Auditor,,,Under Votes,32
+Carbon,2022-01-02 00:00:00,State Treasurer,,REP,Curt Meier,192
+Carbon,2022-01-02 00:00:00,State Treasurer,,,Write-ins,4
+Carbon,2022-01-02 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-01-02 00:00:00,State Treasurer,,,Under Votes,29
+Carbon,2022-01-02 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,180
+Carbon,2022-01-02 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",33
+Carbon,2022-01-02 00:00:00,Superintendent of Public Instruction,,,Write-ins,1
+Carbon,2022-01-02 00:00:00,Superintendent of Public Instruction,,,Over Votes,1
+Carbon,2022-01-02 00:00:00,Superintendent of Public Instruction,,,Under Votes,10
+Carbon,2022-01-02 00:00:00,State Senate,11,REP,Larry Hicks,153
+Carbon,2022-01-02 00:00:00,State Senate,11,CTRY,Michael Ray Williams,56
+Carbon,2022-01-02 00:00:00,State Senate,11,,Write-ins,1
+Carbon,2022-01-02 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-01-02 00:00:00,State Senate,11,,Under Votes,15
+Carbon,2022-01-02 00:00:00,State House,15,REP,Donald Burkhart,155
+Carbon,2022-01-02 00:00:00,State House,15,LIB,Patrick Gonzales,54
+Carbon,2022-01-02 00:00:00,State House,15,,Write-ins,2
+Carbon,2022-01-02 00:00:00,State House,15,,Over Votes,1
+Carbon,2022-01-02 00:00:00,State House,15,,Under Votes,13
+Carbon,2022-01-02 00:00:00,Ballots Cast,,,Ballots Cast,225
+Carbon,2022-01-02 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-01-02 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,39
+Carbon,2022-01-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-01-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,21
+Carbon,2022-01-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-01-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,13
+Carbon,2022-02-01 00:00:00,U.S. House,,REP,Harriet Hageman,242
+Carbon,2022-02-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,65
+Carbon,2022-02-01 00:00:00,U.S. House,,LIB,Richard Brubaker,16
+Carbon,2022-02-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,20
+Carbon,2022-02-01 00:00:00,U.S. House,,,Write-ins,7
+Carbon,2022-02-01 00:00:00,U.S. House,,,Over Votes,3
+Carbon,2022-02-01 00:00:00,U.S. House,,,Under Votes,8
+Carbon,2022-02-01 00:00:00,Governor,,REP,Mark Gordon,280
+Carbon,2022-02-01 00:00:00,Governor,,DEM,Theresa A. Livingston,44
+Carbon,2022-02-01 00:00:00,Governor,,LIB,Jared J. Baldes,18
+Carbon,2022-02-01 00:00:00,Governor,,,Write-ins,16
+Carbon,2022-02-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-02-01 00:00:00,Governor,,,Under Votes,3
+Carbon,2022-02-01 00:00:00,Secretary of State,,REP,Chuck Gray,298
+Carbon,2022-02-01 00:00:00,Secretary of State,,,Write-ins,19
+Carbon,2022-02-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-02-01 00:00:00,Secretary of State,,,Under Votes,44
+Carbon,2022-02-01 00:00:00,State Auditor,,REP,Kristi Racines,308
+Carbon,2022-02-01 00:00:00,State Auditor,,,Write-ins,5
+Carbon,2022-02-01 00:00:00,State Auditor,,,Over Votes,1
+Carbon,2022-02-01 00:00:00,State Auditor,,,Under Votes,48
+Carbon,2022-02-01 00:00:00,State Treasurer,,REP,Curt Meier,309
+Carbon,2022-02-01 00:00:00,State Treasurer,,,Write-ins,4
+Carbon,2022-02-01 00:00:00,State Treasurer,,,Over Votes,1
+Carbon,2022-02-01 00:00:00,State Treasurer,,,Under Votes,47
+Carbon,2022-02-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,272
+Carbon,2022-02-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",71
+Carbon,2022-02-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,8
+Carbon,2022-02-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-02-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,10
+Carbon,2022-02-01 00:00:00,State Senate,11,REP,Larry Hicks,248
+Carbon,2022-02-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,91
+Carbon,2022-02-01 00:00:00,State Senate,11,,Write-ins,1
+Carbon,2022-02-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-02-01 00:00:00,State Senate,11,,Under Votes,21
+Carbon,2022-02-01 00:00:00,State House,15,REP,Donald Burkhart,245
+Carbon,2022-02-01 00:00:00,State House,15,LIB,Patrick Gonzales,95
+Carbon,2022-02-01 00:00:00,State House,15,,Write-ins,3
+Carbon,2022-02-01 00:00:00,State House,15,,Over Votes,0
+Carbon,2022-02-01 00:00:00,State House,15,,Under Votes,18
+Carbon,2022-02-01 00:00:00,Ballots Cast,,,Ballots Cast,361
+Carbon,2022-02-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-02-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,30
+Carbon,2022-02-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-02-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,33
+Carbon,2022-02-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-02-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,10
+Carbon,2022-02-02 00:00:00,U.S. House,,REP,Harriet Hageman,268
+Carbon,2022-02-02 00:00:00,U.S. House,,DEM,Lynnette GreyBull,100
+Carbon,2022-02-02 00:00:00,U.S. House,,LIB,Richard Brubaker,10
+Carbon,2022-02-02 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,11
+Carbon,2022-02-02 00:00:00,U.S. House,,,Write-ins,6
+Carbon,2022-02-02 00:00:00,U.S. House,,,Over Votes,0
+Carbon,2022-02-02 00:00:00,U.S. House,,,Under Votes,12
+Carbon,2022-02-02 00:00:00,Governor,,REP,Mark Gordon,307
+Carbon,2022-02-02 00:00:00,Governor,,DEM,Theresa A. Livingston,67
+Carbon,2022-02-02 00:00:00,Governor,,LIB,Jared J. Baldes,16
+Carbon,2022-02-02 00:00:00,Governor,,,Write-ins,12
+Carbon,2022-02-02 00:00:00,Governor,,,Over Votes,1
+Carbon,2022-02-02 00:00:00,Governor,,,Under Votes,4
+Carbon,2022-02-02 00:00:00,Secretary of State,,REP,Chuck Gray,314
+Carbon,2022-02-02 00:00:00,Secretary of State,,,Write-ins,20
+Carbon,2022-02-02 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-02-02 00:00:00,Secretary of State,,,Under Votes,73
+Carbon,2022-02-02 00:00:00,State Auditor,,REP,Kristi Racines,339
+Carbon,2022-02-02 00:00:00,State Auditor,,,Write-ins,2
+Carbon,2022-02-02 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-02-02 00:00:00,State Auditor,,,Under Votes,66
+Carbon,2022-02-02 00:00:00,State Treasurer,,REP,Curt Meier,335
+Carbon,2022-02-02 00:00:00,State Treasurer,,,Write-ins,1
+Carbon,2022-02-02 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-02-02 00:00:00,State Treasurer,,,Under Votes,71
+Carbon,2022-02-02 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,300
+Carbon,2022-02-02 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",86
+Carbon,2022-02-02 00:00:00,Superintendent of Public Instruction,,,Write-ins,3
+Carbon,2022-02-02 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-02-02 00:00:00,Superintendent of Public Instruction,,,Under Votes,18
+Carbon,2022-02-02 00:00:00,State Senate,11,REP,Larry Hicks,289
+Carbon,2022-02-02 00:00:00,State Senate,11,CTRY,Michael Ray Williams,79
+Carbon,2022-02-02 00:00:00,State Senate,11,,Write-ins,6
+Carbon,2022-02-02 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-02-02 00:00:00,State Senate,11,,Under Votes,33
+Carbon,2022-02-02 00:00:00,State House,15,REP,Donald Burkhart,286
+Carbon,2022-02-02 00:00:00,State House,15,LIB,Patrick Gonzales,98
+Carbon,2022-02-02 00:00:00,State House,15,,Write-ins,5
+Carbon,2022-02-02 00:00:00,State House,15,,Over Votes,0
+Carbon,2022-02-02 00:00:00,State House,15,,Under Votes,18
+Carbon,2022-02-02 00:00:00,Ballots Cast,,,Ballots Cast,407
+Carbon,2022-02-02 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-02-02 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,41
+Carbon,2022-02-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-02-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,45
+Carbon,2022-02-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-02-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,8
+Carbon,2022-03-01 00:00:00,U.S. House,,REP,Harriet Hageman,180
+Carbon,2022-03-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,87
+Carbon,2022-03-01 00:00:00,U.S. House,,LIB,Richard Brubaker,16
+Carbon,2022-03-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,5
+Carbon,2022-03-01 00:00:00,U.S. House,,,Write-ins,3
+Carbon,2022-03-01 00:00:00,U.S. House,,,Over Votes,1
+Carbon,2022-03-01 00:00:00,U.S. House,,,Under Votes,8
+Carbon,2022-03-01 00:00:00,Governor,,REP,Mark Gordon,223
+Carbon,2022-03-01 00:00:00,Governor,,DEM,Theresa A. Livingston,48
+Carbon,2022-03-01 00:00:00,Governor,,LIB,Jared J. Baldes,18
+Carbon,2022-03-01 00:00:00,Governor,,,Write-ins,7
+Carbon,2022-03-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-03-01 00:00:00,Governor,,,Under Votes,4
+Carbon,2022-03-01 00:00:00,Secretary of State,,REP,Chuck Gray,224
+Carbon,2022-03-01 00:00:00,Secretary of State,,,Write-ins,20
+Carbon,2022-03-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-03-01 00:00:00,Secretary of State,,,Under Votes,56
+Carbon,2022-03-01 00:00:00,State Auditor,,REP,Kristi Racines,236
+Carbon,2022-03-01 00:00:00,State Auditor,,,Write-ins,5
+Carbon,2022-03-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-03-01 00:00:00,State Auditor,,,Under Votes,59
+Carbon,2022-03-01 00:00:00,State Treasurer,,REP,Curt Meier,241
+Carbon,2022-03-01 00:00:00,State Treasurer,,,Write-ins,7
+Carbon,2022-03-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-03-01 00:00:00,State Treasurer,,,Under Votes,52
+Carbon,2022-03-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,202
+Carbon,2022-03-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",86
+Carbon,2022-03-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,2
+Carbon,2022-03-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-03-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,10
+Carbon,2022-03-01 00:00:00,State Senate,11,REP,Larry Hicks,200
+Carbon,2022-03-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,79
+Carbon,2022-03-01 00:00:00,State Senate,11,,Write-ins,3
+Carbon,2022-03-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-03-01 00:00:00,State Senate,11,,Under Votes,18
+Carbon,2022-03-01 00:00:00,State House,15,REP,Donald Burkhart,199
+Carbon,2022-03-01 00:00:00,State House,15,LIB,Patrick Gonzales,84
+Carbon,2022-03-01 00:00:00,State House,15,,Write-ins,2
+Carbon,2022-03-01 00:00:00,State House,15,,Over Votes,0
+Carbon,2022-03-01 00:00:00,State House,15,,Under Votes,15
+Carbon,2022-03-01 00:00:00,Ballots Cast,,,Ballots Cast,300
+Carbon,2022-03-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-03-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,19
+Carbon,2022-03-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-03-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,28
+Carbon,2022-03-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Carbon,2022-03-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,9
+Carbon,2022-03-02 00:00:00,U.S. House,,REP,Harriet Hageman,337
+Carbon,2022-03-02 00:00:00,U.S. House,,DEM,Lynnette GreyBull,98
+Carbon,2022-03-02 00:00:00,U.S. House,,LIB,Richard Brubaker,18
+Carbon,2022-03-02 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,18
+Carbon,2022-03-02 00:00:00,U.S. House,,,Write-ins,6
+Carbon,2022-03-02 00:00:00,U.S. House,,,Over Votes,1
+Carbon,2022-03-02 00:00:00,U.S. House,,,Under Votes,7
+Carbon,2022-03-02 00:00:00,Governor,,REP,Mark Gordon,372
+Carbon,2022-03-02 00:00:00,Governor,,DEM,Theresa A. Livingston,65
+Carbon,2022-03-02 00:00:00,Governor,,LIB,Jared J. Baldes,18
+Carbon,2022-03-02 00:00:00,Governor,,,Write-ins,23
+Carbon,2022-03-02 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-03-02 00:00:00,Governor,,,Under Votes,7
+Carbon,2022-03-02 00:00:00,Secretary of State,,REP,Chuck Gray,398
+Carbon,2022-03-02 00:00:00,Secretary of State,,,Write-ins,24
+Carbon,2022-03-02 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-03-02 00:00:00,Secretary of State,,,Under Votes,63
+Carbon,2022-03-02 00:00:00,State Auditor,,REP,Kristi Racines,418
+Carbon,2022-03-02 00:00:00,State Auditor,,,Write-ins,3
+Carbon,2022-03-02 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-03-02 00:00:00,State Auditor,,,Under Votes,63
+Carbon,2022-03-02 00:00:00,State Treasurer,,REP,Curt Meier,424
+Carbon,2022-03-02 00:00:00,State Treasurer,,,Write-ins,3
+Carbon,2022-03-02 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-03-02 00:00:00,State Treasurer,,,Under Votes,58
+Carbon,2022-03-02 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,361
+Carbon,2022-03-02 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",103
+Carbon,2022-03-02 00:00:00,Superintendent of Public Instruction,,,Write-ins,4
+Carbon,2022-03-02 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-03-02 00:00:00,Superintendent of Public Instruction,,,Under Votes,17
+Carbon,2022-03-02 00:00:00,State Senate,11,REP,Larry Hicks,344
+Carbon,2022-03-02 00:00:00,State Senate,11,CTRY,Michael Ray Williams,111
+Carbon,2022-03-02 00:00:00,State Senate,11,,Write-ins,6
+Carbon,2022-03-02 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-03-02 00:00:00,State Senate,11,,Under Votes,24
+Carbon,2022-03-02 00:00:00,State House,15,REP,Donald Burkhart,319
+Carbon,2022-03-02 00:00:00,State House,15,LIB,Patrick Gonzales,140
+Carbon,2022-03-02 00:00:00,State House,15,,Write-ins,5
+Carbon,2022-03-02 00:00:00,State House,15,,Over Votes,1
+Carbon,2022-03-02 00:00:00,State House,15,,Under Votes,20
+Carbon,2022-03-02 00:00:00,Ballots Cast,,,Ballots Cast,485
+Carbon,2022-03-02 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-03-02 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,33
+Carbon,2022-03-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-03-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,38
+Carbon,2022-03-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Carbon,2022-03-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,5
+Carbon,2022-04-01 00:00:00,U.S. House,,REP,Harriet Hageman,11
+Carbon,2022-04-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,2
+Carbon,2022-04-01 00:00:00,U.S. House,,LIB,Richard Brubaker,0
+Carbon,2022-04-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,1
+Carbon,2022-04-01 00:00:00,U.S. House,,,Write-ins,0
+Carbon,2022-04-01 00:00:00,U.S. House,,,Over Votes,0
+Carbon,2022-04-01 00:00:00,U.S. House,,,Under Votes,0
+Carbon,2022-04-01 00:00:00,Governor,,REP,Mark Gordon,10
+Carbon,2022-04-01 00:00:00,Governor,,DEM,Theresa A. Livingston,0
+Carbon,2022-04-01 00:00:00,Governor,,LIB,Jared J. Baldes,0
+Carbon,2022-04-01 00:00:00,Governor,,,Write-ins,3
+Carbon,2022-04-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-04-01 00:00:00,Governor,,,Under Votes,1
+Carbon,2022-04-01 00:00:00,Secretary of State,,REP,Chuck Gray,6
+Carbon,2022-04-01 00:00:00,Secretary of State,,,Write-ins,1
+Carbon,2022-04-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-04-01 00:00:00,Secretary of State,,,Under Votes,7
+Carbon,2022-04-01 00:00:00,State Auditor,,REP,Kristi Racines,10
+Carbon,2022-04-01 00:00:00,State Auditor,,,Write-ins,0
+Carbon,2022-04-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-04-01 00:00:00,State Auditor,,,Under Votes,4
+Carbon,2022-04-01 00:00:00,State Treasurer,,REP,Curt Meier,9
+Carbon,2022-04-01 00:00:00,State Treasurer,,,Write-ins,0
+Carbon,2022-04-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-04-01 00:00:00,State Treasurer,,,Under Votes,5
+Carbon,2022-04-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,10
+Carbon,2022-04-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Carbon,2022-04-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,1
+Carbon,2022-04-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-04-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,3
+Carbon,2022-04-01 00:00:00,State Senate,11,REP,Larry Hicks,9
+Carbon,2022-04-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,2
+Carbon,2022-04-01 00:00:00,State Senate,11,,Write-ins,0
+Carbon,2022-04-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-04-01 00:00:00,State Senate,11,,Under Votes,3
+Carbon,2022-04-01 00:00:00,State House,15,REP,Donald Burkhart,10
+Carbon,2022-04-01 00:00:00,State House,15,LIB,Patrick Gonzales,1
+Carbon,2022-04-01 00:00:00,State House,15,,Write-ins,0
+Carbon,2022-04-01 00:00:00,State House,15,,Over Votes,0
+Carbon,2022-04-01 00:00:00,State House,15,,Under Votes,3
+Carbon,2022-04-01 00:00:00,Ballots Cast,,,Ballots Cast,14
+Carbon,2022-04-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-04-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,9
+Carbon,2022-04-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-04-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,5
+Carbon,2022-04-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-04-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,2
+Carbon,2022-05-01 00:00:00,U.S. House,,REP,Harriet Hageman,113
+Carbon,2022-05-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,23
+Carbon,2022-05-01 00:00:00,U.S. House,,LIB,Richard Brubaker,9
+Carbon,2022-05-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,7
+Carbon,2022-05-01 00:00:00,U.S. House,,,Write-ins,2
+Carbon,2022-05-01 00:00:00,U.S. House,,,Over Votes,0
+Carbon,2022-05-01 00:00:00,U.S. House,,,Under Votes,5
+Carbon,2022-05-01 00:00:00,Governor,,REP,Mark Gordon,125
+Carbon,2022-05-01 00:00:00,Governor,,DEM,Theresa A. Livingston,20
+Carbon,2022-05-01 00:00:00,Governor,,LIB,Jared J. Baldes,5
+Carbon,2022-05-01 00:00:00,Governor,,,Write-ins,3
+Carbon,2022-05-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-05-01 00:00:00,Governor,,,Under Votes,6
+Carbon,2022-05-01 00:00:00,Secretary of State,,REP,Chuck Gray,123
+Carbon,2022-05-01 00:00:00,Secretary of State,,,Write-ins,11
+Carbon,2022-05-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-05-01 00:00:00,Secretary of State,,,Under Votes,25
+Carbon,2022-05-01 00:00:00,State Auditor,,REP,Kristi Racines,132
+Carbon,2022-05-01 00:00:00,State Auditor,,,Write-ins,2
+Carbon,2022-05-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-05-01 00:00:00,State Auditor,,,Under Votes,25
+Carbon,2022-05-01 00:00:00,State Treasurer,,REP,Curt Meier,130
+Carbon,2022-05-01 00:00:00,State Treasurer,,,Write-ins,1
+Carbon,2022-05-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-05-01 00:00:00,State Treasurer,,,Under Votes,28
+Carbon,2022-05-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,122
+Carbon,2022-05-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",24
+Carbon,2022-05-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,0
+Carbon,2022-05-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-05-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,13
+Carbon,2022-05-01 00:00:00,State Senate,11,REP,Larry Hicks,115
+Carbon,2022-05-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,27
+Carbon,2022-05-01 00:00:00,State Senate,11,,Write-ins,2
+Carbon,2022-05-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-05-01 00:00:00,State Senate,11,,Under Votes,15
+Carbon,2022-05-01 00:00:00,State House,15,REP,Donald Burkhart,119
+Carbon,2022-05-01 00:00:00,State House,15,LIB,Patrick Gonzales,32
+Carbon,2022-05-01 00:00:00,State House,15,,Write-ins,2
+Carbon,2022-05-01 00:00:00,State House,15,,Over Votes,0
+Carbon,2022-05-01 00:00:00,State House,15,,Under Votes,6
+Carbon,2022-05-01 00:00:00,Ballots Cast,,,Ballots Cast,159
+Carbon,2022-05-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-05-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,17
+Carbon,2022-05-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-05-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,17
+Carbon,2022-05-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-05-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,10
+Carbon,2022-06-01 00:00:00,U.S. House,,REP,Harriet Hageman,9
+Carbon,2022-06-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,0
+Carbon,2022-06-01 00:00:00,U.S. House,,LIB,Richard Brubaker,1
+Carbon,2022-06-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,4
+Carbon,2022-06-01 00:00:00,U.S. House,,,Write-ins,0
+Carbon,2022-06-01 00:00:00,U.S. House,,,Over Votes,0
+Carbon,2022-06-01 00:00:00,U.S. House,,,Under Votes,0
+Carbon,2022-06-01 00:00:00,Governor,,REP,Mark Gordon,8
+Carbon,2022-06-01 00:00:00,Governor,,DEM,Theresa A. Livingston,0
+Carbon,2022-06-01 00:00:00,Governor,,LIB,Jared J. Baldes,2
+Carbon,2022-06-01 00:00:00,Governor,,,Write-ins,3
+Carbon,2022-06-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-06-01 00:00:00,Governor,,,Under Votes,1
+Carbon,2022-06-01 00:00:00,Secretary of State,,REP,Chuck Gray,13
+Carbon,2022-06-01 00:00:00,Secretary of State,,,Write-ins,0
+Carbon,2022-06-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-06-01 00:00:00,Secretary of State,,,Under Votes,1
+Carbon,2022-06-01 00:00:00,State Auditor,,REP,Kristi Racines,12
+Carbon,2022-06-01 00:00:00,State Auditor,,,Write-ins,0
+Carbon,2022-06-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-06-01 00:00:00,State Auditor,,,Under Votes,2
+Carbon,2022-06-01 00:00:00,State Treasurer,,REP,Curt Meier,9
+Carbon,2022-06-01 00:00:00,State Treasurer,,,Write-ins,1
+Carbon,2022-06-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-06-01 00:00:00,State Treasurer,,,Under Votes,4
+Carbon,2022-06-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,11
+Carbon,2022-06-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Carbon,2022-06-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,0
+Carbon,2022-06-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-06-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,1
+Carbon,2022-06-01 00:00:00,State Senate,11,REP,Larry Hicks,6
+Carbon,2022-06-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,8
+Carbon,2022-06-01 00:00:00,State Senate,11,,Write-ins,0
+Carbon,2022-06-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-06-01 00:00:00,State Senate,11,,Under Votes,0
+Carbon,2022-06-01 00:00:00,State House,47,REP,"Robert ""Bob"" Davis",11
+Carbon,2022-06-01 00:00:00,State House,47,DEM,Lee Ann Stephenson,2
+Carbon,2022-06-01 00:00:00,State House,47,,Write-ins,0
+Carbon,2022-06-01 00:00:00,State House,47,,Over Votes,0
+Carbon,2022-06-01 00:00:00,State House,47,,Under Votes,1
+Carbon,2022-06-01 00:00:00,Ballots Cast,,,Ballots Cast,14
+Carbon,2022-06-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-06-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,2
+Carbon,2022-06-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-06-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,1
+Carbon,2022-06-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-06-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,0
+Carbon,2022-07-01 00:00:00,U.S. House,,REP,Harriet Hageman,93
+Carbon,2022-07-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,14
+Carbon,2022-07-01 00:00:00,U.S. House,,LIB,Richard Brubaker,3
+Carbon,2022-07-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,6
+Carbon,2022-07-01 00:00:00,U.S. House,,,Write-ins,4
+Carbon,2022-07-01 00:00:00,U.S. House,,,Over Votes,1
+Carbon,2022-07-01 00:00:00,U.S. House,,,Under Votes,1
+Carbon,2022-07-01 00:00:00,Governor,,REP,Mark Gordon,97
+Carbon,2022-07-01 00:00:00,Governor,,DEM,Theresa A. Livingston,10
+Carbon,2022-07-01 00:00:00,Governor,,LIB,Jared J. Baldes,7
+Carbon,2022-07-01 00:00:00,Governor,,,Write-ins,7
+Carbon,2022-07-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-07-01 00:00:00,Governor,,,Under Votes,1
+Carbon,2022-07-01 00:00:00,Secretary of State,,REP,Chuck Gray,109
+Carbon,2022-07-01 00:00:00,Secretary of State,,,Write-ins,6
+Carbon,2022-07-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-07-01 00:00:00,Secretary of State,,,Under Votes,7
+Carbon,2022-07-01 00:00:00,State Auditor,,REP,Kristi Racines,109
+Carbon,2022-07-01 00:00:00,State Auditor,,,Write-ins,1
+Carbon,2022-07-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-07-01 00:00:00,State Auditor,,,Under Votes,12
+Carbon,2022-07-01 00:00:00,State Treasurer,,REP,Curt Meier,108
+Carbon,2022-07-01 00:00:00,State Treasurer,,,Write-ins,2
+Carbon,2022-07-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-07-01 00:00:00,State Treasurer,,,Under Votes,12
+Carbon,2022-07-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,104
+Carbon,2022-07-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",11
+Carbon,2022-07-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,3
+Carbon,2022-07-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-07-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,4
+Carbon,2022-07-01 00:00:00,State Senate,11,REP,Larry Hicks,97
+Carbon,2022-07-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,19
+Carbon,2022-07-01 00:00:00,State Senate,11,,Write-ins,2
+Carbon,2022-07-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-07-01 00:00:00,State Senate,11,,Under Votes,4
+Carbon,2022-07-01 00:00:00,State House,47,REP,"Robert ""Bob"" Davis",100
+Carbon,2022-07-01 00:00:00,State House,47,DEM,Lee Ann Stephenson,16
+Carbon,2022-07-01 00:00:00,State House,47,,Write-ins,2
+Carbon,2022-07-01 00:00:00,State House,47,,Over Votes,0
+Carbon,2022-07-01 00:00:00,State House,47,,Under Votes,4
+Carbon,2022-07-01 00:00:00,Ballots Cast,,,Ballots Cast,122
+Carbon,2022-07-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-07-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,6
+Carbon,2022-07-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-07-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,8
+Carbon,2022-07-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-07-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,5
+Carbon,2022-08-01 00:00:00,U.S. House,,REP,Harriet Hageman,199
+Carbon,2022-08-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,41
+Carbon,2022-08-01 00:00:00,U.S. House,,LIB,Richard Brubaker,10
+Carbon,2022-08-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,4
+Carbon,2022-08-01 00:00:00,U.S. House,,,Write-ins,1
+Carbon,2022-08-01 00:00:00,U.S. House,,,Over Votes,3
+Carbon,2022-08-01 00:00:00,U.S. House,,,Under Votes,1
+Carbon,2022-08-01 00:00:00,Governor,,REP,Mark Gordon,210
+Carbon,2022-08-01 00:00:00,Governor,,DEM,Theresa A. Livingston,26
+Carbon,2022-08-01 00:00:00,Governor,,LIB,Jared J. Baldes,17
+Carbon,2022-08-01 00:00:00,Governor,,,Write-ins,2
+Carbon,2022-08-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-08-01 00:00:00,Governor,,,Under Votes,4
+Carbon,2022-08-01 00:00:00,Secretary of State,,REP,Chuck Gray,216
+Carbon,2022-08-01 00:00:00,Secretary of State,,,Write-ins,4
+Carbon,2022-08-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-08-01 00:00:00,Secretary of State,,,Under Votes,39
+Carbon,2022-08-01 00:00:00,State Auditor,,REP,Kristi Racines,217
+Carbon,2022-08-01 00:00:00,State Auditor,,,Write-ins,2
+Carbon,2022-08-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-08-01 00:00:00,State Auditor,,,Under Votes,40
+Carbon,2022-08-01 00:00:00,State Treasurer,,REP,Curt Meier,215
+Carbon,2022-08-01 00:00:00,State Treasurer,,,Write-ins,1
+Carbon,2022-08-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-08-01 00:00:00,State Treasurer,,,Under Votes,43
+Carbon,2022-08-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,200
+Carbon,2022-08-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",40
+Carbon,2022-08-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,2
+Carbon,2022-08-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,1
+Carbon,2022-08-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,16
+Carbon,2022-08-01 00:00:00,State Senate,11,REP,Larry Hicks,199
+Carbon,2022-08-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,43
+Carbon,2022-08-01 00:00:00,State Senate,11,,Write-ins,2
+Carbon,2022-08-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-08-01 00:00:00,State Senate,11,,Under Votes,15
+Carbon,2022-08-01 00:00:00,State House,47,REP,"Robert ""Bob"" Davis",198
+Carbon,2022-08-01 00:00:00,State House,47,DEM,Lee Ann Stephenson,50
+Carbon,2022-08-01 00:00:00,State House,47,,Write-ins,3
+Carbon,2022-08-01 00:00:00,State House,47,,Over Votes,0
+Carbon,2022-08-01 00:00:00,State House,47,,Under Votes,8
+Carbon,2022-08-01 00:00:00,Ballots Cast,,,Ballots Cast,259
+Carbon,2022-08-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-08-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,33
+Carbon,2022-08-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-08-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,24
+Carbon,2022-08-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Carbon,2022-08-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,6
+Carbon,2022-09-01 00:00:00,U.S. House,,REP,Harriet Hageman,115
+Carbon,2022-09-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,16
+Carbon,2022-09-01 00:00:00,U.S. House,,LIB,Richard Brubaker,5
+Carbon,2022-09-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,9
+Carbon,2022-09-01 00:00:00,U.S. House,,,Write-ins,1
+Carbon,2022-09-01 00:00:00,U.S. House,,,Over Votes,0
+Carbon,2022-09-01 00:00:00,U.S. House,,,Under Votes,2
+Carbon,2022-09-01 00:00:00,Governor,,REP,Mark Gordon,110
+Carbon,2022-09-01 00:00:00,Governor,,DEM,Theresa A. Livingston,10
+Carbon,2022-09-01 00:00:00,Governor,,LIB,Jared J. Baldes,10
+Carbon,2022-09-01 00:00:00,Governor,,,Write-ins,16
+Carbon,2022-09-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-09-01 00:00:00,Governor,,,Under Votes,2
+Carbon,2022-09-01 00:00:00,Secretary of State,,REP,Chuck Gray,133
+Carbon,2022-09-01 00:00:00,Secretary of State,,,Write-ins,3
+Carbon,2022-09-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-09-01 00:00:00,Secretary of State,,,Under Votes,12
+Carbon,2022-09-01 00:00:00,State Auditor,,REP,Kristi Racines,137
+Carbon,2022-09-01 00:00:00,State Auditor,,,Write-ins,0
+Carbon,2022-09-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-09-01 00:00:00,State Auditor,,,Under Votes,11
+Carbon,2022-09-01 00:00:00,State Treasurer,,REP,Curt Meier,135
+Carbon,2022-09-01 00:00:00,State Treasurer,,,Write-ins,0
+Carbon,2022-09-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-09-01 00:00:00,State Treasurer,,,Under Votes,13
+Carbon,2022-09-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,119
+Carbon,2022-09-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",23
+Carbon,2022-09-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,3
+Carbon,2022-09-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-09-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,3
+Carbon,2022-09-01 00:00:00,State Senate,11,REP,Larry Hicks,110
+Carbon,2022-09-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,34
+Carbon,2022-09-01 00:00:00,State Senate,11,,Write-ins,0
+Carbon,2022-09-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-09-01 00:00:00,State Senate,11,,Under Votes,4
+Carbon,2022-09-01 00:00:00,State House,47,REP,"Robert ""Bob"" Davis",125
+Carbon,2022-09-01 00:00:00,State House,47,DEM,Lee Ann Stephenson,20
+Carbon,2022-09-01 00:00:00,State House,47,,Write-ins,2
+Carbon,2022-09-01 00:00:00,State House,47,,Over Votes,0
+Carbon,2022-09-01 00:00:00,State House,47,,Under Votes,1
+Carbon,2022-09-01 00:00:00,Ballots Cast,,,Ballots Cast,148
+Carbon,2022-09-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-09-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,16
+Carbon,2022-09-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-09-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,10
+Carbon,2022-09-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-09-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,4
+Carbon,2022-10-01 00:00:00,U.S. House,,REP,Harriet Hageman,38
+Carbon,2022-10-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,6
+Carbon,2022-10-01 00:00:00,U.S. House,,LIB,Richard Brubaker,1
+Carbon,2022-10-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,2
+Carbon,2022-10-01 00:00:00,U.S. House,,,Write-ins,0
+Carbon,2022-10-01 00:00:00,U.S. House,,,Over Votes,0
+Carbon,2022-10-01 00:00:00,U.S. House,,,Under Votes,1
+Carbon,2022-10-01 00:00:00,Governor,,REP,Mark Gordon,40
+Carbon,2022-10-01 00:00:00,Governor,,DEM,Theresa A. Livingston,3
+Carbon,2022-10-01 00:00:00,Governor,,LIB,Jared J. Baldes,2
+Carbon,2022-10-01 00:00:00,Governor,,,Write-ins,3
+Carbon,2022-10-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-10-01 00:00:00,Governor,,,Under Votes,0
+Carbon,2022-10-01 00:00:00,Secretary of State,,REP,Chuck Gray,44
+Carbon,2022-10-01 00:00:00,Secretary of State,,,Write-ins,1
+Carbon,2022-10-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-10-01 00:00:00,Secretary of State,,,Under Votes,3
+Carbon,2022-10-01 00:00:00,State Auditor,,REP,Kristi Racines,46
+Carbon,2022-10-01 00:00:00,State Auditor,,,Write-ins,0
+Carbon,2022-10-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-10-01 00:00:00,State Auditor,,,Under Votes,2
+Carbon,2022-10-01 00:00:00,State Treasurer,,REP,Curt Meier,45
+Carbon,2022-10-01 00:00:00,State Treasurer,,,Write-ins,0
+Carbon,2022-10-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-10-01 00:00:00,State Treasurer,,,Under Votes,3
+Carbon,2022-10-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,43
+Carbon,2022-10-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Carbon,2022-10-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,0
+Carbon,2022-10-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-10-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,2
+Carbon,2022-10-01 00:00:00,State Senate,11,REP,Larry Hicks,38
+Carbon,2022-10-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,9
+Carbon,2022-10-01 00:00:00,State Senate,11,,Write-ins,0
+Carbon,2022-10-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-10-01 00:00:00,State Senate,11,,Under Votes,1
+Carbon,2022-10-01 00:00:00,State House,47,REP,"Robert ""Bob"" Davis",41
+Carbon,2022-10-01 00:00:00,State House,47,DEM,Lee Ann Stephenson,7
+Carbon,2022-10-01 00:00:00,State House,47,,Write-ins,0
+Carbon,2022-10-01 00:00:00,State House,47,,Over Votes,0
+Carbon,2022-10-01 00:00:00,State House,47,,Under Votes,0
+Carbon,2022-10-01 00:00:00,Ballots Cast,,,Ballots Cast,48
+Carbon,2022-10-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-10-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,3
+Carbon,2022-10-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-10-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,4
+Carbon,2022-10-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-10-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,2
+Carbon,2022-11-01 00:00:00,U.S. House,,REP,Harriet Hageman,510
+Carbon,2022-11-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,157
+Carbon,2022-11-01 00:00:00,U.S. House,,LIB,Richard Brubaker,19
+Carbon,2022-11-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,9
+Carbon,2022-11-01 00:00:00,U.S. House,,,Write-ins,8
+Carbon,2022-11-01 00:00:00,U.S. House,,,Over Votes,2
+Carbon,2022-11-01 00:00:00,U.S. House,,,Under Votes,9
+Carbon,2022-11-01 00:00:00,Governor,,REP,Mark Gordon,556
+Carbon,2022-11-01 00:00:00,Governor,,DEM,Theresa A. Livingston,107
+Carbon,2022-11-01 00:00:00,Governor,,LIB,Jared J. Baldes,24
+Carbon,2022-11-01 00:00:00,Governor,,,Write-ins,20
+Carbon,2022-11-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-11-01 00:00:00,Governor,,,Under Votes,7
+Carbon,2022-11-01 00:00:00,Secretary of State,,REP,Chuck Gray,585
+Carbon,2022-11-01 00:00:00,Secretary of State,,,Write-ins,32
+Carbon,2022-11-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-11-01 00:00:00,Secretary of State,,,Under Votes,97
+Carbon,2022-11-01 00:00:00,State Auditor,,REP,Kristi Racines,606
+Carbon,2022-11-01 00:00:00,State Auditor,,,Write-ins,7
+Carbon,2022-11-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-11-01 00:00:00,State Auditor,,,Under Votes,100
+Carbon,2022-11-01 00:00:00,State Treasurer,,REP,Curt Meier,607
+Carbon,2022-11-01 00:00:00,State Treasurer,,,Write-ins,7
+Carbon,2022-11-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-11-01 00:00:00,State Treasurer,,,Under Votes,100
+Carbon,2022-11-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,543
+Carbon,2022-11-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",146
+Carbon,2022-11-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,7
+Carbon,2022-11-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-11-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,18
+Carbon,2022-11-01 00:00:00,State Senate,11,REP,Larry Hicks,531
+Carbon,2022-11-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,125
+Carbon,2022-11-01 00:00:00,State Senate,11,,Write-ins,8
+Carbon,2022-11-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-11-01 00:00:00,State Senate,11,,Under Votes,50
+Carbon,2022-11-01 00:00:00,State House,47,REP,"Robert ""Bob"" Davis",516
+Carbon,2022-11-01 00:00:00,State House,47,DEM,Lee Ann Stephenson,182
+Carbon,2022-11-01 00:00:00,State House,47,,Write-ins,1
+Carbon,2022-11-01 00:00:00,State House,47,,Over Votes,0
+Carbon,2022-11-01 00:00:00,State House,47,,Under Votes,15
+Carbon,2022-11-01 00:00:00,Ballots Cast,,,Ballots Cast,714
+Carbon,2022-11-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-11-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,70
+Carbon,2022-11-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-11-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,53
+Carbon,2022-11-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Carbon,2022-11-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,27
+Carbon,2022-11-02 00:00:00,U.S. House,,REP,Harriet Hageman,301
+Carbon,2022-11-02 00:00:00,U.S. House,,DEM,Lynnette GreyBull,60
+Carbon,2022-11-02 00:00:00,U.S. House,,LIB,Richard Brubaker,12
+Carbon,2022-11-02 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,9
+Carbon,2022-11-02 00:00:00,U.S. House,,,Write-ins,5
+Carbon,2022-11-02 00:00:00,U.S. House,,,Over Votes,1
+Carbon,2022-11-02 00:00:00,U.S. House,,,Under Votes,8
+Carbon,2022-11-02 00:00:00,Governor,,REP,Mark Gordon,312
+Carbon,2022-11-02 00:00:00,Governor,,DEM,Theresa A. Livingston,29
+Carbon,2022-11-02 00:00:00,Governor,,LIB,Jared J. Baldes,18
+Carbon,2022-11-02 00:00:00,Governor,,,Write-ins,28
+Carbon,2022-11-02 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-11-02 00:00:00,Governor,,,Under Votes,9
+Carbon,2022-11-02 00:00:00,Secretary of State,,REP,Chuck Gray,304
+Carbon,2022-11-02 00:00:00,Secretary of State,,,Write-ins,17
+Carbon,2022-11-02 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-11-02 00:00:00,Secretary of State,,,Under Votes,75
+Carbon,2022-11-02 00:00:00,State Auditor,,REP,Kristi Racines,323
+Carbon,2022-11-02 00:00:00,State Auditor,,,Write-ins,2
+Carbon,2022-11-02 00:00:00,State Auditor,,,Over Votes,1
+Carbon,2022-11-02 00:00:00,State Auditor,,,Under Votes,71
+Carbon,2022-11-02 00:00:00,State Treasurer,,REP,Curt Meier,334
+Carbon,2022-11-02 00:00:00,State Treasurer,,,Write-ins,1
+Carbon,2022-11-02 00:00:00,State Treasurer,,,Over Votes,1
+Carbon,2022-11-02 00:00:00,State Treasurer,,,Under Votes,60
+Carbon,2022-11-02 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,320
+Carbon,2022-11-02 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",48
+Carbon,2022-11-02 00:00:00,Superintendent of Public Instruction,,,Write-ins,2
+Carbon,2022-11-02 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-11-02 00:00:00,Superintendent of Public Instruction,,,Under Votes,26
+Carbon,2022-11-02 00:00:00,State Senate,11,REP,Larry Hicks,300
+Carbon,2022-11-02 00:00:00,State Senate,11,CTRY,Michael Ray Williams,59
+Carbon,2022-11-02 00:00:00,State Senate,11,,Write-ins,2
+Carbon,2022-11-02 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-11-02 00:00:00,State Senate,11,,Under Votes,35
+Carbon,2022-11-02 00:00:00,State House,47,REP,"Robert ""Bob"" Davis",317
+Carbon,2022-11-02 00:00:00,State House,47,DEM,Lee Ann Stephenson,74
+Carbon,2022-11-02 00:00:00,State House,47,,Write-ins,0
+Carbon,2022-11-02 00:00:00,State House,47,,Over Votes,0
+Carbon,2022-11-02 00:00:00,State House,47,,Under Votes,5
+Carbon,2022-11-02 00:00:00,Ballots Cast,,,Ballots Cast,396
+Carbon,2022-11-02 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-11-02 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,70
+Carbon,2022-11-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-11-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,76
+Carbon,2022-11-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Carbon,2022-11-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,23
+Carbon,2022-12-01 00:00:00,U.S. House,,REP,Harriet Hageman,195
+Carbon,2022-12-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,41
+Carbon,2022-12-01 00:00:00,U.S. House,,LIB,Richard Brubaker,11
+Carbon,2022-12-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,2
+Carbon,2022-12-01 00:00:00,U.S. House,,,Write-ins,5
+Carbon,2022-12-01 00:00:00,U.S. House,,,Over Votes,2
+Carbon,2022-12-01 00:00:00,U.S. House,,,Under Votes,4
+Carbon,2022-12-01 00:00:00,Governor,,REP,Mark Gordon,194
+Carbon,2022-12-01 00:00:00,Governor,,DEM,Theresa A. Livingston,34
+Carbon,2022-12-01 00:00:00,Governor,,LIB,Jared J. Baldes,18
+Carbon,2022-12-01 00:00:00,Governor,,,Write-ins,11
+Carbon,2022-12-01 00:00:00,Governor,,,Over Votes,0
+Carbon,2022-12-01 00:00:00,Governor,,,Under Votes,3
+Carbon,2022-12-01 00:00:00,Secretary of State,,REP,Chuck Gray,221
+Carbon,2022-12-01 00:00:00,Secretary of State,,,Write-ins,8
+Carbon,2022-12-01 00:00:00,Secretary of State,,,Over Votes,0
+Carbon,2022-12-01 00:00:00,Secretary of State,,,Under Votes,31
+Carbon,2022-12-01 00:00:00,State Auditor,,REP,Kristi Racines,217
+Carbon,2022-12-01 00:00:00,State Auditor,,,Write-ins,2
+Carbon,2022-12-01 00:00:00,State Auditor,,,Over Votes,0
+Carbon,2022-12-01 00:00:00,State Auditor,,,Under Votes,41
+Carbon,2022-12-01 00:00:00,State Treasurer,,REP,Curt Meier,220
+Carbon,2022-12-01 00:00:00,State Treasurer,,,Write-ins,1
+Carbon,2022-12-01 00:00:00,State Treasurer,,,Over Votes,0
+Carbon,2022-12-01 00:00:00,State Treasurer,,,Under Votes,39
+Carbon,2022-12-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,201
+Carbon,2022-12-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",43
+Carbon,2022-12-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,2
+Carbon,2022-12-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Carbon,2022-12-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,14
+Carbon,2022-12-01 00:00:00,State Senate,11,REP,Larry Hicks,186
+Carbon,2022-12-01 00:00:00,State Senate,11,CTRY,Michael Ray Williams,55
+Carbon,2022-12-01 00:00:00,State Senate,11,,Write-ins,1
+Carbon,2022-12-01 00:00:00,State Senate,11,,Over Votes,0
+Carbon,2022-12-01 00:00:00,State Senate,11,,Under Votes,18
+Carbon,2022-12-01 00:00:00,State House,47,REP,"Robert ""Bob"" Davis",185
+Carbon,2022-12-01 00:00:00,State House,47,DEM,Lee Ann Stephenson,72
+Carbon,2022-12-01 00:00:00,State House,47,,Write-ins,1
+Carbon,2022-12-01 00:00:00,State House,47,,Over Votes,0
+Carbon,2022-12-01 00:00:00,State House,47,,Under Votes,2
+Carbon,2022-12-01 00:00:00,Ballots Cast,,,Ballots Cast,260
+Carbon,2022-12-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Carbon,2022-12-01 00:00:00,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,36
+Carbon,2022-12-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Carbon,2022-12-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,18
+Carbon,2022-12-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Carbon,2022-12-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,6

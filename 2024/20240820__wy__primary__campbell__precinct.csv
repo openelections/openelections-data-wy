@@ -1,0 +1,1115 @@
+county,precinct,office,district,party,candidate,votes
+Campbell,01-01,U.S. Senate,,REP,John Barrasso,182
+Campbell,01-01,U.S. Senate,,REP,John Holtz,26
+Campbell,01-01,U.S. Senate,,REP,Reid Rasner,61
+Campbell,01-01,U.S. Senate,,REP,Write-ins,1
+Campbell,01-01,U.S. Senate,,REP,Over Votes,0
+Campbell,01-01,U.S. Senate,,REP,Under Votes,7
+Campbell,01-01,U.S. Senate,,DEM,Scott D Morrow,20
+Campbell,01-01,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-01,U.S. Senate,,DEM,Under Votes,3
+Campbell,01-01,U.S. House,,REP,Harriet Hageman,211
+Campbell,01-01,U.S. House,,REP,Steven R. Helling,55
+Campbell,01-01,U.S. House,,REP,Write-ins,3
+Campbell,01-01,U.S. House,,REP,Over Votes,0
+Campbell,01-01,U.S. House,,REP,Under Votes,8
+Campbell,01-01,U.S. House,,DEM,Kyle G. Cameron,20
+Campbell,01-01,U.S. House,,DEM,Write-ins,0
+Campbell,01-01,U.S. House,,DEM,Over Votes,0
+Campbell,01-01,U.S. House,,DEM,Under Votes,4
+Campbell,01-01,State Senate,24,REP,Phil Christopherson,115
+Campbell,01-01,State Senate,24,REP,Troy D McKeown,148
+Campbell,01-01,State Senate,24,REP,Write-ins,1
+Campbell,01-01,State Senate,24,REP,Over Votes,1
+Campbell,01-01,State Senate,24,REP,Under Votes,12
+Campbell,01-01,State Senate,24,DEM,Write-ins,5
+Campbell,01-01,State House,53,REP,Christopher R. Knapp,241
+Campbell,01-01,State House,53,REP,Write-ins,3
+Campbell,01-01,State House,53,REP,Over Votes,0
+Campbell,01-01,State House,53,REP,Under Votes,33
+Campbell,01-01,State House,53,DEM,Write-ins,1
+Campbell,01-01,Ballots Cast,,REP,Ballots Cast,277
+Campbell,01-01,Ballots Cast,,DEM,Ballots Cast,24
+Campbell,01-01,Ballots Cast,,NP,Ballots Cast,6
+Campbell,01-01,Ballots Cast,,,Ballots Cast,307
+Campbell,01-02,U.S. Senate,,REP,John Barrasso,17
+Campbell,01-02,U.S. Senate,,REP,John Holtz,3
+Campbell,01-02,U.S. Senate,,REP,Reid Rasner,15
+Campbell,01-02,U.S. Senate,,REP,Write-ins,0
+Campbell,01-02,U.S. Senate,,REP,Over Votes,0
+Campbell,01-02,U.S. Senate,,REP,Under Votes,1
+Campbell,01-02,U.S. Senate,,DEM,Scott D Morrow,1
+Campbell,01-02,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-02,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-02,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-02,U.S. House,,REP,Harriet Hageman,24
+Campbell,01-02,U.S. House,,REP,Steven R. Helling,9
+Campbell,01-02,U.S. House,,REP,Write-ins,0
+Campbell,01-02,U.S. House,,REP,Over Votes,0
+Campbell,01-02,U.S. House,,REP,Under Votes,3
+Campbell,01-02,U.S. House,,DEM,Kyle G. Cameron,1
+Campbell,01-02,U.S. House,,DEM,Write-ins,0
+Campbell,01-02,U.S. House,,DEM,Over Votes,0
+Campbell,01-02,U.S. House,,DEM,Under Votes,0
+Campbell,01-02,State House,52,REP,Reuben Tarver,24
+Campbell,01-02,State House,52,REP,Write-ins,1
+Campbell,01-02,State House,52,REP,Over Votes,0
+Campbell,01-02,State House,52,REP,Under Votes,11
+Campbell,01-02,State House,52,DEM,Write-ins,1
+Campbell,01-02,Ballots Cast,,REP,Ballots Cast,36
+Campbell,01-02,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,01-02,Ballots Cast,,NP,Ballots Cast,1
+Campbell,01-02,Ballots Cast,,,Ballots Cast,38
+Campbell,01-03,U.S. Senate,,REP,John Barrasso,62
+Campbell,01-03,U.S. Senate,,REP,John Holtz,7
+Campbell,01-03,U.S. Senate,,REP,Reid Rasner,12
+Campbell,01-03,U.S. Senate,,REP,Write-ins,0
+Campbell,01-03,U.S. Senate,,REP,Over Votes,0
+Campbell,01-03,U.S. Senate,,REP,Under Votes,4
+Campbell,01-03,U.S. Senate,,DEM,Scott D Morrow,4
+Campbell,01-03,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-03,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-03,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-03,U.S. House,,REP,Harriet Hageman,65
+Campbell,01-03,U.S. House,,REP,Steven R. Helling,15
+Campbell,01-03,U.S. House,,REP,Write-ins,1
+Campbell,01-03,U.S. House,,REP,Over Votes,0
+Campbell,01-03,U.S. House,,REP,Under Votes,4
+Campbell,01-03,U.S. House,,DEM,Kyle G. Cameron,5
+Campbell,01-03,U.S. House,,DEM,Write-ins,0
+Campbell,01-03,U.S. House,,DEM,Over Votes,0
+Campbell,01-03,U.S. House,,DEM,Under Votes,1
+Campbell,01-03,State Senate,24,REP,Phil Christopherson,34
+Campbell,01-03,State Senate,24,REP,Troy D McKeown,44
+Campbell,01-03,State Senate,24,REP,Write-ins,1
+Campbell,01-03,State Senate,24,REP,Over Votes,1
+Campbell,01-03,State Senate,24,REP,Under Votes,5
+Campbell,01-03,State Senate,24,DEM,Write-ins,1
+Campbell,01-03,State House,53,REP,Christopher R. Knapp,71
+Campbell,01-03,State House,53,REP,Write-ins,2
+Campbell,01-03,State House,53,REP,Over Votes,0
+Campbell,01-03,State House,53,REP,Under Votes,12
+Campbell,01-03,State House,53,DEM,Write-ins,1
+Campbell,01-03,Ballots Cast,,REP,Ballots Cast,85
+Campbell,01-03,Ballots Cast,,DEM,Ballots Cast,6
+Campbell,01-03,Ballots Cast,,NP,Ballots Cast,1
+Campbell,01-03,Ballots Cast,,,Ballots Cast,92
+Campbell,01-05,U.S. Senate,,REP,John Barrasso,158
+Campbell,01-05,U.S. Senate,,REP,John Holtz,24
+Campbell,01-05,U.S. Senate,,REP,Reid Rasner,50
+Campbell,01-05,U.S. Senate,,REP,Write-ins,0
+Campbell,01-05,U.S. Senate,,REP,Over Votes,0
+Campbell,01-05,U.S. Senate,,REP,Under Votes,10
+Campbell,01-05,U.S. Senate,,DEM,Scott D Morrow,14
+Campbell,01-05,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-05,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-05,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-05,U.S. House,,REP,Harriet Hageman,186
+Campbell,01-05,U.S. House,,REP,Steven R. Helling,38
+Campbell,01-05,U.S. House,,REP,Write-ins,4
+Campbell,01-05,U.S. House,,REP,Over Votes,1
+Campbell,01-05,U.S. House,,REP,Under Votes,13
+Campbell,01-05,U.S. House,,DEM,Kyle G. Cameron,14
+Campbell,01-05,U.S. House,,DEM,Write-ins,0
+Campbell,01-05,U.S. House,,DEM,Over Votes,0
+Campbell,01-05,U.S. House,,DEM,Under Votes,0
+Campbell,01-05,State Senate,24,REP,Phil Christopherson,79
+Campbell,01-05,State Senate,24,REP,Troy D McKeown,153
+Campbell,01-05,State Senate,24,REP,Write-ins,0
+Campbell,01-05,State Senate,24,REP,Over Votes,0
+Campbell,01-05,State Senate,24,REP,Under Votes,10
+Campbell,01-05,State Senate,24,DEM,Write-ins,2
+Campbell,01-05,State House,53,REP,Christopher R. Knapp,206
+Campbell,01-05,State House,53,REP,Write-ins,2
+Campbell,01-05,State House,53,REP,Over Votes,0
+Campbell,01-05,State House,53,REP,Under Votes,34
+Campbell,01-05,State House,53,DEM,Write-ins,1
+Campbell,01-05,Ballots Cast,,REP,Ballots Cast,242
+Campbell,01-05,Ballots Cast,,DEM,Ballots Cast,14
+Campbell,01-05,Ballots Cast,,NP,Ballots Cast,4
+Campbell,01-05,Ballots Cast,,,Ballots Cast,260
+Campbell,01-07,U.S. Senate,,REP,John Barrasso,193
+Campbell,01-07,U.S. Senate,,REP,John Holtz,20
+Campbell,01-07,U.S. Senate,,REP,Reid Rasner,65
+Campbell,01-07,U.S. Senate,,REP,Write-ins,0
+Campbell,01-07,U.S. Senate,,REP,Over Votes,0
+Campbell,01-07,U.S. Senate,,REP,Under Votes,8
+Campbell,01-07,U.S. Senate,,DEM,Scott D Morrow,8
+Campbell,01-07,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-07,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-07,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-07,U.S. House,,REP,Harriet Hageman,233
+Campbell,01-07,U.S. House,,REP,Steven R. Helling,37
+Campbell,01-07,U.S. House,,REP,Write-ins,5
+Campbell,01-07,U.S. House,,REP,Over Votes,0
+Campbell,01-07,U.S. House,,REP,Under Votes,11
+Campbell,01-07,U.S. House,,DEM,Kyle G. Cameron,7
+Campbell,01-07,U.S. House,,DEM,Write-ins,0
+Campbell,01-07,U.S. House,,DEM,Over Votes,1
+Campbell,01-07,U.S. House,,DEM,Under Votes,1
+Campbell,01-07,State Senate,24,REP,Phil Christopherson,100
+Campbell,01-07,State Senate,24,REP,Troy D McKeown,172
+Campbell,01-07,State Senate,24,REP,Write-ins,1
+Campbell,01-07,State Senate,24,REP,Over Votes,0
+Campbell,01-07,State Senate,24,REP,Under Votes,13
+Campbell,01-07,State Senate,24,DEM,Write-ins,3
+Campbell,01-07,State House,53,REP,Christopher R. Knapp,238
+Campbell,01-07,State House,53,REP,Write-ins,4
+Campbell,01-07,State House,53,REP,Over Votes,0
+Campbell,01-07,State House,53,REP,Under Votes,44
+Campbell,01-07,State House,53,DEM,Write-ins,2
+Campbell,01-07,Ballots Cast,,REP,Ballots Cast,286
+Campbell,01-07,Ballots Cast,,DEM,Ballots Cast,9
+Campbell,01-07,Ballots Cast,,NP,Ballots Cast,3
+Campbell,01-07,Ballots Cast,,,Ballots Cast,298
+Campbell,01-09,U.S. Senate,,REP,John Barrasso,149
+Campbell,01-09,U.S. Senate,,REP,John Holtz,13
+Campbell,01-09,U.S. Senate,,REP,Reid Rasner,66
+Campbell,01-09,U.S. Senate,,REP,Write-ins,4
+Campbell,01-09,U.S. Senate,,REP,Over Votes,0
+Campbell,01-09,U.S. Senate,,REP,Under Votes,3
+Campbell,01-09,U.S. Senate,,DEM,Scott D Morrow,7
+Campbell,01-09,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-09,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-09,U.S. Senate,,DEM,Under Votes,2
+Campbell,01-09,U.S. House,,REP,Harriet Hageman,191
+Campbell,01-09,U.S. House,,REP,Steven R. Helling,34
+Campbell,01-09,U.S. House,,REP,Write-ins,6
+Campbell,01-09,U.S. House,,REP,Over Votes,0
+Campbell,01-09,U.S. House,,REP,Under Votes,4
+Campbell,01-09,U.S. House,,DEM,Kyle G. Cameron,7
+Campbell,01-09,U.S. House,,DEM,Write-ins,0
+Campbell,01-09,U.S. House,,DEM,Over Votes,0
+Campbell,01-09,U.S. House,,DEM,Under Votes,2
+Campbell,01-09,State Senate,24,REP,Phil Christopherson,75
+Campbell,01-09,State Senate,24,REP,Troy D McKeown,153
+Campbell,01-09,State Senate,24,REP,Write-ins,2
+Campbell,01-09,State Senate,24,REP,Over Votes,0
+Campbell,01-09,State Senate,24,REP,Under Votes,5
+Campbell,01-09,State Senate,24,DEM,Write-ins,1
+Campbell,01-09,State House,53,REP,Christopher R. Knapp,199
+Campbell,01-09,State House,53,REP,Write-ins,4
+Campbell,01-09,State House,53,REP,Over Votes,1
+Campbell,01-09,State House,53,REP,Under Votes,31
+Campbell,01-09,State House,53,DEM,Write-ins,1
+Campbell,01-09,Ballots Cast,,REP,Ballots Cast,235
+Campbell,01-09,Ballots Cast,,DEM,Ballots Cast,9
+Campbell,01-09,Ballots Cast,,NP,Ballots Cast,10
+Campbell,01-09,Ballots Cast,,,Ballots Cast,254
+Campbell,01-12,U.S. Senate,,REP,John Barrasso,121
+Campbell,01-12,U.S. Senate,,REP,John Holtz,16
+Campbell,01-12,U.S. Senate,,REP,Reid Rasner,60
+Campbell,01-12,U.S. Senate,,REP,Write-ins,1
+Campbell,01-12,U.S. Senate,,REP,Over Votes,0
+Campbell,01-12,U.S. Senate,,REP,Under Votes,9
+Campbell,01-12,U.S. Senate,,DEM,Scott D Morrow,6
+Campbell,01-12,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-12,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-12,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-12,U.S. House,,REP,Harriet Hageman,154
+Campbell,01-12,U.S. House,,REP,Steven R. Helling,40
+Campbell,01-12,U.S. House,,REP,Write-ins,1
+Campbell,01-12,U.S. House,,REP,Over Votes,0
+Campbell,01-12,U.S. House,,REP,Under Votes,12
+Campbell,01-12,U.S. House,,DEM,Kyle G. Cameron,6
+Campbell,01-12,U.S. House,,DEM,Write-ins,0
+Campbell,01-12,U.S. House,,DEM,Over Votes,0
+Campbell,01-12,U.S. House,,DEM,Under Votes,0
+Campbell,01-12,State House,52,REP,Reuben Tarver,182
+Campbell,01-12,State House,52,REP,Write-ins,1
+Campbell,01-12,State House,52,REP,Over Votes,0
+Campbell,01-12,State House,52,REP,Under Votes,24
+Campbell,01-12,State House,52,DEM,Write-ins,2
+Campbell,01-12,Ballots Cast,,REP,Ballots Cast,207
+Campbell,01-12,Ballots Cast,,DEM,Ballots Cast,6
+Campbell,01-12,Ballots Cast,,NP,Ballots Cast,7
+Campbell,01-12,Ballots Cast,,,Ballots Cast,220
+Campbell,01-14,U.S. Senate,,REP,John Barrasso,69
+Campbell,01-14,U.S. Senate,,REP,John Holtz,9
+Campbell,01-14,U.S. Senate,,REP,Reid Rasner,38
+Campbell,01-14,U.S. Senate,,REP,Write-ins,0
+Campbell,01-14,U.S. Senate,,REP,Over Votes,0
+Campbell,01-14,U.S. Senate,,REP,Under Votes,1
+Campbell,01-14,U.S. Senate,,DEM,Scott D Morrow,6
+Campbell,01-14,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-14,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-14,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-14,U.S. House,,REP,Harriet Hageman,91
+Campbell,01-14,U.S. House,,REP,Steven R. Helling,23
+Campbell,01-14,U.S. House,,REP,Write-ins,0
+Campbell,01-14,U.S. House,,REP,Over Votes,1
+Campbell,01-14,U.S. House,,REP,Under Votes,2
+Campbell,01-14,U.S. House,,DEM,Kyle G. Cameron,6
+Campbell,01-14,U.S. House,,DEM,Write-ins,0
+Campbell,01-14,U.S. House,,DEM,Over Votes,0
+Campbell,01-14,U.S. House,,DEM,Under Votes,0
+Campbell,01-14,State Senate,24,REP,Phil Christopherson,43
+Campbell,01-14,State Senate,24,REP,Troy D McKeown,67
+Campbell,01-14,State Senate,24,REP,Write-ins,0
+Campbell,01-14,State Senate,24,REP,Over Votes,0
+Campbell,01-14,State Senate,24,REP,Under Votes,7
+Campbell,01-14,State Senate,24,DEM,Write-ins,0
+Campbell,01-14,State House,32,REP,George Dunlap,60
+Campbell,01-14,State House,32,REP,Ken L. Clouston,54
+Campbell,01-14,State House,32,REP,Write-ins,3
+Campbell,01-14,State House,32,REP,Over Votes,0
+Campbell,01-14,State House,32,REP,Under Votes,0
+Campbell,01-14,State House,32,DEM,Write-ins,0
+Campbell,01-14,Ballots Cast,,REP,Ballots Cast,117
+Campbell,01-14,Ballots Cast,,DEM,Ballots Cast,6
+Campbell,01-14,Ballots Cast,,NP,Ballots Cast,2
+Campbell,01-14,Ballots Cast,,,Ballots Cast,125
+Campbell,01-15,U.S. Senate,,REP,John Barrasso,286
+Campbell,01-15,U.S. Senate,,REP,John Holtz,30
+Campbell,01-15,U.S. Senate,,REP,Reid Rasner,110
+Campbell,01-15,U.S. Senate,,REP,Write-ins,3
+Campbell,01-15,U.S. Senate,,REP,Over Votes,0
+Campbell,01-15,U.S. Senate,,REP,Under Votes,14
+Campbell,01-15,U.S. Senate,,DEM,Scott D Morrow,15
+Campbell,01-15,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-15,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-15,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-15,U.S. House,,REP,Harriet Hageman,326
+Campbell,01-15,U.S. House,,REP,Steven R. Helling,84
+Campbell,01-15,U.S. House,,REP,Write-ins,5
+Campbell,01-15,U.S. House,,REP,Over Votes,0
+Campbell,01-15,U.S. House,,REP,Under Votes,28
+Campbell,01-15,U.S. House,,DEM,Kyle G. Cameron,16
+Campbell,01-15,U.S. House,,DEM,Write-ins,1
+Campbell,01-15,U.S. House,,DEM,Over Votes,0
+Campbell,01-15,U.S. House,,DEM,Under Votes,0
+Campbell,01-15,State Senate,24,REP,Phil Christopherson,178
+Campbell,01-15,State Senate,24,REP,Troy D McKeown,244
+Campbell,01-15,State Senate,24,REP,Write-ins,0
+Campbell,01-15,State Senate,24,REP,Over Votes,0
+Campbell,01-15,State Senate,24,REP,Under Votes,21
+Campbell,01-15,State Senate,24,DEM,Write-ins,4
+Campbell,01-15,State House,32,REP,George Dunlap,173
+Campbell,01-15,State House,32,REP,Ken L. Clouston,260
+Campbell,01-15,State House,32,REP,Write-ins,0
+Campbell,01-15,State House,32,REP,Over Votes,1
+Campbell,01-15,State House,32,REP,Under Votes,9
+Campbell,01-15,State House,32,DEM,Write-ins,6
+Campbell,01-15,Ballots Cast,,REP,Ballots Cast,443
+Campbell,01-15,Ballots Cast,,DEM,Ballots Cast,17
+Campbell,01-15,Ballots Cast,,NP,Ballots Cast,8
+Campbell,01-16,U.S. Senate,,REP,John Barrasso,181
+Campbell,01-16,U.S. Senate,,REP,John Holtz,17
+Campbell,01-16,U.S. Senate,,REP,Reid Rasner,38
+Campbell,01-16,U.S. Senate,,REP,Write-ins,6
+Campbell,01-16,U.S. Senate,,REP,Over Votes,1
+Campbell,01-16,U.S. Senate,,REP,Under Votes,8
+Campbell,01-16,U.S. Senate,,DEM,Scott D Morrow,5
+Campbell,01-16,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-16,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-16,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-16,U.S. House,,REP,Harriet Hageman,180
+Campbell,01-16,U.S. House,,REP,Steven R. Helling,44
+Campbell,01-16,U.S. House,,REP,Write-ins,9
+Campbell,01-16,U.S. House,,REP,Over Votes,2
+Campbell,01-16,U.S. House,,REP,Under Votes,16
+Campbell,01-16,U.S. House,,DEM,Kyle G. Cameron,5
+Campbell,01-16,U.S. House,,DEM,Write-ins,0
+Campbell,01-16,U.S. House,,DEM,Over Votes,0
+Campbell,01-16,U.S. House,,DEM,Under Votes,0
+Campbell,01-16,State Senate,24,REP,Phil Christopherson,152
+Campbell,01-16,State Senate,24,REP,Troy D McKeown,88
+Campbell,01-16,State Senate,24,REP,Write-ins,4
+Campbell,01-16,State Senate,24,REP,Over Votes,1
+Campbell,01-16,State Senate,24,REP,Under Votes,6
+Campbell,01-16,State Senate,24,DEM,Write-ins,1
+Campbell,01-16,State House,32,REP,George Dunlap,74
+Campbell,01-16,State House,32,REP,Ken L. Clouston,173
+Campbell,01-16,State House,32,REP,Write-ins,2
+Campbell,01-16,State House,32,REP,Over Votes,1
+Campbell,01-16,State House,32,REP,Under Votes,1
+Campbell,01-16,State House,32,DEM,Write-ins,1
+Campbell,01-16,Ballots Cast,,REP,Ballots Cast,251
+Campbell,01-16,Ballots Cast,,DEM,Ballots Cast,5
+Campbell,01-16,Ballots Cast,,NP,Ballots Cast,12
+Campbell,01-16,Ballots Cast,,,Ballots Cast,268
+Campbell,01-17,U.S. Senate,,REP,John Barrasso,174
+Campbell,01-17,U.S. Senate,,REP,John Holtz,25
+Campbell,01-17,U.S. Senate,,REP,Reid Rasner,53
+Campbell,01-17,U.S. Senate,,REP,Write-ins,5
+Campbell,01-17,U.S. Senate,,REP,Over Votes,0
+Campbell,01-17,U.S. Senate,,REP,Under Votes,1
+Campbell,01-17,U.S. Senate,,DEM,Scott D Morrow,10
+Campbell,01-17,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-17,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-17,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-17,U.S. House,,REP,Harriet Hageman,225
+Campbell,01-17,U.S. House,,REP,Steven R. Helling,30
+Campbell,01-17,U.S. House,,REP,Write-ins,2
+Campbell,01-17,U.S. House,,REP,Over Votes,0
+Campbell,01-17,U.S. House,,REP,Under Votes,1
+Campbell,01-17,U.S. House,,DEM,Kyle G. Cameron,10
+Campbell,01-17,U.S. House,,DEM,Write-ins,0
+Campbell,01-17,U.S. House,,DEM,Over Votes,0
+Campbell,01-17,U.S. House,,DEM,Under Votes,1
+Campbell,01-17,State House,31,REP,John W Bear,215
+Campbell,01-17,State House,31,REP,Write-ins,10
+Campbell,01-17,State House,31,REP,Over Votes,0
+Campbell,01-17,State House,31,REP,Under Votes,33
+Campbell,01-17,State House,31,DEM,Write-ins,0
+Campbell,01-17,Ballots Cast,,REP,Ballots Cast,258
+Campbell,01-17,Ballots Cast,,DEM,Ballots Cast,11
+Campbell,01-17,Ballots Cast,,NP,Ballots Cast,4
+Campbell,01-17,Ballots Cast,,,Ballots Cast,273
+Campbell,01-18,U.S. Senate,,REP,John Barrasso,126
+Campbell,01-18,U.S. Senate,,REP,John Holtz,11
+Campbell,01-18,U.S. Senate,,REP,Reid Rasner,41
+Campbell,01-18,U.S. Senate,,REP,Write-ins,1
+Campbell,01-18,U.S. Senate,,REP,Over Votes,0
+Campbell,01-18,U.S. Senate,,REP,Under Votes,6
+Campbell,01-18,U.S. Senate,,DEM,Scott D Morrow,6
+Campbell,01-18,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-18,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-18,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-18,U.S. House,,REP,Harriet Hageman,150
+Campbell,01-18,U.S. House,,REP,Steven R. Helling,24
+Campbell,01-18,U.S. House,,REP,Write-ins,3
+Campbell,01-18,U.S. House,,REP,Over Votes,0
+Campbell,01-18,U.S. House,,REP,Under Votes,8
+Campbell,01-18,U.S. House,,DEM,Kyle G. Cameron,8
+Campbell,01-18,U.S. House,,DEM,Write-ins,0
+Campbell,01-18,U.S. House,,DEM,Over Votes,0
+Campbell,01-18,U.S. House,,DEM,Under Votes,0
+Campbell,01-18,State House,31,REP,John W Bear,135
+Campbell,01-18,State House,31,REP,Write-ins,10
+Campbell,01-18,State House,31,REP,Over Votes,0
+Campbell,01-18,State House,31,REP,Under Votes,40
+Campbell,01-18,State House,31,DEM,Write-ins,1
+Campbell,01-18,Ballots Cast,,REP,Ballots Cast,185
+Campbell,01-18,Ballots Cast,,DEM,Ballots Cast,8
+Campbell,01-18,Ballots Cast,,NP,Ballots Cast,4
+Campbell,01-18,Ballots Cast,,,Ballots Cast,197
+Campbell,01-19,U.S. Senate,,REP,John Barrasso,233
+Campbell,01-19,U.S. Senate,,REP,John Holtz,28
+Campbell,01-19,U.S. Senate,,REP,Reid Rasner,69
+Campbell,01-19,U.S. Senate,,REP,Write-ins,0
+Campbell,01-19,U.S. Senate,,REP,Over Votes,0
+Campbell,01-19,U.S. Senate,,REP,Under Votes,9
+Campbell,01-19,U.S. Senate,,DEM,Scott D Morrow,5
+Campbell,01-19,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-19,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-19,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-19,U.S. House,,REP,Harriet Hageman,270
+Campbell,01-19,U.S. House,,REP,Steven R. Helling,51
+Campbell,01-19,U.S. House,,REP,Write-ins,1
+Campbell,01-19,U.S. House,,REP,Over Votes,3
+Campbell,01-19,U.S. House,,REP,Under Votes,14
+Campbell,01-19,U.S. House,,DEM,Kyle G. Cameron,5
+Campbell,01-19,U.S. House,,DEM,Write-ins,0
+Campbell,01-19,U.S. House,,DEM,Over Votes,0
+Campbell,01-19,U.S. House,,DEM,Under Votes,0
+Campbell,01-19,State Senate,24,REP,Phil Christopherson,113
+Campbell,01-19,State Senate,24,REP,Troy D McKeown,211
+Campbell,01-19,State Senate,24,REP,Write-ins,1
+Campbell,01-19,State Senate,24,REP,Over Votes,0
+Campbell,01-19,State Senate,24,REP,Under Votes,14
+Campbell,01-19,State Senate,24,DEM,Write-ins,0
+Campbell,01-19,State House,32,REP,George Dunlap,152
+Campbell,01-19,State House,32,REP,Ken L. Clouston,180
+Campbell,01-19,State House,32,REP,Write-ins,0
+Campbell,01-19,State House,32,REP,Over Votes,0
+Campbell,01-19,State House,32,REP,Under Votes,7
+Campbell,01-19,State House,32,DEM,Write-ins,0
+Campbell,01-19,Ballots Cast,,REP,Ballots Cast,339
+Campbell,01-19,Ballots Cast,,DEM,Ballots Cast,5
+Campbell,01-19,Ballots Cast,,NP,Ballots Cast,6
+Campbell,01-19,Ballots Cast,,,Ballots Cast,350
+Campbell,01-20,U.S. Senate,,REP,John Barrasso,173
+Campbell,01-20,U.S. Senate,,REP,John Holtz,7
+Campbell,01-20,U.S. Senate,,REP,Reid Rasner,63
+Campbell,01-20,U.S. Senate,,REP,Write-ins,1
+Campbell,01-20,U.S. Senate,,REP,Over Votes,0
+Campbell,01-20,U.S. Senate,,REP,Under Votes,6
+Campbell,01-20,U.S. Senate,,DEM,Scott D Morrow,10
+Campbell,01-20,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-20,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-20,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-20,U.S. House,,REP,Harriet Hageman,195
+Campbell,01-20,U.S. House,,REP,Steven R. Helling,41
+Campbell,01-20,U.S. House,,REP,Write-ins,3
+Campbell,01-20,U.S. House,,REP,Over Votes,0
+Campbell,01-20,U.S. House,,REP,Under Votes,11
+Campbell,01-20,U.S. House,,DEM,Kyle G. Cameron,10
+Campbell,01-20,U.S. House,,DEM,Write-ins,0
+Campbell,01-20,U.S. House,,DEM,Over Votes,0
+Campbell,01-20,U.S. House,,DEM,Under Votes,0
+Campbell,01-20,State Senate,24,REP,Phil Christopherson,100
+Campbell,01-20,State Senate,24,REP,Troy D McKeown,140
+Campbell,01-20,State Senate,24,REP,Write-ins,0
+Campbell,01-20,State Senate,24,REP,Over Votes,0
+Campbell,01-20,State Senate,24,REP,Under Votes,10
+Campbell,01-20,State Senate,24,DEM,Write-ins,3
+Campbell,01-20,State House,32,REP,George Dunlap,98
+Campbell,01-20,State House,32,REP,Ken L. Clouston,148
+Campbell,01-20,State House,32,REP,Write-ins,0
+Campbell,01-20,State House,32,REP,Over Votes,0
+Campbell,01-20,State House,32,REP,Under Votes,4
+Campbell,01-20,State House,32,DEM,Write-ins,3
+Campbell,01-20,Ballots Cast,,REP,Ballots Cast,250
+Campbell,01-20,Ballots Cast,,DEM,Ballots Cast,10
+Campbell,01-20,Ballots Cast,,NP,Ballots Cast,8
+Campbell,01-20,Ballots Cast,,,Ballots Cast,268
+Campbell,01-21,U.S. Senate,,REP,John Barrasso,106
+Campbell,01-21,U.S. Senate,,REP,John Holtz,15
+Campbell,01-21,U.S. Senate,,REP,Reid Rasner,65
+Campbell,01-21,U.S. Senate,,REP,Write-ins,2
+Campbell,01-21,U.S. Senate,,REP,Over Votes,0
+Campbell,01-21,U.S. Senate,,REP,Under Votes,2
+Campbell,01-21,U.S. Senate,,DEM,Scott D Morrow,3
+Campbell,01-21,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-21,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-21,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-21,U.S. House,,REP,Harriet Hageman,158
+Campbell,01-21,U.S. House,,REP,Steven R. Helling,26
+Campbell,01-21,U.S. House,,REP,Write-ins,1
+Campbell,01-21,U.S. House,,REP,Over Votes,2
+Campbell,01-21,U.S. House,,REP,Under Votes,3
+Campbell,01-21,U.S. House,,DEM,Kyle G. Cameron,3
+Campbell,01-21,U.S. House,,DEM,Write-ins,0
+Campbell,01-21,U.S. House,,DEM,Over Votes,0
+Campbell,01-21,U.S. House,,DEM,Under Votes,1
+Campbell,01-21,State House,31,REP,John W Bear,152
+Campbell,01-21,State House,31,REP,Write-ins,9
+Campbell,01-21,State House,31,REP,Over Votes,0
+Campbell,01-21,State House,31,REP,Under Votes,29
+Campbell,01-21,State House,31,DEM,Write-ins,1
+Campbell,01-21,Ballots Cast,,REP,Ballots Cast,190
+Campbell,01-21,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,01-21,Ballots Cast,,NP,Ballots Cast,7
+Campbell,01-21,Ballots Cast,,,Ballots Cast,201
+Campbell,01-22,U.S. Senate,,REP,John Barrasso,59
+Campbell,01-22,U.S. Senate,,REP,John Holtz,6
+Campbell,01-22,U.S. Senate,,REP,Reid Rasner,18
+Campbell,01-22,U.S. Senate,,REP,Write-ins,3
+Campbell,01-22,U.S. Senate,,REP,Over Votes,0
+Campbell,01-22,U.S. Senate,,REP,Under Votes,0
+Campbell,01-22,U.S. Senate,,DEM,Scott D Morrow,0
+Campbell,01-22,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-22,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-22,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-22,U.S. House,,REP,Harriet Hageman,67
+Campbell,01-22,U.S. House,,REP,Steven R. Helling,18
+Campbell,01-22,U.S. House,,REP,Write-ins,1
+Campbell,01-22,U.S. House,,REP,Over Votes,0
+Campbell,01-22,U.S. House,,REP,Under Votes,0
+Campbell,01-22,U.S. House,,DEM,Kyle G. Cameron,0
+Campbell,01-22,U.S. House,,DEM,Write-ins,0
+Campbell,01-22,U.S. House,,DEM,Over Votes,0
+Campbell,01-22,U.S. House,,DEM,Under Votes,0
+Campbell,01-22,State House,31,REP,John W Bear,73
+Campbell,01-22,State House,31,REP,Write-ins,4
+Campbell,01-22,State House,31,REP,Over Votes,0
+Campbell,01-22,State House,31,REP,Under Votes,9
+Campbell,01-22,State House,31,DEM,Write-ins,0
+Campbell,01-22,Ballots Cast,,REP,Ballots Cast,86
+Campbell,01-22,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,01-22,Ballots Cast,,NP,Ballots Cast,3
+Campbell,01-22,Ballots Cast,,,Ballots Cast,89
+Campbell,01-23,U.S. Senate,,REP,John Barrasso,139
+Campbell,01-23,U.S. Senate,,REP,John Holtz,16
+Campbell,01-23,U.S. Senate,,REP,Reid Rasner,67
+Campbell,01-23,U.S. Senate,,REP,Write-ins,0
+Campbell,01-23,U.S. Senate,,REP,Over Votes,0
+Campbell,01-23,U.S. Senate,,REP,Under Votes,6
+Campbell,01-23,U.S. Senate,,DEM,Scott D Morrow,4
+Campbell,01-23,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-23,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-23,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-23,U.S. House,,REP,Harriet Hageman,162
+Campbell,01-23,U.S. House,,REP,Steven R. Helling,51
+Campbell,01-23,U.S. House,,REP,Write-ins,1
+Campbell,01-23,U.S. House,,REP,Over Votes,1
+Campbell,01-23,U.S. House,,REP,Under Votes,13
+Campbell,01-23,U.S. House,,DEM,Kyle G. Cameron,4
+Campbell,01-23,U.S. House,,DEM,Write-ins,0
+Campbell,01-23,U.S. House,,DEM,Over Votes,0
+Campbell,01-23,U.S. House,,DEM,Under Votes,1
+Campbell,01-23,State House,31,REP,John W Bear,147
+Campbell,01-23,State House,31,REP,Write-ins,22
+Campbell,01-23,State House,31,REP,Over Votes,0
+Campbell,01-23,State House,31,REP,Under Votes,59
+Campbell,01-23,State House,31,DEM,Write-ins,0
+Campbell,01-23,Ballots Cast,,REP,Ballots Cast,228
+Campbell,01-23,Ballots Cast,,DEM,Ballots Cast,5
+Campbell,01-23,Ballots Cast,,NP,Ballots Cast,2
+Campbell,01-23,Ballots Cast,,,Ballots Cast,235
+Campbell,01-24,U.S. Senate,,REP,John Barrasso,97
+Campbell,01-24,U.S. Senate,,REP,John Holtz,14
+Campbell,01-24,U.S. Senate,,REP,Reid Rasner,42
+Campbell,01-24,U.S. Senate,,REP,Write-ins,1
+Campbell,01-24,U.S. Senate,,REP,Over Votes,0
+Campbell,01-24,U.S. Senate,,REP,Under Votes,3
+Campbell,01-24,U.S. Senate,,DEM,Scott D Morrow,6
+Campbell,01-24,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-24,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-24,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-24,U.S. House,,REP,Harriet Hageman,110
+Campbell,01-24,U.S. House,,REP,Steven R. Helling,36
+Campbell,01-24,U.S. House,,REP,Write-ins,2
+Campbell,01-24,U.S. House,,REP,Over Votes,0
+Campbell,01-24,U.S. House,,REP,Under Votes,9
+Campbell,01-24,U.S. House,,DEM,Kyle G. Cameron,6
+Campbell,01-24,U.S. House,,DEM,Write-ins,0
+Campbell,01-24,U.S. House,,DEM,Over Votes,0
+Campbell,01-24,U.S. House,,DEM,Under Votes,0
+Campbell,01-24,State House,31,REP,John W Bear,123
+Campbell,01-24,State House,31,REP,Write-ins,8
+Campbell,01-24,State House,31,REP,Over Votes,0
+Campbell,01-24,State House,31,REP,Under Votes,26
+Campbell,01-24,State House,31,DEM,Write-ins,2
+Campbell,01-24,Ballots Cast,,REP,Ballots Cast,157
+Campbell,01-24,Ballots Cast,,DEM,Ballots Cast,6
+Campbell,01-24,Ballots Cast,,NP,Ballots Cast,4
+Campbell,01-24,Ballots Cast,,,Ballots Cast,167
+Campbell,01-25,U.S. Senate,,REP,John Barrasso,265
+Campbell,01-25,U.S. Senate,,REP,John Holtz,24
+Campbell,01-25,U.S. Senate,,REP,Reid Rasner,68
+Campbell,01-25,U.S. Senate,,REP,Write-ins,1
+Campbell,01-25,U.S. Senate,,REP,Over Votes,0
+Campbell,01-25,U.S. Senate,,REP,Under Votes,12
+Campbell,01-25,U.S. Senate,,DEM,Scott D Morrow,4
+Campbell,01-25,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-25,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-25,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-25,U.S. House,,REP,Harriet Hageman,297
+Campbell,01-25,U.S. House,,REP,Steven R. Helling,49
+Campbell,01-25,U.S. House,,REP,Write-ins,3
+Campbell,01-25,U.S. House,,REP,Over Votes,0
+Campbell,01-25,U.S. House,,REP,Under Votes,21
+Campbell,01-25,U.S. House,,DEM,Kyle G. Cameron,3
+Campbell,01-25,U.S. House,,DEM,Write-ins,1
+Campbell,01-25,U.S. House,,DEM,Over Votes,0
+Campbell,01-25,U.S. House,,DEM,Under Votes,0
+Campbell,01-25,State Senate,24,REP,Phil Christopherson,187
+Campbell,01-25,State Senate,24,REP,Troy D McKeown,172
+Campbell,01-25,State Senate,24,REP,Write-ins,1
+Campbell,01-25,State Senate,24,REP,Over Votes,0
+Campbell,01-25,State Senate,24,REP,Under Votes,10
+Campbell,01-25,State Senate,24,DEM,Write-ins,1
+Campbell,01-25,State House,32,REP,George Dunlap,137
+Campbell,01-25,State House,32,REP,Ken L. Clouston,231
+Campbell,01-25,State House,32,REP,Write-ins,0
+Campbell,01-25,State House,32,REP,Over Votes,0
+Campbell,01-25,State House,32,REP,Under Votes,2
+Campbell,01-25,State House,32,DEM,Write-ins,1
+Campbell,01-25,Ballots Cast,,REP,Ballots Cast,370
+Campbell,01-25,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,01-25,Ballots Cast,,NP,Ballots Cast,5
+Campbell,01-25,Ballots Cast,,,Ballots Cast,379
+Campbell,01-26,U.S. Senate,,REP,John Barrasso,63
+Campbell,01-26,U.S. Senate,,REP,John Holtz,6
+Campbell,01-26,U.S. Senate,,REP,Reid Rasner,24
+Campbell,01-26,U.S. Senate,,REP,Write-ins,0
+Campbell,01-26,U.S. Senate,,REP,Over Votes,0
+Campbell,01-26,U.S. Senate,,REP,Under Votes,6
+Campbell,01-26,U.S. Senate,,DEM,Scott D Morrow,2
+Campbell,01-26,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-26,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-26,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-26,U.S. House,,REP,Harriet Hageman,76
+Campbell,01-26,U.S. House,,REP,Steven R. Helling,18
+Campbell,01-26,U.S. House,,REP,Write-ins,0
+Campbell,01-26,U.S. House,,REP,Over Votes,0
+Campbell,01-26,U.S. House,,REP,Under Votes,5
+Campbell,01-26,U.S. House,,DEM,Kyle G. Cameron,2
+Campbell,01-26,U.S. House,,DEM,Write-ins,0
+Campbell,01-26,U.S. House,,DEM,Over Votes,0
+Campbell,01-26,U.S. House,,DEM,Under Votes,0
+Campbell,01-26,State House,3,REP,Abby Angelos,86
+Campbell,01-26,State House,3,REP,Write-ins,3
+Campbell,01-26,State House,3,REP,Over Votes,0
+Campbell,01-26,State House,3,REP,Under Votes,10
+Campbell,01-26,State House,3,DEM,Write-ins,0
+Campbell,01-26,Ballots Cast,,REP,Ballots Cast,99
+Campbell,01-26,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,01-26,Ballots Cast,,NP,Ballots Cast,1
+Campbell,01-26,Ballots Cast,,,Ballots Cast,102
+Campbell,01-27,U.S. Senate,,REP,John Barrasso,207
+Campbell,01-27,U.S. Senate,,REP,John Holtz,9
+Campbell,01-27,U.S. Senate,,REP,Reid Rasner,65
+Campbell,01-27,U.S. Senate,,REP,Write-ins,0
+Campbell,01-27,U.S. Senate,,REP,Over Votes,0
+Campbell,01-27,U.S. Senate,,REP,Under Votes,4
+Campbell,01-27,U.S. Senate,,DEM,Scott D Morrow,2
+Campbell,01-27,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-27,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-27,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-27,U.S. House,,REP,Harriet Hageman,245
+Campbell,01-27,U.S. House,,REP,Steven R. Helling,34
+Campbell,01-27,U.S. House,,REP,Write-ins,0
+Campbell,01-27,U.S. House,,REP,Over Votes,1
+Campbell,01-27,U.S. House,,REP,Under Votes,5
+Campbell,01-27,U.S. House,,DEM,Kyle G. Cameron,2
+Campbell,01-27,U.S. House,,DEM,Write-ins,0
+Campbell,01-27,U.S. House,,DEM,Over Votes,0
+Campbell,01-27,U.S. House,,DEM,Under Votes,0
+Campbell,01-27,State House,3,REP,Abby Angelos,237
+Campbell,01-27,State House,3,REP,Write-ins,2
+Campbell,01-27,State House,3,REP,Over Votes,0
+Campbell,01-27,State House,3,REP,Under Votes,46
+Campbell,01-27,State House,3,DEM,Write-ins,0
+Campbell,01-27,Ballots Cast,,REP,Ballots Cast,285
+Campbell,01-27,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,01-27,Ballots Cast,,NP,Ballots Cast,1
+Campbell,01-27,Ballots Cast,,,Ballots Cast,288
+Campbell,02-01,U.S. Senate,,REP,John Barrasso,78
+Campbell,02-01,U.S. Senate,,REP,John Holtz,4
+Campbell,02-01,U.S. Senate,,REP,Reid Rasner,44
+Campbell,02-01,U.S. Senate,,REP,Write-ins,0
+Campbell,02-01,U.S. Senate,,REP,Over Votes,0
+Campbell,02-01,U.S. Senate,,REP,Under Votes,2
+Campbell,02-01,U.S. Senate,,DEM,Scott D Morrow,2
+Campbell,02-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,02-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,02-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,02-01,U.S. House,,REP,Harriet Hageman,110
+Campbell,02-01,U.S. House,,REP,Steven R. Helling,14
+Campbell,02-01,U.S. House,,REP,Write-ins,0
+Campbell,02-01,U.S. House,,REP,Over Votes,0
+Campbell,02-01,U.S. House,,REP,Under Votes,4
+Campbell,02-01,U.S. House,,DEM,Kyle G. Cameron,2
+Campbell,02-01,U.S. House,,DEM,Write-ins,0
+Campbell,02-01,U.S. House,,DEM,Over Votes,0
+Campbell,02-01,U.S. House,,DEM,Under Votes,0
+Campbell,02-01,State House,52,REP,Reuben Tarver,110
+Campbell,02-01,State House,52,REP,Write-ins,0
+Campbell,02-01,State House,52,REP,Over Votes,0
+Campbell,02-01,State House,52,REP,Under Votes,18
+Campbell,02-01,State House,52,DEM,Write-ins,0
+Campbell,02-01,Ballots Cast,,REP,Ballots Cast,128
+Campbell,02-01,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,02-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,02-01,Ballots Cast,,,Ballots Cast,130
+Campbell,03-01,U.S. Senate,,REP,John Barrasso,208
+Campbell,03-01,U.S. Senate,,REP,John Holtz,10
+Campbell,03-01,U.S. Senate,,REP,Reid Rasner,112
+Campbell,03-01,U.S. Senate,,REP,Write-ins,1
+Campbell,03-01,U.S. Senate,,REP,Over Votes,0
+Campbell,03-01,U.S. Senate,,REP,Under Votes,13
+Campbell,03-01,U.S. Senate,,DEM,Scott D Morrow,2
+Campbell,03-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,03-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,03-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,03-01,U.S. House,,REP,Harriet Hageman,290
+Campbell,03-01,U.S. House,,REP,Steven R. Helling,39
+Campbell,03-01,U.S. House,,REP,Write-ins,1
+Campbell,03-01,U.S. House,,REP,Over Votes,0
+Campbell,03-01,U.S. House,,REP,Under Votes,14
+Campbell,03-01,U.S. House,,DEM,Kyle G. Cameron,2
+Campbell,03-01,U.S. House,,DEM,Write-ins,0
+Campbell,03-01,U.S. House,,DEM,Over Votes,0
+Campbell,03-01,U.S. House,,DEM,Under Votes,0
+Campbell,03-01,State House,3,REP,Abby Angelos,307
+Campbell,03-01,State House,3,REP,Write-ins,6
+Campbell,03-01,State House,3,REP,Over Votes,0
+Campbell,03-01,State House,3,REP,Under Votes,31
+Campbell,03-01,State House,3,DEM,Write-ins,0
+Campbell,03-01,Ballots Cast,,REP,Ballots Cast,344
+Campbell,03-01,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,03-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,03-01,Ballots Cast,,,Ballots Cast,346
+Campbell,04-01,U.S. Senate,,REP,John Barrasso,217
+Campbell,04-01,U.S. Senate,,REP,John Holtz,25
+Campbell,04-01,U.S. Senate,,REP,Reid Rasner,120
+Campbell,04-01,U.S. Senate,,REP,Write-ins,4
+Campbell,04-01,U.S. Senate,,REP,Over Votes,0
+Campbell,04-01,U.S. Senate,,REP,Under Votes,4
+Campbell,04-01,U.S. Senate,,DEM,Scott D Morrow,0
+Campbell,04-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,04-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,04-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,04-01,U.S. House,,REP,Harriet Hageman,318
+Campbell,04-01,U.S. House,,REP,Steven R. Helling,41
+Campbell,04-01,U.S. House,,REP,Write-ins,4
+Campbell,04-01,U.S. House,,REP,Over Votes,0
+Campbell,04-01,U.S. House,,REP,Under Votes,7
+Campbell,04-01,U.S. House,,DEM,Kyle G. Cameron,1
+Campbell,04-01,U.S. House,,DEM,Write-ins,0
+Campbell,04-01,U.S. House,,DEM,Over Votes,0
+Campbell,04-01,U.S. House,,DEM,Under Votes,0
+Campbell,04-01,State House,52,REP,Reuben Tarver,326
+Campbell,04-01,State House,52,REP,Write-ins,4
+Campbell,04-01,State House,52,REP,Over Votes,0
+Campbell,04-01,State House,52,REP,Under Votes,40
+Campbell,04-01,State House,52,DEM,Write-ins,1
+Campbell,04-01,Ballots Cast,,REP,Ballots Cast,370
+Campbell,04-01,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,04-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,04-01,Ballots Cast,,,Ballots Cast,371
+Campbell,06-01,U.S. Senate,,REP,John Barrasso,130
+Campbell,06-01,U.S. Senate,,REP,John Holtz,14
+Campbell,06-01,U.S. Senate,,REP,Reid Rasner,49
+Campbell,06-01,U.S. Senate,,REP,Write-ins,1
+Campbell,06-01,U.S. Senate,,REP,Over Votes,0
+Campbell,06-01,U.S. Senate,,REP,Under Votes,5
+Campbell,06-01,U.S. Senate,,DEM,Scott D Morrow,0
+Campbell,06-01,U.S. Senate,,DEM,Write-ins,1
+Campbell,06-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,06-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,06-01,U.S. House,,REP,Harriet Hageman,169
+Campbell,06-01,U.S. House,,REP,Steven R. Helling,25
+Campbell,06-01,U.S. House,,REP,Write-ins,1
+Campbell,06-01,U.S. House,,REP,Over Votes,0
+Campbell,06-01,U.S. House,,REP,Under Votes,4
+Campbell,06-01,U.S. House,,DEM,Kyle G. Cameron,0
+Campbell,06-01,U.S. House,,DEM,Write-ins,0
+Campbell,06-01,U.S. House,,DEM,Over Votes,0
+Campbell,06-01,U.S. House,,DEM,Under Votes,0
+Campbell,06-01,State House,52,REP,Reuben Tarver,174
+Campbell,06-01,State House,52,REP,Write-ins,0
+Campbell,06-01,State House,52,REP,Over Votes,0
+Campbell,06-01,State House,52,REP,Under Votes,25
+Campbell,06-01,State House,52,DEM,Write-ins,0
+Campbell,06-01,Ballots Cast,,REP,Ballots Cast,199
+Campbell,06-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,06-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,06-01,Ballots Cast,,,Ballots Cast,199
+Campbell,07-01,U.S. Senate,,REP,John Barrasso,55
+Campbell,07-01,U.S. Senate,,REP,John Holtz,7
+Campbell,07-01,U.S. Senate,,REP,Reid Rasner,22
+Campbell,07-01,U.S. Senate,,REP,Write-ins,1
+Campbell,07-01,U.S. Senate,,REP,Over Votes,0
+Campbell,07-01,U.S. Senate,,REP,Under Votes,6
+Campbell,07-01,U.S. Senate,,DEM,Scott D Morrow,4
+Campbell,07-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,07-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,07-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,07-01,U.S. House,,REP,Harriet Hageman,83
+Campbell,07-01,U.S. House,,REP,Steven R. Helling,7
+Campbell,07-01,U.S. House,,REP,Write-ins,0
+Campbell,07-01,U.S. House,,REP,Over Votes,0
+Campbell,07-01,U.S. House,,REP,Under Votes,1
+Campbell,07-01,U.S. House,,DEM,Kyle G. Cameron,4
+Campbell,07-01,U.S. House,,DEM,Write-ins,0
+Campbell,07-01,U.S. House,,DEM,Over Votes,0
+Campbell,07-01,U.S. House,,DEM,Under Votes,0
+Campbell,07-01,State House,52,REP,Reuben Tarver,89
+Campbell,07-01,State House,52,REP,Write-ins,2
+Campbell,07-01,State House,52,REP,Over Votes,0
+Campbell,07-01,State House,52,REP,Under Votes,0
+Campbell,07-01,State House,52,DEM,Write-ins,0
+Campbell,07-01,Ballots Cast,,REP,Ballots Cast,91
+Campbell,07-01,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,07-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,07-01,Ballots Cast,,,Ballots Cast,95
+Campbell,08-01,U.S. Senate,,REP,John Barrasso,46
+Campbell,08-01,U.S. Senate,,REP,John Holtz,3
+Campbell,08-01,U.S. Senate,,REP,Reid Rasner,21
+Campbell,08-01,U.S. Senate,,REP,Write-ins,1
+Campbell,08-01,U.S. Senate,,REP,Over Votes,0
+Campbell,08-01,U.S. Senate,,REP,Under Votes,1
+Campbell,08-01,U.S. Senate,,DEM,Scott D Morrow,0
+Campbell,08-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,08-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,08-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,08-01,U.S. House,,REP,Harriet Hageman,64
+Campbell,08-01,U.S. House,,REP,Steven R. Helling,7
+Campbell,08-01,U.S. House,,REP,Write-ins,0
+Campbell,08-01,U.S. House,,REP,Over Votes,0
+Campbell,08-01,U.S. House,,REP,Under Votes,1
+Campbell,08-01,U.S. House,,DEM,Kyle G. Cameron,0
+Campbell,08-01,U.S. House,,DEM,Write-ins,0
+Campbell,08-01,U.S. House,,DEM,Over Votes,0
+Campbell,08-01,U.S. House,,DEM,Under Votes,0
+Campbell,08-01,State House,52,REP,Reuben Tarver,70
+Campbell,08-01,State House,52,REP,Write-ins,1
+Campbell,08-01,State House,52,REP,Over Votes,0
+Campbell,08-01,State House,52,REP,Under Votes,1
+Campbell,08-01,State House,52,DEM,Write-ins,0
+Campbell,08-01,Ballots Cast,,REP,Ballots Cast,72
+Campbell,08-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,08-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,08-01,Ballots Cast,,,Ballots Cast,72
+Campbell,09-01,U.S. Senate,,REP,John Barrasso,24
+Campbell,09-01,U.S. Senate,,REP,John Holtz,1
+Campbell,09-01,U.S. Senate,,REP,Reid Rasner,3
+Campbell,09-01,U.S. Senate,,REP,Write-ins,0
+Campbell,09-01,U.S. Senate,,REP,Over Votes,0
+Campbell,09-01,U.S. Senate,,REP,Under Votes,0
+Campbell,09-01,U.S. Senate,,DEM,Scott D Morrow,0
+Campbell,09-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,09-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,09-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,09-01,U.S. House,,REP,Harriet Hageman,20
+Campbell,09-01,U.S. House,,REP,Steven R. Helling,6
+Campbell,09-01,U.S. House,,REP,Write-ins,0
+Campbell,09-01,U.S. House,,REP,Over Votes,1
+Campbell,09-01,U.S. House,,REP,Under Votes,1
+Campbell,09-01,U.S. House,,DEM,Kyle G. Cameron,0
+Campbell,09-01,U.S. House,,DEM,Write-ins,0
+Campbell,09-01,U.S. House,,DEM,Over Votes,0
+Campbell,09-01,U.S. House,,DEM,Under Votes,0
+Campbell,09-01,State Senate,24,REP,Phil Christopherson,16
+Campbell,09-01,State Senate,24,REP,Troy D McKeown,10
+Campbell,09-01,State Senate,24,REP,Write-ins,0
+Campbell,09-01,State Senate,24,REP,Over Votes,0
+Campbell,09-01,State Senate,24,REP,Under Votes,2
+Campbell,09-01,State Senate,24,DEM,Write-ins,0
+Campbell,09-01,State House,32,REP,George Dunlap,12
+Campbell,09-01,State House,32,REP,Ken L. Clouston,16
+Campbell,09-01,State House,32,REP,Write-ins,0
+Campbell,09-01,State House,32,REP,Over Votes,0
+Campbell,09-01,State House,32,REP,Under Votes,0
+Campbell,09-01,State House,32,DEM,Write-ins,0
+Campbell,09-01,Ballots Cast,,REP,Ballots Cast,28
+Campbell,09-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,09-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,09-01,Ballots Cast,,,Ballots Cast,28
+Campbell,13-01,U.S. Senate,,REP,John Barrasso,77
+Campbell,13-01,U.S. Senate,,REP,John Holtz,4
+Campbell,13-01,U.S. Senate,,REP,Reid Rasner,25
+Campbell,13-01,U.S. Senate,,REP,Write-ins,2
+Campbell,13-01,U.S. Senate,,REP,Over Votes,0
+Campbell,13-01,U.S. Senate,,REP,Under Votes,3
+Campbell,13-01,U.S. Senate,,DEM,Scott D Morrow,0
+Campbell,13-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,13-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,13-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,13-01,U.S. House,,REP,Harriet Hageman,96
+Campbell,13-01,U.S. House,,REP,Steven R. Helling,7
+Campbell,13-01,U.S. House,,REP,Write-ins,2
+Campbell,13-01,U.S. House,,REP,Over Votes,0
+Campbell,13-01,U.S. House,,REP,Under Votes,6
+Campbell,13-01,U.S. House,,DEM,Kyle G. Cameron,0
+Campbell,13-01,U.S. House,,DEM,Write-ins,0
+Campbell,13-01,U.S. House,,DEM,Over Votes,0
+Campbell,13-01,U.S. House,,DEM,Under Votes,0
+Campbell,13-01,State House,3,REP,Abby Angelos,96
+Campbell,13-01,State House,3,REP,Write-ins,3
+Campbell,13-01,State House,3,REP,Over Votes,0
+Campbell,13-01,State House,3,REP,Under Votes,12
+Campbell,13-01,State House,3,DEM,Write-ins,0
+Campbell,13-01,Ballots Cast,,REP,Ballots Cast,111
+Campbell,13-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,13-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,13-01,Ballots Cast,,,Ballots Cast,111
+Campbell,14-01,U.S. Senate,,REP,John Barrasso,136
+Campbell,14-01,U.S. Senate,,REP,John Holtz,11
+Campbell,14-01,U.S. Senate,,REP,Reid Rasner,56
+Campbell,14-01,U.S. Senate,,REP,Write-ins,0
+Campbell,14-01,U.S. Senate,,REP,Over Votes,0
+Campbell,14-01,U.S. Senate,,REP,Under Votes,5
+Campbell,14-01,U.S. Senate,,DEM,Scott D Morrow,8
+Campbell,14-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,14-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,14-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,14-01,U.S. House,,REP,Harriet Hageman,187
+Campbell,14-01,U.S. House,,REP,Steven R. Helling,19
+Campbell,14-01,U.S. House,,REP,Write-ins,0
+Campbell,14-01,U.S. House,,REP,Over Votes,0
+Campbell,14-01,U.S. House,,REP,Under Votes,2
+Campbell,14-01,U.S. House,,DEM,Kyle G. Cameron,7
+Campbell,14-01,U.S. House,,DEM,Write-ins,0
+Campbell,14-01,U.S. House,,DEM,Over Votes,1
+Campbell,14-01,U.S. House,,DEM,Under Votes,0
+Campbell,14-01,State House,3,REP,Abby Angelos,196
+Campbell,14-01,State House,3,REP,Write-ins,2
+Campbell,14-01,State House,3,REP,Over Votes,0
+Campbell,14-01,State House,3,REP,Under Votes,10
+Campbell,14-01,State House,3,DEM,Write-ins,0
+Campbell,14-01,Ballots Cast,,REP,Ballots Cast,208
+Campbell,14-01,Ballots Cast,,DEM,Ballots Cast,8
+Campbell,14-01,Ballots Cast,,NP,Ballots Cast,6
+Campbell,14-01,Ballots Cast,,,Ballots Cast,222
+Campbell,14-02,U.S. Senate,,REP,John Barrasso,88
+Campbell,14-02,U.S. Senate,,REP,John Holtz,7
+Campbell,14-02,U.S. Senate,,REP,Reid Rasner,52
+Campbell,14-02,U.S. Senate,,REP,Write-ins,0
+Campbell,14-02,U.S. Senate,,REP,Over Votes,0
+Campbell,14-02,U.S. Senate,,REP,Under Votes,1
+Campbell,14-02,U.S. Senate,,DEM,Scott D Morrow,2
+Campbell,14-02,U.S. Senate,,DEM,Write-ins,0
+Campbell,14-02,U.S. Senate,,DEM,Over Votes,0
+Campbell,14-02,U.S. Senate,,DEM,Under Votes,0
+Campbell,14-02,U.S. House,,REP,Harriet Hageman,139
+Campbell,14-02,U.S. House,,REP,Steven R. Helling,9
+Campbell,14-02,U.S. House,,REP,Write-ins,0
+Campbell,14-02,U.S. House,,REP,Over Votes,0
+Campbell,14-02,U.S. House,,REP,Under Votes,0
+Campbell,14-02,U.S. House,,DEM,Kyle G. Cameron,2
+Campbell,14-02,U.S. House,,DEM,Write-ins,0
+Campbell,14-02,U.S. House,,DEM,Over Votes,0
+Campbell,14-02,U.S. House,,DEM,Under Votes,0
+Campbell,14-02,State House,3,REP,Abby Angelos,139
+Campbell,14-02,State House,3,REP,Write-ins,1
+Campbell,14-02,State House,3,REP,Over Votes,0
+Campbell,14-02,State House,3,REP,Under Votes,8
+Campbell,14-02,State House,3,DEM,Write-ins,0
+Campbell,14-02,Ballots Cast,,REP,Ballots Cast,148
+Campbell,14-02,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,14-02,Ballots Cast,,NP,Ballots Cast,0
+Campbell,14-02,Ballots Cast,,,Ballots Cast,150
+Campbell,18-01,U.S. Senate,,REP,John Barrasso,99
+Campbell,18-01,U.S. Senate,,REP,John Holtz,10
+Campbell,18-01,U.S. Senate,,REP,Reid Rasner,53
+Campbell,18-01,U.S. Senate,,REP,Write-ins,0
+Campbell,18-01,U.S. Senate,,REP,Over Votes,0
+Campbell,18-01,U.S. Senate,,REP,Under Votes,2
+Campbell,18-01,U.S. Senate,,DEM,Scott D Morrow,2
+Campbell,18-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,18-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,18-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,18-01,U.S. House,,REP,Harriet Hageman,138
+Campbell,18-01,U.S. House,,REP,Steven R. Helling,23
+Campbell,18-01,U.S. House,,REP,Write-ins,1
+Campbell,18-01,U.S. House,,REP,Over Votes,0
+Campbell,18-01,U.S. House,,REP,Under Votes,2
+Campbell,18-01,U.S. House,,DEM,Kyle G. Cameron,2
+Campbell,18-01,U.S. House,,DEM,Write-ins,0
+Campbell,18-01,U.S. House,,DEM,Over Votes,0
+Campbell,18-01,U.S. House,,DEM,Under Votes,0
+Campbell,18-01,State House,52,REP,Reuben Tarver,147
+Campbell,18-01,State House,52,REP,Write-ins,1
+Campbell,18-01,State House,52,REP,Over Votes,0
+Campbell,18-01,State House,52,REP,Under Votes,16
+Campbell,18-01,State House,52,DEM,Write-ins,0
+Campbell,18-01,Ballots Cast,,REP,Ballots Cast,164
+Campbell,18-01,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,18-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,18-01,Ballots Cast,,,Ballots Cast,166
+Campbell,19-01,U.S. Senate,,REP,John Barrasso,66
+Campbell,19-01,U.S. Senate,,REP,John Holtz,11
+Campbell,19-01,U.S. Senate,,REP,Reid Rasner,37
+Campbell,19-01,U.S. Senate,,REP,Write-ins,1
+Campbell,19-01,U.S. Senate,,REP,Over Votes,0
+Campbell,19-01,U.S. Senate,,REP,Under Votes,4
+Campbell,19-01,U.S. Senate,,DEM,Scott D Morrow,2
+Campbell,19-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,19-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,19-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,19-01,U.S. House,,REP,Harriet Hageman,96
+Campbell,19-01,U.S. House,,REP,Steven R. Helling,18
+Campbell,19-01,U.S. House,,REP,Write-ins,1
+Campbell,19-01,U.S. House,,REP,Over Votes,0
+Campbell,19-01,U.S. House,,REP,Under Votes,4
+Campbell,19-01,U.S. House,,DEM,Kyle G. Cameron,2
+Campbell,19-01,U.S. House,,DEM,Write-ins,0
+Campbell,19-01,U.S. House,,DEM,Over Votes,0
+Campbell,19-01,U.S. House,,DEM,Under Votes,0
+Campbell,19-01,State House,3,REP,Abby Angelos,98
+Campbell,19-01,State House,3,REP,Write-ins,3
+Campbell,19-01,State House,3,REP,Over Votes,0
+Campbell,19-01,State House,3,REP,Under Votes,18
+Campbell,19-01,State House,3,DEM,Write-ins,0
+Campbell,19-01,Ballots Cast,,REP,Ballots Cast,119
+Campbell,19-01,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,19-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,19-01,Ballots Cast,,,Ballots Cast,121
+Campbell,22-01,U.S. Senate,,REP,John Barrasso,134
+Campbell,22-01,U.S. Senate,,REP,John Holtz,17
+Campbell,22-01,U.S. Senate,,REP,Reid Rasner,58
+Campbell,22-01,U.S. Senate,,REP,Write-ins,1
+Campbell,22-01,U.S. Senate,,REP,Over Votes,0
+Campbell,22-01,U.S. Senate,,REP,Under Votes,3
+Campbell,22-01,U.S. Senate,,DEM,Scott D Morrow,5
+Campbell,22-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,22-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,22-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,22-01,U.S. House,,REP,Harriet Hageman,187
+Campbell,22-01,U.S. House,,REP,Steven R. Helling,21
+Campbell,22-01,U.S. House,,REP,Write-ins,2
+Campbell,22-01,U.S. House,,REP,Over Votes,0
+Campbell,22-01,U.S. House,,REP,Under Votes,3
+Campbell,22-01,U.S. House,,DEM,Kyle G. Cameron,5
+Campbell,22-01,U.S. House,,DEM,Write-ins,0
+Campbell,22-01,U.S. House,,DEM,Over Votes,0
+Campbell,22-01,U.S. House,,DEM,Under Votes,0
+Campbell,22-01,State House,52,REP,Reuben Tarver,187
+Campbell,22-01,State House,52,REP,Write-ins,4
+Campbell,22-01,State House,52,REP,Over Votes,0
+Campbell,22-01,State House,52,REP,Under Votes,22
+Campbell,22-01,State House,52,DEM,Write-ins,1
+Campbell,22-01,Ballots Cast,,REP,Ballots Cast,213
+Campbell,22-01,Ballots Cast,,DEM,Ballots Cast,5
+Campbell,22-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,22-01,Ballots Cast,,,Ballots Cast,218
+Campbell,23-01,U.S. Senate,,REP,John Barrasso,202
+Campbell,23-01,U.S. Senate,,REP,John Holtz,8
+Campbell,23-01,U.S. Senate,,REP,Reid Rasner,92
+Campbell,23-01,U.S. Senate,,REP,Write-ins,2
+Campbell,23-01,U.S. Senate,,REP,Over Votes,0
+Campbell,23-01,U.S. Senate,,REP,Under Votes,6
+Campbell,23-01,U.S. Senate,,DEM,Scott D Morrow,1
+Campbell,23-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,23-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,23-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,23-01,U.S. House,,REP,Harriet Hageman,265
+Campbell,23-01,U.S. House,,REP,Steven R. Helling,34
+Campbell,23-01,U.S. House,,REP,Write-ins,0
+Campbell,23-01,U.S. House,,REP,Over Votes,1
+Campbell,23-01,U.S. House,,REP,Under Votes,10
+Campbell,23-01,U.S. House,,DEM,Kyle G. Cameron,1
+Campbell,23-01,U.S. House,,DEM,Write-ins,0
+Campbell,23-01,U.S. House,,DEM,Over Votes,0
+Campbell,23-01,U.S. House,,DEM,Under Votes,0
+Campbell,23-01,State House,3,REP,Abby Angelos,278
+Campbell,23-01,State House,3,REP,Write-ins,3
+Campbell,23-01,State House,3,REP,Over Votes,0
+Campbell,23-01,State House,3,REP,Under Votes,29
+Campbell,23-01,State House,3,DEM,Write-ins,0
+Campbell,23-01,Ballots Cast,,REP,Ballots Cast,310
+Campbell,23-01,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,23-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,23-01,Ballots Cast,,,Ballots Cast,311
+Campbell,24-01,U.S. Senate,,REP,John Barrasso,13
+Campbell,24-01,U.S. Senate,,REP,John Holtz,0
+Campbell,24-01,U.S. Senate,,REP,Reid Rasner,6
+Campbell,24-01,U.S. Senate,,REP,Write-ins,0
+Campbell,24-01,U.S. Senate,,REP,Over Votes,0
+Campbell,24-01,U.S. Senate,,REP,Under Votes,0
+Campbell,24-01,U.S. Senate,,DEM,Scott D Morrow,0
+Campbell,24-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,24-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,24-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,24-01,U.S. House,,REP,Harriet Hageman,16
+Campbell,24-01,U.S. House,,REP,Steven R. Helling,3
+Campbell,24-01,U.S. House,,REP,Write-ins,0
+Campbell,24-01,U.S. House,,REP,Over Votes,0
+Campbell,24-01,U.S. House,,REP,Under Votes,0
+Campbell,24-01,U.S. House,,DEM,Kyle G. Cameron,0
+Campbell,24-01,U.S. House,,DEM,Write-ins,0
+Campbell,24-01,U.S. House,,DEM,Over Votes,0
+Campbell,24-01,U.S. House,,DEM,Under Votes,0
+Campbell,24-01,State House,3,REP,Abby Angelos,18
+Campbell,24-01,State House,3,REP,Write-ins,0
+Campbell,24-01,State House,3,REP,Over Votes,0
+Campbell,24-01,State House,3,REP,Under Votes,1
+Campbell,24-01,State House,3,DEM,Write-ins,0
+Campbell,24-01,Ballots Cast,,REP,Ballots Cast,19
+Campbell,24-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,24-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,24-01,Ballots Cast,,,Ballots Cast,19
+Campbell,26-01,U.S. Senate,,REP,John Barrasso,24
+Campbell,26-01,U.S. Senate,,REP,John Holtz,3
+Campbell,26-01,U.S. Senate,,REP,Reid Rasner,12
+Campbell,26-01,U.S. Senate,,REP,Write-ins,0
+Campbell,26-01,U.S. Senate,,REP,Over Votes,1
+Campbell,26-01,U.S. Senate,,REP,Under Votes,0
+Campbell,26-01,U.S. Senate,,DEM,Scott D Morrow,0
+Campbell,26-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,26-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,26-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,26-01,U.S. House,,REP,Harriet Hageman,33
+Campbell,26-01,U.S. House,,REP,Steven R. Helling,6
+Campbell,26-01,U.S. House,,REP,Write-ins,0
+Campbell,26-01,U.S. House,,REP,Over Votes,0
+Campbell,26-01,U.S. House,,REP,Under Votes,1
+Campbell,26-01,U.S. House,,DEM,Kyle G. Cameron,0
+Campbell,26-01,U.S. House,,DEM,Write-ins,0
+Campbell,26-01,U.S. House,,DEM,Over Votes,0
+Campbell,26-01,U.S. House,,DEM,Under Votes,0
+Campbell,26-01,State House,31,REP,John W Bear,34
+Campbell,26-01,State House,31,REP,Write-ins,0
+Campbell,26-01,State House,31,REP,Over Votes,0
+Campbell,26-01,State House,31,REP,Under Votes,6
+Campbell,26-01,State House,31,DEM,Write-ins,0
+Campbell,26-01,Ballots Cast,,REP,Ballots Cast,40
+Campbell,26-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,26-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,26-01,Ballots Cast,,,Ballots Cast,40

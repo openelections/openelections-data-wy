@@ -1,0 +1,491 @@
+county,precinct,office,district,party,candidate,votes
+Goshen,01-1,President,,REP,Donald J. Trump,71
+Goshen,01-1,President,,DEM,Kamala D. Harris,3
+Goshen,01-1,President,,LIB,Chase Oliver,0
+Goshen,01-1,President,,,Write-ins,0
+Goshen,01-1,President,,,Over Votes,0
+Goshen,01-1,President,,,Under Votes,0
+Goshen,01-1,U.S. Senate,,REP,John Barrasso,68
+Goshen,01-1,U.S. Senate,,DEM,Scott D Morrow,2
+Goshen,01-1,U.S. Senate,,,Write-ins,2
+Goshen,01-1,U.S. Senate,,,Over Votes,0
+Goshen,01-1,U.S. Senate,,,Under Votes,2
+Goshen,01-1,U.S. House,,REP,Harriet Hageman,70
+Goshen,01-1,U.S. House,,DEM,Kyle G. Cameron,3
+Goshen,01-1,U.S. House,,LIB,Richard Brubaker,0
+Goshen,01-1,U.S. House,,CTRY,Jeffrey Haggit,0
+Goshen,01-1,U.S. House,,,Write-ins,0
+Goshen,01-1,U.S. House,,,Over Votes,0
+Goshen,01-1,U.S. House,,,Under Votes,1
+Goshen,01-1,State House,2,REP,JD Williams,60
+Goshen,01-1,State House,2,,Write-ins,4
+Goshen,01-1,State House,2,,Over Votes,0
+Goshen,01-1,State House,2,,Under Votes,10
+Goshen,01-1,Ballots Cast,,,Ballots Cast,74
+Goshen,01-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,01-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,6
+Goshen,01-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,01-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,4
+Goshen,01-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,01-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,5
+Goshen,01-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,01-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,11
+Goshen,01-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,01-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,12
+Goshen,01-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,01-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,13
+Goshen,02-1,President,,REP,Donald J. Trump,91
+Goshen,02-1,President,,DEM,Kamala D. Harris,12
+Goshen,02-1,President,,LIB,Chase Oliver,1
+Goshen,02-1,President,,,Write-ins,0
+Goshen,02-1,President,,,Over Votes,0
+Goshen,02-1,President,,,Under Votes,0
+Goshen,02-1,U.S. Senate,,REP,John Barrasso,89
+Goshen,02-1,U.S. Senate,,DEM,Scott D Morrow,12
+Goshen,02-1,U.S. Senate,,,Write-ins,1
+Goshen,02-1,U.S. Senate,,,Over Votes,0
+Goshen,02-1,U.S. Senate,,,Under Votes,2
+Goshen,02-1,U.S. House,,REP,Harriet Hageman,92
+Goshen,02-1,U.S. House,,DEM,Kyle G. Cameron,9
+Goshen,02-1,U.S. House,,LIB,Richard Brubaker,1
+Goshen,02-1,U.S. House,,CTRY,Jeffrey Haggit,1
+Goshen,02-1,U.S. House,,,Write-ins,1
+Goshen,02-1,U.S. House,,,Over Votes,0
+Goshen,02-1,U.S. House,,,Under Votes,0
+Goshen,02-1,State House,2,REP,JD Williams,83
+Goshen,02-1,State House,2,,Write-ins,3
+Goshen,02-1,State House,2,,Over Votes,0
+Goshen,02-1,State House,2,,Under Votes,18
+Goshen,02-1,Ballots Cast,,,Ballots Cast,104
+Goshen,02-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,02-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,17
+Goshen,02-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,02-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,7
+Goshen,02-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,02-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,14
+Goshen,02-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,02-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,19
+Goshen,02-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,02-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,20
+Goshen,02-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,02-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,15
+Goshen,07-1,President,,REP,Donald J. Trump,1729
+Goshen,07-1,President,,DEM,Kamala D. Harris,613
+Goshen,07-1,President,,LIB,Chase Oliver,47
+Goshen,07-1,President,,,Write-ins,21
+Goshen,07-1,President,,,Over Votes,3
+Goshen,07-1,President,,,Under Votes,20
+Goshen,07-1,U.S. Senate,,REP,John Barrasso,1838
+Goshen,07-1,U.S. Senate,,DEM,Scott D Morrow,544
+Goshen,07-1,U.S. Senate,,,Write-ins,13
+Goshen,07-1,U.S. Senate,,,Over Votes,1
+Goshen,07-1,U.S. Senate,,,Under Votes,37
+Goshen,07-1,U.S. House,,REP,Harriet Hageman,1733
+Goshen,07-1,U.S. House,,DEM,Kyle G. Cameron,522
+Goshen,07-1,U.S. House,,LIB,Richard Brubaker,62
+Goshen,07-1,U.S. House,,CTRY,Jeffrey Haggit,40
+Goshen,07-1,U.S. House,,,Write-ins,22
+Goshen,07-1,U.S. House,,,Over Votes,7
+Goshen,07-1,U.S. House,,,Under Votes,47
+Goshen,07-1,State House,5,REP,Scott Smith,1856
+Goshen,07-1,State House,5,,Write-ins,185
+Goshen,07-1,State House,5,,Over Votes,0
+Goshen,07-1,State House,5,,Under Votes,392
+Goshen,07-1,Ballots Cast,,,Ballots Cast,2433
+Goshen,07-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,07-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,211
+Goshen,07-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,07-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,167
+Goshen,07-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,1
+Goshen,07-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,179
+Goshen,07-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,1
+Goshen,07-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,269
+Goshen,07-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Goshen,07-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,283
+Goshen,07-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,1
+Goshen,07-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,259
+Goshen,07-2,President,,REP,Donald J. Trump,821
+Goshen,07-2,President,,DEM,Kamala D. Harris,158
+Goshen,07-2,President,,LIB,Chase Oliver,9
+Goshen,07-2,President,,,Write-ins,8
+Goshen,07-2,President,,,Over Votes,0
+Goshen,07-2,President,,,Under Votes,4
+Goshen,07-2,U.S. Senate,,REP,John Barrasso,834
+Goshen,07-2,U.S. Senate,,DEM,Scott D Morrow,140
+Goshen,07-2,U.S. Senate,,,Write-ins,3
+Goshen,07-2,U.S. Senate,,,Over Votes,0
+Goshen,07-2,U.S. Senate,,,Under Votes,23
+Goshen,07-2,U.S. House,,REP,Harriet Hageman,804
+Goshen,07-2,U.S. House,,DEM,Kyle G. Cameron,123
+Goshen,07-2,U.S. House,,LIB,Richard Brubaker,23
+Goshen,07-2,U.S. House,,CTRY,Jeffrey Haggit,16
+Goshen,07-2,U.S. House,,,Write-ins,7
+Goshen,07-2,U.S. House,,,Over Votes,7
+Goshen,07-2,U.S. House,,,Under Votes,20
+Goshen,07-2,State House,2,REP,JD Williams,849
+Goshen,07-2,State House,2,,Write-ins,32
+Goshen,07-2,State House,2,,Over Votes,0
+Goshen,07-2,State House,2,,Under Votes,119
+Goshen,07-2,Ballots Cast,,,Ballots Cast,1000
+Goshen,07-2,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,07-2,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,104
+Goshen,07-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,07-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,79
+Goshen,07-2,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,1
+Goshen,07-2,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,88
+Goshen,07-2,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,07-2,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,140
+Goshen,07-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,07-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,139
+Goshen,07-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,07-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,134
+Goshen,07-3,President,,REP,Donald J. Trump,519
+Goshen,07-3,President,,DEM,Kamala D. Harris,160
+Goshen,07-3,President,,LIB,Chase Oliver,9
+Goshen,07-3,President,,,Write-ins,3
+Goshen,07-3,President,,,Over Votes,0
+Goshen,07-3,President,,,Under Votes,2
+Goshen,07-3,U.S. Senate,,REP,John Barrasso,543
+Goshen,07-3,U.S. Senate,,DEM,Scott D Morrow,133
+Goshen,07-3,U.S. Senate,,,Write-ins,2
+Goshen,07-3,U.S. Senate,,,Over Votes,0
+Goshen,07-3,U.S. Senate,,,Under Votes,15
+Goshen,07-3,U.S. House,,REP,Harriet Hageman,512
+Goshen,07-3,U.S. House,,DEM,Kyle G. Cameron,123
+Goshen,07-3,U.S. House,,LIB,Richard Brubaker,17
+Goshen,07-3,U.S. House,,CTRY,Jeffrey Haggit,15
+Goshen,07-3,U.S. House,,,Write-ins,6
+Goshen,07-3,U.S. House,,,Over Votes,3
+Goshen,07-3,U.S. House,,,Under Votes,17
+Goshen,07-3,State House,5,REP,Scott Smith,540
+Goshen,07-3,State House,5,,Write-ins,45
+Goshen,07-3,State House,5,,Over Votes,0
+Goshen,07-3,State House,5,,Under Votes,108
+Goshen,07-3,Ballots Cast,,,Ballots Cast,693
+Goshen,07-3,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,1
+Goshen,07-3,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,64
+Goshen,07-3,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,07-3,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,51
+Goshen,07-3,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,07-3,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,59
+Goshen,07-3,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,07-3,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,80
+Goshen,07-3,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,07-3,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,77
+Goshen,07-3,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,07-3,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,68
+Goshen,08-1,President,,REP,Donald J. Trump,330
+Goshen,08-1,President,,DEM,Kamala D. Harris,46
+Goshen,08-1,President,,LIB,Chase Oliver,6
+Goshen,08-1,President,,,Write-ins,1
+Goshen,08-1,President,,,Over Votes,0
+Goshen,08-1,President,,,Under Votes,2
+Goshen,08-1,U.S. Senate,,REP,John Barrasso,344
+Goshen,08-1,U.S. Senate,,DEM,Scott D Morrow,37
+Goshen,08-1,U.S. Senate,,,Write-ins,1
+Goshen,08-1,U.S. Senate,,,Over Votes,0
+Goshen,08-1,U.S. Senate,,,Under Votes,3
+Goshen,08-1,U.S. House,,REP,Harriet Hageman,330
+Goshen,08-1,U.S. House,,DEM,Kyle G. Cameron,39
+Goshen,08-1,U.S. House,,LIB,Richard Brubaker,4
+Goshen,08-1,U.S. House,,CTRY,Jeffrey Haggit,4
+Goshen,08-1,U.S. House,,,Write-ins,3
+Goshen,08-1,U.S. House,,,Over Votes,0
+Goshen,08-1,U.S. House,,,Under Votes,5
+Goshen,08-1,State House,5,REP,Scott Smith,298
+Goshen,08-1,State House,5,,Write-ins,30
+Goshen,08-1,State House,5,,Over Votes,0
+Goshen,08-1,State House,5,,Under Votes,57
+Goshen,08-1,Ballots Cast,,,Ballots Cast,385
+Goshen,08-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,1
+Goshen,08-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,27
+Goshen,08-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,08-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,23
+Goshen,08-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,1
+Goshen,08-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,25
+Goshen,08-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,08-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,43
+Goshen,08-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,08-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,44
+Goshen,08-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,1
+Goshen,08-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,44
+Goshen,08-2,President,,REP,Donald J. Trump,134
+Goshen,08-2,President,,DEM,Kamala D. Harris,17
+Goshen,08-2,President,,LIB,Chase Oliver,3
+Goshen,08-2,President,,,Write-ins,0
+Goshen,08-2,President,,,Over Votes,0
+Goshen,08-2,President,,,Under Votes,0
+Goshen,08-2,U.S. Senate,,REP,John Barrasso,135
+Goshen,08-2,U.S. Senate,,DEM,Scott D Morrow,15
+Goshen,08-2,U.S. Senate,,,Write-ins,0
+Goshen,08-2,U.S. Senate,,,Over Votes,0
+Goshen,08-2,U.S. Senate,,,Under Votes,4
+Goshen,08-2,U.S. House,,REP,Harriet Hageman,132
+Goshen,08-2,U.S. House,,DEM,Kyle G. Cameron,12
+Goshen,08-2,U.S. House,,LIB,Richard Brubaker,5
+Goshen,08-2,U.S. House,,CTRY,Jeffrey Haggit,2
+Goshen,08-2,U.S. House,,,Write-ins,0
+Goshen,08-2,U.S. House,,,Over Votes,2
+Goshen,08-2,U.S. House,,,Under Votes,1
+Goshen,08-2,State House,2,REP,JD Williams,133
+Goshen,08-2,State House,2,,Write-ins,5
+Goshen,08-2,State House,2,,Over Votes,0
+Goshen,08-2,State House,2,,Under Votes,16
+Goshen,08-2,Ballots Cast,,,Ballots Cast,154
+Goshen,08-2,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,08-2,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,23
+Goshen,08-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,08-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,14
+Goshen,08-2,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,08-2,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,26
+Goshen,08-2,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,08-2,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,30
+Goshen,08-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,08-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,32
+Goshen,08-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,08-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,30
+Goshen,09-1,President,,REP,Donald J. Trump,234
+Goshen,09-1,President,,DEM,Kamala D. Harris,38
+Goshen,09-1,President,,LIB,Chase Oliver,2
+Goshen,09-1,President,,,Write-ins,3
+Goshen,09-1,President,,,Over Votes,0
+Goshen,09-1,President,,,Under Votes,2
+Goshen,09-1,U.S. Senate,,REP,John Barrasso,233
+Goshen,09-1,U.S. Senate,,DEM,Scott D Morrow,36
+Goshen,09-1,U.S. Senate,,,Write-ins,3
+Goshen,09-1,U.S. Senate,,,Over Votes,1
+Goshen,09-1,U.S. Senate,,,Under Votes,6
+Goshen,09-1,U.S. House,,REP,Harriet Hageman,226
+Goshen,09-1,U.S. House,,DEM,Kyle G. Cameron,29
+Goshen,09-1,U.S. House,,LIB,Richard Brubaker,12
+Goshen,09-1,U.S. House,,CTRY,Jeffrey Haggit,7
+Goshen,09-1,U.S. House,,,Write-ins,0
+Goshen,09-1,U.S. House,,,Over Votes,1
+Goshen,09-1,U.S. House,,,Under Votes,4
+Goshen,09-1,State House,5,REP,Scott Smith,244
+Goshen,09-1,State House,5,,Write-ins,12
+Goshen,09-1,State House,5,,Over Votes,0
+Goshen,09-1,State House,5,,Under Votes,23
+Goshen,09-1,Ballots Cast,,,Ballots Cast,279
+Goshen,09-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,09-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,24
+Goshen,09-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,09-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,14
+Goshen,09-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,09-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,22
+Goshen,09-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,09-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,26
+Goshen,09-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,09-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,29
+Goshen,09-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,09-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,29
+Goshen,13-1,President,,REP,Donald J. Trump,107
+Goshen,13-1,President,,DEM,Kamala D. Harris,23
+Goshen,13-1,President,,LIB,Chase Oliver,1
+Goshen,13-1,President,,,Write-ins,0
+Goshen,13-1,President,,,Over Votes,0
+Goshen,13-1,President,,,Under Votes,0
+Goshen,13-1,U.S. Senate,,REP,John Barrasso,107
+Goshen,13-1,U.S. Senate,,DEM,Scott D Morrow,21
+Goshen,13-1,U.S. Senate,,,Write-ins,0
+Goshen,13-1,U.S. Senate,,,Over Votes,0
+Goshen,13-1,U.S. Senate,,,Under Votes,3
+Goshen,13-1,U.S. House,,REP,Harriet Hageman,111
+Goshen,13-1,U.S. House,,DEM,Kyle G. Cameron,19
+Goshen,13-1,U.S. House,,LIB,Richard Brubaker,1
+Goshen,13-1,U.S. House,,CTRY,Jeffrey Haggit,0
+Goshen,13-1,U.S. House,,,Write-ins,0
+Goshen,13-1,U.S. House,,,Over Votes,0
+Goshen,13-1,U.S. House,,,Under Votes,0
+Goshen,13-1,State House,5,REP,Scott Smith,105
+Goshen,13-1,State House,5,,Write-ins,6
+Goshen,13-1,State House,5,,Over Votes,0
+Goshen,13-1,State House,5,,Under Votes,20
+Goshen,13-1,Ballots Cast,,,Ballots Cast,131
+Goshen,13-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,13-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,10
+Goshen,13-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,13-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,8
+Goshen,13-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,13-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,6
+Goshen,13-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,13-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,13
+Goshen,13-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,13-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,15
+Goshen,13-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,13-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,13
+Goshen,15-1,President,,REP,Donald J. Trump,224
+Goshen,15-1,President,,DEM,Kamala D. Harris,36
+Goshen,15-1,President,,LIB,Chase Oliver,1
+Goshen,15-1,President,,,Write-ins,0
+Goshen,15-1,President,,,Over Votes,0
+Goshen,15-1,President,,,Under Votes,2
+Goshen,15-1,U.S. Senate,,REP,John Barrasso,226
+Goshen,15-1,U.S. Senate,,DEM,Scott D Morrow,32
+Goshen,15-1,U.S. Senate,,,Write-ins,0
+Goshen,15-1,U.S. Senate,,,Over Votes,0
+Goshen,15-1,U.S. Senate,,,Under Votes,5
+Goshen,15-1,U.S. House,,REP,Harriet Hageman,217
+Goshen,15-1,U.S. House,,DEM,Kyle G. Cameron,29
+Goshen,15-1,U.S. House,,LIB,Richard Brubaker,2
+Goshen,15-1,U.S. House,,CTRY,Jeffrey Haggit,6
+Goshen,15-1,U.S. House,,,Write-ins,1
+Goshen,15-1,U.S. House,,,Over Votes,0
+Goshen,15-1,U.S. House,,,Under Votes,8
+Goshen,15-1,State House,5,REP,Scott Smith,215
+Goshen,15-1,State House,5,,Write-ins,13
+Goshen,15-1,State House,5,,Over Votes,0
+Goshen,15-1,State House,5,,Under Votes,35
+Goshen,15-1,Ballots Cast,,,Ballots Cast,263
+Goshen,15-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,15-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,32
+Goshen,15-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,15-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,28
+Goshen,15-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,15-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,20
+Goshen,15-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,15-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,43
+Goshen,15-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,15-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,44
+Goshen,15-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,15-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,36
+Goshen,16-1,President,,REP,Donald J. Trump,212
+Goshen,16-1,President,,DEM,Kamala D. Harris,19
+Goshen,16-1,President,,LIB,Chase Oliver,2
+Goshen,16-1,President,,,Write-ins,3
+Goshen,16-1,President,,,Over Votes,0
+Goshen,16-1,President,,,Under Votes,0
+Goshen,16-1,U.S. Senate,,REP,John Barrasso,219
+Goshen,16-1,U.S. Senate,,DEM,Scott D Morrow,14
+Goshen,16-1,U.S. Senate,,,Write-ins,1
+Goshen,16-1,U.S. Senate,,,Over Votes,0
+Goshen,16-1,U.S. Senate,,,Under Votes,2
+Goshen,16-1,U.S. House,,REP,Harriet Hageman,221
+Goshen,16-1,U.S. House,,DEM,Kyle G. Cameron,12
+Goshen,16-1,U.S. House,,LIB,Richard Brubaker,1
+Goshen,16-1,U.S. House,,CTRY,Jeffrey Haggit,2
+Goshen,16-1,U.S. House,,,Write-ins,0
+Goshen,16-1,U.S. House,,,Over Votes,0
+Goshen,16-1,U.S. House,,,Under Votes,0
+Goshen,16-1,State House,5,REP,Scott Smith,210
+Goshen,16-1,State House,5,,Write-ins,6
+Goshen,16-1,State House,5,,Over Votes,0
+Goshen,16-1,State House,5,,Under Votes,20
+Goshen,16-1,Ballots Cast,,,Ballots Cast,236
+Goshen,16-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,16-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,22
+Goshen,16-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,16-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,11
+Goshen,16-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,16-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,16
+Goshen,16-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,16-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,23
+Goshen,16-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,16-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,25
+Goshen,16-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,16-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,22
+Goshen,17-1,President,,REP,Donald J. Trump,106
+Goshen,17-1,President,,DEM,Kamala D. Harris,8
+Goshen,17-1,President,,LIB,Chase Oliver,1
+Goshen,17-1,President,,,Write-ins,0
+Goshen,17-1,President,,,Over Votes,1
+Goshen,17-1,President,,,Under Votes,1
+Goshen,17-1,U.S. Senate,,REP,John Barrasso,109
+Goshen,17-1,U.S. Senate,,DEM,Scott D Morrow,6
+Goshen,17-1,U.S. Senate,,,Write-ins,0
+Goshen,17-1,U.S. Senate,,,Over Votes,0
+Goshen,17-1,U.S. Senate,,,Under Votes,2
+Goshen,17-1,U.S. House,,REP,Harriet Hageman,105
+Goshen,17-1,U.S. House,,DEM,Kyle G. Cameron,5
+Goshen,17-1,U.S. House,,LIB,Richard Brubaker,2
+Goshen,17-1,U.S. House,,CTRY,Jeffrey Haggit,3
+Goshen,17-1,U.S. House,,,Write-ins,0
+Goshen,17-1,U.S. House,,,Over Votes,0
+Goshen,17-1,U.S. House,,,Under Votes,2
+Goshen,17-1,State House,5,REP,Scott Smith,106
+Goshen,17-1,State House,5,,Write-ins,5
+Goshen,17-1,State House,5,,Over Votes,0
+Goshen,17-1,State House,5,,Under Votes,6
+Goshen,17-1,Ballots Cast,,,Ballots Cast,117
+Goshen,17-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,17-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,12
+Goshen,17-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,17-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,6
+Goshen,17-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,17-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,11
+Goshen,17-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,17-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,16
+Goshen,17-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,17-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,15
+Goshen,17-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,17-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,15
+Goshen,18-1,President,,REP,Donald J. Trump,290
+Goshen,18-1,President,,DEM,Kamala D. Harris,20
+Goshen,18-1,President,,LIB,Chase Oliver,3
+Goshen,18-1,President,,,Write-ins,1
+Goshen,18-1,President,,,Over Votes,0
+Goshen,18-1,President,,,Under Votes,3
+Goshen,18-1,U.S. Senate,,REP,John Barrasso,297
+Goshen,18-1,U.S. Senate,,DEM,Scott D Morrow,17
+Goshen,18-1,U.S. Senate,,,Write-ins,0
+Goshen,18-1,U.S. Senate,,,Over Votes,0
+Goshen,18-1,U.S. Senate,,,Under Votes,3
+Goshen,18-1,U.S. House,,REP,Harriet Hageman,297
+Goshen,18-1,U.S. House,,DEM,Kyle G. Cameron,12
+Goshen,18-1,U.S. House,,LIB,Richard Brubaker,2
+Goshen,18-1,U.S. House,,CTRY,Jeffrey Haggit,2
+Goshen,18-1,U.S. House,,,Write-ins,0
+Goshen,18-1,U.S. House,,,Over Votes,0
+Goshen,18-1,U.S. House,,,Under Votes,4
+Goshen,18-1,State House,5,REP,Scott Smith,294
+Goshen,18-1,State House,5,,Write-ins,1
+Goshen,18-1,State House,5,,Over Votes,0
+Goshen,18-1,State House,5,,Under Votes,22
+Goshen,18-1,Ballots Cast,,,Ballots Cast,317
+Goshen,18-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,18-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,38
+Goshen,18-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,18-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,24
+Goshen,18-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,18-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,30
+Goshen,18-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,18-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,46
+Goshen,18-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,18-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,43
+Goshen,18-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,18-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,40
+Goshen,20-1,President,,REP,Donald J. Trump,25
+Goshen,20-1,President,,DEM,Kamala D. Harris,3
+Goshen,20-1,President,,LIB,Chase Oliver,0
+Goshen,20-1,President,,,Write-ins,0
+Goshen,20-1,President,,,Over Votes,0
+Goshen,20-1,President,,,Under Votes,0
+Goshen,20-1,U.S. Senate,,REP,John Barrasso,24
+Goshen,20-1,U.S. Senate,,DEM,Scott D Morrow,2
+Goshen,20-1,U.S. Senate,,,Write-ins,0
+Goshen,20-1,U.S. Senate,,,Over Votes,0
+Goshen,20-1,U.S. Senate,,,Under Votes,2
+Goshen,20-1,U.S. House,,REP,Harriet Hageman,26
+Goshen,20-1,U.S. House,,DEM,Kyle G. Cameron,1
+Goshen,20-1,U.S. House,,LIB,Richard Brubaker,1
+Goshen,20-1,U.S. House,,CTRY,Jeffrey Haggit,0
+Goshen,20-1,U.S. House,,,Write-ins,0
+Goshen,20-1,U.S. House,,,Over Votes,0
+Goshen,20-1,U.S. House,,,Under Votes,0
+Goshen,20-1,State House,5,REP,Scott Smith,25
+Goshen,20-1,State House,5,,Write-ins,0
+Goshen,20-1,State House,5,,Over Votes,0
+Goshen,20-1,State House,5,,Under Votes,3
+Goshen,20-1,Ballots Cast,,,Ballots Cast,28
+Goshen,20-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Over Votes,0
+Goshen,20-1,"Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",,,Under Votes,8
+Goshen,20-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Goshen,20-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,0
+Goshen,20-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Over Votes,0
+Goshen,20-1,"District Court Judge, Eighth Judicial District Edward A. Buchanan",,,Under Votes,7
+Goshen,20-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Over Votes,0
+Goshen,20-1,"District Court Judge, Eighth Judicial District F. Scott Peasley",,,Under Votes,7
+Goshen,20-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Goshen,20-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,6
+Goshen,20-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Goshen,20-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,6

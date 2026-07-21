@@ -1,0 +1,590 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,1-01,President,,REP,Donald J. Trump,1015
+Lincoln,1-01,President,,DEM,Kamala D. Harris,170
+Lincoln,1-01,President,,LIB,Chase Oliver,34
+Lincoln,1-01,President,,,Write-ins,8
+Lincoln,1-01,President,,,Over Votes,0
+Lincoln,1-01,President,,,Under Votes,14
+Lincoln,1-01,U.S. Senate,,REP,John Barrasso,1011
+Lincoln,1-01,U.S. Senate,,DEM,Scott D Morrow,186
+Lincoln,1-01,U.S. Senate,,,Write-ins,7
+Lincoln,1-01,U.S. Senate,,,Over Votes,2
+Lincoln,1-01,U.S. Senate,,,Under Votes,35
+Lincoln,1-01,U.S. House,,REP,Harriet Hageman,963
+Lincoln,1-01,U.S. House,,DEM,Kyle G. Cameron,153
+Lincoln,1-01,U.S. House,,LIB,Richard Brubaker,44
+Lincoln,1-01,U.S. House,,CTRY,Jeffrey Haggit,38
+Lincoln,1-01,U.S. House,,,Write-ins,1
+Lincoln,1-01,U.S. House,,,Over Votes,13
+Lincoln,1-01,U.S. House,,,Under Votes,29
+Lincoln,1-01,State Senate,14,REP,Laura Taliaferro Pearson,1006
+Lincoln,1-01,State Senate,14,,Write-ins,52
+Lincoln,1-01,State Senate,14,,Over Votes,0
+Lincoln,1-01,State Senate,14,,Under Votes,183
+Lincoln,1-01,State House,18,REP,Scott Heiner,1027
+Lincoln,1-01,State House,18,,Write-ins,44
+Lincoln,1-01,State House,18,,Over Votes,0
+Lincoln,1-01,State House,18,,Under Votes,170
+Lincoln,1-01,Ballots Cast,,,Ballots Cast,1241
+Lincoln,1-01,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,1
+Lincoln,1-01,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,126
+Lincoln,1-01,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-01,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,168
+Lincoln,1-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,1-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,81
+Lincoln,1-01,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,1-01,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,177
+Lincoln,1-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,1-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,166
+Lincoln,1-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,1-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,169
+Lincoln,1-04,President,,REP,Donald J. Trump,254
+Lincoln,1-04,President,,DEM,Kamala D. Harris,56
+Lincoln,1-04,President,,LIB,Chase Oliver,1
+Lincoln,1-04,President,,,Write-ins,2
+Lincoln,1-04,President,,,Over Votes,0
+Lincoln,1-04,President,,,Under Votes,1
+Lincoln,1-04,U.S. Senate,,REP,John Barrasso,253
+Lincoln,1-04,U.S. Senate,,DEM,Scott D Morrow,51
+Lincoln,1-04,U.S. Senate,,,Write-ins,3
+Lincoln,1-04,U.S. Senate,,,Over Votes,0
+Lincoln,1-04,U.S. Senate,,,Under Votes,7
+Lincoln,1-04,U.S. House,,REP,Harriet Hageman,251
+Lincoln,1-04,U.S. House,,DEM,Kyle G. Cameron,42
+Lincoln,1-04,U.S. House,,LIB,Richard Brubaker,6
+Lincoln,1-04,U.S. House,,CTRY,Jeffrey Haggit,5
+Lincoln,1-04,U.S. House,,,Write-ins,0
+Lincoln,1-04,U.S. House,,,Over Votes,5
+Lincoln,1-04,U.S. House,,,Under Votes,5
+Lincoln,1-04,State Senate,14,REP,Laura Taliaferro Pearson,266
+Lincoln,1-04,State Senate,14,,Write-ins,10
+Lincoln,1-04,State Senate,14,,Over Votes,0
+Lincoln,1-04,State Senate,14,,Under Votes,38
+Lincoln,1-04,State House,18,REP,Scott Heiner,260
+Lincoln,1-04,State House,18,,Write-ins,10
+Lincoln,1-04,State House,18,,Over Votes,0
+Lincoln,1-04,State House,18,,Under Votes,44
+Lincoln,1-04,Ballots Cast,,,Ballots Cast,314
+Lincoln,1-04,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,1-04,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,30
+Lincoln,1-04,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-04,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,38
+Lincoln,1-04,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Lincoln,1-04,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,19
+Lincoln,1-04,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,1-04,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,40
+Lincoln,1-04,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,1-04,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,35
+Lincoln,1-04,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,1-04,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,39
+Lincoln,1-06,President,,REP,Donald J. Trump,129
+Lincoln,1-06,President,,DEM,Kamala D. Harris,13
+Lincoln,1-06,President,,LIB,Chase Oliver,3
+Lincoln,1-06,President,,,Write-ins,0
+Lincoln,1-06,President,,,Over Votes,0
+Lincoln,1-06,President,,,Under Votes,3
+Lincoln,1-06,U.S. Senate,,REP,John Barrasso,128
+Lincoln,1-06,U.S. Senate,,DEM,Scott D Morrow,14
+Lincoln,1-06,U.S. Senate,,,Write-ins,1
+Lincoln,1-06,U.S. Senate,,,Over Votes,0
+Lincoln,1-06,U.S. Senate,,,Under Votes,5
+Lincoln,1-06,U.S. House,,REP,Harriet Hageman,124
+Lincoln,1-06,U.S. House,,DEM,Kyle G. Cameron,15
+Lincoln,1-06,U.S. House,,LIB,Richard Brubaker,4
+Lincoln,1-06,U.S. House,,CTRY,Jeffrey Haggit,2
+Lincoln,1-06,U.S. House,,,Write-ins,0
+Lincoln,1-06,U.S. House,,,Over Votes,0
+Lincoln,1-06,U.S. House,,,Under Votes,3
+Lincoln,1-06,State Senate,14,REP,Laura Taliaferro Pearson,122
+Lincoln,1-06,State Senate,14,,Write-ins,6
+Lincoln,1-06,State Senate,14,,Over Votes,0
+Lincoln,1-06,State Senate,14,,Under Votes,20
+Lincoln,1-06,State House,18,REP,Scott Heiner,124
+Lincoln,1-06,State House,18,,Write-ins,6
+Lincoln,1-06,State House,18,,Over Votes,0
+Lincoln,1-06,State House,18,,Under Votes,18
+Lincoln,1-06,Ballots Cast,,,Ballots Cast,148
+Lincoln,1-06,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,1-06,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,21
+Lincoln,1-06,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-06,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,36
+Lincoln,1-06,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Lincoln,1-06,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,12
+Lincoln,1-06,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,1-06,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,41
+Lincoln,1-06,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,1-06,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,40
+Lincoln,1-06,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,1-06,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,40
+Lincoln,1-07,President,,REP,Donald J. Trump,58
+Lincoln,1-07,President,,DEM,Kamala D. Harris,8
+Lincoln,1-07,President,,LIB,Chase Oliver,0
+Lincoln,1-07,President,,,Write-ins,0
+Lincoln,1-07,President,,,Over Votes,0
+Lincoln,1-07,President,,,Under Votes,0
+Lincoln,1-07,U.S. Senate,,REP,John Barrasso,58
+Lincoln,1-07,U.S. Senate,,DEM,Scott D Morrow,6
+Lincoln,1-07,U.S. Senate,,,Write-ins,0
+Lincoln,1-07,U.S. Senate,,,Over Votes,0
+Lincoln,1-07,U.S. Senate,,,Under Votes,2
+Lincoln,1-07,U.S. House,,REP,Harriet Hageman,56
+Lincoln,1-07,U.S. House,,DEM,Kyle G. Cameron,6
+Lincoln,1-07,U.S. House,,LIB,Richard Brubaker,1
+Lincoln,1-07,U.S. House,,CTRY,Jeffrey Haggit,0
+Lincoln,1-07,U.S. House,,,Write-ins,1
+Lincoln,1-07,U.S. House,,,Over Votes,1
+Lincoln,1-07,U.S. House,,,Under Votes,1
+Lincoln,1-07,State Senate,14,REP,Laura Taliaferro Pearson,52
+Lincoln,1-07,State Senate,14,,Write-ins,3
+Lincoln,1-07,State Senate,14,,Over Votes,0
+Lincoln,1-07,State Senate,14,,Under Votes,11
+Lincoln,1-07,State House,18,REP,Scott Heiner,54
+Lincoln,1-07,State House,18,,Write-ins,4
+Lincoln,1-07,State House,18,,Over Votes,0
+Lincoln,1-07,State House,18,,Under Votes,8
+Lincoln,1-07,Ballots Cast,,,Ballots Cast,66
+Lincoln,1-07,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,1-07,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,10
+Lincoln,1-07,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-07,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,11
+Lincoln,1-07,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,1-07,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,7
+Lincoln,1-07,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,1-07,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,9
+Lincoln,1-07,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,1-07,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,10
+Lincoln,1-07,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,1-07,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,8
+Lincoln,1-08,President,,REP,Donald J. Trump,284
+Lincoln,1-08,President,,DEM,Kamala D. Harris,21
+Lincoln,1-08,President,,LIB,Chase Oliver,3
+Lincoln,1-08,President,,,Write-ins,1
+Lincoln,1-08,President,,,Over Votes,0
+Lincoln,1-08,President,,,Under Votes,3
+Lincoln,1-08,U.S. Senate,,REP,John Barrasso,274
+Lincoln,1-08,U.S. Senate,,DEM,Scott D Morrow,22
+Lincoln,1-08,U.S. Senate,,,Write-ins,1
+Lincoln,1-08,U.S. Senate,,,Over Votes,0
+Lincoln,1-08,U.S. Senate,,,Under Votes,15
+Lincoln,1-08,U.S. House,,REP,Harriet Hageman,275
+Lincoln,1-08,U.S. House,,DEM,Kyle G. Cameron,14
+Lincoln,1-08,U.S. House,,LIB,Richard Brubaker,8
+Lincoln,1-08,U.S. House,,CTRY,Jeffrey Haggit,6
+Lincoln,1-08,U.S. House,,,Write-ins,1
+Lincoln,1-08,U.S. House,,,Over Votes,0
+Lincoln,1-08,U.S. House,,,Under Votes,8
+Lincoln,1-08,State Senate,14,REP,Laura Taliaferro Pearson,285
+Lincoln,1-08,State Senate,14,,Write-ins,8
+Lincoln,1-08,State Senate,14,,Over Votes,0
+Lincoln,1-08,State Senate,14,,Under Votes,19
+Lincoln,1-08,State House,20,REP,Mike Schmid,279
+Lincoln,1-08,State House,20,,Write-ins,9
+Lincoln,1-08,State House,20,,Over Votes,0
+Lincoln,1-08,State House,20,,Under Votes,24
+Lincoln,1-08,Ballots Cast,,,Ballots Cast,312
+Lincoln,1-08,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,1-08,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,59
+Lincoln,1-08,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-08,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,61
+Lincoln,1-08,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,1-08,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,29
+Lincoln,1-08,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,1-08,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,60
+Lincoln,1-08,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Lincoln,1-08,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,52
+Lincoln,1-08,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,1-08,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,63
+Lincoln,2-01,President,,REP,Donald J. Trump,901
+Lincoln,2-01,President,,DEM,Kamala D. Harris,119
+Lincoln,2-01,President,,LIB,Chase Oliver,23
+Lincoln,2-01,President,,,Write-ins,17
+Lincoln,2-01,President,,,Over Votes,0
+Lincoln,2-01,President,,,Under Votes,16
+Lincoln,2-01,U.S. Senate,,REP,John Barrasso,931
+Lincoln,2-01,U.S. Senate,,DEM,Scott D Morrow,102
+Lincoln,2-01,U.S. Senate,,,Write-ins,14
+Lincoln,2-01,U.S. Senate,,,Over Votes,0
+Lincoln,2-01,U.S. Senate,,,Under Votes,29
+Lincoln,2-01,U.S. House,,REP,Harriet Hageman,885
+Lincoln,2-01,U.S. House,,DEM,Kyle G. Cameron,95
+Lincoln,2-01,U.S. House,,LIB,Richard Brubaker,21
+Lincoln,2-01,U.S. House,,CTRY,Jeffrey Haggit,27
+Lincoln,2-01,U.S. House,,,Write-ins,10
+Lincoln,2-01,U.S. House,,,Over Votes,3
+Lincoln,2-01,U.S. House,,,Under Votes,35
+Lincoln,2-01,State Senate,16,REP,Dan Dockstader,979
+Lincoln,2-01,State Senate,16,,Write-ins,19
+Lincoln,2-01,State Senate,16,,Over Votes,1
+Lincoln,2-01,State Senate,16,,Under Votes,77
+Lincoln,2-01,State House,21,REP,McKay L. Erickson,992
+Lincoln,2-01,State House,21,,Write-ins,11
+Lincoln,2-01,State House,21,,Over Votes,0
+Lincoln,2-01,State House,21,,Under Votes,73
+Lincoln,2-01,Ballots Cast,,,Ballots Cast,1076
+Lincoln,2-01,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,1
+Lincoln,2-01,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,195
+Lincoln,2-01,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,1
+Lincoln,2-01,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,193
+Lincoln,2-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,2-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,87
+Lincoln,2-01,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,2
+Lincoln,2-01,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,194
+Lincoln,2-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Lincoln,2-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,179
+Lincoln,2-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,2
+Lincoln,2-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,184
+Lincoln,2-02,President,,REP,Donald J. Trump,368
+Lincoln,2-02,President,,DEM,Kamala D. Harris,34
+Lincoln,2-02,President,,LIB,Chase Oliver,1
+Lincoln,2-02,President,,,Write-ins,4
+Lincoln,2-02,President,,,Over Votes,0
+Lincoln,2-02,President,,,Under Votes,4
+Lincoln,2-02,U.S. Senate,,REP,John Barrasso,372
+Lincoln,2-02,U.S. Senate,,DEM,Scott D Morrow,28
+Lincoln,2-02,U.S. Senate,,,Write-ins,2
+Lincoln,2-02,U.S. Senate,,,Over Votes,0
+Lincoln,2-02,U.S. Senate,,,Under Votes,9
+Lincoln,2-02,U.S. House,,REP,Harriet Hageman,354
+Lincoln,2-02,U.S. House,,DEM,Kyle G. Cameron,26
+Lincoln,2-02,U.S. House,,LIB,Richard Brubaker,8
+Lincoln,2-02,U.S. House,,CTRY,Jeffrey Haggit,7
+Lincoln,2-02,U.S. House,,,Write-ins,2
+Lincoln,2-02,U.S. House,,,Over Votes,3
+Lincoln,2-02,U.S. House,,,Under Votes,11
+Lincoln,2-02,State Senate,16,REP,Dan Dockstader,378
+Lincoln,2-02,State Senate,16,,Write-ins,11
+Lincoln,2-02,State Senate,16,,Over Votes,0
+Lincoln,2-02,State Senate,16,,Under Votes,22
+Lincoln,2-02,State House,21,REP,McKay L. Erickson,391
+Lincoln,2-02,State House,21,,Write-ins,3
+Lincoln,2-02,State House,21,,Over Votes,0
+Lincoln,2-02,State House,21,,Under Votes,17
+Lincoln,2-02,Ballots Cast,,,Ballots Cast,411
+Lincoln,2-02,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-02,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,68
+Lincoln,2-02,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-02,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,77
+Lincoln,2-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,2-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,33
+Lincoln,2-02,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,2-02,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,72
+Lincoln,2-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Lincoln,2-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,66
+Lincoln,2-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,2-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,70
+Lincoln,2-03,President,,REP,Donald J. Trump,755
+Lincoln,2-03,President,,DEM,Kamala D. Harris,407
+Lincoln,2-03,President,,LIB,Chase Oliver,19
+Lincoln,2-03,President,,,Write-ins,16
+Lincoln,2-03,President,,,Over Votes,1
+Lincoln,2-03,President,,,Under Votes,10
+Lincoln,2-03,U.S. Senate,,REP,John Barrasso,794
+Lincoln,2-03,U.S. Senate,,DEM,Scott D Morrow,368
+Lincoln,2-03,U.S. Senate,,,Write-ins,2
+Lincoln,2-03,U.S. Senate,,,Over Votes,0
+Lincoln,2-03,U.S. Senate,,,Under Votes,44
+Lincoln,2-03,U.S. House,,REP,Harriet Hageman,737
+Lincoln,2-03,U.S. House,,DEM,Kyle G. Cameron,349
+Lincoln,2-03,U.S. House,,LIB,Richard Brubaker,44
+Lincoln,2-03,U.S. House,,CTRY,Jeffrey Haggit,15
+Lincoln,2-03,U.S. House,,,Write-ins,5
+Lincoln,2-03,U.S. House,,,Over Votes,13
+Lincoln,2-03,U.S. House,,,Under Votes,45
+Lincoln,2-03,State Senate,16,REP,Dan Dockstader,918
+Lincoln,2-03,State Senate,16,,Write-ins,33
+Lincoln,2-03,State Senate,16,,Over Votes,0
+Lincoln,2-03,State Senate,16,,Under Votes,257
+Lincoln,2-03,State House,22,REP,Andrew P Byron,905
+Lincoln,2-03,State House,22,,Write-ins,30
+Lincoln,2-03,State House,22,,Over Votes,0
+Lincoln,2-03,State House,22,,Under Votes,273
+Lincoln,2-03,Ballots Cast,,,Ballots Cast,1208
+Lincoln,2-03,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-03,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,353
+Lincoln,2-03,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-03,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,348
+Lincoln,2-03,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,2-03,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,140
+Lincoln,2-03,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,2-03,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,345
+Lincoln,2-03,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,2-03,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,320
+Lincoln,2-03,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,2-03,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,325
+Lincoln,2-04,President,,REP,Donald J. Trump,484
+Lincoln,2-04,President,,DEM,Kamala D. Harris,65
+Lincoln,2-04,President,,LIB,Chase Oliver,7
+Lincoln,2-04,President,,,Write-ins,6
+Lincoln,2-04,President,,,Over Votes,1
+Lincoln,2-04,President,,,Under Votes,10
+Lincoln,2-04,U.S. Senate,,REP,John Barrasso,507
+Lincoln,2-04,U.S. Senate,,DEM,Scott D Morrow,52
+Lincoln,2-04,U.S. Senate,,,Write-ins,0
+Lincoln,2-04,U.S. Senate,,,Over Votes,0
+Lincoln,2-04,U.S. Senate,,,Under Votes,14
+Lincoln,2-04,U.S. House,,REP,Harriet Hageman,481
+Lincoln,2-04,U.S. House,,DEM,Kyle G. Cameron,51
+Lincoln,2-04,U.S. House,,LIB,Richard Brubaker,17
+Lincoln,2-04,U.S. House,,CTRY,Jeffrey Haggit,11
+Lincoln,2-04,U.S. House,,,Write-ins,1
+Lincoln,2-04,U.S. House,,,Over Votes,0
+Lincoln,2-04,U.S. House,,,Under Votes,12
+Lincoln,2-04,State Senate,16,REP,Dan Dockstader,518
+Lincoln,2-04,State Senate,16,,Write-ins,8
+Lincoln,2-04,State Senate,16,,Over Votes,0
+Lincoln,2-04,State Senate,16,,Under Votes,47
+Lincoln,2-04,State House,21,REP,McKay L. Erickson,531
+Lincoln,2-04,State House,21,,Write-ins,2
+Lincoln,2-04,State House,21,,Over Votes,0
+Lincoln,2-04,State House,21,,Under Votes,40
+Lincoln,2-04,Ballots Cast,,,Ballots Cast,573
+Lincoln,2-04,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-04,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,103
+Lincoln,2-04,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-04,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,106
+Lincoln,2-04,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,2-04,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,32
+Lincoln,2-04,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,2-04,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,105
+Lincoln,2-04,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,2-04,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,94
+Lincoln,2-04,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,2-04,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,99
+Lincoln,2-05,President,,REP,Donald J. Trump,819
+Lincoln,2-05,President,,DEM,Kamala D. Harris,169
+Lincoln,2-05,President,,LIB,Chase Oliver,13
+Lincoln,2-05,President,,,Write-ins,12
+Lincoln,2-05,President,,,Over Votes,0
+Lincoln,2-05,President,,,Under Votes,7
+Lincoln,2-05,U.S. Senate,,REP,John Barrasso,822
+Lincoln,2-05,U.S. Senate,,DEM,Scott D Morrow,159
+Lincoln,2-05,U.S. Senate,,,Write-ins,6
+Lincoln,2-05,U.S. Senate,,,Over Votes,0
+Lincoln,2-05,U.S. Senate,,,Under Votes,33
+Lincoln,2-05,U.S. House,,REP,Harriet Hageman,804
+Lincoln,2-05,U.S. House,,DEM,Kyle G. Cameron,144
+Lincoln,2-05,U.S. House,,LIB,Richard Brubaker,26
+Lincoln,2-05,U.S. House,,CTRY,Jeffrey Haggit,13
+Lincoln,2-05,U.S. House,,,Write-ins,6
+Lincoln,2-05,U.S. House,,,Over Votes,2
+Lincoln,2-05,U.S. House,,,Under Votes,25
+Lincoln,2-05,State Senate,16,REP,Dan Dockstader,860
+Lincoln,2-05,State Senate,16,,Write-ins,22
+Lincoln,2-05,State Senate,16,,Over Votes,0
+Lincoln,2-05,State Senate,16,,Under Votes,138
+Lincoln,2-05,State House,21,REP,McKay L. Erickson,423
+Lincoln,2-05,State House,21,,Write-ins,3
+Lincoln,2-05,State House,21,,Over Votes,0
+Lincoln,2-05,State House,21,,Under Votes,49
+Lincoln,2-05,State House,22,REP,Andrew P Byron,437
+Lincoln,2-05,State House,22,,Write-ins,19
+Lincoln,2-05,State House,22,,Over Votes,0
+Lincoln,2-05,State House,22,,Under Votes,89
+Lincoln,2-05,Ballots Cast,,,Ballots Cast,1020
+Lincoln,2-05,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-05,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,239
+Lincoln,2-05,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-05,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,240
+Lincoln,2-05,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,2
+Lincoln,2-05,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,97
+Lincoln,2-05,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,2-05,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,241
+Lincoln,2-05,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,2-05,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,214
+Lincoln,2-05,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,1
+Lincoln,2-05,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,222
+Lincoln,2-06,President,,REP,Donald J. Trump,627
+Lincoln,2-06,President,,DEM,Kamala D. Harris,48
+Lincoln,2-06,President,,LIB,Chase Oliver,9
+Lincoln,2-06,President,,,Write-ins,2
+Lincoln,2-06,President,,,Over Votes,0
+Lincoln,2-06,President,,,Under Votes,1
+Lincoln,2-06,U.S. Senate,,REP,John Barrasso,625
+Lincoln,2-06,U.S. Senate,,DEM,Scott D Morrow,45
+Lincoln,2-06,U.S. Senate,,,Write-ins,2
+Lincoln,2-06,U.S. Senate,,,Over Votes,0
+Lincoln,2-06,U.S. Senate,,,Under Votes,15
+Lincoln,2-06,U.S. House,,REP,Harriet Hageman,599
+Lincoln,2-06,U.S. House,,DEM,Kyle G. Cameron,35
+Lincoln,2-06,U.S. House,,LIB,Richard Brubaker,17
+Lincoln,2-06,U.S. House,,CTRY,Jeffrey Haggit,15
+Lincoln,2-06,U.S. House,,,Write-ins,1
+Lincoln,2-06,U.S. House,,,Over Votes,4
+Lincoln,2-06,U.S. House,,,Under Votes,16
+Lincoln,2-06,State Senate,16,REP,Dan Dockstader,624
+Lincoln,2-06,State Senate,16,,Write-ins,6
+Lincoln,2-06,State Senate,16,,Over Votes,0
+Lincoln,2-06,State Senate,16,,Under Votes,57
+Lincoln,2-06,State House,21,REP,McKay L. Erickson,646
+Lincoln,2-06,State House,21,,Write-ins,5
+Lincoln,2-06,State House,21,,Over Votes,0
+Lincoln,2-06,State House,21,,Under Votes,36
+Lincoln,2-06,Ballots Cast,,,Ballots Cast,687
+Lincoln,2-06,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-06,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,127
+Lincoln,2-06,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-06,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,126
+Lincoln,2-06,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,2-06,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,69
+Lincoln,2-06,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,2-06,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,124
+Lincoln,2-06,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,2-06,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,118
+Lincoln,2-06,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,2-06,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,123
+Lincoln,2-07,President,,REP,Donald J. Trump,1240
+Lincoln,2-07,President,,DEM,Kamala D. Harris,100
+Lincoln,2-07,President,,LIB,Chase Oliver,13
+Lincoln,2-07,President,,,Write-ins,12
+Lincoln,2-07,President,,,Over Votes,0
+Lincoln,2-07,President,,,Under Votes,6
+Lincoln,2-07,U.S. Senate,,REP,John Barrasso,1253
+Lincoln,2-07,U.S. Senate,,DEM,Scott D Morrow,80
+Lincoln,2-07,U.S. Senate,,,Write-ins,8
+Lincoln,2-07,U.S. Senate,,,Over Votes,2
+Lincoln,2-07,U.S. Senate,,,Under Votes,28
+Lincoln,2-07,U.S. House,,REP,Harriet Hageman,1214
+Lincoln,2-07,U.S. House,,DEM,Kyle G. Cameron,77
+Lincoln,2-07,U.S. House,,LIB,Richard Brubaker,28
+Lincoln,2-07,U.S. House,,CTRY,Jeffrey Haggit,20
+Lincoln,2-07,U.S. House,,,Write-ins,3
+Lincoln,2-07,U.S. House,,,Over Votes,3
+Lincoln,2-07,U.S. House,,,Under Votes,26
+Lincoln,2-07,State Senate,16,REP,Dan Dockstader,1294
+Lincoln,2-07,State Senate,16,,Write-ins,20
+Lincoln,2-07,State Senate,16,,Over Votes,0
+Lincoln,2-07,State Senate,16,,Under Votes,57
+Lincoln,2-07,State House,21,REP,McKay L. Erickson,1295
+Lincoln,2-07,State House,21,,Write-ins,17
+Lincoln,2-07,State House,21,,Over Votes,0
+Lincoln,2-07,State House,21,,Under Votes,59
+Lincoln,2-07,Ballots Cast,,,Ballots Cast,1371
+Lincoln,2-07,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-07,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,224
+Lincoln,2-07,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-07,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,229
+Lincoln,2-07,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Lincoln,2-07,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,92
+Lincoln,2-07,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,1
+Lincoln,2-07,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,230
+Lincoln,2-07,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Lincoln,2-07,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,213
+Lincoln,2-07,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,2-07,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,228
+Lincoln,2-08,President,,REP,Donald J. Trump,649
+Lincoln,2-08,President,,DEM,Kamala D. Harris,76
+Lincoln,2-08,President,,LIB,Chase Oliver,9
+Lincoln,2-08,President,,,Write-ins,6
+Lincoln,2-08,President,,,Over Votes,1
+Lincoln,2-08,President,,,Under Votes,1
+Lincoln,2-08,U.S. Senate,,REP,John Barrasso,644
+Lincoln,2-08,U.S. Senate,,DEM,Scott D Morrow,67
+Lincoln,2-08,U.S. Senate,,,Write-ins,5
+Lincoln,2-08,U.S. Senate,,,Over Votes,0
+Lincoln,2-08,U.S. Senate,,,Under Votes,26
+Lincoln,2-08,U.S. House,,REP,Harriet Hageman,624
+Lincoln,2-08,U.S. House,,DEM,Kyle G. Cameron,59
+Lincoln,2-08,U.S. House,,LIB,Richard Brubaker,20
+Lincoln,2-08,U.S. House,,CTRY,Jeffrey Haggit,10
+Lincoln,2-08,U.S. House,,,Write-ins,2
+Lincoln,2-08,U.S. House,,,Over Votes,3
+Lincoln,2-08,U.S. House,,,Under Votes,24
+Lincoln,2-08,State Senate,16,REP,Dan Dockstader,657
+Lincoln,2-08,State Senate,16,,Write-ins,12
+Lincoln,2-08,State Senate,16,,Over Votes,0
+Lincoln,2-08,State Senate,16,,Under Votes,73
+Lincoln,2-08,State House,21,REP,McKay L. Erickson,669
+Lincoln,2-08,State House,21,,Write-ins,7
+Lincoln,2-08,State House,21,,Over Votes,0
+Lincoln,2-08,State House,21,,Under Votes,66
+Lincoln,2-08,Ballots Cast,,,Ballots Cast,742
+Lincoln,2-08,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-08,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,166
+Lincoln,2-08,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-08,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,169
+Lincoln,2-08,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Lincoln,2-08,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,63
+Lincoln,2-08,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,2-08,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,168
+Lincoln,2-08,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,2-08,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,160
+Lincoln,2-08,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,2-08,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,167
+Lincoln,2-09,President,,REP,Donald J. Trump,388
+Lincoln,2-09,President,,DEM,Kamala D. Harris,15
+Lincoln,2-09,President,,LIB,Chase Oliver,6
+Lincoln,2-09,President,,,Write-ins,5
+Lincoln,2-09,President,,,Over Votes,0
+Lincoln,2-09,President,,,Under Votes,8
+Lincoln,2-09,U.S. Senate,,REP,John Barrasso,380
+Lincoln,2-09,U.S. Senate,,DEM,Scott D Morrow,21
+Lincoln,2-09,U.S. Senate,,,Write-ins,4
+Lincoln,2-09,U.S. Senate,,,Over Votes,0
+Lincoln,2-09,U.S. Senate,,,Under Votes,17
+Lincoln,2-09,U.S. House,,REP,Harriet Hageman,372
+Lincoln,2-09,U.S. House,,DEM,Kyle G. Cameron,16
+Lincoln,2-09,U.S. House,,LIB,Richard Brubaker,3
+Lincoln,2-09,U.S. House,,CTRY,Jeffrey Haggit,11
+Lincoln,2-09,U.S. House,,,Write-ins,2
+Lincoln,2-09,U.S. House,,,Over Votes,2
+Lincoln,2-09,U.S. House,,,Under Votes,16
+Lincoln,2-09,State Senate,14,REP,Laura Taliaferro Pearson,385
+Lincoln,2-09,State Senate,14,,Write-ins,6
+Lincoln,2-09,State Senate,14,,Over Votes,0
+Lincoln,2-09,State Senate,14,,Under Votes,31
+Lincoln,2-09,State House,18,REP,Scott Heiner,388
+Lincoln,2-09,State House,18,,Write-ins,3
+Lincoln,2-09,State House,18,,Over Votes,0
+Lincoln,2-09,State House,18,,Under Votes,31
+Lincoln,2-09,Ballots Cast,,,Ballots Cast,422
+Lincoln,2-09,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-09,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,85
+Lincoln,2-09,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-09,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,90
+Lincoln,2-09,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Lincoln,2-09,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,49
+Lincoln,2-09,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,2-09,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,85
+Lincoln,2-09,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,2-09,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,80
+Lincoln,2-09,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,2-09,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,83
+Lincoln,2-10,President,,REP,Donald J. Trump,986
+Lincoln,2-10,President,,DEM,Kamala D. Harris,322
+Lincoln,2-10,President,,LIB,Chase Oliver,10
+Lincoln,2-10,President,,,Write-ins,18
+Lincoln,2-10,President,,,Over Votes,1
+Lincoln,2-10,President,,,Under Votes,12
+Lincoln,2-10,U.S. Senate,,REP,John Barrasso,1025
+Lincoln,2-10,U.S. Senate,,DEM,Scott D Morrow,279
+Lincoln,2-10,U.S. Senate,,,Write-ins,9
+Lincoln,2-10,U.S. Senate,,,Over Votes,0
+Lincoln,2-10,U.S. Senate,,,Under Votes,36
+Lincoln,2-10,U.S. House,,REP,Harriet Hageman,973
+Lincoln,2-10,U.S. House,,DEM,Kyle G. Cameron,283
+Lincoln,2-10,U.S. House,,LIB,Richard Brubaker,35
+Lincoln,2-10,U.S. House,,CTRY,Jeffrey Haggit,15
+Lincoln,2-10,U.S. House,,,Write-ins,10
+Lincoln,2-10,U.S. House,,,Over Votes,3
+Lincoln,2-10,U.S. House,,,Under Votes,30
+Lincoln,2-10,State Senate,16,REP,Dan Dockstader,1127
+Lincoln,2-10,State Senate,16,,Write-ins,28
+Lincoln,2-10,State Senate,16,,Over Votes,0
+Lincoln,2-10,State Senate,16,,Under Votes,194
+Lincoln,2-10,State House,22,REP,Andrew P Byron,1093
+Lincoln,2-10,State House,22,,Write-ins,19
+Lincoln,2-10,State House,22,,Over Votes,0
+Lincoln,2-10,State House,22,,Under Votes,237
+Lincoln,2-10,Ballots Cast,,,Ballots Cast,1349
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,271
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,266
+Lincoln,2-10,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Lincoln,2-10,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,108
+Lincoln,2-10,"District Court Judge, Third Judicial District James Kaste",,,Over Votes,0
+Lincoln,2-10,"District Court Judge, Third Judicial District James Kaste",,,Under Votes,268
+Lincoln,2-10,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Lincoln,2-10,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,253
+Lincoln,2-10,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Lincoln,2-10,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,252

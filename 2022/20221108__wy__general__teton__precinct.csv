@@ -1,0 +1,832 @@
+county,precinct,office,district,party,candidate,votes
+Teton,1-01,U.S. House,,REP,Harriet Hageman,119
+Teton,1-01,U.S. House,,DEM,Lynnette GreyBull,123
+Teton,1-01,U.S. House,,LIB,Richard Brubaker,8
+Teton,1-01,U.S. House,,CTRY,Marissa Joy Selvig,2
+Teton,1-01,U.S. House,,,Write-ins,9
+Teton,1-01,U.S. House,,,Over Votes,2
+Teton,1-01,U.S. House,,,Under Votes,12
+Teton,1-01,Governor,,REP,Mark Gordon,177
+Teton,1-01,Governor,,DEM,Theresa A. Livingston,82
+Teton,1-01,Governor,,LIB,Jared J. Baldes,7
+Teton,1-01,Governor,,,Write-ins,0
+Teton,1-01,Governor,,,Over Votes,1
+Teton,1-01,Governor,,,Under Votes,8
+Teton,1-01,Secretary of State,,REP,Chuck Gray,160
+Teton,1-01,Secretary of State,,,Write-ins,20
+Teton,1-01,Secretary of State,,,Over Votes,1
+Teton,1-01,Secretary of State,,,Under Votes,94
+Teton,1-01,State Auditor,,REP,Kristi Racines,181
+Teton,1-01,State Auditor,,,Write-ins,5
+Teton,1-01,State Auditor,,,Over Votes,0
+Teton,1-01,State Auditor,,,Under Votes,89
+Teton,1-01,State Treasurer,,REP,Curt Meier,172
+Teton,1-01,State Treasurer,,,Write-ins,8
+Teton,1-01,State Treasurer,,,Over Votes,0
+Teton,1-01,State Treasurer,,,Under Votes,95
+Teton,1-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,145
+Teton,1-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",103
+Teton,1-01,Superintendent of Public Instruction,,,Write-ins,0
+Teton,1-01,Superintendent of Public Instruction,,,Over Votes,1
+Teton,1-01,Superintendent of Public Instruction,,,Under Votes,26
+Teton,1-01,State House,22,REP,Andrew Byron,165
+Teton,1-01,State House,22,IND,Bob Strobel,86
+Teton,1-01,State House,22,,Write-ins,2
+Teton,1-01,State House,22,,Over Votes,0
+Teton,1-01,State House,22,,Under Votes,22
+Teton,1-01,Ballots Cast,,,Ballots Cast,275
+Teton,1-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,87
+Teton,1-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,87
+Teton,1-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,27
+Teton,1-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Teton,1-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,14
+Teton,1-02,U.S. House,,REP,Harriet Hageman,300
+Teton,1-02,U.S. House,,DEM,Lynnette GreyBull,1071
+Teton,1-02,U.S. House,,LIB,Richard Brubaker,41
+Teton,1-02,U.S. House,,CTRY,Marissa Joy Selvig,6
+Teton,1-02,U.S. House,,,Write-ins,29
+Teton,1-02,U.S. House,,,Over Votes,3
+Teton,1-02,U.S. House,,,Under Votes,36
+Teton,1-02,Governor,,REP,Mark Gordon,579
+Teton,1-02,Governor,,DEM,Theresa A. Livingston,818
+Teton,1-02,Governor,,LIB,Jared J. Baldes,38
+Teton,1-02,Governor,,,Write-ins,11
+Teton,1-02,Governor,,,Over Votes,0
+Teton,1-02,Governor,,,Under Votes,40
+Teton,1-02,Secretary of State,,REP,Chuck Gray,592
+Teton,1-02,Secretary of State,,,Write-ins,224
+Teton,1-02,Secretary of State,,,Over Votes,0
+Teton,1-02,Secretary of State,,,Under Votes,670
+Teton,1-02,State Auditor,,REP,Kristi Racines,724
+Teton,1-02,State Auditor,,,Write-ins,38
+Teton,1-02,State Auditor,,,Over Votes,0
+Teton,1-02,State Auditor,,,Under Votes,724
+Teton,1-02,State Treasurer,,REP,Curt Meier,668
+Teton,1-02,State Treasurer,,,Write-ins,84
+Teton,1-02,State Treasurer,,,Over Votes,0
+Teton,1-02,State Treasurer,,,Under Votes,734
+Teton,1-02,Superintendent of Public Instruction,,REP,Megan Degenfelder,412
+Teton,1-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",960
+Teton,1-02,Superintendent of Public Instruction,,,Write-ins,3
+Teton,1-02,Superintendent of Public Instruction,,,Over Votes,3
+Teton,1-02,Superintendent of Public Instruction,,,Under Votes,108
+Teton,1-02,State Senate,17,REP,Steve Duerr,346
+Teton,1-02,State Senate,17,DEM,Michael F. 'Mike' Gierau,1024
+Teton,1-02,State Senate,17,LIB,Amanda Padilla,82
+Teton,1-02,State Senate,17,,Write-ins,1
+Teton,1-02,State Senate,17,,Over Votes,0
+Teton,1-02,State Senate,17,,Under Votes,33
+Teton,1-02,State House,16,REP,Jim McCollum,347
+Teton,1-02,State House,16,DEM,Mike Yin,1090
+Teton,1-02,State House,16,,Write-ins,4
+Teton,1-02,State House,16,,Over Votes,0
+Teton,1-02,State House,16,,Under Votes,45
+Teton,1-02,Ballots Cast,,,Ballots Cast,1486
+Teton,1-02,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-02,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,496
+Teton,1-02,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-02,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,469
+Teton,1-02,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-02,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,174
+Teton,1-02,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Teton,1-02,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,90
+Teton,1-03,U.S. House,,REP,Harriet Hageman,154
+Teton,1-03,U.S. House,,DEM,Lynnette GreyBull,252
+Teton,1-03,U.S. House,,LIB,Richard Brubaker,15
+Teton,1-03,U.S. House,,CTRY,Marissa Joy Selvig,5
+Teton,1-03,U.S. House,,,Write-ins,19
+Teton,1-03,U.S. House,,,Over Votes,3
+Teton,1-03,U.S. House,,,Under Votes,12
+Teton,1-03,Governor,,REP,Mark Gordon,282
+Teton,1-03,Governor,,DEM,Theresa A. Livingston,161
+Teton,1-03,Governor,,LIB,Jared J. Baldes,5
+Teton,1-03,Governor,,,Write-ins,3
+Teton,1-03,Governor,,,Over Votes,0
+Teton,1-03,Governor,,,Under Votes,9
+Teton,1-03,Secretary of State,,REP,Chuck Gray,251
+Teton,1-03,Secretary of State,,,Write-ins,41
+Teton,1-03,Secretary of State,,,Over Votes,0
+Teton,1-03,Secretary of State,,,Under Votes,168
+Teton,1-03,State Auditor,,REP,Kristi Racines,292
+Teton,1-03,State Auditor,,,Write-ins,9
+Teton,1-03,State Auditor,,,Over Votes,0
+Teton,1-03,State Auditor,,,Under Votes,159
+Teton,1-03,State Treasurer,,REP,Curt Meier,272
+Teton,1-03,State Treasurer,,,Write-ins,18
+Teton,1-03,State Treasurer,,,Over Votes,0
+Teton,1-03,State Treasurer,,,Under Votes,170
+Teton,1-03,Superintendent of Public Instruction,,REP,Megan Degenfelder,208
+Teton,1-03,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",219
+Teton,1-03,Superintendent of Public Instruction,,,Write-ins,1
+Teton,1-03,Superintendent of Public Instruction,,,Over Votes,1
+Teton,1-03,Superintendent of Public Instruction,,,Under Votes,31
+Teton,1-03,State Senate,17,REP,Steve Duerr,174
+Teton,1-03,State Senate,17,DEM,Michael F. 'Mike' Gierau,253
+Teton,1-03,State Senate,17,LIB,Amanda Padilla,18
+Teton,1-03,State Senate,17,,Write-ins,1
+Teton,1-03,State Senate,17,,Over Votes,1
+Teton,1-03,State Senate,17,,Under Votes,13
+Teton,1-03,State House,23,REP,Paul Vogelheim,237
+Teton,1-03,State House,23,DEM,Liz Storer,212
+Teton,1-03,State House,23,,Write-ins,1
+Teton,1-03,State House,23,,Over Votes,1
+Teton,1-03,State House,23,,Under Votes,9
+Teton,1-03,Ballots Cast,,,Ballots Cast,460
+Teton,1-03,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-03,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,136
+Teton,1-03,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-03,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,131
+Teton,1-03,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-03,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,36
+Teton,1-03,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Teton,1-03,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,23
+Teton,1-04,U.S. House,,REP,Harriet Hageman,127
+Teton,1-04,U.S. House,,DEM,Lynnette GreyBull,245
+Teton,1-04,U.S. House,,LIB,Richard Brubaker,13
+Teton,1-04,U.S. House,,CTRY,Marissa Joy Selvig,6
+Teton,1-04,U.S. House,,,Write-ins,8
+Teton,1-04,U.S. House,,,Over Votes,2
+Teton,1-04,U.S. House,,,Under Votes,11
+Teton,1-04,Governor,,REP,Mark Gordon,199
+Teton,1-04,Governor,,DEM,Theresa A. Livingston,193
+Teton,1-04,Governor,,LIB,Jared J. Baldes,9
+Teton,1-04,Governor,,,Write-ins,2
+Teton,1-04,Governor,,,Over Votes,0
+Teton,1-04,Governor,,,Under Votes,9
+Teton,1-04,Secretary of State,,REP,Chuck Gray,211
+Teton,1-04,Secretary of State,,,Write-ins,45
+Teton,1-04,Secretary of State,,,Over Votes,0
+Teton,1-04,Secretary of State,,,Under Votes,156
+Teton,1-04,State Auditor,,REP,Kristi Racines,229
+Teton,1-04,State Auditor,,,Write-ins,8
+Teton,1-04,State Auditor,,,Over Votes,0
+Teton,1-04,State Auditor,,,Under Votes,175
+Teton,1-04,State Treasurer,,REP,Curt Meier,224
+Teton,1-04,State Treasurer,,,Write-ins,16
+Teton,1-04,State Treasurer,,,Over Votes,0
+Teton,1-04,State Treasurer,,,Under Votes,172
+Teton,1-04,Superintendent of Public Instruction,,REP,Megan Degenfelder,155
+Teton,1-04,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",231
+Teton,1-04,Superintendent of Public Instruction,,,Write-ins,1
+Teton,1-04,Superintendent of Public Instruction,,,Over Votes,1
+Teton,1-04,Superintendent of Public Instruction,,,Under Votes,24
+Teton,1-04,State Senate,17,REP,Steve Duerr,130
+Teton,1-04,State Senate,17,DEM,Michael F. 'Mike' Gierau,232
+Teton,1-04,State Senate,17,LIB,Amanda Padilla,38
+Teton,1-04,State Senate,17,,Write-ins,0
+Teton,1-04,State Senate,17,,Over Votes,1
+Teton,1-04,State Senate,17,,Under Votes,11
+Teton,1-04,State House,23,REP,Paul Vogelheim,164
+Teton,1-04,State House,23,DEM,Liz Storer,237
+Teton,1-04,State House,23,,Write-ins,0
+Teton,1-04,State House,23,,Over Votes,1
+Teton,1-04,State House,23,,Under Votes,10
+Teton,1-04,Ballots Cast,,,Ballots Cast,412
+Teton,1-04,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-04,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,122
+Teton,1-04,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-04,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,120
+Teton,1-04,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-04,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,41
+Teton,1-04,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Teton,1-04,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,15
+Teton,1-05,U.S. House,,REP,Harriet Hageman,285
+Teton,1-05,U.S. House,,DEM,Lynnette GreyBull,946
+Teton,1-05,U.S. House,,LIB,Richard Brubaker,62
+Teton,1-05,U.S. House,,CTRY,Marissa Joy Selvig,13
+Teton,1-05,U.S. House,,,Write-ins,21
+Teton,1-05,U.S. House,,,Over Votes,8
+Teton,1-05,U.S. House,,,Under Votes,28
+Teton,1-05,Governor,,REP,Mark Gordon,540
+Teton,1-05,Governor,,DEM,Theresa A. Livingston,756
+Teton,1-05,Governor,,LIB,Jared J. Baldes,38
+Teton,1-05,Governor,,,Write-ins,3
+Teton,1-05,Governor,,,Over Votes,1
+Teton,1-05,Governor,,,Under Votes,25
+Teton,1-05,Secretary of State,,REP,Chuck Gray,569
+Teton,1-05,Secretary of State,,,Write-ins,191
+Teton,1-05,Secretary of State,,,Over Votes,0
+Teton,1-05,Secretary of State,,,Under Votes,603
+Teton,1-05,State Auditor,,REP,Kristi Racines,657
+Teton,1-05,State Auditor,,,Write-ins,36
+Teton,1-05,State Auditor,,,Over Votes,0
+Teton,1-05,State Auditor,,,Under Votes,670
+Teton,1-05,State Treasurer,,REP,Curt Meier,630
+Teton,1-05,State Treasurer,,,Write-ins,72
+Teton,1-05,State Treasurer,,,Over Votes,0
+Teton,1-05,State Treasurer,,,Under Votes,661
+Teton,1-05,Superintendent of Public Instruction,,REP,Megan Degenfelder,396
+Teton,1-05,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",877
+Teton,1-05,Superintendent of Public Instruction,,,Write-ins,1
+Teton,1-05,Superintendent of Public Instruction,,,Over Votes,0
+Teton,1-05,Superintendent of Public Instruction,,,Under Votes,89
+Teton,1-05,State Senate,17,REP,Steve Duerr,319
+Teton,1-05,State Senate,17,DEM,Michael F. 'Mike' Gierau,936
+Teton,1-05,State Senate,17,LIB,Amanda Padilla,77
+Teton,1-05,State Senate,17,,Write-ins,2
+Teton,1-05,State Senate,17,,Over Votes,0
+Teton,1-05,State Senate,17,,Under Votes,29
+Teton,1-05,State House,16,REP,Jim McCollum,345
+Teton,1-05,State House,16,DEM,Mike Yin,969
+Teton,1-05,State House,16,,Write-ins,5
+Teton,1-05,State House,16,,Over Votes,1
+Teton,1-05,State House,16,,Under Votes,35
+Teton,1-05,State House,23,REP,Paul Vogelheim,3
+Teton,1-05,State House,23,DEM,Liz Storer,5
+Teton,1-05,State House,23,,Write-ins,0
+Teton,1-05,State House,23,,Over Votes,0
+Teton,1-05,State House,23,,Under Votes,0
+Teton,1-05,Ballots Cast,,,Ballots Cast,1363
+Teton,1-05,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-05,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,448
+Teton,1-05,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-05,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,412
+Teton,1-05,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-05,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,163
+Teton,1-05,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Teton,1-05,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,78
+Teton,1-06,U.S. House,,REP,Harriet Hageman,161
+Teton,1-06,U.S. House,,DEM,Lynnette GreyBull,408
+Teton,1-06,U.S. House,,LIB,Richard Brubaker,18
+Teton,1-06,U.S. House,,CTRY,Marissa Joy Selvig,2
+Teton,1-06,U.S. House,,,Write-ins,6
+Teton,1-06,U.S. House,,,Over Votes,4
+Teton,1-06,U.S. House,,,Under Votes,3
+Teton,1-06,Governor,,REP,Mark Gordon,238
+Teton,1-06,Governor,,DEM,Theresa A. Livingston,340
+Teton,1-06,Governor,,LIB,Jared J. Baldes,17
+Teton,1-06,Governor,,,Write-ins,1
+Teton,1-06,Governor,,,Over Votes,0
+Teton,1-06,Governor,,,Under Votes,6
+Teton,1-06,Secretary of State,,REP,Chuck Gray,262
+Teton,1-06,Secretary of State,,,Write-ins,83
+Teton,1-06,Secretary of State,,,Over Votes,1
+Teton,1-06,Secretary of State,,,Under Votes,256
+Teton,1-06,State Auditor,,REP,Kristi Racines,318
+Teton,1-06,State Auditor,,,Write-ins,13
+Teton,1-06,State Auditor,,,Over Votes,0
+Teton,1-06,State Auditor,,,Under Votes,271
+Teton,1-06,State Treasurer,,REP,Curt Meier,291
+Teton,1-06,State Treasurer,,,Write-ins,30
+Teton,1-06,State Treasurer,,,Over Votes,0
+Teton,1-06,State Treasurer,,,Under Votes,281
+Teton,1-06,Superintendent of Public Instruction,,REP,Megan Degenfelder,191
+Teton,1-06,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",381
+Teton,1-06,Superintendent of Public Instruction,,,Write-ins,1
+Teton,1-06,Superintendent of Public Instruction,,,Over Votes,0
+Teton,1-06,Superintendent of Public Instruction,,,Under Votes,29
+Teton,1-06,State Senate,17,REP,Steve Duerr,169
+Teton,1-06,State Senate,17,DEM,Michael F. 'Mike' Gierau,400
+Teton,1-06,State Senate,17,LIB,Amanda Padilla,24
+Teton,1-06,State Senate,17,,Write-ins,0
+Teton,1-06,State Senate,17,,Over Votes,0
+Teton,1-06,State Senate,17,,Under Votes,9
+Teton,1-06,State House,16,REP,Jim McCollum,177
+Teton,1-06,State House,16,DEM,Mike Yin,418
+Teton,1-06,State House,16,,Write-ins,0
+Teton,1-06,State House,16,,Over Votes,0
+Teton,1-06,State House,16,,Under Votes,7
+Teton,1-06,Ballots Cast,,,Ballots Cast,602
+Teton,1-06,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-06,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,173
+Teton,1-06,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-06,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,161
+Teton,1-06,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-06,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,74
+Teton,1-06,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Teton,1-06,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,33
+Teton,1-07,U.S. House,,REP,Harriet Hageman,111
+Teton,1-07,U.S. House,,DEM,Lynnette GreyBull,439
+Teton,1-07,U.S. House,,LIB,Richard Brubaker,13
+Teton,1-07,U.S. House,,CTRY,Marissa Joy Selvig,5
+Teton,1-07,U.S. House,,,Write-ins,11
+Teton,1-07,U.S. House,,,Over Votes,2
+Teton,1-07,U.S. House,,,Under Votes,10
+Teton,1-07,Governor,,REP,Mark Gordon,256
+Teton,1-07,Governor,,DEM,Theresa A. Livingston,315
+Teton,1-07,Governor,,LIB,Jared J. Baldes,9
+Teton,1-07,Governor,,,Write-ins,1
+Teton,1-07,Governor,,,Over Votes,1
+Teton,1-07,Governor,,,Under Votes,9
+Teton,1-07,Secretary of State,,REP,Chuck Gray,251
+Teton,1-07,Secretary of State,,,Write-ins,62
+Teton,1-07,Secretary of State,,,Over Votes,0
+Teton,1-07,Secretary of State,,,Under Votes,278
+Teton,1-07,State Auditor,,REP,Kristi Racines,306
+Teton,1-07,State Auditor,,,Write-ins,9
+Teton,1-07,State Auditor,,,Over Votes,0
+Teton,1-07,State Auditor,,,Under Votes,276
+Teton,1-07,State Treasurer,,REP,Curt Meier,296
+Teton,1-07,State Treasurer,,,Write-ins,15
+Teton,1-07,State Treasurer,,,Over Votes,0
+Teton,1-07,State Treasurer,,,Under Votes,280
+Teton,1-07,Superintendent of Public Instruction,,REP,Megan Degenfelder,168
+Teton,1-07,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",384
+Teton,1-07,Superintendent of Public Instruction,,,Write-ins,4
+Teton,1-07,Superintendent of Public Instruction,,,Over Votes,0
+Teton,1-07,Superintendent of Public Instruction,,,Under Votes,35
+Teton,1-07,State Senate,17,REP,Steve Duerr,133
+Teton,1-07,State Senate,17,DEM,Michael F. 'Mike' Gierau,431
+Teton,1-07,State Senate,17,LIB,Amanda Padilla,16
+Teton,1-07,State Senate,17,,Write-ins,0
+Teton,1-07,State Senate,17,,Over Votes,0
+Teton,1-07,State Senate,17,,Under Votes,11
+Teton,1-07,State House,23,REP,Paul Vogelheim,226
+Teton,1-07,State House,23,DEM,Liz Storer,363
+Teton,1-07,State House,23,,Write-ins,1
+Teton,1-07,State House,23,,Over Votes,0
+Teton,1-07,State House,23,,Under Votes,1
+Teton,1-07,Ballots Cast,,,Ballots Cast,591
+Teton,1-07,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-07,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,154
+Teton,1-07,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-07,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,150
+Teton,1-07,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-07,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,57
+Teton,1-07,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Teton,1-07,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,30
+Teton,1-10,U.S. House,,REP,Harriet Hageman,261
+Teton,1-10,U.S. House,,DEM,Lynnette GreyBull,416
+Teton,1-10,U.S. House,,LIB,Richard Brubaker,31
+Teton,1-10,U.S. House,,CTRY,Marissa Joy Selvig,5
+Teton,1-10,U.S. House,,,Write-ins,24
+Teton,1-10,U.S. House,,,Over Votes,6
+Teton,1-10,U.S. House,,,Under Votes,34
+Teton,1-10,Governor,,REP,Mark Gordon,440
+Teton,1-10,Governor,,DEM,Theresa A. Livingston,300
+Teton,1-10,Governor,,LIB,Jared J. Baldes,7
+Teton,1-10,Governor,,,Write-ins,16
+Teton,1-10,Governor,,,Over Votes,1
+Teton,1-10,Governor,,,Under Votes,13
+Teton,1-10,Secretary of State,,REP,Chuck Gray,422
+Teton,1-10,Secretary of State,,,Write-ins,68
+Teton,1-10,Secretary of State,,,Over Votes,0
+Teton,1-10,Secretary of State,,,Under Votes,287
+Teton,1-10,State Auditor,,REP,Kristi Racines,489
+Teton,1-10,State Auditor,,,Write-ins,9
+Teton,1-10,State Auditor,,,Over Votes,1
+Teton,1-10,State Auditor,,,Under Votes,278
+Teton,1-10,State Treasurer,,REP,Curt Meier,484
+Teton,1-10,State Treasurer,,,Write-ins,16
+Teton,1-10,State Treasurer,,,Over Votes,0
+Teton,1-10,State Treasurer,,,Under Votes,277
+Teton,1-10,Superintendent of Public Instruction,,REP,Megan Degenfelder,362
+Teton,1-10,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",359
+Teton,1-10,Superintendent of Public Instruction,,,Write-ins,15
+Teton,1-10,Superintendent of Public Instruction,,,Over Votes,0
+Teton,1-10,Superintendent of Public Instruction,,,Under Votes,41
+Teton,1-10,State Senate,17,REP,Steve Duerr,298
+Teton,1-10,State Senate,17,DEM,Michael F. 'Mike' Gierau,415
+Teton,1-10,State Senate,17,LIB,Amanda Padilla,37
+Teton,1-10,State Senate,17,,Write-ins,5
+Teton,1-10,State Senate,17,,Over Votes,0
+Teton,1-10,State Senate,17,,Under Votes,22
+Teton,1-10,State House,23,REP,Paul Vogelheim,383
+Teton,1-10,State House,23,DEM,Liz Storer,364
+Teton,1-10,State House,23,,Write-ins,11
+Teton,1-10,State House,23,,Over Votes,1
+Teton,1-10,State House,23,,Under Votes,18
+Teton,1-10,Ballots Cast,,,Ballots Cast,777
+Teton,1-10,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-10,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,236
+Teton,1-10,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-10,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,216
+Teton,1-10,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-10,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,81
+Teton,1-10,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Teton,1-10,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,37
+Teton,1-11,U.S. House,,REP,Harriet Hageman,40
+Teton,1-11,U.S. House,,DEM,Lynnette GreyBull,88
+Teton,1-11,U.S. House,,LIB,Richard Brubaker,4
+Teton,1-11,U.S. House,,CTRY,Marissa Joy Selvig,0
+Teton,1-11,U.S. House,,,Write-ins,2
+Teton,1-11,U.S. House,,,Over Votes,0
+Teton,1-11,U.S. House,,,Under Votes,4
+Teton,1-11,Governor,,REP,Mark Gordon,76
+Teton,1-11,Governor,,DEM,Theresa A. Livingston,52
+Teton,1-11,Governor,,LIB,Jared J. Baldes,4
+Teton,1-11,Governor,,,Write-ins,1
+Teton,1-11,Governor,,,Over Votes,0
+Teton,1-11,Governor,,,Under Votes,5
+Teton,1-11,Secretary of State,,REP,Chuck Gray,68
+Teton,1-11,Secretary of State,,,Write-ins,16
+Teton,1-11,Secretary of State,,,Over Votes,0
+Teton,1-11,Secretary of State,,,Under Votes,54
+Teton,1-11,State Auditor,,REP,Kristi Racines,85
+Teton,1-11,State Auditor,,,Write-ins,0
+Teton,1-11,State Auditor,,,Over Votes,0
+Teton,1-11,State Auditor,,,Under Votes,53
+Teton,1-11,State Treasurer,,REP,Curt Meier,79
+Teton,1-11,State Treasurer,,,Write-ins,5
+Teton,1-11,State Treasurer,,,Over Votes,0
+Teton,1-11,State Treasurer,,,Under Votes,54
+Teton,1-11,Superintendent of Public Instruction,,REP,Megan Degenfelder,53
+Teton,1-11,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",75
+Teton,1-11,Superintendent of Public Instruction,,,Write-ins,1
+Teton,1-11,Superintendent of Public Instruction,,,Over Votes,0
+Teton,1-11,Superintendent of Public Instruction,,,Under Votes,9
+Teton,1-11,State Senate,17,REP,Steve Duerr,45
+Teton,1-11,State Senate,17,DEM,Michael F. 'Mike' Gierau,87
+Teton,1-11,State Senate,17,LIB,Amanda Padilla,5
+Teton,1-11,State Senate,17,,Write-ins,0
+Teton,1-11,State Senate,17,,Over Votes,0
+Teton,1-11,State Senate,17,,Under Votes,1
+Teton,1-11,State House,23,REP,Paul Vogelheim,65
+Teton,1-11,State House,23,DEM,Liz Storer,72
+Teton,1-11,State House,23,,Write-ins,0
+Teton,1-11,State House,23,,Over Votes,0
+Teton,1-11,State House,23,,Under Votes,1
+Teton,1-11,Ballots Cast,,,Ballots Cast,138
+Teton,1-11,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-11,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,38
+Teton,1-11,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,1-11,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,37
+Teton,1-11,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,1-11,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,11
+Teton,1-11,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Teton,1-11,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,5
+Teton,1-12,U.S. House,,REP,Harriet Hageman,281
+Teton,1-12,U.S. House,,DEM,Lynnette GreyBull,287
+Teton,1-12,U.S. House,,LIB,Richard Brubaker,18
+Teton,1-12,U.S. House,,CTRY,Marissa Joy Selvig,4
+Teton,1-12,U.S. House,,,Write-ins,8
+Teton,1-12,U.S. House,,,Over Votes,2
+Teton,1-12,U.S. House,,,Under Votes,13
+Teton,1-12,Governor,,REP,Mark Gordon,352
+Teton,1-12,Governor,,DEM,Theresa A. Livingston,224
+Teton,1-12,Governor,,LIB,Jared J. Baldes,24
+Teton,1-12,Governor,,,Write-ins,2
+Teton,1-12,Governor,,,Over Votes,0
+Teton,1-12,Governor,,,Under Votes,11
+Teton,1-12,Secretary of State,,REP,Chuck Gray,345
+Teton,1-12,Secretary of State,,,Write-ins,60
+Teton,1-12,Secretary of State,,,Over Votes,0
+Teton,1-12,Secretary of State,,,Under Votes,208
+Teton,1-12,State Auditor,,REP,Kristi Racines,380
+Teton,1-12,State Auditor,,,Write-ins,16
+Teton,1-12,State Auditor,,,Over Votes,0
+Teton,1-12,State Auditor,,,Under Votes,217
+Teton,1-12,State Treasurer,,REP,Curt Meier,375
+Teton,1-12,State Treasurer,,,Write-ins,18
+Teton,1-12,State Treasurer,,,Over Votes,1
+Teton,1-12,State Treasurer,,,Under Votes,219
+Teton,1-12,Superintendent of Public Instruction,,REP,Megan Degenfelder,294
+Teton,1-12,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",274
+Teton,1-12,Superintendent of Public Instruction,,,Write-ins,2
+Teton,1-12,Superintendent of Public Instruction,,,Over Votes,0
+Teton,1-12,Superintendent of Public Instruction,,,Under Votes,43
+Teton,1-12,State House,22,REP,Andrew Byron,325
+Teton,1-12,State House,22,IND,Bob Strobel,232
+Teton,1-12,State House,22,,Write-ins,6
+Teton,1-12,State House,22,,Over Votes,2
+Teton,1-12,State House,22,,Under Votes,48
+Teton,1-12,Ballots Cast,,,Ballots Cast,613
+Teton,1-12,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,1-12,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,181
+Teton,1-12,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,1
+Teton,1-12,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,177
+Teton,1-12,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Teton,1-12,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,75
+Teton,1-12,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Teton,1-12,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,35
+Teton,2-01,U.S. House,,REP,Harriet Hageman,320
+Teton,2-01,U.S. House,,DEM,Lynnette GreyBull,463
+Teton,2-01,U.S. House,,LIB,Richard Brubaker,34
+Teton,2-01,U.S. House,,CTRY,Marissa Joy Selvig,2
+Teton,2-01,U.S. House,,,Write-ins,30
+Teton,2-01,U.S. House,,,Over Votes,5
+Teton,2-01,U.S. House,,,Under Votes,12
+Teton,2-01,Governor,,REP,Mark Gordon,471
+Teton,2-01,Governor,,DEM,Theresa A. Livingston,365
+Teton,2-01,Governor,,LIB,Jared J. Baldes,15
+Teton,2-01,Governor,,,Write-ins,1
+Teton,2-01,Governor,,,Over Votes,0
+Teton,2-01,Governor,,,Under Votes,14
+Teton,2-01,Secretary of State,,REP,Chuck Gray,457
+Teton,2-01,Secretary of State,,,Write-ins,80
+Teton,2-01,Secretary of State,,,Over Votes,0
+Teton,2-01,Secretary of State,,,Under Votes,329
+Teton,2-01,State Auditor,,REP,Kristi Racines,534
+Teton,2-01,State Auditor,,,Write-ins,14
+Teton,2-01,State Auditor,,,Over Votes,0
+Teton,2-01,State Auditor,,,Under Votes,318
+Teton,2-01,State Treasurer,,REP,Curt Meier,506
+Teton,2-01,State Treasurer,,,Write-ins,24
+Teton,2-01,State Treasurer,,,Over Votes,0
+Teton,2-01,State Treasurer,,,Under Votes,336
+Teton,2-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,405
+Teton,2-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",422
+Teton,2-01,Superintendent of Public Instruction,,,Write-ins,1
+Teton,2-01,Superintendent of Public Instruction,,,Over Votes,0
+Teton,2-01,Superintendent of Public Instruction,,,Under Votes,38
+Teton,2-01,State Senate,17,REP,Steve Duerr,363
+Teton,2-01,State Senate,17,DEM,Michael F. 'Mike' Gierau,450
+Teton,2-01,State Senate,17,LIB,Amanda Padilla,39
+Teton,2-01,State Senate,17,,Write-ins,0
+Teton,2-01,State Senate,17,,Over Votes,0
+Teton,2-01,State Senate,17,,Under Votes,14
+Teton,2-01,State House,23,REP,Paul Vogelheim,466
+Teton,2-01,State House,23,DEM,Liz Storer,382
+Teton,2-01,State House,23,,Write-ins,2
+Teton,2-01,State House,23,,Over Votes,0
+Teton,2-01,State House,23,,Under Votes,16
+Teton,2-01,Ballots Cast,,,Ballots Cast,866
+Teton,2-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,2-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,266
+Teton,2-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,2-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,255
+Teton,2-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,2-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,71
+Teton,2-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Teton,2-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,34
+Teton,3-01,U.S. House,,REP,Harriet Hageman,88
+Teton,3-01,U.S. House,,DEM,Lynnette GreyBull,108
+Teton,3-01,U.S. House,,LIB,Richard Brubaker,6
+Teton,3-01,U.S. House,,CTRY,Marissa Joy Selvig,3
+Teton,3-01,U.S. House,,,Write-ins,3
+Teton,3-01,U.S. House,,,Over Votes,0
+Teton,3-01,U.S. House,,,Under Votes,6
+Teton,3-01,Governor,,REP,Mark Gordon,114
+Teton,3-01,Governor,,DEM,Theresa A. Livingston,87
+Teton,3-01,Governor,,LIB,Jared J. Baldes,5
+Teton,3-01,Governor,,,Write-ins,1
+Teton,3-01,Governor,,,Over Votes,0
+Teton,3-01,Governor,,,Under Votes,7
+Teton,3-01,Secretary of State,,REP,Chuck Gray,116
+Teton,3-01,Secretary of State,,,Write-ins,17
+Teton,3-01,Secretary of State,,,Over Votes,0
+Teton,3-01,Secretary of State,,,Under Votes,81
+Teton,3-01,State Auditor,,REP,Kristi Racines,130
+Teton,3-01,State Auditor,,,Write-ins,3
+Teton,3-01,State Auditor,,,Over Votes,1
+Teton,3-01,State Auditor,,,Under Votes,80
+Teton,3-01,State Treasurer,,REP,Curt Meier,127
+Teton,3-01,State Treasurer,,,Write-ins,4
+Teton,3-01,State Treasurer,,,Over Votes,0
+Teton,3-01,State Treasurer,,,Under Votes,83
+Teton,3-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,104
+Teton,3-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",98
+Teton,3-01,Superintendent of Public Instruction,,,Write-ins,0
+Teton,3-01,Superintendent of Public Instruction,,,Over Votes,0
+Teton,3-01,Superintendent of Public Instruction,,,Under Votes,12
+Teton,3-01,State Senate,17,REP,Steve Duerr,88
+Teton,3-01,State Senate,17,DEM,Michael F. 'Mike' Gierau,103
+Teton,3-01,State Senate,17,LIB,Amanda Padilla,18
+Teton,3-01,State Senate,17,,Write-ins,0
+Teton,3-01,State Senate,17,,Over Votes,0
+Teton,3-01,State Senate,17,,Under Votes,5
+Teton,3-01,State House,23,REP,Paul Vogelheim,111
+Teton,3-01,State House,23,DEM,Liz Storer,97
+Teton,3-01,State House,23,,Write-ins,0
+Teton,3-01,State House,23,,Over Votes,0
+Teton,3-01,State House,23,,Under Votes,6
+Teton,3-01,Ballots Cast,,,Ballots Cast,214
+Teton,3-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,3-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,74
+Teton,3-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,3-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,68
+Teton,3-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,3-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,25
+Teton,3-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Teton,3-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,13
+Teton,4-01,U.S. House,,REP,Harriet Hageman,134
+Teton,4-01,U.S. House,,DEM,Lynnette GreyBull,383
+Teton,4-01,U.S. House,,LIB,Richard Brubaker,15
+Teton,4-01,U.S. House,,CTRY,Marissa Joy Selvig,4
+Teton,4-01,U.S. House,,,Write-ins,17
+Teton,4-01,U.S. House,,,Over Votes,6
+Teton,4-01,U.S. House,,,Under Votes,9
+Teton,4-01,Governor,,REP,Mark Gordon,254
+Teton,4-01,Governor,,DEM,Theresa A. Livingston,290
+Teton,4-01,Governor,,LIB,Jared J. Baldes,8
+Teton,4-01,Governor,,,Write-ins,4
+Teton,4-01,Governor,,,Over Votes,0
+Teton,4-01,Governor,,,Under Votes,12
+Teton,4-01,Secretary of State,,REP,Chuck Gray,227
+Teton,4-01,Secretary of State,,,Write-ins,84
+Teton,4-01,Secretary of State,,,Over Votes,0
+Teton,4-01,Secretary of State,,,Under Votes,257
+Teton,4-01,State Auditor,,REP,Kristi Racines,289
+Teton,4-01,State Auditor,,,Write-ins,16
+Teton,4-01,State Auditor,,,Over Votes,0
+Teton,4-01,State Auditor,,,Under Votes,263
+Teton,4-01,State Treasurer,,REP,Curt Meier,254
+Teton,4-01,State Treasurer,,,Write-ins,30
+Teton,4-01,State Treasurer,,,Over Votes,1
+Teton,4-01,State Treasurer,,,Under Votes,283
+Teton,4-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,188
+Teton,4-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",353
+Teton,4-01,Superintendent of Public Instruction,,,Write-ins,1
+Teton,4-01,Superintendent of Public Instruction,,,Over Votes,0
+Teton,4-01,Superintendent of Public Instruction,,,Under Votes,26
+Teton,4-01,State House,22,REP,Andrew Byron,197
+Teton,4-01,State House,22,IND,Bob Strobel,325
+Teton,4-01,State House,22,,Write-ins,1
+Teton,4-01,State House,22,,Over Votes,0
+Teton,4-01,State House,22,,Under Votes,45
+Teton,4-01,Ballots Cast,,,Ballots Cast,568
+Teton,4-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,4-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,180
+Teton,4-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,4-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,161
+Teton,4-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Teton,4-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,53
+Teton,4-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Teton,4-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,28
+Teton,4-02,U.S. House,,REP,Harriet Hageman,259
+Teton,4-02,U.S. House,,DEM,Lynnette GreyBull,528
+Teton,4-02,U.S. House,,LIB,Richard Brubaker,25
+Teton,4-02,U.S. House,,CTRY,Marissa Joy Selvig,1
+Teton,4-02,U.S. House,,,Write-ins,30
+Teton,4-02,U.S. House,,,Over Votes,9
+Teton,4-02,U.S. House,,,Under Votes,13
+Teton,4-02,Governor,,REP,Mark Gordon,426
+Teton,4-02,Governor,,DEM,Theresa A. Livingston,405
+Teton,4-02,Governor,,LIB,Jared J. Baldes,17
+Teton,4-02,Governor,,,Write-ins,3
+Teton,4-02,Governor,,,Over Votes,0
+Teton,4-02,Governor,,,Under Votes,14
+Teton,4-02,Secretary of State,,REP,Chuck Gray,393
+Teton,4-02,Secretary of State,,,Write-ins,85
+Teton,4-02,Secretary of State,,,Over Votes,0
+Teton,4-02,Secretary of State,,,Under Votes,387
+Teton,4-02,State Auditor,,REP,Kristi Racines,467
+Teton,4-02,State Auditor,,,Write-ins,8
+Teton,4-02,State Auditor,,,Over Votes,0
+Teton,4-02,State Auditor,,,Under Votes,390
+Teton,4-02,State Treasurer,,REP,Curt Meier,427
+Teton,4-02,State Treasurer,,,Write-ins,24
+Teton,4-02,State Treasurer,,,Over Votes,0
+Teton,4-02,State Treasurer,,,Under Votes,414
+Teton,4-02,Superintendent of Public Instruction,,REP,Megan Degenfelder,342
+Teton,4-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",468
+Teton,4-02,Superintendent of Public Instruction,,,Write-ins,1
+Teton,4-02,Superintendent of Public Instruction,,,Over Votes,0
+Teton,4-02,Superintendent of Public Instruction,,,Under Votes,54
+Teton,4-02,State Senate,17,REP,Steve Duerr,293
+Teton,4-02,State Senate,17,DEM,Michael F. 'Mike' Gierau,516
+Teton,4-02,State Senate,17,LIB,Amanda Padilla,39
+Teton,4-02,State Senate,17,,Write-ins,0
+Teton,4-02,State Senate,17,,Over Votes,1
+Teton,4-02,State Senate,17,,Under Votes,16
+Teton,4-02,State House,23,REP,Paul Vogelheim,364
+Teton,4-02,State House,23,DEM,Liz Storer,482
+Teton,4-02,State House,23,,Write-ins,1
+Teton,4-02,State House,23,,Over Votes,2
+Teton,4-02,State House,23,,Under Votes,16
+Teton,4-02,Ballots Cast,,,Ballots Cast,865
+Teton,4-02,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,4-02,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,281
+Teton,4-02,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,4-02,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,265
+Teton,4-02,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Teton,4-02,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,97
+Teton,4-02,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Teton,4-02,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,47
+Teton,4-03,U.S. House,,REP,Harriet Hageman,75
+Teton,4-03,U.S. House,,DEM,Lynnette GreyBull,408
+Teton,4-03,U.S. House,,LIB,Richard Brubaker,15
+Teton,4-03,U.S. House,,CTRY,Marissa Joy Selvig,1
+Teton,4-03,U.S. House,,,Write-ins,15
+Teton,4-03,U.S. House,,,Over Votes,6
+Teton,4-03,U.S. House,,,Under Votes,12
+Teton,4-03,Governor,,REP,Mark Gordon,197
+Teton,4-03,Governor,,DEM,Theresa A. Livingston,315
+Teton,4-03,Governor,,LIB,Jared J. Baldes,6
+Teton,4-03,Governor,,,Write-ins,0
+Teton,4-03,Governor,,,Over Votes,0
+Teton,4-03,Governor,,,Under Votes,14
+Teton,4-03,Secretary of State,,REP,Chuck Gray,171
+Teton,4-03,Secretary of State,,,Write-ins,83
+Teton,4-03,Secretary of State,,,Over Votes,0
+Teton,4-03,Secretary of State,,,Under Votes,278
+Teton,4-03,State Auditor,,REP,Kristi Racines,222
+Teton,4-03,State Auditor,,,Write-ins,16
+Teton,4-03,State Auditor,,,Over Votes,0
+Teton,4-03,State Auditor,,,Under Votes,294
+Teton,4-03,State Treasurer,,REP,Curt Meier,204
+Teton,4-03,State Treasurer,,,Write-ins,22
+Teton,4-03,State Treasurer,,,Over Votes,0
+Teton,4-03,State Treasurer,,,Under Votes,306
+Teton,4-03,Superintendent of Public Instruction,,REP,Megan Degenfelder,114
+Teton,4-03,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",374
+Teton,4-03,Superintendent of Public Instruction,,,Write-ins,0
+Teton,4-03,Superintendent of Public Instruction,,,Over Votes,0
+Teton,4-03,Superintendent of Public Instruction,,,Under Votes,44
+Teton,4-03,State House,22,REP,Andrew Byron,186
+Teton,4-03,State House,22,IND,Bob Strobel,295
+Teton,4-03,State House,22,,Write-ins,1
+Teton,4-03,State House,22,,Over Votes,0
+Teton,4-03,State House,22,,Under Votes,50
+Teton,4-03,Ballots Cast,,,Ballots Cast,532
+Teton,4-03,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,4-03,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,188
+Teton,4-03,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,4-03,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,174
+Teton,4-03,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,4-03,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,76
+Teton,4-03,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Teton,4-03,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,35
+Teton,4-04,U.S. House,,REP,Harriet Hageman,107
+Teton,4-04,U.S. House,,DEM,Lynnette GreyBull,157
+Teton,4-04,U.S. House,,LIB,Richard Brubaker,9
+Teton,4-04,U.S. House,,CTRY,Marissa Joy Selvig,4
+Teton,4-04,U.S. House,,,Write-ins,15
+Teton,4-04,U.S. House,,,Over Votes,2
+Teton,4-04,U.S. House,,,Under Votes,10
+Teton,4-04,Governor,,REP,Mark Gordon,170
+Teton,4-04,Governor,,DEM,Theresa A. Livingston,121
+Teton,4-04,Governor,,LIB,Jared J. Baldes,6
+Teton,4-04,Governor,,,Write-ins,1
+Teton,4-04,Governor,,,Over Votes,0
+Teton,4-04,Governor,,,Under Votes,6
+Teton,4-04,Secretary of State,,REP,Chuck Gray,154
+Teton,4-04,Secretary of State,,,Write-ins,31
+Teton,4-04,Secretary of State,,,Over Votes,0
+Teton,4-04,Secretary of State,,,Under Votes,119
+Teton,4-04,State Auditor,,REP,Kristi Racines,178
+Teton,4-04,State Auditor,,,Write-ins,3
+Teton,4-04,State Auditor,,,Over Votes,0
+Teton,4-04,State Auditor,,,Under Votes,123
+Teton,4-04,State Treasurer,,REP,Curt Meier,177
+Teton,4-04,State Treasurer,,,Write-ins,8
+Teton,4-04,State Treasurer,,,Over Votes,0
+Teton,4-04,State Treasurer,,,Under Votes,119
+Teton,4-04,Superintendent of Public Instruction,,REP,Megan Degenfelder,138
+Teton,4-04,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",149
+Teton,4-04,Superintendent of Public Instruction,,,Write-ins,1
+Teton,4-04,Superintendent of Public Instruction,,,Over Votes,0
+Teton,4-04,Superintendent of Public Instruction,,,Under Votes,16
+Teton,4-04,State Senate,17,REP,Steve Duerr,114
+Teton,4-04,State Senate,17,DEM,Michael F. 'Mike' Gierau,170
+Teton,4-04,State Senate,17,LIB,Amanda Padilla,14
+Teton,4-04,State Senate,17,,Write-ins,1
+Teton,4-04,State Senate,17,,Over Votes,0
+Teton,4-04,State Senate,17,,Under Votes,5
+Teton,4-04,State House,23,REP,Paul Vogelheim,145
+Teton,4-04,State House,23,DEM,Liz Storer,153
+Teton,4-04,State House,23,,Write-ins,1
+Teton,4-04,State House,23,,Over Votes,0
+Teton,4-04,State House,23,,Under Votes,5
+Teton,4-04,Ballots Cast,,,Ballots Cast,304
+Teton,4-04,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,4-04,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,78
+Teton,4-04,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,1
+Teton,4-04,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,72
+Teton,4-04,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,4-04,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,34
+Teton,4-04,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Teton,4-04,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,17
+Teton,5-01,U.S. House,,REP,Harriet Hageman,135
+Teton,5-01,U.S. House,,DEM,Lynnette GreyBull,125
+Teton,5-01,U.S. House,,LIB,Richard Brubaker,8
+Teton,5-01,U.S. House,,CTRY,Marissa Joy Selvig,4
+Teton,5-01,U.S. House,,,Write-ins,12
+Teton,5-01,U.S. House,,,Over Votes,2
+Teton,5-01,U.S. House,,,Under Votes,4
+Teton,5-01,Governor,,REP,Mark Gordon,172
+Teton,5-01,Governor,,DEM,Theresa A. Livingston,102
+Teton,5-01,Governor,,LIB,Jared J. Baldes,11
+Teton,5-01,Governor,,,Write-ins,1
+Teton,5-01,Governor,,,Over Votes,0
+Teton,5-01,Governor,,,Under Votes,4
+Teton,5-01,Secretary of State,,REP,Chuck Gray,177
+Teton,5-01,Secretary of State,,,Write-ins,17
+Teton,5-01,Secretary of State,,,Over Votes,0
+Teton,5-01,Secretary of State,,,Under Votes,96
+Teton,5-01,State Auditor,,REP,Kristi Racines,196
+Teton,5-01,State Auditor,,,Write-ins,5
+Teton,5-01,State Auditor,,,Over Votes,0
+Teton,5-01,State Auditor,,,Under Votes,89
+Teton,5-01,State Treasurer,,REP,Curt Meier,187
+Teton,5-01,State Treasurer,,,Write-ins,11
+Teton,5-01,State Treasurer,,,Over Votes,0
+Teton,5-01,State Treasurer,,,Under Votes,92
+Teton,5-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,156
+Teton,5-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",124
+Teton,5-01,Superintendent of Public Instruction,,,Write-ins,0
+Teton,5-01,Superintendent of Public Instruction,,,Over Votes,0
+Teton,5-01,Superintendent of Public Instruction,,,Under Votes,10
+Teton,5-01,State Senate,17,REP,Steve Duerr,143
+Teton,5-01,State Senate,17,DEM,Michael F. 'Mike' Gierau,125
+Teton,5-01,State Senate,17,LIB,Amanda Padilla,14
+Teton,5-01,State Senate,17,,Write-ins,0
+Teton,5-01,State Senate,17,,Over Votes,0
+Teton,5-01,State Senate,17,,Under Votes,8
+Teton,5-01,State House,23,REP,Paul Vogelheim,162
+Teton,5-01,State House,23,DEM,Liz Storer,122
+Teton,5-01,State House,23,,Write-ins,0
+Teton,5-01,State House,23,,Over Votes,0
+Teton,5-01,State House,23,,Under Votes,6
+Teton,5-01,Ballots Cast,,,Ballots Cast,290
+Teton,5-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Over Votes,0
+Teton,5-01,"Circuit Court Judge, Ninth Judicial District Jefferson Boone Coombs",,,Under Votes,83
+Teton,5-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Over Votes,0
+Teton,5-01,"Circuit Court Judge, Ninth Judicial District Wesley A. Roberts",,,Under Votes,78
+Teton,5-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Teton,5-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,27
+Teton,5-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Teton,5-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,10

@@ -1,0 +1,859 @@
+county,precinct,office,district,party,candidate,votes
+Park,01-01,President,,REP,Donald J. Trump,452
+Park,01-01,President,,DEM,Kamala D. Harris,67
+Park,01-01,President,,LIB,Chase Oliver,2
+Park,01-01,President,,,Write-ins,3
+Park,01-01,President,,,Over Votes,0
+Park,01-01,President,,,Under Votes,2
+Park,01-01,U.S. Senate,,REP,John Barrasso,448
+Park,01-01,U.S. Senate,,DEM,Scott D Morrow,60
+Park,01-01,U.S. Senate,,,Write-ins,4
+Park,01-01,U.S. Senate,,,Over Votes,0
+Park,01-01,U.S. Senate,,,Under Votes,14
+Park,01-01,U.S. House,,REP,Harriet Hageman,441
+Park,01-01,U.S. House,,DEM,Kyle G. Cameron,59
+Park,01-01,U.S. House,,LIB,Richard Brubaker,5
+Park,01-01,U.S. House,,CTRY,Jeffrey Haggit,5
+Park,01-01,U.S. House,,,Write-ins,2
+Park,01-01,U.S. House,,,Over Votes,5
+Park,01-01,U.S. House,,,Under Votes,9
+Park,01-01,State Senate,18,REP,Tim A. French,453
+Park,01-01,State Senate,18,,Write-ins,12
+Park,01-01,State Senate,18,,Over Votes,0
+Park,01-01,State Senate,18,,Under Votes,61
+Park,01-01,State House,50,REP,Rachel Rodriguez-Williams,449
+Park,01-01,State House,50,,Write-ins,15
+Park,01-01,State House,50,,Over Votes,0
+Park,01-01,State House,50,,Under Votes,62
+Park,01-01,Ballots Cast,,,Ballots Cast,526
+Park,01-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,1
+Park,01-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,114
+Park,01-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,1
+Park,01-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,94
+Park,01-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Park,01-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,62
+Park,01-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,01-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,81
+Park,01-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Park,01-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,101
+Park,01-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,2
+Park,01-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,107
+Park,02-01,President,,REP,Donald J. Trump,1441
+Park,02-01,President,,DEM,Kamala D. Harris,390
+Park,02-01,President,,LIB,Chase Oliver,34
+Park,02-01,President,,,Write-ins,14
+Park,02-01,President,,,Over Votes,0
+Park,02-01,President,,,Under Votes,16
+Park,02-01,U.S. Senate,,REP,John Barrasso,1471
+Park,02-01,U.S. Senate,,DEM,Scott D Morrow,334
+Park,02-01,U.S. Senate,,,Write-ins,12
+Park,02-01,U.S. Senate,,,Over Votes,3
+Park,02-01,U.S. Senate,,,Under Votes,75
+Park,02-01,U.S. House,,REP,Harriet Hageman,1356
+Park,02-01,U.S. House,,DEM,Kyle G. Cameron,329
+Park,02-01,U.S. House,,LIB,Richard Brubaker,65
+Park,02-01,U.S. House,,CTRY,Jeffrey Haggit,34
+Park,02-01,U.S. House,,,Write-ins,9
+Park,02-01,U.S. House,,,Over Votes,25
+Park,02-01,U.S. House,,,Under Votes,77
+Park,02-01,State Senate,18,REP,Tim A. French,1472
+Park,02-01,State Senate,18,,Write-ins,98
+Park,02-01,State Senate,18,,Over Votes,2
+Park,02-01,State Senate,18,,Under Votes,323
+Park,02-01,State House,50,REP,Rachel Rodriguez-Williams,1436
+Park,02-01,State House,50,,Write-ins,105
+Park,02-01,State House,50,,Over Votes,0
+Park,02-01,State House,50,,Under Votes,354
+Park,02-01,Ballots Cast,,,Ballots Cast,1895
+Park,02-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,1
+Park,02-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,408
+Park,02-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,02-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,313
+Park,02-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Park,02-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,157
+Park,02-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,1
+Park,02-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,249
+Park,02-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,02-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,354
+Park,02-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,02-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,350
+Park,03-01,President,,REP,Donald J. Trump,701
+Park,03-01,President,,DEM,Kamala D. Harris,132
+Park,03-01,President,,LIB,Chase Oliver,11
+Park,03-01,President,,,Write-ins,8
+Park,03-01,President,,,Over Votes,1
+Park,03-01,President,,,Under Votes,2
+Park,03-01,U.S. Senate,,REP,John Barrasso,700
+Park,03-01,U.S. Senate,,DEM,Scott D Morrow,117
+Park,03-01,U.S. Senate,,,Write-ins,11
+Park,03-01,U.S. Senate,,,Over Votes,0
+Park,03-01,U.S. Senate,,,Under Votes,27
+Park,03-01,U.S. House,,REP,Harriet Hageman,687
+Park,03-01,U.S. House,,DEM,Kyle G. Cameron,107
+Park,03-01,U.S. House,,LIB,Richard Brubaker,23
+Park,03-01,U.S. House,,CTRY,Jeffrey Haggit,8
+Park,03-01,U.S. House,,,Write-ins,7
+Park,03-01,U.S. House,,,Over Votes,4
+Park,03-01,U.S. House,,,Under Votes,19
+Park,03-01,State Senate,18,REP,Tim A. French,708
+Park,03-01,State Senate,18,,Write-ins,31
+Park,03-01,State Senate,18,,Over Votes,0
+Park,03-01,State Senate,18,,Under Votes,116
+Park,03-01,State House,50,REP,Rachel Rodriguez-Williams,686
+Park,03-01,State House,50,,Write-ins,31
+Park,03-01,State House,50,,Over Votes,0
+Park,03-01,State House,50,,Under Votes,138
+Park,03-01,Ballots Cast,,,Ballots Cast,855
+Park,03-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,03-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,172
+Park,03-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,1
+Park,03-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,117
+Park,03-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,03-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,61
+Park,03-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,03-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,90
+Park,03-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,03-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,150
+Park,03-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,03-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,152
+Park,03-02,President,,REP,Donald J. Trump,950
+Park,03-02,President,,DEM,Kamala D. Harris,231
+Park,03-02,President,,LIB,Chase Oliver,18
+Park,03-02,President,,,Write-ins,25
+Park,03-02,President,,,Over Votes,0
+Park,03-02,President,,,Under Votes,14
+Park,03-02,U.S. Senate,,REP,John Barrasso,998
+Park,03-02,U.S. Senate,,DEM,Scott D Morrow,189
+Park,03-02,U.S. Senate,,,Write-ins,16
+Park,03-02,U.S. Senate,,,Over Votes,2
+Park,03-02,U.S. Senate,,,Under Votes,33
+Park,03-02,U.S. House,,REP,Harriet Hageman,933
+Park,03-02,U.S. House,,DEM,Kyle G. Cameron,202
+Park,03-02,U.S. House,,LIB,Richard Brubaker,30
+Park,03-02,U.S. House,,CTRY,Jeffrey Haggit,22
+Park,03-02,U.S. House,,,Write-ins,18
+Park,03-02,U.S. House,,,Over Votes,4
+Park,03-02,U.S. House,,,Under Votes,29
+Park,03-02,State Senate,18,REP,Tim A. French,560
+Park,03-02,State Senate,18,,Write-ins,44
+Park,03-02,State Senate,18,,Over Votes,0
+Park,03-02,State Senate,18,,Under Votes,113
+Park,03-02,State Senate,20,REP,Ed Cooper,435
+Park,03-02,State Senate,20,,Write-ins,17
+Park,03-02,State Senate,20,,Over Votes,1
+Park,03-02,State Senate,20,,Under Votes,68
+Park,03-02,State House,28,REP,John R. Winter,390
+Park,03-02,State House,28,DEM,Larry Alwin,91
+Park,03-02,State House,28,,Write-ins,3
+Park,03-02,State House,28,,Over Votes,1
+Park,03-02,State House,28,,Under Votes,36
+Park,03-02,State House,50,REP,Rachel Rodriguez-Williams,542
+Park,03-02,State House,50,,Write-ins,44
+Park,03-02,State House,50,,Over Votes,0
+Park,03-02,State House,50,,Under Votes,131
+Park,03-02,Ballots Cast,,,Ballots Cast,1238
+Park,03-02,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,2
+Park,03-02,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,270
+Park,03-02,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,03-02,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,205
+Park,03-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,2
+Park,03-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,88
+Park,03-02,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,03-02,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,163
+Park,03-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,03-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,258
+Park,03-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,03-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,241
+Park,04-01,President,,REP,Donald J. Trump,1059
+Park,04-01,President,,DEM,Kamala D. Harris,205
+Park,04-01,President,,LIB,Chase Oliver,13
+Park,04-01,President,,,Write-ins,14
+Park,04-01,President,,,Over Votes,0
+Park,04-01,President,,,Under Votes,6
+Park,04-01,U.S. Senate,,REP,John Barrasso,1066
+Park,04-01,U.S. Senate,,DEM,Scott D Morrow,172
+Park,04-01,U.S. Senate,,,Write-ins,13
+Park,04-01,U.S. Senate,,,Over Votes,1
+Park,04-01,U.S. Senate,,,Under Votes,45
+Park,04-01,U.S. House,,REP,Harriet Hageman,1053
+Park,04-01,U.S. House,,DEM,Kyle G. Cameron,168
+Park,04-01,U.S. House,,LIB,Richard Brubaker,18
+Park,04-01,U.S. House,,CTRY,Jeffrey Haggit,20
+Park,04-01,U.S. House,,,Write-ins,4
+Park,04-01,U.S. House,,,Over Votes,5
+Park,04-01,U.S. House,,,Under Votes,29
+Park,04-01,State Senate,18,REP,Tim A. French,1076
+Park,04-01,State Senate,18,,Write-ins,41
+Park,04-01,State Senate,18,,Over Votes,1
+Park,04-01,State Senate,18,,Under Votes,179
+Park,04-01,State House,24,REP,Nina Webber,940
+Park,04-01,State House,24,,Write-ins,133
+Park,04-01,State House,24,,Over Votes,0
+Park,04-01,State House,24,,Under Votes,224
+Park,04-01,Ballots Cast,,,Ballots Cast,1297
+Park,04-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,04-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,300
+Park,04-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,1
+Park,04-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,235
+Park,04-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,04-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,107
+Park,04-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,04-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,185
+Park,04-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,04-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,280
+Park,04-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,04-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,272
+Park,04-02,President,,REP,Donald J. Trump,205
+Park,04-02,President,,DEM,Kamala D. Harris,33
+Park,04-02,President,,LIB,Chase Oliver,5
+Park,04-02,President,,,Write-ins,4
+Park,04-02,President,,,Over Votes,0
+Park,04-02,President,,,Under Votes,0
+Park,04-02,U.S. Senate,,REP,John Barrasso,211
+Park,04-02,U.S. Senate,,DEM,Scott D Morrow,24
+Park,04-02,U.S. Senate,,,Write-ins,2
+Park,04-02,U.S. Senate,,,Over Votes,0
+Park,04-02,U.S. Senate,,,Under Votes,10
+Park,04-02,U.S. House,,REP,Harriet Hageman,203
+Park,04-02,U.S. House,,DEM,Kyle G. Cameron,24
+Park,04-02,U.S. House,,LIB,Richard Brubaker,8
+Park,04-02,U.S. House,,CTRY,Jeffrey Haggit,2
+Park,04-02,U.S. House,,,Write-ins,0
+Park,04-02,U.S. House,,,Over Votes,1
+Park,04-02,U.S. House,,,Under Votes,9
+Park,04-02,State Senate,18,REP,Tim A. French,202
+Park,04-02,State Senate,18,,Write-ins,10
+Park,04-02,State Senate,18,,Over Votes,0
+Park,04-02,State Senate,18,,Under Votes,35
+Park,04-02,State House,24,REP,Nina Webber,14
+Park,04-02,State House,24,,Write-ins,1
+Park,04-02,State House,24,,Over Votes,0
+Park,04-02,State House,24,,Under Votes,3
+Park,04-02,State House,50,REP,Rachel Rodriguez-Williams,188
+Park,04-02,State House,50,,Write-ins,8
+Park,04-02,State House,50,,Over Votes,0
+Park,04-02,State House,50,,Under Votes,33
+Park,04-02,Ballots Cast,,,Ballots Cast,247
+Park,04-02,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,04-02,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,46
+Park,04-02,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,1
+Park,04-02,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,36
+Park,04-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,04-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,27
+Park,04-02,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,04-02,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,28
+Park,04-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,04-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,46
+Park,04-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,04-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,40
+Park,06-01,President,,REP,Donald J. Trump,359
+Park,06-01,President,,DEM,Kamala D. Harris,37
+Park,06-01,President,,LIB,Chase Oliver,6
+Park,06-01,President,,,Write-ins,1
+Park,06-01,President,,,Over Votes,0
+Park,06-01,President,,,Under Votes,0
+Park,06-01,U.S. Senate,,REP,John Barrasso,354
+Park,06-01,U.S. Senate,,DEM,Scott D Morrow,30
+Park,06-01,U.S. Senate,,,Write-ins,6
+Park,06-01,U.S. Senate,,,Over Votes,0
+Park,06-01,U.S. Senate,,,Under Votes,13
+Park,06-01,U.S. House,,REP,Harriet Hageman,346
+Park,06-01,U.S. House,,DEM,Kyle G. Cameron,29
+Park,06-01,U.S. House,,LIB,Richard Brubaker,13
+Park,06-01,U.S. House,,CTRY,Jeffrey Haggit,6
+Park,06-01,U.S. House,,,Write-ins,1
+Park,06-01,U.S. House,,,Over Votes,1
+Park,06-01,U.S. House,,,Under Votes,7
+Park,06-01,State House,26,REP,Dalton Banks,341
+Park,06-01,State House,26,,Write-ins,5
+Park,06-01,State House,26,,Over Votes,0
+Park,06-01,State House,26,,Under Votes,57
+Park,06-01,Ballots Cast,,,Ballots Cast,403
+Park,06-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,06-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,84
+Park,06-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,06-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,51
+Park,06-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,06-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,39
+Park,06-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,06-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,57
+Park,06-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,06-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,70
+Park,06-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,06-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,74
+Park,07-02,President,,REP,Donald J. Trump,55
+Park,07-02,President,,DEM,Kamala D. Harris,12
+Park,07-02,President,,LIB,Chase Oliver,0
+Park,07-02,President,,,Write-ins,2
+Park,07-02,President,,,Over Votes,0
+Park,07-02,President,,,Under Votes,0
+Park,07-02,U.S. Senate,,REP,John Barrasso,58
+Park,07-02,U.S. Senate,,DEM,Scott D Morrow,10
+Park,07-02,U.S. Senate,,,Write-ins,1
+Park,07-02,U.S. Senate,,,Over Votes,0
+Park,07-02,U.S. Senate,,,Under Votes,0
+Park,07-02,U.S. House,,REP,Harriet Hageman,53
+Park,07-02,U.S. House,,DEM,Kyle G. Cameron,10
+Park,07-02,U.S. House,,LIB,Richard Brubaker,4
+Park,07-02,U.S. House,,CTRY,Jeffrey Haggit,1
+Park,07-02,U.S. House,,,Write-ins,0
+Park,07-02,U.S. House,,,Over Votes,0
+Park,07-02,U.S. House,,,Under Votes,1
+Park,07-02,State Senate,18,REP,Tim A. French,57
+Park,07-02,State Senate,18,,Write-ins,3
+Park,07-02,State Senate,18,,Over Votes,0
+Park,07-02,State Senate,18,,Under Votes,9
+Park,07-02,State House,24,REP,Nina Webber,46
+Park,07-02,State House,24,,Write-ins,12
+Park,07-02,State House,24,,Over Votes,0
+Park,07-02,State House,24,,Under Votes,11
+Park,07-02,Ballots Cast,,,Ballots Cast,69
+Park,07-02,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,07-02,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,15
+Park,07-02,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,07-02,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,12
+Park,07-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,07-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,11
+Park,07-02,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,07-02,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,8
+Park,07-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,07-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,17
+Park,07-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,07-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,14
+Park,08-01,President,,REP,Donald J. Trump,123
+Park,08-01,President,,DEM,Kamala D. Harris,14
+Park,08-01,President,,LIB,Chase Oliver,2
+Park,08-01,President,,,Write-ins,1
+Park,08-01,President,,,Over Votes,0
+Park,08-01,President,,,Under Votes,1
+Park,08-01,U.S. Senate,,REP,John Barrasso,124
+Park,08-01,U.S. Senate,,DEM,Scott D Morrow,13
+Park,08-01,U.S. Senate,,,Write-ins,4
+Park,08-01,U.S. Senate,,,Over Votes,0
+Park,08-01,U.S. Senate,,,Under Votes,0
+Park,08-01,U.S. House,,REP,Harriet Hageman,122
+Park,08-01,U.S. House,,DEM,Kyle G. Cameron,12
+Park,08-01,U.S. House,,LIB,Richard Brubaker,4
+Park,08-01,U.S. House,,CTRY,Jeffrey Haggit,1
+Park,08-01,U.S. House,,,Write-ins,1
+Park,08-01,U.S. House,,,Over Votes,1
+Park,08-01,U.S. House,,,Under Votes,0
+Park,08-01,State Senate,20,REP,Ed Cooper,116
+Park,08-01,State Senate,20,,Write-ins,11
+Park,08-01,State Senate,20,,Over Votes,0
+Park,08-01,State Senate,20,,Under Votes,14
+Park,08-01,State House,28,REP,John R. Winter,123
+Park,08-01,State House,28,DEM,Larry Alwin,13
+Park,08-01,State House,28,,Write-ins,2
+Park,08-01,State House,28,,Over Votes,0
+Park,08-01,State House,28,,Under Votes,3
+Park,08-01,Ballots Cast,,,Ballots Cast,141
+Park,08-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,08-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,29
+Park,08-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,08-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,28
+Park,08-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,08-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,16
+Park,08-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,08-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,21
+Park,08-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,08-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,27
+Park,08-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,08-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,23
+Park,08-02,President,,REP,Donald J. Trump,161
+Park,08-02,President,,DEM,Kamala D. Harris,37
+Park,08-02,President,,LIB,Chase Oliver,4
+Park,08-02,President,,,Write-ins,0
+Park,08-02,President,,,Over Votes,0
+Park,08-02,President,,,Under Votes,2
+Park,08-02,U.S. Senate,,REP,John Barrasso,162
+Park,08-02,U.S. Senate,,DEM,Scott D Morrow,34
+Park,08-02,U.S. Senate,,,Write-ins,2
+Park,08-02,U.S. Senate,,,Over Votes,0
+Park,08-02,U.S. Senate,,,Under Votes,6
+Park,08-02,U.S. House,,REP,Harriet Hageman,146
+Park,08-02,U.S. House,,DEM,Kyle G. Cameron,27
+Park,08-02,U.S. House,,LIB,Richard Brubaker,16
+Park,08-02,U.S. House,,CTRY,Jeffrey Haggit,4
+Park,08-02,U.S. House,,,Write-ins,1
+Park,08-02,U.S. House,,,Over Votes,2
+Park,08-02,U.S. House,,,Under Votes,8
+Park,08-02,State Senate,20,REP,Ed Cooper,155
+Park,08-02,State Senate,20,,Write-ins,4
+Park,08-02,State Senate,20,,Over Votes,0
+Park,08-02,State Senate,20,,Under Votes,45
+Park,08-02,State House,28,REP,John R. Winter,159
+Park,08-02,State House,28,DEM,Larry Alwin,33
+Park,08-02,State House,28,,Write-ins,0
+Park,08-02,State House,28,,Over Votes,1
+Park,08-02,State House,28,,Under Votes,11
+Park,08-02,Ballots Cast,,,Ballots Cast,204
+Park,08-02,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,08-02,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,42
+Park,08-02,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,08-02,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,32
+Park,08-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,08-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,20
+Park,08-02,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,08-02,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,26
+Park,08-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,08-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,39
+Park,08-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,08-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,38
+Park,08-03,President,,REP,Donald J. Trump,139
+Park,08-03,President,,DEM,Kamala D. Harris,16
+Park,08-03,President,,LIB,Chase Oliver,1
+Park,08-03,President,,,Write-ins,0
+Park,08-03,President,,,Over Votes,0
+Park,08-03,President,,,Under Votes,0
+Park,08-03,U.S. Senate,,REP,John Barrasso,138
+Park,08-03,U.S. Senate,,DEM,Scott D Morrow,10
+Park,08-03,U.S. Senate,,,Write-ins,3
+Park,08-03,U.S. Senate,,,Over Votes,1
+Park,08-03,U.S. Senate,,,Under Votes,4
+Park,08-03,U.S. House,,REP,Harriet Hageman,135
+Park,08-03,U.S. House,,DEM,Kyle G. Cameron,12
+Park,08-03,U.S. House,,LIB,Richard Brubaker,1
+Park,08-03,U.S. House,,CTRY,Jeffrey Haggit,3
+Park,08-03,U.S. House,,,Write-ins,2
+Park,08-03,U.S. House,,,Over Votes,0
+Park,08-03,U.S. House,,,Under Votes,3
+Park,08-03,State Senate,20,REP,Ed Cooper,128
+Park,08-03,State Senate,20,,Write-ins,10
+Park,08-03,State Senate,20,,Over Votes,0
+Park,08-03,State Senate,20,,Under Votes,18
+Park,08-03,State House,28,REP,John R. Winter,136
+Park,08-03,State House,28,DEM,Larry Alwin,16
+Park,08-03,State House,28,,Write-ins,0
+Park,08-03,State House,28,,Over Votes,0
+Park,08-03,State House,28,,Under Votes,4
+Park,08-03,Ballots Cast,,,Ballots Cast,156
+Park,08-03,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,08-03,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,38
+Park,08-03,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,08-03,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,25
+Park,08-03,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,08-03,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,7
+Park,08-03,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,08-03,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,22
+Park,08-03,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,08-03,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,27
+Park,08-03,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,08-03,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,28
+Park,09-01,President,,REP,Donald J. Trump,627
+Park,09-01,President,,DEM,Kamala D. Harris,199
+Park,09-01,President,,LIB,Chase Oliver,4
+Park,09-01,President,,,Write-ins,10
+Park,09-01,President,,,Over Votes,0
+Park,09-01,President,,,Under Votes,8
+Park,09-01,U.S. Senate,,REP,John Barrasso,627
+Park,09-01,U.S. Senate,,DEM,Scott D Morrow,173
+Park,09-01,U.S. Senate,,,Write-ins,14
+Park,09-01,U.S. Senate,,,Over Votes,0
+Park,09-01,U.S. Senate,,,Under Votes,34
+Park,09-01,U.S. House,,REP,Harriet Hageman,603
+Park,09-01,U.S. House,,DEM,Kyle G. Cameron,166
+Park,09-01,U.S. House,,LIB,Richard Brubaker,17
+Park,09-01,U.S. House,,CTRY,Jeffrey Haggit,9
+Park,09-01,U.S. House,,,Write-ins,4
+Park,09-01,U.S. House,,,Over Votes,7
+Park,09-01,U.S. House,,,Under Votes,42
+Park,09-01,State House,25,REP,Paul Hoeft,678
+Park,09-01,State House,25,,Write-ins,45
+Park,09-01,State House,25,,Over Votes,1
+Park,09-01,State House,25,,Under Votes,124
+Park,09-01,Ballots Cast,,,Ballots Cast,848
+Park,09-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,09-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,159
+Park,09-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,09-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,102
+Park,09-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,09-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,76
+Park,09-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,09-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,102
+Park,09-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Park,09-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,140
+Park,09-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,09-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,137
+Park,09-05,President,,REP,Donald J. Trump,741
+Park,09-05,President,,DEM,Kamala D. Harris,245
+Park,09-05,President,,LIB,Chase Oliver,15
+Park,09-05,President,,,Write-ins,12
+Park,09-05,President,,,Over Votes,0
+Park,09-05,President,,,Under Votes,10
+Park,09-05,U.S. Senate,,REP,John Barrasso,773
+Park,09-05,U.S. Senate,,DEM,Scott D Morrow,203
+Park,09-05,U.S. Senate,,,Write-ins,9
+Park,09-05,U.S. Senate,,,Over Votes,1
+Park,09-05,U.S. Senate,,,Under Votes,37
+Park,09-05,U.S. House,,REP,Harriet Hageman,710
+Park,09-05,U.S. House,,DEM,Kyle G. Cameron,192
+Park,09-05,U.S. House,,LIB,Richard Brubaker,33
+Park,09-05,U.S. House,,CTRY,Jeffrey Haggit,22
+Park,09-05,U.S. House,,,Write-ins,11
+Park,09-05,U.S. House,,,Over Votes,18
+Park,09-05,U.S. House,,,Under Votes,37
+Park,09-05,State House,25,REP,Paul Hoeft,792
+Park,09-05,State House,25,,Write-ins,72
+Park,09-05,State House,25,,Over Votes,0
+Park,09-05,State House,25,,Under Votes,159
+Park,09-05,Ballots Cast,,,Ballots Cast,1023
+Park,09-05,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,09-05,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,184
+Park,09-05,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,09-05,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,109
+Park,09-05,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,09-05,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,63
+Park,09-05,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,09-05,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,115
+Park,09-05,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Park,09-05,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,172
+Park,09-05,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,09-05,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,174
+Park,09-07,President,,REP,Donald J. Trump,676
+Park,09-07,President,,DEM,Kamala D. Harris,188
+Park,09-07,President,,LIB,Chase Oliver,6
+Park,09-07,President,,,Write-ins,4
+Park,09-07,President,,,Over Votes,0
+Park,09-07,President,,,Under Votes,6
+Park,09-07,U.S. Senate,,REP,John Barrasso,680
+Park,09-07,U.S. Senate,,DEM,Scott D Morrow,158
+Park,09-07,U.S. Senate,,,Write-ins,13
+Park,09-07,U.S. Senate,,,Over Votes,1
+Park,09-07,U.S. Senate,,,Under Votes,28
+Park,09-07,U.S. House,,REP,Harriet Hageman,655
+Park,09-07,U.S. House,,DEM,Kyle G. Cameron,137
+Park,09-07,U.S. House,,LIB,Richard Brubaker,33
+Park,09-07,U.S. House,,CTRY,Jeffrey Haggit,12
+Park,09-07,U.S. House,,,Write-ins,7
+Park,09-07,U.S. House,,,Over Votes,12
+Park,09-07,U.S. House,,,Under Votes,24
+Park,09-07,State House,25,REP,Paul Hoeft,732
+Park,09-07,State House,25,,Write-ins,41
+Park,09-07,State House,25,,Over Votes,0
+Park,09-07,State House,25,,Under Votes,107
+Park,09-07,Ballots Cast,,,Ballots Cast,880
+Park,09-07,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,09-07,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,138
+Park,09-07,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,09-07,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,81
+Park,09-07,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,09-07,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,72
+Park,09-07,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,09-07,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,80
+Park,09-07,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,09-07,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,120
+Park,09-07,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,09-07,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,118
+Park,10-1,President,,REP,Donald J. Trump,540
+Park,10-1,President,,DEM,Kamala D. Harris,82
+Park,10-1,President,,LIB,Chase Oliver,7
+Park,10-1,President,,,Write-ins,4
+Park,10-1,President,,,Over Votes,0
+Park,10-1,President,,,Under Votes,5
+Park,10-1,U.S. Senate,,REP,John Barrasso,543
+Park,10-1,U.S. Senate,,DEM,Scott D Morrow,72
+Park,10-1,U.S. Senate,,,Write-ins,4
+Park,10-1,U.S. Senate,,,Over Votes,1
+Park,10-1,U.S. Senate,,,Under Votes,18
+Park,10-1,U.S. House,,REP,Harriet Hageman,524
+Park,10-1,U.S. House,,DEM,Kyle G. Cameron,64
+Park,10-1,U.S. House,,LIB,Richard Brubaker,10
+Park,10-1,U.S. House,,CTRY,Jeffrey Haggit,12
+Park,10-1,U.S. House,,,Write-ins,5
+Park,10-1,U.S. House,,,Over Votes,4
+Park,10-1,U.S. House,,,Under Votes,19
+Park,10-1,State House,25,REP,Paul Hoeft,523
+Park,10-1,State House,25,,Write-ins,27
+Park,10-1,State House,25,,Over Votes,0
+Park,10-1,State House,25,,Under Votes,68
+Park,10-1,State House,26,REP,Dalton Banks,17
+Park,10-1,State House,26,,Write-ins,0
+Park,10-1,State House,26,,Over Votes,0
+Park,10-1,State House,26,,Under Votes,3
+Park,10-1,Ballots Cast,,,Ballots Cast,638
+Park,10-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,10-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,131
+Park,10-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,10-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,66
+Park,10-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Park,10-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,47
+Park,10-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,10-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,76
+Park,10-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Park,10-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,125
+Park,10-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,10-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,126
+Park,10-2,President,,REP,Donald J. Trump,940
+Park,10-2,President,,DEM,Kamala D. Harris,152
+Park,10-2,President,,LIB,Chase Oliver,17
+Park,10-2,President,,,Write-ins,9
+Park,10-2,President,,,Over Votes,1
+Park,10-2,President,,,Under Votes,14
+Park,10-2,U.S. Senate,,REP,John Barrasso,936
+Park,10-2,U.S. Senate,,DEM,Scott D Morrow,137
+Park,10-2,U.S. Senate,,,Write-ins,5
+Park,10-2,U.S. Senate,,,Over Votes,5
+Park,10-2,U.S. Senate,,,Under Votes,50
+Park,10-2,U.S. House,,REP,Harriet Hageman,905
+Park,10-2,U.S. House,,DEM,Kyle G. Cameron,123
+Park,10-2,U.S. House,,LIB,Richard Brubaker,25
+Park,10-2,U.S. House,,CTRY,Jeffrey Haggit,21
+Park,10-2,U.S. House,,,Write-ins,7
+Park,10-2,U.S. House,,,Over Votes,8
+Park,10-2,U.S. House,,,Under Votes,44
+Park,10-2,State House,25,REP,Paul Hoeft,948
+Park,10-2,State House,25,,Write-ins,55
+Park,10-2,State House,25,,Over Votes,0
+Park,10-2,State House,25,,Under Votes,130
+Park,10-2,Ballots Cast,,,Ballots Cast,1133
+Park,10-2,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,10-2,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,215
+Park,10-2,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,1
+Park,10-2,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,102
+Park,10-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Park,10-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,93
+Park,10-2,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,10-2,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,110
+Park,10-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,10-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,187
+Park,10-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,10-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,198
+Park,11-2,President,,REP,Donald J. Trump,55
+Park,11-2,President,,DEM,Kamala D. Harris,18
+Park,11-2,President,,LIB,Chase Oliver,1
+Park,11-2,President,,,Write-ins,0
+Park,11-2,President,,,Over Votes,0
+Park,11-2,President,,,Under Votes,1
+Park,11-2,U.S. Senate,,REP,John Barrasso,61
+Park,11-2,U.S. Senate,,DEM,Scott D Morrow,12
+Park,11-2,U.S. Senate,,,Write-ins,1
+Park,11-2,U.S. Senate,,,Over Votes,0
+Park,11-2,U.S. Senate,,,Under Votes,1
+Park,11-2,U.S. House,,REP,Harriet Hageman,54
+Park,11-2,U.S. House,,DEM,Kyle G. Cameron,18
+Park,11-2,U.S. House,,LIB,Richard Brubaker,0
+Park,11-2,U.S. House,,CTRY,Jeffrey Haggit,1
+Park,11-2,U.S. House,,,Write-ins,1
+Park,11-2,U.S. House,,,Over Votes,0
+Park,11-2,U.S. House,,,Under Votes,1
+Park,11-2,State Senate,18,REP,Tim A. French,63
+Park,11-2,State Senate,18,,Write-ins,2
+Park,11-2,State Senate,18,,Over Votes,0
+Park,11-2,State Senate,18,,Under Votes,10
+Park,11-2,State House,50,REP,Rachel Rodriguez-Williams,56
+Park,11-2,State House,50,,Write-ins,1
+Park,11-2,State House,50,,Over Votes,0
+Park,11-2,State House,50,,Under Votes,18
+Park,11-2,Ballots Cast,,,Ballots Cast,75
+Park,11-2,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,11-2,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,22
+Park,11-2,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,11-2,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,13
+Park,11-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Park,11-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,7
+Park,11-2,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,11-2,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,11
+Park,11-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,11-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,19
+Park,11-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,11-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,17
+Park,16-1,President,,REP,Donald J. Trump,519
+Park,16-1,President,,DEM,Kamala D. Harris,190
+Park,16-1,President,,LIB,Chase Oliver,7
+Park,16-1,President,,,Write-ins,6
+Park,16-1,President,,,Over Votes,0
+Park,16-1,President,,,Under Votes,3
+Park,16-1,U.S. Senate,,REP,John Barrasso,523
+Park,16-1,U.S. Senate,,DEM,Scott D Morrow,166
+Park,16-1,U.S. Senate,,,Write-ins,5
+Park,16-1,U.S. Senate,,,Over Votes,0
+Park,16-1,U.S. Senate,,,Under Votes,31
+Park,16-1,U.S. House,,REP,Harriet Hageman,502
+Park,16-1,U.S. House,,DEM,Kyle G. Cameron,163
+Park,16-1,U.S. House,,LIB,Richard Brubaker,18
+Park,16-1,U.S. House,,CTRY,Jeffrey Haggit,4
+Park,16-1,U.S. House,,,Write-ins,2
+Park,16-1,U.S. House,,,Over Votes,8
+Park,16-1,U.S. House,,,Under Votes,28
+Park,16-1,State Senate,18,REP,Tim A. French,524
+Park,16-1,State Senate,18,,Write-ins,23
+Park,16-1,State Senate,18,,Over Votes,0
+Park,16-1,State Senate,18,,Under Votes,178
+Park,16-1,State House,24,REP,Nina Webber,446
+Park,16-1,State House,24,,Write-ins,73
+Park,16-1,State House,24,,Over Votes,0
+Park,16-1,State House,24,,Under Votes,206
+Park,16-1,Ballots Cast,,,Ballots Cast,725
+Park,16-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,16-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,202
+Park,16-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,16-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,174
+Park,16-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,16-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,86
+Park,16-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,16-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,146
+Park,16-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,3
+Park,16-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,182
+Park,16-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,2
+Park,16-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,175
+Park,21-1,President,,REP,Donald J. Trump,755
+Park,21-1,President,,DEM,Kamala D. Harris,99
+Park,21-1,President,,LIB,Chase Oliver,15
+Park,21-1,President,,,Write-ins,6
+Park,21-1,President,,,Over Votes,0
+Park,21-1,President,,,Under Votes,8
+Park,21-1,U.S. Senate,,REP,John Barrasso,745
+Park,21-1,U.S. Senate,,DEM,Scott D Morrow,108
+Park,21-1,U.S. Senate,,,Write-ins,4
+Park,21-1,U.S. Senate,,,Over Votes,0
+Park,21-1,U.S. Senate,,,Under Votes,26
+Park,21-1,U.S. House,,REP,Harriet Hageman,716
+Park,21-1,U.S. House,,DEM,Kyle G. Cameron,85
+Park,21-1,U.S. House,,LIB,Richard Brubaker,26
+Park,21-1,U.S. House,,CTRY,Jeffrey Haggit,16
+Park,21-1,U.S. House,,,Write-ins,0
+Park,21-1,U.S. House,,,Over Votes,3
+Park,21-1,U.S. House,,,Under Votes,37
+Park,21-1,State Senate,18,REP,Tim A. French,732
+Park,21-1,State Senate,18,,Write-ins,30
+Park,21-1,State Senate,18,,Over Votes,0
+Park,21-1,State Senate,18,,Under Votes,121
+Park,21-1,State House,50,REP,Rachel Rodriguez-Williams,751
+Park,21-1,State House,50,,Write-ins,23
+Park,21-1,State House,50,,Over Votes,0
+Park,21-1,State House,50,,Under Votes,109
+Park,21-1,Ballots Cast,,,Ballots Cast,883
+Park,21-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,21-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,186
+Park,21-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,21-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,108
+Park,21-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Park,21-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,68
+Park,21-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,21-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,112
+Park,21-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,21-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,171
+Park,21-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,2
+Park,21-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,171
+Park,23-1,President,,REP,Donald J. Trump,140
+Park,23-1,President,,DEM,Kamala D. Harris,11
+Park,23-1,President,,LIB,Chase Oliver,1
+Park,23-1,President,,,Write-ins,1
+Park,23-1,President,,,Over Votes,0
+Park,23-1,President,,,Under Votes,2
+Park,23-1,U.S. Senate,,REP,John Barrasso,139
+Park,23-1,U.S. Senate,,DEM,Scott D Morrow,10
+Park,23-1,U.S. Senate,,,Write-ins,0
+Park,23-1,U.S. Senate,,,Over Votes,0
+Park,23-1,U.S. Senate,,,Under Votes,6
+Park,23-1,U.S. House,,REP,Harriet Hageman,129
+Park,23-1,U.S. House,,DEM,Kyle G. Cameron,10
+Park,23-1,U.S. House,,LIB,Richard Brubaker,7
+Park,23-1,U.S. House,,CTRY,Jeffrey Haggit,4
+Park,23-1,U.S. House,,,Write-ins,0
+Park,23-1,U.S. House,,,Over Votes,0
+Park,23-1,U.S. House,,,Under Votes,5
+Park,23-1,State Senate,18,REP,Tim A. French,137
+Park,23-1,State Senate,18,,Write-ins,3
+Park,23-1,State Senate,18,,Over Votes,0
+Park,23-1,State Senate,18,,Under Votes,15
+Park,23-1,State House,50,REP,Rachel Rodriguez-Williams,131
+Park,23-1,State House,50,,Write-ins,5
+Park,23-1,State House,50,,Over Votes,0
+Park,23-1,State House,50,,Under Votes,19
+Park,23-1,Ballots Cast,,,Ballots Cast,155
+Park,23-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,23-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,40
+Park,23-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,23-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,20
+Park,23-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,23-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,16
+Park,23-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,23-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,23
+Park,23-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,23-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,34
+Park,23-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,23-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,36
+Park,24-1,President,,REP,Donald J. Trump,1142
+Park,24-1,President,,DEM,Kamala D. Harris,407
+Park,24-1,President,,LIB,Chase Oliver,29
+Park,24-1,President,,,Write-ins,14
+Park,24-1,President,,,Over Votes,1
+Park,24-1,President,,,Under Votes,10
+Park,24-1,U.S. Senate,,REP,John Barrasso,1196
+Park,24-1,U.S. Senate,,DEM,Scott D Morrow,337
+Park,24-1,U.S. Senate,,,Write-ins,13
+Park,24-1,U.S. Senate,,,Over Votes,0
+Park,24-1,U.S. Senate,,,Under Votes,57
+Park,24-1,U.S. House,,REP,Harriet Hageman,1086
+Park,24-1,U.S. House,,DEM,Kyle G. Cameron,338
+Park,24-1,U.S. House,,LIB,Richard Brubaker,61
+Park,24-1,U.S. House,,CTRY,Jeffrey Haggit,30
+Park,24-1,U.S. House,,,Write-ins,13
+Park,24-1,U.S. House,,,Over Votes,14
+Park,24-1,U.S. House,,,Under Votes,61
+Park,24-1,State Senate,18,REP,Tim A. French,1215
+Park,24-1,State Senate,18,,Write-ins,89
+Park,24-1,State Senate,18,,Over Votes,0
+Park,24-1,State Senate,18,,Under Votes,299
+Park,24-1,State House,24,REP,Nina Webber,815
+Park,24-1,State House,24,,Write-ins,177
+Park,24-1,State House,24,,Over Votes,2
+Park,24-1,State House,24,,Under Votes,243
+Park,24-1,State House,50,REP,Rachel Rodriguez-Williams,271
+Park,24-1,State House,50,,Write-ins,28
+Park,24-1,State House,50,,Over Votes,0
+Park,24-1,State House,50,,Under Votes,67
+Park,24-1,Ballots Cast,,,Ballots Cast,1603
+Park,24-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,24-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,343
+Park,24-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,24-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,246
+Park,24-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Park,24-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,132
+Park,24-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Park,24-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,210
+Park,24-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,2
+Park,24-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,310
+Park,24-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,24-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,299
+Park,25-1,President,,REP,Donald J. Trump,1304
+Park,25-1,President,,DEM,Kamala D. Harris,494
+Park,25-1,President,,LIB,Chase Oliver,34
+Park,25-1,President,,,Write-ins,30
+Park,25-1,President,,,Over Votes,0
+Park,25-1,President,,,Under Votes,20
+Park,25-1,U.S. Senate,,REP,John Barrasso,1390
+Park,25-1,U.S. Senate,,DEM,Scott D Morrow,421
+Park,25-1,U.S. Senate,,,Write-ins,12
+Park,25-1,U.S. Senate,,,Over Votes,3
+Park,25-1,U.S. Senate,,,Under Votes,56
+Park,25-1,U.S. House,,REP,Harriet Hageman,1261
+Park,25-1,U.S. House,,DEM,Kyle G. Cameron,402
+Park,25-1,U.S. House,,LIB,Richard Brubaker,70
+Park,25-1,U.S. House,,CTRY,Jeffrey Haggit,25
+Park,25-1,U.S. House,,,Write-ins,33
+Park,25-1,U.S. House,,,Over Votes,15
+Park,25-1,U.S. House,,,Under Votes,76
+Park,25-1,State Senate,18,REP,Tim A. French,1369
+Park,25-1,State Senate,18,,Write-ins,119
+Park,25-1,State Senate,18,,Over Votes,0
+Park,25-1,State Senate,18,,Under Votes,394
+Park,25-1,State House,24,REP,Nina Webber,1111
+Park,25-1,State House,24,,Write-ins,359
+Park,25-1,State House,24,,Over Votes,1
+Park,25-1,State House,24,,Under Votes,411
+Park,25-1,Ballots Cast,,,Ballots Cast,1882
+Park,25-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Park,25-1,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,434
+Park,25-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Park,25-1,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,329
+Park,25-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Park,25-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,159
+Park,25-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,1
+Park,25-1,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,240
+Park,25-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Park,25-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,380
+Park,25-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Park,25-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,379

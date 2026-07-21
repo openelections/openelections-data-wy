@@ -1,0 +1,609 @@
+county,precinct,office,district,party,candidate,votes
+Johnson,10-15,President,,REP,Donald J. Trump,58
+Johnson,10-15,President,,DEM,Joseph R. Biden,0
+Johnson,10-15,President,,LIB,Jo Jorgensen,0
+Johnson,10-15,President,,IND,Brock Pierce,0
+Johnson,10-15,President,,,Write-ins,0
+Johnson,10-15,President,,,Over Votes,0
+Johnson,10-15,President,,,Under Votes,0
+Johnson,10-15,U.S. Senate,,REP,Cynthia M. Lummis,56
+Johnson,10-15,U.S. Senate,,DEM,Merav Ben David,1
+Johnson,10-15,U.S. Senate,,,Write-ins,0
+Johnson,10-15,U.S. Senate,,,Over Votes,0
+Johnson,10-15,U.S. Senate,,,Under Votes,1
+Johnson,10-15,U.S. House,,REP,Liz Cheney,52
+Johnson,10-15,U.S. House,,DEM,Lynnette Grey Bull,0
+Johnson,10-15,U.S. House,,LIB,Richard Brubaker,3
+Johnson,10-15,U.S. House,,,Jeff Haggit (CONST.),2
+Johnson,10-15,U.S. House,,,Write-ins,0
+Johnson,10-15,U.S. House,,,Over Votes,1
+Johnson,10-15,U.S. House,,,Under Votes,0
+Johnson,10-15,State Senate,22,REP,Dave Kinskey,55
+Johnson,10-15,State Senate,22,,Write-ins,1
+Johnson,10-15,State Senate,22,,Over Votes,0
+Johnson,10-15,State Senate,22,,Under Votes,2
+Johnson,10-15,State House,40,REP,Barry Crago,55
+Johnson,10-15,State House,40,,Write-ins,0
+Johnson,10-15,State House,40,,Over Votes,0
+Johnson,10-15,State House,40,,Under Votes,3
+Johnson,10-15,Ballots Cast,,,Ballots Cast,58
+Johnson,10-15,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,10-15,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,6
+Johnson,10-15,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,10-15,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,10
+Johnson,10-15,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,10-15,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,8
+Johnson,10-15,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,10-15,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,8
+Johnson,10-15,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,10-15,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,8
+Johnson,2-14,President,,REP,Donald J. Trump,182
+Johnson,2-14,President,,DEM,Joseph R. Biden,27
+Johnson,2-14,President,,LIB,Jo Jorgensen,3
+Johnson,2-14,President,,IND,Brock Pierce,1
+Johnson,2-14,President,,,Write-ins,0
+Johnson,2-14,President,,,Over Votes,0
+Johnson,2-14,President,,,Under Votes,0
+Johnson,2-14,U.S. Senate,,REP,Cynthia M. Lummis,185
+Johnson,2-14,U.S. Senate,,DEM,Merav Ben David,22
+Johnson,2-14,U.S. Senate,,,Write-ins,2
+Johnson,2-14,U.S. Senate,,,Over Votes,1
+Johnson,2-14,U.S. Senate,,,Under Votes,3
+Johnson,2-14,U.S. House,,REP,Liz Cheney,172
+Johnson,2-14,U.S. House,,DEM,Lynnette Grey Bull,23
+Johnson,2-14,U.S. House,,LIB,Richard Brubaker,7
+Johnson,2-14,U.S. House,,,Jeff Haggit (CONST.),3
+Johnson,2-14,U.S. House,,,Write-ins,0
+Johnson,2-14,U.S. House,,,Over Votes,4
+Johnson,2-14,U.S. House,,,Under Votes,4
+Johnson,2-14,State Senate,22,REP,Dave Kinskey,190
+Johnson,2-14,State Senate,22,,Write-ins,4
+Johnson,2-14,State Senate,22,,Over Votes,0
+Johnson,2-14,State Senate,22,,Under Votes,19
+Johnson,2-14,State House,40,REP,Barry Crago,190
+Johnson,2-14,State House,40,,Write-ins,3
+Johnson,2-14,State House,40,,Over Votes,0
+Johnson,2-14,State House,40,,Under Votes,20
+Johnson,2-14,Ballots Cast,,,Ballots Cast,213
+Johnson,2-14,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,2-14,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,21
+Johnson,2-14,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,2-14,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,30
+Johnson,2-14,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,2-14,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,25
+Johnson,2-14,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,2-14,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,35
+Johnson,2-14,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,2-14,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,35
+Johnson,3-1,President,,REP,Donald J. Trump,333
+Johnson,3-1,President,,DEM,Joseph R. Biden,112
+Johnson,3-1,President,,LIB,Jo Jorgensen,7
+Johnson,3-1,President,,IND,Brock Pierce,3
+Johnson,3-1,President,,,Write-ins,2
+Johnson,3-1,President,,,Over Votes,1
+Johnson,3-1,President,,,Under Votes,4
+Johnson,3-1,U.S. Senate,,REP,Cynthia M. Lummis,338
+Johnson,3-1,U.S. Senate,,DEM,Merav Ben David,108
+Johnson,3-1,U.S. Senate,,,Write-ins,0
+Johnson,3-1,U.S. Senate,,,Over Votes,1
+Johnson,3-1,U.S. Senate,,,Under Votes,15
+Johnson,3-1,U.S. House,,REP,Liz Cheney,329
+Johnson,3-1,U.S. House,,DEM,Lynnette Grey Bull,90
+Johnson,3-1,U.S. House,,LIB,Richard Brubaker,17
+Johnson,3-1,U.S. House,,,Jeff Haggit (CONST.),9
+Johnson,3-1,U.S. House,,,Write-ins,0
+Johnson,3-1,U.S. House,,,Over Votes,2
+Johnson,3-1,U.S. House,,,Under Votes,15
+Johnson,3-1,State Senate,22,REP,Dave Kinskey,376
+Johnson,3-1,State Senate,22,,Write-ins,11
+Johnson,3-1,State Senate,22,,Over Votes,0
+Johnson,3-1,State Senate,22,,Under Votes,75
+Johnson,3-1,State House,40,REP,Barry Crago,409
+Johnson,3-1,State House,40,,Write-ins,6
+Johnson,3-1,State House,40,,Over Votes,0
+Johnson,3-1,State House,40,,Under Votes,47
+Johnson,3-1,Ballots Cast,,,Ballots Cast,462
+Johnson,3-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,3-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,62
+Johnson,3-1,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,3-1,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,79
+Johnson,3-1,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,3-1,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,54
+Johnson,3-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,3-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,81
+Johnson,3-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,3-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,76
+Johnson,3-2,President,,REP,Donald J. Trump,204
+Johnson,3-2,President,,DEM,Joseph R. Biden,70
+Johnson,3-2,President,,LIB,Jo Jorgensen,12
+Johnson,3-2,President,,IND,Brock Pierce,0
+Johnson,3-2,President,,,Write-ins,2
+Johnson,3-2,President,,,Over Votes,1
+Johnson,3-2,President,,,Under Votes,4
+Johnson,3-2,U.S. Senate,,REP,Cynthia M. Lummis,210
+Johnson,3-2,U.S. Senate,,DEM,Merav Ben David,70
+Johnson,3-2,U.S. Senate,,,Write-ins,1
+Johnson,3-2,U.S. Senate,,,Over Votes,0
+Johnson,3-2,U.S. Senate,,,Under Votes,12
+Johnson,3-2,U.S. House,,REP,Liz Cheney,195
+Johnson,3-2,U.S. House,,DEM,Lynnette Grey Bull,71
+Johnson,3-2,U.S. House,,LIB,Richard Brubaker,11
+Johnson,3-2,U.S. House,,,Jeff Haggit (CONST.),8
+Johnson,3-2,U.S. House,,,Write-ins,0
+Johnson,3-2,U.S. House,,,Over Votes,0
+Johnson,3-2,U.S. House,,,Under Votes,8
+Johnson,3-2,State Senate,22,REP,Dave Kinskey,243
+Johnson,3-2,State Senate,22,,Write-ins,4
+Johnson,3-2,State Senate,22,,Over Votes,0
+Johnson,3-2,State Senate,22,,Under Votes,46
+Johnson,3-2,State House,40,REP,Barry Crago,244
+Johnson,3-2,State House,40,,Write-ins,8
+Johnson,3-2,State House,40,,Over Votes,0
+Johnson,3-2,State House,40,,Under Votes,41
+Johnson,3-2,Ballots Cast,,,Ballots Cast,293
+Johnson,3-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,3-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,23
+Johnson,3-2,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,3-2,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,46
+Johnson,3-2,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,3-2,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,29
+Johnson,3-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,3-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,47
+Johnson,3-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,3-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,45
+Johnson,3-3,President,,REP,Donald J. Trump,210
+Johnson,3-3,President,,DEM,Joseph R. Biden,70
+Johnson,3-3,President,,LIB,Jo Jorgensen,4
+Johnson,3-3,President,,IND,Brock Pierce,2
+Johnson,3-3,President,,,Write-ins,0
+Johnson,3-3,President,,,Over Votes,0
+Johnson,3-3,President,,,Under Votes,2
+Johnson,3-3,U.S. Senate,,REP,Cynthia M. Lummis,215
+Johnson,3-3,U.S. Senate,,DEM,Merav Ben David,67
+Johnson,3-3,U.S. Senate,,,Write-ins,0
+Johnson,3-3,U.S. Senate,,,Over Votes,0
+Johnson,3-3,U.S. Senate,,,Under Votes,6
+Johnson,3-3,U.S. House,,REP,Liz Cheney,199
+Johnson,3-3,U.S. House,,DEM,Lynnette Grey Bull,61
+Johnson,3-3,U.S. House,,LIB,Richard Brubaker,10
+Johnson,3-3,U.S. House,,,Jeff Haggit (CONST.),8
+Johnson,3-3,U.S. House,,,Write-ins,0
+Johnson,3-3,U.S. House,,,Over Votes,3
+Johnson,3-3,U.S. House,,,Under Votes,7
+Johnson,3-3,State Senate,22,REP,Dave Kinskey,245
+Johnson,3-3,State Senate,22,,Write-ins,8
+Johnson,3-3,State Senate,22,,Over Votes,0
+Johnson,3-3,State Senate,22,,Under Votes,35
+Johnson,3-3,State House,40,REP,Barry Crago,249
+Johnson,3-3,State House,40,,Write-ins,6
+Johnson,3-3,State House,40,,Over Votes,0
+Johnson,3-3,State House,40,,Under Votes,33
+Johnson,3-3,Ballots Cast,,,Ballots Cast,288
+Johnson,3-3,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,3-3,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,25
+Johnson,3-3,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,3-3,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,38
+Johnson,3-3,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,3-3,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,27
+Johnson,3-3,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,3-3,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,44
+Johnson,3-3,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,3-3,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,39
+Johnson,3-4,President,,REP,Donald J. Trump,219
+Johnson,3-4,President,,DEM,Joseph R. Biden,75
+Johnson,3-4,President,,LIB,Jo Jorgensen,5
+Johnson,3-4,President,,IND,Brock Pierce,2
+Johnson,3-4,President,,,Write-ins,3
+Johnson,3-4,President,,,Over Votes,1
+Johnson,3-4,President,,,Under Votes,1
+Johnson,3-4,U.S. Senate,,REP,Cynthia M. Lummis,215
+Johnson,3-4,U.S. Senate,,DEM,Merav Ben David,84
+Johnson,3-4,U.S. Senate,,,Write-ins,0
+Johnson,3-4,U.S. Senate,,,Over Votes,0
+Johnson,3-4,U.S. Senate,,,Under Votes,7
+Johnson,3-4,U.S. House,,REP,Liz Cheney,199
+Johnson,3-4,U.S. House,,DEM,Lynnette Grey Bull,77
+Johnson,3-4,U.S. House,,LIB,Richard Brubaker,14
+Johnson,3-4,U.S. House,,,Jeff Haggit (CONST.),4
+Johnson,3-4,U.S. House,,,Write-ins,0
+Johnson,3-4,U.S. House,,,Over Votes,3
+Johnson,3-4,U.S. House,,,Under Votes,9
+Johnson,3-4,State Senate,22,REP,Dave Kinskey,252
+Johnson,3-4,State Senate,22,,Write-ins,7
+Johnson,3-4,State Senate,22,,Over Votes,0
+Johnson,3-4,State Senate,22,,Under Votes,47
+Johnson,3-4,State House,40,REP,Barry Crago,262
+Johnson,3-4,State House,40,,Write-ins,3
+Johnson,3-4,State House,40,,Over Votes,0
+Johnson,3-4,State House,40,,Under Votes,41
+Johnson,3-4,Ballots Cast,,,Ballots Cast,306
+Johnson,3-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,3-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,28
+Johnson,3-4,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,3-4,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,40
+Johnson,3-4,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,3-4,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,32
+Johnson,3-4,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,1
+Johnson,3-4,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,43
+Johnson,3-4,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,3-4,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,43
+Johnson,3-5,President,,REP,Donald J. Trump,129
+Johnson,3-5,President,,DEM,Joseph R. Biden,38
+Johnson,3-5,President,,LIB,Jo Jorgensen,5
+Johnson,3-5,President,,IND,Brock Pierce,1
+Johnson,3-5,President,,,Write-ins,0
+Johnson,3-5,President,,,Over Votes,0
+Johnson,3-5,President,,,Under Votes,1
+Johnson,3-5,U.S. Senate,,REP,Cynthia M. Lummis,127
+Johnson,3-5,U.S. Senate,,DEM,Merav Ben David,45
+Johnson,3-5,U.S. Senate,,,Write-ins,0
+Johnson,3-5,U.S. Senate,,,Over Votes,1
+Johnson,3-5,U.S. Senate,,,Under Votes,1
+Johnson,3-5,U.S. House,,REP,Liz Cheney,127
+Johnson,3-5,U.S. House,,DEM,Lynnette Grey Bull,35
+Johnson,3-5,U.S. House,,LIB,Richard Brubaker,9
+Johnson,3-5,U.S. House,,,Jeff Haggit (CONST.),1
+Johnson,3-5,U.S. House,,,Write-ins,0
+Johnson,3-5,U.S. House,,,Over Votes,1
+Johnson,3-5,U.S. House,,,Under Votes,1
+Johnson,3-5,State Senate,22,REP,Dave Kinskey,143
+Johnson,3-5,State Senate,22,,Write-ins,0
+Johnson,3-5,State Senate,22,,Over Votes,0
+Johnson,3-5,State Senate,22,,Under Votes,31
+Johnson,3-5,State House,40,REP,Barry Crago,147
+Johnson,3-5,State House,40,,Write-ins,4
+Johnson,3-5,State House,40,,Over Votes,0
+Johnson,3-5,State House,40,,Under Votes,23
+Johnson,3-5,Ballots Cast,,,Ballots Cast,174
+Johnson,3-5,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,3-5,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,16
+Johnson,3-5,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,1
+Johnson,3-5,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,16
+Johnson,3-5,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,3-5,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,13
+Johnson,3-5,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,3-5,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,25
+Johnson,3-5,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,3-5,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,24
+Johnson,3-6,President,,REP,Donald J. Trump,167
+Johnson,3-6,President,,DEM,Joseph R. Biden,48
+Johnson,3-6,President,,LIB,Jo Jorgensen,3
+Johnson,3-6,President,,IND,Brock Pierce,2
+Johnson,3-6,President,,,Write-ins,2
+Johnson,3-6,President,,,Over Votes,0
+Johnson,3-6,President,,,Under Votes,0
+Johnson,3-6,U.S. Senate,,REP,Cynthia M. Lummis,164
+Johnson,3-6,U.S. Senate,,DEM,Merav Ben David,50
+Johnson,3-6,U.S. Senate,,,Write-ins,1
+Johnson,3-6,U.S. Senate,,,Over Votes,0
+Johnson,3-6,U.S. Senate,,,Under Votes,7
+Johnson,3-6,U.S. House,,REP,Liz Cheney,157
+Johnson,3-6,U.S. House,,DEM,Lynnette Grey Bull,43
+Johnson,3-6,U.S. House,,LIB,Richard Brubaker,11
+Johnson,3-6,U.S. House,,,Jeff Haggit (CONST.),4
+Johnson,3-6,U.S. House,,,Write-ins,0
+Johnson,3-6,U.S. House,,,Over Votes,1
+Johnson,3-6,U.S. House,,,Under Votes,6
+Johnson,3-6,State Senate,22,REP,Dave Kinskey,182
+Johnson,3-6,State Senate,22,,Write-ins,3
+Johnson,3-6,State Senate,22,,Over Votes,0
+Johnson,3-6,State Senate,22,,Under Votes,37
+Johnson,3-6,State House,40,REP,Barry Crago,174
+Johnson,3-6,State House,40,,Write-ins,5
+Johnson,3-6,State House,40,,Over Votes,0
+Johnson,3-6,State House,40,,Under Votes,43
+Johnson,3-6,Ballots Cast,,,Ballots Cast,222
+Johnson,3-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,3-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,24
+Johnson,3-6,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,3-6,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,32
+Johnson,3-6,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,3-6,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,23
+Johnson,3-6,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,3-6,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,41
+Johnson,3-6,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,3-6,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,39
+Johnson,3-7,President,,REP,Donald J. Trump,207
+Johnson,3-7,President,,DEM,Joseph R. Biden,58
+Johnson,3-7,President,,LIB,Jo Jorgensen,4
+Johnson,3-7,President,,IND,Brock Pierce,1
+Johnson,3-7,President,,,Write-ins,2
+Johnson,3-7,President,,,Over Votes,0
+Johnson,3-7,President,,,Under Votes,2
+Johnson,3-7,U.S. Senate,,REP,Cynthia M. Lummis,217
+Johnson,3-7,U.S. Senate,,DEM,Merav Ben David,49
+Johnson,3-7,U.S. Senate,,,Write-ins,1
+Johnson,3-7,U.S. Senate,,,Over Votes,0
+Johnson,3-7,U.S. Senate,,,Under Votes,7
+Johnson,3-7,U.S. House,,REP,Liz Cheney,209
+Johnson,3-7,U.S. House,,DEM,Lynnette Grey Bull,45
+Johnson,3-7,U.S. House,,LIB,Richard Brubaker,5
+Johnson,3-7,U.S. House,,,Jeff Haggit (CONST.),5
+Johnson,3-7,U.S. House,,,Write-ins,0
+Johnson,3-7,U.S. House,,,Over Votes,3
+Johnson,3-7,U.S. House,,,Under Votes,7
+Johnson,3-7,State Senate,22,REP,Dave Kinskey,235
+Johnson,3-7,State Senate,22,,Write-ins,3
+Johnson,3-7,State Senate,22,,Over Votes,0
+Johnson,3-7,State Senate,22,,Under Votes,36
+Johnson,3-7,State House,40,REP,Barry Crago,236
+Johnson,3-7,State House,40,,Write-ins,3
+Johnson,3-7,State House,40,,Over Votes,0
+Johnson,3-7,State House,40,,Under Votes,45
+Johnson,3-7,Ballots Cast,,,Ballots Cast,274
+Johnson,3-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,3-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,38
+Johnson,3-7,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,1
+Johnson,3-7,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,41
+Johnson,3-7,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,3-7,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,26
+Johnson,3-7,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,3-7,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,46
+Johnson,3-7,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Johnson,3-7,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,44
+Johnson,3-8,President,,REP,Donald J. Trump,239
+Johnson,3-8,President,,DEM,Joseph R. Biden,66
+Johnson,3-8,President,,LIB,Jo Jorgensen,3
+Johnson,3-8,President,,IND,Brock Pierce,3
+Johnson,3-8,President,,,Write-ins,0
+Johnson,3-8,President,,,Over Votes,1
+Johnson,3-8,President,,,Under Votes,2
+Johnson,3-8,U.S. Senate,,REP,Cynthia M. Lummis,242
+Johnson,3-8,U.S. Senate,,DEM,Merav Ben David,64
+Johnson,3-8,U.S. Senate,,,Write-ins,0
+Johnson,3-8,U.S. Senate,,,Over Votes,0
+Johnson,3-8,U.S. Senate,,,Under Votes,8
+Johnson,3-8,U.S. House,,REP,Liz Cheney,233
+Johnson,3-8,U.S. House,,DEM,Lynnette Grey Bull,53
+Johnson,3-8,U.S. House,,LIB,Richard Brubaker,8
+Johnson,3-8,U.S. House,,,Jeff Haggit (CONST.),8
+Johnson,3-8,U.S. House,,,Write-ins,0
+Johnson,3-8,U.S. House,,,Over Votes,3
+Johnson,3-8,U.S. House,,,Under Votes,9
+Johnson,3-8,State Senate,22,REP,Dave Kinskey,264
+Johnson,3-8,State Senate,22,,Write-ins,2
+Johnson,3-8,State Senate,22,,Over Votes,0
+Johnson,3-8,State Senate,22,,Under Votes,48
+Johnson,3-8,State House,40,REP,Barry Crago,270
+Johnson,3-8,State House,40,,Write-ins,5
+Johnson,3-8,State House,40,,Over Votes,0
+Johnson,3-8,State House,40,,Under Votes,29
+Johnson,3-8,Ballots Cast,,,Ballots Cast,314
+Johnson,3-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,3-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,39
+Johnson,3-8,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,3-8,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,36
+Johnson,3-8,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,3-8,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,34
+Johnson,3-8,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,3-8,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,48
+Johnson,3-8,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,3-8,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,44
+Johnson,4-7,President,,REP,Donald J. Trump,709
+Johnson,4-7,President,,DEM,Joseph R. Biden,126
+Johnson,4-7,President,,LIB,Jo Jorgensen,13
+Johnson,4-7,President,,IND,Brock Pierce,5
+Johnson,4-7,President,,,Write-ins,5
+Johnson,4-7,President,,,Over Votes,0
+Johnson,4-7,President,,,Under Votes,7
+Johnson,4-7,U.S. Senate,,REP,Cynthia M. Lummis,719
+Johnson,4-7,U.S. Senate,,DEM,Merav Ben David,127
+Johnson,4-7,U.S. Senate,,,Write-ins,0
+Johnson,4-7,U.S. Senate,,,Over Votes,0
+Johnson,4-7,U.S. Senate,,,Under Votes,19
+Johnson,4-7,U.S. House,,REP,Liz Cheney,675
+Johnson,4-7,U.S. House,,DEM,Lynnette Grey Bull,117
+Johnson,4-7,U.S. House,,LIB,Richard Brubaker,29
+Johnson,4-7,U.S. House,,,Jeff Haggit (CONST.),16
+Johnson,4-7,U.S. House,,,Write-ins,2
+Johnson,4-7,U.S. House,,,Over Votes,3
+Johnson,4-7,U.S. House,,,Under Votes,23
+Johnson,4-7,State Senate,22,REP,Dave Kinskey,742
+Johnson,4-7,State Senate,22,,Write-ins,16
+Johnson,4-7,State Senate,22,,Over Votes,0
+Johnson,4-7,State Senate,22,,Under Votes,107
+Johnson,4-7,State House,40,REP,Barry Crago,754
+Johnson,4-7,State House,40,,Write-ins,11
+Johnson,4-7,State House,40,,Over Votes,0
+Johnson,4-7,State House,40,,Under Votes,100
+Johnson,4-7,Ballots Cast,,,Ballots Cast,865
+Johnson,4-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,2
+Johnson,4-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,108
+Johnson,4-7,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,4-7,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,151
+Johnson,4-7,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,4-7,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,102
+Johnson,4-7,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,4-7,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,170
+Johnson,4-7,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Johnson,4-7,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,165
+Johnson,4-8,President,,REP,Donald J. Trump,679
+Johnson,4-8,President,,DEM,Joseph R. Biden,160
+Johnson,4-8,President,,LIB,Jo Jorgensen,15
+Johnson,4-8,President,,IND,Brock Pierce,6
+Johnson,4-8,President,,,Write-ins,4
+Johnson,4-8,President,,,Over Votes,0
+Johnson,4-8,President,,,Under Votes,8
+Johnson,4-8,U.S. Senate,,REP,Cynthia M. Lummis,700
+Johnson,4-8,U.S. Senate,,DEM,Merav Ben David,154
+Johnson,4-8,U.S. Senate,,,Write-ins,1
+Johnson,4-8,U.S. Senate,,,Over Votes,0
+Johnson,4-8,U.S. Senate,,,Under Votes,16
+Johnson,4-8,U.S. House,,REP,Liz Cheney,659
+Johnson,4-8,U.S. House,,DEM,Lynnette Grey Bull,134
+Johnson,4-8,U.S. House,,LIB,Richard Brubaker,34
+Johnson,4-8,U.S. House,,,Jeff Haggit (CONST.),24
+Johnson,4-8,U.S. House,,,Write-ins,1
+Johnson,4-8,U.S. House,,,Over Votes,3
+Johnson,4-8,U.S. House,,,Under Votes,17
+Johnson,4-8,State Senate,22,REP,Dave Kinskey,735
+Johnson,4-8,State Senate,22,,Write-ins,16
+Johnson,4-8,State Senate,22,,Over Votes,0
+Johnson,4-8,State Senate,22,,Under Votes,121
+Johnson,4-8,State House,40,REP,Barry Crago,746
+Johnson,4-8,State House,40,,Write-ins,9
+Johnson,4-8,State House,40,,Over Votes,0
+Johnson,4-8,State House,40,,Under Votes,117
+Johnson,4-8,Ballots Cast,,,Ballots Cast,872
+Johnson,4-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,4-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,112
+Johnson,4-8,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,1
+Johnson,4-8,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,136
+Johnson,4-8,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,4-8,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,98
+Johnson,4-8,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,4-8,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,154
+Johnson,4-8,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,4-8,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,146
+Johnson,5-9,President,,REP,Donald J. Trump,86
+Johnson,5-9,President,,DEM,Joseph R. Biden,15
+Johnson,5-9,President,,LIB,Jo Jorgensen,3
+Johnson,5-9,President,,IND,Brock Pierce,0
+Johnson,5-9,President,,,Write-ins,3
+Johnson,5-9,President,,,Over Votes,0
+Johnson,5-9,President,,,Under Votes,0
+Johnson,5-9,U.S. Senate,,REP,Cynthia M. Lummis,91
+Johnson,5-9,U.S. Senate,,DEM,Merav Ben David,16
+Johnson,5-9,U.S. Senate,,,Write-ins,0
+Johnson,5-9,U.S. Senate,,,Over Votes,1
+Johnson,5-9,U.S. Senate,,,Under Votes,0
+Johnson,5-9,U.S. House,,REP,Liz Cheney,88
+Johnson,5-9,U.S. House,,DEM,Lynnette Grey Bull,12
+Johnson,5-9,U.S. House,,LIB,Richard Brubaker,4
+Johnson,5-9,U.S. House,,,Jeff Haggit (CONST.),0
+Johnson,5-9,U.S. House,,,Write-ins,0
+Johnson,5-9,U.S. House,,,Over Votes,1
+Johnson,5-9,U.S. House,,,Under Votes,2
+Johnson,5-9,State Senate,22,REP,Dave Kinskey,89
+Johnson,5-9,State Senate,22,,Write-ins,2
+Johnson,5-9,State Senate,22,,Over Votes,1
+Johnson,5-9,State Senate,22,,Under Votes,15
+Johnson,5-9,State House,40,REP,Barry Crago,87
+Johnson,5-9,State House,40,,Write-ins,5
+Johnson,5-9,State House,40,,Over Votes,0
+Johnson,5-9,State House,40,,Under Votes,15
+Johnson,5-9,Ballots Cast,,,Ballots Cast,107
+Johnson,5-9,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,5-9,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,10
+Johnson,5-9,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,5-9,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,16
+Johnson,5-9,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,5-9,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,11
+Johnson,5-9,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,5-9,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,16
+Johnson,5-9,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,5-9,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,14
+Johnson,6-10,President,,REP,Donald J. Trump,125
+Johnson,6-10,President,,DEM,Joseph R. Biden,15
+Johnson,6-10,President,,LIB,Jo Jorgensen,4
+Johnson,6-10,President,,IND,Brock Pierce,0
+Johnson,6-10,President,,,Write-ins,0
+Johnson,6-10,President,,,Over Votes,2
+Johnson,6-10,President,,,Under Votes,1
+Johnson,6-10,U.S. Senate,,REP,Cynthia M. Lummis,120
+Johnson,6-10,U.S. Senate,,DEM,Merav Ben David,22
+Johnson,6-10,U.S. Senate,,,Write-ins,0
+Johnson,6-10,U.S. Senate,,,Over Votes,0
+Johnson,6-10,U.S. Senate,,,Under Votes,5
+Johnson,6-10,U.S. House,,REP,Liz Cheney,117
+Johnson,6-10,U.S. House,,DEM,Lynnette Grey Bull,14
+Johnson,6-10,U.S. House,,LIB,Richard Brubaker,10
+Johnson,6-10,U.S. House,,,Jeff Haggit (CONST.),2
+Johnson,6-10,U.S. House,,,Write-ins,0
+Johnson,6-10,U.S. House,,,Over Votes,0
+Johnson,6-10,U.S. House,,,Under Votes,4
+Johnson,6-10,State Senate,22,REP,Dave Kinskey,131
+Johnson,6-10,State Senate,22,,Write-ins,1
+Johnson,6-10,State Senate,22,,Over Votes,0
+Johnson,6-10,State Senate,22,,Under Votes,15
+Johnson,6-10,State House,40,REP,Barry Crago,129
+Johnson,6-10,State House,40,,Write-ins,1
+Johnson,6-10,State House,40,,Over Votes,0
+Johnson,6-10,State House,40,,Under Votes,17
+Johnson,6-10,Ballots Cast,,,Ballots Cast,147
+Johnson,6-10,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,6-10,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,20
+Johnson,6-10,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,6-10,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,21
+Johnson,6-10,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,6-10,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,11
+Johnson,6-10,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,6-10,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,24
+Johnson,6-10,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,6-10,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,25
+Johnson,8-11,President,,REP,Donald J. Trump,235
+Johnson,8-11,President,,DEM,Joseph R. Biden,14
+Johnson,8-11,President,,LIB,Jo Jorgensen,2
+Johnson,8-11,President,,IND,Brock Pierce,0
+Johnson,8-11,President,,,Write-ins,0
+Johnson,8-11,President,,,Over Votes,0
+Johnson,8-11,President,,,Under Votes,0
+Johnson,8-11,U.S. Senate,,REP,Cynthia M. Lummis,225
+Johnson,8-11,U.S. Senate,,DEM,Merav Ben David,18
+Johnson,8-11,U.S. Senate,,,Write-ins,0
+Johnson,8-11,U.S. Senate,,,Over Votes,0
+Johnson,8-11,U.S. Senate,,,Under Votes,8
+Johnson,8-11,U.S. House,,REP,Liz Cheney,212
+Johnson,8-11,U.S. House,,DEM,Lynnette Grey Bull,13
+Johnson,8-11,U.S. House,,LIB,Richard Brubaker,9
+Johnson,8-11,U.S. House,,,Jeff Haggit (CONST.),10
+Johnson,8-11,U.S. House,,,Write-ins,0
+Johnson,8-11,U.S. House,,,Over Votes,0
+Johnson,8-11,U.S. House,,,Under Votes,7
+Johnson,8-11,State Senate,22,REP,Dave Kinskey,242
+Johnson,8-11,State Senate,22,,Write-ins,0
+Johnson,8-11,State Senate,22,,Over Votes,0
+Johnson,8-11,State Senate,22,,Under Votes,9
+Johnson,8-11,State House,40,REP,Barry Crago,224
+Johnson,8-11,State House,40,,Write-ins,13
+Johnson,8-11,State House,40,,Over Votes,0
+Johnson,8-11,State House,40,,Under Votes,14
+Johnson,8-11,Ballots Cast,,,Ballots Cast,251
+Johnson,8-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,8-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,30
+Johnson,8-11,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,8-11,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,48
+Johnson,8-11,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,8-11,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,30
+Johnson,8-11,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,8-11,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,48
+Johnson,8-11,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Johnson,8-11,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,46
+Johnson,9-12,President,,REP,Donald J. Trump,99
+Johnson,9-12,President,,DEM,Joseph R. Biden,3
+Johnson,9-12,President,,LIB,Jo Jorgensen,3
+Johnson,9-12,President,,IND,Brock Pierce,1
+Johnson,9-12,President,,,Write-ins,0
+Johnson,9-12,President,,,Over Votes,0
+Johnson,9-12,President,,,Under Votes,0
+Johnson,9-12,U.S. Senate,,REP,Cynthia M. Lummis,97
+Johnson,9-12,U.S. Senate,,DEM,Merav Ben David,8
+Johnson,9-12,U.S. Senate,,,Write-ins,0
+Johnson,9-12,U.S. Senate,,,Over Votes,0
+Johnson,9-12,U.S. Senate,,,Under Votes,1
+Johnson,9-12,U.S. House,,REP,Liz Cheney,92
+Johnson,9-12,U.S. House,,DEM,Lynnette Grey Bull,4
+Johnson,9-12,U.S. House,,LIB,Richard Brubaker,5
+Johnson,9-12,U.S. House,,,Jeff Haggit (CONST.),3
+Johnson,9-12,U.S. House,,,Write-ins,0
+Johnson,9-12,U.S. House,,,Over Votes,0
+Johnson,9-12,U.S. House,,,Under Votes,2
+Johnson,9-12,State Senate,22,REP,Dave Kinskey,102
+Johnson,9-12,State Senate,22,,Write-ins,2
+Johnson,9-12,State Senate,22,,Over Votes,0
+Johnson,9-12,State Senate,22,,Under Votes,2
+Johnson,9-12,State House,40,REP,Barry Crago,101
+Johnson,9-12,State House,40,,Write-ins,1
+Johnson,9-12,State House,40,,Over Votes,0
+Johnson,9-12,State House,40,,Under Votes,4
+Johnson,9-12,Ballots Cast,,,Ballots Cast,106
+Johnson,9-12,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Johnson,9-12,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,10
+Johnson,9-12,"District Court Judge, Fourth Judicial District John G. Fenn",,,Over Votes,0
+Johnson,9-12,"District Court Judge, Fourth Judicial District John G. Fenn",,,Under Votes,14
+Johnson,9-12,"District Court Judge, Fourth Judicial District William J. Edelman",,,Over Votes,0
+Johnson,9-12,"District Court Judge, Fourth Judicial District William J. Edelman",,,Under Votes,14
+Johnson,9-12,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Johnson,9-12,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,14
+Johnson,9-12,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Johnson,9-12,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,13

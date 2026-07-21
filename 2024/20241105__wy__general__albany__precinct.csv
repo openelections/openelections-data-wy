@@ -1,0 +1,427 @@
+county,precinct,office,district,party,candidate,votes
+Albany,13-1,President,,REP,Donald J. Trump,678
+Albany,13-1,President,,DEM,Kamala D. Harris,871
+Albany,13-1,President,,LIB,Chase Oliver,29
+Albany,13-1,President,,,Write-ins,26
+Albany,13-1,President,,,Over Votes,0
+Albany,13-1,President,,,Under Votes,8
+Albany,13-1,U.S. Senate,,REP,John Barrasso,768
+Albany,13-1,U.S. Senate,,DEM,Scott D Morrow,802
+Albany,13-1,U.S. Senate,,,Write-ins,8
+Albany,13-1,U.S. Senate,,,Over Votes,0
+Albany,13-1,U.S. Senate,,,Under Votes,34
+Albany,13-1,U.S. House,,REP,Harriet Hageman,666
+Albany,13-1,U.S. House,,DEM,Kyle G. Cameron,799
+Albany,13-1,U.S. House,,LIB,Richard Brubaker,66
+Albany,13-1,U.S. House,,CTRY,Jeffrey Haggit,13
+Albany,13-1,U.S. House,,,Write-ins,17
+Albany,13-1,U.S. House,,,Over Votes,6
+Albany,13-1,U.S. House,,,Under Votes,45
+Albany,13-1,State House,13,REP,Shane Swett,689
+Albany,13-1,State House,13,DEM,Ken Chestek,872
+Albany,13-1,State House,13,,Write-ins,3
+Albany,13-1,State House,13,,Over Votes,0
+Albany,13-1,State House,13,,Under Votes,48
+Albany,13-1,Ballots Cast,,,Ballots Cast,1612
+Albany,13-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,13-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,325
+Albany,13-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Albany,13-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,179
+Albany,13-1,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,1
+Albany,13-1,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,314
+Albany,13-1,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,2
+Albany,13-1,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,342
+Albany,13-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Albany,13-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,309
+Albany,13-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Albany,13-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,299
+Albany,13-2,President,,REP,Donald J. Trump,289
+Albany,13-2,President,,DEM,Kamala D. Harris,331
+Albany,13-2,President,,LIB,Chase Oliver,13
+Albany,13-2,President,,,Write-ins,4
+Albany,13-2,President,,,Over Votes,2
+Albany,13-2,President,,,Under Votes,1
+Albany,13-2,U.S. Senate,,REP,John Barrasso,332
+Albany,13-2,U.S. Senate,,DEM,Scott D Morrow,280
+Albany,13-2,U.S. Senate,,,Write-ins,5
+Albany,13-2,U.S. Senate,,,Over Votes,1
+Albany,13-2,U.S. Senate,,,Under Votes,22
+Albany,13-2,U.S. House,,REP,Harriet Hageman,258
+Albany,13-2,U.S. House,,DEM,Kyle G. Cameron,282
+Albany,13-2,U.S. House,,LIB,Richard Brubaker,38
+Albany,13-2,U.S. House,,CTRY,Jeffrey Haggit,12
+Albany,13-2,U.S. House,,,Write-ins,4
+Albany,13-2,U.S. House,,,Over Votes,5
+Albany,13-2,U.S. House,,,Under Votes,41
+Albany,13-2,State House,13,REP,Shane Swett,274
+Albany,13-2,State House,13,DEM,Ken Chestek,298
+Albany,13-2,State House,13,,Write-ins,1
+Albany,13-2,State House,13,,Over Votes,0
+Albany,13-2,State House,13,,Under Votes,67
+Albany,13-2,Ballots Cast,,,Ballots Cast,640
+Albany,13-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,13-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,146
+Albany,13-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Albany,13-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,119
+Albany,13-2,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,0
+Albany,13-2,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,143
+Albany,13-2,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,0
+Albany,13-2,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,151
+Albany,13-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Albany,13-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,137
+Albany,13-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Albany,13-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,138
+Albany,13-3,President,,REP,Donald J. Trump,793
+Albany,13-3,President,,DEM,Kamala D. Harris,773
+Albany,13-3,President,,LIB,Chase Oliver,27
+Albany,13-3,President,,,Write-ins,21
+Albany,13-3,President,,,Over Votes,0
+Albany,13-3,President,,,Under Votes,6
+Albany,13-3,U.S. Senate,,REP,John Barrasso,866
+Albany,13-3,U.S. Senate,,DEM,Scott D Morrow,700
+Albany,13-3,U.S. Senate,,,Write-ins,6
+Albany,13-3,U.S. Senate,,,Over Votes,0
+Albany,13-3,U.S. Senate,,,Under Votes,48
+Albany,13-3,U.S. House,,REP,Harriet Hageman,751
+Albany,13-3,U.S. House,,DEM,Kyle G. Cameron,690
+Albany,13-3,U.S. House,,LIB,Richard Brubaker,63
+Albany,13-3,U.S. House,,CTRY,Jeffrey Haggit,27
+Albany,13-3,U.S. House,,,Write-ins,9
+Albany,13-3,U.S. House,,,Over Votes,13
+Albany,13-3,U.S. House,,,Under Votes,67
+Albany,13-3,State House,13,REP,Shane Swett,755
+Albany,13-3,State House,13,DEM,Ken Chestek,771
+Albany,13-3,State House,13,,Write-ins,2
+Albany,13-3,State House,13,,Over Votes,0
+Albany,13-3,State House,13,,Under Votes,92
+Albany,13-3,Ballots Cast,,,Ballots Cast,1620
+Albany,13-3,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,1
+Albany,13-3,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,374
+Albany,13-3,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Albany,13-3,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,250
+Albany,13-3,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,1
+Albany,13-3,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,357
+Albany,13-3,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,0
+Albany,13-3,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,371
+Albany,13-3,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Albany,13-3,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,351
+Albany,13-3,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Albany,13-3,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,344
+Albany,14-0,President,,REP,Donald J. Trump,534
+Albany,14-0,President,,DEM,Kamala D. Harris,154
+Albany,14-0,President,,LIB,Chase Oliver,5
+Albany,14-0,President,,,Write-ins,7
+Albany,14-0,President,,,Over Votes,0
+Albany,14-0,President,,,Under Votes,3
+Albany,14-0,U.S. Senate,,REP,John Barrasso,543
+Albany,14-0,U.S. Senate,,DEM,Scott D Morrow,136
+Albany,14-0,U.S. Senate,,,Write-ins,8
+Albany,14-0,U.S. Senate,,,Over Votes,0
+Albany,14-0,U.S. Senate,,,Under Votes,16
+Albany,14-0,U.S. House,,REP,Harriet Hageman,528
+Albany,14-0,U.S. House,,DEM,Kyle G. Cameron,138
+Albany,14-0,U.S. House,,LIB,Richard Brubaker,13
+Albany,14-0,U.S. House,,CTRY,Jeffrey Haggit,5
+Albany,14-0,U.S. House,,,Write-ins,2
+Albany,14-0,U.S. House,,,Over Votes,4
+Albany,14-0,U.S. House,,,Under Votes,13
+Albany,14-0,State Senate,10,REP,Gary E Crum,560
+Albany,14-0,State Senate,10,DEM,Mike Selmer,123
+Albany,14-0,State Senate,10,,Write-ins,3
+Albany,14-0,State Senate,10,,Over Votes,0
+Albany,14-0,State Senate,10,,Under Votes,17
+Albany,14-0,State House,14,REP,Joe Giustozzi,485
+Albany,14-0,State House,14,DEM,Trey Sherwood,197
+Albany,14-0,State House,14,,Write-ins,1
+Albany,14-0,State House,14,,Over Votes,2
+Albany,14-0,State House,14,,Under Votes,18
+Albany,14-0,Ballots Cast,,,Ballots Cast,703
+Albany,14-0,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,14-0,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,138
+Albany,14-0,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Albany,14-0,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,50
+Albany,14-0,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,0
+Albany,14-0,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,133
+Albany,14-0,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,0
+Albany,14-0,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,122
+Albany,14-0,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Albany,14-0,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,120
+Albany,14-0,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Albany,14-0,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,113
+Albany,14-2,President,,REP,Donald J. Trump,265
+Albany,14-2,President,,DEM,Kamala D. Harris,260
+Albany,14-2,President,,LIB,Chase Oliver,7
+Albany,14-2,President,,,Write-ins,10
+Albany,14-2,President,,,Over Votes,0
+Albany,14-2,President,,,Under Votes,2
+Albany,14-2,U.S. Senate,,REP,John Barrasso,273
+Albany,14-2,U.S. Senate,,DEM,Scott D Morrow,257
+Albany,14-2,U.S. Senate,,,Write-ins,2
+Albany,14-2,U.S. Senate,,,Over Votes,0
+Albany,14-2,U.S. Senate,,,Under Votes,12
+Albany,14-2,U.S. House,,REP,Harriet Hageman,242
+Albany,14-2,U.S. House,,DEM,Kyle G. Cameron,244
+Albany,14-2,U.S. House,,LIB,Richard Brubaker,25
+Albany,14-2,U.S. House,,CTRY,Jeffrey Haggit,16
+Albany,14-2,U.S. House,,,Write-ins,1
+Albany,14-2,U.S. House,,,Over Votes,4
+Albany,14-2,U.S. House,,,Under Votes,12
+Albany,14-2,State Senate,10,REP,Gary E Crum,267
+Albany,14-2,State Senate,10,DEM,Mike Selmer,265
+Albany,14-2,State Senate,10,,Write-ins,0
+Albany,14-2,State Senate,10,,Over Votes,0
+Albany,14-2,State Senate,10,,Under Votes,12
+Albany,14-2,State House,14,REP,Joe Giustozzi,262
+Albany,14-2,State House,14,DEM,Trey Sherwood,268
+Albany,14-2,State House,14,,Write-ins,1
+Albany,14-2,State House,14,,Over Votes,0
+Albany,14-2,State House,14,,Under Votes,13
+Albany,14-2,Ballots Cast,,,Ballots Cast,544
+Albany,14-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,14-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,94
+Albany,14-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Albany,14-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,60
+Albany,14-2,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,0
+Albany,14-2,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,83
+Albany,14-2,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,0
+Albany,14-2,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,82
+Albany,14-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Albany,14-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,77
+Albany,14-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Albany,14-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,75
+Albany,14-3,President,,REP,Donald J. Trump,1592
+Albany,14-3,President,,DEM,Kamala D. Harris,1876
+Albany,14-3,President,,LIB,Chase Oliver,80
+Albany,14-3,President,,,Write-ins,60
+Albany,14-3,President,,,Over Votes,1
+Albany,14-3,President,,,Under Votes,40
+Albany,14-3,U.S. Senate,,REP,John Barrasso,1864
+Albany,14-3,U.S. Senate,,DEM,Scott D Morrow,1687
+Albany,14-3,U.S. Senate,,,Write-ins,25
+Albany,14-3,U.S. Senate,,,Over Votes,1
+Albany,14-3,U.S. Senate,,,Under Votes,72
+Albany,14-3,U.S. House,,REP,Harriet Hageman,1546
+Albany,14-3,U.S. House,,DEM,Kyle G. Cameron,1736
+Albany,14-3,U.S. House,,LIB,Richard Brubaker,148
+Albany,14-3,U.S. House,,CTRY,Jeffrey Haggit,49
+Albany,14-3,U.S. House,,,Write-ins,32
+Albany,14-3,U.S. House,,,Over Votes,15
+Albany,14-3,U.S. House,,,Under Votes,123
+Albany,14-3,State Senate,10,REP,Gary E Crum,1963
+Albany,14-3,State Senate,10,DEM,Mike Selmer,1618
+Albany,14-3,State Senate,10,,Write-ins,10
+Albany,14-3,State Senate,10,,Over Votes,1
+Albany,14-3,State Senate,10,,Under Votes,57
+Albany,14-3,State House,14,REP,Joe Giustozzi,1532
+Albany,14-3,State House,14,DEM,Trey Sherwood,2007
+Albany,14-3,State House,14,,Write-ins,6
+Albany,14-3,State House,14,,Over Votes,1
+Albany,14-3,State House,14,,Under Votes,103
+Albany,14-3,Ballots Cast,,,Ballots Cast,3649
+Albany,14-3,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,14-3,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,734
+Albany,14-3,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,3
+Albany,14-3,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,348
+Albany,14-3,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,1
+Albany,14-3,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,714
+Albany,14-3,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,2
+Albany,14-3,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,686
+Albany,14-3,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Albany,14-3,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,673
+Albany,14-3,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,1
+Albany,14-3,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,655
+Albany,45-1,President,,REP,Donald J. Trump,734
+Albany,45-1,President,,DEM,Kamala D. Harris,1431
+Albany,45-1,President,,LIB,Chase Oliver,48
+Albany,45-1,President,,,Write-ins,27
+Albany,45-1,President,,,Over Votes,2
+Albany,45-1,President,,,Under Votes,16
+Albany,45-1,U.S. Senate,,REP,John Barrasso,818
+Albany,45-1,U.S. Senate,,DEM,Scott D Morrow,1372
+Albany,45-1,U.S. Senate,,,Write-ins,17
+Albany,45-1,U.S. Senate,,,Over Votes,0
+Albany,45-1,U.S. Senate,,,Under Votes,51
+Albany,45-1,U.S. House,,REP,Harriet Hageman,697
+Albany,45-1,U.S. House,,DEM,Kyle G. Cameron,1348
+Albany,45-1,U.S. House,,LIB,Richard Brubaker,85
+Albany,45-1,U.S. House,,CTRY,Jeffrey Haggit,35
+Albany,45-1,U.S. House,,,Write-ins,13
+Albany,45-1,U.S. House,,,Over Votes,14
+Albany,45-1,U.S. House,,,Under Votes,66
+Albany,45-1,State House,45,REP,Paul Crouch,732
+Albany,45-1,State House,45,DEM,Karlee Provenza,1432
+Albany,45-1,State House,45,,Write-ins,9
+Albany,45-1,State House,45,,Over Votes,2
+Albany,45-1,State House,45,,Under Votes,83
+Albany,45-1,Ballots Cast,,,Ballots Cast,2258
+Albany,45-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,45-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,509
+Albany,45-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Albany,45-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,249
+Albany,45-1,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,1
+Albany,45-1,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,494
+Albany,45-1,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,0
+Albany,45-1,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,519
+Albany,45-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Albany,45-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,474
+Albany,45-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,1
+Albany,45-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,446
+Albany,45-2,President,,REP,Donald J. Trump,734
+Albany,45-2,President,,DEM,Kamala D. Harris,1077
+Albany,45-2,President,,LIB,Chase Oliver,35
+Albany,45-2,President,,,Write-ins,30
+Albany,45-2,President,,,Over Votes,0
+Albany,45-2,President,,,Under Votes,8
+Albany,45-2,U.S. Senate,,REP,John Barrasso,812
+Albany,45-2,U.S. Senate,,DEM,Scott D Morrow,1026
+Albany,45-2,U.S. Senate,,,Write-ins,3
+Albany,45-2,U.S. Senate,,,Over Votes,0
+Albany,45-2,U.S. Senate,,,Under Votes,43
+Albany,45-2,U.S. House,,REP,Harriet Hageman,670
+Albany,45-2,U.S. House,,DEM,Kyle G. Cameron,1001
+Albany,45-2,U.S. House,,LIB,Richard Brubaker,105
+Albany,45-2,U.S. House,,CTRY,Jeffrey Haggit,27
+Albany,45-2,U.S. House,,,Write-ins,11
+Albany,45-2,U.S. House,,,Over Votes,7
+Albany,45-2,U.S. House,,,Under Votes,63
+Albany,45-2,State House,45,REP,Paul Crouch,745
+Albany,45-2,State House,45,DEM,Karlee Provenza,1061
+Albany,45-2,State House,45,,Write-ins,5
+Albany,45-2,State House,45,,Over Votes,1
+Albany,45-2,State House,45,,Under Votes,72
+Albany,45-2,Ballots Cast,,,Ballots Cast,1884
+Albany,45-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,45-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,395
+Albany,45-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Albany,45-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,237
+Albany,45-2,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,0
+Albany,45-2,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,397
+Albany,45-2,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,1
+Albany,45-2,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,413
+Albany,45-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Albany,45-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,370
+Albany,45-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,1
+Albany,45-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,340
+Albany,46-0,President,,REP,Donald J. Trump,2117
+Albany,46-0,President,,DEM,Kamala D. Harris,834
+Albany,46-0,President,,LIB,Chase Oliver,62
+Albany,46-0,President,,,Write-ins,35
+Albany,46-0,President,,,Over Votes,2
+Albany,46-0,President,,,Under Votes,14
+Albany,46-0,U.S. Senate,,REP,John Barrasso,2222
+Albany,46-0,U.S. Senate,,DEM,Scott D Morrow,757
+Albany,46-0,U.S. Senate,,,Write-ins,33
+Albany,46-0,U.S. Senate,,,Over Votes,1
+Albany,46-0,U.S. Senate,,,Under Votes,51
+Albany,46-0,U.S. House,,REP,Harriet Hageman,2065
+Albany,46-0,U.S. House,,DEM,Kyle G. Cameron,754
+Albany,46-0,U.S. House,,LIB,Richard Brubaker,103
+Albany,46-0,U.S. House,,CTRY,Jeffrey Haggit,33
+Albany,46-0,U.S. House,,,Write-ins,21
+Albany,46-0,U.S. House,,,Over Votes,21
+Albany,46-0,U.S. House,,,Under Votes,67
+Albany,46-0,State Senate,10,REP,Gary E Crum,2276
+Albany,46-0,State Senate,10,DEM,Mike Selmer,709
+Albany,46-0,State Senate,10,,Write-ins,11
+Albany,46-0,State Senate,10,,Over Votes,1
+Albany,46-0,State Senate,10,,Under Votes,67
+Albany,46-0,State House,46,REP,Ocean Andrew,2190
+Albany,46-0,State House,46,DEM,Chris Lowry,773
+Albany,46-0,State House,46,,Write-ins,12
+Albany,46-0,State House,46,,Over Votes,0
+Albany,46-0,State House,46,,Under Votes,89
+Albany,46-0,Ballots Cast,,,Ballots Cast,3064
+Albany,46-0,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,46-0,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,659
+Albany,46-0,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Albany,46-0,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,255
+Albany,46-0,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,0
+Albany,46-0,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,629
+Albany,46-0,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,1
+Albany,46-0,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,582
+Albany,46-0,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Albany,46-0,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,568
+Albany,46-0,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Albany,46-0,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,570
+Albany,46-1,President,,REP,Donald J. Trump,668
+Albany,46-1,President,,DEM,Kamala D. Harris,397
+Albany,46-1,President,,LIB,Chase Oliver,16
+Albany,46-1,President,,,Write-ins,6
+Albany,46-1,President,,,Over Votes,0
+Albany,46-1,President,,,Under Votes,6
+Albany,46-1,U.S. Senate,,REP,John Barrasso,684
+Albany,46-1,U.S. Senate,,DEM,Scott D Morrow,386
+Albany,46-1,U.S. Senate,,,Write-ins,5
+Albany,46-1,U.S. Senate,,,Over Votes,0
+Albany,46-1,U.S. Senate,,,Under Votes,18
+Albany,46-1,U.S. House,,REP,Harriet Hageman,634
+Albany,46-1,U.S. House,,DEM,Kyle G. Cameron,348
+Albany,46-1,U.S. House,,LIB,Richard Brubaker,63
+Albany,46-1,U.S. House,,CTRY,Jeffrey Haggit,17
+Albany,46-1,U.S. House,,,Write-ins,2
+Albany,46-1,U.S. House,,,Over Votes,1
+Albany,46-1,U.S. House,,,Under Votes,28
+Albany,46-1,State Senate,10,REP,Gary E Crum,708
+Albany,46-1,State Senate,10,DEM,Mike Selmer,352
+Albany,46-1,State Senate,10,,Write-ins,4
+Albany,46-1,State Senate,10,,Over Votes,1
+Albany,46-1,State Senate,10,,Under Votes,28
+Albany,46-1,State House,46,REP,Ocean Andrew,679
+Albany,46-1,State House,46,DEM,Chris Lowry,366
+Albany,46-1,State House,46,,Write-ins,5
+Albany,46-1,State House,46,,Over Votes,1
+Albany,46-1,State House,46,,Under Votes,42
+Albany,46-1,Ballots Cast,,,Ballots Cast,1093
+Albany,46-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,46-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,196
+Albany,46-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Albany,46-1,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,112
+Albany,46-1,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,0
+Albany,46-1,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,193
+Albany,46-1,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,0
+Albany,46-1,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,169
+Albany,46-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Albany,46-1,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,171
+Albany,46-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Albany,46-1,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,173
+Albany,46-2,President,,REP,Donald J. Trump,526
+Albany,46-2,President,,DEM,Kamala D. Harris,367
+Albany,46-2,President,,LIB,Chase Oliver,16
+Albany,46-2,President,,,Write-ins,12
+Albany,46-2,President,,,Over Votes,0
+Albany,46-2,President,,,Under Votes,5
+Albany,46-2,U.S. Senate,,REP,John Barrasso,555
+Albany,46-2,U.S. Senate,,DEM,Scott D Morrow,342
+Albany,46-2,U.S. Senate,,,Write-ins,2
+Albany,46-2,U.S. Senate,,,Over Votes,0
+Albany,46-2,U.S. Senate,,,Under Votes,27
+Albany,46-2,U.S. House,,REP,Harriet Hageman,502
+Albany,46-2,U.S. House,,DEM,Kyle G. Cameron,334
+Albany,46-2,U.S. House,,LIB,Richard Brubaker,33
+Albany,46-2,U.S. House,,CTRY,Jeffrey Haggit,20
+Albany,46-2,U.S. House,,,Write-ins,1
+Albany,46-2,U.S. House,,,Over Votes,6
+Albany,46-2,U.S. House,,,Under Votes,30
+Albany,46-2,State Senate,10,REP,Gary E Crum,557
+Albany,46-2,State Senate,10,DEM,Mike Selmer,338
+Albany,46-2,State Senate,10,,Write-ins,2
+Albany,46-2,State Senate,10,,Over Votes,0
+Albany,46-2,State Senate,10,,Under Votes,29
+Albany,46-2,State House,46,REP,Ocean Andrew,542
+Albany,46-2,State House,46,DEM,Chris Lowry,342
+Albany,46-2,State House,46,,Write-ins,1
+Albany,46-2,State House,46,,Over Votes,0
+Albany,46-2,State House,46,,Under Votes,41
+Albany,46-2,Ballots Cast,,,Ballots Cast,926
+Albany,46-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,46-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,170
+Albany,46-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Albany,46-2,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,92
+Albany,46-2,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Over Votes,0
+Albany,46-2,"District Court Judge, Second Judicial District Dawnessa A. Snyder",,,Under Votes,171
+Albany,46-2,"District Court Judge, Second Judicial District Melissa Westby",,,Over Votes,0
+Albany,46-2,"District Court Judge, Second Judicial District Melissa Westby",,,Under Votes,153
+Albany,46-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Albany,46-2,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,151
+Albany,46-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Albany,46-2,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,152

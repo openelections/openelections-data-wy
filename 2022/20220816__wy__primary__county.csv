@@ -1,0 +1,2128 @@
+county,office,district,party,candidate,votes
+Albany,U.S. House,,REP,Anthony Bouchard,111
+Albany,U.S. House,,REP,Denton Knapp,65
+Albany,U.S. House,,REP,Harriet Hageman,3999
+Albany,U.S. House,,REP,Liz Cheney,4231
+Albany,U.S. House,,REP,Robyn M. Belinskey,40
+Albany,U.S. House,,REP,Write-ins,9
+Albany,U.S. House,,REP,Over Votes,13
+Albany,U.S. House,,REP,Under Votes,32
+Albany,U.S. House,,DEM,Lynnette GreyBull,838
+Albany,U.S. House,,DEM,Meghan R. Jensen,185
+Albany,U.S. House,,DEM,Steve Helling,86
+Albany,U.S. House,,DEM,Write-ins,35
+Albany,U.S. House,,DEM,Over Votes,5
+Albany,U.S. House,,DEM,Under Votes,77
+Albany,Governor,,REP,Brent Bien,1684
+Albany,Governor,,REP,James Scott Quick,193
+Albany,Governor,,REP,Mark Gordon,5666
+Albany,Governor,,REP,Rex Rammell,366
+Albany,Governor,,REP,Write-ins,35
+Albany,Governor,,REP,Over Votes,3
+Albany,Governor,,REP,Under Votes,553
+Albany,Governor,,DEM,Rex Wilde,182
+Albany,Governor,,DEM,Theresa A. Livingston,858
+Albany,Governor,,DEM,Write-ins,34
+Albany,Governor,,DEM,Over Votes,2
+Albany,Governor,,DEM,Under Votes,150
+Albany,Secretary of State,,REP,* Withdrawn Candidate,158
+Albany,Secretary of State,,REP,Chuck Gray,2576
+Albany,Secretary of State,,REP,Mark Armstrong,862
+Albany,Secretary of State,,REP,Tara Nethercott,3858
+Albany,Secretary of State,,REP,Write-ins,44
+Albany,Secretary of State,,REP,Over Votes,8
+Albany,Secretary of State,,REP,Under Votes,994
+Albany,Secretary of State,,DEM,Write-ins,113
+Albany,Secretary of State,,DEM,Over Votes,0
+Albany,Secretary of State,,DEM,Under Votes,1113
+Albany,State Auditor,,REP,Kristi Racines,6149
+Albany,State Auditor,,REP,Write-ins,61
+Albany,State Auditor,,REP,Over Votes,0
+Albany,State Auditor,,REP,Under Votes,2290
+Albany,State Auditor,,DEM,Write-ins,54
+Albany,State Treasurer,,REP,Bill Gallop,2063
+Albany,State Treasurer,,REP,Curt Meier,4328
+Albany,State Treasurer,,REP,Write-ins,59
+Albany,State Treasurer,,REP,Over Votes,0
+Albany,State Treasurer,,REP,Under Votes,2050
+Albany,State Treasurer,,DEM,Write-ins,70
+Albany,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,451
+Albany,Superintendent of Public Instruction,,REP,Brian Schroeder,2214
+Albany,Superintendent of Public Instruction,,REP,Jennifer Zerba,850
+Albany,Superintendent of Public Instruction,,REP,Megan Degenfelder,3222
+Albany,Superintendent of Public Instruction,,REP,Robert J. White III,184
+Albany,Superintendent of Public Instruction,,REP,Write-ins,60
+Albany,Superintendent of Public Instruction,,REP,Over Votes,18
+Albany,Superintendent of Public Instruction,,REP,Under Votes,1501
+Albany,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1021
+Albany,Superintendent of Public Instruction,,DEM,Write-ins,24
+Albany,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,Superintendent of Public Instruction,,DEM,Under Votes,181
+Albany,State Senate,9,REP,Diana Seabeck,1991
+Albany,State Senate,9,REP,Write-ins,70
+Albany,State Senate,9,REP,Over Votes,0
+Albany,State Senate,9,REP,Under Votes,1140
+Albany,State Senate,9,DEM,Chris Rothfuss,570
+Albany,State Senate,9,DEM,Write-ins,3
+Albany,State Senate,9,DEM,Over Votes,0
+Albany,State Senate,9,DEM,Under Votes,66
+Albany,State House,13,REP,Wayne B. Pinch,938
+Albany,State House,13,REP,Write-ins,29
+Albany,State House,13,REP,Over Votes,0
+Albany,State House,13,REP,Under Votes,541
+Albany,State House,13,DEM,Ken Chestek,211
+Albany,State House,13,DEM,Write-ins,4
+Albany,State House,13,DEM,Over Votes,0
+Albany,State House,13,DEM,Under Votes,23
+Albany,State House,14,REP,Bryan Shuster,1060
+Albany,State House,14,REP,Julie McCallister,936
+Albany,State House,14,REP,Write-ins,32
+Albany,State House,14,REP,Over Votes,3
+Albany,State House,14,REP,Under Votes,487
+Albany,State House,14,DEM,Trey Sherwood,319
+Albany,State House,14,DEM,Write-ins,2
+Albany,State House,14,DEM,Over Votes,0
+Albany,State House,14,DEM,Under Votes,23
+Albany,State House,45,REP,Write-ins,177
+Albany,State House,45,REP,Over Votes,0
+Albany,State House,45,REP,Under Votes,1516
+Albany,State House,45,DEM,Karlee Provenza,363
+Albany,State House,45,DEM,Write-ins,2
+Albany,State House,45,DEM,Over Votes,0
+Albany,State House,45,DEM,Under Votes,36
+Albany,State House,46,REP,Ocean Andrew,1816
+Albany,State House,46,REP,"Richard ""RJ"" Lennox",578
+Albany,State House,46,REP,Write-ins,14
+Albany,State House,46,REP,Over Votes,1
+Albany,State House,46,REP,Under Votes,372
+Albany,State House,46,DEM,Merav Ben-David,213
+Albany,State House,46,DEM,Write-ins,3
+Albany,State House,46,DEM,Over Votes,0
+Albany,State House,46,DEM,Under Votes,27
+Albany,Ballots Cast,,REP,Ballots Cast,8500
+Albany,Ballots Cast,,DEM,Ballots Cast,1226
+Albany,Ballots Cast,,NP,Ballots Cast,203
+Albany,Ballots Cast,,,Ballots Cast,9929
+Big Horn,U.S. House,,REP,Anthony Bouchard,123
+Big Horn,U.S. House,,REP,Denton Knapp,48
+Big Horn,U.S. House,,REP,Harriet Hageman,3123
+Big Horn,U.S. House,,REP,Liz Cheney,732
+Big Horn,U.S. House,,REP,Robyn M. Belinskey,78
+Big Horn,U.S. House,,REP,Write-ins,5
+Big Horn,U.S. House,,REP,Over Votes,13
+Big Horn,U.S. House,,REP,Under Votes,28
+Big Horn,U.S. House,,DEM,Lynnette GreyBull,50
+Big Horn,U.S. House,,DEM,Meghan R. Jensen,18
+Big Horn,U.S. House,,DEM,Steve Helling,9
+Big Horn,U.S. House,,DEM,Write-ins,0
+Big Horn,U.S. House,,DEM,Over Votes,1
+Big Horn,U.S. House,,DEM,Under Votes,4
+Big Horn,Governor,,REP,Brent Bien,1058
+Big Horn,Governor,,REP,James Scott Quick,71
+Big Horn,Governor,,REP,Mark Gordon,2448
+Big Horn,Governor,,REP,Rex Rammell,420
+Big Horn,Governor,,REP,Write-ins,6
+Big Horn,Governor,,REP,Over Votes,4
+Big Horn,Governor,,REP,Under Votes,143
+Big Horn,Governor,,DEM,Rex Wilde,19
+Big Horn,Governor,,DEM,Theresa A. Livingston,50
+Big Horn,Governor,,DEM,Write-ins,1
+Big Horn,Governor,,DEM,Over Votes,1
+Big Horn,Governor,,DEM,Under Votes,11
+Big Horn,Secretary of State,,REP,* Withdrawn Candidate,92
+Big Horn,Secretary of State,,REP,Chuck Gray,1908
+Big Horn,Secretary of State,,REP,Mark Armstrong,496
+Big Horn,Secretary of State,,REP,Tara Nethercott,1267
+Big Horn,Secretary of State,,REP,Write-ins,7
+Big Horn,Secretary of State,,REP,Over Votes,8
+Big Horn,Secretary of State,,REP,Under Votes,372
+Big Horn,Secretary of State,,DEM,Write-ins,4
+Big Horn,Secretary of State,,DEM,Over Votes,0
+Big Horn,Secretary of State,,DEM,Under Votes,78
+Big Horn,State Auditor,,REP,Kristi Racines,3447
+Big Horn,State Auditor,,REP,Write-ins,17
+Big Horn,State Auditor,,REP,Over Votes,1
+Big Horn,State Auditor,,REP,Under Votes,685
+Big Horn,State Auditor,,DEM,Write-ins,3
+Big Horn,State Treasurer,,REP,Bill Gallop,897
+Big Horn,State Treasurer,,REP,Curt Meier,2591
+Big Horn,State Treasurer,,REP,Write-ins,9
+Big Horn,State Treasurer,,REP,Over Votes,0
+Big Horn,State Treasurer,,REP,Under Votes,653
+Big Horn,State Treasurer,,DEM,Write-ins,3
+Big Horn,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,350
+Big Horn,Superintendent of Public Instruction,,REP,Brian Schroeder,1545
+Big Horn,Superintendent of Public Instruction,,REP,Jennifer Zerba,266
+Big Horn,Superintendent of Public Instruction,,REP,Megan Degenfelder,1301
+Big Horn,Superintendent of Public Instruction,,REP,Robert J. White III,113
+Big Horn,Superintendent of Public Instruction,,REP,Write-ins,12
+Big Horn,Superintendent of Public Instruction,,REP,Over Votes,12
+Big Horn,Superintendent of Public Instruction,,REP,Under Votes,551
+Big Horn,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",59
+Big Horn,Superintendent of Public Instruction,,DEM,Write-ins,0
+Big Horn,Superintendent of Public Instruction,,DEM,Over Votes,1
+Big Horn,Superintendent of Public Instruction,,DEM,Under Votes,22
+Big Horn,State Senate,19,REP,Dan Laursen,883
+Big Horn,State Senate,19,REP,R. J. Kost,729
+Big Horn,State Senate,19,REP,R. Ray Peterson,1161
+Big Horn,State Senate,19,REP,Write-ins,8
+Big Horn,State Senate,19,REP,Over Votes,2
+Big Horn,State Senate,19,REP,Under Votes,112
+Big Horn,State Senate,19,DEM,Write-ins,4
+Big Horn,State House,26,REP,Dalton Banks,1100
+Big Horn,State House,26,REP,Gary Welch,458
+Big Horn,State House,26,REP,Tim J. Beck,800
+Big Horn,State House,26,REP,Timothy Mills,268
+Big Horn,State House,26,REP,Write-ins,14
+Big Horn,State House,26,REP,Over Votes,30
+Big Horn,State House,26,REP,Under Votes,225
+Big Horn,State House,26,DEM,Write-ins,4
+Big Horn,State House,26,DEM,Over Votes,0
+Big Horn,State House,26,DEM,Under Votes,60
+Big Horn,State House,27,REP,Martha Lawley,408
+Big Horn,State House,27,REP,Write-ins,2
+Big Horn,State House,27,REP,Over Votes,0
+Big Horn,State House,27,REP,Under Votes,87
+Big Horn,State House,27,DEM,Write-ins,0
+Big Horn,State House,28,REP,John R. Winter,647
+Big Horn,State House,28,REP,Write-ins,5
+Big Horn,State House,28,REP,Over Votes,0
+Big Horn,State House,28,REP,Under Votes,106
+Big Horn,State House,28,DEM,Kimberly M. Bartlett,6
+Big Horn,State House,28,DEM,Write-ins,0
+Big Horn,State House,28,DEM,Over Votes,0
+Big Horn,State House,28,DEM,Under Votes,1
+Big Horn,Ballots Cast,,REP,Ballots Cast,4150
+Big Horn,Ballots Cast,,DEM,Ballots Cast,82
+Big Horn,Ballots Cast,,NP,Ballots Cast,47
+Big Horn,Ballots Cast,,,Ballots Cast,4279
+Campbell,U.S. House,,REP,Anthony Bouchard,347
+Campbell,U.S. House,,REP,Denton Knapp,789
+Campbell,U.S. House,,REP,Harriet Hageman,9171
+Campbell,U.S. House,,REP,Liz Cheney,1633
+Campbell,U.S. House,,REP,Robyn M. Belinskey,71
+Campbell,U.S. House,,REP,Write-ins,5
+Campbell,U.S. House,,REP,Over Votes,65
+Campbell,U.S. House,,REP,Under Votes,77
+Campbell,U.S. House,,DEM,Lynnette GreyBull,68
+Campbell,U.S. House,,DEM,Meghan R. Jensen,46
+Campbell,U.S. House,,DEM,Steve Helling,18
+Campbell,U.S. House,,DEM,Write-ins,7
+Campbell,U.S. House,,DEM,Over Votes,5
+Campbell,U.S. House,,DEM,Under Votes,10
+Campbell,Governor,,REP,Brent Bien,5693
+Campbell,Governor,,REP,James Scott Quick,321
+Campbell,Governor,,REP,Mark Gordon,5033
+Campbell,Governor,,REP,Rex Rammell,651
+Campbell,Governor,,REP,Write-ins,11
+Campbell,Governor,,REP,Over Votes,5
+Campbell,Governor,,REP,Under Votes,444
+Campbell,Governor,,DEM,Rex Wilde,40
+Campbell,Governor,,DEM,Theresa A. Livingston,91
+Campbell,Governor,,DEM,Write-ins,5
+Campbell,Governor,,DEM,Over Votes,1
+Campbell,Governor,,DEM,Under Votes,17
+Campbell,Secretary of State,,REP,* Withdrawn Candidate,198
+Campbell,Secretary of State,,REP,Chuck Gray,6288
+Campbell,Secretary of State,,REP,Mark Armstrong,1067
+Campbell,Secretary of State,,REP,Tara Nethercott,3454
+Campbell,Secretary of State,,REP,Write-ins,13
+Campbell,Secretary of State,,REP,Over Votes,16
+Campbell,Secretary of State,,REP,Under Votes,1122
+Campbell,Secretary of State,,DEM,Write-ins,12
+Campbell,Secretary of State,,DEM,Over Votes,0
+Campbell,Secretary of State,,DEM,Under Votes,142
+Campbell,State Auditor,,REP,Kristi Racines,9625
+Campbell,State Auditor,,REP,Write-ins,49
+Campbell,State Auditor,,REP,Over Votes,1
+Campbell,State Auditor,,REP,Under Votes,2483
+Campbell,State Auditor,,DEM,Write-ins,6
+Campbell,State Treasurer,,REP,Bill Gallop,2823
+Campbell,State Treasurer,,REP,Curt Meier,6934
+Campbell,State Treasurer,,REP,Write-ins,36
+Campbell,State Treasurer,,REP,Over Votes,7
+Campbell,State Treasurer,,REP,Under Votes,2358
+Campbell,State Treasurer,,DEM,Write-ins,7
+Campbell,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,835
+Campbell,Superintendent of Public Instruction,,REP,Brian Schroeder,4356
+Campbell,Superintendent of Public Instruction,,REP,Jennifer Zerba,885
+Campbell,Superintendent of Public Instruction,,REP,Megan Degenfelder,3867
+Campbell,Superintendent of Public Instruction,,REP,Robert J. White III,285
+Campbell,Superintendent of Public Instruction,,REP,Write-ins,23
+Campbell,Superintendent of Public Instruction,,REP,Over Votes,26
+Campbell,Superintendent of Public Instruction,,REP,Under Votes,1881
+Campbell,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",123
+Campbell,Superintendent of Public Instruction,,DEM,Write-ins,2
+Campbell,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,Superintendent of Public Instruction,,DEM,Under Votes,29
+Campbell,State Senate,1,REP,Bill Fortner,992
+Campbell,State Senate,1,REP,Ogden Driskill,826
+Campbell,State Senate,1,REP,Roger Connett,575
+Campbell,State Senate,1,REP,Write-ins,7
+Campbell,State Senate,1,REP,Over Votes,3
+Campbell,State Senate,1,REP,Under Votes,133
+Campbell,State Senate,1,DEM,Write-ins,5
+Campbell,State Senate,23,REP,Eric Barlow,3355
+Campbell,State Senate,23,REP,Write-ins,814
+Campbell,State Senate,23,REP,Over Votes,4
+Campbell,State Senate,23,REP,Under Votes,805
+Campbell,State Senate,23,DEM,Write-ins,8
+Campbell,State House,3,REP,Abby Angelos,1725
+Campbell,State House,3,REP,Rusty Bell,1112
+Campbell,State House,3,REP,Write-ins,2
+Campbell,State House,3,REP,Over Votes,3
+Campbell,State House,3,REP,Under Votes,96
+Campbell,State House,3,DEM,Write-ins,0
+Campbell,State House,31,REP,John Bear,1669
+Campbell,State House,31,REP,Write-ins,47
+Campbell,State House,31,REP,Over Votes,1
+Campbell,State House,31,REP,Under Votes,323
+Campbell,State House,31,DEM,Write-ins,6
+Campbell,State House,32,REP,Ken Clouston,1492
+Campbell,State House,32,REP,Timothy P. Hallinan,1079
+Campbell,State House,32,REP,Write-ins,9
+Campbell,State House,32,REP,Over Votes,2
+Campbell,State House,32,REP,Under Votes,171
+Campbell,State House,32,DEM,Write-ins,0
+Campbell,State House,52,REP,Reuben Tarver,1338
+Campbell,State House,52,REP,Ronda Boller,972
+Campbell,State House,52,REP,Write-ins,5
+Campbell,State House,52,REP,Over Votes,5
+Campbell,State House,52,REP,Under Votes,216
+Campbell,State House,52,DEM,Write-ins,2
+Campbell,State House,53,REP,Christopher R. Knapp,1534
+Campbell,State House,53,REP,Write-ins,22
+Campbell,State House,53,REP,Over Votes,0
+Campbell,State House,53,REP,Under Votes,335
+Campbell,State House,53,DEM,Write-ins,2
+Campbell,Ballots Cast,,REP,Ballots Cast,12158
+Campbell,Ballots Cast,,DEM,Ballots Cast,154
+Campbell,Ballots Cast,,NP,Ballots Cast,125
+Campbell,Ballots Cast,,,Ballots Cast,12437
+Carbon,U.S. House,,REP,Anthony Bouchard,173
+Carbon,U.S. House,,REP,Denton Knapp,49
+Carbon,U.S. House,,REP,Harriet Hageman,2852
+Carbon,U.S. House,,REP,Liz Cheney,819
+Carbon,U.S. House,,REP,Robyn M. Belinskey,38
+Carbon,U.S. House,,REP,Write-ins,6
+Carbon,U.S. House,,REP,Over Votes,23
+Carbon,U.S. House,,REP,Under Votes,33
+Carbon,U.S. House,,DEM,Lynnette GreyBull,138
+Carbon,U.S. House,,DEM,Meghan R. Jensen,74
+Carbon,U.S. House,,DEM,Steve Helling,40
+Carbon,U.S. House,,DEM,Write-ins,9
+Carbon,U.S. House,,DEM,Over Votes,6
+Carbon,U.S. House,,DEM,Under Votes,37
+Carbon,Governor,,REP,Brent Bien,960
+Carbon,Governor,,REP,James Scott Quick,132
+Carbon,Governor,,REP,Mark Gordon,2437
+Carbon,Governor,,REP,Rex Rammell,278
+Carbon,Governor,,REP,Write-ins,12
+Carbon,Governor,,REP,Over Votes,2
+Carbon,Governor,,REP,Under Votes,172
+Carbon,Governor,,DEM,Rex Wilde,94
+Carbon,Governor,,DEM,Theresa A. Livingston,154
+Carbon,Governor,,DEM,Write-ins,6
+Carbon,Governor,,DEM,Over Votes,1
+Carbon,Governor,,DEM,Under Votes,49
+Carbon,Secretary of State,,REP,* Withdrawn Candidate,95
+Carbon,Secretary of State,,REP,Chuck Gray,1881
+Carbon,Secretary of State,,REP,Mark Armstrong,491
+Carbon,Secretary of State,,REP,Tara Nethercott,1138
+Carbon,Secretary of State,,REP,Write-ins,15
+Carbon,Secretary of State,,REP,Over Votes,11
+Carbon,Secretary of State,,REP,Under Votes,362
+Carbon,Secretary of State,,DEM,Write-ins,16
+Carbon,Secretary of State,,DEM,Over Votes,0
+Carbon,Secretary of State,,DEM,Under Votes,288
+Carbon,State Auditor,,REP,Kristi Racines,3231
+Carbon,State Auditor,,REP,Write-ins,26
+Carbon,State Auditor,,REP,Over Votes,1
+Carbon,State Auditor,,REP,Under Votes,735
+Carbon,State Auditor,,DEM,Write-ins,8
+Carbon,State Treasurer,,REP,Bill Gallop,1041
+Carbon,State Treasurer,,REP,Curt Meier,2304
+Carbon,State Treasurer,,REP,Write-ins,20
+Carbon,State Treasurer,,REP,Over Votes,2
+Carbon,State Treasurer,,REP,Under Votes,626
+Carbon,State Treasurer,,DEM,Write-ins,11
+Carbon,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,445
+Carbon,Superintendent of Public Instruction,,REP,Brian Schroeder,1268
+Carbon,Superintendent of Public Instruction,,REP,Jennifer Zerba,355
+Carbon,Superintendent of Public Instruction,,REP,Megan Degenfelder,1184
+Carbon,Superintendent of Public Instruction,,REP,Robert J. White III,133
+Carbon,Superintendent of Public Instruction,,REP,Write-ins,25
+Carbon,Superintendent of Public Instruction,,REP,Over Votes,14
+Carbon,Superintendent of Public Instruction,,REP,Under Votes,569
+Carbon,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",221
+Carbon,Superintendent of Public Instruction,,DEM,Write-ins,6
+Carbon,Superintendent of Public Instruction,,DEM,Over Votes,0
+Carbon,Superintendent of Public Instruction,,DEM,Under Votes,77
+Carbon,State Senate,11,REP,Larry Hicks,3125
+Carbon,State Senate,11,REP,Write-ins,110
+Carbon,State Senate,11,REP,Over Votes,1
+Carbon,State Senate,11,REP,Under Votes,757
+Carbon,State Senate,11,DEM,Write-ins,13
+Carbon,State House,15,REP,Donald Burkhart,1519
+Carbon,State House,15,REP,Write-ins,52
+Carbon,State House,15,REP,Over Votes,0
+Carbon,State House,15,REP,Under Votes,284
+Carbon,State House,15,DEM,Write-ins,14
+Carbon,State House,47,REP,Clyde R. Johnson,892
+Carbon,State House,47,REP,"Robert ""Bob"" Davis",1031
+Carbon,State House,47,REP,Write-ins,12
+Carbon,State House,47,REP,Over Votes,0
+Carbon,State House,47,REP,Under Votes,203
+Carbon,State House,47,DEM,Lee Ann Stephenson,92
+Carbon,State House,47,DEM,Write-ins,0
+Carbon,State House,47,DEM,Over Votes,0
+Carbon,State House,47,DEM,Under Votes,13
+Carbon,Ballots Cast,,REP,Ballots Cast,3993
+Carbon,Ballots Cast,,DEM,Ballots Cast,304
+Carbon,Ballots Cast,,NP,Ballots Cast,102
+Carbon,Ballots Cast,,,Ballots Cast,4399
+Converse,U.S. House,,REP,Anthony Bouchard,164
+Converse,U.S. House,,REP,Denton Knapp,45
+Converse,U.S. House,,REP,Harriet Hageman,3829
+Converse,U.S. House,,REP,Liz Cheney,822
+Converse,U.S. House,,REP,Robyn M. Belinskey,45
+Converse,U.S. House,,REP,Write-ins,1
+Converse,U.S. House,,REP,Over Votes,23
+Converse,U.S. House,,REP,Under Votes,23
+Converse,U.S. House,,DEM,Lynnette GreyBull,34
+Converse,U.S. House,,DEM,Meghan R. Jensen,27
+Converse,U.S. House,,DEM,Steve Helling,12
+Converse,U.S. House,,DEM,Write-ins,8
+Converse,U.S. House,,DEM,Over Votes,2
+Converse,U.S. House,,DEM,Under Votes,5
+Converse,Governor,,REP,Brent Bien,1568
+Converse,Governor,,REP,James Scott Quick,559
+Converse,Governor,,REP,Mark Gordon,2376
+Converse,Governor,,REP,Rex Rammell,272
+Converse,Governor,,REP,Write-ins,5
+Converse,Governor,,REP,Over Votes,2
+Converse,Governor,,REP,Under Votes,170
+Converse,Governor,,DEM,Rex Wilde,28
+Converse,Governor,,DEM,Theresa A. Livingston,46
+Converse,Governor,,DEM,Write-ins,5
+Converse,Governor,,DEM,Over Votes,0
+Converse,Governor,,DEM,Under Votes,9
+Converse,Secretary of State,,REP,* Withdrawn Candidate,57
+Converse,Secretary of State,,REP,Chuck Gray,2805
+Converse,Secretary of State,,REP,Mark Armstrong,413
+Converse,Secretary of State,,REP,Tara Nethercott,1402
+Converse,Secretary of State,,REP,Write-ins,5
+Converse,Secretary of State,,REP,Over Votes,3
+Converse,Secretary of State,,REP,Under Votes,267
+Converse,Secretary of State,,DEM,Write-ins,4
+Converse,Secretary of State,,DEM,Over Votes,0
+Converse,Secretary of State,,DEM,Under Votes,84
+Converse,State Auditor,,REP,Kristi Racines,4052
+Converse,State Auditor,,REP,Write-ins,12
+Converse,State Auditor,,REP,Over Votes,1
+Converse,State Auditor,,REP,Under Votes,887
+Converse,State Auditor,,DEM,Write-ins,3
+Converse,State Treasurer,,REP,Bill Gallop,1074
+Converse,State Treasurer,,REP,Curt Meier,3047
+Converse,State Treasurer,,REP,Write-ins,7
+Converse,State Treasurer,,REP,Over Votes,0
+Converse,State Treasurer,,REP,Under Votes,824
+Converse,State Treasurer,,DEM,Write-ins,4
+Converse,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,306
+Converse,Superintendent of Public Instruction,,REP,Brian Schroeder,1878
+Converse,Superintendent of Public Instruction,,REP,Jennifer Zerba,337
+Converse,Superintendent of Public Instruction,,REP,Megan Degenfelder,1718
+Converse,Superintendent of Public Instruction,,REP,Robert J. White III,162
+Converse,Superintendent of Public Instruction,,REP,Write-ins,7
+Converse,Superintendent of Public Instruction,,REP,Over Votes,16
+Converse,Superintendent of Public Instruction,,REP,Under Votes,528
+Converse,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",64
+Converse,Superintendent of Public Instruction,,DEM,Write-ins,2
+Converse,Superintendent of Public Instruction,,DEM,Over Votes,1
+Converse,Superintendent of Public Instruction,,DEM,Under Votes,21
+Converse,State House,6,REP,Aaron Clausen,1667
+Converse,State House,6,REP,Tomi Strock,1723
+Converse,State House,6,REP,Write-ins,6
+Converse,State House,6,REP,Over Votes,3
+Converse,State House,6,REP,Under Votes,171
+Converse,State House,6,DEM,Tania Malone,48
+Converse,State House,6,DEM,Write-ins,1
+Converse,State House,6,DEM,Over Votes,0
+Converse,State House,6,DEM,Under Votes,11
+Converse,State House,62,REP,Forrest Chadwick,599
+Converse,State House,62,REP,Stan Mitchem,649
+Converse,State House,62,REP,Write-ins,1
+Converse,State House,62,REP,Over Votes,3
+Converse,State House,62,REP,Under Votes,130
+Converse,State House,62,DEM,Write-ins,1
+Converse,Ballots Cast,,REP,Ballots Cast,4952
+Converse,Ballots Cast,,DEM,Ballots Cast,88
+Converse,Ballots Cast,,NP,Ballots Cast,44
+Converse,Ballots Cast,,,Ballots Cast,5084
+Crook,U.S. House,,REP,Anthony Bouchard,98
+Crook,U.S. House,,REP,Denton Knapp,55
+Crook,U.S. House,,REP,Harriet Hageman,2370
+Crook,U.S. House,,REP,Liz Cheney,403
+Crook,U.S. House,,REP,Robyn M. Belinskey,31
+Crook,U.S. House,,REP,Write-ins,2
+Crook,U.S. House,,REP,Over Votes,20
+Crook,U.S. House,,REP,Under Votes,22
+Crook,U.S. House,,DEM,Lynnette GreyBull,23
+Crook,U.S. House,,DEM,Meghan R. Jensen,13
+Crook,U.S. House,,DEM,Steve Helling,7
+Crook,U.S. House,,DEM,Write-ins,2
+Crook,U.S. House,,DEM,Over Votes,0
+Crook,U.S. House,,DEM,Under Votes,2
+Crook,Governor,,REP,Brent Bien,1369
+Crook,Governor,,REP,James Scott Quick,84
+Crook,Governor,,REP,Mark Gordon,1306
+Crook,Governor,,REP,Rex Rammell,142
+Crook,Governor,,REP,Write-ins,6
+Crook,Governor,,REP,Over Votes,2
+Crook,Governor,,REP,Under Votes,92
+Crook,Governor,,DEM,Rex Wilde,7
+Crook,Governor,,DEM,Theresa A. Livingston,35
+Crook,Governor,,DEM,Write-ins,1
+Crook,Governor,,DEM,Over Votes,0
+Crook,Governor,,DEM,Under Votes,4
+Crook,Secretary of State,,REP,* Withdrawn Candidate,45
+Crook,Secretary of State,,REP,Chuck Gray,1661
+Crook,Secretary of State,,REP,Mark Armstrong,233
+Crook,Secretary of State,,REP,Tara Nethercott,837
+Crook,Secretary of State,,REP,Write-ins,7
+Crook,Secretary of State,,REP,Over Votes,3
+Crook,Secretary of State,,REP,Under Votes,215
+Crook,Secretary of State,,DEM,Write-ins,0
+Crook,Secretary of State,,DEM,Over Votes,0
+Crook,Secretary of State,,DEM,Under Votes,47
+Crook,State Auditor,,REP,Kristi Racines,2356
+Crook,State Auditor,,REP,Write-ins,12
+Crook,State Auditor,,REP,Over Votes,0
+Crook,State Auditor,,REP,Under Votes,633
+Crook,State Auditor,,DEM,Write-ins,0
+Crook,State Treasurer,,REP,Bill Gallop,662
+Crook,State Treasurer,,REP,Curt Meier,1789
+Crook,State Treasurer,,REP,Write-ins,4
+Crook,State Treasurer,,REP,Over Votes,1
+Crook,State Treasurer,,REP,Under Votes,545
+Crook,State Treasurer,,DEM,Write-ins,0
+Crook,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,239
+Crook,Superintendent of Public Instruction,,REP,Brian Schroeder,1216
+Crook,Superintendent of Public Instruction,,REP,Jennifer Zerba,195
+Crook,Superintendent of Public Instruction,,REP,Megan Degenfelder,747
+Crook,Superintendent of Public Instruction,,REP,Robert J. White III,82
+Crook,Superintendent of Public Instruction,,REP,Write-ins,7
+Crook,Superintendent of Public Instruction,,REP,Over Votes,2
+Crook,Superintendent of Public Instruction,,REP,Under Votes,513
+Crook,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",35
+Crook,Superintendent of Public Instruction,,DEM,Write-ins,0
+Crook,Superintendent of Public Instruction,,DEM,Over Votes,0
+Crook,Superintendent of Public Instruction,,DEM,Under Votes,12
+Crook,State Senate,1,REP,Bill Fortner,517
+Crook,State Senate,1,REP,Ogden Driskill,1266
+Crook,State Senate,1,REP,Roger Connett,1129
+Crook,State Senate,1,REP,Write-ins,2
+Crook,State Senate,1,REP,Over Votes,5
+Crook,State Senate,1,REP,Under Votes,82
+Crook,State Senate,1,DEM,Write-ins,1
+Crook,State House,1,REP,Chip Neiman,2457
+Crook,State House,1,REP,Write-ins,87
+Crook,State House,1,REP,Over Votes,0
+Crook,State House,1,REP,Under Votes,457
+Crook,State House,1,DEM,Write-ins,0
+Crook,Ballots Cast,,REP,Ballots Cast,3001
+Crook,Ballots Cast,,DEM,Ballots Cast,47
+Crook,Ballots Cast,,NP,Ballots Cast,10
+Crook,Ballots Cast,,,Ballots Cast,3058
+Fremont,U.S. House,,REP,Anthony Bouchard,260
+Fremont,U.S. House,,REP,Denton Knapp,77
+Fremont,U.S. House,,REP,Harriet Hageman,7383
+Fremont,U.S. House,,REP,Liz Cheney,3460
+Fremont,U.S. House,,REP,Robyn M. Belinskey,46
+Fremont,U.S. House,,REP,Write-ins,9
+Fremont,U.S. House,,REP,Over Votes,24
+Fremont,U.S. House,,REP,Under Votes,41
+Fremont,U.S. House,,DEM,Lynnette GreyBull,356
+Fremont,U.S. House,,DEM,Meghan R. Jensen,110
+Fremont,U.S. House,,DEM,Steve Helling,58
+Fremont,U.S. House,,DEM,Write-ins,18
+Fremont,U.S. House,,DEM,Over Votes,5
+Fremont,U.S. House,,DEM,Under Votes,25
+Fremont,Governor,,REP,Brent Bien,3491
+Fremont,Governor,,REP,James Scott Quick,188
+Fremont,Governor,,REP,Mark Gordon,6712
+Fremont,Governor,,REP,Rex Rammell,515
+Fremont,Governor,,REP,Write-ins,19
+Fremont,Governor,,REP,Over Votes,5
+Fremont,Governor,,REP,Under Votes,370
+Fremont,Governor,,DEM,Rex Wilde,121
+Fremont,Governor,,DEM,Theresa A. Livingston,350
+Fremont,Governor,,DEM,Write-ins,17
+Fremont,Governor,,DEM,Over Votes,2
+Fremont,Governor,,DEM,Under Votes,82
+Fremont,Secretary of State,,REP,* Withdrawn Candidate,156
+Fremont,Secretary of State,,REP,Chuck Gray,4893
+Fremont,Secretary of State,,REP,Mark Armstrong,668
+Fremont,Secretary of State,,REP,Tara Nethercott,4817
+Fremont,Secretary of State,,REP,Write-ins,18
+Fremont,Secretary of State,,REP,Over Votes,11
+Fremont,Secretary of State,,REP,Under Votes,737
+Fremont,Secretary of State,,DEM,Write-ins,34
+Fremont,Secretary of State,,DEM,Over Votes,0
+Fremont,Secretary of State,,DEM,Under Votes,538
+Fremont,State Auditor,,REP,Kristi Racines,8882
+Fremont,State Auditor,,REP,Write-ins,76
+Fremont,State Auditor,,REP,Over Votes,0
+Fremont,State Auditor,,REP,Under Votes,2342
+Fremont,State Auditor,,DEM,Write-ins,25
+Fremont,State Treasurer,,REP,Bill Gallop,2406
+Fremont,State Treasurer,,REP,Curt Meier,6848
+Fremont,State Treasurer,,REP,Write-ins,57
+Fremont,State Treasurer,,REP,Over Votes,1
+Fremont,State Treasurer,,REP,Under Votes,1988
+Fremont,State Treasurer,,DEM,Write-ins,26
+Fremont,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,749
+Fremont,Superintendent of Public Instruction,,REP,Brian Schroeder,3174
+Fremont,Superintendent of Public Instruction,,REP,Jennifer Zerba,802
+Fremont,Superintendent of Public Instruction,,REP,Megan Degenfelder,4646
+Fremont,Superintendent of Public Instruction,,REP,Robert J. White III,296
+Fremont,Superintendent of Public Instruction,,REP,Write-ins,57
+Fremont,Superintendent of Public Instruction,,REP,Over Votes,9
+Fremont,Superintendent of Public Instruction,,REP,Under Votes,1567
+Fremont,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",447
+Fremont,Superintendent of Public Instruction,,DEM,Write-ins,10
+Fremont,Superintendent of Public Instruction,,DEM,Over Votes,1
+Fremont,Superintendent of Public Instruction,,DEM,Under Votes,114
+Fremont,State Senate,25,REP,Cale Case,2633
+Fremont,State Senate,25,REP,Shawn J. Olmstead,2152
+Fremont,State Senate,25,REP,Write-ins,12
+Fremont,State Senate,25,REP,Over Votes,0
+Fremont,State Senate,25,REP,Under Votes,319
+Fremont,State Senate,25,DEM,Write-ins,15
+Fremont,State House,28,REP,John R. Winter,235
+Fremont,State House,28,REP,Write-ins,1
+Fremont,State House,28,REP,Over Votes,0
+Fremont,State House,28,REP,Under Votes,35
+Fremont,State House,28,DEM,Kimberly M. Bartlett,7
+Fremont,State House,28,DEM,Write-ins,0
+Fremont,State House,28,DEM,Over Votes,0
+Fremont,State House,28,DEM,Under Votes,2
+Fremont,State House,33,REP,Sarah Penn,843
+Fremont,State House,33,REP,Valaira Whiteman,250
+Fremont,State House,33,REP,Wade Warren LeBeau,138
+Fremont,State House,33,REP,Write-ins,10
+Fremont,State House,33,REP,Over Votes,1
+Fremont,State House,33,REP,Under Votes,157
+Fremont,State House,33,DEM,Andi LeBeau,133
+Fremont,State House,33,DEM,Write-ins,5
+Fremont,State House,33,DEM,Over Votes,0
+Fremont,State House,33,DEM,Under Votes,22
+Fremont,State House,34,REP,Pepper L. Ottman,2797
+Fremont,State House,34,REP,Write-ins,33
+Fremont,State House,34,REP,Over Votes,0
+Fremont,State House,34,REP,Under Votes,563
+Fremont,State House,34,DEM,Write-ins,7
+Fremont,State House,54,REP,Lloyd Charles Larsen,2641
+Fremont,State House,54,REP,Write-ins,218
+Fremont,State House,54,REP,Over Votes,0
+Fremont,State House,54,REP,Under Votes,858
+Fremont,State House,54,DEM,Write-ins,8
+Fremont,State House,55,REP,Ember Oakley,1953
+Fremont,State House,55,REP,Write-ins,104
+Fremont,State House,55,REP,Over Votes,0
+Fremont,State House,55,REP,Under Votes,462
+Fremont,State House,55,DEM,Write-ins,4
+Fremont,Ballots Cast,,REP,Ballots Cast,11300
+Fremont,Ballots Cast,,DEM,Ballots Cast,572
+Fremont,Ballots Cast,,NP,Ballots Cast,126
+Fremont,Ballots Cast,,,Ballots Cast,11998
+Goshen,U.S. House,,REP,Anthony Bouchard,96
+Goshen,U.S. House,,REP,Denton Knapp,29
+Goshen,U.S. House,,REP,Harriet Hageman,3356
+Goshen,U.S. House,,REP,Liz Cheney,958
+Goshen,U.S. House,,REP,Robyn M. Belinskey,17
+Goshen,U.S. House,,REP,Write-ins,1
+Goshen,U.S. House,,REP,Over Votes,3
+Goshen,U.S. House,,REP,Under Votes,12
+Goshen,U.S. House,,DEM,Lynnette GreyBull,88
+Goshen,U.S. House,,DEM,Meghan R. Jensen,35
+Goshen,U.S. House,,DEM,Steve Helling,15
+Goshen,U.S. House,,DEM,Write-ins,4
+Goshen,U.S. House,,DEM,Over Votes,0
+Goshen,U.S. House,,DEM,Under Votes,12
+Goshen,Governor,,REP,Brent Bien,1341
+Goshen,Governor,,REP,James Scott Quick,140
+Goshen,Governor,,REP,Mark Gordon,2620
+Goshen,Governor,,REP,Rex Rammell,248
+Goshen,Governor,,REP,Write-ins,6
+Goshen,Governor,,REP,Over Votes,1
+Goshen,Governor,,REP,Under Votes,116
+Goshen,Governor,,DEM,Rex Wilde,41
+Goshen,Governor,,DEM,Theresa A. Livingston,85
+Goshen,Governor,,DEM,Write-ins,5
+Goshen,Governor,,DEM,Over Votes,0
+Goshen,Governor,,DEM,Under Votes,23
+Goshen,Secretary of State,,REP,* Withdrawn Candidate,90
+Goshen,Secretary of State,,REP,Chuck Gray,2450
+Goshen,Secretary of State,,REP,Mark Armstrong,435
+Goshen,Secretary of State,,REP,Tara Nethercott,1216
+Goshen,Secretary of State,,REP,Write-ins,8
+Goshen,Secretary of State,,REP,Over Votes,5
+Goshen,Secretary of State,,REP,Under Votes,268
+Goshen,Secretary of State,,DEM,Write-ins,2
+Goshen,Secretary of State,,DEM,Over Votes,0
+Goshen,Secretary of State,,DEM,Under Votes,152
+Goshen,State Auditor,,REP,Kristi Racines,3742
+Goshen,State Auditor,,REP,Write-ins,20
+Goshen,State Auditor,,REP,Over Votes,0
+Goshen,State Auditor,,REP,Under Votes,710
+Goshen,State Auditor,,DEM,Write-ins,2
+Goshen,State Treasurer,,REP,Bill Gallop,806
+Goshen,State Treasurer,,REP,Curt Meier,3328
+Goshen,State Treasurer,,REP,Write-ins,8
+Goshen,State Treasurer,,REP,Over Votes,0
+Goshen,State Treasurer,,REP,Under Votes,330
+Goshen,State Treasurer,,DEM,Write-ins,1
+Goshen,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,400
+Goshen,Superintendent of Public Instruction,,REP,Brian Schroeder,1889
+Goshen,Superintendent of Public Instruction,,REP,Jennifer Zerba,254
+Goshen,Superintendent of Public Instruction,,REP,Megan Degenfelder,1403
+Goshen,Superintendent of Public Instruction,,REP,Robert J. White III,78
+Goshen,Superintendent of Public Instruction,,REP,Write-ins,11
+Goshen,Superintendent of Public Instruction,,REP,Over Votes,10
+Goshen,Superintendent of Public Instruction,,REP,Under Votes,427
+Goshen,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",126
+Goshen,Superintendent of Public Instruction,,DEM,Write-ins,0
+Goshen,Superintendent of Public Instruction,,DEM,Over Votes,0
+Goshen,Superintendent of Public Instruction,,DEM,Under Votes,28
+Goshen,State Senate,3,REP,Cheri Steinmetz,2955
+Goshen,State Senate,3,REP,Marty Ertman,1301
+Goshen,State Senate,3,REP,Write-ins,9
+Goshen,State Senate,3,REP,Over Votes,0
+Goshen,State Senate,3,REP,Under Votes,207
+Goshen,State Senate,3,DEM,Write-ins,6
+Goshen,State House,2,REP,Allen Earl Slagle,509
+Goshen,State House,2,REP,JD Williams,399
+Goshen,State House,2,REP,Write-ins,2
+Goshen,State House,2,REP,Over Votes,0
+Goshen,State House,2,REP,Under Votes,100
+Goshen,State House,2,DEM,Write-ins,0
+Goshen,State House,5,REP,Scott Smith,1794
+Goshen,State House,5,REP,Shelly L. Duncan,1546
+Goshen,State House,5,REP,Write-ins,10
+Goshen,State House,5,REP,Over Votes,1
+Goshen,State House,5,REP,Under Votes,111
+Goshen,State House,5,DEM,Write-ins,4
+Goshen,Ballots Cast,,REP,Ballots Cast,4472
+Goshen,Ballots Cast,,DEM,Ballots Cast,154
+Goshen,Ballots Cast,,NP,Ballots Cast,28
+Goshen,Ballots Cast,,,Ballots Cast,4654
+Hot Springs,U.S. House,,REP,Anthony Bouchard,58
+Hot Springs,U.S. House,,REP,Denton Knapp,15
+Hot Springs,U.S. House,,REP,Harriet Hageman,1440
+Hot Springs,U.S. House,,REP,Liz Cheney,383
+Hot Springs,U.S. House,,REP,Robyn M. Belinskey,10
+Hot Springs,U.S. House,,REP,Write-ins,1
+Hot Springs,U.S. House,,REP,Over Votes,7
+Hot Springs,U.S. House,,REP,Under Votes,9
+Hot Springs,U.S. House,,DEM,Lynnette GreyBull,39
+Hot Springs,U.S. House,,DEM,Meghan R. Jensen,21
+Hot Springs,U.S. House,,DEM,Steve Helling,6
+Hot Springs,U.S. House,,DEM,Write-ins,3
+Hot Springs,U.S. House,,DEM,Over Votes,0
+Hot Springs,U.S. House,,DEM,Under Votes,1
+Hot Springs,Governor,,REP,Brent Bien,797
+Hot Springs,Governor,,REP,James Scott Quick,41
+Hot Springs,Governor,,REP,Mark Gordon,952
+Hot Springs,Governor,,REP,Rex Rammell,78
+Hot Springs,Governor,,REP,Write-ins,6
+Hot Springs,Governor,,REP,Over Votes,1
+Hot Springs,Governor,,REP,Under Votes,48
+Hot Springs,Governor,,DEM,Rex Wilde,10
+Hot Springs,Governor,,DEM,Theresa A. Livingston,47
+Hot Springs,Governor,,DEM,Write-ins,5
+Hot Springs,Governor,,DEM,Over Votes,0
+Hot Springs,Governor,,DEM,Under Votes,8
+Hot Springs,Secretary of State,,REP,* Withdrawn Candidate,28
+Hot Springs,Secretary of State,,REP,Chuck Gray,1105
+Hot Springs,Secretary of State,,REP,Mark Armstrong,135
+Hot Springs,Secretary of State,,REP,Tara Nethercott,517
+Hot Springs,Secretary of State,,REP,Write-ins,6
+Hot Springs,Secretary of State,,REP,Over Votes,3
+Hot Springs,Secretary of State,,REP,Under Votes,129
+Hot Springs,Secretary of State,,DEM,Write-ins,4
+Hot Springs,Secretary of State,,DEM,Over Votes,0
+Hot Springs,Secretary of State,,DEM,Under Votes,66
+Hot Springs,State Auditor,,REP,Kristi Racines,1553
+Hot Springs,State Auditor,,REP,Write-ins,9
+Hot Springs,State Auditor,,REP,Over Votes,0
+Hot Springs,State Auditor,,REP,Under Votes,361
+Hot Springs,State Auditor,,DEM,Write-ins,4
+Hot Springs,State Treasurer,,REP,Bill Gallop,381
+Hot Springs,State Treasurer,,REP,Curt Meier,1206
+Hot Springs,State Treasurer,,REP,Write-ins,6
+Hot Springs,State Treasurer,,REP,Over Votes,0
+Hot Springs,State Treasurer,,REP,Under Votes,330
+Hot Springs,State Treasurer,,DEM,Write-ins,5
+Hot Springs,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,169
+Hot Springs,Superintendent of Public Instruction,,REP,Brian Schroeder,536
+Hot Springs,Superintendent of Public Instruction,,REP,Jennifer Zerba,171
+Hot Springs,Superintendent of Public Instruction,,REP,Megan Degenfelder,726
+Hot Springs,Superintendent of Public Instruction,,REP,Robert J. White III,40
+Hot Springs,Superintendent of Public Instruction,,REP,Write-ins,10
+Hot Springs,Superintendent of Public Instruction,,REP,Over Votes,6
+Hot Springs,Superintendent of Public Instruction,,REP,Under Votes,265
+Hot Springs,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",62
+Hot Springs,Superintendent of Public Instruction,,DEM,Write-ins,2
+Hot Springs,Superintendent of Public Instruction,,DEM,Over Votes,0
+Hot Springs,Superintendent of Public Instruction,,DEM,Under Votes,6
+Hot Springs,State House,28,REP,John R. Winter,1511
+Hot Springs,State House,28,REP,Write-ins,46
+Hot Springs,State House,28,REP,Over Votes,0
+Hot Springs,State House,28,REP,Under Votes,366
+Hot Springs,State House,28,DEM,Kimberly M. Bartlett,65
+Hot Springs,State House,28,DEM,Write-ins,0
+Hot Springs,State House,28,DEM,Over Votes,0
+Hot Springs,State House,28,DEM,Under Votes,5
+Hot Springs,Ballots Cast,,REP,Ballots Cast,1923
+Hot Springs,Ballots Cast,,DEM,Ballots Cast,70
+Hot Springs,Ballots Cast,,NP,Ballots Cast,23
+Hot Springs,Ballots Cast,,,Ballots Cast,2016
+Johnson,U.S. House,,REP,Anthony Bouchard,123
+Johnson,U.S. House,,REP,Denton Knapp,38
+Johnson,U.S. House,,REP,Harriet Hageman,2738
+Johnson,U.S. House,,REP,Liz Cheney,890
+Johnson,U.S. House,,REP,Robyn M. Belinskey,45
+Johnson,U.S. House,,REP,Write-ins,3
+Johnson,U.S. House,,REP,Over Votes,16
+Johnson,U.S. House,,REP,Under Votes,28
+Johnson,U.S. House,,DEM,Lynnette GreyBull,38
+Johnson,U.S. House,,DEM,Meghan R. Jensen,15
+Johnson,U.S. House,,DEM,Steve Helling,7
+Johnson,U.S. House,,DEM,Write-ins,4
+Johnson,U.S. House,,DEM,Over Votes,4
+Johnson,U.S. House,,DEM,Under Votes,4
+Johnson,Governor,,REP,Brent Bien,1220
+Johnson,Governor,,REP,James Scott Quick,58
+Johnson,Governor,,REP,Mark Gordon,2363
+Johnson,Governor,,REP,Rex Rammell,150
+Johnson,Governor,,REP,Write-ins,6
+Johnson,Governor,,REP,Over Votes,2
+Johnson,Governor,,REP,Under Votes,82
+Johnson,Governor,,DEM,Rex Wilde,7
+Johnson,Governor,,DEM,Theresa A. Livingston,50
+Johnson,Governor,,DEM,Write-ins,5
+Johnson,Governor,,DEM,Over Votes,1
+Johnson,Governor,,DEM,Under Votes,9
+Johnson,Secretary of State,,REP,* Withdrawn Candidate,51
+Johnson,Secretary of State,,REP,Chuck Gray,1730
+Johnson,Secretary of State,,REP,Mark Armstrong,352
+Johnson,Secretary of State,,REP,Tara Nethercott,1387
+Johnson,Secretary of State,,REP,Write-ins,1
+Johnson,Secretary of State,,REP,Over Votes,7
+Johnson,Secretary of State,,REP,Under Votes,353
+Johnson,Secretary of State,,DEM,Write-ins,9
+Johnson,Secretary of State,,DEM,Over Votes,0
+Johnson,Secretary of State,,DEM,Under Votes,63
+Johnson,State Auditor,,REP,Kristi Racines,3055
+Johnson,State Auditor,,REP,Write-ins,20
+Johnson,State Auditor,,REP,Over Votes,1
+Johnson,State Auditor,,REP,Under Votes,805
+Johnson,State Auditor,,DEM,Write-ins,6
+Johnson,State Treasurer,,REP,Bill Gallop,739
+Johnson,State Treasurer,,REP,Curt Meier,2396
+Johnson,State Treasurer,,REP,Write-ins,11
+Johnson,State Treasurer,,REP,Over Votes,2
+Johnson,State Treasurer,,REP,Under Votes,733
+Johnson,State Treasurer,,DEM,Write-ins,7
+Johnson,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,254
+Johnson,Superintendent of Public Instruction,,REP,Brian Schroeder,1352
+Johnson,Superintendent of Public Instruction,,REP,Jennifer Zerba,314
+Johnson,Superintendent of Public Instruction,,REP,Megan Degenfelder,1273
+Johnson,Superintendent of Public Instruction,,REP,Robert J. White III,66
+Johnson,Superintendent of Public Instruction,,REP,Write-ins,10
+Johnson,Superintendent of Public Instruction,,REP,Over Votes,8
+Johnson,Superintendent of Public Instruction,,REP,Under Votes,604
+Johnson,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",57
+Johnson,Superintendent of Public Instruction,,DEM,Write-ins,0
+Johnson,Superintendent of Public Instruction,,DEM,Over Votes,0
+Johnson,Superintendent of Public Instruction,,DEM,Under Votes,15
+Johnson,State House,40,REP,Barry Crago,2320
+Johnson,State House,40,REP,Richard Tass,1427
+Johnson,State House,40,REP,Write-ins,18
+Johnson,State House,40,REP,Over Votes,3
+Johnson,State House,40,REP,Under Votes,113
+Johnson,State House,40,DEM,Write-ins,7
+Johnson,Ballots Cast,,REP,Ballots Cast,3881
+Johnson,Ballots Cast,,DEM,Ballots Cast,72
+Johnson,Ballots Cast,,NP,Ballots Cast,25
+Johnson,Ballots Cast,,,Ballots Cast,3978
+Laramie,U.S. House,,REP,Anthony Bouchard,772
+Laramie,U.S. House,,REP,Denton Knapp,208
+Laramie,U.S. House,,REP,Harriet Hageman,14429
+Laramie,U.S. House,,REP,Liz Cheney,9759
+Laramie,U.S. House,,REP,Robyn M. Belinskey,179
+Laramie,U.S. House,,REP,Write-ins,44
+Laramie,U.S. House,,REP,Over Votes,22
+Laramie,U.S. House,,REP,Under Votes,99
+Laramie,U.S. House,,DEM,Lynnette GreyBull,973
+Laramie,U.S. House,,DEM,Meghan R. Jensen,413
+Laramie,U.S. House,,DEM,Steve Helling,192
+Laramie,U.S. House,,DEM,Write-ins,69
+Laramie,U.S. House,,DEM,Over Votes,16
+Laramie,U.S. House,,DEM,Under Votes,64
+Laramie,Governor,,REP,Brent Bien,4206
+Laramie,Governor,,REP,James Scott Quick,633
+Laramie,Governor,,REP,Mark Gordon,18494
+Laramie,Governor,,REP,Rex Rammell,1267
+Laramie,Governor,,REP,Write-ins,160
+Laramie,Governor,,REP,Over Votes,1
+Laramie,Governor,,REP,Under Votes,751
+Laramie,Governor,,DEM,Rex Wilde,489
+Laramie,Governor,,DEM,Theresa A. Livingston,1077
+Laramie,Governor,,DEM,Write-ins,38
+Laramie,Governor,,DEM,Over Votes,0
+Laramie,Governor,,DEM,Under Votes,123
+Laramie,Secretary of State,,REP,* Withdrawn Candidate,575
+Laramie,Secretary of State,,REP,Chuck Gray,9526
+Laramie,Secretary of State,,REP,Mark Armstrong,1857
+Laramie,Secretary of State,,REP,Tara Nethercott,12317
+Laramie,Secretary of State,,REP,Write-ins,91
+Laramie,Secretary of State,,REP,Over Votes,8
+Laramie,Secretary of State,,REP,Under Votes,1138
+Laramie,Secretary of State,,DEM,Write-ins,208
+Laramie,Secretary of State,,DEM,Over Votes,0
+Laramie,Secretary of State,,DEM,Under Votes,1519
+Laramie,State Auditor,,REP,Kristi Racines,21891
+Laramie,State Auditor,,REP,Write-ins,239
+Laramie,State Auditor,,REP,Over Votes,1
+Laramie,State Auditor,,REP,Under Votes,3381
+Laramie,State Auditor,,DEM,Write-ins,165
+Laramie,State Treasurer,,REP,Bill Gallop,7265
+Laramie,State Treasurer,,REP,Curt Meier,15014
+Laramie,State Treasurer,,REP,Write-ins,205
+Laramie,State Treasurer,,REP,Over Votes,1
+Laramie,State Treasurer,,REP,Under Votes,3027
+Laramie,State Treasurer,,DEM,Write-ins,159
+Laramie,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,1875
+Laramie,Superintendent of Public Instruction,,REP,Brian Schroeder,7658
+Laramie,Superintendent of Public Instruction,,REP,Jennifer Zerba,1931
+Laramie,Superintendent of Public Instruction,,REP,Megan Degenfelder,10774
+Laramie,Superintendent of Public Instruction,,REP,Robert J. White III,688
+Laramie,Superintendent of Public Instruction,,REP,Write-ins,169
+Laramie,Superintendent of Public Instruction,,REP,Over Votes,4
+Laramie,Superintendent of Public Instruction,,REP,Under Votes,2413
+Laramie,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1521
+Laramie,Superintendent of Public Instruction,,DEM,Write-ins,25
+Laramie,Superintendent of Public Instruction,,DEM,Over Votes,0
+Laramie,Superintendent of Public Instruction,,DEM,Under Votes,181
+Laramie,State Senate,5,REP,Lynn Hutchings,3353
+Laramie,State Senate,5,REP,Write-ins,140
+Laramie,State Senate,5,REP,Over Votes,0
+Laramie,State Senate,5,REP,Under Votes,679
+Laramie,State Senate,5,DEM,Ted Hanlon,178
+Laramie,State Senate,5,DEM,Write-ins,10
+Laramie,State Senate,5,DEM,Over Votes,0
+Laramie,State Senate,5,DEM,Under Votes,19
+Laramie,State Senate,7,REP,JC Manalo,717
+Laramie,State Senate,7,REP,Rachel Bennett,1283
+Laramie,State Senate,7,REP,Stephan Pappas,2199
+Laramie,State Senate,7,REP,Write-ins,38
+Laramie,State Senate,7,REP,Over Votes,0
+Laramie,State Senate,7,REP,Under Votes,563
+Laramie,State Senate,7,DEM,Marcie Kindred,364
+Laramie,State Senate,7,DEM,Write-ins,8
+Laramie,State Senate,7,DEM,Over Votes,0
+Laramie,State Senate,7,DEM,Under Votes,35
+Laramie,State Senate,31,REP,Evie Brennan,1871
+Laramie,State Senate,31,REP,Janet Marschner,1418
+Laramie,State Senate,31,REP,Write-ins,26
+Laramie,State Senate,31,REP,Over Votes,0
+Laramie,State Senate,31,REP,Under Votes,423
+Laramie,State Senate,31,DEM,Write-ins,42
+Laramie,State House,4,REP,Jeremy Haroldson,41
+Laramie,State House,4,REP,Write-ins,1
+Laramie,State House,4,REP,Over Votes,0
+Laramie,State House,4,REP,Under Votes,13
+Laramie,State House,4,DEM,Write-ins,0
+Laramie,State House,7,REP,Bob Nicholas,1514
+Laramie,State House,7,REP,Rick Coppinger,1151
+Laramie,State House,7,REP,Write-ins,15
+Laramie,State House,7,REP,Over Votes,1
+Laramie,State House,7,REP,Under Votes,294
+Laramie,State House,7,DEM,Jordan Evans,163
+Laramie,State House,7,DEM,Write-ins,1
+Laramie,State House,7,DEM,Over Votes,0
+Laramie,State House,7,DEM,Under Votes,27
+Laramie,State House,8,REP,Brian Tyrrell,611
+Laramie,State House,8,REP,Dave Zwonitzer,1267
+Laramie,State House,8,REP,Lily Sharpe,1021
+Laramie,State House,8,REP,Stephen Neal Johnson,693
+Laramie,State House,8,REP,Write-ins,20
+Laramie,State House,8,REP,Over Votes,5
+Laramie,State House,8,REP,Under Votes,228
+Laramie,State House,8,DEM,Write-ins,12
+Laramie,State House,8,DEM,Over Votes,0
+Laramie,State House,8,DEM,Under Votes,129
+Laramie,State House,9,REP,Alan Sheldon,545
+Laramie,State House,9,REP,Dean Petersen,489
+Laramie,State House,9,REP,Landon J. Brown,1192
+Laramie,State House,9,REP,Write-ins,18
+Laramie,State House,9,REP,Over Votes,1
+Laramie,State House,9,REP,Under Votes,183
+Laramie,State House,9,DEM,Stephen D. Latham,143
+Laramie,State House,9,DEM,Write-ins,3
+Laramie,State House,9,DEM,Over Votes,0
+Laramie,State House,9,DEM,Under Votes,21
+Laramie,State House,10,REP,John Eklund,2134
+Laramie,State House,10,REP,Lars Lone,743
+Laramie,State House,10,REP,Write-ins,13
+Laramie,State House,10,REP,Over Votes,0
+Laramie,State House,10,REP,Under Votes,250
+Laramie,State House,10,DEM,Write-ins,9
+Laramie,State House,11,REP,Jared Olsen,1359
+Laramie,State House,11,REP,Write-ins,62
+Laramie,State House,11,REP,Over Votes,0
+Laramie,State House,11,REP,Under Votes,302
+Laramie,State House,11,DEM,James W. Byrd,90
+Laramie,State House,11,DEM,Marguerite Herman,162
+Laramie,State House,11,DEM,Write-ins,1
+Laramie,State House,11,DEM,Over Votes,0
+Laramie,State House,11,DEM,Under Votes,7
+Laramie,State House,12,REP,Clarence Styvar,831
+Laramie,State House,12,REP,Derek Goldfuss,412
+Laramie,State House,12,REP,Write-ins,16
+Laramie,State House,12,REP,Over Votes,0
+Laramie,State House,12,REP,Under Votes,151
+Laramie,State House,12,DEM,Write-ins,18
+Laramie,State House,41,REP,Bill Henderson,1857
+Laramie,State House,41,REP,Write-ins,72
+Laramie,State House,41,REP,Over Votes,1
+Laramie,State House,41,REP,Under Votes,442
+Laramie,State House,41,DEM,Write-ins,51
+Laramie,State House,42,REP,Ben Hornok,1291
+Laramie,State House,42,REP,Linnaea Sutphin,1082
+Laramie,State House,42,REP,Write-ins,31
+Laramie,State House,42,REP,Over Votes,2
+Laramie,State House,42,REP,Under Votes,356
+Laramie,State House,42,DEM,Write-ins,6
+Laramie,State House,43,REP,Clayton Mills,913
+Laramie,State House,43,REP,Dan Zwonitzer,1084
+Laramie,State House,43,REP,Write-ins,10
+Laramie,State House,43,REP,Over Votes,1
+Laramie,State House,43,REP,Under Votes,185
+Laramie,State House,43,DEM,Write-ins,17
+Laramie,State House,44,REP,John B. Romero-Martinez,293
+Laramie,State House,44,REP,Michael Reyes,261
+Laramie,State House,44,REP,Tamara N. Trujillo,404
+Laramie,State House,44,REP,Write-ins,18
+Laramie,State House,44,REP,Over Votes,1
+Laramie,State House,44,REP,Under Votes,87
+Laramie,State House,44,DEM,Sara Burlingame,166
+Laramie,State House,44,DEM,Write-ins,1
+Laramie,State House,44,DEM,Over Votes,0
+Laramie,State House,44,DEM,Under Votes,11
+Laramie,State House,61,REP,Daniel J. Singh,618
+Laramie,State House,61,REP,Don Odom,336
+Laramie,State House,61,REP,Matthew J.L. Malcom,377
+Laramie,State House,61,REP,Write-ins,12
+Laramie,State House,61,REP,Over Votes,0
+Laramie,State House,61,REP,Under Votes,202
+Laramie,State House,61,DEM,Write-ins,16
+Laramie,Ballots Cast,,REP,Ballots Cast,25512
+Laramie,Ballots Cast,,DEM,Ballots Cast,1727
+Laramie,Ballots Cast,,NP,Ballots Cast,239
+Laramie,Ballots Cast,,,Ballots Cast,27478
+Lincoln,U.S. House,,REP,Anthony Bouchard,212
+Lincoln,U.S. House,,REP,Denton Knapp,62
+Lincoln,U.S. House,,REP,Harriet Hageman,4886
+Lincoln,U.S. House,,REP,Liz Cheney,1221
+Lincoln,U.S. House,,REP,Robyn M. Belinskey,75
+Lincoln,U.S. House,,REP,Write-ins,5
+Lincoln,U.S. House,,REP,Over Votes,27
+Lincoln,U.S. House,,REP,Under Votes,32
+Lincoln,U.S. House,,DEM,Lynnette GreyBull,60
+Lincoln,U.S. House,,DEM,Meghan R. Jensen,36
+Lincoln,U.S. House,,DEM,Steve Helling,17
+Lincoln,U.S. House,,DEM,Write-ins,8
+Lincoln,U.S. House,,DEM,Over Votes,3
+Lincoln,U.S. House,,DEM,Under Votes,13
+Lincoln,Governor,,REP,Brent Bien,2068
+Lincoln,Governor,,REP,James Scott Quick,98
+Lincoln,Governor,,REP,Mark Gordon,3564
+Lincoln,Governor,,REP,Rex Rammell,454
+Lincoln,Governor,,REP,Write-ins,16
+Lincoln,Governor,,REP,Over Votes,2
+Lincoln,Governor,,REP,Under Votes,318
+Lincoln,Governor,,DEM,Rex Wilde,37
+Lincoln,Governor,,DEM,Theresa A. Livingston,78
+Lincoln,Governor,,DEM,Write-ins,6
+Lincoln,Governor,,DEM,Over Votes,0
+Lincoln,Governor,,DEM,Under Votes,16
+Lincoln,Secretary of State,,REP,* Withdrawn Candidate,557
+Lincoln,Secretary of State,,REP,Chuck Gray,2426
+Lincoln,Secretary of State,,REP,Mark Armstrong,590
+Lincoln,Secretary of State,,REP,Tara Nethercott,2318
+Lincoln,Secretary of State,,REP,Write-ins,9
+Lincoln,Secretary of State,,REP,Over Votes,34
+Lincoln,Secretary of State,,REP,Under Votes,586
+Lincoln,Secretary of State,,DEM,Write-ins,9
+Lincoln,Secretary of State,,DEM,Over Votes,0
+Lincoln,Secretary of State,,DEM,Under Votes,128
+Lincoln,State Auditor,,REP,Kristi Racines,5156
+Lincoln,State Auditor,,REP,Write-ins,21
+Lincoln,State Auditor,,REP,Over Votes,1
+Lincoln,State Auditor,,REP,Under Votes,1342
+Lincoln,State Auditor,,DEM,Write-ins,3
+Lincoln,State Treasurer,,REP,Bill Gallop,1712
+Lincoln,State Treasurer,,REP,Curt Meier,3246
+Lincoln,State Treasurer,,REP,Write-ins,17
+Lincoln,State Treasurer,,REP,Over Votes,4
+Lincoln,State Treasurer,,REP,Under Votes,1541
+Lincoln,State Treasurer,,DEM,Write-ins,3
+Lincoln,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,560
+Lincoln,Superintendent of Public Instruction,,REP,Brian Schroeder,2472
+Lincoln,Superintendent of Public Instruction,,REP,Jennifer Zerba,601
+Lincoln,Superintendent of Public Instruction,,REP,Megan Degenfelder,1547
+Lincoln,Superintendent of Public Instruction,,REP,Robert J. White III,211
+Lincoln,Superintendent of Public Instruction,,REP,Write-ins,25
+Lincoln,Superintendent of Public Instruction,,REP,Over Votes,32
+Lincoln,Superintendent of Public Instruction,,REP,Under Votes,1072
+Lincoln,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",111
+Lincoln,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,Superintendent of Public Instruction,,DEM,Under Votes,26
+Lincoln,State House,18,REP,Scott Heiner,1179
+Lincoln,State House,18,REP,Write-ins,29
+Lincoln,State House,18,REP,Over Votes,0
+Lincoln,State House,18,REP,Under Votes,226
+Lincoln,State House,20,REP,Albert Sommers,26
+Lincoln,State House,20,REP,Bill Winney,2
+Lincoln,State House,20,REP,Michael D. Schmid,226
+Lincoln,State House,20,REP,Write-ins,0
+Lincoln,State House,20,REP,Over Votes,0
+Lincoln,State House,20,REP,Under Votes,2
+Lincoln,State House,20,DEM,Write-ins,0
+Lincoln,State House,21,REP,Jeremiah Hardesty,1235
+Lincoln,State House,21,REP,Lane Allred,1745
+Lincoln,State House,21,REP,Write-ins,5
+Lincoln,State House,21,REP,Over Votes,2
+Lincoln,State House,21,REP,Under Votes,110
+Lincoln,State House,21,DEM,Write-ins,3
+Lincoln,State House,22,REP,Andrew Byron,1253
+Lincoln,State House,22,REP,Write-ins,34
+Lincoln,State House,22,REP,Over Votes,1
+Lincoln,State House,22,REP,Under Votes,445
+Lincoln,State House,22,DEM,Write-ins,2
+Lincoln,Ballots Cast,,REP,Ballots Cast,6520
+Lincoln,Ballots Cast,,DEM,Ballots Cast,137
+Lincoln,Ballots Cast,,NP,Ballots Cast,98
+Lincoln,Ballots Cast,,,Ballots Cast,6755
+Natrona,U.S. House,,REP,Anthony Bouchard,393
+Natrona,U.S. House,,REP,Denton Knapp,157
+Natrona,U.S. House,,REP,Harriet Hageman,14207
+Natrona,U.S. House,,REP,Liz Cheney,6516
+Natrona,U.S. House,,REP,Robyn M. Belinskey,113
+Natrona,U.S. House,,REP,Write-ins,13
+Natrona,U.S. House,,REP,Over Votes,46
+Natrona,U.S. House,,REP,Under Votes,56
+Natrona,U.S. House,,DEM,Lynnette GreyBull,339
+Natrona,U.S. House,,DEM,Meghan R. Jensen,161
+Natrona,U.S. House,,DEM,Steve Helling,99
+Natrona,U.S. House,,DEM,Write-ins,25
+Natrona,U.S. House,,DEM,Over Votes,25
+Natrona,U.S. House,,DEM,Under Votes,32
+Natrona,Governor,,REP,Brent Bien,4519
+Natrona,Governor,,REP,James Scott Quick,808
+Natrona,Governor,,REP,Mark Gordon,13736
+Natrona,Governor,,REP,Rex Rammell,1374
+Natrona,Governor,,REP,Write-ins,74
+Natrona,Governor,,REP,Over Votes,9
+Natrona,Governor,,REP,Under Votes,981
+Natrona,Governor,,DEM,Rex Wilde,184
+Natrona,Governor,,DEM,Theresa A. Livingston,397
+Natrona,Governor,,DEM,Write-ins,16
+Natrona,Governor,,DEM,Over Votes,1
+Natrona,Governor,,DEM,Under Votes,83
+Natrona,Secretary of State,,REP,* Withdrawn Candidate,318
+Natrona,Secretary of State,,REP,Chuck Gray,10863
+Natrona,Secretary of State,,REP,Mark Armstrong,1314
+Natrona,Secretary of State,,REP,Tara Nethercott,7828
+Natrona,Secretary of State,,REP,Write-ins,57
+Natrona,Secretary of State,,REP,Over Votes,27
+Natrona,Secretary of State,,REP,Under Votes,1094
+Natrona,Secretary of State,,DEM,Write-ins,42
+Natrona,Secretary of State,,DEM,Over Votes,0
+Natrona,Secretary of State,,DEM,Under Votes,639
+Natrona,State Auditor,,REP,Kristi Racines,16350
+Natrona,State Auditor,,REP,Write-ins,142
+Natrona,State Auditor,,REP,Over Votes,0
+Natrona,State Auditor,,REP,Under Votes,5009
+Natrona,State Auditor,,DEM,Write-ins,21
+Natrona,State Treasurer,,REP,Bill Gallop,5501
+Natrona,State Treasurer,,REP,Curt Meier,11548
+Natrona,State Treasurer,,REP,Write-ins,99
+Natrona,State Treasurer,,REP,Over Votes,3
+Natrona,State Treasurer,,REP,Under Votes,4350
+Natrona,State Treasurer,,DEM,Write-ins,25
+Natrona,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,1291
+Natrona,Superintendent of Public Instruction,,REP,Brian Schroeder,5314
+Natrona,Superintendent of Public Instruction,,REP,Jennifer Zerba,1845
+Natrona,Superintendent of Public Instruction,,REP,Megan Degenfelder,10018
+Natrona,Superintendent of Public Instruction,,REP,Robert J. White III,444
+Natrona,Superintendent of Public Instruction,,REP,Write-ins,76
+Natrona,Superintendent of Public Instruction,,REP,Over Votes,42
+Natrona,Superintendent of Public Instruction,,REP,Under Votes,2471
+Natrona,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",544
+Natrona,Superintendent of Public Instruction,,DEM,Write-ins,14
+Natrona,Superintendent of Public Instruction,,DEM,Over Votes,0
+Natrona,Superintendent of Public Instruction,,DEM,Under Votes,123
+Natrona,State Senate,27,REP,Bill Landen,4059
+Natrona,State Senate,27,REP,Write-ins,80
+Natrona,State Senate,27,REP,Over Votes,1
+Natrona,State Senate,27,REP,Under Votes,1189
+Natrona,State Senate,27,DEM,Write-ins,3
+Natrona,State Senate,29,REP,Bob Ide,2834
+Natrona,State Senate,29,REP,Drew Perkins,2531
+Natrona,State Senate,29,REP,Write-ins,18
+Natrona,State Senate,29,REP,Over Votes,5
+Natrona,State Senate,29,REP,Under Votes,339
+Natrona,State Senate,29,DEM,Write-ins,8
+Natrona,State House,35,REP,Joe MacGuire,1215
+Natrona,State House,35,REP,Tony Locke,1647
+Natrona,State House,35,REP,Write-ins,6
+Natrona,State House,35,REP,Over Votes,2
+Natrona,State House,35,REP,Under Votes,337
+Natrona,State House,35,DEM,Write-ins,3
+Natrona,State House,36,REP,Art Washut,1117
+Natrona,State House,36,REP,Debra L. Cheatham,727
+Natrona,State House,36,REP,Write-ins,10
+Natrona,State House,36,REP,Over Votes,3
+Natrona,State House,36,REP,Under Votes,265
+Natrona,State House,36,DEM,Write-ins,4
+Natrona,State House,37,REP,Steve Bray,1578
+Natrona,State House,37,REP,Steve Harshman,1780
+Natrona,State House,37,REP,Write-ins,12
+Natrona,State House,37,REP,Over Votes,0
+Natrona,State House,37,REP,Under Votes,263
+Natrona,State House,37,DEM,Write-ins,2
+Natrona,State House,38,REP,Tom Walters,1944
+Natrona,State House,38,REP,Write-ins,72
+Natrona,State House,38,REP,Over Votes,0
+Natrona,State House,38,REP,Under Votes,521
+Natrona,State House,38,DEM,Write-ins,4
+Natrona,State House,56,REP,Jerry Obermueller,1832
+Natrona,State House,56,REP,Write-ins,35
+Natrona,State House,56,REP,Over Votes,0
+Natrona,State House,56,REP,Under Votes,622
+Natrona,State House,56,DEM,Write-ins,6
+Natrona,State House,57,REP,Jeanette Ward,921
+Natrona,State House,57,REP,Thomas Myler,624
+Natrona,State House,57,REP,Write-ins,10
+Natrona,State House,57,REP,Over Votes,2
+Natrona,State House,57,REP,Under Votes,220
+Natrona,State House,57,DEM,Robert Johnson,51
+Natrona,State House,57,DEM,Write-ins,2
+Natrona,State House,57,DEM,Over Votes,0
+Natrona,State House,57,DEM,Under Votes,8
+Natrona,State House,58,REP,Bill Allemand,1369
+Natrona,State House,58,REP,"Patrick ""PAT"" Sweeney",806
+Natrona,State House,58,REP,Write-ins,4
+Natrona,State House,58,REP,Over Votes,3
+Natrona,State House,58,REP,Under Votes,128
+Natrona,State House,58,DEM,Write-ins,1
+Natrona,State House,59,REP,John Gudger,634
+Natrona,State House,59,REP,Kevin O'Hearn,1181
+Natrona,State House,59,REP,Write-ins,13
+Natrona,State House,59,REP,Over Votes,2
+Natrona,State House,59,REP,Under Votes,264
+Natrona,State House,59,DEM,Write-ins,5
+Natrona,State House,62,REP,Forrest Chadwick,713
+Natrona,State House,62,REP,Stan Mitchem,456
+Natrona,State House,62,REP,Write-ins,3
+Natrona,State House,62,REP,Over Votes,1
+Natrona,State House,62,REP,Under Votes,159
+Natrona,State House,62,DEM,Write-ins,2
+Natrona,Ballots Cast,,REP,Ballots Cast,21501
+Natrona,Ballots Cast,,DEM,Ballots Cast,681
+Natrona,Ballots Cast,,NP,Ballots Cast,198
+Natrona,Ballots Cast,,,Ballots Cast,22380
+Niobrara,U.S. House,,REP,Anthony Bouchard,25
+Niobrara,U.S. House,,REP,Denton Knapp,10
+Niobrara,U.S. House,,REP,Harriet Hageman,908
+Niobrara,U.S. House,,REP,Liz Cheney,113
+Niobrara,U.S. House,,REP,Robyn M. Belinskey,9
+Niobrara,U.S. House,,REP,Write-ins,0
+Niobrara,U.S. House,,REP,Over Votes,4
+Niobrara,U.S. House,,REP,Under Votes,6
+Niobrara,U.S. House,,DEM,Lynnette GreyBull,6
+Niobrara,U.S. House,,DEM,Meghan R. Jensen,1
+Niobrara,U.S. House,,DEM,Steve Helling,2
+Niobrara,U.S. House,,DEM,Write-ins,0
+Niobrara,U.S. House,,DEM,Over Votes,0
+Niobrara,U.S. House,,DEM,Under Votes,0
+Niobrara,Governor,,REP,Brent Bien,513
+Niobrara,Governor,,REP,James Scott Quick,76
+Niobrara,Governor,,REP,Mark Gordon,403
+Niobrara,Governor,,REP,Rex Rammell,53
+Niobrara,Governor,,REP,Write-ins,0
+Niobrara,Governor,,REP,Over Votes,0
+Niobrara,Governor,,REP,Under Votes,30
+Niobrara,Governor,,DEM,Rex Wilde,4
+Niobrara,Governor,,DEM,Theresa A. Livingston,4
+Niobrara,Governor,,DEM,Write-ins,0
+Niobrara,Governor,,DEM,Over Votes,0
+Niobrara,Governor,,DEM,Under Votes,1
+Niobrara,Secretary of State,,REP,* Withdrawn Candidate,23
+Niobrara,Secretary of State,,REP,Chuck Gray,580
+Niobrara,Secretary of State,,REP,Mark Armstrong,103
+Niobrara,Secretary of State,,REP,Tara Nethercott,293
+Niobrara,Secretary of State,,REP,Write-ins,1
+Niobrara,Secretary of State,,REP,Over Votes,2
+Niobrara,Secretary of State,,REP,Under Votes,73
+Niobrara,Secretary of State,,DEM,Write-ins,0
+Niobrara,Secretary of State,,DEM,Over Votes,0
+Niobrara,Secretary of State,,DEM,Under Votes,9
+Niobrara,State Auditor,,REP,Kristi Racines,909
+Niobrara,State Auditor,,REP,Write-ins,3
+Niobrara,State Auditor,,REP,Over Votes,0
+Niobrara,State Auditor,,REP,Under Votes,163
+Niobrara,State Auditor,,DEM,Write-ins,0
+Niobrara,State Treasurer,,REP,Bill Gallop,174
+Niobrara,State Treasurer,,REP,Curt Meier,768
+Niobrara,State Treasurer,,REP,Write-ins,3
+Niobrara,State Treasurer,,REP,Over Votes,1
+Niobrara,State Treasurer,,REP,Under Votes,129
+Niobrara,State Treasurer,,DEM,Write-ins,0
+Niobrara,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,77
+Niobrara,Superintendent of Public Instruction,,REP,Brian Schroeder,412
+Niobrara,Superintendent of Public Instruction,,REP,Jennifer Zerba,108
+Niobrara,Superintendent of Public Instruction,,REP,Megan Degenfelder,302
+Niobrara,Superintendent of Public Instruction,,REP,Robert J. White III,29
+Niobrara,Superintendent of Public Instruction,,REP,Write-ins,2
+Niobrara,Superintendent of Public Instruction,,REP,Over Votes,0
+Niobrara,Superintendent of Public Instruction,,REP,Under Votes,145
+Niobrara,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",9
+Niobrara,Superintendent of Public Instruction,,DEM,Write-ins,0
+Niobrara,Superintendent of Public Instruction,,DEM,Over Votes,0
+Niobrara,Superintendent of Public Instruction,,DEM,Under Votes,0
+Niobrara,State Senate,3,REP,Cheri Steinmetz,580
+Niobrara,State Senate,3,REP,Marty Ertman,384
+Niobrara,State Senate,3,REP,Write-ins,3
+Niobrara,State Senate,3,REP,Over Votes,1
+Niobrara,State Senate,3,REP,Under Votes,107
+Niobrara,State Senate,3,DEM,Write-ins,1
+Niobrara,State House,2,REP,Allen Earl Slagle,298
+Niobrara,State House,2,REP,JD Williams,741
+Niobrara,State House,2,REP,Write-ins,1
+Niobrara,State House,2,REP,Over Votes,3
+Niobrara,State House,2,REP,Under Votes,32
+Niobrara,State House,2,DEM,Write-ins,1
+Niobrara,Ballots Cast,,REP,Ballots Cast,1075
+Niobrara,Ballots Cast,,DEM,Ballots Cast,9
+Niobrara,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,Ballots Cast,,,Ballots Cast,1084
+Park,U.S. House,,REP,Anthony Bouchard,197
+Park,U.S. House,,REP,Denton Knapp,101
+Park,U.S. House,,REP,Harriet Hageman,8672
+Park,U.S. House,,REP,Liz Cheney,2821
+Park,U.S. House,,REP,Robyn M. Belinskey,71
+Park,U.S. House,,REP,Write-ins,16
+Park,U.S. House,,REP,Over Votes,34
+Park,U.S. House,,REP,Under Votes,39
+Park,U.S. House,,DEM,Lynnette GreyBull,101
+Park,U.S. House,,DEM,Meghan R. Jensen,77
+Park,U.S. House,,DEM,Steve Helling,14
+Park,U.S. House,,DEM,Write-ins,21
+Park,U.S. House,,DEM,Over Votes,5
+Park,U.S. House,,DEM,Under Votes,17
+Park,Governor,,REP,Brent Bien,5213
+Park,Governor,,REP,James Scott Quick,234
+Park,Governor,,REP,Mark Gordon,5779
+Park,Governor,,REP,Rex Rammell,338
+Park,Governor,,REP,Write-ins,28
+Park,Governor,,REP,Over Votes,5
+Park,Governor,,REP,Under Votes,354
+Park,Governor,,DEM,Rex Wilde,50
+Park,Governor,,DEM,Theresa A. Livingston,153
+Park,Governor,,DEM,Write-ins,12
+Park,Governor,,DEM,Over Votes,2
+Park,Governor,,DEM,Under Votes,18
+Park,Secretary of State,,REP,* Withdrawn Candidate,187
+Park,Secretary of State,,REP,Chuck Gray,6077
+Park,Secretary of State,,REP,Mark Armstrong,905
+Park,Secretary of State,,REP,Tara Nethercott,3498
+Park,Secretary of State,,REP,Write-ins,24
+Park,Secretary of State,,REP,Over Votes,15
+Park,Secretary of State,,REP,Under Votes,1245
+Park,Secretary of State,,DEM,Write-ins,24
+Park,Secretary of State,,DEM,Over Votes,0
+Park,Secretary of State,,DEM,Under Votes,211
+Park,State Auditor,,REP,Kristi Racines,8997
+Park,State Auditor,,REP,Write-ins,81
+Park,State Auditor,,REP,Over Votes,1
+Park,State Auditor,,REP,Under Votes,2872
+Park,State Auditor,,DEM,Write-ins,14
+Park,State Treasurer,,REP,Bill Gallop,2175
+Park,State Treasurer,,REP,Curt Meier,7229
+Park,State Treasurer,,REP,Write-ins,46
+Park,State Treasurer,,REP,Over Votes,3
+Park,State Treasurer,,REP,Under Votes,2498
+Park,State Treasurer,,DEM,Write-ins,16
+Park,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,546
+Park,Superintendent of Public Instruction,,REP,Brian Schroeder,5755
+Park,Superintendent of Public Instruction,,REP,Jennifer Zerba,618
+Park,Superintendent of Public Instruction,,REP,Megan Degenfelder,3185
+Park,Superintendent of Public Instruction,,REP,Robert J. White III,202
+Park,Superintendent of Public Instruction,,REP,Write-ins,29
+Park,Superintendent of Public Instruction,,REP,Over Votes,32
+Park,Superintendent of Public Instruction,,REP,Under Votes,1584
+Park,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",192
+Park,Superintendent of Public Instruction,,DEM,Write-ins,4
+Park,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,Superintendent of Public Instruction,,DEM,Under Votes,39
+Park,State Senate,19,REP,Dan Laursen,1697
+Park,State Senate,19,REP,R. J. Kost,1137
+Park,State Senate,19,REP,R. Ray Peterson,396
+Park,State Senate,19,REP,Write-ins,2
+Park,State Senate,19,REP,Over Votes,2
+Park,State Senate,19,REP,Under Votes,133
+Park,State Senate,19,DEM,Write-ins,11
+Park,State House,24,REP,Nina Webber,1727
+Park,State House,24,REP,Sandy Newsome,1810
+Park,State House,24,REP,Write-ins,19
+Park,State House,24,REP,Over Votes,5
+Park,State House,24,REP,Under Votes,186
+Park,State House,24,DEM,Write-ins,8
+Park,State House,25,REP,Chris Good,663
+Park,State House,25,REP,David Northrup,1164
+Park,State House,25,REP,Rex Rich,536
+Park,State House,25,REP,Troy Bray,470
+Park,State House,25,REP,Write-ins,6
+Park,State House,25,REP,Over Votes,21
+Park,State House,25,REP,Under Votes,193
+Park,State House,25,DEM,Write-ins,14
+Park,State House,25,DEM,Over Votes,0
+Park,State House,25,DEM,Under Votes,68
+Park,State House,26,REP,Dalton Banks,78
+Park,State House,26,REP,Gary Welch,52
+Park,State House,26,REP,Tim J. Beck,82
+Park,State House,26,REP,Timothy Mills,40
+Park,State House,26,REP,Write-ins,3
+Park,State House,26,REP,Over Votes,1
+Park,State House,26,REP,Under Votes,58
+Park,State House,26,DEM,Write-ins,0
+Park,State House,26,DEM,Over Votes,0
+Park,State House,26,DEM,Under Votes,5
+Park,State House,28,REP,John R. Winter,625
+Park,State House,28,REP,Write-ins,7
+Park,State House,28,REP,Over Votes,0
+Park,State House,28,REP,Under Votes,155
+Park,State House,28,DEM,Kimberly M. Bartlett,13
+Park,State House,28,DEM,Write-ins,0
+Park,State House,28,DEM,Over Votes,0
+Park,State House,28,DEM,Under Votes,3
+Park,State House,50,REP,Rachel Rodriguez-Williams,3072
+Park,State House,50,REP,Write-ins,87
+Park,State House,50,REP,Over Votes,2
+Park,State House,50,REP,Under Votes,889
+Park,State House,50,DEM,Write-ins,5
+Park,Ballots Cast,,REP,Ballots Cast,11951
+Park,Ballots Cast,,DEM,Ballots Cast,235
+Park,Ballots Cast,,NP,Ballots Cast,180
+Park,Ballots Cast,,,Ballots Cast,12366
+Platte,U.S. House,,REP,Anthony Bouchard,104
+Platte,U.S. House,,REP,Denton Knapp,25
+Platte,U.S. House,,REP,Harriet Hageman,2777
+Platte,U.S. House,,REP,Liz Cheney,535
+Platte,U.S. House,,REP,Robyn M. Belinskey,19
+Platte,U.S. House,,REP,Write-ins,3
+Platte,U.S. House,,REP,Over Votes,9
+Platte,U.S. House,,REP,Under Votes,14
+Platte,U.S. House,,DEM,Lynnette GreyBull,94
+Platte,U.S. House,,DEM,Meghan R. Jensen,51
+Platte,U.S. House,,DEM,Steve Helling,30
+Platte,U.S. House,,DEM,Write-ins,5
+Platte,U.S. House,,DEM,Over Votes,2
+Platte,U.S. House,,DEM,Under Votes,15
+Platte,Governor,,REP,Brent Bien,1795
+Platte,Governor,,REP,James Scott Quick,106
+Platte,Governor,,REP,Mark Gordon,1285
+Platte,Governor,,REP,Rex Rammell,198
+Platte,Governor,,REP,Write-ins,4
+Platte,Governor,,REP,Over Votes,0
+Platte,Governor,,REP,Under Votes,98
+Platte,Governor,,DEM,Rex Wilde,60
+Platte,Governor,,DEM,Theresa A. Livingston,108
+Platte,Governor,,DEM,Write-ins,3
+Platte,Governor,,DEM,Over Votes,1
+Platte,Governor,,DEM,Under Votes,25
+Platte,Secretary of State,,REP,* Withdrawn Candidate,45
+Platte,Secretary of State,,REP,Chuck Gray,2186
+Platte,Secretary of State,,REP,Mark Armstrong,269
+Platte,Secretary of State,,REP,Tara Nethercott,786
+Platte,Secretary of State,,REP,Write-ins,5
+Platte,Secretary of State,,REP,Over Votes,2
+Platte,Secretary of State,,REP,Under Votes,193
+Platte,Secretary of State,,DEM,Write-ins,9
+Platte,Secretary of State,,DEM,Over Votes,0
+Platte,Secretary of State,,DEM,Under Votes,188
+Platte,State Auditor,,REP,Kristi Racines,2886
+Platte,State Auditor,,REP,Write-ins,8
+Platte,State Auditor,,REP,Over Votes,0
+Platte,State Auditor,,REP,Under Votes,592
+Platte,State Auditor,,DEM,Write-ins,7
+Platte,State Treasurer,,REP,Bill Gallop,571
+Platte,State Treasurer,,REP,Curt Meier,2484
+Platte,State Treasurer,,REP,Write-ins,8
+Platte,State Treasurer,,REP,Over Votes,0
+Platte,State Treasurer,,REP,Under Votes,423
+Platte,State Treasurer,,DEM,Write-ins,9
+Platte,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,160
+Platte,Superintendent of Public Instruction,,REP,Brian Schroeder,1877
+Platte,Superintendent of Public Instruction,,REP,Jennifer Zerba,198
+Platte,Superintendent of Public Instruction,,REP,Megan Degenfelder,828
+Platte,Superintendent of Public Instruction,,REP,Robert J. White III,53
+Platte,Superintendent of Public Instruction,,REP,Write-ins,10
+Platte,Superintendent of Public Instruction,,REP,Over Votes,4
+Platte,Superintendent of Public Instruction,,REP,Under Votes,356
+Platte,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",157
+Platte,Superintendent of Public Instruction,,DEM,Write-ins,2
+Platte,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,Superintendent of Public Instruction,,DEM,Under Votes,38
+Platte,State House,4,REP,Jeremy Haroldson,2672
+Platte,State House,4,REP,Write-ins,173
+Platte,State House,4,REP,Over Votes,0
+Platte,State House,4,REP,Under Votes,641
+Platte,State House,4,DEM,Write-ins,14
+Platte,Ballots Cast,,REP,Ballots Cast,3486
+Platte,Ballots Cast,,DEM,Ballots Cast,197
+Platte,Ballots Cast,,NP,Ballots Cast,68
+Platte,Ballots Cast,,,Ballots Cast,3751
+Sheridan,U.S. House,,REP,Anthony Bouchard,228
+Sheridan,U.S. House,,REP,Denton Knapp,113
+Sheridan,U.S. House,,REP,Harriet Hageman,7366
+Sheridan,U.S. House,,REP,Liz Cheney,3057
+Sheridan,U.S. House,,REP,Robyn M. Belinskey,119
+Sheridan,U.S. House,,REP,Write-ins,13
+Sheridan,U.S. House,,REP,Over Votes,42
+Sheridan,U.S. House,,REP,Under Votes,59
+Sheridan,U.S. House,,DEM,Lynnette GreyBull,262
+Sheridan,U.S. House,,DEM,Meghan R. Jensen,101
+Sheridan,U.S. House,,DEM,Steve Helling,61
+Sheridan,U.S. House,,DEM,Write-ins,28
+Sheridan,U.S. House,,DEM,Over Votes,6
+Sheridan,U.S. House,,DEM,Under Votes,34
+Sheridan,Governor,,REP,Brent Bien,3795
+Sheridan,Governor,,REP,James Scott Quick,150
+Sheridan,Governor,,REP,Mark Gordon,6324
+Sheridan,Governor,,REP,Rex Rammell,333
+Sheridan,Governor,,REP,Write-ins,26
+Sheridan,Governor,,REP,Over Votes,2
+Sheridan,Governor,,REP,Under Votes,367
+Sheridan,Governor,,DEM,Rex Wilde,96
+Sheridan,Governor,,DEM,Theresa A. Livingston,321
+Sheridan,Governor,,DEM,Write-ins,19
+Sheridan,Governor,,DEM,Over Votes,0
+Sheridan,Governor,,DEM,Under Votes,56
+Sheridan,Secretary of State,,REP,* Withdrawn Candidate,232
+Sheridan,Secretary of State,,REP,Chuck Gray,4984
+Sheridan,Secretary of State,,REP,Mark Armstrong,1049
+Sheridan,Secretary of State,,REP,Tara Nethercott,3628
+Sheridan,Secretary of State,,REP,Write-ins,21
+Sheridan,Secretary of State,,REP,Over Votes,11
+Sheridan,Secretary of State,,REP,Under Votes,1072
+Sheridan,Secretary of State,,DEM,Write-ins,32
+Sheridan,Secretary of State,,DEM,Over Votes,0
+Sheridan,Secretary of State,,DEM,Under Votes,460
+Sheridan,State Auditor,,REP,Kristi Racines,8304
+Sheridan,State Auditor,,REP,Write-ins,48
+Sheridan,State Auditor,,REP,Over Votes,3
+Sheridan,State Auditor,,REP,Under Votes,2642
+Sheridan,State Auditor,,DEM,Write-ins,19
+Sheridan,State Treasurer,,REP,Bill Gallop,2174
+Sheridan,State Treasurer,,REP,Curt Meier,6604
+Sheridan,State Treasurer,,REP,Write-ins,39
+Sheridan,State Treasurer,,REP,Over Votes,3
+Sheridan,State Treasurer,,REP,Under Votes,2177
+Sheridan,State Treasurer,,DEM,Write-ins,23
+Sheridan,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,926
+Sheridan,Superintendent of Public Instruction,,REP,Brian Schroeder,3752
+Sheridan,Superintendent of Public Instruction,,REP,Jennifer Zerba,797
+Sheridan,Superintendent of Public Instruction,,REP,Megan Degenfelder,3356
+Sheridan,Superintendent of Public Instruction,,REP,Robert J. White III,216
+Sheridan,Superintendent of Public Instruction,,REP,Write-ins,53
+Sheridan,Superintendent of Public Instruction,,REP,Over Votes,23
+Sheridan,Superintendent of Public Instruction,,REP,Under Votes,1874
+Sheridan,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",411
+Sheridan,Superintendent of Public Instruction,,DEM,Write-ins,3
+Sheridan,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sheridan,Superintendent of Public Instruction,,DEM,Under Votes,78
+Sheridan,State Senate,21,REP,Bo Biteman,5262
+Sheridan,State Senate,21,REP,Write-ins,264
+Sheridan,State Senate,21,REP,Over Votes,0
+Sheridan,State Senate,21,REP,Under Votes,1694
+Sheridan,State Senate,21,DEM,Mark Hansen,276
+Sheridan,State Senate,21,DEM,Write-ins,5
+Sheridan,State Senate,21,DEM,Over Votes,1
+Sheridan,State Senate,21,DEM,Under Votes,52
+Sheridan,State House,29,REP,Gary Miller,1248
+Sheridan,State House,29,REP,Ken Pendergraft,1286
+Sheridan,State House,29,REP,Write-ins,14
+Sheridan,State House,29,REP,Over Votes,1
+Sheridan,State House,29,REP,Under Votes,304
+Sheridan,State House,29,DEM,Martha J. Wright,149
+Sheridan,State House,29,DEM,Write-ins,1
+Sheridan,State House,29,DEM,Over Votes,0
+Sheridan,State House,29,DEM,Under Votes,26
+Sheridan,State House,30,REP,Mark Jennings,2543
+Sheridan,State House,30,REP,Write-ins,68
+Sheridan,State House,30,REP,Over Votes,0
+Sheridan,State House,30,REP,Under Votes,613
+Sheridan,State House,30,DEM,Write-ins,15
+Sheridan,State House,40,REP,Barry Crago,311
+Sheridan,State House,40,REP,Richard Tass,294
+Sheridan,State House,40,REP,Write-ins,2
+Sheridan,State House,40,REP,Over Votes,0
+Sheridan,State House,40,REP,Under Votes,76
+Sheridan,State House,40,DEM,Write-ins,1
+Sheridan,State House,51,REP,Bryan Miller,1874
+Sheridan,State House,51,REP,Cyrus Western,2010
+Sheridan,State House,51,REP,Write-ins,12
+Sheridan,State House,51,REP,Over Votes,2
+Sheridan,State House,51,REP,Under Votes,339
+Sheridan,State House,51,DEM,Write-ins,7
+Sheridan,Ballots Cast,,REP,Ballots Cast,10997
+Sheridan,Ballots Cast,,DEM,Ballots Cast,492
+Sheridan,Ballots Cast,,NP,Ballots Cast,130
+Sheridan,Ballots Cast,,,Ballots Cast,11619
+Sublette,U.S. House,,REP,Anthony Bouchard,95
+Sublette,U.S. House,,REP,Denton Knapp,32
+Sublette,U.S. House,,REP,Harriet Hageman,2538
+Sublette,U.S. House,,REP,Liz Cheney,849
+Sublette,U.S. House,,REP,Robyn M. Belinskey,18
+Sublette,U.S. House,,REP,Write-ins,8
+Sublette,U.S. House,,REP,Over Votes,15
+Sublette,U.S. House,,REP,Under Votes,28
+Sublette,U.S. House,,DEM,Lynnette GreyBull,30
+Sublette,U.S. House,,DEM,Meghan R. Jensen,7
+Sublette,U.S. House,,DEM,Steve Helling,3
+Sublette,U.S. House,,DEM,Write-ins,1
+Sublette,U.S. House,,DEM,Over Votes,1
+Sublette,U.S. House,,DEM,Under Votes,1
+Sublette,Governor,,REP,Brent Bien,921
+Sublette,Governor,,REP,James Scott Quick,53
+Sublette,Governor,,REP,Mark Gordon,2267
+Sublette,Governor,,REP,Rex Rammell,164
+Sublette,Governor,,REP,Write-ins,9
+Sublette,Governor,,REP,Over Votes,2
+Sublette,Governor,,REP,Under Votes,167
+Sublette,Governor,,DEM,Rex Wilde,10
+Sublette,Governor,,DEM,Theresa A. Livingston,30
+Sublette,Governor,,DEM,Write-ins,0
+Sublette,Governor,,DEM,Over Votes,0
+Sublette,Governor,,DEM,Under Votes,3
+Sublette,Secretary of State,,REP,* Withdrawn Candidate,105
+Sublette,Secretary of State,,REP,Chuck Gray,1285
+Sublette,Secretary of State,,REP,Mark Armstrong,277
+Sublette,Secretary of State,,REP,Tara Nethercott,1508
+Sublette,Secretary of State,,REP,Write-ins,8
+Sublette,Secretary of State,,REP,Over Votes,2
+Sublette,Secretary of State,,REP,Under Votes,398
+Sublette,Secretary of State,,DEM,Write-ins,1
+Sublette,Secretary of State,,DEM,Over Votes,0
+Sublette,Secretary of State,,DEM,Under Votes,42
+Sublette,State Auditor,,REP,Kristi Racines,2773
+Sublette,State Auditor,,REP,Write-ins,16
+Sublette,State Auditor,,REP,Over Votes,0
+Sublette,State Auditor,,REP,Under Votes,794
+Sublette,State Auditor,,DEM,Write-ins,1
+Sublette,State Treasurer,,REP,Bill Gallop,775
+Sublette,State Treasurer,,REP,Curt Meier,1962
+Sublette,State Treasurer,,REP,Write-ins,14
+Sublette,State Treasurer,,REP,Over Votes,1
+Sublette,State Treasurer,,REP,Under Votes,831
+Sublette,State Treasurer,,DEM,Write-ins,0
+Sublette,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,301
+Sublette,Superintendent of Public Instruction,,REP,Brian Schroeder,1056
+Sublette,Superintendent of Public Instruction,,REP,Jennifer Zerba,296
+Sublette,Superintendent of Public Instruction,,REP,Megan Degenfelder,1036
+Sublette,Superintendent of Public Instruction,,REP,Robert J. White III,100
+Sublette,Superintendent of Public Instruction,,REP,Write-ins,18
+Sublette,Superintendent of Public Instruction,,REP,Over Votes,7
+Sublette,Superintendent of Public Instruction,,REP,Under Votes,769
+Sublette,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",33
+Sublette,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sublette,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,Superintendent of Public Instruction,,DEM,Under Votes,10
+Sublette,State House,20,REP,Albert Sommers,2113
+Sublette,State House,20,REP,Bill Winney,156
+Sublette,State House,20,REP,Michael D. Schmid,1193
+Sublette,State House,20,REP,Write-ins,4
+Sublette,State House,20,REP,Over Votes,7
+Sublette,State House,20,REP,Under Votes,110
+Sublette,State House,20,DEM,Write-ins,4
+Sublette,Ballots Cast,,REP,Ballots Cast,3583
+Sublette,Ballots Cast,,DEM,Ballots Cast,43
+Sublette,Ballots Cast,,NP,Ballots Cast,0
+Sublette,Ballots Cast,,,Ballots Cast,3626
+Sweetwater,U.S. House,,REP,Anthony Bouchard,449
+Sweetwater,U.S. House,,REP,Denton Knapp,176
+Sweetwater,U.S. House,,REP,Harriet Hageman,6722
+Sweetwater,U.S. House,,REP,Liz Cheney,2163
+Sweetwater,U.S. House,,REP,Robyn M. Belinskey,132
+Sweetwater,U.S. House,,REP,Write-ins,12
+Sweetwater,U.S. House,,REP,Over Votes,51
+Sweetwater,U.S. House,,REP,Under Votes,103
+Sweetwater,U.S. House,,DEM,Lynnette GreyBull,477
+Sweetwater,U.S. House,,DEM,Meghan R. Jensen,297
+Sweetwater,U.S. House,,DEM,Steve Helling,144
+Sweetwater,U.S. House,,DEM,Write-ins,32
+Sweetwater,U.S. House,,DEM,Over Votes,16
+Sweetwater,U.S. House,,DEM,Under Votes,90
+Sweetwater,Governor,,REP,Brent Bien,2300
+Sweetwater,Governor,,REP,James Scott Quick,349
+Sweetwater,Governor,,REP,Mark Gordon,5749
+Sweetwater,Governor,,REP,Rex Rammell,819
+Sweetwater,Governor,,REP,Write-ins,19
+Sweetwater,Governor,,REP,Over Votes,18
+Sweetwater,Governor,,REP,Under Votes,554
+Sweetwater,Governor,,DEM,Rex Wilde,366
+Sweetwater,Governor,,DEM,Theresa A. Livingston,547
+Sweetwater,Governor,,DEM,Write-ins,24
+Sweetwater,Governor,,DEM,Over Votes,0
+Sweetwater,Governor,,DEM,Under Votes,119
+Sweetwater,Secretary of State,,REP,* Withdrawn Candidate,260
+Sweetwater,Secretary of State,,REP,Chuck Gray,4274
+Sweetwater,Secretary of State,,REP,Mark Armstrong,1176
+Sweetwater,Secretary of State,,REP,Tara Nethercott,2964
+Sweetwater,Secretary of State,,REP,Write-ins,19
+Sweetwater,Secretary of State,,REP,Over Votes,16
+Sweetwater,Secretary of State,,REP,Under Votes,1099
+Sweetwater,Secretary of State,,DEM,Write-ins,66
+Sweetwater,Secretary of State,,DEM,Over Votes,0
+Sweetwater,Secretary of State,,DEM,Under Votes,990
+Sweetwater,State Auditor,,REP,Kristi Racines,7350
+Sweetwater,State Auditor,,REP,Write-ins,44
+Sweetwater,State Auditor,,REP,Over Votes,1
+Sweetwater,State Auditor,,REP,Under Votes,2413
+Sweetwater,State Auditor,,DEM,Write-ins,41
+Sweetwater,State Treasurer,,REP,Bill Gallop,2693
+Sweetwater,State Treasurer,,REP,Curt Meier,4985
+Sweetwater,State Treasurer,,REP,Write-ins,36
+Sweetwater,State Treasurer,,REP,Over Votes,2
+Sweetwater,State Treasurer,,REP,Under Votes,2092
+Sweetwater,State Treasurer,,DEM,Write-ins,45
+Sweetwater,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,1078
+Sweetwater,Superintendent of Public Instruction,,REP,Brian Schroeder,2809
+Sweetwater,Superintendent of Public Instruction,,REP,Jennifer Zerba,965
+Sweetwater,Superintendent of Public Instruction,,REP,Megan Degenfelder,2531
+Sweetwater,Superintendent of Public Instruction,,REP,Robert J. White III,487
+Sweetwater,Superintendent of Public Instruction,,REP,Write-ins,36
+Sweetwater,Superintendent of Public Instruction,,REP,Over Votes,22
+Sweetwater,Superintendent of Public Instruction,,REP,Under Votes,1880
+Sweetwater,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",867
+Sweetwater,Superintendent of Public Instruction,,DEM,Write-ins,6
+Sweetwater,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,Superintendent of Public Instruction,,DEM,Under Votes,183
+Sweetwater,State Senate,11,REP,Larry Hicks,569
+Sweetwater,State Senate,11,REP,Write-ins,8
+Sweetwater,State Senate,11,REP,Over Votes,0
+Sweetwater,State Senate,11,REP,Under Votes,192
+Sweetwater,State Senate,11,DEM,Write-ins,2
+Sweetwater,State Senate,13,REP,Stacy Jones,2562
+Sweetwater,State Senate,13,REP,Tom James,1212
+Sweetwater,State Senate,13,REP,Write-ins,12
+Sweetwater,State Senate,13,REP,Over Votes,10
+Sweetwater,State Senate,13,REP,Under Votes,476
+Sweetwater,State Senate,13,DEM,Leesa Kuhlmann,385
+Sweetwater,State Senate,13,DEM,Write-ins,1
+Sweetwater,State Senate,13,DEM,Over Votes,0
+Sweetwater,State Senate,13,DEM,Under Votes,71
+Sweetwater,State House,15,REP,Donald Burkhart,33
+Sweetwater,State House,15,REP,Write-ins,0
+Sweetwater,State House,15,REP,Over Votes,0
+Sweetwater,State House,15,REP,Under Votes,4
+Sweetwater,State House,15,DEM,Write-ins,1
+Sweetwater,State House,17,REP,Joshua Thomas (J.T.) Larson,1322
+Sweetwater,State House,17,REP,Write-ins,23
+Sweetwater,State House,17,REP,Over Votes,0
+Sweetwater,State House,17,REP,Under Votes,478
+Sweetwater,State House,17,DEM,Chad M. Banks,203
+Sweetwater,State House,17,DEM,Write-ins,3
+Sweetwater,State House,17,DEM,Over Votes,0
+Sweetwater,State House,17,DEM,Under Votes,26
+Sweetwater,State House,18,REP,Scott Heiner,743
+Sweetwater,State House,18,REP,Write-ins,8
+Sweetwater,State House,18,REP,Over Votes,0
+Sweetwater,State House,18,REP,Under Votes,246
+Sweetwater,State House,18,DEM,Write-ins,3
+Sweetwater,State House,39,REP,Cody Wylie,1589
+Sweetwater,State House,39,REP,Write-ins,11
+Sweetwater,State House,39,REP,Over Votes,0
+Sweetwater,State House,39,REP,Under Votes,548
+Sweetwater,State House,39,DEM,Write-ins,7
+Sweetwater,State House,47,REP,Clyde R. Johnson,178
+Sweetwater,State House,47,REP,"Robert ""Bob"" Davis",416
+Sweetwater,State House,47,REP,Write-ins,2
+Sweetwater,State House,47,REP,Over Votes,0
+Sweetwater,State House,47,REP,Under Votes,136
+Sweetwater,State House,47,DEM,Lee Ann Stephenson,37
+Sweetwater,State House,47,DEM,Write-ins,0
+Sweetwater,State House,47,DEM,Over Votes,0
+Sweetwater,State House,47,DEM,Under Votes,11
+Sweetwater,State House,48,REP,Clark Stith,1507
+Sweetwater,State House,48,REP,Write-ins,45
+Sweetwater,State House,48,REP,Over Votes,0
+Sweetwater,State House,48,REP,Under Votes,395
+Sweetwater,State House,48,DEM,Write-ins,11
+Sweetwater,State House,60,REP,Jennifer L. James,465
+Sweetwater,State House,60,REP,Tony Niemiec,1436
+Sweetwater,State House,60,REP,Write-ins,4
+Sweetwater,State House,60,REP,Over Votes,2
+Sweetwater,State House,60,REP,Under Votes,217
+Sweetwater,State House,60,DEM,Write-ins,23
+Sweetwater,Ballots Cast,,REP,Ballots Cast,9808
+Sweetwater,Ballots Cast,,DEM,Ballots Cast,1056
+Sweetwater,Ballots Cast,,NP,Ballots Cast,216
+Sweetwater,Ballots Cast,,,Ballots Cast,11080
+Teton,U.S. House,,REP,Anthony Bouchard,34
+Teton,U.S. House,,REP,Denton Knapp,13
+Teton,U.S. House,,REP,Harriet Hageman,1928
+Teton,U.S. House,,REP,Liz Cheney,5955
+Teton,U.S. House,,REP,Robyn M. Belinskey,15
+Teton,U.S. House,,REP,Write-ins,4
+Teton,U.S. House,,REP,Over Votes,9
+Teton,U.S. House,,REP,Under Votes,20
+Teton,U.S. House,,DEM,Lynnette GreyBull,299
+Teton,U.S. House,,DEM,Meghan R. Jensen,61
+Teton,U.S. House,,DEM,Steve Helling,35
+Teton,U.S. House,,DEM,Write-ins,21
+Teton,U.S. House,,DEM,Over Votes,3
+Teton,U.S. House,,DEM,Under Votes,62
+Teton,Governor,,REP,Brent Bien,516
+Teton,Governor,,REP,James Scott Quick,153
+Teton,Governor,,REP,Mark Gordon,5618
+Teton,Governor,,REP,Rex Rammell,247
+Teton,Governor,,REP,Write-ins,69
+Teton,Governor,,REP,Over Votes,0
+Teton,Governor,,REP,Under Votes,1375
+Teton,Governor,,DEM,Rex Wilde,58
+Teton,Governor,,DEM,Theresa A. Livingston,302
+Teton,Governor,,DEM,Write-ins,6
+Teton,Governor,,DEM,Over Votes,0
+Teton,Governor,,DEM,Under Votes,115
+Teton,Secretary of State,,REP,* Withdrawn Candidate,174
+Teton,Secretary of State,,REP,Chuck Gray,895
+Teton,Secretary of State,,REP,Mark Armstrong,393
+Teton,Secretary of State,,REP,Tara Nethercott,4797
+Teton,Secretary of State,,REP,Write-ins,40
+Teton,Secretary of State,,REP,Over Votes,11
+Teton,Secretary of State,,REP,Under Votes,1668
+Teton,Secretary of State,,DEM,Write-ins,26
+Teton,Secretary of State,,DEM,Over Votes,0
+Teton,Secretary of State,,DEM,Under Votes,455
+Teton,State Auditor,,REP,Kristi Racines,4032
+Teton,State Auditor,,REP,Write-ins,49
+Teton,State Auditor,,REP,Over Votes,1
+Teton,State Auditor,,REP,Under Votes,3896
+Teton,State Auditor,,DEM,Write-ins,12
+Teton,State Treasurer,,REP,Bill Gallop,2342
+Teton,State Treasurer,,REP,Curt Meier,1991
+Teton,State Treasurer,,REP,Write-ins,74
+Teton,State Treasurer,,REP,Over Votes,2
+Teton,State Treasurer,,REP,Under Votes,3569
+Teton,State Treasurer,,DEM,Write-ins,15
+Teton,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,362
+Teton,Superintendent of Public Instruction,,REP,Brian Schroeder,1256
+Teton,Superintendent of Public Instruction,,REP,Jennifer Zerba,830
+Teton,Superintendent of Public Instruction,,REP,Megan Degenfelder,2575
+Teton,Superintendent of Public Instruction,,REP,Robert J. White III,132
+Teton,Superintendent of Public Instruction,,REP,Write-ins,60
+Teton,Superintendent of Public Instruction,,REP,Over Votes,23
+Teton,Superintendent of Public Instruction,,REP,Under Votes,2740
+Teton,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",335
+Teton,Superintendent of Public Instruction,,DEM,Write-ins,1
+Teton,Superintendent of Public Instruction,,DEM,Over Votes,0
+Teton,Superintendent of Public Instruction,,DEM,Under Votes,145
+Teton,State Senate,17,REP,Steve Duerr,3313
+Teton,State Senate,17,REP,Write-ins,95
+Teton,State Senate,17,REP,Over Votes,0
+Teton,State Senate,17,REP,Under Votes,2940
+Teton,State Senate,17,DEM,Michael F. 'Mike' Gierau,330
+Teton,State Senate,17,DEM,Write-ins,7
+Teton,State Senate,17,DEM,Over Votes,0
+Teton,State Senate,17,DEM,Under Votes,79
+Teton,State House,16,REP,Jim McCollum,1058
+Teton,State House,16,REP,Write-ins,69
+Teton,State House,16,REP,Over Votes,0
+Teton,State House,16,REP,Under Votes,1324
+Teton,State House,16,DEM,Mike Yin,141
+Teton,State House,16,DEM,Write-ins,0
+Teton,State House,16,DEM,Over Votes,0
+Teton,State House,16,DEM,Under Votes,23
+Teton,State House,22,REP,Andrew Byron,889
+Teton,State House,22,REP,Write-ins,17
+Teton,State House,22,REP,Over Votes,0
+Teton,State House,22,REP,Under Votes,724
+Teton,State House,23,REP,Paul Vogelheim,2376
+Teton,State House,23,REP,Write-ins,44
+Teton,State House,23,REP,Over Votes,1
+Teton,State House,23,REP,Under Votes,1476
+Teton,State House,23,DEM,Liz Storer,168
+Teton,State House,23,DEM,Ryan Sedgeley,53
+Teton,State House,23,DEM,Write-ins,1
+Teton,State House,23,DEM,Over Votes,1
+Teton,State House,23,DEM,Under Votes,29
+Teton,Ballots Cast,,REP,Ballots Cast,7978
+Teton,Ballots Cast,,DEM,Ballots Cast,481
+Teton,Ballots Cast,,NP,Ballots Cast,32
+Teton,Ballots Cast,,,Ballots Cast,8491
+Uinta,U.S. House,,REP,Anthony Bouchard,215
+Uinta,U.S. House,,REP,Denton Knapp,84
+Uinta,U.S. House,,REP,Harriet Hageman,4030
+Uinta,U.S. House,,REP,Liz Cheney,1156
+Uinta,U.S. House,,REP,Robyn M. Belinskey,72
+Uinta,U.S. House,,REP,Write-ins,7
+Uinta,U.S. House,,REP,Over Votes,36
+Uinta,U.S. House,,REP,Under Votes,55
+Uinta,U.S. House,,DEM,Lynnette GreyBull,109
+Uinta,U.S. House,,DEM,Meghan R. Jensen,56
+Uinta,U.S. House,,DEM,Steve Helling,24
+Uinta,U.S. House,,DEM,Write-ins,6
+Uinta,U.S. House,,DEM,Over Votes,5
+Uinta,U.S. House,,DEM,Under Votes,22
+Uinta,Governor,,REP,Brent Bien,1399
+Uinta,Governor,,REP,James Scott Quick,136
+Uinta,Governor,,REP,Mark Gordon,3280
+Uinta,Governor,,REP,Rex Rammell,562
+Uinta,Governor,,REP,Write-ins,8
+Uinta,Governor,,REP,Over Votes,1
+Uinta,Governor,,REP,Under Votes,269
+Uinta,Governor,,DEM,Rex Wilde,78
+Uinta,Governor,,DEM,Theresa A. Livingston,116
+Uinta,Governor,,DEM,Write-ins,3
+Uinta,Governor,,DEM,Over Votes,1
+Uinta,Governor,,DEM,Under Votes,24
+Uinta,Secretary of State,,REP,* Withdrawn Candidate,108
+Uinta,Secretary of State,,REP,Chuck Gray,2570
+Uinta,Secretary of State,,REP,Mark Armstrong,672
+Uinta,Secretary of State,,REP,Tara Nethercott,1710
+Uinta,Secretary of State,,REP,Write-ins,7
+Uinta,Secretary of State,,REP,Over Votes,4
+Uinta,Secretary of State,,REP,Under Votes,584
+Uinta,Secretary of State,,DEM,Write-ins,10
+Uinta,Secretary of State,,DEM,Over Votes,0
+Uinta,Secretary of State,,DEM,Under Votes,212
+Uinta,State Auditor,,REP,Kristi Racines,4417
+Uinta,State Auditor,,REP,Write-ins,23
+Uinta,State Auditor,,REP,Over Votes,2
+Uinta,State Auditor,,REP,Under Votes,1213
+Uinta,State Auditor,,DEM,Write-ins,10
+Uinta,State Treasurer,,REP,Bill Gallop,1288
+Uinta,State Treasurer,,REP,Curt Meier,3201
+Uinta,State Treasurer,,REP,Write-ins,8
+Uinta,State Treasurer,,REP,Over Votes,0
+Uinta,State Treasurer,,REP,Under Votes,1158
+Uinta,State Treasurer,,DEM,Write-ins,11
+Uinta,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,508
+Uinta,Superintendent of Public Instruction,,REP,Brian Schroeder,1899
+Uinta,Superintendent of Public Instruction,,REP,Jennifer Zerba,606
+Uinta,Superintendent of Public Instruction,,REP,Megan Degenfelder,1401
+Uinta,Superintendent of Public Instruction,,REP,Robert J. White III,227
+Uinta,Superintendent of Public Instruction,,REP,Write-ins,13
+Uinta,Superintendent of Public Instruction,,REP,Over Votes,22
+Uinta,Superintendent of Public Instruction,,REP,Under Votes,979
+Uinta,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",179
+Uinta,Superintendent of Public Instruction,,DEM,Write-ins,2
+Uinta,Superintendent of Public Instruction,,DEM,Over Votes,0
+Uinta,Superintendent of Public Instruction,,DEM,Under Votes,41
+Uinta,State Senate,15,REP,Robert (Bob) Wharff,1873
+Uinta,State Senate,15,REP,Wendy Davis Schuler,2997
+Uinta,State Senate,15,REP,Write-ins,11
+Uinta,State Senate,15,REP,Over Votes,1
+Uinta,State Senate,15,REP,Under Votes,288
+Uinta,State Senate,15,DEM,Write-ins,15
+Uinta,State House,18,REP,Scott Heiner,383
+Uinta,State House,18,REP,Write-ins,7
+Uinta,State House,18,REP,Over Votes,0
+Uinta,State House,18,REP,Under Votes,95
+Uinta,State House,18,DEM,Write-ins,0
+Uinta,State House,19,REP,Andy Stocks,638
+Uinta,State House,19,REP,Jon R. Conrad,1078
+Uinta,State House,19,REP,Karl Allred,752
+Uinta,State House,19,REP,Write-ins,8
+Uinta,State House,19,REP,Over Votes,11
+Uinta,State House,19,REP,Under Votes,160
+Uinta,State House,19,DEM,Sarah Butters,72
+Uinta,State House,19,DEM,Write-ins,1
+Uinta,State House,19,DEM,Over Votes,1
+Uinta,State House,19,DEM,Under Votes,11
+Uinta,State House,49,REP,Ryan C. Berger,1494
+Uinta,State House,49,REP,Vladimir Allred,767
+Uinta,State House,49,REP,Write-ins,11
+Uinta,State House,49,REP,Over Votes,2
+Uinta,State House,49,REP,Under Votes,249
+Uinta,State House,49,DEM,Tim Beppler,103
+Uinta,State House,49,DEM,Write-ins,1
+Uinta,State House,49,DEM,Over Votes,0
+Uinta,State House,49,DEM,Under Votes,20
+Uinta,Ballots Cast,,REP,Ballots Cast,5655
+Uinta,Ballots Cast,,DEM,Ballots Cast,222
+Uinta,Ballots Cast,,NP,Ballots Cast,48
+Uinta,Ballots Cast,,,Ballots Cast,5925
+Washakie,U.S. House,,REP,Anthony Bouchard,114
+Washakie,U.S. House,,REP,Denton Knapp,31
+Washakie,U.S. House,,REP,Harriet Hageman,2213
+Washakie,U.S. House,,REP,Liz Cheney,531
+Washakie,U.S. House,,REP,Robyn M. Belinskey,30
+Washakie,U.S. House,,REP,Write-ins,8
+Washakie,U.S. House,,REP,Over Votes,18
+Washakie,U.S. House,,REP,Under Votes,15
+Washakie,U.S. House,,DEM,Lynnette GreyBull,62
+Washakie,U.S. House,,DEM,Meghan R. Jensen,22
+Washakie,U.S. House,,DEM,Steve Helling,12
+Washakie,U.S. House,,DEM,Write-ins,3
+Washakie,U.S. House,,DEM,Over Votes,1
+Washakie,U.S. House,,DEM,Under Votes,10
+Washakie,Governor,,REP,Brent Bien,1022
+Washakie,Governor,,REP,James Scott Quick,54
+Washakie,Governor,,REP,Mark Gordon,1557
+Washakie,Governor,,REP,Rex Rammell,250
+Washakie,Governor,,REP,Write-ins,3
+Washakie,Governor,,REP,Over Votes,2
+Washakie,Governor,,REP,Under Votes,72
+Washakie,Governor,,DEM,Rex Wilde,28
+Washakie,Governor,,DEM,Theresa A. Livingston,65
+Washakie,Governor,,DEM,Write-ins,2
+Washakie,Governor,,DEM,Over Votes,1
+Washakie,Governor,,DEM,Under Votes,14
+Washakie,Secretary of State,,REP,* Withdrawn Candidate,89
+Washakie,Secretary of State,,REP,Chuck Gray,1472
+Washakie,Secretary of State,,REP,Mark Armstrong,260
+Washakie,Secretary of State,,REP,Tara Nethercott,924
+Washakie,Secretary of State,,REP,Write-ins,3
+Washakie,Secretary of State,,REP,Over Votes,3
+Washakie,Secretary of State,,REP,Under Votes,209
+Washakie,Secretary of State,,DEM,Write-ins,5
+Washakie,Secretary of State,,DEM,Over Votes,0
+Washakie,Secretary of State,,DEM,Under Votes,105
+Washakie,State Auditor,,REP,Kristi Racines,2432
+Washakie,State Auditor,,REP,Write-ins,11
+Washakie,State Auditor,,REP,Over Votes,0
+Washakie,State Auditor,,REP,Under Votes,517
+Washakie,State Auditor,,DEM,Write-ins,3
+Washakie,State Treasurer,,REP,Bill Gallop,550
+Washakie,State Treasurer,,REP,Curt Meier,1972
+Washakie,State Treasurer,,REP,Write-ins,3
+Washakie,State Treasurer,,REP,Over Votes,0
+Washakie,State Treasurer,,REP,Under Votes,435
+Washakie,State Treasurer,,DEM,Write-ins,2
+Washakie,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,213
+Washakie,Superintendent of Public Instruction,,REP,Brian Schroeder,997
+Washakie,Superintendent of Public Instruction,,REP,Jennifer Zerba,189
+Washakie,Superintendent of Public Instruction,,REP,Megan Degenfelder,1045
+Washakie,Superintendent of Public Instruction,,REP,Robert J. White III,106
+Washakie,Superintendent of Public Instruction,,REP,Write-ins,4
+Washakie,Superintendent of Public Instruction,,REP,Over Votes,7
+Washakie,Superintendent of Public Instruction,,REP,Under Votes,399
+Washakie,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",91
+Washakie,Superintendent of Public Instruction,,DEM,Write-ins,1
+Washakie,Superintendent of Public Instruction,,DEM,Over Votes,0
+Washakie,Superintendent of Public Instruction,,DEM,Under Votes,18
+Washakie,State House,27,REP,Martha Lawley,2486
+Washakie,State House,27,REP,Write-ins,12
+Washakie,State House,27,REP,Over Votes,0
+Washakie,State House,27,REP,Under Votes,462
+Washakie,State House,27,DEM,Write-ins,16
+Washakie,Ballots Cast,,REP,Ballots Cast,2960
+Washakie,Ballots Cast,,DEM,Ballots Cast,110
+Washakie,Ballots Cast,,NP,Ballots Cast,18
+Washakie,Ballots Cast,,,Ballots Cast,3088
+Weston,U.S. House,,REP,Anthony Bouchard,117
+Weston,U.S. House,,REP,Denton Knapp,36
+Weston,U.S. House,,REP,Harriet Hageman,2142
+Weston,U.S. House,,REP,Liz Cheney,332
+Weston,U.S. House,,REP,Robyn M. Belinskey,33
+Weston,U.S. House,,REP,Write-ins,0
+Weston,U.S. House,,REP,Over Votes,16
+Weston,U.S. House,,REP,Under Votes,15
+Weston,U.S. House,,DEM,Lynnette GreyBull,23
+Weston,U.S. House,,DEM,Meghan R. Jensen,6
+Weston,U.S. House,,DEM,Steve Helling,6
+Weston,U.S. House,,DEM,Write-ins,0
+Weston,U.S. House,,DEM,Over Votes,1
+Weston,U.S. House,,DEM,Under Votes,6
+Weston,Governor,,REP,Brent Bien,1124
+Weston,Governor,,REP,James Scott Quick,91
+Weston,Governor,,REP,Mark Gordon,1171
+Weston,Governor,,REP,Rex Rammell,199
+Weston,Governor,,REP,Write-ins,5
+Weston,Governor,,REP,Over Votes,1
+Weston,Governor,,REP,Under Votes,100
+Weston,Governor,,DEM,Rex Wilde,7
+Weston,Governor,,DEM,Theresa A. Livingston,29
+Weston,Governor,,DEM,Write-ins,1
+Weston,Governor,,DEM,Over Votes,0
+Weston,Governor,,DEM,Under Votes,5
+Weston,Secretary of State,,REP,* Withdrawn Candidate,55
+Weston,Secretary of State,,REP,Chuck Gray,1537
+Weston,Secretary of State,,REP,Mark Armstrong,287
+Weston,Secretary of State,,REP,Tara Nethercott,605
+Weston,Secretary of State,,REP,Write-ins,1
+Weston,Secretary of State,,REP,Over Votes,1
+Weston,Secretary of State,,REP,Under Votes,205
+Weston,Secretary of State,,DEM,Write-ins,1
+Weston,Secretary of State,,DEM,Over Votes,0
+Weston,Secretary of State,,DEM,Under Votes,41
+Weston,State Auditor,,REP,Kristi Racines,2194
+Weston,State Auditor,,REP,Write-ins,7
+Weston,State Auditor,,REP,Over Votes,0
+Weston,State Auditor,,REP,Under Votes,490
+Weston,State Auditor,,DEM,Write-ins,1
+Weston,State Treasurer,,REP,Bill Gallop,546
+Weston,State Treasurer,,REP,Curt Meier,1763
+Weston,State Treasurer,,REP,Write-ins,3
+Weston,State Treasurer,,REP,Over Votes,3
+Weston,State Treasurer,,REP,Under Votes,376
+Weston,State Treasurer,,DEM,Write-ins,1
+Weston,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,252
+Weston,Superintendent of Public Instruction,,REP,Brian Schroeder,1084
+Weston,Superintendent of Public Instruction,,REP,Jennifer Zerba,249
+Weston,Superintendent of Public Instruction,,REP,Megan Degenfelder,649
+Weston,Superintendent of Public Instruction,,REP,Robert J. White III,62
+Weston,Superintendent of Public Instruction,,REP,Write-ins,4
+Weston,Superintendent of Public Instruction,,REP,Over Votes,7
+Weston,Superintendent of Public Instruction,,REP,Under Votes,384
+Weston,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",29
+Weston,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,Superintendent of Public Instruction,,DEM,Under Votes,13
+Weston,State Senate,1,REP,Bill Fortner,227
+Weston,State Senate,1,REP,Ogden Driskill,455
+Weston,State Senate,1,REP,Roger Connett,401
+Weston,State Senate,1,REP,Write-ins,0
+Weston,State Senate,1,REP,Over Votes,0
+Weston,State Senate,1,REP,Under Votes,69
+Weston,State Senate,1,DEM,Write-ins,0
+Weston,State Senate,3,REP,Cheri Steinmetz,734
+Weston,State Senate,3,REP,Marty Ertman,741
+Weston,State Senate,3,REP,Write-ins,1
+Weston,State Senate,3,REP,Over Votes,0
+Weston,State Senate,3,REP,Under Votes,63
+Weston,State Senate,3,DEM,Write-ins,1
+Weston,State House,1,REP,Chip Neiman,963
+Weston,State House,1,REP,Write-ins,16
+Weston,State House,1,REP,Over Votes,0
+Weston,State House,1,REP,Under Votes,173
+Weston,State House,1,DEM,Write-ins,0
+Weston,State House,2,REP,Allen Earl Slagle,910
+Weston,State House,2,REP,JD Williams,565
+Weston,State House,2,REP,Write-ins,2
+Weston,State House,2,REP,Over Votes,1
+Weston,State House,2,REP,Under Votes,60
+Weston,State House,2,DEM,Write-ins,2
+Weston,Ballots Cast,,REP,Ballots Cast,2691
+Weston,Ballots Cast,,DEM,Ballots Cast,42
+Weston,Ballots Cast,,NP,Ballots Cast,24
+Weston,Ballots Cast,,,Ballots Cast,2757

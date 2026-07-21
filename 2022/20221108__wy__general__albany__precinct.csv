@@ -1,0 +1,486 @@
+county,precinct,office,district,party,candidate,votes
+Albany,13-1,U.S. House,,REP,Harriet Hageman,445
+Albany,13-1,U.S. House,,DEM,Lynnette GreyBull,656
+Albany,13-1,U.S. House,,LIB,Richard Brubaker,33
+Albany,13-1,U.S. House,,CTRY,Marissa Joy Selvig,29
+Albany,13-1,U.S. House,,,Write-ins,34
+Albany,13-1,U.S. House,,,Over Votes,2
+Albany,13-1,U.S. House,,,Under Votes,12
+Albany,13-1,Governor,,REP,Mark Gordon,663
+Albany,13-1,Governor,,DEM,Theresa A. Livingston,447
+Albany,13-1,Governor,,LIB,Jared J. Baldes,40
+Albany,13-1,Governor,,,Write-ins,35
+Albany,13-1,Governor,,,Over Votes,0
+Albany,13-1,Governor,,,Under Votes,26
+Albany,13-1,Secretary of State,,REP,Chuck Gray,640
+Albany,13-1,Secretary of State,,,Write-ins,181
+Albany,13-1,Secretary of State,,,Over Votes,0
+Albany,13-1,Secretary of State,,,Under Votes,390
+Albany,13-1,State Auditor,,REP,Kristi Racines,813
+Albany,13-1,State Auditor,,,Write-ins,41
+Albany,13-1,State Auditor,,,Over Votes,0
+Albany,13-1,State Auditor,,,Under Votes,357
+Albany,13-1,State Treasurer,,REP,Curt Meier,753
+Albany,13-1,State Treasurer,,,Write-ins,59
+Albany,13-1,State Treasurer,,,Over Votes,0
+Albany,13-1,State Treasurer,,,Under Votes,399
+Albany,13-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,576
+Albany,13-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",593
+Albany,13-1,Superintendent of Public Instruction,,,Write-ins,10
+Albany,13-1,Superintendent of Public Instruction,,,Over Votes,1
+Albany,13-1,Superintendent of Public Instruction,,,Under Votes,31
+Albany,13-1,State Senate,9,REP,Diana Seabeck,514
+Albany,13-1,State Senate,9,DEM,Chris Rothfuss,668
+Albany,13-1,State Senate,9,,Write-ins,3
+Albany,13-1,State Senate,9,,Over Votes,0
+Albany,13-1,State Senate,9,,Under Votes,26
+Albany,13-1,State House,13,REP,Wayne B. Pinch,465
+Albany,13-1,State House,13,DEM,Ken Chestek,707
+Albany,13-1,State House,13,,Write-ins,5
+Albany,13-1,State House,13,,Over Votes,0
+Albany,13-1,State House,13,,Under Votes,34
+Albany,13-1,Ballots Cast,,,Ballots Cast,1211
+Albany,13-1,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Albany,13-1,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,216
+Albany,13-1,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Albany,13-1,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,96
+Albany,13-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,3
+Albany,13-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,30
+Albany,13-2,U.S. House,,REP,Harriet Hageman,75
+Albany,13-2,U.S. House,,DEM,Lynnette GreyBull,174
+Albany,13-2,U.S. House,,LIB,Richard Brubaker,6
+Albany,13-2,U.S. House,,CTRY,Marissa Joy Selvig,11
+Albany,13-2,U.S. House,,,Write-ins,1
+Albany,13-2,U.S. House,,,Over Votes,1
+Albany,13-2,U.S. House,,,Under Votes,0
+Albany,13-2,Governor,,REP,Mark Gordon,122
+Albany,13-2,Governor,,DEM,Theresa A. Livingston,120
+Albany,13-2,Governor,,LIB,Jared J. Baldes,9
+Albany,13-2,Governor,,,Write-ins,11
+Albany,13-2,Governor,,,Over Votes,0
+Albany,13-2,Governor,,,Under Votes,6
+Albany,13-2,Secretary of State,,REP,Chuck Gray,145
+Albany,13-2,Secretary of State,,,Write-ins,34
+Albany,13-2,Secretary of State,,,Over Votes,0
+Albany,13-2,Secretary of State,,,Under Votes,89
+Albany,13-2,State Auditor,,REP,Kristi Racines,170
+Albany,13-2,State Auditor,,,Write-ins,14
+Albany,13-2,State Auditor,,,Over Votes,0
+Albany,13-2,State Auditor,,,Under Votes,84
+Albany,13-2,State Treasurer,,REP,Curt Meier,160
+Albany,13-2,State Treasurer,,,Write-ins,17
+Albany,13-2,State Treasurer,,,Over Votes,1
+Albany,13-2,State Treasurer,,,Under Votes,90
+Albany,13-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,94
+Albany,13-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",160
+Albany,13-2,Superintendent of Public Instruction,,,Write-ins,4
+Albany,13-2,Superintendent of Public Instruction,,,Over Votes,0
+Albany,13-2,Superintendent of Public Instruction,,,Under Votes,10
+Albany,13-2,State Senate,9,REP,Diana Seabeck,86
+Albany,13-2,State Senate,9,DEM,Chris Rothfuss,175
+Albany,13-2,State Senate,9,,Write-ins,2
+Albany,13-2,State Senate,9,,Over Votes,0
+Albany,13-2,State Senate,9,,Under Votes,5
+Albany,13-2,State House,13,REP,Wayne B. Pinch,86
+Albany,13-2,State House,13,DEM,Ken Chestek,172
+Albany,13-2,State House,13,,Write-ins,2
+Albany,13-2,State House,13,,Over Votes,0
+Albany,13-2,State House,13,,Under Votes,8
+Albany,13-2,Ballots Cast,,,Ballots Cast,268
+Albany,13-2,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Albany,13-2,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,49
+Albany,13-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Albany,13-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,25
+Albany,13-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Albany,13-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,10
+Albany,13-3,U.S. House,,REP,Harriet Hageman,388
+Albany,13-3,U.S. House,,DEM,Lynnette GreyBull,494
+Albany,13-3,U.S. House,,LIB,Richard Brubaker,16
+Albany,13-3,U.S. House,,CTRY,Marissa Joy Selvig,10
+Albany,13-3,U.S. House,,,Write-ins,18
+Albany,13-3,U.S. House,,,Over Votes,1
+Albany,13-3,U.S. House,,,Under Votes,15
+Albany,13-3,Governor,,REP,Mark Gordon,533
+Albany,13-3,Governor,,DEM,Theresa A. Livingston,337
+Albany,13-3,Governor,,LIB,Jared J. Baldes,33
+Albany,13-3,Governor,,,Write-ins,23
+Albany,13-3,Governor,,,Over Votes,0
+Albany,13-3,Governor,,,Under Votes,16
+Albany,13-3,Secretary of State,,REP,Chuck Gray,539
+Albany,13-3,Secretary of State,,,Write-ins,112
+Albany,13-3,Secretary of State,,,Over Votes,0
+Albany,13-3,Secretary of State,,,Under Votes,291
+Albany,13-3,State Auditor,,REP,Kristi Racines,631
+Albany,13-3,State Auditor,,,Write-ins,28
+Albany,13-3,State Auditor,,,Over Votes,0
+Albany,13-3,State Auditor,,,Under Votes,283
+Albany,13-3,State Treasurer,,REP,Curt Meier,605
+Albany,13-3,State Treasurer,,,Write-ins,33
+Albany,13-3,State Treasurer,,,Over Votes,0
+Albany,13-3,State Treasurer,,,Under Votes,304
+Albany,13-3,Superintendent of Public Instruction,,REP,Megan Degenfelder,455
+Albany,13-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",449
+Albany,13-3,Superintendent of Public Instruction,,,Write-ins,3
+Albany,13-3,Superintendent of Public Instruction,,,Over Votes,0
+Albany,13-3,Superintendent of Public Instruction,,,Under Votes,35
+Albany,13-3,State Senate,9,REP,Diana Seabeck,409
+Albany,13-3,State Senate,9,DEM,Chris Rothfuss,508
+Albany,13-3,State Senate,9,,Write-ins,1
+Albany,13-3,State Senate,9,,Over Votes,0
+Albany,13-3,State Senate,9,,Under Votes,24
+Albany,13-3,State House,13,REP,Wayne B. Pinch,382
+Albany,13-3,State House,13,DEM,Ken Chestek,518
+Albany,13-3,State House,13,,Write-ins,1
+Albany,13-3,State House,13,,Over Votes,0
+Albany,13-3,State House,13,,Under Votes,41
+Albany,13-3,Ballots Cast,,,Ballots Cast,942
+Albany,13-3,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,1
+Albany,13-3,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,184
+Albany,13-3,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Albany,13-3,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,85
+Albany,13-3,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Albany,13-3,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,42
+Albany,14-0,U.S. House,,REP,Harriet Hageman,424
+Albany,14-0,U.S. House,,DEM,Lynnette GreyBull,134
+Albany,14-0,U.S. House,,LIB,Richard Brubaker,7
+Albany,14-0,U.S. House,,CTRY,Marissa Joy Selvig,10
+Albany,14-0,U.S. House,,,Write-ins,13
+Albany,14-0,U.S. House,,,Over Votes,1
+Albany,14-0,U.S. House,,,Under Votes,9
+Albany,14-0,Governor,,REP,Mark Gordon,446
+Albany,14-0,Governor,,DEM,Theresa A. Livingston,80
+Albany,14-0,Governor,,LIB,Jared J. Baldes,18
+Albany,14-0,Governor,,,Write-ins,42
+Albany,14-0,Governor,,,Over Votes,0
+Albany,14-0,Governor,,,Under Votes,12
+Albany,14-0,Secretary of State,,REP,Chuck Gray,474
+Albany,14-0,Secretary of State,,,Write-ins,45
+Albany,14-0,Secretary of State,,,Over Votes,0
+Albany,14-0,Secretary of State,,,Under Votes,79
+Albany,14-0,State Auditor,,REP,Kristi Racines,508
+Albany,14-0,State Auditor,,,Write-ins,10
+Albany,14-0,State Auditor,,,Over Votes,0
+Albany,14-0,State Auditor,,,Under Votes,80
+Albany,14-0,State Treasurer,,REP,Curt Meier,507
+Albany,14-0,State Treasurer,,,Write-ins,13
+Albany,14-0,State Treasurer,,,Over Votes,0
+Albany,14-0,State Treasurer,,,Under Votes,78
+Albany,14-0,Superintendent of Public Instruction,,REP,Megan Degenfelder,455
+Albany,14-0,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",123
+Albany,14-0,Superintendent of Public Instruction,,,Write-ins,6
+Albany,14-0,Superintendent of Public Instruction,,,Over Votes,0
+Albany,14-0,Superintendent of Public Instruction,,,Under Votes,14
+Albany,14-0,State House,14,REP,Bryan Shuster,398
+Albany,14-0,State House,14,DEM,Trey Sherwood,186
+Albany,14-0,State House,14,,Write-ins,2
+Albany,14-0,State House,14,,Over Votes,0
+Albany,14-0,State House,14,,Under Votes,12
+Albany,14-0,Ballots Cast,,,Ballots Cast,598
+Albany,14-0,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Albany,14-0,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,94
+Albany,14-0,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Albany,14-0,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,44
+Albany,14-0,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Albany,14-0,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,25
+Albany,14-2,U.S. House,,REP,Harriet Hageman,120
+Albany,14-2,U.S. House,,DEM,Lynnette GreyBull,191
+Albany,14-2,U.S. House,,LIB,Richard Brubaker,7
+Albany,14-2,U.S. House,,CTRY,Marissa Joy Selvig,6
+Albany,14-2,U.S. House,,,Write-ins,3
+Albany,14-2,U.S. House,,,Over Votes,0
+Albany,14-2,U.S. House,,,Under Votes,7
+Albany,14-2,Governor,,REP,Mark Gordon,140
+Albany,14-2,Governor,,DEM,Theresa A. Livingston,166
+Albany,14-2,Governor,,LIB,Jared J. Baldes,17
+Albany,14-2,Governor,,,Write-ins,7
+Albany,14-2,Governor,,,Over Votes,0
+Albany,14-2,Governor,,,Under Votes,4
+Albany,14-2,Secretary of State,,REP,Chuck Gray,205
+Albany,14-2,Secretary of State,,,Write-ins,31
+Albany,14-2,Secretary of State,,,Over Votes,0
+Albany,14-2,Secretary of State,,,Under Votes,98
+Albany,14-2,State Auditor,,REP,Kristi Racines,228
+Albany,14-2,State Auditor,,,Write-ins,11
+Albany,14-2,State Auditor,,,Over Votes,0
+Albany,14-2,State Auditor,,,Under Votes,95
+Albany,14-2,State Treasurer,,REP,Curt Meier,228
+Albany,14-2,State Treasurer,,,Write-ins,12
+Albany,14-2,State Treasurer,,,Over Votes,0
+Albany,14-2,State Treasurer,,,Under Votes,94
+Albany,14-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,142
+Albany,14-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",181
+Albany,14-2,Superintendent of Public Instruction,,,Write-ins,0
+Albany,14-2,Superintendent of Public Instruction,,,Over Votes,0
+Albany,14-2,Superintendent of Public Instruction,,,Under Votes,11
+Albany,14-2,State House,14,REP,Bryan Shuster,135
+Albany,14-2,State House,14,DEM,Trey Sherwood,192
+Albany,14-2,State House,14,,Write-ins,0
+Albany,14-2,State House,14,,Over Votes,0
+Albany,14-2,State House,14,,Under Votes,7
+Albany,14-2,Ballots Cast,,,Ballots Cast,334
+Albany,14-2,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Albany,14-2,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,43
+Albany,14-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Albany,14-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,23
+Albany,14-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Albany,14-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,8
+Albany,14-3,U.S. House,,REP,Harriet Hageman,1045
+Albany,14-3,U.S. House,,DEM,Lynnette GreyBull,1378
+Albany,14-3,U.S. House,,LIB,Richard Brubaker,88
+Albany,14-3,U.S. House,,CTRY,Marissa Joy Selvig,41
+Albany,14-3,U.S. House,,,Write-ins,103
+Albany,14-3,U.S. House,,,Over Votes,3
+Albany,14-3,U.S. House,,,Under Votes,56
+Albany,14-3,Governor,,REP,Mark Gordon,1640
+Albany,14-3,Governor,,DEM,Theresa A. Livingston,876
+Albany,14-3,Governor,,LIB,Jared J. Baldes,65
+Albany,14-3,Governor,,,Write-ins,84
+Albany,14-3,Governor,,,Over Votes,0
+Albany,14-3,Governor,,,Under Votes,49
+Albany,14-3,Secretary of State,,REP,Chuck Gray,1432
+Albany,14-3,Secretary of State,,,Write-ins,387
+Albany,14-3,Secretary of State,,,Over Votes,0
+Albany,14-3,Secretary of State,,,Under Votes,895
+Albany,14-3,State Auditor,,REP,Kristi Racines,1869
+Albany,14-3,State Auditor,,,Write-ins,86
+Albany,14-3,State Auditor,,,Over Votes,0
+Albany,14-3,State Auditor,,,Under Votes,759
+Albany,14-3,State Treasurer,,REP,Curt Meier,1788
+Albany,14-3,State Treasurer,,,Write-ins,109
+Albany,14-3,State Treasurer,,,Over Votes,1
+Albany,14-3,State Treasurer,,,Under Votes,816
+Albany,14-3,Superintendent of Public Instruction,,REP,Megan Degenfelder,1418
+Albany,14-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1214
+Albany,14-3,Superintendent of Public Instruction,,,Write-ins,12
+Albany,14-3,Superintendent of Public Instruction,,,Over Votes,1
+Albany,14-3,Superintendent of Public Instruction,,,Under Votes,69
+Albany,14-3,State House,14,REP,Bryan Shuster,1088
+Albany,14-3,State House,14,DEM,Trey Sherwood,1577
+Albany,14-3,State House,14,,Write-ins,8
+Albany,14-3,State House,14,,Over Votes,2
+Albany,14-3,State House,14,,Under Votes,39
+Albany,14-3,Ballots Cast,,,Ballots Cast,2714
+Albany,14-3,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Albany,14-3,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,483
+Albany,14-3,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Albany,14-3,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,186
+Albany,14-3,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Albany,14-3,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,79
+Albany,45-1,U.S. House,,REP,Harriet Hageman,430
+Albany,45-1,U.S. House,,DEM,Lynnette GreyBull,1121
+Albany,45-1,U.S. House,,LIB,Richard Brubaker,35
+Albany,45-1,U.S. House,,CTRY,Marissa Joy Selvig,14
+Albany,45-1,U.S. House,,,Write-ins,36
+Albany,45-1,U.S. House,,,Over Votes,6
+Albany,45-1,U.S. House,,,Under Votes,10
+Albany,45-1,Governor,,REP,Mark Gordon,768
+Albany,45-1,Governor,,DEM,Theresa A. Livingston,772
+Albany,45-1,Governor,,LIB,Jared J. Baldes,42
+Albany,45-1,Governor,,,Write-ins,50
+Albany,45-1,Governor,,,Over Votes,1
+Albany,45-1,Governor,,,Under Votes,19
+Albany,45-1,Secretary of State,,REP,Chuck Gray,707
+Albany,45-1,Secretary of State,,,Write-ins,310
+Albany,45-1,Secretary of State,,,Over Votes,1
+Albany,45-1,Secretary of State,,,Under Votes,634
+Albany,45-1,State Auditor,,REP,Kristi Racines,949
+Albany,45-1,State Auditor,,,Write-ins,71
+Albany,45-1,State Auditor,,,Over Votes,1
+Albany,45-1,State Auditor,,,Under Votes,631
+Albany,45-1,State Treasurer,,REP,Curt Meier,881
+Albany,45-1,State Treasurer,,,Write-ins,90
+Albany,45-1,State Treasurer,,,Over Votes,2
+Albany,45-1,State Treasurer,,,Under Votes,679
+Albany,45-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,562
+Albany,45-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1011
+Albany,45-1,Superintendent of Public Instruction,,,Write-ins,16
+Albany,45-1,Superintendent of Public Instruction,,,Over Votes,1
+Albany,45-1,Superintendent of Public Instruction,,,Under Votes,62
+Albany,45-1,State Senate,9,REP,Diana Seabeck,493
+Albany,45-1,State Senate,9,DEM,Chris Rothfuss,1129
+Albany,45-1,State Senate,9,,Write-ins,0
+Albany,45-1,State Senate,9,,Over Votes,1
+Albany,45-1,State Senate,9,,Under Votes,29
+Albany,45-1,State House,45,DEM,Karlee Provenza,1272
+Albany,45-1,State House,45,,Write-ins,85
+Albany,45-1,State House,45,,Over Votes,0
+Albany,45-1,State House,45,,Under Votes,295
+Albany,45-1,Ballots Cast,,,Ballots Cast,1652
+Albany,45-1,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Albany,45-1,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,375
+Albany,45-1,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Albany,45-1,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,137
+Albany,45-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Albany,45-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,50
+Albany,45-2,U.S. House,,REP,Harriet Hageman,350
+Albany,45-2,U.S. House,,DEM,Lynnette GreyBull,752
+Albany,45-2,U.S. House,,LIB,Richard Brubaker,28
+Albany,45-2,U.S. House,,CTRY,Marissa Joy Selvig,16
+Albany,45-2,U.S. House,,,Write-ins,19
+Albany,45-2,U.S. House,,,Over Votes,0
+Albany,45-2,U.S. House,,,Under Votes,15
+Albany,45-2,Governor,,REP,Mark Gordon,535
+Albany,45-2,Governor,,DEM,Theresa A. Livingston,555
+Albany,45-2,Governor,,LIB,Jared J. Baldes,36
+Albany,45-2,Governor,,,Write-ins,40
+Albany,45-2,Governor,,,Over Votes,1
+Albany,45-2,Governor,,,Under Votes,13
+Albany,45-2,Secretary of State,,REP,Chuck Gray,595
+Albany,45-2,Secretary of State,,,Write-ins,176
+Albany,45-2,Secretary of State,,,Over Votes,0
+Albany,45-2,Secretary of State,,,Under Votes,409
+Albany,45-2,State Auditor,,REP,Kristi Racines,704
+Albany,45-2,State Auditor,,,Write-ins,43
+Albany,45-2,State Auditor,,,Over Votes,0
+Albany,45-2,State Auditor,,,Under Votes,433
+Albany,45-2,State Treasurer,,REP,Curt Meier,679
+Albany,45-2,State Treasurer,,,Write-ins,53
+Albany,45-2,State Treasurer,,,Over Votes,0
+Albany,45-2,State Treasurer,,,Under Votes,448
+Albany,45-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,424
+Albany,45-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",711
+Albany,45-2,Superintendent of Public Instruction,,,Write-ins,8
+Albany,45-2,Superintendent of Public Instruction,,,Over Votes,0
+Albany,45-2,Superintendent of Public Instruction,,,Under Votes,37
+Albany,45-2,State Senate,9,REP,Diana Seabeck,398
+Albany,45-2,State Senate,9,DEM,Chris Rothfuss,743
+Albany,45-2,State Senate,9,,Write-ins,3
+Albany,45-2,State Senate,9,,Over Votes,0
+Albany,45-2,State Senate,9,,Under Votes,36
+Albany,45-2,State House,45,DEM,Karlee Provenza,879
+Albany,45-2,State House,45,,Write-ins,54
+Albany,45-2,State House,45,,Over Votes,0
+Albany,45-2,State House,45,,Under Votes,247
+Albany,45-2,Ballots Cast,,,Ballots Cast,1180
+Albany,45-2,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,1
+Albany,45-2,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,244
+Albany,45-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Albany,45-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,105
+Albany,45-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,3
+Albany,45-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,45
+Albany,46-0,U.S. House,,REP,Harriet Hageman,1618
+Albany,46-0,U.S. House,,DEM,Lynnette GreyBull,660
+Albany,46-0,U.S. House,,LIB,Richard Brubaker,56
+Albany,46-0,U.S. House,,CTRY,Marissa Joy Selvig,48
+Albany,46-0,U.S. House,,,Write-ins,60
+Albany,46-0,U.S. House,,,Over Votes,4
+Albany,46-0,U.S. House,,,Under Votes,38
+Albany,46-0,Governor,,REP,Mark Gordon,1717
+Albany,46-0,Governor,,DEM,Theresa A. Livingston,432
+Albany,46-0,Governor,,LIB,Jared J. Baldes,72
+Albany,46-0,Governor,,,Write-ins,221
+Albany,46-0,Governor,,,Over Votes,1
+Albany,46-0,Governor,,,Under Votes,41
+Albany,46-0,Secretary of State,,REP,Chuck Gray,1827
+Albany,46-0,Secretary of State,,,Write-ins,184
+Albany,46-0,Secretary of State,,,Over Votes,1
+Albany,46-0,Secretary of State,,,Under Votes,472
+Albany,46-0,State Auditor,,REP,Kristi Racines,2018
+Albany,46-0,State Auditor,,,Write-ins,39
+Albany,46-0,State Auditor,,,Over Votes,0
+Albany,46-0,State Auditor,,,Under Votes,427
+Albany,46-0,State Treasurer,,REP,Curt Meier,1971
+Albany,46-0,State Treasurer,,,Write-ins,45
+Albany,46-0,State Treasurer,,,Over Votes,0
+Albany,46-0,State Treasurer,,,Under Votes,468
+Albany,46-0,Superintendent of Public Instruction,,REP,Megan Degenfelder,1811
+Albany,46-0,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",567
+Albany,46-0,Superintendent of Public Instruction,,,Write-ins,17
+Albany,46-0,Superintendent of Public Instruction,,,Over Votes,0
+Albany,46-0,Superintendent of Public Instruction,,,Under Votes,89
+Albany,46-0,State House,46,REP,Ocean Andrew,1765
+Albany,46-0,State House,46,DEM,Merav Ben-David,674
+Albany,46-0,State House,46,,Write-ins,7
+Albany,46-0,State House,46,,Over Votes,2
+Albany,46-0,State House,46,,Under Votes,36
+Albany,46-0,Ballots Cast,,,Ballots Cast,2484
+Albany,46-0,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,1
+Albany,46-0,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,445
+Albany,46-0,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Albany,46-0,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,178
+Albany,46-0,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,4
+Albany,46-0,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,77
+Albany,46-1,U.S. House,,REP,Harriet Hageman,442
+Albany,46-1,U.S. House,,DEM,Lynnette GreyBull,262
+Albany,46-1,U.S. House,,LIB,Richard Brubaker,19
+Albany,46-1,U.S. House,,CTRY,Marissa Joy Selvig,21
+Albany,46-1,U.S. House,,,Write-ins,15
+Albany,46-1,U.S. House,,,Over Votes,1
+Albany,46-1,U.S. House,,,Under Votes,7
+Albany,46-1,Governor,,REP,Mark Gordon,490
+Albany,46-1,Governor,,DEM,Theresa A. Livingston,185
+Albany,46-1,Governor,,LIB,Jared J. Baldes,37
+Albany,46-1,Governor,,,Write-ins,48
+Albany,46-1,Governor,,,Over Votes,0
+Albany,46-1,Governor,,,Under Votes,7
+Albany,46-1,Secretary of State,,REP,Chuck Gray,543
+Albany,46-1,Secretary of State,,,Write-ins,73
+Albany,46-1,Secretary of State,,,Over Votes,0
+Albany,46-1,Secretary of State,,,Under Votes,151
+Albany,46-1,State Auditor,,REP,Kristi Racines,601
+Albany,46-1,State Auditor,,,Write-ins,26
+Albany,46-1,State Auditor,,,Over Votes,0
+Albany,46-1,State Auditor,,,Under Votes,140
+Albany,46-1,State Treasurer,,REP,Curt Meier,591
+Albany,46-1,State Treasurer,,,Write-ins,23
+Albany,46-1,State Treasurer,,,Over Votes,0
+Albany,46-1,State Treasurer,,,Under Votes,153
+Albany,46-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,486
+Albany,46-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",249
+Albany,46-1,Superintendent of Public Instruction,,,Write-ins,7
+Albany,46-1,Superintendent of Public Instruction,,,Over Votes,0
+Albany,46-1,Superintendent of Public Instruction,,,Under Votes,25
+Albany,46-1,State House,46,REP,Ocean Andrew,479
+Albany,46-1,State House,46,DEM,Merav Ben-David,277
+Albany,46-1,State House,46,,Write-ins,0
+Albany,46-1,State House,46,,Over Votes,1
+Albany,46-1,State House,46,,Under Votes,10
+Albany,46-1,Ballots Cast,,,Ballots Cast,767
+Albany,46-1,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Albany,46-1,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,106
+Albany,46-1,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Albany,46-1,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,53
+Albany,46-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Albany,46-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,27
+Albany,46-2,U.S. House,,REP,Harriet Hageman,362
+Albany,46-2,U.S. House,,DEM,Lynnette GreyBull,263
+Albany,46-2,U.S. House,,LIB,Richard Brubaker,11
+Albany,46-2,U.S. House,,CTRY,Marissa Joy Selvig,8
+Albany,46-2,U.S. House,,,Write-ins,11
+Albany,46-2,U.S. House,,,Over Votes,0
+Albany,46-2,U.S. House,,,Under Votes,6
+Albany,46-2,Governor,,REP,Mark Gordon,408
+Albany,46-2,Governor,,DEM,Theresa A. Livingston,173
+Albany,46-2,Governor,,LIB,Jared J. Baldes,15
+Albany,46-2,Governor,,,Write-ins,50
+Albany,46-2,Governor,,,Over Votes,0
+Albany,46-2,Governor,,,Under Votes,15
+Albany,46-2,Secretary of State,,REP,Chuck Gray,467
+Albany,46-2,Secretary of State,,,Write-ins,58
+Albany,46-2,Secretary of State,,,Over Votes,0
+Albany,46-2,Secretary of State,,,Under Votes,136
+Albany,46-2,State Auditor,,REP,Kristi Racines,512
+Albany,46-2,State Auditor,,,Write-ins,18
+Albany,46-2,State Auditor,,,Over Votes,0
+Albany,46-2,State Auditor,,,Under Votes,131
+Albany,46-2,State Treasurer,,REP,Curt Meier,513
+Albany,46-2,State Treasurer,,,Write-ins,22
+Albany,46-2,State Treasurer,,,Over Votes,0
+Albany,46-2,State Treasurer,,,Under Votes,126
+Albany,46-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,401
+Albany,46-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",231
+Albany,46-2,Superintendent of Public Instruction,,,Write-ins,6
+Albany,46-2,Superintendent of Public Instruction,,,Over Votes,0
+Albany,46-2,Superintendent of Public Instruction,,,Under Votes,23
+Albany,46-2,State House,46,REP,Ocean Andrew,398
+Albany,46-2,State House,46,DEM,Merav Ben-David,250
+Albany,46-2,State House,46,,Write-ins,0
+Albany,46-2,State House,46,,Over Votes,0
+Albany,46-2,State House,46,,Under Votes,13
+Albany,46-2,Ballots Cast,,,Ballots Cast,661
+Albany,46-2,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Over Votes,0
+Albany,46-2,"Circuit Court Judge, Second Judicial District Robert J. Sanford",,,Under Votes,108
+Albany,46-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Albany,46-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,38
+Albany,46-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Albany,46-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,19

@@ -94,6 +94,9 @@ def normalize_party(token: str | None) -> str:
     t = token.strip()
     if not t:
         return ""
+    # 2016+ primary sheets add ", Continued" to party labels for wrapped races.
+    if t.lower().endswith(", continued"):
+        t = t[: -len(", continued")].strip()
     key = t.lower().strip("()")
     if key in PARTY_ALIASES:
         return PARTY_ALIASES[key]

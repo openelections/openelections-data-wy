@@ -1,0 +1,903 @@
+county,precinct,office,district,party,candidate,votes
+Sheridan,01-01,U.S. Senate,,REP,John Barrasso,114
+Sheridan,01-01,U.S. Senate,,REP,John Holtz,14
+Sheridan,01-01,U.S. Senate,,REP,Reid Rasner,49
+Sheridan,01-01,U.S. Senate,,REP,Write-ins,6
+Sheridan,01-01,U.S. Senate,,REP,Over Votes,1
+Sheridan,01-01,U.S. Senate,,REP,Under Votes,4
+Sheridan,01-01,U.S. Senate,,DEM,Scott D Morrow,18
+Sheridan,01-01,U.S. Senate,,DEM,Write-ins,0
+Sheridan,01-01,U.S. Senate,,DEM,Over Votes,0
+Sheridan,01-01,U.S. Senate,,DEM,Under Votes,2
+Sheridan,01-01,U.S. House,,REP,Harriet Hageman,148
+Sheridan,01-01,U.S. House,,REP,Steven R. Helling,32
+Sheridan,01-01,U.S. House,,REP,Write-ins,3
+Sheridan,01-01,U.S. House,,REP,Over Votes,0
+Sheridan,01-01,U.S. House,,REP,Under Votes,5
+Sheridan,01-01,U.S. House,,DEM,Kyle G. Cameron,19
+Sheridan,01-01,U.S. House,,DEM,Write-ins,0
+Sheridan,01-01,U.S. House,,DEM,Over Votes,0
+Sheridan,01-01,U.S. House,,DEM,Under Votes,1
+Sheridan,01-01,State House,29,REP,Ken Pendergraft,143
+Sheridan,01-01,State House,29,REP,Write-ins,9
+Sheridan,01-01,State House,29,REP,Over Votes,0
+Sheridan,01-01,State House,29,REP,Under Votes,36
+Sheridan,01-01,State House,29,DEM,Write-ins,7
+Sheridan,01-01,State House,30,REP,Gail Symons,0
+Sheridan,01-01,State House,30,REP,Tom Kelly,0
+Sheridan,01-01,State House,30,REP,Write-ins,0
+Sheridan,01-01,State House,30,REP,Over Votes,0
+Sheridan,01-01,State House,30,REP,Under Votes,0
+Sheridan,01-01,State House,30,DEM,Write-ins,0
+Sheridan,01-01,Ballots Cast,,REP,Ballots Cast,188
+Sheridan,01-01,Ballots Cast,,DEM,Ballots Cast,20
+Sheridan,01-01,Ballots Cast,,NP,Ballots Cast,6
+Sheridan,01-01,Ballots Cast,,,Ballots Cast,214
+Sheridan,02-01,U.S. Senate,,REP,John Barrasso,132
+Sheridan,02-01,U.S. Senate,,REP,John Holtz,17
+Sheridan,02-01,U.S. Senate,,REP,Reid Rasner,46
+Sheridan,02-01,U.S. Senate,,REP,Write-ins,1
+Sheridan,02-01,U.S. Senate,,REP,Over Votes,0
+Sheridan,02-01,U.S. Senate,,REP,Under Votes,12
+Sheridan,02-01,U.S. Senate,,DEM,Scott D Morrow,27
+Sheridan,02-01,U.S. Senate,,DEM,Write-ins,1
+Sheridan,02-01,U.S. Senate,,DEM,Over Votes,0
+Sheridan,02-01,U.S. Senate,,DEM,Under Votes,2
+Sheridan,02-01,U.S. House,,REP,Harriet Hageman,152
+Sheridan,02-01,U.S. House,,REP,Steven R. Helling,42
+Sheridan,02-01,U.S. House,,REP,Write-ins,7
+Sheridan,02-01,U.S. House,,REP,Over Votes,1
+Sheridan,02-01,U.S. House,,REP,Under Votes,6
+Sheridan,02-01,U.S. House,,DEM,Kyle G. Cameron,26
+Sheridan,02-01,U.S. House,,DEM,Write-ins,1
+Sheridan,02-01,U.S. House,,DEM,Over Votes,0
+Sheridan,02-01,U.S. House,,DEM,Under Votes,3
+Sheridan,02-01,State House,29,REP,Ken Pendergraft,165
+Sheridan,02-01,State House,29,REP,Write-ins,6
+Sheridan,02-01,State House,29,REP,Over Votes,0
+Sheridan,02-01,State House,29,REP,Under Votes,37
+Sheridan,02-01,State House,29,DEM,Write-ins,4
+Sheridan,02-01,Ballots Cast,,REP,Ballots Cast,208
+Sheridan,02-01,Ballots Cast,,DEM,Ballots Cast,30
+Sheridan,02-01,Ballots Cast,,NP,Ballots Cast,2
+Sheridan,02-01,Ballots Cast,,,Ballots Cast,240
+Sheridan,02-02,U.S. Senate,,REP,John Barrasso,110
+Sheridan,02-02,U.S. Senate,,REP,John Holtz,15
+Sheridan,02-02,U.S. Senate,,REP,Reid Rasner,33
+Sheridan,02-02,U.S. Senate,,REP,Write-ins,5
+Sheridan,02-02,U.S. Senate,,REP,Over Votes,0
+Sheridan,02-02,U.S. Senate,,REP,Under Votes,14
+Sheridan,02-02,U.S. Senate,,DEM,Scott D Morrow,21
+Sheridan,02-02,U.S. Senate,,DEM,Write-ins,0
+Sheridan,02-02,U.S. Senate,,DEM,Over Votes,0
+Sheridan,02-02,U.S. Senate,,DEM,Under Votes,3
+Sheridan,02-02,U.S. House,,REP,Harriet Hageman,122
+Sheridan,02-02,U.S. House,,REP,Steven R. Helling,39
+Sheridan,02-02,U.S. House,,REP,Write-ins,2
+Sheridan,02-02,U.S. House,,REP,Over Votes,1
+Sheridan,02-02,U.S. House,,REP,Under Votes,13
+Sheridan,02-02,U.S. House,,DEM,Kyle G. Cameron,20
+Sheridan,02-02,U.S. House,,DEM,Write-ins,0
+Sheridan,02-02,U.S. House,,DEM,Over Votes,0
+Sheridan,02-02,U.S. House,,DEM,Under Votes,4
+Sheridan,02-02,State House,29,REP,Ken Pendergraft,121
+Sheridan,02-02,State House,29,REP,Write-ins,7
+Sheridan,02-02,State House,29,REP,Over Votes,0
+Sheridan,02-02,State House,29,REP,Under Votes,49
+Sheridan,02-02,State House,29,DEM,Write-ins,8
+Sheridan,02-02,Ballots Cast,,REP,Ballots Cast,177
+Sheridan,02-02,Ballots Cast,,DEM,Ballots Cast,24
+Sheridan,02-02,Ballots Cast,,NP,Ballots Cast,1
+Sheridan,02-02,Ballots Cast,,,Ballots Cast,202
+Sheridan,02-03,U.S. Senate,,REP,John Barrasso,240
+Sheridan,02-03,U.S. Senate,,REP,John Holtz,31
+Sheridan,02-03,U.S. Senate,,REP,Reid Rasner,55
+Sheridan,02-03,U.S. Senate,,REP,Write-ins,8
+Sheridan,02-03,U.S. Senate,,REP,Over Votes,0
+Sheridan,02-03,U.S. Senate,,REP,Under Votes,21
+Sheridan,02-03,U.S. Senate,,DEM,Scott D Morrow,36
+Sheridan,02-03,U.S. Senate,,DEM,Write-ins,0
+Sheridan,02-03,U.S. Senate,,DEM,Over Votes,0
+Sheridan,02-03,U.S. Senate,,DEM,Under Votes,3
+Sheridan,02-03,U.S. House,,REP,Harriet Hageman,254
+Sheridan,02-03,U.S. House,,REP,Steven R. Helling,81
+Sheridan,02-03,U.S. House,,REP,Write-ins,6
+Sheridan,02-03,U.S. House,,REP,Over Votes,0
+Sheridan,02-03,U.S. House,,REP,Under Votes,14
+Sheridan,02-03,U.S. House,,DEM,Kyle G. Cameron,34
+Sheridan,02-03,U.S. House,,DEM,Write-ins,0
+Sheridan,02-03,U.S. House,,DEM,Over Votes,0
+Sheridan,02-03,U.S. House,,DEM,Under Votes,5
+Sheridan,02-03,State House,29,REP,Ken Pendergraft,263
+Sheridan,02-03,State House,29,REP,Write-ins,21
+Sheridan,02-03,State House,29,REP,Over Votes,0
+Sheridan,02-03,State House,29,REP,Under Votes,71
+Sheridan,02-03,State House,29,DEM,Write-ins,8
+Sheridan,02-03,Ballots Cast,,REP,Ballots Cast,355
+Sheridan,02-03,Ballots Cast,,DEM,Ballots Cast,39
+Sheridan,02-03,Ballots Cast,,NP,Ballots Cast,7
+Sheridan,02-03,Ballots Cast,,,Ballots Cast,401
+Sheridan,02-04,U.S. Senate,,REP,John Barrasso,138
+Sheridan,02-04,U.S. Senate,,REP,John Holtz,29
+Sheridan,02-04,U.S. Senate,,REP,Reid Rasner,40
+Sheridan,02-04,U.S. Senate,,REP,Write-ins,6
+Sheridan,02-04,U.S. Senate,,REP,Over Votes,0
+Sheridan,02-04,U.S. Senate,,REP,Under Votes,4
+Sheridan,02-04,U.S. Senate,,DEM,Scott D Morrow,28
+Sheridan,02-04,U.S. Senate,,DEM,Write-ins,0
+Sheridan,02-04,U.S. Senate,,DEM,Over Votes,0
+Sheridan,02-04,U.S. Senate,,DEM,Under Votes,0
+Sheridan,02-04,U.S. House,,REP,Harriet Hageman,142
+Sheridan,02-04,U.S. House,,REP,Steven R. Helling,64
+Sheridan,02-04,U.S. House,,REP,Write-ins,7
+Sheridan,02-04,U.S. House,,REP,Over Votes,0
+Sheridan,02-04,U.S. House,,REP,Under Votes,4
+Sheridan,02-04,U.S. House,,DEM,Kyle G. Cameron,28
+Sheridan,02-04,U.S. House,,DEM,Write-ins,0
+Sheridan,02-04,U.S. House,,DEM,Over Votes,0
+Sheridan,02-04,U.S. House,,DEM,Under Votes,0
+Sheridan,02-04,State House,29,REP,Ken Pendergraft,157
+Sheridan,02-04,State House,29,REP,Write-ins,17
+Sheridan,02-04,State House,29,REP,Over Votes,0
+Sheridan,02-04,State House,29,REP,Under Votes,43
+Sheridan,02-04,State House,29,DEM,Write-ins,13
+Sheridan,02-04,Ballots Cast,,REP,Ballots Cast,217
+Sheridan,02-04,Ballots Cast,,DEM,Ballots Cast,28
+Sheridan,02-04,Ballots Cast,,NP,Ballots Cast,4
+Sheridan,02-04,Ballots Cast,,,Ballots Cast,249
+Sheridan,02-05,U.S. Senate,,REP,John Barrasso,516
+Sheridan,02-05,U.S. Senate,,REP,John Holtz,57
+Sheridan,02-05,U.S. Senate,,REP,Reid Rasner,105
+Sheridan,02-05,U.S. Senate,,REP,Write-ins,17
+Sheridan,02-05,U.S. Senate,,REP,Over Votes,0
+Sheridan,02-05,U.S. Senate,,REP,Under Votes,36
+Sheridan,02-05,U.S. Senate,,DEM,Scott D Morrow,65
+Sheridan,02-05,U.S. Senate,,DEM,Write-ins,1
+Sheridan,02-05,U.S. Senate,,DEM,Over Votes,0
+Sheridan,02-05,U.S. Senate,,DEM,Under Votes,3
+Sheridan,02-05,U.S. House,,REP,Harriet Hageman,498
+Sheridan,02-05,U.S. House,,REP,Steven R. Helling,157
+Sheridan,02-05,U.S. House,,REP,Write-ins,22
+Sheridan,02-05,U.S. House,,REP,Over Votes,2
+Sheridan,02-05,U.S. House,,REP,Under Votes,52
+Sheridan,02-05,U.S. House,,DEM,Kyle G. Cameron,64
+Sheridan,02-05,U.S. House,,DEM,Write-ins,0
+Sheridan,02-05,U.S. House,,DEM,Over Votes,0
+Sheridan,02-05,U.S. House,,DEM,Under Votes,5
+Sheridan,02-05,State House,51,REP,Laurie Bratten,533
+Sheridan,02-05,State House,51,REP,Write-ins,51
+Sheridan,02-05,State House,51,REP,Over Votes,0
+Sheridan,02-05,State House,51,REP,Under Votes,147
+Sheridan,02-05,State House,51,DEM,Write-ins,14
+Sheridan,02-05,Ballots Cast,,REP,Ballots Cast,731
+Sheridan,02-05,Ballots Cast,,DEM,Ballots Cast,69
+Sheridan,02-05,Ballots Cast,,NP,Ballots Cast,9
+Sheridan,02-05,Ballots Cast,,,Ballots Cast,809
+Sheridan,03-02,U.S. Senate,,REP,John Barrasso,89
+Sheridan,03-02,U.S. Senate,,REP,John Holtz,10
+Sheridan,03-02,U.S. Senate,,REP,Reid Rasner,22
+Sheridan,03-02,U.S. Senate,,REP,Write-ins,4
+Sheridan,03-02,U.S. Senate,,REP,Over Votes,0
+Sheridan,03-02,U.S. Senate,,REP,Under Votes,14
+Sheridan,03-02,U.S. Senate,,DEM,Scott D Morrow,18
+Sheridan,03-02,U.S. Senate,,DEM,Write-ins,0
+Sheridan,03-02,U.S. Senate,,DEM,Over Votes,0
+Sheridan,03-02,U.S. Senate,,DEM,Under Votes,1
+Sheridan,03-02,U.S. House,,REP,Harriet Hageman,77
+Sheridan,03-02,U.S. House,,REP,Steven R. Helling,41
+Sheridan,03-02,U.S. House,,REP,Write-ins,5
+Sheridan,03-02,U.S. House,,REP,Over Votes,0
+Sheridan,03-02,U.S. House,,REP,Under Votes,16
+Sheridan,03-02,U.S. House,,DEM,Kyle G. Cameron,18
+Sheridan,03-02,U.S. House,,DEM,Write-ins,0
+Sheridan,03-02,U.S. House,,DEM,Over Votes,0
+Sheridan,03-02,U.S. House,,DEM,Under Votes,1
+Sheridan,03-02,State House,29,REP,Ken Pendergraft,74
+Sheridan,03-02,State House,29,REP,Write-ins,21
+Sheridan,03-02,State House,29,REP,Over Votes,0
+Sheridan,03-02,State House,29,REP,Under Votes,44
+Sheridan,03-02,State House,29,DEM,Write-ins,8
+Sheridan,03-02,Ballots Cast,,REP,Ballots Cast,139
+Sheridan,03-02,Ballots Cast,,DEM,Ballots Cast,19
+Sheridan,03-02,Ballots Cast,,NP,Ballots Cast,1
+Sheridan,03-02,Ballots Cast,,,Ballots Cast,159
+Sheridan,03-03,U.S. Senate,,REP,John Barrasso,89
+Sheridan,03-03,U.S. Senate,,REP,John Holtz,13
+Sheridan,03-03,U.S. Senate,,REP,Reid Rasner,33
+Sheridan,03-03,U.S. Senate,,REP,Write-ins,1
+Sheridan,03-03,U.S. Senate,,REP,Over Votes,1
+Sheridan,03-03,U.S. Senate,,REP,Under Votes,4
+Sheridan,03-03,U.S. Senate,,DEM,Scott D Morrow,8
+Sheridan,03-03,U.S. Senate,,DEM,Write-ins,0
+Sheridan,03-03,U.S. Senate,,DEM,Over Votes,0
+Sheridan,03-03,U.S. Senate,,DEM,Under Votes,1
+Sheridan,03-03,U.S. House,,REP,Harriet Hageman,97
+Sheridan,03-03,U.S. House,,REP,Steven R. Helling,35
+Sheridan,03-03,U.S. House,,REP,Write-ins,2
+Sheridan,03-03,U.S. House,,REP,Over Votes,0
+Sheridan,03-03,U.S. House,,REP,Under Votes,7
+Sheridan,03-03,U.S. House,,DEM,Kyle G. Cameron,8
+Sheridan,03-03,U.S. House,,DEM,Write-ins,0
+Sheridan,03-03,U.S. House,,DEM,Over Votes,0
+Sheridan,03-03,U.S. House,,DEM,Under Votes,1
+Sheridan,03-03,State House,51,REP,Laurie Bratten,108
+Sheridan,03-03,State House,51,REP,Write-ins,5
+Sheridan,03-03,State House,51,REP,Over Votes,0
+Sheridan,03-03,State House,51,REP,Under Votes,28
+Sheridan,03-03,State House,51,DEM,Write-ins,0
+Sheridan,03-03,Ballots Cast,,REP,Ballots Cast,141
+Sheridan,03-03,Ballots Cast,,DEM,Ballots Cast,9
+Sheridan,03-03,Ballots Cast,,NP,Ballots Cast,4
+Sheridan,03-03,Ballots Cast,,,Ballots Cast,154
+Sheridan,03-04,U.S. Senate,,REP,John Barrasso,181
+Sheridan,03-04,U.S. Senate,,REP,John Holtz,21
+Sheridan,03-04,U.S. Senate,,REP,Reid Rasner,54
+Sheridan,03-04,U.S. Senate,,REP,Write-ins,3
+Sheridan,03-04,U.S. Senate,,REP,Over Votes,0
+Sheridan,03-04,U.S. Senate,,REP,Under Votes,9
+Sheridan,03-04,U.S. Senate,,DEM,Scott D Morrow,37
+Sheridan,03-04,U.S. Senate,,DEM,Write-ins,2
+Sheridan,03-04,U.S. Senate,,DEM,Over Votes,0
+Sheridan,03-04,U.S. Senate,,DEM,Under Votes,6
+Sheridan,03-04,U.S. House,,REP,Harriet Hageman,184
+Sheridan,03-04,U.S. House,,REP,Steven R. Helling,64
+Sheridan,03-04,U.S. House,,REP,Write-ins,3
+Sheridan,03-04,U.S. House,,REP,Over Votes,1
+Sheridan,03-04,U.S. House,,REP,Under Votes,16
+Sheridan,03-04,U.S. House,,DEM,Kyle G. Cameron,37
+Sheridan,03-04,U.S. House,,DEM,Write-ins,3
+Sheridan,03-04,U.S. House,,DEM,Over Votes,0
+Sheridan,03-04,U.S. House,,DEM,Under Votes,5
+Sheridan,03-04,State Senate,22,REP,Barry Crago,145
+Sheridan,03-04,State Senate,22,REP,Mark Jennings,113
+Sheridan,03-04,State Senate,22,REP,Write-ins,2
+Sheridan,03-04,State Senate,22,REP,Over Votes,0
+Sheridan,03-04,State Senate,22,REP,Under Votes,8
+Sheridan,03-04,State Senate,22,DEM,Write-ins,9
+Sheridan,03-04,State House,29,REP,Ken Pendergraft,194
+Sheridan,03-04,State House,29,REP,Write-ins,14
+Sheridan,03-04,State House,29,REP,Over Votes,0
+Sheridan,03-04,State House,29,REP,Under Votes,60
+Sheridan,03-04,State House,29,DEM,Write-ins,17
+Sheridan,03-04,Ballots Cast,,REP,Ballots Cast,268
+Sheridan,03-04,Ballots Cast,,DEM,Ballots Cast,45
+Sheridan,03-04,Ballots Cast,,NP,Ballots Cast,5
+Sheridan,03-04,Ballots Cast,,,Ballots Cast,318
+Sheridan,03-05,U.S. Senate,,REP,John Barrasso,361
+Sheridan,03-05,U.S. Senate,,REP,John Holtz,32
+Sheridan,03-05,U.S. Senate,,REP,Reid Rasner,75
+Sheridan,03-05,U.S. Senate,,REP,Write-ins,5
+Sheridan,03-05,U.S. Senate,,REP,Over Votes,0
+Sheridan,03-05,U.S. Senate,,REP,Under Votes,28
+Sheridan,03-05,U.S. Senate,,DEM,Scott D Morrow,37
+Sheridan,03-05,U.S. Senate,,DEM,Write-ins,0
+Sheridan,03-05,U.S. Senate,,DEM,Over Votes,0
+Sheridan,03-05,U.S. Senate,,DEM,Under Votes,0
+Sheridan,03-05,U.S. House,,REP,Harriet Hageman,363
+Sheridan,03-05,U.S. House,,REP,Steven R. Helling,98
+Sheridan,03-05,U.S. House,,REP,Write-ins,9
+Sheridan,03-05,U.S. House,,REP,Over Votes,0
+Sheridan,03-05,U.S. House,,REP,Under Votes,31
+Sheridan,03-05,U.S. House,,DEM,Kyle G. Cameron,37
+Sheridan,03-05,U.S. House,,DEM,Write-ins,0
+Sheridan,03-05,U.S. House,,DEM,Over Votes,0
+Sheridan,03-05,U.S. House,,DEM,Under Votes,0
+Sheridan,03-05,State Senate,22,REP,Barry Crago,224
+Sheridan,03-05,State Senate,22,REP,Mark Jennings,257
+Sheridan,03-05,State Senate,22,REP,Write-ins,2
+Sheridan,03-05,State Senate,22,REP,Over Votes,1
+Sheridan,03-05,State Senate,22,REP,Under Votes,17
+Sheridan,03-05,State Senate,22,DEM,Write-ins,3
+Sheridan,03-05,State House,30,REP,Gail Symons,200
+Sheridan,03-05,State House,30,REP,Tom Kelly,281
+Sheridan,03-05,State House,30,REP,Write-ins,0
+Sheridan,03-05,State House,30,REP,Over Votes,1
+Sheridan,03-05,State House,30,REP,Under Votes,19
+Sheridan,03-05,State House,30,DEM,Write-ins,2
+Sheridan,03-05,Ballots Cast,,REP,Ballots Cast,501
+Sheridan,03-05,Ballots Cast,,DEM,Ballots Cast,37
+Sheridan,03-05,Ballots Cast,,NP,Ballots Cast,3
+Sheridan,03-05,Ballots Cast,,,Ballots Cast,541
+Sheridan,04-02,U.S. Senate,,REP,John Barrasso,154
+Sheridan,04-02,U.S. Senate,,REP,John Holtz,18
+Sheridan,04-02,U.S. Senate,,REP,Reid Rasner,47
+Sheridan,04-02,U.S. Senate,,REP,Write-ins,5
+Sheridan,04-02,U.S. Senate,,REP,Over Votes,0
+Sheridan,04-02,U.S. Senate,,REP,Under Votes,18
+Sheridan,04-02,U.S. Senate,,DEM,Scott D Morrow,30
+Sheridan,04-02,U.S. Senate,,DEM,Write-ins,0
+Sheridan,04-02,U.S. Senate,,DEM,Over Votes,0
+Sheridan,04-02,U.S. Senate,,DEM,Under Votes,3
+Sheridan,04-02,U.S. House,,REP,Harriet Hageman,180
+Sheridan,04-02,U.S. House,,REP,Steven R. Helling,47
+Sheridan,04-02,U.S. House,,REP,Write-ins,6
+Sheridan,04-02,U.S. House,,REP,Over Votes,0
+Sheridan,04-02,U.S. House,,REP,Under Votes,9
+Sheridan,04-02,U.S. House,,DEM,Kyle G. Cameron,30
+Sheridan,04-02,U.S. House,,DEM,Write-ins,0
+Sheridan,04-02,U.S. House,,DEM,Over Votes,0
+Sheridan,04-02,U.S. House,,DEM,Under Votes,3
+Sheridan,04-02,State Senate,22,REP,Barry Crago,86
+Sheridan,04-02,State Senate,22,REP,Mark Jennings,150
+Sheridan,04-02,State Senate,22,REP,Write-ins,1
+Sheridan,04-02,State Senate,22,REP,Over Votes,0
+Sheridan,04-02,State Senate,22,REP,Under Votes,5
+Sheridan,04-02,State Senate,22,DEM,Write-ins,1
+Sheridan,04-02,State House,30,REP,Gail Symons,96
+Sheridan,04-02,State House,30,REP,Tom Kelly,136
+Sheridan,04-02,State House,30,REP,Write-ins,0
+Sheridan,04-02,State House,30,REP,Over Votes,0
+Sheridan,04-02,State House,30,REP,Under Votes,10
+Sheridan,04-02,State House,30,DEM,Write-ins,3
+Sheridan,04-02,Ballots Cast,,REP,Ballots Cast,242
+Sheridan,04-02,Ballots Cast,,DEM,Ballots Cast,33
+Sheridan,04-02,Ballots Cast,,NP,Ballots Cast,8
+Sheridan,04-02,Ballots Cast,,,Ballots Cast,283
+Sheridan,04-03,U.S. Senate,,REP,John Barrasso,222
+Sheridan,04-03,U.S. Senate,,REP,John Holtz,34
+Sheridan,04-03,U.S. Senate,,REP,Reid Rasner,58
+Sheridan,04-03,U.S. Senate,,REP,Write-ins,9
+Sheridan,04-03,U.S. Senate,,REP,Over Votes,0
+Sheridan,04-03,U.S. Senate,,REP,Under Votes,13
+Sheridan,04-03,U.S. Senate,,DEM,Scott D Morrow,21
+Sheridan,04-03,U.S. Senate,,DEM,Write-ins,2
+Sheridan,04-03,U.S. Senate,,DEM,Over Votes,0
+Sheridan,04-03,U.S. Senate,,DEM,Under Votes,2
+Sheridan,04-03,U.S. House,,REP,Harriet Hageman,255
+Sheridan,04-03,U.S. House,,REP,Steven R. Helling,59
+Sheridan,04-03,U.S. House,,REP,Write-ins,9
+Sheridan,04-03,U.S. House,,REP,Over Votes,0
+Sheridan,04-03,U.S. House,,REP,Under Votes,13
+Sheridan,04-03,U.S. House,,DEM,Kyle G. Cameron,20
+Sheridan,04-03,U.S. House,,DEM,Write-ins,3
+Sheridan,04-03,U.S. House,,DEM,Over Votes,0
+Sheridan,04-03,U.S. House,,DEM,Under Votes,2
+Sheridan,04-03,State Senate,22,REP,Barry Crago,131
+Sheridan,04-03,State Senate,22,REP,Mark Jennings,196
+Sheridan,04-03,State Senate,22,REP,Write-ins,2
+Sheridan,04-03,State Senate,22,REP,Over Votes,0
+Sheridan,04-03,State Senate,22,REP,Under Votes,7
+Sheridan,04-03,State Senate,22,DEM,Write-ins,5
+Sheridan,04-03,State House,30,REP,Gail Symons,126
+Sheridan,04-03,State House,30,REP,Tom Kelly,206
+Sheridan,04-03,State House,30,REP,Write-ins,0
+Sheridan,04-03,State House,30,REP,Over Votes,0
+Sheridan,04-03,State House,30,REP,Under Votes,4
+Sheridan,04-03,State House,30,DEM,Write-ins,5
+Sheridan,04-03,Ballots Cast,,REP,Ballots Cast,336
+Sheridan,04-03,Ballots Cast,,DEM,Ballots Cast,25
+Sheridan,04-03,Ballots Cast,,NP,Ballots Cast,9
+Sheridan,04-03,Ballots Cast,,,Ballots Cast,370
+Sheridan,04-04,U.S. Senate,,REP,John Barrasso,45
+Sheridan,04-04,U.S. Senate,,REP,John Holtz,7
+Sheridan,04-04,U.S. Senate,,REP,Reid Rasner,17
+Sheridan,04-04,U.S. Senate,,REP,Write-ins,1
+Sheridan,04-04,U.S. Senate,,REP,Over Votes,0
+Sheridan,04-04,U.S. Senate,,REP,Under Votes,6
+Sheridan,04-04,U.S. Senate,,DEM,Scott D Morrow,8
+Sheridan,04-04,U.S. Senate,,DEM,Write-ins,0
+Sheridan,04-04,U.S. Senate,,DEM,Over Votes,0
+Sheridan,04-04,U.S. Senate,,DEM,Under Votes,1
+Sheridan,04-04,U.S. House,,REP,Harriet Hageman,45
+Sheridan,04-04,U.S. House,,REP,Steven R. Helling,23
+Sheridan,04-04,U.S. House,,REP,Write-ins,4
+Sheridan,04-04,U.S. House,,REP,Over Votes,0
+Sheridan,04-04,U.S. House,,REP,Under Votes,4
+Sheridan,04-04,U.S. House,,DEM,Kyle G. Cameron,8
+Sheridan,04-04,U.S. House,,DEM,Write-ins,0
+Sheridan,04-04,U.S. House,,DEM,Over Votes,0
+Sheridan,04-04,U.S. House,,DEM,Under Votes,1
+Sheridan,04-04,State House,29,REP,Ken Pendergraft,47
+Sheridan,04-04,State House,29,REP,Write-ins,8
+Sheridan,04-04,State House,29,REP,Over Votes,0
+Sheridan,04-04,State House,29,REP,Under Votes,21
+Sheridan,04-04,State House,29,DEM,Write-ins,3
+Sheridan,04-04,Ballots Cast,,REP,Ballots Cast,76
+Sheridan,04-04,Ballots Cast,,DEM,Ballots Cast,9
+Sheridan,04-04,Ballots Cast,,NP,Ballots Cast,1
+Sheridan,04-04,Ballots Cast,,,Ballots Cast,86
+Sheridan,05-01,U.S. Senate,,REP,John Barrasso,51
+Sheridan,05-01,U.S. Senate,,REP,John Holtz,5
+Sheridan,05-01,U.S. Senate,,REP,Reid Rasner,23
+Sheridan,05-01,U.S. Senate,,REP,Write-ins,1
+Sheridan,05-01,U.S. Senate,,REP,Over Votes,0
+Sheridan,05-01,U.S. Senate,,REP,Under Votes,2
+Sheridan,05-01,U.S. Senate,,DEM,Scott D Morrow,4
+Sheridan,05-01,U.S. Senate,,DEM,Write-ins,0
+Sheridan,05-01,U.S. Senate,,DEM,Over Votes,0
+Sheridan,05-01,U.S. Senate,,DEM,Under Votes,0
+Sheridan,05-01,U.S. House,,REP,Harriet Hageman,64
+Sheridan,05-01,U.S. House,,REP,Steven R. Helling,14
+Sheridan,05-01,U.S. House,,REP,Write-ins,0
+Sheridan,05-01,U.S. House,,REP,Over Votes,0
+Sheridan,05-01,U.S. House,,REP,Under Votes,4
+Sheridan,05-01,U.S. House,,DEM,Kyle G. Cameron,4
+Sheridan,05-01,U.S. House,,DEM,Write-ins,0
+Sheridan,05-01,U.S. House,,DEM,Over Votes,0
+Sheridan,05-01,U.S. House,,DEM,Under Votes,0
+Sheridan,05-01,State House,29,REP,Ken Pendergraft,1
+Sheridan,05-01,State House,29,REP,Write-ins,0
+Sheridan,05-01,State House,29,REP,Over Votes,0
+Sheridan,05-01,State House,29,REP,Under Votes,1
+Sheridan,05-01,State House,29,DEM,Write-ins,0
+Sheridan,05-01,State House,30,REP,Gail Symons,26
+Sheridan,05-01,State House,30,REP,Tom Kelly,52
+Sheridan,05-01,State House,30,REP,Write-ins,0
+Sheridan,05-01,State House,30,REP,Over Votes,0
+Sheridan,05-01,State House,30,REP,Under Votes,2
+Sheridan,05-01,State House,30,DEM,Write-ins,1
+Sheridan,05-01,Ballots Cast,,REP,Ballots Cast,82
+Sheridan,05-01,Ballots Cast,,DEM,Ballots Cast,4
+Sheridan,05-01,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,05-01,Ballots Cast,,,Ballots Cast,86
+Sheridan,06-01,U.S. Senate,,REP,John Barrasso,279
+Sheridan,06-01,U.S. Senate,,REP,John Holtz,38
+Sheridan,06-01,U.S. Senate,,REP,Reid Rasner,65
+Sheridan,06-01,U.S. Senate,,REP,Write-ins,8
+Sheridan,06-01,U.S. Senate,,REP,Over Votes,0
+Sheridan,06-01,U.S. Senate,,REP,Under Votes,18
+Sheridan,06-01,U.S. Senate,,DEM,Scott D Morrow,17
+Sheridan,06-01,U.S. Senate,,DEM,Write-ins,0
+Sheridan,06-01,U.S. Senate,,DEM,Over Votes,0
+Sheridan,06-01,U.S. Senate,,DEM,Under Votes,0
+Sheridan,06-01,U.S. House,,REP,Harriet Hageman,305
+Sheridan,06-01,U.S. House,,REP,Steven R. Helling,77
+Sheridan,06-01,U.S. House,,REP,Write-ins,7
+Sheridan,06-01,U.S. House,,REP,Over Votes,0
+Sheridan,06-01,U.S. House,,REP,Under Votes,19
+Sheridan,06-01,U.S. House,,DEM,Kyle G. Cameron,16
+Sheridan,06-01,U.S. House,,DEM,Write-ins,0
+Sheridan,06-01,U.S. House,,DEM,Over Votes,0
+Sheridan,06-01,U.S. House,,DEM,Under Votes,1
+Sheridan,06-01,State Senate,22,REP,Barry Crago,181
+Sheridan,06-01,State Senate,22,REP,Mark Jennings,215
+Sheridan,06-01,State Senate,22,REP,Write-ins,1
+Sheridan,06-01,State Senate,22,REP,Over Votes,0
+Sheridan,06-01,State Senate,22,REP,Under Votes,11
+Sheridan,06-01,State Senate,22,DEM,Write-ins,1
+Sheridan,06-01,State House,30,REP,Gail Symons,175
+Sheridan,06-01,State House,30,REP,Tom Kelly,222
+Sheridan,06-01,State House,30,REP,Write-ins,0
+Sheridan,06-01,State House,30,REP,Over Votes,0
+Sheridan,06-01,State House,30,REP,Under Votes,11
+Sheridan,06-01,State House,30,DEM,Write-ins,1
+Sheridan,06-01,Ballots Cast,,REP,Ballots Cast,408
+Sheridan,06-01,Ballots Cast,,DEM,Ballots Cast,17
+Sheridan,06-01,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,06-01,Ballots Cast,,,Ballots Cast,425
+Sheridan,07-01,U.S. Senate,,REP,John Barrasso,112
+Sheridan,07-01,U.S. Senate,,REP,John Holtz,12
+Sheridan,07-01,U.S. Senate,,REP,Reid Rasner,23
+Sheridan,07-01,U.S. Senate,,REP,Write-ins,0
+Sheridan,07-01,U.S. Senate,,REP,Over Votes,0
+Sheridan,07-01,U.S. Senate,,REP,Under Votes,9
+Sheridan,07-01,U.S. Senate,,DEM,Scott D Morrow,8
+Sheridan,07-01,U.S. Senate,,DEM,Write-ins,0
+Sheridan,07-01,U.S. Senate,,DEM,Over Votes,0
+Sheridan,07-01,U.S. Senate,,DEM,Under Votes,0
+Sheridan,07-01,U.S. House,,REP,Harriet Hageman,125
+Sheridan,07-01,U.S. House,,REP,Steven R. Helling,24
+Sheridan,07-01,U.S. House,,REP,Write-ins,1
+Sheridan,07-01,U.S. House,,REP,Over Votes,0
+Sheridan,07-01,U.S. House,,REP,Under Votes,6
+Sheridan,07-01,U.S. House,,DEM,Kyle G. Cameron,7
+Sheridan,07-01,U.S. House,,DEM,Write-ins,0
+Sheridan,07-01,U.S. House,,DEM,Over Votes,0
+Sheridan,07-01,U.S. House,,DEM,Under Votes,1
+Sheridan,07-01,State House,51,REP,Laurie Bratten,125
+Sheridan,07-01,State House,51,REP,Write-ins,8
+Sheridan,07-01,State House,51,REP,Over Votes,0
+Sheridan,07-01,State House,51,REP,Under Votes,23
+Sheridan,07-01,State House,51,DEM,Write-ins,0
+Sheridan,07-01,Ballots Cast,,REP,Ballots Cast,156
+Sheridan,07-01,Ballots Cast,,DEM,Ballots Cast,8
+Sheridan,07-01,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,07-01,Ballots Cast,,,Ballots Cast,164
+Sheridan,08-01,U.S. Senate,,REP,John Barrasso,219
+Sheridan,08-01,U.S. Senate,,REP,John Holtz,29
+Sheridan,08-01,U.S. Senate,,REP,Reid Rasner,79
+Sheridan,08-01,U.S. Senate,,REP,Write-ins,6
+Sheridan,08-01,U.S. Senate,,REP,Over Votes,0
+Sheridan,08-01,U.S. Senate,,REP,Under Votes,17
+Sheridan,08-01,U.S. Senate,,DEM,Scott D Morrow,22
+Sheridan,08-01,U.S. Senate,,DEM,Write-ins,0
+Sheridan,08-01,U.S. Senate,,DEM,Over Votes,0
+Sheridan,08-01,U.S. Senate,,DEM,Under Votes,1
+Sheridan,08-01,U.S. House,,REP,Harriet Hageman,273
+Sheridan,08-01,U.S. House,,REP,Steven R. Helling,53
+Sheridan,08-01,U.S. House,,REP,Write-ins,9
+Sheridan,08-01,U.S. House,,REP,Over Votes,0
+Sheridan,08-01,U.S. House,,REP,Under Votes,15
+Sheridan,08-01,U.S. House,,DEM,Kyle G. Cameron,21
+Sheridan,08-01,U.S. House,,DEM,Write-ins,1
+Sheridan,08-01,U.S. House,,DEM,Over Votes,0
+Sheridan,08-01,U.S. House,,DEM,Under Votes,1
+Sheridan,08-01,State House,40,REP,Liberty Poley,97
+Sheridan,08-01,State House,40,REP,Marilyn Connoly,80
+Sheridan,08-01,State House,40,REP,Mark Jones,153
+Sheridan,08-01,State House,40,REP,Write-ins,2
+Sheridan,08-01,State House,40,REP,Over Votes,0
+Sheridan,08-01,State House,40,REP,Under Votes,18
+Sheridan,08-01,State House,40,DEM,Write-ins,2
+Sheridan,08-01,Ballots Cast,,REP,Ballots Cast,350
+Sheridan,08-01,Ballots Cast,,DEM,Ballots Cast,23
+Sheridan,08-01,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,08-01,Ballots Cast,,,Ballots Cast,373
+Sheridan,09-01,U.S. Senate,,REP,John Barrasso,14
+Sheridan,09-01,U.S. Senate,,REP,John Holtz,4
+Sheridan,09-01,U.S. Senate,,REP,Reid Rasner,6
+Sheridan,09-01,U.S. Senate,,REP,Write-ins,0
+Sheridan,09-01,U.S. Senate,,REP,Over Votes,0
+Sheridan,09-01,U.S. Senate,,REP,Under Votes,0
+Sheridan,09-01,U.S. Senate,,DEM,Scott D Morrow,3
+Sheridan,09-01,U.S. Senate,,DEM,Write-ins,0
+Sheridan,09-01,U.S. Senate,,DEM,Over Votes,0
+Sheridan,09-01,U.S. Senate,,DEM,Under Votes,0
+Sheridan,09-01,U.S. House,,REP,Harriet Hageman,20
+Sheridan,09-01,U.S. House,,REP,Steven R. Helling,4
+Sheridan,09-01,U.S. House,,REP,Write-ins,0
+Sheridan,09-01,U.S. House,,REP,Over Votes,0
+Sheridan,09-01,U.S. House,,REP,Under Votes,0
+Sheridan,09-01,U.S. House,,DEM,Kyle G. Cameron,3
+Sheridan,09-01,U.S. House,,DEM,Write-ins,0
+Sheridan,09-01,U.S. House,,DEM,Over Votes,0
+Sheridan,09-01,U.S. House,,DEM,Under Votes,0
+Sheridan,09-01,State Senate,22,REP,Barry Crago,10
+Sheridan,09-01,State Senate,22,REP,Mark Jennings,13
+Sheridan,09-01,State Senate,22,REP,Write-ins,0
+Sheridan,09-01,State Senate,22,REP,Over Votes,0
+Sheridan,09-01,State Senate,22,REP,Under Votes,1
+Sheridan,09-01,State Senate,22,DEM,Write-ins,0
+Sheridan,09-01,State House,40,REP,Liberty Poley,6
+Sheridan,09-01,State House,40,REP,Marilyn Connoly,7
+Sheridan,09-01,State House,40,REP,Mark Jones,10
+Sheridan,09-01,State House,40,REP,Write-ins,0
+Sheridan,09-01,State House,40,REP,Over Votes,0
+Sheridan,09-01,State House,40,REP,Under Votes,1
+Sheridan,09-01,State House,40,DEM,Write-ins,0
+Sheridan,09-01,Ballots Cast,,REP,Ballots Cast,24
+Sheridan,09-01,Ballots Cast,,DEM,Ballots Cast,3
+Sheridan,09-01,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,09-01,Ballots Cast,,,Ballots Cast,27
+Sheridan,10-1,U.S. Senate,,REP,John Barrasso,76
+Sheridan,10-1,U.S. Senate,,REP,John Holtz,3
+Sheridan,10-1,U.S. Senate,,REP,Reid Rasner,19
+Sheridan,10-1,U.S. Senate,,REP,Write-ins,1
+Sheridan,10-1,U.S. Senate,,REP,Over Votes,0
+Sheridan,10-1,U.S. Senate,,REP,Under Votes,2
+Sheridan,10-1,U.S. Senate,,DEM,Scott D Morrow,1
+Sheridan,10-1,U.S. Senate,,DEM,Write-ins,0
+Sheridan,10-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,10-1,U.S. Senate,,DEM,Under Votes,2
+Sheridan,10-1,U.S. House,,REP,Harriet Hageman,93
+Sheridan,10-1,U.S. House,,REP,Steven R. Helling,7
+Sheridan,10-1,U.S. House,,REP,Write-ins,0
+Sheridan,10-1,U.S. House,,REP,Over Votes,0
+Sheridan,10-1,U.S. House,,REP,Under Votes,1
+Sheridan,10-1,U.S. House,,DEM,Kyle G. Cameron,1
+Sheridan,10-1,U.S. House,,DEM,Write-ins,0
+Sheridan,10-1,U.S. House,,DEM,Over Votes,0
+Sheridan,10-1,U.S. House,,DEM,Under Votes,2
+Sheridan,10-1,State Senate,22,REP,Barry Crago,67
+Sheridan,10-1,State Senate,22,REP,Mark Jennings,33
+Sheridan,10-1,State Senate,22,REP,Write-ins,0
+Sheridan,10-1,State Senate,22,REP,Over Votes,0
+Sheridan,10-1,State Senate,22,REP,Under Votes,1
+Sheridan,10-1,State Senate,22,DEM,Write-ins,1
+Sheridan,10-1,State House,40,REP,Liberty Poley,13
+Sheridan,10-1,State House,40,REP,Marilyn Connoly,40
+Sheridan,10-1,State House,40,REP,Mark Jones,41
+Sheridan,10-1,State House,40,REP,Write-ins,0
+Sheridan,10-1,State House,40,REP,Over Votes,0
+Sheridan,10-1,State House,40,REP,Under Votes,7
+Sheridan,10-1,State House,40,DEM,Write-ins,1
+Sheridan,10-1,Ballots Cast,,REP,Ballots Cast,101
+Sheridan,10-1,Ballots Cast,,DEM,Ballots Cast,3
+Sheridan,10-1,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,10-1,Ballots Cast,,,Ballots Cast,104
+Sheridan,11-1,U.S. Senate,,REP,John Barrasso,310
+Sheridan,11-1,U.S. Senate,,REP,John Holtz,22
+Sheridan,11-1,U.S. Senate,,REP,Reid Rasner,74
+Sheridan,11-1,U.S. Senate,,REP,Write-ins,6
+Sheridan,11-1,U.S. Senate,,REP,Over Votes,0
+Sheridan,11-1,U.S. Senate,,REP,Under Votes,22
+Sheridan,11-1,U.S. Senate,,DEM,Scott D Morrow,23
+Sheridan,11-1,U.S. Senate,,DEM,Write-ins,2
+Sheridan,11-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,11-1,U.S. Senate,,DEM,Under Votes,1
+Sheridan,11-1,U.S. House,,REP,Harriet Hageman,325
+Sheridan,11-1,U.S. House,,REP,Steven R. Helling,79
+Sheridan,11-1,U.S. House,,REP,Write-ins,8
+Sheridan,11-1,U.S. House,,REP,Over Votes,0
+Sheridan,11-1,U.S. House,,REP,Under Votes,22
+Sheridan,11-1,U.S. House,,DEM,Kyle G. Cameron,23
+Sheridan,11-1,U.S. House,,DEM,Write-ins,1
+Sheridan,11-1,U.S. House,,DEM,Over Votes,0
+Sheridan,11-1,U.S. House,,DEM,Under Votes,2
+Sheridan,11-1,State Senate,22,REP,Barry Crago,188
+Sheridan,11-1,State Senate,22,REP,Mark Jennings,227
+Sheridan,11-1,State Senate,22,REP,Write-ins,0
+Sheridan,11-1,State Senate,22,REP,Over Votes,0
+Sheridan,11-1,State Senate,22,REP,Under Votes,19
+Sheridan,11-1,State Senate,22,DEM,Write-ins,4
+Sheridan,11-1,State House,30,REP,Gail Symons,184
+Sheridan,11-1,State House,30,REP,Tom Kelly,229
+Sheridan,11-1,State House,30,REP,Write-ins,3
+Sheridan,11-1,State House,30,REP,Over Votes,0
+Sheridan,11-1,State House,30,REP,Under Votes,18
+Sheridan,11-1,State House,30,DEM,Write-ins,4
+Sheridan,11-1,Ballots Cast,,REP,Ballots Cast,434
+Sheridan,11-1,Ballots Cast,,DEM,Ballots Cast,26
+Sheridan,11-1,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,11-1,Ballots Cast,,,Ballots Cast,460
+Sheridan,12-1,U.S. Senate,,REP,John Barrasso,573
+Sheridan,12-1,U.S. Senate,,REP,John Holtz,59
+Sheridan,12-1,U.S. Senate,,REP,Reid Rasner,110
+Sheridan,12-1,U.S. Senate,,REP,Write-ins,18
+Sheridan,12-1,U.S. Senate,,REP,Over Votes,1
+Sheridan,12-1,U.S. Senate,,REP,Under Votes,40
+Sheridan,12-1,U.S. Senate,,DEM,Scott D Morrow,51
+Sheridan,12-1,U.S. Senate,,DEM,Write-ins,0
+Sheridan,12-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,12-1,U.S. Senate,,DEM,Under Votes,3
+Sheridan,12-1,U.S. House,,REP,Harriet Hageman,613
+Sheridan,12-1,U.S. House,,REP,Steven R. Helling,122
+Sheridan,12-1,U.S. House,,REP,Write-ins,30
+Sheridan,12-1,U.S. House,,REP,Over Votes,1
+Sheridan,12-1,U.S. House,,REP,Under Votes,35
+Sheridan,12-1,U.S. House,,DEM,Kyle G. Cameron,52
+Sheridan,12-1,U.S. House,,DEM,Write-ins,0
+Sheridan,12-1,U.S. House,,DEM,Over Votes,0
+Sheridan,12-1,U.S. House,,DEM,Under Votes,2
+Sheridan,12-1,State House,51,REP,Laurie Bratten,581
+Sheridan,12-1,State House,51,REP,Write-ins,72
+Sheridan,12-1,State House,51,REP,Over Votes,0
+Sheridan,12-1,State House,51,REP,Under Votes,148
+Sheridan,12-1,State House,51,DEM,Write-ins,10
+Sheridan,12-1,Ballots Cast,,REP,Ballots Cast,801
+Sheridan,12-1,Ballots Cast,,DEM,Ballots Cast,54
+Sheridan,12-1,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,12-1,Ballots Cast,,,Ballots Cast,855
+Sheridan,13-1,U.S. Senate,,REP,John Barrasso,167
+Sheridan,13-1,U.S. Senate,,REP,John Holtz,26
+Sheridan,13-1,U.S. Senate,,REP,Reid Rasner,38
+Sheridan,13-1,U.S. Senate,,REP,Write-ins,1
+Sheridan,13-1,U.S. Senate,,REP,Over Votes,0
+Sheridan,13-1,U.S. Senate,,REP,Under Votes,7
+Sheridan,13-1,U.S. Senate,,DEM,Scott D Morrow,31
+Sheridan,13-1,U.S. Senate,,DEM,Write-ins,0
+Sheridan,13-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,13-1,U.S. Senate,,DEM,Under Votes,0
+Sheridan,13-1,U.S. House,,REP,Harriet Hageman,185
+Sheridan,13-1,U.S. House,,REP,Steven R. Helling,43
+Sheridan,13-1,U.S. House,,REP,Write-ins,3
+Sheridan,13-1,U.S. House,,REP,Over Votes,1
+Sheridan,13-1,U.S. House,,REP,Under Votes,7
+Sheridan,13-1,U.S. House,,DEM,Kyle G. Cameron,30
+Sheridan,13-1,U.S. House,,DEM,Write-ins,0
+Sheridan,13-1,U.S. House,,DEM,Over Votes,0
+Sheridan,13-1,U.S. House,,DEM,Under Votes,1
+Sheridan,13-1,State House,30,REP,Gail Symons,57
+Sheridan,13-1,State House,30,REP,Tom Kelly,2
+Sheridan,13-1,State House,30,REP,Write-ins,0
+Sheridan,13-1,State House,30,REP,Over Votes,0
+Sheridan,13-1,State House,30,REP,Under Votes,0
+Sheridan,13-1,State House,30,DEM,Write-ins,0
+Sheridan,13-1,State House,51,REP,Laurie Bratten,196
+Sheridan,13-1,State House,51,REP,Write-ins,10
+Sheridan,13-1,State House,51,REP,Over Votes,0
+Sheridan,13-1,State House,51,REP,Under Votes,31
+Sheridan,13-1,State House,51,DEM,Write-ins,6
+Sheridan,13-1,Ballots Cast,,REP,Ballots Cast,239
+Sheridan,13-1,Ballots Cast,,DEM,Ballots Cast,31
+Sheridan,13-1,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,13-1,Ballots Cast,,,Ballots Cast,270
+Sheridan,16-1,U.S. Senate,,REP,John Barrasso,95
+Sheridan,16-1,U.S. Senate,,REP,John Holtz,11
+Sheridan,16-1,U.S. Senate,,REP,Reid Rasner,33
+Sheridan,16-1,U.S. Senate,,REP,Write-ins,2
+Sheridan,16-1,U.S. Senate,,REP,Over Votes,0
+Sheridan,16-1,U.S. Senate,,REP,Under Votes,11
+Sheridan,16-1,U.S. Senate,,DEM,Scott D Morrow,4
+Sheridan,16-1,U.S. Senate,,DEM,Write-ins,1
+Sheridan,16-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,16-1,U.S. Senate,,DEM,Under Votes,0
+Sheridan,16-1,U.S. House,,REP,Harriet Hageman,119
+Sheridan,16-1,U.S. House,,REP,Steven R. Helling,22
+Sheridan,16-1,U.S. House,,REP,Write-ins,3
+Sheridan,16-1,U.S. House,,REP,Over Votes,1
+Sheridan,16-1,U.S. House,,REP,Under Votes,7
+Sheridan,16-1,U.S. House,,DEM,Kyle G. Cameron,4
+Sheridan,16-1,U.S. House,,DEM,Write-ins,0
+Sheridan,16-1,U.S. House,,DEM,Over Votes,0
+Sheridan,16-1,U.S. House,,DEM,Under Votes,1
+Sheridan,16-1,State Senate,22,REP,Barry Crago,69
+Sheridan,16-1,State Senate,22,REP,Mark Jennings,82
+Sheridan,16-1,State Senate,22,REP,Write-ins,0
+Sheridan,16-1,State Senate,22,REP,Over Votes,0
+Sheridan,16-1,State Senate,22,REP,Under Votes,1
+Sheridan,16-1,State Senate,22,DEM,Write-ins,0
+Sheridan,16-1,State House,30,REP,Gail Symons,52
+Sheridan,16-1,State House,30,REP,Tom Kelly,89
+Sheridan,16-1,State House,30,REP,Write-ins,0
+Sheridan,16-1,State House,30,REP,Over Votes,0
+Sheridan,16-1,State House,30,REP,Under Votes,6
+Sheridan,16-1,State House,30,DEM,Write-ins,0
+Sheridan,16-1,Ballots Cast,,REP,Ballots Cast,152
+Sheridan,16-1,Ballots Cast,,DEM,Ballots Cast,5
+Sheridan,16-1,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,16-1,Ballots Cast,,,Ballots Cast,157
+Sheridan,17-1,U.S. Senate,,REP,John Barrasso,133
+Sheridan,17-1,U.S. Senate,,REP,John Holtz,18
+Sheridan,17-1,U.S. Senate,,REP,Reid Rasner,43
+Sheridan,17-1,U.S. Senate,,REP,Write-ins,2
+Sheridan,17-1,U.S. Senate,,REP,Over Votes,0
+Sheridan,17-1,U.S. Senate,,REP,Under Votes,6
+Sheridan,17-1,U.S. Senate,,DEM,Scott D Morrow,15
+Sheridan,17-1,U.S. Senate,,DEM,Write-ins,0
+Sheridan,17-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,17-1,U.S. Senate,,DEM,Under Votes,0
+Sheridan,17-1,U.S. House,,REP,Harriet Hageman,157
+Sheridan,17-1,U.S. House,,REP,Steven R. Helling,41
+Sheridan,17-1,U.S. House,,REP,Write-ins,0
+Sheridan,17-1,U.S. House,,REP,Over Votes,1
+Sheridan,17-1,U.S. House,,REP,Under Votes,3
+Sheridan,17-1,U.S. House,,DEM,Kyle G. Cameron,15
+Sheridan,17-1,U.S. House,,DEM,Write-ins,0
+Sheridan,17-1,U.S. House,,DEM,Over Votes,0
+Sheridan,17-1,U.S. House,,DEM,Under Votes,0
+Sheridan,17-1,State House,51,REP,Laurie Bratten,172
+Sheridan,17-1,State House,51,REP,Write-ins,11
+Sheridan,17-1,State House,51,REP,Over Votes,0
+Sheridan,17-1,State House,51,REP,Under Votes,19
+Sheridan,17-1,State House,51,DEM,Write-ins,3
+Sheridan,17-1,Ballots Cast,,REP,Ballots Cast,202
+Sheridan,17-1,Ballots Cast,,DEM,Ballots Cast,15
+Sheridan,17-1,Ballots Cast,,NP,Ballots Cast,5
+Sheridan,17-1,Ballots Cast,,,Ballots Cast,222
+Sheridan,17-2,U.S. Senate,,REP,John Barrasso,123
+Sheridan,17-2,U.S. Senate,,REP,John Holtz,8
+Sheridan,17-2,U.S. Senate,,REP,Reid Rasner,30
+Sheridan,17-2,U.S. Senate,,REP,Write-ins,3
+Sheridan,17-2,U.S. Senate,,REP,Over Votes,0
+Sheridan,17-2,U.S. Senate,,REP,Under Votes,9
+Sheridan,17-2,U.S. Senate,,DEM,Scott D Morrow,10
+Sheridan,17-2,U.S. Senate,,DEM,Write-ins,0
+Sheridan,17-2,U.S. Senate,,DEM,Over Votes,0
+Sheridan,17-2,U.S. Senate,,DEM,Under Votes,0
+Sheridan,17-2,U.S. House,,REP,Harriet Hageman,141
+Sheridan,17-2,U.S. House,,REP,Steven R. Helling,25
+Sheridan,17-2,U.S. House,,REP,Write-ins,1
+Sheridan,17-2,U.S. House,,REP,Over Votes,0
+Sheridan,17-2,U.S. House,,REP,Under Votes,6
+Sheridan,17-2,U.S. House,,DEM,Kyle G. Cameron,10
+Sheridan,17-2,U.S. House,,DEM,Write-ins,0
+Sheridan,17-2,U.S. House,,DEM,Over Votes,0
+Sheridan,17-2,U.S. House,,DEM,Under Votes,0
+Sheridan,17-2,State House,51,REP,Laurie Bratten,141
+Sheridan,17-2,State House,51,REP,Write-ins,10
+Sheridan,17-2,State House,51,REP,Over Votes,0
+Sheridan,17-2,State House,51,REP,Under Votes,22
+Sheridan,17-2,State House,51,DEM,Write-ins,1
+Sheridan,17-2,Ballots Cast,,REP,Ballots Cast,173
+Sheridan,17-2,Ballots Cast,,DEM,Ballots Cast,10
+Sheridan,17-2,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,17-2,Ballots Cast,,,Ballots Cast,183
+Sheridan,18-1,U.S. Senate,,REP,John Barrasso,11
+Sheridan,18-1,U.S. Senate,,REP,John Holtz,2
+Sheridan,18-1,U.S. Senate,,REP,Reid Rasner,2
+Sheridan,18-1,U.S. Senate,,REP,Write-ins,0
+Sheridan,18-1,U.S. Senate,,REP,Over Votes,0
+Sheridan,18-1,U.S. Senate,,REP,Under Votes,2
+Sheridan,18-1,U.S. Senate,,DEM,Scott D Morrow,2
+Sheridan,18-1,U.S. Senate,,DEM,Write-ins,0
+Sheridan,18-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,18-1,U.S. Senate,,DEM,Under Votes,0
+Sheridan,18-1,U.S. House,,REP,Harriet Hageman,17
+Sheridan,18-1,U.S. House,,REP,Steven R. Helling,0
+Sheridan,18-1,U.S. House,,REP,Write-ins,0
+Sheridan,18-1,U.S. House,,REP,Over Votes,0
+Sheridan,18-1,U.S. House,,REP,Under Votes,0
+Sheridan,18-1,U.S. House,,DEM,Kyle G. Cameron,2
+Sheridan,18-1,U.S. House,,DEM,Write-ins,0
+Sheridan,18-1,U.S. House,,DEM,Over Votes,0
+Sheridan,18-1,U.S. House,,DEM,Under Votes,0
+Sheridan,18-1,State House,51,REP,Laurie Bratten,14
+Sheridan,18-1,State House,51,REP,Write-ins,0
+Sheridan,18-1,State House,51,REP,Over Votes,0
+Sheridan,18-1,State House,51,REP,Under Votes,3
+Sheridan,18-1,State House,51,DEM,Write-ins,0
+Sheridan,18-1,Ballots Cast,,REP,Ballots Cast,17
+Sheridan,18-1,Ballots Cast,,DEM,Ballots Cast,2
+Sheridan,18-1,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,18-1,Ballots Cast,,,Ballots Cast,19
+Sheridan,19-1,U.S. Senate,,REP,John Barrasso,107
+Sheridan,19-1,U.S. Senate,,REP,John Holtz,15
+Sheridan,19-1,U.S. Senate,,REP,Reid Rasner,29
+Sheridan,19-1,U.S. Senate,,REP,Write-ins,1
+Sheridan,19-1,U.S. Senate,,REP,Over Votes,0
+Sheridan,19-1,U.S. Senate,,REP,Under Votes,4
+Sheridan,19-1,U.S. Senate,,DEM,Scott D Morrow,6
+Sheridan,19-1,U.S. Senate,,DEM,Write-ins,0
+Sheridan,19-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,19-1,U.S. Senate,,DEM,Under Votes,0
+Sheridan,19-1,U.S. House,,REP,Harriet Hageman,116
+Sheridan,19-1,U.S. House,,REP,Steven R. Helling,27
+Sheridan,19-1,U.S. House,,REP,Write-ins,4
+Sheridan,19-1,U.S. House,,REP,Over Votes,1
+Sheridan,19-1,U.S. House,,REP,Under Votes,8
+Sheridan,19-1,U.S. House,,DEM,Kyle G. Cameron,5
+Sheridan,19-1,U.S. House,,DEM,Write-ins,0
+Sheridan,19-1,U.S. House,,DEM,Over Votes,0
+Sheridan,19-1,U.S. House,,DEM,Under Votes,1
+Sheridan,19-1,State Senate,22,REP,Barry Crago,76
+Sheridan,19-1,State Senate,22,REP,Mark Jennings,76
+Sheridan,19-1,State Senate,22,REP,Write-ins,1
+Sheridan,19-1,State Senate,22,REP,Over Votes,0
+Sheridan,19-1,State Senate,22,REP,Under Votes,3
+Sheridan,19-1,State Senate,22,DEM,Write-ins,0
+Sheridan,19-1,State House,30,REP,Tom Kelly,96
+Sheridan,19-1,State House,30,REP,Write-ins,0
+Sheridan,19-1,State House,30,REP,Over Votes,0
+Sheridan,19-1,State House,30,REP,Under Votes,8
+Sheridan,19-1,State House,30,DEM,Write-ins,0
+Sheridan,19-1,Ballots Cast,,REP,Ballots Cast,156
+Sheridan,19-1,Ballots Cast,,DEM,Ballots Cast,6
+Sheridan,19-1,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,19-1,Ballots Cast,,,Ballots Cast,162
+Sheridan,20-1,U.S. Senate,,REP,John Barrasso,197
+Sheridan,20-1,U.S. Senate,,REP,John Holtz,22
+Sheridan,20-1,U.S. Senate,,REP,Reid Rasner,58
+Sheridan,20-1,U.S. Senate,,REP,Write-ins,1
+Sheridan,20-1,U.S. Senate,,REP,Over Votes,0
+Sheridan,20-1,U.S. Senate,,REP,Under Votes,9
+Sheridan,20-1,U.S. Senate,,DEM,Scott D Morrow,22
+Sheridan,20-1,U.S. Senate,,DEM,Write-ins,0
+Sheridan,20-1,U.S. Senate,,DEM,Over Votes,0
+Sheridan,20-1,U.S. Senate,,DEM,Under Votes,2
+Sheridan,20-1,U.S. House,,REP,Harriet Hageman,241
+Sheridan,20-1,U.S. House,,REP,Steven R. Helling,33
+Sheridan,20-1,U.S. House,,REP,Write-ins,2
+Sheridan,20-1,U.S. House,,REP,Over Votes,0
+Sheridan,20-1,U.S. House,,REP,Under Votes,11
+Sheridan,20-1,U.S. House,,DEM,Kyle G. Cameron,23
+Sheridan,20-1,U.S. House,,DEM,Write-ins,0
+Sheridan,20-1,U.S. House,,DEM,Over Votes,0
+Sheridan,20-1,U.S. House,,DEM,Under Votes,1
+Sheridan,20-1,State House,51,REP,Laurie Bratten,233
+Sheridan,20-1,State House,51,REP,Write-ins,11
+Sheridan,20-1,State House,51,REP,Over Votes,0
+Sheridan,20-1,State House,51,REP,Under Votes,43
+Sheridan,20-1,State House,51,DEM,Write-ins,6
+Sheridan,20-1,Ballots Cast,,REP,Ballots Cast,287
+Sheridan,20-1,Ballots Cast,,DEM,Ballots Cast,24
+Sheridan,20-1,Ballots Cast,,NP,Ballots Cast,11
+Sheridan,20-1,Ballots Cast,,,Ballots Cast,322
+Sheridan,20-2,U.S. Senate,,REP,John Barrasso,35
+Sheridan,20-2,U.S. Senate,,REP,John Holtz,10
+Sheridan,20-2,U.S. Senate,,REP,Reid Rasner,17
+Sheridan,20-2,U.S. Senate,,REP,Write-ins,4
+Sheridan,20-2,U.S. Senate,,REP,Over Votes,0
+Sheridan,20-2,U.S. Senate,,REP,Under Votes,6
+Sheridan,20-2,U.S. Senate,,DEM,Scott D Morrow,4
+Sheridan,20-2,U.S. Senate,,DEM,Write-ins,0
+Sheridan,20-2,U.S. Senate,,DEM,Over Votes,0
+Sheridan,20-2,U.S. Senate,,DEM,Under Votes,0
+Sheridan,20-2,U.S. House,,REP,Harriet Hageman,51
+Sheridan,20-2,U.S. House,,REP,Steven R. Helling,19
+Sheridan,20-2,U.S. House,,REP,Write-ins,1
+Sheridan,20-2,U.S. House,,REP,Over Votes,0
+Sheridan,20-2,U.S. House,,REP,Under Votes,1
+Sheridan,20-2,U.S. House,,DEM,Kyle G. Cameron,4
+Sheridan,20-2,U.S. House,,DEM,Write-ins,0
+Sheridan,20-2,U.S. House,,DEM,Over Votes,0
+Sheridan,20-2,U.S. House,,DEM,Under Votes,0
+Sheridan,20-2,State House,51,REP,Laurie Bratten,60
+Sheridan,20-2,State House,51,REP,Write-ins,7
+Sheridan,20-2,State House,51,REP,Over Votes,0
+Sheridan,20-2,State House,51,REP,Under Votes,5
+Sheridan,20-2,State House,51,DEM,Write-ins,3
+Sheridan,20-2,Ballots Cast,,REP,Ballots Cast,72
+Sheridan,20-2,Ballots Cast,,DEM,Ballots Cast,4
+Sheridan,20-2,Ballots Cast,,NP,Ballots Cast,0
+Sheridan,20-2,Ballots Cast,,,Ballots Cast,76

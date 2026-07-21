@@ -1,0 +1,808 @@
+county,precinct,office,district,party,candidate,votes
+Converse,13-13,U.S. House,,REP,Harriet Hageman,63
+Converse,13-13,U.S. House,,DEM,Lynnette GreyBull,7
+Converse,13-13,U.S. House,,LIB,Richard Brubaker,1
+Converse,13-13,U.S. House,,CTRY,Marissa Joy Selvig,5
+Converse,13-13,U.S. House,,,Write-ins,0
+Converse,13-13,U.S. House,,,Over Votes,0
+Converse,13-13,U.S. House,,,Under Votes,2
+Converse,13-13,Governor,,REP,Mark Gordon,53
+Converse,13-13,Governor,,DEM,Theresa A. Livingston,3
+Converse,13-13,Governor,,LIB,Jared J. Baldes,5
+Converse,13-13,Governor,,,Write-ins,11
+Converse,13-13,Governor,,,Over Votes,0
+Converse,13-13,Governor,,,Under Votes,6
+Converse,13-13,Secretary of State,,REP,Chuck Gray,63
+Converse,13-13,Secretary of State,,,Write-ins,4
+Converse,13-13,Secretary of State,,,Over Votes,0
+Converse,13-13,Secretary of State,,,Under Votes,11
+Converse,13-13,State Auditor,,REP,Kristi Racines,61
+Converse,13-13,State Auditor,,,Write-ins,0
+Converse,13-13,State Auditor,,,Over Votes,0
+Converse,13-13,State Auditor,,,Under Votes,17
+Converse,13-13,State Treasurer,,REP,Curt Meier,65
+Converse,13-13,State Treasurer,,,Write-ins,0
+Converse,13-13,State Treasurer,,,Over Votes,0
+Converse,13-13,State Treasurer,,,Under Votes,13
+Converse,13-13,Superintendent of Public Instruction,,REP,Megan Degenfelder,61
+Converse,13-13,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Converse,13-13,Superintendent of Public Instruction,,,Write-ins,6
+Converse,13-13,Superintendent of Public Instruction,,,Over Votes,0
+Converse,13-13,Superintendent of Public Instruction,,,Under Votes,7
+Converse,13-13,State House,6,REP,Tomi Strock,58
+Converse,13-13,State House,6,DEM,Hank Szramkowski,0
+Converse,13-13,State House,6,IND,Bruce Jones,18
+Converse,13-13,State House,6,,Write-ins,0
+Converse,13-13,State House,6,,Over Votes,0
+Converse,13-13,State House,6,,Under Votes,2
+Converse,13-13,Ballots Cast,,,Ballots Cast,78
+Converse,13-13,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,13-13,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,11
+Converse,13-13,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,13-13,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,5
+Converse,13-13,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,13-13,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,4
+Converse,20-20,U.S. House,,REP,Harriet Hageman,80
+Converse,20-20,U.S. House,,DEM,Lynnette GreyBull,3
+Converse,20-20,U.S. House,,LIB,Richard Brubaker,0
+Converse,20-20,U.S. House,,CTRY,Marissa Joy Selvig,0
+Converse,20-20,U.S. House,,,Write-ins,1
+Converse,20-20,U.S. House,,,Over Votes,0
+Converse,20-20,U.S. House,,,Under Votes,1
+Converse,20-20,Governor,,REP,Mark Gordon,68
+Converse,20-20,Governor,,DEM,Theresa A. Livingston,2
+Converse,20-20,Governor,,LIB,Jared J. Baldes,2
+Converse,20-20,Governor,,,Write-ins,7
+Converse,20-20,Governor,,,Over Votes,0
+Converse,20-20,Governor,,,Under Votes,6
+Converse,20-20,Secretary of State,,REP,Chuck Gray,69
+Converse,20-20,Secretary of State,,,Write-ins,3
+Converse,20-20,Secretary of State,,,Over Votes,0
+Converse,20-20,Secretary of State,,,Under Votes,13
+Converse,20-20,State Auditor,,REP,Kristi Racines,75
+Converse,20-20,State Auditor,,,Write-ins,0
+Converse,20-20,State Auditor,,,Over Votes,1
+Converse,20-20,State Auditor,,,Under Votes,9
+Converse,20-20,State Treasurer,,REP,Curt Meier,80
+Converse,20-20,State Treasurer,,,Write-ins,0
+Converse,20-20,State Treasurer,,,Over Votes,0
+Converse,20-20,State Treasurer,,,Under Votes,5
+Converse,20-20,Superintendent of Public Instruction,,REP,Megan Degenfelder,75
+Converse,20-20,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Converse,20-20,Superintendent of Public Instruction,,,Write-ins,2
+Converse,20-20,Superintendent of Public Instruction,,,Over Votes,0
+Converse,20-20,Superintendent of Public Instruction,,,Under Votes,4
+Converse,20-20,State House,6,REP,Tomi Strock,62
+Converse,20-20,State House,6,DEM,Hank Szramkowski,3
+Converse,20-20,State House,6,IND,Bruce Jones,19
+Converse,20-20,State House,6,,Write-ins,0
+Converse,20-20,State House,6,,Over Votes,0
+Converse,20-20,State House,6,,Under Votes,1
+Converse,20-20,Ballots Cast,,,Ballots Cast,85
+Converse,20-20,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,20-20,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,16
+Converse,20-20,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,20-20,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,9
+Converse,20-20,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,20-20,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,8
+Converse,2022-01-01 00:00:00,U.S. House,,REP,Harriet Hageman,127
+Converse,2022-01-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,7
+Converse,2022-01-01 00:00:00,U.S. House,,LIB,Richard Brubaker,1
+Converse,2022-01-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,3
+Converse,2022-01-01 00:00:00,U.S. House,,,Write-ins,0
+Converse,2022-01-01 00:00:00,U.S. House,,,Over Votes,0
+Converse,2022-01-01 00:00:00,U.S. House,,,Under Votes,0
+Converse,2022-01-01 00:00:00,Governor,,REP,Mark Gordon,105
+Converse,2022-01-01 00:00:00,Governor,,DEM,Theresa A. Livingston,3
+Converse,2022-01-01 00:00:00,Governor,,LIB,Jared J. Baldes,7
+Converse,2022-01-01 00:00:00,Governor,,,Write-ins,20
+Converse,2022-01-01 00:00:00,Governor,,,Over Votes,0
+Converse,2022-01-01 00:00:00,Governor,,,Under Votes,3
+Converse,2022-01-01 00:00:00,Secretary of State,,REP,Chuck Gray,126
+Converse,2022-01-01 00:00:00,Secretary of State,,,Write-ins,0
+Converse,2022-01-01 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-01-01 00:00:00,Secretary of State,,,Under Votes,12
+Converse,2022-01-01 00:00:00,State Auditor,,REP,Kristi Racines,125
+Converse,2022-01-01 00:00:00,State Auditor,,,Write-ins,0
+Converse,2022-01-01 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-01-01 00:00:00,State Auditor,,,Under Votes,13
+Converse,2022-01-01 00:00:00,State Treasurer,,REP,Curt Meier,128
+Converse,2022-01-01 00:00:00,State Treasurer,,,Write-ins,0
+Converse,2022-01-01 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-01-01 00:00:00,State Treasurer,,,Under Votes,10
+Converse,2022-01-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,116
+Converse,2022-01-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",11
+Converse,2022-01-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,5
+Converse,2022-01-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-01-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,6
+Converse,2022-01-01 00:00:00,State House,6,REP,Tomi Strock,107
+Converse,2022-01-01 00:00:00,State House,6,DEM,Hank Szramkowski,3
+Converse,2022-01-01 00:00:00,State House,6,IND,Bruce Jones,26
+Converse,2022-01-01 00:00:00,State House,6,,Write-ins,0
+Converse,2022-01-01 00:00:00,State House,6,,Over Votes,0
+Converse,2022-01-01 00:00:00,State House,6,,Under Votes,2
+Converse,2022-01-01 00:00:00,Ballots Cast,,,Ballots Cast,138
+Converse,2022-01-01 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-01-01 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,19
+Converse,2022-01-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Converse,2022-01-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,10
+Converse,2022-01-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-01-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,9
+Converse,2022-02-02 00:00:00,U.S. House,,REP,Harriet Hageman,283
+Converse,2022-02-02 00:00:00,U.S. House,,DEM,Lynnette GreyBull,42
+Converse,2022-02-02 00:00:00,U.S. House,,LIB,Richard Brubaker,5
+Converse,2022-02-02 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,11
+Converse,2022-02-02 00:00:00,U.S. House,,,Write-ins,4
+Converse,2022-02-02 00:00:00,U.S. House,,,Over Votes,1
+Converse,2022-02-02 00:00:00,U.S. House,,,Under Votes,10
+Converse,2022-02-02 00:00:00,Governor,,REP,Mark Gordon,284
+Converse,2022-02-02 00:00:00,Governor,,DEM,Theresa A. Livingston,13
+Converse,2022-02-02 00:00:00,Governor,,LIB,Jared J. Baldes,22
+Converse,2022-02-02 00:00:00,Governor,,,Write-ins,28
+Converse,2022-02-02 00:00:00,Governor,,,Over Votes,0
+Converse,2022-02-02 00:00:00,Governor,,,Under Votes,9
+Converse,2022-02-02 00:00:00,Secretary of State,,REP,Chuck Gray,274
+Converse,2022-02-02 00:00:00,Secretary of State,,,Write-ins,24
+Converse,2022-02-02 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-02-02 00:00:00,Secretary of State,,,Under Votes,58
+Converse,2022-02-02 00:00:00,State Auditor,,REP,Kristi Racines,318
+Converse,2022-02-02 00:00:00,State Auditor,,,Write-ins,1
+Converse,2022-02-02 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-02-02 00:00:00,State Auditor,,,Under Votes,37
+Converse,2022-02-02 00:00:00,State Treasurer,,REP,Curt Meier,317
+Converse,2022-02-02 00:00:00,State Treasurer,,,Write-ins,1
+Converse,2022-02-02 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-02-02 00:00:00,State Treasurer,,,Under Votes,38
+Converse,2022-02-02 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,306
+Converse,2022-02-02 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",26
+Converse,2022-02-02 00:00:00,Superintendent of Public Instruction,,,Write-ins,8
+Converse,2022-02-02 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-02-02 00:00:00,Superintendent of Public Instruction,,,Under Votes,16
+Converse,2022-02-02 00:00:00,State House,6,REP,Tomi Strock,207
+Converse,2022-02-02 00:00:00,State House,6,DEM,Hank Szramkowski,12
+Converse,2022-02-02 00:00:00,State House,6,IND,Bruce Jones,126
+Converse,2022-02-02 00:00:00,State House,6,,Write-ins,0
+Converse,2022-02-02 00:00:00,State House,6,,Over Votes,2
+Converse,2022-02-02 00:00:00,State House,6,,Under Votes,9
+Converse,2022-02-02 00:00:00,Ballots Cast,,,Ballots Cast,356
+Converse,2022-02-02 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-02-02 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,35
+Converse,2022-02-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-02-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,24
+Converse,2022-02-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-02-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,14
+Converse,2022-03-01 00:00:00,U.S. House,,REP,Harriet Hageman,119
+Converse,2022-03-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,14
+Converse,2022-03-01 00:00:00,U.S. House,,LIB,Richard Brubaker,5
+Converse,2022-03-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,4
+Converse,2022-03-01 00:00:00,U.S. House,,,Write-ins,2
+Converse,2022-03-01 00:00:00,U.S. House,,,Over Votes,1
+Converse,2022-03-01 00:00:00,U.S. House,,,Under Votes,2
+Converse,2022-03-01 00:00:00,Governor,,REP,Mark Gordon,103
+Converse,2022-03-01 00:00:00,Governor,,DEM,Theresa A. Livingston,5
+Converse,2022-03-01 00:00:00,Governor,,LIB,Jared J. Baldes,10
+Converse,2022-03-01 00:00:00,Governor,,,Write-ins,25
+Converse,2022-03-01 00:00:00,Governor,,,Over Votes,0
+Converse,2022-03-01 00:00:00,Governor,,,Under Votes,4
+Converse,2022-03-01 00:00:00,Secretary of State,,REP,Chuck Gray,119
+Converse,2022-03-01 00:00:00,Secretary of State,,,Write-ins,5
+Converse,2022-03-01 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-03-01 00:00:00,Secretary of State,,,Under Votes,23
+Converse,2022-03-01 00:00:00,State Auditor,,REP,Kristi Racines,126
+Converse,2022-03-01 00:00:00,State Auditor,,,Write-ins,1
+Converse,2022-03-01 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-03-01 00:00:00,State Auditor,,,Under Votes,20
+Converse,2022-03-01 00:00:00,State Treasurer,,REP,Curt Meier,129
+Converse,2022-03-01 00:00:00,State Treasurer,,,Write-ins,1
+Converse,2022-03-01 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-03-01 00:00:00,State Treasurer,,,Under Votes,17
+Converse,2022-03-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,126
+Converse,2022-03-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",10
+Converse,2022-03-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,1
+Converse,2022-03-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-03-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,10
+Converse,2022-03-01 00:00:00,State House,6,REP,Tomi Strock,82
+Converse,2022-03-01 00:00:00,State House,6,DEM,Hank Szramkowski,11
+Converse,2022-03-01 00:00:00,State House,6,IND,Bruce Jones,53
+Converse,2022-03-01 00:00:00,State House,6,,Write-ins,0
+Converse,2022-03-01 00:00:00,State House,6,,Over Votes,0
+Converse,2022-03-01 00:00:00,State House,6,,Under Votes,1
+Converse,2022-03-01 00:00:00,Ballots Cast,,,Ballots Cast,147
+Converse,2022-03-01 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-03-01 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,17
+Converse,2022-03-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-03-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,17
+Converse,2022-03-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-03-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,13
+Converse,2022-04-04 00:00:00,U.S. House,,REP,Harriet Hageman,333
+Converse,2022-04-04 00:00:00,U.S. House,,DEM,Lynnette GreyBull,25
+Converse,2022-04-04 00:00:00,U.S. House,,LIB,Richard Brubaker,4
+Converse,2022-04-04 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,8
+Converse,2022-04-04 00:00:00,U.S. House,,,Write-ins,4
+Converse,2022-04-04 00:00:00,U.S. House,,,Over Votes,1
+Converse,2022-04-04 00:00:00,U.S. House,,,Under Votes,5
+Converse,2022-04-04 00:00:00,Governor,,REP,Mark Gordon,251
+Converse,2022-04-04 00:00:00,Governor,,DEM,Theresa A. Livingston,18
+Converse,2022-04-04 00:00:00,Governor,,LIB,Jared J. Baldes,27
+Converse,2022-04-04 00:00:00,Governor,,,Write-ins,67
+Converse,2022-04-04 00:00:00,Governor,,,Over Votes,0
+Converse,2022-04-04 00:00:00,Governor,,,Under Votes,17
+Converse,2022-04-04 00:00:00,Secretary of State,,REP,Chuck Gray,327
+Converse,2022-04-04 00:00:00,Secretary of State,,,Write-ins,12
+Converse,2022-04-04 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-04-04 00:00:00,Secretary of State,,,Under Votes,41
+Converse,2022-04-04 00:00:00,State Auditor,,REP,Kristi Racines,328
+Converse,2022-04-04 00:00:00,State Auditor,,,Write-ins,0
+Converse,2022-04-04 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-04-04 00:00:00,State Auditor,,,Under Votes,52
+Converse,2022-04-04 00:00:00,State Treasurer,,REP,Curt Meier,339
+Converse,2022-04-04 00:00:00,State Treasurer,,,Write-ins,0
+Converse,2022-04-04 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-04-04 00:00:00,State Treasurer,,,Under Votes,41
+Converse,2022-04-04 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,319
+Converse,2022-04-04 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",26
+Converse,2022-04-04 00:00:00,Superintendent of Public Instruction,,,Write-ins,11
+Converse,2022-04-04 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-04-04 00:00:00,Superintendent of Public Instruction,,,Under Votes,24
+Converse,2022-04-04 00:00:00,State House,6,REP,Tomi Strock,248
+Converse,2022-04-04 00:00:00,State House,6,DEM,Hank Szramkowski,21
+Converse,2022-04-04 00:00:00,State House,6,IND,Bruce Jones,103
+Converse,2022-04-04 00:00:00,State House,6,,Write-ins,0
+Converse,2022-04-04 00:00:00,State House,6,,Over Votes,1
+Converse,2022-04-04 00:00:00,State House,6,,Under Votes,7
+Converse,2022-04-04 00:00:00,Ballots Cast,,,Ballots Cast,380
+Converse,2022-04-04 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-04-04 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,40
+Converse,2022-04-04 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-04-04 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,27
+Converse,2022-04-04 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Converse,2022-04-04 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,15
+Converse,2022-06-06 00:00:00,U.S. House,,REP,Harriet Hageman,225
+Converse,2022-06-06 00:00:00,U.S. House,,DEM,Lynnette GreyBull,23
+Converse,2022-06-06 00:00:00,U.S. House,,LIB,Richard Brubaker,9
+Converse,2022-06-06 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,4
+Converse,2022-06-06 00:00:00,U.S. House,,,Write-ins,3
+Converse,2022-06-06 00:00:00,U.S. House,,,Over Votes,0
+Converse,2022-06-06 00:00:00,U.S. House,,,Under Votes,2
+Converse,2022-06-06 00:00:00,Governor,,REP,Mark Gordon,228
+Converse,2022-06-06 00:00:00,Governor,,DEM,Theresa A. Livingston,8
+Converse,2022-06-06 00:00:00,Governor,,LIB,Jared J. Baldes,15
+Converse,2022-06-06 00:00:00,Governor,,,Write-ins,9
+Converse,2022-06-06 00:00:00,Governor,,,Over Votes,0
+Converse,2022-06-06 00:00:00,Governor,,,Under Votes,6
+Converse,2022-06-06 00:00:00,Secretary of State,,REP,Chuck Gray,210
+Converse,2022-06-06 00:00:00,Secretary of State,,,Write-ins,16
+Converse,2022-06-06 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-06-06 00:00:00,Secretary of State,,,Under Votes,40
+Converse,2022-06-06 00:00:00,State Auditor,,REP,Kristi Racines,237
+Converse,2022-06-06 00:00:00,State Auditor,,,Write-ins,2
+Converse,2022-06-06 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-06-06 00:00:00,State Auditor,,,Under Votes,27
+Converse,2022-06-06 00:00:00,State Treasurer,,REP,Curt Meier,236
+Converse,2022-06-06 00:00:00,State Treasurer,,,Write-ins,2
+Converse,2022-06-06 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-06-06 00:00:00,State Treasurer,,,Under Votes,28
+Converse,2022-06-06 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,238
+Converse,2022-06-06 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",18
+Converse,2022-06-06 00:00:00,Superintendent of Public Instruction,,,Write-ins,2
+Converse,2022-06-06 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-06-06 00:00:00,Superintendent of Public Instruction,,,Under Votes,8
+Converse,2022-06-06 00:00:00,State House,62,,Forrest Chadwick,228
+Converse,2022-06-06 00:00:00,State House,62,,Write-ins,6
+Converse,2022-06-06 00:00:00,State House,62,,Over Votes,0
+Converse,2022-06-06 00:00:00,State House,62,,Under Votes,32
+Converse,2022-06-06 00:00:00,Ballots Cast,,,Ballots Cast,266
+Converse,2022-06-06 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-06-06 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,31
+Converse,2022-06-06 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-06-06 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,17
+Converse,2022-06-06 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-06-06 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,11
+Converse,2022-07-07 00:00:00,U.S. House,,REP,Harriet Hageman,144
+Converse,2022-07-07 00:00:00,U.S. House,,DEM,Lynnette GreyBull,22
+Converse,2022-07-07 00:00:00,U.S. House,,LIB,Richard Brubaker,2
+Converse,2022-07-07 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,16
+Converse,2022-07-07 00:00:00,U.S. House,,,Write-ins,4
+Converse,2022-07-07 00:00:00,U.S. House,,,Over Votes,0
+Converse,2022-07-07 00:00:00,U.S. House,,,Under Votes,0
+Converse,2022-07-07 00:00:00,Governor,,REP,Mark Gordon,127
+Converse,2022-07-07 00:00:00,Governor,,DEM,Theresa A. Livingston,9
+Converse,2022-07-07 00:00:00,Governor,,LIB,Jared J. Baldes,11
+Converse,2022-07-07 00:00:00,Governor,,,Write-ins,33
+Converse,2022-07-07 00:00:00,Governor,,,Over Votes,0
+Converse,2022-07-07 00:00:00,Governor,,,Under Votes,8
+Converse,2022-07-07 00:00:00,Secretary of State,,REP,Chuck Gray,152
+Converse,2022-07-07 00:00:00,Secretary of State,,,Write-ins,5
+Converse,2022-07-07 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-07-07 00:00:00,Secretary of State,,,Under Votes,31
+Converse,2022-07-07 00:00:00,State Auditor,,REP,Kristi Racines,147
+Converse,2022-07-07 00:00:00,State Auditor,,,Write-ins,4
+Converse,2022-07-07 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-07-07 00:00:00,State Auditor,,,Under Votes,37
+Converse,2022-07-07 00:00:00,State Treasurer,,REP,Curt Meier,161
+Converse,2022-07-07 00:00:00,State Treasurer,,,Write-ins,1
+Converse,2022-07-07 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-07-07 00:00:00,State Treasurer,,,Under Votes,26
+Converse,2022-07-07 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,143
+Converse,2022-07-07 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",14
+Converse,2022-07-07 00:00:00,Superintendent of Public Instruction,,,Write-ins,17
+Converse,2022-07-07 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-07-07 00:00:00,Superintendent of Public Instruction,,,Under Votes,14
+Converse,2022-07-07 00:00:00,State House,6,REP,Tomi Strock,122
+Converse,2022-07-07 00:00:00,State House,6,DEM,Hank Szramkowski,9
+Converse,2022-07-07 00:00:00,State House,6,IND,Bruce Jones,52
+Converse,2022-07-07 00:00:00,State House,6,,Write-ins,0
+Converse,2022-07-07 00:00:00,State House,6,,Over Votes,0
+Converse,2022-07-07 00:00:00,State House,6,,Under Votes,5
+Converse,2022-07-07 00:00:00,Ballots Cast,,,Ballots Cast,188
+Converse,2022-07-07 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-07-07 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,26
+Converse,2022-07-07 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-07-07 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,11
+Converse,2022-07-07 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-07-07 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,8
+Converse,2022-08-08 00:00:00,U.S. House,,REP,Harriet Hageman,234
+Converse,2022-08-08 00:00:00,U.S. House,,DEM,Lynnette GreyBull,17
+Converse,2022-08-08 00:00:00,U.S. House,,LIB,Richard Brubaker,6
+Converse,2022-08-08 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,10
+Converse,2022-08-08 00:00:00,U.S. House,,,Write-ins,3
+Converse,2022-08-08 00:00:00,U.S. House,,,Over Votes,1
+Converse,2022-08-08 00:00:00,U.S. House,,,Under Votes,3
+Converse,2022-08-08 00:00:00,Governor,,REP,Mark Gordon,206
+Converse,2022-08-08 00:00:00,Governor,,DEM,Theresa A. Livingston,14
+Converse,2022-08-08 00:00:00,Governor,,LIB,Jared J. Baldes,10
+Converse,2022-08-08 00:00:00,Governor,,,Write-ins,32
+Converse,2022-08-08 00:00:00,Governor,,,Over Votes,0
+Converse,2022-08-08 00:00:00,Governor,,,Under Votes,12
+Converse,2022-08-08 00:00:00,Secretary of State,,REP,Chuck Gray,231
+Converse,2022-08-08 00:00:00,Secretary of State,,,Write-ins,13
+Converse,2022-08-08 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-08-08 00:00:00,Secretary of State,,,Under Votes,30
+Converse,2022-08-08 00:00:00,State Auditor,,REP,Kristi Racines,236
+Converse,2022-08-08 00:00:00,State Auditor,,,Write-ins,3
+Converse,2022-08-08 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-08-08 00:00:00,State Auditor,,,Under Votes,35
+Converse,2022-08-08 00:00:00,State Treasurer,,REP,Curt Meier,237
+Converse,2022-08-08 00:00:00,State Treasurer,,,Write-ins,1
+Converse,2022-08-08 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-08-08 00:00:00,State Treasurer,,,Under Votes,36
+Converse,2022-08-08 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,220
+Converse,2022-08-08 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",18
+Converse,2022-08-08 00:00:00,Superintendent of Public Instruction,,,Write-ins,16
+Converse,2022-08-08 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-08-08 00:00:00,Superintendent of Public Instruction,,,Under Votes,20
+Converse,2022-08-08 00:00:00,State House,6,REP,Tomi Strock,197
+Converse,2022-08-08 00:00:00,State House,6,DEM,Hank Szramkowski,12
+Converse,2022-08-08 00:00:00,State House,6,IND,Bruce Jones,59
+Converse,2022-08-08 00:00:00,State House,6,,Write-ins,1
+Converse,2022-08-08 00:00:00,State House,6,,Over Votes,2
+Converse,2022-08-08 00:00:00,State House,6,,Under Votes,3
+Converse,2022-08-08 00:00:00,Ballots Cast,,,Ballots Cast,274
+Converse,2022-08-08 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-08-08 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,35
+Converse,2022-08-08 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-08-08 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,22
+Converse,2022-08-08 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-08-08 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,13
+Converse,2022-09-01 00:00:00,U.S. House,,REP,Harriet Hageman,356
+Converse,2022-09-01 00:00:00,U.S. House,,DEM,Lynnette GreyBull,54
+Converse,2022-09-01 00:00:00,U.S. House,,LIB,Richard Brubaker,22
+Converse,2022-09-01 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,18
+Converse,2022-09-01 00:00:00,U.S. House,,,Write-ins,5
+Converse,2022-09-01 00:00:00,U.S. House,,,Over Votes,1
+Converse,2022-09-01 00:00:00,U.S. House,,,Under Votes,8
+Converse,2022-09-01 00:00:00,Governor,,REP,Mark Gordon,359
+Converse,2022-09-01 00:00:00,Governor,,DEM,Theresa A. Livingston,35
+Converse,2022-09-01 00:00:00,Governor,,LIB,Jared J. Baldes,37
+Converse,2022-09-01 00:00:00,Governor,,,Write-ins,26
+Converse,2022-09-01 00:00:00,Governor,,,Over Votes,0
+Converse,2022-09-01 00:00:00,Governor,,,Under Votes,7
+Converse,2022-09-01 00:00:00,Secretary of State,,REP,Chuck Gray,376
+Converse,2022-09-01 00:00:00,Secretary of State,,,Write-ins,25
+Converse,2022-09-01 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-09-01 00:00:00,Secretary of State,,,Under Votes,63
+Converse,2022-09-01 00:00:00,State Auditor,,REP,Kristi Racines,408
+Converse,2022-09-01 00:00:00,State Auditor,,,Write-ins,4
+Converse,2022-09-01 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-09-01 00:00:00,State Auditor,,,Under Votes,52
+Converse,2022-09-01 00:00:00,State Treasurer,,REP,Curt Meier,416
+Converse,2022-09-01 00:00:00,State Treasurer,,,Write-ins,3
+Converse,2022-09-01 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-09-01 00:00:00,State Treasurer,,,Under Votes,45
+Converse,2022-09-01 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,386
+Converse,2022-09-01 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",55
+Converse,2022-09-01 00:00:00,Superintendent of Public Instruction,,,Write-ins,5
+Converse,2022-09-01 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-09-01 00:00:00,Superintendent of Public Instruction,,,Under Votes,18
+Converse,2022-09-01 00:00:00,State House,62,,Forrest Chadwick,406
+Converse,2022-09-01 00:00:00,State House,62,,Write-ins,8
+Converse,2022-09-01 00:00:00,State House,62,,Over Votes,0
+Converse,2022-09-01 00:00:00,State House,62,,Under Votes,50
+Converse,2022-09-01 00:00:00,Ballots Cast,,,Ballots Cast,464
+Converse,2022-09-01 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-09-01 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,46
+Converse,2022-09-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-09-01 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,28
+Converse,2022-09-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-09-01 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,16
+Converse,2022-09-02 00:00:00,U.S. House,,REP,Harriet Hageman,256
+Converse,2022-09-02 00:00:00,U.S. House,,DEM,Lynnette GreyBull,59
+Converse,2022-09-02 00:00:00,U.S. House,,LIB,Richard Brubaker,19
+Converse,2022-09-02 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,10
+Converse,2022-09-02 00:00:00,U.S. House,,,Write-ins,8
+Converse,2022-09-02 00:00:00,U.S. House,,,Over Votes,2
+Converse,2022-09-02 00:00:00,U.S. House,,,Under Votes,6
+Converse,2022-09-02 00:00:00,Governor,,REP,Mark Gordon,278
+Converse,2022-09-02 00:00:00,Governor,,DEM,Theresa A. Livingston,48
+Converse,2022-09-02 00:00:00,Governor,,LIB,Jared J. Baldes,21
+Converse,2022-09-02 00:00:00,Governor,,,Write-ins,8
+Converse,2022-09-02 00:00:00,Governor,,,Over Votes,0
+Converse,2022-09-02 00:00:00,Governor,,,Under Votes,5
+Converse,2022-09-02 00:00:00,Secretary of State,,REP,Chuck Gray,280
+Converse,2022-09-02 00:00:00,Secretary of State,,,Write-ins,22
+Converse,2022-09-02 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-09-02 00:00:00,Secretary of State,,,Under Votes,58
+Converse,2022-09-02 00:00:00,State Auditor,,REP,Kristi Racines,317
+Converse,2022-09-02 00:00:00,State Auditor,,,Write-ins,2
+Converse,2022-09-02 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-09-02 00:00:00,State Auditor,,,Under Votes,41
+Converse,2022-09-02 00:00:00,State Treasurer,,REP,Curt Meier,311
+Converse,2022-09-02 00:00:00,State Treasurer,,,Write-ins,2
+Converse,2022-09-02 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-09-02 00:00:00,State Treasurer,,,Under Votes,47
+Converse,2022-09-02 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,287
+Converse,2022-09-02 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",57
+Converse,2022-09-02 00:00:00,Superintendent of Public Instruction,,,Write-ins,2
+Converse,2022-09-02 00:00:00,Superintendent of Public Instruction,,,Over Votes,0
+Converse,2022-09-02 00:00:00,Superintendent of Public Instruction,,,Under Votes,14
+Converse,2022-09-02 00:00:00,State House,62,,Forrest Chadwick,317
+Converse,2022-09-02 00:00:00,State House,62,,Write-ins,4
+Converse,2022-09-02 00:00:00,State House,62,,Over Votes,0
+Converse,2022-09-02 00:00:00,State House,62,,Under Votes,39
+Converse,2022-09-02 00:00:00,Ballots Cast,,,Ballots Cast,360
+Converse,2022-09-02 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-09-02 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,37
+Converse,2022-09-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Converse,2022-09-02 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,18
+Converse,2022-09-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-09-02 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,14
+Converse,2022-10-10 00:00:00,U.S. House,,REP,Harriet Hageman,207
+Converse,2022-10-10 00:00:00,U.S. House,,DEM,Lynnette GreyBull,28
+Converse,2022-10-10 00:00:00,U.S. House,,LIB,Richard Brubaker,8
+Converse,2022-10-10 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,11
+Converse,2022-10-10 00:00:00,U.S. House,,,Write-ins,3
+Converse,2022-10-10 00:00:00,U.S. House,,,Over Votes,0
+Converse,2022-10-10 00:00:00,U.S. House,,,Under Votes,3
+Converse,2022-10-10 00:00:00,Governor,,REP,Mark Gordon,205
+Converse,2022-10-10 00:00:00,Governor,,DEM,Theresa A. Livingston,20
+Converse,2022-10-10 00:00:00,Governor,,LIB,Jared J. Baldes,10
+Converse,2022-10-10 00:00:00,Governor,,,Write-ins,18
+Converse,2022-10-10 00:00:00,Governor,,,Over Votes,0
+Converse,2022-10-10 00:00:00,Governor,,,Under Votes,7
+Converse,2022-10-10 00:00:00,Secretary of State,,REP,Chuck Gray,207
+Converse,2022-10-10 00:00:00,Secretary of State,,,Write-ins,17
+Converse,2022-10-10 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-10-10 00:00:00,Secretary of State,,,Under Votes,36
+Converse,2022-10-10 00:00:00,State Auditor,,REP,Kristi Racines,225
+Converse,2022-10-10 00:00:00,State Auditor,,,Write-ins,1
+Converse,2022-10-10 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-10-10 00:00:00,State Auditor,,,Under Votes,34
+Converse,2022-10-10 00:00:00,State Treasurer,,REP,Curt Meier,232
+Converse,2022-10-10 00:00:00,State Treasurer,,,Write-ins,1
+Converse,2022-10-10 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-10-10 00:00:00,State Treasurer,,,Under Votes,27
+Converse,2022-10-10 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,221
+Converse,2022-10-10 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",26
+Converse,2022-10-10 00:00:00,Superintendent of Public Instruction,,,Write-ins,2
+Converse,2022-10-10 00:00:00,Superintendent of Public Instruction,,,Over Votes,1
+Converse,2022-10-10 00:00:00,Superintendent of Public Instruction,,,Under Votes,10
+Converse,2022-10-10 00:00:00,State House,62,,Forrest Chadwick,225
+Converse,2022-10-10 00:00:00,State House,62,,Write-ins,5
+Converse,2022-10-10 00:00:00,State House,62,,Over Votes,0
+Converse,2022-10-10 00:00:00,State House,62,,Under Votes,30
+Converse,2022-10-10 00:00:00,Ballots Cast,,,Ballots Cast,260
+Converse,2022-10-10 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,2022-10-10 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,31
+Converse,2022-10-10 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-10-10 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,15
+Converse,2022-10-10 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,2022-10-10 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,12
+Converse,2022-11-11 00:00:00,U.S. House,,REP,Harriet Hageman,128
+Converse,2022-11-11 00:00:00,U.S. House,,DEM,Lynnette GreyBull,16
+Converse,2022-11-11 00:00:00,U.S. House,,LIB,Richard Brubaker,2
+Converse,2022-11-11 00:00:00,U.S. House,,CTRY,Marissa Joy Selvig,10
+Converse,2022-11-11 00:00:00,U.S. House,,,Write-ins,1
+Converse,2022-11-11 00:00:00,U.S. House,,,Over Votes,2
+Converse,2022-11-11 00:00:00,U.S. House,,,Under Votes,2
+Converse,2022-11-11 00:00:00,Governor,,REP,Mark Gordon,121
+Converse,2022-11-11 00:00:00,Governor,,DEM,Theresa A. Livingston,10
+Converse,2022-11-11 00:00:00,Governor,,LIB,Jared J. Baldes,18
+Converse,2022-11-11 00:00:00,Governor,,,Write-ins,4
+Converse,2022-11-11 00:00:00,Governor,,,Over Votes,0
+Converse,2022-11-11 00:00:00,Governor,,,Under Votes,8
+Converse,2022-11-11 00:00:00,Secretary of State,,REP,Chuck Gray,131
+Converse,2022-11-11 00:00:00,Secretary of State,,,Write-ins,3
+Converse,2022-11-11 00:00:00,Secretary of State,,,Over Votes,0
+Converse,2022-11-11 00:00:00,Secretary of State,,,Under Votes,27
+Converse,2022-11-11 00:00:00,State Auditor,,REP,Kristi Racines,135
+Converse,2022-11-11 00:00:00,State Auditor,,,Write-ins,0
+Converse,2022-11-11 00:00:00,State Auditor,,,Over Votes,0
+Converse,2022-11-11 00:00:00,State Auditor,,,Under Votes,26
+Converse,2022-11-11 00:00:00,State Treasurer,,REP,Curt Meier,138
+Converse,2022-11-11 00:00:00,State Treasurer,,,Write-ins,0
+Converse,2022-11-11 00:00:00,State Treasurer,,,Over Votes,0
+Converse,2022-11-11 00:00:00,State Treasurer,,,Under Votes,23
+Converse,2022-11-11 00:00:00,Superintendent of Public Instruction,,REP,Megan Degenfelder,131
+Converse,2022-11-11 00:00:00,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",17
+Converse,2022-11-11 00:00:00,Superintendent of Public Instruction,,,Write-ins,0
+Converse,2022-11-11 00:00:00,Superintendent of Public Instruction,,,Over Votes,1
+Converse,2022-11-11 00:00:00,Superintendent of Public Instruction,,,Under Votes,12
+Converse,2022-11-11 00:00:00,State House,62,,Forrest Chadwick,140
+Converse,2022-11-11 00:00:00,State House,62,,Write-ins,0
+Converse,2022-11-11 00:00:00,State House,62,,Over Votes,0
+Converse,2022-11-11 00:00:00,State House,62,,Under Votes,21
+Converse,2022-11-11 00:00:00,Ballots Cast,,,Ballots Cast,161
+Converse,2022-11-11 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,1
+Converse,2022-11-11 00:00:00,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,18
+Converse,2022-11-11 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,2022-11-11 00:00:00,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,8
+Converse,2022-11-11 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Converse,2022-11-11 00:00:00,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,6
+Converse,23-1,U.S. House,,REP,Harriet Hageman,164
+Converse,23-1,U.S. House,,DEM,Lynnette GreyBull,37
+Converse,23-1,U.S. House,,LIB,Richard Brubaker,6
+Converse,23-1,U.S. House,,CTRY,Marissa Joy Selvig,3
+Converse,23-1,U.S. House,,,Write-ins,2
+Converse,23-1,U.S. House,,,Over Votes,1
+Converse,23-1,U.S. House,,,Under Votes,4
+Converse,23-1,Governor,,REP,Mark Gordon,154
+Converse,23-1,Governor,,DEM,Theresa A. Livingston,21
+Converse,23-1,Governor,,LIB,Jared J. Baldes,12
+Converse,23-1,Governor,,,Write-ins,23
+Converse,23-1,Governor,,,Over Votes,0
+Converse,23-1,Governor,,,Under Votes,7
+Converse,23-1,Secretary of State,,REP,Chuck Gray,168
+Converse,23-1,Secretary of State,,,Write-ins,7
+Converse,23-1,Secretary of State,,,Over Votes,0
+Converse,23-1,Secretary of State,,,Under Votes,42
+Converse,23-1,State Auditor,,REP,Kristi Racines,169
+Converse,23-1,State Auditor,,,Write-ins,1
+Converse,23-1,State Auditor,,,Over Votes,0
+Converse,23-1,State Auditor,,,Under Votes,47
+Converse,23-1,State Treasurer,,REP,Curt Meier,172
+Converse,23-1,State Treasurer,,,Write-ins,1
+Converse,23-1,State Treasurer,,,Over Votes,0
+Converse,23-1,State Treasurer,,,Under Votes,44
+Converse,23-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,170
+Converse,23-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",27
+Converse,23-1,Superintendent of Public Instruction,,,Write-ins,0
+Converse,23-1,Superintendent of Public Instruction,,,Over Votes,0
+Converse,23-1,Superintendent of Public Instruction,,,Under Votes,20
+Converse,23-1,State House,6,REP,Tomi Strock,124
+Converse,23-1,State House,6,DEM,Hank Szramkowski,19
+Converse,23-1,State House,6,IND,Bruce Jones,70
+Converse,23-1,State House,6,,Write-ins,1
+Converse,23-1,State House,6,,Over Votes,0
+Converse,23-1,State House,6,,Under Votes,3
+Converse,23-1,Ballots Cast,,,Ballots Cast,217
+Converse,23-1,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,23-1,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,34
+Converse,23-1,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,23-1,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,16
+Converse,23-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,23-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,15
+Converse,23-2,U.S. House,,REP,Harriet Hageman,297
+Converse,23-2,U.S. House,,DEM,Lynnette GreyBull,50
+Converse,23-2,U.S. House,,LIB,Richard Brubaker,8
+Converse,23-2,U.S. House,,CTRY,Marissa Joy Selvig,31
+Converse,23-2,U.S. House,,,Write-ins,6
+Converse,23-2,U.S. House,,,Over Votes,0
+Converse,23-2,U.S. House,,,Under Votes,8
+Converse,23-2,Governor,,REP,Mark Gordon,293
+Converse,23-2,Governor,,DEM,Theresa A. Livingston,22
+Converse,23-2,Governor,,LIB,Jared J. Baldes,13
+Converse,23-2,Governor,,,Write-ins,58
+Converse,23-2,Governor,,,Over Votes,2
+Converse,23-2,Governor,,,Under Votes,12
+Converse,23-2,Secretary of State,,REP,Chuck Gray,343
+Converse,23-2,Secretary of State,,,Write-ins,12
+Converse,23-2,Secretary of State,,,Over Votes,0
+Converse,23-2,Secretary of State,,,Under Votes,45
+Converse,23-2,State Auditor,,REP,Kristi Racines,347
+Converse,23-2,State Auditor,,,Write-ins,1
+Converse,23-2,State Auditor,,,Over Votes,0
+Converse,23-2,State Auditor,,,Under Votes,52
+Converse,23-2,State Treasurer,,REP,Curt Meier,350
+Converse,23-2,State Treasurer,,,Write-ins,3
+Converse,23-2,State Treasurer,,,Over Votes,0
+Converse,23-2,State Treasurer,,,Under Votes,47
+Converse,23-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,313
+Converse,23-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",40
+Converse,23-2,Superintendent of Public Instruction,,,Write-ins,16
+Converse,23-2,Superintendent of Public Instruction,,,Over Votes,0
+Converse,23-2,Superintendent of Public Instruction,,,Under Votes,31
+Converse,23-2,State House,6,REP,Tomi Strock,256
+Converse,23-2,State House,6,DEM,Hank Szramkowski,23
+Converse,23-2,State House,6,IND,Bruce Jones,110
+Converse,23-2,State House,6,,Write-ins,1
+Converse,23-2,State House,6,,Over Votes,2
+Converse,23-2,State House,6,,Under Votes,8
+Converse,23-2,Ballots Cast,,,Ballots Cast,400
+Converse,23-2,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,23-2,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,54
+Converse,23-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,23-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,41
+Converse,23-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,23-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,30
+Converse,23-3,U.S. House,,REP,Harriet Hageman,257
+Converse,23-3,U.S. House,,DEM,Lynnette GreyBull,43
+Converse,23-3,U.S. House,,LIB,Richard Brubaker,5
+Converse,23-3,U.S. House,,CTRY,Marissa Joy Selvig,20
+Converse,23-3,U.S. House,,,Write-ins,5
+Converse,23-3,U.S. House,,,Over Votes,1
+Converse,23-3,U.S. House,,,Under Votes,2
+Converse,23-3,Governor,,REP,Mark Gordon,242
+Converse,23-3,Governor,,DEM,Theresa A. Livingston,30
+Converse,23-3,Governor,,LIB,Jared J. Baldes,16
+Converse,23-3,Governor,,,Write-ins,37
+Converse,23-3,Governor,,,Over Votes,0
+Converse,23-3,Governor,,,Under Votes,8
+Converse,23-3,Secretary of State,,REP,Chuck Gray,281
+Converse,23-3,Secretary of State,,,Write-ins,6
+Converse,23-3,Secretary of State,,,Over Votes,0
+Converse,23-3,Secretary of State,,,Under Votes,46
+Converse,23-3,State Auditor,,REP,Kristi Racines,297
+Converse,23-3,State Auditor,,,Write-ins,1
+Converse,23-3,State Auditor,,,Over Votes,0
+Converse,23-3,State Auditor,,,Under Votes,35
+Converse,23-3,State Treasurer,,REP,Curt Meier,297
+Converse,23-3,State Treasurer,,,Write-ins,0
+Converse,23-3,State Treasurer,,,Over Votes,0
+Converse,23-3,State Treasurer,,,Under Votes,36
+Converse,23-3,Superintendent of Public Instruction,,REP,Megan Degenfelder,273
+Converse,23-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",40
+Converse,23-3,Superintendent of Public Instruction,,,Write-ins,8
+Converse,23-3,Superintendent of Public Instruction,,,Over Votes,0
+Converse,23-3,Superintendent of Public Instruction,,,Under Votes,12
+Converse,23-3,State House,6,REP,Tomi Strock,218
+Converse,23-3,State House,6,DEM,Hank Szramkowski,20
+Converse,23-3,State House,6,IND,Bruce Jones,90
+Converse,23-3,State House,6,,Write-ins,2
+Converse,23-3,State House,6,,Over Votes,0
+Converse,23-3,State House,6,,Under Votes,3
+Converse,23-3,Ballots Cast,,,Ballots Cast,333
+Converse,23-3,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,23-3,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,34
+Converse,23-3,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,23-3,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,16
+Converse,23-3,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Converse,23-3,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,9
+Converse,23-4,U.S. House,,REP,Harriet Hageman,396
+Converse,23-4,U.S. House,,DEM,Lynnette GreyBull,89
+Converse,23-4,U.S. House,,LIB,Richard Brubaker,12
+Converse,23-4,U.S. House,,CTRY,Marissa Joy Selvig,27
+Converse,23-4,U.S. House,,,Write-ins,10
+Converse,23-4,U.S. House,,,Over Votes,1
+Converse,23-4,U.S. House,,,Under Votes,16
+Converse,23-4,Governor,,REP,Mark Gordon,388
+Converse,23-4,Governor,,DEM,Theresa A. Livingston,46
+Converse,23-4,Governor,,LIB,Jared J. Baldes,27
+Converse,23-4,Governor,,,Write-ins,65
+Converse,23-4,Governor,,,Over Votes,2
+Converse,23-4,Governor,,,Under Votes,23
+Converse,23-4,Secretary of State,,REP,Chuck Gray,414
+Converse,23-4,Secretary of State,,,Write-ins,26
+Converse,23-4,Secretary of State,,,Over Votes,0
+Converse,23-4,Secretary of State,,,Under Votes,111
+Converse,23-4,State Auditor,,REP,Kristi Racines,443
+Converse,23-4,State Auditor,,,Write-ins,2
+Converse,23-4,State Auditor,,,Over Votes,0
+Converse,23-4,State Auditor,,,Under Votes,106
+Converse,23-4,State Treasurer,,REP,Curt Meier,450
+Converse,23-4,State Treasurer,,,Write-ins,7
+Converse,23-4,State Treasurer,,,Over Votes,0
+Converse,23-4,State Treasurer,,,Under Votes,94
+Converse,23-4,Superintendent of Public Instruction,,REP,Megan Degenfelder,406
+Converse,23-4,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",78
+Converse,23-4,Superintendent of Public Instruction,,,Write-ins,29
+Converse,23-4,Superintendent of Public Instruction,,,Over Votes,0
+Converse,23-4,Superintendent of Public Instruction,,,Under Votes,38
+Converse,23-4,State House,6,REP,Tomi Strock,301
+Converse,23-4,State House,6,DEM,Hank Szramkowski,46
+Converse,23-4,State House,6,IND,Bruce Jones,192
+Converse,23-4,State House,6,,Write-ins,0
+Converse,23-4,State House,6,,Over Votes,2
+Converse,23-4,State House,6,,Under Votes,10
+Converse,23-4,Ballots Cast,,,Ballots Cast,551
+Converse,23-4,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,23-4,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,92
+Converse,23-4,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,23-4,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,44
+Converse,23-4,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,23-4,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,26
+Converse,23-5,U.S. House,,REP,Harriet Hageman,196
+Converse,23-5,U.S. House,,DEM,Lynnette GreyBull,29
+Converse,23-5,U.S. House,,LIB,Richard Brubaker,9
+Converse,23-5,U.S. House,,CTRY,Marissa Joy Selvig,9
+Converse,23-5,U.S. House,,,Write-ins,3
+Converse,23-5,U.S. House,,,Over Votes,2
+Converse,23-5,U.S. House,,,Under Votes,7
+Converse,23-5,Governor,,REP,Mark Gordon,173
+Converse,23-5,Governor,,DEM,Theresa A. Livingston,23
+Converse,23-5,Governor,,LIB,Jared J. Baldes,14
+Converse,23-5,Governor,,,Write-ins,35
+Converse,23-5,Governor,,,Over Votes,0
+Converse,23-5,Governor,,,Under Votes,10
+Converse,23-5,Secretary of State,,REP,Chuck Gray,223
+Converse,23-5,Secretary of State,,,Write-ins,4
+Converse,23-5,Secretary of State,,,Over Votes,0
+Converse,23-5,Secretary of State,,,Under Votes,28
+Converse,23-5,State Auditor,,REP,Kristi Racines,222
+Converse,23-5,State Auditor,,,Write-ins,0
+Converse,23-5,State Auditor,,,Over Votes,0
+Converse,23-5,State Auditor,,,Under Votes,33
+Converse,23-5,State Treasurer,,REP,Curt Meier,223
+Converse,23-5,State Treasurer,,,Write-ins,0
+Converse,23-5,State Treasurer,,,Over Votes,0
+Converse,23-5,State Treasurer,,,Under Votes,32
+Converse,23-5,Superintendent of Public Instruction,,REP,Megan Degenfelder,202
+Converse,23-5,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",30
+Converse,23-5,Superintendent of Public Instruction,,,Write-ins,1
+Converse,23-5,Superintendent of Public Instruction,,,Over Votes,0
+Converse,23-5,Superintendent of Public Instruction,,,Under Votes,22
+Converse,23-5,State House,6,REP,Tomi Strock,149
+Converse,23-5,State House,6,DEM,Hank Szramkowski,23
+Converse,23-5,State House,6,IND,Bruce Jones,80
+Converse,23-5,State House,6,,Write-ins,0
+Converse,23-5,State House,6,,Over Votes,0
+Converse,23-5,State House,6,,Under Votes,3
+Converse,23-5,Ballots Cast,,,Ballots Cast,255
+Converse,23-5,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,23-5,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,36
+Converse,23-5,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,23-5,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,17
+Converse,23-5,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,23-5,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,10
+Converse,23-6,U.S. House,,REP,Harriet Hageman,179
+Converse,23-6,U.S. House,,DEM,Lynnette GreyBull,37
+Converse,23-6,U.S. House,,LIB,Richard Brubaker,5
+Converse,23-6,U.S. House,,CTRY,Marissa Joy Selvig,9
+Converse,23-6,U.S. House,,,Write-ins,7
+Converse,23-6,U.S. House,,,Over Votes,0
+Converse,23-6,U.S. House,,,Under Votes,3
+Converse,23-6,Governor,,REP,Mark Gordon,158
+Converse,23-6,Governor,,DEM,Theresa A. Livingston,25
+Converse,23-6,Governor,,LIB,Jared J. Baldes,13
+Converse,23-6,Governor,,,Write-ins,30
+Converse,23-6,Governor,,,Over Votes,0
+Converse,23-6,Governor,,,Under Votes,14
+Converse,23-6,Secretary of State,,REP,Chuck Gray,177
+Converse,23-6,Secretary of State,,,Write-ins,12
+Converse,23-6,Secretary of State,,,Over Votes,0
+Converse,23-6,Secretary of State,,,Under Votes,51
+Converse,23-6,State Auditor,,REP,Kristi Racines,197
+Converse,23-6,State Auditor,,,Write-ins,3
+Converse,23-6,State Auditor,,,Over Votes,0
+Converse,23-6,State Auditor,,,Under Votes,40
+Converse,23-6,State Treasurer,,REP,Curt Meier,202
+Converse,23-6,State Treasurer,,,Write-ins,2
+Converse,23-6,State Treasurer,,,Over Votes,0
+Converse,23-6,State Treasurer,,,Under Votes,36
+Converse,23-6,Superintendent of Public Instruction,,REP,Megan Degenfelder,185
+Converse,23-6,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",41
+Converse,23-6,Superintendent of Public Instruction,,,Write-ins,3
+Converse,23-6,Superintendent of Public Instruction,,,Over Votes,0
+Converse,23-6,Superintendent of Public Instruction,,,Under Votes,11
+Converse,23-6,State House,6,REP,Tomi Strock,135
+Converse,23-6,State House,6,DEM,Hank Szramkowski,16
+Converse,23-6,State House,6,IND,Bruce Jones,81
+Converse,23-6,State House,6,,Write-ins,0
+Converse,23-6,State House,6,,Over Votes,1
+Converse,23-6,State House,6,,Under Votes,7
+Converse,23-6,Ballots Cast,,,Ballots Cast,240
+Converse,23-6,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Over Votes,0
+Converse,23-6,"Circuit Court Judge, Eighth Judicial District Clark C. Allan",,,Under Votes,33
+Converse,23-6,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Converse,23-6,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,19
+Converse,23-6,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Converse,23-6,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,15

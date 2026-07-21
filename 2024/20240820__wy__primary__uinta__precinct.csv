@@ -1,0 +1,336 @@
+county,precinct,office,district,party,candidate,votes
+Uinta,1-1,U.S. Senate,,REP,John Barrasso,354
+Uinta,1-1,U.S. Senate,,REP,John Holtz,47
+Uinta,1-1,U.S. Senate,,REP,Reid Rasner,169
+Uinta,1-1,U.S. Senate,,REP,Write-ins,3
+Uinta,1-1,U.S. Senate,,REP,Over Votes,2
+Uinta,1-1,U.S. Senate,,REP,Under Votes,34
+Uinta,1-1,U.S. Senate,,DEM,Scott D Morrow,54
+Uinta,1-1,U.S. Senate,,DEM,Write-ins,0
+Uinta,1-1,U.S. Senate,,DEM,Over Votes,0
+Uinta,1-1,U.S. Senate,,DEM,Under Votes,5
+Uinta,1-1,U.S. House,,REP,Harriet Hageman,433
+Uinta,1-1,U.S. House,,REP,Steven R. Helling,142
+Uinta,1-1,U.S. House,,REP,Write-ins,5
+Uinta,1-1,U.S. House,,REP,Over Votes,1
+Uinta,1-1,U.S. House,,REP,Under Votes,28
+Uinta,1-1,U.S. House,,DEM,Kyle G. Cameron,53
+Uinta,1-1,U.S. House,,DEM,Write-ins,0
+Uinta,1-1,U.S. House,,DEM,Over Votes,0
+Uinta,1-1,U.S. House,,DEM,Under Votes,6
+Uinta,1-1,State House,49,REP,Robert Wharff,283
+Uinta,1-1,State House,49,REP,Ryan C. Berger,305
+Uinta,1-1,State House,49,REP,Write-ins,0
+Uinta,1-1,State House,49,REP,Over Votes,1
+Uinta,1-1,State House,49,REP,Under Votes,20
+Uinta,1-1,State House,49,DEM,Write-ins,9
+Uinta,1-1,Ballots Cast,,REP,Ballots Cast,609
+Uinta,1-1,Ballots Cast,,DEM,Ballots Cast,59
+Uinta,1-1,Ballots Cast,,NP,Ballots Cast,19
+Uinta,1-1,Ballots Cast,,,Ballots Cast,687
+Uinta,1-2,U.S. Senate,,REP,John Barrasso,479
+Uinta,1-2,U.S. Senate,,REP,John Holtz,48
+Uinta,1-2,U.S. Senate,,REP,Reid Rasner,167
+Uinta,1-2,U.S. Senate,,REP,Write-ins,4
+Uinta,1-2,U.S. Senate,,REP,Over Votes,1
+Uinta,1-2,U.S. Senate,,REP,Under Votes,39
+Uinta,1-2,U.S. Senate,,DEM,Scott D Morrow,65
+Uinta,1-2,U.S. Senate,,DEM,Write-ins,1
+Uinta,1-2,U.S. Senate,,DEM,Over Votes,0
+Uinta,1-2,U.S. Senate,,DEM,Under Votes,3
+Uinta,1-2,U.S. House,,REP,Harriet Hageman,588
+Uinta,1-2,U.S. House,,REP,Steven R. Helling,100
+Uinta,1-2,U.S. House,,REP,Write-ins,10
+Uinta,1-2,U.S. House,,REP,Over Votes,0
+Uinta,1-2,U.S. House,,REP,Under Votes,40
+Uinta,1-2,U.S. House,,DEM,Kyle G. Cameron,61
+Uinta,1-2,U.S. House,,DEM,Write-ins,1
+Uinta,1-2,U.S. House,,DEM,Over Votes,0
+Uinta,1-2,U.S. House,,DEM,Under Votes,7
+Uinta,1-2,State House,19,REP,Joe Webb,15
+Uinta,1-2,State House,19,REP,Jon R. Conrad,5
+Uinta,1-2,State House,19,REP,Write-ins,0
+Uinta,1-2,State House,19,REP,Over Votes,0
+Uinta,1-2,State House,19,REP,Under Votes,2
+Uinta,1-2,State House,19,DEM,Write-ins,0
+Uinta,1-2,State House,49,REP,Robert Wharff,370
+Uinta,1-2,State House,49,REP,Ryan C. Berger,323
+Uinta,1-2,State House,49,REP,Write-ins,4
+Uinta,1-2,State House,49,REP,Over Votes,1
+Uinta,1-2,State House,49,REP,Under Votes,18
+Uinta,1-2,State House,49,DEM,Write-ins,10
+Uinta,1-2,Ballots Cast,,REP,Ballots Cast,738
+Uinta,1-2,Ballots Cast,,DEM,Ballots Cast,69
+Uinta,1-2,Ballots Cast,,NP,Ballots Cast,23
+Uinta,1-2,Ballots Cast,,,Ballots Cast,830
+Uinta,1-3,U.S. Senate,,REP,John Barrasso,160
+Uinta,1-3,U.S. Senate,,REP,John Holtz,24
+Uinta,1-3,U.S. Senate,,REP,Reid Rasner,73
+Uinta,1-3,U.S. Senate,,REP,Write-ins,3
+Uinta,1-3,U.S. Senate,,REP,Over Votes,0
+Uinta,1-3,U.S. Senate,,REP,Under Votes,13
+Uinta,1-3,U.S. Senate,,DEM,Scott D Morrow,24
+Uinta,1-3,U.S. Senate,,DEM,Write-ins,0
+Uinta,1-3,U.S. Senate,,DEM,Over Votes,0
+Uinta,1-3,U.S. Senate,,DEM,Under Votes,1
+Uinta,1-3,U.S. House,,REP,Harriet Hageman,213
+Uinta,1-3,U.S. House,,REP,Steven R. Helling,45
+Uinta,1-3,U.S. House,,REP,Write-ins,4
+Uinta,1-3,U.S. House,,REP,Over Votes,0
+Uinta,1-3,U.S. House,,REP,Under Votes,11
+Uinta,1-3,U.S. House,,DEM,Kyle G. Cameron,24
+Uinta,1-3,U.S. House,,DEM,Write-ins,0
+Uinta,1-3,U.S. House,,DEM,Over Votes,0
+Uinta,1-3,U.S. House,,DEM,Under Votes,1
+Uinta,1-3,State Senate,14,REP,Albert Sommers,3
+Uinta,1-3,State Senate,14,REP,Bill Winney,1
+Uinta,1-3,State Senate,14,REP,Laura Taliaferro Pearson,5
+Uinta,1-3,State Senate,14,REP,Write-ins,0
+Uinta,1-3,State Senate,14,REP,Over Votes,0
+Uinta,1-3,State Senate,14,REP,Under Votes,1
+Uinta,1-3,State Senate,14,DEM,Write-ins,0
+Uinta,1-3,State House,18,REP,Scott Heiner,7
+Uinta,1-3,State House,18,REP,Thomas D. Crank,1
+Uinta,1-3,State House,18,REP,Write-ins,0
+Uinta,1-3,State House,18,REP,Over Votes,0
+Uinta,1-3,State House,18,REP,Under Votes,2
+Uinta,1-3,State House,18,DEM,Write-ins,0
+Uinta,1-3,State House,49,REP,Robert Wharff,159
+Uinta,1-3,State House,49,REP,Ryan C. Berger,94
+Uinta,1-3,State House,49,REP,Write-ins,1
+Uinta,1-3,State House,49,REP,Over Votes,0
+Uinta,1-3,State House,49,REP,Under Votes,9
+Uinta,1-3,State House,49,DEM,Write-ins,5
+Uinta,1-3,Ballots Cast,,REP,Ballots Cast,273
+Uinta,1-3,Ballots Cast,,DEM,Ballots Cast,25
+Uinta,1-3,Ballots Cast,,NP,Ballots Cast,11
+Uinta,1-3,Ballots Cast,,,Ballots Cast,309
+Uinta,1-4,U.S. Senate,,REP,John Barrasso,74
+Uinta,1-4,U.S. Senate,,REP,John Holtz,12
+Uinta,1-4,U.S. Senate,,REP,Reid Rasner,44
+Uinta,1-4,U.S. Senate,,REP,Write-ins,2
+Uinta,1-4,U.S. Senate,,REP,Over Votes,1
+Uinta,1-4,U.S. Senate,,REP,Under Votes,5
+Uinta,1-4,U.S. Senate,,DEM,Scott D Morrow,9
+Uinta,1-4,U.S. Senate,,DEM,Write-ins,2
+Uinta,1-4,U.S. Senate,,DEM,Over Votes,0
+Uinta,1-4,U.S. Senate,,DEM,Under Votes,2
+Uinta,1-4,U.S. House,,REP,Harriet Hageman,105
+Uinta,1-4,U.S. House,,REP,Steven R. Helling,29
+Uinta,1-4,U.S. House,,REP,Write-ins,2
+Uinta,1-4,U.S. House,,REP,Over Votes,0
+Uinta,1-4,U.S. House,,REP,Under Votes,2
+Uinta,1-4,U.S. House,,DEM,Kyle G. Cameron,10
+Uinta,1-4,U.S. House,,DEM,Write-ins,1
+Uinta,1-4,U.S. House,,DEM,Over Votes,0
+Uinta,1-4,U.S. House,,DEM,Under Votes,2
+Uinta,1-4,State House,19,REP,Joe Webb,67
+Uinta,1-4,State House,19,REP,Jon R. Conrad,65
+Uinta,1-4,State House,19,REP,Write-ins,2
+Uinta,1-4,State House,19,REP,Over Votes,0
+Uinta,1-4,State House,19,REP,Under Votes,4
+Uinta,1-4,State House,19,DEM,Write-ins,2
+Uinta,1-4,Ballots Cast,,REP,Ballots Cast,138
+Uinta,1-4,Ballots Cast,,DEM,Ballots Cast,13
+Uinta,1-4,Ballots Cast,,NP,Ballots Cast,9
+Uinta,1-4,Ballots Cast,,,Ballots Cast,160
+Uinta,2-1,U.S. Senate,,REP,John Barrasso,246
+Uinta,2-1,U.S. Senate,,REP,John Holtz,35
+Uinta,2-1,U.S. Senate,,REP,Reid Rasner,93
+Uinta,2-1,U.S. Senate,,REP,Write-ins,0
+Uinta,2-1,U.S. Senate,,REP,Over Votes,0
+Uinta,2-1,U.S. Senate,,REP,Under Votes,19
+Uinta,2-1,U.S. Senate,,DEM,Scott D Morrow,16
+Uinta,2-1,U.S. Senate,,DEM,Write-ins,0
+Uinta,2-1,U.S. Senate,,DEM,Over Votes,0
+Uinta,2-1,U.S. Senate,,DEM,Under Votes,0
+Uinta,2-1,U.S. House,,REP,Harriet Hageman,317
+Uinta,2-1,U.S. House,,REP,Steven R. Helling,58
+Uinta,2-1,U.S. House,,REP,Write-ins,2
+Uinta,2-1,U.S. House,,REP,Over Votes,0
+Uinta,2-1,U.S. House,,REP,Under Votes,16
+Uinta,2-1,U.S. House,,DEM,Kyle G. Cameron,15
+Uinta,2-1,U.S. House,,DEM,Write-ins,0
+Uinta,2-1,U.S. House,,DEM,Over Votes,0
+Uinta,2-1,U.S. House,,DEM,Under Votes,1
+Uinta,2-1,State Senate,14,REP,Albert Sommers,54
+Uinta,2-1,State Senate,14,REP,Bill Winney,23
+Uinta,2-1,State Senate,14,REP,Laura Taliaferro Pearson,68
+Uinta,2-1,State Senate,14,REP,Write-ins,0
+Uinta,2-1,State Senate,14,REP,Over Votes,0
+Uinta,2-1,State Senate,14,REP,Under Votes,24
+Uinta,2-1,State Senate,14,DEM,Write-ins,2
+Uinta,2-1,State House,18,REP,Scott Heiner,119
+Uinta,2-1,State House,18,REP,Thomas D. Crank,34
+Uinta,2-1,State House,18,REP,Write-ins,0
+Uinta,2-1,State House,18,REP,Over Votes,1
+Uinta,2-1,State House,18,REP,Under Votes,15
+Uinta,2-1,State House,18,DEM,Write-ins,2
+Uinta,2-1,State House,19,REP,Joe Webb,107
+Uinta,2-1,State House,19,REP,Jon R. Conrad,109
+Uinta,2-1,State House,19,REP,Write-ins,0
+Uinta,2-1,State House,19,REP,Over Votes,0
+Uinta,2-1,State House,19,REP,Under Votes,5
+Uinta,2-1,State House,19,DEM,Write-ins,2
+Uinta,2-1,State House,49,REP,Robert Wharff,0
+Uinta,2-1,State House,49,REP,Ryan C. Berger,3
+Uinta,2-1,State House,49,REP,Write-ins,0
+Uinta,2-1,State House,49,REP,Over Votes,0
+Uinta,2-1,State House,49,REP,Under Votes,0
+Uinta,2-1,State House,49,DEM,Write-ins,0
+Uinta,2-1,Ballots Cast,,REP,Ballots Cast,393
+Uinta,2-1,Ballots Cast,,DEM,Ballots Cast,16
+Uinta,2-1,Ballots Cast,,NP,Ballots Cast,7
+Uinta,2-1,Ballots Cast,,,Ballots Cast,416
+Uinta,2-2,U.S. Senate,,REP,John Barrasso,69
+Uinta,2-2,U.S. Senate,,REP,John Holtz,5
+Uinta,2-2,U.S. Senate,,REP,Reid Rasner,30
+Uinta,2-2,U.S. Senate,,REP,Write-ins,3
+Uinta,2-2,U.S. Senate,,REP,Over Votes,0
+Uinta,2-2,U.S. Senate,,REP,Under Votes,4
+Uinta,2-2,U.S. Senate,,DEM,Scott D Morrow,3
+Uinta,2-2,U.S. Senate,,DEM,Write-ins,0
+Uinta,2-2,U.S. Senate,,DEM,Over Votes,0
+Uinta,2-2,U.S. Senate,,DEM,Under Votes,0
+Uinta,2-2,U.S. House,,REP,Harriet Hageman,92
+Uinta,2-2,U.S. House,,REP,Steven R. Helling,16
+Uinta,2-2,U.S. House,,REP,Write-ins,1
+Uinta,2-2,U.S. House,,REP,Over Votes,0
+Uinta,2-2,U.S. House,,REP,Under Votes,2
+Uinta,2-2,U.S. House,,DEM,Kyle G. Cameron,3
+Uinta,2-2,U.S. House,,DEM,Write-ins,0
+Uinta,2-2,U.S. House,,DEM,Over Votes,0
+Uinta,2-2,U.S. House,,DEM,Under Votes,0
+Uinta,2-2,State Senate,14,REP,Albert Sommers,38
+Uinta,2-2,State Senate,14,REP,Bill Winney,24
+Uinta,2-2,State Senate,14,REP,Laura Taliaferro Pearson,44
+Uinta,2-2,State Senate,14,REP,Write-ins,0
+Uinta,2-2,State Senate,14,REP,Over Votes,0
+Uinta,2-2,State Senate,14,REP,Under Votes,5
+Uinta,2-2,State Senate,14,DEM,Write-ins,0
+Uinta,2-2,State House,18,REP,Scott Heiner,68
+Uinta,2-2,State House,18,REP,Thomas D. Crank,36
+Uinta,2-2,State House,18,REP,Write-ins,0
+Uinta,2-2,State House,18,REP,Over Votes,0
+Uinta,2-2,State House,18,REP,Under Votes,7
+Uinta,2-2,State House,18,DEM,Write-ins,0
+Uinta,2-2,Ballots Cast,,REP,Ballots Cast,111
+Uinta,2-2,Ballots Cast,,DEM,Ballots Cast,3
+Uinta,2-2,Ballots Cast,,NP,Ballots Cast,3
+Uinta,2-2,Ballots Cast,,,Ballots Cast,117
+Uinta,3-1,U.S. Senate,,REP,John Barrasso,239
+Uinta,3-1,U.S. Senate,,REP,John Holtz,19
+Uinta,3-1,U.S. Senate,,REP,Reid Rasner,116
+Uinta,3-1,U.S. Senate,,REP,Write-ins,3
+Uinta,3-1,U.S. Senate,,REP,Over Votes,0
+Uinta,3-1,U.S. Senate,,REP,Under Votes,13
+Uinta,3-1,U.S. Senate,,DEM,Scott D Morrow,28
+Uinta,3-1,U.S. Senate,,DEM,Write-ins,0
+Uinta,3-1,U.S. Senate,,DEM,Over Votes,0
+Uinta,3-1,U.S. Senate,,DEM,Under Votes,1
+Uinta,3-1,U.S. House,,REP,Harriet Hageman,311
+Uinta,3-1,U.S. House,,REP,Steven R. Helling,61
+Uinta,3-1,U.S. House,,REP,Write-ins,2
+Uinta,3-1,U.S. House,,REP,Over Votes,0
+Uinta,3-1,U.S. House,,REP,Under Votes,16
+Uinta,3-1,U.S. House,,DEM,Kyle G. Cameron,26
+Uinta,3-1,U.S. House,,DEM,Write-ins,1
+Uinta,3-1,U.S. House,,DEM,Over Votes,0
+Uinta,3-1,U.S. House,,DEM,Under Votes,2
+Uinta,3-1,State House,19,REP,Joe Webb,256
+Uinta,3-1,State House,19,REP,Jon R. Conrad,122
+Uinta,3-1,State House,19,REP,Write-ins,4
+Uinta,3-1,State House,19,REP,Over Votes,0
+Uinta,3-1,State House,19,REP,Under Votes,8
+Uinta,3-1,State House,19,DEM,Write-ins,9
+Uinta,3-1,Ballots Cast,,REP,Ballots Cast,390
+Uinta,3-1,Ballots Cast,,DEM,Ballots Cast,29
+Uinta,3-1,Ballots Cast,,NP,Ballots Cast,15
+Uinta,3-1,Ballots Cast,,,Ballots Cast,434
+Uinta,3-2,U.S. Senate,,REP,John Barrasso,204
+Uinta,3-2,U.S. Senate,,REP,John Holtz,18
+Uinta,3-2,U.S. Senate,,REP,Reid Rasner,74
+Uinta,3-2,U.S. Senate,,REP,Write-ins,3
+Uinta,3-2,U.S. Senate,,REP,Over Votes,0
+Uinta,3-2,U.S. Senate,,REP,Under Votes,14
+Uinta,3-2,U.S. Senate,,DEM,Scott D Morrow,6
+Uinta,3-2,U.S. Senate,,DEM,Write-ins,0
+Uinta,3-2,U.S. Senate,,DEM,Over Votes,0
+Uinta,3-2,U.S. Senate,,DEM,Under Votes,0
+Uinta,3-2,U.S. House,,REP,Harriet Hageman,265
+Uinta,3-2,U.S. House,,REP,Steven R. Helling,31
+Uinta,3-2,U.S. House,,REP,Write-ins,7
+Uinta,3-2,U.S. House,,REP,Over Votes,1
+Uinta,3-2,U.S. House,,REP,Under Votes,9
+Uinta,3-2,U.S. House,,DEM,Kyle G. Cameron,6
+Uinta,3-2,U.S. House,,DEM,Write-ins,0
+Uinta,3-2,U.S. House,,DEM,Over Votes,0
+Uinta,3-2,U.S. House,,DEM,Under Votes,0
+Uinta,3-2,State House,19,REP,Joe Webb,211
+Uinta,3-2,State House,19,REP,Jon R. Conrad,100
+Uinta,3-2,State House,19,REP,Write-ins,0
+Uinta,3-2,State House,19,REP,Over Votes,0
+Uinta,3-2,State House,19,REP,Under Votes,2
+Uinta,3-2,State House,19,DEM,Write-ins,0
+Uinta,3-2,Ballots Cast,,REP,Ballots Cast,313
+Uinta,3-2,Ballots Cast,,DEM,Ballots Cast,6
+Uinta,3-2,Ballots Cast,,NP,Ballots Cast,8
+Uinta,3-2,Ballots Cast,,,Ballots Cast,327
+Uinta,4-1,U.S. Senate,,REP,John Barrasso,336
+Uinta,4-1,U.S. Senate,,REP,John Holtz,14
+Uinta,4-1,U.S. Senate,,REP,Reid Rasner,134
+Uinta,4-1,U.S. Senate,,REP,Write-ins,6
+Uinta,4-1,U.S. Senate,,REP,Over Votes,0
+Uinta,4-1,U.S. Senate,,REP,Under Votes,12
+Uinta,4-1,U.S. Senate,,DEM,Scott D Morrow,30
+Uinta,4-1,U.S. Senate,,DEM,Write-ins,1
+Uinta,4-1,U.S. Senate,,DEM,Over Votes,0
+Uinta,4-1,U.S. Senate,,DEM,Under Votes,3
+Uinta,4-1,U.S. House,,REP,Harriet Hageman,408
+Uinta,4-1,U.S. House,,REP,Steven R. Helling,66
+Uinta,4-1,U.S. House,,REP,Write-ins,6
+Uinta,4-1,U.S. House,,REP,Over Votes,1
+Uinta,4-1,U.S. House,,REP,Under Votes,21
+Uinta,4-1,U.S. House,,DEM,Kyle G. Cameron,27
+Uinta,4-1,U.S. House,,DEM,Write-ins,3
+Uinta,4-1,U.S. House,,DEM,Over Votes,0
+Uinta,4-1,U.S. House,,DEM,Under Votes,4
+Uinta,4-1,State House,19,REP,Joe Webb,236
+Uinta,4-1,State House,19,REP,Jon R. Conrad,253
+Uinta,4-1,State House,19,REP,Write-ins,4
+Uinta,4-1,State House,19,REP,Over Votes,0
+Uinta,4-1,State House,19,REP,Under Votes,9
+Uinta,4-1,State House,19,DEM,Write-ins,17
+Uinta,4-1,Ballots Cast,,REP,Ballots Cast,502
+Uinta,4-1,Ballots Cast,,DEM,Ballots Cast,34
+Uinta,4-1,Ballots Cast,,NP,Ballots Cast,5
+Uinta,4-1,Ballots Cast,,,Ballots Cast,541
+Uinta,4-2,U.S. Senate,,REP,John Barrasso,174
+Uinta,4-2,U.S. Senate,,REP,John Holtz,26
+Uinta,4-2,U.S. Senate,,REP,Reid Rasner,57
+Uinta,4-2,U.S. Senate,,REP,Write-ins,3
+Uinta,4-2,U.S. Senate,,REP,Over Votes,0
+Uinta,4-2,U.S. Senate,,REP,Under Votes,11
+Uinta,4-2,U.S. Senate,,DEM,Scott D Morrow,11
+Uinta,4-2,U.S. Senate,,DEM,Write-ins,0
+Uinta,4-2,U.S. Senate,,DEM,Over Votes,0
+Uinta,4-2,U.S. Senate,,DEM,Under Votes,1
+Uinta,4-2,U.S. House,,REP,Harriet Hageman,200
+Uinta,4-2,U.S. House,,REP,Steven R. Helling,55
+Uinta,4-2,U.S. House,,REP,Write-ins,1
+Uinta,4-2,U.S. House,,REP,Over Votes,0
+Uinta,4-2,U.S. House,,REP,Under Votes,15
+Uinta,4-2,U.S. House,,DEM,Kyle G. Cameron,11
+Uinta,4-2,U.S. House,,DEM,Write-ins,0
+Uinta,4-2,U.S. House,,DEM,Over Votes,0
+Uinta,4-2,U.S. House,,DEM,Under Votes,1
+Uinta,4-2,State House,19,REP,Joe Webb,127
+Uinta,4-2,State House,19,REP,Jon R. Conrad,138
+Uinta,4-2,State House,19,REP,Write-ins,0
+Uinta,4-2,State House,19,REP,Over Votes,1
+Uinta,4-2,State House,19,REP,Under Votes,5
+Uinta,4-2,State House,19,DEM,Write-ins,5
+Uinta,4-2,Ballots Cast,,REP,Ballots Cast,271
+Uinta,4-2,Ballots Cast,,DEM,Ballots Cast,12
+Uinta,4-2,Ballots Cast,,NP,Ballots Cast,7
+Uinta,4-2,Ballots Cast,,,Ballots Cast,290

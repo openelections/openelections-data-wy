@@ -1,0 +1,577 @@
+county,precinct,office,district,party,candidate,votes
+Johnson,02-14,U.S. Senate,,REP,John Barrasso,86
+Johnson,02-14,U.S. Senate,,REP,John Holtz,7
+Johnson,02-14,U.S. Senate,,REP,Reid Rasner,37
+Johnson,02-14,U.S. Senate,,REP,Write-ins,0
+Johnson,02-14,U.S. Senate,,REP,Over Votes,0
+Johnson,02-14,U.S. Senate,,REP,Under Votes,0
+Johnson,02-14,U.S. Senate,,DEM,Scott D Morrow,1
+Johnson,02-14,U.S. Senate,,DEM,Write-ins,0
+Johnson,02-14,U.S. Senate,,DEM,Over Votes,0
+Johnson,02-14,U.S. Senate,,DEM,Under Votes,0
+Johnson,02-14,U.S. House,,REP,Harriet Hageman,115
+Johnson,02-14,U.S. House,,REP,Steven R. Helling,8
+Johnson,02-14,U.S. House,,REP,Write-ins,2
+Johnson,02-14,U.S. House,,REP,Over Votes,0
+Johnson,02-14,U.S. House,,REP,Under Votes,5
+Johnson,02-14,U.S. House,,DEM,Kyle G. Cameron,1
+Johnson,02-14,U.S. House,,DEM,Write-ins,0
+Johnson,02-14,U.S. House,,DEM,Over Votes,0
+Johnson,02-14,U.S. House,,DEM,Under Votes,0
+Johnson,02-14,State Senate,22,REP,Barry Crago,68
+Johnson,02-14,State Senate,22,REP,Mark Jennings,60
+Johnson,02-14,State Senate,22,REP,Write-ins,0
+Johnson,02-14,State Senate,22,REP,Over Votes,0
+Johnson,02-14,State Senate,22,REP,Under Votes,2
+Johnson,02-14,State Senate,22,DEM,Write-ins,0
+Johnson,02-14,State House,40,REP,Liberty Poley,19
+Johnson,02-14,State House,40,REP,Marilyn Connoly,49
+Johnson,02-14,State House,40,REP,Mark Jones,60
+Johnson,02-14,State House,40,REP,Write-ins,0
+Johnson,02-14,State House,40,REP,Over Votes,0
+Johnson,02-14,State House,40,REP,Under Votes,2
+Johnson,02-14,State House,40,DEM,Write-ins,0
+Johnson,02-14,Ballots Cast,,REP,Ballots Cast,130
+Johnson,02-14,Ballots Cast,,DEM,Ballots Cast,1
+Johnson,02-14,Ballots Cast,,NP,Ballots Cast,0
+Johnson,02-14,Ballots Cast,,,Ballots Cast,131
+Johnson,03-01,U.S. Senate,,REP,John Barrasso,220
+Johnson,03-01,U.S. Senate,,REP,John Holtz,14
+Johnson,03-01,U.S. Senate,,REP,Reid Rasner,72
+Johnson,03-01,U.S. Senate,,REP,Write-ins,7
+Johnson,03-01,U.S. Senate,,REP,Over Votes,0
+Johnson,03-01,U.S. Senate,,REP,Under Votes,11
+Johnson,03-01,U.S. Senate,,DEM,Scott D Morrow,6
+Johnson,03-01,U.S. Senate,,DEM,Write-ins,0
+Johnson,03-01,U.S. Senate,,DEM,Over Votes,0
+Johnson,03-01,U.S. Senate,,DEM,Under Votes,0
+Johnson,03-01,U.S. House,,REP,Harriet Hageman,224
+Johnson,03-01,U.S. House,,REP,Steven R. Helling,79
+Johnson,03-01,U.S. House,,REP,Write-ins,9
+Johnson,03-01,U.S. House,,REP,Over Votes,1
+Johnson,03-01,U.S. House,,REP,Under Votes,11
+Johnson,03-01,U.S. House,,DEM,Kyle G. Cameron,6
+Johnson,03-01,U.S. House,,DEM,Write-ins,0
+Johnson,03-01,U.S. House,,DEM,Over Votes,0
+Johnson,03-01,U.S. House,,DEM,Under Votes,0
+Johnson,03-01,State Senate,22,REP,Barry Crago,222
+Johnson,03-01,State Senate,22,REP,Mark Jennings,100
+Johnson,03-01,State Senate,22,REP,Write-ins,0
+Johnson,03-01,State Senate,22,REP,Over Votes,0
+Johnson,03-01,State Senate,22,REP,Under Votes,2
+Johnson,03-01,State Senate,22,DEM,Write-ins,1
+Johnson,03-01,State House,40,REP,Liberty Poley,58
+Johnson,03-01,State House,40,REP,Marilyn Connoly,182
+Johnson,03-01,State House,40,REP,Mark Jones,77
+Johnson,03-01,State House,40,REP,Write-ins,0
+Johnson,03-01,State House,40,REP,Over Votes,0
+Johnson,03-01,State House,40,REP,Under Votes,7
+Johnson,03-01,State House,40,DEM,Write-ins,2
+Johnson,03-01,Ballots Cast,,REP,Ballots Cast,324
+Johnson,03-01,Ballots Cast,,DEM,Ballots Cast,6
+Johnson,03-01,Ballots Cast,,NP,Ballots Cast,2
+Johnson,03-01,Ballots Cast,,,Ballots Cast,332
+Johnson,03-02,U.S. Senate,,REP,John Barrasso,126
+Johnson,03-02,U.S. Senate,,REP,John Holtz,5
+Johnson,03-02,U.S. Senate,,REP,Reid Rasner,32
+Johnson,03-02,U.S. Senate,,REP,Write-ins,1
+Johnson,03-02,U.S. Senate,,REP,Over Votes,0
+Johnson,03-02,U.S. Senate,,REP,Under Votes,4
+Johnson,03-02,U.S. Senate,,DEM,Scott D Morrow,9
+Johnson,03-02,U.S. Senate,,DEM,Write-ins,0
+Johnson,03-02,U.S. Senate,,DEM,Over Votes,0
+Johnson,03-02,U.S. Senate,,DEM,Under Votes,0
+Johnson,03-02,U.S. House,,REP,Harriet Hageman,127
+Johnson,03-02,U.S. House,,REP,Steven R. Helling,32
+Johnson,03-02,U.S. House,,REP,Write-ins,2
+Johnson,03-02,U.S. House,,REP,Over Votes,0
+Johnson,03-02,U.S. House,,REP,Under Votes,7
+Johnson,03-02,U.S. House,,DEM,Kyle G. Cameron,9
+Johnson,03-02,U.S. House,,DEM,Write-ins,0
+Johnson,03-02,U.S. House,,DEM,Over Votes,0
+Johnson,03-02,U.S. House,,DEM,Under Votes,0
+Johnson,03-02,State Senate,22,REP,Barry Crago,102
+Johnson,03-02,State Senate,22,REP,Mark Jennings,60
+Johnson,03-02,State Senate,22,REP,Write-ins,1
+Johnson,03-02,State Senate,22,REP,Over Votes,0
+Johnson,03-02,State Senate,22,REP,Under Votes,5
+Johnson,03-02,State Senate,22,DEM,Write-ins,2
+Johnson,03-02,State House,40,REP,Liberty Poley,36
+Johnson,03-02,State House,40,REP,Marilyn Connoly,86
+Johnson,03-02,State House,40,REP,Mark Jones,45
+Johnson,03-02,State House,40,REP,Write-ins,0
+Johnson,03-02,State House,40,REP,Over Votes,0
+Johnson,03-02,State House,40,REP,Under Votes,1
+Johnson,03-02,State House,40,DEM,Write-ins,6
+Johnson,03-02,Ballots Cast,,REP,Ballots Cast,168
+Johnson,03-02,Ballots Cast,,DEM,Ballots Cast,9
+Johnson,03-02,Ballots Cast,,NP,Ballots Cast,4
+Johnson,03-02,Ballots Cast,,,Ballots Cast,181
+Johnson,03-03,U.S. Senate,,REP,John Barrasso,119
+Johnson,03-03,U.S. Senate,,REP,John Holtz,8
+Johnson,03-03,U.S. Senate,,REP,Reid Rasner,32
+Johnson,03-03,U.S. Senate,,REP,Write-ins,2
+Johnson,03-03,U.S. Senate,,REP,Over Votes,0
+Johnson,03-03,U.S. Senate,,REP,Under Votes,6
+Johnson,03-03,U.S. Senate,,DEM,Scott D Morrow,8
+Johnson,03-03,U.S. Senate,,DEM,Write-ins,0
+Johnson,03-03,U.S. Senate,,DEM,Over Votes,0
+Johnson,03-03,U.S. Senate,,DEM,Under Votes,3
+Johnson,03-03,U.S. House,,REP,Harriet Hageman,128
+Johnson,03-03,U.S. House,,REP,Steven R. Helling,29
+Johnson,03-03,U.S. House,,REP,Write-ins,2
+Johnson,03-03,U.S. House,,REP,Over Votes,0
+Johnson,03-03,U.S. House,,REP,Under Votes,8
+Johnson,03-03,U.S. House,,DEM,Kyle G. Cameron,8
+Johnson,03-03,U.S. House,,DEM,Write-ins,0
+Johnson,03-03,U.S. House,,DEM,Over Votes,0
+Johnson,03-03,U.S. House,,DEM,Under Votes,3
+Johnson,03-03,State Senate,22,REP,Barry Crago,110
+Johnson,03-03,State Senate,22,REP,Mark Jennings,56
+Johnson,03-03,State Senate,22,REP,Write-ins,1
+Johnson,03-03,State Senate,22,REP,Over Votes,0
+Johnson,03-03,State Senate,22,REP,Under Votes,0
+Johnson,03-03,State Senate,22,DEM,Write-ins,1
+Johnson,03-03,State House,40,REP,Liberty Poley,29
+Johnson,03-03,State House,40,REP,Marilyn Connoly,78
+Johnson,03-03,State House,40,REP,Mark Jones,58
+Johnson,03-03,State House,40,REP,Write-ins,0
+Johnson,03-03,State House,40,REP,Over Votes,0
+Johnson,03-03,State House,40,REP,Under Votes,2
+Johnson,03-03,State House,40,DEM,Write-ins,2
+Johnson,03-03,Ballots Cast,,REP,Ballots Cast,167
+Johnson,03-03,Ballots Cast,,DEM,Ballots Cast,11
+Johnson,03-03,Ballots Cast,,NP,Ballots Cast,9
+Johnson,03-03,Ballots Cast,,,Ballots Cast,187
+Johnson,03-04,U.S. Senate,,REP,John Barrasso,114
+Johnson,03-04,U.S. Senate,,REP,John Holtz,16
+Johnson,03-04,U.S. Senate,,REP,Reid Rasner,40
+Johnson,03-04,U.S. Senate,,REP,Write-ins,2
+Johnson,03-04,U.S. Senate,,REP,Over Votes,0
+Johnson,03-04,U.S. Senate,,REP,Under Votes,10
+Johnson,03-04,U.S. Senate,,DEM,Scott D Morrow,2
+Johnson,03-04,U.S. Senate,,DEM,Write-ins,0
+Johnson,03-04,U.S. Senate,,DEM,Over Votes,0
+Johnson,03-04,U.S. Senate,,DEM,Under Votes,0
+Johnson,03-04,U.S. House,,REP,Harriet Hageman,121
+Johnson,03-04,U.S. House,,REP,Steven R. Helling,48
+Johnson,03-04,U.S. House,,REP,Write-ins,7
+Johnson,03-04,U.S. House,,REP,Over Votes,0
+Johnson,03-04,U.S. House,,REP,Under Votes,6
+Johnson,03-04,U.S. House,,DEM,Kyle G. Cameron,2
+Johnson,03-04,U.S. House,,DEM,Write-ins,0
+Johnson,03-04,U.S. House,,DEM,Over Votes,0
+Johnson,03-04,U.S. House,,DEM,Under Votes,0
+Johnson,03-04,State Senate,22,REP,Barry Crago,127
+Johnson,03-04,State Senate,22,REP,Mark Jennings,51
+Johnson,03-04,State Senate,22,REP,Write-ins,0
+Johnson,03-04,State Senate,22,REP,Over Votes,0
+Johnson,03-04,State Senate,22,REP,Under Votes,4
+Johnson,03-04,State Senate,22,DEM,Write-ins,0
+Johnson,03-04,State House,40,REP,Liberty Poley,33
+Johnson,03-04,State House,40,REP,Marilyn Connoly,92
+Johnson,03-04,State House,40,REP,Mark Jones,51
+Johnson,03-04,State House,40,REP,Write-ins,2
+Johnson,03-04,State House,40,REP,Over Votes,1
+Johnson,03-04,State House,40,REP,Under Votes,3
+Johnson,03-04,State House,40,DEM,Write-ins,1
+Johnson,03-04,Ballots Cast,,REP,Ballots Cast,182
+Johnson,03-04,Ballots Cast,,DEM,Ballots Cast,2
+Johnson,03-04,Ballots Cast,,NP,Ballots Cast,5
+Johnson,03-04,Ballots Cast,,,Ballots Cast,189
+Johnson,03-05,U.S. Senate,,REP,John Barrasso,62
+Johnson,03-05,U.S. Senate,,REP,John Holtz,6
+Johnson,03-05,U.S. Senate,,REP,Reid Rasner,34
+Johnson,03-05,U.S. Senate,,REP,Write-ins,5
+Johnson,03-05,U.S. Senate,,REP,Over Votes,0
+Johnson,03-05,U.S. Senate,,REP,Under Votes,7
+Johnson,03-05,U.S. Senate,,DEM,Scott D Morrow,5
+Johnson,03-05,U.S. Senate,,DEM,Write-ins,0
+Johnson,03-05,U.S. Senate,,DEM,Over Votes,0
+Johnson,03-05,U.S. Senate,,DEM,Under Votes,0
+Johnson,03-05,U.S. House,,REP,Harriet Hageman,76
+Johnson,03-05,U.S. House,,REP,Steven R. Helling,24
+Johnson,03-05,U.S. House,,REP,Write-ins,3
+Johnson,03-05,U.S. House,,REP,Over Votes,1
+Johnson,03-05,U.S. House,,REP,Under Votes,10
+Johnson,03-05,U.S. House,,DEM,Kyle G. Cameron,5
+Johnson,03-05,U.S. House,,DEM,Write-ins,0
+Johnson,03-05,U.S. House,,DEM,Over Votes,0
+Johnson,03-05,U.S. House,,DEM,Under Votes,0
+Johnson,03-05,State Senate,22,REP,Barry Crago,66
+Johnson,03-05,State Senate,22,REP,Mark Jennings,43
+Johnson,03-05,State Senate,22,REP,Write-ins,3
+Johnson,03-05,State Senate,22,REP,Over Votes,0
+Johnson,03-05,State Senate,22,REP,Under Votes,2
+Johnson,03-05,State Senate,22,DEM,Write-ins,1
+Johnson,03-05,State House,40,REP,Liberty Poley,28
+Johnson,03-05,State House,40,REP,Marilyn Connoly,46
+Johnson,03-05,State House,40,REP,Mark Jones,37
+Johnson,03-05,State House,40,REP,Write-ins,1
+Johnson,03-05,State House,40,REP,Over Votes,0
+Johnson,03-05,State House,40,REP,Under Votes,2
+Johnson,03-05,State House,40,DEM,Write-ins,2
+Johnson,03-05,Ballots Cast,,REP,Ballots Cast,114
+Johnson,03-05,Ballots Cast,,DEM,Ballots Cast,5
+Johnson,03-05,Ballots Cast,,NP,Ballots Cast,4
+Johnson,03-05,Ballots Cast,,,Ballots Cast,123
+Johnson,03-06,U.S. Senate,,REP,John Barrasso,90
+Johnson,03-06,U.S. Senate,,REP,John Holtz,4
+Johnson,03-06,U.S. Senate,,REP,Reid Rasner,26
+Johnson,03-06,U.S. Senate,,REP,Write-ins,1
+Johnson,03-06,U.S. Senate,,REP,Over Votes,0
+Johnson,03-06,U.S. Senate,,REP,Under Votes,6
+Johnson,03-06,U.S. Senate,,DEM,Scott D Morrow,8
+Johnson,03-06,U.S. Senate,,DEM,Write-ins,0
+Johnson,03-06,U.S. Senate,,DEM,Over Votes,0
+Johnson,03-06,U.S. Senate,,DEM,Under Votes,1
+Johnson,03-06,U.S. House,,REP,Harriet Hageman,106
+Johnson,03-06,U.S. House,,REP,Steven R. Helling,13
+Johnson,03-06,U.S. House,,REP,Write-ins,3
+Johnson,03-06,U.S. House,,REP,Over Votes,0
+Johnson,03-06,U.S. House,,REP,Under Votes,5
+Johnson,03-06,U.S. House,,DEM,Kyle G. Cameron,9
+Johnson,03-06,U.S. House,,DEM,Write-ins,0
+Johnson,03-06,U.S. House,,DEM,Over Votes,0
+Johnson,03-06,U.S. House,,DEM,Under Votes,0
+Johnson,03-06,State Senate,22,REP,Barry Crago,71
+Johnson,03-06,State Senate,22,REP,Mark Jennings,55
+Johnson,03-06,State Senate,22,REP,Write-ins,0
+Johnson,03-06,State Senate,22,REP,Over Votes,0
+Johnson,03-06,State Senate,22,REP,Under Votes,1
+Johnson,03-06,State Senate,22,DEM,Write-ins,1
+Johnson,03-06,State House,40,REP,Liberty Poley,32
+Johnson,03-06,State House,40,REP,Marilyn Connoly,49
+Johnson,03-06,State House,40,REP,Mark Jones,43
+Johnson,03-06,State House,40,REP,Write-ins,0
+Johnson,03-06,State House,40,REP,Over Votes,0
+Johnson,03-06,State House,40,REP,Under Votes,3
+Johnson,03-06,State House,40,DEM,Write-ins,3
+Johnson,03-06,Ballots Cast,,REP,Ballots Cast,127
+Johnson,03-06,Ballots Cast,,DEM,Ballots Cast,9
+Johnson,03-06,Ballots Cast,,NP,Ballots Cast,0
+Johnson,03-06,Ballots Cast,,,Ballots Cast,136
+Johnson,03-07,U.S. Senate,,REP,John Barrasso,109
+Johnson,03-07,U.S. Senate,,REP,John Holtz,12
+Johnson,03-07,U.S. Senate,,REP,Reid Rasner,28
+Johnson,03-07,U.S. Senate,,REP,Write-ins,1
+Johnson,03-07,U.S. Senate,,REP,Over Votes,0
+Johnson,03-07,U.S. Senate,,REP,Under Votes,9
+Johnson,03-07,U.S. Senate,,DEM,Scott D Morrow,1
+Johnson,03-07,U.S. Senate,,DEM,Write-ins,0
+Johnson,03-07,U.S. Senate,,DEM,Over Votes,0
+Johnson,03-07,U.S. Senate,,DEM,Under Votes,0
+Johnson,03-07,U.S. House,,REP,Harriet Hageman,112
+Johnson,03-07,U.S. House,,REP,Steven R. Helling,30
+Johnson,03-07,U.S. House,,REP,Write-ins,2
+Johnson,03-07,U.S. House,,REP,Over Votes,0
+Johnson,03-07,U.S. House,,REP,Under Votes,15
+Johnson,03-07,U.S. House,,DEM,Kyle G. Cameron,1
+Johnson,03-07,U.S. House,,DEM,Write-ins,0
+Johnson,03-07,U.S. House,,DEM,Over Votes,0
+Johnson,03-07,U.S. House,,DEM,Under Votes,0
+Johnson,03-07,State Senate,22,REP,Barry Crago,109
+Johnson,03-07,State Senate,22,REP,Mark Jennings,46
+Johnson,03-07,State Senate,22,REP,Write-ins,1
+Johnson,03-07,State Senate,22,REP,Over Votes,0
+Johnson,03-07,State Senate,22,REP,Under Votes,3
+Johnson,03-07,State Senate,22,DEM,Write-ins,0
+Johnson,03-07,State House,40,REP,Liberty Poley,44
+Johnson,03-07,State House,40,REP,Marilyn Connoly,77
+Johnson,03-07,State House,40,REP,Mark Jones,37
+Johnson,03-07,State House,40,REP,Write-ins,0
+Johnson,03-07,State House,40,REP,Over Votes,0
+Johnson,03-07,State House,40,REP,Under Votes,1
+Johnson,03-07,State House,40,DEM,Write-ins,0
+Johnson,03-07,Ballots Cast,,REP,Ballots Cast,159
+Johnson,03-07,Ballots Cast,,DEM,Ballots Cast,1
+Johnson,03-07,Ballots Cast,,NP,Ballots Cast,2
+Johnson,03-07,Ballots Cast,,,Ballots Cast,162
+Johnson,03-08,U.S. Senate,,REP,John Barrasso,110
+Johnson,03-08,U.S. Senate,,REP,John Holtz,13
+Johnson,03-08,U.S. Senate,,REP,Reid Rasner,42
+Johnson,03-08,U.S. Senate,,REP,Write-ins,1
+Johnson,03-08,U.S. Senate,,REP,Over Votes,0
+Johnson,03-08,U.S. Senate,,REP,Under Votes,4
+Johnson,03-08,U.S. Senate,,DEM,Scott D Morrow,6
+Johnson,03-08,U.S. Senate,,DEM,Write-ins,0
+Johnson,03-08,U.S. Senate,,DEM,Over Votes,0
+Johnson,03-08,U.S. Senate,,DEM,Under Votes,2
+Johnson,03-08,U.S. House,,REP,Harriet Hageman,130
+Johnson,03-08,U.S. House,,REP,Steven R. Helling,33
+Johnson,03-08,U.S. House,,REP,Write-ins,2
+Johnson,03-08,U.S. House,,REP,Over Votes,0
+Johnson,03-08,U.S. House,,REP,Under Votes,5
+Johnson,03-08,U.S. House,,DEM,Kyle G. Cameron,7
+Johnson,03-08,U.S. House,,DEM,Write-ins,0
+Johnson,03-08,U.S. House,,DEM,Over Votes,0
+Johnson,03-08,U.S. House,,DEM,Under Votes,1
+Johnson,03-08,State Senate,22,REP,Barry Crago,94
+Johnson,03-08,State Senate,22,REP,Mark Jennings,73
+Johnson,03-08,State Senate,22,REP,Write-ins,1
+Johnson,03-08,State Senate,22,REP,Over Votes,0
+Johnson,03-08,State Senate,22,REP,Under Votes,2
+Johnson,03-08,State Senate,22,DEM,Write-ins,3
+Johnson,03-08,State House,40,REP,Liberty Poley,37
+Johnson,03-08,State House,40,REP,Marilyn Connoly,71
+Johnson,03-08,State House,40,REP,Mark Jones,61
+Johnson,03-08,State House,40,REP,Write-ins,0
+Johnson,03-08,State House,40,REP,Over Votes,0
+Johnson,03-08,State House,40,REP,Under Votes,1
+Johnson,03-08,State House,40,DEM,Write-ins,3
+Johnson,03-08,Ballots Cast,,REP,Ballots Cast,170
+Johnson,03-08,Ballots Cast,,DEM,Ballots Cast,8
+Johnson,03-08,Ballots Cast,,NP,Ballots Cast,0
+Johnson,03-08,Ballots Cast,,,Ballots Cast,178
+Johnson,04-07,U.S. Senate,,REP,John Barrasso,389
+Johnson,04-07,U.S. Senate,,REP,John Holtz,25
+Johnson,04-07,U.S. Senate,,REP,Reid Rasner,146
+Johnson,04-07,U.S. Senate,,REP,Write-ins,6
+Johnson,04-07,U.S. Senate,,REP,Over Votes,0
+Johnson,04-07,U.S. Senate,,REP,Under Votes,14
+Johnson,04-07,U.S. Senate,,DEM,Scott D Morrow,6
+Johnson,04-07,U.S. Senate,,DEM,Write-ins,0
+Johnson,04-07,U.S. Senate,,DEM,Over Votes,0
+Johnson,04-07,U.S. Senate,,DEM,Under Votes,0
+Johnson,04-07,U.S. House,,REP,Harriet Hageman,468
+Johnson,04-07,U.S. House,,REP,Steven R. Helling,72
+Johnson,04-07,U.S. House,,REP,Write-ins,12
+Johnson,04-07,U.S. House,,REP,Over Votes,0
+Johnson,04-07,U.S. House,,REP,Under Votes,28
+Johnson,04-07,U.S. House,,DEM,Kyle G. Cameron,5
+Johnson,04-07,U.S. House,,DEM,Write-ins,1
+Johnson,04-07,U.S. House,,DEM,Over Votes,0
+Johnson,04-07,U.S. House,,DEM,Under Votes,0
+Johnson,04-07,State Senate,22,REP,Barry Crago,299
+Johnson,04-07,State Senate,22,REP,Mark Jennings,274
+Johnson,04-07,State Senate,22,REP,Write-ins,0
+Johnson,04-07,State Senate,22,REP,Over Votes,0
+Johnson,04-07,State Senate,22,REP,Under Votes,7
+Johnson,04-07,State Senate,22,DEM,Write-ins,0
+Johnson,04-07,State House,40,REP,Liberty Poley,106
+Johnson,04-07,State House,40,REP,Marilyn Connoly,242
+Johnson,04-07,State House,40,REP,Mark Jones,228
+Johnson,04-07,State House,40,REP,Write-ins,0
+Johnson,04-07,State House,40,REP,Over Votes,2
+Johnson,04-07,State House,40,REP,Under Votes,2
+Johnson,04-07,State House,40,DEM,Write-ins,3
+Johnson,04-07,Ballots Cast,,REP,Ballots Cast,580
+Johnson,04-07,Ballots Cast,,DEM,Ballots Cast,6
+Johnson,04-07,Ballots Cast,,NP,Ballots Cast,0
+Johnson,04-07,Ballots Cast,,,Ballots Cast,586
+Johnson,04-08,U.S. Senate,,REP,John Barrasso,401
+Johnson,04-08,U.S. Senate,,REP,John Holtz,29
+Johnson,04-08,U.S. Senate,,REP,Reid Rasner,117
+Johnson,04-08,U.S. Senate,,REP,Write-ins,7
+Johnson,04-08,U.S. Senate,,REP,Over Votes,0
+Johnson,04-08,U.S. Senate,,REP,Under Votes,16
+Johnson,04-08,U.S. Senate,,DEM,Scott D Morrow,11
+Johnson,04-08,U.S. Senate,,DEM,Write-ins,0
+Johnson,04-08,U.S. Senate,,DEM,Over Votes,0
+Johnson,04-08,U.S. Senate,,DEM,Under Votes,0
+Johnson,04-08,U.S. House,,REP,Harriet Hageman,431
+Johnson,04-08,U.S. House,,REP,Steven R. Helling,108
+Johnson,04-08,U.S. House,,REP,Write-ins,8
+Johnson,04-08,U.S. House,,REP,Over Votes,0
+Johnson,04-08,U.S. House,,REP,Under Votes,23
+Johnson,04-08,U.S. House,,DEM,Kyle G. Cameron,11
+Johnson,04-08,U.S. House,,DEM,Write-ins,0
+Johnson,04-08,U.S. House,,DEM,Over Votes,0
+Johnson,04-08,U.S. House,,DEM,Under Votes,0
+Johnson,04-08,State Senate,22,REP,Barry Crago,367
+Johnson,04-08,State Senate,22,REP,Mark Jennings,192
+Johnson,04-08,State Senate,22,REP,Write-ins,1
+Johnson,04-08,State Senate,22,REP,Over Votes,0
+Johnson,04-08,State Senate,22,REP,Under Votes,10
+Johnson,04-08,State Senate,22,DEM,Write-ins,1
+Johnson,04-08,State House,40,REP,Liberty Poley,123
+Johnson,04-08,State House,40,REP,Marilyn Connoly,272
+Johnson,04-08,State House,40,REP,Mark Jones,169
+Johnson,04-08,State House,40,REP,Write-ins,0
+Johnson,04-08,State House,40,REP,Over Votes,1
+Johnson,04-08,State House,40,REP,Under Votes,5
+Johnson,04-08,State House,40,DEM,Write-ins,1
+Johnson,04-08,Ballots Cast,,REP,Ballots Cast,570
+Johnson,04-08,Ballots Cast,,DEM,Ballots Cast,11
+Johnson,04-08,Ballots Cast,,NP,Ballots Cast,0
+Johnson,04-08,Ballots Cast,,,Ballots Cast,581
+Johnson,05-09,U.S. Senate,,REP,John Barrasso,53
+Johnson,05-09,U.S. Senate,,REP,John Holtz,0
+Johnson,05-09,U.S. Senate,,REP,Reid Rasner,8
+Johnson,05-09,U.S. Senate,,REP,Write-ins,0
+Johnson,05-09,U.S. Senate,,REP,Over Votes,0
+Johnson,05-09,U.S. Senate,,REP,Under Votes,0
+Johnson,05-09,U.S. Senate,,DEM,Scott D Morrow,1
+Johnson,05-09,U.S. Senate,,DEM,Write-ins,0
+Johnson,05-09,U.S. Senate,,DEM,Over Votes,0
+Johnson,05-09,U.S. Senate,,DEM,Under Votes,0
+Johnson,05-09,U.S. House,,REP,Harriet Hageman,58
+Johnson,05-09,U.S. House,,REP,Steven R. Helling,2
+Johnson,05-09,U.S. House,,REP,Write-ins,0
+Johnson,05-09,U.S. House,,REP,Over Votes,0
+Johnson,05-09,U.S. House,,REP,Under Votes,1
+Johnson,05-09,U.S. House,,DEM,Kyle G. Cameron,1
+Johnson,05-09,U.S. House,,DEM,Write-ins,0
+Johnson,05-09,U.S. House,,DEM,Over Votes,0
+Johnson,05-09,U.S. House,,DEM,Under Votes,0
+Johnson,05-09,State Senate,22,REP,Barry Crago,35
+Johnson,05-09,State Senate,22,REP,Mark Jennings,26
+Johnson,05-09,State Senate,22,REP,Write-ins,0
+Johnson,05-09,State Senate,22,REP,Over Votes,0
+Johnson,05-09,State Senate,22,REP,Under Votes,0
+Johnson,05-09,State Senate,22,DEM,Write-ins,0
+Johnson,05-09,State House,40,REP,Liberty Poley,10
+Johnson,05-09,State House,40,REP,Marilyn Connoly,27
+Johnson,05-09,State House,40,REP,Mark Jones,23
+Johnson,05-09,State House,40,REP,Write-ins,0
+Johnson,05-09,State House,40,REP,Over Votes,0
+Johnson,05-09,State House,40,REP,Under Votes,1
+Johnson,05-09,State House,40,DEM,Write-ins,0
+Johnson,05-09,Ballots Cast,,REP,Ballots Cast,61
+Johnson,05-09,Ballots Cast,,DEM,Ballots Cast,1
+Johnson,05-09,Ballots Cast,,NP,Ballots Cast,0
+Johnson,05-09,Ballots Cast,,,Ballots Cast,62
+Johnson,06-10,U.S. Senate,,REP,John Barrasso,62
+Johnson,06-10,U.S. Senate,,REP,John Holtz,3
+Johnson,06-10,U.S. Senate,,REP,Reid Rasner,19
+Johnson,06-10,U.S. Senate,,REP,Write-ins,1
+Johnson,06-10,U.S. Senate,,REP,Over Votes,0
+Johnson,06-10,U.S. Senate,,REP,Under Votes,2
+Johnson,06-10,U.S. Senate,,DEM,Scott D Morrow,3
+Johnson,06-10,U.S. Senate,,DEM,Write-ins,0
+Johnson,06-10,U.S. Senate,,DEM,Over Votes,0
+Johnson,06-10,U.S. Senate,,DEM,Under Votes,1
+Johnson,06-10,U.S. House,,REP,Harriet Hageman,71
+Johnson,06-10,U.S. House,,REP,Steven R. Helling,10
+Johnson,06-10,U.S. House,,REP,Write-ins,0
+Johnson,06-10,U.S. House,,REP,Over Votes,1
+Johnson,06-10,U.S. House,,REP,Under Votes,5
+Johnson,06-10,U.S. House,,DEM,Kyle G. Cameron,3
+Johnson,06-10,U.S. House,,DEM,Write-ins,0
+Johnson,06-10,U.S. House,,DEM,Over Votes,0
+Johnson,06-10,U.S. House,,DEM,Under Votes,1
+Johnson,06-10,State Senate,22,REP,Barry Crago,64
+Johnson,06-10,State Senate,22,REP,Mark Jennings,23
+Johnson,06-10,State Senate,22,REP,Write-ins,0
+Johnson,06-10,State Senate,22,REP,Over Votes,0
+Johnson,06-10,State Senate,22,REP,Under Votes,0
+Johnson,06-10,State Senate,22,DEM,Write-ins,0
+Johnson,06-10,State House,40,REP,Liberty Poley,21
+Johnson,06-10,State House,40,REP,Marilyn Connoly,51
+Johnson,06-10,State House,40,REP,Mark Jones,15
+Johnson,06-10,State House,40,REP,Write-ins,0
+Johnson,06-10,State House,40,REP,Over Votes,0
+Johnson,06-10,State House,40,REP,Under Votes,0
+Johnson,06-10,State House,40,DEM,Write-ins,0
+Johnson,06-10,Ballots Cast,,REP,Ballots Cast,87
+Johnson,06-10,Ballots Cast,,DEM,Ballots Cast,4
+Johnson,06-10,Ballots Cast,,NP,Ballots Cast,0
+Johnson,06-10,Ballots Cast,,,Ballots Cast,91
+Johnson,08-11,U.S. Senate,,REP,John Barrasso,136
+Johnson,08-11,U.S. Senate,,REP,John Holtz,6
+Johnson,08-11,U.S. Senate,,REP,Reid Rasner,31
+Johnson,08-11,U.S. Senate,,REP,Write-ins,1
+Johnson,08-11,U.S. Senate,,REP,Over Votes,0
+Johnson,08-11,U.S. Senate,,REP,Under Votes,4
+Johnson,08-11,U.S. Senate,,DEM,Scott D Morrow,3
+Johnson,08-11,U.S. Senate,,DEM,Write-ins,0
+Johnson,08-11,U.S. Senate,,DEM,Over Votes,0
+Johnson,08-11,U.S. Senate,,DEM,Under Votes,0
+Johnson,08-11,U.S. House,,REP,Harriet Hageman,166
+Johnson,08-11,U.S. House,,REP,Steven R. Helling,5
+Johnson,08-11,U.S. House,,REP,Write-ins,1
+Johnson,08-11,U.S. House,,REP,Over Votes,0
+Johnson,08-11,U.S. House,,REP,Under Votes,6
+Johnson,08-11,U.S. House,,DEM,Kyle G. Cameron,3
+Johnson,08-11,U.S. House,,DEM,Write-ins,0
+Johnson,08-11,U.S. House,,DEM,Over Votes,0
+Johnson,08-11,U.S. House,,DEM,Under Votes,0
+Johnson,08-11,State Senate,22,REP,Barry Crago,121
+Johnson,08-11,State Senate,22,REP,Mark Jennings,55
+Johnson,08-11,State Senate,22,REP,Write-ins,0
+Johnson,08-11,State Senate,22,REP,Over Votes,0
+Johnson,08-11,State Senate,22,REP,Under Votes,2
+Johnson,08-11,State Senate,22,DEM,Write-ins,0
+Johnson,08-11,State House,40,REP,Liberty Poley,44
+Johnson,08-11,State House,40,REP,Marilyn Connoly,82
+Johnson,08-11,State House,40,REP,Mark Jones,48
+Johnson,08-11,State House,40,REP,Write-ins,0
+Johnson,08-11,State House,40,REP,Over Votes,0
+Johnson,08-11,State House,40,REP,Under Votes,4
+Johnson,08-11,State House,40,DEM,Write-ins,1
+Johnson,08-11,Ballots Cast,,REP,Ballots Cast,178
+Johnson,08-11,Ballots Cast,,DEM,Ballots Cast,3
+Johnson,08-11,Ballots Cast,,NP,Ballots Cast,0
+Johnson,08-11,Ballots Cast,,,Ballots Cast,181
+Johnson,09-12,U.S. Senate,,REP,John Barrasso,44
+Johnson,09-12,U.S. Senate,,REP,John Holtz,2
+Johnson,09-12,U.S. Senate,,REP,Reid Rasner,18
+Johnson,09-12,U.S. Senate,,REP,Write-ins,0
+Johnson,09-12,U.S. Senate,,REP,Over Votes,0
+Johnson,09-12,U.S. Senate,,REP,Under Votes,1
+Johnson,09-12,U.S. Senate,,DEM,Scott D Morrow,2
+Johnson,09-12,U.S. Senate,,DEM,Write-ins,0
+Johnson,09-12,U.S. Senate,,DEM,Over Votes,0
+Johnson,09-12,U.S. Senate,,DEM,Under Votes,0
+Johnson,09-12,U.S. House,,REP,Harriet Hageman,60
+Johnson,09-12,U.S. House,,REP,Steven R. Helling,4
+Johnson,09-12,U.S. House,,REP,Write-ins,0
+Johnson,09-12,U.S. House,,REP,Over Votes,0
+Johnson,09-12,U.S. House,,REP,Under Votes,1
+Johnson,09-12,U.S. House,,DEM,Kyle G. Cameron,2
+Johnson,09-12,U.S. House,,DEM,Write-ins,0
+Johnson,09-12,U.S. House,,DEM,Over Votes,0
+Johnson,09-12,U.S. House,,DEM,Under Votes,0
+Johnson,09-12,State Senate,22,REP,Barry Crago,49
+Johnson,09-12,State Senate,22,REP,Mark Jennings,16
+Johnson,09-12,State Senate,22,REP,Write-ins,0
+Johnson,09-12,State Senate,22,REP,Over Votes,0
+Johnson,09-12,State Senate,22,REP,Under Votes,0
+Johnson,09-12,State Senate,22,DEM,Write-ins,0
+Johnson,09-12,State House,40,REP,Liberty Poley,23
+Johnson,09-12,State House,40,REP,Marilyn Connoly,23
+Johnson,09-12,State House,40,REP,Mark Jones,19
+Johnson,09-12,State House,40,REP,Write-ins,0
+Johnson,09-12,State House,40,REP,Over Votes,0
+Johnson,09-12,State House,40,REP,Under Votes,0
+Johnson,09-12,State House,40,DEM,Write-ins,0
+Johnson,09-12,Ballots Cast,,REP,Ballots Cast,65
+Johnson,09-12,Ballots Cast,,DEM,Ballots Cast,2
+Johnson,09-12,Ballots Cast,,NP,Ballots Cast,0
+Johnson,09-12,Ballots Cast,,,Ballots Cast,67
+Johnson,10-15,U.S. Senate,,REP,John Barrasso,24
+Johnson,10-15,U.S. Senate,,REP,John Holtz,1
+Johnson,10-15,U.S. Senate,,REP,Reid Rasner,9
+Johnson,10-15,U.S. Senate,,REP,Write-ins,0
+Johnson,10-15,U.S. Senate,,REP,Over Votes,0
+Johnson,10-15,U.S. Senate,,REP,Under Votes,0
+Johnson,10-15,U.S. Senate,,DEM,Scott D Morrow,1
+Johnson,10-15,U.S. Senate,,DEM,Write-ins,0
+Johnson,10-15,U.S. Senate,,DEM,Over Votes,0
+Johnson,10-15,U.S. Senate,,DEM,Under Votes,0
+Johnson,10-15,U.S. House,,REP,Harriet Hageman,30
+Johnson,10-15,U.S. House,,REP,Steven R. Helling,4
+Johnson,10-15,U.S. House,,REP,Write-ins,0
+Johnson,10-15,U.S. House,,REP,Over Votes,0
+Johnson,10-15,U.S. House,,REP,Under Votes,0
+Johnson,10-15,U.S. House,,DEM,Kyle G. Cameron,1
+Johnson,10-15,U.S. House,,DEM,Write-ins,0
+Johnson,10-15,U.S. House,,DEM,Over Votes,0
+Johnson,10-15,U.S. House,,DEM,Under Votes,0
+Johnson,10-15,State Senate,22,REP,Barry Crago,26
+Johnson,10-15,State Senate,22,REP,Mark Jennings,8
+Johnson,10-15,State Senate,22,REP,Write-ins,0
+Johnson,10-15,State Senate,22,REP,Over Votes,0
+Johnson,10-15,State Senate,22,REP,Under Votes,0
+Johnson,10-15,State Senate,22,DEM,Write-ins,0
+Johnson,10-15,State House,40,REP,Liberty Poley,8
+Johnson,10-15,State House,40,REP,Marilyn Connoly,19
+Johnson,10-15,State House,40,REP,Mark Jones,7
+Johnson,10-15,State House,40,REP,Write-ins,0
+Johnson,10-15,State House,40,REP,Over Votes,0
+Johnson,10-15,State House,40,REP,Under Votes,0
+Johnson,10-15,State House,40,DEM,Write-ins,0
+Johnson,10-15,Ballots Cast,,REP,Ballots Cast,34
+Johnson,10-15,Ballots Cast,,DEM,Ballots Cast,1
+Johnson,10-15,Ballots Cast,,NP,Ballots Cast,0
+Johnson,10-15,Ballots Cast,,,Ballots Cast,35

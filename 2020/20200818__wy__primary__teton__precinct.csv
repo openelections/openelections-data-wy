@@ -1,0 +1,772 @@
+county,precinct,office,district,party,candidate,votes
+Teton,1-1,U.S. Senate,,REP,Bryan E Miller,11
+Teton,1-1,U.S. Senate,,REP,Cynthia M. Lummis,160
+Teton,1-1,U.S. Senate,,REP,Devon Cade,4
+Teton,1-1,U.S. Senate,,REP,Donna Rice,7
+Teton,1-1,U.S. Senate,,REP,John Holtz,5
+Teton,1-1,U.S. Senate,,REP,Josh Wheeler,9
+Teton,1-1,U.S. Senate,,REP,Michael Kemler,6
+Teton,1-1,U.S. Senate,,REP,R. Mark Armstrong,12
+Teton,1-1,U.S. Senate,,REP,Robert G. Short,22
+Teton,1-1,U.S. Senate,,REP,Star Roselli,3
+Teton,1-1,U.S. Senate,,REP,Write-ins,1
+Teton,1-1,U.S. Senate,,REP,Over Votes,2
+Teton,1-1,U.S. Senate,,REP,Under Votes,20
+Teton,1-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Teton,1-1,U.S. Senate,,DEM,Kenneth R. Casner,7
+Teton,1-1,U.S. Senate,,DEM,Merav Ben David,92
+Teton,1-1,U.S. Senate,,DEM,Nathan Wendt,47
+Teton,1-1,U.S. Senate,,DEM,Rex Wilde,4
+Teton,1-1,U.S. Senate,,DEM,Yana Ludwig,40
+Teton,1-1,U.S. Senate,,DEM,Write-ins,0
+Teton,1-1,U.S. Senate,,DEM,Over Votes,1
+Teton,1-1,U.S. Senate,,DEM,Under Votes,13
+Teton,1-1,U.S. House,,REP,Blake Stanley,60
+Teton,1-1,U.S. House,,REP,Liz Cheney,195
+Teton,1-1,U.S. House,,REP,Write-ins,2
+Teton,1-1,U.S. House,,REP,Over Votes,0
+Teton,1-1,U.S. House,,REP,Under Votes,5
+Teton,1-1,U.S. House,,DEM,Carl Beach,28
+Teton,1-1,U.S. House,,DEM,Carol Hafner,28
+Teton,1-1,U.S. House,,DEM,Lynnette Grey Bull,134
+Teton,1-1,U.S. House,,DEM,Write-ins,0
+Teton,1-1,U.S. House,,DEM,Over Votes,3
+Teton,1-1,U.S. House,,DEM,Under Votes,12
+Teton,1-1,State House,23,REP,Write-ins,14
+Teton,1-1,State House,23,DEM,Andy Schwartz,191
+Teton,1-1,State House,23,DEM,Write-ins,0
+Teton,1-1,State House,23,DEM,Over Votes,0
+Teton,1-1,State House,23,DEM,Under Votes,14
+Teton,1-1,Ballots Cast,,REP,Ballots Cast,262
+Teton,1-1,Ballots Cast,,DEM,Ballots Cast,205
+Teton,1-1,Ballots Cast,,NP,Ballots Cast,0
+Teton,1-1,Ballots Cast,,,Ballots Cast,467
+Teton,1-10,U.S. Senate,,REP,Bryan E Miller,9
+Teton,1-10,U.S. Senate,,REP,Cynthia M. Lummis,119
+Teton,1-10,U.S. Senate,,REP,Devon Cade,1
+Teton,1-10,U.S. Senate,,REP,Donna Rice,11
+Teton,1-10,U.S. Senate,,REP,John Holtz,3
+Teton,1-10,U.S. Senate,,REP,Josh Wheeler,5
+Teton,1-10,U.S. Senate,,REP,Michael Kemler,0
+Teton,1-10,U.S. Senate,,REP,R. Mark Armstrong,6
+Teton,1-10,U.S. Senate,,REP,Robert G. Short,19
+Teton,1-10,U.S. Senate,,REP,Star Roselli,1
+Teton,1-10,U.S. Senate,,REP,Write-ins,2
+Teton,1-10,U.S. Senate,,REP,Over Votes,0
+Teton,1-10,U.S. Senate,,REP,Under Votes,12
+Teton,1-10,U.S. Senate,,DEM,James Kirk DeBrine,1
+Teton,1-10,U.S. Senate,,DEM,Kenneth R. Casner,1
+Teton,1-10,U.S. Senate,,DEM,Merav Ben David,46
+Teton,1-10,U.S. Senate,,DEM,Nathan Wendt,25
+Teton,1-10,U.S. Senate,,DEM,Rex Wilde,3
+Teton,1-10,U.S. Senate,,DEM,Yana Ludwig,21
+Teton,1-10,U.S. Senate,,DEM,Write-ins,2
+Teton,1-10,U.S. Senate,,DEM,Over Votes,1
+Teton,1-10,U.S. Senate,,DEM,Under Votes,11
+Teton,1-10,U.S. House,,REP,Blake Stanley,41
+Teton,1-10,U.S. House,,REP,Liz Cheney,144
+Teton,1-10,U.S. House,,REP,Write-ins,0
+Teton,1-10,U.S. House,,REP,Over Votes,0
+Teton,1-10,U.S. House,,REP,Under Votes,3
+Teton,1-10,U.S. House,,DEM,Carl Beach,8
+Teton,1-10,U.S. House,,DEM,Carol Hafner,14
+Teton,1-10,U.S. House,,DEM,Lynnette Grey Bull,80
+Teton,1-10,U.S. House,,DEM,Write-ins,1
+Teton,1-10,U.S. House,,DEM,Over Votes,0
+Teton,1-10,U.S. House,,DEM,Under Votes,8
+Teton,1-10,State Senate,16,REP,Dan Dockstader,141
+Teton,1-10,State Senate,16,REP,Write-ins,1
+Teton,1-10,State Senate,16,REP,Over Votes,0
+Teton,1-10,State Senate,16,REP,Under Votes,46
+Teton,1-10,State Senate,16,DEM,Write-ins,9
+Teton,1-10,State House,22,REP,Bill Winney,143
+Teton,1-10,State House,22,REP,Write-ins,4
+Teton,1-10,State House,22,REP,Over Votes,0
+Teton,1-10,State House,22,REP,Under Votes,41
+Teton,1-10,State House,22,DEM,Write-ins,12
+Teton,1-10,Ballots Cast,,REP,Ballots Cast,188
+Teton,1-10,Ballots Cast,,DEM,Ballots Cast,111
+Teton,1-10,Ballots Cast,,NP,Ballots Cast,0
+Teton,1-10,Ballots Cast,,,Ballots Cast,299
+Teton,1-11,U.S. Senate,,REP,Bryan E Miller,4
+Teton,1-11,U.S. Senate,,REP,Cynthia M. Lummis,20
+Teton,1-11,U.S. Senate,,REP,Devon Cade,0
+Teton,1-11,U.S. Senate,,REP,Donna Rice,4
+Teton,1-11,U.S. Senate,,REP,John Holtz,0
+Teton,1-11,U.S. Senate,,REP,Josh Wheeler,3
+Teton,1-11,U.S. Senate,,REP,Michael Kemler,0
+Teton,1-11,U.S. Senate,,REP,R. Mark Armstrong,3
+Teton,1-11,U.S. Senate,,REP,Robert G. Short,2
+Teton,1-11,U.S. Senate,,REP,Star Roselli,0
+Teton,1-11,U.S. Senate,,REP,Write-ins,0
+Teton,1-11,U.S. Senate,,REP,Over Votes,0
+Teton,1-11,U.S. Senate,,REP,Under Votes,6
+Teton,1-11,U.S. Senate,,DEM,James Kirk DeBrine,0
+Teton,1-11,U.S. Senate,,DEM,Kenneth R. Casner,1
+Teton,1-11,U.S. Senate,,DEM,Merav Ben David,12
+Teton,1-11,U.S. Senate,,DEM,Nathan Wendt,15
+Teton,1-11,U.S. Senate,,DEM,Rex Wilde,2
+Teton,1-11,U.S. Senate,,DEM,Yana Ludwig,4
+Teton,1-11,U.S. Senate,,DEM,Write-ins,0
+Teton,1-11,U.S. Senate,,DEM,Over Votes,0
+Teton,1-11,U.S. Senate,,DEM,Under Votes,5
+Teton,1-11,U.S. House,,REP,Blake Stanley,12
+Teton,1-11,U.S. House,,REP,Liz Cheney,30
+Teton,1-11,U.S. House,,REP,Write-ins,0
+Teton,1-11,U.S. House,,REP,Over Votes,0
+Teton,1-11,U.S. House,,REP,Under Votes,0
+Teton,1-11,U.S. House,,DEM,Carl Beach,2
+Teton,1-11,U.S. House,,DEM,Carol Hafner,1
+Teton,1-11,U.S. House,,DEM,Lynnette Grey Bull,29
+Teton,1-11,U.S. House,,DEM,Write-ins,0
+Teton,1-11,U.S. House,,DEM,Over Votes,1
+Teton,1-11,U.S. House,,DEM,Under Votes,6
+Teton,1-11,State House,23,REP,Write-ins,2
+Teton,1-11,State House,23,DEM,Andy Schwartz,36
+Teton,1-11,State House,23,DEM,Write-ins,0
+Teton,1-11,State House,23,DEM,Over Votes,0
+Teton,1-11,State House,23,DEM,Under Votes,3
+Teton,1-11,Ballots Cast,,REP,Ballots Cast,42
+Teton,1-11,Ballots Cast,,DEM,Ballots Cast,39
+Teton,1-11,Ballots Cast,,NP,Ballots Cast,0
+Teton,1-11,Ballots Cast,,,Ballots Cast,81
+Teton,1-2,U.S. Senate,,REP,Bryan E Miller,9
+Teton,1-2,U.S. Senate,,REP,Cynthia M. Lummis,97
+Teton,1-2,U.S. Senate,,REP,Devon Cade,5
+Teton,1-2,U.S. Senate,,REP,Donna Rice,5
+Teton,1-2,U.S. Senate,,REP,John Holtz,3
+Teton,1-2,U.S. Senate,,REP,Josh Wheeler,4
+Teton,1-2,U.S. Senate,,REP,Michael Kemler,4
+Teton,1-2,U.S. Senate,,REP,R. Mark Armstrong,9
+Teton,1-2,U.S. Senate,,REP,Robert G. Short,12
+Teton,1-2,U.S. Senate,,REP,Star Roselli,2
+Teton,1-2,U.S. Senate,,REP,Write-ins,2
+Teton,1-2,U.S. Senate,,REP,Over Votes,4
+Teton,1-2,U.S. Senate,,REP,Under Votes,20
+Teton,1-2,U.S. Senate,,DEM,James Kirk DeBrine,1
+Teton,1-2,U.S. Senate,,DEM,Kenneth R. Casner,7
+Teton,1-2,U.S. Senate,,DEM,Merav Ben David,95
+Teton,1-2,U.S. Senate,,DEM,Nathan Wendt,71
+Teton,1-2,U.S. Senate,,DEM,Rex Wilde,8
+Teton,1-2,U.S. Senate,,DEM,Yana Ludwig,86
+Teton,1-2,U.S. Senate,,DEM,Write-ins,2
+Teton,1-2,U.S. Senate,,DEM,Over Votes,3
+Teton,1-2,U.S. Senate,,DEM,Under Votes,22
+Teton,1-2,U.S. House,,REP,Blake Stanley,44
+Teton,1-2,U.S. House,,REP,Liz Cheney,116
+Teton,1-2,U.S. House,,REP,Write-ins,4
+Teton,1-2,U.S. House,,REP,Over Votes,0
+Teton,1-2,U.S. House,,REP,Under Votes,12
+Teton,1-2,U.S. House,,DEM,Carl Beach,24
+Teton,1-2,U.S. House,,DEM,Carol Hafner,31
+Teton,1-2,U.S. House,,DEM,Lynnette Grey Bull,214
+Teton,1-2,U.S. House,,DEM,Write-ins,0
+Teton,1-2,U.S. House,,DEM,Over Votes,4
+Teton,1-2,U.S. House,,DEM,Under Votes,22
+Teton,1-2,State House,16,REP,Write-ins,14
+Teton,1-2,State House,16,DEM,Mike Yin,266
+Teton,1-2,State House,16,DEM,Write-ins,0
+Teton,1-2,State House,16,DEM,Over Votes,0
+Teton,1-2,State House,16,DEM,Under Votes,29
+Teton,1-2,Ballots Cast,,REP,Ballots Cast,176
+Teton,1-2,Ballots Cast,,DEM,Ballots Cast,295
+Teton,1-2,Ballots Cast,,NP,Ballots Cast,53
+Teton,1-2,Ballots Cast,,,Ballots Cast,524
+Teton,1-3,U.S. Senate,,REP,Bryan E Miller,4
+Teton,1-3,U.S. Senate,,REP,Cynthia M. Lummis,107
+Teton,1-3,U.S. Senate,,REP,Devon Cade,2
+Teton,1-3,U.S. Senate,,REP,Donna Rice,3
+Teton,1-3,U.S. Senate,,REP,John Holtz,6
+Teton,1-3,U.S. Senate,,REP,Josh Wheeler,3
+Teton,1-3,U.S. Senate,,REP,Michael Kemler,0
+Teton,1-3,U.S. Senate,,REP,R. Mark Armstrong,2
+Teton,1-3,U.S. Senate,,REP,Robert G. Short,9
+Teton,1-3,U.S. Senate,,REP,Star Roselli,1
+Teton,1-3,U.S. Senate,,REP,Write-ins,2
+Teton,1-3,U.S. Senate,,REP,Over Votes,1
+Teton,1-3,U.S. Senate,,REP,Under Votes,7
+Teton,1-3,U.S. Senate,,DEM,James Kirk DeBrine,1
+Teton,1-3,U.S. Senate,,DEM,Kenneth R. Casner,4
+Teton,1-3,U.S. Senate,,DEM,Merav Ben David,38
+Teton,1-3,U.S. Senate,,DEM,Nathan Wendt,52
+Teton,1-3,U.S. Senate,,DEM,Rex Wilde,4
+Teton,1-3,U.S. Senate,,DEM,Yana Ludwig,12
+Teton,1-3,U.S. Senate,,DEM,Write-ins,1
+Teton,1-3,U.S. Senate,,DEM,Over Votes,0
+Teton,1-3,U.S. Senate,,DEM,Under Votes,6
+Teton,1-3,U.S. House,,REP,Blake Stanley,26
+Teton,1-3,U.S. House,,REP,Liz Cheney,116
+Teton,1-3,U.S. House,,REP,Write-ins,3
+Teton,1-3,U.S. House,,REP,Over Votes,0
+Teton,1-3,U.S. House,,REP,Under Votes,2
+Teton,1-3,U.S. House,,DEM,Carl Beach,22
+Teton,1-3,U.S. House,,DEM,Carol Hafner,14
+Teton,1-3,U.S. House,,DEM,Lynnette Grey Bull,67
+Teton,1-3,U.S. House,,DEM,Write-ins,2
+Teton,1-3,U.S. House,,DEM,Over Votes,1
+Teton,1-3,U.S. House,,DEM,Under Votes,12
+Teton,1-3,State House,23,REP,Write-ins,13
+Teton,1-3,State House,23,DEM,Andy Schwartz,114
+Teton,1-3,State House,23,DEM,Write-ins,0
+Teton,1-3,State House,23,DEM,Over Votes,0
+Teton,1-3,State House,23,DEM,Under Votes,4
+Teton,1-3,Ballots Cast,,REP,Ballots Cast,147
+Teton,1-3,Ballots Cast,,DEM,Ballots Cast,118
+Teton,1-3,Ballots Cast,,NP,Ballots Cast,0
+Teton,1-3,Ballots Cast,,,Ballots Cast,265
+Teton,1-4,U.S. Senate,,REP,Bryan E Miller,0
+Teton,1-4,U.S. Senate,,REP,Cynthia M. Lummis,36
+Teton,1-4,U.S. Senate,,REP,Devon Cade,0
+Teton,1-4,U.S. Senate,,REP,Donna Rice,3
+Teton,1-4,U.S. Senate,,REP,John Holtz,3
+Teton,1-4,U.S. Senate,,REP,Josh Wheeler,4
+Teton,1-4,U.S. Senate,,REP,Michael Kemler,3
+Teton,1-4,U.S. Senate,,REP,R. Mark Armstrong,4
+Teton,1-4,U.S. Senate,,REP,Robert G. Short,5
+Teton,1-4,U.S. Senate,,REP,Star Roselli,1
+Teton,1-4,U.S. Senate,,REP,Write-ins,1
+Teton,1-4,U.S. Senate,,REP,Over Votes,0
+Teton,1-4,U.S. Senate,,REP,Under Votes,9
+Teton,1-4,U.S. Senate,,DEM,James Kirk DeBrine,0
+Teton,1-4,U.S. Senate,,DEM,Kenneth R. Casner,2
+Teton,1-4,U.S. Senate,,DEM,Merav Ben David,29
+Teton,1-4,U.S. Senate,,DEM,Nathan Wendt,13
+Teton,1-4,U.S. Senate,,DEM,Rex Wilde,0
+Teton,1-4,U.S. Senate,,DEM,Yana Ludwig,15
+Teton,1-4,U.S. Senate,,DEM,Write-ins,0
+Teton,1-4,U.S. Senate,,DEM,Over Votes,0
+Teton,1-4,U.S. Senate,,DEM,Under Votes,8
+Teton,1-4,U.S. House,,REP,Blake Stanley,15
+Teton,1-4,U.S. House,,REP,Liz Cheney,51
+Teton,1-4,U.S. House,,REP,Write-ins,0
+Teton,1-4,U.S. House,,REP,Over Votes,0
+Teton,1-4,U.S. House,,REP,Under Votes,3
+Teton,1-4,U.S. House,,DEM,Carl Beach,4
+Teton,1-4,U.S. House,,DEM,Carol Hafner,3
+Teton,1-4,U.S. House,,DEM,Lynnette Grey Bull,50
+Teton,1-4,U.S. House,,DEM,Write-ins,0
+Teton,1-4,U.S. House,,DEM,Over Votes,0
+Teton,1-4,U.S. House,,DEM,Under Votes,10
+Teton,1-4,State House,23,REP,Write-ins,6
+Teton,1-4,State House,23,DEM,Andy Schwartz,61
+Teton,1-4,State House,23,DEM,Write-ins,0
+Teton,1-4,State House,23,DEM,Over Votes,0
+Teton,1-4,State House,23,DEM,Under Votes,6
+Teton,1-4,Ballots Cast,,REP,Ballots Cast,69
+Teton,1-4,Ballots Cast,,DEM,Ballots Cast,67
+Teton,1-4,Ballots Cast,,NP,Ballots Cast,11
+Teton,1-4,Ballots Cast,,,Ballots Cast,147
+Teton,1-5,U.S. Senate,,REP,Bryan E Miller,9
+Teton,1-5,U.S. Senate,,REP,Cynthia M. Lummis,101
+Teton,1-5,U.S. Senate,,REP,Devon Cade,3
+Teton,1-5,U.S. Senate,,REP,Donna Rice,14
+Teton,1-5,U.S. Senate,,REP,John Holtz,4
+Teton,1-5,U.S. Senate,,REP,Josh Wheeler,4
+Teton,1-5,U.S. Senate,,REP,Michael Kemler,2
+Teton,1-5,U.S. Senate,,REP,R. Mark Armstrong,1
+Teton,1-5,U.S. Senate,,REP,Robert G. Short,16
+Teton,1-5,U.S. Senate,,REP,Star Roselli,1
+Teton,1-5,U.S. Senate,,REP,Write-ins,5
+Teton,1-5,U.S. Senate,,REP,Over Votes,0
+Teton,1-5,U.S. Senate,,REP,Under Votes,16
+Teton,1-5,U.S. Senate,,DEM,James Kirk DeBrine,3
+Teton,1-5,U.S. Senate,,DEM,Kenneth R. Casner,6
+Teton,1-5,U.S. Senate,,DEM,Merav Ben David,82
+Teton,1-5,U.S. Senate,,DEM,Nathan Wendt,99
+Teton,1-5,U.S. Senate,,DEM,Rex Wilde,10
+Teton,1-5,U.S. Senate,,DEM,Yana Ludwig,45
+Teton,1-5,U.S. Senate,,DEM,Write-ins,0
+Teton,1-5,U.S. Senate,,DEM,Over Votes,1
+Teton,1-5,U.S. Senate,,DEM,Under Votes,27
+Teton,1-5,U.S. House,,REP,Blake Stanley,36
+Teton,1-5,U.S. House,,REP,Liz Cheney,130
+Teton,1-5,U.S. House,,REP,Write-ins,3
+Teton,1-5,U.S. House,,REP,Over Votes,0
+Teton,1-5,U.S. House,,REP,Under Votes,7
+Teton,1-5,U.S. House,,DEM,Carl Beach,30
+Teton,1-5,U.S. House,,DEM,Carol Hafner,26
+Teton,1-5,U.S. House,,DEM,Lynnette Grey Bull,186
+Teton,1-5,U.S. House,,DEM,Write-ins,1
+Teton,1-5,U.S. House,,DEM,Over Votes,2
+Teton,1-5,U.S. House,,DEM,Under Votes,28
+Teton,1-5,State House,16,REP,Write-ins,11
+Teton,1-5,State House,16,DEM,Mike Yin,247
+Teton,1-5,State House,16,DEM,Write-ins,2
+Teton,1-5,State House,16,DEM,Over Votes,0
+Teton,1-5,State House,16,DEM,Under Votes,24
+Teton,1-5,Ballots Cast,,REP,Ballots Cast,176
+Teton,1-5,Ballots Cast,,DEM,Ballots Cast,273
+Teton,1-5,Ballots Cast,,NP,Ballots Cast,45
+Teton,1-5,Ballots Cast,,,Ballots Cast,494
+Teton,1-6,U.S. Senate,,REP,Bryan E Miller,7
+Teton,1-6,U.S. Senate,,REP,Cynthia M. Lummis,70
+Teton,1-6,U.S. Senate,,REP,Devon Cade,2
+Teton,1-6,U.S. Senate,,REP,Donna Rice,10
+Teton,1-6,U.S. Senate,,REP,John Holtz,1
+Teton,1-6,U.S. Senate,,REP,Josh Wheeler,4
+Teton,1-6,U.S. Senate,,REP,Michael Kemler,2
+Teton,1-6,U.S. Senate,,REP,R. Mark Armstrong,4
+Teton,1-6,U.S. Senate,,REP,Robert G. Short,17
+Teton,1-6,U.S. Senate,,REP,Star Roselli,0
+Teton,1-6,U.S. Senate,,REP,Write-ins,4
+Teton,1-6,U.S. Senate,,REP,Over Votes,1
+Teton,1-6,U.S. Senate,,REP,Under Votes,15
+Teton,1-6,U.S. Senate,,DEM,James Kirk DeBrine,4
+Teton,1-6,U.S. Senate,,DEM,Kenneth R. Casner,5
+Teton,1-6,U.S. Senate,,DEM,Merav Ben David,61
+Teton,1-6,U.S. Senate,,DEM,Nathan Wendt,62
+Teton,1-6,U.S. Senate,,DEM,Rex Wilde,8
+Teton,1-6,U.S. Senate,,DEM,Yana Ludwig,34
+Teton,1-6,U.S. Senate,,DEM,Write-ins,0
+Teton,1-6,U.S. Senate,,DEM,Over Votes,0
+Teton,1-6,U.S. Senate,,DEM,Under Votes,20
+Teton,1-6,U.S. House,,REP,Blake Stanley,37
+Teton,1-6,U.S. House,,REP,Liz Cheney,85
+Teton,1-6,U.S. House,,REP,Write-ins,1
+Teton,1-6,U.S. House,,REP,Over Votes,1
+Teton,1-6,U.S. House,,REP,Under Votes,13
+Teton,1-6,U.S. House,,DEM,Carl Beach,21
+Teton,1-6,U.S. House,,DEM,Carol Hafner,26
+Teton,1-6,U.S. House,,DEM,Lynnette Grey Bull,122
+Teton,1-6,U.S. House,,DEM,Write-ins,0
+Teton,1-6,U.S. House,,DEM,Over Votes,3
+Teton,1-6,U.S. House,,DEM,Under Votes,22
+Teton,1-6,State House,16,REP,Write-ins,11
+Teton,1-6,State House,16,DEM,Mike Yin,179
+Teton,1-6,State House,16,DEM,Write-ins,1
+Teton,1-6,State House,16,DEM,Over Votes,0
+Teton,1-6,State House,16,DEM,Under Votes,14
+Teton,1-6,Ballots Cast,,REP,Ballots Cast,137
+Teton,1-6,Ballots Cast,,DEM,Ballots Cast,194
+Teton,1-6,Ballots Cast,,NP,Ballots Cast,21
+Teton,1-6,Ballots Cast,,,Ballots Cast,352
+Teton,1-7,U.S. Senate,,REP,Bryan E Miller,3
+Teton,1-7,U.S. Senate,,REP,Cynthia M. Lummis,84
+Teton,1-7,U.S. Senate,,REP,Devon Cade,4
+Teton,1-7,U.S. Senate,,REP,Donna Rice,8
+Teton,1-7,U.S. Senate,,REP,John Holtz,0
+Teton,1-7,U.S. Senate,,REP,Josh Wheeler,5
+Teton,1-7,U.S. Senate,,REP,Michael Kemler,2
+Teton,1-7,U.S. Senate,,REP,R. Mark Armstrong,3
+Teton,1-7,U.S. Senate,,REP,Robert G. Short,27
+Teton,1-7,U.S. Senate,,REP,Star Roselli,0
+Teton,1-7,U.S. Senate,,REP,Write-ins,2
+Teton,1-7,U.S. Senate,,REP,Over Votes,0
+Teton,1-7,U.S. Senate,,REP,Under Votes,8
+Teton,1-7,U.S. Senate,,DEM,James Kirk DeBrine,2
+Teton,1-7,U.S. Senate,,DEM,Kenneth R. Casner,3
+Teton,1-7,U.S. Senate,,DEM,Merav Ben David,83
+Teton,1-7,U.S. Senate,,DEM,Nathan Wendt,49
+Teton,1-7,U.S. Senate,,DEM,Rex Wilde,5
+Teton,1-7,U.S. Senate,,DEM,Yana Ludwig,22
+Teton,1-7,U.S. Senate,,DEM,Write-ins,0
+Teton,1-7,U.S. Senate,,DEM,Over Votes,2
+Teton,1-7,U.S. Senate,,DEM,Under Votes,18
+Teton,1-7,U.S. House,,REP,Blake Stanley,32
+Teton,1-7,U.S. House,,REP,Liz Cheney,106
+Teton,1-7,U.S. House,,REP,Write-ins,4
+Teton,1-7,U.S. House,,REP,Over Votes,0
+Teton,1-7,U.S. House,,REP,Under Votes,4
+Teton,1-7,U.S. House,,DEM,Carl Beach,15
+Teton,1-7,U.S. House,,DEM,Carol Hafner,23
+Teton,1-7,U.S. House,,DEM,Lynnette Grey Bull,126
+Teton,1-7,U.S. House,,DEM,Write-ins,0
+Teton,1-7,U.S. House,,DEM,Over Votes,1
+Teton,1-7,U.S. House,,DEM,Under Votes,19
+Teton,1-7,State House,23,REP,Write-ins,12
+Teton,1-7,State House,23,DEM,Andy Schwartz,179
+Teton,1-7,State House,23,DEM,Write-ins,0
+Teton,1-7,State House,23,DEM,Over Votes,0
+Teton,1-7,State House,23,DEM,Under Votes,5
+Teton,1-7,Ballots Cast,,REP,Ballots Cast,146
+Teton,1-7,Ballots Cast,,DEM,Ballots Cast,184
+Teton,1-7,Ballots Cast,,NP,Ballots Cast,0
+Teton,1-7,Ballots Cast,,,Ballots Cast,330
+Teton,1-8,U.S. Senate,,REP,Bryan E Miller,3
+Teton,1-8,U.S. Senate,,REP,Cynthia M. Lummis,102
+Teton,1-8,U.S. Senate,,REP,Devon Cade,3
+Teton,1-8,U.S. Senate,,REP,Donna Rice,5
+Teton,1-8,U.S. Senate,,REP,John Holtz,3
+Teton,1-8,U.S. Senate,,REP,Josh Wheeler,8
+Teton,1-8,U.S. Senate,,REP,Michael Kemler,3
+Teton,1-8,U.S. Senate,,REP,R. Mark Armstrong,11
+Teton,1-8,U.S. Senate,,REP,Robert G. Short,11
+Teton,1-8,U.S. Senate,,REP,Star Roselli,0
+Teton,1-8,U.S. Senate,,REP,Write-ins,4
+Teton,1-8,U.S. Senate,,REP,Over Votes,2
+Teton,1-8,U.S. Senate,,REP,Under Votes,27
+Teton,1-8,U.S. Senate,,DEM,James Kirk DeBrine,2
+Teton,1-8,U.S. Senate,,DEM,Kenneth R. Casner,8
+Teton,1-8,U.S. Senate,,DEM,Merav Ben David,69
+Teton,1-8,U.S. Senate,,DEM,Nathan Wendt,84
+Teton,1-8,U.S. Senate,,DEM,Rex Wilde,3
+Teton,1-8,U.S. Senate,,DEM,Yana Ludwig,47
+Teton,1-8,U.S. Senate,,DEM,Write-ins,0
+Teton,1-8,U.S. Senate,,DEM,Over Votes,2
+Teton,1-8,U.S. Senate,,DEM,Under Votes,30
+Teton,1-8,U.S. House,,REP,Blake Stanley,42
+Teton,1-8,U.S. House,,REP,Liz Cheney,122
+Teton,1-8,U.S. House,,REP,Write-ins,0
+Teton,1-8,U.S. House,,REP,Over Votes,0
+Teton,1-8,U.S. House,,REP,Under Votes,18
+Teton,1-8,U.S. House,,DEM,Carl Beach,17
+Teton,1-8,U.S. House,,DEM,Carol Hafner,22
+Teton,1-8,U.S. House,,DEM,Lynnette Grey Bull,173
+Teton,1-8,U.S. House,,DEM,Write-ins,1
+Teton,1-8,U.S. House,,DEM,Over Votes,4
+Teton,1-8,U.S. House,,DEM,Under Votes,28
+Teton,1-8,State House,16,REP,Write-ins,19
+Teton,1-8,State House,16,DEM,Mike Yin,221
+Teton,1-8,State House,16,DEM,Write-ins,1
+Teton,1-8,State House,16,DEM,Over Votes,0
+Teton,1-8,State House,16,DEM,Under Votes,23
+Teton,1-8,Ballots Cast,,REP,Ballots Cast,182
+Teton,1-8,Ballots Cast,,DEM,Ballots Cast,245
+Teton,1-8,Ballots Cast,,NP,Ballots Cast,36
+Teton,1-8,Ballots Cast,,,Ballots Cast,463
+Teton,1-9,U.S. Senate,,REP,Bryan E Miller,14
+Teton,1-9,U.S. Senate,,REP,Cynthia M. Lummis,83
+Teton,1-9,U.S. Senate,,REP,Devon Cade,2
+Teton,1-9,U.S. Senate,,REP,Donna Rice,7
+Teton,1-9,U.S. Senate,,REP,John Holtz,3
+Teton,1-9,U.S. Senate,,REP,Josh Wheeler,5
+Teton,1-9,U.S. Senate,,REP,Michael Kemler,1
+Teton,1-9,U.S. Senate,,REP,R. Mark Armstrong,6
+Teton,1-9,U.S. Senate,,REP,Robert G. Short,28
+Teton,1-9,U.S. Senate,,REP,Star Roselli,4
+Teton,1-9,U.S. Senate,,REP,Write-ins,3
+Teton,1-9,U.S. Senate,,REP,Over Votes,1
+Teton,1-9,U.S. Senate,,REP,Under Votes,20
+Teton,1-9,U.S. Senate,,DEM,James Kirk DeBrine,5
+Teton,1-9,U.S. Senate,,DEM,Kenneth R. Casner,4
+Teton,1-9,U.S. Senate,,DEM,Merav Ben David,73
+Teton,1-9,U.S. Senate,,DEM,Nathan Wendt,57
+Teton,1-9,U.S. Senate,,DEM,Rex Wilde,11
+Teton,1-9,U.S. Senate,,DEM,Yana Ludwig,57
+Teton,1-9,U.S. Senate,,DEM,Write-ins,3
+Teton,1-9,U.S. Senate,,DEM,Over Votes,3
+Teton,1-9,U.S. Senate,,DEM,Under Votes,32
+Teton,1-9,U.S. House,,REP,Blake Stanley,57
+Teton,1-9,U.S. House,,REP,Liz Cheney,102
+Teton,1-9,U.S. House,,REP,Write-ins,4
+Teton,1-9,U.S. House,,REP,Over Votes,2
+Teton,1-9,U.S. House,,REP,Under Votes,12
+Teton,1-9,U.S. House,,DEM,Carl Beach,20
+Teton,1-9,U.S. House,,DEM,Carol Hafner,32
+Teton,1-9,U.S. House,,DEM,Lynnette Grey Bull,170
+Teton,1-9,U.S. House,,DEM,Write-ins,0
+Teton,1-9,U.S. House,,DEM,Over Votes,0
+Teton,1-9,U.S. House,,DEM,Under Votes,23
+Teton,1-9,State House,16,REP,Write-ins,21
+Teton,1-9,State House,16,DEM,Mike Yin,225
+Teton,1-9,State House,16,DEM,Write-ins,0
+Teton,1-9,State House,16,DEM,Over Votes,0
+Teton,1-9,State House,16,DEM,Under Votes,20
+Teton,1-9,Ballots Cast,,REP,Ballots Cast,177
+Teton,1-9,Ballots Cast,,DEM,Ballots Cast,245
+Teton,1-9,Ballots Cast,,NP,Ballots Cast,24
+Teton,1-9,Ballots Cast,,,Ballots Cast,446
+Teton,2-1,U.S. Senate,,REP,Bryan E Miller,10
+Teton,2-1,U.S. Senate,,REP,Cynthia M. Lummis,186
+Teton,2-1,U.S. Senate,,REP,Devon Cade,7
+Teton,2-1,U.S. Senate,,REP,Donna Rice,16
+Teton,2-1,U.S. Senate,,REP,John Holtz,4
+Teton,2-1,U.S. Senate,,REP,Josh Wheeler,5
+Teton,2-1,U.S. Senate,,REP,Michael Kemler,1
+Teton,2-1,U.S. Senate,,REP,R. Mark Armstrong,4
+Teton,2-1,U.S. Senate,,REP,Robert G. Short,20
+Teton,2-1,U.S. Senate,,REP,Star Roselli,1
+Teton,2-1,U.S. Senate,,REP,Write-ins,4
+Teton,2-1,U.S. Senate,,REP,Over Votes,1
+Teton,2-1,U.S. Senate,,REP,Under Votes,10
+Teton,2-1,U.S. Senate,,DEM,James Kirk DeBrine,4
+Teton,2-1,U.S. Senate,,DEM,Kenneth R. Casner,5
+Teton,2-1,U.S. Senate,,DEM,Merav Ben David,64
+Teton,2-1,U.S. Senate,,DEM,Nathan Wendt,60
+Teton,2-1,U.S. Senate,,DEM,Rex Wilde,6
+Teton,2-1,U.S. Senate,,DEM,Yana Ludwig,28
+Teton,2-1,U.S. Senate,,DEM,Write-ins,0
+Teton,2-1,U.S. Senate,,DEM,Over Votes,3
+Teton,2-1,U.S. Senate,,DEM,Under Votes,7
+Teton,2-1,U.S. House,,REP,Blake Stanley,51
+Teton,2-1,U.S. House,,REP,Liz Cheney,208
+Teton,2-1,U.S. House,,REP,Write-ins,5
+Teton,2-1,U.S. House,,REP,Over Votes,0
+Teton,2-1,U.S. House,,REP,Under Votes,5
+Teton,2-1,U.S. House,,DEM,Carl Beach,26
+Teton,2-1,U.S. House,,DEM,Carol Hafner,33
+Teton,2-1,U.S. House,,DEM,Lynnette Grey Bull,104
+Teton,2-1,U.S. House,,DEM,Write-ins,0
+Teton,2-1,U.S. House,,DEM,Over Votes,2
+Teton,2-1,U.S. House,,DEM,Under Votes,12
+Teton,2-1,State House,23,REP,Write-ins,15
+Teton,2-1,State House,23,DEM,Andy Schwartz,169
+Teton,2-1,State House,23,DEM,Write-ins,0
+Teton,2-1,State House,23,DEM,Over Votes,0
+Teton,2-1,State House,23,DEM,Under Votes,8
+Teton,2-1,Ballots Cast,,REP,Ballots Cast,269
+Teton,2-1,Ballots Cast,,DEM,Ballots Cast,177
+Teton,2-1,Ballots Cast,,NP,Ballots Cast,0
+Teton,2-1,Ballots Cast,,,Ballots Cast,446
+Teton,3-1,U.S. Senate,,REP,Bryan E Miller,1
+Teton,3-1,U.S. Senate,,REP,Cynthia M. Lummis,29
+Teton,3-1,U.S. Senate,,REP,Devon Cade,1
+Teton,3-1,U.S. Senate,,REP,Donna Rice,3
+Teton,3-1,U.S. Senate,,REP,John Holtz,1
+Teton,3-1,U.S. Senate,,REP,Josh Wheeler,4
+Teton,3-1,U.S. Senate,,REP,Michael Kemler,2
+Teton,3-1,U.S. Senate,,REP,R. Mark Armstrong,3
+Teton,3-1,U.S. Senate,,REP,Robert G. Short,4
+Teton,3-1,U.S. Senate,,REP,Star Roselli,0
+Teton,3-1,U.S. Senate,,REP,Write-ins,0
+Teton,3-1,U.S. Senate,,REP,Over Votes,0
+Teton,3-1,U.S. Senate,,REP,Under Votes,3
+Teton,3-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Teton,3-1,U.S. Senate,,DEM,Kenneth R. Casner,3
+Teton,3-1,U.S. Senate,,DEM,Merav Ben David,31
+Teton,3-1,U.S. Senate,,DEM,Nathan Wendt,18
+Teton,3-1,U.S. Senate,,DEM,Rex Wilde,2
+Teton,3-1,U.S. Senate,,DEM,Yana Ludwig,8
+Teton,3-1,U.S. Senate,,DEM,Write-ins,0
+Teton,3-1,U.S. Senate,,DEM,Over Votes,0
+Teton,3-1,U.S. Senate,,DEM,Under Votes,1
+Teton,3-1,U.S. House,,REP,Blake Stanley,15
+Teton,3-1,U.S. House,,REP,Liz Cheney,34
+Teton,3-1,U.S. House,,REP,Write-ins,0
+Teton,3-1,U.S. House,,REP,Over Votes,0
+Teton,3-1,U.S. House,,REP,Under Votes,2
+Teton,3-1,U.S. House,,DEM,Carl Beach,5
+Teton,3-1,U.S. House,,DEM,Carol Hafner,8
+Teton,3-1,U.S. House,,DEM,Lynnette Grey Bull,45
+Teton,3-1,U.S. House,,DEM,Write-ins,0
+Teton,3-1,U.S. House,,DEM,Over Votes,0
+Teton,3-1,U.S. House,,DEM,Under Votes,5
+Teton,3-1,State House,23,REP,Write-ins,3
+Teton,3-1,State House,23,DEM,Andy Schwartz,56
+Teton,3-1,State House,23,DEM,Write-ins,0
+Teton,3-1,State House,23,DEM,Over Votes,0
+Teton,3-1,State House,23,DEM,Under Votes,7
+Teton,3-1,Ballots Cast,,REP,Ballots Cast,51
+Teton,3-1,Ballots Cast,,DEM,Ballots Cast,63
+Teton,3-1,Ballots Cast,,NP,Ballots Cast,0
+Teton,3-1,Ballots Cast,,,Ballots Cast,114
+Teton,4-1,U.S. Senate,,REP,Bryan E Miller,10
+Teton,4-1,U.S. Senate,,REP,Cynthia M. Lummis,87
+Teton,4-1,U.S. Senate,,REP,Devon Cade,4
+Teton,4-1,U.S. Senate,,REP,Donna Rice,5
+Teton,4-1,U.S. Senate,,REP,John Holtz,1
+Teton,4-1,U.S. Senate,,REP,Josh Wheeler,2
+Teton,4-1,U.S. Senate,,REP,Michael Kemler,4
+Teton,4-1,U.S. Senate,,REP,R. Mark Armstrong,8
+Teton,4-1,U.S. Senate,,REP,Robert G. Short,10
+Teton,4-1,U.S. Senate,,REP,Star Roselli,2
+Teton,4-1,U.S. Senate,,REP,Write-ins,2
+Teton,4-1,U.S. Senate,,REP,Over Votes,0
+Teton,4-1,U.S. Senate,,REP,Under Votes,7
+Teton,4-1,U.S. Senate,,DEM,James Kirk DeBrine,2
+Teton,4-1,U.S. Senate,,DEM,Kenneth R. Casner,3
+Teton,4-1,U.S. Senate,,DEM,Merav Ben David,84
+Teton,4-1,U.S. Senate,,DEM,Nathan Wendt,52
+Teton,4-1,U.S. Senate,,DEM,Rex Wilde,2
+Teton,4-1,U.S. Senate,,DEM,Yana Ludwig,29
+Teton,4-1,U.S. Senate,,DEM,Write-ins,0
+Teton,4-1,U.S. Senate,,DEM,Over Votes,3
+Teton,4-1,U.S. Senate,,DEM,Under Votes,3
+Teton,4-1,U.S. House,,REP,Blake Stanley,31
+Teton,4-1,U.S. House,,REP,Liz Cheney,105
+Teton,4-1,U.S. House,,REP,Write-ins,0
+Teton,4-1,U.S. House,,REP,Over Votes,1
+Teton,4-1,U.S. House,,REP,Under Votes,5
+Teton,4-1,U.S. House,,DEM,Carl Beach,21
+Teton,4-1,U.S. House,,DEM,Carol Hafner,22
+Teton,4-1,U.S. House,,DEM,Lynnette Grey Bull,116
+Teton,4-1,U.S. House,,DEM,Write-ins,0
+Teton,4-1,U.S. House,,DEM,Over Votes,1
+Teton,4-1,U.S. House,,DEM,Under Votes,18
+Teton,4-1,State Senate,16,REP,Dan Dockstader,111
+Teton,4-1,State Senate,16,REP,Write-ins,2
+Teton,4-1,State Senate,16,REP,Over Votes,0
+Teton,4-1,State Senate,16,REP,Under Votes,29
+Teton,4-1,State Senate,16,DEM,Write-ins,11
+Teton,4-1,State House,22,REP,Bill Winney,109
+Teton,4-1,State House,22,REP,Write-ins,6
+Teton,4-1,State House,22,REP,Over Votes,0
+Teton,4-1,State House,22,REP,Under Votes,27
+Teton,4-1,State House,22,DEM,Write-ins,22
+Teton,4-1,Ballots Cast,,REP,Ballots Cast,142
+Teton,4-1,Ballots Cast,,DEM,Ballots Cast,178
+Teton,4-1,Ballots Cast,,NP,Ballots Cast,0
+Teton,4-1,Ballots Cast,,,Ballots Cast,320
+Teton,4-2,U.S. Senate,,REP,Bryan E Miller,9
+Teton,4-2,U.S. Senate,,REP,Cynthia M. Lummis,130
+Teton,4-2,U.S. Senate,,REP,Devon Cade,5
+Teton,4-2,U.S. Senate,,REP,Donna Rice,22
+Teton,4-2,U.S. Senate,,REP,John Holtz,2
+Teton,4-2,U.S. Senate,,REP,Josh Wheeler,2
+Teton,4-2,U.S. Senate,,REP,Michael Kemler,0
+Teton,4-2,U.S. Senate,,REP,R. Mark Armstrong,6
+Teton,4-2,U.S. Senate,,REP,Robert G. Short,16
+Teton,4-2,U.S. Senate,,REP,Star Roselli,1
+Teton,4-2,U.S. Senate,,REP,Write-ins,3
+Teton,4-2,U.S. Senate,,REP,Over Votes,3
+Teton,4-2,U.S. Senate,,REP,Under Votes,18
+Teton,4-2,U.S. Senate,,DEM,James Kirk DeBrine,5
+Teton,4-2,U.S. Senate,,DEM,Kenneth R. Casner,3
+Teton,4-2,U.S. Senate,,DEM,Merav Ben David,98
+Teton,4-2,U.S. Senate,,DEM,Nathan Wendt,90
+Teton,4-2,U.S. Senate,,DEM,Rex Wilde,7
+Teton,4-2,U.S. Senate,,DEM,Yana Ludwig,49
+Teton,4-2,U.S. Senate,,DEM,Write-ins,1
+Teton,4-2,U.S. Senate,,DEM,Over Votes,3
+Teton,4-2,U.S. Senate,,DEM,Under Votes,16
+Teton,4-2,U.S. House,,REP,Blake Stanley,38
+Teton,4-2,U.S. House,,REP,Liz Cheney,171
+Teton,4-2,U.S. House,,REP,Write-ins,2
+Teton,4-2,U.S. House,,REP,Over Votes,0
+Teton,4-2,U.S. House,,REP,Under Votes,6
+Teton,4-2,U.S. House,,DEM,Carl Beach,35
+Teton,4-2,U.S. House,,DEM,Carol Hafner,42
+Teton,4-2,U.S. House,,DEM,Lynnette Grey Bull,163
+Teton,4-2,U.S. House,,DEM,Write-ins,1
+Teton,4-2,U.S. House,,DEM,Over Votes,3
+Teton,4-2,U.S. House,,DEM,Under Votes,28
+Teton,4-2,State House,23,REP,Write-ins,7
+Teton,4-2,State House,23,DEM,Andy Schwartz,253
+Teton,4-2,State House,23,DEM,Write-ins,2
+Teton,4-2,State House,23,DEM,Over Votes,1
+Teton,4-2,State House,23,DEM,Under Votes,16
+Teton,4-2,Ballots Cast,,REP,Ballots Cast,217
+Teton,4-2,Ballots Cast,,DEM,Ballots Cast,272
+Teton,4-2,Ballots Cast,,NP,Ballots Cast,0
+Teton,4-2,Ballots Cast,,,Ballots Cast,489
+Teton,4-3,U.S. Senate,,REP,Bryan E Miller,2
+Teton,4-3,U.S. Senate,,REP,Cynthia M. Lummis,40
+Teton,4-3,U.S. Senate,,REP,Devon Cade,3
+Teton,4-3,U.S. Senate,,REP,Donna Rice,5
+Teton,4-3,U.S. Senate,,REP,John Holtz,2
+Teton,4-3,U.S. Senate,,REP,Josh Wheeler,4
+Teton,4-3,U.S. Senate,,REP,Michael Kemler,3
+Teton,4-3,U.S. Senate,,REP,R. Mark Armstrong,7
+Teton,4-3,U.S. Senate,,REP,Robert G. Short,15
+Teton,4-3,U.S. Senate,,REP,Star Roselli,4
+Teton,4-3,U.S. Senate,,REP,Write-ins,5
+Teton,4-3,U.S. Senate,,REP,Over Votes,0
+Teton,4-3,U.S. Senate,,REP,Under Votes,7
+Teton,4-3,U.S. Senate,,DEM,James Kirk DeBrine,4
+Teton,4-3,U.S. Senate,,DEM,Kenneth R. Casner,4
+Teton,4-3,U.S. Senate,,DEM,Merav Ben David,62
+Teton,4-3,U.S. Senate,,DEM,Nathan Wendt,48
+Teton,4-3,U.S. Senate,,DEM,Rex Wilde,4
+Teton,4-3,U.S. Senate,,DEM,Yana Ludwig,42
+Teton,4-3,U.S. Senate,,DEM,Write-ins,0
+Teton,4-3,U.S. Senate,,DEM,Over Votes,0
+Teton,4-3,U.S. Senate,,DEM,Under Votes,29
+Teton,4-3,U.S. House,,REP,Blake Stanley,35
+Teton,4-3,U.S. House,,REP,Liz Cheney,55
+Teton,4-3,U.S. House,,REP,Write-ins,3
+Teton,4-3,U.S. House,,REP,Over Votes,0
+Teton,4-3,U.S. House,,REP,Under Votes,3
+Teton,4-3,U.S. House,,DEM,Carl Beach,25
+Teton,4-3,U.S. House,,DEM,Carol Hafner,13
+Teton,4-3,U.S. House,,DEM,Lynnette Grey Bull,134
+Teton,4-3,U.S. House,,DEM,Write-ins,0
+Teton,4-3,U.S. House,,DEM,Over Votes,1
+Teton,4-3,U.S. House,,DEM,Under Votes,20
+Teton,4-3,State Senate,16,REP,Dan Dockstader,64
+Teton,4-3,State Senate,16,REP,Write-ins,6
+Teton,4-3,State Senate,16,REP,Over Votes,0
+Teton,4-3,State Senate,16,REP,Under Votes,26
+Teton,4-3,State Senate,16,DEM,Write-ins,8
+Teton,4-3,State House,22,REP,Bill Winney,62
+Teton,4-3,State House,22,REP,Write-ins,7
+Teton,4-3,State House,22,REP,Over Votes,0
+Teton,4-3,State House,22,REP,Under Votes,27
+Teton,4-3,State House,22,DEM,Write-ins,10
+Teton,4-3,Ballots Cast,,REP,Ballots Cast,96
+Teton,4-3,Ballots Cast,,DEM,Ballots Cast,193
+Teton,4-3,Ballots Cast,,NP,Ballots Cast,0
+Teton,4-3,Ballots Cast,,,Ballots Cast,289
+Teton,4-4,U.S. Senate,,REP,Bryan E Miller,5
+Teton,4-4,U.S. Senate,,REP,Cynthia M. Lummis,56
+Teton,4-4,U.S. Senate,,REP,Devon Cade,1
+Teton,4-4,U.S. Senate,,REP,Donna Rice,4
+Teton,4-4,U.S. Senate,,REP,John Holtz,1
+Teton,4-4,U.S. Senate,,REP,Josh Wheeler,1
+Teton,4-4,U.S. Senate,,REP,Michael Kemler,0
+Teton,4-4,U.S. Senate,,REP,R. Mark Armstrong,6
+Teton,4-4,U.S. Senate,,REP,Robert G. Short,7
+Teton,4-4,U.S. Senate,,REP,Star Roselli,0
+Teton,4-4,U.S. Senate,,REP,Write-ins,1
+Teton,4-4,U.S. Senate,,REP,Over Votes,2
+Teton,4-4,U.S. Senate,,REP,Under Votes,3
+Teton,4-4,U.S. Senate,,DEM,James Kirk DeBrine,0
+Teton,4-4,U.S. Senate,,DEM,Kenneth R. Casner,0
+Teton,4-4,U.S. Senate,,DEM,Merav Ben David,26
+Teton,4-4,U.S. Senate,,DEM,Nathan Wendt,26
+Teton,4-4,U.S. Senate,,DEM,Rex Wilde,0
+Teton,4-4,U.S. Senate,,DEM,Yana Ludwig,12
+Teton,4-4,U.S. Senate,,DEM,Write-ins,0
+Teton,4-4,U.S. Senate,,DEM,Over Votes,0
+Teton,4-4,U.S. Senate,,DEM,Under Votes,6
+Teton,4-4,U.S. House,,REP,Blake Stanley,14
+Teton,4-4,U.S. House,,REP,Liz Cheney,70
+Teton,4-4,U.S. House,,REP,Write-ins,2
+Teton,4-4,U.S. House,,REP,Over Votes,0
+Teton,4-4,U.S. House,,REP,Under Votes,2
+Teton,4-4,U.S. House,,DEM,Carl Beach,8
+Teton,4-4,U.S. House,,DEM,Carol Hafner,4
+Teton,4-4,U.S. House,,DEM,Lynnette Grey Bull,47
+Teton,4-4,U.S. House,,DEM,Write-ins,0
+Teton,4-4,U.S. House,,DEM,Over Votes,2
+Teton,4-4,U.S. House,,DEM,Under Votes,9
+Teton,4-4,State House,23,REP,Write-ins,6
+Teton,4-4,State House,23,DEM,Andy Schwartz,63
+Teton,4-4,State House,23,DEM,Write-ins,1
+Teton,4-4,State House,23,DEM,Over Votes,0
+Teton,4-4,State House,23,DEM,Under Votes,6
+Teton,4-4,Ballots Cast,,REP,Ballots Cast,88
+Teton,4-4,Ballots Cast,,DEM,Ballots Cast,70
+Teton,4-4,Ballots Cast,,NP,Ballots Cast,0
+Teton,4-4,Ballots Cast,,,Ballots Cast,158
+Teton,5-1,U.S. Senate,,REP,Bryan E Miller,2
+Teton,5-1,U.S. Senate,,REP,Cynthia M. Lummis,45
+Teton,5-1,U.S. Senate,,REP,Devon Cade,1
+Teton,5-1,U.S. Senate,,REP,Donna Rice,2
+Teton,5-1,U.S. Senate,,REP,John Holtz,1
+Teton,5-1,U.S. Senate,,REP,Josh Wheeler,4
+Teton,5-1,U.S. Senate,,REP,Michael Kemler,0
+Teton,5-1,U.S. Senate,,REP,R. Mark Armstrong,2
+Teton,5-1,U.S. Senate,,REP,Robert G. Short,4
+Teton,5-1,U.S. Senate,,REP,Star Roselli,2
+Teton,5-1,U.S. Senate,,REP,Write-ins,1
+Teton,5-1,U.S. Senate,,REP,Over Votes,2
+Teton,5-1,U.S. Senate,,REP,Under Votes,2
+Teton,5-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Teton,5-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Teton,5-1,U.S. Senate,,DEM,Merav Ben David,19
+Teton,5-1,U.S. Senate,,DEM,Nathan Wendt,21
+Teton,5-1,U.S. Senate,,DEM,Rex Wilde,0
+Teton,5-1,U.S. Senate,,DEM,Yana Ludwig,6
+Teton,5-1,U.S. Senate,,DEM,Write-ins,0
+Teton,5-1,U.S. Senate,,DEM,Over Votes,0
+Teton,5-1,U.S. Senate,,DEM,Under Votes,0
+Teton,5-1,U.S. House,,REP,Blake Stanley,16
+Teton,5-1,U.S. House,,REP,Liz Cheney,50
+Teton,5-1,U.S. House,,REP,Write-ins,1
+Teton,5-1,U.S. House,,REP,Over Votes,0
+Teton,5-1,U.S. House,,REP,Under Votes,1
+Teton,5-1,U.S. House,,DEM,Carl Beach,13
+Teton,5-1,U.S. House,,DEM,Carol Hafner,6
+Teton,5-1,U.S. House,,DEM,Lynnette Grey Bull,25
+Teton,5-1,U.S. House,,DEM,Write-ins,0
+Teton,5-1,U.S. House,,DEM,Over Votes,1
+Teton,5-1,U.S. House,,DEM,Under Votes,2
+Teton,5-1,State House,23,REP,Write-ins,10
+Teton,5-1,State House,23,DEM,Andy Schwartz,46
+Teton,5-1,State House,23,DEM,Write-ins,0
+Teton,5-1,State House,23,DEM,Over Votes,0
+Teton,5-1,State House,23,DEM,Under Votes,1
+Teton,5-1,Ballots Cast,,REP,Ballots Cast,68
+Teton,5-1,Ballots Cast,,DEM,Ballots Cast,47
+Teton,5-1,Ballots Cast,,NP,Ballots Cast,0
+Teton,5-1,Ballots Cast,,,Ballots Cast,115

@@ -1,0 +1,477 @@
+county,precinct,office,district,party,candidate,votes
+Crook,13-13,U.S. Senate,,REP,John Barrasso,84
+Crook,13-13,U.S. Senate,,REP,John Holtz,8
+Crook,13-13,U.S. Senate,,REP,Reid Rasner,41
+Crook,13-13,U.S. Senate,,REP,Write-ins,2
+Crook,13-13,U.S. Senate,,REP,Over Votes,0
+Crook,13-13,U.S. Senate,,REP,Under Votes,1
+Crook,13-13,U.S. Senate,,DEM,Scott D Morrow,5
+Crook,13-13,U.S. Senate,,DEM,Write-ins,0
+Crook,13-13,U.S. Senate,,DEM,Over Votes,0
+Crook,13-13,U.S. Senate,,DEM,Under Votes,0
+Crook,13-13,U.S. House,,REP,Harriet Hageman,118
+Crook,13-13,U.S. House,,REP,Steven R. Helling,15
+Crook,13-13,U.S. House,,REP,Write-ins,1
+Crook,13-13,U.S. House,,REP,Over Votes,0
+Crook,13-13,U.S. House,,REP,Under Votes,2
+Crook,13-13,U.S. House,,DEM,Kyle G. Cameron,5
+Crook,13-13,U.S. House,,DEM,Write-ins,0
+Crook,13-13,U.S. House,,DEM,Over Votes,0
+Crook,13-13,U.S. House,,DEM,Under Votes,0
+Crook,13-13,State House,1,REP,Chip Neiman,119
+Crook,13-13,State House,1,REP,Write-ins,3
+Crook,13-13,State House,1,REP,Over Votes,0
+Crook,13-13,State House,1,REP,Under Votes,14
+Crook,13-13,State House,1,DEM,Write-ins,0
+Crook,13-13,Ballots Cast,,REP,Ballots Cast,136
+Crook,13-13,Ballots Cast,,DEM,Ballots Cast,5
+Crook,13-13,Ballots Cast,,NP,Ballots Cast,0
+Crook,13-13,Ballots Cast,,,Ballots Cast,141
+Crook,14-14,U.S. Senate,,REP,John Barrasso,53
+Crook,14-14,U.S. Senate,,REP,John Holtz,9
+Crook,14-14,U.S. Senate,,REP,Reid Rasner,23
+Crook,14-14,U.S. Senate,,REP,Write-ins,1
+Crook,14-14,U.S. Senate,,REP,Over Votes,0
+Crook,14-14,U.S. Senate,,REP,Under Votes,2
+Crook,14-14,U.S. Senate,,DEM,Scott D Morrow,1
+Crook,14-14,U.S. Senate,,DEM,Write-ins,0
+Crook,14-14,U.S. Senate,,DEM,Over Votes,0
+Crook,14-14,U.S. Senate,,DEM,Under Votes,0
+Crook,14-14,U.S. House,,REP,Harriet Hageman,66
+Crook,14-14,U.S. House,,REP,Steven R. Helling,18
+Crook,14-14,U.S. House,,REP,Write-ins,1
+Crook,14-14,U.S. House,,REP,Over Votes,0
+Crook,14-14,U.S. House,,REP,Under Votes,3
+Crook,14-14,U.S. House,,DEM,Kyle G. Cameron,1
+Crook,14-14,U.S. House,,DEM,Write-ins,0
+Crook,14-14,U.S. House,,DEM,Over Votes,0
+Crook,14-14,U.S. House,,DEM,Under Votes,0
+Crook,14-14,State House,1,REP,Chip Neiman,74
+Crook,14-14,State House,1,REP,Write-ins,3
+Crook,14-14,State House,1,REP,Over Votes,0
+Crook,14-14,State House,1,REP,Under Votes,11
+Crook,14-14,State House,1,DEM,Write-ins,0
+Crook,14-14,Ballots Cast,,REP,Ballots Cast,88
+Crook,14-14,Ballots Cast,,DEM,Ballots Cast,1
+Crook,14-14,Ballots Cast,,NP,Ballots Cast,0
+Crook,14-14,Ballots Cast,,,Ballots Cast,89
+Crook,15-15,U.S. Senate,,REP,John Barrasso,89
+Crook,15-15,U.S. Senate,,REP,John Holtz,7
+Crook,15-15,U.S. Senate,,REP,Reid Rasner,31
+Crook,15-15,U.S. Senate,,REP,Write-ins,0
+Crook,15-15,U.S. Senate,,REP,Over Votes,0
+Crook,15-15,U.S. Senate,,REP,Under Votes,3
+Crook,15-15,U.S. Senate,,DEM,Scott D Morrow,2
+Crook,15-15,U.S. Senate,,DEM,Write-ins,0
+Crook,15-15,U.S. Senate,,DEM,Over Votes,0
+Crook,15-15,U.S. Senate,,DEM,Under Votes,0
+Crook,15-15,U.S. House,,REP,Harriet Hageman,111
+Crook,15-15,U.S. House,,REP,Steven R. Helling,14
+Crook,15-15,U.S. House,,REP,Write-ins,0
+Crook,15-15,U.S. House,,REP,Over Votes,0
+Crook,15-15,U.S. House,,REP,Under Votes,5
+Crook,15-15,U.S. House,,DEM,Kyle G. Cameron,2
+Crook,15-15,U.S. House,,DEM,Write-ins,0
+Crook,15-15,U.S. House,,DEM,Over Votes,0
+Crook,15-15,U.S. House,,DEM,Under Votes,0
+Crook,15-15,State House,1,REP,Chip Neiman,120
+Crook,15-15,State House,1,REP,Write-ins,1
+Crook,15-15,State House,1,REP,Over Votes,0
+Crook,15-15,State House,1,REP,Under Votes,9
+Crook,15-15,State House,1,DEM,Write-ins,0
+Crook,15-15,Ballots Cast,,REP,Ballots Cast,130
+Crook,15-15,Ballots Cast,,DEM,Ballots Cast,2
+Crook,15-15,Ballots Cast,,NP,Ballots Cast,0
+Crook,15-15,Ballots Cast,,,Ballots Cast,132
+Crook,16-16,U.S. Senate,,REP,John Barrasso,93
+Crook,16-16,U.S. Senate,,REP,John Holtz,6
+Crook,16-16,U.S. Senate,,REP,Reid Rasner,60
+Crook,16-16,U.S. Senate,,REP,Write-ins,0
+Crook,16-16,U.S. Senate,,REP,Over Votes,0
+Crook,16-16,U.S. Senate,,REP,Under Votes,2
+Crook,16-16,U.S. Senate,,DEM,Scott D Morrow,0
+Crook,16-16,U.S. Senate,,DEM,Write-ins,0
+Crook,16-16,U.S. Senate,,DEM,Over Votes,0
+Crook,16-16,U.S. Senate,,DEM,Under Votes,0
+Crook,16-16,U.S. House,,REP,Harriet Hageman,143
+Crook,16-16,U.S. House,,REP,Steven R. Helling,16
+Crook,16-16,U.S. House,,REP,Write-ins,0
+Crook,16-16,U.S. House,,REP,Over Votes,1
+Crook,16-16,U.S. House,,REP,Under Votes,1
+Crook,16-16,U.S. House,,DEM,Kyle G. Cameron,0
+Crook,16-16,U.S. House,,DEM,Write-ins,0
+Crook,16-16,U.S. House,,DEM,Over Votes,0
+Crook,16-16,U.S. House,,DEM,Under Votes,0
+Crook,16-16,State House,1,REP,Chip Neiman,147
+Crook,16-16,State House,1,REP,Write-ins,4
+Crook,16-16,State House,1,REP,Over Votes,0
+Crook,16-16,State House,1,REP,Under Votes,10
+Crook,16-16,State House,1,DEM,Write-ins,0
+Crook,16-16,Ballots Cast,,REP,Ballots Cast,161
+Crook,16-16,Ballots Cast,,DEM,Ballots Cast,0
+Crook,16-16,Ballots Cast,,NP,Ballots Cast,0
+Crook,16-16,Ballots Cast,,,Ballots Cast,161
+Crook,18-01,U.S. Senate,,REP,John Barrasso,29
+Crook,18-01,U.S. Senate,,REP,John Holtz,3
+Crook,18-01,U.S. Senate,,REP,Reid Rasner,25
+Crook,18-01,U.S. Senate,,REP,Write-ins,0
+Crook,18-01,U.S. Senate,,REP,Over Votes,0
+Crook,18-01,U.S. Senate,,REP,Under Votes,2
+Crook,18-01,U.S. Senate,,DEM,Scott D Morrow,3
+Crook,18-01,U.S. Senate,,DEM,Write-ins,0
+Crook,18-01,U.S. Senate,,DEM,Over Votes,0
+Crook,18-01,U.S. Senate,,DEM,Under Votes,0
+Crook,18-01,U.S. House,,REP,Harriet Hageman,47
+Crook,18-01,U.S. House,,REP,Steven R. Helling,10
+Crook,18-01,U.S. House,,REP,Write-ins,0
+Crook,18-01,U.S. House,,REP,Over Votes,0
+Crook,18-01,U.S. House,,REP,Under Votes,2
+Crook,18-01,U.S. House,,DEM,Kyle G. Cameron,3
+Crook,18-01,U.S. House,,DEM,Write-ins,0
+Crook,18-01,U.S. House,,DEM,Over Votes,0
+Crook,18-01,U.S. House,,DEM,Under Votes,0
+Crook,18-01,State House,1,REP,Chip Neiman,54
+Crook,18-01,State House,1,REP,Write-ins,3
+Crook,18-01,State House,1,REP,Over Votes,0
+Crook,18-01,State House,1,REP,Under Votes,2
+Crook,18-01,State House,1,DEM,Write-ins,0
+Crook,18-01,Ballots Cast,,REP,Ballots Cast,59
+Crook,18-01,Ballots Cast,,DEM,Ballots Cast,3
+Crook,18-01,Ballots Cast,,NP,Ballots Cast,1
+Crook,18-01,Ballots Cast,,,Ballots Cast,63
+Crook,18-02,U.S. Senate,,REP,John Barrasso,25
+Crook,18-02,U.S. Senate,,REP,John Holtz,3
+Crook,18-02,U.S. Senate,,REP,Reid Rasner,21
+Crook,18-02,U.S. Senate,,REP,Write-ins,0
+Crook,18-02,U.S. Senate,,REP,Over Votes,1
+Crook,18-02,U.S. Senate,,REP,Under Votes,0
+Crook,18-02,U.S. Senate,,DEM,Scott D Morrow,1
+Crook,18-02,U.S. Senate,,DEM,Write-ins,0
+Crook,18-02,U.S. Senate,,DEM,Over Votes,0
+Crook,18-02,U.S. Senate,,DEM,Under Votes,0
+Crook,18-02,U.S. House,,REP,Harriet Hageman,43
+Crook,18-02,U.S. House,,REP,Steven R. Helling,6
+Crook,18-02,U.S. House,,REP,Write-ins,0
+Crook,18-02,U.S. House,,REP,Over Votes,0
+Crook,18-02,U.S. House,,REP,Under Votes,1
+Crook,18-02,U.S. House,,DEM,Kyle G. Cameron,1
+Crook,18-02,U.S. House,,DEM,Write-ins,0
+Crook,18-02,U.S. House,,DEM,Over Votes,0
+Crook,18-02,U.S. House,,DEM,Under Votes,0
+Crook,18-02,State House,1,REP,Chip Neiman,44
+Crook,18-02,State House,1,REP,Write-ins,2
+Crook,18-02,State House,1,REP,Over Votes,0
+Crook,18-02,State House,1,REP,Under Votes,4
+Crook,18-02,State House,1,DEM,Write-ins,0
+Crook,18-02,Ballots Cast,,REP,Ballots Cast,50
+Crook,18-02,Ballots Cast,,DEM,Ballots Cast,1
+Crook,18-02,Ballots Cast,,NP,Ballots Cast,0
+Crook,18-02,Ballots Cast,,,Ballots Cast,51
+Crook,2022-01-01 00:00:00,U.S. Senate,,REP,John Barrasso,113
+Crook,2022-01-01 00:00:00,U.S. Senate,,REP,John Holtz,8
+Crook,2022-01-01 00:00:00,U.S. Senate,,REP,Reid Rasner,44
+Crook,2022-01-01 00:00:00,U.S. Senate,,REP,Write-ins,2
+Crook,2022-01-01 00:00:00,U.S. Senate,,REP,Over Votes,1
+Crook,2022-01-01 00:00:00,U.S. Senate,,REP,Under Votes,1
+Crook,2022-01-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,7
+Crook,2022-01-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Crook,2022-01-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Crook,2022-01-01 00:00:00,U.S. Senate,,DEM,Under Votes,1
+Crook,2022-01-01 00:00:00,U.S. House,,REP,Harriet Hageman,137
+Crook,2022-01-01 00:00:00,U.S. House,,REP,Steven R. Helling,24
+Crook,2022-01-01 00:00:00,U.S. House,,REP,Write-ins,2
+Crook,2022-01-01 00:00:00,U.S. House,,REP,Over Votes,0
+Crook,2022-01-01 00:00:00,U.S. House,,REP,Under Votes,6
+Crook,2022-01-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,8
+Crook,2022-01-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Crook,2022-01-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Crook,2022-01-01 00:00:00,U.S. House,,DEM,Under Votes,0
+Crook,2022-01-01 00:00:00,State House,1,REP,Chip Neiman,142
+Crook,2022-01-01 00:00:00,State House,1,REP,Write-ins,4
+Crook,2022-01-01 00:00:00,State House,1,REP,Over Votes,0
+Crook,2022-01-01 00:00:00,State House,1,REP,Under Votes,23
+Crook,2022-01-01 00:00:00,State House,1,DEM,Write-ins,0
+Crook,2022-01-01 00:00:00,Ballots Cast,,REP,Ballots Cast,169
+Crook,2022-01-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,8
+Crook,2022-01-01 00:00:00,Ballots Cast,,NP,Ballots Cast,5
+Crook,2022-01-01 00:00:00,Ballots Cast,,,Ballots Cast,182
+Crook,2022-01-02 00:00:00,U.S. Senate,,REP,John Barrasso,105
+Crook,2022-01-02 00:00:00,U.S. Senate,,REP,John Holtz,6
+Crook,2022-01-02 00:00:00,U.S. Senate,,REP,Reid Rasner,49
+Crook,2022-01-02 00:00:00,U.S. Senate,,REP,Write-ins,5
+Crook,2022-01-02 00:00:00,U.S. Senate,,REP,Over Votes,0
+Crook,2022-01-02 00:00:00,U.S. Senate,,REP,Under Votes,3
+Crook,2022-01-02 00:00:00,U.S. Senate,,DEM,Scott D Morrow,8
+Crook,2022-01-02 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Crook,2022-01-02 00:00:00,U.S. Senate,,DEM,Over Votes,1
+Crook,2022-01-02 00:00:00,U.S. Senate,,DEM,Under Votes,1
+Crook,2022-01-02 00:00:00,U.S. House,,REP,Harriet Hageman,138
+Crook,2022-01-02 00:00:00,U.S. House,,REP,Steven R. Helling,25
+Crook,2022-01-02 00:00:00,U.S. House,,REP,Write-ins,2
+Crook,2022-01-02 00:00:00,U.S. House,,REP,Over Votes,0
+Crook,2022-01-02 00:00:00,U.S. House,,REP,Under Votes,3
+Crook,2022-01-02 00:00:00,U.S. House,,DEM,Kyle G. Cameron,9
+Crook,2022-01-02 00:00:00,U.S. House,,DEM,Write-ins,0
+Crook,2022-01-02 00:00:00,U.S. House,,DEM,Over Votes,0
+Crook,2022-01-02 00:00:00,U.S. House,,DEM,Under Votes,1
+Crook,2022-01-02 00:00:00,State House,1,REP,Chip Neiman,143
+Crook,2022-01-02 00:00:00,State House,1,REP,Write-ins,9
+Crook,2022-01-02 00:00:00,State House,1,REP,Over Votes,0
+Crook,2022-01-02 00:00:00,State House,1,REP,Under Votes,16
+Crook,2022-01-02 00:00:00,State House,1,DEM,Write-ins,1
+Crook,2022-01-02 00:00:00,Ballots Cast,,REP,Ballots Cast,168
+Crook,2022-01-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,10
+Crook,2022-01-02 00:00:00,Ballots Cast,,NP,Ballots Cast,3
+Crook,2022-01-02 00:00:00,Ballots Cast,,,Ballots Cast,181
+Crook,2022-02-02 00:00:00,U.S. Senate,,REP,John Barrasso,158
+Crook,2022-02-02 00:00:00,U.S. Senate,,REP,John Holtz,16
+Crook,2022-02-02 00:00:00,U.S. Senate,,REP,Reid Rasner,91
+Crook,2022-02-02 00:00:00,U.S. Senate,,REP,Write-ins,1
+Crook,2022-02-02 00:00:00,U.S. Senate,,REP,Over Votes,1
+Crook,2022-02-02 00:00:00,U.S. Senate,,REP,Under Votes,4
+Crook,2022-02-02 00:00:00,U.S. Senate,,DEM,Scott D Morrow,4
+Crook,2022-02-02 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Crook,2022-02-02 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Crook,2022-02-02 00:00:00,U.S. Senate,,DEM,Under Votes,1
+Crook,2022-02-02 00:00:00,U.S. House,,REP,Harriet Hageman,236
+Crook,2022-02-02 00:00:00,U.S. House,,REP,Steven R. Helling,26
+Crook,2022-02-02 00:00:00,U.S. House,,REP,Write-ins,4
+Crook,2022-02-02 00:00:00,U.S. House,,REP,Over Votes,0
+Crook,2022-02-02 00:00:00,U.S. House,,REP,Under Votes,5
+Crook,2022-02-02 00:00:00,U.S. House,,DEM,Kyle G. Cameron,3
+Crook,2022-02-02 00:00:00,U.S. House,,DEM,Write-ins,0
+Crook,2022-02-02 00:00:00,U.S. House,,DEM,Over Votes,0
+Crook,2022-02-02 00:00:00,U.S. House,,DEM,Under Votes,2
+Crook,2022-02-02 00:00:00,State House,1,REP,Chip Neiman,232
+Crook,2022-02-02 00:00:00,State House,1,REP,Write-ins,4
+Crook,2022-02-02 00:00:00,State House,1,REP,Over Votes,0
+Crook,2022-02-02 00:00:00,State House,1,REP,Under Votes,35
+Crook,2022-02-02 00:00:00,State House,1,DEM,Write-ins,0
+Crook,2022-02-02 00:00:00,Ballots Cast,,REP,Ballots Cast,271
+Crook,2022-02-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,5
+Crook,2022-02-02 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Crook,2022-02-02 00:00:00,Ballots Cast,,,Ballots Cast,276
+Crook,2022-03-03 00:00:00,U.S. Senate,,REP,John Barrasso,50
+Crook,2022-03-03 00:00:00,U.S. Senate,,REP,John Holtz,10
+Crook,2022-03-03 00:00:00,U.S. Senate,,REP,Reid Rasner,22
+Crook,2022-03-03 00:00:00,U.S. Senate,,REP,Write-ins,1
+Crook,2022-03-03 00:00:00,U.S. Senate,,REP,Over Votes,0
+Crook,2022-03-03 00:00:00,U.S. Senate,,REP,Under Votes,1
+Crook,2022-03-03 00:00:00,U.S. Senate,,DEM,Scott D Morrow,3
+Crook,2022-03-03 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Crook,2022-03-03 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Crook,2022-03-03 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Crook,2022-03-03 00:00:00,U.S. House,,REP,Harriet Hageman,66
+Crook,2022-03-03 00:00:00,U.S. House,,REP,Steven R. Helling,16
+Crook,2022-03-03 00:00:00,U.S. House,,REP,Write-ins,0
+Crook,2022-03-03 00:00:00,U.S. House,,REP,Over Votes,0
+Crook,2022-03-03 00:00:00,U.S. House,,REP,Under Votes,2
+Crook,2022-03-03 00:00:00,U.S. House,,DEM,Kyle G. Cameron,3
+Crook,2022-03-03 00:00:00,U.S. House,,DEM,Write-ins,0
+Crook,2022-03-03 00:00:00,U.S. House,,DEM,Over Votes,0
+Crook,2022-03-03 00:00:00,U.S. House,,DEM,Under Votes,0
+Crook,2022-03-03 00:00:00,State House,1,REP,Chip Neiman,73
+Crook,2022-03-03 00:00:00,State House,1,REP,Write-ins,3
+Crook,2022-03-03 00:00:00,State House,1,REP,Over Votes,0
+Crook,2022-03-03 00:00:00,State House,1,REP,Under Votes,8
+Crook,2022-03-03 00:00:00,State House,1,DEM,Write-ins,0
+Crook,2022-03-03 00:00:00,Ballots Cast,,REP,Ballots Cast,84
+Crook,2022-03-03 00:00:00,Ballots Cast,,DEM,Ballots Cast,3
+Crook,2022-03-03 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Crook,2022-03-03 00:00:00,Ballots Cast,,,Ballots Cast,87
+Crook,2022-07-07 00:00:00,U.S. Senate,,REP,John Barrasso,57
+Crook,2022-07-07 00:00:00,U.S. Senate,,REP,John Holtz,4
+Crook,2022-07-07 00:00:00,U.S. Senate,,REP,Reid Rasner,33
+Crook,2022-07-07 00:00:00,U.S. Senate,,REP,Write-ins,1
+Crook,2022-07-07 00:00:00,U.S. Senate,,REP,Over Votes,0
+Crook,2022-07-07 00:00:00,U.S. Senate,,REP,Under Votes,3
+Crook,2022-07-07 00:00:00,U.S. Senate,,DEM,Scott D Morrow,1
+Crook,2022-07-07 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Crook,2022-07-07 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Crook,2022-07-07 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Crook,2022-07-07 00:00:00,U.S. House,,REP,Harriet Hageman,88
+Crook,2022-07-07 00:00:00,U.S. House,,REP,Steven R. Helling,7
+Crook,2022-07-07 00:00:00,U.S. House,,REP,Write-ins,1
+Crook,2022-07-07 00:00:00,U.S. House,,REP,Over Votes,0
+Crook,2022-07-07 00:00:00,U.S. House,,REP,Under Votes,2
+Crook,2022-07-07 00:00:00,U.S. House,,DEM,Kyle G. Cameron,1
+Crook,2022-07-07 00:00:00,U.S. House,,DEM,Write-ins,0
+Crook,2022-07-07 00:00:00,U.S. House,,DEM,Over Votes,0
+Crook,2022-07-07 00:00:00,U.S. House,,DEM,Under Votes,0
+Crook,2022-07-07 00:00:00,State House,1,REP,Chip Neiman,83
+Crook,2022-07-07 00:00:00,State House,1,REP,Write-ins,0
+Crook,2022-07-07 00:00:00,State House,1,REP,Over Votes,0
+Crook,2022-07-07 00:00:00,State House,1,REP,Under Votes,15
+Crook,2022-07-07 00:00:00,State House,1,DEM,Write-ins,0
+Crook,2022-07-07 00:00:00,Ballots Cast,,REP,Ballots Cast,98
+Crook,2022-07-07 00:00:00,Ballots Cast,,DEM,Ballots Cast,1
+Crook,2022-07-07 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Crook,2022-07-07 00:00:00,Ballots Cast,,,Ballots Cast,99
+Crook,2022-09-09 00:00:00,U.S. Senate,,REP,John Barrasso,30
+Crook,2022-09-09 00:00:00,U.S. Senate,,REP,John Holtz,4
+Crook,2022-09-09 00:00:00,U.S. Senate,,REP,Reid Rasner,11
+Crook,2022-09-09 00:00:00,U.S. Senate,,REP,Write-ins,0
+Crook,2022-09-09 00:00:00,U.S. Senate,,REP,Over Votes,0
+Crook,2022-09-09 00:00:00,U.S. Senate,,REP,Under Votes,0
+Crook,2022-09-09 00:00:00,U.S. Senate,,DEM,Scott D Morrow,0
+Crook,2022-09-09 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Crook,2022-09-09 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Crook,2022-09-09 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Crook,2022-09-09 00:00:00,U.S. House,,REP,Harriet Hageman,43
+Crook,2022-09-09 00:00:00,U.S. House,,REP,Steven R. Helling,2
+Crook,2022-09-09 00:00:00,U.S. House,,REP,Write-ins,0
+Crook,2022-09-09 00:00:00,U.S. House,,REP,Over Votes,0
+Crook,2022-09-09 00:00:00,U.S. House,,REP,Under Votes,0
+Crook,2022-09-09 00:00:00,U.S. House,,DEM,Kyle G. Cameron,0
+Crook,2022-09-09 00:00:00,U.S. House,,DEM,Write-ins,0
+Crook,2022-09-09 00:00:00,U.S. House,,DEM,Over Votes,0
+Crook,2022-09-09 00:00:00,U.S. House,,DEM,Under Votes,0
+Crook,2022-09-09 00:00:00,State House,1,REP,Chip Neiman,42
+Crook,2022-09-09 00:00:00,State House,1,REP,Write-ins,0
+Crook,2022-09-09 00:00:00,State House,1,REP,Over Votes,0
+Crook,2022-09-09 00:00:00,State House,1,REP,Under Votes,3
+Crook,2022-09-09 00:00:00,State House,1,DEM,Write-ins,0
+Crook,2022-09-09 00:00:00,Ballots Cast,,REP,Ballots Cast,45
+Crook,2022-09-09 00:00:00,Ballots Cast,,DEM,Ballots Cast,0
+Crook,2022-09-09 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Crook,2022-09-09 00:00:00,Ballots Cast,,,Ballots Cast,45
+Crook,2022-11-11 00:00:00,U.S. Senate,,REP,John Barrasso,91
+Crook,2022-11-11 00:00:00,U.S. Senate,,REP,John Holtz,8
+Crook,2022-11-11 00:00:00,U.S. Senate,,REP,Reid Rasner,26
+Crook,2022-11-11 00:00:00,U.S. Senate,,REP,Write-ins,0
+Crook,2022-11-11 00:00:00,U.S. Senate,,REP,Over Votes,0
+Crook,2022-11-11 00:00:00,U.S. Senate,,REP,Under Votes,3
+Crook,2022-11-11 00:00:00,U.S. Senate,,DEM,Scott D Morrow,4
+Crook,2022-11-11 00:00:00,U.S. Senate,,DEM,Write-ins,1
+Crook,2022-11-11 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Crook,2022-11-11 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Crook,2022-11-11 00:00:00,U.S. House,,REP,Harriet Hageman,116
+Crook,2022-11-11 00:00:00,U.S. House,,REP,Steven R. Helling,9
+Crook,2022-11-11 00:00:00,U.S. House,,REP,Write-ins,1
+Crook,2022-11-11 00:00:00,U.S. House,,REP,Over Votes,0
+Crook,2022-11-11 00:00:00,U.S. House,,REP,Under Votes,2
+Crook,2022-11-11 00:00:00,U.S. House,,DEM,Kyle G. Cameron,4
+Crook,2022-11-11 00:00:00,U.S. House,,DEM,Write-ins,1
+Crook,2022-11-11 00:00:00,U.S. House,,DEM,Over Votes,0
+Crook,2022-11-11 00:00:00,U.S. House,,DEM,Under Votes,0
+Crook,2022-11-11 00:00:00,State House,1,REP,Chip Neiman,106
+Crook,2022-11-11 00:00:00,State House,1,REP,Write-ins,5
+Crook,2022-11-11 00:00:00,State House,1,REP,Over Votes,0
+Crook,2022-11-11 00:00:00,State House,1,REP,Under Votes,17
+Crook,2022-11-11 00:00:00,State House,1,DEM,Write-ins,1
+Crook,2022-11-11 00:00:00,Ballots Cast,,REP,Ballots Cast,128
+Crook,2022-11-11 00:00:00,Ballots Cast,,DEM,Ballots Cast,5
+Crook,2022-11-11 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Crook,2022-11-11 00:00:00,Ballots Cast,,,Ballots Cast,133
+Crook,2022-12-12 00:00:00,U.S. Senate,,REP,John Barrasso,88
+Crook,2022-12-12 00:00:00,U.S. Senate,,REP,John Holtz,9
+Crook,2022-12-12 00:00:00,U.S. Senate,,REP,Reid Rasner,49
+Crook,2022-12-12 00:00:00,U.S. Senate,,REP,Write-ins,0
+Crook,2022-12-12 00:00:00,U.S. Senate,,REP,Over Votes,0
+Crook,2022-12-12 00:00:00,U.S. Senate,,REP,Under Votes,4
+Crook,2022-12-12 00:00:00,U.S. Senate,,DEM,Scott D Morrow,3
+Crook,2022-12-12 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Crook,2022-12-12 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Crook,2022-12-12 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Crook,2022-12-12 00:00:00,U.S. House,,REP,Harriet Hageman,138
+Crook,2022-12-12 00:00:00,U.S. House,,REP,Steven R. Helling,11
+Crook,2022-12-12 00:00:00,U.S. House,,REP,Write-ins,1
+Crook,2022-12-12 00:00:00,U.S. House,,REP,Over Votes,0
+Crook,2022-12-12 00:00:00,U.S. House,,REP,Under Votes,0
+Crook,2022-12-12 00:00:00,U.S. House,,DEM,Kyle G. Cameron,3
+Crook,2022-12-12 00:00:00,U.S. House,,DEM,Write-ins,0
+Crook,2022-12-12 00:00:00,U.S. House,,DEM,Over Votes,0
+Crook,2022-12-12 00:00:00,U.S. House,,DEM,Under Votes,0
+Crook,2022-12-12 00:00:00,State House,1,REP,Chip Neiman,143
+Crook,2022-12-12 00:00:00,State House,1,REP,Write-ins,4
+Crook,2022-12-12 00:00:00,State House,1,REP,Over Votes,0
+Crook,2022-12-12 00:00:00,State House,1,REP,Under Votes,3
+Crook,2022-12-12 00:00:00,State House,1,DEM,Write-ins,0
+Crook,2022-12-12 00:00:00,Ballots Cast,,REP,Ballots Cast,150
+Crook,2022-12-12 00:00:00,Ballots Cast,,DEM,Ballots Cast,3
+Crook,2022-12-12 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Crook,2022-12-12 00:00:00,Ballots Cast,,,Ballots Cast,153
+Crook,23-23,U.S. Senate,,REP,John Barrasso,17
+Crook,23-23,U.S. Senate,,REP,John Holtz,2
+Crook,23-23,U.S. Senate,,REP,Reid Rasner,6
+Crook,23-23,U.S. Senate,,REP,Write-ins,0
+Crook,23-23,U.S. Senate,,REP,Over Votes,0
+Crook,23-23,U.S. Senate,,REP,Under Votes,1
+Crook,23-23,U.S. Senate,,DEM,Scott D Morrow,0
+Crook,23-23,U.S. Senate,,DEM,Write-ins,0
+Crook,23-23,U.S. Senate,,DEM,Over Votes,0
+Crook,23-23,U.S. Senate,,DEM,Under Votes,0
+Crook,23-23,U.S. House,,REP,Harriet Hageman,23
+Crook,23-23,U.S. House,,REP,Steven R. Helling,2
+Crook,23-23,U.S. House,,REP,Write-ins,0
+Crook,23-23,U.S. House,,REP,Over Votes,0
+Crook,23-23,U.S. House,,REP,Under Votes,1
+Crook,23-23,U.S. House,,DEM,Kyle G. Cameron,0
+Crook,23-23,U.S. House,,DEM,Write-ins,0
+Crook,23-23,U.S. House,,DEM,Over Votes,0
+Crook,23-23,U.S. House,,DEM,Under Votes,0
+Crook,23-23,State House,1,REP,Chip Neiman,23
+Crook,23-23,State House,1,REP,Write-ins,0
+Crook,23-23,State House,1,REP,Over Votes,0
+Crook,23-23,State House,1,REP,Under Votes,3
+Crook,23-23,State House,1,DEM,Write-ins,0
+Crook,23-23,Ballots Cast,,REP,Ballots Cast,26
+Crook,23-23,Ballots Cast,,DEM,Ballots Cast,0
+Crook,23-23,Ballots Cast,,NP,Ballots Cast,0
+Crook,23-23,Ballots Cast,,,Ballots Cast,26
+Crook,24-24,U.S. Senate,,REP,John Barrasso,19
+Crook,24-24,U.S. Senate,,REP,John Holtz,3
+Crook,24-24,U.S. Senate,,REP,Reid Rasner,5
+Crook,24-24,U.S. Senate,,REP,Write-ins,0
+Crook,24-24,U.S. Senate,,REP,Over Votes,0
+Crook,24-24,U.S. Senate,,REP,Under Votes,1
+Crook,24-24,U.S. Senate,,DEM,Scott D Morrow,1
+Crook,24-24,U.S. Senate,,DEM,Write-ins,0
+Crook,24-24,U.S. Senate,,DEM,Over Votes,0
+Crook,24-24,U.S. Senate,,DEM,Under Votes,0
+Crook,24-24,U.S. House,,REP,Harriet Hageman,27
+Crook,24-24,U.S. House,,REP,Steven R. Helling,1
+Crook,24-24,U.S. House,,REP,Write-ins,0
+Crook,24-24,U.S. House,,REP,Over Votes,0
+Crook,24-24,U.S. House,,REP,Under Votes,0
+Crook,24-24,U.S. House,,DEM,Kyle G. Cameron,1
+Crook,24-24,U.S. House,,DEM,Write-ins,0
+Crook,24-24,U.S. House,,DEM,Over Votes,0
+Crook,24-24,U.S. House,,DEM,Under Votes,0
+Crook,24-24,State House,1,REP,Chip Neiman,28
+Crook,24-24,State House,1,REP,Write-ins,0
+Crook,24-24,State House,1,REP,Over Votes,0
+Crook,24-24,State House,1,REP,Under Votes,0
+Crook,24-24,State House,1,DEM,Write-ins,1
+Crook,24-24,Ballots Cast,,REP,Ballots Cast,28
+Crook,24-24,Ballots Cast,,DEM,Ballots Cast,1
+Crook,24-24,Ballots Cast,,NP,Ballots Cast,0
+Crook,24-24,Ballots Cast,,,Ballots Cast,29
+Crook,26-26,U.S. Senate,,REP,John Barrasso,28
+Crook,26-26,U.S. Senate,,REP,John Holtz,3
+Crook,26-26,U.S. Senate,,REP,Reid Rasner,10
+Crook,26-26,U.S. Senate,,REP,Write-ins,0
+Crook,26-26,U.S. Senate,,REP,Over Votes,0
+Crook,26-26,U.S. Senate,,REP,Under Votes,1
+Crook,26-26,U.S. Senate,,DEM,Scott D Morrow,1
+Crook,26-26,U.S. Senate,,DEM,Write-ins,0
+Crook,26-26,U.S. Senate,,DEM,Over Votes,0
+Crook,26-26,U.S. Senate,,DEM,Under Votes,0
+Crook,26-26,U.S. House,,REP,Harriet Hageman,32
+Crook,26-26,U.S. House,,REP,Steven R. Helling,6
+Crook,26-26,U.S. House,,REP,Write-ins,1
+Crook,26-26,U.S. House,,REP,Over Votes,0
+Crook,26-26,U.S. House,,REP,Under Votes,3
+Crook,26-26,U.S. House,,DEM,Kyle G. Cameron,1
+Crook,26-26,U.S. House,,DEM,Write-ins,0
+Crook,26-26,U.S. House,,DEM,Over Votes,0
+Crook,26-26,U.S. House,,DEM,Under Votes,0
+Crook,26-26,State House,1,REP,Chip Neiman,37
+Crook,26-26,State House,1,REP,Write-ins,1
+Crook,26-26,State House,1,REP,Over Votes,0
+Crook,26-26,State House,1,REP,Under Votes,4
+Crook,26-26,State House,1,DEM,Write-ins,0
+Crook,26-26,Ballots Cast,,REP,Ballots Cast,42
+Crook,26-26,Ballots Cast,,DEM,Ballots Cast,1
+Crook,26-26,Ballots Cast,,NP,Ballots Cast,0
+Crook,26-26,Ballots Cast,,,Ballots Cast,43

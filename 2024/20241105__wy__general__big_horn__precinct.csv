@@ -1,0 +1,501 @@
+county,precinct,office,district,party,candidate,votes
+Big Horn,01-01,President,,REP,Donald J. Trump,705
+Big Horn,01-01,President,,DEM,Kamala D. Harris,105
+Big Horn,01-01,President,,LIB,Chase Oliver,11
+Big Horn,01-01,President,,,Write-ins,11
+Big Horn,01-01,President,,,Over Votes,1
+Big Horn,01-01,President,,,Under Votes,7
+Big Horn,01-01,U.S. Senate,,REP,John Barrasso,703
+Big Horn,01-01,U.S. Senate,,DEM,Scott D Morrow,106
+Big Horn,01-01,U.S. Senate,,,Write-ins,11
+Big Horn,01-01,U.S. Senate,,,Over Votes,0
+Big Horn,01-01,U.S. Senate,,,Under Votes,20
+Big Horn,01-01,U.S. House,,REP,Harriet Hageman,663
+Big Horn,01-01,U.S. House,,DEM,Kyle G. Cameron,86
+Big Horn,01-01,U.S. House,,LIB,Richard Brubaker,28
+Big Horn,01-01,U.S. House,,CTRY,Jeffrey Haggit,32
+Big Horn,01-01,U.S. House,,,Write-ins,3
+Big Horn,01-01,U.S. House,,,Over Votes,12
+Big Horn,01-01,U.S. House,,,Under Votes,16
+Big Horn,01-01,State Senate,20,REP,Ed Cooper,733
+Big Horn,01-01,State Senate,20,,Write-ins,24
+Big Horn,01-01,State Senate,20,,Over Votes,0
+Big Horn,01-01,State Senate,20,,Under Votes,83
+Big Horn,01-01,State House,27,REP,Martha Lawley,310
+Big Horn,01-01,State House,27,,Write-ins,9
+Big Horn,01-01,State House,27,,Over Votes,0
+Big Horn,01-01,State House,27,,Under Votes,46
+Big Horn,01-01,State House,28,REP,John R. Winter,405
+Big Horn,01-01,State House,28,DEM,Larry Alwin,56
+Big Horn,01-01,State House,28,,Write-ins,0
+Big Horn,01-01,State House,28,,Over Votes,2
+Big Horn,01-01,State House,28,,Under Votes,12
+Big Horn,01-01,Ballots Cast,,,Ballots Cast,840
+Big Horn,01-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,01-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,108
+Big Horn,01-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,01-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,115
+Big Horn,01-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,01-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,91
+Big Horn,01-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,01-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,102
+Big Horn,01-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,01-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,119
+Big Horn,01-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,01-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,122
+Big Horn,02-01,President,,REP,Donald J. Trump,301
+Big Horn,02-01,President,,DEM,Kamala D. Harris,21
+Big Horn,02-01,President,,LIB,Chase Oliver,7
+Big Horn,02-01,President,,,Write-ins,4
+Big Horn,02-01,President,,,Over Votes,0
+Big Horn,02-01,President,,,Under Votes,4
+Big Horn,02-01,U.S. Senate,,REP,John Barrasso,306
+Big Horn,02-01,U.S. Senate,,DEM,Scott D Morrow,24
+Big Horn,02-01,U.S. Senate,,,Write-ins,2
+Big Horn,02-01,U.S. Senate,,,Over Votes,0
+Big Horn,02-01,U.S. Senate,,,Under Votes,5
+Big Horn,02-01,U.S. House,,REP,Harriet Hageman,302
+Big Horn,02-01,U.S. House,,DEM,Kyle G. Cameron,18
+Big Horn,02-01,U.S. House,,LIB,Richard Brubaker,2
+Big Horn,02-01,U.S. House,,CTRY,Jeffrey Haggit,7
+Big Horn,02-01,U.S. House,,,Write-ins,0
+Big Horn,02-01,U.S. House,,,Over Votes,1
+Big Horn,02-01,U.S. House,,,Under Votes,7
+Big Horn,02-01,State Senate,20,REP,Ed Cooper,311
+Big Horn,02-01,State Senate,20,,Write-ins,3
+Big Horn,02-01,State Senate,20,,Over Votes,0
+Big Horn,02-01,State Senate,20,,Under Votes,23
+Big Horn,02-01,State House,28,REP,John R. Winter,308
+Big Horn,02-01,State House,28,DEM,Larry Alwin,21
+Big Horn,02-01,State House,28,,Write-ins,0
+Big Horn,02-01,State House,28,,Over Votes,0
+Big Horn,02-01,State House,28,,Under Votes,8
+Big Horn,02-01,Ballots Cast,,,Ballots Cast,337
+Big Horn,02-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,02-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,78
+Big Horn,02-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,02-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,73
+Big Horn,02-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,02-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,29
+Big Horn,02-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,02-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,70
+Big Horn,02-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,02-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,71
+Big Horn,02-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,02-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,75
+Big Horn,03-01,President,,REP,Donald J. Trump,105
+Big Horn,03-01,President,,DEM,Kamala D. Harris,10
+Big Horn,03-01,President,,LIB,Chase Oliver,0
+Big Horn,03-01,President,,,Write-ins,2
+Big Horn,03-01,President,,,Over Votes,0
+Big Horn,03-01,President,,,Under Votes,2
+Big Horn,03-01,U.S. Senate,,REP,John Barrasso,114
+Big Horn,03-01,U.S. Senate,,DEM,Scott D Morrow,3
+Big Horn,03-01,U.S. Senate,,,Write-ins,0
+Big Horn,03-01,U.S. Senate,,,Over Votes,1
+Big Horn,03-01,U.S. Senate,,,Under Votes,1
+Big Horn,03-01,U.S. House,,REP,Harriet Hageman,112
+Big Horn,03-01,U.S. House,,DEM,Kyle G. Cameron,4
+Big Horn,03-01,U.S. House,,LIB,Richard Brubaker,1
+Big Horn,03-01,U.S. House,,CTRY,Jeffrey Haggit,2
+Big Horn,03-01,U.S. House,,,Write-ins,0
+Big Horn,03-01,U.S. House,,,Over Votes,0
+Big Horn,03-01,U.S. House,,,Under Votes,0
+Big Horn,03-01,State Senate,20,REP,Ed Cooper,105
+Big Horn,03-01,State Senate,20,,Write-ins,7
+Big Horn,03-01,State Senate,20,,Over Votes,0
+Big Horn,03-01,State Senate,20,,Under Votes,7
+Big Horn,03-01,State House,28,REP,John R. Winter,112
+Big Horn,03-01,State House,28,DEM,Larry Alwin,6
+Big Horn,03-01,State House,28,,Write-ins,0
+Big Horn,03-01,State House,28,,Over Votes,0
+Big Horn,03-01,State House,28,,Under Votes,1
+Big Horn,03-01,Ballots Cast,,,Ballots Cast,119
+Big Horn,03-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,03-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,17
+Big Horn,03-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,03-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,17
+Big Horn,03-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,03-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,5
+Big Horn,03-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,03-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,12
+Big Horn,03-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,03-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,15
+Big Horn,03-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,03-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,18
+Big Horn,05-01,President,,REP,Donald J. Trump,70
+Big Horn,05-01,President,,DEM,Kamala D. Harris,2
+Big Horn,05-01,President,,LIB,Chase Oliver,1
+Big Horn,05-01,President,,,Write-ins,0
+Big Horn,05-01,President,,,Over Votes,0
+Big Horn,05-01,President,,,Under Votes,1
+Big Horn,05-01,U.S. Senate,,REP,John Barrasso,64
+Big Horn,05-01,U.S. Senate,,DEM,Scott D Morrow,5
+Big Horn,05-01,U.S. Senate,,,Write-ins,3
+Big Horn,05-01,U.S. Senate,,,Over Votes,0
+Big Horn,05-01,U.S. Senate,,,Under Votes,2
+Big Horn,05-01,U.S. House,,REP,Harriet Hageman,67
+Big Horn,05-01,U.S. House,,DEM,Kyle G. Cameron,4
+Big Horn,05-01,U.S. House,,LIB,Richard Brubaker,1
+Big Horn,05-01,U.S. House,,CTRY,Jeffrey Haggit,0
+Big Horn,05-01,U.S. House,,,Write-ins,1
+Big Horn,05-01,U.S. House,,,Over Votes,0
+Big Horn,05-01,U.S. House,,,Under Votes,1
+Big Horn,05-01,State Senate,20,REP,Ed Cooper,64
+Big Horn,05-01,State Senate,20,,Write-ins,1
+Big Horn,05-01,State Senate,20,,Over Votes,0
+Big Horn,05-01,State Senate,20,,Under Votes,5
+Big Horn,05-01,State House,26,REP,Dalton Banks,4
+Big Horn,05-01,State House,26,,Write-ins,0
+Big Horn,05-01,State House,26,,Over Votes,0
+Big Horn,05-01,State House,26,,Under Votes,0
+Big Horn,05-01,State House,28,REP,John R. Winter,64
+Big Horn,05-01,State House,28,DEM,Larry Alwin,2
+Big Horn,05-01,State House,28,,Write-ins,0
+Big Horn,05-01,State House,28,,Over Votes,1
+Big Horn,05-01,State House,28,,Under Votes,3
+Big Horn,05-01,Ballots Cast,,,Ballots Cast,74
+Big Horn,05-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,05-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,17
+Big Horn,05-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,05-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,15
+Big Horn,05-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,05-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,9
+Big Horn,05-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,05-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,16
+Big Horn,05-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,05-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,17
+Big Horn,05-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,05-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,17
+Big Horn,06-01,President,,REP,Donald J. Trump,106
+Big Horn,06-01,President,,DEM,Kamala D. Harris,13
+Big Horn,06-01,President,,LIB,Chase Oliver,1
+Big Horn,06-01,President,,,Write-ins,1
+Big Horn,06-01,President,,,Over Votes,0
+Big Horn,06-01,President,,,Under Votes,1
+Big Horn,06-01,U.S. Senate,,REP,John Barrasso,106
+Big Horn,06-01,U.S. Senate,,DEM,Scott D Morrow,10
+Big Horn,06-01,U.S. Senate,,,Write-ins,0
+Big Horn,06-01,U.S. Senate,,,Over Votes,0
+Big Horn,06-01,U.S. Senate,,,Under Votes,6
+Big Horn,06-01,U.S. House,,REP,Harriet Hageman,103
+Big Horn,06-01,U.S. House,,DEM,Kyle G. Cameron,8
+Big Horn,06-01,U.S. House,,LIB,Richard Brubaker,4
+Big Horn,06-01,U.S. House,,CTRY,Jeffrey Haggit,4
+Big Horn,06-01,U.S. House,,,Write-ins,0
+Big Horn,06-01,U.S. House,,,Over Votes,0
+Big Horn,06-01,U.S. House,,,Under Votes,3
+Big Horn,06-01,State Senate,20,REP,Ed Cooper,101
+Big Horn,06-01,State Senate,20,,Write-ins,3
+Big Horn,06-01,State Senate,20,,Over Votes,0
+Big Horn,06-01,State Senate,20,,Under Votes,18
+Big Horn,06-01,State House,27,REP,Martha Lawley,108
+Big Horn,06-01,State House,27,,Write-ins,2
+Big Horn,06-01,State House,27,,Over Votes,0
+Big Horn,06-01,State House,27,,Under Votes,12
+Big Horn,06-01,Ballots Cast,,,Ballots Cast,122
+Big Horn,06-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,06-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,19
+Big Horn,06-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,06-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,19
+Big Horn,06-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,06-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,21
+Big Horn,06-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,06-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,17
+Big Horn,06-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,06-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,21
+Big Horn,06-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,06-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,20
+Big Horn,08-01,President,,REP,Donald J. Trump,133
+Big Horn,08-01,President,,DEM,Kamala D. Harris,13
+Big Horn,08-01,President,,LIB,Chase Oliver,1
+Big Horn,08-01,President,,,Write-ins,1
+Big Horn,08-01,President,,,Over Votes,0
+Big Horn,08-01,President,,,Under Votes,2
+Big Horn,08-01,U.S. Senate,,REP,John Barrasso,132
+Big Horn,08-01,U.S. Senate,,DEM,Scott D Morrow,14
+Big Horn,08-01,U.S. Senate,,,Write-ins,1
+Big Horn,08-01,U.S. Senate,,,Over Votes,0
+Big Horn,08-01,U.S. Senate,,,Under Votes,3
+Big Horn,08-01,U.S. House,,REP,Harriet Hageman,125
+Big Horn,08-01,U.S. House,,DEM,Kyle G. Cameron,13
+Big Horn,08-01,U.S. House,,LIB,Richard Brubaker,5
+Big Horn,08-01,U.S. House,,CTRY,Jeffrey Haggit,4
+Big Horn,08-01,U.S. House,,,Write-ins,0
+Big Horn,08-01,U.S. House,,,Over Votes,1
+Big Horn,08-01,U.S. House,,,Under Votes,2
+Big Horn,08-01,State Senate,20,REP,Ed Cooper,130
+Big Horn,08-01,State Senate,20,,Write-ins,3
+Big Horn,08-01,State Senate,20,,Over Votes,0
+Big Horn,08-01,State Senate,20,,Under Votes,17
+Big Horn,08-01,State House,27,REP,Martha Lawley,121
+Big Horn,08-01,State House,27,,Write-ins,1
+Big Horn,08-01,State House,27,,Over Votes,0
+Big Horn,08-01,State House,27,,Under Votes,28
+Big Horn,08-01,Ballots Cast,,,Ballots Cast,150
+Big Horn,08-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,1
+Big Horn,08-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,23
+Big Horn,08-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,08-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,26
+Big Horn,08-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,08-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,18
+Big Horn,08-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,08-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,24
+Big Horn,08-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,08-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,26
+Big Horn,08-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,08-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,26
+Big Horn,11-01,President,,REP,Donald J. Trump,857
+Big Horn,11-01,President,,DEM,Kamala D. Harris,235
+Big Horn,11-01,President,,LIB,Chase Oliver,19
+Big Horn,11-01,President,,,Write-ins,5
+Big Horn,11-01,President,,,Over Votes,0
+Big Horn,11-01,President,,,Under Votes,6
+Big Horn,11-01,U.S. Senate,,REP,John Barrasso,890
+Big Horn,11-01,U.S. Senate,,DEM,Scott D Morrow,206
+Big Horn,11-01,U.S. Senate,,,Write-ins,5
+Big Horn,11-01,U.S. Senate,,,Over Votes,2
+Big Horn,11-01,U.S. Senate,,,Under Votes,19
+Big Horn,11-01,U.S. House,,REP,Harriet Hageman,819
+Big Horn,11-01,U.S. House,,DEM,Kyle G. Cameron,203
+Big Horn,11-01,U.S. House,,LIB,Richard Brubaker,31
+Big Horn,11-01,U.S. House,,CTRY,Jeffrey Haggit,31
+Big Horn,11-01,U.S. House,,,Write-ins,5
+Big Horn,11-01,U.S. House,,,Over Votes,11
+Big Horn,11-01,U.S. House,,,Under Votes,22
+Big Horn,11-01,State Senate,20,REP,Ed Cooper,31
+Big Horn,11-01,State Senate,20,,Write-ins,2
+Big Horn,11-01,State Senate,20,,Over Votes,0
+Big Horn,11-01,State Senate,20,,Under Votes,1
+Big Horn,11-01,State House,26,REP,Dalton Banks,895
+Big Horn,11-01,State House,26,,Write-ins,24
+Big Horn,11-01,State House,26,,Over Votes,1
+Big Horn,11-01,State House,26,,Under Votes,168
+Big Horn,11-01,State House,28,REP,John R. Winter,31
+Big Horn,11-01,State House,28,DEM,Larry Alwin,0
+Big Horn,11-01,State House,28,,Write-ins,0
+Big Horn,11-01,State House,28,,Over Votes,0
+Big Horn,11-01,State House,28,,Under Votes,3
+Big Horn,11-01,Ballots Cast,,,Ballots Cast,1122
+Big Horn,11-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,11-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,148
+Big Horn,11-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,11-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,156
+Big Horn,11-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,11-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,89
+Big Horn,11-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,11-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,121
+Big Horn,11-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,11-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,145
+Big Horn,11-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,11-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,153
+Big Horn,16-01,President,,REP,Donald J. Trump,214
+Big Horn,16-01,President,,DEM,Kamala D. Harris,57
+Big Horn,16-01,President,,LIB,Chase Oliver,3
+Big Horn,16-01,President,,,Write-ins,0
+Big Horn,16-01,President,,,Over Votes,0
+Big Horn,16-01,President,,,Under Votes,5
+Big Horn,16-01,U.S. Senate,,REP,John Barrasso,221
+Big Horn,16-01,U.S. Senate,,DEM,Scott D Morrow,53
+Big Horn,16-01,U.S. Senate,,,Write-ins,1
+Big Horn,16-01,U.S. Senate,,,Over Votes,0
+Big Horn,16-01,U.S. Senate,,,Under Votes,4
+Big Horn,16-01,U.S. House,,REP,Harriet Hageman,208
+Big Horn,16-01,U.S. House,,DEM,Kyle G. Cameron,54
+Big Horn,16-01,U.S. House,,LIB,Richard Brubaker,8
+Big Horn,16-01,U.S. House,,CTRY,Jeffrey Haggit,4
+Big Horn,16-01,U.S. House,,,Write-ins,0
+Big Horn,16-01,U.S. House,,,Over Votes,1
+Big Horn,16-01,U.S. House,,,Under Votes,4
+Big Horn,16-01,State House,26,REP,Dalton Banks,233
+Big Horn,16-01,State House,26,,Write-ins,11
+Big Horn,16-01,State House,26,,Over Votes,0
+Big Horn,16-01,State House,26,,Under Votes,35
+Big Horn,16-01,Ballots Cast,,,Ballots Cast,279
+Big Horn,16-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,16-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,37
+Big Horn,16-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,16-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,35
+Big Horn,16-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,16-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,29
+Big Horn,16-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,16-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,37
+Big Horn,16-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,16-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,41
+Big Horn,16-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,16-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,47
+Big Horn,20-01,President,,REP,Donald J. Trump,1374
+Big Horn,20-01,President,,DEM,Kamala D. Harris,189
+Big Horn,20-01,President,,LIB,Chase Oliver,20
+Big Horn,20-01,President,,,Write-ins,16
+Big Horn,20-01,President,,,Over Votes,0
+Big Horn,20-01,President,,,Under Votes,14
+Big Horn,20-01,U.S. Senate,,REP,John Barrasso,1373
+Big Horn,20-01,U.S. Senate,,DEM,Scott D Morrow,184
+Big Horn,20-01,U.S. Senate,,,Write-ins,13
+Big Horn,20-01,U.S. Senate,,,Over Votes,0
+Big Horn,20-01,U.S. Senate,,,Under Votes,43
+Big Horn,20-01,U.S. House,,REP,Harriet Hageman,1296
+Big Horn,20-01,U.S. House,,DEM,Kyle G. Cameron,167
+Big Horn,20-01,U.S. House,,LIB,Richard Brubaker,47
+Big Horn,20-01,U.S. House,,CTRY,Jeffrey Haggit,47
+Big Horn,20-01,U.S. House,,,Write-ins,6
+Big Horn,20-01,U.S. House,,,Over Votes,14
+Big Horn,20-01,U.S. House,,,Under Votes,36
+Big Horn,20-01,State House,26,REP,Dalton Banks,1417
+Big Horn,20-01,State House,26,,Write-ins,47
+Big Horn,20-01,State House,26,,Over Votes,0
+Big Horn,20-01,State House,26,,Under Votes,149
+Big Horn,20-01,Ballots Cast,,,Ballots Cast,1613
+Big Horn,20-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,20-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,230
+Big Horn,20-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,20-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,206
+Big Horn,20-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,2
+Big Horn,20-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,125
+Big Horn,20-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,20-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,194
+Big Horn,20-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,20-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,226
+Big Horn,20-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,20-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,222
+Big Horn,22-01,President,,REP,Donald J. Trump,527
+Big Horn,22-01,President,,DEM,Kamala D. Harris,42
+Big Horn,22-01,President,,LIB,Chase Oliver,6
+Big Horn,22-01,President,,,Write-ins,2
+Big Horn,22-01,President,,,Over Votes,0
+Big Horn,22-01,President,,,Under Votes,5
+Big Horn,22-01,U.S. Senate,,REP,John Barrasso,530
+Big Horn,22-01,U.S. Senate,,DEM,Scott D Morrow,43
+Big Horn,22-01,U.S. Senate,,,Write-ins,2
+Big Horn,22-01,U.S. Senate,,,Over Votes,0
+Big Horn,22-01,U.S. Senate,,,Under Votes,7
+Big Horn,22-01,U.S. House,,REP,Harriet Hageman,506
+Big Horn,22-01,U.S. House,,DEM,Kyle G. Cameron,39
+Big Horn,22-01,U.S. House,,LIB,Richard Brubaker,14
+Big Horn,22-01,U.S. House,,CTRY,Jeffrey Haggit,14
+Big Horn,22-01,U.S. House,,,Write-ins,0
+Big Horn,22-01,U.S. House,,,Over Votes,0
+Big Horn,22-01,U.S. House,,,Under Votes,9
+Big Horn,22-01,State House,26,REP,Dalton Banks,546
+Big Horn,22-01,State House,26,,Write-ins,8
+Big Horn,22-01,State House,26,,Over Votes,0
+Big Horn,22-01,State House,26,,Under Votes,28
+Big Horn,22-01,Ballots Cast,,,Ballots Cast,582
+Big Horn,22-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,22-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,75
+Big Horn,22-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,22-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,62
+Big Horn,22-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,22-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,57
+Big Horn,22-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,22-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,68
+Big Horn,22-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,22-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,73
+Big Horn,22-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,22-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,78
+Big Horn,23-01,President,,REP,Donald J. Trump,282
+Big Horn,23-01,President,,DEM,Kamala D. Harris,18
+Big Horn,23-01,President,,LIB,Chase Oliver,7
+Big Horn,23-01,President,,,Write-ins,2
+Big Horn,23-01,President,,,Over Votes,1
+Big Horn,23-01,President,,,Under Votes,2
+Big Horn,23-01,U.S. Senate,,REP,John Barrasso,281
+Big Horn,23-01,U.S. Senate,,DEM,Scott D Morrow,21
+Big Horn,23-01,U.S. Senate,,,Write-ins,1
+Big Horn,23-01,U.S. Senate,,,Over Votes,0
+Big Horn,23-01,U.S. Senate,,,Under Votes,9
+Big Horn,23-01,U.S. House,,REP,Harriet Hageman,259
+Big Horn,23-01,U.S. House,,DEM,Kyle G. Cameron,21
+Big Horn,23-01,U.S. House,,LIB,Richard Brubaker,11
+Big Horn,23-01,U.S. House,,CTRY,Jeffrey Haggit,7
+Big Horn,23-01,U.S. House,,,Write-ins,1
+Big Horn,23-01,U.S. House,,,Over Votes,3
+Big Horn,23-01,U.S. House,,,Under Votes,10
+Big Horn,23-01,State House,26,REP,Dalton Banks,277
+Big Horn,23-01,State House,26,,Write-ins,3
+Big Horn,23-01,State House,26,,Over Votes,0
+Big Horn,23-01,State House,26,,Under Votes,32
+Big Horn,23-01,Ballots Cast,,,Ballots Cast,312
+Big Horn,23-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,23-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,56
+Big Horn,23-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,23-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,35
+Big Horn,23-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,23-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,33
+Big Horn,23-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,23-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,41
+Big Horn,23-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,23-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,46
+Big Horn,23-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,23-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,52
+Big Horn,25-01,President,,REP,Donald J. Trump,100
+Big Horn,25-01,President,,DEM,Kamala D. Harris,25
+Big Horn,25-01,President,,LIB,Chase Oliver,5
+Big Horn,25-01,President,,,Write-ins,0
+Big Horn,25-01,President,,,Over Votes,0
+Big Horn,25-01,President,,,Under Votes,1
+Big Horn,25-01,U.S. Senate,,REP,John Barrasso,109
+Big Horn,25-01,U.S. Senate,,DEM,Scott D Morrow,21
+Big Horn,25-01,U.S. Senate,,,Write-ins,0
+Big Horn,25-01,U.S. Senate,,,Over Votes,0
+Big Horn,25-01,U.S. Senate,,,Under Votes,1
+Big Horn,25-01,U.S. House,,REP,Harriet Hageman,95
+Big Horn,25-01,U.S. House,,DEM,Kyle G. Cameron,19
+Big Horn,25-01,U.S. House,,LIB,Richard Brubaker,6
+Big Horn,25-01,U.S. House,,CTRY,Jeffrey Haggit,7
+Big Horn,25-01,U.S. House,,,Write-ins,0
+Big Horn,25-01,U.S. House,,,Over Votes,0
+Big Horn,25-01,U.S. House,,,Under Votes,4
+Big Horn,25-01,State House,26,REP,Dalton Banks,117
+Big Horn,25-01,State House,26,,Write-ins,1
+Big Horn,25-01,State House,26,,Over Votes,0
+Big Horn,25-01,State House,26,,Under Votes,13
+Big Horn,25-01,Ballots Cast,,,Ballots Cast,131
+Big Horn,25-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,25-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,21
+Big Horn,25-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,25-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,16
+Big Horn,25-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,25-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,5
+Big Horn,25-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,25-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,19
+Big Horn,25-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,25-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,17
+Big Horn,25-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,25-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,18
+Big Horn,26-01,President,,REP,Donald J. Trump,93
+Big Horn,26-01,President,,DEM,Kamala D. Harris,12
+Big Horn,26-01,President,,LIB,Chase Oliver,1
+Big Horn,26-01,President,,,Write-ins,0
+Big Horn,26-01,President,,,Over Votes,0
+Big Horn,26-01,President,,,Under Votes,1
+Big Horn,26-01,U.S. Senate,,REP,John Barrasso,93
+Big Horn,26-01,U.S. Senate,,DEM,Scott D Morrow,13
+Big Horn,26-01,U.S. Senate,,,Write-ins,0
+Big Horn,26-01,U.S. Senate,,,Over Votes,0
+Big Horn,26-01,U.S. Senate,,,Under Votes,1
+Big Horn,26-01,U.S. House,,REP,Harriet Hageman,89
+Big Horn,26-01,U.S. House,,DEM,Kyle G. Cameron,11
+Big Horn,26-01,U.S. House,,LIB,Richard Brubaker,4
+Big Horn,26-01,U.S. House,,CTRY,Jeffrey Haggit,2
+Big Horn,26-01,U.S. House,,,Write-ins,0
+Big Horn,26-01,U.S. House,,,Over Votes,1
+Big Horn,26-01,U.S. House,,,Under Votes,0
+Big Horn,26-01,State House,26,REP,Dalton Banks,95
+Big Horn,26-01,State House,26,,Write-ins,1
+Big Horn,26-01,State House,26,,Over Votes,0
+Big Horn,26-01,State House,26,,Under Votes,11
+Big Horn,26-01,Ballots Cast,,,Ballots Cast,107
+Big Horn,26-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Over Votes,0
+Big Horn,26-01,"Circuit Court Judge, Fifth Judicial District Edward G. Luhm",,,Under Votes,13
+Big Horn,26-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Over Votes,0
+Big Horn,26-01,"Circuit Court Judge, Fifth Judicial District S. Joseph ""Joey"" Darrah",,,Under Votes,10
+Big Horn,26-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Big Horn,26-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,6
+Big Horn,26-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Over Votes,0
+Big Horn,26-01,"District Court Judge, Fifth Judicial District Bill Simpson",,,Under Votes,9
+Big Horn,26-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Big Horn,26-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,10
+Big Horn,26-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Big Horn,26-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,11

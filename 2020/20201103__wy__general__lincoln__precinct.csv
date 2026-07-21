@@ -1,0 +1,650 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,1-1,President,,REP,Donald J. Trump,1083
+Lincoln,1-1,President,,DEM,Joseph R. Biden,177
+Lincoln,1-1,President,,LIB,Jo Jorgensen,26
+Lincoln,1-1,President,,IND,Brock Pierce,11
+Lincoln,1-1,President,,,Write-ins,4
+Lincoln,1-1,President,,,Over Votes,0
+Lincoln,1-1,President,,,Under Votes,11
+Lincoln,1-1,U.S. Senate,,REP,Cynthia M. Lummis,1059
+Lincoln,1-1,U.S. Senate,,DEM,Merav Ben David,213
+Lincoln,1-1,U.S. Senate,,,Write-ins,1
+Lincoln,1-1,U.S. Senate,,,Over Votes,1
+Lincoln,1-1,U.S. Senate,,,Under Votes,38
+Lincoln,1-1,U.S. House,,REP,Liz Cheney,981
+Lincoln,1-1,U.S. House,,DEM,Lynnette Grey Bull,205
+Lincoln,1-1,U.S. House,,LIB,Richard Brubaker,53
+Lincoln,1-1,U.S. House,,,Jeff Haggit (CONST.),33
+Lincoln,1-1,U.S. House,,,Write-ins,0
+Lincoln,1-1,U.S. House,,,Over Votes,4
+Lincoln,1-1,U.S. House,,,Under Votes,36
+Lincoln,1-1,State Senate,14,REP,Fred Baldwin,1135
+Lincoln,1-1,State Senate,14,,Write-ins,61
+Lincoln,1-1,State Senate,14,,Over Votes,1
+Lincoln,1-1,State Senate,14,,Under Votes,115
+Lincoln,1-1,State House,18,REP,Scott Heiner,1076
+Lincoln,1-1,State House,18,,Write-ins,82
+Lincoln,1-1,State House,18,,Over Votes,0
+Lincoln,1-1,State House,18,,Under Votes,154
+Lincoln,1-1,Ballots Cast,,,Ballots Cast,1312
+Lincoln,1-1,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,1
+Lincoln,1-1,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,102
+Lincoln,1-1,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,1
+Lincoln,1-1,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,169
+Lincoln,1-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Lincoln,1-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,104
+Lincoln,1-1,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,1
+Lincoln,1-1,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,182
+Lincoln,1-1,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,1-1,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,160
+Lincoln,1-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,1-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,157
+Lincoln,1-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,1-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,151
+Lincoln,1-4,President,,REP,Donald J. Trump,272
+Lincoln,1-4,President,,DEM,Joseph R. Biden,55
+Lincoln,1-4,President,,LIB,Jo Jorgensen,7
+Lincoln,1-4,President,,IND,Brock Pierce,1
+Lincoln,1-4,President,,,Write-ins,3
+Lincoln,1-4,President,,,Over Votes,0
+Lincoln,1-4,President,,,Under Votes,2
+Lincoln,1-4,U.S. Senate,,REP,Cynthia M. Lummis,270
+Lincoln,1-4,U.S. Senate,,DEM,Merav Ben David,62
+Lincoln,1-4,U.S. Senate,,,Write-ins,1
+Lincoln,1-4,U.S. Senate,,,Over Votes,0
+Lincoln,1-4,U.S. Senate,,,Under Votes,7
+Lincoln,1-4,U.S. House,,REP,Liz Cheney,260
+Lincoln,1-4,U.S. House,,DEM,Lynnette Grey Bull,59
+Lincoln,1-4,U.S. House,,LIB,Richard Brubaker,9
+Lincoln,1-4,U.S. House,,,Jeff Haggit (CONST.),3
+Lincoln,1-4,U.S. House,,,Write-ins,2
+Lincoln,1-4,U.S. House,,,Over Votes,1
+Lincoln,1-4,U.S. House,,,Under Votes,6
+Lincoln,1-4,State Senate,14,REP,Fred Baldwin,274
+Lincoln,1-4,State Senate,14,,Write-ins,18
+Lincoln,1-4,State Senate,14,,Over Votes,0
+Lincoln,1-4,State Senate,14,,Under Votes,48
+Lincoln,1-4,State House,18,REP,Scott Heiner,287
+Lincoln,1-4,State House,18,,Write-ins,21
+Lincoln,1-4,State House,18,,Over Votes,0
+Lincoln,1-4,State House,18,,Under Votes,32
+Lincoln,1-4,Ballots Cast,,,Ballots Cast,340
+Lincoln,1-4,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,1-4,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,26
+Lincoln,1-4,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-4,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,43
+Lincoln,1-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,1-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,25
+Lincoln,1-4,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,1-4,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,52
+Lincoln,1-4,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,1-4,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,44
+Lincoln,1-4,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,1-4,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,42
+Lincoln,1-4,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,1-4,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,36
+Lincoln,1-6,President,,REP,Donald J. Trump,133
+Lincoln,1-6,President,,DEM,Joseph R. Biden,11
+Lincoln,1-6,President,,LIB,Jo Jorgensen,4
+Lincoln,1-6,President,,IND,Brock Pierce,1
+Lincoln,1-6,President,,,Write-ins,0
+Lincoln,1-6,President,,,Over Votes,0
+Lincoln,1-6,President,,,Under Votes,1
+Lincoln,1-6,U.S. Senate,,REP,Cynthia M. Lummis,132
+Lincoln,1-6,U.S. Senate,,DEM,Merav Ben David,12
+Lincoln,1-6,U.S. Senate,,,Write-ins,0
+Lincoln,1-6,U.S. Senate,,,Over Votes,0
+Lincoln,1-6,U.S. Senate,,,Under Votes,6
+Lincoln,1-6,U.S. House,,REP,Liz Cheney,127
+Lincoln,1-6,U.S. House,,DEM,Lynnette Grey Bull,13
+Lincoln,1-6,U.S. House,,LIB,Richard Brubaker,0
+Lincoln,1-6,U.S. House,,,Jeff Haggit (CONST.),2
+Lincoln,1-6,U.S. House,,,Write-ins,0
+Lincoln,1-6,U.S. House,,,Over Votes,1
+Lincoln,1-6,U.S. House,,,Under Votes,7
+Lincoln,1-6,State Senate,14,REP,Fred Baldwin,61
+Lincoln,1-6,State Senate,14,,Write-ins,1
+Lincoln,1-6,State Senate,14,,Over Votes,0
+Lincoln,1-6,State Senate,14,,Under Votes,5
+Lincoln,1-6,State Senate,16,REP,Dan Dockstader,74
+Lincoln,1-6,State Senate,16,,Write-ins,0
+Lincoln,1-6,State Senate,16,,Over Votes,0
+Lincoln,1-6,State Senate,16,,Under Votes,9
+Lincoln,1-6,State House,18,REP,Scott Heiner,51
+Lincoln,1-6,State House,18,,Write-ins,8
+Lincoln,1-6,State House,18,,Over Votes,0
+Lincoln,1-6,State House,18,,Under Votes,8
+Lincoln,1-6,State House,21,REP,Evan J. Simpson,73
+Lincoln,1-6,State House,21,,Write-ins,0
+Lincoln,1-6,State House,21,,Over Votes,0
+Lincoln,1-6,State House,21,,Under Votes,10
+Lincoln,1-6,Ballots Cast,,,Ballots Cast,150
+Lincoln,1-6,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,1-6,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,14
+Lincoln,1-6,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-6,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,26
+Lincoln,1-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,1-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,20
+Lincoln,1-6,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,1-6,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,26
+Lincoln,1-6,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,1-6,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,26
+Lincoln,1-6,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,1-6,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,23
+Lincoln,1-6,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,1-6,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,22
+Lincoln,1-7,President,,REP,Donald J. Trump,65
+Lincoln,1-7,President,,DEM,Joseph R. Biden,7
+Lincoln,1-7,President,,LIB,Jo Jorgensen,1
+Lincoln,1-7,President,,IND,Brock Pierce,1
+Lincoln,1-7,President,,,Write-ins,1
+Lincoln,1-7,President,,,Over Votes,0
+Lincoln,1-7,President,,,Under Votes,0
+Lincoln,1-7,U.S. Senate,,REP,Cynthia M. Lummis,64
+Lincoln,1-7,U.S. Senate,,DEM,Merav Ben David,8
+Lincoln,1-7,U.S. Senate,,,Write-ins,1
+Lincoln,1-7,U.S. Senate,,,Over Votes,0
+Lincoln,1-7,U.S. Senate,,,Under Votes,2
+Lincoln,1-7,U.S. House,,REP,Liz Cheney,54
+Lincoln,1-7,U.S. House,,DEM,Lynnette Grey Bull,10
+Lincoln,1-7,U.S. House,,LIB,Richard Brubaker,4
+Lincoln,1-7,U.S. House,,,Jeff Haggit (CONST.),4
+Lincoln,1-7,U.S. House,,,Write-ins,0
+Lincoln,1-7,U.S. House,,,Over Votes,0
+Lincoln,1-7,U.S. House,,,Under Votes,3
+Lincoln,1-7,State Senate,14,REP,Fred Baldwin,54
+Lincoln,1-7,State Senate,14,,Write-ins,4
+Lincoln,1-7,State Senate,14,,Over Votes,0
+Lincoln,1-7,State Senate,14,,Under Votes,17
+Lincoln,1-7,State House,18,REP,Scott Heiner,61
+Lincoln,1-7,State House,18,,Write-ins,4
+Lincoln,1-7,State House,18,,Over Votes,0
+Lincoln,1-7,State House,18,,Under Votes,10
+Lincoln,1-7,Ballots Cast,,,Ballots Cast,75
+Lincoln,1-7,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,1-7,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,14
+Lincoln,1-7,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-7,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,17
+Lincoln,1-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,1-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,4
+Lincoln,1-7,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,1-7,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,16
+Lincoln,1-7,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,1-7,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,15
+Lincoln,1-7,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,1-7,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,15
+Lincoln,1-7,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,1-7,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,16
+Lincoln,1-8,President,,REP,Donald J. Trump,290
+Lincoln,1-8,President,,DEM,Joseph R. Biden,13
+Lincoln,1-8,President,,LIB,Jo Jorgensen,4
+Lincoln,1-8,President,,IND,Brock Pierce,3
+Lincoln,1-8,President,,,Write-ins,1
+Lincoln,1-8,President,,,Over Votes,0
+Lincoln,1-8,President,,,Under Votes,3
+Lincoln,1-8,U.S. Senate,,REP,Cynthia M. Lummis,295
+Lincoln,1-8,U.S. Senate,,DEM,Merav Ben David,14
+Lincoln,1-8,U.S. Senate,,,Write-ins,0
+Lincoln,1-8,U.S. Senate,,,Over Votes,0
+Lincoln,1-8,U.S. Senate,,,Under Votes,5
+Lincoln,1-8,U.S. House,,REP,Liz Cheney,270
+Lincoln,1-8,U.S. House,,DEM,Lynnette Grey Bull,14
+Lincoln,1-8,U.S. House,,LIB,Richard Brubaker,8
+Lincoln,1-8,U.S. House,,,Jeff Haggit (CONST.),15
+Lincoln,1-8,U.S. House,,,Write-ins,0
+Lincoln,1-8,U.S. House,,,Over Votes,2
+Lincoln,1-8,U.S. House,,,Under Votes,5
+Lincoln,1-8,State Senate,14,REP,Fred Baldwin,185
+Lincoln,1-8,State Senate,14,,Write-ins,1
+Lincoln,1-8,State Senate,14,,Over Votes,0
+Lincoln,1-8,State Senate,14,,Under Votes,15
+Lincoln,1-8,State Senate,16,REP,Dan Dockstader,100
+Lincoln,1-8,State Senate,16,,Write-ins,3
+Lincoln,1-8,State Senate,16,,Over Votes,0
+Lincoln,1-8,State Senate,16,,Under Votes,10
+Lincoln,1-8,State House,18,REP,Scott Heiner,187
+Lincoln,1-8,State House,18,,Write-ins,1
+Lincoln,1-8,State House,18,,Over Votes,0
+Lincoln,1-8,State House,18,,Under Votes,13
+Lincoln,1-8,State House,21,REP,Evan J. Simpson,103
+Lincoln,1-8,State House,21,,Write-ins,1
+Lincoln,1-8,State House,21,,Over Votes,0
+Lincoln,1-8,State House,21,,Under Votes,9
+Lincoln,1-8,Ballots Cast,,,Ballots Cast,314
+Lincoln,1-8,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,1-8,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,60
+Lincoln,1-8,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,1-8,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,60
+Lincoln,1-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,1-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,45
+Lincoln,1-8,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,1-8,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,65
+Lincoln,1-8,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,1-8,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,60
+Lincoln,1-8,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,1-8,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,58
+Lincoln,1-8,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,1-8,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,53
+Lincoln,2-1,President,,REP,Donald J. Trump,889
+Lincoln,2-1,President,,DEM,Joseph R. Biden,102
+Lincoln,2-1,President,,LIB,Jo Jorgensen,19
+Lincoln,2-1,President,,IND,Brock Pierce,10
+Lincoln,2-1,President,,,Write-ins,13
+Lincoln,2-1,President,,,Over Votes,0
+Lincoln,2-1,President,,,Under Votes,9
+Lincoln,2-1,U.S. Senate,,REP,Cynthia M. Lummis,928
+Lincoln,2-1,U.S. Senate,,DEM,Merav Ben David,97
+Lincoln,2-1,U.S. Senate,,,Write-ins,4
+Lincoln,2-1,U.S. Senate,,,Over Votes,0
+Lincoln,2-1,U.S. Senate,,,Under Votes,13
+Lincoln,2-1,U.S. House,,REP,Liz Cheney,868
+Lincoln,2-1,U.S. House,,DEM,Lynnette Grey Bull,88
+Lincoln,2-1,U.S. House,,LIB,Richard Brubaker,23
+Lincoln,2-1,U.S. House,,,Jeff Haggit (CONST.),35
+Lincoln,2-1,U.S. House,,,Write-ins,3
+Lincoln,2-1,U.S. House,,,Over Votes,2
+Lincoln,2-1,U.S. House,,,Under Votes,23
+Lincoln,2-1,State Senate,16,REP,Dan Dockstader,958
+Lincoln,2-1,State Senate,16,,Write-ins,14
+Lincoln,2-1,State Senate,16,,Over Votes,0
+Lincoln,2-1,State Senate,16,,Under Votes,70
+Lincoln,2-1,State House,21,REP,Evan J. Simpson,969
+Lincoln,2-1,State House,21,,Write-ins,15
+Lincoln,2-1,State House,21,,Over Votes,0
+Lincoln,2-1,State House,21,,Under Votes,58
+Lincoln,2-1,Ballots Cast,,,Ballots Cast,1042
+Lincoln,2-1,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-1,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,159
+Lincoln,2-1,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-1,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,163
+Lincoln,2-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,2
+Lincoln,2-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,112
+Lincoln,2-1,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,2-1,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,183
+Lincoln,2-1,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,1
+Lincoln,2-1,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,168
+Lincoln,2-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,1
+Lincoln,2-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,163
+Lincoln,2-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,152
+Lincoln,2-10,President,,REP,Donald J. Trump,983
+Lincoln,2-10,President,,DEM,Joseph R. Biden,321
+Lincoln,2-10,President,,LIB,Jo Jorgensen,21
+Lincoln,2-10,President,,IND,Brock Pierce,8
+Lincoln,2-10,President,,,Write-ins,9
+Lincoln,2-10,President,,,Over Votes,2
+Lincoln,2-10,President,,,Under Votes,6
+Lincoln,2-10,U.S. Senate,,REP,Cynthia M. Lummis,1036
+Lincoln,2-10,U.S. Senate,,DEM,Merav Ben David,289
+Lincoln,2-10,U.S. Senate,,,Write-ins,4
+Lincoln,2-10,U.S. Senate,,,Over Votes,0
+Lincoln,2-10,U.S. Senate,,,Under Votes,21
+Lincoln,2-10,U.S. House,,REP,Liz Cheney,968
+Lincoln,2-10,U.S. House,,DEM,Lynnette Grey Bull,294
+Lincoln,2-10,U.S. House,,LIB,Richard Brubaker,34
+Lincoln,2-10,U.S. House,,,Jeff Haggit (CONST.),26
+Lincoln,2-10,U.S. House,,,Write-ins,0
+Lincoln,2-10,U.S. House,,,Over Votes,3
+Lincoln,2-10,U.S. House,,,Under Votes,25
+Lincoln,2-10,State Senate,16,REP,Dan Dockstader,1131
+Lincoln,2-10,State Senate,16,,Write-ins,22
+Lincoln,2-10,State Senate,16,,Over Votes,0
+Lincoln,2-10,State Senate,16,,Under Votes,197
+Lincoln,2-10,State House,22,REP,Bill Winney,844
+Lincoln,2-10,State House,22,IND,Jim Roscoe,439
+Lincoln,2-10,State House,22,,Write-ins,6
+Lincoln,2-10,State House,22,,Over Votes,1
+Lincoln,2-10,State House,22,,Under Votes,60
+Lincoln,2-10,Ballots Cast,,,Ballots Cast,1350
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,264
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,278
+Lincoln,2-10,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,2-10,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,163
+Lincoln,2-10,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,2-10,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,293
+Lincoln,2-10,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,2-10,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,264
+Lincoln,2-10,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,2-10,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,260
+Lincoln,2-10,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-10,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,247
+Lincoln,2-2,President,,REP,Donald J. Trump,322
+Lincoln,2-2,President,,DEM,Joseph R. Biden,28
+Lincoln,2-2,President,,LIB,Jo Jorgensen,4
+Lincoln,2-2,President,,IND,Brock Pierce,3
+Lincoln,2-2,President,,,Write-ins,0
+Lincoln,2-2,President,,,Over Votes,0
+Lincoln,2-2,President,,,Under Votes,2
+Lincoln,2-2,U.S. Senate,,REP,Cynthia M. Lummis,325
+Lincoln,2-2,U.S. Senate,,DEM,Merav Ben David,26
+Lincoln,2-2,U.S. Senate,,,Write-ins,0
+Lincoln,2-2,U.S. Senate,,,Over Votes,0
+Lincoln,2-2,U.S. Senate,,,Under Votes,8
+Lincoln,2-2,U.S. House,,REP,Liz Cheney,308
+Lincoln,2-2,U.S. House,,DEM,Lynnette Grey Bull,24
+Lincoln,2-2,U.S. House,,LIB,Richard Brubaker,7
+Lincoln,2-2,U.S. House,,,Jeff Haggit (CONST.),10
+Lincoln,2-2,U.S. House,,,Write-ins,0
+Lincoln,2-2,U.S. House,,,Over Votes,0
+Lincoln,2-2,U.S. House,,,Under Votes,10
+Lincoln,2-2,State Senate,16,REP,Dan Dockstader,338
+Lincoln,2-2,State Senate,16,,Write-ins,4
+Lincoln,2-2,State Senate,16,,Over Votes,0
+Lincoln,2-2,State Senate,16,,Under Votes,17
+Lincoln,2-2,State House,21,REP,Evan J. Simpson,338
+Lincoln,2-2,State House,21,,Write-ins,3
+Lincoln,2-2,State House,21,,Over Votes,0
+Lincoln,2-2,State House,21,,Under Votes,18
+Lincoln,2-2,Ballots Cast,,,Ballots Cast,359
+Lincoln,2-2,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-2,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,47
+Lincoln,2-2,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-2,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,50
+Lincoln,2-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,2-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,36
+Lincoln,2-2,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,2-2,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,55
+Lincoln,2-2,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,2-2,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,50
+Lincoln,2-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,2-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,50
+Lincoln,2-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,47
+Lincoln,2-3,President,,REP,Donald J. Trump,685
+Lincoln,2-3,President,,DEM,Joseph R. Biden,379
+Lincoln,2-3,President,,LIB,Jo Jorgensen,25
+Lincoln,2-3,President,,IND,Brock Pierce,11
+Lincoln,2-3,President,,,Write-ins,8
+Lincoln,2-3,President,,,Over Votes,0
+Lincoln,2-3,President,,,Under Votes,6
+Lincoln,2-3,U.S. Senate,,REP,Cynthia M. Lummis,731
+Lincoln,2-3,U.S. Senate,,DEM,Merav Ben David,359
+Lincoln,2-3,U.S. Senate,,,Write-ins,1
+Lincoln,2-3,U.S. Senate,,,Over Votes,0
+Lincoln,2-3,U.S. Senate,,,Under Votes,23
+Lincoln,2-3,U.S. House,,REP,Liz Cheney,691
+Lincoln,2-3,U.S. House,,DEM,Lynnette Grey Bull,344
+Lincoln,2-3,U.S. House,,LIB,Richard Brubaker,27
+Lincoln,2-3,U.S. House,,,Jeff Haggit (CONST.),21
+Lincoln,2-3,U.S. House,,,Write-ins,1
+Lincoln,2-3,U.S. House,,,Over Votes,4
+Lincoln,2-3,U.S. House,,,Under Votes,26
+Lincoln,2-3,State Senate,16,REP,Dan Dockstader,844
+Lincoln,2-3,State Senate,16,,Write-ins,27
+Lincoln,2-3,State Senate,16,,Over Votes,0
+Lincoln,2-3,State Senate,16,,Under Votes,243
+Lincoln,2-3,State House,22,REP,Bill Winney,527
+Lincoln,2-3,State House,22,IND,Jim Roscoe,520
+Lincoln,2-3,State House,22,,Write-ins,15
+Lincoln,2-3,State House,22,,Over Votes,3
+Lincoln,2-3,State House,22,,Under Votes,49
+Lincoln,2-3,Ballots Cast,,,Ballots Cast,1114
+Lincoln,2-3,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-3,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,303
+Lincoln,2-3,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-3,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,310
+Lincoln,2-3,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,2-3,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,203
+Lincoln,2-3,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,2-3,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,310
+Lincoln,2-3,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,2-3,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,295
+Lincoln,2-3,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,1
+Lincoln,2-3,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,273
+Lincoln,2-3,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-3,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,260
+Lincoln,2-4,President,,REP,Donald J. Trump,486
+Lincoln,2-4,President,,DEM,Joseph R. Biden,58
+Lincoln,2-4,President,,LIB,Jo Jorgensen,8
+Lincoln,2-4,President,,IND,Brock Pierce,2
+Lincoln,2-4,President,,,Write-ins,5
+Lincoln,2-4,President,,,Over Votes,0
+Lincoln,2-4,President,,,Under Votes,1
+Lincoln,2-4,U.S. Senate,,REP,Cynthia M. Lummis,492
+Lincoln,2-4,U.S. Senate,,DEM,Merav Ben David,57
+Lincoln,2-4,U.S. Senate,,,Write-ins,0
+Lincoln,2-4,U.S. Senate,,,Over Votes,0
+Lincoln,2-4,U.S. Senate,,,Under Votes,11
+Lincoln,2-4,U.S. House,,REP,Liz Cheney,473
+Lincoln,2-4,U.S. House,,DEM,Lynnette Grey Bull,47
+Lincoln,2-4,U.S. House,,LIB,Richard Brubaker,14
+Lincoln,2-4,U.S. House,,,Jeff Haggit (CONST.),10
+Lincoln,2-4,U.S. House,,,Write-ins,0
+Lincoln,2-4,U.S. House,,,Over Votes,1
+Lincoln,2-4,U.S. House,,,Under Votes,15
+Lincoln,2-4,State Senate,16,REP,Dan Dockstader,512
+Lincoln,2-4,State Senate,16,,Write-ins,4
+Lincoln,2-4,State Senate,16,,Over Votes,0
+Lincoln,2-4,State Senate,16,,Under Votes,44
+Lincoln,2-4,State House,21,REP,Evan J. Simpson,508
+Lincoln,2-4,State House,21,,Write-ins,7
+Lincoln,2-4,State House,21,,Over Votes,0
+Lincoln,2-4,State House,21,,Under Votes,45
+Lincoln,2-4,Ballots Cast,,,Ballots Cast,560
+Lincoln,2-4,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-4,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,104
+Lincoln,2-4,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-4,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,112
+Lincoln,2-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,2-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,67
+Lincoln,2-4,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,2-4,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,108
+Lincoln,2-4,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,2-4,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,103
+Lincoln,2-4,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,2-4,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,100
+Lincoln,2-4,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-4,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,94
+Lincoln,2-5,President,,REP,Donald J. Trump,788
+Lincoln,2-5,President,,DEM,Joseph R. Biden,148
+Lincoln,2-5,President,,LIB,Jo Jorgensen,11
+Lincoln,2-5,President,,IND,Brock Pierce,8
+Lincoln,2-5,President,,,Write-ins,6
+Lincoln,2-5,President,,,Over Votes,0
+Lincoln,2-5,President,,,Under Votes,4
+Lincoln,2-5,U.S. Senate,,REP,Cynthia M. Lummis,817
+Lincoln,2-5,U.S. Senate,,DEM,Merav Ben David,134
+Lincoln,2-5,U.S. Senate,,,Write-ins,4
+Lincoln,2-5,U.S. Senate,,,Over Votes,0
+Lincoln,2-5,U.S. Senate,,,Under Votes,10
+Lincoln,2-5,U.S. House,,REP,Liz Cheney,761
+Lincoln,2-5,U.S. House,,DEM,Lynnette Grey Bull,135
+Lincoln,2-5,U.S. House,,LIB,Richard Brubaker,31
+Lincoln,2-5,U.S. House,,,Jeff Haggit (CONST.),23
+Lincoln,2-5,U.S. House,,,Write-ins,4
+Lincoln,2-5,U.S. House,,,Over Votes,3
+Lincoln,2-5,U.S. House,,,Under Votes,8
+Lincoln,2-5,State Senate,16,REP,Dan Dockstader,853
+Lincoln,2-5,State Senate,16,,Write-ins,17
+Lincoln,2-5,State Senate,16,,Over Votes,0
+Lincoln,2-5,State Senate,16,,Under Votes,95
+Lincoln,2-5,State House,22,REP,Bill Winney,628
+Lincoln,2-5,State House,22,IND,Jim Roscoe,268
+Lincoln,2-5,State House,22,,Write-ins,34
+Lincoln,2-5,State House,22,,Over Votes,2
+Lincoln,2-5,State House,22,,Under Votes,33
+Lincoln,2-5,Ballots Cast,,,Ballots Cast,965
+Lincoln,2-5,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,1
+Lincoln,2-5,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,184
+Lincoln,2-5,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-5,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,192
+Lincoln,2-5,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,2-5,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,127
+Lincoln,2-5,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,2-5,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,184
+Lincoln,2-5,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,2-5,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,182
+Lincoln,2-5,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,2-5,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,169
+Lincoln,2-5,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-5,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,163
+Lincoln,2-6,President,,REP,Donald J. Trump,546
+Lincoln,2-6,President,,DEM,Joseph R. Biden,59
+Lincoln,2-6,President,,LIB,Jo Jorgensen,3
+Lincoln,2-6,President,,IND,Brock Pierce,3
+Lincoln,2-6,President,,,Write-ins,3
+Lincoln,2-6,President,,,Over Votes,0
+Lincoln,2-6,President,,,Under Votes,1
+Lincoln,2-6,U.S. Senate,,REP,Cynthia M. Lummis,546
+Lincoln,2-6,U.S. Senate,,DEM,Merav Ben David,58
+Lincoln,2-6,U.S. Senate,,,Write-ins,2
+Lincoln,2-6,U.S. Senate,,,Over Votes,1
+Lincoln,2-6,U.S. Senate,,,Under Votes,8
+Lincoln,2-6,U.S. House,,REP,Liz Cheney,521
+Lincoln,2-6,U.S. House,,DEM,Lynnette Grey Bull,56
+Lincoln,2-6,U.S. House,,LIB,Richard Brubaker,8
+Lincoln,2-6,U.S. House,,,Jeff Haggit (CONST.),16
+Lincoln,2-6,U.S. House,,,Write-ins,1
+Lincoln,2-6,U.S. House,,,Over Votes,3
+Lincoln,2-6,U.S. House,,,Under Votes,10
+Lincoln,2-6,State Senate,16,REP,Dan Dockstader,564
+Lincoln,2-6,State Senate,16,,Write-ins,9
+Lincoln,2-6,State Senate,16,,Over Votes,0
+Lincoln,2-6,State Senate,16,,Under Votes,42
+Lincoln,2-6,State House,21,REP,Evan J. Simpson,549
+Lincoln,2-6,State House,21,,Write-ins,15
+Lincoln,2-6,State House,21,,Over Votes,2
+Lincoln,2-6,State House,21,,Under Votes,49
+Lincoln,2-6,Ballots Cast,,,Ballots Cast,615
+Lincoln,2-6,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-6,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,80
+Lincoln,2-6,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-6,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,84
+Lincoln,2-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,3
+Lincoln,2-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,71
+Lincoln,2-6,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,1
+Lincoln,2-6,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,88
+Lincoln,2-6,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,1
+Lincoln,2-6,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,78
+Lincoln,2-6,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,1
+Lincoln,2-6,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,81
+Lincoln,2-6,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-6,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,78
+Lincoln,2-7,President,,REP,Donald J. Trump,1086
+Lincoln,2-7,President,,DEM,Joseph R. Biden,69
+Lincoln,2-7,President,,LIB,Jo Jorgensen,19
+Lincoln,2-7,President,,IND,Brock Pierce,7
+Lincoln,2-7,President,,,Write-ins,10
+Lincoln,2-7,President,,,Over Votes,0
+Lincoln,2-7,President,,,Under Votes,4
+Lincoln,2-7,U.S. Senate,,REP,Cynthia M. Lummis,1125
+Lincoln,2-7,U.S. Senate,,DEM,Merav Ben David,51
+Lincoln,2-7,U.S. Senate,,,Write-ins,2
+Lincoln,2-7,U.S. Senate,,,Over Votes,1
+Lincoln,2-7,U.S. Senate,,,Under Votes,16
+Lincoln,2-7,U.S. House,,REP,Liz Cheney,1060
+Lincoln,2-7,U.S. House,,DEM,Lynnette Grey Bull,58
+Lincoln,2-7,U.S. House,,LIB,Richard Brubaker,21
+Lincoln,2-7,U.S. House,,,Jeff Haggit (CONST.),38
+Lincoln,2-7,U.S. House,,,Write-ins,0
+Lincoln,2-7,U.S. House,,,Over Votes,1
+Lincoln,2-7,U.S. House,,,Under Votes,17
+Lincoln,2-7,State Senate,16,REP,Dan Dockstader,1143
+Lincoln,2-7,State Senate,16,,Write-ins,12
+Lincoln,2-7,State Senate,16,,Over Votes,0
+Lincoln,2-7,State Senate,16,,Under Votes,40
+Lincoln,2-7,State House,21,REP,Evan J. Simpson,1132
+Lincoln,2-7,State House,21,,Write-ins,8
+Lincoln,2-7,State House,21,,Over Votes,0
+Lincoln,2-7,State House,21,,Under Votes,55
+Lincoln,2-7,Ballots Cast,,,Ballots Cast,1195
+Lincoln,2-7,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-7,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,182
+Lincoln,2-7,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-7,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,196
+Lincoln,2-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,2-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,139
+Lincoln,2-7,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,2
+Lincoln,2-7,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,191
+Lincoln,2-7,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,1
+Lincoln,2-7,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,184
+Lincoln,2-7,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,2-7,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,173
+Lincoln,2-7,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-7,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,164
+Lincoln,2-8,President,,REP,Donald J. Trump,599
+Lincoln,2-8,President,,DEM,Joseph R. Biden,66
+Lincoln,2-8,President,,LIB,Jo Jorgensen,12
+Lincoln,2-8,President,,IND,Brock Pierce,0
+Lincoln,2-8,President,,,Write-ins,9
+Lincoln,2-8,President,,,Over Votes,1
+Lincoln,2-8,President,,,Under Votes,2
+Lincoln,2-8,U.S. Senate,,REP,Cynthia M. Lummis,615
+Lincoln,2-8,U.S. Senate,,DEM,Merav Ben David,62
+Lincoln,2-8,U.S. Senate,,,Write-ins,0
+Lincoln,2-8,U.S. Senate,,,Over Votes,0
+Lincoln,2-8,U.S. Senate,,,Under Votes,12
+Lincoln,2-8,U.S. House,,REP,Liz Cheney,583
+Lincoln,2-8,U.S. House,,DEM,Lynnette Grey Bull,62
+Lincoln,2-8,U.S. House,,LIB,Richard Brubaker,18
+Lincoln,2-8,U.S. House,,,Jeff Haggit (CONST.),14
+Lincoln,2-8,U.S. House,,,Write-ins,0
+Lincoln,2-8,U.S. House,,,Over Votes,3
+Lincoln,2-8,U.S. House,,,Under Votes,9
+Lincoln,2-8,State Senate,16,REP,Dan Dockstader,634
+Lincoln,2-8,State Senate,16,,Write-ins,9
+Lincoln,2-8,State Senate,16,,Over Votes,0
+Lincoln,2-8,State Senate,16,,Under Votes,46
+Lincoln,2-8,State House,21,REP,Evan J. Simpson,627
+Lincoln,2-8,State House,21,,Write-ins,12
+Lincoln,2-8,State House,21,,Over Votes,1
+Lincoln,2-8,State House,21,,Under Votes,49
+Lincoln,2-8,Ballots Cast,,,Ballots Cast,689
+Lincoln,2-8,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-8,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,110
+Lincoln,2-8,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-8,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,114
+Lincoln,2-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Lincoln,2-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,68
+Lincoln,2-8,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,1
+Lincoln,2-8,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,121
+Lincoln,2-8,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,2-8,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,114
+Lincoln,2-8,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,2-8,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,109
+Lincoln,2-8,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-8,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,101
+Lincoln,2-9,President,,REP,Donald J. Trump,416
+Lincoln,2-9,President,,DEM,Joseph R. Biden,16
+Lincoln,2-9,President,,LIB,Jo Jorgensen,3
+Lincoln,2-9,President,,IND,Brock Pierce,2
+Lincoln,2-9,President,,,Write-ins,6
+Lincoln,2-9,President,,,Over Votes,0
+Lincoln,2-9,President,,,Under Votes,2
+Lincoln,2-9,U.S. Senate,,REP,Cynthia M. Lummis,411
+Lincoln,2-9,U.S. Senate,,DEM,Merav Ben David,18
+Lincoln,2-9,U.S. Senate,,,Write-ins,4
+Lincoln,2-9,U.S. Senate,,,Over Votes,0
+Lincoln,2-9,U.S. Senate,,,Under Votes,12
+Lincoln,2-9,U.S. House,,REP,Liz Cheney,399
+Lincoln,2-9,U.S. House,,DEM,Lynnette Grey Bull,20
+Lincoln,2-9,U.S. House,,LIB,Richard Brubaker,5
+Lincoln,2-9,U.S. House,,,Jeff Haggit (CONST.),9
+Lincoln,2-9,U.S. House,,,Write-ins,0
+Lincoln,2-9,U.S. House,,,Over Votes,0
+Lincoln,2-9,U.S. House,,,Under Votes,12
+Lincoln,2-9,State Senate,16,REP,Dan Dockstader,414
+Lincoln,2-9,State Senate,16,,Write-ins,0
+Lincoln,2-9,State Senate,16,,Over Votes,0
+Lincoln,2-9,State Senate,16,,Under Votes,31
+Lincoln,2-9,State House,21,REP,Evan J. Simpson,406
+Lincoln,2-9,State House,21,,Write-ins,4
+Lincoln,2-9,State House,21,,Over Votes,0
+Lincoln,2-9,State House,21,,Under Votes,35
+Lincoln,2-9,Ballots Cast,,,Ballots Cast,445
+Lincoln,2-9,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Over Votes,0
+Lincoln,2-9,"Circuit Court Judge, Third Judicial District Gregory S. Corpening",,,Under Votes,79
+Lincoln,2-9,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Over Votes,0
+Lincoln,2-9,"Circuit Court Judge, Third Judicial District Michael L. Greer",,,Under Votes,89
+Lincoln,2-9,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Lincoln,2-9,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,72
+Lincoln,2-9,"District Court Judge, Third Judicial District Richard L. Lavery",,,Over Votes,0
+Lincoln,2-9,"District Court Judge, Third Judicial District Richard L. Lavery",,,Under Votes,90
+Lincoln,2-9,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Over Votes,0
+Lincoln,2-9,"District Court Judge, Third Judicial District Suzannah G. Robinson",,,Under Votes,85
+Lincoln,2-9,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Lincoln,2-9,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,83
+Lincoln,2-9,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Lincoln,2-9,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,84

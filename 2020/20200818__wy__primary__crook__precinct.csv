@@ -1,0 +1,732 @@
+county,precinct,office,district,party,candidate,votes
+Crook,1-1,U.S. Senate,,REP,Bryan E Miller,37
+Crook,1-1,U.S. Senate,,REP,Cynthia M. Lummis,124
+Crook,1-1,U.S. Senate,,REP,Devon Cade,0
+Crook,1-1,U.S. Senate,,REP,Donna Rice,14
+Crook,1-1,U.S. Senate,,REP,John Holtz,4
+Crook,1-1,U.S. Senate,,REP,Josh Wheeler,9
+Crook,1-1,U.S. Senate,,REP,Michael Kemler,4
+Crook,1-1,U.S. Senate,,REP,R. Mark Armstrong,4
+Crook,1-1,U.S. Senate,,REP,Robert G. Short,14
+Crook,1-1,U.S. Senate,,REP,Star Roselli,0
+Crook,1-1,U.S. Senate,,REP,Write-ins,0
+Crook,1-1,U.S. Senate,,REP,Over Votes,2
+Crook,1-1,U.S. Senate,,REP,Under Votes,16
+Crook,1-1,U.S. Senate,,DEM,James Kirk DeBrine,2
+Crook,1-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Crook,1-1,U.S. Senate,,DEM,Merav Ben David,2
+Crook,1-1,U.S. Senate,,DEM,Nathan Wendt,1
+Crook,1-1,U.S. Senate,,DEM,Rex Wilde,1
+Crook,1-1,U.S. Senate,,DEM,Yana Ludwig,3
+Crook,1-1,U.S. Senate,,DEM,Write-ins,0
+Crook,1-1,U.S. Senate,,DEM,Over Votes,0
+Crook,1-1,U.S. Senate,,DEM,Under Votes,2
+Crook,1-1,U.S. House,,REP,Blake Stanley,48
+Crook,1-1,U.S. House,,REP,Liz Cheney,174
+Crook,1-1,U.S. House,,REP,Write-ins,0
+Crook,1-1,U.S. House,,REP,Over Votes,0
+Crook,1-1,U.S. House,,REP,Under Votes,6
+Crook,1-1,U.S. House,,DEM,Carl Beach,2
+Crook,1-1,U.S. House,,DEM,Carol Hafner,3
+Crook,1-1,U.S. House,,DEM,Lynnette Grey Bull,5
+Crook,1-1,U.S. House,,DEM,Write-ins,0
+Crook,1-1,U.S. House,,DEM,Over Votes,0
+Crook,1-1,U.S. House,,DEM,Under Votes,2
+Crook,1-1,State House,1,REP,Chip Neiman,100
+Crook,1-1,State House,1,REP,Tyler Lindholm,126
+Crook,1-1,State House,1,REP,Write-ins,0
+Crook,1-1,State House,1,REP,Over Votes,0
+Crook,1-1,State House,1,REP,Under Votes,2
+Crook,1-1,State House,1,DEM,Write-ins,2
+Crook,1-1,Ballots Cast,,REP,Ballots Cast,228
+Crook,1-1,Ballots Cast,,DEM,Ballots Cast,12
+Crook,1-1,Ballots Cast,,NP,Ballots Cast,5
+Crook,1-1,Ballots Cast,,,Ballots Cast,245
+Crook,1-2,U.S. Senate,,REP,Bryan E Miller,34
+Crook,1-2,U.S. Senate,,REP,Cynthia M. Lummis,109
+Crook,1-2,U.S. Senate,,REP,Devon Cade,0
+Crook,1-2,U.S. Senate,,REP,Donna Rice,13
+Crook,1-2,U.S. Senate,,REP,John Holtz,5
+Crook,1-2,U.S. Senate,,REP,Josh Wheeler,8
+Crook,1-2,U.S. Senate,,REP,Michael Kemler,1
+Crook,1-2,U.S. Senate,,REP,R. Mark Armstrong,4
+Crook,1-2,U.S. Senate,,REP,Robert G. Short,20
+Crook,1-2,U.S. Senate,,REP,Star Roselli,1
+Crook,1-2,U.S. Senate,,REP,Write-ins,2
+Crook,1-2,U.S. Senate,,REP,Over Votes,1
+Crook,1-2,U.S. Senate,,REP,Under Votes,6
+Crook,1-2,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,1-2,U.S. Senate,,DEM,Kenneth R. Casner,2
+Crook,1-2,U.S. Senate,,DEM,Merav Ben David,5
+Crook,1-2,U.S. Senate,,DEM,Nathan Wendt,3
+Crook,1-2,U.S. Senate,,DEM,Rex Wilde,1
+Crook,1-2,U.S. Senate,,DEM,Yana Ludwig,0
+Crook,1-2,U.S. Senate,,DEM,Write-ins,0
+Crook,1-2,U.S. Senate,,DEM,Over Votes,0
+Crook,1-2,U.S. Senate,,DEM,Under Votes,3
+Crook,1-2,U.S. House,,REP,Blake Stanley,58
+Crook,1-2,U.S. House,,REP,Liz Cheney,143
+Crook,1-2,U.S. House,,REP,Write-ins,0
+Crook,1-2,U.S. House,,REP,Over Votes,0
+Crook,1-2,U.S. House,,REP,Under Votes,3
+Crook,1-2,U.S. House,,DEM,Carl Beach,2
+Crook,1-2,U.S. House,,DEM,Carol Hafner,5
+Crook,1-2,U.S. House,,DEM,Lynnette Grey Bull,5
+Crook,1-2,U.S. House,,DEM,Write-ins,0
+Crook,1-2,U.S. House,,DEM,Over Votes,0
+Crook,1-2,U.S. House,,DEM,Under Votes,2
+Crook,1-2,State House,1,REP,Chip Neiman,89
+Crook,1-2,State House,1,REP,Tyler Lindholm,112
+Crook,1-2,State House,1,REP,Write-ins,2
+Crook,1-2,State House,1,REP,Over Votes,0
+Crook,1-2,State House,1,REP,Under Votes,1
+Crook,1-2,State House,1,DEM,Write-ins,3
+Crook,1-2,Ballots Cast,,REP,Ballots Cast,204
+Crook,1-2,Ballots Cast,,DEM,Ballots Cast,14
+Crook,1-2,Ballots Cast,,NP,Ballots Cast,7
+Crook,1-2,Ballots Cast,,,Ballots Cast,225
+Crook,11-11,U.S. Senate,,REP,Bryan E Miller,24
+Crook,11-11,U.S. Senate,,REP,Cynthia M. Lummis,95
+Crook,11-11,U.S. Senate,,REP,Devon Cade,0
+Crook,11-11,U.S. Senate,,REP,Donna Rice,9
+Crook,11-11,U.S. Senate,,REP,John Holtz,3
+Crook,11-11,U.S. Senate,,REP,Josh Wheeler,8
+Crook,11-11,U.S. Senate,,REP,Michael Kemler,2
+Crook,11-11,U.S. Senate,,REP,R. Mark Armstrong,4
+Crook,11-11,U.S. Senate,,REP,Robert G. Short,4
+Crook,11-11,U.S. Senate,,REP,Star Roselli,1
+Crook,11-11,U.S. Senate,,REP,Write-ins,0
+Crook,11-11,U.S. Senate,,REP,Over Votes,0
+Crook,11-11,U.S. Senate,,REP,Under Votes,6
+Crook,11-11,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,11-11,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,11-11,U.S. Senate,,DEM,Merav Ben David,5
+Crook,11-11,U.S. Senate,,DEM,Nathan Wendt,1
+Crook,11-11,U.S. Senate,,DEM,Rex Wilde,0
+Crook,11-11,U.S. Senate,,DEM,Yana Ludwig,0
+Crook,11-11,U.S. Senate,,DEM,Write-ins,0
+Crook,11-11,U.S. Senate,,DEM,Over Votes,0
+Crook,11-11,U.S. Senate,,DEM,Under Votes,0
+Crook,11-11,U.S. House,,REP,Blake Stanley,32
+Crook,11-11,U.S. House,,REP,Liz Cheney,119
+Crook,11-11,U.S. House,,REP,Write-ins,0
+Crook,11-11,U.S. House,,REP,Over Votes,0
+Crook,11-11,U.S. House,,REP,Under Votes,5
+Crook,11-11,U.S. House,,DEM,Carl Beach,4
+Crook,11-11,U.S. House,,DEM,Carol Hafner,0
+Crook,11-11,U.S. House,,DEM,Lynnette Grey Bull,2
+Crook,11-11,U.S. House,,DEM,Write-ins,0
+Crook,11-11,U.S. House,,DEM,Over Votes,0
+Crook,11-11,U.S. House,,DEM,Under Votes,0
+Crook,11-11,State House,1,REP,Chip Neiman,75
+Crook,11-11,State House,1,REP,Tyler Lindholm,78
+Crook,11-11,State House,1,REP,Write-ins,0
+Crook,11-11,State House,1,REP,Over Votes,0
+Crook,11-11,State House,1,REP,Under Votes,3
+Crook,11-11,State House,1,DEM,Write-ins,1
+Crook,11-11,Ballots Cast,,REP,Ballots Cast,156
+Crook,11-11,Ballots Cast,,DEM,Ballots Cast,6
+Crook,11-11,Ballots Cast,,NP,Ballots Cast,0
+Crook,11-11,Ballots Cast,,,Ballots Cast,162
+Crook,12-12,U.S. Senate,,REP,Bryan E Miller,34
+Crook,12-12,U.S. Senate,,REP,Cynthia M. Lummis,105
+Crook,12-12,U.S. Senate,,REP,Devon Cade,0
+Crook,12-12,U.S. Senate,,REP,Donna Rice,13
+Crook,12-12,U.S. Senate,,REP,John Holtz,9
+Crook,12-12,U.S. Senate,,REP,Josh Wheeler,3
+Crook,12-12,U.S. Senate,,REP,Michael Kemler,0
+Crook,12-12,U.S. Senate,,REP,R. Mark Armstrong,8
+Crook,12-12,U.S. Senate,,REP,Robert G. Short,24
+Crook,12-12,U.S. Senate,,REP,Star Roselli,1
+Crook,12-12,U.S. Senate,,REP,Write-ins,0
+Crook,12-12,U.S. Senate,,REP,Over Votes,2
+Crook,12-12,U.S. Senate,,REP,Under Votes,7
+Crook,12-12,U.S. Senate,,DEM,James Kirk DeBrine,1
+Crook,12-12,U.S. Senate,,DEM,Kenneth R. Casner,3
+Crook,12-12,U.S. Senate,,DEM,Merav Ben David,1
+Crook,12-12,U.S. Senate,,DEM,Nathan Wendt,3
+Crook,12-12,U.S. Senate,,DEM,Rex Wilde,1
+Crook,12-12,U.S. Senate,,DEM,Yana Ludwig,2
+Crook,12-12,U.S. Senate,,DEM,Write-ins,1
+Crook,12-12,U.S. Senate,,DEM,Over Votes,0
+Crook,12-12,U.S. Senate,,DEM,Under Votes,0
+Crook,12-12,U.S. House,,REP,Blake Stanley,85
+Crook,12-12,U.S. House,,REP,Liz Cheney,116
+Crook,12-12,U.S. House,,REP,Write-ins,3
+Crook,12-12,U.S. House,,REP,Over Votes,0
+Crook,12-12,U.S. House,,REP,Under Votes,2
+Crook,12-12,U.S. House,,DEM,Carl Beach,4
+Crook,12-12,U.S. House,,DEM,Carol Hafner,5
+Crook,12-12,U.S. House,,DEM,Lynnette Grey Bull,2
+Crook,12-12,U.S. House,,DEM,Write-ins,1
+Crook,12-12,U.S. House,,DEM,Over Votes,0
+Crook,12-12,U.S. House,,DEM,Under Votes,0
+Crook,12-12,State House,1,REP,Chip Neiman,127
+Crook,12-12,State House,1,REP,Tyler Lindholm,77
+Crook,12-12,State House,1,REP,Write-ins,0
+Crook,12-12,State House,1,REP,Over Votes,0
+Crook,12-12,State House,1,REP,Under Votes,2
+Crook,12-12,State House,1,DEM,Write-ins,1
+Crook,12-12,Ballots Cast,,REP,Ballots Cast,206
+Crook,12-12,Ballots Cast,,DEM,Ballots Cast,12
+Crook,12-12,Ballots Cast,,NP,Ballots Cast,0
+Crook,12-12,Ballots Cast,,,Ballots Cast,218
+Crook,13-13,U.S. Senate,,REP,Bryan E Miller,48
+Crook,13-13,U.S. Senate,,REP,Cynthia M. Lummis,104
+Crook,13-13,U.S. Senate,,REP,Devon Cade,1
+Crook,13-13,U.S. Senate,,REP,Donna Rice,10
+Crook,13-13,U.S. Senate,,REP,John Holtz,1
+Crook,13-13,U.S. Senate,,REP,Josh Wheeler,5
+Crook,13-13,U.S. Senate,,REP,Michael Kemler,1
+Crook,13-13,U.S. Senate,,REP,R. Mark Armstrong,3
+Crook,13-13,U.S. Senate,,REP,Robert G. Short,15
+Crook,13-13,U.S. Senate,,REP,Star Roselli,1
+Crook,13-13,U.S. Senate,,REP,Write-ins,1
+Crook,13-13,U.S. Senate,,REP,Over Votes,1
+Crook,13-13,U.S. Senate,,REP,Under Votes,6
+Crook,13-13,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,13-13,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,13-13,U.S. Senate,,DEM,Merav Ben David,4
+Crook,13-13,U.S. Senate,,DEM,Nathan Wendt,1
+Crook,13-13,U.S. Senate,,DEM,Rex Wilde,0
+Crook,13-13,U.S. Senate,,DEM,Yana Ludwig,0
+Crook,13-13,U.S. Senate,,DEM,Write-ins,0
+Crook,13-13,U.S. Senate,,DEM,Over Votes,0
+Crook,13-13,U.S. Senate,,DEM,Under Votes,1
+Crook,13-13,U.S. House,,REP,Blake Stanley,56
+Crook,13-13,U.S. House,,REP,Liz Cheney,135
+Crook,13-13,U.S. House,,REP,Write-ins,2
+Crook,13-13,U.S. House,,REP,Over Votes,0
+Crook,13-13,U.S. House,,REP,Under Votes,4
+Crook,13-13,U.S. House,,DEM,Carl Beach,2
+Crook,13-13,U.S. House,,DEM,Carol Hafner,0
+Crook,13-13,U.S. House,,DEM,Lynnette Grey Bull,2
+Crook,13-13,U.S. House,,DEM,Write-ins,0
+Crook,13-13,U.S. House,,DEM,Over Votes,0
+Crook,13-13,U.S. House,,DEM,Under Votes,2
+Crook,13-13,State House,1,REP,Chip Neiman,127
+Crook,13-13,State House,1,REP,Tyler Lindholm,69
+Crook,13-13,State House,1,REP,Write-ins,0
+Crook,13-13,State House,1,REP,Over Votes,0
+Crook,13-13,State House,1,REP,Under Votes,1
+Crook,13-13,State House,1,DEM,Write-ins,0
+Crook,13-13,Ballots Cast,,REP,Ballots Cast,197
+Crook,13-13,Ballots Cast,,DEM,Ballots Cast,6
+Crook,13-13,Ballots Cast,,NP,Ballots Cast,0
+Crook,13-13,Ballots Cast,,,Ballots Cast,203
+Crook,14-14,U.S. Senate,,REP,Bryan E Miller,25
+Crook,14-14,U.S. Senate,,REP,Cynthia M. Lummis,74
+Crook,14-14,U.S. Senate,,REP,Devon Cade,0
+Crook,14-14,U.S. Senate,,REP,Donna Rice,4
+Crook,14-14,U.S. Senate,,REP,John Holtz,4
+Crook,14-14,U.S. Senate,,REP,Josh Wheeler,3
+Crook,14-14,U.S. Senate,,REP,Michael Kemler,0
+Crook,14-14,U.S. Senate,,REP,R. Mark Armstrong,6
+Crook,14-14,U.S. Senate,,REP,Robert G. Short,5
+Crook,14-14,U.S. Senate,,REP,Star Roselli,0
+Crook,14-14,U.S. Senate,,REP,Write-ins,0
+Crook,14-14,U.S. Senate,,REP,Over Votes,1
+Crook,14-14,U.S. Senate,,REP,Under Votes,5
+Crook,14-14,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,14-14,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,14-14,U.S. Senate,,DEM,Merav Ben David,4
+Crook,14-14,U.S. Senate,,DEM,Nathan Wendt,0
+Crook,14-14,U.S. Senate,,DEM,Rex Wilde,1
+Crook,14-14,U.S. Senate,,DEM,Yana Ludwig,1
+Crook,14-14,U.S. Senate,,DEM,Write-ins,0
+Crook,14-14,U.S. Senate,,DEM,Over Votes,0
+Crook,14-14,U.S. Senate,,DEM,Under Votes,1
+Crook,14-14,U.S. House,,REP,Blake Stanley,36
+Crook,14-14,U.S. House,,REP,Liz Cheney,89
+Crook,14-14,U.S. House,,REP,Write-ins,0
+Crook,14-14,U.S. House,,REP,Over Votes,1
+Crook,14-14,U.S. House,,REP,Under Votes,1
+Crook,14-14,U.S. House,,DEM,Carl Beach,3
+Crook,14-14,U.S. House,,DEM,Carol Hafner,0
+Crook,14-14,U.S. House,,DEM,Lynnette Grey Bull,3
+Crook,14-14,U.S. House,,DEM,Write-ins,0
+Crook,14-14,U.S. House,,DEM,Over Votes,0
+Crook,14-14,U.S. House,,DEM,Under Votes,1
+Crook,14-14,State House,1,REP,Chip Neiman,65
+Crook,14-14,State House,1,REP,Tyler Lindholm,62
+Crook,14-14,State House,1,REP,Write-ins,0
+Crook,14-14,State House,1,REP,Over Votes,0
+Crook,14-14,State House,1,REP,Under Votes,0
+Crook,14-14,State House,1,DEM,Write-ins,1
+Crook,14-14,Ballots Cast,,REP,Ballots Cast,127
+Crook,14-14,Ballots Cast,,DEM,Ballots Cast,7
+Crook,14-14,Ballots Cast,,NP,Ballots Cast,0
+Crook,14-14,Ballots Cast,,,Ballots Cast,134
+Crook,15-15,U.S. Senate,,REP,Bryan E Miller,25
+Crook,15-15,U.S. Senate,,REP,Cynthia M. Lummis,88
+Crook,15-15,U.S. Senate,,REP,Devon Cade,0
+Crook,15-15,U.S. Senate,,REP,Donna Rice,4
+Crook,15-15,U.S. Senate,,REP,John Holtz,4
+Crook,15-15,U.S. Senate,,REP,Josh Wheeler,6
+Crook,15-15,U.S. Senate,,REP,Michael Kemler,0
+Crook,15-15,U.S. Senate,,REP,R. Mark Armstrong,6
+Crook,15-15,U.S. Senate,,REP,Robert G. Short,15
+Crook,15-15,U.S. Senate,,REP,Star Roselli,1
+Crook,15-15,U.S. Senate,,REP,Write-ins,0
+Crook,15-15,U.S. Senate,,REP,Over Votes,0
+Crook,15-15,U.S. Senate,,REP,Under Votes,8
+Crook,15-15,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,15-15,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,15-15,U.S. Senate,,DEM,Merav Ben David,3
+Crook,15-15,U.S. Senate,,DEM,Nathan Wendt,1
+Crook,15-15,U.S. Senate,,DEM,Rex Wilde,0
+Crook,15-15,U.S. Senate,,DEM,Yana Ludwig,2
+Crook,15-15,U.S. Senate,,DEM,Write-ins,0
+Crook,15-15,U.S. Senate,,DEM,Over Votes,0
+Crook,15-15,U.S. Senate,,DEM,Under Votes,0
+Crook,15-15,U.S. House,,REP,Blake Stanley,36
+Crook,15-15,U.S. House,,REP,Liz Cheney,117
+Crook,15-15,U.S. House,,REP,Write-ins,0
+Crook,15-15,U.S. House,,REP,Over Votes,0
+Crook,15-15,U.S. House,,REP,Under Votes,4
+Crook,15-15,U.S. House,,DEM,Carl Beach,1
+Crook,15-15,U.S. House,,DEM,Carol Hafner,1
+Crook,15-15,U.S. House,,DEM,Lynnette Grey Bull,4
+Crook,15-15,U.S. House,,DEM,Write-ins,0
+Crook,15-15,U.S. House,,DEM,Over Votes,0
+Crook,15-15,U.S. House,,DEM,Under Votes,0
+Crook,15-15,State House,1,REP,Chip Neiman,99
+Crook,15-15,State House,1,REP,Tyler Lindholm,58
+Crook,15-15,State House,1,REP,Write-ins,0
+Crook,15-15,State House,1,REP,Over Votes,0
+Crook,15-15,State House,1,REP,Under Votes,0
+Crook,15-15,State House,1,DEM,Write-ins,0
+Crook,15-15,Ballots Cast,,REP,Ballots Cast,157
+Crook,15-15,Ballots Cast,,DEM,Ballots Cast,6
+Crook,15-15,Ballots Cast,,NP,Ballots Cast,1
+Crook,15-15,Ballots Cast,,,Ballots Cast,164
+Crook,16-16,U.S. Senate,,REP,Bryan E Miller,39
+Crook,16-16,U.S. Senate,,REP,Cynthia M. Lummis,117
+Crook,16-16,U.S. Senate,,REP,Devon Cade,0
+Crook,16-16,U.S. Senate,,REP,Donna Rice,18
+Crook,16-16,U.S. Senate,,REP,John Holtz,3
+Crook,16-16,U.S. Senate,,REP,Josh Wheeler,4
+Crook,16-16,U.S. Senate,,REP,Michael Kemler,4
+Crook,16-16,U.S. Senate,,REP,R. Mark Armstrong,4
+Crook,16-16,U.S. Senate,,REP,Robert G. Short,25
+Crook,16-16,U.S. Senate,,REP,Star Roselli,0
+Crook,16-16,U.S. Senate,,REP,Write-ins,0
+Crook,16-16,U.S. Senate,,REP,Over Votes,0
+Crook,16-16,U.S. Senate,,REP,Under Votes,8
+Crook,16-16,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,16-16,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,16-16,U.S. Senate,,DEM,Merav Ben David,0
+Crook,16-16,U.S. Senate,,DEM,Nathan Wendt,2
+Crook,16-16,U.S. Senate,,DEM,Rex Wilde,0
+Crook,16-16,U.S. Senate,,DEM,Yana Ludwig,1
+Crook,16-16,U.S. Senate,,DEM,Write-ins,0
+Crook,16-16,U.S. Senate,,DEM,Over Votes,0
+Crook,16-16,U.S. Senate,,DEM,Under Votes,0
+Crook,16-16,U.S. House,,REP,Blake Stanley,86
+Crook,16-16,U.S. House,,REP,Liz Cheney,134
+Crook,16-16,U.S. House,,REP,Write-ins,0
+Crook,16-16,U.S. House,,REP,Over Votes,0
+Crook,16-16,U.S. House,,REP,Under Votes,2
+Crook,16-16,U.S. House,,DEM,Carl Beach,2
+Crook,16-16,U.S. House,,DEM,Carol Hafner,0
+Crook,16-16,U.S. House,,DEM,Lynnette Grey Bull,1
+Crook,16-16,U.S. House,,DEM,Write-ins,0
+Crook,16-16,U.S. House,,DEM,Over Votes,0
+Crook,16-16,U.S. House,,DEM,Under Votes,0
+Crook,16-16,State House,1,REP,Chip Neiman,124
+Crook,16-16,State House,1,REP,Tyler Lindholm,98
+Crook,16-16,State House,1,REP,Write-ins,0
+Crook,16-16,State House,1,REP,Over Votes,0
+Crook,16-16,State House,1,REP,Under Votes,0
+Crook,16-16,State House,1,DEM,Write-ins,0
+Crook,16-16,Ballots Cast,,REP,Ballots Cast,222
+Crook,16-16,Ballots Cast,,DEM,Ballots Cast,3
+Crook,16-16,Ballots Cast,,NP,Ballots Cast,0
+Crook,16-16,Ballots Cast,,,Ballots Cast,225
+Crook,18-1,U.S. Senate,,REP,Bryan E Miller,15
+Crook,18-1,U.S. Senate,,REP,Cynthia M. Lummis,53
+Crook,18-1,U.S. Senate,,REP,Devon Cade,1
+Crook,18-1,U.S. Senate,,REP,Donna Rice,4
+Crook,18-1,U.S. Senate,,REP,John Holtz,1
+Crook,18-1,U.S. Senate,,REP,Josh Wheeler,4
+Crook,18-1,U.S. Senate,,REP,Michael Kemler,1
+Crook,18-1,U.S. Senate,,REP,R. Mark Armstrong,3
+Crook,18-1,U.S. Senate,,REP,Robert G. Short,9
+Crook,18-1,U.S. Senate,,REP,Star Roselli,0
+Crook,18-1,U.S. Senate,,REP,Write-ins,0
+Crook,18-1,U.S. Senate,,REP,Over Votes,0
+Crook,18-1,U.S. Senate,,REP,Under Votes,7
+Crook,18-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Crook,18-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Crook,18-1,U.S. Senate,,DEM,Merav Ben David,2
+Crook,18-1,U.S. Senate,,DEM,Nathan Wendt,0
+Crook,18-1,U.S. Senate,,DEM,Rex Wilde,1
+Crook,18-1,U.S. Senate,,DEM,Yana Ludwig,0
+Crook,18-1,U.S. Senate,,DEM,Write-ins,0
+Crook,18-1,U.S. Senate,,DEM,Over Votes,0
+Crook,18-1,U.S. Senate,,DEM,Under Votes,0
+Crook,18-1,U.S. House,,REP,Blake Stanley,28
+Crook,18-1,U.S. House,,REP,Liz Cheney,62
+Crook,18-1,U.S. House,,REP,Write-ins,1
+Crook,18-1,U.S. House,,REP,Over Votes,0
+Crook,18-1,U.S. House,,REP,Under Votes,7
+Crook,18-1,U.S. House,,DEM,Carl Beach,1
+Crook,18-1,U.S. House,,DEM,Carol Hafner,1
+Crook,18-1,U.S. House,,DEM,Lynnette Grey Bull,3
+Crook,18-1,U.S. House,,DEM,Write-ins,0
+Crook,18-1,U.S. House,,DEM,Over Votes,0
+Crook,18-1,U.S. House,,DEM,Under Votes,0
+Crook,18-1,State House,1,REP,Chip Neiman,41
+Crook,18-1,State House,1,REP,Tyler Lindholm,54
+Crook,18-1,State House,1,REP,Write-ins,0
+Crook,18-1,State House,1,REP,Over Votes,0
+Crook,18-1,State House,1,REP,Under Votes,3
+Crook,18-1,State House,1,DEM,Write-ins,0
+Crook,18-1,Ballots Cast,,REP,Ballots Cast,98
+Crook,18-1,Ballots Cast,,DEM,Ballots Cast,5
+Crook,18-1,Ballots Cast,,NP,Ballots Cast,2
+Crook,18-1,Ballots Cast,,,Ballots Cast,105
+Crook,18-2,U.S. Senate,,REP,Bryan E Miller,18
+Crook,18-2,U.S. Senate,,REP,Cynthia M. Lummis,69
+Crook,18-2,U.S. Senate,,REP,Devon Cade,0
+Crook,18-2,U.S. Senate,,REP,Donna Rice,6
+Crook,18-2,U.S. Senate,,REP,John Holtz,5
+Crook,18-2,U.S. Senate,,REP,Josh Wheeler,7
+Crook,18-2,U.S. Senate,,REP,Michael Kemler,6
+Crook,18-2,U.S. Senate,,REP,R. Mark Armstrong,4
+Crook,18-2,U.S. Senate,,REP,Robert G. Short,10
+Crook,18-2,U.S. Senate,,REP,Star Roselli,0
+Crook,18-2,U.S. Senate,,REP,Write-ins,0
+Crook,18-2,U.S. Senate,,REP,Over Votes,0
+Crook,18-2,U.S. Senate,,REP,Under Votes,4
+Crook,18-2,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,18-2,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,18-2,U.S. Senate,,DEM,Merav Ben David,1
+Crook,18-2,U.S. Senate,,DEM,Nathan Wendt,1
+Crook,18-2,U.S. Senate,,DEM,Rex Wilde,1
+Crook,18-2,U.S. Senate,,DEM,Yana Ludwig,4
+Crook,18-2,U.S. Senate,,DEM,Write-ins,0
+Crook,18-2,U.S. Senate,,DEM,Over Votes,0
+Crook,18-2,U.S. Senate,,DEM,Under Votes,0
+Crook,18-2,U.S. House,,REP,Blake Stanley,43
+Crook,18-2,U.S. House,,REP,Liz Cheney,82
+Crook,18-2,U.S. House,,REP,Write-ins,0
+Crook,18-2,U.S. House,,REP,Over Votes,0
+Crook,18-2,U.S. House,,REP,Under Votes,4
+Crook,18-2,U.S. House,,DEM,Carl Beach,1
+Crook,18-2,U.S. House,,DEM,Carol Hafner,1
+Crook,18-2,U.S. House,,DEM,Lynnette Grey Bull,5
+Crook,18-2,U.S. House,,DEM,Write-ins,0
+Crook,18-2,U.S. House,,DEM,Over Votes,0
+Crook,18-2,U.S. House,,DEM,Under Votes,0
+Crook,18-2,State House,1,REP,Chip Neiman,60
+Crook,18-2,State House,1,REP,Tyler Lindholm,67
+Crook,18-2,State House,1,REP,Write-ins,0
+Crook,18-2,State House,1,REP,Over Votes,1
+Crook,18-2,State House,1,REP,Under Votes,1
+Crook,18-2,State House,1,DEM,Write-ins,0
+Crook,18-2,Ballots Cast,,REP,Ballots Cast,129
+Crook,18-2,Ballots Cast,,DEM,Ballots Cast,7
+Crook,18-2,Ballots Cast,,NP,Ballots Cast,6
+Crook,18-2,Ballots Cast,,,Ballots Cast,142
+Crook,2-2,U.S. Senate,,REP,Bryan E Miller,74
+Crook,2-2,U.S. Senate,,REP,Cynthia M. Lummis,227
+Crook,2-2,U.S. Senate,,REP,Devon Cade,4
+Crook,2-2,U.S. Senate,,REP,Donna Rice,17
+Crook,2-2,U.S. Senate,,REP,John Holtz,8
+Crook,2-2,U.S. Senate,,REP,Josh Wheeler,5
+Crook,2-2,U.S. Senate,,REP,Michael Kemler,2
+Crook,2-2,U.S. Senate,,REP,R. Mark Armstrong,4
+Crook,2-2,U.S. Senate,,REP,Robert G. Short,16
+Crook,2-2,U.S. Senate,,REP,Star Roselli,1
+Crook,2-2,U.S. Senate,,REP,Write-ins,1
+Crook,2-2,U.S. Senate,,REP,Over Votes,3
+Crook,2-2,U.S. Senate,,REP,Under Votes,19
+Crook,2-2,U.S. Senate,,DEM,James Kirk DeBrine,2
+Crook,2-2,U.S. Senate,,DEM,Kenneth R. Casner,3
+Crook,2-2,U.S. Senate,,DEM,Merav Ben David,7
+Crook,2-2,U.S. Senate,,DEM,Nathan Wendt,5
+Crook,2-2,U.S. Senate,,DEM,Rex Wilde,1
+Crook,2-2,U.S. Senate,,DEM,Yana Ludwig,3
+Crook,2-2,U.S. Senate,,DEM,Write-ins,0
+Crook,2-2,U.S. Senate,,DEM,Over Votes,1
+Crook,2-2,U.S. Senate,,DEM,Under Votes,1
+Crook,2-2,U.S. House,,REP,Blake Stanley,90
+Crook,2-2,U.S. House,,REP,Liz Cheney,279
+Crook,2-2,U.S. House,,REP,Write-ins,0
+Crook,2-2,U.S. House,,REP,Over Votes,0
+Crook,2-2,U.S. House,,REP,Under Votes,12
+Crook,2-2,U.S. House,,DEM,Carl Beach,5
+Crook,2-2,U.S. House,,DEM,Carol Hafner,6
+Crook,2-2,U.S. House,,DEM,Lynnette Grey Bull,10
+Crook,2-2,U.S. House,,DEM,Write-ins,0
+Crook,2-2,U.S. House,,DEM,Over Votes,1
+Crook,2-2,U.S. House,,DEM,Under Votes,1
+Crook,2-2,State House,1,REP,Chip Neiman,199
+Crook,2-2,State House,1,REP,Tyler Lindholm,180
+Crook,2-2,State House,1,REP,Write-ins,1
+Crook,2-2,State House,1,REP,Over Votes,0
+Crook,2-2,State House,1,REP,Under Votes,1
+Crook,2-2,State House,1,DEM,Write-ins,6
+Crook,2-2,Ballots Cast,,REP,Ballots Cast,381
+Crook,2-2,Ballots Cast,,DEM,Ballots Cast,23
+Crook,2-2,Ballots Cast,,NP,Ballots Cast,0
+Crook,2-2,Ballots Cast,,,Ballots Cast,404
+Crook,23-23,U.S. Senate,,REP,Bryan E Miller,13
+Crook,23-23,U.S. Senate,,REP,Cynthia M. Lummis,23
+Crook,23-23,U.S. Senate,,REP,Devon Cade,0
+Crook,23-23,U.S. Senate,,REP,Donna Rice,0
+Crook,23-23,U.S. Senate,,REP,John Holtz,0
+Crook,23-23,U.S. Senate,,REP,Josh Wheeler,0
+Crook,23-23,U.S. Senate,,REP,Michael Kemler,0
+Crook,23-23,U.S. Senate,,REP,R. Mark Armstrong,0
+Crook,23-23,U.S. Senate,,REP,Robert G. Short,1
+Crook,23-23,U.S. Senate,,REP,Star Roselli,0
+Crook,23-23,U.S. Senate,,REP,Write-ins,0
+Crook,23-23,U.S. Senate,,REP,Over Votes,1
+Crook,23-23,U.S. Senate,,REP,Under Votes,0
+Crook,23-23,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,23-23,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,23-23,U.S. Senate,,DEM,Merav Ben David,0
+Crook,23-23,U.S. Senate,,DEM,Nathan Wendt,0
+Crook,23-23,U.S. Senate,,DEM,Rex Wilde,0
+Crook,23-23,U.S. Senate,,DEM,Yana Ludwig,0
+Crook,23-23,U.S. Senate,,DEM,Write-ins,0
+Crook,23-23,U.S. Senate,,DEM,Over Votes,0
+Crook,23-23,U.S. Senate,,DEM,Under Votes,0
+Crook,23-23,U.S. House,,REP,Blake Stanley,10
+Crook,23-23,U.S. House,,REP,Liz Cheney,26
+Crook,23-23,U.S. House,,REP,Write-ins,0
+Crook,23-23,U.S. House,,REP,Over Votes,0
+Crook,23-23,U.S. House,,REP,Under Votes,2
+Crook,23-23,U.S. House,,DEM,Carl Beach,0
+Crook,23-23,U.S. House,,DEM,Carol Hafner,0
+Crook,23-23,U.S. House,,DEM,Lynnette Grey Bull,0
+Crook,23-23,U.S. House,,DEM,Write-ins,0
+Crook,23-23,U.S. House,,DEM,Over Votes,0
+Crook,23-23,U.S. House,,DEM,Under Votes,0
+Crook,23-23,State House,1,REP,Chip Neiman,21
+Crook,23-23,State House,1,REP,Tyler Lindholm,17
+Crook,23-23,State House,1,REP,Write-ins,0
+Crook,23-23,State House,1,REP,Over Votes,0
+Crook,23-23,State House,1,REP,Under Votes,0
+Crook,23-23,State House,1,DEM,Write-ins,0
+Crook,23-23,Ballots Cast,,REP,Ballots Cast,38
+Crook,23-23,Ballots Cast,,DEM,Ballots Cast,0
+Crook,23-23,Ballots Cast,,NP,Ballots Cast,0
+Crook,23-23,Ballots Cast,,,Ballots Cast,38
+Crook,24-24,U.S. Senate,,REP,Bryan E Miller,4
+Crook,24-24,U.S. Senate,,REP,Cynthia M. Lummis,28
+Crook,24-24,U.S. Senate,,REP,Devon Cade,0
+Crook,24-24,U.S. Senate,,REP,Donna Rice,1
+Crook,24-24,U.S. Senate,,REP,John Holtz,2
+Crook,24-24,U.S. Senate,,REP,Josh Wheeler,0
+Crook,24-24,U.S. Senate,,REP,Michael Kemler,0
+Crook,24-24,U.S. Senate,,REP,R. Mark Armstrong,3
+Crook,24-24,U.S. Senate,,REP,Robert G. Short,1
+Crook,24-24,U.S. Senate,,REP,Star Roselli,0
+Crook,24-24,U.S. Senate,,REP,Write-ins,0
+Crook,24-24,U.S. Senate,,REP,Over Votes,0
+Crook,24-24,U.S. Senate,,REP,Under Votes,0
+Crook,24-24,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,24-24,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,24-24,U.S. Senate,,DEM,Merav Ben David,1
+Crook,24-24,U.S. Senate,,DEM,Nathan Wendt,0
+Crook,24-24,U.S. Senate,,DEM,Rex Wilde,0
+Crook,24-24,U.S. Senate,,DEM,Yana Ludwig,0
+Crook,24-24,U.S. Senate,,DEM,Write-ins,0
+Crook,24-24,U.S. Senate,,DEM,Over Votes,0
+Crook,24-24,U.S. Senate,,DEM,Under Votes,0
+Crook,24-24,U.S. House,,REP,Blake Stanley,9
+Crook,24-24,U.S. House,,REP,Liz Cheney,29
+Crook,24-24,U.S. House,,REP,Write-ins,0
+Crook,24-24,U.S. House,,REP,Over Votes,0
+Crook,24-24,U.S. House,,REP,Under Votes,1
+Crook,24-24,U.S. House,,DEM,Carl Beach,0
+Crook,24-24,U.S. House,,DEM,Carol Hafner,1
+Crook,24-24,U.S. House,,DEM,Lynnette Grey Bull,0
+Crook,24-24,U.S. House,,DEM,Write-ins,0
+Crook,24-24,U.S. House,,DEM,Over Votes,0
+Crook,24-24,U.S. House,,DEM,Under Votes,0
+Crook,24-24,State House,1,REP,Chip Neiman,28
+Crook,24-24,State House,1,REP,Tyler Lindholm,11
+Crook,24-24,State House,1,REP,Write-ins,0
+Crook,24-24,State House,1,REP,Over Votes,0
+Crook,24-24,State House,1,REP,Under Votes,0
+Crook,24-24,State House,1,DEM,Write-ins,0
+Crook,24-24,Ballots Cast,,REP,Ballots Cast,39
+Crook,24-24,Ballots Cast,,DEM,Ballots Cast,1
+Crook,24-24,Ballots Cast,,NP,Ballots Cast,0
+Crook,24-24,Ballots Cast,,,Ballots Cast,40
+Crook,26-26,U.S. Senate,,REP,Bryan E Miller,25
+Crook,26-26,U.S. Senate,,REP,Cynthia M. Lummis,18
+Crook,26-26,U.S. Senate,,REP,Devon Cade,0
+Crook,26-26,U.S. Senate,,REP,Donna Rice,1
+Crook,26-26,U.S. Senate,,REP,John Holtz,1
+Crook,26-26,U.S. Senate,,REP,Josh Wheeler,2
+Crook,26-26,U.S. Senate,,REP,Michael Kemler,0
+Crook,26-26,U.S. Senate,,REP,R. Mark Armstrong,2
+Crook,26-26,U.S. Senate,,REP,Robert G. Short,4
+Crook,26-26,U.S. Senate,,REP,Star Roselli,0
+Crook,26-26,U.S. Senate,,REP,Write-ins,0
+Crook,26-26,U.S. Senate,,REP,Over Votes,0
+Crook,26-26,U.S. Senate,,REP,Under Votes,4
+Crook,26-26,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,26-26,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,26-26,U.S. Senate,,DEM,Merav Ben David,0
+Crook,26-26,U.S. Senate,,DEM,Nathan Wendt,0
+Crook,26-26,U.S. Senate,,DEM,Rex Wilde,0
+Crook,26-26,U.S. Senate,,DEM,Yana Ludwig,0
+Crook,26-26,U.S. Senate,,DEM,Write-ins,0
+Crook,26-26,U.S. Senate,,DEM,Over Votes,0
+Crook,26-26,U.S. Senate,,DEM,Under Votes,0
+Crook,26-26,U.S. House,,REP,Blake Stanley,25
+Crook,26-26,U.S. House,,REP,Liz Cheney,27
+Crook,26-26,U.S. House,,REP,Write-ins,0
+Crook,26-26,U.S. House,,REP,Over Votes,0
+Crook,26-26,U.S. House,,REP,Under Votes,5
+Crook,26-26,U.S. House,,DEM,Carl Beach,0
+Crook,26-26,U.S. House,,DEM,Carol Hafner,0
+Crook,26-26,U.S. House,,DEM,Lynnette Grey Bull,0
+Crook,26-26,U.S. House,,DEM,Write-ins,0
+Crook,26-26,U.S. House,,DEM,Over Votes,0
+Crook,26-26,U.S. House,,DEM,Under Votes,0
+Crook,26-26,State House,1,REP,Chip Neiman,34
+Crook,26-26,State House,1,REP,Tyler Lindholm,23
+Crook,26-26,State House,1,REP,Write-ins,0
+Crook,26-26,State House,1,REP,Over Votes,0
+Crook,26-26,State House,1,REP,Under Votes,0
+Crook,26-26,State House,1,DEM,Write-ins,0
+Crook,26-26,Ballots Cast,,REP,Ballots Cast,57
+Crook,26-26,Ballots Cast,,DEM,Ballots Cast,0
+Crook,26-26,Ballots Cast,,NP,Ballots Cast,0
+Crook,26-26,Ballots Cast,,,Ballots Cast,57
+Crook,3-3,U.S. Senate,,REP,Bryan E Miller,14
+Crook,3-3,U.S. Senate,,REP,Cynthia M. Lummis,69
+Crook,3-3,U.S. Senate,,REP,Devon Cade,0
+Crook,3-3,U.S. Senate,,REP,Donna Rice,4
+Crook,3-3,U.S. Senate,,REP,John Holtz,1
+Crook,3-3,U.S. Senate,,REP,Josh Wheeler,5
+Crook,3-3,U.S. Senate,,REP,Michael Kemler,4
+Crook,3-3,U.S. Senate,,REP,R. Mark Armstrong,0
+Crook,3-3,U.S. Senate,,REP,Robert G. Short,6
+Crook,3-3,U.S. Senate,,REP,Star Roselli,0
+Crook,3-3,U.S. Senate,,REP,Write-ins,2
+Crook,3-3,U.S. Senate,,REP,Over Votes,1
+Crook,3-3,U.S. Senate,,REP,Under Votes,7
+Crook,3-3,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,3-3,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,3-3,U.S. Senate,,DEM,Merav Ben David,3
+Crook,3-3,U.S. Senate,,DEM,Nathan Wendt,1
+Crook,3-3,U.S. Senate,,DEM,Rex Wilde,0
+Crook,3-3,U.S. Senate,,DEM,Yana Ludwig,3
+Crook,3-3,U.S. Senate,,DEM,Write-ins,0
+Crook,3-3,U.S. Senate,,DEM,Over Votes,0
+Crook,3-3,U.S. Senate,,DEM,Under Votes,0
+Crook,3-3,U.S. House,,REP,Blake Stanley,19
+Crook,3-3,U.S. House,,REP,Liz Cheney,88
+Crook,3-3,U.S. House,,REP,Write-ins,1
+Crook,3-3,U.S. House,,REP,Over Votes,0
+Crook,3-3,U.S. House,,REP,Under Votes,5
+Crook,3-3,U.S. House,,DEM,Carl Beach,0
+Crook,3-3,U.S. House,,DEM,Carol Hafner,3
+Crook,3-3,U.S. House,,DEM,Lynnette Grey Bull,4
+Crook,3-3,U.S. House,,DEM,Write-ins,0
+Crook,3-3,U.S. House,,DEM,Over Votes,0
+Crook,3-3,U.S. House,,DEM,Under Votes,0
+Crook,3-3,State House,1,REP,Chip Neiman,32
+Crook,3-3,State House,1,REP,Tyler Lindholm,81
+Crook,3-3,State House,1,REP,Write-ins,0
+Crook,3-3,State House,1,REP,Over Votes,0
+Crook,3-3,State House,1,REP,Under Votes,0
+Crook,3-3,State House,1,DEM,Write-ins,0
+Crook,3-3,Ballots Cast,,REP,Ballots Cast,113
+Crook,3-3,Ballots Cast,,DEM,Ballots Cast,7
+Crook,3-3,Ballots Cast,,NP,Ballots Cast,0
+Crook,3-3,Ballots Cast,,,Ballots Cast,120
+Crook,7-7,U.S. Senate,,REP,Bryan E Miller,21
+Crook,7-7,U.S. Senate,,REP,Cynthia M. Lummis,67
+Crook,7-7,U.S. Senate,,REP,Devon Cade,0
+Crook,7-7,U.S. Senate,,REP,Donna Rice,7
+Crook,7-7,U.S. Senate,,REP,John Holtz,3
+Crook,7-7,U.S. Senate,,REP,Josh Wheeler,6
+Crook,7-7,U.S. Senate,,REP,Michael Kemler,0
+Crook,7-7,U.S. Senate,,REP,R. Mark Armstrong,2
+Crook,7-7,U.S. Senate,,REP,Robert G. Short,7
+Crook,7-7,U.S. Senate,,REP,Star Roselli,1
+Crook,7-7,U.S. Senate,,REP,Write-ins,0
+Crook,7-7,U.S. Senate,,REP,Over Votes,1
+Crook,7-7,U.S. Senate,,REP,Under Votes,4
+Crook,7-7,U.S. Senate,,DEM,James Kirk DeBrine,1
+Crook,7-7,U.S. Senate,,DEM,Kenneth R. Casner,1
+Crook,7-7,U.S. Senate,,DEM,Merav Ben David,5
+Crook,7-7,U.S. Senate,,DEM,Nathan Wendt,0
+Crook,7-7,U.S. Senate,,DEM,Rex Wilde,0
+Crook,7-7,U.S. Senate,,DEM,Yana Ludwig,3
+Crook,7-7,U.S. Senate,,DEM,Write-ins,0
+Crook,7-7,U.S. Senate,,DEM,Over Votes,0
+Crook,7-7,U.S. Senate,,DEM,Under Votes,1
+Crook,7-7,U.S. House,,REP,Blake Stanley,28
+Crook,7-7,U.S. House,,REP,Liz Cheney,85
+Crook,7-7,U.S. House,,REP,Write-ins,0
+Crook,7-7,U.S. House,,REP,Over Votes,0
+Crook,7-7,U.S. House,,REP,Under Votes,6
+Crook,7-7,U.S. House,,DEM,Carl Beach,3
+Crook,7-7,U.S. House,,DEM,Carol Hafner,2
+Crook,7-7,U.S. House,,DEM,Lynnette Grey Bull,4
+Crook,7-7,U.S. House,,DEM,Write-ins,0
+Crook,7-7,U.S. House,,DEM,Over Votes,0
+Crook,7-7,U.S. House,,DEM,Under Votes,2
+Crook,7-7,State House,1,REP,Chip Neiman,67
+Crook,7-7,State House,1,REP,Tyler Lindholm,51
+Crook,7-7,State House,1,REP,Write-ins,0
+Crook,7-7,State House,1,REP,Over Votes,1
+Crook,7-7,State House,1,REP,Under Votes,0
+Crook,7-7,State House,1,DEM,Write-ins,1
+Crook,7-7,Ballots Cast,,REP,Ballots Cast,119
+Crook,7-7,Ballots Cast,,DEM,Ballots Cast,11
+Crook,7-7,Ballots Cast,,NP,Ballots Cast,0
+Crook,7-7,Ballots Cast,,,Ballots Cast,130
+Crook,9-9,U.S. Senate,,REP,Bryan E Miller,15
+Crook,9-9,U.S. Senate,,REP,Cynthia M. Lummis,43
+Crook,9-9,U.S. Senate,,REP,Devon Cade,2
+Crook,9-9,U.S. Senate,,REP,Donna Rice,3
+Crook,9-9,U.S. Senate,,REP,John Holtz,0
+Crook,9-9,U.S. Senate,,REP,Josh Wheeler,1
+Crook,9-9,U.S. Senate,,REP,Michael Kemler,1
+Crook,9-9,U.S. Senate,,REP,R. Mark Armstrong,2
+Crook,9-9,U.S. Senate,,REP,Robert G. Short,1
+Crook,9-9,U.S. Senate,,REP,Star Roselli,0
+Crook,9-9,U.S. Senate,,REP,Write-ins,0
+Crook,9-9,U.S. Senate,,REP,Over Votes,0
+Crook,9-9,U.S. Senate,,REP,Under Votes,3
+Crook,9-9,U.S. Senate,,DEM,James Kirk DeBrine,0
+Crook,9-9,U.S. Senate,,DEM,Kenneth R. Casner,0
+Crook,9-9,U.S. Senate,,DEM,Merav Ben David,0
+Crook,9-9,U.S. Senate,,DEM,Nathan Wendt,0
+Crook,9-9,U.S. Senate,,DEM,Rex Wilde,0
+Crook,9-9,U.S. Senate,,DEM,Yana Ludwig,0
+Crook,9-9,U.S. Senate,,DEM,Write-ins,0
+Crook,9-9,U.S. Senate,,DEM,Over Votes,0
+Crook,9-9,U.S. Senate,,DEM,Under Votes,0
+Crook,9-9,U.S. House,,REP,Blake Stanley,9
+Crook,9-9,U.S. House,,REP,Liz Cheney,58
+Crook,9-9,U.S. House,,REP,Write-ins,0
+Crook,9-9,U.S. House,,REP,Over Votes,0
+Crook,9-9,U.S. House,,REP,Under Votes,4
+Crook,9-9,U.S. House,,DEM,Carl Beach,0
+Crook,9-9,U.S. House,,DEM,Carol Hafner,0
+Crook,9-9,U.S. House,,DEM,Lynnette Grey Bull,0
+Crook,9-9,U.S. House,,DEM,Write-ins,0
+Crook,9-9,U.S. House,,DEM,Over Votes,0
+Crook,9-9,U.S. House,,DEM,Under Votes,0
+Crook,9-9,State House,1,REP,Chip Neiman,39
+Crook,9-9,State House,1,REP,Tyler Lindholm,31
+Crook,9-9,State House,1,REP,Write-ins,0
+Crook,9-9,State House,1,REP,Over Votes,0
+Crook,9-9,State House,1,REP,Under Votes,1
+Crook,9-9,State House,1,DEM,Write-ins,0
+Crook,9-9,Ballots Cast,,REP,Ballots Cast,71
+Crook,9-9,Ballots Cast,,DEM,Ballots Cast,0
+Crook,9-9,Ballots Cast,,NP,Ballots Cast,0
+Crook,9-9,Ballots Cast,,,Ballots Cast,71

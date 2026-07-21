@@ -1,0 +1,755 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,1-1,U.S. Senate,,REP,Bryan E Miller,35
+Lincoln,1-1,U.S. Senate,,REP,Cynthia M. Lummis,416
+Lincoln,1-1,U.S. Senate,,REP,Devon Cade,6
+Lincoln,1-1,U.S. Senate,,REP,Donna Rice,39
+Lincoln,1-1,U.S. Senate,,REP,John Holtz,13
+Lincoln,1-1,U.S. Senate,,REP,Josh Wheeler,29
+Lincoln,1-1,U.S. Senate,,REP,Michael Kemler,6
+Lincoln,1-1,U.S. Senate,,REP,R. Mark Armstrong,40
+Lincoln,1-1,U.S. Senate,,REP,Robert G. Short,20
+Lincoln,1-1,U.S. Senate,,REP,Star Roselli,4
+Lincoln,1-1,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-1,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-1,U.S. Senate,,REP,Under Votes,36
+Lincoln,1-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Lincoln,1-1,U.S. Senate,,DEM,Kenneth R. Casner,2
+Lincoln,1-1,U.S. Senate,,DEM,Merav Ben David,38
+Lincoln,1-1,U.S. Senate,,DEM,Nathan Wendt,17
+Lincoln,1-1,U.S. Senate,,DEM,Rex Wilde,12
+Lincoln,1-1,U.S. Senate,,DEM,Yana Ludwig,10
+Lincoln,1-1,U.S. Senate,,DEM,Write-ins,1
+Lincoln,1-1,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-1,U.S. Senate,,DEM,Under Votes,11
+Lincoln,1-1,U.S. House,,REP,Blake Stanley,181
+Lincoln,1-1,U.S. House,,REP,Liz Cheney,441
+Lincoln,1-1,U.S. House,,REP,Write-ins,1
+Lincoln,1-1,U.S. House,,REP,Over Votes,0
+Lincoln,1-1,U.S. House,,REP,Under Votes,21
+Lincoln,1-1,U.S. House,,DEM,Carl Beach,22
+Lincoln,1-1,U.S. House,,DEM,Carol Hafner,17
+Lincoln,1-1,U.S. House,,DEM,Lynnette Grey Bull,42
+Lincoln,1-1,U.S. House,,DEM,Write-ins,1
+Lincoln,1-1,U.S. House,,DEM,Over Votes,1
+Lincoln,1-1,U.S. House,,DEM,Under Votes,9
+Lincoln,1-1,State Senate,14,REP,Fred Baldwin,419
+Lincoln,1-1,State Senate,14,REP,Lyle Williams,156
+Lincoln,1-1,State Senate,14,REP,Rex Rammell,61
+Lincoln,1-1,State Senate,14,REP,Write-ins,1
+Lincoln,1-1,State Senate,14,REP,Over Votes,0
+Lincoln,1-1,State Senate,14,REP,Under Votes,7
+Lincoln,1-1,State Senate,14,DEM,Write-ins,9
+Lincoln,1-1,State House,18,REP,Mike Lundgren,49
+Lincoln,1-1,State House,18,REP,Scott Heiner,181
+Lincoln,1-1,State House,18,REP,Thomas D. Crank,410
+Lincoln,1-1,State House,18,REP,Write-ins,1
+Lincoln,1-1,State House,18,REP,Over Votes,0
+Lincoln,1-1,State House,18,REP,Under Votes,3
+Lincoln,1-1,State House,18,DEM,Write-ins,9
+Lincoln,1-1,Ballots Cast,,REP,Ballots Cast,644
+Lincoln,1-1,Ballots Cast,,DEM,Ballots Cast,92
+Lincoln,1-1,Ballots Cast,,NP,Ballots Cast,27
+Lincoln,1-1,Ballots Cast,,,Ballots Cast,763
+Lincoln,1-4,U.S. Senate,,REP,Bryan E Miller,21
+Lincoln,1-4,U.S. Senate,,REP,Cynthia M. Lummis,118
+Lincoln,1-4,U.S. Senate,,REP,Devon Cade,1
+Lincoln,1-4,U.S. Senate,,REP,Donna Rice,15
+Lincoln,1-4,U.S. Senate,,REP,John Holtz,2
+Lincoln,1-4,U.S. Senate,,REP,Josh Wheeler,10
+Lincoln,1-4,U.S. Senate,,REP,Michael Kemler,1
+Lincoln,1-4,U.S. Senate,,REP,R. Mark Armstrong,4
+Lincoln,1-4,U.S. Senate,,REP,Robert G. Short,6
+Lincoln,1-4,U.S. Senate,,REP,Star Roselli,1
+Lincoln,1-4,U.S. Senate,,REP,Write-ins,1
+Lincoln,1-4,U.S. Senate,,REP,Over Votes,1
+Lincoln,1-4,U.S. Senate,,REP,Under Votes,4
+Lincoln,1-4,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,1-4,U.S. Senate,,DEM,Kenneth R. Casner,6
+Lincoln,1-4,U.S. Senate,,DEM,Merav Ben David,11
+Lincoln,1-4,U.S. Senate,,DEM,Nathan Wendt,9
+Lincoln,1-4,U.S. Senate,,DEM,Rex Wilde,9
+Lincoln,1-4,U.S. Senate,,DEM,Yana Ludwig,3
+Lincoln,1-4,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-4,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-4,U.S. Senate,,DEM,Under Votes,6
+Lincoln,1-4,U.S. House,,REP,Blake Stanley,52
+Lincoln,1-4,U.S. House,,REP,Liz Cheney,126
+Lincoln,1-4,U.S. House,,REP,Write-ins,1
+Lincoln,1-4,U.S. House,,REP,Over Votes,0
+Lincoln,1-4,U.S. House,,REP,Under Votes,6
+Lincoln,1-4,U.S. House,,DEM,Carl Beach,5
+Lincoln,1-4,U.S. House,,DEM,Carol Hafner,12
+Lincoln,1-4,U.S. House,,DEM,Lynnette Grey Bull,21
+Lincoln,1-4,U.S. House,,DEM,Write-ins,0
+Lincoln,1-4,U.S. House,,DEM,Over Votes,0
+Lincoln,1-4,U.S. House,,DEM,Under Votes,6
+Lincoln,1-4,State Senate,14,REP,Fred Baldwin,99
+Lincoln,1-4,State Senate,14,REP,Lyle Williams,59
+Lincoln,1-4,State Senate,14,REP,Rex Rammell,27
+Lincoln,1-4,State Senate,14,REP,Write-ins,0
+Lincoln,1-4,State Senate,14,REP,Over Votes,0
+Lincoln,1-4,State Senate,14,REP,Under Votes,0
+Lincoln,1-4,State Senate,14,DEM,Write-ins,3
+Lincoln,1-4,State House,18,REP,Mike Lundgren,12
+Lincoln,1-4,State House,18,REP,Scott Heiner,70
+Lincoln,1-4,State House,18,REP,Thomas D. Crank,103
+Lincoln,1-4,State House,18,REP,Write-ins,0
+Lincoln,1-4,State House,18,REP,Over Votes,0
+Lincoln,1-4,State House,18,REP,Under Votes,0
+Lincoln,1-4,State House,18,DEM,Write-ins,2
+Lincoln,1-4,Ballots Cast,,REP,Ballots Cast,185
+Lincoln,1-4,Ballots Cast,,DEM,Ballots Cast,44
+Lincoln,1-4,Ballots Cast,,NP,Ballots Cast,2
+Lincoln,1-4,Ballots Cast,,,Ballots Cast,231
+Lincoln,1-6,U.S. Senate,,REP,Bryan E Miller,3
+Lincoln,1-6,U.S. Senate,,REP,Cynthia M. Lummis,63
+Lincoln,1-6,U.S. Senate,,REP,Devon Cade,2
+Lincoln,1-6,U.S. Senate,,REP,Donna Rice,7
+Lincoln,1-6,U.S. Senate,,REP,John Holtz,4
+Lincoln,1-6,U.S. Senate,,REP,Josh Wheeler,5
+Lincoln,1-6,U.S. Senate,,REP,Michael Kemler,0
+Lincoln,1-6,U.S. Senate,,REP,R. Mark Armstrong,0
+Lincoln,1-6,U.S. Senate,,REP,Robert G. Short,7
+Lincoln,1-6,U.S. Senate,,REP,Star Roselli,0
+Lincoln,1-6,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-6,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-6,U.S. Senate,,REP,Under Votes,1
+Lincoln,1-6,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,1-6,U.S. Senate,,DEM,Kenneth R. Casner,1
+Lincoln,1-6,U.S. Senate,,DEM,Merav Ben David,2
+Lincoln,1-6,U.S. Senate,,DEM,Nathan Wendt,0
+Lincoln,1-6,U.S. Senate,,DEM,Rex Wilde,0
+Lincoln,1-6,U.S. Senate,,DEM,Yana Ludwig,2
+Lincoln,1-6,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-6,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-6,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-6,U.S. House,,REP,Blake Stanley,18
+Lincoln,1-6,U.S. House,,REP,Liz Cheney,73
+Lincoln,1-6,U.S. House,,REP,Write-ins,0
+Lincoln,1-6,U.S. House,,REP,Over Votes,0
+Lincoln,1-6,U.S. House,,REP,Under Votes,1
+Lincoln,1-6,U.S. House,,DEM,Carl Beach,1
+Lincoln,1-6,U.S. House,,DEM,Carol Hafner,0
+Lincoln,1-6,U.S. House,,DEM,Lynnette Grey Bull,4
+Lincoln,1-6,U.S. House,,DEM,Write-ins,0
+Lincoln,1-6,U.S. House,,DEM,Over Votes,0
+Lincoln,1-6,U.S. House,,DEM,Under Votes,0
+Lincoln,1-6,State Senate,14,REP,Fred Baldwin,37
+Lincoln,1-6,State Senate,14,REP,Lyle Williams,2
+Lincoln,1-6,State Senate,14,REP,Rex Rammell,7
+Lincoln,1-6,State Senate,14,REP,Write-ins,0
+Lincoln,1-6,State Senate,14,REP,Over Votes,0
+Lincoln,1-6,State Senate,14,REP,Under Votes,1
+Lincoln,1-6,State Senate,14,DEM,Write-ins,0
+Lincoln,1-6,State Senate,16,REP,Dan Dockstader,36
+Lincoln,1-6,State Senate,16,REP,Write-ins,0
+Lincoln,1-6,State Senate,16,REP,Over Votes,0
+Lincoln,1-6,State Senate,16,REP,Under Votes,9
+Lincoln,1-6,State Senate,16,DEM,Write-ins,0
+Lincoln,1-6,State House,18,REP,Mike Lundgren,4
+Lincoln,1-6,State House,18,REP,Scott Heiner,8
+Lincoln,1-6,State House,18,REP,Thomas D. Crank,35
+Lincoln,1-6,State House,18,REP,Write-ins,0
+Lincoln,1-6,State House,18,REP,Over Votes,0
+Lincoln,1-6,State House,18,REP,Under Votes,0
+Lincoln,1-6,State House,18,DEM,Write-ins,0
+Lincoln,1-6,State House,21,REP,Evan J. Simpson,15
+Lincoln,1-6,State House,21,REP,Taylor Allred,27
+Lincoln,1-6,State House,21,REP,Write-ins,0
+Lincoln,1-6,State House,21,REP,Over Votes,0
+Lincoln,1-6,State House,21,REP,Under Votes,3
+Lincoln,1-6,State House,21,DEM,Write-ins,1
+Lincoln,1-6,Ballots Cast,,REP,Ballots Cast,92
+Lincoln,1-6,Ballots Cast,,DEM,Ballots Cast,5
+Lincoln,1-6,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,1-6,Ballots Cast,,,Ballots Cast,97
+Lincoln,1-7,U.S. Senate,,REP,Bryan E Miller,7
+Lincoln,1-7,U.S. Senate,,REP,Cynthia M. Lummis,32
+Lincoln,1-7,U.S. Senate,,REP,Devon Cade,0
+Lincoln,1-7,U.S. Senate,,REP,Donna Rice,1
+Lincoln,1-7,U.S. Senate,,REP,John Holtz,2
+Lincoln,1-7,U.S. Senate,,REP,Josh Wheeler,1
+Lincoln,1-7,U.S. Senate,,REP,Michael Kemler,0
+Lincoln,1-7,U.S. Senate,,REP,R. Mark Armstrong,1
+Lincoln,1-7,U.S. Senate,,REP,Robert G. Short,4
+Lincoln,1-7,U.S. Senate,,REP,Star Roselli,0
+Lincoln,1-7,U.S. Senate,,REP,Write-ins,1
+Lincoln,1-7,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-7,U.S. Senate,,REP,Under Votes,1
+Lincoln,1-7,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,1-7,U.S. Senate,,DEM,Kenneth R. Casner,0
+Lincoln,1-7,U.S. Senate,,DEM,Merav Ben David,2
+Lincoln,1-7,U.S. Senate,,DEM,Nathan Wendt,1
+Lincoln,1-7,U.S. Senate,,DEM,Rex Wilde,0
+Lincoln,1-7,U.S. Senate,,DEM,Yana Ludwig,0
+Lincoln,1-7,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-7,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-7,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-7,U.S. House,,REP,Blake Stanley,13
+Lincoln,1-7,U.S. House,,REP,Liz Cheney,34
+Lincoln,1-7,U.S. House,,REP,Write-ins,0
+Lincoln,1-7,U.S. House,,REP,Over Votes,0
+Lincoln,1-7,U.S. House,,REP,Under Votes,3
+Lincoln,1-7,U.S. House,,DEM,Carl Beach,0
+Lincoln,1-7,U.S. House,,DEM,Carol Hafner,2
+Lincoln,1-7,U.S. House,,DEM,Lynnette Grey Bull,1
+Lincoln,1-7,U.S. House,,DEM,Write-ins,0
+Lincoln,1-7,U.S. House,,DEM,Over Votes,0
+Lincoln,1-7,U.S. House,,DEM,Under Votes,0
+Lincoln,1-7,State Senate,14,REP,Fred Baldwin,19
+Lincoln,1-7,State Senate,14,REP,Lyle Williams,23
+Lincoln,1-7,State Senate,14,REP,Rex Rammell,6
+Lincoln,1-7,State Senate,14,REP,Write-ins,0
+Lincoln,1-7,State Senate,14,REP,Over Votes,0
+Lincoln,1-7,State Senate,14,REP,Under Votes,2
+Lincoln,1-7,State Senate,14,DEM,Write-ins,0
+Lincoln,1-7,State House,18,REP,Mike Lundgren,1
+Lincoln,1-7,State House,18,REP,Scott Heiner,17
+Lincoln,1-7,State House,18,REP,Thomas D. Crank,32
+Lincoln,1-7,State House,18,REP,Write-ins,0
+Lincoln,1-7,State House,18,REP,Over Votes,0
+Lincoln,1-7,State House,18,REP,Under Votes,0
+Lincoln,1-7,State House,18,DEM,Write-ins,0
+Lincoln,1-7,Ballots Cast,,REP,Ballots Cast,50
+Lincoln,1-7,Ballots Cast,,DEM,Ballots Cast,3
+Lincoln,1-7,Ballots Cast,,NP,Ballots Cast,2
+Lincoln,1-7,Ballots Cast,,,Ballots Cast,55
+Lincoln,1-8,U.S. Senate,,REP,Bryan E Miller,11
+Lincoln,1-8,U.S. Senate,,REP,Cynthia M. Lummis,97
+Lincoln,1-8,U.S. Senate,,REP,Devon Cade,1
+Lincoln,1-8,U.S. Senate,,REP,Donna Rice,8
+Lincoln,1-8,U.S. Senate,,REP,John Holtz,7
+Lincoln,1-8,U.S. Senate,,REP,Josh Wheeler,4
+Lincoln,1-8,U.S. Senate,,REP,Michael Kemler,3
+Lincoln,1-8,U.S. Senate,,REP,R. Mark Armstrong,12
+Lincoln,1-8,U.S. Senate,,REP,Robert G. Short,7
+Lincoln,1-8,U.S. Senate,,REP,Star Roselli,1
+Lincoln,1-8,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-8,U.S. Senate,,REP,Over Votes,1
+Lincoln,1-8,U.S. Senate,,REP,Under Votes,7
+Lincoln,1-8,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,1-8,U.S. Senate,,DEM,Kenneth R. Casner,0
+Lincoln,1-8,U.S. Senate,,DEM,Merav Ben David,0
+Lincoln,1-8,U.S. Senate,,DEM,Nathan Wendt,1
+Lincoln,1-8,U.S. Senate,,DEM,Rex Wilde,0
+Lincoln,1-8,U.S. Senate,,DEM,Yana Ludwig,2
+Lincoln,1-8,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-8,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-8,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-8,U.S. House,,REP,Blake Stanley,58
+Lincoln,1-8,U.S. House,,REP,Liz Cheney,92
+Lincoln,1-8,U.S. House,,REP,Write-ins,1
+Lincoln,1-8,U.S. House,,REP,Over Votes,2
+Lincoln,1-8,U.S. House,,REP,Under Votes,6
+Lincoln,1-8,U.S. House,,DEM,Carl Beach,1
+Lincoln,1-8,U.S. House,,DEM,Carol Hafner,1
+Lincoln,1-8,U.S. House,,DEM,Lynnette Grey Bull,1
+Lincoln,1-8,U.S. House,,DEM,Write-ins,0
+Lincoln,1-8,U.S. House,,DEM,Over Votes,0
+Lincoln,1-8,U.S. House,,DEM,Under Votes,0
+Lincoln,1-8,State Senate,14,REP,Fred Baldwin,46
+Lincoln,1-8,State Senate,14,REP,Lyle Williams,38
+Lincoln,1-8,State Senate,14,REP,Rex Rammell,16
+Lincoln,1-8,State Senate,14,REP,Write-ins,3
+Lincoln,1-8,State Senate,14,REP,Over Votes,1
+Lincoln,1-8,State Senate,14,REP,Under Votes,6
+Lincoln,1-8,State Senate,14,DEM,Write-ins,0
+Lincoln,1-8,State Senate,16,REP,Dan Dockstader,37
+Lincoln,1-8,State Senate,16,REP,Write-ins,2
+Lincoln,1-8,State Senate,16,REP,Over Votes,0
+Lincoln,1-8,State Senate,16,REP,Under Votes,10
+Lincoln,1-8,State Senate,16,DEM,Write-ins,0
+Lincoln,1-8,State House,18,REP,Mike Lundgren,11
+Lincoln,1-8,State House,18,REP,Scott Heiner,60
+Lincoln,1-8,State House,18,REP,Thomas D. Crank,31
+Lincoln,1-8,State House,18,REP,Write-ins,0
+Lincoln,1-8,State House,18,REP,Over Votes,2
+Lincoln,1-8,State House,18,REP,Under Votes,6
+Lincoln,1-8,State House,18,DEM,Write-ins,0
+Lincoln,1-8,State House,21,REP,Evan J. Simpson,13
+Lincoln,1-8,State House,21,REP,Taylor Allred,26
+Lincoln,1-8,State House,21,REP,Write-ins,2
+Lincoln,1-8,State House,21,REP,Over Votes,2
+Lincoln,1-8,State House,21,REP,Under Votes,6
+Lincoln,1-8,State House,21,DEM,Write-ins,1
+Lincoln,1-8,Ballots Cast,,REP,Ballots Cast,159
+Lincoln,1-8,Ballots Cast,,DEM,Ballots Cast,3
+Lincoln,1-8,Ballots Cast,,NP,Ballots Cast,3
+Lincoln,1-8,Ballots Cast,,,Ballots Cast,165
+Lincoln,2-1,U.S. Senate,,REP,Bryan E Miller,24
+Lincoln,2-1,U.S. Senate,,REP,Cynthia M. Lummis,334
+Lincoln,2-1,U.S. Senate,,REP,Devon Cade,1
+Lincoln,2-1,U.S. Senate,,REP,Donna Rice,11
+Lincoln,2-1,U.S. Senate,,REP,John Holtz,6
+Lincoln,2-1,U.S. Senate,,REP,Josh Wheeler,9
+Lincoln,2-1,U.S. Senate,,REP,Michael Kemler,2
+Lincoln,2-1,U.S. Senate,,REP,R. Mark Armstrong,9
+Lincoln,2-1,U.S. Senate,,REP,Robert G. Short,17
+Lincoln,2-1,U.S. Senate,,REP,Star Roselli,2
+Lincoln,2-1,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-1,U.S. Senate,,REP,Over Votes,2
+Lincoln,2-1,U.S. Senate,,REP,Under Votes,17
+Lincoln,2-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,2-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Lincoln,2-1,U.S. Senate,,DEM,Merav Ben David,6
+Lincoln,2-1,U.S. Senate,,DEM,Nathan Wendt,6
+Lincoln,2-1,U.S. Senate,,DEM,Rex Wilde,0
+Lincoln,2-1,U.S. Senate,,DEM,Yana Ludwig,2
+Lincoln,2-1,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-1,U.S. Senate,,DEM,Over Votes,1
+Lincoln,2-1,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-1,U.S. House,,REP,Blake Stanley,77
+Lincoln,2-1,U.S. House,,REP,Liz Cheney,346
+Lincoln,2-1,U.S. House,,REP,Write-ins,1
+Lincoln,2-1,U.S. House,,REP,Over Votes,1
+Lincoln,2-1,U.S. House,,REP,Under Votes,10
+Lincoln,2-1,U.S. House,,DEM,Carl Beach,1
+Lincoln,2-1,U.S. House,,DEM,Carol Hafner,3
+Lincoln,2-1,U.S. House,,DEM,Lynnette Grey Bull,11
+Lincoln,2-1,U.S. House,,DEM,Write-ins,0
+Lincoln,2-1,U.S. House,,DEM,Over Votes,0
+Lincoln,2-1,U.S. House,,DEM,Under Votes,2
+Lincoln,2-1,State Senate,16,REP,Dan Dockstader,394
+Lincoln,2-1,State Senate,16,REP,Write-ins,5
+Lincoln,2-1,State Senate,16,REP,Over Votes,0
+Lincoln,2-1,State Senate,16,REP,Under Votes,36
+Lincoln,2-1,State Senate,16,DEM,Write-ins,0
+Lincoln,2-1,State House,21,REP,Evan J. Simpson,291
+Lincoln,2-1,State House,21,REP,Taylor Allred,136
+Lincoln,2-1,State House,21,REP,Write-ins,0
+Lincoln,2-1,State House,21,REP,Over Votes,2
+Lincoln,2-1,State House,21,REP,Under Votes,6
+Lincoln,2-1,State House,21,DEM,Write-ins,0
+Lincoln,2-1,Ballots Cast,,REP,Ballots Cast,435
+Lincoln,2-1,Ballots Cast,,DEM,Ballots Cast,17
+Lincoln,2-1,Ballots Cast,,NP,Ballots Cast,6
+Lincoln,2-1,Ballots Cast,,,Ballots Cast,458
+Lincoln,2-10,U.S. Senate,,REP,Bryan E Miller,18
+Lincoln,2-10,U.S. Senate,,REP,Cynthia M. Lummis,310
+Lincoln,2-10,U.S. Senate,,REP,Devon Cade,4
+Lincoln,2-10,U.S. Senate,,REP,Donna Rice,15
+Lincoln,2-10,U.S. Senate,,REP,John Holtz,4
+Lincoln,2-10,U.S. Senate,,REP,Josh Wheeler,19
+Lincoln,2-10,U.S. Senate,,REP,Michael Kemler,2
+Lincoln,2-10,U.S. Senate,,REP,R. Mark Armstrong,16
+Lincoln,2-10,U.S. Senate,,REP,Robert G. Short,28
+Lincoln,2-10,U.S. Senate,,REP,Star Roselli,1
+Lincoln,2-10,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-10,U.S. Senate,,REP,Over Votes,3
+Lincoln,2-10,U.S. Senate,,REP,Under Votes,13
+Lincoln,2-10,U.S. Senate,,DEM,James Kirk DeBrine,2
+Lincoln,2-10,U.S. Senate,,DEM,Kenneth R. Casner,2
+Lincoln,2-10,U.S. Senate,,DEM,Merav Ben David,41
+Lincoln,2-10,U.S. Senate,,DEM,Nathan Wendt,16
+Lincoln,2-10,U.S. Senate,,DEM,Rex Wilde,7
+Lincoln,2-10,U.S. Senate,,DEM,Yana Ludwig,20
+Lincoln,2-10,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-10,U.S. Senate,,DEM,Over Votes,1
+Lincoln,2-10,U.S. Senate,,DEM,Under Votes,7
+Lincoln,2-10,U.S. House,,REP,Blake Stanley,78
+Lincoln,2-10,U.S. House,,REP,Liz Cheney,343
+Lincoln,2-10,U.S. House,,REP,Write-ins,1
+Lincoln,2-10,U.S. House,,REP,Over Votes,4
+Lincoln,2-10,U.S. House,,REP,Under Votes,7
+Lincoln,2-10,U.S. House,,DEM,Carl Beach,12
+Lincoln,2-10,U.S. House,,DEM,Carol Hafner,16
+Lincoln,2-10,U.S. House,,DEM,Lynnette Grey Bull,62
+Lincoln,2-10,U.S. House,,DEM,Write-ins,0
+Lincoln,2-10,U.S. House,,DEM,Over Votes,1
+Lincoln,2-10,U.S. House,,DEM,Under Votes,5
+Lincoln,2-10,State Senate,16,REP,Dan Dockstader,392
+Lincoln,2-10,State Senate,16,REP,Write-ins,2
+Lincoln,2-10,State Senate,16,REP,Over Votes,0
+Lincoln,2-10,State Senate,16,REP,Under Votes,39
+Lincoln,2-10,State Senate,16,DEM,Write-ins,4
+Lincoln,2-10,State House,22,REP,Bill Winney,347
+Lincoln,2-10,State House,22,REP,Write-ins,11
+Lincoln,2-10,State House,22,REP,Over Votes,0
+Lincoln,2-10,State House,22,REP,Under Votes,75
+Lincoln,2-10,State House,22,DEM,Write-ins,5
+Lincoln,2-10,Ballots Cast,,REP,Ballots Cast,433
+Lincoln,2-10,Ballots Cast,,DEM,Ballots Cast,96
+Lincoln,2-10,Ballots Cast,,NP,Ballots Cast,39
+Lincoln,2-10,Ballots Cast,,,Ballots Cast,568
+Lincoln,2-2,U.S. Senate,,REP,Bryan E Miller,9
+Lincoln,2-2,U.S. Senate,,REP,Cynthia M. Lummis,100
+Lincoln,2-2,U.S. Senate,,REP,Devon Cade,0
+Lincoln,2-2,U.S. Senate,,REP,Donna Rice,7
+Lincoln,2-2,U.S. Senate,,REP,John Holtz,1
+Lincoln,2-2,U.S. Senate,,REP,Josh Wheeler,3
+Lincoln,2-2,U.S. Senate,,REP,Michael Kemler,1
+Lincoln,2-2,U.S. Senate,,REP,R. Mark Armstrong,2
+Lincoln,2-2,U.S. Senate,,REP,Robert G. Short,3
+Lincoln,2-2,U.S. Senate,,REP,Star Roselli,0
+Lincoln,2-2,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-2,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-2,U.S. Senate,,REP,Under Votes,8
+Lincoln,2-2,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,2-2,U.S. Senate,,DEM,Kenneth R. Casner,1
+Lincoln,2-2,U.S. Senate,,DEM,Merav Ben David,5
+Lincoln,2-2,U.S. Senate,,DEM,Nathan Wendt,0
+Lincoln,2-2,U.S. Senate,,DEM,Rex Wilde,0
+Lincoln,2-2,U.S. Senate,,DEM,Yana Ludwig,2
+Lincoln,2-2,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-2,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-2,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-2,U.S. House,,REP,Blake Stanley,21
+Lincoln,2-2,U.S. House,,REP,Liz Cheney,112
+Lincoln,2-2,U.S. House,,REP,Write-ins,0
+Lincoln,2-2,U.S. House,,REP,Over Votes,0
+Lincoln,2-2,U.S. House,,REP,Under Votes,1
+Lincoln,2-2,U.S. House,,DEM,Carl Beach,4
+Lincoln,2-2,U.S. House,,DEM,Carol Hafner,0
+Lincoln,2-2,U.S. House,,DEM,Lynnette Grey Bull,4
+Lincoln,2-2,U.S. House,,DEM,Write-ins,0
+Lincoln,2-2,U.S. House,,DEM,Over Votes,0
+Lincoln,2-2,U.S. House,,DEM,Under Votes,0
+Lincoln,2-2,State Senate,16,REP,Dan Dockstader,123
+Lincoln,2-2,State Senate,16,REP,Write-ins,3
+Lincoln,2-2,State Senate,16,REP,Over Votes,0
+Lincoln,2-2,State Senate,16,REP,Under Votes,8
+Lincoln,2-2,State Senate,16,DEM,Write-ins,1
+Lincoln,2-2,State House,21,REP,Evan J. Simpson,100
+Lincoln,2-2,State House,21,REP,Taylor Allred,30
+Lincoln,2-2,State House,21,REP,Write-ins,1
+Lincoln,2-2,State House,21,REP,Over Votes,0
+Lincoln,2-2,State House,21,REP,Under Votes,3
+Lincoln,2-2,State House,21,DEM,Write-ins,1
+Lincoln,2-2,Ballots Cast,,REP,Ballots Cast,134
+Lincoln,2-2,Ballots Cast,,DEM,Ballots Cast,8
+Lincoln,2-2,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-2,Ballots Cast,,,Ballots Cast,142
+Lincoln,2-3,U.S. Senate,,REP,Bryan E Miller,27
+Lincoln,2-3,U.S. Senate,,REP,Cynthia M. Lummis,166
+Lincoln,2-3,U.S. Senate,,REP,Devon Cade,1
+Lincoln,2-3,U.S. Senate,,REP,Donna Rice,9
+Lincoln,2-3,U.S. Senate,,REP,John Holtz,3
+Lincoln,2-3,U.S. Senate,,REP,Josh Wheeler,5
+Lincoln,2-3,U.S. Senate,,REP,Michael Kemler,3
+Lincoln,2-3,U.S. Senate,,REP,R. Mark Armstrong,10
+Lincoln,2-3,U.S. Senate,,REP,Robert G. Short,10
+Lincoln,2-3,U.S. Senate,,REP,Star Roselli,3
+Lincoln,2-3,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-3,U.S. Senate,,REP,Over Votes,1
+Lincoln,2-3,U.S. Senate,,REP,Under Votes,15
+Lincoln,2-3,U.S. Senate,,DEM,James Kirk DeBrine,5
+Lincoln,2-3,U.S. Senate,,DEM,Kenneth R. Casner,6
+Lincoln,2-3,U.S. Senate,,DEM,Merav Ben David,16
+Lincoln,2-3,U.S. Senate,,DEM,Nathan Wendt,13
+Lincoln,2-3,U.S. Senate,,DEM,Rex Wilde,8
+Lincoln,2-3,U.S. Senate,,DEM,Yana Ludwig,12
+Lincoln,2-3,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-3,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-3,U.S. Senate,,DEM,Under Votes,7
+Lincoln,2-3,U.S. House,,REP,Blake Stanley,56
+Lincoln,2-3,U.S. House,,REP,Liz Cheney,187
+Lincoln,2-3,U.S. House,,REP,Write-ins,1
+Lincoln,2-3,U.S. House,,REP,Over Votes,0
+Lincoln,2-3,U.S. House,,REP,Under Votes,9
+Lincoln,2-3,U.S. House,,DEM,Carl Beach,10
+Lincoln,2-3,U.S. House,,DEM,Carol Hafner,10
+Lincoln,2-3,U.S. House,,DEM,Lynnette Grey Bull,39
+Lincoln,2-3,U.S. House,,DEM,Write-ins,0
+Lincoln,2-3,U.S. House,,DEM,Over Votes,0
+Lincoln,2-3,U.S. House,,DEM,Under Votes,8
+Lincoln,2-3,State Senate,16,REP,Dan Dockstader,213
+Lincoln,2-3,State Senate,16,REP,Write-ins,0
+Lincoln,2-3,State Senate,16,REP,Over Votes,0
+Lincoln,2-3,State Senate,16,REP,Under Votes,40
+Lincoln,2-3,State Senate,16,DEM,Write-ins,4
+Lincoln,2-3,State House,22,REP,Bill Winney,176
+Lincoln,2-3,State House,22,REP,Write-ins,28
+Lincoln,2-3,State House,22,REP,Over Votes,0
+Lincoln,2-3,State House,22,REP,Under Votes,49
+Lincoln,2-3,State House,22,DEM,Write-ins,4
+Lincoln,2-3,Ballots Cast,,REP,Ballots Cast,253
+Lincoln,2-3,Ballots Cast,,DEM,Ballots Cast,67
+Lincoln,2-3,Ballots Cast,,NP,Ballots Cast,18
+Lincoln,2-3,Ballots Cast,,,Ballots Cast,338
+Lincoln,2-4,U.S. Senate,,REP,Bryan E Miller,23
+Lincoln,2-4,U.S. Senate,,REP,Cynthia M. Lummis,135
+Lincoln,2-4,U.S. Senate,,REP,Devon Cade,0
+Lincoln,2-4,U.S. Senate,,REP,Donna Rice,4
+Lincoln,2-4,U.S. Senate,,REP,John Holtz,1
+Lincoln,2-4,U.S. Senate,,REP,Josh Wheeler,8
+Lincoln,2-4,U.S. Senate,,REP,Michael Kemler,2
+Lincoln,2-4,U.S. Senate,,REP,R. Mark Armstrong,5
+Lincoln,2-4,U.S. Senate,,REP,Robert G. Short,11
+Lincoln,2-4,U.S. Senate,,REP,Star Roselli,0
+Lincoln,2-4,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-4,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-4,U.S. Senate,,REP,Under Votes,6
+Lincoln,2-4,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,2-4,U.S. Senate,,DEM,Kenneth R. Casner,1
+Lincoln,2-4,U.S. Senate,,DEM,Merav Ben David,3
+Lincoln,2-4,U.S. Senate,,DEM,Nathan Wendt,2
+Lincoln,2-4,U.S. Senate,,DEM,Rex Wilde,0
+Lincoln,2-4,U.S. Senate,,DEM,Yana Ludwig,3
+Lincoln,2-4,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-4,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-4,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-4,U.S. House,,REP,Blake Stanley,38
+Lincoln,2-4,U.S. House,,REP,Liz Cheney,150
+Lincoln,2-4,U.S. House,,REP,Write-ins,0
+Lincoln,2-4,U.S. House,,REP,Over Votes,0
+Lincoln,2-4,U.S. House,,REP,Under Votes,7
+Lincoln,2-4,U.S. House,,DEM,Carl Beach,0
+Lincoln,2-4,U.S. House,,DEM,Carol Hafner,2
+Lincoln,2-4,U.S. House,,DEM,Lynnette Grey Bull,7
+Lincoln,2-4,U.S. House,,DEM,Write-ins,0
+Lincoln,2-4,U.S. House,,DEM,Over Votes,1
+Lincoln,2-4,U.S. House,,DEM,Under Votes,0
+Lincoln,2-4,State Senate,16,REP,Dan Dockstader,184
+Lincoln,2-4,State Senate,16,REP,Write-ins,0
+Lincoln,2-4,State Senate,16,REP,Over Votes,0
+Lincoln,2-4,State Senate,16,REP,Under Votes,11
+Lincoln,2-4,State Senate,16,DEM,Write-ins,1
+Lincoln,2-4,State House,21,REP,Evan J. Simpson,107
+Lincoln,2-4,State House,21,REP,Taylor Allred,81
+Lincoln,2-4,State House,21,REP,Write-ins,0
+Lincoln,2-4,State House,21,REP,Over Votes,0
+Lincoln,2-4,State House,21,REP,Under Votes,7
+Lincoln,2-4,State House,21,DEM,Write-ins,1
+Lincoln,2-4,Ballots Cast,,REP,Ballots Cast,195
+Lincoln,2-4,Ballots Cast,,DEM,Ballots Cast,10
+Lincoln,2-4,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-4,Ballots Cast,,,Ballots Cast,205
+Lincoln,2-5,U.S. Senate,,REP,Bryan E Miller,27
+Lincoln,2-5,U.S. Senate,,REP,Cynthia M. Lummis,218
+Lincoln,2-5,U.S. Senate,,REP,Devon Cade,4
+Lincoln,2-5,U.S. Senate,,REP,Donna Rice,8
+Lincoln,2-5,U.S. Senate,,REP,John Holtz,1
+Lincoln,2-5,U.S. Senate,,REP,Josh Wheeler,16
+Lincoln,2-5,U.S. Senate,,REP,Michael Kemler,3
+Lincoln,2-5,U.S. Senate,,REP,R. Mark Armstrong,9
+Lincoln,2-5,U.S. Senate,,REP,Robert G. Short,16
+Lincoln,2-5,U.S. Senate,,REP,Star Roselli,1
+Lincoln,2-5,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-5,U.S. Senate,,REP,Over Votes,2
+Lincoln,2-5,U.S. Senate,,REP,Under Votes,2
+Lincoln,2-5,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,2-5,U.S. Senate,,DEM,Kenneth R. Casner,0
+Lincoln,2-5,U.S. Senate,,DEM,Merav Ben David,10
+Lincoln,2-5,U.S. Senate,,DEM,Nathan Wendt,8
+Lincoln,2-5,U.S. Senate,,DEM,Rex Wilde,4
+Lincoln,2-5,U.S. Senate,,DEM,Yana Ludwig,8
+Lincoln,2-5,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-5,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-5,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-5,U.S. House,,REP,Blake Stanley,55
+Lincoln,2-5,U.S. House,,REP,Liz Cheney,247
+Lincoln,2-5,U.S. House,,REP,Write-ins,0
+Lincoln,2-5,U.S. House,,REP,Over Votes,1
+Lincoln,2-5,U.S. House,,REP,Under Votes,5
+Lincoln,2-5,U.S. House,,DEM,Carl Beach,6
+Lincoln,2-5,U.S. House,,DEM,Carol Hafner,7
+Lincoln,2-5,U.S. House,,DEM,Lynnette Grey Bull,15
+Lincoln,2-5,U.S. House,,DEM,Write-ins,1
+Lincoln,2-5,U.S. House,,DEM,Over Votes,1
+Lincoln,2-5,U.S. House,,DEM,Under Votes,1
+Lincoln,2-5,State Senate,16,REP,Dan Dockstader,291
+Lincoln,2-5,State Senate,16,REP,Write-ins,5
+Lincoln,2-5,State Senate,16,REP,Over Votes,0
+Lincoln,2-5,State Senate,16,REP,Under Votes,12
+Lincoln,2-5,State Senate,16,DEM,Write-ins,3
+Lincoln,2-5,State House,22,REP,Bill Winney,229
+Lincoln,2-5,State House,22,REP,Write-ins,40
+Lincoln,2-5,State House,22,REP,Over Votes,0
+Lincoln,2-5,State House,22,REP,Under Votes,39
+Lincoln,2-5,State House,22,DEM,Write-ins,3
+Lincoln,2-5,Ballots Cast,,REP,Ballots Cast,308
+Lincoln,2-5,Ballots Cast,,DEM,Ballots Cast,31
+Lincoln,2-5,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-5,Ballots Cast,,,Ballots Cast,339
+Lincoln,2-6,U.S. Senate,,REP,Bryan E Miller,17
+Lincoln,2-6,U.S. Senate,,REP,Cynthia M. Lummis,196
+Lincoln,2-6,U.S. Senate,,REP,Devon Cade,0
+Lincoln,2-6,U.S. Senate,,REP,Donna Rice,6
+Lincoln,2-6,U.S. Senate,,REP,John Holtz,2
+Lincoln,2-6,U.S. Senate,,REP,Josh Wheeler,8
+Lincoln,2-6,U.S. Senate,,REP,Michael Kemler,0
+Lincoln,2-6,U.S. Senate,,REP,R. Mark Armstrong,8
+Lincoln,2-6,U.S. Senate,,REP,Robert G. Short,15
+Lincoln,2-6,U.S. Senate,,REP,Star Roselli,1
+Lincoln,2-6,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-6,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-6,U.S. Senate,,REP,Under Votes,6
+Lincoln,2-6,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,2-6,U.S. Senate,,DEM,Kenneth R. Casner,0
+Lincoln,2-6,U.S. Senate,,DEM,Merav Ben David,3
+Lincoln,2-6,U.S. Senate,,DEM,Nathan Wendt,5
+Lincoln,2-6,U.S. Senate,,DEM,Rex Wilde,0
+Lincoln,2-6,U.S. Senate,,DEM,Yana Ludwig,2
+Lincoln,2-6,U.S. Senate,,DEM,Write-ins,2
+Lincoln,2-6,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-6,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-6,U.S. House,,REP,Blake Stanley,50
+Lincoln,2-6,U.S. House,,REP,Liz Cheney,203
+Lincoln,2-6,U.S. House,,REP,Write-ins,0
+Lincoln,2-6,U.S. House,,REP,Over Votes,0
+Lincoln,2-6,U.S. House,,REP,Under Votes,6
+Lincoln,2-6,U.S. House,,DEM,Carl Beach,3
+Lincoln,2-6,U.S. House,,DEM,Carol Hafner,0
+Lincoln,2-6,U.S. House,,DEM,Lynnette Grey Bull,7
+Lincoln,2-6,U.S. House,,DEM,Write-ins,2
+Lincoln,2-6,U.S. House,,DEM,Over Votes,0
+Lincoln,2-6,U.S. House,,DEM,Under Votes,1
+Lincoln,2-6,State Senate,16,REP,Dan Dockstader,241
+Lincoln,2-6,State Senate,16,REP,Write-ins,3
+Lincoln,2-6,State Senate,16,REP,Over Votes,0
+Lincoln,2-6,State Senate,16,REP,Under Votes,15
+Lincoln,2-6,State Senate,16,DEM,Write-ins,2
+Lincoln,2-6,State House,21,REP,Evan J. Simpson,160
+Lincoln,2-6,State House,21,REP,Taylor Allred,93
+Lincoln,2-6,State House,21,REP,Write-ins,0
+Lincoln,2-6,State House,21,REP,Over Votes,1
+Lincoln,2-6,State House,21,REP,Under Votes,5
+Lincoln,2-6,State House,21,DEM,Write-ins,1
+Lincoln,2-6,Ballots Cast,,REP,Ballots Cast,259
+Lincoln,2-6,Ballots Cast,,DEM,Ballots Cast,13
+Lincoln,2-6,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-6,Ballots Cast,,,Ballots Cast,272
+Lincoln,2-7,U.S. Senate,,REP,Bryan E Miller,26
+Lincoln,2-7,U.S. Senate,,REP,Cynthia M. Lummis,430
+Lincoln,2-7,U.S. Senate,,REP,Devon Cade,4
+Lincoln,2-7,U.S. Senate,,REP,Donna Rice,24
+Lincoln,2-7,U.S. Senate,,REP,John Holtz,6
+Lincoln,2-7,U.S. Senate,,REP,Josh Wheeler,21
+Lincoln,2-7,U.S. Senate,,REP,Michael Kemler,4
+Lincoln,2-7,U.S. Senate,,REP,R. Mark Armstrong,14
+Lincoln,2-7,U.S. Senate,,REP,Robert G. Short,21
+Lincoln,2-7,U.S. Senate,,REP,Star Roselli,2
+Lincoln,2-7,U.S. Senate,,REP,Write-ins,2
+Lincoln,2-7,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-7,U.S. Senate,,REP,Under Votes,19
+Lincoln,2-7,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,2-7,U.S. Senate,,DEM,Kenneth R. Casner,3
+Lincoln,2-7,U.S. Senate,,DEM,Merav Ben David,2
+Lincoln,2-7,U.S. Senate,,DEM,Nathan Wendt,2
+Lincoln,2-7,U.S. Senate,,DEM,Rex Wilde,1
+Lincoln,2-7,U.S. Senate,,DEM,Yana Ludwig,4
+Lincoln,2-7,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-7,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-7,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-7,U.S. House,,REP,Blake Stanley,108
+Lincoln,2-7,U.S. House,,REP,Liz Cheney,455
+Lincoln,2-7,U.S. House,,REP,Write-ins,0
+Lincoln,2-7,U.S. House,,REP,Over Votes,1
+Lincoln,2-7,U.S. House,,REP,Under Votes,9
+Lincoln,2-7,U.S. House,,DEM,Carl Beach,0
+Lincoln,2-7,U.S. House,,DEM,Carol Hafner,1
+Lincoln,2-7,U.S. House,,DEM,Lynnette Grey Bull,11
+Lincoln,2-7,U.S. House,,DEM,Write-ins,1
+Lincoln,2-7,U.S. House,,DEM,Over Votes,0
+Lincoln,2-7,U.S. House,,DEM,Under Votes,0
+Lincoln,2-7,State Senate,16,REP,Dan Dockstader,541
+Lincoln,2-7,State Senate,16,REP,Write-ins,13
+Lincoln,2-7,State Senate,16,REP,Over Votes,0
+Lincoln,2-7,State Senate,16,REP,Under Votes,19
+Lincoln,2-7,State Senate,16,DEM,Write-ins,2
+Lincoln,2-7,State House,21,REP,Evan J. Simpson,378
+Lincoln,2-7,State House,21,REP,Taylor Allred,192
+Lincoln,2-7,State House,21,REP,Write-ins,1
+Lincoln,2-7,State House,21,REP,Over Votes,1
+Lincoln,2-7,State House,21,REP,Under Votes,1
+Lincoln,2-7,State House,21,DEM,Write-ins,3
+Lincoln,2-7,Ballots Cast,,REP,Ballots Cast,573
+Lincoln,2-7,Ballots Cast,,DEM,Ballots Cast,13
+Lincoln,2-7,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-7,Ballots Cast,,,Ballots Cast,586
+Lincoln,2-8,U.S. Senate,,REP,Bryan E Miller,20
+Lincoln,2-8,U.S. Senate,,REP,Cynthia M. Lummis,176
+Lincoln,2-8,U.S. Senate,,REP,Devon Cade,5
+Lincoln,2-8,U.S. Senate,,REP,Donna Rice,8
+Lincoln,2-8,U.S. Senate,,REP,John Holtz,4
+Lincoln,2-8,U.S. Senate,,REP,Josh Wheeler,9
+Lincoln,2-8,U.S. Senate,,REP,Michael Kemler,3
+Lincoln,2-8,U.S. Senate,,REP,R. Mark Armstrong,5
+Lincoln,2-8,U.S. Senate,,REP,Robert G. Short,6
+Lincoln,2-8,U.S. Senate,,REP,Star Roselli,2
+Lincoln,2-8,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-8,U.S. Senate,,REP,Over Votes,2
+Lincoln,2-8,U.S. Senate,,REP,Under Votes,8
+Lincoln,2-8,U.S. Senate,,DEM,James Kirk DeBrine,0
+Lincoln,2-8,U.S. Senate,,DEM,Kenneth R. Casner,1
+Lincoln,2-8,U.S. Senate,,DEM,Merav Ben David,5
+Lincoln,2-8,U.S. Senate,,DEM,Nathan Wendt,2
+Lincoln,2-8,U.S. Senate,,DEM,Rex Wilde,1
+Lincoln,2-8,U.S. Senate,,DEM,Yana Ludwig,4
+Lincoln,2-8,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-8,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-8,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-8,U.S. House,,REP,Blake Stanley,37
+Lincoln,2-8,U.S. House,,REP,Liz Cheney,204
+Lincoln,2-8,U.S. House,,REP,Write-ins,3
+Lincoln,2-8,U.S. House,,REP,Over Votes,1
+Lincoln,2-8,U.S. House,,REP,Under Votes,4
+Lincoln,2-8,U.S. House,,DEM,Carl Beach,0
+Lincoln,2-8,U.S. House,,DEM,Carol Hafner,1
+Lincoln,2-8,U.S. House,,DEM,Lynnette Grey Bull,10
+Lincoln,2-8,U.S. House,,DEM,Write-ins,0
+Lincoln,2-8,U.S. House,,DEM,Over Votes,0
+Lincoln,2-8,U.S. House,,DEM,Under Votes,2
+Lincoln,2-8,State Senate,16,REP,Dan Dockstader,226
+Lincoln,2-8,State Senate,16,REP,Write-ins,4
+Lincoln,2-8,State Senate,16,REP,Over Votes,0
+Lincoln,2-8,State Senate,16,REP,Under Votes,19
+Lincoln,2-8,State Senate,16,DEM,Write-ins,1
+Lincoln,2-8,State House,21,REP,Evan J. Simpson,139
+Lincoln,2-8,State House,21,REP,Taylor Allred,106
+Lincoln,2-8,State House,21,REP,Write-ins,1
+Lincoln,2-8,State House,21,REP,Over Votes,0
+Lincoln,2-8,State House,21,REP,Under Votes,3
+Lincoln,2-8,State House,21,DEM,Write-ins,1
+Lincoln,2-8,Ballots Cast,,REP,Ballots Cast,249
+Lincoln,2-8,Ballots Cast,,DEM,Ballots Cast,13
+Lincoln,2-8,Ballots Cast,,NP,Ballots Cast,2
+Lincoln,2-8,Ballots Cast,,,Ballots Cast,264
+Lincoln,2-9,U.S. Senate,,REP,Bryan E Miller,41
+Lincoln,2-9,U.S. Senate,,REP,Cynthia M. Lummis,142
+Lincoln,2-9,U.S. Senate,,REP,Devon Cade,1
+Lincoln,2-9,U.S. Senate,,REP,Donna Rice,7
+Lincoln,2-9,U.S. Senate,,REP,John Holtz,3
+Lincoln,2-9,U.S. Senate,,REP,Josh Wheeler,9
+Lincoln,2-9,U.S. Senate,,REP,Michael Kemler,4
+Lincoln,2-9,U.S. Senate,,REP,R. Mark Armstrong,7
+Lincoln,2-9,U.S. Senate,,REP,Robert G. Short,15
+Lincoln,2-9,U.S. Senate,,REP,Star Roselli,3
+Lincoln,2-9,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-9,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-9,U.S. Senate,,REP,Under Votes,11
+Lincoln,2-9,U.S. Senate,,DEM,James Kirk DeBrine,1
+Lincoln,2-9,U.S. Senate,,DEM,Kenneth R. Casner,3
+Lincoln,2-9,U.S. Senate,,DEM,Merav Ben David,2
+Lincoln,2-9,U.S. Senate,,DEM,Nathan Wendt,1
+Lincoln,2-9,U.S. Senate,,DEM,Rex Wilde,5
+Lincoln,2-9,U.S. Senate,,DEM,Yana Ludwig,1
+Lincoln,2-9,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-9,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-9,U.S. Senate,,DEM,Under Votes,2
+Lincoln,2-9,U.S. House,,REP,Blake Stanley,73
+Lincoln,2-9,U.S. House,,REP,Liz Cheney,161
+Lincoln,2-9,U.S. House,,REP,Write-ins,0
+Lincoln,2-9,U.S. House,,REP,Over Votes,0
+Lincoln,2-9,U.S. House,,REP,Under Votes,9
+Lincoln,2-9,U.S. House,,DEM,Carl Beach,2
+Lincoln,2-9,U.S. House,,DEM,Carol Hafner,3
+Lincoln,2-9,U.S. House,,DEM,Lynnette Grey Bull,9
+Lincoln,2-9,U.S. House,,DEM,Write-ins,0
+Lincoln,2-9,U.S. House,,DEM,Over Votes,0
+Lincoln,2-9,U.S. House,,DEM,Under Votes,1
+Lincoln,2-9,State Senate,16,REP,Dan Dockstader,223
+Lincoln,2-9,State Senate,16,REP,Write-ins,1
+Lincoln,2-9,State Senate,16,REP,Over Votes,0
+Lincoln,2-9,State Senate,16,REP,Under Votes,19
+Lincoln,2-9,State Senate,16,DEM,Write-ins,1
+Lincoln,2-9,State House,21,REP,Evan J. Simpson,87
+Lincoln,2-9,State House,21,REP,Taylor Allred,155
+Lincoln,2-9,State House,21,REP,Write-ins,0
+Lincoln,2-9,State House,21,REP,Over Votes,0
+Lincoln,2-9,State House,21,REP,Under Votes,1
+Lincoln,2-9,State House,21,DEM,Write-ins,2
+Lincoln,2-9,Ballots Cast,,REP,Ballots Cast,243
+Lincoln,2-9,Ballots Cast,,DEM,Ballots Cast,15
+Lincoln,2-9,Ballots Cast,,NP,Ballots Cast,9
+Lincoln,2-9,Ballots Cast,,,Ballots Cast,267

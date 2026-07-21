@@ -1,0 +1,650 @@
+county,precinct,office,district,party,candidate,votes
+Teton,1-01,President,,REP,Donald J. Trump,188
+Teton,1-01,President,,DEM,Kamala D. Harris,205
+Teton,1-01,President,,LIB,Chase Oliver,7
+Teton,1-01,President,,,Write-ins,9
+Teton,1-01,President,,,Over Votes,0
+Teton,1-01,President,,,Under Votes,4
+Teton,1-01,U.S. Senate,,REP,John Barrasso,240
+Teton,1-01,U.S. Senate,,DEM,Scott D Morrow,157
+Teton,1-01,U.S. Senate,,,Write-ins,1
+Teton,1-01,U.S. Senate,,,Over Votes,0
+Teton,1-01,U.S. Senate,,,Under Votes,15
+Teton,1-01,U.S. House,,REP,Harriet Hageman,195
+Teton,1-01,U.S. House,,DEM,Kyle G. Cameron,167
+Teton,1-01,U.S. House,,LIB,Richard Brubaker,15
+Teton,1-01,U.S. House,,CTRY,Jeffrey Haggit,4
+Teton,1-01,U.S. House,,,Write-ins,7
+Teton,1-01,U.S. House,,,Over Votes,6
+Teton,1-01,U.S. House,,,Under Votes,19
+Teton,1-01,State Senate,16,REP,Dan Dockstader,276
+Teton,1-01,State Senate,16,,Write-ins,12
+Teton,1-01,State Senate,16,,Over Votes,0
+Teton,1-01,State Senate,16,,Under Votes,125
+Teton,1-01,State House,22,REP,Andrew P Byron,302
+Teton,1-01,State House,22,,Write-ins,8
+Teton,1-01,State House,22,,Over Votes,0
+Teton,1-01,State House,22,,Under Votes,103
+Teton,1-01,Ballots Cast,,,Ballots Cast,413
+Teton,1-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,1-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,129
+Teton,1-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,126
+Teton,1-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Teton,1-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,54
+Teton,1-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,1-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,118
+Teton,1-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,1-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,80
+Teton,1-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,1-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,105
+Teton,1-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,109
+Teton,1-02,President,,REP,Donald J. Trump,440
+Teton,1-02,President,,DEM,Kamala D. Harris,1393
+Teton,1-02,President,,LIB,Chase Oliver,27
+Teton,1-02,President,,,Write-ins,24
+Teton,1-02,President,,,Over Votes,0
+Teton,1-02,President,,,Under Votes,16
+Teton,1-02,U.S. Senate,,REP,John Barrasso,546
+Teton,1-02,U.S. Senate,,DEM,Scott D Morrow,1273
+Teton,1-02,U.S. Senate,,,Write-ins,12
+Teton,1-02,U.S. Senate,,,Over Votes,0
+Teton,1-02,U.S. Senate,,,Under Votes,69
+Teton,1-02,U.S. House,,REP,Harriet Hageman,411
+Teton,1-02,U.S. House,,DEM,Kyle G. Cameron,1283
+Teton,1-02,U.S. House,,LIB,Richard Brubaker,87
+Teton,1-02,U.S. House,,CTRY,Jeffrey Haggit,15
+Teton,1-02,U.S. House,,,Write-ins,12
+Teton,1-02,U.S. House,,,Over Votes,16
+Teton,1-02,U.S. House,,,Under Votes,76
+Teton,1-02,State House,16,DEM,Mike Yin,1536
+Teton,1-02,State House,16,,Write-ins,37
+Teton,1-02,State House,16,,Over Votes,0
+Teton,1-02,State House,16,,Under Votes,327
+Teton,1-02,Ballots Cast,,,Ballots Cast,1900
+Teton,1-02,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,1-02,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,543
+Teton,1-02,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-02,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,568
+Teton,1-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,3
+Teton,1-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,212
+Teton,1-02,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,1-02,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,503
+Teton,1-02,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,1-02,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,346
+Teton,1-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,1-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,497
+Teton,1-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,469
+Teton,1-03,President,,REP,Donald J. Trump,199
+Teton,1-03,President,,DEM,Kamala D. Harris,362
+Teton,1-03,President,,LIB,Chase Oliver,5
+Teton,1-03,President,,,Write-ins,11
+Teton,1-03,President,,,Over Votes,0
+Teton,1-03,President,,,Under Votes,11
+Teton,1-03,U.S. Senate,,REP,John Barrasso,250
+Teton,1-03,U.S. Senate,,DEM,Scott D Morrow,314
+Teton,1-03,U.S. Senate,,,Write-ins,6
+Teton,1-03,U.S. Senate,,,Over Votes,0
+Teton,1-03,U.S. Senate,,,Under Votes,18
+Teton,1-03,U.S. House,,REP,Harriet Hageman,212
+Teton,1-03,U.S. House,,DEM,Kyle G. Cameron,329
+Teton,1-03,U.S. House,,LIB,Richard Brubaker,18
+Teton,1-03,U.S. House,,CTRY,Jeffrey Haggit,3
+Teton,1-03,U.S. House,,,Write-ins,5
+Teton,1-03,U.S. House,,,Over Votes,3
+Teton,1-03,U.S. House,,,Under Votes,18
+Teton,1-03,State House,23,DEM,Liz Storer,394
+Teton,1-03,State House,23,,Write-ins,20
+Teton,1-03,State House,23,,Over Votes,0
+Teton,1-03,State House,23,,Under Votes,174
+Teton,1-03,Ballots Cast,,,Ballots Cast,588
+Teton,1-03,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,1-03,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,152
+Teton,1-03,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-03,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,155
+Teton,1-03,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,1-03,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,48
+Teton,1-03,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,1
+Teton,1-03,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,136
+Teton,1-03,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,1
+Teton,1-03,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,88
+Teton,1-03,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,1-03,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,140
+Teton,1-03,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-03,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,135
+Teton,1-04,President,,REP,Donald J. Trump,209
+Teton,1-04,President,,DEM,Kamala D. Harris,358
+Teton,1-04,President,,LIB,Chase Oliver,10
+Teton,1-04,President,,,Write-ins,10
+Teton,1-04,President,,,Over Votes,0
+Teton,1-04,President,,,Under Votes,7
+Teton,1-04,U.S. Senate,,REP,John Barrasso,243
+Teton,1-04,U.S. Senate,,DEM,Scott D Morrow,325
+Teton,1-04,U.S. Senate,,,Write-ins,6
+Teton,1-04,U.S. Senate,,,Over Votes,0
+Teton,1-04,U.S. Senate,,,Under Votes,20
+Teton,1-04,U.S. House,,REP,Harriet Hageman,210
+Teton,1-04,U.S. House,,DEM,Kyle G. Cameron,315
+Teton,1-04,U.S. House,,LIB,Richard Brubaker,23
+Teton,1-04,U.S. House,,CTRY,Jeffrey Haggit,8
+Teton,1-04,U.S. House,,,Write-ins,5
+Teton,1-04,U.S. House,,,Over Votes,6
+Teton,1-04,U.S. House,,,Under Votes,27
+Teton,1-04,State House,23,DEM,Liz Storer,404
+Teton,1-04,State House,23,,Write-ins,25
+Teton,1-04,State House,23,,Over Votes,0
+Teton,1-04,State House,23,,Under Votes,165
+Teton,1-04,Ballots Cast,,,Ballots Cast,594
+Teton,1-04,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,1-04,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,176
+Teton,1-04,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-04,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,186
+Teton,1-04,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,1-04,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,80
+Teton,1-04,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,1-04,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,163
+Teton,1-04,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,1-04,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,128
+Teton,1-04,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,1-04,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,155
+Teton,1-04,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-04,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,152
+Teton,1-05,President,,REP,Donald J. Trump,461
+Teton,1-05,President,,DEM,Kamala D. Harris,1275
+Teton,1-05,President,,LIB,Chase Oliver,30
+Teton,1-05,President,,,Write-ins,33
+Teton,1-05,President,,,Over Votes,0
+Teton,1-05,President,,,Under Votes,19
+Teton,1-05,U.S. Senate,,REP,John Barrasso,573
+Teton,1-05,U.S. Senate,,DEM,Scott D Morrow,1182
+Teton,1-05,U.S. Senate,,,Write-ins,8
+Teton,1-05,U.S. Senate,,,Over Votes,0
+Teton,1-05,U.S. Senate,,,Under Votes,55
+Teton,1-05,U.S. House,,REP,Harriet Hageman,445
+Teton,1-05,U.S. House,,DEM,Kyle G. Cameron,1155
+Teton,1-05,U.S. House,,LIB,Richard Brubaker,96
+Teton,1-05,U.S. House,,CTRY,Jeffrey Haggit,11
+Teton,1-05,U.S. House,,,Write-ins,7
+Teton,1-05,U.S. House,,,Over Votes,30
+Teton,1-05,U.S. House,,,Under Votes,74
+Teton,1-05,State House,16,DEM,Mike Yin,1426
+Teton,1-05,State House,16,,Write-ins,59
+Teton,1-05,State House,16,,Over Votes,0
+Teton,1-05,State House,16,,Under Votes,326
+Teton,1-05,State House,23,DEM,Liz Storer,6
+Teton,1-05,State House,23,,Write-ins,1
+Teton,1-05,State House,23,,Over Votes,0
+Teton,1-05,State House,23,,Under Votes,0
+Teton,1-05,Ballots Cast,,,Ballots Cast,1818
+Teton,1-05,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,2
+Teton,1-05,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,478
+Teton,1-05,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-05,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,506
+Teton,1-05,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Teton,1-05,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,176
+Teton,1-05,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,1-05,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,451
+Teton,1-05,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,1
+Teton,1-05,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,317
+Teton,1-05,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Teton,1-05,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,443
+Teton,1-05,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,1
+Teton,1-05,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,430
+Teton,1-06,President,,REP,Donald J. Trump,211
+Teton,1-06,President,,DEM,Kamala D. Harris,513
+Teton,1-06,President,,LIB,Chase Oliver,12
+Teton,1-06,President,,,Write-ins,9
+Teton,1-06,President,,,Over Votes,0
+Teton,1-06,President,,,Under Votes,5
+Teton,1-06,U.S. Senate,,REP,John Barrasso,245
+Teton,1-06,U.S. Senate,,DEM,Scott D Morrow,480
+Teton,1-06,U.S. Senate,,,Write-ins,5
+Teton,1-06,U.S. Senate,,,Over Votes,0
+Teton,1-06,U.S. Senate,,,Under Votes,20
+Teton,1-06,U.S. House,,REP,Harriet Hageman,196
+Teton,1-06,U.S. House,,DEM,Kyle G. Cameron,480
+Teton,1-06,U.S. House,,LIB,Richard Brubaker,24
+Teton,1-06,U.S. House,,CTRY,Jeffrey Haggit,8
+Teton,1-06,U.S. House,,,Write-ins,4
+Teton,1-06,U.S. House,,,Over Votes,4
+Teton,1-06,U.S. House,,,Under Votes,34
+Teton,1-06,State House,16,DEM,Mike Yin,583
+Teton,1-06,State House,16,,Write-ins,25
+Teton,1-06,State House,16,,Over Votes,0
+Teton,1-06,State House,16,,Under Votes,142
+Teton,1-06,Ballots Cast,,,Ballots Cast,750
+Teton,1-06,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,1
+Teton,1-06,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,195
+Teton,1-06,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-06,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,200
+Teton,1-06,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,1-06,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,75
+Teton,1-06,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,1-06,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,179
+Teton,1-06,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,1-06,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,129
+Teton,1-06,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,1-06,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,170
+Teton,1-06,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-06,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,169
+Teton,1-07,President,,REP,Donald J. Trump,179
+Teton,1-07,President,,DEM,Kamala D. Harris,536
+Teton,1-07,President,,LIB,Chase Oliver,10
+Teton,1-07,President,,,Write-ins,12
+Teton,1-07,President,,,Over Votes,0
+Teton,1-07,President,,,Under Votes,5
+Teton,1-07,U.S. Senate,,REP,John Barrasso,224
+Teton,1-07,U.S. Senate,,DEM,Scott D Morrow,502
+Teton,1-07,U.S. Senate,,,Write-ins,0
+Teton,1-07,U.S. Senate,,,Over Votes,0
+Teton,1-07,U.S. Senate,,,Under Votes,16
+Teton,1-07,U.S. House,,REP,Harriet Hageman,186
+Teton,1-07,U.S. House,,DEM,Kyle G. Cameron,510
+Teton,1-07,U.S. House,,LIB,Richard Brubaker,10
+Teton,1-07,U.S. House,,CTRY,Jeffrey Haggit,2
+Teton,1-07,U.S. House,,,Write-ins,6
+Teton,1-07,U.S. House,,,Over Votes,10
+Teton,1-07,U.S. House,,,Under Votes,18
+Teton,1-07,State House,23,DEM,Liz Storer,585
+Teton,1-07,State House,23,,Write-ins,16
+Teton,1-07,State House,23,,Over Votes,0
+Teton,1-07,State House,23,,Under Votes,141
+Teton,1-07,Ballots Cast,,,Ballots Cast,742
+Teton,1-07,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,1-07,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,174
+Teton,1-07,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-07,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,184
+Teton,1-07,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,1-07,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,51
+Teton,1-07,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,1-07,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,161
+Teton,1-07,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,1
+Teton,1-07,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,85
+Teton,1-07,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,2
+Teton,1-07,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,157
+Teton,1-07,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-07,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,149
+Teton,1-10,President,,REP,Donald J. Trump,345
+Teton,1-10,President,,DEM,Kamala D. Harris,595
+Teton,1-10,President,,LIB,Chase Oliver,11
+Teton,1-10,President,,,Write-ins,12
+Teton,1-10,President,,,Over Votes,0
+Teton,1-10,President,,,Under Votes,12
+Teton,1-10,U.S. Senate,,REP,John Barrasso,439
+Teton,1-10,U.S. Senate,,DEM,Scott D Morrow,504
+Teton,1-10,U.S. Senate,,,Write-ins,9
+Teton,1-10,U.S. Senate,,,Over Votes,0
+Teton,1-10,U.S. Senate,,,Under Votes,23
+Teton,1-10,U.S. House,,REP,Harriet Hageman,359
+Teton,1-10,U.S. House,,DEM,Kyle G. Cameron,515
+Teton,1-10,U.S. House,,LIB,Richard Brubaker,42
+Teton,1-10,U.S. House,,CTRY,Jeffrey Haggit,5
+Teton,1-10,U.S. House,,,Write-ins,5
+Teton,1-10,U.S. House,,,Over Votes,17
+Teton,1-10,U.S. House,,,Under Votes,32
+Teton,1-10,State House,23,DEM,Liz Storer,664
+Teton,1-10,State House,23,,Write-ins,36
+Teton,1-10,State House,23,,Over Votes,0
+Teton,1-10,State House,23,,Under Votes,275
+Teton,1-10,Ballots Cast,,,Ballots Cast,975
+Teton,1-10,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,1-10,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,260
+Teton,1-10,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-10,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,269
+Teton,1-10,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,1-10,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,84
+Teton,1-10,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,1
+Teton,1-10,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,241
+Teton,1-10,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,1
+Teton,1-10,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,136
+Teton,1-10,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,1-10,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,238
+Teton,1-10,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-10,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,219
+Teton,1-11,President,,REP,Donald J. Trump,44
+Teton,1-11,President,,DEM,Kamala D. Harris,110
+Teton,1-11,President,,LIB,Chase Oliver,3
+Teton,1-11,President,,,Write-ins,2
+Teton,1-11,President,,,Over Votes,0
+Teton,1-11,President,,,Under Votes,1
+Teton,1-11,U.S. Senate,,REP,John Barrasso,60
+Teton,1-11,U.S. Senate,,DEM,Scott D Morrow,99
+Teton,1-11,U.S. Senate,,,Write-ins,0
+Teton,1-11,U.S. Senate,,,Over Votes,0
+Teton,1-11,U.S. Senate,,,Under Votes,1
+Teton,1-11,U.S. House,,REP,Harriet Hageman,38
+Teton,1-11,U.S. House,,DEM,Kyle G. Cameron,104
+Teton,1-11,U.S. House,,LIB,Richard Brubaker,12
+Teton,1-11,U.S. House,,CTRY,Jeffrey Haggit,0
+Teton,1-11,U.S. House,,,Write-ins,0
+Teton,1-11,U.S. House,,,Over Votes,1
+Teton,1-11,U.S. House,,,Under Votes,5
+Teton,1-11,State House,23,DEM,Liz Storer,124
+Teton,1-11,State House,23,,Write-ins,5
+Teton,1-11,State House,23,,Over Votes,0
+Teton,1-11,State House,23,,Under Votes,31
+Teton,1-11,Ballots Cast,,,Ballots Cast,160
+Teton,1-11,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,1-11,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,41
+Teton,1-11,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-11,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,43
+Teton,1-11,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,1-11,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,12
+Teton,1-11,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,1-11,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,41
+Teton,1-11,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,1-11,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,20
+Teton,1-11,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,1-11,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,40
+Teton,1-11,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-11,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,38
+Teton,1-12,President,,REP,Donald J. Trump,382
+Teton,1-12,President,,DEM,Kamala D. Harris,411
+Teton,1-12,President,,LIB,Chase Oliver,11
+Teton,1-12,President,,,Write-ins,7
+Teton,1-12,President,,,Over Votes,0
+Teton,1-12,President,,,Under Votes,5
+Teton,1-12,U.S. Senate,,REP,John Barrasso,420
+Teton,1-12,U.S. Senate,,DEM,Scott D Morrow,363
+Teton,1-12,U.S. Senate,,,Write-ins,3
+Teton,1-12,U.S. Senate,,,Over Votes,1
+Teton,1-12,U.S. Senate,,,Under Votes,29
+Teton,1-12,U.S. House,,REP,Harriet Hageman,375
+Teton,1-12,U.S. House,,DEM,Kyle G. Cameron,364
+Teton,1-12,U.S. House,,LIB,Richard Brubaker,30
+Teton,1-12,U.S. House,,CTRY,Jeffrey Haggit,8
+Teton,1-12,U.S. House,,,Write-ins,1
+Teton,1-12,U.S. House,,,Over Votes,11
+Teton,1-12,U.S. House,,,Under Votes,27
+Teton,1-12,State Senate,16,REP,Dan Dockstader,522
+Teton,1-12,State Senate,16,,Write-ins,31
+Teton,1-12,State Senate,16,,Over Votes,0
+Teton,1-12,State Senate,16,,Under Votes,263
+Teton,1-12,State House,22,REP,Andrew P Byron,604
+Teton,1-12,State House,22,,Write-ins,19
+Teton,1-12,State House,22,,Over Votes,0
+Teton,1-12,State House,22,,Under Votes,193
+Teton,1-12,Ballots Cast,,,Ballots Cast,816
+Teton,1-12,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,1-12,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,249
+Teton,1-12,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,1-12,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,248
+Teton,1-12,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,1
+Teton,1-12,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,82
+Teton,1-12,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,1-12,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,227
+Teton,1-12,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,1-12,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,134
+Teton,1-12,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,1-12,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,211
+Teton,1-12,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,1-12,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,208
+Teton,2-01,President,,REP,Donald J. Trump,399
+Teton,2-01,President,,DEM,Kamala D. Harris,617
+Teton,2-01,President,,LIB,Chase Oliver,19
+Teton,2-01,President,,,Write-ins,22
+Teton,2-01,President,,,Over Votes,0
+Teton,2-01,President,,,Under Votes,10
+Teton,2-01,U.S. Senate,,REP,John Barrasso,474
+Teton,2-01,U.S. Senate,,DEM,Scott D Morrow,559
+Teton,2-01,U.S. Senate,,,Write-ins,11
+Teton,2-01,U.S. Senate,,,Over Votes,1
+Teton,2-01,U.S. Senate,,,Under Votes,22
+Teton,2-01,U.S. House,,REP,Harriet Hageman,404
+Teton,2-01,U.S. House,,DEM,Kyle G. Cameron,560
+Teton,2-01,U.S. House,,LIB,Richard Brubaker,39
+Teton,2-01,U.S. House,,CTRY,Jeffrey Haggit,3
+Teton,2-01,U.S. House,,,Write-ins,15
+Teton,2-01,U.S. House,,,Over Votes,10
+Teton,2-01,U.S. House,,,Under Votes,36
+Teton,2-01,State House,23,DEM,Liz Storer,707
+Teton,2-01,State House,23,,Write-ins,47
+Teton,2-01,State House,23,,Over Votes,0
+Teton,2-01,State House,23,,Under Votes,313
+Teton,2-01,Ballots Cast,,,Ballots Cast,1067
+Teton,2-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,2-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,313
+Teton,2-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,2-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,325
+Teton,2-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,2-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,95
+Teton,2-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,2-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,291
+Teton,2-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,2-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,214
+Teton,2-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,2-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,300
+Teton,2-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,2-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,281
+Teton,3-01,President,,REP,Donald J. Trump,111
+Teton,3-01,President,,DEM,Kamala D. Harris,208
+Teton,3-01,President,,LIB,Chase Oliver,3
+Teton,3-01,President,,,Write-ins,4
+Teton,3-01,President,,,Over Votes,0
+Teton,3-01,President,,,Under Votes,2
+Teton,3-01,U.S. Senate,,REP,John Barrasso,129
+Teton,3-01,U.S. Senate,,DEM,Scott D Morrow,189
+Teton,3-01,U.S. Senate,,,Write-ins,2
+Teton,3-01,U.S. Senate,,,Over Votes,1
+Teton,3-01,U.S. Senate,,,Under Votes,7
+Teton,3-01,U.S. House,,REP,Harriet Hageman,102
+Teton,3-01,U.S. House,,DEM,Kyle G. Cameron,190
+Teton,3-01,U.S. House,,LIB,Richard Brubaker,13
+Teton,3-01,U.S. House,,CTRY,Jeffrey Haggit,8
+Teton,3-01,U.S. House,,,Write-ins,2
+Teton,3-01,U.S. House,,,Over Votes,3
+Teton,3-01,U.S. House,,,Under Votes,10
+Teton,3-01,State House,23,DEM,Liz Storer,225
+Teton,3-01,State House,23,,Write-ins,13
+Teton,3-01,State House,23,,Over Votes,0
+Teton,3-01,State House,23,,Under Votes,90
+Teton,3-01,Ballots Cast,,,Ballots Cast,328
+Teton,3-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,3-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,103
+Teton,3-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,3-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,108
+Teton,3-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,3-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,42
+Teton,3-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,3-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,99
+Teton,3-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,3-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,86
+Teton,3-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,3-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,93
+Teton,3-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,3-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,93
+Teton,4-01,President,,REP,Donald J. Trump,181
+Teton,4-01,President,,DEM,Kamala D. Harris,491
+Teton,4-01,President,,LIB,Chase Oliver,10
+Teton,4-01,President,,,Write-ins,9
+Teton,4-01,President,,,Over Votes,0
+Teton,4-01,President,,,Under Votes,7
+Teton,4-01,U.S. Senate,,REP,John Barrasso,239
+Teton,4-01,U.S. Senate,,DEM,Scott D Morrow,433
+Teton,4-01,U.S. Senate,,,Write-ins,7
+Teton,4-01,U.S. Senate,,,Over Votes,0
+Teton,4-01,U.S. Senate,,,Under Votes,19
+Teton,4-01,U.S. House,,REP,Harriet Hageman,178
+Teton,4-01,U.S. House,,DEM,Kyle G. Cameron,449
+Teton,4-01,U.S. House,,LIB,Richard Brubaker,22
+Teton,4-01,U.S. House,,CTRY,Jeffrey Haggit,11
+Teton,4-01,U.S. House,,,Write-ins,9
+Teton,4-01,U.S. House,,,Over Votes,8
+Teton,4-01,U.S. House,,,Under Votes,21
+Teton,4-01,State Senate,16,REP,Dan Dockstader,362
+Teton,4-01,State Senate,16,,Write-ins,37
+Teton,4-01,State Senate,16,,Over Votes,0
+Teton,4-01,State Senate,16,,Under Votes,299
+Teton,4-01,State House,22,REP,Andrew P Byron,439
+Teton,4-01,State House,22,,Write-ins,21
+Teton,4-01,State House,22,,Over Votes,0
+Teton,4-01,State House,22,,Under Votes,238
+Teton,4-01,Ballots Cast,,,Ballots Cast,698
+Teton,4-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,4-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,205
+Teton,4-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,4-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,200
+Teton,4-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,4-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,66
+Teton,4-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,4-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,179
+Teton,4-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,4-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,113
+Teton,4-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,1
+Teton,4-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,172
+Teton,4-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,4-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,158
+Teton,4-02,President,,REP,Donald J. Trump,339
+Teton,4-02,President,,DEM,Kamala D. Harris,715
+Teton,4-02,President,,LIB,Chase Oliver,10
+Teton,4-02,President,,,Write-ins,19
+Teton,4-02,President,,,Over Votes,1
+Teton,4-02,President,,,Under Votes,14
+Teton,4-02,U.S. Senate,,REP,John Barrasso,420
+Teton,4-02,U.S. Senate,,DEM,Scott D Morrow,650
+Teton,4-02,U.S. Senate,,,Write-ins,13
+Teton,4-02,U.S. Senate,,,Over Votes,0
+Teton,4-02,U.S. Senate,,,Under Votes,15
+Teton,4-02,U.S. House,,REP,Harriet Hageman,358
+Teton,4-02,U.S. House,,DEM,Kyle G. Cameron,651
+Teton,4-02,U.S. House,,LIB,Richard Brubaker,26
+Teton,4-02,U.S. House,,CTRY,Jeffrey Haggit,7
+Teton,4-02,U.S. House,,,Write-ins,10
+Teton,4-02,U.S. House,,,Over Votes,13
+Teton,4-02,U.S. House,,,Under Votes,33
+Teton,4-02,State House,23,DEM,Liz Storer,807
+Teton,4-02,State House,23,,Write-ins,25
+Teton,4-02,State House,23,,Over Votes,0
+Teton,4-02,State House,23,,Under Votes,266
+Teton,4-02,Ballots Cast,,,Ballots Cast,1098
+Teton,4-02,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,1
+Teton,4-02,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,290
+Teton,4-02,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,4-02,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,308
+Teton,4-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,4-02,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,113
+Teton,4-02,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,4-02,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,270
+Teton,4-02,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,4-02,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,184
+Teton,4-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,4-02,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,253
+Teton,4-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,1
+Teton,4-02,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,251
+Teton,4-03,President,,REP,Donald J. Trump,120
+Teton,4-03,President,,DEM,Kamala D. Harris,507
+Teton,4-03,President,,LIB,Chase Oliver,11
+Teton,4-03,President,,,Write-ins,8
+Teton,4-03,President,,,Over Votes,0
+Teton,4-03,President,,,Under Votes,9
+Teton,4-03,U.S. Senate,,REP,John Barrasso,174
+Teton,4-03,U.S. Senate,,DEM,Scott D Morrow,465
+Teton,4-03,U.S. Senate,,,Write-ins,7
+Teton,4-03,U.S. Senate,,,Over Votes,0
+Teton,4-03,U.S. Senate,,,Under Votes,9
+Teton,4-03,U.S. House,,REP,Harriet Hageman,127
+Teton,4-03,U.S. House,,DEM,Kyle G. Cameron,461
+Teton,4-03,U.S. House,,LIB,Richard Brubaker,29
+Teton,4-03,U.S. House,,CTRY,Jeffrey Haggit,8
+Teton,4-03,U.S. House,,,Write-ins,6
+Teton,4-03,U.S. House,,,Over Votes,2
+Teton,4-03,U.S. House,,,Under Votes,22
+Teton,4-03,State Senate,16,REP,Dan Dockstader,315
+Teton,4-03,State Senate,16,,Write-ins,35
+Teton,4-03,State Senate,16,,Over Votes,1
+Teton,4-03,State Senate,16,,Under Votes,304
+Teton,4-03,State House,22,REP,Andrew P Byron,409
+Teton,4-03,State House,22,,Write-ins,24
+Teton,4-03,State House,22,,Over Votes,0
+Teton,4-03,State House,22,,Under Votes,222
+Teton,4-03,Ballots Cast,,,Ballots Cast,655
+Teton,4-03,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,4-03,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,183
+Teton,4-03,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,4-03,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,176
+Teton,4-03,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,4-03,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,58
+Teton,4-03,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,4-03,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,159
+Teton,4-03,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,4-03,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,85
+Teton,4-03,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,4-03,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,165
+Teton,4-03,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,4-03,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,155
+Teton,4-04,President,,REP,Donald J. Trump,146
+Teton,4-04,President,,DEM,Kamala D. Harris,270
+Teton,4-04,President,,LIB,Chase Oliver,10
+Teton,4-04,President,,,Write-ins,12
+Teton,4-04,President,,,Over Votes,0
+Teton,4-04,President,,,Under Votes,7
+Teton,4-04,U.S. Senate,,REP,John Barrasso,205
+Teton,4-04,U.S. Senate,,DEM,Scott D Morrow,228
+Teton,4-04,U.S. Senate,,,Write-ins,1
+Teton,4-04,U.S. Senate,,,Over Votes,0
+Teton,4-04,U.S. Senate,,,Under Votes,11
+Teton,4-04,U.S. House,,REP,Harriet Hageman,164
+Teton,4-04,U.S. House,,DEM,Kyle G. Cameron,223
+Teton,4-04,U.S. House,,LIB,Richard Brubaker,18
+Teton,4-04,U.S. House,,CTRY,Jeffrey Haggit,6
+Teton,4-04,U.S. House,,,Write-ins,11
+Teton,4-04,U.S. House,,,Over Votes,3
+Teton,4-04,U.S. House,,,Under Votes,20
+Teton,4-04,State House,23,DEM,Liz Storer,302
+Teton,4-04,State House,23,,Write-ins,24
+Teton,4-04,State House,23,,Over Votes,0
+Teton,4-04,State House,23,,Under Votes,119
+Teton,4-04,Ballots Cast,,,Ballots Cast,445
+Teton,4-04,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,4-04,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,113
+Teton,4-04,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,4-04,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,118
+Teton,4-04,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,4-04,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,45
+Teton,4-04,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,4-04,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,106
+Teton,4-04,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,1
+Teton,4-04,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,85
+Teton,4-04,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,4-04,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,98
+Teton,4-04,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,4-04,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,96
+Teton,5-01,President,,REP,Donald J. Trump,180
+Teton,5-01,President,,DEM,Kamala D. Harris,182
+Teton,5-01,President,,LIB,Chase Oliver,6
+Teton,5-01,President,,,Write-ins,6
+Teton,5-01,President,,,Over Votes,0
+Teton,5-01,President,,,Under Votes,3
+Teton,5-01,U.S. Senate,,REP,John Barrasso,202
+Teton,5-01,U.S. Senate,,DEM,Scott D Morrow,162
+Teton,5-01,U.S. Senate,,,Write-ins,0
+Teton,5-01,U.S. Senate,,,Over Votes,0
+Teton,5-01,U.S. Senate,,,Under Votes,13
+Teton,5-01,U.S. House,,REP,Harriet Hageman,188
+Teton,5-01,U.S. House,,DEM,Kyle G. Cameron,163
+Teton,5-01,U.S. House,,LIB,Richard Brubaker,8
+Teton,5-01,U.S. House,,CTRY,Jeffrey Haggit,3
+Teton,5-01,U.S. House,,,Write-ins,0
+Teton,5-01,U.S. House,,,Over Votes,3
+Teton,5-01,U.S. House,,,Under Votes,12
+Teton,5-01,State House,23,DEM,Liz Storer,216
+Teton,5-01,State House,23,,Write-ins,17
+Teton,5-01,State House,23,,Over Votes,0
+Teton,5-01,State House,23,,Under Votes,144
+Teton,5-01,Ballots Cast,,,Ballots Cast,377
+Teton,5-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Over Votes,0
+Teton,5-01,"Circuit Court Judge, Ninth Judicial District Daniel M. Stebner",,,Under Votes,114
+Teton,5-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Over Votes,0
+Teton,5-01,"Circuit Court Judge, Ninth Judicial District John LaBuda",,,Under Votes,113
+Teton,5-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Over Votes,0
+Teton,5-01,Constitutional Amendment A Separate Residential Property Class for Tax Assessment,,,Under Votes,30
+Teton,5-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Over Votes,0
+Teton,5-01,"District Court Judge, Ninth Judicial District Katharine G. McKay",,,Under Votes,112
+Teton,5-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Over Votes,0
+Teton,5-01,"District Court Judge, Ninth Judicial District Melissa M. Owens",,,Under Votes,96
+Teton,5-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Over Votes,0
+Teton,5-01,"Supreme Court Justice, Wyoming Supreme Court John G. Fenn",,,Under Votes,108
+Teton,5-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Over Votes,0
+Teton,5-01,"Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",,,Under Votes,102

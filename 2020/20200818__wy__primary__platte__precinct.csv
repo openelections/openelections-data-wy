@@ -1,0 +1,625 @@
+county,precinct,office,district,party,candidate,votes
+Platte,1-1,U.S. Senate,,REP,Bryan E Miller,12
+Platte,1-1,U.S. Senate,,REP,Cynthia M. Lummis,120
+Platte,1-1,U.S. Senate,,REP,Devon Cade,2
+Platte,1-1,U.S. Senate,,REP,Donna Rice,16
+Platte,1-1,U.S. Senate,,REP,John Holtz,2
+Platte,1-1,U.S. Senate,,REP,Josh Wheeler,6
+Platte,1-1,U.S. Senate,,REP,Michael Kemler,1
+Platte,1-1,U.S. Senate,,REP,R. Mark Armstrong,7
+Platte,1-1,U.S. Senate,,REP,Robert G. Short,16
+Platte,1-1,U.S. Senate,,REP,Star Roselli,1
+Platte,1-1,U.S. Senate,,REP,Write-ins,1
+Platte,1-1,U.S. Senate,,REP,Over Votes,1
+Platte,1-1,U.S. Senate,,REP,Under Votes,9
+Platte,1-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Platte,1-1,U.S. Senate,,DEM,Kenneth R. Casner,4
+Platte,1-1,U.S. Senate,,DEM,Merav Ben David,11
+Platte,1-1,U.S. Senate,,DEM,Nathan Wendt,4
+Platte,1-1,U.S. Senate,,DEM,Rex Wilde,2
+Platte,1-1,U.S. Senate,,DEM,Yana Ludwig,2
+Platte,1-1,U.S. Senate,,DEM,Write-ins,1
+Platte,1-1,U.S. Senate,,DEM,Over Votes,0
+Platte,1-1,U.S. Senate,,DEM,Under Votes,2
+Platte,1-1,U.S. House,,REP,Blake Stanley,57
+Platte,1-1,U.S. House,,REP,Liz Cheney,134
+Platte,1-1,U.S. House,,REP,Write-ins,0
+Platte,1-1,U.S. House,,REP,Over Votes,0
+Platte,1-1,U.S. House,,REP,Under Votes,3
+Platte,1-1,U.S. House,,DEM,Carl Beach,3
+Platte,1-1,U.S. House,,DEM,Carol Hafner,4
+Platte,1-1,U.S. House,,DEM,Lynnette Grey Bull,16
+Platte,1-1,U.S. House,,DEM,Write-ins,1
+Platte,1-1,U.S. House,,DEM,Over Votes,1
+Platte,1-1,U.S. House,,DEM,Under Votes,2
+Platte,1-1,State Senate,2,REP,Brian Boner,170
+Platte,1-1,State Senate,2,REP,Write-ins,1
+Platte,1-1,State Senate,2,REP,Over Votes,0
+Platte,1-1,State Senate,2,REP,Under Votes,23
+Platte,1-1,State Senate,2,DEM,Write-ins,1
+Platte,1-1,State House,4,REP,Dan R. Kirkbride,91
+Platte,1-1,State House,4,REP,Jeremy Haroldson,102
+Platte,1-1,State House,4,REP,Write-ins,1
+Platte,1-1,State House,4,REP,Over Votes,0
+Platte,1-1,State House,4,REP,Under Votes,0
+Platte,1-1,State House,4,DEM,Write-ins,2
+Platte,1-1,Ballots Cast,,REP,Ballots Cast,194
+Platte,1-1,Ballots Cast,,DEM,Ballots Cast,27
+Platte,1-1,Ballots Cast,,NP,Ballots Cast,14
+Platte,1-1,Ballots Cast,,,Ballots Cast,235
+Platte,1-2,U.S. Senate,,REP,Bryan E Miller,15
+Platte,1-2,U.S. Senate,,REP,Cynthia M. Lummis,104
+Platte,1-2,U.S. Senate,,REP,Devon Cade,1
+Platte,1-2,U.S. Senate,,REP,Donna Rice,23
+Platte,1-2,U.S. Senate,,REP,John Holtz,3
+Platte,1-2,U.S. Senate,,REP,Josh Wheeler,4
+Platte,1-2,U.S. Senate,,REP,Michael Kemler,1
+Platte,1-2,U.S. Senate,,REP,R. Mark Armstrong,10
+Platte,1-2,U.S. Senate,,REP,Robert G. Short,18
+Platte,1-2,U.S. Senate,,REP,Star Roselli,1
+Platte,1-2,U.S. Senate,,REP,Write-ins,0
+Platte,1-2,U.S. Senate,,REP,Over Votes,0
+Platte,1-2,U.S. Senate,,REP,Under Votes,8
+Platte,1-2,U.S. Senate,,DEM,James Kirk DeBrine,5
+Platte,1-2,U.S. Senate,,DEM,Kenneth R. Casner,3
+Platte,1-2,U.S. Senate,,DEM,Merav Ben David,11
+Platte,1-2,U.S. Senate,,DEM,Nathan Wendt,5
+Platte,1-2,U.S. Senate,,DEM,Rex Wilde,0
+Platte,1-2,U.S. Senate,,DEM,Yana Ludwig,3
+Platte,1-2,U.S. Senate,,DEM,Write-ins,0
+Platte,1-2,U.S. Senate,,DEM,Over Votes,1
+Platte,1-2,U.S. Senate,,DEM,Under Votes,4
+Platte,1-2,U.S. House,,REP,Blake Stanley,56
+Platte,1-2,U.S. House,,REP,Liz Cheney,125
+Platte,1-2,U.S. House,,REP,Write-ins,1
+Platte,1-2,U.S. House,,REP,Over Votes,1
+Platte,1-2,U.S. House,,REP,Under Votes,5
+Platte,1-2,U.S. House,,DEM,Carl Beach,2
+Platte,1-2,U.S. House,,DEM,Carol Hafner,5
+Platte,1-2,U.S. House,,DEM,Lynnette Grey Bull,20
+Platte,1-2,U.S. House,,DEM,Write-ins,0
+Platte,1-2,U.S. House,,DEM,Over Votes,2
+Platte,1-2,U.S. House,,DEM,Under Votes,3
+Platte,1-2,State Senate,2,REP,Brian Boner,161
+Platte,1-2,State Senate,2,REP,Write-ins,2
+Platte,1-2,State Senate,2,REP,Over Votes,0
+Platte,1-2,State Senate,2,REP,Under Votes,25
+Platte,1-2,State Senate,2,DEM,Write-ins,1
+Platte,1-2,State House,4,REP,Dan R. Kirkbride,96
+Platte,1-2,State House,4,REP,Jeremy Haroldson,88
+Platte,1-2,State House,4,REP,Write-ins,0
+Platte,1-2,State House,4,REP,Over Votes,0
+Platte,1-2,State House,4,REP,Under Votes,4
+Platte,1-2,State House,4,DEM,Write-ins,2
+Platte,1-2,Ballots Cast,,REP,Ballots Cast,188
+Platte,1-2,Ballots Cast,,DEM,Ballots Cast,32
+Platte,1-2,Ballots Cast,,NP,Ballots Cast,5
+Platte,1-2,Ballots Cast,,,Ballots Cast,225
+Platte,1-3,U.S. Senate,,REP,Bryan E Miller,18
+Platte,1-3,U.S. Senate,,REP,Cynthia M. Lummis,211
+Platte,1-3,U.S. Senate,,REP,Devon Cade,1
+Platte,1-3,U.S. Senate,,REP,Donna Rice,23
+Platte,1-3,U.S. Senate,,REP,John Holtz,17
+Platte,1-3,U.S. Senate,,REP,Josh Wheeler,10
+Platte,1-3,U.S. Senate,,REP,Michael Kemler,2
+Platte,1-3,U.S. Senate,,REP,R. Mark Armstrong,6
+Platte,1-3,U.S. Senate,,REP,Robert G. Short,37
+Platte,1-3,U.S. Senate,,REP,Star Roselli,4
+Platte,1-3,U.S. Senate,,REP,Write-ins,1
+Platte,1-3,U.S. Senate,,REP,Over Votes,1
+Platte,1-3,U.S. Senate,,REP,Under Votes,15
+Platte,1-3,U.S. Senate,,DEM,James Kirk DeBrine,3
+Platte,1-3,U.S. Senate,,DEM,Kenneth R. Casner,5
+Platte,1-3,U.S. Senate,,DEM,Merav Ben David,25
+Platte,1-3,U.S. Senate,,DEM,Nathan Wendt,10
+Platte,1-3,U.S. Senate,,DEM,Rex Wilde,4
+Platte,1-3,U.S. Senate,,DEM,Yana Ludwig,10
+Platte,1-3,U.S. Senate,,DEM,Write-ins,1
+Platte,1-3,U.S. Senate,,DEM,Over Votes,0
+Platte,1-3,U.S. Senate,,DEM,Under Votes,2
+Platte,1-3,U.S. House,,REP,Blake Stanley,87
+Platte,1-3,U.S. House,,REP,Liz Cheney,242
+Platte,1-3,U.S. House,,REP,Write-ins,0
+Platte,1-3,U.S. House,,REP,Over Votes,1
+Platte,1-3,U.S. House,,REP,Under Votes,16
+Platte,1-3,U.S. House,,DEM,Carl Beach,9
+Platte,1-3,U.S. House,,DEM,Carol Hafner,21
+Platte,1-3,U.S. House,,DEM,Lynnette Grey Bull,26
+Platte,1-3,U.S. House,,DEM,Write-ins,1
+Platte,1-3,U.S. House,,DEM,Over Votes,0
+Platte,1-3,U.S. House,,DEM,Under Votes,3
+Platte,1-3,State Senate,2,REP,Brian Boner,293
+Platte,1-3,State Senate,2,REP,Write-ins,2
+Platte,1-3,State Senate,2,REP,Over Votes,1
+Platte,1-3,State Senate,2,REP,Under Votes,50
+Platte,1-3,State Senate,2,DEM,Write-ins,6
+Platte,1-3,State House,4,REP,Dan R. Kirkbride,154
+Platte,1-3,State House,4,REP,Jeremy Haroldson,185
+Platte,1-3,State House,4,REP,Write-ins,1
+Platte,1-3,State House,4,REP,Over Votes,0
+Platte,1-3,State House,4,REP,Under Votes,6
+Platte,1-3,State House,4,DEM,Write-ins,8
+Platte,1-3,Ballots Cast,,REP,Ballots Cast,346
+Platte,1-3,Ballots Cast,,DEM,Ballots Cast,60
+Platte,1-3,Ballots Cast,,NP,Ballots Cast,25
+Platte,1-3,Ballots Cast,,,Ballots Cast,431
+Platte,1-4,U.S. Senate,,REP,Bryan E Miller,11
+Platte,1-4,U.S. Senate,,REP,Cynthia M. Lummis,130
+Platte,1-4,U.S. Senate,,REP,Devon Cade,2
+Platte,1-4,U.S. Senate,,REP,Donna Rice,17
+Platte,1-4,U.S. Senate,,REP,John Holtz,3
+Platte,1-4,U.S. Senate,,REP,Josh Wheeler,8
+Platte,1-4,U.S. Senate,,REP,Michael Kemler,6
+Platte,1-4,U.S. Senate,,REP,R. Mark Armstrong,10
+Platte,1-4,U.S. Senate,,REP,Robert G. Short,21
+Platte,1-4,U.S. Senate,,REP,Star Roselli,0
+Platte,1-4,U.S. Senate,,REP,Write-ins,0
+Platte,1-4,U.S. Senate,,REP,Over Votes,0
+Platte,1-4,U.S. Senate,,REP,Under Votes,13
+Platte,1-4,U.S. Senate,,DEM,James Kirk DeBrine,1
+Platte,1-4,U.S. Senate,,DEM,Kenneth R. Casner,4
+Platte,1-4,U.S. Senate,,DEM,Merav Ben David,15
+Platte,1-4,U.S. Senate,,DEM,Nathan Wendt,6
+Platte,1-4,U.S. Senate,,DEM,Rex Wilde,6
+Platte,1-4,U.S. Senate,,DEM,Yana Ludwig,8
+Platte,1-4,U.S. Senate,,DEM,Write-ins,2
+Platte,1-4,U.S. Senate,,DEM,Over Votes,0
+Platte,1-4,U.S. Senate,,DEM,Under Votes,2
+Platte,1-4,U.S. House,,REP,Blake Stanley,68
+Platte,1-4,U.S. House,,REP,Liz Cheney,142
+Platte,1-4,U.S. House,,REP,Write-ins,0
+Platte,1-4,U.S. House,,REP,Over Votes,0
+Platte,1-4,U.S. House,,REP,Under Votes,11
+Platte,1-4,U.S. House,,DEM,Carl Beach,2
+Platte,1-4,U.S. House,,DEM,Carol Hafner,11
+Platte,1-4,U.S. House,,DEM,Lynnette Grey Bull,27
+Platte,1-4,U.S. House,,DEM,Write-ins,2
+Platte,1-4,U.S. House,,DEM,Over Votes,0
+Platte,1-4,U.S. House,,DEM,Under Votes,2
+Platte,1-4,State Senate,2,REP,Brian Boner,188
+Platte,1-4,State Senate,2,REP,Write-ins,4
+Platte,1-4,State Senate,2,REP,Over Votes,0
+Platte,1-4,State Senate,2,REP,Under Votes,29
+Platte,1-4,State Senate,2,DEM,Write-ins,3
+Platte,1-4,State House,4,REP,Dan R. Kirkbride,73
+Platte,1-4,State House,4,REP,Jeremy Haroldson,145
+Platte,1-4,State House,4,REP,Write-ins,0
+Platte,1-4,State House,4,REP,Over Votes,1
+Platte,1-4,State House,4,REP,Under Votes,2
+Platte,1-4,State House,4,DEM,Write-ins,4
+Platte,1-4,Ballots Cast,,REP,Ballots Cast,221
+Platte,1-4,Ballots Cast,,DEM,Ballots Cast,44
+Platte,1-4,Ballots Cast,,NP,Ballots Cast,13
+Platte,1-4,Ballots Cast,,,Ballots Cast,278
+Platte,1-6,U.S. Senate,,REP,Bryan E Miller,30
+Platte,1-6,U.S. Senate,,REP,Cynthia M. Lummis,222
+Platte,1-6,U.S. Senate,,REP,Devon Cade,0
+Platte,1-6,U.S. Senate,,REP,Donna Rice,23
+Platte,1-6,U.S. Senate,,REP,John Holtz,3
+Platte,1-6,U.S. Senate,,REP,Josh Wheeler,15
+Platte,1-6,U.S. Senate,,REP,Michael Kemler,2
+Platte,1-6,U.S. Senate,,REP,R. Mark Armstrong,10
+Platte,1-6,U.S. Senate,,REP,Robert G. Short,39
+Platte,1-6,U.S. Senate,,REP,Star Roselli,0
+Platte,1-6,U.S. Senate,,REP,Write-ins,1
+Platte,1-6,U.S. Senate,,REP,Over Votes,2
+Platte,1-6,U.S. Senate,,REP,Under Votes,11
+Platte,1-6,U.S. Senate,,DEM,James Kirk DeBrine,4
+Platte,1-6,U.S. Senate,,DEM,Kenneth R. Casner,5
+Platte,1-6,U.S. Senate,,DEM,Merav Ben David,10
+Platte,1-6,U.S. Senate,,DEM,Nathan Wendt,7
+Platte,1-6,U.S. Senate,,DEM,Rex Wilde,7
+Platte,1-6,U.S. Senate,,DEM,Yana Ludwig,2
+Platte,1-6,U.S. Senate,,DEM,Write-ins,0
+Platte,1-6,U.S. Senate,,DEM,Over Votes,0
+Platte,1-6,U.S. Senate,,DEM,Under Votes,1
+Platte,1-6,U.S. House,,REP,Blake Stanley,107
+Platte,1-6,U.S. House,,REP,Liz Cheney,235
+Platte,1-6,U.S. House,,REP,Write-ins,0
+Platte,1-6,U.S. House,,REP,Over Votes,3
+Platte,1-6,U.S. House,,REP,Under Votes,13
+Platte,1-6,U.S. House,,DEM,Carl Beach,2
+Platte,1-6,U.S. House,,DEM,Carol Hafner,10
+Platte,1-6,U.S. House,,DEM,Lynnette Grey Bull,20
+Platte,1-6,U.S. House,,DEM,Write-ins,0
+Platte,1-6,U.S. House,,DEM,Over Votes,1
+Platte,1-6,U.S. House,,DEM,Under Votes,3
+Platte,1-6,State Senate,2,REP,Brian Boner,305
+Platte,1-6,State Senate,2,REP,Write-ins,3
+Platte,1-6,State Senate,2,REP,Over Votes,0
+Platte,1-6,State Senate,2,REP,Under Votes,50
+Platte,1-6,State Senate,2,DEM,Write-ins,2
+Platte,1-6,State House,4,REP,Dan R. Kirkbride,122
+Platte,1-6,State House,4,REP,Jeremy Haroldson,232
+Platte,1-6,State House,4,REP,Write-ins,0
+Platte,1-6,State House,4,REP,Over Votes,0
+Platte,1-6,State House,4,REP,Under Votes,4
+Platte,1-6,State House,4,DEM,Write-ins,2
+Platte,1-6,Ballots Cast,,REP,Ballots Cast,358
+Platte,1-6,Ballots Cast,,DEM,Ballots Cast,36
+Platte,1-6,Ballots Cast,,NP,Ballots Cast,0
+Platte,1-6,Ballots Cast,,,Ballots Cast,394
+Platte,10-1,U.S. Senate,,REP,Bryan E Miller,11
+Platte,10-1,U.S. Senate,,REP,Cynthia M. Lummis,89
+Platte,10-1,U.S. Senate,,REP,Devon Cade,1
+Platte,10-1,U.S. Senate,,REP,Donna Rice,9
+Platte,10-1,U.S. Senate,,REP,John Holtz,0
+Platte,10-1,U.S. Senate,,REP,Josh Wheeler,5
+Platte,10-1,U.S. Senate,,REP,Michael Kemler,0
+Platte,10-1,U.S. Senate,,REP,R. Mark Armstrong,3
+Platte,10-1,U.S. Senate,,REP,Robert G. Short,17
+Platte,10-1,U.S. Senate,,REP,Star Roselli,0
+Platte,10-1,U.S. Senate,,REP,Write-ins,0
+Platte,10-1,U.S. Senate,,REP,Over Votes,1
+Platte,10-1,U.S. Senate,,REP,Under Votes,7
+Platte,10-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Platte,10-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Platte,10-1,U.S. Senate,,DEM,Merav Ben David,10
+Platte,10-1,U.S. Senate,,DEM,Nathan Wendt,2
+Platte,10-1,U.S. Senate,,DEM,Rex Wilde,2
+Platte,10-1,U.S. Senate,,DEM,Yana Ludwig,4
+Platte,10-1,U.S. Senate,,DEM,Write-ins,0
+Platte,10-1,U.S. Senate,,DEM,Over Votes,0
+Platte,10-1,U.S. Senate,,DEM,Under Votes,1
+Platte,10-1,U.S. House,,REP,Blake Stanley,37
+Platte,10-1,U.S. House,,REP,Liz Cheney,100
+Platte,10-1,U.S. House,,REP,Write-ins,0
+Platte,10-1,U.S. House,,REP,Over Votes,1
+Platte,10-1,U.S. House,,REP,Under Votes,5
+Platte,10-1,U.S. House,,DEM,Carl Beach,2
+Platte,10-1,U.S. House,,DEM,Carol Hafner,6
+Platte,10-1,U.S. House,,DEM,Lynnette Grey Bull,10
+Platte,10-1,U.S. House,,DEM,Write-ins,0
+Platte,10-1,U.S. House,,DEM,Over Votes,0
+Platte,10-1,U.S. House,,DEM,Under Votes,3
+Platte,10-1,State Senate,2,REP,Brian Boner,121
+Platte,10-1,State Senate,2,REP,Write-ins,2
+Platte,10-1,State Senate,2,REP,Over Votes,0
+Platte,10-1,State Senate,2,REP,Under Votes,20
+Platte,10-1,State Senate,2,DEM,Write-ins,2
+Platte,10-1,State House,4,REP,Dan R. Kirkbride,60
+Platte,10-1,State House,4,REP,Jeremy Haroldson,78
+Platte,10-1,State House,4,REP,Write-ins,4
+Platte,10-1,State House,4,REP,Over Votes,0
+Platte,10-1,State House,4,REP,Under Votes,1
+Platte,10-1,State House,4,DEM,Write-ins,2
+Platte,10-1,Ballots Cast,,REP,Ballots Cast,143
+Platte,10-1,Ballots Cast,,DEM,Ballots Cast,21
+Platte,10-1,Ballots Cast,,NP,Ballots Cast,9
+Platte,10-1,Ballots Cast,,,Ballots Cast,173
+Platte,12-1,U.S. Senate,,REP,Bryan E Miller,35
+Platte,12-1,U.S. Senate,,REP,Cynthia M. Lummis,259
+Platte,12-1,U.S. Senate,,REP,Devon Cade,1
+Platte,12-1,U.S. Senate,,REP,Donna Rice,34
+Platte,12-1,U.S. Senate,,REP,John Holtz,9
+Platte,12-1,U.S. Senate,,REP,Josh Wheeler,8
+Platte,12-1,U.S. Senate,,REP,Michael Kemler,1
+Platte,12-1,U.S. Senate,,REP,R. Mark Armstrong,11
+Platte,12-1,U.S. Senate,,REP,Robert G. Short,40
+Platte,12-1,U.S. Senate,,REP,Star Roselli,2
+Platte,12-1,U.S. Senate,,REP,Write-ins,1
+Platte,12-1,U.S. Senate,,REP,Over Votes,0
+Platte,12-1,U.S. Senate,,REP,Under Votes,13
+Platte,12-1,U.S. Senate,,DEM,James Kirk DeBrine,2
+Platte,12-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Platte,12-1,U.S. Senate,,DEM,Merav Ben David,14
+Platte,12-1,U.S. Senate,,DEM,Nathan Wendt,8
+Platte,12-1,U.S. Senate,,DEM,Rex Wilde,3
+Platte,12-1,U.S. Senate,,DEM,Yana Ludwig,1
+Platte,12-1,U.S. Senate,,DEM,Write-ins,0
+Platte,12-1,U.S. Senate,,DEM,Over Votes,0
+Platte,12-1,U.S. Senate,,DEM,Under Votes,2
+Platte,12-1,U.S. House,,REP,Blake Stanley,95
+Platte,12-1,U.S. House,,REP,Liz Cheney,300
+Platte,12-1,U.S. House,,REP,Write-ins,2
+Platte,12-1,U.S. House,,REP,Over Votes,0
+Platte,12-1,U.S. House,,REP,Under Votes,17
+Platte,12-1,U.S. House,,DEM,Carl Beach,8
+Platte,12-1,U.S. House,,DEM,Carol Hafner,4
+Platte,12-1,U.S. House,,DEM,Lynnette Grey Bull,16
+Platte,12-1,U.S. House,,DEM,Write-ins,0
+Platte,12-1,U.S. House,,DEM,Over Votes,1
+Platte,12-1,U.S. House,,DEM,Under Votes,2
+Platte,12-1,State Senate,2,REP,Brian Boner,362
+Platte,12-1,State Senate,2,REP,Write-ins,3
+Platte,12-1,State Senate,2,REP,Over Votes,0
+Platte,12-1,State Senate,2,REP,Under Votes,49
+Platte,12-1,State Senate,2,DEM,Write-ins,3
+Platte,12-1,State House,4,REP,Dan R. Kirkbride,142
+Platte,12-1,State House,4,REP,Jeremy Haroldson,259
+Platte,12-1,State House,4,REP,Write-ins,1
+Platte,12-1,State House,4,REP,Over Votes,1
+Platte,12-1,State House,4,REP,Under Votes,11
+Platte,12-1,State House,4,DEM,Write-ins,5
+Platte,12-1,Ballots Cast,,REP,Ballots Cast,414
+Platte,12-1,Ballots Cast,,DEM,Ballots Cast,31
+Platte,12-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,12-1,Ballots Cast,,,Ballots Cast,445
+Platte,2-1,U.S. Senate,,REP,Bryan E Miller,28
+Platte,2-1,U.S. Senate,,REP,Cynthia M. Lummis,180
+Platte,2-1,U.S. Senate,,REP,Devon Cade,2
+Platte,2-1,U.S. Senate,,REP,Donna Rice,20
+Platte,2-1,U.S. Senate,,REP,John Holtz,5
+Platte,2-1,U.S. Senate,,REP,Josh Wheeler,21
+Platte,2-1,U.S. Senate,,REP,Michael Kemler,2
+Platte,2-1,U.S. Senate,,REP,R. Mark Armstrong,12
+Platte,2-1,U.S. Senate,,REP,Robert G. Short,34
+Platte,2-1,U.S. Senate,,REP,Star Roselli,3
+Platte,2-1,U.S. Senate,,REP,Write-ins,0
+Platte,2-1,U.S. Senate,,REP,Over Votes,2
+Platte,2-1,U.S. Senate,,REP,Under Votes,10
+Platte,2-1,U.S. Senate,,DEM,James Kirk DeBrine,10
+Platte,2-1,U.S. Senate,,DEM,Kenneth R. Casner,14
+Platte,2-1,U.S. Senate,,DEM,Merav Ben David,21
+Platte,2-1,U.S. Senate,,DEM,Nathan Wendt,18
+Platte,2-1,U.S. Senate,,DEM,Rex Wilde,11
+Platte,2-1,U.S. Senate,,DEM,Yana Ludwig,15
+Platte,2-1,U.S. Senate,,DEM,Write-ins,1
+Platte,2-1,U.S. Senate,,DEM,Over Votes,0
+Platte,2-1,U.S. Senate,,DEM,Under Votes,3
+Platte,2-1,U.S. House,,REP,Blake Stanley,108
+Platte,2-1,U.S. House,,REP,Liz Cheney,203
+Platte,2-1,U.S. House,,REP,Write-ins,0
+Platte,2-1,U.S. House,,REP,Over Votes,1
+Platte,2-1,U.S. House,,REP,Under Votes,7
+Platte,2-1,U.S. House,,DEM,Carl Beach,16
+Platte,2-1,U.S. House,,DEM,Carol Hafner,25
+Platte,2-1,U.S. House,,DEM,Lynnette Grey Bull,45
+Platte,2-1,U.S. House,,DEM,Write-ins,0
+Platte,2-1,U.S. House,,DEM,Over Votes,0
+Platte,2-1,U.S. House,,DEM,Under Votes,7
+Platte,2-1,State Senate,2,REP,Brian Boner,282
+Platte,2-1,State Senate,2,REP,Write-ins,0
+Platte,2-1,State Senate,2,REP,Over Votes,0
+Platte,2-1,State Senate,2,REP,Under Votes,37
+Platte,2-1,State Senate,2,DEM,Write-ins,1
+Platte,2-1,State House,4,REP,Dan R. Kirkbride,144
+Platte,2-1,State House,4,REP,Jeremy Haroldson,168
+Platte,2-1,State House,4,REP,Write-ins,0
+Platte,2-1,State House,4,REP,Over Votes,1
+Platte,2-1,State House,4,REP,Under Votes,6
+Platte,2-1,State House,4,DEM,Write-ins,2
+Platte,2-1,Ballots Cast,,REP,Ballots Cast,319
+Platte,2-1,Ballots Cast,,DEM,Ballots Cast,93
+Platte,2-1,Ballots Cast,,NP,Ballots Cast,19
+Platte,2-1,Ballots Cast,,,Ballots Cast,431
+Platte,20-1,U.S. Senate,,REP,Bryan E Miller,20
+Platte,20-1,U.S. Senate,,REP,Cynthia M. Lummis,162
+Platte,20-1,U.S. Senate,,REP,Devon Cade,2
+Platte,20-1,U.S. Senate,,REP,Donna Rice,17
+Platte,20-1,U.S. Senate,,REP,John Holtz,2
+Platte,20-1,U.S. Senate,,REP,Josh Wheeler,11
+Platte,20-1,U.S. Senate,,REP,Michael Kemler,1
+Platte,20-1,U.S. Senate,,REP,R. Mark Armstrong,12
+Platte,20-1,U.S. Senate,,REP,Robert G. Short,29
+Platte,20-1,U.S. Senate,,REP,Star Roselli,0
+Platte,20-1,U.S. Senate,,REP,Write-ins,0
+Platte,20-1,U.S. Senate,,REP,Over Votes,0
+Platte,20-1,U.S. Senate,,REP,Under Votes,10
+Platte,20-1,U.S. Senate,,DEM,James Kirk DeBrine,2
+Platte,20-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Platte,20-1,U.S. Senate,,DEM,Merav Ben David,10
+Platte,20-1,U.S. Senate,,DEM,Nathan Wendt,7
+Platte,20-1,U.S. Senate,,DEM,Rex Wilde,1
+Platte,20-1,U.S. Senate,,DEM,Yana Ludwig,1
+Platte,20-1,U.S. Senate,,DEM,Write-ins,0
+Platte,20-1,U.S. Senate,,DEM,Over Votes,1
+Platte,20-1,U.S. Senate,,DEM,Under Votes,0
+Platte,20-1,U.S. House,,REP,Blake Stanley,74
+Platte,20-1,U.S. House,,REP,Liz Cheney,183
+Platte,20-1,U.S. House,,REP,Write-ins,0
+Platte,20-1,U.S. House,,REP,Over Votes,0
+Platte,20-1,U.S. House,,REP,Under Votes,9
+Platte,20-1,U.S. House,,DEM,Carl Beach,1
+Platte,20-1,U.S. House,,DEM,Carol Hafner,7
+Platte,20-1,U.S. House,,DEM,Lynnette Grey Bull,10
+Platte,20-1,U.S. House,,DEM,Write-ins,1
+Platte,20-1,U.S. House,,DEM,Over Votes,1
+Platte,20-1,U.S. House,,DEM,Under Votes,2
+Platte,20-1,State Senate,2,REP,Brian Boner,226
+Platte,20-1,State Senate,2,REP,Write-ins,3
+Platte,20-1,State Senate,2,REP,Over Votes,0
+Platte,20-1,State Senate,2,REP,Under Votes,37
+Platte,20-1,State Senate,2,DEM,Write-ins,1
+Platte,20-1,State House,4,REP,Dan R. Kirkbride,117
+Platte,20-1,State House,4,REP,Jeremy Haroldson,144
+Platte,20-1,State House,4,REP,Write-ins,1
+Platte,20-1,State House,4,REP,Over Votes,1
+Platte,20-1,State House,4,REP,Under Votes,3
+Platte,20-1,State House,4,DEM,Write-ins,1
+Platte,20-1,Ballots Cast,,REP,Ballots Cast,266
+Platte,20-1,Ballots Cast,,DEM,Ballots Cast,22
+Platte,20-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,20-1,Ballots Cast,,,Ballots Cast,288
+Platte,3-1,U.S. Senate,,REP,Bryan E Miller,3
+Platte,3-1,U.S. Senate,,REP,Cynthia M. Lummis,14
+Platte,3-1,U.S. Senate,,REP,Devon Cade,0
+Platte,3-1,U.S. Senate,,REP,Donna Rice,3
+Platte,3-1,U.S. Senate,,REP,John Holtz,1
+Platte,3-1,U.S. Senate,,REP,Josh Wheeler,0
+Platte,3-1,U.S. Senate,,REP,Michael Kemler,0
+Platte,3-1,U.S. Senate,,REP,R. Mark Armstrong,4
+Platte,3-1,U.S. Senate,,REP,Robert G. Short,5
+Platte,3-1,U.S. Senate,,REP,Star Roselli,0
+Platte,3-1,U.S. Senate,,REP,Write-ins,0
+Platte,3-1,U.S. Senate,,REP,Over Votes,0
+Platte,3-1,U.S. Senate,,REP,Under Votes,2
+Platte,3-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Platte,3-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Platte,3-1,U.S. Senate,,DEM,Merav Ben David,4
+Platte,3-1,U.S. Senate,,DEM,Nathan Wendt,3
+Platte,3-1,U.S. Senate,,DEM,Rex Wilde,3
+Platte,3-1,U.S. Senate,,DEM,Yana Ludwig,1
+Platte,3-1,U.S. Senate,,DEM,Write-ins,0
+Platte,3-1,U.S. Senate,,DEM,Over Votes,0
+Platte,3-1,U.S. Senate,,DEM,Under Votes,0
+Platte,3-1,U.S. House,,REP,Blake Stanley,12
+Platte,3-1,U.S. House,,REP,Liz Cheney,18
+Platte,3-1,U.S. House,,REP,Write-ins,0
+Platte,3-1,U.S. House,,REP,Over Votes,0
+Platte,3-1,U.S. House,,REP,Under Votes,2
+Platte,3-1,U.S. House,,DEM,Carl Beach,1
+Platte,3-1,U.S. House,,DEM,Carol Hafner,3
+Platte,3-1,U.S. House,,DEM,Lynnette Grey Bull,7
+Platte,3-1,U.S. House,,DEM,Write-ins,0
+Platte,3-1,U.S. House,,DEM,Over Votes,0
+Platte,3-1,U.S. House,,DEM,Under Votes,0
+Platte,3-1,State Senate,2,REP,Brian Boner,25
+Platte,3-1,State Senate,2,REP,Write-ins,3
+Platte,3-1,State Senate,2,REP,Over Votes,0
+Platte,3-1,State Senate,2,REP,Under Votes,4
+Platte,3-1,State Senate,2,DEM,Write-ins,0
+Platte,3-1,State House,4,REP,Dan R. Kirkbride,11
+Platte,3-1,State House,4,REP,Jeremy Haroldson,21
+Platte,3-1,State House,4,REP,Write-ins,0
+Platte,3-1,State House,4,REP,Over Votes,0
+Platte,3-1,State House,4,REP,Under Votes,0
+Platte,3-1,State House,4,DEM,Write-ins,0
+Platte,3-1,Ballots Cast,,REP,Ballots Cast,32
+Platte,3-1,Ballots Cast,,DEM,Ballots Cast,11
+Platte,3-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,3-1,Ballots Cast,,,Ballots Cast,43
+Platte,6-1,U.S. Senate,,REP,Bryan E Miller,13
+Platte,6-1,U.S. Senate,,REP,Cynthia M. Lummis,62
+Platte,6-1,U.S. Senate,,REP,Devon Cade,1
+Platte,6-1,U.S. Senate,,REP,Donna Rice,10
+Platte,6-1,U.S. Senate,,REP,John Holtz,2
+Platte,6-1,U.S. Senate,,REP,Josh Wheeler,3
+Platte,6-1,U.S. Senate,,REP,Michael Kemler,1
+Platte,6-1,U.S. Senate,,REP,R. Mark Armstrong,10
+Platte,6-1,U.S. Senate,,REP,Robert G. Short,27
+Platte,6-1,U.S. Senate,,REP,Star Roselli,0
+Platte,6-1,U.S. Senate,,REP,Write-ins,0
+Platte,6-1,U.S. Senate,,REP,Over Votes,0
+Platte,6-1,U.S. Senate,,REP,Under Votes,3
+Platte,6-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Platte,6-1,U.S. Senate,,DEM,Kenneth R. Casner,3
+Platte,6-1,U.S. Senate,,DEM,Merav Ben David,3
+Platte,6-1,U.S. Senate,,DEM,Nathan Wendt,2
+Platte,6-1,U.S. Senate,,DEM,Rex Wilde,1
+Platte,6-1,U.S. Senate,,DEM,Yana Ludwig,3
+Platte,6-1,U.S. Senate,,DEM,Write-ins,0
+Platte,6-1,U.S. Senate,,DEM,Over Votes,1
+Platte,6-1,U.S. Senate,,DEM,Under Votes,0
+Platte,6-1,U.S. House,,REP,Blake Stanley,41
+Platte,6-1,U.S. House,,REP,Liz Cheney,90
+Platte,6-1,U.S. House,,REP,Write-ins,0
+Platte,6-1,U.S. House,,REP,Over Votes,0
+Platte,6-1,U.S. House,,REP,Under Votes,1
+Platte,6-1,U.S. House,,DEM,Carl Beach,0
+Platte,6-1,U.S. House,,DEM,Carol Hafner,7
+Platte,6-1,U.S. House,,DEM,Lynnette Grey Bull,7
+Platte,6-1,U.S. House,,DEM,Write-ins,0
+Platte,6-1,U.S. House,,DEM,Over Votes,0
+Platte,6-1,U.S. House,,DEM,Under Votes,0
+Platte,6-1,State Senate,2,REP,Brian Boner,116
+Platte,6-1,State Senate,2,REP,Write-ins,3
+Platte,6-1,State Senate,2,REP,Over Votes,0
+Platte,6-1,State Senate,2,REP,Under Votes,13
+Platte,6-1,State Senate,2,DEM,Write-ins,1
+Platte,6-1,State House,4,REP,Dan R. Kirkbride,69
+Platte,6-1,State House,4,REP,Jeremy Haroldson,61
+Platte,6-1,State House,4,REP,Write-ins,0
+Platte,6-1,State House,4,REP,Over Votes,0
+Platte,6-1,State House,4,REP,Under Votes,2
+Platte,6-1,State House,4,DEM,Write-ins,1
+Platte,6-1,Ballots Cast,,REP,Ballots Cast,132
+Platte,6-1,Ballots Cast,,DEM,Ballots Cast,14
+Platte,6-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,6-1,Ballots Cast,,,Ballots Cast,146
+Platte,6-2,U.S. Senate,,REP,Bryan E Miller,6
+Platte,6-2,U.S. Senate,,REP,Cynthia M. Lummis,42
+Platte,6-2,U.S. Senate,,REP,Devon Cade,0
+Platte,6-2,U.S. Senate,,REP,Donna Rice,5
+Platte,6-2,U.S. Senate,,REP,John Holtz,0
+Platte,6-2,U.S. Senate,,REP,Josh Wheeler,1
+Platte,6-2,U.S. Senate,,REP,Michael Kemler,0
+Platte,6-2,U.S. Senate,,REP,R. Mark Armstrong,1
+Platte,6-2,U.S. Senate,,REP,Robert G. Short,24
+Platte,6-2,U.S. Senate,,REP,Star Roselli,0
+Platte,6-2,U.S. Senate,,REP,Write-ins,0
+Platte,6-2,U.S. Senate,,REP,Over Votes,0
+Platte,6-2,U.S. Senate,,REP,Under Votes,1
+Platte,6-2,U.S. Senate,,DEM,James Kirk DeBrine,2
+Platte,6-2,U.S. Senate,,DEM,Kenneth R. Casner,0
+Platte,6-2,U.S. Senate,,DEM,Merav Ben David,6
+Platte,6-2,U.S. Senate,,DEM,Nathan Wendt,0
+Platte,6-2,U.S. Senate,,DEM,Rex Wilde,0
+Platte,6-2,U.S. Senate,,DEM,Yana Ludwig,4
+Platte,6-2,U.S. Senate,,DEM,Write-ins,1
+Platte,6-2,U.S. Senate,,DEM,Over Votes,0
+Platte,6-2,U.S. Senate,,DEM,Under Votes,0
+Platte,6-2,U.S. House,,REP,Blake Stanley,22
+Platte,6-2,U.S. House,,REP,Liz Cheney,56
+Platte,6-2,U.S. House,,REP,Write-ins,0
+Platte,6-2,U.S. House,,REP,Over Votes,0
+Platte,6-2,U.S. House,,REP,Under Votes,2
+Platte,6-2,U.S. House,,DEM,Carl Beach,2
+Platte,6-2,U.S. House,,DEM,Carol Hafner,3
+Platte,6-2,U.S. House,,DEM,Lynnette Grey Bull,8
+Platte,6-2,U.S. House,,DEM,Write-ins,0
+Platte,6-2,U.S. House,,DEM,Over Votes,0
+Platte,6-2,U.S. House,,DEM,Under Votes,0
+Platte,6-2,State Senate,2,REP,Brian Boner,71
+Platte,6-2,State Senate,2,REP,Write-ins,1
+Platte,6-2,State Senate,2,REP,Over Votes,0
+Platte,6-2,State Senate,2,REP,Under Votes,8
+Platte,6-2,State Senate,2,DEM,Write-ins,1
+Platte,6-2,State House,4,REP,Dan R. Kirkbride,43
+Platte,6-2,State House,4,REP,Jeremy Haroldson,33
+Platte,6-2,State House,4,REP,Write-ins,0
+Platte,6-2,State House,4,REP,Over Votes,0
+Platte,6-2,State House,4,REP,Under Votes,4
+Platte,6-2,State House,4,DEM,Write-ins,1
+Platte,6-2,Ballots Cast,,REP,Ballots Cast,80
+Platte,6-2,Ballots Cast,,DEM,Ballots Cast,13
+Platte,6-2,Ballots Cast,,NP,Ballots Cast,0
+Platte,6-2,Ballots Cast,,,Ballots Cast,93
+Platte,9-1,U.S. Senate,,REP,Bryan E Miller,1
+Platte,9-1,U.S. Senate,,REP,Cynthia M. Lummis,32
+Platte,9-1,U.S. Senate,,REP,Devon Cade,0
+Platte,9-1,U.S. Senate,,REP,Donna Rice,1
+Platte,9-1,U.S. Senate,,REP,John Holtz,1
+Platte,9-1,U.S. Senate,,REP,Josh Wheeler,1
+Platte,9-1,U.S. Senate,,REP,Michael Kemler,1
+Platte,9-1,U.S. Senate,,REP,R. Mark Armstrong,0
+Platte,9-1,U.S. Senate,,REP,Robert G. Short,3
+Platte,9-1,U.S. Senate,,REP,Star Roselli,1
+Platte,9-1,U.S. Senate,,REP,Write-ins,0
+Platte,9-1,U.S. Senate,,REP,Over Votes,0
+Platte,9-1,U.S. Senate,,REP,Under Votes,2
+Platte,9-1,U.S. Senate,,DEM,James Kirk DeBrine,2
+Platte,9-1,U.S. Senate,,DEM,Kenneth R. Casner,3
+Platte,9-1,U.S. Senate,,DEM,Merav Ben David,3
+Platte,9-1,U.S. Senate,,DEM,Nathan Wendt,0
+Platte,9-1,U.S. Senate,,DEM,Rex Wilde,1
+Platte,9-1,U.S. Senate,,DEM,Yana Ludwig,0
+Platte,9-1,U.S. Senate,,DEM,Write-ins,0
+Platte,9-1,U.S. Senate,,DEM,Over Votes,0
+Platte,9-1,U.S. Senate,,DEM,Under Votes,1
+Platte,9-1,U.S. House,,REP,Blake Stanley,9
+Platte,9-1,U.S. House,,REP,Liz Cheney,33
+Platte,9-1,U.S. House,,REP,Write-ins,0
+Platte,9-1,U.S. House,,REP,Over Votes,0
+Platte,9-1,U.S. House,,REP,Under Votes,1
+Platte,9-1,U.S. House,,DEM,Carl Beach,4
+Platte,9-1,U.S. House,,DEM,Carol Hafner,0
+Platte,9-1,U.S. House,,DEM,Lynnette Grey Bull,6
+Platte,9-1,U.S. House,,DEM,Write-ins,0
+Platte,9-1,U.S. House,,DEM,Over Votes,0
+Platte,9-1,U.S. House,,DEM,Under Votes,0
+Platte,9-1,State Senate,2,REP,Brian Boner,38
+Platte,9-1,State Senate,2,REP,Write-ins,2
+Platte,9-1,State Senate,2,REP,Over Votes,0
+Platte,9-1,State Senate,2,REP,Under Votes,3
+Platte,9-1,State Senate,2,DEM,Write-ins,1
+Platte,9-1,State House,4,REP,Dan R. Kirkbride,14
+Platte,9-1,State House,4,REP,Jeremy Haroldson,27
+Platte,9-1,State House,4,REP,Write-ins,1
+Platte,9-1,State House,4,REP,Over Votes,0
+Platte,9-1,State House,4,REP,Under Votes,1
+Platte,9-1,State House,4,DEM,Write-ins,1
+Platte,9-1,Ballots Cast,,REP,Ballots Cast,43
+Platte,9-1,Ballots Cast,,DEM,Ballots Cast,10
+Platte,9-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,9-1,Ballots Cast,,,Ballots Cast,53

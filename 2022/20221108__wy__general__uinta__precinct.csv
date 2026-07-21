@@ -1,0 +1,522 @@
+county,precinct,office,district,party,candidate,votes
+Uinta,1-1,U.S. House,,REP,Harriet Hageman,802
+Uinta,1-1,U.S. House,,DEM,Lynnette GreyBull,237
+Uinta,1-1,U.S. House,,LIB,Richard Brubaker,30
+Uinta,1-1,U.S. House,,CTRY,Marissa Joy Selvig,14
+Uinta,1-1,U.S. House,,,Write-ins,20
+Uinta,1-1,U.S. House,,,Over Votes,7
+Uinta,1-1,U.S. House,,,Under Votes,28
+Uinta,1-1,Governor,,REP,Mark Gordon,848
+Uinta,1-1,Governor,,DEM,Theresa A. Livingston,177
+Uinta,1-1,Governor,,LIB,Jared J. Baldes,43
+Uinta,1-1,Governor,,,Write-ins,55
+Uinta,1-1,Governor,,,Over Votes,0
+Uinta,1-1,Governor,,,Under Votes,15
+Uinta,1-1,Secretary of State,,REP,Chuck Gray,873
+Uinta,1-1,Secretary of State,,,Write-ins,34
+Uinta,1-1,Secretary of State,,,Over Votes,0
+Uinta,1-1,Secretary of State,,,Under Votes,231
+Uinta,1-1,State Auditor,,REP,Kristi Racines,893
+Uinta,1-1,State Auditor,,,Write-ins,13
+Uinta,1-1,State Auditor,,,Over Votes,0
+Uinta,1-1,State Auditor,,,Under Votes,232
+Uinta,1-1,State Treasurer,,REP,Curt Meier,883
+Uinta,1-1,State Treasurer,,,Write-ins,14
+Uinta,1-1,State Treasurer,,,Over Votes,1
+Uinta,1-1,State Treasurer,,,Under Votes,240
+Uinta,1-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,794
+Uinta,1-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",240
+Uinta,1-1,Superintendent of Public Instruction,,,Write-ins,19
+Uinta,1-1,Superintendent of Public Instruction,,,Over Votes,0
+Uinta,1-1,Superintendent of Public Instruction,,,Under Votes,85
+Uinta,1-1,State Senate,15,REP,Wendy Davis Schuler,953
+Uinta,1-1,State Senate,15,,Write-ins,45
+Uinta,1-1,State Senate,15,,Over Votes,1
+Uinta,1-1,State Senate,15,,Under Votes,139
+Uinta,1-1,State House,49,REP,Ryan C. Berger,761
+Uinta,1-1,State House,49,DEM,Tim Beppler,343
+Uinta,1-1,State House,49,,Write-ins,9
+Uinta,1-1,State House,49,,Over Votes,1
+Uinta,1-1,State House,49,,Under Votes,24
+Uinta,1-1,Ballots Cast,,,Ballots Cast,1138
+Uinta,1-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,1-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,199
+Uinta,1-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Uinta,1-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,198
+Uinta,1-1,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Uinta,1-1,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,130
+Uinta,1-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Uinta,1-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,65
+Uinta,1-1,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Uinta,1-1,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,131
+Uinta,1-2,U.S. House,,REP,Harriet Hageman,1042
+Uinta,1-2,U.S. House,,DEM,Lynnette GreyBull,256
+Uinta,1-2,U.S. House,,LIB,Richard Brubaker,34
+Uinta,1-2,U.S. House,,CTRY,Marissa Joy Selvig,28
+Uinta,1-2,U.S. House,,,Write-ins,24
+Uinta,1-2,U.S. House,,,Over Votes,4
+Uinta,1-2,U.S. House,,,Under Votes,32
+Uinta,1-2,Governor,,REP,Mark Gordon,1095
+Uinta,1-2,Governor,,DEM,Theresa A. Livingston,167
+Uinta,1-2,Governor,,LIB,Jared J. Baldes,52
+Uinta,1-2,Governor,,,Write-ins,68
+Uinta,1-2,Governor,,,Over Votes,0
+Uinta,1-2,Governor,,,Under Votes,38
+Uinta,1-2,Secretary of State,,REP,Chuck Gray,1139
+Uinta,1-2,Secretary of State,,,Write-ins,29
+Uinta,1-2,Secretary of State,,,Over Votes,0
+Uinta,1-2,Secretary of State,,,Under Votes,252
+Uinta,1-2,State Auditor,,REP,Kristi Racines,1152
+Uinta,1-2,State Auditor,,,Write-ins,5
+Uinta,1-2,State Auditor,,,Over Votes,0
+Uinta,1-2,State Auditor,,,Under Votes,263
+Uinta,1-2,State Treasurer,,REP,Curt Meier,1154
+Uinta,1-2,State Treasurer,,,Write-ins,8
+Uinta,1-2,State Treasurer,,,Over Votes,0
+Uinta,1-2,State Treasurer,,,Under Votes,258
+Uinta,1-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,1066
+Uinta,1-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",246
+Uinta,1-2,Superintendent of Public Instruction,,,Write-ins,21
+Uinta,1-2,Superintendent of Public Instruction,,,Over Votes,1
+Uinta,1-2,Superintendent of Public Instruction,,,Under Votes,86
+Uinta,1-2,State Senate,15,REP,Wendy Davis Schuler,1206
+Uinta,1-2,State Senate,15,,Write-ins,41
+Uinta,1-2,State Senate,15,,Over Votes,0
+Uinta,1-2,State Senate,15,,Under Votes,173
+Uinta,1-2,State House,19,REP,Jon R. Conrad,31
+Uinta,1-2,State House,19,DEM,Sarah Butters,5
+Uinta,1-2,State House,19,,Write-ins,7
+Uinta,1-2,State House,19,,Over Votes,0
+Uinta,1-2,State House,19,,Under Votes,6
+Uinta,1-2,State House,49,REP,Ryan C. Berger,924
+Uinta,1-2,State House,49,DEM,Tim Beppler,386
+Uinta,1-2,State House,49,,Write-ins,11
+Uinta,1-2,State House,49,,Over Votes,1
+Uinta,1-2,State House,49,,Under Votes,49
+Uinta,1-2,Ballots Cast,,,Ballots Cast,1420
+Uinta,1-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,1-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,256
+Uinta,1-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,1
+Uinta,1-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,254
+Uinta,1-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,1-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,155
+Uinta,1-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Uinta,1-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,71
+Uinta,1-2,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Uinta,1-2,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,187
+Uinta,1-3,U.S. House,,REP,Harriet Hageman,427
+Uinta,1-3,U.S. House,,DEM,Lynnette GreyBull,83
+Uinta,1-3,U.S. House,,LIB,Richard Brubaker,14
+Uinta,1-3,U.S. House,,CTRY,Marissa Joy Selvig,8
+Uinta,1-3,U.S. House,,,Write-ins,11
+Uinta,1-3,U.S. House,,,Over Votes,0
+Uinta,1-3,U.S. House,,,Under Votes,10
+Uinta,1-3,Governor,,REP,Mark Gordon,422
+Uinta,1-3,Governor,,DEM,Theresa A. Livingston,78
+Uinta,1-3,Governor,,LIB,Jared J. Baldes,18
+Uinta,1-3,Governor,,,Write-ins,27
+Uinta,1-3,Governor,,,Over Votes,0
+Uinta,1-3,Governor,,,Under Votes,8
+Uinta,1-3,Secretary of State,,REP,Chuck Gray,456
+Uinta,1-3,Secretary of State,,,Write-ins,17
+Uinta,1-3,Secretary of State,,,Over Votes,0
+Uinta,1-3,Secretary of State,,,Under Votes,80
+Uinta,1-3,State Auditor,,REP,Kristi Racines,439
+Uinta,1-3,State Auditor,,,Write-ins,10
+Uinta,1-3,State Auditor,,,Over Votes,0
+Uinta,1-3,State Auditor,,,Under Votes,104
+Uinta,1-3,State Treasurer,,REP,Curt Meier,458
+Uinta,1-3,State Treasurer,,,Write-ins,6
+Uinta,1-3,State Treasurer,,,Over Votes,0
+Uinta,1-3,State Treasurer,,,Under Votes,89
+Uinta,1-3,Superintendent of Public Instruction,,REP,Megan Degenfelder,415
+Uinta,1-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",94
+Uinta,1-3,Superintendent of Public Instruction,,,Write-ins,11
+Uinta,1-3,Superintendent of Public Instruction,,,Over Votes,0
+Uinta,1-3,Superintendent of Public Instruction,,,Under Votes,33
+Uinta,1-3,State Senate,15,REP,Wendy Davis Schuler,428
+Uinta,1-3,State Senate,15,,Write-ins,21
+Uinta,1-3,State Senate,15,,Over Votes,0
+Uinta,1-3,State Senate,15,,Under Votes,80
+Uinta,1-3,State House,18,REP,Scott Heiner,15
+Uinta,1-3,State House,18,LIB,Dennis B. Laughlin,6
+Uinta,1-3,State House,18,,Write-ins,0
+Uinta,1-3,State House,18,,Over Votes,0
+Uinta,1-3,State House,18,,Under Votes,3
+Uinta,1-3,State House,19,REP,Jon R. Conrad,2
+Uinta,1-3,State House,19,DEM,Sarah Butters,1
+Uinta,1-3,State House,19,,Write-ins,0
+Uinta,1-3,State House,19,,Over Votes,0
+Uinta,1-3,State House,19,,Under Votes,0
+Uinta,1-3,State House,49,REP,Ryan C. Berger,375
+Uinta,1-3,State House,49,DEM,Tim Beppler,129
+Uinta,1-3,State House,49,,Write-ins,7
+Uinta,1-3,State House,49,,Over Votes,0
+Uinta,1-3,State House,49,,Under Votes,15
+Uinta,1-3,Ballots Cast,,,Ballots Cast,553
+Uinta,1-3,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,1-3,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,83
+Uinta,1-3,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Uinta,1-3,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,82
+Uinta,1-3,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,1-3,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,56
+Uinta,1-3,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Uinta,1-3,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,29
+Uinta,1-3,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,1
+Uinta,1-3,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,53
+Uinta,1-4,U.S. House,,REP,Harriet Hageman,190
+Uinta,1-4,U.S. House,,DEM,Lynnette GreyBull,47
+Uinta,1-4,U.S. House,,LIB,Richard Brubaker,8
+Uinta,1-4,U.S. House,,CTRY,Marissa Joy Selvig,9
+Uinta,1-4,U.S. House,,,Write-ins,2
+Uinta,1-4,U.S. House,,,Over Votes,4
+Uinta,1-4,U.S. House,,,Under Votes,6
+Uinta,1-4,Governor,,REP,Mark Gordon,195
+Uinta,1-4,Governor,,DEM,Theresa A. Livingston,47
+Uinta,1-4,Governor,,LIB,Jared J. Baldes,7
+Uinta,1-4,Governor,,,Write-ins,14
+Uinta,1-4,Governor,,,Over Votes,0
+Uinta,1-4,Governor,,,Under Votes,3
+Uinta,1-4,Secretary of State,,REP,Chuck Gray,217
+Uinta,1-4,Secretary of State,,,Write-ins,11
+Uinta,1-4,Secretary of State,,,Over Votes,0
+Uinta,1-4,Secretary of State,,,Under Votes,38
+Uinta,1-4,State Auditor,,REP,Kristi Racines,221
+Uinta,1-4,State Auditor,,,Write-ins,2
+Uinta,1-4,State Auditor,,,Over Votes,0
+Uinta,1-4,State Auditor,,,Under Votes,43
+Uinta,1-4,State Treasurer,,REP,Curt Meier,227
+Uinta,1-4,State Treasurer,,,Write-ins,2
+Uinta,1-4,State Treasurer,,,Over Votes,0
+Uinta,1-4,State Treasurer,,,Under Votes,37
+Uinta,1-4,Superintendent of Public Instruction,,REP,Megan Degenfelder,196
+Uinta,1-4,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",54
+Uinta,1-4,Superintendent of Public Instruction,,,Write-ins,4
+Uinta,1-4,Superintendent of Public Instruction,,,Over Votes,0
+Uinta,1-4,Superintendent of Public Instruction,,,Under Votes,12
+Uinta,1-4,State Senate,15,REP,Wendy Davis Schuler,230
+Uinta,1-4,State Senate,15,,Write-ins,9
+Uinta,1-4,State Senate,15,,Over Votes,0
+Uinta,1-4,State Senate,15,,Under Votes,27
+Uinta,1-4,State House,19,REP,Jon R. Conrad,178
+Uinta,1-4,State House,19,DEM,Sarah Butters,60
+Uinta,1-4,State House,19,,Write-ins,16
+Uinta,1-4,State House,19,,Over Votes,2
+Uinta,1-4,State House,19,,Under Votes,10
+Uinta,1-4,Ballots Cast,,,Ballots Cast,266
+Uinta,1-4,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,1-4,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,38
+Uinta,1-4,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Uinta,1-4,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,38
+Uinta,1-4,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,1-4,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,19
+Uinta,1-4,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Uinta,1-4,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,11
+Uinta,1-4,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Uinta,1-4,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,27
+Uinta,2-1,U.S. House,,REP,Harriet Hageman,620
+Uinta,2-1,U.S. House,,DEM,Lynnette GreyBull,60
+Uinta,2-1,U.S. House,,LIB,Richard Brubaker,15
+Uinta,2-1,U.S. House,,CTRY,Marissa Joy Selvig,14
+Uinta,2-1,U.S. House,,,Write-ins,17
+Uinta,2-1,U.S. House,,,Over Votes,2
+Uinta,2-1,U.S. House,,,Under Votes,10
+Uinta,2-1,Governor,,REP,Mark Gordon,606
+Uinta,2-1,Governor,,DEM,Theresa A. Livingston,48
+Uinta,2-1,Governor,,LIB,Jared J. Baldes,25
+Uinta,2-1,Governor,,,Write-ins,42
+Uinta,2-1,Governor,,,Over Votes,0
+Uinta,2-1,Governor,,,Under Votes,17
+Uinta,2-1,Secretary of State,,REP,Chuck Gray,646
+Uinta,2-1,Secretary of State,,,Write-ins,18
+Uinta,2-1,Secretary of State,,,Over Votes,0
+Uinta,2-1,Secretary of State,,,Under Votes,74
+Uinta,2-1,State Auditor,,REP,Kristi Racines,651
+Uinta,2-1,State Auditor,,,Write-ins,2
+Uinta,2-1,State Auditor,,,Over Votes,0
+Uinta,2-1,State Auditor,,,Under Votes,85
+Uinta,2-1,State Treasurer,,REP,Curt Meier,651
+Uinta,2-1,State Treasurer,,,Write-ins,4
+Uinta,2-1,State Treasurer,,,Over Votes,1
+Uinta,2-1,State Treasurer,,,Under Votes,82
+Uinta,2-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,610
+Uinta,2-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",76
+Uinta,2-1,Superintendent of Public Instruction,,,Write-ins,12
+Uinta,2-1,Superintendent of Public Instruction,,,Over Votes,0
+Uinta,2-1,Superintendent of Public Instruction,,,Under Votes,40
+Uinta,2-1,State Senate,15,REP,Wendy Davis Schuler,357
+Uinta,2-1,State Senate,15,,Write-ins,4
+Uinta,2-1,State Senate,15,,Over Votes,0
+Uinta,2-1,State Senate,15,,Under Votes,53
+Uinta,2-1,State House,18,REP,Scott Heiner,270
+Uinta,2-1,State House,18,LIB,Dennis B. Laughlin,28
+Uinta,2-1,State House,18,,Write-ins,2
+Uinta,2-1,State House,18,,Over Votes,0
+Uinta,2-1,State House,18,,Under Votes,24
+Uinta,2-1,State House,19,REP,Jon R. Conrad,327
+Uinta,2-1,State House,19,DEM,Sarah Butters,39
+Uinta,2-1,State House,19,,Write-ins,24
+Uinta,2-1,State House,19,,Over Votes,0
+Uinta,2-1,State House,19,,Under Votes,24
+Uinta,2-1,State House,49,REP,Ryan C. Berger,0
+Uinta,2-1,State House,49,DEM,Tim Beppler,0
+Uinta,2-1,State House,49,,Write-ins,0
+Uinta,2-1,State House,49,,Over Votes,0
+Uinta,2-1,State House,49,,Under Votes,0
+Uinta,2-1,Ballots Cast,,,Ballots Cast,738
+Uinta,2-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,2-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,130
+Uinta,2-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Uinta,2-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,131
+Uinta,2-1,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,2-1,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,78
+Uinta,2-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Uinta,2-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,43
+Uinta,2-1,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Uinta,2-1,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,89
+Uinta,2-2,U.S. House,,REP,Harriet Hageman,153
+Uinta,2-2,U.S. House,,DEM,Lynnette GreyBull,24
+Uinta,2-2,U.S. House,,LIB,Richard Brubaker,4
+Uinta,2-2,U.S. House,,CTRY,Marissa Joy Selvig,2
+Uinta,2-2,U.S. House,,,Write-ins,0
+Uinta,2-2,U.S. House,,,Over Votes,1
+Uinta,2-2,U.S. House,,,Under Votes,0
+Uinta,2-2,Governor,,REP,Mark Gordon,144
+Uinta,2-2,Governor,,DEM,Theresa A. Livingston,20
+Uinta,2-2,Governor,,LIB,Jared J. Baldes,5
+Uinta,2-2,Governor,,,Write-ins,14
+Uinta,2-2,Governor,,,Over Votes,0
+Uinta,2-2,Governor,,,Under Votes,1
+Uinta,2-2,Secretary of State,,REP,Chuck Gray,165
+Uinta,2-2,Secretary of State,,,Write-ins,5
+Uinta,2-2,Secretary of State,,,Over Votes,0
+Uinta,2-2,Secretary of State,,,Under Votes,14
+Uinta,2-2,State Auditor,,REP,Kristi Racines,162
+Uinta,2-2,State Auditor,,,Write-ins,0
+Uinta,2-2,State Auditor,,,Over Votes,0
+Uinta,2-2,State Auditor,,,Under Votes,22
+Uinta,2-2,State Treasurer,,REP,Curt Meier,167
+Uinta,2-2,State Treasurer,,,Write-ins,0
+Uinta,2-2,State Treasurer,,,Over Votes,0
+Uinta,2-2,State Treasurer,,,Under Votes,17
+Uinta,2-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,142
+Uinta,2-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",27
+Uinta,2-2,Superintendent of Public Instruction,,,Write-ins,3
+Uinta,2-2,Superintendent of Public Instruction,,,Over Votes,0
+Uinta,2-2,Superintendent of Public Instruction,,,Under Votes,12
+Uinta,2-2,State House,18,REP,Scott Heiner,144
+Uinta,2-2,State House,18,LIB,Dennis B. Laughlin,29
+Uinta,2-2,State House,18,,Write-ins,0
+Uinta,2-2,State House,18,,Over Votes,0
+Uinta,2-2,State House,18,,Under Votes,11
+Uinta,2-2,Ballots Cast,,,Ballots Cast,184
+Uinta,2-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,2-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,20
+Uinta,2-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Uinta,2-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,24
+Uinta,2-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,2-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,15
+Uinta,2-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Uinta,2-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,7
+Uinta,2-2,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,1
+Uinta,2-2,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,11
+Uinta,3-1,U.S. House,,REP,Harriet Hageman,537
+Uinta,3-1,U.S. House,,DEM,Lynnette GreyBull,86
+Uinta,3-1,U.S. House,,LIB,Richard Brubaker,28
+Uinta,3-1,U.S. House,,CTRY,Marissa Joy Selvig,36
+Uinta,3-1,U.S. House,,,Write-ins,5
+Uinta,3-1,U.S. House,,,Over Votes,7
+Uinta,3-1,U.S. House,,,Under Votes,20
+Uinta,3-1,Governor,,REP,Mark Gordon,554
+Uinta,3-1,Governor,,DEM,Theresa A. Livingston,62
+Uinta,3-1,Governor,,LIB,Jared J. Baldes,40
+Uinta,3-1,Governor,,,Write-ins,42
+Uinta,3-1,Governor,,,Over Votes,1
+Uinta,3-1,Governor,,,Under Votes,20
+Uinta,3-1,Secretary of State,,REP,Chuck Gray,615
+Uinta,3-1,Secretary of State,,,Write-ins,20
+Uinta,3-1,Secretary of State,,,Over Votes,0
+Uinta,3-1,Secretary of State,,,Under Votes,84
+Uinta,3-1,State Auditor,,REP,Kristi Racines,609
+Uinta,3-1,State Auditor,,,Write-ins,8
+Uinta,3-1,State Auditor,,,Over Votes,0
+Uinta,3-1,State Auditor,,,Under Votes,102
+Uinta,3-1,State Treasurer,,REP,Curt Meier,610
+Uinta,3-1,State Treasurer,,,Write-ins,10
+Uinta,3-1,State Treasurer,,,Over Votes,0
+Uinta,3-1,State Treasurer,,,Under Votes,99
+Uinta,3-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,574
+Uinta,3-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",100
+Uinta,3-1,Superintendent of Public Instruction,,,Write-ins,6
+Uinta,3-1,Superintendent of Public Instruction,,,Over Votes,1
+Uinta,3-1,Superintendent of Public Instruction,,,Under Votes,38
+Uinta,3-1,State Senate,15,REP,Wendy Davis Schuler,605
+Uinta,3-1,State Senate,15,,Write-ins,29
+Uinta,3-1,State Senate,15,,Over Votes,0
+Uinta,3-1,State Senate,15,,Under Votes,85
+Uinta,3-1,State House,19,REP,Jon R. Conrad,290
+Uinta,3-1,State House,19,DEM,Sarah Butters,80
+Uinta,3-1,State House,19,,Write-ins,322
+Uinta,3-1,State House,19,,Over Votes,3
+Uinta,3-1,State House,19,,Under Votes,24
+Uinta,3-1,Ballots Cast,,,Ballots Cast,719
+Uinta,3-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,1
+Uinta,3-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,102
+Uinta,3-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,1
+Uinta,3-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,104
+Uinta,3-1,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,3-1,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,65
+Uinta,3-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Uinta,3-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,32
+Uinta,3-1,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Uinta,3-1,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,73
+Uinta,3-2,U.S. House,,REP,Harriet Hageman,378
+Uinta,3-2,U.S. House,,DEM,Lynnette GreyBull,32
+Uinta,3-2,U.S. House,,LIB,Richard Brubaker,13
+Uinta,3-2,U.S. House,,CTRY,Marissa Joy Selvig,10
+Uinta,3-2,U.S. House,,,Write-ins,12
+Uinta,3-2,U.S. House,,,Over Votes,4
+Uinta,3-2,U.S. House,,,Under Votes,19
+Uinta,3-2,Governor,,REP,Mark Gordon,373
+Uinta,3-2,Governor,,DEM,Theresa A. Livingston,28
+Uinta,3-2,Governor,,LIB,Jared J. Baldes,21
+Uinta,3-2,Governor,,,Write-ins,29
+Uinta,3-2,Governor,,,Over Votes,0
+Uinta,3-2,Governor,,,Under Votes,17
+Uinta,3-2,Secretary of State,,REP,Chuck Gray,401
+Uinta,3-2,Secretary of State,,,Write-ins,10
+Uinta,3-2,Secretary of State,,,Over Votes,0
+Uinta,3-2,Secretary of State,,,Under Votes,57
+Uinta,3-2,State Auditor,,REP,Kristi Racines,402
+Uinta,3-2,State Auditor,,,Write-ins,3
+Uinta,3-2,State Auditor,,,Over Votes,0
+Uinta,3-2,State Auditor,,,Under Votes,63
+Uinta,3-2,State Treasurer,,REP,Curt Meier,405
+Uinta,3-2,State Treasurer,,,Write-ins,2
+Uinta,3-2,State Treasurer,,,Over Votes,0
+Uinta,3-2,State Treasurer,,,Under Votes,61
+Uinta,3-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,391
+Uinta,3-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",40
+Uinta,3-2,Superintendent of Public Instruction,,,Write-ins,9
+Uinta,3-2,Superintendent of Public Instruction,,,Over Votes,0
+Uinta,3-2,Superintendent of Public Instruction,,,Under Votes,28
+Uinta,3-2,State Senate,15,REP,Wendy Davis Schuler,384
+Uinta,3-2,State Senate,15,,Write-ins,17
+Uinta,3-2,State Senate,15,,Over Votes,0
+Uinta,3-2,State Senate,15,,Under Votes,67
+Uinta,3-2,State House,19,REP,Jon R. Conrad,232
+Uinta,3-2,State House,19,DEM,Sarah Butters,44
+Uinta,3-2,State House,19,,Write-ins,185
+Uinta,3-2,State House,19,,Over Votes,0
+Uinta,3-2,State House,19,,Under Votes,7
+Uinta,3-2,Ballots Cast,,,Ballots Cast,468
+Uinta,3-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,3-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,82
+Uinta,3-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Uinta,3-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,85
+Uinta,3-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,3-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,54
+Uinta,3-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Uinta,3-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,36
+Uinta,3-2,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Uinta,3-2,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,51
+Uinta,4-1,U.S. House,,REP,Harriet Hageman,629
+Uinta,4-1,U.S. House,,DEM,Lynnette GreyBull,92
+Uinta,4-1,U.S. House,,LIB,Richard Brubaker,16
+Uinta,4-1,U.S. House,,CTRY,Marissa Joy Selvig,22
+Uinta,4-1,U.S. House,,,Write-ins,6
+Uinta,4-1,U.S. House,,,Over Votes,6
+Uinta,4-1,U.S. House,,,Under Votes,17
+Uinta,4-1,Governor,,REP,Mark Gordon,632
+Uinta,4-1,Governor,,DEM,Theresa A. Livingston,69
+Uinta,4-1,Governor,,LIB,Jared J. Baldes,33
+Uinta,4-1,Governor,,,Write-ins,39
+Uinta,4-1,Governor,,,Over Votes,1
+Uinta,4-1,Governor,,,Under Votes,14
+Uinta,4-1,Secretary of State,,REP,Chuck Gray,681
+Uinta,4-1,Secretary of State,,,Write-ins,14
+Uinta,4-1,Secretary of State,,,Over Votes,0
+Uinta,4-1,Secretary of State,,,Under Votes,93
+Uinta,4-1,State Auditor,,REP,Kristi Racines,686
+Uinta,4-1,State Auditor,,,Write-ins,5
+Uinta,4-1,State Auditor,,,Over Votes,0
+Uinta,4-1,State Auditor,,,Under Votes,97
+Uinta,4-1,State Treasurer,,REP,Curt Meier,690
+Uinta,4-1,State Treasurer,,,Write-ins,3
+Uinta,4-1,State Treasurer,,,Over Votes,0
+Uinta,4-1,State Treasurer,,,Under Votes,95
+Uinta,4-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,645
+Uinta,4-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",98
+Uinta,4-1,Superintendent of Public Instruction,,,Write-ins,4
+Uinta,4-1,Superintendent of Public Instruction,,,Over Votes,1
+Uinta,4-1,Superintendent of Public Instruction,,,Under Votes,40
+Uinta,4-1,State Senate,15,REP,Wendy Davis Schuler,676
+Uinta,4-1,State Senate,15,,Write-ins,16
+Uinta,4-1,State Senate,15,,Over Votes,1
+Uinta,4-1,State Senate,15,,Under Votes,95
+Uinta,4-1,State House,19,REP,Jon R. Conrad,458
+Uinta,4-1,State House,19,DEM,Sarah Butters,82
+Uinta,4-1,State House,19,,Write-ins,218
+Uinta,4-1,State House,19,,Over Votes,3
+Uinta,4-1,State House,19,,Under Votes,27
+Uinta,4-1,Ballots Cast,,,Ballots Cast,788
+Uinta,4-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,4-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,94
+Uinta,4-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Uinta,4-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,97
+Uinta,4-1,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,4-1,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,71
+Uinta,4-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Uinta,4-1,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,52
+Uinta,4-1,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,1
+Uinta,4-1,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,60
+Uinta,4-2,U.S. House,,REP,Harriet Hageman,341
+Uinta,4-2,U.S. House,,DEM,Lynnette GreyBull,70
+Uinta,4-2,U.S. House,,LIB,Richard Brubaker,16
+Uinta,4-2,U.S. House,,CTRY,Marissa Joy Selvig,18
+Uinta,4-2,U.S. House,,,Write-ins,6
+Uinta,4-2,U.S. House,,,Over Votes,6
+Uinta,4-2,U.S. House,,,Under Votes,8
+Uinta,4-2,Governor,,REP,Mark Gordon,355
+Uinta,4-2,Governor,,DEM,Theresa A. Livingston,58
+Uinta,4-2,Governor,,LIB,Jared J. Baldes,25
+Uinta,4-2,Governor,,,Write-ins,19
+Uinta,4-2,Governor,,,Over Votes,1
+Uinta,4-2,Governor,,,Under Votes,7
+Uinta,4-2,Secretary of State,,REP,Chuck Gray,393
+Uinta,4-2,Secretary of State,,,Write-ins,14
+Uinta,4-2,Secretary of State,,,Over Votes,1
+Uinta,4-2,Secretary of State,,,Under Votes,57
+Uinta,4-2,State Auditor,,REP,Kristi Racines,398
+Uinta,4-2,State Auditor,,,Write-ins,4
+Uinta,4-2,State Auditor,,,Over Votes,0
+Uinta,4-2,State Auditor,,,Under Votes,63
+Uinta,4-2,State Treasurer,,REP,Curt Meier,401
+Uinta,4-2,State Treasurer,,,Write-ins,4
+Uinta,4-2,State Treasurer,,,Over Votes,0
+Uinta,4-2,State Treasurer,,,Under Votes,60
+Uinta,4-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,370
+Uinta,4-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",75
+Uinta,4-2,Superintendent of Public Instruction,,,Write-ins,2
+Uinta,4-2,Superintendent of Public Instruction,,,Over Votes,0
+Uinta,4-2,Superintendent of Public Instruction,,,Under Votes,18
+Uinta,4-2,State Senate,15,REP,Wendy Davis Schuler,404
+Uinta,4-2,State Senate,15,,Write-ins,11
+Uinta,4-2,State Senate,15,,Over Votes,0
+Uinta,4-2,State Senate,15,,Under Votes,50
+Uinta,4-2,State House,19,REP,Jon R. Conrad,230
+Uinta,4-2,State House,19,DEM,Sarah Butters,63
+Uinta,4-2,State House,19,,Write-ins,156
+Uinta,4-2,State House,19,,Over Votes,2
+Uinta,4-2,State House,19,,Under Votes,14
+Uinta,4-2,Ballots Cast,,,Ballots Cast,465
+Uinta,4-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Uinta,4-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,65
+Uinta,4-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,1
+Uinta,4-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,67
+Uinta,4-2,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Uinta,4-2,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,41
+Uinta,4-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Uinta,4-2,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,19
+Uinta,4-2,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Uinta,4-2,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,39

@@ -1,0 +1,1378 @@
+county,precinct,office,district,party,candidate,votes
+Laramie,01-01,U.S. Senate,,REP,John Barrasso,214
+Laramie,01-01,U.S. Senate,,REP,John Holtz,22
+Laramie,01-01,U.S. Senate,,REP,Reid Rasner,84
+Laramie,01-01,U.S. Senate,,REP,Write-ins,12
+Laramie,01-01,U.S. Senate,,REP,Over Votes,0
+Laramie,01-01,U.S. Senate,,REP,Under Votes,3
+Laramie,01-01,U.S. Senate,,DEM,Scott D Morrow,83
+Laramie,01-01,U.S. Senate,,DEM,Write-ins,2
+Laramie,01-01,U.S. Senate,,DEM,Over Votes,1
+Laramie,01-01,U.S. Senate,,DEM,Under Votes,4
+Laramie,01-01,U.S. House,,REP,Harriet Hageman,262
+Laramie,01-01,U.S. House,,REP,Steven R. Helling,57
+Laramie,01-01,U.S. House,,REP,Write-ins,12
+Laramie,01-01,U.S. House,,REP,Over Votes,0
+Laramie,01-01,U.S. House,,REP,Under Votes,4
+Laramie,01-01,U.S. House,,DEM,Kyle G. Cameron,89
+Laramie,01-01,U.S. House,,DEM,Write-ins,1
+Laramie,01-01,U.S. House,,DEM,Over Votes,0
+Laramie,01-01,U.S. House,,DEM,Under Votes,0
+Laramie,01-01,State Senate,8,REP,Jared Olsen,292
+Laramie,01-01,State Senate,8,REP,Write-ins,19
+Laramie,01-01,State Senate,8,REP,Over Votes,0
+Laramie,01-01,State Senate,8,REP,Under Votes,24
+Laramie,01-01,State Senate,8,DEM,Marguerite Herman,82
+Laramie,01-01,State Senate,8,DEM,Write-ins,2
+Laramie,01-01,State Senate,8,DEM,Over Votes,0
+Laramie,01-01,State Senate,8,DEM,Under Votes,6
+Laramie,01-01,State House,44,REP,John B Romero-Martinez,25
+Laramie,01-01,State House,44,REP,Lee Filer,205
+Laramie,01-01,State House,44,REP,Tamara Trujillo,102
+Laramie,01-01,State House,44,REP,Write-ins,0
+Laramie,01-01,State House,44,REP,Over Votes,1
+Laramie,01-01,State House,44,REP,Under Votes,2
+Laramie,01-01,State House,44,DEM,Write-ins,25
+Laramie,01-01,Ballots Cast,,REP,Ballots Cast,335
+Laramie,01-01,Ballots Cast,,DEM,Ballots Cast,90
+Laramie,01-01,Ballots Cast,,NP,Ballots Cast,24
+Laramie,01-01,Ballots Cast,,,Ballots Cast,449
+Laramie,01-02,U.S. Senate,,REP,John Barrasso,131
+Laramie,01-02,U.S. Senate,,REP,John Holtz,24
+Laramie,01-02,U.S. Senate,,REP,Reid Rasner,58
+Laramie,01-02,U.S. Senate,,REP,Write-ins,7
+Laramie,01-02,U.S. Senate,,REP,Over Votes,0
+Laramie,01-02,U.S. Senate,,REP,Under Votes,6
+Laramie,01-02,U.S. Senate,,DEM,Scott D Morrow,83
+Laramie,01-02,U.S. Senate,,DEM,Write-ins,3
+Laramie,01-02,U.S. Senate,,DEM,Over Votes,0
+Laramie,01-02,U.S. Senate,,DEM,Under Votes,7
+Laramie,01-02,U.S. House,,REP,Harriet Hageman,148
+Laramie,01-02,U.S. House,,REP,Steven R. Helling,66
+Laramie,01-02,U.S. House,,REP,Write-ins,8
+Laramie,01-02,U.S. House,,REP,Over Votes,0
+Laramie,01-02,U.S. House,,REP,Under Votes,4
+Laramie,01-02,U.S. House,,DEM,Kyle G. Cameron,83
+Laramie,01-02,U.S. House,,DEM,Write-ins,2
+Laramie,01-02,U.S. House,,DEM,Over Votes,0
+Laramie,01-02,U.S. House,,DEM,Under Votes,8
+Laramie,01-02,State Senate,8,REP,Jared Olsen,192
+Laramie,01-02,State Senate,8,REP,Write-ins,18
+Laramie,01-02,State Senate,8,REP,Over Votes,0
+Laramie,01-02,State Senate,8,REP,Under Votes,16
+Laramie,01-02,State Senate,8,DEM,Marguerite Herman,86
+Laramie,01-02,State Senate,8,DEM,Write-ins,2
+Laramie,01-02,State Senate,8,DEM,Over Votes,0
+Laramie,01-02,State Senate,8,DEM,Under Votes,5
+Laramie,01-02,State House,44,REP,John B Romero-Martinez,41
+Laramie,01-02,State House,44,REP,Lee Filer,99
+Laramie,01-02,State House,44,REP,Tamara Trujillo,73
+Laramie,01-02,State House,44,REP,Write-ins,1
+Laramie,01-02,State House,44,REP,Over Votes,0
+Laramie,01-02,State House,44,REP,Under Votes,12
+Laramie,01-02,State House,44,DEM,Write-ins,24
+Laramie,01-02,Ballots Cast,,REP,Ballots Cast,226
+Laramie,01-02,Ballots Cast,,DEM,Ballots Cast,93
+Laramie,01-02,Ballots Cast,,NP,Ballots Cast,13
+Laramie,01-02,Ballots Cast,,,Ballots Cast,332
+Laramie,01-03,U.S. Senate,,REP,John Barrasso,221
+Laramie,01-03,U.S. Senate,,REP,John Holtz,49
+Laramie,01-03,U.S. Senate,,REP,Reid Rasner,87
+Laramie,01-03,U.S. Senate,,REP,Write-ins,26
+Laramie,01-03,U.S. Senate,,REP,Over Votes,0
+Laramie,01-03,U.S. Senate,,REP,Under Votes,13
+Laramie,01-03,U.S. Senate,,DEM,Scott D Morrow,134
+Laramie,01-03,U.S. Senate,,DEM,Write-ins,5
+Laramie,01-03,U.S. Senate,,DEM,Over Votes,0
+Laramie,01-03,U.S. Senate,,DEM,Under Votes,9
+Laramie,01-03,U.S. House,,REP,Harriet Hageman,229
+Laramie,01-03,U.S. House,,REP,Steven R. Helling,118
+Laramie,01-03,U.S. House,,REP,Write-ins,32
+Laramie,01-03,U.S. House,,REP,Over Votes,0
+Laramie,01-03,U.S. House,,REP,Under Votes,17
+Laramie,01-03,U.S. House,,DEM,Kyle G. Cameron,133
+Laramie,01-03,U.S. House,,DEM,Write-ins,4
+Laramie,01-03,U.S. House,,DEM,Over Votes,0
+Laramie,01-03,U.S. House,,DEM,Under Votes,11
+Laramie,01-03,State Senate,8,REP,Jared Olsen,306
+Laramie,01-03,State Senate,8,REP,Write-ins,31
+Laramie,01-03,State Senate,8,REP,Over Votes,0
+Laramie,01-03,State Senate,8,REP,Under Votes,59
+Laramie,01-03,State Senate,8,DEM,Marguerite Herman,137
+Laramie,01-03,State Senate,8,DEM,Write-ins,4
+Laramie,01-03,State Senate,8,DEM,Over Votes,1
+Laramie,01-03,State Senate,8,DEM,Under Votes,6
+Laramie,01-03,State House,11,REP,Jacob Wasserburger,185
+Laramie,01-03,State House,11,REP,Seth Ulvestad,175
+Laramie,01-03,State House,11,REP,Write-ins,5
+Laramie,01-03,State House,11,REP,Over Votes,0
+Laramie,01-03,State House,11,REP,Under Votes,31
+Laramie,01-03,State House,11,DEM,Sara Burlingame,137
+Laramie,01-03,State House,11,DEM,Write-ins,2
+Laramie,01-03,State House,11,DEM,Over Votes,0
+Laramie,01-03,State House,11,DEM,Under Votes,9
+Laramie,01-03,Ballots Cast,,REP,Ballots Cast,396
+Laramie,01-03,Ballots Cast,,DEM,Ballots Cast,148
+Laramie,01-03,Ballots Cast,,NP,Ballots Cast,34
+Laramie,01-03,Ballots Cast,,,Ballots Cast,578
+Laramie,01-04,U.S. Senate,,REP,John Barrasso,133
+Laramie,01-04,U.S. Senate,,REP,John Holtz,29
+Laramie,01-04,U.S. Senate,,REP,Reid Rasner,45
+Laramie,01-04,U.S. Senate,,REP,Write-ins,6
+Laramie,01-04,U.S. Senate,,REP,Over Votes,1
+Laramie,01-04,U.S. Senate,,REP,Under Votes,6
+Laramie,01-04,U.S. Senate,,DEM,Scott D Morrow,42
+Laramie,01-04,U.S. Senate,,DEM,Write-ins,3
+Laramie,01-04,U.S. Senate,,DEM,Over Votes,0
+Laramie,01-04,U.S. Senate,,DEM,Under Votes,9
+Laramie,01-04,U.S. House,,REP,Harriet Hageman,132
+Laramie,01-04,U.S. House,,REP,Steven R. Helling,71
+Laramie,01-04,U.S. House,,REP,Write-ins,12
+Laramie,01-04,U.S. House,,REP,Over Votes,0
+Laramie,01-04,U.S. House,,REP,Under Votes,5
+Laramie,01-04,U.S. House,,DEM,Kyle G. Cameron,43
+Laramie,01-04,U.S. House,,DEM,Write-ins,5
+Laramie,01-04,U.S. House,,DEM,Over Votes,0
+Laramie,01-04,U.S. House,,DEM,Under Votes,6
+Laramie,01-04,State Senate,8,REP,Jared Olsen,178
+Laramie,01-04,State Senate,8,REP,Write-ins,14
+Laramie,01-04,State Senate,8,REP,Over Votes,0
+Laramie,01-04,State Senate,8,REP,Under Votes,28
+Laramie,01-04,State Senate,8,DEM,Marguerite Herman,49
+Laramie,01-04,State Senate,8,DEM,Write-ins,0
+Laramie,01-04,State Senate,8,DEM,Over Votes,0
+Laramie,01-04,State Senate,8,DEM,Under Votes,5
+Laramie,01-04,State House,11,REP,Jacob Wasserburger,121
+Laramie,01-04,State House,11,REP,Seth Ulvestad,83
+Laramie,01-04,State House,11,REP,Write-ins,5
+Laramie,01-04,State House,11,REP,Over Votes,0
+Laramie,01-04,State House,11,REP,Under Votes,11
+Laramie,01-04,State House,11,DEM,Sara Burlingame,50
+Laramie,01-04,State House,11,DEM,Write-ins,0
+Laramie,01-04,State House,11,DEM,Over Votes,0
+Laramie,01-04,State House,11,DEM,Under Votes,4
+Laramie,01-04,Ballots Cast,,REP,Ballots Cast,220
+Laramie,01-04,Ballots Cast,,DEM,Ballots Cast,54
+Laramie,01-04,Ballots Cast,,NP,Ballots Cast,16
+Laramie,01-04,Ballots Cast,,,Ballots Cast,290
+Laramie,01-05,U.S. Senate,,REP,John Barrasso,348
+Laramie,01-05,U.S. Senate,,REP,John Holtz,63
+Laramie,01-05,U.S. Senate,,REP,Reid Rasner,94
+Laramie,01-05,U.S. Senate,,REP,Write-ins,25
+Laramie,01-05,U.S. Senate,,REP,Over Votes,0
+Laramie,01-05,U.S. Senate,,REP,Under Votes,31
+Laramie,01-05,U.S. Senate,,DEM,Scott D Morrow,141
+Laramie,01-05,U.S. Senate,,DEM,Write-ins,3
+Laramie,01-05,U.S. Senate,,DEM,Over Votes,0
+Laramie,01-05,U.S. Senate,,DEM,Under Votes,5
+Laramie,01-05,U.S. House,,REP,Harriet Hageman,317
+Laramie,01-05,U.S. House,,REP,Steven R. Helling,174
+Laramie,01-05,U.S. House,,REP,Write-ins,39
+Laramie,01-05,U.S. House,,REP,Over Votes,0
+Laramie,01-05,U.S. House,,REP,Under Votes,31
+Laramie,01-05,U.S. House,,DEM,Kyle G. Cameron,141
+Laramie,01-05,U.S. House,,DEM,Write-ins,3
+Laramie,01-05,U.S. House,,DEM,Over Votes,0
+Laramie,01-05,U.S. House,,DEM,Under Votes,5
+Laramie,01-05,State House,41,REP,Bill Henderson,293
+Laramie,01-05,State House,41,REP,Gary Brown,243
+Laramie,01-05,State House,41,REP,Write-ins,2
+Laramie,01-05,State House,41,REP,Over Votes,0
+Laramie,01-05,State House,41,REP,Under Votes,23
+Laramie,01-05,State House,41,DEM,Jen Solis,148
+Laramie,01-05,State House,41,DEM,Write-ins,0
+Laramie,01-05,State House,41,DEM,Over Votes,0
+Laramie,01-05,State House,41,DEM,Under Votes,1
+Laramie,01-05,Ballots Cast,,REP,Ballots Cast,561
+Laramie,01-05,Ballots Cast,,DEM,Ballots Cast,149
+Laramie,01-05,Ballots Cast,,NP,Ballots Cast,28
+Laramie,01-05,Ballots Cast,,,Ballots Cast,738
+Laramie,01-06,U.S. Senate,,REP,John Barrasso,290
+Laramie,01-06,U.S. Senate,,REP,John Holtz,64
+Laramie,01-06,U.S. Senate,,REP,Reid Rasner,98
+Laramie,01-06,U.S. Senate,,REP,Write-ins,20
+Laramie,01-06,U.S. Senate,,REP,Over Votes,1
+Laramie,01-06,U.S. Senate,,REP,Under Votes,15
+Laramie,01-06,U.S. Senate,,DEM,Scott D Morrow,89
+Laramie,01-06,U.S. Senate,,DEM,Write-ins,4
+Laramie,01-06,U.S. Senate,,DEM,Over Votes,0
+Laramie,01-06,U.S. Senate,,DEM,Under Votes,7
+Laramie,01-06,U.S. House,,REP,Harriet Hageman,305
+Laramie,01-06,U.S. House,,REP,Steven R. Helling,151
+Laramie,01-06,U.S. House,,REP,Write-ins,18
+Laramie,01-06,U.S. House,,REP,Over Votes,0
+Laramie,01-06,U.S. House,,REP,Under Votes,14
+Laramie,01-06,U.S. House,,DEM,Kyle G. Cameron,92
+Laramie,01-06,U.S. House,,DEM,Write-ins,2
+Laramie,01-06,U.S. House,,DEM,Over Votes,0
+Laramie,01-06,U.S. House,,DEM,Under Votes,6
+Laramie,01-06,State House,41,REP,Bill Henderson,196
+Laramie,01-06,State House,41,REP,Gary Brown,278
+Laramie,01-06,State House,41,REP,Write-ins,2
+Laramie,01-06,State House,41,REP,Over Votes,0
+Laramie,01-06,State House,41,REP,Under Votes,12
+Laramie,01-06,State House,41,DEM,Jen Solis,94
+Laramie,01-06,State House,41,DEM,Write-ins,2
+Laramie,01-06,State House,41,DEM,Over Votes,0
+Laramie,01-06,State House,41,DEM,Under Votes,4
+Laramie,01-06,Ballots Cast,,REP,Ballots Cast,488
+Laramie,01-06,Ballots Cast,,DEM,Ballots Cast,100
+Laramie,01-06,Ballots Cast,,NP,Ballots Cast,21
+Laramie,01-06,Ballots Cast,,,Ballots Cast,609
+Laramie,01-07,U.S. Senate,,REP,John Barrasso,27
+Laramie,01-07,U.S. Senate,,REP,John Holtz,3
+Laramie,01-07,U.S. Senate,,REP,Reid Rasner,7
+Laramie,01-07,U.S. Senate,,REP,Write-ins,0
+Laramie,01-07,U.S. Senate,,REP,Over Votes,0
+Laramie,01-07,U.S. Senate,,REP,Under Votes,0
+Laramie,01-07,U.S. Senate,,DEM,Scott D Morrow,7
+Laramie,01-07,U.S. Senate,,DEM,Write-ins,0
+Laramie,01-07,U.S. Senate,,DEM,Over Votes,0
+Laramie,01-07,U.S. Senate,,DEM,Under Votes,1
+Laramie,01-07,U.S. House,,REP,Harriet Hageman,28
+Laramie,01-07,U.S. House,,REP,Steven R. Helling,9
+Laramie,01-07,U.S. House,,REP,Write-ins,0
+Laramie,01-07,U.S. House,,REP,Over Votes,0
+Laramie,01-07,U.S. House,,REP,Under Votes,0
+Laramie,01-07,U.S. House,,DEM,Kyle G. Cameron,5
+Laramie,01-07,U.S. House,,DEM,Write-ins,0
+Laramie,01-07,U.S. House,,DEM,Over Votes,0
+Laramie,01-07,U.S. House,,DEM,Under Votes,3
+Laramie,01-07,State House,43,REP,Ann Lucas,22
+Laramie,01-07,State House,43,REP,Dan Zwonitzer,15
+Laramie,01-07,State House,43,REP,Write-ins,0
+Laramie,01-07,State House,43,REP,Over Votes,0
+Laramie,01-07,State House,43,REP,Under Votes,0
+Laramie,01-07,State House,43,DEM,Write-ins,1
+Laramie,01-07,Ballots Cast,,REP,Ballots Cast,37
+Laramie,01-07,Ballots Cast,,DEM,Ballots Cast,8
+Laramie,01-07,Ballots Cast,,NP,Ballots Cast,3
+Laramie,01-07,Ballots Cast,,,Ballots Cast,48
+Laramie,02-01,U.S. Senate,,REP,John Barrasso,462
+Laramie,02-01,U.S. Senate,,REP,John Holtz,81
+Laramie,02-01,U.S. Senate,,REP,Reid Rasner,126
+Laramie,02-01,U.S. Senate,,REP,Write-ins,31
+Laramie,02-01,U.S. Senate,,REP,Over Votes,1
+Laramie,02-01,U.S. Senate,,REP,Under Votes,40
+Laramie,02-01,U.S. Senate,,DEM,Scott D Morrow,108
+Laramie,02-01,U.S. Senate,,DEM,Write-ins,1
+Laramie,02-01,U.S. Senate,,DEM,Over Votes,0
+Laramie,02-01,U.S. Senate,,DEM,Under Votes,5
+Laramie,02-01,U.S. House,,REP,Harriet Hageman,440
+Laramie,02-01,U.S. House,,REP,Steven R. Helling,214
+Laramie,02-01,U.S. House,,REP,Write-ins,46
+Laramie,02-01,U.S. House,,REP,Over Votes,0
+Laramie,02-01,U.S. House,,REP,Under Votes,41
+Laramie,02-01,U.S. House,,DEM,Kyle G. Cameron,103
+Laramie,02-01,U.S. House,,DEM,Write-ins,2
+Laramie,02-01,U.S. House,,DEM,Over Votes,1
+Laramie,02-01,U.S. House,,DEM,Under Votes,8
+Laramie,02-01,State Senate,4,REP,* Withdrawn Candidate,167
+Laramie,02-01,State Senate,4,REP,Tara Nethercott,528
+Laramie,02-01,State Senate,4,REP,Write-ins,7
+Laramie,02-01,State Senate,4,REP,Over Votes,0
+Laramie,02-01,State Senate,4,REP,Under Votes,39
+Laramie,02-01,State Senate,4,DEM,Write-ins,16
+Laramie,02-01,State House,7,REP,Bob Nicholas,464
+Laramie,02-01,State House,7,REP,Kathy Russell,257
+Laramie,02-01,State House,7,REP,Write-ins,3
+Laramie,02-01,State House,7,REP,Over Votes,0
+Laramie,02-01,State House,7,REP,Under Votes,17
+Laramie,02-01,State House,7,DEM,Jordan Evans,105
+Laramie,02-01,State House,7,DEM,Write-ins,2
+Laramie,02-01,State House,7,DEM,Over Votes,0
+Laramie,02-01,State House,7,DEM,Under Votes,7
+Laramie,02-01,Ballots Cast,,REP,Ballots Cast,741
+Laramie,02-01,Ballots Cast,,DEM,Ballots Cast,114
+Laramie,02-01,Ballots Cast,,NP,Ballots Cast,21
+Laramie,02-01,Ballots Cast,,,Ballots Cast,876
+Laramie,02-02,U.S. Senate,,REP,John Barrasso,659
+Laramie,02-02,U.S. Senate,,REP,John Holtz,124
+Laramie,02-02,U.S. Senate,,REP,Reid Rasner,196
+Laramie,02-02,U.S. Senate,,REP,Write-ins,45
+Laramie,02-02,U.S. Senate,,REP,Over Votes,2
+Laramie,02-02,U.S. Senate,,REP,Under Votes,40
+Laramie,02-02,U.S. Senate,,DEM,Scott D Morrow,203
+Laramie,02-02,U.S. Senate,,DEM,Write-ins,2
+Laramie,02-02,U.S. Senate,,DEM,Over Votes,0
+Laramie,02-02,U.S. Senate,,DEM,Under Votes,12
+Laramie,02-02,U.S. House,,REP,Harriet Hageman,640
+Laramie,02-02,U.S. House,,REP,Steven R. Helling,321
+Laramie,02-02,U.S. House,,REP,Write-ins,60
+Laramie,02-02,U.S. House,,REP,Over Votes,0
+Laramie,02-02,U.S. House,,REP,Under Votes,45
+Laramie,02-02,U.S. House,,DEM,Kyle G. Cameron,203
+Laramie,02-02,U.S. House,,DEM,Write-ins,1
+Laramie,02-02,U.S. House,,DEM,Over Votes,0
+Laramie,02-02,U.S. House,,DEM,Under Votes,13
+Laramie,02-02,State Senate,4,REP,* Withdrawn Candidate,264
+Laramie,02-02,State Senate,4,REP,Tara Nethercott,742
+Laramie,02-02,State Senate,4,REP,Write-ins,9
+Laramie,02-02,State Senate,4,REP,Over Votes,1
+Laramie,02-02,State Senate,4,REP,Under Votes,50
+Laramie,02-02,State Senate,4,DEM,Write-ins,38
+Laramie,02-02,State House,7,REP,Bob Nicholas,604
+Laramie,02-02,State House,7,REP,Kathy Russell,425
+Laramie,02-02,State House,7,REP,Write-ins,9
+Laramie,02-02,State House,7,REP,Over Votes,0
+Laramie,02-02,State House,7,REP,Under Votes,28
+Laramie,02-02,State House,7,DEM,Jordan Evans,199
+Laramie,02-02,State House,7,DEM,Write-ins,4
+Laramie,02-02,State House,7,DEM,Over Votes,0
+Laramie,02-02,State House,7,DEM,Under Votes,14
+Laramie,02-02,Ballots Cast,,REP,Ballots Cast,1066
+Laramie,02-02,Ballots Cast,,DEM,Ballots Cast,217
+Laramie,02-02,Ballots Cast,,NP,Ballots Cast,53
+Laramie,02-02,Ballots Cast,,,Ballots Cast,1336
+Laramie,02-03,U.S. Senate,,REP,John Barrasso,292
+Laramie,02-03,U.S. Senate,,REP,John Holtz,49
+Laramie,02-03,U.S. Senate,,REP,Reid Rasner,72
+Laramie,02-03,U.S. Senate,,REP,Write-ins,17
+Laramie,02-03,U.S. Senate,,REP,Over Votes,0
+Laramie,02-03,U.S. Senate,,REP,Under Votes,21
+Laramie,02-03,U.S. Senate,,DEM,Scott D Morrow,57
+Laramie,02-03,U.S. Senate,,DEM,Write-ins,2
+Laramie,02-03,U.S. Senate,,DEM,Over Votes,0
+Laramie,02-03,U.S. Senate,,DEM,Under Votes,6
+Laramie,02-03,U.S. House,,REP,Harriet Hageman,262
+Laramie,02-03,U.S. House,,REP,Steven R. Helling,150
+Laramie,02-03,U.S. House,,REP,Write-ins,20
+Laramie,02-03,U.S. House,,REP,Over Votes,0
+Laramie,02-03,U.S. House,,REP,Under Votes,19
+Laramie,02-03,U.S. House,,DEM,Kyle G. Cameron,58
+Laramie,02-03,U.S. House,,DEM,Write-ins,1
+Laramie,02-03,U.S. House,,DEM,Over Votes,0
+Laramie,02-03,U.S. House,,DEM,Under Votes,6
+Laramie,02-03,State House,42,REP,Ben Hornok,140
+Laramie,02-03,State House,42,REP,Rob Geringer,300
+Laramie,02-03,State House,42,REP,Write-ins,1
+Laramie,02-03,State House,42,REP,Over Votes,0
+Laramie,02-03,State House,42,REP,Under Votes,10
+Laramie,02-03,State House,42,DEM,Bob Ray,56
+Laramie,02-03,State House,42,DEM,Write-ins,0
+Laramie,02-03,State House,42,DEM,Over Votes,0
+Laramie,02-03,State House,42,DEM,Under Votes,9
+Laramie,02-03,Ballots Cast,,REP,Ballots Cast,451
+Laramie,02-03,Ballots Cast,,DEM,Ballots Cast,65
+Laramie,02-03,Ballots Cast,,NP,Ballots Cast,8
+Laramie,02-03,Ballots Cast,,,Ballots Cast,524
+Laramie,02-04,U.S. Senate,,REP,John Barrasso,406
+Laramie,02-04,U.S. Senate,,REP,John Holtz,44
+Laramie,02-04,U.S. Senate,,REP,Reid Rasner,90
+Laramie,02-04,U.S. Senate,,REP,Write-ins,19
+Laramie,02-04,U.S. Senate,,REP,Over Votes,1
+Laramie,02-04,U.S. Senate,,REP,Under Votes,16
+Laramie,02-04,U.S. Senate,,DEM,Scott D Morrow,71
+Laramie,02-04,U.S. Senate,,DEM,Write-ins,2
+Laramie,02-04,U.S. Senate,,DEM,Over Votes,0
+Laramie,02-04,U.S. Senate,,DEM,Under Votes,7
+Laramie,02-04,U.S. House,,REP,Harriet Hageman,360
+Laramie,02-04,U.S. House,,REP,Steven R. Helling,156
+Laramie,02-04,U.S. House,,REP,Write-ins,36
+Laramie,02-04,U.S. House,,REP,Over Votes,0
+Laramie,02-04,U.S. House,,REP,Under Votes,24
+Laramie,02-04,U.S. House,,DEM,Kyle G. Cameron,71
+Laramie,02-04,U.S. House,,DEM,Write-ins,2
+Laramie,02-04,U.S. House,,DEM,Over Votes,0
+Laramie,02-04,U.S. House,,DEM,Under Votes,7
+Laramie,02-04,State Senate,4,REP,* Withdrawn Candidate,111
+Laramie,02-04,State Senate,4,REP,Tara Nethercott,435
+Laramie,02-04,State Senate,4,REP,Write-ins,5
+Laramie,02-04,State Senate,4,REP,Over Votes,1
+Laramie,02-04,State Senate,4,REP,Under Votes,24
+Laramie,02-04,State Senate,4,DEM,Write-ins,18
+Laramie,02-04,State House,8,REP,Cayd Batchelor,23
+Laramie,02-04,State House,8,REP,David Zwonitzer,345
+Laramie,02-04,State House,8,REP,Steve Johnson,192
+Laramie,02-04,State House,8,REP,Write-ins,1
+Laramie,02-04,State House,8,REP,Over Votes,2
+Laramie,02-04,State House,8,REP,Under Votes,13
+Laramie,02-04,State House,8,DEM,Write-ins,15
+Laramie,02-04,Ballots Cast,,REP,Ballots Cast,576
+Laramie,02-04,Ballots Cast,,DEM,Ballots Cast,80
+Laramie,02-04,Ballots Cast,,NP,Ballots Cast,25
+Laramie,02-04,Ballots Cast,,,Ballots Cast,681
+Laramie,02-05,U.S. Senate,,REP,John Barrasso,37
+Laramie,02-05,U.S. Senate,,REP,John Holtz,2
+Laramie,02-05,U.S. Senate,,REP,Reid Rasner,8
+Laramie,02-05,U.S. Senate,,REP,Write-ins,1
+Laramie,02-05,U.S. Senate,,REP,Over Votes,0
+Laramie,02-05,U.S. Senate,,REP,Under Votes,3
+Laramie,02-05,U.S. Senate,,DEM,Scott D Morrow,15
+Laramie,02-05,U.S. Senate,,DEM,Write-ins,0
+Laramie,02-05,U.S. Senate,,DEM,Over Votes,0
+Laramie,02-05,U.S. Senate,,DEM,Under Votes,1
+Laramie,02-05,U.S. House,,REP,Harriet Hageman,35
+Laramie,02-05,U.S. House,,REP,Steven R. Helling,14
+Laramie,02-05,U.S. House,,REP,Write-ins,1
+Laramie,02-05,U.S. House,,REP,Over Votes,0
+Laramie,02-05,U.S. House,,REP,Under Votes,1
+Laramie,02-05,U.S. House,,DEM,Kyle G. Cameron,14
+Laramie,02-05,U.S. House,,DEM,Write-ins,0
+Laramie,02-05,U.S. House,,DEM,Over Votes,0
+Laramie,02-05,U.S. House,,DEM,Under Votes,2
+Laramie,02-05,State Senate,4,REP,* Withdrawn Candidate,11
+Laramie,02-05,State Senate,4,REP,Tara Nethercott,38
+Laramie,02-05,State Senate,4,REP,Write-ins,0
+Laramie,02-05,State Senate,4,REP,Over Votes,0
+Laramie,02-05,State Senate,4,REP,Under Votes,2
+Laramie,02-05,State Senate,4,DEM,Write-ins,3
+Laramie,02-05,State House,8,REP,Cayd Batchelor,4
+Laramie,02-05,State House,8,REP,David Zwonitzer,26
+Laramie,02-05,State House,8,REP,Steve Johnson,20
+Laramie,02-05,State House,8,REP,Write-ins,0
+Laramie,02-05,State House,8,REP,Over Votes,0
+Laramie,02-05,State House,8,REP,Under Votes,1
+Laramie,02-05,State House,8,DEM,Write-ins,2
+Laramie,02-05,Ballots Cast,,REP,Ballots Cast,51
+Laramie,02-05,Ballots Cast,,DEM,Ballots Cast,16
+Laramie,02-05,Ballots Cast,,NP,Ballots Cast,5
+Laramie,02-05,Ballots Cast,,,Ballots Cast,72
+Laramie,02-06,U.S. Senate,,REP,John Barrasso,491
+Laramie,02-06,U.S. Senate,,REP,John Holtz,84
+Laramie,02-06,U.S. Senate,,REP,Reid Rasner,155
+Laramie,02-06,U.S. Senate,,REP,Write-ins,19
+Laramie,02-06,U.S. Senate,,REP,Over Votes,2
+Laramie,02-06,U.S. Senate,,REP,Under Votes,34
+Laramie,02-06,U.S. Senate,,DEM,Scott D Morrow,125
+Laramie,02-06,U.S. Senate,,DEM,Write-ins,5
+Laramie,02-06,U.S. Senate,,DEM,Over Votes,0
+Laramie,02-06,U.S. Senate,,DEM,Under Votes,5
+Laramie,02-06,U.S. House,,REP,Harriet Hageman,494
+Laramie,02-06,U.S. House,,REP,Steven R. Helling,221
+Laramie,02-06,U.S. House,,REP,Write-ins,41
+Laramie,02-06,U.S. House,,REP,Over Votes,1
+Laramie,02-06,U.S. House,,REP,Under Votes,28
+Laramie,02-06,U.S. House,,DEM,Kyle G. Cameron,128
+Laramie,02-06,U.S. House,,DEM,Write-ins,2
+Laramie,02-06,U.S. House,,DEM,Over Votes,0
+Laramie,02-06,U.S. House,,DEM,Under Votes,5
+Laramie,02-06,State House,9,REP,Exie Brown,360
+Laramie,02-06,State House,9,REP,Landon J. Brown,407
+Laramie,02-06,State House,9,REP,Write-ins,4
+Laramie,02-06,State House,9,REP,Over Votes,1
+Laramie,02-06,State House,9,REP,Under Votes,13
+Laramie,02-06,State House,9,DEM,Write-ins,29
+Laramie,02-06,Ballots Cast,,REP,Ballots Cast,785
+Laramie,02-06,Ballots Cast,,DEM,Ballots Cast,135
+Laramie,02-06,Ballots Cast,,NP,Ballots Cast,33
+Laramie,02-06,Ballots Cast,,,Ballots Cast,953
+Laramie,02-07,U.S. Senate,,REP,John Barrasso,448
+Laramie,02-07,U.S. Senate,,REP,John Holtz,47
+Laramie,02-07,U.S. Senate,,REP,Reid Rasner,126
+Laramie,02-07,U.S. Senate,,REP,Write-ins,19
+Laramie,02-07,U.S. Senate,,REP,Over Votes,2
+Laramie,02-07,U.S. Senate,,REP,Under Votes,6
+Laramie,02-07,U.S. Senate,,DEM,Scott D Morrow,77
+Laramie,02-07,U.S. Senate,,DEM,Write-ins,4
+Laramie,02-07,U.S. Senate,,DEM,Over Votes,0
+Laramie,02-07,U.S. Senate,,DEM,Under Votes,5
+Laramie,02-07,U.S. House,,REP,Harriet Hageman,428
+Laramie,02-07,U.S. House,,REP,Steven R. Helling,168
+Laramie,02-07,U.S. House,,REP,Write-ins,32
+Laramie,02-07,U.S. House,,REP,Over Votes,0
+Laramie,02-07,U.S. House,,REP,Under Votes,20
+Laramie,02-07,U.S. House,,DEM,Kyle G. Cameron,75
+Laramie,02-07,U.S. House,,DEM,Write-ins,3
+Laramie,02-07,U.S. House,,DEM,Over Votes,0
+Laramie,02-07,U.S. House,,DEM,Under Votes,8
+Laramie,02-07,State House,9,REP,Exie Brown,328
+Laramie,02-07,State House,9,REP,Landon J. Brown,307
+Laramie,02-07,State House,9,REP,Write-ins,1
+Laramie,02-07,State House,9,REP,Over Votes,2
+Laramie,02-07,State House,9,REP,Under Votes,10
+Laramie,02-07,State House,9,DEM,Write-ins,21
+Laramie,02-07,Ballots Cast,,REP,Ballots Cast,648
+Laramie,02-07,Ballots Cast,,DEM,Ballots Cast,86
+Laramie,02-07,Ballots Cast,,NP,Ballots Cast,37
+Laramie,02-07,Ballots Cast,,,Ballots Cast,771
+Laramie,02-08,U.S. Senate,,REP,John Barrasso,87
+Laramie,02-08,U.S. Senate,,REP,John Holtz,13
+Laramie,02-08,U.S. Senate,,REP,Reid Rasner,17
+Laramie,02-08,U.S. Senate,,REP,Write-ins,9
+Laramie,02-08,U.S. Senate,,REP,Over Votes,1
+Laramie,02-08,U.S. Senate,,REP,Under Votes,2
+Laramie,02-08,U.S. Senate,,DEM,Scott D Morrow,17
+Laramie,02-08,U.S. Senate,,DEM,Write-ins,0
+Laramie,02-08,U.S. Senate,,DEM,Over Votes,0
+Laramie,02-08,U.S. Senate,,DEM,Under Votes,0
+Laramie,02-08,U.S. House,,REP,Harriet Hageman,80
+Laramie,02-08,U.S. House,,REP,Steven R. Helling,38
+Laramie,02-08,U.S. House,,REP,Write-ins,7
+Laramie,02-08,U.S. House,,REP,Over Votes,0
+Laramie,02-08,U.S. House,,REP,Under Votes,4
+Laramie,02-08,U.S. House,,DEM,Kyle G. Cameron,17
+Laramie,02-08,U.S. House,,DEM,Write-ins,0
+Laramie,02-08,U.S. House,,DEM,Over Votes,0
+Laramie,02-08,U.S. House,,DEM,Under Votes,0
+Laramie,02-08,State Senate,4,REP,* Withdrawn Candidate,27
+Laramie,02-08,State Senate,4,REP,Tara Nethercott,96
+Laramie,02-08,State Senate,4,REP,Write-ins,1
+Laramie,02-08,State Senate,4,REP,Over Votes,0
+Laramie,02-08,State Senate,4,REP,Under Votes,5
+Laramie,02-08,State Senate,4,DEM,Write-ins,1
+Laramie,02-08,State House,8,REP,Cayd Batchelor,8
+Laramie,02-08,State House,8,REP,David Zwonitzer,73
+Laramie,02-08,State House,8,REP,Steve Johnson,46
+Laramie,02-08,State House,8,REP,Write-ins,0
+Laramie,02-08,State House,8,REP,Over Votes,0
+Laramie,02-08,State House,8,REP,Under Votes,2
+Laramie,02-08,State House,8,DEM,Write-ins,2
+Laramie,02-08,Ballots Cast,,REP,Ballots Cast,129
+Laramie,02-08,Ballots Cast,,DEM,Ballots Cast,17
+Laramie,02-08,Ballots Cast,,NP,Ballots Cast,4
+Laramie,02-08,Ballots Cast,,,Ballots Cast,150
+Laramie,03-01,U.S. Senate,,REP,John Barrasso,171
+Laramie,03-01,U.S. Senate,,REP,John Holtz,39
+Laramie,03-01,U.S. Senate,,REP,Reid Rasner,55
+Laramie,03-01,U.S. Senate,,REP,Write-ins,6
+Laramie,03-01,U.S. Senate,,REP,Over Votes,0
+Laramie,03-01,U.S. Senate,,REP,Under Votes,7
+Laramie,03-01,U.S. Senate,,DEM,Scott D Morrow,100
+Laramie,03-01,U.S. Senate,,DEM,Write-ins,1
+Laramie,03-01,U.S. Senate,,DEM,Over Votes,0
+Laramie,03-01,U.S. Senate,,DEM,Under Votes,5
+Laramie,03-01,U.S. House,,REP,Harriet Hageman,183
+Laramie,03-01,U.S. House,,REP,Steven R. Helling,78
+Laramie,03-01,U.S. House,,REP,Write-ins,8
+Laramie,03-01,U.S. House,,REP,Over Votes,0
+Laramie,03-01,U.S. House,,REP,Under Votes,9
+Laramie,03-01,U.S. House,,DEM,Kyle G. Cameron,101
+Laramie,03-01,U.S. House,,DEM,Write-ins,0
+Laramie,03-01,U.S. House,,DEM,Over Votes,0
+Laramie,03-01,U.S. House,,DEM,Under Votes,5
+Laramie,03-01,State Senate,8,REP,Jared Olsen,229
+Laramie,03-01,State Senate,8,REP,Write-ins,15
+Laramie,03-01,State Senate,8,REP,Over Votes,0
+Laramie,03-01,State Senate,8,REP,Under Votes,34
+Laramie,03-01,State Senate,8,DEM,Marguerite Herman,98
+Laramie,03-01,State Senate,8,DEM,Write-ins,2
+Laramie,03-01,State Senate,8,DEM,Over Votes,0
+Laramie,03-01,State Senate,8,DEM,Under Votes,6
+Laramie,03-01,State House,11,REP,Jacob Wasserburger,151
+Laramie,03-01,State House,11,REP,Seth Ulvestad,108
+Laramie,03-01,State House,11,REP,Write-ins,4
+Laramie,03-01,State House,11,REP,Over Votes,0
+Laramie,03-01,State House,11,REP,Under Votes,15
+Laramie,03-01,State House,11,DEM,Sara Burlingame,98
+Laramie,03-01,State House,11,DEM,Write-ins,1
+Laramie,03-01,State House,11,DEM,Over Votes,0
+Laramie,03-01,State House,11,DEM,Under Votes,7
+Laramie,03-01,Ballots Cast,,REP,Ballots Cast,278
+Laramie,03-01,Ballots Cast,,DEM,Ballots Cast,106
+Laramie,03-01,Ballots Cast,,NP,Ballots Cast,20
+Laramie,03-01,Ballots Cast,,,Ballots Cast,404
+Laramie,03-02,U.S. Senate,,REP,John Barrasso,217
+Laramie,03-02,U.S. Senate,,REP,John Holtz,44
+Laramie,03-02,U.S. Senate,,REP,Reid Rasner,68
+Laramie,03-02,U.S. Senate,,REP,Write-ins,4
+Laramie,03-02,U.S. Senate,,REP,Over Votes,0
+Laramie,03-02,U.S. Senate,,REP,Under Votes,5
+Laramie,03-02,U.S. Senate,,DEM,Scott D Morrow,93
+Laramie,03-02,U.S. Senate,,DEM,Write-ins,3
+Laramie,03-02,U.S. Senate,,DEM,Over Votes,0
+Laramie,03-02,U.S. Senate,,DEM,Under Votes,4
+Laramie,03-02,U.S. House,,REP,Harriet Hageman,217
+Laramie,03-02,U.S. House,,REP,Steven R. Helling,103
+Laramie,03-02,U.S. House,,REP,Write-ins,10
+Laramie,03-02,U.S. House,,REP,Over Votes,0
+Laramie,03-02,U.S. House,,REP,Under Votes,8
+Laramie,03-02,U.S. House,,DEM,Kyle G. Cameron,95
+Laramie,03-02,U.S. House,,DEM,Write-ins,2
+Laramie,03-02,U.S. House,,DEM,Over Votes,0
+Laramie,03-02,U.S. House,,DEM,Under Votes,3
+Laramie,03-02,State House,41,REP,Bill Henderson,121
+Laramie,03-02,State House,41,REP,Gary Brown,198
+Laramie,03-02,State House,41,REP,Write-ins,5
+Laramie,03-02,State House,41,REP,Over Votes,0
+Laramie,03-02,State House,41,REP,Under Votes,14
+Laramie,03-02,State House,41,DEM,Jen Solis,95
+Laramie,03-02,State House,41,DEM,Write-ins,0
+Laramie,03-02,State House,41,DEM,Over Votes,0
+Laramie,03-02,State House,41,DEM,Under Votes,5
+Laramie,03-02,Ballots Cast,,REP,Ballots Cast,338
+Laramie,03-02,Ballots Cast,,DEM,Ballots Cast,100
+Laramie,03-02,Ballots Cast,,NP,Ballots Cast,19
+Laramie,03-02,Ballots Cast,,,Ballots Cast,457
+Laramie,03-03,U.S. Senate,,REP,John Barrasso,325
+Laramie,03-03,U.S. Senate,,REP,John Holtz,38
+Laramie,03-03,U.S. Senate,,REP,Reid Rasner,101
+Laramie,03-03,U.S. Senate,,REP,Write-ins,6
+Laramie,03-03,U.S. Senate,,REP,Over Votes,2
+Laramie,03-03,U.S. Senate,,REP,Under Votes,5
+Laramie,03-03,U.S. Senate,,DEM,Scott D Morrow,121
+Laramie,03-03,U.S. Senate,,DEM,Write-ins,1
+Laramie,03-03,U.S. Senate,,DEM,Over Votes,0
+Laramie,03-03,U.S. Senate,,DEM,Under Votes,9
+Laramie,03-03,U.S. House,,REP,Harriet Hageman,342
+Laramie,03-03,U.S. House,,REP,Steven R. Helling,121
+Laramie,03-03,U.S. House,,REP,Write-ins,4
+Laramie,03-03,U.S. House,,REP,Over Votes,0
+Laramie,03-03,U.S. House,,REP,Under Votes,10
+Laramie,03-03,U.S. House,,DEM,Kyle G. Cameron,128
+Laramie,03-03,U.S. House,,DEM,Write-ins,0
+Laramie,03-03,U.S. House,,DEM,Over Votes,0
+Laramie,03-03,U.S. House,,DEM,Under Votes,3
+Laramie,03-03,State House,61,REP,Daniel J. Singh,266
+Laramie,03-03,State House,61,REP,Matt Malcom,201
+Laramie,03-03,State House,61,REP,Write-ins,2
+Laramie,03-03,State House,61,REP,Over Votes,1
+Laramie,03-03,State House,61,REP,Under Votes,7
+Laramie,03-03,State House,61,DEM,Write-ins,22
+Laramie,03-03,Ballots Cast,,REP,Ballots Cast,477
+Laramie,03-03,Ballots Cast,,DEM,Ballots Cast,131
+Laramie,03-03,Ballots Cast,,NP,Ballots Cast,36
+Laramie,03-03,Ballots Cast,,,Ballots Cast,644
+Laramie,03-04,U.S. Senate,,REP,John Barrasso,260
+Laramie,03-04,U.S. Senate,,REP,John Holtz,35
+Laramie,03-04,U.S. Senate,,REP,Reid Rasner,70
+Laramie,03-04,U.S. Senate,,REP,Write-ins,15
+Laramie,03-04,U.S. Senate,,REP,Over Votes,0
+Laramie,03-04,U.S. Senate,,REP,Under Votes,4
+Laramie,03-04,U.S. Senate,,DEM,Scott D Morrow,70
+Laramie,03-04,U.S. Senate,,DEM,Write-ins,1
+Laramie,03-04,U.S. Senate,,DEM,Over Votes,0
+Laramie,03-04,U.S. Senate,,DEM,Under Votes,6
+Laramie,03-04,U.S. House,,REP,Harriet Hageman,281
+Laramie,03-04,U.S. House,,REP,Steven R. Helling,87
+Laramie,03-04,U.S. House,,REP,Write-ins,12
+Laramie,03-04,U.S. House,,REP,Over Votes,0
+Laramie,03-04,U.S. House,,REP,Under Votes,4
+Laramie,03-04,U.S. House,,DEM,Kyle G. Cameron,73
+Laramie,03-04,U.S. House,,DEM,Write-ins,0
+Laramie,03-04,U.S. House,,DEM,Over Votes,0
+Laramie,03-04,U.S. House,,DEM,Under Votes,4
+Laramie,03-04,State House,61,REP,Daniel J. Singh,220
+Laramie,03-04,State House,61,REP,Matt Malcom,147
+Laramie,03-04,State House,61,REP,Write-ins,4
+Laramie,03-04,State House,61,REP,Over Votes,0
+Laramie,03-04,State House,61,REP,Under Votes,13
+Laramie,03-04,State House,61,DEM,Write-ins,17
+Laramie,03-04,Ballots Cast,,REP,Ballots Cast,384
+Laramie,03-04,Ballots Cast,,DEM,Ballots Cast,77
+Laramie,03-04,Ballots Cast,,NP,Ballots Cast,22
+Laramie,03-04,Ballots Cast,,,Ballots Cast,483
+Laramie,03-05,U.S. Senate,,REP,John Barrasso,260
+Laramie,03-05,U.S. Senate,,REP,John Holtz,44
+Laramie,03-05,U.S. Senate,,REP,Reid Rasner,83
+Laramie,03-05,U.S. Senate,,REP,Write-ins,4
+Laramie,03-05,U.S. Senate,,REP,Over Votes,0
+Laramie,03-05,U.S. Senate,,REP,Under Votes,13
+Laramie,03-05,U.S. Senate,,DEM,Scott D Morrow,54
+Laramie,03-05,U.S. Senate,,DEM,Write-ins,0
+Laramie,03-05,U.S. Senate,,DEM,Over Votes,0
+Laramie,03-05,U.S. Senate,,DEM,Under Votes,3
+Laramie,03-05,U.S. House,,REP,Harriet Hageman,266
+Laramie,03-05,U.S. House,,REP,Steven R. Helling,121
+Laramie,03-05,U.S. House,,REP,Write-ins,6
+Laramie,03-05,U.S. House,,REP,Over Votes,0
+Laramie,03-05,U.S. House,,REP,Under Votes,11
+Laramie,03-05,U.S. House,,DEM,Kyle G. Cameron,53
+Laramie,03-05,U.S. House,,DEM,Write-ins,0
+Laramie,03-05,U.S. House,,DEM,Over Votes,0
+Laramie,03-05,U.S. House,,DEM,Under Votes,4
+Laramie,03-05,State House,43,REP,Ann Lucas,211
+Laramie,03-05,State House,43,REP,Dan Zwonitzer,185
+Laramie,03-05,State House,43,REP,Write-ins,1
+Laramie,03-05,State House,43,REP,Over Votes,1
+Laramie,03-05,State House,43,REP,Under Votes,6
+Laramie,03-05,State House,43,DEM,Write-ins,15
+Laramie,03-05,Ballots Cast,,REP,Ballots Cast,404
+Laramie,03-05,Ballots Cast,,DEM,Ballots Cast,57
+Laramie,03-05,Ballots Cast,,NP,Ballots Cast,22
+Laramie,03-05,Ballots Cast,,,Ballots Cast,483
+Laramie,03-06,U.S. Senate,,REP,John Barrasso,301
+Laramie,03-06,U.S. Senate,,REP,John Holtz,40
+Laramie,03-06,U.S. Senate,,REP,Reid Rasner,87
+Laramie,03-06,U.S. Senate,,REP,Write-ins,8
+Laramie,03-06,U.S. Senate,,REP,Over Votes,2
+Laramie,03-06,U.S. Senate,,REP,Under Votes,7
+Laramie,03-06,U.S. Senate,,DEM,Scott D Morrow,38
+Laramie,03-06,U.S. Senate,,DEM,Write-ins,4
+Laramie,03-06,U.S. Senate,,DEM,Over Votes,0
+Laramie,03-06,U.S. Senate,,DEM,Under Votes,0
+Laramie,03-06,U.S. House,,REP,Harriet Hageman,297
+Laramie,03-06,U.S. House,,REP,Steven R. Helling,121
+Laramie,03-06,U.S. House,,REP,Write-ins,18
+Laramie,03-06,U.S. House,,REP,Over Votes,1
+Laramie,03-06,U.S. House,,REP,Under Votes,8
+Laramie,03-06,U.S. House,,DEM,Kyle G. Cameron,40
+Laramie,03-06,U.S. House,,DEM,Write-ins,1
+Laramie,03-06,U.S. House,,DEM,Over Votes,0
+Laramie,03-06,U.S. House,,DEM,Under Votes,1
+Laramie,03-06,State House,43,REP,Ann Lucas,245
+Laramie,03-06,State House,43,REP,Dan Zwonitzer,191
+Laramie,03-06,State House,43,REP,Write-ins,1
+Laramie,03-06,State House,43,REP,Over Votes,1
+Laramie,03-06,State House,43,REP,Under Votes,7
+Laramie,03-06,State House,43,DEM,Write-ins,13
+Laramie,03-06,Ballots Cast,,REP,Ballots Cast,445
+Laramie,03-06,Ballots Cast,,DEM,Ballots Cast,42
+Laramie,03-06,Ballots Cast,,NP,Ballots Cast,21
+Laramie,03-06,Ballots Cast,,,Ballots Cast,508
+Laramie,03-07,U.S. Senate,,REP,John Barrasso,53
+Laramie,03-07,U.S. Senate,,REP,John Holtz,3
+Laramie,03-07,U.S. Senate,,REP,Reid Rasner,8
+Laramie,03-07,U.S. Senate,,REP,Write-ins,1
+Laramie,03-07,U.S. Senate,,REP,Over Votes,0
+Laramie,03-07,U.S. Senate,,REP,Under Votes,0
+Laramie,03-07,U.S. Senate,,DEM,Scott D Morrow,4
+Laramie,03-07,U.S. Senate,,DEM,Write-ins,0
+Laramie,03-07,U.S. Senate,,DEM,Over Votes,0
+Laramie,03-07,U.S. Senate,,DEM,Under Votes,7
+Laramie,03-07,U.S. House,,REP,Harriet Hageman,49
+Laramie,03-07,U.S. House,,REP,Steven R. Helling,14
+Laramie,03-07,U.S. House,,REP,Write-ins,1
+Laramie,03-07,U.S. House,,REP,Over Votes,0
+Laramie,03-07,U.S. House,,REP,Under Votes,1
+Laramie,03-07,U.S. House,,DEM,Kyle G. Cameron,4
+Laramie,03-07,U.S. House,,DEM,Write-ins,0
+Laramie,03-07,U.S. House,,DEM,Over Votes,0
+Laramie,03-07,U.S. House,,DEM,Under Votes,7
+Laramie,03-07,State House,43,REP,Ann Lucas,44
+Laramie,03-07,State House,43,REP,Dan Zwonitzer,19
+Laramie,03-07,State House,43,REP,Write-ins,1
+Laramie,03-07,State House,43,REP,Over Votes,0
+Laramie,03-07,State House,43,REP,Under Votes,1
+Laramie,03-07,State House,43,DEM,Write-ins,0
+Laramie,03-07,Ballots Cast,,REP,Ballots Cast,65
+Laramie,03-07,Ballots Cast,,DEM,Ballots Cast,11
+Laramie,03-07,Ballots Cast,,NP,Ballots Cast,4
+Laramie,03-07,Ballots Cast,,,Ballots Cast,80
+Laramie,04-01,U.S. Senate,,REP,John Barrasso,163
+Laramie,04-01,U.S. Senate,,REP,John Holtz,22
+Laramie,04-01,U.S. Senate,,REP,Reid Rasner,29
+Laramie,04-01,U.S. Senate,,REP,Write-ins,2
+Laramie,04-01,U.S. Senate,,REP,Over Votes,0
+Laramie,04-01,U.S. Senate,,REP,Under Votes,5
+Laramie,04-01,U.S. Senate,,DEM,Scott D Morrow,17
+Laramie,04-01,U.S. Senate,,DEM,Write-ins,0
+Laramie,04-01,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-01,U.S. Senate,,DEM,Under Votes,2
+Laramie,04-01,U.S. House,,REP,Harriet Hageman,182
+Laramie,04-01,U.S. House,,REP,Steven R. Helling,35
+Laramie,04-01,U.S. House,,REP,Write-ins,2
+Laramie,04-01,U.S. House,,REP,Over Votes,0
+Laramie,04-01,U.S. House,,REP,Under Votes,2
+Laramie,04-01,U.S. House,,DEM,Kyle G. Cameron,16
+Laramie,04-01,U.S. House,,DEM,Write-ins,0
+Laramie,04-01,U.S. House,,DEM,Over Votes,0
+Laramie,04-01,U.S. House,,DEM,Under Votes,3
+Laramie,04-01,State House,42,REP,Ben Hornok,144
+Laramie,04-01,State House,42,REP,Rob Geringer,75
+Laramie,04-01,State House,42,REP,Write-ins,1
+Laramie,04-01,State House,42,REP,Over Votes,0
+Laramie,04-01,State House,42,REP,Under Votes,1
+Laramie,04-01,State House,42,DEM,Bob Ray,17
+Laramie,04-01,State House,42,DEM,Write-ins,0
+Laramie,04-01,State House,42,DEM,Over Votes,0
+Laramie,04-01,State House,42,DEM,Under Votes,2
+Laramie,04-01,Ballots Cast,,REP,Ballots Cast,221
+Laramie,04-01,Ballots Cast,,DEM,Ballots Cast,19
+Laramie,04-01,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-01,Ballots Cast,,,Ballots Cast,240
+Laramie,04-02,U.S. Senate,,REP,John Barrasso,748
+Laramie,04-02,U.S. Senate,,REP,John Holtz,82
+Laramie,04-02,U.S. Senate,,REP,Reid Rasner,220
+Laramie,04-02,U.S. Senate,,REP,Write-ins,25
+Laramie,04-02,U.S. Senate,,REP,Over Votes,1
+Laramie,04-02,U.S. Senate,,REP,Under Votes,11
+Laramie,04-02,U.S. Senate,,DEM,Scott D Morrow,77
+Laramie,04-02,U.S. Senate,,DEM,Write-ins,4
+Laramie,04-02,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-02,U.S. Senate,,DEM,Under Votes,1
+Laramie,04-02,U.S. House,,REP,Harriet Hageman,853
+Laramie,04-02,U.S. House,,REP,Steven R. Helling,180
+Laramie,04-02,U.S. House,,REP,Write-ins,32
+Laramie,04-02,U.S. House,,REP,Over Votes,2
+Laramie,04-02,U.S. House,,REP,Under Votes,20
+Laramie,04-02,U.S. House,,DEM,Kyle G. Cameron,78
+Laramie,04-02,U.S. House,,DEM,Write-ins,4
+Laramie,04-02,U.S. House,,DEM,Over Votes,0
+Laramie,04-02,U.S. House,,DEM,Under Votes,0
+Laramie,04-02,State House,42,REP,Ben Hornok,560
+Laramie,04-02,State House,42,REP,Rob Geringer,501
+Laramie,04-02,State House,42,REP,Write-ins,2
+Laramie,04-02,State House,42,REP,Over Votes,3
+Laramie,04-02,State House,42,REP,Under Votes,21
+Laramie,04-02,State House,42,DEM,Bob Ray,78
+Laramie,04-02,State House,42,DEM,Write-ins,4
+Laramie,04-02,State House,42,DEM,Over Votes,0
+Laramie,04-02,State House,42,DEM,Under Votes,0
+Laramie,04-02,Ballots Cast,,REP,Ballots Cast,1087
+Laramie,04-02,Ballots Cast,,DEM,Ballots Cast,82
+Laramie,04-02,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-02,Ballots Cast,,,Ballots Cast,1169
+Laramie,04-03,U.S. Senate,,REP,John Barrasso,31
+Laramie,04-03,U.S. Senate,,REP,John Holtz,3
+Laramie,04-03,U.S. Senate,,REP,Reid Rasner,1
+Laramie,04-03,U.S. Senate,,REP,Write-ins,0
+Laramie,04-03,U.S. Senate,,REP,Over Votes,0
+Laramie,04-03,U.S. Senate,,REP,Under Votes,0
+Laramie,04-03,U.S. Senate,,DEM,Scott D Morrow,1
+Laramie,04-03,U.S. Senate,,DEM,Write-ins,0
+Laramie,04-03,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-03,U.S. Senate,,DEM,Under Votes,0
+Laramie,04-03,U.S. House,,REP,Harriet Hageman,34
+Laramie,04-03,U.S. House,,REP,Steven R. Helling,1
+Laramie,04-03,U.S. House,,REP,Write-ins,0
+Laramie,04-03,U.S. House,,REP,Over Votes,0
+Laramie,04-03,U.S. House,,REP,Under Votes,0
+Laramie,04-03,U.S. House,,DEM,Kyle G. Cameron,1
+Laramie,04-03,U.S. House,,DEM,Write-ins,0
+Laramie,04-03,U.S. House,,DEM,Over Votes,0
+Laramie,04-03,U.S. House,,DEM,Under Votes,0
+Laramie,04-03,State Senate,6,REP,Darin Smith,17
+Laramie,04-03,State Senate,6,REP,Eric D Johnston,14
+Laramie,04-03,State Senate,6,REP,Gary Bjorklund,0
+Laramie,04-03,State Senate,6,REP,Kim Withers,2
+Laramie,04-03,State Senate,6,REP,Marc Torriani,0
+Laramie,04-03,State Senate,6,REP,Taft C. Love,2
+Laramie,04-03,State Senate,6,REP,Write-ins,0
+Laramie,04-03,State Senate,6,REP,Over Votes,0
+Laramie,04-03,State Senate,6,REP,Under Votes,0
+Laramie,04-03,State Senate,6,DEM,Write-ins,0
+Laramie,04-03,State Senate,6,DEM,Over Votes,0
+Laramie,04-03,State Senate,6,DEM,Under Votes,1
+Laramie,04-03,State House,4,REP,Jeffery Thomas,10
+Laramie,04-03,State House,4,REP,Jeremy Haroldson,22
+Laramie,04-03,State House,4,REP,Write-ins,0
+Laramie,04-03,State House,4,REP,Over Votes,0
+Laramie,04-03,State House,4,REP,Under Votes,3
+Laramie,04-03,State House,4,DEM,Charles Randolph,1
+Laramie,04-03,State House,4,DEM,Write-ins,0
+Laramie,04-03,State House,4,DEM,Over Votes,0
+Laramie,04-03,State House,4,DEM,Under Votes,0
+Laramie,04-03,Ballots Cast,,REP,Ballots Cast,35
+Laramie,04-03,Ballots Cast,,DEM,Ballots Cast,1
+Laramie,04-03,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-03,Ballots Cast,,,Ballots Cast,36
+Laramie,04-04,U.S. Senate,,REP,John Barrasso,210
+Laramie,04-04,U.S. Senate,,REP,John Holtz,19
+Laramie,04-04,U.S. Senate,,REP,Reid Rasner,78
+Laramie,04-04,U.S. Senate,,REP,Write-ins,4
+Laramie,04-04,U.S. Senate,,REP,Over Votes,0
+Laramie,04-04,U.S. Senate,,REP,Under Votes,9
+Laramie,04-04,U.S. Senate,,DEM,Scott D Morrow,17
+Laramie,04-04,U.S. Senate,,DEM,Write-ins,0
+Laramie,04-04,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-04,U.S. Senate,,DEM,Under Votes,0
+Laramie,04-04,U.S. House,,REP,Harriet Hageman,261
+Laramie,04-04,U.S. House,,REP,Steven R. Helling,41
+Laramie,04-04,U.S. House,,REP,Write-ins,10
+Laramie,04-04,U.S. House,,REP,Over Votes,0
+Laramie,04-04,U.S. House,,REP,Under Votes,8
+Laramie,04-04,U.S. House,,DEM,Kyle G. Cameron,16
+Laramie,04-04,U.S. House,,DEM,Write-ins,0
+Laramie,04-04,U.S. House,,DEM,Over Votes,0
+Laramie,04-04,U.S. House,,DEM,Under Votes,1
+Laramie,04-04,State Senate,6,REP,Darin Smith,147
+Laramie,04-04,State Senate,6,REP,Eric D Johnston,32
+Laramie,04-04,State Senate,6,REP,Gary Bjorklund,4
+Laramie,04-04,State Senate,6,REP,Kim Withers,53
+Laramie,04-04,State Senate,6,REP,Marc Torriani,31
+Laramie,04-04,State Senate,6,REP,Taft C. Love,46
+Laramie,04-04,State Senate,6,REP,Write-ins,1
+Laramie,04-04,State Senate,6,REP,Over Votes,1
+Laramie,04-04,State Senate,6,REP,Under Votes,5
+Laramie,04-04,State Senate,6,DEM,Write-ins,2
+Laramie,04-04,State Senate,6,DEM,Over Votes,0
+Laramie,04-04,State Senate,6,DEM,Under Votes,15
+Laramie,04-04,State House,10,REP,Jennifer James,79
+Laramie,04-04,State House,10,REP,John Eklund,210
+Laramie,04-04,State House,10,REP,Write-ins,9
+Laramie,04-04,State House,10,REP,Over Votes,0
+Laramie,04-04,State House,10,REP,Under Votes,22
+Laramie,04-04,State House,10,DEM,Write-ins,2
+Laramie,04-04,Ballots Cast,,REP,Ballots Cast,320
+Laramie,04-04,Ballots Cast,,DEM,Ballots Cast,17
+Laramie,04-04,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-04,Ballots Cast,,,Ballots Cast,337
+Laramie,04-05,U.S. Senate,,REP,John Barrasso,571
+Laramie,04-05,U.S. Senate,,REP,John Holtz,77
+Laramie,04-05,U.S. Senate,,REP,Reid Rasner,146
+Laramie,04-05,U.S. Senate,,REP,Write-ins,24
+Laramie,04-05,U.S. Senate,,REP,Over Votes,2
+Laramie,04-05,U.S. Senate,,REP,Under Votes,17
+Laramie,04-05,U.S. Senate,,DEM,Scott D Morrow,60
+Laramie,04-05,U.S. Senate,,DEM,Write-ins,1
+Laramie,04-05,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-05,U.S. Senate,,DEM,Under Votes,5
+Laramie,04-05,U.S. House,,REP,Harriet Hageman,611
+Laramie,04-05,U.S. House,,REP,Steven R. Helling,168
+Laramie,04-05,U.S. House,,REP,Write-ins,37
+Laramie,04-05,U.S. House,,REP,Over Votes,0
+Laramie,04-05,U.S. House,,REP,Under Votes,21
+Laramie,04-05,U.S. House,,DEM,Kyle G. Cameron,60
+Laramie,04-05,U.S. House,,DEM,Write-ins,1
+Laramie,04-05,U.S. House,,DEM,Over Votes,0
+Laramie,04-05,U.S. House,,DEM,Under Votes,5
+Laramie,04-05,State Senate,4,REP,* Withdrawn Candidate,225
+Laramie,04-05,State Senate,4,REP,Tara Nethercott,560
+Laramie,04-05,State Senate,4,REP,Write-ins,12
+Laramie,04-05,State Senate,4,REP,Over Votes,1
+Laramie,04-05,State Senate,4,REP,Under Votes,39
+Laramie,04-05,State Senate,4,DEM,Write-ins,11
+Laramie,04-05,State House,8,REP,Cayd Batchelor,19
+Laramie,04-05,State House,8,REP,David Zwonitzer,357
+Laramie,04-05,State House,8,REP,Steve Johnson,446
+Laramie,04-05,State House,8,REP,Write-ins,2
+Laramie,04-05,State House,8,REP,Over Votes,2
+Laramie,04-05,State House,8,REP,Under Votes,11
+Laramie,04-05,State House,8,DEM,Write-ins,12
+Laramie,04-05,Ballots Cast,,REP,Ballots Cast,837
+Laramie,04-05,Ballots Cast,,DEM,Ballots Cast,66
+Laramie,04-05,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-05,Ballots Cast,,,Ballots Cast,903
+Laramie,04-06,U.S. Senate,,REP,John Barrasso,581
+Laramie,04-06,U.S. Senate,,REP,John Holtz,62
+Laramie,04-06,U.S. Senate,,REP,Reid Rasner,177
+Laramie,04-06,U.S. Senate,,REP,Write-ins,19
+Laramie,04-06,U.S. Senate,,REP,Over Votes,0
+Laramie,04-06,U.S. Senate,,REP,Under Votes,11
+Laramie,04-06,U.S. Senate,,DEM,Scott D Morrow,66
+Laramie,04-06,U.S. Senate,,DEM,Write-ins,4
+Laramie,04-06,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-06,U.S. Senate,,DEM,Under Votes,4
+Laramie,04-06,U.S. House,,REP,Harriet Hageman,618
+Laramie,04-06,U.S. House,,REP,Steven R. Helling,188
+Laramie,04-06,U.S. House,,REP,Write-ins,31
+Laramie,04-06,U.S. House,,REP,Over Votes,0
+Laramie,04-06,U.S. House,,REP,Under Votes,13
+Laramie,04-06,U.S. House,,DEM,Kyle G. Cameron,67
+Laramie,04-06,U.S. House,,DEM,Write-ins,2
+Laramie,04-06,U.S. House,,DEM,Over Votes,0
+Laramie,04-06,U.S. House,,DEM,Under Votes,5
+Laramie,04-06,State Senate,4,REP,* Withdrawn Candidate,254
+Laramie,04-06,State Senate,4,REP,Tara Nethercott,543
+Laramie,04-06,State Senate,4,REP,Write-ins,13
+Laramie,04-06,State Senate,4,REP,Over Votes,0
+Laramie,04-06,State Senate,4,REP,Under Votes,40
+Laramie,04-06,State Senate,4,DEM,Write-ins,17
+Laramie,04-06,State House,8,REP,Cayd Batchelor,24
+Laramie,04-06,State House,8,REP,David Zwonitzer,334
+Laramie,04-06,State House,8,REP,Steve Johnson,479
+Laramie,04-06,State House,8,REP,Write-ins,1
+Laramie,04-06,State House,8,REP,Over Votes,1
+Laramie,04-06,State House,8,REP,Under Votes,11
+Laramie,04-06,State House,8,DEM,Write-ins,13
+Laramie,04-06,Ballots Cast,,REP,Ballots Cast,850
+Laramie,04-06,Ballots Cast,,DEM,Ballots Cast,74
+Laramie,04-06,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-06,Ballots Cast,,,Ballots Cast,924
+Laramie,04-07,U.S. Senate,,REP,John Barrasso,401
+Laramie,04-07,U.S. Senate,,REP,John Holtz,49
+Laramie,04-07,U.S. Senate,,REP,Reid Rasner,122
+Laramie,04-07,U.S. Senate,,REP,Write-ins,5
+Laramie,04-07,U.S. Senate,,REP,Over Votes,0
+Laramie,04-07,U.S. Senate,,REP,Under Votes,8
+Laramie,04-07,U.S. Senate,,DEM,Scott D Morrow,41
+Laramie,04-07,U.S. Senate,,DEM,Write-ins,0
+Laramie,04-07,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-07,U.S. Senate,,DEM,Under Votes,3
+Laramie,04-07,U.S. House,,REP,Harriet Hageman,451
+Laramie,04-07,U.S. House,,REP,Steven R. Helling,120
+Laramie,04-07,U.S. House,,REP,Write-ins,6
+Laramie,04-07,U.S. House,,REP,Over Votes,0
+Laramie,04-07,U.S. House,,REP,Under Votes,8
+Laramie,04-07,U.S. House,,DEM,Kyle G. Cameron,42
+Laramie,04-07,U.S. House,,DEM,Write-ins,0
+Laramie,04-07,U.S. House,,DEM,Over Votes,0
+Laramie,04-07,U.S. House,,DEM,Under Votes,2
+Laramie,04-07,State Senate,6,REP,Darin Smith,280
+Laramie,04-07,State Senate,6,REP,Eric D Johnston,59
+Laramie,04-07,State Senate,6,REP,Gary Bjorklund,8
+Laramie,04-07,State Senate,6,REP,Kim Withers,102
+Laramie,04-07,State Senate,6,REP,Marc Torriani,57
+Laramie,04-07,State Senate,6,REP,Taft C. Love,69
+Laramie,04-07,State Senate,6,REP,Write-ins,2
+Laramie,04-07,State Senate,6,REP,Over Votes,0
+Laramie,04-07,State Senate,6,REP,Under Votes,8
+Laramie,04-07,State Senate,6,DEM,Write-ins,9
+Laramie,04-07,State Senate,6,DEM,Over Votes,0
+Laramie,04-07,State Senate,6,DEM,Under Votes,35
+Laramie,04-07,State House,10,REP,Jennifer James,154
+Laramie,04-07,State House,10,REP,John Eklund,397
+Laramie,04-07,State House,10,REP,Write-ins,9
+Laramie,04-07,State House,10,REP,Over Votes,0
+Laramie,04-07,State House,10,REP,Under Votes,25
+Laramie,04-07,State House,10,DEM,Write-ins,12
+Laramie,04-07,Ballots Cast,,REP,Ballots Cast,585
+Laramie,04-07,Ballots Cast,,DEM,Ballots Cast,44
+Laramie,04-07,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-07,Ballots Cast,,,Ballots Cast,629
+Laramie,04-08,U.S. Senate,,REP,John Barrasso,226
+Laramie,04-08,U.S. Senate,,REP,John Holtz,12
+Laramie,04-08,U.S. Senate,,REP,Reid Rasner,89
+Laramie,04-08,U.S. Senate,,REP,Write-ins,5
+Laramie,04-08,U.S. Senate,,REP,Over Votes,0
+Laramie,04-08,U.S. Senate,,REP,Under Votes,2
+Laramie,04-08,U.S. Senate,,DEM,Scott D Morrow,25
+Laramie,04-08,U.S. Senate,,DEM,Write-ins,2
+Laramie,04-08,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-08,U.S. Senate,,DEM,Under Votes,0
+Laramie,04-08,U.S. House,,REP,Harriet Hageman,273
+Laramie,04-08,U.S. House,,REP,Steven R. Helling,50
+Laramie,04-08,U.S. House,,REP,Write-ins,8
+Laramie,04-08,U.S. House,,REP,Over Votes,0
+Laramie,04-08,U.S. House,,REP,Under Votes,3
+Laramie,04-08,U.S. House,,DEM,Kyle G. Cameron,26
+Laramie,04-08,U.S. House,,DEM,Write-ins,1
+Laramie,04-08,U.S. House,,DEM,Over Votes,0
+Laramie,04-08,U.S. House,,DEM,Under Votes,0
+Laramie,04-08,State House,43,REP,Ann Lucas,215
+Laramie,04-08,State House,43,REP,Dan Zwonitzer,114
+Laramie,04-08,State House,43,REP,Write-ins,2
+Laramie,04-08,State House,43,REP,Over Votes,0
+Laramie,04-08,State House,43,REP,Under Votes,3
+Laramie,04-08,State House,43,DEM,Write-ins,7
+Laramie,04-08,Ballots Cast,,REP,Ballots Cast,334
+Laramie,04-08,Ballots Cast,,DEM,Ballots Cast,27
+Laramie,04-08,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-08,Ballots Cast,,,Ballots Cast,361
+Laramie,04-09,U.S. Senate,,REP,John Barrasso,261
+Laramie,04-09,U.S. Senate,,REP,John Holtz,27
+Laramie,04-09,U.S. Senate,,REP,Reid Rasner,75
+Laramie,04-09,U.S. Senate,,REP,Write-ins,4
+Laramie,04-09,U.S. Senate,,REP,Over Votes,1
+Laramie,04-09,U.S. Senate,,REP,Under Votes,4
+Laramie,04-09,U.S. Senate,,DEM,Scott D Morrow,45
+Laramie,04-09,U.S. Senate,,DEM,Write-ins,2
+Laramie,04-09,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-09,U.S. Senate,,DEM,Under Votes,1
+Laramie,04-09,U.S. House,,REP,Harriet Hageman,302
+Laramie,04-09,U.S. House,,REP,Steven R. Helling,57
+Laramie,04-09,U.S. House,,REP,Write-ins,5
+Laramie,04-09,U.S. House,,REP,Over Votes,0
+Laramie,04-09,U.S. House,,REP,Under Votes,8
+Laramie,04-09,U.S. House,,DEM,Kyle G. Cameron,45
+Laramie,04-09,U.S. House,,DEM,Write-ins,1
+Laramie,04-09,U.S. House,,DEM,Over Votes,0
+Laramie,04-09,U.S. House,,DEM,Under Votes,2
+Laramie,04-09,State House,12,REP,Clarence Styvar,205
+Laramie,04-09,State House,12,REP,Thomas L Lear,157
+Laramie,04-09,State House,12,REP,Write-ins,2
+Laramie,04-09,State House,12,REP,Over Votes,0
+Laramie,04-09,State House,12,REP,Under Votes,8
+Laramie,04-09,State House,12,DEM,Write-ins,7
+Laramie,04-09,Ballots Cast,,REP,Ballots Cast,372
+Laramie,04-09,Ballots Cast,,DEM,Ballots Cast,48
+Laramie,04-09,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-09,Ballots Cast,,,Ballots Cast,420
+Laramie,04-10,U.S. Senate,,REP,John Barrasso,22
+Laramie,04-10,U.S. Senate,,REP,John Holtz,3
+Laramie,04-10,U.S. Senate,,REP,Reid Rasner,3
+Laramie,04-10,U.S. Senate,,REP,Write-ins,0
+Laramie,04-10,U.S. Senate,,REP,Over Votes,0
+Laramie,04-10,U.S. Senate,,REP,Under Votes,2
+Laramie,04-10,U.S. Senate,,DEM,Scott D Morrow,6
+Laramie,04-10,U.S. Senate,,DEM,Write-ins,0
+Laramie,04-10,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-10,U.S. Senate,,DEM,Under Votes,2
+Laramie,04-10,U.S. House,,REP,Harriet Hageman,22
+Laramie,04-10,U.S. House,,REP,Steven R. Helling,6
+Laramie,04-10,U.S. House,,REP,Write-ins,0
+Laramie,04-10,U.S. House,,REP,Over Votes,0
+Laramie,04-10,U.S. House,,REP,Under Votes,2
+Laramie,04-10,U.S. House,,DEM,Kyle G. Cameron,7
+Laramie,04-10,U.S. House,,DEM,Write-ins,0
+Laramie,04-10,U.S. House,,DEM,Over Votes,0
+Laramie,04-10,U.S. House,,DEM,Under Votes,1
+Laramie,04-10,State Senate,8,REP,Jared Olsen,25
+Laramie,04-10,State Senate,8,REP,Write-ins,3
+Laramie,04-10,State Senate,8,REP,Over Votes,0
+Laramie,04-10,State Senate,8,REP,Under Votes,2
+Laramie,04-10,State Senate,8,DEM,Marguerite Herman,8
+Laramie,04-10,State Senate,8,DEM,Write-ins,0
+Laramie,04-10,State Senate,8,DEM,Over Votes,0
+Laramie,04-10,State Senate,8,DEM,Under Votes,0
+Laramie,04-10,State House,44,REP,John B Romero-Martinez,5
+Laramie,04-10,State House,44,REP,Lee Filer,10
+Laramie,04-10,State House,44,REP,Tamara Trujillo,15
+Laramie,04-10,State House,44,REP,Write-ins,0
+Laramie,04-10,State House,44,REP,Over Votes,0
+Laramie,04-10,State House,44,REP,Under Votes,0
+Laramie,04-10,State House,44,DEM,Write-ins,1
+Laramie,04-10,Ballots Cast,,REP,Ballots Cast,30
+Laramie,04-10,Ballots Cast,,DEM,Ballots Cast,8
+Laramie,04-10,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-10,Ballots Cast,,,Ballots Cast,38
+Laramie,04-11,U.S. Senate,,REP,John Barrasso,257
+Laramie,04-11,U.S. Senate,,REP,John Holtz,52
+Laramie,04-11,U.S. Senate,,REP,Reid Rasner,85
+Laramie,04-11,U.S. Senate,,REP,Write-ins,6
+Laramie,04-11,U.S. Senate,,REP,Over Votes,0
+Laramie,04-11,U.S. Senate,,REP,Under Votes,4
+Laramie,04-11,U.S. Senate,,DEM,Scott D Morrow,84
+Laramie,04-11,U.S. Senate,,DEM,Write-ins,2
+Laramie,04-11,U.S. Senate,,DEM,Over Votes,0
+Laramie,04-11,U.S. Senate,,DEM,Under Votes,6
+Laramie,04-11,U.S. House,,REP,Harriet Hageman,306
+Laramie,04-11,U.S. House,,REP,Steven R. Helling,82
+Laramie,04-11,U.S. House,,REP,Write-ins,11
+Laramie,04-11,U.S. House,,REP,Over Votes,0
+Laramie,04-11,U.S. House,,REP,Under Votes,5
+Laramie,04-11,U.S. House,,DEM,Kyle G. Cameron,86
+Laramie,04-11,U.S. House,,DEM,Write-ins,2
+Laramie,04-11,U.S. House,,DEM,Over Votes,0
+Laramie,04-11,U.S. House,,DEM,Under Votes,4
+Laramie,04-11,State House,12,REP,Clarence Styvar,214
+Laramie,04-11,State House,12,REP,Thomas L Lear,172
+Laramie,04-11,State House,12,REP,Write-ins,2
+Laramie,04-11,State House,12,REP,Over Votes,1
+Laramie,04-11,State House,12,REP,Under Votes,15
+Laramie,04-11,State House,12,DEM,Write-ins,16
+Laramie,04-11,Ballots Cast,,REP,Ballots Cast,404
+Laramie,04-11,Ballots Cast,,DEM,Ballots Cast,92
+Laramie,04-11,Ballots Cast,,NP,Ballots Cast,0
+Laramie,04-11,Ballots Cast,,,Ballots Cast,496
+Laramie,05-01,U.S. Senate,,REP,John Barrasso,61
+Laramie,05-01,U.S. Senate,,REP,John Holtz,8
+Laramie,05-01,U.S. Senate,,REP,Reid Rasner,33
+Laramie,05-01,U.S. Senate,,REP,Write-ins,0
+Laramie,05-01,U.S. Senate,,REP,Over Votes,0
+Laramie,05-01,U.S. Senate,,REP,Under Votes,1
+Laramie,05-01,U.S. Senate,,DEM,Scott D Morrow,5
+Laramie,05-01,U.S. Senate,,DEM,Write-ins,1
+Laramie,05-01,U.S. Senate,,DEM,Over Votes,0
+Laramie,05-01,U.S. Senate,,DEM,Under Votes,0
+Laramie,05-01,U.S. House,,REP,Harriet Hageman,84
+Laramie,05-01,U.S. House,,REP,Steven R. Helling,16
+Laramie,05-01,U.S. House,,REP,Write-ins,1
+Laramie,05-01,U.S. House,,REP,Over Votes,0
+Laramie,05-01,U.S. House,,REP,Under Votes,2
+Laramie,05-01,U.S. House,,DEM,Kyle G. Cameron,5
+Laramie,05-01,U.S. House,,DEM,Write-ins,1
+Laramie,05-01,U.S. House,,DEM,Over Votes,0
+Laramie,05-01,U.S. House,,DEM,Under Votes,0
+Laramie,05-01,State House,43,REP,Ann Lucas,64
+Laramie,05-01,State House,43,REP,Dan Zwonitzer,36
+Laramie,05-01,State House,43,REP,Write-ins,2
+Laramie,05-01,State House,43,REP,Over Votes,0
+Laramie,05-01,State House,43,REP,Under Votes,1
+Laramie,05-01,State House,43,DEM,Write-ins,4
+Laramie,05-01,Ballots Cast,,REP,Ballots Cast,103
+Laramie,05-01,Ballots Cast,,DEM,Ballots Cast,6
+Laramie,05-01,Ballots Cast,,NP,Ballots Cast,0
+Laramie,05-01,Ballots Cast,,,Ballots Cast,109
+Laramie,05-02,U.S. Senate,,REP,John Barrasso,432
+Laramie,05-02,U.S. Senate,,REP,John Holtz,41
+Laramie,05-02,U.S. Senate,,REP,Reid Rasner,123
+Laramie,05-02,U.S. Senate,,REP,Write-ins,1
+Laramie,05-02,U.S. Senate,,REP,Over Votes,0
+Laramie,05-02,U.S. Senate,,REP,Under Votes,7
+Laramie,05-02,U.S. Senate,,DEM,Scott D Morrow,23
+Laramie,05-02,U.S. Senate,,DEM,Write-ins,1
+Laramie,05-02,U.S. Senate,,DEM,Over Votes,0
+Laramie,05-02,U.S. Senate,,DEM,Under Votes,1
+Laramie,05-02,U.S. House,,REP,Harriet Hageman,511
+Laramie,05-02,U.S. House,,REP,Steven R. Helling,80
+Laramie,05-02,U.S. House,,REP,Write-ins,8
+Laramie,05-02,U.S. House,,REP,Over Votes,0
+Laramie,05-02,U.S. House,,REP,Under Votes,5
+Laramie,05-02,U.S. House,,DEM,Kyle G. Cameron,25
+Laramie,05-02,U.S. House,,DEM,Write-ins,0
+Laramie,05-02,U.S. House,,DEM,Over Votes,0
+Laramie,05-02,U.S. House,,DEM,Under Votes,0
+Laramie,05-02,State Senate,6,REP,Darin Smith,206
+Laramie,05-02,State Senate,6,REP,Eric D Johnston,86
+Laramie,05-02,State Senate,6,REP,Gary Bjorklund,19
+Laramie,05-02,State Senate,6,REP,Kim Withers,67
+Laramie,05-02,State Senate,6,REP,Marc Torriani,83
+Laramie,05-02,State Senate,6,REP,Taft C. Love,126
+Laramie,05-02,State Senate,6,REP,Write-ins,1
+Laramie,05-02,State Senate,6,REP,Over Votes,2
+Laramie,05-02,State Senate,6,REP,Under Votes,14
+Laramie,05-02,State Senate,6,DEM,Write-ins,4
+Laramie,05-02,State Senate,6,DEM,Over Votes,0
+Laramie,05-02,State Senate,6,DEM,Under Votes,21
+Laramie,05-02,State House,10,REP,Jennifer James,125
+Laramie,05-02,State House,10,REP,John Eklund,455
+Laramie,05-02,State House,10,REP,Write-ins,9
+Laramie,05-02,State House,10,REP,Over Votes,0
+Laramie,05-02,State House,10,REP,Under Votes,15
+Laramie,05-02,State House,10,DEM,Write-ins,2
+Laramie,05-02,Ballots Cast,,REP,Ballots Cast,604
+Laramie,05-02,Ballots Cast,,DEM,Ballots Cast,25
+Laramie,05-02,Ballots Cast,,NP,Ballots Cast,0
+Laramie,05-02,Ballots Cast,,,Ballots Cast,629
+Laramie,05-03,U.S. Senate,,REP,John Barrasso,292
+Laramie,05-03,U.S. Senate,,REP,John Holtz,25
+Laramie,05-03,U.S. Senate,,REP,Reid Rasner,103
+Laramie,05-03,U.S. Senate,,REP,Write-ins,2
+Laramie,05-03,U.S. Senate,,REP,Over Votes,2
+Laramie,05-03,U.S. Senate,,REP,Under Votes,7
+Laramie,05-03,U.S. Senate,,DEM,Scott D Morrow,20
+Laramie,05-03,U.S. Senate,,DEM,Write-ins,1
+Laramie,05-03,U.S. Senate,,DEM,Over Votes,0
+Laramie,05-03,U.S. Senate,,DEM,Under Votes,1
+Laramie,05-03,U.S. House,,REP,Harriet Hageman,365
+Laramie,05-03,U.S. House,,REP,Steven R. Helling,55
+Laramie,05-03,U.S. House,,REP,Write-ins,1
+Laramie,05-03,U.S. House,,REP,Over Votes,0
+Laramie,05-03,U.S. House,,REP,Under Votes,10
+Laramie,05-03,U.S. House,,DEM,Kyle G. Cameron,22
+Laramie,05-03,U.S. House,,DEM,Write-ins,0
+Laramie,05-03,U.S. House,,DEM,Over Votes,0
+Laramie,05-03,U.S. House,,DEM,Under Votes,0
+Laramie,05-03,State Senate,6,REP,Darin Smith,212
+Laramie,05-03,State Senate,6,REP,Eric D Johnston,37
+Laramie,05-03,State Senate,6,REP,Gary Bjorklund,10
+Laramie,05-03,State Senate,6,REP,Kim Withers,38
+Laramie,05-03,State Senate,6,REP,Marc Torriani,51
+Laramie,05-03,State Senate,6,REP,Taft C. Love,77
+Laramie,05-03,State Senate,6,REP,Write-ins,2
+Laramie,05-03,State Senate,6,REP,Over Votes,0
+Laramie,05-03,State Senate,6,REP,Under Votes,4
+Laramie,05-03,State Senate,6,DEM,Write-ins,5
+Laramie,05-03,State Senate,6,DEM,Over Votes,0
+Laramie,05-03,State Senate,6,DEM,Under Votes,17
+Laramie,05-03,State House,10,REP,Jennifer James,120
+Laramie,05-03,State House,10,REP,John Eklund,284
+Laramie,05-03,State House,10,REP,Write-ins,9
+Laramie,05-03,State House,10,REP,Over Votes,0
+Laramie,05-03,State House,10,REP,Under Votes,18
+Laramie,05-03,State House,10,DEM,Write-ins,5
+Laramie,05-03,Ballots Cast,,REP,Ballots Cast,431
+Laramie,05-03,Ballots Cast,,DEM,Ballots Cast,22
+Laramie,05-03,Ballots Cast,,NP,Ballots Cast,0
+Laramie,05-03,Ballots Cast,,,Ballots Cast,453
+Laramie,05-04,U.S. Senate,,REP,John Barrasso,175
+Laramie,05-04,U.S. Senate,,REP,John Holtz,18
+Laramie,05-04,U.S. Senate,,REP,Reid Rasner,55
+Laramie,05-04,U.S. Senate,,REP,Write-ins,2
+Laramie,05-04,U.S. Senate,,REP,Over Votes,1
+Laramie,05-04,U.S. Senate,,REP,Under Votes,0
+Laramie,05-04,U.S. Senate,,DEM,Scott D Morrow,16
+Laramie,05-04,U.S. Senate,,DEM,Write-ins,0
+Laramie,05-04,U.S. Senate,,DEM,Over Votes,0
+Laramie,05-04,U.S. Senate,,DEM,Under Votes,1
+Laramie,05-04,U.S. House,,REP,Harriet Hageman,194
+Laramie,05-04,U.S. House,,REP,Steven R. Helling,47
+Laramie,05-04,U.S. House,,REP,Write-ins,4
+Laramie,05-04,U.S. House,,REP,Over Votes,1
+Laramie,05-04,U.S. House,,REP,Under Votes,5
+Laramie,05-04,U.S. House,,DEM,Kyle G. Cameron,17
+Laramie,05-04,U.S. House,,DEM,Write-ins,0
+Laramie,05-04,U.S. House,,DEM,Over Votes,0
+Laramie,05-04,U.S. House,,DEM,Under Votes,0
+Laramie,05-04,State Senate,6,REP,Darin Smith,81
+Laramie,05-04,State Senate,6,REP,Eric D Johnston,34
+Laramie,05-04,State Senate,6,REP,Gary Bjorklund,7
+Laramie,05-04,State Senate,6,REP,Kim Withers,16
+Laramie,05-04,State Senate,6,REP,Marc Torriani,42
+Laramie,05-04,State Senate,6,REP,Taft C. Love,65
+Laramie,05-04,State Senate,6,REP,Write-ins,0
+Laramie,05-04,State Senate,6,REP,Over Votes,0
+Laramie,05-04,State Senate,6,REP,Under Votes,6
+Laramie,05-04,State Senate,6,DEM,Write-ins,4
+Laramie,05-04,State Senate,6,DEM,Over Votes,0
+Laramie,05-04,State Senate,6,DEM,Under Votes,13
+Laramie,05-04,State House,10,REP,Jennifer James,68
+Laramie,05-04,State House,10,REP,John Eklund,171
+Laramie,05-04,State House,10,REP,Write-ins,4
+Laramie,05-04,State House,10,REP,Over Votes,0
+Laramie,05-04,State House,10,REP,Under Votes,8
+Laramie,05-04,State House,10,DEM,Write-ins,4
+Laramie,05-04,Ballots Cast,,REP,Ballots Cast,251
+Laramie,05-04,Ballots Cast,,DEM,Ballots Cast,17
+Laramie,05-04,Ballots Cast,,NP,Ballots Cast,6
+Laramie,05-04,Ballots Cast,,,Ballots Cast,274
+Laramie,06-01,U.S. Senate,,REP,John Barrasso,0
+Laramie,06-01,U.S. Senate,,REP,John Holtz,0
+Laramie,06-01,U.S. Senate,,REP,Reid Rasner,0
+Laramie,06-01,U.S. Senate,,REP,Write-ins,0
+Laramie,06-01,U.S. Senate,,REP,Over Votes,0
+Laramie,06-01,U.S. Senate,,REP,Under Votes,0
+Laramie,06-01,U.S. Senate,,DEM,Scott D Morrow,0
+Laramie,06-01,U.S. Senate,,DEM,Write-ins,0
+Laramie,06-01,U.S. Senate,,DEM,Over Votes,0
+Laramie,06-01,U.S. Senate,,DEM,Under Votes,0
+Laramie,06-01,U.S. House,,REP,Harriet Hageman,0
+Laramie,06-01,U.S. House,,REP,Steven R. Helling,0
+Laramie,06-01,U.S. House,,REP,Write-ins,0
+Laramie,06-01,U.S. House,,REP,Over Votes,0
+Laramie,06-01,U.S. House,,REP,Under Votes,0
+Laramie,06-01,U.S. House,,DEM,Kyle G. Cameron,0
+Laramie,06-01,U.S. House,,DEM,Write-ins,0
+Laramie,06-01,U.S. House,,DEM,Over Votes,0
+Laramie,06-01,U.S. House,,DEM,Under Votes,0
+Laramie,06-01,State Senate,8,REP,Jared Olsen,0
+Laramie,06-01,State Senate,8,REP,Write-ins,0
+Laramie,06-01,State Senate,8,REP,Over Votes,0
+Laramie,06-01,State Senate,8,REP,Under Votes,0
+Laramie,06-01,State Senate,8,DEM,Marguerite Herman,0
+Laramie,06-01,State Senate,8,DEM,Write-ins,0
+Laramie,06-01,State Senate,8,DEM,Over Votes,0
+Laramie,06-01,State Senate,8,DEM,Under Votes,0
+Laramie,06-01,State House,11,REP,Jacob Wasserburger,0
+Laramie,06-01,State House,11,REP,Seth Ulvestad,0
+Laramie,06-01,State House,11,REP,Write-ins,0
+Laramie,06-01,State House,11,REP,Over Votes,0
+Laramie,06-01,State House,11,REP,Under Votes,0
+Laramie,06-01,State House,11,DEM,Sara Burlingame,0
+Laramie,06-01,State House,11,DEM,Write-ins,0
+Laramie,06-01,State House,11,DEM,Over Votes,0
+Laramie,06-01,State House,11,DEM,Under Votes,0
+Laramie,06-01,Ballots Cast,,REP,Ballots Cast,0
+Laramie,06-01,Ballots Cast,,DEM,Ballots Cast,0
+Laramie,06-01,Ballots Cast,,NP,Ballots Cast,0
+Laramie,06-01,Ballots Cast,,,Ballots Cast,0
+Laramie,06-03,U.S. Senate,,REP,John Barrasso,21
+Laramie,06-03,U.S. Senate,,REP,John Holtz,1
+Laramie,06-03,U.S. Senate,,REP,Reid Rasner,5
+Laramie,06-03,U.S. Senate,,REP,Write-ins,0
+Laramie,06-03,U.S. Senate,,REP,Over Votes,0
+Laramie,06-03,U.S. Senate,,REP,Under Votes,0
+Laramie,06-03,U.S. Senate,,DEM,Scott D Morrow,4
+Laramie,06-03,U.S. Senate,,DEM,Write-ins,1
+Laramie,06-03,U.S. Senate,,DEM,Over Votes,0
+Laramie,06-03,U.S. Senate,,DEM,Under Votes,0
+Laramie,06-03,U.S. House,,REP,Harriet Hageman,25
+Laramie,06-03,U.S. House,,REP,Steven R. Helling,2
+Laramie,06-03,U.S. House,,REP,Write-ins,0
+Laramie,06-03,U.S. House,,REP,Over Votes,0
+Laramie,06-03,U.S. House,,REP,Under Votes,0
+Laramie,06-03,U.S. House,,DEM,Kyle G. Cameron,5
+Laramie,06-03,U.S. House,,DEM,Write-ins,0
+Laramie,06-03,U.S. House,,DEM,Over Votes,0
+Laramie,06-03,U.S. House,,DEM,Under Votes,0
+Laramie,06-03,State House,61,REP,Daniel J. Singh,20
+Laramie,06-03,State House,61,REP,Matt Malcom,5
+Laramie,06-03,State House,61,REP,Write-ins,0
+Laramie,06-03,State House,61,REP,Over Votes,0
+Laramie,06-03,State House,61,REP,Under Votes,2
+Laramie,06-03,State House,61,DEM,Write-ins,2
+Laramie,06-03,Ballots Cast,,REP,Ballots Cast,27
+Laramie,06-03,Ballots Cast,,DEM,Ballots Cast,5
+Laramie,06-03,Ballots Cast,,NP,Ballots Cast,0
+Laramie,06-03,Ballots Cast,,,Ballots Cast,32
+Laramie,06-04,U.S. Senate,,REP,John Barrasso,20
+Laramie,06-04,U.S. Senate,,REP,John Holtz,2
+Laramie,06-04,U.S. Senate,,REP,Reid Rasner,9
+Laramie,06-04,U.S. Senate,,REP,Write-ins,2
+Laramie,06-04,U.S. Senate,,REP,Over Votes,0
+Laramie,06-04,U.S. Senate,,REP,Under Votes,0
+Laramie,06-04,U.S. Senate,,DEM,Scott D Morrow,5
+Laramie,06-04,U.S. Senate,,DEM,Write-ins,0
+Laramie,06-04,U.S. Senate,,DEM,Over Votes,0
+Laramie,06-04,U.S. Senate,,DEM,Under Votes,0
+Laramie,06-04,U.S. House,,REP,Harriet Hageman,26
+Laramie,06-04,U.S. House,,REP,Steven R. Helling,5
+Laramie,06-04,U.S. House,,REP,Write-ins,2
+Laramie,06-04,U.S. House,,REP,Over Votes,0
+Laramie,06-04,U.S. House,,REP,Under Votes,0
+Laramie,06-04,U.S. House,,DEM,Kyle G. Cameron,5
+Laramie,06-04,U.S. House,,DEM,Write-ins,0
+Laramie,06-04,U.S. House,,DEM,Over Votes,0
+Laramie,06-04,U.S. House,,DEM,Under Votes,0
+Laramie,06-04,State House,9,REP,Exie Brown,20
+Laramie,06-04,State House,9,REP,Landon J. Brown,11
+Laramie,06-04,State House,9,REP,Write-ins,2
+Laramie,06-04,State House,9,REP,Over Votes,0
+Laramie,06-04,State House,9,REP,Under Votes,0
+Laramie,06-04,State House,9,DEM,Write-ins,0
+Laramie,06-04,Ballots Cast,,REP,Ballots Cast,33
+Laramie,06-04,Ballots Cast,,DEM,Ballots Cast,5
+Laramie,06-04,Ballots Cast,,NP,Ballots Cast,0
+Laramie,06-04,Ballots Cast,,,Ballots Cast,38

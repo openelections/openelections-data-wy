@@ -1,0 +1,673 @@
+county,precinct,office,district,party,candidate,votes
+Albany,13-1,U.S. Senate,,REP,Bryan E Miller,28
+Albany,13-1,U.S. Senate,,REP,Cynthia M. Lummis,198
+Albany,13-1,U.S. Senate,,REP,Devon Cade,3
+Albany,13-1,U.S. Senate,,REP,Donna Rice,18
+Albany,13-1,U.S. Senate,,REP,John Holtz,9
+Albany,13-1,U.S. Senate,,REP,Josh Wheeler,9
+Albany,13-1,U.S. Senate,,REP,Michael Kemler,4
+Albany,13-1,U.S. Senate,,REP,R. Mark Armstrong,27
+Albany,13-1,U.S. Senate,,REP,Robert G. Short,35
+Albany,13-1,U.S. Senate,,REP,Star Roselli,2
+Albany,13-1,U.S. Senate,,REP,Write-ins,2
+Albany,13-1,U.S. Senate,,REP,Over Votes,1
+Albany,13-1,U.S. Senate,,REP,Under Votes,10
+Albany,13-1,U.S. Senate,,DEM,James Kirk DeBrine,9
+Albany,13-1,U.S. Senate,,DEM,Kenneth R. Casner,27
+Albany,13-1,U.S. Senate,,DEM,Merav Ben David,198
+Albany,13-1,U.S. Senate,,DEM,Nathan Wendt,36
+Albany,13-1,U.S. Senate,,DEM,Rex Wilde,14
+Albany,13-1,U.S. Senate,,DEM,Yana Ludwig,106
+Albany,13-1,U.S. Senate,,DEM,Write-ins,0
+Albany,13-1,U.S. Senate,,DEM,Over Votes,2
+Albany,13-1,U.S. Senate,,DEM,Under Votes,7
+Albany,13-1,U.S. House,,REP,Blake Stanley,86
+Albany,13-1,U.S. House,,REP,Liz Cheney,243
+Albany,13-1,U.S. House,,REP,Write-ins,3
+Albany,13-1,U.S. House,,REP,Over Votes,0
+Albany,13-1,U.S. House,,REP,Under Votes,14
+Albany,13-1,U.S. House,,DEM,Carl Beach,61
+Albany,13-1,U.S. House,,DEM,Carol Hafner,82
+Albany,13-1,U.S. House,,DEM,Lynnette Grey Bull,233
+Albany,13-1,U.S. House,,DEM,Write-ins,1
+Albany,13-1,U.S. House,,DEM,Over Votes,1
+Albany,13-1,U.S. House,,DEM,Under Votes,21
+Albany,13-1,State House,13,REP,Write-ins,28
+Albany,13-1,State House,13,REP,Over Votes,0
+Albany,13-1,State House,13,REP,Under Votes,318
+Albany,13-1,State House,13,DEM,Cathy Connolly,242
+Albany,13-1,State House,13,DEM,Marc Homer,147
+Albany,13-1,State House,13,DEM,Write-ins,1
+Albany,13-1,State House,13,DEM,Over Votes,2
+Albany,13-1,State House,13,DEM,Under Votes,7
+Albany,13-1,Ballots Cast,,REP,Ballots Cast,346
+Albany,13-1,Ballots Cast,,DEM,Ballots Cast,399
+Albany,13-1,Ballots Cast,,NP,Ballots Cast,45
+Albany,13-1,Ballots Cast,,,Ballots Cast,790
+Albany,13-2,U.S. Senate,,REP,Bryan E Miller,6
+Albany,13-2,U.S. Senate,,REP,Cynthia M. Lummis,25
+Albany,13-2,U.S. Senate,,REP,Devon Cade,4
+Albany,13-2,U.S. Senate,,REP,Donna Rice,2
+Albany,13-2,U.S. Senate,,REP,John Holtz,1
+Albany,13-2,U.S. Senate,,REP,Josh Wheeler,0
+Albany,13-2,U.S. Senate,,REP,Michael Kemler,0
+Albany,13-2,U.S. Senate,,REP,R. Mark Armstrong,9
+Albany,13-2,U.S. Senate,,REP,Robert G. Short,11
+Albany,13-2,U.S. Senate,,REP,Star Roselli,2
+Albany,13-2,U.S. Senate,,REP,Write-ins,2
+Albany,13-2,U.S. Senate,,REP,Over Votes,0
+Albany,13-2,U.S. Senate,,REP,Under Votes,0
+Albany,13-2,U.S. Senate,,DEM,James Kirk DeBrine,2
+Albany,13-2,U.S. Senate,,DEM,Kenneth R. Casner,6
+Albany,13-2,U.S. Senate,,DEM,Merav Ben David,58
+Albany,13-2,U.S. Senate,,DEM,Nathan Wendt,6
+Albany,13-2,U.S. Senate,,DEM,Rex Wilde,4
+Albany,13-2,U.S. Senate,,DEM,Yana Ludwig,37
+Albany,13-2,U.S. Senate,,DEM,Write-ins,0
+Albany,13-2,U.S. Senate,,DEM,Over Votes,0
+Albany,13-2,U.S. Senate,,DEM,Under Votes,7
+Albany,13-2,U.S. House,,REP,Blake Stanley,20
+Albany,13-2,U.S. House,,REP,Liz Cheney,35
+Albany,13-2,U.S. House,,REP,Write-ins,3
+Albany,13-2,U.S. House,,REP,Over Votes,1
+Albany,13-2,U.S. House,,REP,Under Votes,3
+Albany,13-2,U.S. House,,DEM,Carl Beach,21
+Albany,13-2,U.S. House,,DEM,Carol Hafner,23
+Albany,13-2,U.S. House,,DEM,Lynnette Grey Bull,69
+Albany,13-2,U.S. House,,DEM,Write-ins,0
+Albany,13-2,U.S. House,,DEM,Over Votes,1
+Albany,13-2,U.S. House,,DEM,Under Votes,6
+Albany,13-2,State House,13,REP,Write-ins,8
+Albany,13-2,State House,13,REP,Over Votes,0
+Albany,13-2,State House,13,REP,Under Votes,54
+Albany,13-2,State House,13,DEM,Cathy Connolly,77
+Albany,13-2,State House,13,DEM,Marc Homer,39
+Albany,13-2,State House,13,DEM,Write-ins,0
+Albany,13-2,State House,13,DEM,Over Votes,0
+Albany,13-2,State House,13,DEM,Under Votes,4
+Albany,13-2,Ballots Cast,,REP,Ballots Cast,62
+Albany,13-2,Ballots Cast,,DEM,Ballots Cast,120
+Albany,13-2,Ballots Cast,,NP,Ballots Cast,5
+Albany,13-2,Ballots Cast,,,Ballots Cast,187
+Albany,13-3,U.S. Senate,,REP,Bryan E Miller,21
+Albany,13-3,U.S. Senate,,REP,Cynthia M. Lummis,82
+Albany,13-3,U.S. Senate,,REP,Devon Cade,14
+Albany,13-3,U.S. Senate,,REP,Donna Rice,11
+Albany,13-3,U.S. Senate,,REP,John Holtz,10
+Albany,13-3,U.S. Senate,,REP,Josh Wheeler,11
+Albany,13-3,U.S. Senate,,REP,Michael Kemler,4
+Albany,13-3,U.S. Senate,,REP,R. Mark Armstrong,11
+Albany,13-3,U.S. Senate,,REP,Robert G. Short,36
+Albany,13-3,U.S. Senate,,REP,Star Roselli,3
+Albany,13-3,U.S. Senate,,REP,Write-ins,7
+Albany,13-3,U.S. Senate,,REP,Over Votes,1
+Albany,13-3,U.S. Senate,,REP,Under Votes,14
+Albany,13-3,U.S. Senate,,DEM,James Kirk DeBrine,14
+Albany,13-3,U.S. Senate,,DEM,Kenneth R. Casner,14
+Albany,13-3,U.S. Senate,,DEM,Merav Ben David,235
+Albany,13-3,U.S. Senate,,DEM,Nathan Wendt,23
+Albany,13-3,U.S. Senate,,DEM,Rex Wilde,10
+Albany,13-3,U.S. Senate,,DEM,Yana Ludwig,120
+Albany,13-3,U.S. Senate,,DEM,Write-ins,1
+Albany,13-3,U.S. Senate,,DEM,Over Votes,2
+Albany,13-3,U.S. Senate,,DEM,Under Votes,22
+Albany,13-3,U.S. House,,REP,Blake Stanley,68
+Albany,13-3,U.S. House,,REP,Liz Cheney,132
+Albany,13-3,U.S. House,,REP,Write-ins,7
+Albany,13-3,U.S. House,,REP,Over Votes,0
+Albany,13-3,U.S. House,,REP,Under Votes,18
+Albany,13-3,U.S. House,,DEM,Carl Beach,49
+Albany,13-3,U.S. House,,DEM,Carol Hafner,73
+Albany,13-3,U.S. House,,DEM,Lynnette Grey Bull,276
+Albany,13-3,U.S. House,,DEM,Write-ins,2
+Albany,13-3,U.S. House,,DEM,Over Votes,2
+Albany,13-3,U.S. House,,DEM,Under Votes,39
+Albany,13-3,State House,13,REP,Write-ins,29
+Albany,13-3,State House,13,REP,Over Votes,0
+Albany,13-3,State House,13,REP,Under Votes,196
+Albany,13-3,State House,13,DEM,Cathy Connolly,273
+Albany,13-3,State House,13,DEM,Marc Homer,162
+Albany,13-3,State House,13,DEM,Write-ins,0
+Albany,13-3,State House,13,DEM,Over Votes,1
+Albany,13-3,State House,13,DEM,Under Votes,5
+Albany,13-3,Ballots Cast,,REP,Ballots Cast,225
+Albany,13-3,Ballots Cast,,DEM,Ballots Cast,441
+Albany,13-3,Ballots Cast,,NP,Ballots Cast,25
+Albany,13-3,Ballots Cast,,,Ballots Cast,691
+Albany,14-1,U.S. Senate,,REP,Bryan E Miller,65
+Albany,14-1,U.S. Senate,,REP,Cynthia M. Lummis,441
+Albany,14-1,U.S. Senate,,REP,Devon Cade,10
+Albany,14-1,U.S. Senate,,REP,Donna Rice,29
+Albany,14-1,U.S. Senate,,REP,John Holtz,18
+Albany,14-1,U.S. Senate,,REP,Josh Wheeler,18
+Albany,14-1,U.S. Senate,,REP,Michael Kemler,18
+Albany,14-1,U.S. Senate,,REP,R. Mark Armstrong,27
+Albany,14-1,U.S. Senate,,REP,Robert G. Short,98
+Albany,14-1,U.S. Senate,,REP,Star Roselli,4
+Albany,14-1,U.S. Senate,,REP,Write-ins,5
+Albany,14-1,U.S. Senate,,REP,Over Votes,1
+Albany,14-1,U.S. Senate,,REP,Under Votes,28
+Albany,14-1,U.S. Senate,,DEM,James Kirk DeBrine,9
+Albany,14-1,U.S. Senate,,DEM,Kenneth R. Casner,29
+Albany,14-1,U.S. Senate,,DEM,Merav Ben David,359
+Albany,14-1,U.S. Senate,,DEM,Nathan Wendt,69
+Albany,14-1,U.S. Senate,,DEM,Rex Wilde,15
+Albany,14-1,U.S. Senate,,DEM,Yana Ludwig,149
+Albany,14-1,U.S. Senate,,DEM,Write-ins,6
+Albany,14-1,U.S. Senate,,DEM,Over Votes,4
+Albany,14-1,U.S. Senate,,DEM,Under Votes,28
+Albany,14-1,U.S. House,,REP,Blake Stanley,132
+Albany,14-1,U.S. House,,REP,Liz Cheney,588
+Albany,14-1,U.S. House,,REP,Write-ins,6
+Albany,14-1,U.S. House,,REP,Over Votes,2
+Albany,14-1,U.S. House,,REP,Under Votes,34
+Albany,14-1,U.S. House,,DEM,Carl Beach,125
+Albany,14-1,U.S. House,,DEM,Carol Hafner,121
+Albany,14-1,U.S. House,,DEM,Lynnette Grey Bull,367
+Albany,14-1,U.S. House,,DEM,Write-ins,3
+Albany,14-1,U.S. House,,DEM,Over Votes,3
+Albany,14-1,U.S. House,,DEM,Under Votes,49
+Albany,14-1,State Senate,10,REP,Craig A. Malmstrom,191
+Albany,14-1,State Senate,10,REP,Daniel Furphy,536
+Albany,14-1,State Senate,10,REP,Write-ins,2
+Albany,14-1,State Senate,10,REP,Over Votes,0
+Albany,14-1,State Senate,10,REP,Under Votes,33
+Albany,14-1,State Senate,10,DEM,Jackie Grimes,616
+Albany,14-1,State Senate,10,DEM,Write-ins,4
+Albany,14-1,State Senate,10,DEM,Over Votes,0
+Albany,14-1,State Senate,10,DEM,Under Votes,48
+Albany,14-1,State House,14,REP,Christopher Culross,73
+Albany,14-1,State House,14,REP,Gustave Anderson,126
+Albany,14-1,State House,14,REP,Joel H. Defebaugh,121
+Albany,14-1,State House,14,REP,Katrina Cox,193
+Albany,14-1,State House,14,REP,Matthew Burkhart,184
+Albany,14-1,State House,14,REP,Write-ins,3
+Albany,14-1,State House,14,REP,Over Votes,10
+Albany,14-1,State House,14,REP,Under Votes,52
+Albany,14-1,State House,14,DEM,Alexander Simon,120
+Albany,14-1,State House,14,DEM,Trey Sherwood,512
+Albany,14-1,State House,14,DEM,Write-ins,1
+Albany,14-1,State House,14,DEM,Over Votes,1
+Albany,14-1,State House,14,DEM,Under Votes,34
+Albany,14-1,Ballots Cast,,REP,Ballots Cast,762
+Albany,14-1,Ballots Cast,,DEM,Ballots Cast,668
+Albany,14-1,Ballots Cast,,NP,Ballots Cast,82
+Albany,14-1,Ballots Cast,,,Ballots Cast,1512
+Albany,14-11,U.S. Senate,,REP,Bryan E Miller,32
+Albany,14-11,U.S. Senate,,REP,Cynthia M. Lummis,192
+Albany,14-11,U.S. Senate,,REP,Devon Cade,0
+Albany,14-11,U.S. Senate,,REP,Donna Rice,8
+Albany,14-11,U.S. Senate,,REP,John Holtz,1
+Albany,14-11,U.S. Senate,,REP,Josh Wheeler,2
+Albany,14-11,U.S. Senate,,REP,Michael Kemler,0
+Albany,14-11,U.S. Senate,,REP,R. Mark Armstrong,10
+Albany,14-11,U.S. Senate,,REP,Robert G. Short,30
+Albany,14-11,U.S. Senate,,REP,Star Roselli,4
+Albany,14-11,U.S. Senate,,REP,Write-ins,2
+Albany,14-11,U.S. Senate,,REP,Over Votes,1
+Albany,14-11,U.S. Senate,,REP,Under Votes,4
+Albany,14-11,U.S. Senate,,DEM,James Kirk DeBrine,1
+Albany,14-11,U.S. Senate,,DEM,Kenneth R. Casner,1
+Albany,14-11,U.S. Senate,,DEM,Merav Ben David,41
+Albany,14-11,U.S. Senate,,DEM,Nathan Wendt,6
+Albany,14-11,U.S. Senate,,DEM,Rex Wilde,0
+Albany,14-11,U.S. Senate,,DEM,Yana Ludwig,7
+Albany,14-11,U.S. Senate,,DEM,Write-ins,0
+Albany,14-11,U.S. Senate,,DEM,Over Votes,0
+Albany,14-11,U.S. Senate,,DEM,Under Votes,1
+Albany,14-11,U.S. House,,REP,Blake Stanley,50
+Albany,14-11,U.S. House,,REP,Liz Cheney,233
+Albany,14-11,U.S. House,,REP,Write-ins,0
+Albany,14-11,U.S. House,,REP,Over Votes,0
+Albany,14-11,U.S. House,,REP,Under Votes,3
+Albany,14-11,U.S. House,,DEM,Carl Beach,9
+Albany,14-11,U.S. House,,DEM,Carol Hafner,8
+Albany,14-11,U.S. House,,DEM,Lynnette Grey Bull,34
+Albany,14-11,U.S. House,,DEM,Write-ins,0
+Albany,14-11,U.S. House,,DEM,Over Votes,0
+Albany,14-11,U.S. House,,DEM,Under Votes,6
+Albany,14-11,State Senate,10,REP,Craig A. Malmstrom,116
+Albany,14-11,State Senate,10,REP,Daniel Furphy,152
+Albany,14-11,State Senate,10,REP,Write-ins,1
+Albany,14-11,State Senate,10,REP,Over Votes,0
+Albany,14-11,State Senate,10,REP,Under Votes,17
+Albany,14-11,State Senate,10,DEM,Jackie Grimes,52
+Albany,14-11,State Senate,10,DEM,Write-ins,1
+Albany,14-11,State Senate,10,DEM,Over Votes,0
+Albany,14-11,State Senate,10,DEM,Under Votes,4
+Albany,14-11,State House,14,REP,Christopher Culross,73
+Albany,14-11,State House,14,REP,Gustave Anderson,34
+Albany,14-11,State House,14,REP,Joel H. Defebaugh,23
+Albany,14-11,State House,14,REP,Katrina Cox,61
+Albany,14-11,State House,14,REP,Matthew Burkhart,71
+Albany,14-11,State House,14,REP,Write-ins,0
+Albany,14-11,State House,14,REP,Over Votes,0
+Albany,14-11,State House,14,REP,Under Votes,24
+Albany,14-11,State House,14,DEM,Alexander Simon,5
+Albany,14-11,State House,14,DEM,Trey Sherwood,47
+Albany,14-11,State House,14,DEM,Write-ins,0
+Albany,14-11,State House,14,DEM,Over Votes,1
+Albany,14-11,State House,14,DEM,Under Votes,4
+Albany,14-11,Ballots Cast,,REP,Ballots Cast,286
+Albany,14-11,Ballots Cast,,DEM,Ballots Cast,57
+Albany,14-11,Ballots Cast,,NP,Ballots Cast,0
+Albany,14-11,Ballots Cast,,,Ballots Cast,343
+Albany,45-1,U.S. Senate,,REP,Bryan E Miller,54
+Albany,45-1,U.S. Senate,,REP,Cynthia M. Lummis,274
+Albany,45-1,U.S. Senate,,REP,Devon Cade,1
+Albany,45-1,U.S. Senate,,REP,Donna Rice,27
+Albany,45-1,U.S. Senate,,REP,John Holtz,6
+Albany,45-1,U.S. Senate,,REP,Josh Wheeler,16
+Albany,45-1,U.S. Senate,,REP,Michael Kemler,4
+Albany,45-1,U.S. Senate,,REP,R. Mark Armstrong,30
+Albany,45-1,U.S. Senate,,REP,Robert G. Short,50
+Albany,45-1,U.S. Senate,,REP,Star Roselli,0
+Albany,45-1,U.S. Senate,,REP,Write-ins,2
+Albany,45-1,U.S. Senate,,REP,Over Votes,5
+Albany,45-1,U.S. Senate,,REP,Under Votes,7
+Albany,45-1,U.S. Senate,,DEM,James Kirk DeBrine,10
+Albany,45-1,U.S. Senate,,DEM,Kenneth R. Casner,19
+Albany,45-1,U.S. Senate,,DEM,Merav Ben David,139
+Albany,45-1,U.S. Senate,,DEM,Nathan Wendt,32
+Albany,45-1,U.S. Senate,,DEM,Rex Wilde,15
+Albany,45-1,U.S. Senate,,DEM,Yana Ludwig,79
+Albany,45-1,U.S. Senate,,DEM,Write-ins,5
+Albany,45-1,U.S. Senate,,DEM,Over Votes,1
+Albany,45-1,U.S. Senate,,DEM,Under Votes,25
+Albany,45-1,U.S. House,,REP,Blake Stanley,119
+Albany,45-1,U.S. House,,REP,Liz Cheney,347
+Albany,45-1,U.S. House,,REP,Write-ins,2
+Albany,45-1,U.S. House,,REP,Over Votes,0
+Albany,45-1,U.S. House,,REP,Under Votes,8
+Albany,45-1,U.S. House,,DEM,Carl Beach,31
+Albany,45-1,U.S. House,,DEM,Carol Hafner,62
+Albany,45-1,U.S. House,,DEM,Lynnette Grey Bull,199
+Albany,45-1,U.S. House,,DEM,Write-ins,4
+Albany,45-1,U.S. House,,DEM,Over Votes,0
+Albany,45-1,U.S. House,,DEM,Under Votes,29
+Albany,45-1,State House,45,REP,Roxie Hensley,392
+Albany,45-1,State House,45,REP,Write-ins,13
+Albany,45-1,State House,45,REP,Over Votes,0
+Albany,45-1,State House,45,REP,Under Votes,71
+Albany,45-1,State House,45,DEM,Jean Anne Garrison,139
+Albany,45-1,State House,45,DEM,Karlee Provenza,176
+Albany,45-1,State House,45,DEM,Write-ins,2
+Albany,45-1,State House,45,DEM,Over Votes,0
+Albany,45-1,State House,45,DEM,Under Votes,8
+Albany,45-1,Ballots Cast,,REP,Ballots Cast,476
+Albany,45-1,Ballots Cast,,DEM,Ballots Cast,325
+Albany,45-1,Ballots Cast,,NP,Ballots Cast,63
+Albany,45-1,Ballots Cast,,,Ballots Cast,864
+Albany,45-2,U.S. Senate,,REP,Bryan E Miller,31
+Albany,45-2,U.S. Senate,,REP,Cynthia M. Lummis,124
+Albany,45-2,U.S. Senate,,REP,Devon Cade,8
+Albany,45-2,U.S. Senate,,REP,Donna Rice,14
+Albany,45-2,U.S. Senate,,REP,John Holtz,6
+Albany,45-2,U.S. Senate,,REP,Josh Wheeler,14
+Albany,45-2,U.S. Senate,,REP,Michael Kemler,4
+Albany,45-2,U.S. Senate,,REP,R. Mark Armstrong,21
+Albany,45-2,U.S. Senate,,REP,Robert G. Short,42
+Albany,45-2,U.S. Senate,,REP,Star Roselli,2
+Albany,45-2,U.S. Senate,,REP,Write-ins,2
+Albany,45-2,U.S. Senate,,REP,Over Votes,1
+Albany,45-2,U.S. Senate,,REP,Under Votes,9
+Albany,45-2,U.S. Senate,,DEM,James Kirk DeBrine,9
+Albany,45-2,U.S. Senate,,DEM,Kenneth R. Casner,22
+Albany,45-2,U.S. Senate,,DEM,Merav Ben David,276
+Albany,45-2,U.S. Senate,,DEM,Nathan Wendt,49
+Albany,45-2,U.S. Senate,,DEM,Rex Wilde,12
+Albany,45-2,U.S. Senate,,DEM,Yana Ludwig,143
+Albany,45-2,U.S. Senate,,DEM,Write-ins,4
+Albany,45-2,U.S. Senate,,DEM,Over Votes,8
+Albany,45-2,U.S. Senate,,DEM,Under Votes,24
+Albany,45-2,U.S. House,,REP,Blake Stanley,102
+Albany,45-2,U.S. House,,REP,Liz Cheney,164
+Albany,45-2,U.S. House,,REP,Write-ins,3
+Albany,45-2,U.S. House,,REP,Over Votes,0
+Albany,45-2,U.S. House,,REP,Under Votes,9
+Albany,45-2,U.S. House,,DEM,Carl Beach,65
+Albany,45-2,U.S. House,,DEM,Carol Hafner,62
+Albany,45-2,U.S. House,,DEM,Lynnette Grey Bull,372
+Albany,45-2,U.S. House,,DEM,Write-ins,4
+Albany,45-2,U.S. House,,DEM,Over Votes,4
+Albany,45-2,U.S. House,,DEM,Under Votes,40
+Albany,45-2,State House,45,REP,Roxie Hensley,206
+Albany,45-2,State House,45,REP,Write-ins,16
+Albany,45-2,State House,45,REP,Over Votes,0
+Albany,45-2,State House,45,REP,Under Votes,56
+Albany,45-2,State House,45,DEM,Jean Anne Garrison,211
+Albany,45-2,State House,45,DEM,Karlee Provenza,320
+Albany,45-2,State House,45,DEM,Write-ins,1
+Albany,45-2,State House,45,DEM,Over Votes,1
+Albany,45-2,State House,45,DEM,Under Votes,14
+Albany,45-2,Ballots Cast,,REP,Ballots Cast,278
+Albany,45-2,Ballots Cast,,DEM,Ballots Cast,547
+Albany,45-2,Ballots Cast,,NP,Ballots Cast,48
+Albany,45-2,Ballots Cast,,,Ballots Cast,873
+Albany,46-1,U.S. Senate,,REP,Bryan E Miller,23
+Albany,46-1,U.S. Senate,,REP,Cynthia M. Lummis,150
+Albany,46-1,U.S. Senate,,REP,Devon Cade,3
+Albany,46-1,U.S. Senate,,REP,Donna Rice,18
+Albany,46-1,U.S. Senate,,REP,John Holtz,8
+Albany,46-1,U.S. Senate,,REP,Josh Wheeler,13
+Albany,46-1,U.S. Senate,,REP,Michael Kemler,2
+Albany,46-1,U.S. Senate,,REP,R. Mark Armstrong,19
+Albany,46-1,U.S. Senate,,REP,Robert G. Short,26
+Albany,46-1,U.S. Senate,,REP,Star Roselli,4
+Albany,46-1,U.S. Senate,,REP,Write-ins,0
+Albany,46-1,U.S. Senate,,REP,Over Votes,0
+Albany,46-1,U.S. Senate,,REP,Under Votes,4
+Albany,46-1,U.S. Senate,,DEM,James Kirk DeBrine,5
+Albany,46-1,U.S. Senate,,DEM,Kenneth R. Casner,19
+Albany,46-1,U.S. Senate,,DEM,Merav Ben David,156
+Albany,46-1,U.S. Senate,,DEM,Nathan Wendt,26
+Albany,46-1,U.S. Senate,,DEM,Rex Wilde,2
+Albany,46-1,U.S. Senate,,DEM,Yana Ludwig,44
+Albany,46-1,U.S. Senate,,DEM,Write-ins,2
+Albany,46-1,U.S. Senate,,DEM,Over Votes,1
+Albany,46-1,U.S. Senate,,DEM,Under Votes,6
+Albany,46-1,U.S. House,,REP,Blake Stanley,68
+Albany,46-1,U.S. House,,REP,Liz Cheney,195
+Albany,46-1,U.S. House,,REP,Write-ins,2
+Albany,46-1,U.S. House,,REP,Over Votes,0
+Albany,46-1,U.S. House,,REP,Under Votes,5
+Albany,46-1,U.S. House,,DEM,Carl Beach,32
+Albany,46-1,U.S. House,,DEM,Carol Hafner,54
+Albany,46-1,U.S. House,,DEM,Lynnette Grey Bull,151
+Albany,46-1,U.S. House,,DEM,Write-ins,3
+Albany,46-1,U.S. House,,DEM,Over Votes,4
+Albany,46-1,U.S. House,,DEM,Under Votes,17
+Albany,46-1,State Senate,10,REP,Craig A. Malmstrom,91
+Albany,46-1,State Senate,10,REP,Daniel Furphy,169
+Albany,46-1,State Senate,10,REP,Write-ins,1
+Albany,46-1,State Senate,10,REP,Over Votes,0
+Albany,46-1,State Senate,10,REP,Under Votes,9
+Albany,46-1,State Senate,10,DEM,Jackie Grimes,244
+Albany,46-1,State Senate,10,DEM,Write-ins,2
+Albany,46-1,State Senate,10,DEM,Over Votes,0
+Albany,46-1,State Senate,10,DEM,Under Votes,15
+Albany,46-1,State House,46,REP,James Jackson,66
+Albany,46-1,State House,46,REP,Ocean Andrew,190
+Albany,46-1,State House,46,REP,Write-ins,2
+Albany,46-1,State House,46,REP,Over Votes,0
+Albany,46-1,State House,46,REP,Under Votes,12
+Albany,46-1,State House,46,DEM,Lawrence G. Struempf,117
+Albany,46-1,State House,46,DEM,Tim Chesnut,130
+Albany,46-1,State House,46,DEM,Write-ins,4
+Albany,46-1,State House,46,DEM,Over Votes,1
+Albany,46-1,State House,46,DEM,Under Votes,9
+Albany,46-1,Ballots Cast,,REP,Ballots Cast,270
+Albany,46-1,Ballots Cast,,DEM,Ballots Cast,261
+Albany,46-1,Ballots Cast,,NP,Ballots Cast,29
+Albany,46-1,Ballots Cast,,,Ballots Cast,560
+Albany,46-11,U.S. Senate,,REP,Bryan E Miller,75
+Albany,46-11,U.S. Senate,,REP,Cynthia M. Lummis,382
+Albany,46-11,U.S. Senate,,REP,Devon Cade,6
+Albany,46-11,U.S. Senate,,REP,Donna Rice,30
+Albany,46-11,U.S. Senate,,REP,John Holtz,21
+Albany,46-11,U.S. Senate,,REP,Josh Wheeler,23
+Albany,46-11,U.S. Senate,,REP,Michael Kemler,4
+Albany,46-11,U.S. Senate,,REP,R. Mark Armstrong,45
+Albany,46-11,U.S. Senate,,REP,Robert G. Short,75
+Albany,46-11,U.S. Senate,,REP,Star Roselli,6
+Albany,46-11,U.S. Senate,,REP,Write-ins,5
+Albany,46-11,U.S. Senate,,REP,Over Votes,0
+Albany,46-11,U.S. Senate,,REP,Under Votes,28
+Albany,46-11,U.S. Senate,,DEM,James Kirk DeBrine,4
+Albany,46-11,U.S. Senate,,DEM,Kenneth R. Casner,25
+Albany,46-11,U.S. Senate,,DEM,Merav Ben David,140
+Albany,46-11,U.S. Senate,,DEM,Nathan Wendt,15
+Albany,46-11,U.S. Senate,,DEM,Rex Wilde,7
+Albany,46-11,U.S. Senate,,DEM,Yana Ludwig,43
+Albany,46-11,U.S. Senate,,DEM,Write-ins,1
+Albany,46-11,U.S. Senate,,DEM,Over Votes,2
+Albany,46-11,U.S. Senate,,DEM,Under Votes,11
+Albany,46-11,U.S. House,,REP,Blake Stanley,144
+Albany,46-11,U.S. House,,REP,Liz Cheney,541
+Albany,46-11,U.S. House,,REP,Write-ins,2
+Albany,46-11,U.S. House,,REP,Over Votes,0
+Albany,46-11,U.S. House,,REP,Under Votes,13
+Albany,46-11,U.S. House,,DEM,Carl Beach,25
+Albany,46-11,U.S. House,,DEM,Carol Hafner,55
+Albany,46-11,U.S. House,,DEM,Lynnette Grey Bull,156
+Albany,46-11,U.S. House,,DEM,Write-ins,0
+Albany,46-11,U.S. House,,DEM,Over Votes,1
+Albany,46-11,U.S. House,,DEM,Under Votes,11
+Albany,46-11,State Senate,10,REP,Craig A. Malmstrom,274
+Albany,46-11,State Senate,10,REP,Daniel Furphy,370
+Albany,46-11,State Senate,10,REP,Write-ins,1
+Albany,46-11,State Senate,10,REP,Over Votes,0
+Albany,46-11,State Senate,10,REP,Under Votes,55
+Albany,46-11,State Senate,10,DEM,Jackie Grimes,224
+Albany,46-11,State Senate,10,DEM,Write-ins,0
+Albany,46-11,State Senate,10,DEM,Over Votes,0
+Albany,46-11,State Senate,10,DEM,Under Votes,24
+Albany,46-11,State House,46,REP,James Jackson,170
+Albany,46-11,State House,46,REP,Ocean Andrew,448
+Albany,46-11,State House,46,REP,Write-ins,4
+Albany,46-11,State House,46,REP,Over Votes,0
+Albany,46-11,State House,46,REP,Under Votes,78
+Albany,46-11,State House,46,DEM,Lawrence G. Struempf,107
+Albany,46-11,State House,46,DEM,Tim Chesnut,121
+Albany,46-11,State House,46,DEM,Write-ins,2
+Albany,46-11,State House,46,DEM,Over Votes,1
+Albany,46-11,State House,46,DEM,Under Votes,17
+Albany,46-11,Ballots Cast,,REP,Ballots Cast,700
+Albany,46-11,Ballots Cast,,DEM,Ballots Cast,248
+Albany,46-11,Ballots Cast,,NP,Ballots Cast,0
+Albany,46-11,Ballots Cast,,,Ballots Cast,948
+Albany,46-12,U.S. Senate,,REP,Bryan E Miller,21
+Albany,46-12,U.S. Senate,,REP,Cynthia M. Lummis,89
+Albany,46-12,U.S. Senate,,REP,Devon Cade,1
+Albany,46-12,U.S. Senate,,REP,Donna Rice,6
+Albany,46-12,U.S. Senate,,REP,John Holtz,5
+Albany,46-12,U.S. Senate,,REP,Josh Wheeler,6
+Albany,46-12,U.S. Senate,,REP,Michael Kemler,1
+Albany,46-12,U.S. Senate,,REP,R. Mark Armstrong,6
+Albany,46-12,U.S. Senate,,REP,Robert G. Short,24
+Albany,46-12,U.S. Senate,,REP,Star Roselli,0
+Albany,46-12,U.S. Senate,,REP,Write-ins,0
+Albany,46-12,U.S. Senate,,REP,Over Votes,0
+Albany,46-12,U.S. Senate,,REP,Under Votes,4
+Albany,46-12,U.S. Senate,,DEM,James Kirk DeBrine,0
+Albany,46-12,U.S. Senate,,DEM,Kenneth R. Casner,2
+Albany,46-12,U.S. Senate,,DEM,Merav Ben David,18
+Albany,46-12,U.S. Senate,,DEM,Nathan Wendt,3
+Albany,46-12,U.S. Senate,,DEM,Rex Wilde,0
+Albany,46-12,U.S. Senate,,DEM,Yana Ludwig,9
+Albany,46-12,U.S. Senate,,DEM,Write-ins,0
+Albany,46-12,U.S. Senate,,DEM,Over Votes,0
+Albany,46-12,U.S. Senate,,DEM,Under Votes,5
+Albany,46-12,U.S. House,,REP,Blake Stanley,28
+Albany,46-12,U.S. House,,REP,Liz Cheney,132
+Albany,46-12,U.S. House,,REP,Write-ins,0
+Albany,46-12,U.S. House,,REP,Over Votes,0
+Albany,46-12,U.S. House,,REP,Under Votes,3
+Albany,46-12,U.S. House,,DEM,Carl Beach,6
+Albany,46-12,U.S. House,,DEM,Carol Hafner,4
+Albany,46-12,U.S. House,,DEM,Lynnette Grey Bull,23
+Albany,46-12,U.S. House,,DEM,Write-ins,0
+Albany,46-12,U.S. House,,DEM,Over Votes,0
+Albany,46-12,U.S. House,,DEM,Under Votes,4
+Albany,46-12,State Senate,10,REP,Craig A. Malmstrom,69
+Albany,46-12,State Senate,10,REP,Daniel Furphy,80
+Albany,46-12,State Senate,10,REP,Write-ins,0
+Albany,46-12,State Senate,10,REP,Over Votes,0
+Albany,46-12,State Senate,10,REP,Under Votes,14
+Albany,46-12,State Senate,10,DEM,Jackie Grimes,36
+Albany,46-12,State Senate,10,DEM,Write-ins,0
+Albany,46-12,State Senate,10,DEM,Over Votes,0
+Albany,46-12,State Senate,10,DEM,Under Votes,1
+Albany,46-12,State House,46,REP,James Jackson,43
+Albany,46-12,State House,46,REP,Ocean Andrew,106
+Albany,46-12,State House,46,REP,Write-ins,0
+Albany,46-12,State House,46,REP,Over Votes,0
+Albany,46-12,State House,46,REP,Under Votes,14
+Albany,46-12,State House,46,DEM,Lawrence G. Struempf,7
+Albany,46-12,State House,46,DEM,Tim Chesnut,29
+Albany,46-12,State House,46,DEM,Write-ins,0
+Albany,46-12,State House,46,DEM,Over Votes,0
+Albany,46-12,State House,46,DEM,Under Votes,1
+Albany,46-12,Ballots Cast,,REP,Ballots Cast,163
+Albany,46-12,Ballots Cast,,DEM,Ballots Cast,37
+Albany,46-12,Ballots Cast,,NP,Ballots Cast,0
+Albany,46-12,Ballots Cast,,,Ballots Cast,200
+Albany,46-13,U.S. Senate,,REP,Bryan E Miller,11
+Albany,46-13,U.S. Senate,,REP,Cynthia M. Lummis,59
+Albany,46-13,U.S. Senate,,REP,Devon Cade,3
+Albany,46-13,U.S. Senate,,REP,Donna Rice,8
+Albany,46-13,U.S. Senate,,REP,John Holtz,2
+Albany,46-13,U.S. Senate,,REP,Josh Wheeler,2
+Albany,46-13,U.S. Senate,,REP,Michael Kemler,0
+Albany,46-13,U.S. Senate,,REP,R. Mark Armstrong,23
+Albany,46-13,U.S. Senate,,REP,Robert G. Short,10
+Albany,46-13,U.S. Senate,,REP,Star Roselli,0
+Albany,46-13,U.S. Senate,,REP,Write-ins,1
+Albany,46-13,U.S. Senate,,REP,Over Votes,0
+Albany,46-13,U.S. Senate,,REP,Under Votes,2
+Albany,46-13,U.S. Senate,,DEM,James Kirk DeBrine,1
+Albany,46-13,U.S. Senate,,DEM,Kenneth R. Casner,2
+Albany,46-13,U.S. Senate,,DEM,Merav Ben David,28
+Albany,46-13,U.S. Senate,,DEM,Nathan Wendt,3
+Albany,46-13,U.S. Senate,,DEM,Rex Wilde,2
+Albany,46-13,U.S. Senate,,DEM,Yana Ludwig,4
+Albany,46-13,U.S. Senate,,DEM,Write-ins,0
+Albany,46-13,U.S. Senate,,DEM,Over Votes,0
+Albany,46-13,U.S. Senate,,DEM,Under Votes,4
+Albany,46-13,U.S. House,,REP,Blake Stanley,28
+Albany,46-13,U.S. House,,REP,Liz Cheney,87
+Albany,46-13,U.S. House,,REP,Write-ins,2
+Albany,46-13,U.S. House,,REP,Over Votes,0
+Albany,46-13,U.S. House,,REP,Under Votes,4
+Albany,46-13,U.S. House,,DEM,Carl Beach,5
+Albany,46-13,U.S. House,,DEM,Carol Hafner,9
+Albany,46-13,U.S. House,,DEM,Lynnette Grey Bull,26
+Albany,46-13,U.S. House,,DEM,Write-ins,0
+Albany,46-13,U.S. House,,DEM,Over Votes,0
+Albany,46-13,U.S. House,,DEM,Under Votes,4
+Albany,46-13,State Senate,10,REP,Craig A. Malmstrom,36
+Albany,46-13,State Senate,10,REP,Daniel Furphy,75
+Albany,46-13,State Senate,10,REP,Write-ins,2
+Albany,46-13,State Senate,10,REP,Over Votes,0
+Albany,46-13,State Senate,10,REP,Under Votes,8
+Albany,46-13,State Senate,10,DEM,Jackie Grimes,38
+Albany,46-13,State Senate,10,DEM,Write-ins,0
+Albany,46-13,State Senate,10,DEM,Over Votes,0
+Albany,46-13,State Senate,10,DEM,Under Votes,6
+Albany,46-13,State House,46,REP,James Jackson,24
+Albany,46-13,State House,46,REP,Ocean Andrew,80
+Albany,46-13,State House,46,REP,Write-ins,2
+Albany,46-13,State House,46,REP,Over Votes,1
+Albany,46-13,State House,46,REP,Under Votes,14
+Albany,46-13,State House,46,DEM,Lawrence G. Struempf,18
+Albany,46-13,State House,46,DEM,Tim Chesnut,22
+Albany,46-13,State House,46,DEM,Write-ins,0
+Albany,46-13,State House,46,DEM,Over Votes,1
+Albany,46-13,State House,46,DEM,Under Votes,3
+Albany,46-13,Ballots Cast,,REP,Ballots Cast,121
+Albany,46-13,Ballots Cast,,DEM,Ballots Cast,44
+Albany,46-13,Ballots Cast,,NP,Ballots Cast,0
+Albany,46-13,Ballots Cast,,,Ballots Cast,165
+Albany,46-2,U.S. Senate,,REP,Bryan E Miller,42
+Albany,46-2,U.S. Senate,,REP,Cynthia M. Lummis,182
+Albany,46-2,U.S. Senate,,REP,Devon Cade,7
+Albany,46-2,U.S. Senate,,REP,Donna Rice,23
+Albany,46-2,U.S. Senate,,REP,John Holtz,10
+Albany,46-2,U.S. Senate,,REP,Josh Wheeler,15
+Albany,46-2,U.S. Senate,,REP,Michael Kemler,3
+Albany,46-2,U.S. Senate,,REP,R. Mark Armstrong,31
+Albany,46-2,U.S. Senate,,REP,Robert G. Short,40
+Albany,46-2,U.S. Senate,,REP,Star Roselli,4
+Albany,46-2,U.S. Senate,,REP,Write-ins,2
+Albany,46-2,U.S. Senate,,REP,Over Votes,1
+Albany,46-2,U.S. Senate,,REP,Under Votes,16
+Albany,46-2,U.S. Senate,,DEM,James Kirk DeBrine,5
+Albany,46-2,U.S. Senate,,DEM,Kenneth R. Casner,21
+Albany,46-2,U.S. Senate,,DEM,Merav Ben David,218
+Albany,46-2,U.S. Senate,,DEM,Nathan Wendt,47
+Albany,46-2,U.S. Senate,,DEM,Rex Wilde,3
+Albany,46-2,U.S. Senate,,DEM,Yana Ludwig,66
+Albany,46-2,U.S. Senate,,DEM,Write-ins,1
+Albany,46-2,U.S. Senate,,DEM,Over Votes,2
+Albany,46-2,U.S. Senate,,DEM,Under Votes,11
+Albany,46-2,U.S. House,,REP,Blake Stanley,96
+Albany,46-2,U.S. House,,REP,Liz Cheney,256
+Albany,46-2,U.S. House,,REP,Write-ins,9
+Albany,46-2,U.S. House,,REP,Over Votes,0
+Albany,46-2,U.S. House,,REP,Under Votes,15
+Albany,46-2,U.S. House,,DEM,Carl Beach,62
+Albany,46-2,U.S. House,,DEM,Carol Hafner,68
+Albany,46-2,U.S. House,,DEM,Lynnette Grey Bull,214
+Albany,46-2,U.S. House,,DEM,Write-ins,3
+Albany,46-2,U.S. House,,DEM,Over Votes,2
+Albany,46-2,U.S. House,,DEM,Under Votes,25
+Albany,46-2,State Senate,10,REP,Craig A. Malmstrom,157
+Albany,46-2,State Senate,10,REP,Daniel Furphy,195
+Albany,46-2,State Senate,10,REP,Write-ins,4
+Albany,46-2,State Senate,10,REP,Over Votes,0
+Albany,46-2,State Senate,10,REP,Under Votes,20
+Albany,46-2,State Senate,10,DEM,Jackie Grimes,344
+Albany,46-2,State Senate,10,DEM,Write-ins,2
+Albany,46-2,State Senate,10,DEM,Over Votes,0
+Albany,46-2,State Senate,10,DEM,Under Votes,28
+Albany,46-2,State House,46,REP,James Jackson,94
+Albany,46-2,State House,46,REP,Ocean Andrew,249
+Albany,46-2,State House,46,REP,Write-ins,7
+Albany,46-2,State House,46,REP,Over Votes,0
+Albany,46-2,State House,46,REP,Under Votes,26
+Albany,46-2,State House,46,DEM,Lawrence G. Struempf,166
+Albany,46-2,State House,46,DEM,Tim Chesnut,182
+Albany,46-2,State House,46,DEM,Write-ins,3
+Albany,46-2,State House,46,DEM,Over Votes,0
+Albany,46-2,State House,46,DEM,Under Votes,23
+Albany,46-2,Ballots Cast,,REP,Ballots Cast,376
+Albany,46-2,Ballots Cast,,DEM,Ballots Cast,374
+Albany,46-2,Ballots Cast,,NP,Ballots Cast,38
+Albany,46-2,Ballots Cast,,,Ballots Cast,788
+Albany,47-11,U.S. Senate,,REP,Bryan E Miller,5
+Albany,47-11,U.S. Senate,,REP,Cynthia M. Lummis,46
+Albany,47-11,U.S. Senate,,REP,Devon Cade,0
+Albany,47-11,U.S. Senate,,REP,Donna Rice,3
+Albany,47-11,U.S. Senate,,REP,John Holtz,5
+Albany,47-11,U.S. Senate,,REP,Josh Wheeler,3
+Albany,47-11,U.S. Senate,,REP,Michael Kemler,2
+Albany,47-11,U.S. Senate,,REP,R. Mark Armstrong,3
+Albany,47-11,U.S. Senate,,REP,Robert G. Short,5
+Albany,47-11,U.S. Senate,,REP,Star Roselli,0
+Albany,47-11,U.S. Senate,,REP,Write-ins,0
+Albany,47-11,U.S. Senate,,REP,Over Votes,0
+Albany,47-11,U.S. Senate,,REP,Under Votes,2
+Albany,47-11,U.S. Senate,,DEM,James Kirk DeBrine,0
+Albany,47-11,U.S. Senate,,DEM,Kenneth R. Casner,0
+Albany,47-11,U.S. Senate,,DEM,Merav Ben David,3
+Albany,47-11,U.S. Senate,,DEM,Nathan Wendt,0
+Albany,47-11,U.S. Senate,,DEM,Rex Wilde,0
+Albany,47-11,U.S. Senate,,DEM,Yana Ludwig,3
+Albany,47-11,U.S. Senate,,DEM,Write-ins,0
+Albany,47-11,U.S. Senate,,DEM,Over Votes,0
+Albany,47-11,U.S. Senate,,DEM,Under Votes,0
+Albany,47-11,U.S. House,,REP,Blake Stanley,21
+Albany,47-11,U.S. House,,REP,Liz Cheney,53
+Albany,47-11,U.S. House,,REP,Write-ins,0
+Albany,47-11,U.S. House,,REP,Over Votes,0
+Albany,47-11,U.S. House,,REP,Under Votes,0
+Albany,47-11,U.S. House,,DEM,Carl Beach,5
+Albany,47-11,U.S. House,,DEM,Carol Hafner,1
+Albany,47-11,U.S. House,,DEM,Lynnette Grey Bull,0
+Albany,47-11,U.S. House,,DEM,Write-ins,0
+Albany,47-11,U.S. House,,DEM,Over Votes,0
+Albany,47-11,U.S. House,,DEM,Under Votes,0
+Albany,47-11,State House,47,REP,Dee Garrison,1
+Albany,47-11,State House,47,REP,Jerry Paxton,30
+Albany,47-11,State House,47,REP,Joey Correnti IV,38
+Albany,47-11,State House,47,REP,Julie McCallister,4
+Albany,47-11,State House,47,REP,Write-ins,0
+Albany,47-11,State House,47,REP,Over Votes,0
+Albany,47-11,State House,47,REP,Under Votes,1
+Albany,47-11,State House,47,DEM,Write-ins,0
+Albany,47-11,State House,47,DEM,Over Votes,0
+Albany,47-11,State House,47,DEM,Under Votes,6
+Albany,47-11,Ballots Cast,,REP,Ballots Cast,74
+Albany,47-11,Ballots Cast,,DEM,Ballots Cast,6
+Albany,47-11,Ballots Cast,,NP,Ballots Cast,0
+Albany,47-11,Ballots Cast,,,Ballots Cast,80

@@ -1,0 +1,879 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,REP,John Barrasso,624
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,DEM,Gary Trauner,71
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,LIB,Joseph Porambo,19
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,,Write-ins,0
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,,Over Votes,0
+Lincoln,Afton Civic Center 2-1,U.S. Senate,,,Under Votes,8
+Lincoln,Afton Civic Center 2-1,U.S. House,,REP,Liz Cheney,603
+Lincoln,Afton Civic Center 2-1,U.S. House,,DEM,Greg Hunter,61
+Lincoln,Afton Civic Center 2-1,U.S. House,,LIB,Richard Brubaker,18
+Lincoln,Afton Civic Center 2-1,U.S. House,,CTRY,Daniel Clyde Cummings,29
+Lincoln,Afton Civic Center 2-1,U.S. House,,,Write-ins,1
+Lincoln,Afton Civic Center 2-1,U.S. House,,,Over Votes,4
+Lincoln,Afton Civic Center 2-1,U.S. House,,,Under Votes,6
+Lincoln,Afton Civic Center 2-1,Governor,,REP,Mark Gordon,585
+Lincoln,Afton Civic Center 2-1,Governor,,DEM,Mary A. Throne,74
+Lincoln,Afton Civic Center 2-1,Governor,,LIB,Lawrence Gerard Struempf,13
+Lincoln,Afton Civic Center 2-1,Governor,,CTRY,"Rex ""T-Rex"" Rammell",33
+Lincoln,Afton Civic Center 2-1,Governor,,,Write-ins,3
+Lincoln,Afton Civic Center 2-1,Governor,,,Over Votes,0
+Lincoln,Afton Civic Center 2-1,Governor,,,Under Votes,14
+Lincoln,Afton Civic Center 2-1,Secretary of State,,REP,Edward Buchanan,611
+Lincoln,Afton Civic Center 2-1,Secretary of State,,DEM,James W. Byrd,54
+Lincoln,Afton Civic Center 2-1,Secretary of State,,LIB,Kit Carson III,29
+Lincoln,Afton Civic Center 2-1,Secretary of State,,,Write-ins,0
+Lincoln,Afton Civic Center 2-1,Secretary of State,,,Over Votes,1
+Lincoln,Afton Civic Center 2-1,Secretary of State,,,Under Votes,27
+Lincoln,Afton Civic Center 2-1,State Auditor,,REP,Kristi Racines,621
+Lincoln,Afton Civic Center 2-1,State Auditor,,DEM,Jeff Dockter,67
+Lincoln,Afton Civic Center 2-1,State Auditor,,,Write-ins,0
+Lincoln,Afton Civic Center 2-1,State Auditor,,,Over Votes,0
+Lincoln,Afton Civic Center 2-1,State Auditor,,,Under Votes,34
+Lincoln,Afton Civic Center 2-1,State Treasurer,,REP,Curt Meier,617
+Lincoln,Afton Civic Center 2-1,State Treasurer,,DEM,Chris Lowry,69
+Lincoln,Afton Civic Center 2-1,State Treasurer,,,Write-ins,1
+Lincoln,Afton Civic Center 2-1,State Treasurer,,,Over Votes,0
+Lincoln,Afton Civic Center 2-1,State Treasurer,,,Under Votes,35
+Lincoln,Afton Civic Center 2-1,Superintendent of Public Instruction,,REP,Jillian Balow,647
+Lincoln,Afton Civic Center 2-1,Superintendent of Public Instruction,,,Write-ins,6
+Lincoln,Afton Civic Center 2-1,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Afton Civic Center 2-1,Superintendent of Public Instruction,,,Under Votes,69
+Lincoln,Afton Civic Center 2-1,State House,21,REP,Evan J. Simpson,654
+Lincoln,Afton Civic Center 2-1,State House,21,,Write-ins,5
+Lincoln,Afton Civic Center 2-1,State House,21,,Over Votes,0
+Lincoln,Afton Civic Center 2-1,State House,21,,Under Votes,63
+Lincoln,Afton Civic Center 2-1,Ballots Cast,,,Ballots Cast,722
+Lincoln,Afton Civic Center 2-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,1
+Lincoln,Afton Civic Center 2-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,105
+Lincoln,Afton Civic Center 2-1,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Afton Civic Center 2-1,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,85
+Lincoln,Afton Civic Center 2-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Afton Civic Center 2-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,107
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,REP,John Barrasso,197
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,DEM,Gary Trauner,17
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,LIB,Joseph Porambo,9
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,,Write-ins,0
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,U.S. Senate,,,Under Votes,1
+Lincoln,Afton Civic Center 2-2,U.S. House,,REP,Liz Cheney,192
+Lincoln,Afton Civic Center 2-2,U.S. House,,DEM,Greg Hunter,15
+Lincoln,Afton Civic Center 2-2,U.S. House,,LIB,Richard Brubaker,5
+Lincoln,Afton Civic Center 2-2,U.S. House,,CTRY,Daniel Clyde Cummings,9
+Lincoln,Afton Civic Center 2-2,U.S. House,,,Write-ins,0
+Lincoln,Afton Civic Center 2-2,U.S. House,,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,U.S. House,,,Under Votes,3
+Lincoln,Afton Civic Center 2-2,Governor,,REP,Mark Gordon,181
+Lincoln,Afton Civic Center 2-2,Governor,,DEM,Mary A. Throne,18
+Lincoln,Afton Civic Center 2-2,Governor,,LIB,Lawrence Gerard Struempf,5
+Lincoln,Afton Civic Center 2-2,Governor,,CTRY,"Rex ""T-Rex"" Rammell",17
+Lincoln,Afton Civic Center 2-2,Governor,,,Write-ins,1
+Lincoln,Afton Civic Center 2-2,Governor,,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,Governor,,,Under Votes,2
+Lincoln,Afton Civic Center 2-2,Secretary of State,,REP,Edward Buchanan,195
+Lincoln,Afton Civic Center 2-2,Secretary of State,,DEM,James W. Byrd,14
+Lincoln,Afton Civic Center 2-2,Secretary of State,,LIB,Kit Carson III,14
+Lincoln,Afton Civic Center 2-2,Secretary of State,,,Write-ins,0
+Lincoln,Afton Civic Center 2-2,Secretary of State,,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,Secretary of State,,,Under Votes,1
+Lincoln,Afton Civic Center 2-2,State Auditor,,REP,Kristi Racines,204
+Lincoln,Afton Civic Center 2-2,State Auditor,,DEM,Jeff Dockter,17
+Lincoln,Afton Civic Center 2-2,State Auditor,,,Write-ins,0
+Lincoln,Afton Civic Center 2-2,State Auditor,,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,State Auditor,,,Under Votes,3
+Lincoln,Afton Civic Center 2-2,State Treasurer,,REP,Curt Meier,200
+Lincoln,Afton Civic Center 2-2,State Treasurer,,DEM,Chris Lowry,20
+Lincoln,Afton Civic Center 2-2,State Treasurer,,,Write-ins,0
+Lincoln,Afton Civic Center 2-2,State Treasurer,,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,State Treasurer,,,Under Votes,4
+Lincoln,Afton Civic Center 2-2,Superintendent of Public Instruction,,REP,Jillian Balow,194
+Lincoln,Afton Civic Center 2-2,Superintendent of Public Instruction,,,Write-ins,4
+Lincoln,Afton Civic Center 2-2,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,Superintendent of Public Instruction,,,Under Votes,26
+Lincoln,Afton Civic Center 2-2,State House,21,REP,Evan J. Simpson,206
+Lincoln,Afton Civic Center 2-2,State House,21,,Write-ins,4
+Lincoln,Afton Civic Center 2-2,State House,21,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,State House,21,,Under Votes,14
+Lincoln,Afton Civic Center 2-2,Ballots Cast,,,Ballots Cast,224
+Lincoln,Afton Civic Center 2-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,32
+Lincoln,Afton Civic Center 2-2,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,19
+Lincoln,Afton Civic Center 2-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Afton Civic Center 2-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,32
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,REP,John Barrasso,378
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,DEM,Gary Trauner,37
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,LIB,Joseph Porambo,8
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,,Write-ins,0
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,U.S. Senate,,,Under Votes,3
+Lincoln,Afton Civic Center 2-6,U.S. House,,REP,Liz Cheney,356
+Lincoln,Afton Civic Center 2-6,U.S. House,,DEM,Greg Hunter,40
+Lincoln,Afton Civic Center 2-6,U.S. House,,LIB,Richard Brubaker,10
+Lincoln,Afton Civic Center 2-6,U.S. House,,CTRY,Daniel Clyde Cummings,12
+Lincoln,Afton Civic Center 2-6,U.S. House,,,Write-ins,0
+Lincoln,Afton Civic Center 2-6,U.S. House,,,Over Votes,2
+Lincoln,Afton Civic Center 2-6,U.S. House,,,Under Votes,6
+Lincoln,Afton Civic Center 2-6,Governor,,REP,Mark Gordon,343
+Lincoln,Afton Civic Center 2-6,Governor,,DEM,Mary A. Throne,39
+Lincoln,Afton Civic Center 2-6,Governor,,LIB,Lawrence Gerard Struempf,7
+Lincoln,Afton Civic Center 2-6,Governor,,CTRY,"Rex ""T-Rex"" Rammell",33
+Lincoln,Afton Civic Center 2-6,Governor,,,Write-ins,0
+Lincoln,Afton Civic Center 2-6,Governor,,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,Governor,,,Under Votes,4
+Lincoln,Afton Civic Center 2-6,Secretary of State,,REP,Edward Buchanan,361
+Lincoln,Afton Civic Center 2-6,Secretary of State,,DEM,James W. Byrd,35
+Lincoln,Afton Civic Center 2-6,Secretary of State,,LIB,Kit Carson III,21
+Lincoln,Afton Civic Center 2-6,Secretary of State,,,Write-ins,0
+Lincoln,Afton Civic Center 2-6,Secretary of State,,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,Secretary of State,,,Under Votes,9
+Lincoln,Afton Civic Center 2-6,State Auditor,,REP,Kristi Racines,376
+Lincoln,Afton Civic Center 2-6,State Auditor,,DEM,Jeff Dockter,40
+Lincoln,Afton Civic Center 2-6,State Auditor,,,Write-ins,0
+Lincoln,Afton Civic Center 2-6,State Auditor,,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,State Auditor,,,Under Votes,10
+Lincoln,Afton Civic Center 2-6,State Treasurer,,REP,Curt Meier,377
+Lincoln,Afton Civic Center 2-6,State Treasurer,,DEM,Chris Lowry,39
+Lincoln,Afton Civic Center 2-6,State Treasurer,,,Write-ins,0
+Lincoln,Afton Civic Center 2-6,State Treasurer,,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,State Treasurer,,,Under Votes,10
+Lincoln,Afton Civic Center 2-6,Superintendent of Public Instruction,,REP,Jillian Balow,390
+Lincoln,Afton Civic Center 2-6,Superintendent of Public Instruction,,,Write-ins,1
+Lincoln,Afton Civic Center 2-6,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,Superintendent of Public Instruction,,,Under Votes,35
+Lincoln,Afton Civic Center 2-6,State House,21,REP,Evan J. Simpson,396
+Lincoln,Afton Civic Center 2-6,State House,21,,Write-ins,0
+Lincoln,Afton Civic Center 2-6,State House,21,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,State House,21,,Under Votes,30
+Lincoln,Afton Civic Center 2-6,Ballots Cast,,,Ballots Cast,426
+Lincoln,Afton Civic Center 2-6,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,1
+Lincoln,Afton Civic Center 2-6,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,59
+Lincoln,Afton Civic Center 2-6,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,41
+Lincoln,Afton Civic Center 2-6,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Afton Civic Center 2-6,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,60
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,REP,John Barrasso,749
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,DEM,Gary Trauner,47
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,LIB,Joseph Porambo,19
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,,Write-ins,3
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,U.S. Senate,,,Under Votes,2
+Lincoln,Afton Civic Center 2-7,U.S. House,,REP,Liz Cheney,714
+Lincoln,Afton Civic Center 2-7,U.S. House,,DEM,Greg Hunter,50
+Lincoln,Afton Civic Center 2-7,U.S. House,,LIB,Richard Brubaker,18
+Lincoln,Afton Civic Center 2-7,U.S. House,,CTRY,Daniel Clyde Cummings,32
+Lincoln,Afton Civic Center 2-7,U.S. House,,,Write-ins,0
+Lincoln,Afton Civic Center 2-7,U.S. House,,,Over Votes,2
+Lincoln,Afton Civic Center 2-7,U.S. House,,,Under Votes,4
+Lincoln,Afton Civic Center 2-7,Governor,,REP,Mark Gordon,688
+Lincoln,Afton Civic Center 2-7,Governor,,DEM,Mary A. Throne,62
+Lincoln,Afton Civic Center 2-7,Governor,,LIB,Lawrence Gerard Struempf,12
+Lincoln,Afton Civic Center 2-7,Governor,,CTRY,"Rex ""T-Rex"" Rammell",48
+Lincoln,Afton Civic Center 2-7,Governor,,,Write-ins,3
+Lincoln,Afton Civic Center 2-7,Governor,,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,Governor,,,Under Votes,7
+Lincoln,Afton Civic Center 2-7,Secretary of State,,REP,Edward Buchanan,728
+Lincoln,Afton Civic Center 2-7,Secretary of State,,DEM,James W. Byrd,42
+Lincoln,Afton Civic Center 2-7,Secretary of State,,LIB,Kit Carson III,36
+Lincoln,Afton Civic Center 2-7,Secretary of State,,,Write-ins,0
+Lincoln,Afton Civic Center 2-7,Secretary of State,,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,Secretary of State,,,Under Votes,14
+Lincoln,Afton Civic Center 2-7,State Auditor,,REP,Kristi Racines,749
+Lincoln,Afton Civic Center 2-7,State Auditor,,DEM,Jeff Dockter,49
+Lincoln,Afton Civic Center 2-7,State Auditor,,,Write-ins,0
+Lincoln,Afton Civic Center 2-7,State Auditor,,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,State Auditor,,,Under Votes,22
+Lincoln,Afton Civic Center 2-7,State Treasurer,,REP,Curt Meier,745
+Lincoln,Afton Civic Center 2-7,State Treasurer,,DEM,Chris Lowry,55
+Lincoln,Afton Civic Center 2-7,State Treasurer,,,Write-ins,0
+Lincoln,Afton Civic Center 2-7,State Treasurer,,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,State Treasurer,,,Under Votes,20
+Lincoln,Afton Civic Center 2-7,Superintendent of Public Instruction,,REP,Jillian Balow,754
+Lincoln,Afton Civic Center 2-7,Superintendent of Public Instruction,,,Write-ins,4
+Lincoln,Afton Civic Center 2-7,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,Superintendent of Public Instruction,,,Under Votes,62
+Lincoln,Afton Civic Center 2-7,State House,21,REP,Evan J. Simpson,772
+Lincoln,Afton Civic Center 2-7,State House,21,,Write-ins,2
+Lincoln,Afton Civic Center 2-7,State House,21,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,State House,21,,Under Votes,46
+Lincoln,Afton Civic Center 2-7,Ballots Cast,,,Ballots Cast,820
+Lincoln,Afton Civic Center 2-7,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,1
+Lincoln,Afton Civic Center 2-7,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,129
+Lincoln,Afton Civic Center 2-7,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,94
+Lincoln,Afton Civic Center 2-7,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Afton Civic Center 2-7,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,132
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,REP,John Barrasso,454
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,DEM,Gary Trauner,255
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,LIB,Joseph Porambo,23
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,,Write-ins,3
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,U.S. Senate,,,Under Votes,4
+Lincoln,Alpine Civic Center 2-3,U.S. House,,REP,Liz Cheney,449
+Lincoln,Alpine Civic Center 2-3,U.S. House,,DEM,Greg Hunter,242
+Lincoln,Alpine Civic Center 2-3,U.S. House,,LIB,Richard Brubaker,28
+Lincoln,Alpine Civic Center 2-3,U.S. House,,CTRY,Daniel Clyde Cummings,11
+Lincoln,Alpine Civic Center 2-3,U.S. House,,,Write-ins,1
+Lincoln,Alpine Civic Center 2-3,U.S. House,,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,U.S. House,,,Under Votes,8
+Lincoln,Alpine Civic Center 2-3,Governor,,REP,Mark Gordon,453
+Lincoln,Alpine Civic Center 2-3,Governor,,DEM,Mary A. Throne,227
+Lincoln,Alpine Civic Center 2-3,Governor,,LIB,Lawrence Gerard Struempf,21
+Lincoln,Alpine Civic Center 2-3,Governor,,CTRY,"Rex ""T-Rex"" Rammell",25
+Lincoln,Alpine Civic Center 2-3,Governor,,,Write-ins,2
+Lincoln,Alpine Civic Center 2-3,Governor,,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,Governor,,,Under Votes,11
+Lincoln,Alpine Civic Center 2-3,Secretary of State,,REP,Edward Buchanan,464
+Lincoln,Alpine Civic Center 2-3,Secretary of State,,DEM,James W. Byrd,212
+Lincoln,Alpine Civic Center 2-3,Secretary of State,,LIB,Kit Carson III,37
+Lincoln,Alpine Civic Center 2-3,Secretary of State,,,Write-ins,0
+Lincoln,Alpine Civic Center 2-3,Secretary of State,,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,Secretary of State,,,Under Votes,26
+Lincoln,Alpine Civic Center 2-3,State Auditor,,REP,Kristi Racines,482
+Lincoln,Alpine Civic Center 2-3,State Auditor,,DEM,Jeff Dockter,216
+Lincoln,Alpine Civic Center 2-3,State Auditor,,,Write-ins,0
+Lincoln,Alpine Civic Center 2-3,State Auditor,,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,State Auditor,,,Under Votes,41
+Lincoln,Alpine Civic Center 2-3,State Treasurer,,REP,Curt Meier,475
+Lincoln,Alpine Civic Center 2-3,State Treasurer,,DEM,Chris Lowry,222
+Lincoln,Alpine Civic Center 2-3,State Treasurer,,,Write-ins,0
+Lincoln,Alpine Civic Center 2-3,State Treasurer,,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,State Treasurer,,,Under Votes,42
+Lincoln,Alpine Civic Center 2-3,Superintendent of Public Instruction,,REP,Jillian Balow,560
+Lincoln,Alpine Civic Center 2-3,Superintendent of Public Instruction,,,Write-ins,11
+Lincoln,Alpine Civic Center 2-3,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,Superintendent of Public Instruction,,,Under Votes,168
+Lincoln,Alpine Civic Center 2-3,State House,22,REP,Marti Halverson,344
+Lincoln,Alpine Civic Center 2-3,State House,22,IND,Jim Roscoe,381
+Lincoln,Alpine Civic Center 2-3,State House,22,,Write-ins,1
+Lincoln,Alpine Civic Center 2-3,State House,22,,Over Votes,1
+Lincoln,Alpine Civic Center 2-3,State House,22,,Under Votes,12
+Lincoln,Alpine Civic Center 2-3,Ballots Cast,,,Ballots Cast,739
+Lincoln,Alpine Civic Center 2-3,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,176
+Lincoln,Alpine Civic Center 2-3,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,173
+Lincoln,Alpine Civic Center 2-3,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Alpine Civic Center 2-3,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,183
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,REP,John Barrasso,322
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,DEM,Gary Trauner,34
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,LIB,Joseph Porambo,7
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,,Write-ins,1
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. Senate,,,Under Votes,2
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,REP,Liz Cheney,319
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,DEM,Greg Hunter,35
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,LIB,Richard Brubaker,4
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,CTRY,Daniel Clyde Cummings,6
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,U.S. House,,,Under Votes,2
+Lincoln,Bedford Water & Sewer Buliding 2-4,Governor,,REP,Mark Gordon,294
+Lincoln,Bedford Water & Sewer Buliding 2-4,Governor,,DEM,Mary A. Throne,38
+Lincoln,Bedford Water & Sewer Buliding 2-4,Governor,,LIB,Lawrence Gerard Struempf,1
+Lincoln,Bedford Water & Sewer Buliding 2-4,Governor,,CTRY,"Rex ""T-Rex"" Rammell",24
+Lincoln,Bedford Water & Sewer Buliding 2-4,Governor,,,Write-ins,4
+Lincoln,Bedford Water & Sewer Buliding 2-4,Governor,,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,Governor,,,Under Votes,5
+Lincoln,Bedford Water & Sewer Buliding 2-4,Secretary of State,,REP,Edward Buchanan,317
+Lincoln,Bedford Water & Sewer Buliding 2-4,Secretary of State,,DEM,James W. Byrd,32
+Lincoln,Bedford Water & Sewer Buliding 2-4,Secretary of State,,LIB,Kit Carson III,6
+Lincoln,Bedford Water & Sewer Buliding 2-4,Secretary of State,,,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,Secretary of State,,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,Secretary of State,,,Under Votes,11
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Auditor,,REP,Kristi Racines,317
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Auditor,,DEM,Jeff Dockter,35
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Auditor,,,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Auditor,,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Auditor,,,Under Votes,14
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Treasurer,,REP,Curt Meier,315
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Treasurer,,DEM,Chris Lowry,38
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Treasurer,,,Write-ins,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Treasurer,,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State Treasurer,,,Under Votes,13
+Lincoln,Bedford Water & Sewer Buliding 2-4,Superintendent of Public Instruction,,REP,Jillian Balow,327
+Lincoln,Bedford Water & Sewer Buliding 2-4,Superintendent of Public Instruction,,,Write-ins,4
+Lincoln,Bedford Water & Sewer Buliding 2-4,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,Superintendent of Public Instruction,,,Under Votes,35
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,REP,Evan J. Simpson,335
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,,Write-ins,2
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,State House,21,,Under Votes,29
+Lincoln,Bedford Water & Sewer Buliding 2-4,Ballots Cast,,,Ballots Cast,366
+Lincoln,Bedford Water & Sewer Buliding 2-4,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,1
+Lincoln,Bedford Water & Sewer Buliding 2-4,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,58
+Lincoln,Bedford Water & Sewer Buliding 2-4,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,55
+Lincoln,Bedford Water & Sewer Buliding 2-4,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Bedford Water & Sewer Buliding 2-4,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,63
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,REP,John Barrasso,290
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,DEM,Gary Trauner,11
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,LIB,Joseph Porambo,4
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,U.S. Senate,,,Under Votes,6
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,REP,Liz Cheney,280
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,DEM,Greg Hunter,12
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,LIB,Richard Brubaker,5
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,CTRY,Daniel Clyde Cummings,9
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,U.S. House,,,Under Votes,5
+Lincoln,Cokeville Town Hall 2-9,Governor,,REP,Mark Gordon,265
+Lincoln,Cokeville Town Hall 2-9,Governor,,DEM,Mary A. Throne,21
+Lincoln,Cokeville Town Hall 2-9,Governor,,LIB,Lawrence Gerard Struempf,2
+Lincoln,Cokeville Town Hall 2-9,Governor,,CTRY,"Rex ""T-Rex"" Rammell",13
+Lincoln,Cokeville Town Hall 2-9,Governor,,,Write-ins,2
+Lincoln,Cokeville Town Hall 2-9,Governor,,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,Governor,,,Under Votes,8
+Lincoln,Cokeville Town Hall 2-9,Secretary of State,,REP,Edward Buchanan,279
+Lincoln,Cokeville Town Hall 2-9,Secretary of State,,DEM,James W. Byrd,18
+Lincoln,Cokeville Town Hall 2-9,Secretary of State,,LIB,Kit Carson III,5
+Lincoln,Cokeville Town Hall 2-9,Secretary of State,,,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,Secretary of State,,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,Secretary of State,,,Under Votes,9
+Lincoln,Cokeville Town Hall 2-9,State Auditor,,REP,Kristi Racines,283
+Lincoln,Cokeville Town Hall 2-9,State Auditor,,DEM,Jeff Dockter,17
+Lincoln,Cokeville Town Hall 2-9,State Auditor,,,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,State Auditor,,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,State Auditor,,,Under Votes,11
+Lincoln,Cokeville Town Hall 2-9,State Treasurer,,REP,Curt Meier,284
+Lincoln,Cokeville Town Hall 2-9,State Treasurer,,DEM,Chris Lowry,15
+Lincoln,Cokeville Town Hall 2-9,State Treasurer,,,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,State Treasurer,,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,State Treasurer,,,Under Votes,12
+Lincoln,Cokeville Town Hall 2-9,Superintendent of Public Instruction,,REP,Jillian Balow,286
+Lincoln,Cokeville Town Hall 2-9,Superintendent of Public Instruction,,,Write-ins,0
+Lincoln,Cokeville Town Hall 2-9,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,Superintendent of Public Instruction,,,Under Votes,25
+Lincoln,Cokeville Town Hall 2-9,State House,21,REP,Evan J. Simpson,288
+Lincoln,Cokeville Town Hall 2-9,State House,21,,Write-ins,1
+Lincoln,Cokeville Town Hall 2-9,State House,21,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,State House,21,,Under Votes,22
+Lincoln,Cokeville Town Hall 2-9,Ballots Cast,,,Ballots Cast,311
+Lincoln,Cokeville Town Hall 2-9,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,45
+Lincoln,Cokeville Town Hall 2-9,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,38
+Lincoln,Cokeville Town Hall 2-9,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Cokeville Town Hall 2-9,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,51
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,REP,John Barrasso,188
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,DEM,Gary Trauner,67
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,LIB,Joseph Porambo,8
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,,Write-ins,1
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. Senate,,,Under Votes,3
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,REP,Liz Cheney,182
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,DEM,Greg Hunter,65
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,LIB,Richard Brubaker,7
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,CTRY,Daniel Clyde Cummings,7
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,,Write-ins,2
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,,Over Votes,1
+Lincoln,Diamondville School Admin Bldg 1-4,U.S. House,,,Under Votes,3
+Lincoln,Diamondville School Admin Bldg 1-4,Governor,,REP,Mark Gordon,181
+Lincoln,Diamondville School Admin Bldg 1-4,Governor,,DEM,Mary A. Throne,75
+Lincoln,Diamondville School Admin Bldg 1-4,Governor,,LIB,Lawrence Gerard Struempf,5
+Lincoln,Diamondville School Admin Bldg 1-4,Governor,,CTRY,"Rex ""T-Rex"" Rammell",5
+Lincoln,Diamondville School Admin Bldg 1-4,Governor,,,Write-ins,0
+Lincoln,Diamondville School Admin Bldg 1-4,Governor,,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,Governor,,,Under Votes,1
+Lincoln,Diamondville School Admin Bldg 1-4,Secretary of State,,REP,Edward Buchanan,186
+Lincoln,Diamondville School Admin Bldg 1-4,Secretary of State,,DEM,James W. Byrd,62
+Lincoln,Diamondville School Admin Bldg 1-4,Secretary of State,,LIB,Kit Carson III,16
+Lincoln,Diamondville School Admin Bldg 1-4,Secretary of State,,,Write-ins,0
+Lincoln,Diamondville School Admin Bldg 1-4,Secretary of State,,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,Secretary of State,,,Under Votes,3
+Lincoln,Diamondville School Admin Bldg 1-4,State Auditor,,REP,Kristi Racines,191
+Lincoln,Diamondville School Admin Bldg 1-4,State Auditor,,DEM,Jeff Dockter,71
+Lincoln,Diamondville School Admin Bldg 1-4,State Auditor,,,Write-ins,0
+Lincoln,Diamondville School Admin Bldg 1-4,State Auditor,,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,State Auditor,,,Under Votes,5
+Lincoln,Diamondville School Admin Bldg 1-4,State Treasurer,,REP,Curt Meier,187
+Lincoln,Diamondville School Admin Bldg 1-4,State Treasurer,,DEM,Chris Lowry,75
+Lincoln,Diamondville School Admin Bldg 1-4,State Treasurer,,,Write-ins,1
+Lincoln,Diamondville School Admin Bldg 1-4,State Treasurer,,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,State Treasurer,,,Under Votes,4
+Lincoln,Diamondville School Admin Bldg 1-4,Superintendent of Public Instruction,,REP,Jillian Balow,225
+Lincoln,Diamondville School Admin Bldg 1-4,Superintendent of Public Instruction,,,Write-ins,4
+Lincoln,Diamondville School Admin Bldg 1-4,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,Superintendent of Public Instruction,,,Under Votes,38
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,REP,Thomas D. Crank,239
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,,Write-ins,4
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,State House,18,,Under Votes,24
+Lincoln,Diamondville School Admin Bldg 1-4,Ballots Cast,,,Ballots Cast,267
+Lincoln,Diamondville School Admin Bldg 1-4,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,26
+Lincoln,Diamondville School Admin Bldg 1-4,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,5
+Lincoln,Diamondville School Admin Bldg 1-4,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Diamondville School Admin Bldg 1-4,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,34
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,REP,John Barrasso,259
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,DEM,Gary Trauner,22
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,LIB,Joseph Porambo,13
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,U.S. Senate,,,Under Votes,4
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,REP,Liz Cheney,239
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,DEM,Greg Hunter,19
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,LIB,Richard Brubaker,10
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,CTRY,Daniel Clyde Cummings,18
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,,Over Votes,4
+Lincoln,LaBarge Town Hall 1-8,U.S. House,,,Under Votes,8
+Lincoln,LaBarge Town Hall 1-8,Governor,,REP,Mark Gordon,250
+Lincoln,LaBarge Town Hall 1-8,Governor,,DEM,Mary A. Throne,20
+Lincoln,LaBarge Town Hall 1-8,Governor,,LIB,Lawrence Gerard Struempf,7
+Lincoln,LaBarge Town Hall 1-8,Governor,,CTRY,"Rex ""T-Rex"" Rammell",13
+Lincoln,LaBarge Town Hall 1-8,Governor,,,Write-ins,2
+Lincoln,LaBarge Town Hall 1-8,Governor,,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,Governor,,,Under Votes,6
+Lincoln,LaBarge Town Hall 1-8,Secretary of State,,REP,Edward Buchanan,251
+Lincoln,LaBarge Town Hall 1-8,Secretary of State,,DEM,James W. Byrd,23
+Lincoln,LaBarge Town Hall 1-8,Secretary of State,,LIB,Kit Carson III,12
+Lincoln,LaBarge Town Hall 1-8,Secretary of State,,,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,Secretary of State,,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,Secretary of State,,,Under Votes,12
+Lincoln,LaBarge Town Hall 1-8,State Auditor,,REP,Kristi Racines,263
+Lincoln,LaBarge Town Hall 1-8,State Auditor,,DEM,Jeff Dockter,23
+Lincoln,LaBarge Town Hall 1-8,State Auditor,,,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State Auditor,,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State Auditor,,,Under Votes,12
+Lincoln,LaBarge Town Hall 1-8,State Treasurer,,REP,Curt Meier,261
+Lincoln,LaBarge Town Hall 1-8,State Treasurer,,DEM,Chris Lowry,26
+Lincoln,LaBarge Town Hall 1-8,State Treasurer,,,Write-ins,0
+Lincoln,LaBarge Town Hall 1-8,State Treasurer,,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State Treasurer,,,Under Votes,11
+Lincoln,LaBarge Town Hall 1-8,Superintendent of Public Instruction,,REP,Jillian Balow,264
+Lincoln,LaBarge Town Hall 1-8,Superintendent of Public Instruction,,,Write-ins,1
+Lincoln,LaBarge Town Hall 1-8,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,Superintendent of Public Instruction,,,Under Votes,33
+Lincoln,LaBarge Town Hall 1-8,State House,18,REP,Thomas D. Crank,194
+Lincoln,LaBarge Town Hall 1-8,State House,18,,Write-ins,1
+Lincoln,LaBarge Town Hall 1-8,State House,18,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State House,18,,Under Votes,21
+Lincoln,LaBarge Town Hall 1-8,State House,21,REP,Evan J. Simpson,66
+Lincoln,LaBarge Town Hall 1-8,State House,21,,Write-ins,1
+Lincoln,LaBarge Town Hall 1-8,State House,21,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,State House,21,,Under Votes,15
+Lincoln,LaBarge Town Hall 1-8,Ballots Cast,,,Ballots Cast,298
+Lincoln,LaBarge Town Hall 1-8,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,48
+Lincoln,LaBarge Town Hall 1-8,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,37
+Lincoln,LaBarge Town Hall 1-8,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,LaBarge Town Hall 1-8,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,49
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,REP,John Barrasso,54
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,DEM,Gary Trauner,6
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,LIB,Joseph Porambo,2
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,,Write-ins,1
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. Senate,,,Under Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. House,,REP,Liz Cheney,52
+Lincoln,Opal Town Hall 1-7,U.S. House,,DEM,Greg Hunter,5
+Lincoln,Opal Town Hall 1-7,U.S. House,,LIB,Richard Brubaker,2
+Lincoln,Opal Town Hall 1-7,U.S. House,,CTRY,Daniel Clyde Cummings,2
+Lincoln,Opal Town Hall 1-7,U.S. House,,,Write-ins,1
+Lincoln,Opal Town Hall 1-7,U.S. House,,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,U.S. House,,,Under Votes,1
+Lincoln,Opal Town Hall 1-7,Governor,,REP,Mark Gordon,53
+Lincoln,Opal Town Hall 1-7,Governor,,DEM,Mary A. Throne,6
+Lincoln,Opal Town Hall 1-7,Governor,,LIB,Lawrence Gerard Struempf,1
+Lincoln,Opal Town Hall 1-7,Governor,,CTRY,"Rex ""T-Rex"" Rammell",2
+Lincoln,Opal Town Hall 1-7,Governor,,,Write-ins,1
+Lincoln,Opal Town Hall 1-7,Governor,,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,Governor,,,Under Votes,0
+Lincoln,Opal Town Hall 1-7,Secretary of State,,REP,Edward Buchanan,55
+Lincoln,Opal Town Hall 1-7,Secretary of State,,DEM,James W. Byrd,4
+Lincoln,Opal Town Hall 1-7,Secretary of State,,LIB,Kit Carson III,3
+Lincoln,Opal Town Hall 1-7,Secretary of State,,,Write-ins,0
+Lincoln,Opal Town Hall 1-7,Secretary of State,,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,Secretary of State,,,Under Votes,1
+Lincoln,Opal Town Hall 1-7,State Auditor,,REP,Kristi Racines,55
+Lincoln,Opal Town Hall 1-7,State Auditor,,DEM,Jeff Dockter,6
+Lincoln,Opal Town Hall 1-7,State Auditor,,,Write-ins,0
+Lincoln,Opal Town Hall 1-7,State Auditor,,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,State Auditor,,,Under Votes,2
+Lincoln,Opal Town Hall 1-7,State Treasurer,,REP,Curt Meier,57
+Lincoln,Opal Town Hall 1-7,State Treasurer,,DEM,Chris Lowry,5
+Lincoln,Opal Town Hall 1-7,State Treasurer,,,Write-ins,0
+Lincoln,Opal Town Hall 1-7,State Treasurer,,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,State Treasurer,,,Under Votes,1
+Lincoln,Opal Town Hall 1-7,Superintendent of Public Instruction,,REP,Jillian Balow,56
+Lincoln,Opal Town Hall 1-7,Superintendent of Public Instruction,,,Write-ins,3
+Lincoln,Opal Town Hall 1-7,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,Superintendent of Public Instruction,,,Under Votes,4
+Lincoln,Opal Town Hall 1-7,State House,18,REP,Thomas D. Crank,56
+Lincoln,Opal Town Hall 1-7,State House,18,,Write-ins,1
+Lincoln,Opal Town Hall 1-7,State House,18,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,State House,18,,Under Votes,6
+Lincoln,Opal Town Hall 1-7,Ballots Cast,,,Ballots Cast,63
+Lincoln,Opal Town Hall 1-7,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,9
+Lincoln,Opal Town Hall 1-7,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,8
+Lincoln,Opal Town Hall 1-7,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Opal Town Hall 1-7,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,9
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,REP,John Barrasso,204
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,DEM,Gary Trauner,49
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,LIB,Joseph Porambo,12
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. Senate,,,Under Votes,5
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,REP,Liz Cheney,189
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,DEM,Greg Hunter,56
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,LIB,Richard Brubaker,11
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,CTRY,Daniel Clyde Cummings,8
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,,Over Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-1,U.S. House,,,Under Votes,5
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Governor,,REP,Mark Gordon,194
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Governor,,DEM,Mary A. Throne,56
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Governor,,LIB,Lawrence Gerard Struempf,3
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Governor,,CTRY,"Rex ""T-Rex"" Rammell",13
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Governor,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Governor,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Governor,,,Under Votes,4
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Secretary of State,,REP,Edward Buchanan,202
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Secretary of State,,DEM,James W. Byrd,48
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Secretary of State,,LIB,Kit Carson III,12
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Secretary of State,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Secretary of State,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Secretary of State,,,Under Votes,8
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Auditor,,REP,Kristi Racines,202
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Auditor,,DEM,Jeff Dockter,57
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Auditor,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Auditor,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Auditor,,,Under Votes,11
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Treasurer,,REP,Curt Meier,201
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Treasurer,,DEM,Chris Lowry,55
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Treasurer,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Treasurer,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State Treasurer,,,Under Votes,14
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Superintendent of Public Instruction,,REP,Jillian Balow,214
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Superintendent of Public Instruction,,,Write-ins,6
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Superintendent of Public Instruction,,,Under Votes,50
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,REP,Thomas D. Crank,231
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,,Write-ins,6
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,State House,18,,Under Votes,33
+Lincoln,South Lincoln Training & Events Ctr. 1-1,Ballots Cast,,,Ballots Cast,270
+Lincoln,South Lincoln Training & Events Ctr. 1-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,41
+Lincoln,South Lincoln Training & Events Ctr. 1-1,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,22
+Lincoln,South Lincoln Training & Events Ctr. 1-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-1,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,39
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,REP,John Barrasso,200
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,DEM,Gary Trauner,64
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,LIB,Joseph Porambo,11
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. Senate,,,Under Votes,7
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,REP,Liz Cheney,189
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,DEM,Greg Hunter,67
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,LIB,Richard Brubaker,16
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,CTRY,Daniel Clyde Cummings,6
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,U.S. House,,,Under Votes,4
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Governor,,REP,Mark Gordon,195
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Governor,,DEM,Mary A. Throne,65
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Governor,,LIB,Lawrence Gerard Struempf,6
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Governor,,CTRY,"Rex ""T-Rex"" Rammell",9
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Governor,,,Write-ins,3
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Governor,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Governor,,,Under Votes,4
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Secretary of State,,REP,Edward Buchanan,200
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Secretary of State,,DEM,James W. Byrd,54
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Secretary of State,,LIB,Kit Carson III,20
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Secretary of State,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Secretary of State,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Secretary of State,,,Under Votes,8
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Auditor,,REP,Kristi Racines,214
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Auditor,,DEM,Jeff Dockter,56
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Auditor,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Auditor,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Auditor,,,Under Votes,12
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Treasurer,,REP,Curt Meier,208
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Treasurer,,DEM,Chris Lowry,60
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Treasurer,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Treasurer,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State Treasurer,,,Under Votes,14
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Superintendent of Public Instruction,,REP,Jillian Balow,238
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Superintendent of Public Instruction,,,Write-ins,3
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Superintendent of Public Instruction,,,Under Votes,41
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,REP,Thomas D. Crank,245
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,,Write-ins,2
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,State House,18,,Under Votes,35
+Lincoln,South Lincoln Training & Events Ctr. 1-2,Ballots Cast,,,Ballots Cast,282
+Lincoln,South Lincoln Training & Events Ctr. 1-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,36
+Lincoln,South Lincoln Training & Events Ctr. 1-2,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-2,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,17
+Lincoln,South Lincoln Training & Events Ctr. 1-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-2,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,34
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,REP,John Barrasso,300
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,DEM,Gary Trauner,71
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,LIB,Joseph Porambo,11
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. Senate,,,Under Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,REP,Liz Cheney,276
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,DEM,Greg Hunter,74
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,LIB,Richard Brubaker,10
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,CTRY,Daniel Clyde Cummings,13
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,,Write-ins,2
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,,Over Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-3,U.S. House,,,Under Votes,7
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Governor,,REP,Mark Gordon,285
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Governor,,DEM,Mary A. Throne,74
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Governor,,LIB,Lawrence Gerard Struempf,7
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Governor,,CTRY,"Rex ""T-Rex"" Rammell",12
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Governor,,,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Governor,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Governor,,,Under Votes,4
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Secretary of State,,REP,Edward Buchanan,304
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Secretary of State,,DEM,James W. Byrd,50
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Secretary of State,,LIB,Kit Carson III,21
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Secretary of State,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Secretary of State,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Secretary of State,,,Under Votes,8
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Auditor,,REP,Kristi Racines,316
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Auditor,,DEM,Jeff Dockter,55
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Auditor,,,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Auditor,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Auditor,,,Under Votes,11
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Treasurer,,REP,Curt Meier,310
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Treasurer,,DEM,Chris Lowry,59
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Treasurer,,,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Treasurer,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State Treasurer,,,Under Votes,13
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Superintendent of Public Instruction,,REP,Jillian Balow,332
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Superintendent of Public Instruction,,,Write-ins,4
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Superintendent of Public Instruction,,,Under Votes,47
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,REP,Thomas D. Crank,342
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,,Write-ins,9
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,State House,18,,Under Votes,32
+Lincoln,South Lincoln Training & Events Ctr. 1-3,Ballots Cast,,,Ballots Cast,383
+Lincoln,South Lincoln Training & Events Ctr. 1-3,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,43
+Lincoln,South Lincoln Training & Events Ctr. 1-3,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,10
+Lincoln,South Lincoln Training & Events Ctr. 1-3,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-3,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,45
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,REP,John Barrasso,99
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,DEM,Gary Trauner,15
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,LIB,Joseph Porambo,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,,Write-ins,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. Senate,,,Under Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,REP,Liz Cheney,97
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,DEM,Greg Hunter,17
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,LIB,Richard Brubaker,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,CTRY,Daniel Clyde Cummings,2
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,U.S. House,,,Under Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Governor,,REP,Mark Gordon,99
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Governor,,DEM,Mary A. Throne,14
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Governor,,LIB,Lawrence Gerard Struempf,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Governor,,CTRY,"Rex ""T-Rex"" Rammell",3
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Governor,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Governor,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Governor,,,Under Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Secretary of State,,REP,Edward Buchanan,98
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Secretary of State,,DEM,James W. Byrd,14
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Secretary of State,,LIB,Kit Carson III,4
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Secretary of State,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Secretary of State,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Secretary of State,,,Under Votes,1
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Auditor,,REP,Kristi Racines,98
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Auditor,,DEM,Jeff Dockter,14
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Auditor,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Auditor,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Auditor,,,Under Votes,5
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Treasurer,,REP,Curt Meier,96
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Treasurer,,DEM,Chris Lowry,16
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Treasurer,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Treasurer,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State Treasurer,,,Under Votes,5
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Superintendent of Public Instruction,,REP,Jillian Balow,103
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Superintendent of Public Instruction,,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Superintendent of Public Instruction,,,Under Votes,14
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,REP,Thomas D. Crank,49
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,18,,Under Votes,4
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,REP,Evan J. Simpson,54
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,,Write-ins,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,State House,21,,Under Votes,10
+Lincoln,South Lincoln Training & Events Ctr. 1-6,Ballots Cast,,,Ballots Cast,117
+Lincoln,South Lincoln Training & Events Ctr. 1-6,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,19
+Lincoln,South Lincoln Training & Events Ctr. 1-6,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,8
+Lincoln,South Lincoln Training & Events Ctr. 1-6,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,South Lincoln Training & Events Ctr. 1-6,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,19
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,REP,John Barrasso,475
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,DEM,Gary Trauner,108
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,LIB,Joseph Porambo,14
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,,Write-ins,2
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,U.S. Senate,,,Under Votes,9
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,REP,Liz Cheney,464
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,DEM,Greg Hunter,96
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,LIB,Richard Brubaker,19
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,CTRY,Daniel Clyde Cummings,17
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,,Write-ins,1
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,,Over Votes,1
+Lincoln,Star Valley Community Complex 2-5,U.S. House,,,Under Votes,10
+Lincoln,Star Valley Community Complex 2-5,Governor,,REP,Mark Gordon,445
+Lincoln,Star Valley Community Complex 2-5,Governor,,DEM,Mary A. Throne,96
+Lincoln,Star Valley Community Complex 2-5,Governor,,LIB,Lawrence Gerard Struempf,14
+Lincoln,Star Valley Community Complex 2-5,Governor,,CTRY,"Rex ""T-Rex"" Rammell",41
+Lincoln,Star Valley Community Complex 2-5,Governor,,,Write-ins,4
+Lincoln,Star Valley Community Complex 2-5,Governor,,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,Governor,,,Under Votes,8
+Lincoln,Star Valley Community Complex 2-5,Secretary of State,,REP,Edward Buchanan,487
+Lincoln,Star Valley Community Complex 2-5,Secretary of State,,DEM,James W. Byrd,81
+Lincoln,Star Valley Community Complex 2-5,Secretary of State,,LIB,Kit Carson III,27
+Lincoln,Star Valley Community Complex 2-5,Secretary of State,,,Write-ins,0
+Lincoln,Star Valley Community Complex 2-5,Secretary of State,,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,Secretary of State,,,Under Votes,13
+Lincoln,Star Valley Community Complex 2-5,State Auditor,,REP,Kristi Racines,496
+Lincoln,Star Valley Community Complex 2-5,State Auditor,,DEM,Jeff Dockter,84
+Lincoln,Star Valley Community Complex 2-5,State Auditor,,,Write-ins,0
+Lincoln,Star Valley Community Complex 2-5,State Auditor,,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,State Auditor,,,Under Votes,28
+Lincoln,Star Valley Community Complex 2-5,State Treasurer,,REP,Curt Meier,493
+Lincoln,Star Valley Community Complex 2-5,State Treasurer,,DEM,Chris Lowry,88
+Lincoln,Star Valley Community Complex 2-5,State Treasurer,,,Write-ins,0
+Lincoln,Star Valley Community Complex 2-5,State Treasurer,,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,State Treasurer,,,Under Votes,27
+Lincoln,Star Valley Community Complex 2-5,Superintendent of Public Instruction,,REP,Jillian Balow,511
+Lincoln,Star Valley Community Complex 2-5,Superintendent of Public Instruction,,,Write-ins,10
+Lincoln,Star Valley Community Complex 2-5,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,Superintendent of Public Instruction,,,Under Votes,87
+Lincoln,Star Valley Community Complex 2-5,State House,22,REP,Marti Halverson,404
+Lincoln,Star Valley Community Complex 2-5,State House,22,IND,Jim Roscoe,185
+Lincoln,Star Valley Community Complex 2-5,State House,22,,Write-ins,1
+Lincoln,Star Valley Community Complex 2-5,State House,22,,Over Votes,1
+Lincoln,Star Valley Community Complex 2-5,State House,22,,Under Votes,17
+Lincoln,Star Valley Community Complex 2-5,Ballots Cast,,,Ballots Cast,608
+Lincoln,Star Valley Community Complex 2-5,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,126
+Lincoln,Star Valley Community Complex 2-5,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,110
+Lincoln,Star Valley Community Complex 2-5,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,Star Valley Community Complex 2-5,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,129
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,REP,John Barrasso,665
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,DEM,Gary Trauner,230
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,LIB,Joseph Porambo,14
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,,Write-ins,0
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,,Over Votes,1
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. Senate,,,Under Votes,8
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,REP,Liz Cheney,639
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,DEM,Greg Hunter,235
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,LIB,Richard Brubaker,17
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,CTRY,Daniel Clyde Cummings,13
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,,Write-ins,0
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,,Over Votes,4
+Lincoln,Star Valley Ranch Town Hall 2-10,U.S. House,,,Under Votes,10
+Lincoln,Star Valley Ranch Town Hall 2-10,Governor,,REP,Mark Gordon,636
+Lincoln,Star Valley Ranch Town Hall 2-10,Governor,,DEM,Mary A. Throne,227
+Lincoln,Star Valley Ranch Town Hall 2-10,Governor,,LIB,Lawrence Gerard Struempf,11
+Lincoln,Star Valley Ranch Town Hall 2-10,Governor,,CTRY,"Rex ""T-Rex"" Rammell",26
+Lincoln,Star Valley Ranch Town Hall 2-10,Governor,,,Write-ins,7
+Lincoln,Star Valley Ranch Town Hall 2-10,Governor,,,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,Governor,,,Under Votes,11
+Lincoln,Star Valley Ranch Town Hall 2-10,Secretary of State,,REP,Edward Buchanan,653
+Lincoln,Star Valley Ranch Town Hall 2-10,Secretary of State,,DEM,James W. Byrd,223
+Lincoln,Star Valley Ranch Town Hall 2-10,Secretary of State,,LIB,Kit Carson III,26
+Lincoln,Star Valley Ranch Town Hall 2-10,Secretary of State,,,Write-ins,0
+Lincoln,Star Valley Ranch Town Hall 2-10,Secretary of State,,,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,Secretary of State,,,Under Votes,16
+Lincoln,Star Valley Ranch Town Hall 2-10,State Auditor,,REP,Kristi Racines,667
+Lincoln,Star Valley Ranch Town Hall 2-10,State Auditor,,DEM,Jeff Dockter,222
+Lincoln,Star Valley Ranch Town Hall 2-10,State Auditor,,,Write-ins,0
+Lincoln,Star Valley Ranch Town Hall 2-10,State Auditor,,,Over Votes,1
+Lincoln,Star Valley Ranch Town Hall 2-10,State Auditor,,,Under Votes,28
+Lincoln,Star Valley Ranch Town Hall 2-10,State Treasurer,,REP,Curt Meier,665
+Lincoln,Star Valley Ranch Town Hall 2-10,State Treasurer,,DEM,Chris Lowry,222
+Lincoln,Star Valley Ranch Town Hall 2-10,State Treasurer,,,Write-ins,1
+Lincoln,Star Valley Ranch Town Hall 2-10,State Treasurer,,,Over Votes,1
+Lincoln,Star Valley Ranch Town Hall 2-10,State Treasurer,,,Under Votes,29
+Lincoln,Star Valley Ranch Town Hall 2-10,Superintendent of Public Instruction,,REP,Jillian Balow,730
+Lincoln,Star Valley Ranch Town Hall 2-10,Superintendent of Public Instruction,,,Write-ins,12
+Lincoln,Star Valley Ranch Town Hall 2-10,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,Superintendent of Public Instruction,,,Under Votes,176
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,REP,Marti Halverson,521
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,IND,Jim Roscoe,369
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,,Write-ins,3
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,,Over Votes,1
+Lincoln,Star Valley Ranch Town Hall 2-10,State House,22,,Under Votes,24
+Lincoln,Star Valley Ranch Town Hall 2-10,Ballots Cast,,,Ballots Cast,918
+Lincoln,Star Valley Ranch Town Hall 2-10,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,182
+Lincoln,Star Valley Ranch Town Hall 2-10,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Star Valley Ranch Town Hall 2-10,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,169
+Lincoln,Star Valley Ranch Town Hall 2-10,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,1
+Lincoln,Star Valley Ranch Town Hall 2-10,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,189
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,REP,John Barrasso,388
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,DEM,Gary Trauner,48
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,LIB,Joseph Porambo,12
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,U.S. Senate,,,Under Votes,5
+Lincoln,Thayne Town Hall 2-8,U.S. House,,REP,Liz Cheney,377
+Lincoln,Thayne Town Hall 2-8,U.S. House,,DEM,Greg Hunter,43
+Lincoln,Thayne Town Hall 2-8,U.S. House,,LIB,Richard Brubaker,11
+Lincoln,Thayne Town Hall 2-8,U.S. House,,CTRY,Daniel Clyde Cummings,13
+Lincoln,Thayne Town Hall 2-8,U.S. House,,,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,U.S. House,,,Over Votes,5
+Lincoln,Thayne Town Hall 2-8,U.S. House,,,Under Votes,4
+Lincoln,Thayne Town Hall 2-8,Governor,,REP,Mark Gordon,364
+Lincoln,Thayne Town Hall 2-8,Governor,,DEM,Mary A. Throne,43
+Lincoln,Thayne Town Hall 2-8,Governor,,LIB,Lawrence Gerard Struempf,10
+Lincoln,Thayne Town Hall 2-8,Governor,,CTRY,"Rex ""T-Rex"" Rammell",31
+Lincoln,Thayne Town Hall 2-8,Governor,,,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,Governor,,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,Governor,,,Under Votes,5
+Lincoln,Thayne Town Hall 2-8,Secretary of State,,REP,Edward Buchanan,377
+Lincoln,Thayne Town Hall 2-8,Secretary of State,,DEM,James W. Byrd,42
+Lincoln,Thayne Town Hall 2-8,Secretary of State,,LIB,Kit Carson III,18
+Lincoln,Thayne Town Hall 2-8,Secretary of State,,,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,Secretary of State,,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,Secretary of State,,,Under Votes,16
+Lincoln,Thayne Town Hall 2-8,State Auditor,,REP,Kristi Racines,380
+Lincoln,Thayne Town Hall 2-8,State Auditor,,DEM,Jeff Dockter,55
+Lincoln,Thayne Town Hall 2-8,State Auditor,,,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,State Auditor,,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,State Auditor,,,Under Votes,18
+Lincoln,Thayne Town Hall 2-8,State Treasurer,,REP,Curt Meier,381
+Lincoln,Thayne Town Hall 2-8,State Treasurer,,DEM,Chris Lowry,52
+Lincoln,Thayne Town Hall 2-8,State Treasurer,,,Write-ins,0
+Lincoln,Thayne Town Hall 2-8,State Treasurer,,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,State Treasurer,,,Under Votes,20
+Lincoln,Thayne Town Hall 2-8,Superintendent of Public Instruction,,REP,Jillian Balow,402
+Lincoln,Thayne Town Hall 2-8,Superintendent of Public Instruction,,,Write-ins,3
+Lincoln,Thayne Town Hall 2-8,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,Superintendent of Public Instruction,,,Under Votes,48
+Lincoln,Thayne Town Hall 2-8,State House,21,REP,Evan J. Simpson,413
+Lincoln,Thayne Town Hall 2-8,State House,21,,Write-ins,2
+Lincoln,Thayne Town Hall 2-8,State House,21,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,State House,21,,Under Votes,38
+Lincoln,Thayne Town Hall 2-8,Ballots Cast,,,Ballots Cast,453
+Lincoln,Thayne Town Hall 2-8,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,75
+Lincoln,Thayne Town Hall 2-8,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Over Votes,0
+Lincoln,Thayne Town Hall 2-8,"Circuit Court Judge, Third Judicial District Frank J. Zebre",,,Under Votes,52
+Lincoln,Thayne Town Hall 2-8,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,1
+Lincoln,Thayne Town Hall 2-8,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,77

@@ -1,0 +1,462 @@
+county,precinct,office,district,party,candidate,votes
+Albany,13-1,President,,REP,Donald J. Trump,832
+Albany,13-1,President,,DEM,Joseph R. Biden,982
+Albany,13-1,President,,LIB,Jo Jorgensen,96
+Albany,13-1,President,,IND,Brock Pierce,21
+Albany,13-1,President,,,Write-ins,17
+Albany,13-1,President,,,Over Votes,3
+Albany,13-1,President,,,Under Votes,8
+Albany,13-1,U.S. Senate,,REP,Cynthia M. Lummis,913
+Albany,13-1,U.S. Senate,,DEM,Merav Ben David,982
+Albany,13-1,U.S. Senate,,,Write-ins,10
+Albany,13-1,U.S. Senate,,,Over Votes,2
+Albany,13-1,U.S. Senate,,,Under Votes,52
+Albany,13-1,U.S. House,,REP,Liz Cheney,827
+Albany,13-1,U.S. House,,DEM,Lynnette Grey Bull,931
+Albany,13-1,U.S. House,,LIB,Richard Brubaker,92
+Albany,13-1,U.S. House,,,Jeff Haggit (CONST.),36
+Albany,13-1,U.S. House,,,Write-ins,4
+Albany,13-1,U.S. House,,,Over Votes,7
+Albany,13-1,U.S. House,,,Under Votes,62
+Albany,13-1,State House,13,DEM,Cathy Connolly,1363
+Albany,13-1,State House,13,,Write-ins,126
+Albany,13-1,State House,13,,Over Votes,0
+Albany,13-1,State House,13,,Under Votes,470
+Albany,13-1,Ballots Cast,,,Ballots Cast,1959
+Albany,13-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,13-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,367
+Albany,13-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Albany,13-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,263
+Albany,13-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,13-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,353
+Albany,13-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Albany,13-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,333
+Albany,13-2,President,,REP,Donald J. Trump,119
+Albany,13-2,President,,DEM,Joseph R. Biden,310
+Albany,13-2,President,,LIB,Jo Jorgensen,19
+Albany,13-2,President,,IND,Brock Pierce,9
+Albany,13-2,President,,,Write-ins,4
+Albany,13-2,President,,,Over Votes,1
+Albany,13-2,President,,,Under Votes,3
+Albany,13-2,U.S. Senate,,REP,Cynthia M. Lummis,132
+Albany,13-2,U.S. Senate,,DEM,Merav Ben David,320
+Albany,13-2,U.S. Senate,,,Write-ins,2
+Albany,13-2,U.S. Senate,,,Over Votes,0
+Albany,13-2,U.S. Senate,,,Under Votes,11
+Albany,13-2,U.S. House,,REP,Liz Cheney,119
+Albany,13-2,U.S. House,,DEM,Lynnette Grey Bull,294
+Albany,13-2,U.S. House,,LIB,Richard Brubaker,29
+Albany,13-2,U.S. House,,,Jeff Haggit (CONST.),12
+Albany,13-2,U.S. House,,,Write-ins,1
+Albany,13-2,U.S. House,,,Over Votes,1
+Albany,13-2,U.S. House,,,Under Votes,9
+Albany,13-2,State House,13,DEM,Cathy Connolly,353
+Albany,13-2,State House,13,,Write-ins,25
+Albany,13-2,State House,13,,Over Votes,0
+Albany,13-2,State House,13,,Under Votes,87
+Albany,13-2,Ballots Cast,,,Ballots Cast,465
+Albany,13-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,13-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,101
+Albany,13-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Albany,13-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,61
+Albany,13-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,13-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,94
+Albany,13-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Albany,13-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,88
+Albany,13-3,President,,REP,Donald J. Trump,592
+Albany,13-3,President,,DEM,Joseph R. Biden,1054
+Albany,13-3,President,,LIB,Jo Jorgensen,60
+Albany,13-3,President,,IND,Brock Pierce,18
+Albany,13-3,President,,,Write-ins,22
+Albany,13-3,President,,,Over Votes,0
+Albany,13-3,President,,,Under Votes,7
+Albany,13-3,U.S. Senate,,REP,Cynthia M. Lummis,646
+Albany,13-3,U.S. Senate,,DEM,Merav Ben David,1062
+Albany,13-3,U.S. Senate,,,Write-ins,11
+Albany,13-3,U.S. Senate,,,Over Votes,1
+Albany,13-3,U.S. Senate,,,Under Votes,33
+Albany,13-3,U.S. House,,REP,Liz Cheney,587
+Albany,13-3,U.S. House,,DEM,Lynnette Grey Bull,1001
+Albany,13-3,U.S. House,,LIB,Richard Brubaker,64
+Albany,13-3,U.S. House,,,Jeff Haggit (CONST.),50
+Albany,13-3,U.S. House,,,Write-ins,3
+Albany,13-3,U.S. House,,,Over Votes,7
+Albany,13-3,U.S. House,,,Under Votes,41
+Albany,13-3,State House,13,DEM,Cathy Connolly,1288
+Albany,13-3,State House,13,,Write-ins,94
+Albany,13-3,State House,13,,Over Votes,1
+Albany,13-3,State House,13,,Under Votes,370
+Albany,13-3,Ballots Cast,,,Ballots Cast,1753
+Albany,13-3,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,13-3,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,405
+Albany,13-3,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,4
+Albany,13-3,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,246
+Albany,13-3,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,13-3,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,380
+Albany,13-3,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Albany,13-3,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,365
+Albany,14-1,President,,REP,Donald J. Trump,1502
+Albany,14-1,President,,DEM,Joseph R. Biden,1988
+Albany,14-1,President,,LIB,Jo Jorgensen,128
+Albany,14-1,President,,IND,Brock Pierce,32
+Albany,14-1,President,,,Write-ins,43
+Albany,14-1,President,,,Over Votes,3
+Albany,14-1,President,,,Under Votes,28
+Albany,14-1,U.S. Senate,,REP,Cynthia M. Lummis,1695
+Albany,14-1,U.S. Senate,,DEM,Merav Ben David,1909
+Albany,14-1,U.S. Senate,,,Write-ins,19
+Albany,14-1,U.S. Senate,,,Over Votes,1
+Albany,14-1,U.S. Senate,,,Under Votes,100
+Albany,14-1,U.S. House,,REP,Liz Cheney,1631
+Albany,14-1,U.S. House,,DEM,Lynnette Grey Bull,1751
+Albany,14-1,U.S. House,,LIB,Richard Brubaker,152
+Albany,14-1,U.S. House,,,Jeff Haggit (CONST.),67
+Albany,14-1,U.S. House,,,Write-ins,9
+Albany,14-1,U.S. House,,,Over Votes,9
+Albany,14-1,U.S. House,,,Under Votes,105
+Albany,14-1,State Senate,10,REP,Daniel Furphy,1789
+Albany,14-1,State Senate,10,DEM,Jackie Grimes,1764
+Albany,14-1,State Senate,10,,Write-ins,9
+Albany,14-1,State Senate,10,,Over Votes,3
+Albany,14-1,State Senate,10,,Under Votes,159
+Albany,14-1,State House,14,REP,Matthew Burkhart,1631
+Albany,14-1,State House,14,DEM,Trey Sherwood,1925
+Albany,14-1,State House,14,,Write-ins,2
+Albany,14-1,State House,14,,Over Votes,2
+Albany,14-1,State House,14,,Under Votes,164
+Albany,14-1,Ballots Cast,,,Ballots Cast,3724
+Albany,14-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,14-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,764
+Albany,14-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Albany,14-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,557
+Albany,14-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,14-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,725
+Albany,14-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Albany,14-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,692
+Albany,14-11,President,,REP,Donald J. Trump,473
+Albany,14-11,President,,DEM,Joseph R. Biden,201
+Albany,14-11,President,,LIB,Jo Jorgensen,5
+Albany,14-11,President,,IND,Brock Pierce,5
+Albany,14-11,President,,,Write-ins,2
+Albany,14-11,President,,,Over Votes,1
+Albany,14-11,President,,,Under Votes,3
+Albany,14-11,U.S. Senate,,REP,Cynthia M. Lummis,486
+Albany,14-11,U.S. Senate,,DEM,Merav Ben David,187
+Albany,14-11,U.S. Senate,,,Write-ins,5
+Albany,14-11,U.S. Senate,,,Over Votes,0
+Albany,14-11,U.S. Senate,,,Under Votes,12
+Albany,14-11,U.S. House,,REP,Liz Cheney,463
+Albany,14-11,U.S. House,,DEM,Lynnette Grey Bull,189
+Albany,14-11,U.S. House,,LIB,Richard Brubaker,15
+Albany,14-11,U.S. House,,,Jeff Haggit (CONST.),5
+Albany,14-11,U.S. House,,,Write-ins,1
+Albany,14-11,U.S. House,,,Over Votes,0
+Albany,14-11,U.S. House,,,Under Votes,17
+Albany,14-11,State Senate,10,REP,Daniel Furphy,462
+Albany,14-11,State Senate,10,DEM,Jackie Grimes,183
+Albany,14-11,State Senate,10,,Write-ins,14
+Albany,14-11,State Senate,10,,Over Votes,0
+Albany,14-11,State Senate,10,,Under Votes,31
+Albany,14-11,State House,14,REP,Matthew Burkhart,432
+Albany,14-11,State House,14,DEM,Trey Sherwood,223
+Albany,14-11,State House,14,,Write-ins,8
+Albany,14-11,State House,14,,Over Votes,0
+Albany,14-11,State House,14,,Under Votes,27
+Albany,14-11,Ballots Cast,,,Ballots Cast,690
+Albany,14-11,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,14-11,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,137
+Albany,14-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Albany,14-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,96
+Albany,14-11,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,14-11,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,128
+Albany,14-11,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Albany,14-11,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,126
+Albany,45-1,President,,REP,Donald J. Trump,1154
+Albany,45-1,President,,DEM,Joseph R. Biden,744
+Albany,45-1,President,,LIB,Jo Jorgensen,62
+Albany,45-1,President,,IND,Brock Pierce,22
+Albany,45-1,President,,,Write-ins,12
+Albany,45-1,President,,,Over Votes,1
+Albany,45-1,President,,,Under Votes,15
+Albany,45-1,U.S. Senate,,REP,Cynthia M. Lummis,1196
+Albany,45-1,U.S. Senate,,DEM,Merav Ben David,753
+Albany,45-1,U.S. Senate,,,Write-ins,8
+Albany,45-1,U.S. Senate,,,Over Votes,0
+Albany,45-1,U.S. Senate,,,Under Votes,53
+Albany,45-1,U.S. House,,REP,Liz Cheney,1089
+Albany,45-1,U.S. House,,DEM,Lynnette Grey Bull,700
+Albany,45-1,U.S. House,,LIB,Richard Brubaker,90
+Albany,45-1,U.S. House,,,Jeff Haggit (CONST.),63
+Albany,45-1,U.S. House,,,Write-ins,0
+Albany,45-1,U.S. House,,,Over Votes,7
+Albany,45-1,U.S. House,,,Under Votes,61
+Albany,45-1,State House,45,REP,Roxie Hensley,1190
+Albany,45-1,State House,45,DEM,Karlee Provenza,754
+Albany,45-1,State House,45,,Write-ins,5
+Albany,45-1,State House,45,,Over Votes,1
+Albany,45-1,State House,45,,Under Votes,60
+Albany,45-1,Ballots Cast,,,Ballots Cast,2010
+Albany,45-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,45-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,349
+Albany,45-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,3
+Albany,45-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,278
+Albany,45-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,45-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,337
+Albany,45-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,2
+Albany,45-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,335
+Albany,45-2,President,,REP,Donald J. Trump,640
+Albany,45-2,President,,DEM,Joseph R. Biden,1286
+Albany,45-2,President,,LIB,Jo Jorgensen,71
+Albany,45-2,President,,IND,Brock Pierce,15
+Albany,45-2,President,,,Write-ins,22
+Albany,45-2,President,,,Over Votes,2
+Albany,45-2,President,,,Under Votes,7
+Albany,45-2,U.S. Senate,,REP,Cynthia M. Lummis,703
+Albany,45-2,U.S. Senate,,DEM,Merav Ben David,1294
+Albany,45-2,U.S. Senate,,,Write-ins,5
+Albany,45-2,U.S. Senate,,,Over Votes,0
+Albany,45-2,U.S. Senate,,,Under Votes,41
+Albany,45-2,U.S. House,,REP,Liz Cheney,619
+Albany,45-2,U.S. House,,DEM,Lynnette Grey Bull,1243
+Albany,45-2,U.S. House,,LIB,Richard Brubaker,85
+Albany,45-2,U.S. House,,,Jeff Haggit (CONST.),38
+Albany,45-2,U.S. House,,,Write-ins,6
+Albany,45-2,U.S. House,,,Over Votes,4
+Albany,45-2,U.S. House,,,Under Votes,48
+Albany,45-2,State House,45,REP,Roxie Hensley,693
+Albany,45-2,State House,45,DEM,Karlee Provenza,1289
+Albany,45-2,State House,45,,Write-ins,8
+Albany,45-2,State House,45,,Over Votes,0
+Albany,45-2,State House,45,,Under Votes,53
+Albany,45-2,Ballots Cast,,,Ballots Cast,2043
+Albany,45-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,45-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,409
+Albany,45-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,2
+Albany,45-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,315
+Albany,45-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,45-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,388
+Albany,45-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Albany,45-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,376
+Albany,46-1,President,,REP,Donald J. Trump,482
+Albany,46-1,President,,DEM,Joseph R. Biden,664
+Albany,46-1,President,,LIB,Jo Jorgensen,43
+Albany,46-1,President,,IND,Brock Pierce,11
+Albany,46-1,President,,,Write-ins,12
+Albany,46-1,President,,,Over Votes,1
+Albany,46-1,President,,,Under Votes,7
+Albany,46-1,U.S. Senate,,REP,Cynthia M. Lummis,535
+Albany,46-1,U.S. Senate,,DEM,Merav Ben David,659
+Albany,46-1,U.S. Senate,,,Write-ins,4
+Albany,46-1,U.S. Senate,,,Over Votes,0
+Albany,46-1,U.S. Senate,,,Under Votes,22
+Albany,46-1,U.S. House,,REP,Liz Cheney,486
+Albany,46-1,U.S. House,,DEM,Lynnette Grey Bull,618
+Albany,46-1,U.S. House,,LIB,Richard Brubaker,58
+Albany,46-1,U.S. House,,,Jeff Haggit (CONST.),24
+Albany,46-1,U.S. House,,,Write-ins,1
+Albany,46-1,U.S. House,,,Over Votes,5
+Albany,46-1,U.S. House,,,Under Votes,28
+Albany,46-1,State Senate,10,REP,Daniel Furphy,547
+Albany,46-1,State Senate,10,DEM,Jackie Grimes,629
+Albany,46-1,State Senate,10,,Write-ins,5
+Albany,46-1,State Senate,10,,Over Votes,0
+Albany,46-1,State Senate,10,,Under Votes,39
+Albany,46-1,State House,46,REP,Ocean Andrew,562
+Albany,46-1,State House,46,DEM,Tim Chesnut,598
+Albany,46-1,State House,46,,Write-ins,8
+Albany,46-1,State House,46,,Over Votes,1
+Albany,46-1,State House,46,,Under Votes,51
+Albany,46-1,Ballots Cast,,,Ballots Cast,1220
+Albany,46-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,46-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,211
+Albany,46-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Albany,46-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,151
+Albany,46-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,46-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,190
+Albany,46-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Albany,46-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,181
+Albany,46-11,President,,REP,Donald J. Trump,1410
+Albany,46-11,President,,DEM,Joseph R. Biden,634
+Albany,46-11,President,,LIB,Jo Jorgensen,43
+Albany,46-11,President,,IND,Brock Pierce,21
+Albany,46-11,President,,,Write-ins,16
+Albany,46-11,President,,,Over Votes,2
+Albany,46-11,President,,,Under Votes,15
+Albany,46-11,U.S. Senate,,REP,Cynthia M. Lummis,1452
+Albany,46-11,U.S. Senate,,DEM,Merav Ben David,642
+Albany,46-11,U.S. Senate,,,Write-ins,3
+Albany,46-11,U.S. Senate,,,Over Votes,2
+Albany,46-11,U.S. Senate,,,Under Votes,42
+Albany,46-11,U.S. House,,REP,Liz Cheney,1398
+Albany,46-11,U.S. House,,DEM,Lynnette Grey Bull,579
+Albany,46-11,U.S. House,,LIB,Richard Brubaker,67
+Albany,46-11,U.S. House,,,Jeff Haggit (CONST.),51
+Albany,46-11,U.S. House,,,Write-ins,1
+Albany,46-11,U.S. House,,,Over Votes,8
+Albany,46-11,U.S. House,,,Under Votes,37
+Albany,46-11,State Senate,10,REP,Daniel Furphy,1455
+Albany,46-11,State Senate,10,DEM,Jackie Grimes,605
+Albany,46-11,State Senate,10,,Write-ins,5
+Albany,46-11,State Senate,10,,Over Votes,0
+Albany,46-11,State Senate,10,,Under Votes,76
+Albany,46-11,State House,46,REP,Ocean Andrew,1469
+Albany,46-11,State House,46,DEM,Tim Chesnut,601
+Albany,46-11,State House,46,,Write-ins,7
+Albany,46-11,State House,46,,Over Votes,0
+Albany,46-11,State House,46,,Under Votes,64
+Albany,46-11,Ballots Cast,,,Ballots Cast,2141
+Albany,46-11,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,46-11,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,353
+Albany,46-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,3
+Albany,46-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,312
+Albany,46-11,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,2
+Albany,46-11,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,344
+Albany,46-11,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Albany,46-11,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,328
+Albany,46-12,President,,REP,Donald J. Trump,343
+Albany,46-12,President,,DEM,Joseph R. Biden,111
+Albany,46-12,President,,LIB,Jo Jorgensen,6
+Albany,46-12,President,,IND,Brock Pierce,2
+Albany,46-12,President,,,Write-ins,3
+Albany,46-12,President,,,Over Votes,1
+Albany,46-12,President,,,Under Votes,6
+Albany,46-12,U.S. Senate,,REP,Cynthia M. Lummis,352
+Albany,46-12,U.S. Senate,,DEM,Merav Ben David,110
+Albany,46-12,U.S. Senate,,,Write-ins,0
+Albany,46-12,U.S. Senate,,,Over Votes,1
+Albany,46-12,U.S. Senate,,,Under Votes,9
+Albany,46-12,U.S. House,,REP,Liz Cheney,348
+Albany,46-12,U.S. House,,DEM,Lynnette Grey Bull,98
+Albany,46-12,U.S. House,,LIB,Richard Brubaker,10
+Albany,46-12,U.S. House,,,Jeff Haggit (CONST.),6
+Albany,46-12,U.S. House,,,Write-ins,0
+Albany,46-12,U.S. House,,,Over Votes,1
+Albany,46-12,U.S. House,,,Under Votes,9
+Albany,46-12,State Senate,10,REP,Daniel Furphy,354
+Albany,46-12,State Senate,10,DEM,Jackie Grimes,100
+Albany,46-12,State Senate,10,,Write-ins,3
+Albany,46-12,State Senate,10,,Over Votes,1
+Albany,46-12,State Senate,10,,Under Votes,14
+Albany,46-12,State House,46,REP,Ocean Andrew,355
+Albany,46-12,State House,46,DEM,Tim Chesnut,103
+Albany,46-12,State House,46,,Write-ins,2
+Albany,46-12,State House,46,,Over Votes,0
+Albany,46-12,State House,46,,Under Votes,12
+Albany,46-12,Ballots Cast,,,Ballots Cast,472
+Albany,46-12,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,46-12,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,78
+Albany,46-12,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Albany,46-12,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,73
+Albany,46-12,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,46-12,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,75
+Albany,46-12,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Albany,46-12,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,72
+Albany,46-13,President,,REP,Donald J. Trump,178
+Albany,46-13,President,,DEM,Joseph R. Biden,120
+Albany,46-13,President,,LIB,Jo Jorgensen,11
+Albany,46-13,President,,IND,Brock Pierce,1
+Albany,46-13,President,,,Write-ins,3
+Albany,46-13,President,,,Over Votes,0
+Albany,46-13,President,,,Under Votes,2
+Albany,46-13,U.S. Senate,,REP,Cynthia M. Lummis,190
+Albany,46-13,U.S. Senate,,DEM,Merav Ben David,120
+Albany,46-13,U.S. Senate,,,Write-ins,1
+Albany,46-13,U.S. Senate,,,Over Votes,0
+Albany,46-13,U.S. Senate,,,Under Votes,4
+Albany,46-13,U.S. House,,REP,Liz Cheney,185
+Albany,46-13,U.S. House,,DEM,Lynnette Grey Bull,116
+Albany,46-13,U.S. House,,LIB,Richard Brubaker,6
+Albany,46-13,U.S. House,,,Jeff Haggit (CONST.),5
+Albany,46-13,U.S. House,,,Write-ins,0
+Albany,46-13,U.S. House,,,Over Votes,0
+Albany,46-13,U.S. House,,,Under Votes,3
+Albany,46-13,State Senate,10,REP,Daniel Furphy,203
+Albany,46-13,State Senate,10,DEM,Jackie Grimes,104
+Albany,46-13,State Senate,10,,Write-ins,1
+Albany,46-13,State Senate,10,,Over Votes,0
+Albany,46-13,State Senate,10,,Under Votes,7
+Albany,46-13,State House,46,REP,Ocean Andrew,188
+Albany,46-13,State House,46,DEM,Tim Chesnut,122
+Albany,46-13,State House,46,,Write-ins,1
+Albany,46-13,State House,46,,Over Votes,0
+Albany,46-13,State House,46,,Under Votes,4
+Albany,46-13,Ballots Cast,,,Ballots Cast,315
+Albany,46-13,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,46-13,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,57
+Albany,46-13,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Albany,46-13,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,41
+Albany,46-13,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,46-13,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,58
+Albany,46-13,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Albany,46-13,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,50
+Albany,46-2,President,,REP,Donald J. Trump,724
+Albany,46-2,President,,DEM,Joseph R. Biden,978
+Albany,46-2,President,,LIB,Jo Jorgensen,51
+Albany,46-2,President,,IND,Brock Pierce,21
+Albany,46-2,President,,,Write-ins,16
+Albany,46-2,President,,,Over Votes,2
+Albany,46-2,President,,,Under Votes,8
+Albany,46-2,U.S. Senate,,REP,Cynthia M. Lummis,791
+Albany,46-2,U.S. Senate,,DEM,Merav Ben David,980
+Albany,46-2,U.S. Senate,,,Write-ins,2
+Albany,46-2,U.S. Senate,,,Over Votes,0
+Albany,46-2,U.S. Senate,,,Under Votes,27
+Albany,46-2,U.S. House,,REP,Liz Cheney,755
+Albany,46-2,U.S. House,,DEM,Lynnette Grey Bull,901
+Albany,46-2,U.S. House,,LIB,Richard Brubaker,69
+Albany,46-2,U.S. House,,,Jeff Haggit (CONST.),29
+Albany,46-2,U.S. House,,,Write-ins,2
+Albany,46-2,U.S. House,,,Over Votes,9
+Albany,46-2,U.S. House,,,Under Votes,35
+Albany,46-2,State Senate,10,REP,Daniel Furphy,783
+Albany,46-2,State Senate,10,DEM,Jackie Grimes,958
+Albany,46-2,State Senate,10,,Write-ins,8
+Albany,46-2,State Senate,10,,Over Votes,1
+Albany,46-2,State Senate,10,,Under Votes,50
+Albany,46-2,State House,46,REP,Ocean Andrew,835
+Albany,46-2,State House,46,DEM,Tim Chesnut,899
+Albany,46-2,State House,46,,Write-ins,4
+Albany,46-2,State House,46,,Over Votes,0
+Albany,46-2,State House,46,,Under Votes,62
+Albany,46-2,Ballots Cast,,,Ballots Cast,1800
+Albany,46-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,46-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,300
+Albany,46-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,3
+Albany,46-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,222
+Albany,46-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,46-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,284
+Albany,46-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Albany,46-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,266
+Albany,47-11,President,,REP,Donald J. Trump,130
+Albany,47-11,President,,DEM,Joseph R. Biden,20
+Albany,47-11,President,,LIB,Jo Jorgensen,0
+Albany,47-11,President,,IND,Brock Pierce,0
+Albany,47-11,President,,,Write-ins,1
+Albany,47-11,President,,,Over Votes,0
+Albany,47-11,President,,,Under Votes,1
+Albany,47-11,U.S. Senate,,REP,Cynthia M. Lummis,129
+Albany,47-11,U.S. Senate,,DEM,Merav Ben David,20
+Albany,47-11,U.S. Senate,,,Write-ins,0
+Albany,47-11,U.S. Senate,,,Over Votes,0
+Albany,47-11,U.S. Senate,,,Under Votes,3
+Albany,47-11,U.S. House,,REP,Liz Cheney,122
+Albany,47-11,U.S. House,,DEM,Lynnette Grey Bull,19
+Albany,47-11,U.S. House,,LIB,Richard Brubaker,0
+Albany,47-11,U.S. House,,,Jeff Haggit (CONST.),6
+Albany,47-11,U.S. House,,,Write-ins,0
+Albany,47-11,U.S. House,,,Over Votes,2
+Albany,47-11,U.S. House,,,Under Votes,3
+Albany,47-11,State House,47,REP,Jerry Paxton,119
+Albany,47-11,State House,47,LIB,Lela Konecny,25
+Albany,47-11,State House,47,,Write-ins,0
+Albany,47-11,State House,47,,Over Votes,0
+Albany,47-11,State House,47,,Under Votes,8
+Albany,47-11,Ballots Cast,,,Ballots Cast,152
+Albany,47-11,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Albany,47-11,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,19
+Albany,47-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Albany,47-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,21
+Albany,47-11,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Albany,47-11,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,20
+Albany,47-11,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Albany,47-11,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,17

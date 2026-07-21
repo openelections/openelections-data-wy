@@ -1,0 +1,407 @@
+county,precinct,office,district,party,candidate,votes
+Goshen,01-1,U.S. Senate,,REP,John Barrasso,48
+Goshen,01-1,U.S. Senate,,REP,John Holtz,1
+Goshen,01-1,U.S. Senate,,REP,Reid Rasner,11
+Goshen,01-1,U.S. Senate,,REP,Write-ins,0
+Goshen,01-1,U.S. Senate,,REP,Over Votes,0
+Goshen,01-1,U.S. Senate,,REP,Under Votes,3
+Goshen,01-1,U.S. Senate,,DEM,Scott D Morrow,0
+Goshen,01-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,01-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,01-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,01-1,U.S. House,,REP,Harriet Hageman,63
+Goshen,01-1,U.S. House,,REP,Steven R. Helling,0
+Goshen,01-1,U.S. House,,REP,Write-ins,0
+Goshen,01-1,U.S. House,,REP,Over Votes,0
+Goshen,01-1,U.S. House,,REP,Under Votes,0
+Goshen,01-1,U.S. House,,DEM,Kyle G. Cameron,0
+Goshen,01-1,U.S. House,,DEM,Write-ins,0
+Goshen,01-1,U.S. House,,DEM,Over Votes,0
+Goshen,01-1,U.S. House,,DEM,Under Votes,0
+Goshen,01-1,State House,2,REP,Allen E. Slagle,41
+Goshen,01-1,State House,2,REP,JD Williams,22
+Goshen,01-1,State House,2,REP,Write-ins,0
+Goshen,01-1,State House,2,REP,Over Votes,0
+Goshen,01-1,State House,2,REP,Under Votes,0
+Goshen,01-1,State House,2,DEM,Write-ins,0
+Goshen,01-1,Ballots Cast,,REP,Ballots Cast,63
+Goshen,01-1,Ballots Cast,,DEM,Ballots Cast,0
+Goshen,01-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,01-1,Ballots Cast,,,Ballots Cast,63
+Goshen,02-1,U.S. Senate,,REP,John Barrasso,51
+Goshen,02-1,U.S. Senate,,REP,John Holtz,7
+Goshen,02-1,U.S. Senate,,REP,Reid Rasner,12
+Goshen,02-1,U.S. Senate,,REP,Write-ins,0
+Goshen,02-1,U.S. Senate,,REP,Over Votes,0
+Goshen,02-1,U.S. Senate,,REP,Under Votes,6
+Goshen,02-1,U.S. Senate,,DEM,Scott D Morrow,2
+Goshen,02-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,02-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,02-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,02-1,U.S. House,,REP,Harriet Hageman,68
+Goshen,02-1,U.S. House,,REP,Steven R. Helling,7
+Goshen,02-1,U.S. House,,REP,Write-ins,0
+Goshen,02-1,U.S. House,,REP,Over Votes,0
+Goshen,02-1,U.S. House,,REP,Under Votes,1
+Goshen,02-1,U.S. House,,DEM,Kyle G. Cameron,2
+Goshen,02-1,U.S. House,,DEM,Write-ins,0
+Goshen,02-1,U.S. House,,DEM,Over Votes,0
+Goshen,02-1,U.S. House,,DEM,Under Votes,0
+Goshen,02-1,State House,2,REP,Allen E. Slagle,44
+Goshen,02-1,State House,2,REP,JD Williams,30
+Goshen,02-1,State House,2,REP,Write-ins,0
+Goshen,02-1,State House,2,REP,Over Votes,0
+Goshen,02-1,State House,2,REP,Under Votes,2
+Goshen,02-1,State House,2,DEM,Write-ins,0
+Goshen,02-1,Ballots Cast,,REP,Ballots Cast,76
+Goshen,02-1,Ballots Cast,,DEM,Ballots Cast,2
+Goshen,02-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,02-1,Ballots Cast,,,Ballots Cast,78
+Goshen,07-1,U.S. Senate,,REP,John Barrasso,783
+Goshen,07-1,U.S. Senate,,REP,John Holtz,73
+Goshen,07-1,U.S. Senate,,REP,Reid Rasner,212
+Goshen,07-1,U.S. Senate,,REP,Write-ins,14
+Goshen,07-1,U.S. Senate,,REP,Over Votes,1
+Goshen,07-1,U.S. Senate,,REP,Under Votes,27
+Goshen,07-1,U.S. Senate,,DEM,Scott D Morrow,88
+Goshen,07-1,U.S. Senate,,DEM,Write-ins,2
+Goshen,07-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,07-1,U.S. Senate,,DEM,Under Votes,6
+Goshen,07-1,U.S. House,,REP,Harriet Hageman,872
+Goshen,07-1,U.S. House,,REP,Steven R. Helling,188
+Goshen,07-1,U.S. House,,REP,Write-ins,23
+Goshen,07-1,U.S. House,,REP,Over Votes,2
+Goshen,07-1,U.S. House,,REP,Under Votes,25
+Goshen,07-1,U.S. House,,DEM,Kyle G. Cameron,87
+Goshen,07-1,U.S. House,,DEM,Write-ins,1
+Goshen,07-1,U.S. House,,DEM,Over Votes,0
+Goshen,07-1,U.S. House,,DEM,Under Votes,8
+Goshen,07-1,State House,5,REP,Jackie Van Mark,484
+Goshen,07-1,State House,5,REP,Scott Smith,606
+Goshen,07-1,State House,5,REP,Write-ins,2
+Goshen,07-1,State House,5,REP,Over Votes,1
+Goshen,07-1,State House,5,REP,Under Votes,17
+Goshen,07-1,State House,5,DEM,Write-ins,14
+Goshen,07-1,Ballots Cast,,REP,Ballots Cast,1110
+Goshen,07-1,Ballots Cast,,DEM,Ballots Cast,96
+Goshen,07-1,Ballots Cast,,NP,Ballots Cast,27
+Goshen,07-1,Ballots Cast,,,Ballots Cast,1233
+Goshen,07-2,U.S. Senate,,REP,John Barrasso,388
+Goshen,07-2,U.S. Senate,,REP,John Holtz,33
+Goshen,07-2,U.S. Senate,,REP,Reid Rasner,95
+Goshen,07-2,U.S. Senate,,REP,Write-ins,3
+Goshen,07-2,U.S. Senate,,REP,Over Votes,0
+Goshen,07-2,U.S. Senate,,REP,Under Votes,11
+Goshen,07-2,U.S. Senate,,DEM,Scott D Morrow,15
+Goshen,07-2,U.S. Senate,,DEM,Write-ins,0
+Goshen,07-2,U.S. Senate,,DEM,Over Votes,0
+Goshen,07-2,U.S. Senate,,DEM,Under Votes,0
+Goshen,07-2,U.S. House,,REP,Harriet Hageman,437
+Goshen,07-2,U.S. House,,REP,Steven R. Helling,74
+Goshen,07-2,U.S. House,,REP,Write-ins,7
+Goshen,07-2,U.S. House,,REP,Over Votes,0
+Goshen,07-2,U.S. House,,REP,Under Votes,12
+Goshen,07-2,U.S. House,,DEM,Kyle G. Cameron,14
+Goshen,07-2,U.S. House,,DEM,Write-ins,1
+Goshen,07-2,U.S. House,,DEM,Over Votes,0
+Goshen,07-2,U.S. House,,DEM,Under Votes,0
+Goshen,07-2,State House,2,REP,Allen E. Slagle,252
+Goshen,07-2,State House,2,REP,JD Williams,261
+Goshen,07-2,State House,2,REP,Write-ins,3
+Goshen,07-2,State House,2,REP,Over Votes,2
+Goshen,07-2,State House,2,REP,Under Votes,12
+Goshen,07-2,State House,2,DEM,Write-ins,4
+Goshen,07-2,Ballots Cast,,REP,Ballots Cast,530
+Goshen,07-2,Ballots Cast,,DEM,Ballots Cast,15
+Goshen,07-2,Ballots Cast,,NP,Ballots Cast,0
+Goshen,07-2,Ballots Cast,,,Ballots Cast,545
+Goshen,07-3,U.S. Senate,,REP,John Barrasso,238
+Goshen,07-3,U.S. Senate,,REP,John Holtz,17
+Goshen,07-3,U.S. Senate,,REP,Reid Rasner,69
+Goshen,07-3,U.S. Senate,,REP,Write-ins,0
+Goshen,07-3,U.S. Senate,,REP,Over Votes,0
+Goshen,07-3,U.S. Senate,,REP,Under Votes,5
+Goshen,07-3,U.S. Senate,,DEM,Scott D Morrow,16
+Goshen,07-3,U.S. Senate,,DEM,Write-ins,1
+Goshen,07-3,U.S. Senate,,DEM,Over Votes,0
+Goshen,07-3,U.S. Senate,,DEM,Under Votes,0
+Goshen,07-3,U.S. House,,REP,Harriet Hageman,279
+Goshen,07-3,U.S. House,,REP,Steven R. Helling,42
+Goshen,07-3,U.S. House,,REP,Write-ins,2
+Goshen,07-3,U.S. House,,REP,Over Votes,0
+Goshen,07-3,U.S. House,,REP,Under Votes,6
+Goshen,07-3,U.S. House,,DEM,Kyle G. Cameron,16
+Goshen,07-3,U.S. House,,DEM,Write-ins,1
+Goshen,07-3,U.S. House,,DEM,Over Votes,0
+Goshen,07-3,U.S. House,,DEM,Under Votes,0
+Goshen,07-3,State House,5,REP,Jackie Van Mark,125
+Goshen,07-3,State House,5,REP,Scott Smith,201
+Goshen,07-3,State House,5,REP,Write-ins,1
+Goshen,07-3,State House,5,REP,Over Votes,0
+Goshen,07-3,State House,5,REP,Under Votes,2
+Goshen,07-3,State House,5,DEM,Write-ins,4
+Goshen,07-3,Ballots Cast,,REP,Ballots Cast,329
+Goshen,07-3,Ballots Cast,,DEM,Ballots Cast,17
+Goshen,07-3,Ballots Cast,,NP,Ballots Cast,0
+Goshen,07-3,Ballots Cast,,,Ballots Cast,346
+Goshen,08-1,U.S. Senate,,REP,John Barrasso,177
+Goshen,08-1,U.S. Senate,,REP,John Holtz,9
+Goshen,08-1,U.S. Senate,,REP,Reid Rasner,46
+Goshen,08-1,U.S. Senate,,REP,Write-ins,0
+Goshen,08-1,U.S. Senate,,REP,Over Votes,0
+Goshen,08-1,U.S. Senate,,REP,Under Votes,5
+Goshen,08-1,U.S. Senate,,DEM,Scott D Morrow,10
+Goshen,08-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,08-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,08-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,08-1,U.S. House,,REP,Harriet Hageman,216
+Goshen,08-1,U.S. House,,REP,Steven R. Helling,15
+Goshen,08-1,U.S. House,,REP,Write-ins,3
+Goshen,08-1,U.S. House,,REP,Over Votes,0
+Goshen,08-1,U.S. House,,REP,Under Votes,3
+Goshen,08-1,U.S. House,,DEM,Kyle G. Cameron,10
+Goshen,08-1,U.S. House,,DEM,Write-ins,0
+Goshen,08-1,U.S. House,,DEM,Over Votes,0
+Goshen,08-1,U.S. House,,DEM,Under Votes,0
+Goshen,08-1,State House,5,REP,Jackie Van Mark,102
+Goshen,08-1,State House,5,REP,Scott Smith,132
+Goshen,08-1,State House,5,REP,Write-ins,2
+Goshen,08-1,State House,5,REP,Over Votes,0
+Goshen,08-1,State House,5,REP,Under Votes,1
+Goshen,08-1,State House,5,DEM,Write-ins,1
+Goshen,08-1,Ballots Cast,,REP,Ballots Cast,237
+Goshen,08-1,Ballots Cast,,DEM,Ballots Cast,10
+Goshen,08-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,08-1,Ballots Cast,,,Ballots Cast,247
+Goshen,08-2,U.S. Senate,,REP,John Barrasso,71
+Goshen,08-2,U.S. Senate,,REP,John Holtz,3
+Goshen,08-2,U.S. Senate,,REP,Reid Rasner,12
+Goshen,08-2,U.S. Senate,,REP,Write-ins,0
+Goshen,08-2,U.S. Senate,,REP,Over Votes,0
+Goshen,08-2,U.S. Senate,,REP,Under Votes,1
+Goshen,08-2,U.S. Senate,,DEM,Scott D Morrow,4
+Goshen,08-2,U.S. Senate,,DEM,Write-ins,1
+Goshen,08-2,U.S. Senate,,DEM,Over Votes,0
+Goshen,08-2,U.S. Senate,,DEM,Under Votes,0
+Goshen,08-2,U.S. House,,REP,Harriet Hageman,82
+Goshen,08-2,U.S. House,,REP,Steven R. Helling,5
+Goshen,08-2,U.S. House,,REP,Write-ins,0
+Goshen,08-2,U.S. House,,REP,Over Votes,0
+Goshen,08-2,U.S. House,,REP,Under Votes,0
+Goshen,08-2,U.S. House,,DEM,Kyle G. Cameron,4
+Goshen,08-2,U.S. House,,DEM,Write-ins,1
+Goshen,08-2,U.S. House,,DEM,Over Votes,0
+Goshen,08-2,U.S. House,,DEM,Under Votes,0
+Goshen,08-2,State House,2,REP,Allen E. Slagle,50
+Goshen,08-2,State House,2,REP,JD Williams,37
+Goshen,08-2,State House,2,REP,Write-ins,0
+Goshen,08-2,State House,2,REP,Over Votes,0
+Goshen,08-2,State House,2,REP,Under Votes,0
+Goshen,08-2,State House,2,DEM,Write-ins,1
+Goshen,08-2,Ballots Cast,,REP,Ballots Cast,87
+Goshen,08-2,Ballots Cast,,DEM,Ballots Cast,5
+Goshen,08-2,Ballots Cast,,NP,Ballots Cast,0
+Goshen,08-2,Ballots Cast,,,Ballots Cast,92
+Goshen,09-1,U.S. Senate,,REP,John Barrasso,109
+Goshen,09-1,U.S. Senate,,REP,John Holtz,15
+Goshen,09-1,U.S. Senate,,REP,Reid Rasner,42
+Goshen,09-1,U.S. Senate,,REP,Write-ins,3
+Goshen,09-1,U.S. Senate,,REP,Over Votes,0
+Goshen,09-1,U.S. Senate,,REP,Under Votes,3
+Goshen,09-1,U.S. Senate,,DEM,Scott D Morrow,6
+Goshen,09-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,09-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,09-1,U.S. Senate,,DEM,Under Votes,1
+Goshen,09-1,U.S. House,,REP,Harriet Hageman,151
+Goshen,09-1,U.S. House,,REP,Steven R. Helling,15
+Goshen,09-1,U.S. House,,REP,Write-ins,3
+Goshen,09-1,U.S. House,,REP,Over Votes,0
+Goshen,09-1,U.S. House,,REP,Under Votes,3
+Goshen,09-1,U.S. House,,DEM,Kyle G. Cameron,6
+Goshen,09-1,U.S. House,,DEM,Write-ins,0
+Goshen,09-1,U.S. House,,DEM,Over Votes,0
+Goshen,09-1,U.S. House,,DEM,Under Votes,1
+Goshen,09-1,State House,5,REP,Jackie Van Mark,40
+Goshen,09-1,State House,5,REP,Scott Smith,129
+Goshen,09-1,State House,5,REP,Write-ins,2
+Goshen,09-1,State House,5,REP,Over Votes,0
+Goshen,09-1,State House,5,REP,Under Votes,1
+Goshen,09-1,State House,5,DEM,Write-ins,0
+Goshen,09-1,Ballots Cast,,REP,Ballots Cast,172
+Goshen,09-1,Ballots Cast,,DEM,Ballots Cast,7
+Goshen,09-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,09-1,Ballots Cast,,,Ballots Cast,179
+Goshen,13-1,U.S. Senate,,REP,John Barrasso,59
+Goshen,13-1,U.S. Senate,,REP,John Holtz,4
+Goshen,13-1,U.S. Senate,,REP,Reid Rasner,15
+Goshen,13-1,U.S. Senate,,REP,Write-ins,0
+Goshen,13-1,U.S. Senate,,REP,Over Votes,0
+Goshen,13-1,U.S. Senate,,REP,Under Votes,2
+Goshen,13-1,U.S. Senate,,DEM,Scott D Morrow,3
+Goshen,13-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,13-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,13-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,13-1,U.S. House,,REP,Harriet Hageman,75
+Goshen,13-1,U.S. House,,REP,Steven R. Helling,4
+Goshen,13-1,U.S. House,,REP,Write-ins,0
+Goshen,13-1,U.S. House,,REP,Over Votes,0
+Goshen,13-1,U.S. House,,REP,Under Votes,1
+Goshen,13-1,U.S. House,,DEM,Kyle G. Cameron,3
+Goshen,13-1,U.S. House,,DEM,Write-ins,0
+Goshen,13-1,U.S. House,,DEM,Over Votes,0
+Goshen,13-1,U.S. House,,DEM,Under Votes,0
+Goshen,13-1,State House,5,REP,Jackie Van Mark,21
+Goshen,13-1,State House,5,REP,Scott Smith,58
+Goshen,13-1,State House,5,REP,Write-ins,0
+Goshen,13-1,State House,5,REP,Over Votes,0
+Goshen,13-1,State House,5,REP,Under Votes,1
+Goshen,13-1,State House,5,DEM,Write-ins,1
+Goshen,13-1,Ballots Cast,,REP,Ballots Cast,80
+Goshen,13-1,Ballots Cast,,DEM,Ballots Cast,3
+Goshen,13-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,13-1,Ballots Cast,,,Ballots Cast,83
+Goshen,15-1,U.S. Senate,,REP,John Barrasso,106
+Goshen,15-1,U.S. Senate,,REP,John Holtz,7
+Goshen,15-1,U.S. Senate,,REP,Reid Rasner,38
+Goshen,15-1,U.S. Senate,,REP,Write-ins,0
+Goshen,15-1,U.S. Senate,,REP,Over Votes,0
+Goshen,15-1,U.S. Senate,,REP,Under Votes,3
+Goshen,15-1,U.S. Senate,,DEM,Scott D Morrow,4
+Goshen,15-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,15-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,15-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,15-1,U.S. House,,REP,Harriet Hageman,133
+Goshen,15-1,U.S. House,,REP,Steven R. Helling,16
+Goshen,15-1,U.S. House,,REP,Write-ins,0
+Goshen,15-1,U.S. House,,REP,Over Votes,0
+Goshen,15-1,U.S. House,,REP,Under Votes,5
+Goshen,15-1,U.S. House,,DEM,Kyle G. Cameron,3
+Goshen,15-1,U.S. House,,DEM,Write-ins,0
+Goshen,15-1,U.S. House,,DEM,Over Votes,0
+Goshen,15-1,U.S. House,,DEM,Under Votes,1
+Goshen,15-1,State House,5,REP,Jackie Van Mark,46
+Goshen,15-1,State House,5,REP,Scott Smith,108
+Goshen,15-1,State House,5,REP,Write-ins,0
+Goshen,15-1,State House,5,REP,Over Votes,0
+Goshen,15-1,State House,5,REP,Under Votes,0
+Goshen,15-1,State House,5,DEM,Write-ins,0
+Goshen,15-1,Ballots Cast,,REP,Ballots Cast,154
+Goshen,15-1,Ballots Cast,,DEM,Ballots Cast,4
+Goshen,15-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,15-1,Ballots Cast,,,Ballots Cast,158
+Goshen,16-1,U.S. Senate,,REP,John Barrasso,102
+Goshen,16-1,U.S. Senate,,REP,John Holtz,7
+Goshen,16-1,U.S. Senate,,REP,Reid Rasner,29
+Goshen,16-1,U.S. Senate,,REP,Write-ins,1
+Goshen,16-1,U.S. Senate,,REP,Over Votes,0
+Goshen,16-1,U.S. Senate,,REP,Under Votes,3
+Goshen,16-1,U.S. Senate,,DEM,Scott D Morrow,2
+Goshen,16-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,16-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,16-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,16-1,U.S. House,,REP,Harriet Hageman,130
+Goshen,16-1,U.S. House,,REP,Steven R. Helling,8
+Goshen,16-1,U.S. House,,REP,Write-ins,2
+Goshen,16-1,U.S. House,,REP,Over Votes,0
+Goshen,16-1,U.S. House,,REP,Under Votes,2
+Goshen,16-1,U.S. House,,DEM,Kyle G. Cameron,2
+Goshen,16-1,U.S. House,,DEM,Write-ins,0
+Goshen,16-1,U.S. House,,DEM,Over Votes,0
+Goshen,16-1,U.S. House,,DEM,Under Votes,0
+Goshen,16-1,State House,5,REP,Jackie Van Mark,37
+Goshen,16-1,State House,5,REP,Scott Smith,103
+Goshen,16-1,State House,5,REP,Write-ins,0
+Goshen,16-1,State House,5,REP,Over Votes,0
+Goshen,16-1,State House,5,REP,Under Votes,2
+Goshen,16-1,State House,5,DEM,Write-ins,0
+Goshen,16-1,Ballots Cast,,REP,Ballots Cast,142
+Goshen,16-1,Ballots Cast,,DEM,Ballots Cast,2
+Goshen,16-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,16-1,Ballots Cast,,,Ballots Cast,144
+Goshen,17-1,U.S. Senate,,REP,John Barrasso,56
+Goshen,17-1,U.S. Senate,,REP,John Holtz,5
+Goshen,17-1,U.S. Senate,,REP,Reid Rasner,7
+Goshen,17-1,U.S. Senate,,REP,Write-ins,0
+Goshen,17-1,U.S. Senate,,REP,Over Votes,0
+Goshen,17-1,U.S. Senate,,REP,Under Votes,2
+Goshen,17-1,U.S. Senate,,DEM,Scott D Morrow,1
+Goshen,17-1,U.S. Senate,,DEM,Write-ins,1
+Goshen,17-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,17-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,17-1,U.S. House,,REP,Harriet Hageman,63
+Goshen,17-1,U.S. House,,REP,Steven R. Helling,7
+Goshen,17-1,U.S. House,,REP,Write-ins,0
+Goshen,17-1,U.S. House,,REP,Over Votes,0
+Goshen,17-1,U.S. House,,REP,Under Votes,0
+Goshen,17-1,U.S. House,,DEM,Kyle G. Cameron,0
+Goshen,17-1,U.S. House,,DEM,Write-ins,1
+Goshen,17-1,U.S. House,,DEM,Over Votes,0
+Goshen,17-1,U.S. House,,DEM,Under Votes,1
+Goshen,17-1,State House,5,REP,Jackie Van Mark,9
+Goshen,17-1,State House,5,REP,Scott Smith,60
+Goshen,17-1,State House,5,REP,Write-ins,0
+Goshen,17-1,State House,5,REP,Over Votes,0
+Goshen,17-1,State House,5,REP,Under Votes,1
+Goshen,17-1,State House,5,DEM,Write-ins,2
+Goshen,17-1,Ballots Cast,,REP,Ballots Cast,70
+Goshen,17-1,Ballots Cast,,DEM,Ballots Cast,2
+Goshen,17-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,17-1,Ballots Cast,,,Ballots Cast,72
+Goshen,18-1,U.S. Senate,,REP,John Barrasso,145
+Goshen,18-1,U.S. Senate,,REP,John Holtz,5
+Goshen,18-1,U.S. Senate,,REP,Reid Rasner,17
+Goshen,18-1,U.S. Senate,,REP,Write-ins,0
+Goshen,18-1,U.S. Senate,,REP,Over Votes,0
+Goshen,18-1,U.S. Senate,,REP,Under Votes,1
+Goshen,18-1,U.S. Senate,,DEM,Scott D Morrow,1
+Goshen,18-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,18-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,18-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,18-1,U.S. House,,REP,Harriet Hageman,161
+Goshen,18-1,U.S. House,,REP,Steven R. Helling,7
+Goshen,18-1,U.S. House,,REP,Write-ins,0
+Goshen,18-1,U.S. House,,REP,Over Votes,0
+Goshen,18-1,U.S. House,,REP,Under Votes,0
+Goshen,18-1,U.S. House,,DEM,Kyle G. Cameron,1
+Goshen,18-1,U.S. House,,DEM,Write-ins,0
+Goshen,18-1,U.S. House,,DEM,Over Votes,0
+Goshen,18-1,U.S. House,,DEM,Under Votes,0
+Goshen,18-1,State House,5,REP,Jackie Van Mark,24
+Goshen,18-1,State House,5,REP,Scott Smith,142
+Goshen,18-1,State House,5,REP,Write-ins,0
+Goshen,18-1,State House,5,REP,Over Votes,0
+Goshen,18-1,State House,5,REP,Under Votes,2
+Goshen,18-1,State House,5,DEM,Write-ins,0
+Goshen,18-1,Ballots Cast,,REP,Ballots Cast,168
+Goshen,18-1,Ballots Cast,,DEM,Ballots Cast,1
+Goshen,18-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,18-1,Ballots Cast,,,Ballots Cast,169
+Goshen,20-1,U.S. Senate,,REP,John Barrasso,8
+Goshen,20-1,U.S. Senate,,REP,John Holtz,5
+Goshen,20-1,U.S. Senate,,REP,Reid Rasner,4
+Goshen,20-1,U.S. Senate,,REP,Write-ins,0
+Goshen,20-1,U.S. Senate,,REP,Over Votes,0
+Goshen,20-1,U.S. Senate,,REP,Under Votes,1
+Goshen,20-1,U.S. Senate,,DEM,Scott D Morrow,0
+Goshen,20-1,U.S. Senate,,DEM,Write-ins,0
+Goshen,20-1,U.S. Senate,,DEM,Over Votes,0
+Goshen,20-1,U.S. Senate,,DEM,Under Votes,0
+Goshen,20-1,U.S. House,,REP,Harriet Hageman,18
+Goshen,20-1,U.S. House,,REP,Steven R. Helling,0
+Goshen,20-1,U.S. House,,REP,Write-ins,0
+Goshen,20-1,U.S. House,,REP,Over Votes,0
+Goshen,20-1,U.S. House,,REP,Under Votes,0
+Goshen,20-1,U.S. House,,DEM,Kyle G. Cameron,0
+Goshen,20-1,U.S. House,,DEM,Write-ins,0
+Goshen,20-1,U.S. House,,DEM,Over Votes,0
+Goshen,20-1,U.S. House,,DEM,Under Votes,0
+Goshen,20-1,State House,5,REP,Jackie Van Mark,3
+Goshen,20-1,State House,5,REP,Scott Smith,15
+Goshen,20-1,State House,5,REP,Write-ins,0
+Goshen,20-1,State House,5,REP,Over Votes,0
+Goshen,20-1,State House,5,REP,Under Votes,0
+Goshen,20-1,State House,5,DEM,Write-ins,0
+Goshen,20-1,Ballots Cast,,REP,Ballots Cast,18
+Goshen,20-1,Ballots Cast,,DEM,Ballots Cast,0
+Goshen,20-1,Ballots Cast,,NP,Ballots Cast,0
+Goshen,20-1,Ballots Cast,,,Ballots Cast,18

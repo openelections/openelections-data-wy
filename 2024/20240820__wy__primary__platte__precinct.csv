@@ -1,0 +1,353 @@
+county,precinct,office,district,party,candidate,votes
+Platte,1-1,U.S. Senate,,REP,John Barrasso,515
+Platte,1-1,U.S. Senate,,REP,John Holtz,51
+Platte,1-1,U.S. Senate,,REP,Reid Rasner,202
+Platte,1-1,U.S. Senate,,REP,Write-ins,2
+Platte,1-1,U.S. Senate,,REP,Over Votes,1
+Platte,1-1,U.S. Senate,,REP,Under Votes,12
+Platte,1-1,U.S. Senate,,DEM,Scott D Morrow,31
+Platte,1-1,U.S. Senate,,DEM,Write-ins,2
+Platte,1-1,U.S. Senate,,DEM,Over Votes,0
+Platte,1-1,U.S. Senate,,DEM,Under Votes,0
+Platte,1-1,U.S. House,,REP,Harriet Hageman,684
+Platte,1-1,U.S. House,,REP,Steven R. Helling,85
+Platte,1-1,U.S. House,,REP,Write-ins,4
+Platte,1-1,U.S. House,,REP,Over Votes,0
+Platte,1-1,U.S. House,,REP,Under Votes,10
+Platte,1-1,U.S. House,,DEM,Kyle G. Cameron,32
+Platte,1-1,U.S. House,,DEM,Write-ins,0
+Platte,1-1,U.S. House,,DEM,Over Votes,0
+Platte,1-1,U.S. House,,DEM,Under Votes,1
+Platte,1-1,State Senate,6,REP,Darin Smith,226
+Platte,1-1,State Senate,6,REP,Eric D Johnston,353
+Platte,1-1,State Senate,6,REP,Gary Bjorklund,75
+Platte,1-1,State Senate,6,REP,Kim Withers,15
+Platte,1-1,State Senate,6,REP,Marc Torriani,52
+Platte,1-1,State Senate,6,REP,Taft C. Love,53
+Platte,1-1,State Senate,6,REP,Write-ins,1
+Platte,1-1,State Senate,6,REP,Over Votes,1
+Platte,1-1,State Senate,6,REP,Under Votes,7
+Platte,1-1,State Senate,6,DEM,Write-ins,4
+Platte,1-1,State Senate,6,DEM,Over Votes,0
+Platte,1-1,State Senate,6,DEM,Under Votes,29
+Platte,1-1,State House,4,REP,Jeffery Thomas,224
+Platte,1-1,State House,4,REP,Jeremy Haroldson,534
+Platte,1-1,State House,4,REP,Write-ins,7
+Platte,1-1,State House,4,REP,Over Votes,0
+Platte,1-1,State House,4,REP,Under Votes,18
+Platte,1-1,State House,4,DEM,Charles Randolph,26
+Platte,1-1,State House,4,DEM,Write-ins,1
+Platte,1-1,State House,4,DEM,Over Votes,0
+Platte,1-1,State House,4,DEM,Under Votes,6
+Platte,1-1,Ballots Cast,,REP,Ballots Cast,783
+Platte,1-1,Ballots Cast,,DEM,Ballots Cast,33
+Platte,1-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,1-1,Ballots Cast,,,Ballots Cast,816
+Platte,1-2,U.S. Senate,,REP,John Barrasso,52
+Platte,1-2,U.S. Senate,,REP,John Holtz,9
+Platte,1-2,U.S. Senate,,REP,Reid Rasner,28
+Platte,1-2,U.S. Senate,,REP,Write-ins,0
+Platte,1-2,U.S. Senate,,REP,Over Votes,0
+Platte,1-2,U.S. Senate,,REP,Under Votes,5
+Platte,1-2,U.S. Senate,,DEM,Scott D Morrow,1
+Platte,1-2,U.S. Senate,,DEM,Write-ins,0
+Platte,1-2,U.S. Senate,,DEM,Over Votes,0
+Platte,1-2,U.S. Senate,,DEM,Under Votes,0
+Platte,1-2,U.S. House,,REP,Harriet Hageman,79
+Platte,1-2,U.S. House,,REP,Steven R. Helling,8
+Platte,1-2,U.S. House,,REP,Write-ins,2
+Platte,1-2,U.S. House,,REP,Over Votes,0
+Platte,1-2,U.S. House,,REP,Under Votes,5
+Platte,1-2,U.S. House,,DEM,Kyle G. Cameron,1
+Platte,1-2,U.S. House,,DEM,Write-ins,0
+Platte,1-2,U.S. House,,DEM,Over Votes,0
+Platte,1-2,U.S. House,,DEM,Under Votes,0
+Platte,1-2,State Senate,6,REP,Darin Smith,38
+Platte,1-2,State Senate,6,REP,Eric D Johnston,37
+Platte,1-2,State Senate,6,REP,Gary Bjorklund,7
+Platte,1-2,State Senate,6,REP,Kim Withers,2
+Platte,1-2,State Senate,6,REP,Marc Torriani,0
+Platte,1-2,State Senate,6,REP,Taft C. Love,6
+Platte,1-2,State Senate,6,REP,Write-ins,0
+Platte,1-2,State Senate,6,REP,Over Votes,1
+Platte,1-2,State Senate,6,REP,Under Votes,3
+Platte,1-2,State Senate,6,DEM,Write-ins,0
+Platte,1-2,State Senate,6,DEM,Over Votes,0
+Platte,1-2,State Senate,6,DEM,Under Votes,1
+Platte,1-2,State House,4,REP,Jeffery Thomas,25
+Platte,1-2,State House,4,REP,Jeremy Haroldson,62
+Platte,1-2,State House,4,REP,Write-ins,0
+Platte,1-2,State House,4,REP,Over Votes,0
+Platte,1-2,State House,4,REP,Under Votes,7
+Platte,1-2,State House,4,DEM,Charles Randolph,1
+Platte,1-2,State House,4,DEM,Write-ins,0
+Platte,1-2,State House,4,DEM,Over Votes,0
+Platte,1-2,State House,4,DEM,Under Votes,0
+Platte,1-2,Ballots Cast,,REP,Ballots Cast,94
+Platte,1-2,Ballots Cast,,DEM,Ballots Cast,1
+Platte,1-2,Ballots Cast,,NP,Ballots Cast,0
+Platte,1-2,Ballots Cast,,,Ballots Cast,95
+Platte,1-3,U.S. Senate,,REP,John Barrasso,66
+Platte,1-3,U.S. Senate,,REP,John Holtz,6
+Platte,1-3,U.S. Senate,,REP,Reid Rasner,23
+Platte,1-3,U.S. Senate,,REP,Write-ins,0
+Platte,1-3,U.S. Senate,,REP,Over Votes,0
+Platte,1-3,U.S. Senate,,REP,Under Votes,6
+Platte,1-3,U.S. Senate,,DEM,Scott D Morrow,7
+Platte,1-3,U.S. Senate,,DEM,Write-ins,0
+Platte,1-3,U.S. Senate,,DEM,Over Votes,0
+Platte,1-3,U.S. Senate,,DEM,Under Votes,1
+Platte,1-3,U.S. House,,REP,Harriet Hageman,90
+Platte,1-3,U.S. House,,REP,Steven R. Helling,7
+Platte,1-3,U.S. House,,REP,Write-ins,0
+Platte,1-3,U.S. House,,REP,Over Votes,0
+Platte,1-3,U.S. House,,REP,Under Votes,4
+Platte,1-3,U.S. House,,DEM,Kyle G. Cameron,8
+Platte,1-3,U.S. House,,DEM,Write-ins,0
+Platte,1-3,U.S. House,,DEM,Over Votes,0
+Platte,1-3,U.S. House,,DEM,Under Votes,0
+Platte,1-3,State Senate,6,REP,Darin Smith,35
+Platte,1-3,State Senate,6,REP,Eric D Johnston,40
+Platte,1-3,State Senate,6,REP,Gary Bjorklund,7
+Platte,1-3,State Senate,6,REP,Kim Withers,6
+Platte,1-3,State Senate,6,REP,Marc Torriani,6
+Platte,1-3,State Senate,6,REP,Taft C. Love,6
+Platte,1-3,State Senate,6,REP,Write-ins,0
+Platte,1-3,State Senate,6,REP,Over Votes,0
+Platte,1-3,State Senate,6,REP,Under Votes,1
+Platte,1-3,State Senate,6,DEM,Write-ins,0
+Platte,1-3,State Senate,6,DEM,Over Votes,0
+Platte,1-3,State Senate,6,DEM,Under Votes,8
+Platte,1-3,State House,4,REP,Jeffery Thomas,16
+Platte,1-3,State House,4,REP,Jeremy Haroldson,77
+Platte,1-3,State House,4,REP,Write-ins,3
+Platte,1-3,State House,4,REP,Over Votes,0
+Platte,1-3,State House,4,REP,Under Votes,5
+Platte,1-3,State House,4,DEM,Charles Randolph,8
+Platte,1-3,State House,4,DEM,Write-ins,0
+Platte,1-3,State House,4,DEM,Over Votes,0
+Platte,1-3,State House,4,DEM,Under Votes,0
+Platte,1-3,Ballots Cast,,REP,Ballots Cast,101
+Platte,1-3,Ballots Cast,,DEM,Ballots Cast,8
+Platte,1-3,Ballots Cast,,NP,Ballots Cast,0
+Platte,1-3,Ballots Cast,,,Ballots Cast,109
+Platte,1-6,U.S. Senate,,REP,John Barrasso,552
+Platte,1-6,U.S. Senate,,REP,John Holtz,61
+Platte,1-6,U.S. Senate,,REP,Reid Rasner,253
+Platte,1-6,U.S. Senate,,REP,Write-ins,5
+Platte,1-6,U.S. Senate,,REP,Over Votes,1
+Platte,1-6,U.S. Senate,,REP,Under Votes,26
+Platte,1-6,U.S. Senate,,DEM,Scott D Morrow,74
+Platte,1-6,U.S. Senate,,DEM,Write-ins,0
+Platte,1-6,U.S. Senate,,DEM,Over Votes,0
+Platte,1-6,U.S. Senate,,DEM,Under Votes,6
+Platte,1-6,U.S. House,,REP,Harriet Hageman,711
+Platte,1-6,U.S. House,,REP,Steven R. Helling,151
+Platte,1-6,U.S. House,,REP,Write-ins,6
+Platte,1-6,U.S. House,,REP,Over Votes,2
+Platte,1-6,U.S. House,,REP,Under Votes,28
+Platte,1-6,U.S. House,,DEM,Kyle G. Cameron,74
+Platte,1-6,U.S. House,,DEM,Write-ins,0
+Platte,1-6,U.S. House,,DEM,Over Votes,0
+Platte,1-6,U.S. House,,DEM,Under Votes,6
+Platte,1-6,State Senate,6,REP,Darin Smith,300
+Platte,1-6,State Senate,6,REP,Eric D Johnston,373
+Platte,1-6,State Senate,6,REP,Gary Bjorklund,74
+Platte,1-6,State Senate,6,REP,Kim Withers,35
+Platte,1-6,State Senate,6,REP,Marc Torriani,44
+Platte,1-6,State Senate,6,REP,Taft C. Love,53
+Platte,1-6,State Senate,6,REP,Write-ins,3
+Platte,1-6,State Senate,6,REP,Over Votes,4
+Platte,1-6,State Senate,6,REP,Under Votes,12
+Platte,1-6,State Senate,6,DEM,Write-ins,5
+Platte,1-6,State Senate,6,DEM,Over Votes,0
+Platte,1-6,State Senate,6,DEM,Under Votes,75
+Platte,1-6,State House,4,REP,Jeffery Thomas,301
+Platte,1-6,State House,4,REP,Jeremy Haroldson,544
+Platte,1-6,State House,4,REP,Write-ins,18
+Platte,1-6,State House,4,REP,Over Votes,0
+Platte,1-6,State House,4,REP,Under Votes,35
+Platte,1-6,State House,4,DEM,Charles Randolph,70
+Platte,1-6,State House,4,DEM,Write-ins,0
+Platte,1-6,State House,4,DEM,Over Votes,0
+Platte,1-6,State House,4,DEM,Under Votes,10
+Platte,1-6,Ballots Cast,,REP,Ballots Cast,898
+Platte,1-6,Ballots Cast,,DEM,Ballots Cast,80
+Platte,1-6,Ballots Cast,,NP,Ballots Cast,36
+Platte,1-6,Ballots Cast,,,Ballots Cast,1014
+Platte,2-1,U.S. Senate,,REP,John Barrasso,134
+Platte,2-1,U.S. Senate,,REP,John Holtz,15
+Platte,2-1,U.S. Senate,,REP,Reid Rasner,95
+Platte,2-1,U.S. Senate,,REP,Write-ins,4
+Platte,2-1,U.S. Senate,,REP,Over Votes,1
+Platte,2-1,U.S. Senate,,REP,Under Votes,1
+Platte,2-1,U.S. Senate,,DEM,Scott D Morrow,49
+Platte,2-1,U.S. Senate,,DEM,Write-ins,0
+Platte,2-1,U.S. Senate,,DEM,Over Votes,0
+Platte,2-1,U.S. Senate,,DEM,Under Votes,0
+Platte,2-1,U.S. House,,REP,Harriet Hageman,209
+Platte,2-1,U.S. House,,REP,Steven R. Helling,33
+Platte,2-1,U.S. House,,REP,Write-ins,3
+Platte,2-1,U.S. House,,REP,Over Votes,1
+Platte,2-1,U.S. House,,REP,Under Votes,4
+Platte,2-1,U.S. House,,DEM,Kyle G. Cameron,46
+Platte,2-1,U.S. House,,DEM,Write-ins,1
+Platte,2-1,U.S. House,,DEM,Over Votes,0
+Platte,2-1,U.S. House,,DEM,Under Votes,2
+Platte,2-1,State Senate,6,REP,Darin Smith,87
+Platte,2-1,State Senate,6,REP,Eric D Johnston,43
+Platte,2-1,State Senate,6,REP,Gary Bjorklund,13
+Platte,2-1,State Senate,6,REP,Kim Withers,16
+Platte,2-1,State Senate,6,REP,Marc Torriani,44
+Platte,2-1,State Senate,6,REP,Taft C. Love,40
+Platte,2-1,State Senate,6,REP,Write-ins,2
+Platte,2-1,State Senate,6,REP,Over Votes,0
+Platte,2-1,State Senate,6,REP,Under Votes,5
+Platte,2-1,State Senate,6,DEM,Write-ins,2
+Platte,2-1,State Senate,6,DEM,Over Votes,0
+Platte,2-1,State Senate,6,DEM,Under Votes,47
+Platte,2-1,State House,4,REP,Jeffery Thomas,110
+Platte,2-1,State House,4,REP,Jeremy Haroldson,126
+Platte,2-1,State House,4,REP,Write-ins,4
+Platte,2-1,State House,4,REP,Over Votes,2
+Platte,2-1,State House,4,REP,Under Votes,8
+Platte,2-1,State House,4,DEM,Charles Randolph,43
+Platte,2-1,State House,4,DEM,Write-ins,3
+Platte,2-1,State House,4,DEM,Over Votes,1
+Platte,2-1,State House,4,DEM,Under Votes,2
+Platte,2-1,Ballots Cast,,REP,Ballots Cast,250
+Platte,2-1,Ballots Cast,,DEM,Ballots Cast,49
+Platte,2-1,Ballots Cast,,NP,Ballots Cast,14
+Platte,2-1,Ballots Cast,,,Ballots Cast,313
+Platte,2-2,U.S. Senate,,REP,John Barrasso,71
+Platte,2-2,U.S. Senate,,REP,John Holtz,4
+Platte,2-2,U.S. Senate,,REP,Reid Rasner,44
+Platte,2-2,U.S. Senate,,REP,Write-ins,2
+Platte,2-2,U.S. Senate,,REP,Over Votes,0
+Platte,2-2,U.S. Senate,,REP,Under Votes,3
+Platte,2-2,U.S. Senate,,DEM,Scott D Morrow,3
+Platte,2-2,U.S. Senate,,DEM,Write-ins,0
+Platte,2-2,U.S. Senate,,DEM,Over Votes,0
+Platte,2-2,U.S. Senate,,DEM,Under Votes,0
+Platte,2-2,U.S. House,,REP,Harriet Hageman,112
+Platte,2-2,U.S. House,,REP,Steven R. Helling,10
+Platte,2-2,U.S. House,,REP,Write-ins,0
+Platte,2-2,U.S. House,,REP,Over Votes,1
+Platte,2-2,U.S. House,,REP,Under Votes,1
+Platte,2-2,U.S. House,,DEM,Kyle G. Cameron,3
+Platte,2-2,U.S. House,,DEM,Write-ins,0
+Platte,2-2,U.S. House,,DEM,Over Votes,0
+Platte,2-2,U.S. House,,DEM,Under Votes,0
+Platte,2-2,State Senate,6,REP,Darin Smith,38
+Platte,2-2,State Senate,6,REP,Eric D Johnston,39
+Platte,2-2,State Senate,6,REP,Gary Bjorklund,13
+Platte,2-2,State Senate,6,REP,Kim Withers,5
+Platte,2-2,State Senate,6,REP,Marc Torriani,3
+Platte,2-2,State Senate,6,REP,Taft C. Love,18
+Platte,2-2,State Senate,6,REP,Write-ins,1
+Platte,2-2,State Senate,6,REP,Over Votes,0
+Platte,2-2,State Senate,6,REP,Under Votes,7
+Platte,2-2,State Senate,6,DEM,Write-ins,1
+Platte,2-2,State Senate,6,DEM,Over Votes,0
+Platte,2-2,State Senate,6,DEM,Under Votes,2
+Platte,2-2,State House,4,REP,Jeffery Thomas,26
+Platte,2-2,State House,4,REP,Jeremy Haroldson,92
+Platte,2-2,State House,4,REP,Write-ins,0
+Platte,2-2,State House,4,REP,Over Votes,0
+Platte,2-2,State House,4,REP,Under Votes,6
+Platte,2-2,State House,4,DEM,Charles Randolph,2
+Platte,2-2,State House,4,DEM,Write-ins,0
+Platte,2-2,State House,4,DEM,Over Votes,0
+Platte,2-2,State House,4,DEM,Under Votes,1
+Platte,2-2,Ballots Cast,,REP,Ballots Cast,124
+Platte,2-2,Ballots Cast,,DEM,Ballots Cast,3
+Platte,2-2,Ballots Cast,,NP,Ballots Cast,0
+Platte,2-2,Ballots Cast,,,Ballots Cast,127
+Platte,3-1,U.S. Senate,,REP,John Barrasso,135
+Platte,3-1,U.S. Senate,,REP,John Holtz,6
+Platte,3-1,U.S. Senate,,REP,Reid Rasner,53
+Platte,3-1,U.S. Senate,,REP,Write-ins,0
+Platte,3-1,U.S. Senate,,REP,Over Votes,0
+Platte,3-1,U.S. Senate,,REP,Under Votes,3
+Platte,3-1,U.S. Senate,,DEM,Scott D Morrow,9
+Platte,3-1,U.S. Senate,,DEM,Write-ins,0
+Platte,3-1,U.S. Senate,,DEM,Over Votes,0
+Platte,3-1,U.S. Senate,,DEM,Under Votes,0
+Platte,3-1,U.S. House,,REP,Harriet Hageman,177
+Platte,3-1,U.S. House,,REP,Steven R. Helling,16
+Platte,3-1,U.S. House,,REP,Write-ins,1
+Platte,3-1,U.S. House,,REP,Over Votes,1
+Platte,3-1,U.S. House,,REP,Under Votes,2
+Platte,3-1,U.S. House,,DEM,Kyle G. Cameron,8
+Platte,3-1,U.S. House,,DEM,Write-ins,0
+Platte,3-1,U.S. House,,DEM,Over Votes,0
+Platte,3-1,U.S. House,,DEM,Under Votes,1
+Platte,3-1,State Senate,6,REP,Darin Smith,69
+Platte,3-1,State Senate,6,REP,Eric D Johnston,58
+Platte,3-1,State Senate,6,REP,Gary Bjorklund,18
+Platte,3-1,State Senate,6,REP,Kim Withers,18
+Platte,3-1,State Senate,6,REP,Marc Torriani,10
+Platte,3-1,State Senate,6,REP,Taft C. Love,18
+Platte,3-1,State Senate,6,REP,Write-ins,0
+Platte,3-1,State Senate,6,REP,Over Votes,0
+Platte,3-1,State Senate,6,REP,Under Votes,6
+Platte,3-1,State Senate,6,DEM,Write-ins,0
+Platte,3-1,State Senate,6,DEM,Over Votes,0
+Platte,3-1,State Senate,6,DEM,Under Votes,9
+Platte,3-1,State House,4,REP,Jeffery Thomas,56
+Platte,3-1,State House,4,REP,Jeremy Haroldson,123
+Platte,3-1,State House,4,REP,Write-ins,2
+Platte,3-1,State House,4,REP,Over Votes,0
+Platte,3-1,State House,4,REP,Under Votes,16
+Platte,3-1,State House,4,DEM,Charles Randolph,7
+Platte,3-1,State House,4,DEM,Write-ins,0
+Platte,3-1,State House,4,DEM,Over Votes,0
+Platte,3-1,State House,4,DEM,Under Votes,2
+Platte,3-1,Ballots Cast,,REP,Ballots Cast,197
+Platte,3-1,Ballots Cast,,DEM,Ballots Cast,9
+Platte,3-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,3-1,Ballots Cast,,,Ballots Cast,206
+Platte,4-1,U.S. Senate,,REP,John Barrasso,108
+Platte,4-1,U.S. Senate,,REP,John Holtz,3
+Platte,4-1,U.S. Senate,,REP,Reid Rasner,34
+Platte,4-1,U.S. Senate,,REP,Write-ins,1
+Platte,4-1,U.S. Senate,,REP,Over Votes,0
+Platte,4-1,U.S. Senate,,REP,Under Votes,3
+Platte,4-1,U.S. Senate,,DEM,Scott D Morrow,6
+Platte,4-1,U.S. Senate,,DEM,Write-ins,0
+Platte,4-1,U.S. Senate,,DEM,Over Votes,0
+Platte,4-1,U.S. Senate,,DEM,Under Votes,3
+Platte,4-1,U.S. House,,REP,Harriet Hageman,132
+Platte,4-1,U.S. House,,REP,Steven R. Helling,16
+Platte,4-1,U.S. House,,REP,Write-ins,0
+Platte,4-1,U.S. House,,REP,Over Votes,0
+Platte,4-1,U.S. House,,REP,Under Votes,1
+Platte,4-1,U.S. House,,DEM,Kyle G. Cameron,5
+Platte,4-1,U.S. House,,DEM,Write-ins,1
+Platte,4-1,U.S. House,,DEM,Over Votes,0
+Platte,4-1,U.S. House,,DEM,Under Votes,3
+Platte,4-1,State Senate,6,REP,Darin Smith,44
+Platte,4-1,State Senate,6,REP,Eric D Johnston,62
+Platte,4-1,State Senate,6,REP,Gary Bjorklund,9
+Platte,4-1,State Senate,6,REP,Kim Withers,8
+Platte,4-1,State Senate,6,REP,Marc Torriani,11
+Platte,4-1,State Senate,6,REP,Taft C. Love,14
+Platte,4-1,State Senate,6,REP,Write-ins,0
+Platte,4-1,State Senate,6,REP,Over Votes,0
+Platte,4-1,State Senate,6,REP,Under Votes,1
+Platte,4-1,State Senate,6,DEM,Write-ins,1
+Platte,4-1,State Senate,6,DEM,Over Votes,0
+Platte,4-1,State Senate,6,DEM,Under Votes,8
+Platte,4-1,State House,4,REP,Jeffery Thomas,36
+Platte,4-1,State House,4,REP,Jeremy Haroldson,108
+Platte,4-1,State House,4,REP,Write-ins,0
+Platte,4-1,State House,4,REP,Over Votes,0
+Platte,4-1,State House,4,REP,Under Votes,5
+Platte,4-1,State House,4,DEM,Charles Randolph,4
+Platte,4-1,State House,4,DEM,Write-ins,0
+Platte,4-1,State House,4,DEM,Over Votes,0
+Platte,4-1,State House,4,DEM,Under Votes,5
+Platte,4-1,Ballots Cast,,REP,Ballots Cast,149
+Platte,4-1,Ballots Cast,,DEM,Ballots Cast,9
+Platte,4-1,Ballots Cast,,NP,Ballots Cast,5
+Platte,4-1,Ballots Cast,,,Ballots Cast,163

@@ -1,0 +1,769 @@
+county,precinct,office,district,party,candidate,votes
+Johnson,10-15,U.S. Senate,,REP,Bryan E Miller,8
+Johnson,10-15,U.S. Senate,,REP,Cynthia M. Lummis,16
+Johnson,10-15,U.S. Senate,,REP,Devon Cade,1
+Johnson,10-15,U.S. Senate,,REP,Donna Rice,3
+Johnson,10-15,U.S. Senate,,REP,John Holtz,1
+Johnson,10-15,U.S. Senate,,REP,Josh Wheeler,0
+Johnson,10-15,U.S. Senate,,REP,Michael Kemler,0
+Johnson,10-15,U.S. Senate,,REP,R. Mark Armstrong,0
+Johnson,10-15,U.S. Senate,,REP,Robert G. Short,11
+Johnson,10-15,U.S. Senate,,REP,Star Roselli,0
+Johnson,10-15,U.S. Senate,,REP,Write-ins,0
+Johnson,10-15,U.S. Senate,,REP,Over Votes,0
+Johnson,10-15,U.S. Senate,,REP,Under Votes,0
+Johnson,10-15,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,10-15,U.S. Senate,,DEM,Kenneth R. Casner,0
+Johnson,10-15,U.S. Senate,,DEM,Merav Ben David,0
+Johnson,10-15,U.S. Senate,,DEM,Nathan Wendt,0
+Johnson,10-15,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,10-15,U.S. Senate,,DEM,Yana Ludwig,0
+Johnson,10-15,U.S. Senate,,DEM,Write-ins,0
+Johnson,10-15,U.S. Senate,,DEM,Over Votes,0
+Johnson,10-15,U.S. Senate,,DEM,Under Votes,0
+Johnson,10-15,U.S. House,,REP,Blake Stanley,5
+Johnson,10-15,U.S. House,,REP,Liz Cheney,35
+Johnson,10-15,U.S. House,,REP,Write-ins,0
+Johnson,10-15,U.S. House,,REP,Over Votes,0
+Johnson,10-15,U.S. House,,REP,Under Votes,0
+Johnson,10-15,U.S. House,,DEM,Carl Beach,0
+Johnson,10-15,U.S. House,,DEM,Carol Hafner,0
+Johnson,10-15,U.S. House,,DEM,Lynnette Grey Bull,0
+Johnson,10-15,U.S. House,,DEM,Write-ins,0
+Johnson,10-15,U.S. House,,DEM,Over Votes,0
+Johnson,10-15,U.S. House,,DEM,Under Votes,0
+Johnson,10-15,State Senate,22,REP,Dave Kinskey,34
+Johnson,10-15,State Senate,22,REP,Write-ins,1
+Johnson,10-15,State Senate,22,REP,Over Votes,0
+Johnson,10-15,State Senate,22,REP,Under Votes,5
+Johnson,10-15,State Senate,22,DEM,Write-ins,0
+Johnson,10-15,State House,40,REP,Barry Crago,32
+Johnson,10-15,State House,40,REP,Richard L. Tass,8
+Johnson,10-15,State House,40,REP,Write-ins,0
+Johnson,10-15,State House,40,REP,Over Votes,0
+Johnson,10-15,State House,40,REP,Under Votes,0
+Johnson,10-15,State House,40,DEM,Write-ins,0
+Johnson,10-15,Ballots Cast,,REP,Ballots Cast,40
+Johnson,10-15,Ballots Cast,,DEM,Ballots Cast,0
+Johnson,10-15,Ballots Cast,,NP,Ballots Cast,0
+Johnson,10-15,Ballots Cast,,,Ballots Cast,40
+Johnson,2-14,U.S. Senate,,REP,Bryan E Miller,26
+Johnson,2-14,U.S. Senate,,REP,Cynthia M. Lummis,51
+Johnson,2-14,U.S. Senate,,REP,Devon Cade,4
+Johnson,2-14,U.S. Senate,,REP,Donna Rice,3
+Johnson,2-14,U.S. Senate,,REP,John Holtz,1
+Johnson,2-14,U.S. Senate,,REP,Josh Wheeler,2
+Johnson,2-14,U.S. Senate,,REP,Michael Kemler,1
+Johnson,2-14,U.S. Senate,,REP,R. Mark Armstrong,1
+Johnson,2-14,U.S. Senate,,REP,Robert G. Short,20
+Johnson,2-14,U.S. Senate,,REP,Star Roselli,0
+Johnson,2-14,U.S. Senate,,REP,Write-ins,0
+Johnson,2-14,U.S. Senate,,REP,Over Votes,0
+Johnson,2-14,U.S. Senate,,REP,Under Votes,4
+Johnson,2-14,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,2-14,U.S. Senate,,DEM,Kenneth R. Casner,1
+Johnson,2-14,U.S. Senate,,DEM,Merav Ben David,5
+Johnson,2-14,U.S. Senate,,DEM,Nathan Wendt,0
+Johnson,2-14,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,2-14,U.S. Senate,,DEM,Yana Ludwig,2
+Johnson,2-14,U.S. Senate,,DEM,Write-ins,0
+Johnson,2-14,U.S. Senate,,DEM,Over Votes,0
+Johnson,2-14,U.S. Senate,,DEM,Under Votes,0
+Johnson,2-14,U.S. House,,REP,Blake Stanley,37
+Johnson,2-14,U.S. House,,REP,Liz Cheney,76
+Johnson,2-14,U.S. House,,REP,Write-ins,0
+Johnson,2-14,U.S. House,,REP,Over Votes,0
+Johnson,2-14,U.S. House,,REP,Under Votes,0
+Johnson,2-14,U.S. House,,DEM,Carl Beach,1
+Johnson,2-14,U.S. House,,DEM,Carol Hafner,4
+Johnson,2-14,U.S. House,,DEM,Lynnette Grey Bull,3
+Johnson,2-14,U.S. House,,DEM,Write-ins,0
+Johnson,2-14,U.S. House,,DEM,Over Votes,0
+Johnson,2-14,U.S. House,,DEM,Under Votes,0
+Johnson,2-14,State Senate,22,REP,Dave Kinskey,99
+Johnson,2-14,State Senate,22,REP,Write-ins,2
+Johnson,2-14,State Senate,22,REP,Over Votes,0
+Johnson,2-14,State Senate,22,REP,Under Votes,12
+Johnson,2-14,State Senate,22,DEM,Write-ins,0
+Johnson,2-14,State House,40,REP,Barry Crago,56
+Johnson,2-14,State House,40,REP,Richard L. Tass,52
+Johnson,2-14,State House,40,REP,Write-ins,0
+Johnson,2-14,State House,40,REP,Over Votes,0
+Johnson,2-14,State House,40,REP,Under Votes,5
+Johnson,2-14,State House,40,DEM,Write-ins,0
+Johnson,2-14,Ballots Cast,,REP,Ballots Cast,113
+Johnson,2-14,Ballots Cast,,DEM,Ballots Cast,8
+Johnson,2-14,Ballots Cast,,NP,Ballots Cast,0
+Johnson,2-14,Ballots Cast,,,Ballots Cast,121
+Johnson,3-1,U.S. Senate,,REP,Bryan E Miller,32
+Johnson,3-1,U.S. Senate,,REP,Cynthia M. Lummis,118
+Johnson,3-1,U.S. Senate,,REP,Devon Cade,7
+Johnson,3-1,U.S. Senate,,REP,Donna Rice,13
+Johnson,3-1,U.S. Senate,,REP,John Holtz,2
+Johnson,3-1,U.S. Senate,,REP,Josh Wheeler,2
+Johnson,3-1,U.S. Senate,,REP,Michael Kemler,0
+Johnson,3-1,U.S. Senate,,REP,R. Mark Armstrong,5
+Johnson,3-1,U.S. Senate,,REP,Robert G. Short,82
+Johnson,3-1,U.S. Senate,,REP,Star Roselli,1
+Johnson,3-1,U.S. Senate,,REP,Write-ins,0
+Johnson,3-1,U.S. Senate,,REP,Over Votes,0
+Johnson,3-1,U.S. Senate,,REP,Under Votes,16
+Johnson,3-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,3-1,U.S. Senate,,DEM,Kenneth R. Casner,2
+Johnson,3-1,U.S. Senate,,DEM,Merav Ben David,6
+Johnson,3-1,U.S. Senate,,DEM,Nathan Wendt,5
+Johnson,3-1,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,3-1,U.S. Senate,,DEM,Yana Ludwig,4
+Johnson,3-1,U.S. Senate,,DEM,Write-ins,0
+Johnson,3-1,U.S. Senate,,DEM,Over Votes,0
+Johnson,3-1,U.S. Senate,,DEM,Under Votes,2
+Johnson,3-1,U.S. House,,REP,Blake Stanley,53
+Johnson,3-1,U.S. House,,REP,Liz Cheney,206
+Johnson,3-1,U.S. House,,REP,Write-ins,2
+Johnson,3-1,U.S. House,,REP,Over Votes,1
+Johnson,3-1,U.S. House,,REP,Under Votes,16
+Johnson,3-1,U.S. House,,DEM,Carl Beach,1
+Johnson,3-1,U.S. House,,DEM,Carol Hafner,3
+Johnson,3-1,U.S. House,,DEM,Lynnette Grey Bull,12
+Johnson,3-1,U.S. House,,DEM,Write-ins,0
+Johnson,3-1,U.S. House,,DEM,Over Votes,0
+Johnson,3-1,U.S. House,,DEM,Under Votes,3
+Johnson,3-1,State Senate,22,REP,Dave Kinskey,228
+Johnson,3-1,State Senate,22,REP,Write-ins,6
+Johnson,3-1,State Senate,22,REP,Over Votes,0
+Johnson,3-1,State Senate,22,REP,Under Votes,44
+Johnson,3-1,State Senate,22,DEM,Write-ins,0
+Johnson,3-1,State House,40,REP,Barry Crago,186
+Johnson,3-1,State House,40,REP,Richard L. Tass,87
+Johnson,3-1,State House,40,REP,Write-ins,0
+Johnson,3-1,State House,40,REP,Over Votes,0
+Johnson,3-1,State House,40,REP,Under Votes,5
+Johnson,3-1,State House,40,DEM,Write-ins,4
+Johnson,3-1,Ballots Cast,,REP,Ballots Cast,278
+Johnson,3-1,Ballots Cast,,DEM,Ballots Cast,19
+Johnson,3-1,Ballots Cast,,NP,Ballots Cast,3
+Johnson,3-1,Ballots Cast,,,Ballots Cast,300
+Johnson,3-2,U.S. Senate,,REP,Bryan E Miller,14
+Johnson,3-2,U.S. Senate,,REP,Cynthia M. Lummis,72
+Johnson,3-2,U.S. Senate,,REP,Devon Cade,0
+Johnson,3-2,U.S. Senate,,REP,Donna Rice,6
+Johnson,3-2,U.S. Senate,,REP,John Holtz,1
+Johnson,3-2,U.S. Senate,,REP,Josh Wheeler,3
+Johnson,3-2,U.S. Senate,,REP,Michael Kemler,0
+Johnson,3-2,U.S. Senate,,REP,R. Mark Armstrong,4
+Johnson,3-2,U.S. Senate,,REP,Robert G. Short,42
+Johnson,3-2,U.S. Senate,,REP,Star Roselli,0
+Johnson,3-2,U.S. Senate,,REP,Write-ins,0
+Johnson,3-2,U.S. Senate,,REP,Over Votes,0
+Johnson,3-2,U.S. Senate,,REP,Under Votes,8
+Johnson,3-2,U.S. Senate,,DEM,James Kirk DeBrine,1
+Johnson,3-2,U.S. Senate,,DEM,Kenneth R. Casner,0
+Johnson,3-2,U.S. Senate,,DEM,Merav Ben David,10
+Johnson,3-2,U.S. Senate,,DEM,Nathan Wendt,1
+Johnson,3-2,U.S. Senate,,DEM,Rex Wilde,3
+Johnson,3-2,U.S. Senate,,DEM,Yana Ludwig,5
+Johnson,3-2,U.S. Senate,,DEM,Write-ins,0
+Johnson,3-2,U.S. Senate,,DEM,Over Votes,0
+Johnson,3-2,U.S. Senate,,DEM,Under Votes,1
+Johnson,3-2,U.S. House,,REP,Blake Stanley,36
+Johnson,3-2,U.S. House,,REP,Liz Cheney,107
+Johnson,3-2,U.S. House,,REP,Write-ins,0
+Johnson,3-2,U.S. House,,REP,Over Votes,0
+Johnson,3-2,U.S. House,,REP,Under Votes,7
+Johnson,3-2,U.S. House,,DEM,Carl Beach,2
+Johnson,3-2,U.S. House,,DEM,Carol Hafner,8
+Johnson,3-2,U.S. House,,DEM,Lynnette Grey Bull,10
+Johnson,3-2,U.S. House,,DEM,Write-ins,0
+Johnson,3-2,U.S. House,,DEM,Over Votes,0
+Johnson,3-2,U.S. House,,DEM,Under Votes,1
+Johnson,3-2,State Senate,22,REP,Dave Kinskey,128
+Johnson,3-2,State Senate,22,REP,Write-ins,1
+Johnson,3-2,State Senate,22,REP,Over Votes,0
+Johnson,3-2,State Senate,22,REP,Under Votes,21
+Johnson,3-2,State Senate,22,DEM,Write-ins,1
+Johnson,3-2,State House,40,REP,Barry Crago,81
+Johnson,3-2,State House,40,REP,Richard L. Tass,64
+Johnson,3-2,State House,40,REP,Write-ins,0
+Johnson,3-2,State House,40,REP,Over Votes,0
+Johnson,3-2,State House,40,REP,Under Votes,5
+Johnson,3-2,State House,40,DEM,Write-ins,1
+Johnson,3-2,Ballots Cast,,REP,Ballots Cast,150
+Johnson,3-2,Ballots Cast,,DEM,Ballots Cast,21
+Johnson,3-2,Ballots Cast,,NP,Ballots Cast,8
+Johnson,3-2,Ballots Cast,,,Ballots Cast,179
+Johnson,3-3,U.S. Senate,,REP,Bryan E Miller,7
+Johnson,3-3,U.S. Senate,,REP,Cynthia M. Lummis,71
+Johnson,3-3,U.S. Senate,,REP,Devon Cade,1
+Johnson,3-3,U.S. Senate,,REP,Donna Rice,10
+Johnson,3-3,U.S. Senate,,REP,John Holtz,0
+Johnson,3-3,U.S. Senate,,REP,Josh Wheeler,3
+Johnson,3-3,U.S. Senate,,REP,Michael Kemler,2
+Johnson,3-3,U.S. Senate,,REP,R. Mark Armstrong,5
+Johnson,3-3,U.S. Senate,,REP,Robert G. Short,29
+Johnson,3-3,U.S. Senate,,REP,Star Roselli,1
+Johnson,3-3,U.S. Senate,,REP,Write-ins,1
+Johnson,3-3,U.S. Senate,,REP,Over Votes,0
+Johnson,3-3,U.S. Senate,,REP,Under Votes,3
+Johnson,3-3,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,3-3,U.S. Senate,,DEM,Kenneth R. Casner,3
+Johnson,3-3,U.S. Senate,,DEM,Merav Ben David,11
+Johnson,3-3,U.S. Senate,,DEM,Nathan Wendt,2
+Johnson,3-3,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,3-3,U.S. Senate,,DEM,Yana Ludwig,3
+Johnson,3-3,U.S. Senate,,DEM,Write-ins,0
+Johnson,3-3,U.S. Senate,,DEM,Over Votes,0
+Johnson,3-3,U.S. Senate,,DEM,Under Votes,3
+Johnson,3-3,U.S. House,,REP,Blake Stanley,32
+Johnson,3-3,U.S. House,,REP,Liz Cheney,98
+Johnson,3-3,U.S. House,,REP,Write-ins,0
+Johnson,3-3,U.S. House,,REP,Over Votes,0
+Johnson,3-3,U.S. House,,REP,Under Votes,3
+Johnson,3-3,U.S. House,,DEM,Carl Beach,6
+Johnson,3-3,U.S. House,,DEM,Carol Hafner,3
+Johnson,3-3,U.S. House,,DEM,Lynnette Grey Bull,11
+Johnson,3-3,U.S. House,,DEM,Write-ins,0
+Johnson,3-3,U.S. House,,DEM,Over Votes,0
+Johnson,3-3,U.S. House,,DEM,Under Votes,2
+Johnson,3-3,State Senate,22,REP,Dave Kinskey,113
+Johnson,3-3,State Senate,22,REP,Write-ins,4
+Johnson,3-3,State Senate,22,REP,Over Votes,0
+Johnson,3-3,State Senate,22,REP,Under Votes,16
+Johnson,3-3,State Senate,22,DEM,Write-ins,5
+Johnson,3-3,State House,40,REP,Barry Crago,70
+Johnson,3-3,State House,40,REP,Richard L. Tass,60
+Johnson,3-3,State House,40,REP,Write-ins,1
+Johnson,3-3,State House,40,REP,Over Votes,0
+Johnson,3-3,State House,40,REP,Under Votes,2
+Johnson,3-3,State House,40,DEM,Write-ins,5
+Johnson,3-3,Ballots Cast,,REP,Ballots Cast,133
+Johnson,3-3,Ballots Cast,,DEM,Ballots Cast,22
+Johnson,3-3,Ballots Cast,,NP,Ballots Cast,6
+Johnson,3-3,Ballots Cast,,,Ballots Cast,161
+Johnson,3-4,U.S. Senate,,REP,Bryan E Miller,22
+Johnson,3-4,U.S. Senate,,REP,Cynthia M. Lummis,81
+Johnson,3-4,U.S. Senate,,REP,Devon Cade,4
+Johnson,3-4,U.S. Senate,,REP,Donna Rice,2
+Johnson,3-4,U.S. Senate,,REP,John Holtz,2
+Johnson,3-4,U.S. Senate,,REP,Josh Wheeler,1
+Johnson,3-4,U.S. Senate,,REP,Michael Kemler,1
+Johnson,3-4,U.S. Senate,,REP,R. Mark Armstrong,7
+Johnson,3-4,U.S. Senate,,REP,Robert G. Short,41
+Johnson,3-4,U.S. Senate,,REP,Star Roselli,0
+Johnson,3-4,U.S. Senate,,REP,Write-ins,2
+Johnson,3-4,U.S. Senate,,REP,Over Votes,1
+Johnson,3-4,U.S. Senate,,REP,Under Votes,3
+Johnson,3-4,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,3-4,U.S. Senate,,DEM,Kenneth R. Casner,1
+Johnson,3-4,U.S. Senate,,DEM,Merav Ben David,8
+Johnson,3-4,U.S. Senate,,DEM,Nathan Wendt,0
+Johnson,3-4,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,3-4,U.S. Senate,,DEM,Yana Ludwig,4
+Johnson,3-4,U.S. Senate,,DEM,Write-ins,0
+Johnson,3-4,U.S. Senate,,DEM,Over Votes,0
+Johnson,3-4,U.S. Senate,,DEM,Under Votes,0
+Johnson,3-4,U.S. House,,REP,Blake Stanley,42
+Johnson,3-4,U.S. House,,REP,Liz Cheney,117
+Johnson,3-4,U.S. House,,REP,Write-ins,1
+Johnson,3-4,U.S. House,,REP,Over Votes,0
+Johnson,3-4,U.S. House,,REP,Under Votes,7
+Johnson,3-4,U.S. House,,DEM,Carl Beach,4
+Johnson,3-4,U.S. House,,DEM,Carol Hafner,5
+Johnson,3-4,U.S. House,,DEM,Lynnette Grey Bull,4
+Johnson,3-4,U.S. House,,DEM,Write-ins,0
+Johnson,3-4,U.S. House,,DEM,Over Votes,0
+Johnson,3-4,U.S. House,,DEM,Under Votes,0
+Johnson,3-4,State Senate,22,REP,Dave Kinskey,143
+Johnson,3-4,State Senate,22,REP,Write-ins,2
+Johnson,3-4,State Senate,22,REP,Over Votes,0
+Johnson,3-4,State Senate,22,REP,Under Votes,22
+Johnson,3-4,State Senate,22,DEM,Write-ins,1
+Johnson,3-4,State House,40,REP,Barry Crago,107
+Johnson,3-4,State House,40,REP,Richard L. Tass,59
+Johnson,3-4,State House,40,REP,Write-ins,0
+Johnson,3-4,State House,40,REP,Over Votes,0
+Johnson,3-4,State House,40,REP,Under Votes,1
+Johnson,3-4,State House,40,DEM,Write-ins,0
+Johnson,3-4,Ballots Cast,,REP,Ballots Cast,167
+Johnson,3-4,Ballots Cast,,DEM,Ballots Cast,13
+Johnson,3-4,Ballots Cast,,NP,Ballots Cast,4
+Johnson,3-4,Ballots Cast,,,Ballots Cast,184
+Johnson,3-5,U.S. Senate,,REP,Bryan E Miller,7
+Johnson,3-5,U.S. Senate,,REP,Cynthia M. Lummis,45
+Johnson,3-5,U.S. Senate,,REP,Devon Cade,2
+Johnson,3-5,U.S. Senate,,REP,Donna Rice,4
+Johnson,3-5,U.S. Senate,,REP,John Holtz,2
+Johnson,3-5,U.S. Senate,,REP,Josh Wheeler,2
+Johnson,3-5,U.S. Senate,,REP,Michael Kemler,0
+Johnson,3-5,U.S. Senate,,REP,R. Mark Armstrong,3
+Johnson,3-5,U.S. Senate,,REP,Robert G. Short,28
+Johnson,3-5,U.S. Senate,,REP,Star Roselli,1
+Johnson,3-5,U.S. Senate,,REP,Write-ins,1
+Johnson,3-5,U.S. Senate,,REP,Over Votes,0
+Johnson,3-5,U.S. Senate,,REP,Under Votes,1
+Johnson,3-5,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,3-5,U.S. Senate,,DEM,Kenneth R. Casner,1
+Johnson,3-5,U.S. Senate,,DEM,Merav Ben David,9
+Johnson,3-5,U.S. Senate,,DEM,Nathan Wendt,2
+Johnson,3-5,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,3-5,U.S. Senate,,DEM,Yana Ludwig,0
+Johnson,3-5,U.S. Senate,,DEM,Write-ins,0
+Johnson,3-5,U.S. Senate,,DEM,Over Votes,0
+Johnson,3-5,U.S. Senate,,DEM,Under Votes,1
+Johnson,3-5,U.S. House,,REP,Blake Stanley,28
+Johnson,3-5,U.S. House,,REP,Liz Cheney,66
+Johnson,3-5,U.S. House,,REP,Write-ins,0
+Johnson,3-5,U.S. House,,REP,Over Votes,0
+Johnson,3-5,U.S. House,,REP,Under Votes,2
+Johnson,3-5,U.S. House,,DEM,Carl Beach,1
+Johnson,3-5,U.S. House,,DEM,Carol Hafner,3
+Johnson,3-5,U.S. House,,DEM,Lynnette Grey Bull,8
+Johnson,3-5,U.S. House,,DEM,Write-ins,0
+Johnson,3-5,U.S. House,,DEM,Over Votes,0
+Johnson,3-5,U.S. House,,DEM,Under Votes,1
+Johnson,3-5,State Senate,22,REP,Dave Kinskey,81
+Johnson,3-5,State Senate,22,REP,Write-ins,1
+Johnson,3-5,State Senate,22,REP,Over Votes,0
+Johnson,3-5,State Senate,22,REP,Under Votes,14
+Johnson,3-5,State Senate,22,DEM,Write-ins,1
+Johnson,3-5,State House,40,REP,Barry Crago,49
+Johnson,3-5,State House,40,REP,Richard L. Tass,44
+Johnson,3-5,State House,40,REP,Write-ins,0
+Johnson,3-5,State House,40,REP,Over Votes,1
+Johnson,3-5,State House,40,REP,Under Votes,2
+Johnson,3-5,State House,40,DEM,Write-ins,1
+Johnson,3-5,Ballots Cast,,REP,Ballots Cast,96
+Johnson,3-5,Ballots Cast,,DEM,Ballots Cast,13
+Johnson,3-5,Ballots Cast,,NP,Ballots Cast,4
+Johnson,3-5,Ballots Cast,,,Ballots Cast,113
+Johnson,3-6,U.S. Senate,,REP,Bryan E Miller,3
+Johnson,3-6,U.S. Senate,,REP,Cynthia M. Lummis,63
+Johnson,3-6,U.S. Senate,,REP,Devon Cade,1
+Johnson,3-6,U.S. Senate,,REP,Donna Rice,1
+Johnson,3-6,U.S. Senate,,REP,John Holtz,1
+Johnson,3-6,U.S. Senate,,REP,Josh Wheeler,6
+Johnson,3-6,U.S. Senate,,REP,Michael Kemler,3
+Johnson,3-6,U.S. Senate,,REP,R. Mark Armstrong,4
+Johnson,3-6,U.S. Senate,,REP,Robert G. Short,22
+Johnson,3-6,U.S. Senate,,REP,Star Roselli,1
+Johnson,3-6,U.S. Senate,,REP,Write-ins,0
+Johnson,3-6,U.S. Senate,,REP,Over Votes,1
+Johnson,3-6,U.S. Senate,,REP,Under Votes,7
+Johnson,3-6,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,3-6,U.S. Senate,,DEM,Kenneth R. Casner,1
+Johnson,3-6,U.S. Senate,,DEM,Merav Ben David,8
+Johnson,3-6,U.S. Senate,,DEM,Nathan Wendt,4
+Johnson,3-6,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,3-6,U.S. Senate,,DEM,Yana Ludwig,2
+Johnson,3-6,U.S. Senate,,DEM,Write-ins,0
+Johnson,3-6,U.S. Senate,,DEM,Over Votes,0
+Johnson,3-6,U.S. Senate,,DEM,Under Votes,0
+Johnson,3-6,U.S. House,,REP,Blake Stanley,29
+Johnson,3-6,U.S. House,,REP,Liz Cheney,78
+Johnson,3-6,U.S. House,,REP,Write-ins,0
+Johnson,3-6,U.S. House,,REP,Over Votes,0
+Johnson,3-6,U.S. House,,REP,Under Votes,6
+Johnson,3-6,U.S. House,,DEM,Carl Beach,2
+Johnson,3-6,U.S. House,,DEM,Carol Hafner,3
+Johnson,3-6,U.S. House,,DEM,Lynnette Grey Bull,10
+Johnson,3-6,U.S. House,,DEM,Write-ins,0
+Johnson,3-6,U.S. House,,DEM,Over Votes,0
+Johnson,3-6,U.S. House,,DEM,Under Votes,0
+Johnson,3-6,State Senate,22,REP,Dave Kinskey,90
+Johnson,3-6,State Senate,22,REP,Write-ins,1
+Johnson,3-6,State Senate,22,REP,Over Votes,0
+Johnson,3-6,State Senate,22,REP,Under Votes,22
+Johnson,3-6,State Senate,22,DEM,Write-ins,2
+Johnson,3-6,State House,40,REP,Barry Crago,53
+Johnson,3-6,State House,40,REP,Richard L. Tass,56
+Johnson,3-6,State House,40,REP,Write-ins,0
+Johnson,3-6,State House,40,REP,Over Votes,1
+Johnson,3-6,State House,40,REP,Under Votes,3
+Johnson,3-6,State House,40,DEM,Write-ins,4
+Johnson,3-6,Ballots Cast,,REP,Ballots Cast,113
+Johnson,3-6,Ballots Cast,,DEM,Ballots Cast,15
+Johnson,3-6,Ballots Cast,,NP,Ballots Cast,6
+Johnson,3-6,Ballots Cast,,,Ballots Cast,134
+Johnson,3-7,U.S. Senate,,REP,Bryan E Miller,15
+Johnson,3-7,U.S. Senate,,REP,Cynthia M. Lummis,80
+Johnson,3-7,U.S. Senate,,REP,Devon Cade,4
+Johnson,3-7,U.S. Senate,,REP,Donna Rice,6
+Johnson,3-7,U.S. Senate,,REP,John Holtz,0
+Johnson,3-7,U.S. Senate,,REP,Josh Wheeler,2
+Johnson,3-7,U.S. Senate,,REP,Michael Kemler,0
+Johnson,3-7,U.S. Senate,,REP,R. Mark Armstrong,7
+Johnson,3-7,U.S. Senate,,REP,Robert G. Short,30
+Johnson,3-7,U.S. Senate,,REP,Star Roselli,0
+Johnson,3-7,U.S. Senate,,REP,Write-ins,0
+Johnson,3-7,U.S. Senate,,REP,Over Votes,1
+Johnson,3-7,U.S. Senate,,REP,Under Votes,7
+Johnson,3-7,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,3-7,U.S. Senate,,DEM,Kenneth R. Casner,0
+Johnson,3-7,U.S. Senate,,DEM,Merav Ben David,3
+Johnson,3-7,U.S. Senate,,DEM,Nathan Wendt,2
+Johnson,3-7,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,3-7,U.S. Senate,,DEM,Yana Ludwig,2
+Johnson,3-7,U.S. Senate,,DEM,Write-ins,0
+Johnson,3-7,U.S. Senate,,DEM,Over Votes,0
+Johnson,3-7,U.S. Senate,,DEM,Under Votes,2
+Johnson,3-7,U.S. House,,REP,Blake Stanley,27
+Johnson,3-7,U.S. House,,REP,Liz Cheney,119
+Johnson,3-7,U.S. House,,REP,Write-ins,0
+Johnson,3-7,U.S. House,,REP,Over Votes,0
+Johnson,3-7,U.S. House,,REP,Under Votes,6
+Johnson,3-7,U.S. House,,DEM,Carl Beach,0
+Johnson,3-7,U.S. House,,DEM,Carol Hafner,1
+Johnson,3-7,U.S. House,,DEM,Lynnette Grey Bull,5
+Johnson,3-7,U.S. House,,DEM,Write-ins,0
+Johnson,3-7,U.S. House,,DEM,Over Votes,1
+Johnson,3-7,U.S. House,,DEM,Under Votes,2
+Johnson,3-7,State Senate,22,REP,Dave Kinskey,126
+Johnson,3-7,State Senate,22,REP,Write-ins,3
+Johnson,3-7,State Senate,22,REP,Over Votes,0
+Johnson,3-7,State Senate,22,REP,Under Votes,23
+Johnson,3-7,State Senate,22,DEM,Write-ins,2
+Johnson,3-7,State House,40,REP,Barry Crago,91
+Johnson,3-7,State House,40,REP,Richard L. Tass,58
+Johnson,3-7,State House,40,REP,Write-ins,1
+Johnson,3-7,State House,40,REP,Over Votes,0
+Johnson,3-7,State House,40,REP,Under Votes,2
+Johnson,3-7,State House,40,DEM,Write-ins,1
+Johnson,3-7,Ballots Cast,,REP,Ballots Cast,152
+Johnson,3-7,Ballots Cast,,DEM,Ballots Cast,9
+Johnson,3-7,Ballots Cast,,NP,Ballots Cast,5
+Johnson,3-7,Ballots Cast,,,Ballots Cast,166
+Johnson,3-8,U.S. Senate,,REP,Bryan E Miller,16
+Johnson,3-8,U.S. Senate,,REP,Cynthia M. Lummis,80
+Johnson,3-8,U.S. Senate,,REP,Devon Cade,5
+Johnson,3-8,U.S. Senate,,REP,Donna Rice,5
+Johnson,3-8,U.S. Senate,,REP,John Holtz,2
+Johnson,3-8,U.S. Senate,,REP,Josh Wheeler,2
+Johnson,3-8,U.S. Senate,,REP,Michael Kemler,1
+Johnson,3-8,U.S. Senate,,REP,R. Mark Armstrong,3
+Johnson,3-8,U.S. Senate,,REP,Robert G. Short,31
+Johnson,3-8,U.S. Senate,,REP,Star Roselli,2
+Johnson,3-8,U.S. Senate,,REP,Write-ins,1
+Johnson,3-8,U.S. Senate,,REP,Over Votes,0
+Johnson,3-8,U.S. Senate,,REP,Under Votes,6
+Johnson,3-8,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,3-8,U.S. Senate,,DEM,Kenneth R. Casner,0
+Johnson,3-8,U.S. Senate,,DEM,Merav Ben David,8
+Johnson,3-8,U.S. Senate,,DEM,Nathan Wendt,1
+Johnson,3-8,U.S. Senate,,DEM,Rex Wilde,1
+Johnson,3-8,U.S. Senate,,DEM,Yana Ludwig,1
+Johnson,3-8,U.S. Senate,,DEM,Write-ins,0
+Johnson,3-8,U.S. Senate,,DEM,Over Votes,1
+Johnson,3-8,U.S. Senate,,DEM,Under Votes,1
+Johnson,3-8,U.S. House,,REP,Blake Stanley,30
+Johnson,3-8,U.S. House,,REP,Liz Cheney,113
+Johnson,3-8,U.S. House,,REP,Write-ins,1
+Johnson,3-8,U.S. House,,REP,Over Votes,0
+Johnson,3-8,U.S. House,,REP,Under Votes,10
+Johnson,3-8,U.S. House,,DEM,Carl Beach,1
+Johnson,3-8,U.S. House,,DEM,Carol Hafner,3
+Johnson,3-8,U.S. House,,DEM,Lynnette Grey Bull,7
+Johnson,3-8,U.S. House,,DEM,Write-ins,0
+Johnson,3-8,U.S. House,,DEM,Over Votes,1
+Johnson,3-8,U.S. House,,DEM,Under Votes,1
+Johnson,3-8,State Senate,22,REP,Dave Kinskey,125
+Johnson,3-8,State Senate,22,REP,Write-ins,3
+Johnson,3-8,State Senate,22,REP,Over Votes,0
+Johnson,3-8,State Senate,22,REP,Under Votes,26
+Johnson,3-8,State Senate,22,DEM,Write-ins,0
+Johnson,3-8,State House,40,REP,Barry Crago,86
+Johnson,3-8,State House,40,REP,Richard L. Tass,63
+Johnson,3-8,State House,40,REP,Write-ins,1
+Johnson,3-8,State House,40,REP,Over Votes,0
+Johnson,3-8,State House,40,REP,Under Votes,4
+Johnson,3-8,State House,40,DEM,Write-ins,1
+Johnson,3-8,Ballots Cast,,REP,Ballots Cast,154
+Johnson,3-8,Ballots Cast,,DEM,Ballots Cast,13
+Johnson,3-8,Ballots Cast,,NP,Ballots Cast,6
+Johnson,3-8,Ballots Cast,,,Ballots Cast,173
+Johnson,4-7,U.S. Senate,,REP,Bryan E Miller,47
+Johnson,4-7,U.S. Senate,,REP,Cynthia M. Lummis,264
+Johnson,4-7,U.S. Senate,,REP,Devon Cade,6
+Johnson,4-7,U.S. Senate,,REP,Donna Rice,17
+Johnson,4-7,U.S. Senate,,REP,John Holtz,8
+Johnson,4-7,U.S. Senate,,REP,Josh Wheeler,11
+Johnson,4-7,U.S. Senate,,REP,Michael Kemler,1
+Johnson,4-7,U.S. Senate,,REP,R. Mark Armstrong,9
+Johnson,4-7,U.S. Senate,,REP,Robert G. Short,98
+Johnson,4-7,U.S. Senate,,REP,Star Roselli,2
+Johnson,4-7,U.S. Senate,,REP,Write-ins,2
+Johnson,4-7,U.S. Senate,,REP,Over Votes,2
+Johnson,4-7,U.S. Senate,,REP,Under Votes,13
+Johnson,4-7,U.S. Senate,,DEM,James Kirk DeBrine,1
+Johnson,4-7,U.S. Senate,,DEM,Kenneth R. Casner,2
+Johnson,4-7,U.S. Senate,,DEM,Merav Ben David,11
+Johnson,4-7,U.S. Senate,,DEM,Nathan Wendt,2
+Johnson,4-7,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,4-7,U.S. Senate,,DEM,Yana Ludwig,6
+Johnson,4-7,U.S. Senate,,DEM,Write-ins,0
+Johnson,4-7,U.S. Senate,,DEM,Over Votes,0
+Johnson,4-7,U.S. Senate,,DEM,Under Votes,3
+Johnson,4-7,U.S. House,,REP,Blake Stanley,102
+Johnson,4-7,U.S. House,,REP,Liz Cheney,357
+Johnson,4-7,U.S. House,,REP,Write-ins,4
+Johnson,4-7,U.S. House,,REP,Over Votes,0
+Johnson,4-7,U.S. House,,REP,Under Votes,17
+Johnson,4-7,U.S. House,,DEM,Carl Beach,5
+Johnson,4-7,U.S. House,,DEM,Carol Hafner,2
+Johnson,4-7,U.S. House,,DEM,Lynnette Grey Bull,17
+Johnson,4-7,U.S. House,,DEM,Write-ins,0
+Johnson,4-7,U.S. House,,DEM,Over Votes,0
+Johnson,4-7,U.S. House,,DEM,Under Votes,1
+Johnson,4-7,State Senate,22,REP,Dave Kinskey,414
+Johnson,4-7,State Senate,22,REP,Write-ins,8
+Johnson,4-7,State Senate,22,REP,Over Votes,0
+Johnson,4-7,State Senate,22,REP,Under Votes,58
+Johnson,4-7,State Senate,22,DEM,Write-ins,2
+Johnson,4-7,State House,40,REP,Barry Crago,265
+Johnson,4-7,State House,40,REP,Richard L. Tass,201
+Johnson,4-7,State House,40,REP,Write-ins,0
+Johnson,4-7,State House,40,REP,Over Votes,0
+Johnson,4-7,State House,40,REP,Under Votes,14
+Johnson,4-7,State House,40,DEM,Write-ins,2
+Johnson,4-7,Ballots Cast,,REP,Ballots Cast,480
+Johnson,4-7,Ballots Cast,,DEM,Ballots Cast,25
+Johnson,4-7,Ballots Cast,,NP,Ballots Cast,10
+Johnson,4-7,Ballots Cast,,,Ballots Cast,515
+Johnson,4-8,U.S. Senate,,REP,Bryan E Miller,61
+Johnson,4-8,U.S. Senate,,REP,Cynthia M. Lummis,244
+Johnson,4-8,U.S. Senate,,REP,Devon Cade,11
+Johnson,4-8,U.S. Senate,,REP,Donna Rice,19
+Johnson,4-8,U.S. Senate,,REP,John Holtz,5
+Johnson,4-8,U.S. Senate,,REP,Josh Wheeler,8
+Johnson,4-8,U.S. Senate,,REP,Michael Kemler,2
+Johnson,4-8,U.S. Senate,,REP,R. Mark Armstrong,16
+Johnson,4-8,U.S. Senate,,REP,Robert G. Short,111
+Johnson,4-8,U.S. Senate,,REP,Star Roselli,4
+Johnson,4-8,U.S. Senate,,REP,Write-ins,0
+Johnson,4-8,U.S. Senate,,REP,Over Votes,2
+Johnson,4-8,U.S. Senate,,REP,Under Votes,16
+Johnson,4-8,U.S. Senate,,DEM,James Kirk DeBrine,2
+Johnson,4-8,U.S. Senate,,DEM,Kenneth R. Casner,1
+Johnson,4-8,U.S. Senate,,DEM,Merav Ben David,15
+Johnson,4-8,U.S. Senate,,DEM,Nathan Wendt,9
+Johnson,4-8,U.S. Senate,,DEM,Rex Wilde,1
+Johnson,4-8,U.S. Senate,,DEM,Yana Ludwig,2
+Johnson,4-8,U.S. Senate,,DEM,Write-ins,0
+Johnson,4-8,U.S. Senate,,DEM,Over Votes,0
+Johnson,4-8,U.S. Senate,,DEM,Under Votes,5
+Johnson,4-8,U.S. House,,REP,Blake Stanley,127
+Johnson,4-8,U.S. House,,REP,Liz Cheney,353
+Johnson,4-8,U.S. House,,REP,Write-ins,1
+Johnson,4-8,U.S. House,,REP,Over Votes,0
+Johnson,4-8,U.S. House,,REP,Under Votes,18
+Johnson,4-8,U.S. House,,DEM,Carl Beach,3
+Johnson,4-8,U.S. House,,DEM,Carol Hafner,4
+Johnson,4-8,U.S. House,,DEM,Lynnette Grey Bull,23
+Johnson,4-8,U.S. House,,DEM,Write-ins,0
+Johnson,4-8,U.S. House,,DEM,Over Votes,1
+Johnson,4-8,U.S. House,,DEM,Under Votes,4
+Johnson,4-8,State Senate,22,REP,Dave Kinskey,408
+Johnson,4-8,State Senate,22,REP,Write-ins,16
+Johnson,4-8,State Senate,22,REP,Over Votes,0
+Johnson,4-8,State Senate,22,REP,Under Votes,75
+Johnson,4-8,State Senate,22,DEM,Write-ins,2
+Johnson,4-8,State House,40,REP,Barry Crago,291
+Johnson,4-8,State House,40,REP,Richard L. Tass,195
+Johnson,4-8,State House,40,REP,Write-ins,1
+Johnson,4-8,State House,40,REP,Over Votes,0
+Johnson,4-8,State House,40,REP,Under Votes,12
+Johnson,4-8,State House,40,DEM,Write-ins,3
+Johnson,4-8,Ballots Cast,,REP,Ballots Cast,499
+Johnson,4-8,Ballots Cast,,DEM,Ballots Cast,35
+Johnson,4-8,Ballots Cast,,NP,Ballots Cast,15
+Johnson,4-8,Ballots Cast,,,Ballots Cast,549
+Johnson,5-9,U.S. Senate,,REP,Bryan E Miller,12
+Johnson,5-9,U.S. Senate,,REP,Cynthia M. Lummis,42
+Johnson,5-9,U.S. Senate,,REP,Devon Cade,0
+Johnson,5-9,U.S. Senate,,REP,Donna Rice,3
+Johnson,5-9,U.S. Senate,,REP,John Holtz,0
+Johnson,5-9,U.S. Senate,,REP,Josh Wheeler,0
+Johnson,5-9,U.S. Senate,,REP,Michael Kemler,2
+Johnson,5-9,U.S. Senate,,REP,R. Mark Armstrong,2
+Johnson,5-9,U.S. Senate,,REP,Robert G. Short,6
+Johnson,5-9,U.S. Senate,,REP,Star Roselli,0
+Johnson,5-9,U.S. Senate,,REP,Write-ins,0
+Johnson,5-9,U.S. Senate,,REP,Over Votes,0
+Johnson,5-9,U.S. Senate,,REP,Under Votes,1
+Johnson,5-9,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,5-9,U.S. Senate,,DEM,Kenneth R. Casner,0
+Johnson,5-9,U.S. Senate,,DEM,Merav Ben David,1
+Johnson,5-9,U.S. Senate,,DEM,Nathan Wendt,3
+Johnson,5-9,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,5-9,U.S. Senate,,DEM,Yana Ludwig,0
+Johnson,5-9,U.S. Senate,,DEM,Write-ins,0
+Johnson,5-9,U.S. Senate,,DEM,Over Votes,0
+Johnson,5-9,U.S. Senate,,DEM,Under Votes,0
+Johnson,5-9,U.S. House,,REP,Blake Stanley,7
+Johnson,5-9,U.S. House,,REP,Liz Cheney,60
+Johnson,5-9,U.S. House,,REP,Write-ins,0
+Johnson,5-9,U.S. House,,REP,Over Votes,0
+Johnson,5-9,U.S. House,,REP,Under Votes,1
+Johnson,5-9,U.S. House,,DEM,Carl Beach,0
+Johnson,5-9,U.S. House,,DEM,Carol Hafner,0
+Johnson,5-9,U.S. House,,DEM,Lynnette Grey Bull,3
+Johnson,5-9,U.S. House,,DEM,Write-ins,0
+Johnson,5-9,U.S. House,,DEM,Over Votes,0
+Johnson,5-9,U.S. House,,DEM,Under Votes,1
+Johnson,5-9,State Senate,22,REP,Dave Kinskey,59
+Johnson,5-9,State Senate,22,REP,Write-ins,3
+Johnson,5-9,State Senate,22,REP,Over Votes,0
+Johnson,5-9,State Senate,22,REP,Under Votes,6
+Johnson,5-9,State Senate,22,DEM,Write-ins,0
+Johnson,5-9,State House,40,REP,Barry Crago,18
+Johnson,5-9,State House,40,REP,Richard L. Tass,50
+Johnson,5-9,State House,40,REP,Write-ins,0
+Johnson,5-9,State House,40,REP,Over Votes,0
+Johnson,5-9,State House,40,REP,Under Votes,0
+Johnson,5-9,State House,40,DEM,Write-ins,0
+Johnson,5-9,Ballots Cast,,REP,Ballots Cast,68
+Johnson,5-9,Ballots Cast,,DEM,Ballots Cast,4
+Johnson,5-9,Ballots Cast,,NP,Ballots Cast,1
+Johnson,5-9,Ballots Cast,,,Ballots Cast,73
+Johnson,6-10,U.S. Senate,,REP,Bryan E Miller,16
+Johnson,6-10,U.S. Senate,,REP,Cynthia M. Lummis,49
+Johnson,6-10,U.S. Senate,,REP,Devon Cade,0
+Johnson,6-10,U.S. Senate,,REP,Donna Rice,1
+Johnson,6-10,U.S. Senate,,REP,John Holtz,2
+Johnson,6-10,U.S. Senate,,REP,Josh Wheeler,0
+Johnson,6-10,U.S. Senate,,REP,Michael Kemler,0
+Johnson,6-10,U.S. Senate,,REP,R. Mark Armstrong,4
+Johnson,6-10,U.S. Senate,,REP,Robert G. Short,14
+Johnson,6-10,U.S. Senate,,REP,Star Roselli,0
+Johnson,6-10,U.S. Senate,,REP,Write-ins,0
+Johnson,6-10,U.S. Senate,,REP,Over Votes,0
+Johnson,6-10,U.S. Senate,,REP,Under Votes,2
+Johnson,6-10,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,6-10,U.S. Senate,,DEM,Kenneth R. Casner,1
+Johnson,6-10,U.S. Senate,,DEM,Merav Ben David,3
+Johnson,6-10,U.S. Senate,,DEM,Nathan Wendt,3
+Johnson,6-10,U.S. Senate,,DEM,Rex Wilde,1
+Johnson,6-10,U.S. Senate,,DEM,Yana Ludwig,1
+Johnson,6-10,U.S. Senate,,DEM,Write-ins,0
+Johnson,6-10,U.S. Senate,,DEM,Over Votes,0
+Johnson,6-10,U.S. Senate,,DEM,Under Votes,1
+Johnson,6-10,U.S. House,,REP,Blake Stanley,19
+Johnson,6-10,U.S. House,,REP,Liz Cheney,66
+Johnson,6-10,U.S. House,,REP,Write-ins,0
+Johnson,6-10,U.S. House,,REP,Over Votes,0
+Johnson,6-10,U.S. House,,REP,Under Votes,3
+Johnson,6-10,U.S. House,,DEM,Carl Beach,1
+Johnson,6-10,U.S. House,,DEM,Carol Hafner,1
+Johnson,6-10,U.S. House,,DEM,Lynnette Grey Bull,6
+Johnson,6-10,U.S. House,,DEM,Write-ins,0
+Johnson,6-10,U.S. House,,DEM,Over Votes,0
+Johnson,6-10,U.S. House,,DEM,Under Votes,2
+Johnson,6-10,State Senate,22,REP,Dave Kinskey,82
+Johnson,6-10,State Senate,22,REP,Write-ins,0
+Johnson,6-10,State Senate,22,REP,Over Votes,0
+Johnson,6-10,State Senate,22,REP,Under Votes,6
+Johnson,6-10,State Senate,22,DEM,Write-ins,1
+Johnson,6-10,State House,40,REP,Barry Crago,69
+Johnson,6-10,State House,40,REP,Richard L. Tass,19
+Johnson,6-10,State House,40,REP,Write-ins,0
+Johnson,6-10,State House,40,REP,Over Votes,0
+Johnson,6-10,State House,40,REP,Under Votes,0
+Johnson,6-10,State House,40,DEM,Write-ins,2
+Johnson,6-10,Ballots Cast,,REP,Ballots Cast,88
+Johnson,6-10,Ballots Cast,,DEM,Ballots Cast,10
+Johnson,6-10,Ballots Cast,,NP,Ballots Cast,1
+Johnson,6-10,Ballots Cast,,,Ballots Cast,99
+Johnson,8-11,U.S. Senate,,REP,Bryan E Miller,41
+Johnson,8-11,U.S. Senate,,REP,Cynthia M. Lummis,87
+Johnson,8-11,U.S. Senate,,REP,Devon Cade,1
+Johnson,8-11,U.S. Senate,,REP,Donna Rice,0
+Johnson,8-11,U.S. Senate,,REP,John Holtz,1
+Johnson,8-11,U.S. Senate,,REP,Josh Wheeler,1
+Johnson,8-11,U.S. Senate,,REP,Michael Kemler,1
+Johnson,8-11,U.S. Senate,,REP,R. Mark Armstrong,4
+Johnson,8-11,U.S. Senate,,REP,Robert G. Short,18
+Johnson,8-11,U.S. Senate,,REP,Star Roselli,1
+Johnson,8-11,U.S. Senate,,REP,Write-ins,0
+Johnson,8-11,U.S. Senate,,REP,Over Votes,0
+Johnson,8-11,U.S. Senate,,REP,Under Votes,6
+Johnson,8-11,U.S. Senate,,DEM,James Kirk DeBrine,1
+Johnson,8-11,U.S. Senate,,DEM,Kenneth R. Casner,1
+Johnson,8-11,U.S. Senate,,DEM,Merav Ben David,1
+Johnson,8-11,U.S. Senate,,DEM,Nathan Wendt,2
+Johnson,8-11,U.S. Senate,,DEM,Rex Wilde,0
+Johnson,8-11,U.S. Senate,,DEM,Yana Ludwig,0
+Johnson,8-11,U.S. Senate,,DEM,Write-ins,0
+Johnson,8-11,U.S. Senate,,DEM,Over Votes,0
+Johnson,8-11,U.S. Senate,,DEM,Under Votes,0
+Johnson,8-11,U.S. House,,REP,Blake Stanley,34
+Johnson,8-11,U.S. House,,REP,Liz Cheney,123
+Johnson,8-11,U.S. House,,REP,Write-ins,0
+Johnson,8-11,U.S. House,,REP,Over Votes,1
+Johnson,8-11,U.S. House,,REP,Under Votes,3
+Johnson,8-11,U.S. House,,DEM,Carl Beach,0
+Johnson,8-11,U.S. House,,DEM,Carol Hafner,1
+Johnson,8-11,U.S. House,,DEM,Lynnette Grey Bull,4
+Johnson,8-11,U.S. House,,DEM,Write-ins,0
+Johnson,8-11,U.S. House,,DEM,Over Votes,0
+Johnson,8-11,U.S. House,,DEM,Under Votes,0
+Johnson,8-11,State Senate,22,REP,Dave Kinskey,151
+Johnson,8-11,State Senate,22,REP,Write-ins,1
+Johnson,8-11,State Senate,22,REP,Over Votes,0
+Johnson,8-11,State Senate,22,REP,Under Votes,9
+Johnson,8-11,State Senate,22,DEM,Write-ins,0
+Johnson,8-11,State House,40,REP,Barry Crago,102
+Johnson,8-11,State House,40,REP,Richard L. Tass,58
+Johnson,8-11,State House,40,REP,Write-ins,0
+Johnson,8-11,State House,40,REP,Over Votes,0
+Johnson,8-11,State House,40,REP,Under Votes,1
+Johnson,8-11,State House,40,DEM,Write-ins,1
+Johnson,8-11,Ballots Cast,,REP,Ballots Cast,161
+Johnson,8-11,Ballots Cast,,DEM,Ballots Cast,5
+Johnson,8-11,Ballots Cast,,NP,Ballots Cast,1
+Johnson,8-11,Ballots Cast,,,Ballots Cast,167
+Johnson,9-12,U.S. Senate,,REP,Bryan E Miller,11
+Johnson,9-12,U.S. Senate,,REP,Cynthia M. Lummis,40
+Johnson,9-12,U.S. Senate,,REP,Devon Cade,0
+Johnson,9-12,U.S. Senate,,REP,Donna Rice,1
+Johnson,9-12,U.S. Senate,,REP,John Holtz,0
+Johnson,9-12,U.S. Senate,,REP,Josh Wheeler,2
+Johnson,9-12,U.S. Senate,,REP,Michael Kemler,0
+Johnson,9-12,U.S. Senate,,REP,R. Mark Armstrong,0
+Johnson,9-12,U.S. Senate,,REP,Robert G. Short,18
+Johnson,9-12,U.S. Senate,,REP,Star Roselli,0
+Johnson,9-12,U.S. Senate,,REP,Write-ins,0
+Johnson,9-12,U.S. Senate,,REP,Over Votes,0
+Johnson,9-12,U.S. Senate,,REP,Under Votes,0
+Johnson,9-12,U.S. Senate,,DEM,James Kirk DeBrine,0
+Johnson,9-12,U.S. Senate,,DEM,Kenneth R. Casner,1
+Johnson,9-12,U.S. Senate,,DEM,Merav Ben David,0
+Johnson,9-12,U.S. Senate,,DEM,Nathan Wendt,0
+Johnson,9-12,U.S. Senate,,DEM,Rex Wilde,1
+Johnson,9-12,U.S. Senate,,DEM,Yana Ludwig,0
+Johnson,9-12,U.S. Senate,,DEM,Write-ins,0
+Johnson,9-12,U.S. Senate,,DEM,Over Votes,0
+Johnson,9-12,U.S. Senate,,DEM,Under Votes,0
+Johnson,9-12,U.S. House,,REP,Blake Stanley,17
+Johnson,9-12,U.S. House,,REP,Liz Cheney,54
+Johnson,9-12,U.S. House,,REP,Write-ins,0
+Johnson,9-12,U.S. House,,REP,Over Votes,0
+Johnson,9-12,U.S. House,,REP,Under Votes,1
+Johnson,9-12,U.S. House,,DEM,Carl Beach,0
+Johnson,9-12,U.S. House,,DEM,Carol Hafner,0
+Johnson,9-12,U.S. House,,DEM,Lynnette Grey Bull,2
+Johnson,9-12,U.S. House,,DEM,Write-ins,0
+Johnson,9-12,U.S. House,,DEM,Over Votes,0
+Johnson,9-12,U.S. House,,DEM,Under Votes,0
+Johnson,9-12,State Senate,22,REP,Dave Kinskey,70
+Johnson,9-12,State Senate,22,REP,Write-ins,1
+Johnson,9-12,State Senate,22,REP,Over Votes,0
+Johnson,9-12,State Senate,22,REP,Under Votes,1
+Johnson,9-12,State Senate,22,DEM,Write-ins,0
+Johnson,9-12,State House,40,REP,Barry Crago,51
+Johnson,9-12,State House,40,REP,Richard L. Tass,20
+Johnson,9-12,State House,40,REP,Write-ins,0
+Johnson,9-12,State House,40,REP,Over Votes,0
+Johnson,9-12,State House,40,REP,Under Votes,1
+Johnson,9-12,State House,40,DEM,Write-ins,0
+Johnson,9-12,Ballots Cast,,REP,Ballots Cast,72
+Johnson,9-12,Ballots Cast,,DEM,Ballots Cast,2
+Johnson,9-12,Ballots Cast,,NP,Ballots Cast,0
+Johnson,9-12,Ballots Cast,,,Ballots Cast,74

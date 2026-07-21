@@ -1,0 +1,396 @@
+county,precinct,office,district,party,candidate,votes
+Albany,13-1,U.S. Senate,,REP,John Barrasso,209
+Albany,13-1,U.S. Senate,,REP,John Holtz,61
+Albany,13-1,U.S. Senate,,REP,Reid Rasner,74
+Albany,13-1,U.S. Senate,,REP,Write-ins,23
+Albany,13-1,U.S. Senate,,REP,Over Votes,0
+Albany,13-1,U.S. Senate,,REP,Under Votes,24
+Albany,13-1,U.S. Senate,,DEM,Scott D Morrow,171
+Albany,13-1,U.S. Senate,,DEM,Write-ins,0
+Albany,13-1,U.S. Senate,,DEM,Over Votes,0
+Albany,13-1,U.S. Senate,,DEM,Under Votes,6
+Albany,13-1,U.S. House,,REP,Harriet Hageman,210
+Albany,13-1,U.S. House,,REP,Steven R. Helling,117
+Albany,13-1,U.S. House,,REP,Write-ins,33
+Albany,13-1,U.S. House,,REP,Over Votes,1
+Albany,13-1,U.S. House,,REP,Under Votes,30
+Albany,13-1,U.S. House,,DEM,Kyle G. Cameron,169
+Albany,13-1,U.S. House,,DEM,Write-ins,1
+Albany,13-1,U.S. House,,DEM,Over Votes,0
+Albany,13-1,U.S. House,,DEM,Under Votes,7
+Albany,13-1,State House,13,REP,Shane Swett,260
+Albany,13-1,State House,13,REP,Write-ins,30
+Albany,13-1,State House,13,REP,Over Votes,0
+Albany,13-1,State House,13,REP,Under Votes,101
+Albany,13-1,State House,13,DEM,Ken Chestek,174
+Albany,13-1,State House,13,DEM,Write-ins,0
+Albany,13-1,State House,13,DEM,Over Votes,0
+Albany,13-1,State House,13,DEM,Under Votes,3
+Albany,13-1,Ballots Cast,,REP,Ballots Cast,391
+Albany,13-1,Ballots Cast,,DEM,Ballots Cast,177
+Albany,13-1,Ballots Cast,,NP,Ballots Cast,41
+Albany,13-1,Ballots Cast,,,Ballots Cast,609
+Albany,13-2,U.S. Senate,,REP,John Barrasso,28
+Albany,13-2,U.S. Senate,,REP,John Holtz,9
+Albany,13-2,U.S. Senate,,REP,Reid Rasner,17
+Albany,13-2,U.S. Senate,,REP,Write-ins,6
+Albany,13-2,U.S. Senate,,REP,Over Votes,0
+Albany,13-2,U.S. Senate,,REP,Under Votes,3
+Albany,13-2,U.S. Senate,,DEM,Scott D Morrow,36
+Albany,13-2,U.S. Senate,,DEM,Write-ins,0
+Albany,13-2,U.S. Senate,,DEM,Over Votes,0
+Albany,13-2,U.S. Senate,,DEM,Under Votes,3
+Albany,13-2,U.S. House,,REP,Harriet Hageman,27
+Albany,13-2,U.S. House,,REP,Steven R. Helling,26
+Albany,13-2,U.S. House,,REP,Write-ins,6
+Albany,13-2,U.S. House,,REP,Over Votes,0
+Albany,13-2,U.S. House,,REP,Under Votes,4
+Albany,13-2,U.S. House,,DEM,Kyle G. Cameron,35
+Albany,13-2,U.S. House,,DEM,Write-ins,1
+Albany,13-2,U.S. House,,DEM,Over Votes,0
+Albany,13-2,U.S. House,,DEM,Under Votes,3
+Albany,13-2,State House,13,REP,Shane Swett,38
+Albany,13-2,State House,13,REP,Write-ins,6
+Albany,13-2,State House,13,REP,Over Votes,0
+Albany,13-2,State House,13,REP,Under Votes,19
+Albany,13-2,State House,13,DEM,Ken Chestek,38
+Albany,13-2,State House,13,DEM,Write-ins,0
+Albany,13-2,State House,13,DEM,Over Votes,0
+Albany,13-2,State House,13,DEM,Under Votes,1
+Albany,13-2,Ballots Cast,,REP,Ballots Cast,63
+Albany,13-2,Ballots Cast,,DEM,Ballots Cast,39
+Albany,13-2,Ballots Cast,,NP,Ballots Cast,6
+Albany,13-2,Ballots Cast,,,Ballots Cast,108
+Albany,13-3,U.S. Senate,,REP,John Barrasso,150
+Albany,13-3,U.S. Senate,,REP,John Holtz,33
+Albany,13-3,U.S. Senate,,REP,Reid Rasner,62
+Albany,13-3,U.S. Senate,,REP,Write-ins,7
+Albany,13-3,U.S. Senate,,REP,Over Votes,0
+Albany,13-3,U.S. Senate,,REP,Under Votes,9
+Albany,13-3,U.S. Senate,,DEM,Scott D Morrow,110
+Albany,13-3,U.S. Senate,,DEM,Write-ins,1
+Albany,13-3,U.S. Senate,,DEM,Over Votes,0
+Albany,13-3,U.S. Senate,,DEM,Under Votes,5
+Albany,13-3,U.S. House,,REP,Harriet Hageman,181
+Albany,13-3,U.S. House,,REP,Steven R. Helling,53
+Albany,13-3,U.S. House,,REP,Write-ins,17
+Albany,13-3,U.S. House,,REP,Over Votes,0
+Albany,13-3,U.S. House,,REP,Under Votes,10
+Albany,13-3,U.S. House,,DEM,Kyle G. Cameron,108
+Albany,13-3,U.S. House,,DEM,Write-ins,3
+Albany,13-3,U.S. House,,DEM,Over Votes,0
+Albany,13-3,U.S. House,,DEM,Under Votes,5
+Albany,13-3,State House,13,REP,Shane Swett,186
+Albany,13-3,State House,13,REP,Write-ins,12
+Albany,13-3,State House,13,REP,Over Votes,0
+Albany,13-3,State House,13,REP,Under Votes,63
+Albany,13-3,State House,13,DEM,Ken Chestek,113
+Albany,13-3,State House,13,DEM,Write-ins,0
+Albany,13-3,State House,13,DEM,Over Votes,0
+Albany,13-3,State House,13,DEM,Under Votes,3
+Albany,13-3,Ballots Cast,,REP,Ballots Cast,261
+Albany,13-3,Ballots Cast,,DEM,Ballots Cast,116
+Albany,13-3,Ballots Cast,,NP,Ballots Cast,21
+Albany,13-3,Ballots Cast,,,Ballots Cast,398
+Albany,14-0,U.S. Senate,,REP,John Barrasso,181
+Albany,14-0,U.S. Senate,,REP,John Holtz,19
+Albany,14-0,U.S. Senate,,REP,Reid Rasner,76
+Albany,14-0,U.S. Senate,,REP,Write-ins,3
+Albany,14-0,U.S. Senate,,REP,Over Votes,0
+Albany,14-0,U.S. Senate,,REP,Under Votes,7
+Albany,14-0,U.S. Senate,,DEM,Scott D Morrow,25
+Albany,14-0,U.S. Senate,,DEM,Write-ins,0
+Albany,14-0,U.S. Senate,,DEM,Over Votes,0
+Albany,14-0,U.S. Senate,,DEM,Under Votes,1
+Albany,14-0,U.S. House,,REP,Harriet Hageman,248
+Albany,14-0,U.S. House,,REP,Steven R. Helling,30
+Albany,14-0,U.S. House,,REP,Write-ins,4
+Albany,14-0,U.S. House,,REP,Over Votes,0
+Albany,14-0,U.S. House,,REP,Under Votes,4
+Albany,14-0,U.S. House,,DEM,Kyle G. Cameron,24
+Albany,14-0,U.S. House,,DEM,Write-ins,0
+Albany,14-0,U.S. House,,DEM,Over Votes,0
+Albany,14-0,U.S. House,,DEM,Under Votes,2
+Albany,14-0,State Senate,10,REP,Gary E Crum,127
+Albany,14-0,State Senate,10,REP,Keith Kennedy,148
+Albany,14-0,State Senate,10,REP,Write-ins,0
+Albany,14-0,State Senate,10,REP,Over Votes,1
+Albany,14-0,State Senate,10,REP,Under Votes,10
+Albany,14-0,State Senate,10,DEM,Mike Selmer,25
+Albany,14-0,State Senate,10,DEM,Write-ins,0
+Albany,14-0,State Senate,10,DEM,Over Votes,0
+Albany,14-0,State Senate,10,DEM,Under Votes,1
+Albany,14-0,State House,14,REP,Joe Giustozzi,227
+Albany,14-0,State House,14,REP,Write-ins,8
+Albany,14-0,State House,14,REP,Over Votes,0
+Albany,14-0,State House,14,REP,Under Votes,51
+Albany,14-0,State House,14,DEM,Trey Sherwood,25
+Albany,14-0,State House,14,DEM,Write-ins,0
+Albany,14-0,State House,14,DEM,Over Votes,0
+Albany,14-0,State House,14,DEM,Under Votes,1
+Albany,14-0,Ballots Cast,,REP,Ballots Cast,286
+Albany,14-0,Ballots Cast,,DEM,Ballots Cast,26
+Albany,14-0,Ballots Cast,,NP,Ballots Cast,0
+Albany,14-0,Ballots Cast,,,Ballots Cast,312
+Albany,14-2,U.S. Senate,,REP,John Barrasso,43
+Albany,14-2,U.S. Senate,,REP,John Holtz,12
+Albany,14-2,U.S. Senate,,REP,Reid Rasner,18
+Albany,14-2,U.S. Senate,,REP,Write-ins,3
+Albany,14-2,U.S. Senate,,REP,Over Votes,0
+Albany,14-2,U.S. Senate,,REP,Under Votes,4
+Albany,14-2,U.S. Senate,,DEM,Scott D Morrow,43
+Albany,14-2,U.S. Senate,,DEM,Write-ins,1
+Albany,14-2,U.S. Senate,,DEM,Over Votes,0
+Albany,14-2,U.S. Senate,,DEM,Under Votes,1
+Albany,14-2,U.S. House,,REP,Harriet Hageman,55
+Albany,14-2,U.S. House,,REP,Steven R. Helling,18
+Albany,14-2,U.S. House,,REP,Write-ins,4
+Albany,14-2,U.S. House,,REP,Over Votes,0
+Albany,14-2,U.S. House,,REP,Under Votes,3
+Albany,14-2,U.S. House,,DEM,Kyle G. Cameron,43
+Albany,14-2,U.S. House,,DEM,Write-ins,0
+Albany,14-2,U.S. House,,DEM,Over Votes,0
+Albany,14-2,U.S. House,,DEM,Under Votes,2
+Albany,14-2,State Senate,10,REP,Gary E Crum,41
+Albany,14-2,State Senate,10,REP,Keith Kennedy,35
+Albany,14-2,State Senate,10,REP,Write-ins,1
+Albany,14-2,State Senate,10,REP,Over Votes,0
+Albany,14-2,State Senate,10,REP,Under Votes,3
+Albany,14-2,State Senate,10,DEM,Mike Selmer,44
+Albany,14-2,State Senate,10,DEM,Write-ins,0
+Albany,14-2,State Senate,10,DEM,Over Votes,0
+Albany,14-2,State Senate,10,DEM,Under Votes,1
+Albany,14-2,State House,14,REP,Joe Giustozzi,70
+Albany,14-2,State House,14,REP,Write-ins,2
+Albany,14-2,State House,14,REP,Over Votes,0
+Albany,14-2,State House,14,REP,Under Votes,8
+Albany,14-2,State House,14,DEM,Trey Sherwood,43
+Albany,14-2,State House,14,DEM,Write-ins,0
+Albany,14-2,State House,14,DEM,Over Votes,0
+Albany,14-2,State House,14,DEM,Under Votes,2
+Albany,14-2,Ballots Cast,,REP,Ballots Cast,80
+Albany,14-2,Ballots Cast,,DEM,Ballots Cast,45
+Albany,14-2,Ballots Cast,,NP,Ballots Cast,7
+Albany,14-2,Ballots Cast,,,Ballots Cast,132
+Albany,14-3,U.S. Senate,,REP,John Barrasso,602
+Albany,14-3,U.S. Senate,,REP,John Holtz,131
+Albany,14-3,U.S. Senate,,REP,Reid Rasner,190
+Albany,14-3,U.S. Senate,,REP,Write-ins,37
+Albany,14-3,U.S. Senate,,REP,Over Votes,0
+Albany,14-3,U.S. Senate,,REP,Under Votes,55
+Albany,14-3,U.S. Senate,,DEM,Scott D Morrow,314
+Albany,14-3,U.S. Senate,,DEM,Write-ins,4
+Albany,14-3,U.S. Senate,,DEM,Over Votes,0
+Albany,14-3,U.S. Senate,,DEM,Under Votes,15
+Albany,14-3,U.S. House,,REP,Harriet Hageman,589
+Albany,14-3,U.S. House,,REP,Steven R. Helling,281
+Albany,14-3,U.S. House,,REP,Write-ins,70
+Albany,14-3,U.S. House,,REP,Over Votes,0
+Albany,14-3,U.S. House,,REP,Under Votes,75
+Albany,14-3,U.S. House,,DEM,Kyle G. Cameron,319
+Albany,14-3,U.S. House,,DEM,Write-ins,3
+Albany,14-3,U.S. House,,DEM,Over Votes,0
+Albany,14-3,U.S. House,,DEM,Under Votes,11
+Albany,14-3,State Senate,10,REP,Gary E Crum,723
+Albany,14-3,State Senate,10,REP,Keith Kennedy,261
+Albany,14-3,State Senate,10,REP,Write-ins,7
+Albany,14-3,State Senate,10,REP,Over Votes,4
+Albany,14-3,State Senate,10,REP,Under Votes,20
+Albany,14-3,State Senate,10,DEM,Mike Selmer,320
+Albany,14-3,State Senate,10,DEM,Write-ins,1
+Albany,14-3,State Senate,10,DEM,Over Votes,0
+Albany,14-3,State Senate,10,DEM,Under Votes,12
+Albany,14-3,State House,14,REP,Joe Giustozzi,695
+Albany,14-3,State House,14,REP,Write-ins,44
+Albany,14-3,State House,14,REP,Over Votes,0
+Albany,14-3,State House,14,REP,Under Votes,276
+Albany,14-3,State House,14,DEM,Trey Sherwood,324
+Albany,14-3,State House,14,DEM,Write-ins,3
+Albany,14-3,State House,14,DEM,Over Votes,0
+Albany,14-3,State House,14,DEM,Under Votes,6
+Albany,14-3,Ballots Cast,,REP,Ballots Cast,1015
+Albany,14-3,Ballots Cast,,DEM,Ballots Cast,333
+Albany,14-3,Ballots Cast,,NP,Ballots Cast,43
+Albany,14-3,Ballots Cast,,,Ballots Cast,1391
+Albany,45-1,U.S. Senate,,REP,John Barrasso,238
+Albany,45-1,U.S. Senate,,REP,John Holtz,57
+Albany,45-1,U.S. Senate,,REP,Reid Rasner,100
+Albany,45-1,U.S. Senate,,REP,Write-ins,27
+Albany,45-1,U.S. Senate,,REP,Over Votes,0
+Albany,45-1,U.S. Senate,,REP,Under Votes,52
+Albany,45-1,U.S. Senate,,DEM,Scott D Morrow,343
+Albany,45-1,U.S. Senate,,DEM,Write-ins,1
+Albany,45-1,U.S. Senate,,DEM,Over Votes,1
+Albany,45-1,U.S. Senate,,DEM,Under Votes,17
+Albany,45-1,U.S. House,,REP,Harriet Hageman,210
+Albany,45-1,U.S. House,,REP,Steven R. Helling,159
+Albany,45-1,U.S. House,,REP,Write-ins,45
+Albany,45-1,U.S. House,,REP,Over Votes,0
+Albany,45-1,U.S. House,,REP,Under Votes,60
+Albany,45-1,U.S. House,,DEM,Kyle G. Cameron,337
+Albany,45-1,U.S. House,,DEM,Write-ins,3
+Albany,45-1,U.S. House,,DEM,Over Votes,1
+Albany,45-1,U.S. House,,DEM,Under Votes,21
+Albany,45-1,State House,45,REP,Paul Crouch,284
+Albany,45-1,State House,45,REP,Write-ins,34
+Albany,45-1,State House,45,REP,Over Votes,0
+Albany,45-1,State House,45,REP,Under Votes,156
+Albany,45-1,State House,45,DEM,Karlee Provenza,352
+Albany,45-1,State House,45,DEM,Write-ins,3
+Albany,45-1,State House,45,DEM,Over Votes,1
+Albany,45-1,State House,45,DEM,Under Votes,6
+Albany,45-1,Ballots Cast,,REP,Ballots Cast,474
+Albany,45-1,Ballots Cast,,DEM,Ballots Cast,362
+Albany,45-1,Ballots Cast,,NP,Ballots Cast,41
+Albany,45-1,Ballots Cast,,,Ballots Cast,877
+Albany,45-2,U.S. Senate,,REP,John Barrasso,169
+Albany,45-2,U.S. Senate,,REP,John Holtz,43
+Albany,45-2,U.S. Senate,,REP,Reid Rasner,68
+Albany,45-2,U.S. Senate,,REP,Write-ins,19
+Albany,45-2,U.S. Senate,,REP,Over Votes,1
+Albany,45-2,U.S. Senate,,REP,Under Votes,16
+Albany,45-2,U.S. Senate,,DEM,Scott D Morrow,208
+Albany,45-2,U.S. Senate,,DEM,Write-ins,3
+Albany,45-2,U.S. Senate,,DEM,Over Votes,0
+Albany,45-2,U.S. Senate,,DEM,Under Votes,10
+Albany,45-2,U.S. House,,REP,Harriet Hageman,154
+Albany,45-2,U.S. House,,REP,Steven R. Helling,115
+Albany,45-2,U.S. House,,REP,Write-ins,25
+Albany,45-2,U.S. House,,REP,Over Votes,0
+Albany,45-2,U.S. House,,REP,Under Votes,22
+Albany,45-2,U.S. House,,DEM,Kyle G. Cameron,208
+Albany,45-2,U.S. House,,DEM,Write-ins,0
+Albany,45-2,U.S. House,,DEM,Over Votes,0
+Albany,45-2,U.S. House,,DEM,Under Votes,13
+Albany,45-2,State House,45,REP,Paul Crouch,193
+Albany,45-2,State House,45,REP,Write-ins,31
+Albany,45-2,State House,45,REP,Over Votes,0
+Albany,45-2,State House,45,REP,Under Votes,92
+Albany,45-2,State House,45,DEM,Karlee Provenza,213
+Albany,45-2,State House,45,DEM,Write-ins,0
+Albany,45-2,State House,45,DEM,Over Votes,0
+Albany,45-2,State House,45,DEM,Under Votes,8
+Albany,45-2,Ballots Cast,,REP,Ballots Cast,316
+Albany,45-2,Ballots Cast,,DEM,Ballots Cast,221
+Albany,45-2,Ballots Cast,,NP,Ballots Cast,41
+Albany,45-2,Ballots Cast,,,Ballots Cast,578
+Albany,46-0,U.S. Senate,,REP,John Barrasso,650
+Albany,46-0,U.S. Senate,,REP,John Holtz,98
+Albany,46-0,U.S. Senate,,REP,Reid Rasner,282
+Albany,46-0,U.S. Senate,,REP,Write-ins,18
+Albany,46-0,U.S. Senate,,REP,Over Votes,1
+Albany,46-0,U.S. Senate,,REP,Under Votes,32
+Albany,46-0,U.S. Senate,,DEM,Scott D Morrow,123
+Albany,46-0,U.S. Senate,,DEM,Write-ins,3
+Albany,46-0,U.S. Senate,,DEM,Over Votes,0
+Albany,46-0,U.S. Senate,,DEM,Under Votes,9
+Albany,46-0,U.S. House,,REP,Harriet Hageman,837
+Albany,46-0,U.S. House,,REP,Steven R. Helling,167
+Albany,46-0,U.S. House,,REP,Write-ins,35
+Albany,46-0,U.S. House,,REP,Over Votes,2
+Albany,46-0,U.S. House,,REP,Under Votes,40
+Albany,46-0,U.S. House,,DEM,Kyle G. Cameron,124
+Albany,46-0,U.S. House,,DEM,Write-ins,2
+Albany,46-0,U.S. House,,DEM,Over Votes,0
+Albany,46-0,U.S. House,,DEM,Under Votes,9
+Albany,46-0,State Senate,10,REP,Gary E Crum,559
+Albany,46-0,State Senate,10,REP,Keith Kennedy,477
+Albany,46-0,State Senate,10,REP,Write-ins,1
+Albany,46-0,State Senate,10,REP,Over Votes,0
+Albany,46-0,State Senate,10,REP,Under Votes,44
+Albany,46-0,State Senate,10,DEM,Mike Selmer,129
+Albany,46-0,State Senate,10,DEM,Write-ins,1
+Albany,46-0,State Senate,10,DEM,Over Votes,0
+Albany,46-0,State Senate,10,DEM,Under Votes,5
+Albany,46-0,State House,46,REP,Ocean Andrew,893
+Albany,46-0,State House,46,REP,Write-ins,32
+Albany,46-0,State House,46,REP,Over Votes,0
+Albany,46-0,State House,46,REP,Under Votes,156
+Albany,46-0,State House,46,DEM,Chris Lowry,123
+Albany,46-0,State House,46,DEM,Write-ins,1
+Albany,46-0,State House,46,DEM,Over Votes,0
+Albany,46-0,State House,46,DEM,Under Votes,11
+Albany,46-0,Ballots Cast,,REP,Ballots Cast,1081
+Albany,46-0,Ballots Cast,,DEM,Ballots Cast,135
+Albany,46-0,Ballots Cast,,NP,Ballots Cast,0
+Albany,46-0,Ballots Cast,,,Ballots Cast,1216
+Albany,46-1,U.S. Senate,,REP,John Barrasso,160
+Albany,46-1,U.S. Senate,,REP,John Holtz,31
+Albany,46-1,U.S. Senate,,REP,Reid Rasner,74
+Albany,46-1,U.S. Senate,,REP,Write-ins,7
+Albany,46-1,U.S. Senate,,REP,Over Votes,0
+Albany,46-1,U.S. Senate,,REP,Under Votes,4
+Albany,46-1,U.S. Senate,,DEM,Scott D Morrow,83
+Albany,46-1,U.S. Senate,,DEM,Write-ins,2
+Albany,46-1,U.S. Senate,,DEM,Over Votes,0
+Albany,46-1,U.S. Senate,,DEM,Under Votes,2
+Albany,46-1,U.S. House,,REP,Harriet Hageman,215
+Albany,46-1,U.S. House,,REP,Steven R. Helling,44
+Albany,46-1,U.S. House,,REP,Write-ins,9
+Albany,46-1,U.S. House,,REP,Over Votes,0
+Albany,46-1,U.S. House,,REP,Under Votes,8
+Albany,46-1,U.S. House,,DEM,Kyle G. Cameron,84
+Albany,46-1,U.S. House,,DEM,Write-ins,1
+Albany,46-1,U.S. House,,DEM,Over Votes,0
+Albany,46-1,U.S. House,,DEM,Under Votes,2
+Albany,46-1,State Senate,10,REP,Gary E Crum,149
+Albany,46-1,State Senate,10,REP,Keith Kennedy,116
+Albany,46-1,State Senate,10,REP,Write-ins,4
+Albany,46-1,State Senate,10,REP,Over Votes,0
+Albany,46-1,State Senate,10,REP,Under Votes,7
+Albany,46-1,State Senate,10,DEM,Mike Selmer,81
+Albany,46-1,State Senate,10,DEM,Write-ins,1
+Albany,46-1,State Senate,10,DEM,Over Votes,0
+Albany,46-1,State Senate,10,DEM,Under Votes,5
+Albany,46-1,State House,46,REP,Ocean Andrew,222
+Albany,46-1,State House,46,REP,Write-ins,13
+Albany,46-1,State House,46,REP,Over Votes,0
+Albany,46-1,State House,46,REP,Under Votes,41
+Albany,46-1,State House,46,DEM,Chris Lowry,83
+Albany,46-1,State House,46,DEM,Write-ins,1
+Albany,46-1,State House,46,DEM,Over Votes,0
+Albany,46-1,State House,46,DEM,Under Votes,3
+Albany,46-1,Ballots Cast,,REP,Ballots Cast,276
+Albany,46-1,Ballots Cast,,DEM,Ballots Cast,87
+Albany,46-1,Ballots Cast,,NP,Ballots Cast,26
+Albany,46-1,Ballots Cast,,,Ballots Cast,389
+Albany,46-2,U.S. Senate,,REP,John Barrasso,133
+Albany,46-2,U.S. Senate,,REP,John Holtz,30
+Albany,46-2,U.S. Senate,,REP,Reid Rasner,39
+Albany,46-2,U.S. Senate,,REP,Write-ins,3
+Albany,46-2,U.S. Senate,,REP,Over Votes,0
+Albany,46-2,U.S. Senate,,REP,Under Votes,5
+Albany,46-2,U.S. Senate,,DEM,Scott D Morrow,71
+Albany,46-2,U.S. Senate,,DEM,Write-ins,1
+Albany,46-2,U.S. Senate,,DEM,Over Votes,0
+Albany,46-2,U.S. Senate,,DEM,Under Votes,3
+Albany,46-2,U.S. House,,REP,Harriet Hageman,153
+Albany,46-2,U.S. House,,REP,Steven R. Helling,48
+Albany,46-2,U.S. House,,REP,Write-ins,4
+Albany,46-2,U.S. House,,REP,Over Votes,0
+Albany,46-2,U.S. House,,REP,Under Votes,5
+Albany,46-2,U.S. House,,DEM,Kyle G. Cameron,72
+Albany,46-2,U.S. House,,DEM,Write-ins,1
+Albany,46-2,U.S. House,,DEM,Over Votes,0
+Albany,46-2,U.S. House,,DEM,Under Votes,2
+Albany,46-2,State Senate,10,REP,Gary E Crum,113
+Albany,46-2,State Senate,10,REP,Keith Kennedy,92
+Albany,46-2,State Senate,10,REP,Write-ins,0
+Albany,46-2,State Senate,10,REP,Over Votes,0
+Albany,46-2,State Senate,10,REP,Under Votes,5
+Albany,46-2,State Senate,10,DEM,Mike Selmer,71
+Albany,46-2,State Senate,10,DEM,Write-ins,2
+Albany,46-2,State Senate,10,DEM,Over Votes,0
+Albany,46-2,State Senate,10,DEM,Under Votes,2
+Albany,46-2,State House,46,REP,Ocean Andrew,180
+Albany,46-2,State House,46,REP,Write-ins,4
+Albany,46-2,State House,46,REP,Over Votes,0
+Albany,46-2,State House,46,REP,Under Votes,26
+Albany,46-2,State House,46,DEM,Chris Lowry,69
+Albany,46-2,State House,46,DEM,Write-ins,2
+Albany,46-2,State House,46,DEM,Over Votes,0
+Albany,46-2,State House,46,DEM,Under Votes,4
+Albany,46-2,Ballots Cast,,REP,Ballots Cast,210
+Albany,46-2,Ballots Cast,,DEM,Ballots Cast,75
+Albany,46-2,Ballots Cast,,NP,Ballots Cast,22
+Albany,46-2,Ballots Cast,,,Ballots Cast,307

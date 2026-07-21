@@ -1,0 +1,582 @@
+county,precinct,office,district,party,candidate,votes
+Carbon,13-01,U.S. Senate,,REP,John Barrasso,64
+Carbon,13-01,U.S. Senate,,REP,John Holtz,10
+Carbon,13-01,U.S. Senate,,REP,Reid Rasner,32
+Carbon,13-01,U.S. Senate,,REP,Write-ins,2
+Carbon,13-01,U.S. Senate,,REP,Over Votes,0
+Carbon,13-01,U.S. Senate,,REP,Under Votes,5
+Carbon,13-01,U.S. Senate,,DEM,Scott D Morrow,11
+Carbon,13-01,U.S. Senate,,DEM,Write-ins,0
+Carbon,13-01,U.S. Senate,,DEM,Over Votes,1
+Carbon,13-01,U.S. Senate,,DEM,Under Votes,0
+Carbon,13-01,U.S. House,,REP,Harriet Hageman,87
+Carbon,13-01,U.S. House,,REP,Steven R. Helling,19
+Carbon,13-01,U.S. House,,REP,Write-ins,1
+Carbon,13-01,U.S. House,,REP,Over Votes,0
+Carbon,13-01,U.S. House,,REP,Under Votes,6
+Carbon,13-01,U.S. House,,DEM,Kyle G. Cameron,12
+Carbon,13-01,U.S. House,,DEM,Write-ins,0
+Carbon,13-01,U.S. House,,DEM,Over Votes,0
+Carbon,13-01,U.S. House,,DEM,Under Votes,0
+Carbon,13-01,State House,47,REP,Bob Davis,90
+Carbon,13-01,State House,47,REP,Write-ins,3
+Carbon,13-01,State House,47,REP,Over Votes,0
+Carbon,13-01,State House,47,REP,Under Votes,20
+Carbon,13-01,State House,47,DEM,James A Wilson,12
+Carbon,13-01,State House,47,DEM,Write-ins,0
+Carbon,13-01,State House,47,DEM,Over Votes,0
+Carbon,13-01,State House,47,DEM,Under Votes,0
+Carbon,13-01,Ballots Cast,,REP,Ballots Cast,113
+Carbon,13-01,Ballots Cast,,DEM,Ballots Cast,12
+Carbon,13-01,Ballots Cast,,NP,Ballots Cast,2
+Carbon,13-01,Ballots Cast,,,Ballots Cast,127
+Carbon,14-01,U.S. Senate,,REP,John Barrasso,38
+Carbon,14-01,U.S. Senate,,REP,John Holtz,1
+Carbon,14-01,U.S. Senate,,REP,Reid Rasner,10
+Carbon,14-01,U.S. Senate,,REP,Write-ins,0
+Carbon,14-01,U.S. Senate,,REP,Over Votes,0
+Carbon,14-01,U.S. Senate,,REP,Under Votes,1
+Carbon,14-01,U.S. Senate,,DEM,Scott D Morrow,0
+Carbon,14-01,U.S. Senate,,DEM,Write-ins,0
+Carbon,14-01,U.S. Senate,,DEM,Over Votes,0
+Carbon,14-01,U.S. Senate,,DEM,Under Votes,1
+Carbon,14-01,U.S. House,,REP,Harriet Hageman,42
+Carbon,14-01,U.S. House,,REP,Steven R. Helling,6
+Carbon,14-01,U.S. House,,REP,Write-ins,1
+Carbon,14-01,U.S. House,,REP,Over Votes,0
+Carbon,14-01,U.S. House,,REP,Under Votes,1
+Carbon,14-01,U.S. House,,DEM,Kyle G. Cameron,1
+Carbon,14-01,U.S. House,,DEM,Write-ins,0
+Carbon,14-01,U.S. House,,DEM,Over Votes,0
+Carbon,14-01,U.S. House,,DEM,Under Votes,0
+Carbon,14-01,State House,47,REP,Bob Davis,40
+Carbon,14-01,State House,47,REP,Write-ins,4
+Carbon,14-01,State House,47,REP,Over Votes,0
+Carbon,14-01,State House,47,REP,Under Votes,6
+Carbon,14-01,State House,47,DEM,James A Wilson,1
+Carbon,14-01,State House,47,DEM,Write-ins,0
+Carbon,14-01,State House,47,DEM,Over Votes,0
+Carbon,14-01,State House,47,DEM,Under Votes,0
+Carbon,14-01,Ballots Cast,,REP,Ballots Cast,50
+Carbon,14-01,Ballots Cast,,DEM,Ballots Cast,1
+Carbon,14-01,Ballots Cast,,NP,Ballots Cast,0
+Carbon,14-01,Ballots Cast,,,Ballots Cast,51
+Carbon,15-01,U.S. Senate,,REP,John Barrasso,102
+Carbon,15-01,U.S. Senate,,REP,John Holtz,6
+Carbon,15-01,U.S. Senate,,REP,Reid Rasner,37
+Carbon,15-01,U.S. Senate,,REP,Write-ins,0
+Carbon,15-01,U.S. Senate,,REP,Over Votes,0
+Carbon,15-01,U.S. Senate,,REP,Under Votes,1
+Carbon,15-01,U.S. Senate,,DEM,Scott D Morrow,5
+Carbon,15-01,U.S. Senate,,DEM,Write-ins,0
+Carbon,15-01,U.S. Senate,,DEM,Over Votes,0
+Carbon,15-01,U.S. Senate,,DEM,Under Votes,0
+Carbon,15-01,U.S. House,,REP,Harriet Hageman,137
+Carbon,15-01,U.S. House,,REP,Steven R. Helling,5
+Carbon,15-01,U.S. House,,REP,Write-ins,0
+Carbon,15-01,U.S. House,,REP,Over Votes,0
+Carbon,15-01,U.S. House,,REP,Under Votes,4
+Carbon,15-01,U.S. House,,DEM,Kyle G. Cameron,5
+Carbon,15-01,U.S. House,,DEM,Write-ins,0
+Carbon,15-01,U.S. House,,DEM,Over Votes,0
+Carbon,15-01,U.S. House,,DEM,Under Votes,0
+Carbon,15-01,State House,47,REP,Bob Davis,124
+Carbon,15-01,State House,47,REP,Write-ins,6
+Carbon,15-01,State House,47,REP,Over Votes,0
+Carbon,15-01,State House,47,REP,Under Votes,16
+Carbon,15-01,State House,47,DEM,James A Wilson,5
+Carbon,15-01,State House,47,DEM,Write-ins,0
+Carbon,15-01,State House,47,DEM,Over Votes,0
+Carbon,15-01,State House,47,DEM,Under Votes,0
+Carbon,15-01,Ballots Cast,,REP,Ballots Cast,146
+Carbon,15-01,Ballots Cast,,DEM,Ballots Cast,5
+Carbon,15-01,Ballots Cast,,NP,Ballots Cast,3
+Carbon,15-01,Ballots Cast,,,Ballots Cast,154
+Carbon,2022-01-01 00:00:00,U.S. Senate,,REP,John Barrasso,62
+Carbon,2022-01-01 00:00:00,U.S. Senate,,REP,John Holtz,9
+Carbon,2022-01-01 00:00:00,U.S. Senate,,REP,Reid Rasner,31
+Carbon,2022-01-01 00:00:00,U.S. Senate,,REP,Write-ins,0
+Carbon,2022-01-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-01-01 00:00:00,U.S. Senate,,REP,Under Votes,4
+Carbon,2022-01-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,47
+Carbon,2022-01-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-01-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-01-01 00:00:00,U.S. Senate,,DEM,Under Votes,1
+Carbon,2022-01-01 00:00:00,U.S. House,,REP,Harriet Hageman,77
+Carbon,2022-01-01 00:00:00,U.S. House,,REP,Steven R. Helling,23
+Carbon,2022-01-01 00:00:00,U.S. House,,REP,Write-ins,1
+Carbon,2022-01-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-01-01 00:00:00,U.S. House,,REP,Under Votes,5
+Carbon,2022-01-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,46
+Carbon,2022-01-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-01-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-01-01 00:00:00,U.S. House,,DEM,Under Votes,2
+Carbon,2022-01-01 00:00:00,State House,15,REP,Pamela Thayer,60
+Carbon,2022-01-01 00:00:00,State House,15,REP,Sheryl Foland,20
+Carbon,2022-01-01 00:00:00,State House,15,REP,Terry Lee Weickum,23
+Carbon,2022-01-01 00:00:00,State House,15,REP,Write-ins,2
+Carbon,2022-01-01 00:00:00,State House,15,REP,Over Votes,0
+Carbon,2022-01-01 00:00:00,State House,15,REP,Under Votes,1
+Carbon,2022-01-01 00:00:00,State House,15,DEM,Write-ins,3
+Carbon,2022-01-01 00:00:00,Ballots Cast,,REP,Ballots Cast,106
+Carbon,2022-01-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,48
+Carbon,2022-01-01 00:00:00,Ballots Cast,,NP,Ballots Cast,9
+Carbon,2022-01-01 00:00:00,Ballots Cast,,,Ballots Cast,163
+Carbon,2022-01-02 00:00:00,U.S. Senate,,REP,John Barrasso,91
+Carbon,2022-01-02 00:00:00,U.S. Senate,,REP,John Holtz,5
+Carbon,2022-01-02 00:00:00,U.S. Senate,,REP,Reid Rasner,35
+Carbon,2022-01-02 00:00:00,U.S. Senate,,REP,Write-ins,1
+Carbon,2022-01-02 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-01-02 00:00:00,U.S. Senate,,REP,Under Votes,6
+Carbon,2022-01-02 00:00:00,U.S. Senate,,DEM,Scott D Morrow,12
+Carbon,2022-01-02 00:00:00,U.S. Senate,,DEM,Write-ins,1
+Carbon,2022-01-02 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-01-02 00:00:00,U.S. Senate,,DEM,Under Votes,2
+Carbon,2022-01-02 00:00:00,U.S. House,,REP,Harriet Hageman,116
+Carbon,2022-01-02 00:00:00,U.S. House,,REP,Steven R. Helling,17
+Carbon,2022-01-02 00:00:00,U.S. House,,REP,Write-ins,0
+Carbon,2022-01-02 00:00:00,U.S. House,,REP,Over Votes,1
+Carbon,2022-01-02 00:00:00,U.S. House,,REP,Under Votes,4
+Carbon,2022-01-02 00:00:00,U.S. House,,DEM,Kyle G. Cameron,13
+Carbon,2022-01-02 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-01-02 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-01-02 00:00:00,U.S. House,,DEM,Under Votes,2
+Carbon,2022-01-02 00:00:00,State House,15,REP,Pamela Thayer,78
+Carbon,2022-01-02 00:00:00,State House,15,REP,Sheryl Foland,21
+Carbon,2022-01-02 00:00:00,State House,15,REP,Terry Lee Weickum,28
+Carbon,2022-01-02 00:00:00,State House,15,REP,Write-ins,4
+Carbon,2022-01-02 00:00:00,State House,15,REP,Over Votes,0
+Carbon,2022-01-02 00:00:00,State House,15,REP,Under Votes,7
+Carbon,2022-01-02 00:00:00,State House,15,DEM,Write-ins,4
+Carbon,2022-01-02 00:00:00,Ballots Cast,,REP,Ballots Cast,138
+Carbon,2022-01-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,15
+Carbon,2022-01-02 00:00:00,Ballots Cast,,NP,Ballots Cast,5
+Carbon,2022-01-02 00:00:00,Ballots Cast,,,Ballots Cast,158
+Carbon,2022-02-01 00:00:00,U.S. Senate,,REP,John Barrasso,133
+Carbon,2022-02-01 00:00:00,U.S. Senate,,REP,John Holtz,8
+Carbon,2022-02-01 00:00:00,U.S. Senate,,REP,Reid Rasner,58
+Carbon,2022-02-01 00:00:00,U.S. Senate,,REP,Write-ins,1
+Carbon,2022-02-01 00:00:00,U.S. Senate,,REP,Over Votes,1
+Carbon,2022-02-01 00:00:00,U.S. Senate,,REP,Under Votes,6
+Carbon,2022-02-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,31
+Carbon,2022-02-01 00:00:00,U.S. Senate,,DEM,Write-ins,1
+Carbon,2022-02-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-02-01 00:00:00,U.S. Senate,,DEM,Under Votes,5
+Carbon,2022-02-01 00:00:00,U.S. House,,REP,Harriet Hageman,152
+Carbon,2022-02-01 00:00:00,U.S. House,,REP,Steven R. Helling,45
+Carbon,2022-02-01 00:00:00,U.S. House,,REP,Write-ins,2
+Carbon,2022-02-01 00:00:00,U.S. House,,REP,Over Votes,1
+Carbon,2022-02-01 00:00:00,U.S. House,,REP,Under Votes,7
+Carbon,2022-02-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,31
+Carbon,2022-02-01 00:00:00,U.S. House,,DEM,Write-ins,1
+Carbon,2022-02-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-02-01 00:00:00,U.S. House,,DEM,Under Votes,5
+Carbon,2022-02-01 00:00:00,State House,15,REP,Pamela Thayer,122
+Carbon,2022-02-01 00:00:00,State House,15,REP,Sheryl Foland,39
+Carbon,2022-02-01 00:00:00,State House,15,REP,Terry Lee Weickum,37
+Carbon,2022-02-01 00:00:00,State House,15,REP,Write-ins,3
+Carbon,2022-02-01 00:00:00,State House,15,REP,Over Votes,2
+Carbon,2022-02-01 00:00:00,State House,15,REP,Under Votes,4
+Carbon,2022-02-01 00:00:00,State House,15,DEM,Write-ins,3
+Carbon,2022-02-01 00:00:00,Ballots Cast,,REP,Ballots Cast,207
+Carbon,2022-02-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,37
+Carbon,2022-02-01 00:00:00,Ballots Cast,,NP,Ballots Cast,13
+Carbon,2022-02-01 00:00:00,Ballots Cast,,,Ballots Cast,257
+Carbon,2022-02-02 00:00:00,U.S. Senate,,REP,John Barrasso,135
+Carbon,2022-02-02 00:00:00,U.S. Senate,,REP,John Holtz,10
+Carbon,2022-02-02 00:00:00,U.S. Senate,,REP,Reid Rasner,61
+Carbon,2022-02-02 00:00:00,U.S. Senate,,REP,Write-ins,1
+Carbon,2022-02-02 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-02-02 00:00:00,U.S. Senate,,REP,Under Votes,11
+Carbon,2022-02-02 00:00:00,U.S. Senate,,DEM,Scott D Morrow,30
+Carbon,2022-02-02 00:00:00,U.S. Senate,,DEM,Write-ins,1
+Carbon,2022-02-02 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-02-02 00:00:00,U.S. Senate,,DEM,Under Votes,7
+Carbon,2022-02-02 00:00:00,U.S. House,,REP,Harriet Hageman,152
+Carbon,2022-02-02 00:00:00,U.S. House,,REP,Steven R. Helling,55
+Carbon,2022-02-02 00:00:00,U.S. House,,REP,Write-ins,2
+Carbon,2022-02-02 00:00:00,U.S. House,,REP,Over Votes,1
+Carbon,2022-02-02 00:00:00,U.S. House,,REP,Under Votes,8
+Carbon,2022-02-02 00:00:00,U.S. House,,DEM,Kyle G. Cameron,31
+Carbon,2022-02-02 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-02-02 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-02-02 00:00:00,U.S. House,,DEM,Under Votes,7
+Carbon,2022-02-02 00:00:00,State House,15,REP,Pamela Thayer,143
+Carbon,2022-02-02 00:00:00,State House,15,REP,Sheryl Foland,30
+Carbon,2022-02-02 00:00:00,State House,15,REP,Terry Lee Weickum,37
+Carbon,2022-02-02 00:00:00,State House,15,REP,Write-ins,2
+Carbon,2022-02-02 00:00:00,State House,15,REP,Over Votes,1
+Carbon,2022-02-02 00:00:00,State House,15,REP,Under Votes,5
+Carbon,2022-02-02 00:00:00,State House,15,DEM,Write-ins,6
+Carbon,2022-02-02 00:00:00,Ballots Cast,,REP,Ballots Cast,218
+Carbon,2022-02-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,38
+Carbon,2022-02-02 00:00:00,Ballots Cast,,NP,Ballots Cast,11
+Carbon,2022-02-02 00:00:00,Ballots Cast,,,Ballots Cast,267
+Carbon,2022-03-01 00:00:00,U.S. Senate,,REP,John Barrasso,87
+Carbon,2022-03-01 00:00:00,U.S. Senate,,REP,John Holtz,10
+Carbon,2022-03-01 00:00:00,U.S. Senate,,REP,Reid Rasner,43
+Carbon,2022-03-01 00:00:00,U.S. Senate,,REP,Write-ins,2
+Carbon,2022-03-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-03-01 00:00:00,U.S. Senate,,REP,Under Votes,3
+Carbon,2022-03-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,30
+Carbon,2022-03-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-03-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-03-01 00:00:00,U.S. Senate,,DEM,Under Votes,2
+Carbon,2022-03-01 00:00:00,U.S. House,,REP,Harriet Hageman,102
+Carbon,2022-03-01 00:00:00,U.S. House,,REP,Steven R. Helling,35
+Carbon,2022-03-01 00:00:00,U.S. House,,REP,Write-ins,2
+Carbon,2022-03-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-03-01 00:00:00,U.S. House,,REP,Under Votes,6
+Carbon,2022-03-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,27
+Carbon,2022-03-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-03-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-03-01 00:00:00,U.S. House,,DEM,Under Votes,5
+Carbon,2022-03-01 00:00:00,State House,15,REP,Pamela Thayer,88
+Carbon,2022-03-01 00:00:00,State House,15,REP,Sheryl Foland,25
+Carbon,2022-03-01 00:00:00,State House,15,REP,Terry Lee Weickum,29
+Carbon,2022-03-01 00:00:00,State House,15,REP,Write-ins,0
+Carbon,2022-03-01 00:00:00,State House,15,REP,Over Votes,0
+Carbon,2022-03-01 00:00:00,State House,15,REP,Under Votes,3
+Carbon,2022-03-01 00:00:00,State House,15,DEM,Write-ins,2
+Carbon,2022-03-01 00:00:00,Ballots Cast,,REP,Ballots Cast,145
+Carbon,2022-03-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,32
+Carbon,2022-03-01 00:00:00,Ballots Cast,,NP,Ballots Cast,7
+Carbon,2022-03-01 00:00:00,Ballots Cast,,,Ballots Cast,184
+Carbon,2022-03-02 00:00:00,U.S. Senate,,REP,John Barrasso,162
+Carbon,2022-03-02 00:00:00,U.S. Senate,,REP,John Holtz,21
+Carbon,2022-03-02 00:00:00,U.S. Senate,,REP,Reid Rasner,76
+Carbon,2022-03-02 00:00:00,U.S. Senate,,REP,Write-ins,3
+Carbon,2022-03-02 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-03-02 00:00:00,U.S. Senate,,REP,Under Votes,10
+Carbon,2022-03-02 00:00:00,U.S. Senate,,DEM,Scott D Morrow,39
+Carbon,2022-03-02 00:00:00,U.S. Senate,,DEM,Write-ins,1
+Carbon,2022-03-02 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-03-02 00:00:00,U.S. Senate,,DEM,Under Votes,5
+Carbon,2022-03-02 00:00:00,U.S. House,,REP,Harriet Hageman,199
+Carbon,2022-03-02 00:00:00,U.S. House,,REP,Steven R. Helling,56
+Carbon,2022-03-02 00:00:00,U.S. House,,REP,Write-ins,7
+Carbon,2022-03-02 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-03-02 00:00:00,U.S. House,,REP,Under Votes,10
+Carbon,2022-03-02 00:00:00,U.S. House,,DEM,Kyle G. Cameron,39
+Carbon,2022-03-02 00:00:00,U.S. House,,DEM,Write-ins,1
+Carbon,2022-03-02 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-03-02 00:00:00,U.S. House,,DEM,Under Votes,5
+Carbon,2022-03-02 00:00:00,State House,15,REP,Pamela Thayer,178
+Carbon,2022-03-02 00:00:00,State House,15,REP,Sheryl Foland,43
+Carbon,2022-03-02 00:00:00,State House,15,REP,Terry Lee Weickum,41
+Carbon,2022-03-02 00:00:00,State House,15,REP,Write-ins,3
+Carbon,2022-03-02 00:00:00,State House,15,REP,Over Votes,1
+Carbon,2022-03-02 00:00:00,State House,15,REP,Under Votes,6
+Carbon,2022-03-02 00:00:00,State House,15,DEM,Write-ins,5
+Carbon,2022-03-02 00:00:00,Ballots Cast,,REP,Ballots Cast,272
+Carbon,2022-03-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,45
+Carbon,2022-03-02 00:00:00,Ballots Cast,,NP,Ballots Cast,10
+Carbon,2022-03-02 00:00:00,Ballots Cast,,,Ballots Cast,327
+Carbon,2022-04-01 00:00:00,U.S. Senate,,REP,John Barrasso,5
+Carbon,2022-04-01 00:00:00,U.S. Senate,,REP,John Holtz,0
+Carbon,2022-04-01 00:00:00,U.S. Senate,,REP,Reid Rasner,1
+Carbon,2022-04-01 00:00:00,U.S. Senate,,REP,Write-ins,1
+Carbon,2022-04-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-04-01 00:00:00,U.S. Senate,,REP,Under Votes,0
+Carbon,2022-04-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,0
+Carbon,2022-04-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-04-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-04-01 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Carbon,2022-04-01 00:00:00,U.S. House,,REP,Harriet Hageman,7
+Carbon,2022-04-01 00:00:00,U.S. House,,REP,Steven R. Helling,0
+Carbon,2022-04-01 00:00:00,U.S. House,,REP,Write-ins,0
+Carbon,2022-04-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-04-01 00:00:00,U.S. House,,REP,Under Votes,0
+Carbon,2022-04-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,0
+Carbon,2022-04-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-04-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-04-01 00:00:00,U.S. House,,DEM,Under Votes,0
+Carbon,2022-04-01 00:00:00,State House,15,REP,Pamela Thayer,3
+Carbon,2022-04-01 00:00:00,State House,15,REP,Sheryl Foland,1
+Carbon,2022-04-01 00:00:00,State House,15,REP,Terry Lee Weickum,3
+Carbon,2022-04-01 00:00:00,State House,15,REP,Write-ins,0
+Carbon,2022-04-01 00:00:00,State House,15,REP,Over Votes,0
+Carbon,2022-04-01 00:00:00,State House,15,REP,Under Votes,0
+Carbon,2022-04-01 00:00:00,State House,15,DEM,Write-ins,0
+Carbon,2022-04-01 00:00:00,Ballots Cast,,REP,Ballots Cast,7
+Carbon,2022-04-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,0
+Carbon,2022-04-01 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Carbon,2022-04-01 00:00:00,Ballots Cast,,,Ballots Cast,7
+Carbon,2022-05-01 00:00:00,U.S. Senate,,REP,John Barrasso,61
+Carbon,2022-05-01 00:00:00,U.S. Senate,,REP,John Holtz,6
+Carbon,2022-05-01 00:00:00,U.S. Senate,,REP,Reid Rasner,14
+Carbon,2022-05-01 00:00:00,U.S. Senate,,REP,Write-ins,2
+Carbon,2022-05-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-05-01 00:00:00,U.S. Senate,,REP,Under Votes,0
+Carbon,2022-05-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,7
+Carbon,2022-05-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-05-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-05-01 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Carbon,2022-05-01 00:00:00,U.S. House,,REP,Harriet Hageman,70
+Carbon,2022-05-01 00:00:00,U.S. House,,REP,Steven R. Helling,9
+Carbon,2022-05-01 00:00:00,U.S. House,,REP,Write-ins,4
+Carbon,2022-05-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-05-01 00:00:00,U.S. House,,REP,Under Votes,0
+Carbon,2022-05-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,6
+Carbon,2022-05-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-05-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-05-01 00:00:00,U.S. House,,DEM,Under Votes,1
+Carbon,2022-05-01 00:00:00,State House,15,REP,Pamela Thayer,56
+Carbon,2022-05-01 00:00:00,State House,15,REP,Sheryl Foland,11
+Carbon,2022-05-01 00:00:00,State House,15,REP,Terry Lee Weickum,15
+Carbon,2022-05-01 00:00:00,State House,15,REP,Write-ins,1
+Carbon,2022-05-01 00:00:00,State House,15,REP,Over Votes,0
+Carbon,2022-05-01 00:00:00,State House,15,REP,Under Votes,0
+Carbon,2022-05-01 00:00:00,State House,15,DEM,Write-ins,0
+Carbon,2022-05-01 00:00:00,Ballots Cast,,REP,Ballots Cast,83
+Carbon,2022-05-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,7
+Carbon,2022-05-01 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Carbon,2022-05-01 00:00:00,Ballots Cast,,,Ballots Cast,90
+Carbon,2022-06-01 00:00:00,U.S. Senate,,REP,John Barrasso,12
+Carbon,2022-06-01 00:00:00,U.S. Senate,,REP,John Holtz,0
+Carbon,2022-06-01 00:00:00,U.S. Senate,,REP,Reid Rasner,2
+Carbon,2022-06-01 00:00:00,U.S. Senate,,REP,Write-ins,0
+Carbon,2022-06-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-06-01 00:00:00,U.S. Senate,,REP,Under Votes,0
+Carbon,2022-06-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,0
+Carbon,2022-06-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-06-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-06-01 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Carbon,2022-06-01 00:00:00,U.S. House,,REP,Harriet Hageman,14
+Carbon,2022-06-01 00:00:00,U.S. House,,REP,Steven R. Helling,0
+Carbon,2022-06-01 00:00:00,U.S. House,,REP,Write-ins,0
+Carbon,2022-06-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-06-01 00:00:00,U.S. House,,REP,Under Votes,0
+Carbon,2022-06-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,0
+Carbon,2022-06-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-06-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-06-01 00:00:00,U.S. House,,DEM,Under Votes,0
+Carbon,2022-06-01 00:00:00,State House,47,REP,Bob Davis,9
+Carbon,2022-06-01 00:00:00,State House,47,REP,Write-ins,0
+Carbon,2022-06-01 00:00:00,State House,47,REP,Over Votes,0
+Carbon,2022-06-01 00:00:00,State House,47,REP,Under Votes,5
+Carbon,2022-06-01 00:00:00,State House,47,DEM,James A Wilson,0
+Carbon,2022-06-01 00:00:00,State House,47,DEM,Write-ins,0
+Carbon,2022-06-01 00:00:00,State House,47,DEM,Over Votes,0
+Carbon,2022-06-01 00:00:00,State House,47,DEM,Under Votes,0
+Carbon,2022-06-01 00:00:00,Ballots Cast,,REP,Ballots Cast,14
+Carbon,2022-06-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,0
+Carbon,2022-06-01 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Carbon,2022-06-01 00:00:00,Ballots Cast,,,Ballots Cast,14
+Carbon,2022-07-01 00:00:00,U.S. Senate,,REP,John Barrasso,59
+Carbon,2022-07-01 00:00:00,U.S. Senate,,REP,John Holtz,4
+Carbon,2022-07-01 00:00:00,U.S. Senate,,REP,Reid Rasner,13
+Carbon,2022-07-01 00:00:00,U.S. Senate,,REP,Write-ins,0
+Carbon,2022-07-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-07-01 00:00:00,U.S. Senate,,REP,Under Votes,0
+Carbon,2022-07-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,3
+Carbon,2022-07-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-07-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-07-01 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Carbon,2022-07-01 00:00:00,U.S. House,,REP,Harriet Hageman,68
+Carbon,2022-07-01 00:00:00,U.S. House,,REP,Steven R. Helling,7
+Carbon,2022-07-01 00:00:00,U.S. House,,REP,Write-ins,0
+Carbon,2022-07-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-07-01 00:00:00,U.S. House,,REP,Under Votes,1
+Carbon,2022-07-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,3
+Carbon,2022-07-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-07-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-07-01 00:00:00,U.S. House,,DEM,Under Votes,0
+Carbon,2022-07-01 00:00:00,State House,47,REP,Bob Davis,74
+Carbon,2022-07-01 00:00:00,State House,47,REP,Write-ins,0
+Carbon,2022-07-01 00:00:00,State House,47,REP,Over Votes,0
+Carbon,2022-07-01 00:00:00,State House,47,REP,Under Votes,2
+Carbon,2022-07-01 00:00:00,State House,47,DEM,James A Wilson,3
+Carbon,2022-07-01 00:00:00,State House,47,DEM,Write-ins,0
+Carbon,2022-07-01 00:00:00,State House,47,DEM,Over Votes,0
+Carbon,2022-07-01 00:00:00,State House,47,DEM,Under Votes,0
+Carbon,2022-07-01 00:00:00,Ballots Cast,,REP,Ballots Cast,76
+Carbon,2022-07-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,3
+Carbon,2022-07-01 00:00:00,Ballots Cast,,NP,Ballots Cast,14
+Carbon,2022-07-01 00:00:00,Ballots Cast,,,Ballots Cast,93
+Carbon,2022-08-01 00:00:00,U.S. Senate,,REP,John Barrasso,93
+Carbon,2022-08-01 00:00:00,U.S. Senate,,REP,John Holtz,12
+Carbon,2022-08-01 00:00:00,U.S. Senate,,REP,Reid Rasner,48
+Carbon,2022-08-01 00:00:00,U.S. Senate,,REP,Write-ins,0
+Carbon,2022-08-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-08-01 00:00:00,U.S. Senate,,REP,Under Votes,8
+Carbon,2022-08-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,13
+Carbon,2022-08-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-08-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-08-01 00:00:00,U.S. Senate,,DEM,Under Votes,2
+Carbon,2022-08-01 00:00:00,U.S. House,,REP,Harriet Hageman,124
+Carbon,2022-08-01 00:00:00,U.S. House,,REP,Steven R. Helling,31
+Carbon,2022-08-01 00:00:00,U.S. House,,REP,Write-ins,1
+Carbon,2022-08-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-08-01 00:00:00,U.S. House,,REP,Under Votes,5
+Carbon,2022-08-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,12
+Carbon,2022-08-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-08-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-08-01 00:00:00,U.S. House,,DEM,Under Votes,3
+Carbon,2022-08-01 00:00:00,State House,47,REP,Bob Davis,132
+Carbon,2022-08-01 00:00:00,State House,47,REP,Write-ins,4
+Carbon,2022-08-01 00:00:00,State House,47,REP,Over Votes,0
+Carbon,2022-08-01 00:00:00,State House,47,REP,Under Votes,25
+Carbon,2022-08-01 00:00:00,State House,47,DEM,James A Wilson,11
+Carbon,2022-08-01 00:00:00,State House,47,DEM,Write-ins,0
+Carbon,2022-08-01 00:00:00,State House,47,DEM,Over Votes,0
+Carbon,2022-08-01 00:00:00,State House,47,DEM,Under Votes,4
+Carbon,2022-08-01 00:00:00,Ballots Cast,,REP,Ballots Cast,161
+Carbon,2022-08-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,15
+Carbon,2022-08-01 00:00:00,Ballots Cast,,NP,Ballots Cast,36
+Carbon,2022-08-01 00:00:00,Ballots Cast,,,Ballots Cast,212
+Carbon,2022-09-01 00:00:00,U.S. Senate,,REP,John Barrasso,65
+Carbon,2022-09-01 00:00:00,U.S. Senate,,REP,John Holtz,7
+Carbon,2022-09-01 00:00:00,U.S. Senate,,REP,Reid Rasner,39
+Carbon,2022-09-01 00:00:00,U.S. Senate,,REP,Write-ins,0
+Carbon,2022-09-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-09-01 00:00:00,U.S. Senate,,REP,Under Votes,2
+Carbon,2022-09-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,5
+Carbon,2022-09-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-09-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-09-01 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Carbon,2022-09-01 00:00:00,U.S. House,,REP,Harriet Hageman,95
+Carbon,2022-09-01 00:00:00,U.S. House,,REP,Steven R. Helling,17
+Carbon,2022-09-01 00:00:00,U.S. House,,REP,Write-ins,0
+Carbon,2022-09-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-09-01 00:00:00,U.S. House,,REP,Under Votes,1
+Carbon,2022-09-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,5
+Carbon,2022-09-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-09-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-09-01 00:00:00,U.S. House,,DEM,Under Votes,0
+Carbon,2022-09-01 00:00:00,State House,47,REP,Bob Davis,100
+Carbon,2022-09-01 00:00:00,State House,47,REP,Write-ins,0
+Carbon,2022-09-01 00:00:00,State House,47,REP,Over Votes,0
+Carbon,2022-09-01 00:00:00,State House,47,REP,Under Votes,13
+Carbon,2022-09-01 00:00:00,State House,47,DEM,James A Wilson,5
+Carbon,2022-09-01 00:00:00,State House,47,DEM,Write-ins,0
+Carbon,2022-09-01 00:00:00,State House,47,DEM,Over Votes,0
+Carbon,2022-09-01 00:00:00,State House,47,DEM,Under Votes,0
+Carbon,2022-09-01 00:00:00,Ballots Cast,,REP,Ballots Cast,113
+Carbon,2022-09-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,5
+Carbon,2022-09-01 00:00:00,Ballots Cast,,NP,Ballots Cast,5
+Carbon,2022-09-01 00:00:00,Ballots Cast,,,Ballots Cast,123
+Carbon,2022-10-01 00:00:00,U.S. Senate,,REP,John Barrasso,21
+Carbon,2022-10-01 00:00:00,U.S. Senate,,REP,John Holtz,2
+Carbon,2022-10-01 00:00:00,U.S. Senate,,REP,Reid Rasner,1
+Carbon,2022-10-01 00:00:00,U.S. Senate,,REP,Write-ins,0
+Carbon,2022-10-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-10-01 00:00:00,U.S. Senate,,REP,Under Votes,0
+Carbon,2022-10-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,0
+Carbon,2022-10-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-10-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-10-01 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Carbon,2022-10-01 00:00:00,U.S. House,,REP,Harriet Hageman,22
+Carbon,2022-10-01 00:00:00,U.S. House,,REP,Steven R. Helling,2
+Carbon,2022-10-01 00:00:00,U.S. House,,REP,Write-ins,0
+Carbon,2022-10-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-10-01 00:00:00,U.S. House,,REP,Under Votes,0
+Carbon,2022-10-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,0
+Carbon,2022-10-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-10-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-10-01 00:00:00,U.S. House,,DEM,Under Votes,0
+Carbon,2022-10-01 00:00:00,State House,47,REP,Bob Davis,22
+Carbon,2022-10-01 00:00:00,State House,47,REP,Write-ins,0
+Carbon,2022-10-01 00:00:00,State House,47,REP,Over Votes,0
+Carbon,2022-10-01 00:00:00,State House,47,REP,Under Votes,2
+Carbon,2022-10-01 00:00:00,State House,47,DEM,James A Wilson,0
+Carbon,2022-10-01 00:00:00,State House,47,DEM,Write-ins,0
+Carbon,2022-10-01 00:00:00,State House,47,DEM,Over Votes,0
+Carbon,2022-10-01 00:00:00,State House,47,DEM,Under Votes,0
+Carbon,2022-10-01 00:00:00,Ballots Cast,,REP,Ballots Cast,24
+Carbon,2022-10-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,0
+Carbon,2022-10-01 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Carbon,2022-10-01 00:00:00,Ballots Cast,,,Ballots Cast,24
+Carbon,2022-11-01 00:00:00,U.S. Senate,,REP,John Barrasso,233
+Carbon,2022-11-01 00:00:00,U.S. Senate,,REP,John Holtz,24
+Carbon,2022-11-01 00:00:00,U.S. Senate,,REP,Reid Rasner,118
+Carbon,2022-11-01 00:00:00,U.S. Senate,,REP,Write-ins,6
+Carbon,2022-11-01 00:00:00,U.S. Senate,,REP,Over Votes,1
+Carbon,2022-11-01 00:00:00,U.S. Senate,,REP,Under Votes,6
+Carbon,2022-11-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,39
+Carbon,2022-11-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-11-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-11-01 00:00:00,U.S. Senate,,DEM,Under Votes,6
+Carbon,2022-11-01 00:00:00,U.S. House,,REP,Harriet Hageman,311
+Carbon,2022-11-01 00:00:00,U.S. House,,REP,Steven R. Helling,63
+Carbon,2022-11-01 00:00:00,U.S. House,,REP,Write-ins,4
+Carbon,2022-11-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-11-01 00:00:00,U.S. House,,REP,Under Votes,10
+Carbon,2022-11-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,40
+Carbon,2022-11-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-11-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-11-01 00:00:00,U.S. House,,DEM,Under Votes,5
+Carbon,2022-11-01 00:00:00,State House,47,REP,Bob Davis,337
+Carbon,2022-11-01 00:00:00,State House,47,REP,Write-ins,7
+Carbon,2022-11-01 00:00:00,State House,47,REP,Over Votes,0
+Carbon,2022-11-01 00:00:00,State House,47,REP,Under Votes,44
+Carbon,2022-11-01 00:00:00,State House,47,DEM,James A Wilson,39
+Carbon,2022-11-01 00:00:00,State House,47,DEM,Write-ins,0
+Carbon,2022-11-01 00:00:00,State House,47,DEM,Over Votes,0
+Carbon,2022-11-01 00:00:00,State House,47,DEM,Under Votes,6
+Carbon,2022-11-01 00:00:00,Ballots Cast,,REP,Ballots Cast,388
+Carbon,2022-11-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,45
+Carbon,2022-11-01 00:00:00,Ballots Cast,,NP,Ballots Cast,14
+Carbon,2022-11-01 00:00:00,Ballots Cast,,,Ballots Cast,447
+Carbon,2022-11-02 00:00:00,U.S. Senate,,REP,John Barrasso,134
+Carbon,2022-11-02 00:00:00,U.S. Senate,,REP,John Holtz,14
+Carbon,2022-11-02 00:00:00,U.S. Senate,,REP,Reid Rasner,49
+Carbon,2022-11-02 00:00:00,U.S. Senate,,REP,Write-ins,3
+Carbon,2022-11-02 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-11-02 00:00:00,U.S. Senate,,REP,Under Votes,3
+Carbon,2022-11-02 00:00:00,U.S. Senate,,DEM,Scott D Morrow,7
+Carbon,2022-11-02 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-11-02 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-11-02 00:00:00,U.S. Senate,,DEM,Under Votes,0
+Carbon,2022-11-02 00:00:00,U.S. House,,REP,Harriet Hageman,163
+Carbon,2022-11-02 00:00:00,U.S. House,,REP,Steven R. Helling,34
+Carbon,2022-11-02 00:00:00,U.S. House,,REP,Write-ins,1
+Carbon,2022-11-02 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-11-02 00:00:00,U.S. House,,REP,Under Votes,5
+Carbon,2022-11-02 00:00:00,U.S. House,,DEM,Kyle G. Cameron,7
+Carbon,2022-11-02 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-11-02 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-11-02 00:00:00,U.S. House,,DEM,Under Votes,0
+Carbon,2022-11-02 00:00:00,State House,47,REP,Bob Davis,183
+Carbon,2022-11-02 00:00:00,State House,47,REP,Write-ins,5
+Carbon,2022-11-02 00:00:00,State House,47,REP,Over Votes,0
+Carbon,2022-11-02 00:00:00,State House,47,REP,Under Votes,15
+Carbon,2022-11-02 00:00:00,State House,47,DEM,James A Wilson,7
+Carbon,2022-11-02 00:00:00,State House,47,DEM,Write-ins,0
+Carbon,2022-11-02 00:00:00,State House,47,DEM,Over Votes,0
+Carbon,2022-11-02 00:00:00,State House,47,DEM,Under Votes,0
+Carbon,2022-11-02 00:00:00,Ballots Cast,,REP,Ballots Cast,203
+Carbon,2022-11-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,7
+Carbon,2022-11-02 00:00:00,Ballots Cast,,NP,Ballots Cast,0
+Carbon,2022-11-02 00:00:00,Ballots Cast,,,Ballots Cast,210
+Carbon,2022-12-01 00:00:00,U.S. Senate,,REP,John Barrasso,85
+Carbon,2022-12-01 00:00:00,U.S. Senate,,REP,John Holtz,10
+Carbon,2022-12-01 00:00:00,U.S. Senate,,REP,Reid Rasner,29
+Carbon,2022-12-01 00:00:00,U.S. Senate,,REP,Write-ins,0
+Carbon,2022-12-01 00:00:00,U.S. Senate,,REP,Over Votes,0
+Carbon,2022-12-01 00:00:00,U.S. Senate,,REP,Under Votes,1
+Carbon,2022-12-01 00:00:00,U.S. Senate,,DEM,Scott D Morrow,16
+Carbon,2022-12-01 00:00:00,U.S. Senate,,DEM,Write-ins,0
+Carbon,2022-12-01 00:00:00,U.S. Senate,,DEM,Over Votes,0
+Carbon,2022-12-01 00:00:00,U.S. Senate,,DEM,Under Votes,2
+Carbon,2022-12-01 00:00:00,U.S. House,,REP,Harriet Hageman,100
+Carbon,2022-12-01 00:00:00,U.S. House,,REP,Steven R. Helling,22
+Carbon,2022-12-01 00:00:00,U.S. House,,REP,Write-ins,0
+Carbon,2022-12-01 00:00:00,U.S. House,,REP,Over Votes,0
+Carbon,2022-12-01 00:00:00,U.S. House,,REP,Under Votes,3
+Carbon,2022-12-01 00:00:00,U.S. House,,DEM,Kyle G. Cameron,16
+Carbon,2022-12-01 00:00:00,U.S. House,,DEM,Write-ins,0
+Carbon,2022-12-01 00:00:00,U.S. House,,DEM,Over Votes,0
+Carbon,2022-12-01 00:00:00,U.S. House,,DEM,Under Votes,2
+Carbon,2022-12-01 00:00:00,State House,47,REP,Bob Davis,110
+Carbon,2022-12-01 00:00:00,State House,47,REP,Write-ins,1
+Carbon,2022-12-01 00:00:00,State House,47,REP,Over Votes,0
+Carbon,2022-12-01 00:00:00,State House,47,REP,Under Votes,14
+Carbon,2022-12-01 00:00:00,State House,47,DEM,James A Wilson,16
+Carbon,2022-12-01 00:00:00,State House,47,DEM,Write-ins,0
+Carbon,2022-12-01 00:00:00,State House,47,DEM,Over Votes,0
+Carbon,2022-12-01 00:00:00,State House,47,DEM,Under Votes,2
+Carbon,2022-12-01 00:00:00,Ballots Cast,,REP,Ballots Cast,125
+Carbon,2022-12-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,18
+Carbon,2022-12-01 00:00:00,Ballots Cast,,NP,Ballots Cast,5
+Carbon,2022-12-01 00:00:00,Ballots Cast,,,Ballots Cast,148

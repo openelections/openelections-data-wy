@@ -1,0 +1,669 @@
+county,precinct,office,district,party,candidate,votes
+Converse,1-1,President,,REP,Donald J. Trump,177
+Converse,1-1,President,,DEM,Joseph R. Biden,11
+Converse,1-1,President,,LIB,Jo Jorgensen,1
+Converse,1-1,President,,IND,Brock Pierce,0
+Converse,1-1,President,,,Write-ins,0
+Converse,1-1,President,,,Over Votes,0
+Converse,1-1,President,,,Under Votes,0
+Converse,1-1,U.S. Senate,,REP,Cynthia M. Lummis,175
+Converse,1-1,U.S. Senate,,DEM,Merav Ben David,12
+Converse,1-1,U.S. Senate,,,Write-ins,0
+Converse,1-1,U.S. Senate,,,Over Votes,1
+Converse,1-1,U.S. Senate,,,Under Votes,1
+Converse,1-1,U.S. House,,REP,Liz Cheney,159
+Converse,1-1,U.S. House,,DEM,Lynnette Grey Bull,11
+Converse,1-1,U.S. House,,LIB,Richard Brubaker,5
+Converse,1-1,U.S. House,,,Jeff Haggit (CONST.),10
+Converse,1-1,U.S. House,,,Write-ins,0
+Converse,1-1,U.S. House,,,Over Votes,0
+Converse,1-1,U.S. House,,,Under Votes,4
+Converse,1-1,State House,3,REP,Eric Barlow,175
+Converse,1-1,State House,3,,Write-ins,3
+Converse,1-1,State House,3,,Over Votes,0
+Converse,1-1,State House,3,,Under Votes,11
+Converse,1-1,Ballots Cast,,,Ballots Cast,189
+Converse,1-1,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,1-1,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,23
+Converse,1-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,1-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,21
+Converse,1-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,1-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,17
+Converse,1-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,1-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,22
+Converse,10-10,President,,REP,Donald J. Trump,305
+Converse,10-10,President,,DEM,Joseph R. Biden,48
+Converse,10-10,President,,LIB,Jo Jorgensen,4
+Converse,10-10,President,,IND,Brock Pierce,1
+Converse,10-10,President,,,Write-ins,0
+Converse,10-10,President,,,Over Votes,0
+Converse,10-10,President,,,Under Votes,1
+Converse,10-10,U.S. Senate,,REP,Cynthia M. Lummis,292
+Converse,10-10,U.S. Senate,,DEM,Merav Ben David,56
+Converse,10-10,U.S. Senate,,,Write-ins,2
+Converse,10-10,U.S. Senate,,,Over Votes,0
+Converse,10-10,U.S. Senate,,,Under Votes,9
+Converse,10-10,U.S. House,,REP,Liz Cheney,285
+Converse,10-10,U.S. House,,DEM,Lynnette Grey Bull,38
+Converse,10-10,U.S. House,,LIB,Richard Brubaker,8
+Converse,10-10,U.S. House,,,Jeff Haggit (CONST.),15
+Converse,10-10,U.S. House,,,Write-ins,1
+Converse,10-10,U.S. House,,,Over Votes,3
+Converse,10-10,U.S. House,,,Under Votes,9
+Converse,10-10,State Senate,2,REP,Brian Boner,325
+Converse,10-10,State Senate,2,,Write-ins,3
+Converse,10-10,State Senate,2,,Over Votes,0
+Converse,10-10,State Senate,2,,Under Votes,31
+Converse,10-10,State House,6,REP,Aaron Clausen,305
+Converse,10-10,State House,6,,Write-ins,6
+Converse,10-10,State House,6,,Over Votes,0
+Converse,10-10,State House,6,,Under Votes,48
+Converse,10-10,Ballots Cast,,,Ballots Cast,359
+Converse,10-10,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,10-10,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,52
+Converse,10-10,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Converse,10-10,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,35
+Converse,10-10,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,10-10,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,49
+Converse,10-10,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Converse,10-10,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,49
+Converse,11-11,President,,REP,Donald J. Trump,201
+Converse,11-11,President,,DEM,Joseph R. Biden,19
+Converse,11-11,President,,LIB,Jo Jorgensen,4
+Converse,11-11,President,,IND,Brock Pierce,0
+Converse,11-11,President,,,Write-ins,1
+Converse,11-11,President,,,Over Votes,1
+Converse,11-11,President,,,Under Votes,0
+Converse,11-11,U.S. Senate,,REP,Cynthia M. Lummis,188
+Converse,11-11,U.S. Senate,,DEM,Merav Ben David,28
+Converse,11-11,U.S. Senate,,,Write-ins,0
+Converse,11-11,U.S. Senate,,,Over Votes,0
+Converse,11-11,U.S. Senate,,,Under Votes,10
+Converse,11-11,U.S. House,,REP,Liz Cheney,176
+Converse,11-11,U.S. House,,DEM,Lynnette Grey Bull,21
+Converse,11-11,U.S. House,,LIB,Richard Brubaker,10
+Converse,11-11,U.S. House,,,Jeff Haggit (CONST.),10
+Converse,11-11,U.S. House,,,Write-ins,0
+Converse,11-11,U.S. House,,,Over Votes,0
+Converse,11-11,U.S. House,,,Under Votes,9
+Converse,11-11,State Senate,2,REP,Brian Boner,197
+Converse,11-11,State Senate,2,,Write-ins,0
+Converse,11-11,State Senate,2,,Over Votes,0
+Converse,11-11,State Senate,2,,Under Votes,29
+Converse,11-11,State House,6,REP,Aaron Clausen,183
+Converse,11-11,State House,6,,Write-ins,6
+Converse,11-11,State House,6,,Over Votes,0
+Converse,11-11,State House,6,,Under Votes,37
+Converse,11-11,Ballots Cast,,,Ballots Cast,226
+Converse,11-11,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,11-11,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,41
+Converse,11-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,11-11,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,30
+Converse,11-11,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,11-11,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,36
+Converse,11-11,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,11-11,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,36
+Converse,13-13,President,,REP,Donald J. Trump,102
+Converse,13-13,President,,DEM,Joseph R. Biden,7
+Converse,13-13,President,,LIB,Jo Jorgensen,0
+Converse,13-13,President,,IND,Brock Pierce,0
+Converse,13-13,President,,,Write-ins,0
+Converse,13-13,President,,,Over Votes,0
+Converse,13-13,President,,,Under Votes,1
+Converse,13-13,U.S. Senate,,REP,Cynthia M. Lummis,94
+Converse,13-13,U.S. Senate,,DEM,Merav Ben David,9
+Converse,13-13,U.S. Senate,,,Write-ins,2
+Converse,13-13,U.S. Senate,,,Over Votes,0
+Converse,13-13,U.S. Senate,,,Under Votes,5
+Converse,13-13,U.S. House,,REP,Liz Cheney,92
+Converse,13-13,U.S. House,,DEM,Lynnette Grey Bull,6
+Converse,13-13,U.S. House,,LIB,Richard Brubaker,2
+Converse,13-13,U.S. House,,,Jeff Haggit (CONST.),4
+Converse,13-13,U.S. House,,,Write-ins,0
+Converse,13-13,U.S. House,,,Over Votes,0
+Converse,13-13,U.S. House,,,Under Votes,6
+Converse,13-13,State House,3,REP,Eric Barlow,93
+Converse,13-13,State House,3,,Write-ins,0
+Converse,13-13,State House,3,,Over Votes,0
+Converse,13-13,State House,3,,Under Votes,17
+Converse,13-13,Ballots Cast,,,Ballots Cast,110
+Converse,13-13,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,13-13,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,23
+Converse,13-13,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Converse,13-13,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,21
+Converse,13-13,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,13-13,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,15
+Converse,13-13,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,13-13,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,21
+Converse,2-2,President,,REP,Donald J. Trump,380
+Converse,2-2,President,,DEM,Joseph R. Biden,46
+Converse,2-2,President,,LIB,Jo Jorgensen,3
+Converse,2-2,President,,IND,Brock Pierce,5
+Converse,2-2,President,,,Write-ins,2
+Converse,2-2,President,,,Over Votes,2
+Converse,2-2,President,,,Under Votes,6
+Converse,2-2,U.S. Senate,,REP,Cynthia M. Lummis,373
+Converse,2-2,U.S. Senate,,DEM,Merav Ben David,51
+Converse,2-2,U.S. Senate,,,Write-ins,5
+Converse,2-2,U.S. Senate,,,Over Votes,1
+Converse,2-2,U.S. Senate,,,Under Votes,14
+Converse,2-2,U.S. House,,REP,Liz Cheney,365
+Converse,2-2,U.S. House,,DEM,Lynnette Grey Bull,40
+Converse,2-2,U.S. House,,LIB,Richard Brubaker,11
+Converse,2-2,U.S. House,,,Jeff Haggit (CONST.),17
+Converse,2-2,U.S. House,,,Write-ins,1
+Converse,2-2,U.S. House,,,Over Votes,2
+Converse,2-2,U.S. House,,,Under Votes,8
+Converse,2-2,State Senate,2,REP,Brian Boner,389
+Converse,2-2,State Senate,2,,Write-ins,7
+Converse,2-2,State Senate,2,,Over Votes,0
+Converse,2-2,State Senate,2,,Under Votes,48
+Converse,2-2,State House,6,REP,Aaron Clausen,388
+Converse,2-2,State House,6,,Write-ins,4
+Converse,2-2,State House,6,,Over Votes,0
+Converse,2-2,State House,6,,Under Votes,52
+Converse,2-2,Ballots Cast,,,Ballots Cast,444
+Converse,2-2,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,2-2,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,54
+Converse,2-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Converse,2-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,39
+Converse,2-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,2-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,28
+Converse,2-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,2-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,41
+Converse,20-20,President,,REP,Donald J. Trump,101
+Converse,20-20,President,,DEM,Joseph R. Biden,7
+Converse,20-20,President,,LIB,Jo Jorgensen,2
+Converse,20-20,President,,IND,Brock Pierce,0
+Converse,20-20,President,,,Write-ins,1
+Converse,20-20,President,,,Over Votes,0
+Converse,20-20,President,,,Under Votes,0
+Converse,20-20,U.S. Senate,,REP,Cynthia M. Lummis,100
+Converse,20-20,U.S. Senate,,DEM,Merav Ben David,9
+Converse,20-20,U.S. Senate,,,Write-ins,0
+Converse,20-20,U.S. Senate,,,Over Votes,0
+Converse,20-20,U.S. Senate,,,Under Votes,2
+Converse,20-20,U.S. House,,REP,Liz Cheney,99
+Converse,20-20,U.S. House,,DEM,Lynnette Grey Bull,8
+Converse,20-20,U.S. House,,LIB,Richard Brubaker,2
+Converse,20-20,U.S. House,,,Jeff Haggit (CONST.),1
+Converse,20-20,U.S. House,,,Write-ins,0
+Converse,20-20,U.S. House,,,Over Votes,0
+Converse,20-20,U.S. House,,,Under Votes,1
+Converse,20-20,State Senate,2,REP,Brian Boner,106
+Converse,20-20,State Senate,2,,Write-ins,0
+Converse,20-20,State Senate,2,,Over Votes,0
+Converse,20-20,State Senate,2,,Under Votes,5
+Converse,20-20,State House,6,REP,Aaron Clausen,101
+Converse,20-20,State House,6,,Write-ins,0
+Converse,20-20,State House,6,,Over Votes,0
+Converse,20-20,State House,6,,Under Votes,10
+Converse,20-20,Ballots Cast,,,Ballots Cast,111
+Converse,20-20,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,20-20,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,18
+Converse,20-20,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,20-20,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,10
+Converse,20-20,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,20-20,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,10
+Converse,20-20,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,20-20,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,20
+Converse,23-1,President,,REP,Donald J. Trump,267
+Converse,23-1,President,,DEM,Joseph R. Biden,54
+Converse,23-1,President,,LIB,Jo Jorgensen,9
+Converse,23-1,President,,IND,Brock Pierce,2
+Converse,23-1,President,,,Write-ins,1
+Converse,23-1,President,,,Over Votes,0
+Converse,23-1,President,,,Under Votes,2
+Converse,23-1,U.S. Senate,,REP,Cynthia M. Lummis,258
+Converse,23-1,U.S. Senate,,DEM,Merav Ben David,65
+Converse,23-1,U.S. Senate,,,Write-ins,2
+Converse,23-1,U.S. Senate,,,Over Votes,0
+Converse,23-1,U.S. Senate,,,Under Votes,10
+Converse,23-1,U.S. House,,REP,Liz Cheney,251
+Converse,23-1,U.S. House,,DEM,Lynnette Grey Bull,45
+Converse,23-1,U.S. House,,LIB,Richard Brubaker,10
+Converse,23-1,U.S. House,,,Jeff Haggit (CONST.),11
+Converse,23-1,U.S. House,,,Write-ins,0
+Converse,23-1,U.S. House,,,Over Votes,3
+Converse,23-1,U.S. House,,,Under Votes,15
+Converse,23-1,State House,3,REP,Eric Barlow,292
+Converse,23-1,State House,3,,Write-ins,5
+Converse,23-1,State House,3,,Over Votes,0
+Converse,23-1,State House,3,,Under Votes,38
+Converse,23-1,Ballots Cast,,,Ballots Cast,335
+Converse,23-1,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,23-1,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,54
+Converse,23-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,23-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,41
+Converse,23-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,23-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,36
+Converse,23-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,23-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,45
+Converse,23-2,President,,REP,Donald J. Trump,487
+Converse,23-2,President,,DEM,Joseph R. Biden,56
+Converse,23-2,President,,LIB,Jo Jorgensen,5
+Converse,23-2,President,,IND,Brock Pierce,1
+Converse,23-2,President,,,Write-ins,4
+Converse,23-2,President,,,Over Votes,2
+Converse,23-2,President,,,Under Votes,4
+Converse,23-2,U.S. Senate,,REP,Cynthia M. Lummis,471
+Converse,23-2,U.S. Senate,,DEM,Merav Ben David,65
+Converse,23-2,U.S. Senate,,,Write-ins,6
+Converse,23-2,U.S. Senate,,,Over Votes,0
+Converse,23-2,U.S. Senate,,,Under Votes,17
+Converse,23-2,U.S. House,,REP,Liz Cheney,445
+Converse,23-2,U.S. House,,DEM,Lynnette Grey Bull,45
+Converse,23-2,U.S. House,,LIB,Richard Brubaker,21
+Converse,23-2,U.S. House,,,Jeff Haggit (CONST.),28
+Converse,23-2,U.S. House,,,Write-ins,2
+Converse,23-2,U.S. House,,,Over Votes,3
+Converse,23-2,U.S. House,,,Under Votes,15
+Converse,23-2,State Senate,2,REP,Brian Boner,508
+Converse,23-2,State Senate,2,,Write-ins,6
+Converse,23-2,State Senate,2,,Over Votes,0
+Converse,23-2,State Senate,2,,Under Votes,45
+Converse,23-2,State House,6,REP,Aaron Clausen,478
+Converse,23-2,State House,6,,Write-ins,8
+Converse,23-2,State House,6,,Over Votes,0
+Converse,23-2,State House,6,,Under Votes,73
+Converse,23-2,Ballots Cast,,,Ballots Cast,559
+Converse,23-2,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,23-2,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,95
+Converse,23-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,23-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,73
+Converse,23-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,1
+Converse,23-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,74
+Converse,23-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,23-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,83
+Converse,23-3,President,,REP,Donald J. Trump,458
+Converse,23-3,President,,DEM,Joseph R. Biden,69
+Converse,23-3,President,,LIB,Jo Jorgensen,11
+Converse,23-3,President,,IND,Brock Pierce,4
+Converse,23-3,President,,,Write-ins,6
+Converse,23-3,President,,,Over Votes,1
+Converse,23-3,President,,,Under Votes,2
+Converse,23-3,U.S. Senate,,REP,Cynthia M. Lummis,442
+Converse,23-3,U.S. Senate,,DEM,Merav Ben David,89
+Converse,23-3,U.S. Senate,,,Write-ins,3
+Converse,23-3,U.S. Senate,,,Over Votes,1
+Converse,23-3,U.S. Senate,,,Under Votes,16
+Converse,23-3,U.S. House,,REP,Liz Cheney,413
+Converse,23-3,U.S. House,,DEM,Lynnette Grey Bull,73
+Converse,23-3,U.S. House,,LIB,Richard Brubaker,20
+Converse,23-3,U.S. House,,,Jeff Haggit (CONST.),18
+Converse,23-3,U.S. House,,,Write-ins,0
+Converse,23-3,U.S. House,,,Over Votes,6
+Converse,23-3,U.S. House,,,Under Votes,21
+Converse,23-3,State Senate,2,REP,Brian Boner,482
+Converse,23-3,State Senate,2,,Write-ins,3
+Converse,23-3,State Senate,2,,Over Votes,1
+Converse,23-3,State Senate,2,,Under Votes,65
+Converse,23-3,State House,6,REP,Aaron Clausen,481
+Converse,23-3,State House,6,,Write-ins,3
+Converse,23-3,State House,6,,Over Votes,1
+Converse,23-3,State House,6,,Under Votes,66
+Converse,23-3,Ballots Cast,,,Ballots Cast,551
+Converse,23-3,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,23-3,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,70
+Converse,23-3,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,23-3,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,74
+Converse,23-3,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,23-3,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,58
+Converse,23-3,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,23-3,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,67
+Converse,23-4,President,,REP,Donald J. Trump,555
+Converse,23-4,President,,DEM,Joseph R. Biden,136
+Converse,23-4,President,,LIB,Jo Jorgensen,13
+Converse,23-4,President,,IND,Brock Pierce,12
+Converse,23-4,President,,,Write-ins,4
+Converse,23-4,President,,,Over Votes,0
+Converse,23-4,President,,,Under Votes,9
+Converse,23-4,U.S. Senate,,REP,Cynthia M. Lummis,537
+Converse,23-4,U.S. Senate,,DEM,Merav Ben David,156
+Converse,23-4,U.S. Senate,,,Write-ins,7
+Converse,23-4,U.S. Senate,,,Over Votes,1
+Converse,23-4,U.S. Senate,,,Under Votes,28
+Converse,23-4,U.S. House,,REP,Liz Cheney,520
+Converse,23-4,U.S. House,,DEM,Lynnette Grey Bull,115
+Converse,23-4,U.S. House,,LIB,Richard Brubaker,27
+Converse,23-4,U.S. House,,,Jeff Haggit (CONST.),27
+Converse,23-4,U.S. House,,,Write-ins,2
+Converse,23-4,U.S. House,,,Over Votes,8
+Converse,23-4,U.S. House,,,Under Votes,30
+Converse,23-4,State House,3,REP,Eric Barlow,624
+Converse,23-4,State House,3,,Write-ins,9
+Converse,23-4,State House,3,,Over Votes,0
+Converse,23-4,State House,3,,Under Votes,96
+Converse,23-4,Ballots Cast,,,Ballots Cast,729
+Converse,23-4,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,23-4,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,119
+Converse,23-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Converse,23-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,92
+Converse,23-4,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,23-4,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,98
+Converse,23-4,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Converse,23-4,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,109
+Converse,23-5,President,,REP,Donald J. Trump,285
+Converse,23-5,President,,DEM,Joseph R. Biden,54
+Converse,23-5,President,,LIB,Jo Jorgensen,7
+Converse,23-5,President,,IND,Brock Pierce,2
+Converse,23-5,President,,,Write-ins,0
+Converse,23-5,President,,,Over Votes,0
+Converse,23-5,President,,,Under Votes,1
+Converse,23-5,U.S. Senate,,REP,Cynthia M. Lummis,281
+Converse,23-5,U.S. Senate,,DEM,Merav Ben David,53
+Converse,23-5,U.S. Senate,,,Write-ins,5
+Converse,23-5,U.S. Senate,,,Over Votes,0
+Converse,23-5,U.S. Senate,,,Under Votes,10
+Converse,23-5,U.S. House,,REP,Liz Cheney,255
+Converse,23-5,U.S. House,,DEM,Lynnette Grey Bull,45
+Converse,23-5,U.S. House,,LIB,Richard Brubaker,14
+Converse,23-5,U.S. House,,,Jeff Haggit (CONST.),24
+Converse,23-5,U.S. House,,,Write-ins,0
+Converse,23-5,U.S. House,,,Over Votes,3
+Converse,23-5,U.S. House,,,Under Votes,8
+Converse,23-5,State Senate,2,REP,Brian Boner,318
+Converse,23-5,State Senate,2,,Write-ins,2
+Converse,23-5,State Senate,2,,Over Votes,0
+Converse,23-5,State Senate,2,,Under Votes,29
+Converse,23-5,State House,6,REP,Aaron Clausen,314
+Converse,23-5,State House,6,,Write-ins,0
+Converse,23-5,State House,6,,Over Votes,0
+Converse,23-5,State House,6,,Under Votes,35
+Converse,23-5,Ballots Cast,,,Ballots Cast,349
+Converse,23-5,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,23-5,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,36
+Converse,23-5,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,23-5,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,35
+Converse,23-5,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,1
+Converse,23-5,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,33
+Converse,23-5,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,23-5,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,38
+Converse,23-6,President,,REP,Donald J. Trump,277
+Converse,23-6,President,,DEM,Joseph R. Biden,50
+Converse,23-6,President,,LIB,Jo Jorgensen,7
+Converse,23-6,President,,IND,Brock Pierce,1
+Converse,23-6,President,,,Write-ins,1
+Converse,23-6,President,,,Over Votes,0
+Converse,23-6,President,,,Under Votes,0
+Converse,23-6,U.S. Senate,,REP,Cynthia M. Lummis,267
+Converse,23-6,U.S. Senate,,DEM,Merav Ben David,54
+Converse,23-6,U.S. Senate,,,Write-ins,4
+Converse,23-6,U.S. Senate,,,Over Votes,0
+Converse,23-6,U.S. Senate,,,Under Votes,11
+Converse,23-6,U.S. House,,REP,Liz Cheney,243
+Converse,23-6,U.S. House,,DEM,Lynnette Grey Bull,45
+Converse,23-6,U.S. House,,LIB,Richard Brubaker,14
+Converse,23-6,U.S. House,,,Jeff Haggit (CONST.),17
+Converse,23-6,U.S. House,,,Write-ins,1
+Converse,23-6,U.S. House,,,Over Votes,4
+Converse,23-6,U.S. House,,,Under Votes,12
+Converse,23-6,State Senate,2,REP,Brian Boner,299
+Converse,23-6,State Senate,2,,Write-ins,3
+Converse,23-6,State Senate,2,,Over Votes,0
+Converse,23-6,State Senate,2,,Under Votes,34
+Converse,23-6,State House,4,REP,Jeremy Haroldson,273
+Converse,23-6,State House,4,,Write-ins,4
+Converse,23-6,State House,4,,Over Votes,0
+Converse,23-6,State House,4,,Under Votes,59
+Converse,23-6,Ballots Cast,,,Ballots Cast,336
+Converse,23-6,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,23-6,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,46
+Converse,23-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Converse,23-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,43
+Converse,23-6,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,23-6,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,32
+Converse,23-6,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,23-6,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,37
+Converse,3-1,President,,REP,Donald J. Trump,163
+Converse,3-1,President,,DEM,Joseph R. Biden,18
+Converse,3-1,President,,LIB,Jo Jorgensen,5
+Converse,3-1,President,,IND,Brock Pierce,0
+Converse,3-1,President,,,Write-ins,0
+Converse,3-1,President,,,Over Votes,0
+Converse,3-1,President,,,Under Votes,0
+Converse,3-1,U.S. Senate,,REP,Cynthia M. Lummis,161
+Converse,3-1,U.S. Senate,,DEM,Merav Ben David,17
+Converse,3-1,U.S. Senate,,,Write-ins,2
+Converse,3-1,U.S. Senate,,,Over Votes,0
+Converse,3-1,U.S. Senate,,,Under Votes,6
+Converse,3-1,U.S. House,,REP,Liz Cheney,150
+Converse,3-1,U.S. House,,DEM,Lynnette Grey Bull,14
+Converse,3-1,U.S. House,,LIB,Richard Brubaker,6
+Converse,3-1,U.S. House,,,Jeff Haggit (CONST.),6
+Converse,3-1,U.S. House,,,Write-ins,1
+Converse,3-1,U.S. House,,,Over Votes,3
+Converse,3-1,U.S. House,,,Under Votes,6
+Converse,3-1,State Senate,2,REP,Brian Boner,166
+Converse,3-1,State Senate,2,,Write-ins,1
+Converse,3-1,State Senate,2,,Over Votes,0
+Converse,3-1,State Senate,2,,Under Votes,19
+Converse,3-1,State House,6,REP,Aaron Clausen,157
+Converse,3-1,State House,6,,Write-ins,6
+Converse,3-1,State House,6,,Over Votes,0
+Converse,3-1,State House,6,,Under Votes,23
+Converse,3-1,Ballots Cast,,,Ballots Cast,186
+Converse,3-1,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,3-1,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,22
+Converse,3-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,3-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,22
+Converse,3-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,3-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,15
+Converse,3-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,3-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,19
+Converse,4-4,President,,REP,Donald J. Trump,459
+Converse,4-4,President,,DEM,Joseph R. Biden,43
+Converse,4-4,President,,LIB,Jo Jorgensen,5
+Converse,4-4,President,,IND,Brock Pierce,1
+Converse,4-4,President,,,Write-ins,0
+Converse,4-4,President,,,Over Votes,2
+Converse,4-4,President,,,Under Votes,0
+Converse,4-4,U.S. Senate,,REP,Cynthia M. Lummis,445
+Converse,4-4,U.S. Senate,,DEM,Merav Ben David,43
+Converse,4-4,U.S. Senate,,,Write-ins,2
+Converse,4-4,U.S. Senate,,,Over Votes,0
+Converse,4-4,U.S. Senate,,,Under Votes,20
+Converse,4-4,U.S. House,,REP,Liz Cheney,426
+Converse,4-4,U.S. House,,DEM,Lynnette Grey Bull,41
+Converse,4-4,U.S. House,,LIB,Richard Brubaker,8
+Converse,4-4,U.S. House,,,Jeff Haggit (CONST.),23
+Converse,4-4,U.S. House,,,Write-ins,0
+Converse,4-4,U.S. House,,,Over Votes,4
+Converse,4-4,U.S. House,,,Under Votes,8
+Converse,4-4,State Senate,2,REP,Brian Boner,473
+Converse,4-4,State Senate,2,,Write-ins,2
+Converse,4-4,State Senate,2,,Over Votes,0
+Converse,4-4,State Senate,2,,Under Votes,35
+Converse,4-4,State House,6,REP,Aaron Clausen,447
+Converse,4-4,State House,6,,Write-ins,4
+Converse,4-4,State House,6,,Over Votes,0
+Converse,4-4,State House,6,,Under Votes,59
+Converse,4-4,Ballots Cast,,,Ballots Cast,510
+Converse,4-4,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,4-4,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,62
+Converse,4-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Converse,4-4,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,50
+Converse,4-4,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,4-4,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,55
+Converse,4-4,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,4-4,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,57
+Converse,6-6,President,,REP,Donald J. Trump,299
+Converse,6-6,President,,DEM,Joseph R. Biden,18
+Converse,6-6,President,,LIB,Jo Jorgensen,5
+Converse,6-6,President,,IND,Brock Pierce,5
+Converse,6-6,President,,,Write-ins,0
+Converse,6-6,President,,,Over Votes,0
+Converse,6-6,President,,,Under Votes,0
+Converse,6-6,U.S. Senate,,REP,Cynthia M. Lummis,287
+Converse,6-6,U.S. Senate,,DEM,Merav Ben David,30
+Converse,6-6,U.S. Senate,,,Write-ins,2
+Converse,6-6,U.S. Senate,,,Over Votes,0
+Converse,6-6,U.S. Senate,,,Under Votes,8
+Converse,6-6,U.S. House,,REP,Liz Cheney,266
+Converse,6-6,U.S. House,,DEM,Lynnette Grey Bull,30
+Converse,6-6,U.S. House,,LIB,Richard Brubaker,12
+Converse,6-6,U.S. House,,,Jeff Haggit (CONST.),14
+Converse,6-6,U.S. House,,,Write-ins,0
+Converse,6-6,U.S. House,,,Over Votes,0
+Converse,6-6,U.S. House,,,Under Votes,5
+Converse,6-6,State Senate,2,REP,Brian Boner,296
+Converse,6-6,State Senate,2,,Write-ins,1
+Converse,6-6,State Senate,2,,Over Votes,0
+Converse,6-6,State Senate,2,,Under Votes,30
+Converse,6-6,State House,6,REP,Aaron Clausen,285
+Converse,6-6,State House,6,,Write-ins,5
+Converse,6-6,State House,6,,Over Votes,0
+Converse,6-6,State House,6,,Under Votes,37
+Converse,6-6,Ballots Cast,,,Ballots Cast,327
+Converse,6-6,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,6-6,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,46
+Converse,6-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,6-6,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,39
+Converse,6-6,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,6-6,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,43
+Converse,6-6,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,6-6,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,42
+Converse,7-7,President,,REP,Donald J. Trump,188
+Converse,7-7,President,,DEM,Joseph R. Biden,23
+Converse,7-7,President,,LIB,Jo Jorgensen,5
+Converse,7-7,President,,IND,Brock Pierce,0
+Converse,7-7,President,,,Write-ins,1
+Converse,7-7,President,,,Over Votes,0
+Converse,7-7,President,,,Under Votes,1
+Converse,7-7,U.S. Senate,,REP,Cynthia M. Lummis,188
+Converse,7-7,U.S. Senate,,DEM,Merav Ben David,22
+Converse,7-7,U.S. Senate,,,Write-ins,3
+Converse,7-7,U.S. Senate,,,Over Votes,0
+Converse,7-7,U.S. Senate,,,Under Votes,5
+Converse,7-7,U.S. House,,REP,Liz Cheney,176
+Converse,7-7,U.S. House,,DEM,Lynnette Grey Bull,17
+Converse,7-7,U.S. House,,LIB,Richard Brubaker,10
+Converse,7-7,U.S. House,,,Jeff Haggit (CONST.),5
+Converse,7-7,U.S. House,,,Write-ins,2
+Converse,7-7,U.S. House,,,Over Votes,2
+Converse,7-7,U.S. House,,,Under Votes,6
+Converse,7-7,State Senate,2,REP,Brian Boner,192
+Converse,7-7,State Senate,2,,Write-ins,3
+Converse,7-7,State Senate,2,,Over Votes,0
+Converse,7-7,State Senate,2,,Under Votes,23
+Converse,7-7,State House,6,REP,Aaron Clausen,171
+Converse,7-7,State House,6,,Write-ins,7
+Converse,7-7,State House,6,,Over Votes,0
+Converse,7-7,State House,6,,Under Votes,40
+Converse,7-7,Ballots Cast,,,Ballots Cast,218
+Converse,7-7,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,7-7,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,34
+Converse,7-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,7-7,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,26
+Converse,7-7,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,7-7,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,28
+Converse,7-7,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,7-7,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,29
+Converse,8-8,President,,REP,Donald J. Trump,287
+Converse,8-8,President,,DEM,Joseph R. Biden,22
+Converse,8-8,President,,LIB,Jo Jorgensen,7
+Converse,8-8,President,,IND,Brock Pierce,1
+Converse,8-8,President,,,Write-ins,0
+Converse,8-8,President,,,Over Votes,0
+Converse,8-8,President,,,Under Votes,2
+Converse,8-8,U.S. Senate,,REP,Cynthia M. Lummis,276
+Converse,8-8,U.S. Senate,,DEM,Merav Ben David,35
+Converse,8-8,U.S. Senate,,,Write-ins,1
+Converse,8-8,U.S. Senate,,,Over Votes,0
+Converse,8-8,U.S. Senate,,,Under Votes,7
+Converse,8-8,U.S. House,,REP,Liz Cheney,267
+Converse,8-8,U.S. House,,DEM,Lynnette Grey Bull,24
+Converse,8-8,U.S. House,,LIB,Richard Brubaker,8
+Converse,8-8,U.S. House,,,Jeff Haggit (CONST.),12
+Converse,8-8,U.S. House,,,Write-ins,1
+Converse,8-8,U.S. House,,,Over Votes,1
+Converse,8-8,U.S. House,,,Under Votes,6
+Converse,8-8,State Senate,2,REP,Brian Boner,293
+Converse,8-8,State Senate,2,,Write-ins,2
+Converse,8-8,State Senate,2,,Over Votes,0
+Converse,8-8,State Senate,2,,Under Votes,24
+Converse,8-8,State House,4,REP,Jeremy Haroldson,267
+Converse,8-8,State House,4,,Write-ins,12
+Converse,8-8,State House,4,,Over Votes,0
+Converse,8-8,State House,4,,Under Votes,40
+Converse,8-8,Ballots Cast,,,Ballots Cast,319
+Converse,8-8,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,8-8,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,42
+Converse,8-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Converse,8-8,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,25
+Converse,8-8,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,8-8,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,25
+Converse,8-8,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,8-8,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,37
+Converse,9-1,President,,REP,Donald J. Trump,531
+Converse,9-1,President,,DEM,Joseph R. Biden,90
+Converse,9-1,President,,LIB,Jo Jorgensen,17
+Converse,9-1,President,,IND,Brock Pierce,5
+Converse,9-1,President,,,Write-ins,2
+Converse,9-1,President,,,Over Votes,0
+Converse,9-1,President,,,Under Votes,2
+Converse,9-1,U.S. Senate,,REP,Cynthia M. Lummis,507
+Converse,9-1,U.S. Senate,,DEM,Merav Ben David,121
+Converse,9-1,U.S. Senate,,,Write-ins,4
+Converse,9-1,U.S. Senate,,,Over Votes,2
+Converse,9-1,U.S. Senate,,,Under Votes,13
+Converse,9-1,U.S. House,,REP,Liz Cheney,475
+Converse,9-1,U.S. House,,DEM,Lynnette Grey Bull,86
+Converse,9-1,U.S. House,,LIB,Richard Brubaker,34
+Converse,9-1,U.S. House,,,Jeff Haggit (CONST.),32
+Converse,9-1,U.S. House,,,Write-ins,3
+Converse,9-1,U.S. House,,,Over Votes,2
+Converse,9-1,U.S. House,,,Under Votes,15
+Converse,9-1,State Senate,2,REP,Brian Boner,578
+Converse,9-1,State Senate,2,,Write-ins,10
+Converse,9-1,State Senate,2,,Over Votes,1
+Converse,9-1,State Senate,2,,Under Votes,58
+Converse,9-1,State House,6,REP,Aaron Clausen,550
+Converse,9-1,State House,6,,Write-ins,10
+Converse,9-1,State House,6,,Over Votes,2
+Converse,9-1,State House,6,,Under Votes,85
+Converse,9-1,Ballots Cast,,,Ballots Cast,647
+Converse,9-1,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,0
+Converse,9-1,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,98
+Converse,9-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Converse,9-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,67
+Converse,9-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,9-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,87
+Converse,9-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,9-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,86
+Converse,9-2,President,,REP,Donald J. Trump,395
+Converse,9-2,President,,DEM,Joseph R. Biden,90
+Converse,9-2,President,,LIB,Jo Jorgensen,11
+Converse,9-2,President,,IND,Brock Pierce,3
+Converse,9-2,President,,,Write-ins,5
+Converse,9-2,President,,,Over Votes,0
+Converse,9-2,President,,,Under Votes,1
+Converse,9-2,U.S. Senate,,REP,Cynthia M. Lummis,373
+Converse,9-2,U.S. Senate,,DEM,Merav Ben David,113
+Converse,9-2,U.S. Senate,,,Write-ins,10
+Converse,9-2,U.S. Senate,,,Over Votes,0
+Converse,9-2,U.S. Senate,,,Under Votes,9
+Converse,9-2,U.S. House,,REP,Liz Cheney,355
+Converse,9-2,U.S. House,,DEM,Lynnette Grey Bull,81
+Converse,9-2,U.S. House,,LIB,Richard Brubaker,32
+Converse,9-2,U.S. House,,,Jeff Haggit (CONST.),19
+Converse,9-2,U.S. House,,,Write-ins,2
+Converse,9-2,U.S. House,,,Over Votes,4
+Converse,9-2,U.S. House,,,Under Votes,12
+Converse,9-2,State Senate,2,REP,Brian Boner,452
+Converse,9-2,State Senate,2,,Write-ins,1
+Converse,9-2,State Senate,2,,Over Votes,0
+Converse,9-2,State Senate,2,,Under Votes,52
+Converse,9-2,State House,6,REP,Aaron Clausen,436
+Converse,9-2,State House,6,,Write-ins,6
+Converse,9-2,State House,6,,Over Votes,0
+Converse,9-2,State House,6,,Under Votes,63
+Converse,9-2,Ballots Cast,,,Ballots Cast,505
+Converse,9-2,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Over Votes,1
+Converse,9-2,"Circuit Court Judge, Eighth Judicial District Nathaniel S. Hibben",,,Under Votes,61
+Converse,9-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Converse,9-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,57
+Converse,9-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Converse,9-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,55
+Converse,9-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Converse,9-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,53

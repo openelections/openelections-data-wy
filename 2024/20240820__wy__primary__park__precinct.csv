@@ -1,0 +1,763 @@
+county,precinct,office,district,party,candidate,votes
+Park,01-01,U.S. Senate,,REP,John Barrasso,162
+Park,01-01,U.S. Senate,,REP,John Holtz,30
+Park,01-01,U.S. Senate,,REP,Reid Rasner,51
+Park,01-01,U.S. Senate,,REP,Write-ins,1
+Park,01-01,U.S. Senate,,REP,Over Votes,0
+Park,01-01,U.S. Senate,,REP,Under Votes,12
+Park,01-01,U.S. Senate,,DEM,Scott D Morrow,6
+Park,01-01,U.S. Senate,,DEM,Write-ins,0
+Park,01-01,U.S. Senate,,DEM,Over Votes,0
+Park,01-01,U.S. Senate,,DEM,Under Votes,0
+Park,01-01,U.S. House,,REP,Harriet Hageman,220
+Park,01-01,U.S. House,,REP,Steven R. Helling,28
+Park,01-01,U.S. House,,REP,Write-ins,2
+Park,01-01,U.S. House,,REP,Over Votes,0
+Park,01-01,U.S. House,,REP,Under Votes,6
+Park,01-01,U.S. House,,DEM,Kyle G. Cameron,6
+Park,01-01,U.S. House,,DEM,Write-ins,0
+Park,01-01,U.S. House,,DEM,Over Votes,0
+Park,01-01,U.S. House,,DEM,Under Votes,0
+Park,01-01,State Senate,18,REP,Landon Greer,69
+Park,01-01,State Senate,18,REP,Tim A. French,177
+Park,01-01,State Senate,18,REP,Write-ins,1
+Park,01-01,State Senate,18,REP,Over Votes,0
+Park,01-01,State Senate,18,REP,Under Votes,9
+Park,01-01,State Senate,18,DEM,Write-ins,0
+Park,01-01,State House,50,REP,David Hill,66
+Park,01-01,State House,50,REP,Rachel Rodriguez-Williams,177
+Park,01-01,State House,50,REP,Write-ins,3
+Park,01-01,State House,50,REP,Over Votes,1
+Park,01-01,State House,50,REP,Under Votes,9
+Park,01-01,State House,50,DEM,Write-ins,0
+Park,01-01,Ballots Cast,,REP,Ballots Cast,256
+Park,01-01,Ballots Cast,,DEM,Ballots Cast,6
+Park,01-01,Ballots Cast,,NP,Ballots Cast,0
+Park,01-01,Ballots Cast,,,Ballots Cast,262
+Park,02-01,U.S. Senate,,REP,John Barrasso,601
+Park,02-01,U.S. Senate,,REP,John Holtz,59
+Park,02-01,U.S. Senate,,REP,Reid Rasner,230
+Park,02-01,U.S. Senate,,REP,Write-ins,21
+Park,02-01,U.S. Senate,,REP,Over Votes,0
+Park,02-01,U.S. Senate,,REP,Under Votes,44
+Park,02-01,U.S. Senate,,DEM,Scott D Morrow,33
+Park,02-01,U.S. Senate,,DEM,Write-ins,1
+Park,02-01,U.S. Senate,,DEM,Over Votes,0
+Park,02-01,U.S. Senate,,DEM,Under Votes,2
+Park,02-01,U.S. House,,REP,Harriet Hageman,737
+Park,02-01,U.S. House,,REP,Steven R. Helling,157
+Park,02-01,U.S. House,,REP,Write-ins,23
+Park,02-01,U.S. House,,REP,Over Votes,1
+Park,02-01,U.S. House,,REP,Under Votes,37
+Park,02-01,U.S. House,,DEM,Kyle G. Cameron,34
+Park,02-01,U.S. House,,DEM,Write-ins,0
+Park,02-01,U.S. House,,DEM,Over Votes,0
+Park,02-01,U.S. House,,DEM,Under Votes,2
+Park,02-01,State Senate,18,REP,Landon Greer,440
+Park,02-01,State Senate,18,REP,Tim A. French,481
+Park,02-01,State Senate,18,REP,Write-ins,5
+Park,02-01,State Senate,18,REP,Over Votes,1
+Park,02-01,State Senate,18,REP,Under Votes,28
+Park,02-01,State Senate,18,DEM,Write-ins,5
+Park,02-01,State House,50,REP,David Hill,406
+Park,02-01,State House,50,REP,Rachel Rodriguez-Williams,518
+Park,02-01,State House,50,REP,Write-ins,4
+Park,02-01,State House,50,REP,Over Votes,2
+Park,02-01,State House,50,REP,Under Votes,25
+Park,02-01,State House,50,DEM,Write-ins,4
+Park,02-01,Ballots Cast,,REP,Ballots Cast,955
+Park,02-01,Ballots Cast,,DEM,Ballots Cast,36
+Park,02-01,Ballots Cast,,NP,Ballots Cast,21
+Park,02-01,Ballots Cast,,,Ballots Cast,1012
+Park,03-01,U.S. Senate,,REP,John Barrasso,306
+Park,03-01,U.S. Senate,,REP,John Holtz,31
+Park,03-01,U.S. Senate,,REP,Reid Rasner,95
+Park,03-01,U.S. Senate,,REP,Write-ins,4
+Park,03-01,U.S. Senate,,REP,Over Votes,0
+Park,03-01,U.S. Senate,,REP,Under Votes,11
+Park,03-01,U.S. Senate,,DEM,Scott D Morrow,9
+Park,03-01,U.S. Senate,,DEM,Write-ins,0
+Park,03-01,U.S. Senate,,DEM,Over Votes,0
+Park,03-01,U.S. Senate,,DEM,Under Votes,0
+Park,03-01,U.S. House,,REP,Harriet Hageman,378
+Park,03-01,U.S. House,,REP,Steven R. Helling,52
+Park,03-01,U.S. House,,REP,Write-ins,7
+Park,03-01,U.S. House,,REP,Over Votes,0
+Park,03-01,U.S. House,,REP,Under Votes,10
+Park,03-01,U.S. House,,DEM,Kyle G. Cameron,9
+Park,03-01,U.S. House,,DEM,Write-ins,0
+Park,03-01,U.S. House,,DEM,Over Votes,0
+Park,03-01,U.S. House,,DEM,Under Votes,0
+Park,03-01,State Senate,18,REP,Landon Greer,174
+Park,03-01,State Senate,18,REP,Tim A. French,262
+Park,03-01,State Senate,18,REP,Write-ins,0
+Park,03-01,State Senate,18,REP,Over Votes,0
+Park,03-01,State Senate,18,REP,Under Votes,11
+Park,03-01,State Senate,18,DEM,Write-ins,3
+Park,03-01,State House,50,REP,David Hill,150
+Park,03-01,State House,50,REP,Rachel Rodriguez-Williams,287
+Park,03-01,State House,50,REP,Write-ins,1
+Park,03-01,State House,50,REP,Over Votes,0
+Park,03-01,State House,50,REP,Under Votes,9
+Park,03-01,State House,50,DEM,Write-ins,3
+Park,03-01,Ballots Cast,,REP,Ballots Cast,447
+Park,03-01,Ballots Cast,,DEM,Ballots Cast,9
+Park,03-01,Ballots Cast,,NP,Ballots Cast,0
+Park,03-01,Ballots Cast,,,Ballots Cast,456
+Park,03-02,U.S. Senate,,REP,John Barrasso,473
+Park,03-02,U.S. Senate,,REP,John Holtz,26
+Park,03-02,U.S. Senate,,REP,Reid Rasner,149
+Park,03-02,U.S. Senate,,REP,Write-ins,15
+Park,03-02,U.S. Senate,,REP,Over Votes,0
+Park,03-02,U.S. Senate,,REP,Under Votes,26
+Park,03-02,U.S. Senate,,DEM,Scott D Morrow,16
+Park,03-02,U.S. Senate,,DEM,Write-ins,0
+Park,03-02,U.S. Senate,,DEM,Over Votes,0
+Park,03-02,U.S. Senate,,DEM,Under Votes,1
+Park,03-02,U.S. House,,REP,Harriet Hageman,551
+Park,03-02,U.S. House,,REP,Steven R. Helling,96
+Park,03-02,U.S. House,,REP,Write-ins,13
+Park,03-02,U.S. House,,REP,Over Votes,1
+Park,03-02,U.S. House,,REP,Under Votes,28
+Park,03-02,U.S. House,,DEM,Kyle G. Cameron,15
+Park,03-02,U.S. House,,DEM,Write-ins,0
+Park,03-02,U.S. House,,DEM,Over Votes,0
+Park,03-02,U.S. House,,DEM,Under Votes,2
+Park,03-02,State Senate,18,REP,Landon Greer,196
+Park,03-02,State Senate,18,REP,Tim A. French,223
+Park,03-02,State Senate,18,REP,Write-ins,1
+Park,03-02,State Senate,18,REP,Over Votes,0
+Park,03-02,State Senate,18,REP,Under Votes,10
+Park,03-02,State Senate,18,DEM,Write-ins,0
+Park,03-02,State Senate,20,REP,Ed Cooper,93
+Park,03-02,State Senate,20,REP,Tom Olmstead,145
+Park,03-02,State Senate,20,REP,Write-ins,1
+Park,03-02,State Senate,20,REP,Over Votes,0
+Park,03-02,State Senate,20,REP,Under Votes,20
+Park,03-02,State Senate,20,DEM,Write-ins,1
+Park,03-02,State House,28,REP,John R. Winter,133
+Park,03-02,State House,28,REP,Kevin Skates,107
+Park,03-02,State House,28,REP,Write-ins,0
+Park,03-02,State House,28,REP,Over Votes,0
+Park,03-02,State House,28,REP,Under Votes,19
+Park,03-02,State House,28,DEM,Write-ins,2
+Park,03-02,State House,50,REP,David Hill,166
+Park,03-02,State House,50,REP,Rachel Rodriguez-Williams,250
+Park,03-02,State House,50,REP,Write-ins,1
+Park,03-02,State House,50,REP,Over Votes,0
+Park,03-02,State House,50,REP,Under Votes,13
+Park,03-02,State House,50,DEM,Write-ins,0
+Park,03-02,Ballots Cast,,REP,Ballots Cast,689
+Park,03-02,Ballots Cast,,DEM,Ballots Cast,17
+Park,03-02,Ballots Cast,,NP,Ballots Cast,0
+Park,03-02,Ballots Cast,,,Ballots Cast,706
+Park,04-01,U.S. Senate,,REP,John Barrasso,455
+Park,04-01,U.S. Senate,,REP,John Holtz,48
+Park,04-01,U.S. Senate,,REP,Reid Rasner,183
+Park,04-01,U.S. Senate,,REP,Write-ins,12
+Park,04-01,U.S. Senate,,REP,Over Votes,1
+Park,04-01,U.S. Senate,,REP,Under Votes,44
+Park,04-01,U.S. Senate,,DEM,Scott D Morrow,7
+Park,04-01,U.S. Senate,,DEM,Write-ins,0
+Park,04-01,U.S. Senate,,DEM,Over Votes,0
+Park,04-01,U.S. Senate,,DEM,Under Votes,0
+Park,04-01,U.S. House,,REP,Harriet Hageman,623
+Park,04-01,U.S. House,,REP,Steven R. Helling,93
+Park,04-01,U.S. House,,REP,Write-ins,10
+Park,04-01,U.S. House,,REP,Over Votes,1
+Park,04-01,U.S. House,,REP,Under Votes,16
+Park,04-01,U.S. House,,DEM,Kyle G. Cameron,7
+Park,04-01,U.S. House,,DEM,Write-ins,0
+Park,04-01,U.S. House,,DEM,Over Votes,0
+Park,04-01,U.S. House,,DEM,Under Votes,0
+Park,04-01,State Senate,18,REP,Landon Greer,252
+Park,04-01,State Senate,18,REP,Tim A. French,468
+Park,04-01,State Senate,18,REP,Write-ins,2
+Park,04-01,State Senate,18,REP,Over Votes,2
+Park,04-01,State Senate,18,REP,Under Votes,19
+Park,04-01,State Senate,18,DEM,Write-ins,0
+Park,04-01,State House,24,REP,Matt Hall,277
+Park,04-01,State House,24,REP,Nina Webber,445
+Park,04-01,State House,24,REP,Write-ins,1
+Park,04-01,State House,24,REP,Over Votes,0
+Park,04-01,State House,24,REP,Under Votes,20
+Park,04-01,State House,24,DEM,Write-ins,0
+Park,04-01,Ballots Cast,,REP,Ballots Cast,743
+Park,04-01,Ballots Cast,,DEM,Ballots Cast,7
+Park,04-01,Ballots Cast,,NP,Ballots Cast,0
+Park,04-01,Ballots Cast,,,Ballots Cast,750
+Park,04-02,U.S. Senate,,REP,John Barrasso,80
+Park,04-02,U.S. Senate,,REP,John Holtz,8
+Park,04-02,U.S. Senate,,REP,Reid Rasner,32
+Park,04-02,U.S. Senate,,REP,Write-ins,4
+Park,04-02,U.S. Senate,,REP,Over Votes,0
+Park,04-02,U.S. Senate,,REP,Under Votes,4
+Park,04-02,U.S. Senate,,DEM,Scott D Morrow,0
+Park,04-02,U.S. Senate,,DEM,Write-ins,0
+Park,04-02,U.S. Senate,,DEM,Over Votes,0
+Park,04-02,U.S. Senate,,DEM,Under Votes,0
+Park,04-02,U.S. House,,REP,Harriet Hageman,107
+Park,04-02,U.S. House,,REP,Steven R. Helling,11
+Park,04-02,U.S. House,,REP,Write-ins,6
+Park,04-02,U.S. House,,REP,Over Votes,0
+Park,04-02,U.S. House,,REP,Under Votes,4
+Park,04-02,U.S. House,,DEM,Kyle G. Cameron,0
+Park,04-02,U.S. House,,DEM,Write-ins,0
+Park,04-02,U.S. House,,DEM,Over Votes,0
+Park,04-02,U.S. House,,DEM,Under Votes,0
+Park,04-02,State Senate,18,REP,Landon Greer,55
+Park,04-02,State Senate,18,REP,Tim A. French,71
+Park,04-02,State Senate,18,REP,Write-ins,0
+Park,04-02,State Senate,18,REP,Over Votes,0
+Park,04-02,State Senate,18,REP,Under Votes,2
+Park,04-02,State Senate,18,DEM,Write-ins,0
+Park,04-02,State House,24,REP,Matt Hall,3
+Park,04-02,State House,24,REP,Nina Webber,6
+Park,04-02,State House,24,REP,Write-ins,0
+Park,04-02,State House,24,REP,Over Votes,0
+Park,04-02,State House,24,REP,Under Votes,0
+Park,04-02,State House,24,DEM,Write-ins,0
+Park,04-02,State House,50,REP,David Hill,41
+Park,04-02,State House,50,REP,Rachel Rodriguez-Williams,74
+Park,04-02,State House,50,REP,Write-ins,1
+Park,04-02,State House,50,REP,Over Votes,1
+Park,04-02,State House,50,REP,Under Votes,2
+Park,04-02,State House,50,DEM,Write-ins,0
+Park,04-02,Ballots Cast,,REP,Ballots Cast,128
+Park,04-02,Ballots Cast,,DEM,Ballots Cast,0
+Park,04-02,Ballots Cast,,NP,Ballots Cast,0
+Park,04-02,Ballots Cast,,,Ballots Cast,128
+Park,06-01,U.S. Senate,,REP,John Barrasso,119
+Park,06-01,U.S. Senate,,REP,John Holtz,11
+Park,06-01,U.S. Senate,,REP,Reid Rasner,32
+Park,06-01,U.S. Senate,,REP,Write-ins,2
+Park,06-01,U.S. Senate,,REP,Over Votes,0
+Park,06-01,U.S. Senate,,REP,Under Votes,6
+Park,06-01,U.S. Senate,,DEM,Scott D Morrow,8
+Park,06-01,U.S. Senate,,DEM,Write-ins,0
+Park,06-01,U.S. Senate,,DEM,Over Votes,0
+Park,06-01,U.S. Senate,,DEM,Under Votes,0
+Park,06-01,U.S. House,,REP,Harriet Hageman,146
+Park,06-01,U.S. House,,REP,Steven R. Helling,19
+Park,06-01,U.S. House,,REP,Write-ins,2
+Park,06-01,U.S. House,,REP,Over Votes,0
+Park,06-01,U.S. House,,REP,Under Votes,3
+Park,06-01,U.S. House,,DEM,Kyle G. Cameron,8
+Park,06-01,U.S. House,,DEM,Write-ins,0
+Park,06-01,U.S. House,,DEM,Over Votes,0
+Park,06-01,U.S. House,,DEM,Under Votes,0
+Park,06-01,State House,26,REP,Dalton Banks,141
+Park,06-01,State House,26,REP,Write-ins,3
+Park,06-01,State House,26,REP,Over Votes,0
+Park,06-01,State House,26,REP,Under Votes,26
+Park,06-01,State House,26,DEM,Write-ins,1
+Park,06-01,Ballots Cast,,REP,Ballots Cast,170
+Park,06-01,Ballots Cast,,DEM,Ballots Cast,8
+Park,06-01,Ballots Cast,,NP,Ballots Cast,1
+Park,06-01,Ballots Cast,,,Ballots Cast,179
+Park,07-02,U.S. Senate,,REP,John Barrasso,23
+Park,07-02,U.S. Senate,,REP,John Holtz,2
+Park,07-02,U.S. Senate,,REP,Reid Rasner,4
+Park,07-02,U.S. Senate,,REP,Write-ins,0
+Park,07-02,U.S. Senate,,REP,Over Votes,0
+Park,07-02,U.S. Senate,,REP,Under Votes,0
+Park,07-02,U.S. Senate,,DEM,Scott D Morrow,0
+Park,07-02,U.S. Senate,,DEM,Write-ins,0
+Park,07-02,U.S. Senate,,DEM,Over Votes,0
+Park,07-02,U.S. Senate,,DEM,Under Votes,0
+Park,07-02,U.S. House,,REP,Harriet Hageman,26
+Park,07-02,U.S. House,,REP,Steven R. Helling,3
+Park,07-02,U.S. House,,REP,Write-ins,0
+Park,07-02,U.S. House,,REP,Over Votes,0
+Park,07-02,U.S. House,,REP,Under Votes,0
+Park,07-02,U.S. House,,DEM,Kyle G. Cameron,0
+Park,07-02,U.S. House,,DEM,Write-ins,0
+Park,07-02,U.S. House,,DEM,Over Votes,0
+Park,07-02,U.S. House,,DEM,Under Votes,0
+Park,07-02,State Senate,18,REP,Landon Greer,12
+Park,07-02,State Senate,18,REP,Tim A. French,16
+Park,07-02,State Senate,18,REP,Write-ins,0
+Park,07-02,State Senate,18,REP,Over Votes,0
+Park,07-02,State Senate,18,REP,Under Votes,1
+Park,07-02,State Senate,18,DEM,Write-ins,0
+Park,07-02,State House,24,REP,Matt Hall,17
+Park,07-02,State House,24,REP,Nina Webber,12
+Park,07-02,State House,24,REP,Write-ins,0
+Park,07-02,State House,24,REP,Over Votes,0
+Park,07-02,State House,24,REP,Under Votes,0
+Park,07-02,State House,24,DEM,Write-ins,0
+Park,07-02,Ballots Cast,,REP,Ballots Cast,29
+Park,07-02,Ballots Cast,,DEM,Ballots Cast,0
+Park,07-02,Ballots Cast,,NP,Ballots Cast,0
+Park,07-02,Ballots Cast,,,Ballots Cast,29
+Park,08-01,U.S. Senate,,REP,John Barrasso,60
+Park,08-01,U.S. Senate,,REP,John Holtz,5
+Park,08-01,U.S. Senate,,REP,Reid Rasner,16
+Park,08-01,U.S. Senate,,REP,Write-ins,2
+Park,08-01,U.S. Senate,,REP,Over Votes,1
+Park,08-01,U.S. Senate,,REP,Under Votes,0
+Park,08-01,U.S. Senate,,DEM,Scott D Morrow,0
+Park,08-01,U.S. Senate,,DEM,Write-ins,0
+Park,08-01,U.S. Senate,,DEM,Over Votes,0
+Park,08-01,U.S. Senate,,DEM,Under Votes,0
+Park,08-01,U.S. House,,REP,Harriet Hageman,71
+Park,08-01,U.S. House,,REP,Steven R. Helling,8
+Park,08-01,U.S. House,,REP,Write-ins,4
+Park,08-01,U.S. House,,REP,Over Votes,0
+Park,08-01,U.S. House,,REP,Under Votes,1
+Park,08-01,U.S. House,,DEM,Kyle G. Cameron,0
+Park,08-01,U.S. House,,DEM,Write-ins,0
+Park,08-01,U.S. House,,DEM,Over Votes,0
+Park,08-01,U.S. House,,DEM,Under Votes,0
+Park,08-01,State Senate,20,REP,Ed Cooper,28
+Park,08-01,State Senate,20,REP,Tom Olmstead,51
+Park,08-01,State Senate,20,REP,Write-ins,3
+Park,08-01,State Senate,20,REP,Over Votes,0
+Park,08-01,State Senate,20,REP,Under Votes,2
+Park,08-01,State Senate,20,DEM,Write-ins,0
+Park,08-01,State House,28,REP,John R. Winter,62
+Park,08-01,State House,28,REP,Kevin Skates,17
+Park,08-01,State House,28,REP,Write-ins,1
+Park,08-01,State House,28,REP,Over Votes,0
+Park,08-01,State House,28,REP,Under Votes,4
+Park,08-01,State House,28,DEM,Write-ins,0
+Park,08-01,Ballots Cast,,REP,Ballots Cast,84
+Park,08-01,Ballots Cast,,DEM,Ballots Cast,0
+Park,08-01,Ballots Cast,,NP,Ballots Cast,0
+Park,08-01,Ballots Cast,,,Ballots Cast,84
+Park,08-02,U.S. Senate,,REP,John Barrasso,83
+Park,08-02,U.S. Senate,,REP,John Holtz,7
+Park,08-02,U.S. Senate,,REP,Reid Rasner,33
+Park,08-02,U.S. Senate,,REP,Write-ins,2
+Park,08-02,U.S. Senate,,REP,Over Votes,0
+Park,08-02,U.S. Senate,,REP,Under Votes,5
+Park,08-02,U.S. Senate,,DEM,Scott D Morrow,10
+Park,08-02,U.S. Senate,,DEM,Write-ins,0
+Park,08-02,U.S. Senate,,DEM,Over Votes,0
+Park,08-02,U.S. Senate,,DEM,Under Votes,0
+Park,08-02,U.S. House,,REP,Harriet Hageman,113
+Park,08-02,U.S. House,,REP,Steven R. Helling,13
+Park,08-02,U.S. House,,REP,Write-ins,1
+Park,08-02,U.S. House,,REP,Over Votes,0
+Park,08-02,U.S. House,,REP,Under Votes,3
+Park,08-02,U.S. House,,DEM,Kyle G. Cameron,10
+Park,08-02,U.S. House,,DEM,Write-ins,0
+Park,08-02,U.S. House,,DEM,Over Votes,0
+Park,08-02,U.S. House,,DEM,Under Votes,0
+Park,08-02,State Senate,20,REP,Ed Cooper,54
+Park,08-02,State Senate,20,REP,Tom Olmstead,67
+Park,08-02,State Senate,20,REP,Write-ins,0
+Park,08-02,State Senate,20,REP,Over Votes,0
+Park,08-02,State Senate,20,REP,Under Votes,9
+Park,08-02,State Senate,20,DEM,Write-ins,2
+Park,08-02,State House,28,REP,John R. Winter,80
+Park,08-02,State House,28,REP,Kevin Skates,44
+Park,08-02,State House,28,REP,Write-ins,0
+Park,08-02,State House,28,REP,Over Votes,0
+Park,08-02,State House,28,REP,Under Votes,6
+Park,08-02,State House,28,DEM,Write-ins,0
+Park,08-02,Ballots Cast,,REP,Ballots Cast,130
+Park,08-02,Ballots Cast,,DEM,Ballots Cast,10
+Park,08-02,Ballots Cast,,NP,Ballots Cast,5
+Park,08-02,Ballots Cast,,,Ballots Cast,145
+Park,08-03,U.S. Senate,,REP,John Barrasso,44
+Park,08-03,U.S. Senate,,REP,John Holtz,9
+Park,08-03,U.S. Senate,,REP,Reid Rasner,46
+Park,08-03,U.S. Senate,,REP,Write-ins,1
+Park,08-03,U.S. Senate,,REP,Over Votes,0
+Park,08-03,U.S. Senate,,REP,Under Votes,1
+Park,08-03,U.S. Senate,,DEM,Scott D Morrow,3
+Park,08-03,U.S. Senate,,DEM,Write-ins,1
+Park,08-03,U.S. Senate,,DEM,Over Votes,0
+Park,08-03,U.S. Senate,,DEM,Under Votes,0
+Park,08-03,U.S. House,,REP,Harriet Hageman,88
+Park,08-03,U.S. House,,REP,Steven R. Helling,11
+Park,08-03,U.S. House,,REP,Write-ins,0
+Park,08-03,U.S. House,,REP,Over Votes,0
+Park,08-03,U.S. House,,REP,Under Votes,2
+Park,08-03,U.S. House,,DEM,Kyle G. Cameron,2
+Park,08-03,U.S. House,,DEM,Write-ins,1
+Park,08-03,U.S. House,,DEM,Over Votes,0
+Park,08-03,U.S. House,,DEM,Under Votes,1
+Park,08-03,State Senate,20,REP,Ed Cooper,18
+Park,08-03,State Senate,20,REP,Tom Olmstead,79
+Park,08-03,State Senate,20,REP,Write-ins,1
+Park,08-03,State Senate,20,REP,Over Votes,0
+Park,08-03,State Senate,20,REP,Under Votes,3
+Park,08-03,State Senate,20,DEM,Write-ins,1
+Park,08-03,State House,28,REP,John R. Winter,81
+Park,08-03,State House,28,REP,Kevin Skates,14
+Park,08-03,State House,28,REP,Write-ins,0
+Park,08-03,State House,28,REP,Over Votes,0
+Park,08-03,State House,28,REP,Under Votes,6
+Park,08-03,State House,28,DEM,Write-ins,1
+Park,08-03,Ballots Cast,,REP,Ballots Cast,101
+Park,08-03,Ballots Cast,,DEM,Ballots Cast,4
+Park,08-03,Ballots Cast,,NP,Ballots Cast,0
+Park,08-03,Ballots Cast,,,Ballots Cast,105
+Park,09-01,U.S. Senate,,REP,John Barrasso,213
+Park,09-01,U.S. Senate,,REP,John Holtz,26
+Park,09-01,U.S. Senate,,REP,Reid Rasner,96
+Park,09-01,U.S. Senate,,REP,Write-ins,14
+Park,09-01,U.S. Senate,,REP,Over Votes,0
+Park,09-01,U.S. Senate,,REP,Under Votes,14
+Park,09-01,U.S. Senate,,DEM,Scott D Morrow,23
+Park,09-01,U.S. Senate,,DEM,Write-ins,1
+Park,09-01,U.S. Senate,,DEM,Over Votes,0
+Park,09-01,U.S. Senate,,DEM,Under Votes,1
+Park,09-01,U.S. House,,REP,Harriet Hageman,287
+Park,09-01,U.S. House,,REP,Steven R. Helling,53
+Park,09-01,U.S. House,,REP,Write-ins,8
+Park,09-01,U.S. House,,REP,Over Votes,0
+Park,09-01,U.S. House,,REP,Under Votes,15
+Park,09-01,U.S. House,,DEM,Kyle G. Cameron,23
+Park,09-01,U.S. House,,DEM,Write-ins,0
+Park,09-01,U.S. House,,DEM,Over Votes,0
+Park,09-01,U.S. House,,DEM,Under Votes,2
+Park,09-01,State House,25,REP,David Northrup,136
+Park,09-01,State House,25,REP,Paul Hoeft,216
+Park,09-01,State House,25,REP,Write-ins,0
+Park,09-01,State House,25,REP,Over Votes,2
+Park,09-01,State House,25,REP,Under Votes,9
+Park,09-01,State House,25,DEM,Write-ins,2
+Park,09-01,Ballots Cast,,REP,Ballots Cast,363
+Park,09-01,Ballots Cast,,DEM,Ballots Cast,25
+Park,09-01,Ballots Cast,,NP,Ballots Cast,14
+Park,09-01,Ballots Cast,,,Ballots Cast,402
+Park,09-05,U.S. Senate,,REP,John Barrasso,310
+Park,09-05,U.S. Senate,,REP,John Holtz,42
+Park,09-05,U.S. Senate,,REP,Reid Rasner,92
+Park,09-05,U.S. Senate,,REP,Write-ins,12
+Park,09-05,U.S. Senate,,REP,Over Votes,1
+Park,09-05,U.S. Senate,,REP,Under Votes,26
+Park,09-05,U.S. Senate,,DEM,Scott D Morrow,39
+Park,09-05,U.S. Senate,,DEM,Write-ins,1
+Park,09-05,U.S. Senate,,DEM,Over Votes,0
+Park,09-05,U.S. Senate,,DEM,Under Votes,0
+Park,09-05,U.S. House,,REP,Harriet Hageman,343
+Park,09-05,U.S. House,,REP,Steven R. Helling,102
+Park,09-05,U.S. House,,REP,Write-ins,16
+Park,09-05,U.S. House,,REP,Over Votes,0
+Park,09-05,U.S. House,,REP,Under Votes,22
+Park,09-05,U.S. House,,DEM,Kyle G. Cameron,38
+Park,09-05,U.S. House,,DEM,Write-ins,0
+Park,09-05,U.S. House,,DEM,Over Votes,0
+Park,09-05,U.S. House,,DEM,Under Votes,2
+Park,09-05,State House,25,REP,David Northrup,227
+Park,09-05,State House,25,REP,Paul Hoeft,244
+Park,09-05,State House,25,REP,Write-ins,1
+Park,09-05,State House,25,REP,Over Votes,0
+Park,09-05,State House,25,REP,Under Votes,11
+Park,09-05,State House,25,DEM,Write-ins,5
+Park,09-05,Ballots Cast,,REP,Ballots Cast,483
+Park,09-05,Ballots Cast,,DEM,Ballots Cast,40
+Park,09-05,Ballots Cast,,NP,Ballots Cast,8
+Park,09-05,Ballots Cast,,,Ballots Cast,531
+Park,09-07,U.S. Senate,,REP,John Barrasso,216
+Park,09-07,U.S. Senate,,REP,John Holtz,28
+Park,09-07,U.S. Senate,,REP,Reid Rasner,79
+Park,09-07,U.S. Senate,,REP,Write-ins,5
+Park,09-07,U.S. Senate,,REP,Over Votes,0
+Park,09-07,U.S. Senate,,REP,Under Votes,13
+Park,09-07,U.S. Senate,,DEM,Scott D Morrow,18
+Park,09-07,U.S. Senate,,DEM,Write-ins,0
+Park,09-07,U.S. Senate,,DEM,Over Votes,0
+Park,09-07,U.S. Senate,,DEM,Under Votes,3
+Park,09-07,U.S. House,,REP,Harriet Hageman,276
+Park,09-07,U.S. House,,REP,Steven R. Helling,50
+Park,09-07,U.S. House,,REP,Write-ins,5
+Park,09-07,U.S. House,,REP,Over Votes,0
+Park,09-07,U.S. House,,REP,Under Votes,10
+Park,09-07,U.S. House,,DEM,Kyle G. Cameron,18
+Park,09-07,U.S. House,,DEM,Write-ins,0
+Park,09-07,U.S. House,,DEM,Over Votes,0
+Park,09-07,U.S. House,,DEM,Under Votes,3
+Park,09-07,State House,25,REP,David Northrup,131
+Park,09-07,State House,25,REP,Paul Hoeft,204
+Park,09-07,State House,25,REP,Write-ins,0
+Park,09-07,State House,25,REP,Over Votes,0
+Park,09-07,State House,25,REP,Under Votes,6
+Park,09-07,State House,25,DEM,Write-ins,1
+Park,09-07,Ballots Cast,,REP,Ballots Cast,341
+Park,09-07,Ballots Cast,,DEM,Ballots Cast,21
+Park,09-07,Ballots Cast,,NP,Ballots Cast,9
+Park,09-07,Ballots Cast,,,Ballots Cast,371
+Park,10-1,U.S. Senate,,REP,John Barrasso,214
+Park,10-1,U.S. Senate,,REP,John Holtz,16
+Park,10-1,U.S. Senate,,REP,Reid Rasner,86
+Park,10-1,U.S. Senate,,REP,Write-ins,6
+Park,10-1,U.S. Senate,,REP,Over Votes,0
+Park,10-1,U.S. Senate,,REP,Under Votes,10
+Park,10-1,U.S. Senate,,DEM,Scott D Morrow,7
+Park,10-1,U.S. Senate,,DEM,Write-ins,0
+Park,10-1,U.S. Senate,,DEM,Over Votes,0
+Park,10-1,U.S. Senate,,DEM,Under Votes,0
+Park,10-1,U.S. House,,REP,Harriet Hageman,289
+Park,10-1,U.S. House,,REP,Steven R. Helling,30
+Park,10-1,U.S. House,,REP,Write-ins,8
+Park,10-1,U.S. House,,REP,Over Votes,1
+Park,10-1,U.S. House,,REP,Under Votes,4
+Park,10-1,U.S. House,,DEM,Kyle G. Cameron,7
+Park,10-1,U.S. House,,DEM,Write-ins,0
+Park,10-1,U.S. House,,DEM,Over Votes,0
+Park,10-1,U.S. House,,DEM,Under Votes,0
+Park,10-1,State House,25,REP,David Northrup,117
+Park,10-1,State House,25,REP,Paul Hoeft,200
+Park,10-1,State House,25,REP,Write-ins,0
+Park,10-1,State House,25,REP,Over Votes,1
+Park,10-1,State House,25,REP,Under Votes,5
+Park,10-1,State House,25,DEM,Write-ins,0
+Park,10-1,State House,26,REP,Dalton Banks,6
+Park,10-1,State House,26,REP,Write-ins,0
+Park,10-1,State House,26,REP,Over Votes,0
+Park,10-1,State House,26,REP,Under Votes,3
+Park,10-1,State House,26,DEM,Write-ins,0
+Park,10-1,Ballots Cast,,REP,Ballots Cast,332
+Park,10-1,Ballots Cast,,DEM,Ballots Cast,7
+Park,10-1,Ballots Cast,,NP,Ballots Cast,0
+Park,10-1,Ballots Cast,,,Ballots Cast,339
+Park,10-2,U.S. Senate,,REP,John Barrasso,391
+Park,10-2,U.S. Senate,,REP,John Holtz,47
+Park,10-2,U.S. Senate,,REP,Reid Rasner,124
+Park,10-2,U.S. Senate,,REP,Write-ins,5
+Park,10-2,U.S. Senate,,REP,Over Votes,0
+Park,10-2,U.S. Senate,,REP,Under Votes,26
+Park,10-2,U.S. Senate,,DEM,Scott D Morrow,15
+Park,10-2,U.S. Senate,,DEM,Write-ins,0
+Park,10-2,U.S. Senate,,DEM,Over Votes,0
+Park,10-2,U.S. Senate,,DEM,Under Votes,3
+Park,10-2,U.S. House,,REP,Harriet Hageman,500
+Park,10-2,U.S. House,,REP,Steven R. Helling,65
+Park,10-2,U.S. House,,REP,Write-ins,12
+Park,10-2,U.S. House,,REP,Over Votes,0
+Park,10-2,U.S. House,,REP,Under Votes,16
+Park,10-2,U.S. House,,DEM,Kyle G. Cameron,16
+Park,10-2,U.S. House,,DEM,Write-ins,1
+Park,10-2,U.S. House,,DEM,Over Votes,0
+Park,10-2,U.S. House,,DEM,Under Votes,1
+Park,10-2,State House,25,REP,David Northrup,197
+Park,10-2,State House,25,REP,Paul Hoeft,387
+Park,10-2,State House,25,REP,Write-ins,4
+Park,10-2,State House,25,REP,Over Votes,1
+Park,10-2,State House,25,REP,Under Votes,4
+Park,10-2,State House,25,DEM,Write-ins,6
+Park,10-2,Ballots Cast,,REP,Ballots Cast,593
+Park,10-2,Ballots Cast,,DEM,Ballots Cast,18
+Park,10-2,Ballots Cast,,NP,Ballots Cast,0
+Park,10-2,Ballots Cast,,,Ballots Cast,611
+Park,11-2,U.S. Senate,,REP,John Barrasso,33
+Park,11-2,U.S. Senate,,REP,John Holtz,2
+Park,11-2,U.S. Senate,,REP,Reid Rasner,8
+Park,11-2,U.S. Senate,,REP,Write-ins,0
+Park,11-2,U.S. Senate,,REP,Over Votes,0
+Park,11-2,U.S. Senate,,REP,Under Votes,0
+Park,11-2,U.S. Senate,,DEM,Scott D Morrow,0
+Park,11-2,U.S. Senate,,DEM,Write-ins,0
+Park,11-2,U.S. Senate,,DEM,Over Votes,0
+Park,11-2,U.S. Senate,,DEM,Under Votes,0
+Park,11-2,U.S. House,,REP,Harriet Hageman,35
+Park,11-2,U.S. House,,REP,Steven R. Helling,7
+Park,11-2,U.S. House,,REP,Write-ins,0
+Park,11-2,U.S. House,,REP,Over Votes,0
+Park,11-2,U.S. House,,REP,Under Votes,1
+Park,11-2,U.S. House,,DEM,Kyle G. Cameron,0
+Park,11-2,U.S. House,,DEM,Write-ins,0
+Park,11-2,U.S. House,,DEM,Over Votes,0
+Park,11-2,U.S. House,,DEM,Under Votes,0
+Park,11-2,State Senate,18,REP,Landon Greer,10
+Park,11-2,State Senate,18,REP,Tim A. French,31
+Park,11-2,State Senate,18,REP,Write-ins,0
+Park,11-2,State Senate,18,REP,Over Votes,0
+Park,11-2,State Senate,18,REP,Under Votes,2
+Park,11-2,State Senate,18,DEM,Write-ins,0
+Park,11-2,State House,50,REP,David Hill,14
+Park,11-2,State House,50,REP,Rachel Rodriguez-Williams,26
+Park,11-2,State House,50,REP,Write-ins,0
+Park,11-2,State House,50,REP,Over Votes,1
+Park,11-2,State House,50,REP,Under Votes,2
+Park,11-2,State House,50,DEM,Write-ins,0
+Park,11-2,Ballots Cast,,REP,Ballots Cast,43
+Park,11-2,Ballots Cast,,DEM,Ballots Cast,0
+Park,11-2,Ballots Cast,,NP,Ballots Cast,0
+Park,11-2,Ballots Cast,,,Ballots Cast,43
+Park,16-1,U.S. Senate,,REP,John Barrasso,263
+Park,16-1,U.S. Senate,,REP,John Holtz,24
+Park,16-1,U.S. Senate,,REP,Reid Rasner,72
+Park,16-1,U.S. Senate,,REP,Write-ins,0
+Park,16-1,U.S. Senate,,REP,Over Votes,1
+Park,16-1,U.S. Senate,,REP,Under Votes,21
+Park,16-1,U.S. Senate,,DEM,Scott D Morrow,20
+Park,16-1,U.S. Senate,,DEM,Write-ins,2
+Park,16-1,U.S. Senate,,DEM,Over Votes,0
+Park,16-1,U.S. Senate,,DEM,Under Votes,0
+Park,16-1,U.S. House,,REP,Harriet Hageman,319
+Park,16-1,U.S. House,,REP,Steven R. Helling,43
+Park,16-1,U.S. House,,REP,Write-ins,1
+Park,16-1,U.S. House,,REP,Over Votes,0
+Park,16-1,U.S. House,,REP,Under Votes,18
+Park,16-1,U.S. House,,DEM,Kyle G. Cameron,18
+Park,16-1,U.S. House,,DEM,Write-ins,3
+Park,16-1,U.S. House,,DEM,Over Votes,0
+Park,16-1,U.S. House,,DEM,Under Votes,1
+Park,16-1,State Senate,18,REP,Landon Greer,118
+Park,16-1,State Senate,18,REP,Tim A. French,246
+Park,16-1,State Senate,18,REP,Write-ins,1
+Park,16-1,State Senate,18,REP,Over Votes,0
+Park,16-1,State Senate,18,REP,Under Votes,16
+Park,16-1,State Senate,18,DEM,Write-ins,0
+Park,16-1,State House,24,REP,Matt Hall,131
+Park,16-1,State House,24,REP,Nina Webber,224
+Park,16-1,State House,24,REP,Write-ins,6
+Park,16-1,State House,24,REP,Over Votes,0
+Park,16-1,State House,24,REP,Under Votes,20
+Park,16-1,State House,24,DEM,Write-ins,2
+Park,16-1,Ballots Cast,,REP,Ballots Cast,381
+Park,16-1,Ballots Cast,,DEM,Ballots Cast,22
+Park,16-1,Ballots Cast,,NP,Ballots Cast,0
+Park,16-1,Ballots Cast,,,Ballots Cast,403
+Park,21-1,U.S. Senate,,REP,John Barrasso,292
+Park,21-1,U.S. Senate,,REP,John Holtz,27
+Park,21-1,U.S. Senate,,REP,Reid Rasner,90
+Park,21-1,U.S. Senate,,REP,Write-ins,3
+Park,21-1,U.S. Senate,,REP,Over Votes,0
+Park,21-1,U.S. Senate,,REP,Under Votes,10
+Park,21-1,U.S. Senate,,DEM,Scott D Morrow,8
+Park,21-1,U.S. Senate,,DEM,Write-ins,1
+Park,21-1,U.S. Senate,,DEM,Over Votes,0
+Park,21-1,U.S. Senate,,DEM,Under Votes,0
+Park,21-1,U.S. House,,REP,Harriet Hageman,365
+Park,21-1,U.S. House,,REP,Steven R. Helling,39
+Park,21-1,U.S. House,,REP,Write-ins,5
+Park,21-1,U.S. House,,REP,Over Votes,1
+Park,21-1,U.S. House,,REP,Under Votes,12
+Park,21-1,U.S. House,,DEM,Kyle G. Cameron,8
+Park,21-1,U.S. House,,DEM,Write-ins,1
+Park,21-1,U.S. House,,DEM,Over Votes,0
+Park,21-1,U.S. House,,DEM,Under Votes,0
+Park,21-1,State Senate,18,REP,Landon Greer,140
+Park,21-1,State Senate,18,REP,Tim A. French,277
+Park,21-1,State Senate,18,REP,Write-ins,3
+Park,21-1,State Senate,18,REP,Over Votes,0
+Park,21-1,State Senate,18,REP,Under Votes,2
+Park,21-1,State Senate,18,DEM,Write-ins,0
+Park,21-1,State House,50,REP,David Hill,112
+Park,21-1,State House,50,REP,Rachel Rodriguez-Williams,297
+Park,21-1,State House,50,REP,Write-ins,0
+Park,21-1,State House,50,REP,Over Votes,2
+Park,21-1,State House,50,REP,Under Votes,11
+Park,21-1,State House,50,DEM,Write-ins,0
+Park,21-1,Ballots Cast,,REP,Ballots Cast,422
+Park,21-1,Ballots Cast,,DEM,Ballots Cast,9
+Park,21-1,Ballots Cast,,NP,Ballots Cast,0
+Park,21-1,Ballots Cast,,,Ballots Cast,431
+Park,23-1,U.S. Senate,,REP,John Barrasso,49
+Park,23-1,U.S. Senate,,REP,John Holtz,9
+Park,23-1,U.S. Senate,,REP,Reid Rasner,15
+Park,23-1,U.S. Senate,,REP,Write-ins,0
+Park,23-1,U.S. Senate,,REP,Over Votes,0
+Park,23-1,U.S. Senate,,REP,Under Votes,2
+Park,23-1,U.S. Senate,,DEM,Scott D Morrow,1
+Park,23-1,U.S. Senate,,DEM,Write-ins,0
+Park,23-1,U.S. Senate,,DEM,Over Votes,0
+Park,23-1,U.S. Senate,,DEM,Under Votes,0
+Park,23-1,U.S. House,,REP,Harriet Hageman,61
+Park,23-1,U.S. House,,REP,Steven R. Helling,9
+Park,23-1,U.S. House,,REP,Write-ins,0
+Park,23-1,U.S. House,,REP,Over Votes,1
+Park,23-1,U.S. House,,REP,Under Votes,4
+Park,23-1,U.S. House,,DEM,Kyle G. Cameron,1
+Park,23-1,U.S. House,,DEM,Write-ins,0
+Park,23-1,U.S. House,,DEM,Over Votes,0
+Park,23-1,U.S. House,,DEM,Under Votes,0
+Park,23-1,State Senate,18,REP,Landon Greer,25
+Park,23-1,State Senate,18,REP,Tim A. French,50
+Park,23-1,State Senate,18,REP,Write-ins,0
+Park,23-1,State Senate,18,REP,Over Votes,0
+Park,23-1,State Senate,18,REP,Under Votes,0
+Park,23-1,State Senate,18,DEM,Write-ins,0
+Park,23-1,State House,50,REP,David Hill,31
+Park,23-1,State House,50,REP,Rachel Rodriguez-Williams,43
+Park,23-1,State House,50,REP,Write-ins,0
+Park,23-1,State House,50,REP,Over Votes,0
+Park,23-1,State House,50,REP,Under Votes,1
+Park,23-1,State House,50,DEM,Write-ins,0
+Park,23-1,Ballots Cast,,REP,Ballots Cast,75
+Park,23-1,Ballots Cast,,DEM,Ballots Cast,1
+Park,23-1,Ballots Cast,,NP,Ballots Cast,0
+Park,23-1,Ballots Cast,,,Ballots Cast,76
+Park,24-1,U.S. Senate,,REP,John Barrasso,455
+Park,24-1,U.S. Senate,,REP,John Holtz,46
+Park,24-1,U.S. Senate,,REP,Reid Rasner,164
+Park,24-1,U.S. Senate,,REP,Write-ins,12
+Park,24-1,U.S. Senate,,REP,Over Votes,0
+Park,24-1,U.S. Senate,,REP,Under Votes,53
+Park,24-1,U.S. Senate,,DEM,Scott D Morrow,39
+Park,24-1,U.S. Senate,,DEM,Write-ins,1
+Park,24-1,U.S. Senate,,DEM,Over Votes,0
+Park,24-1,U.S. Senate,,DEM,Under Votes,4
+Park,24-1,U.S. House,,REP,Harriet Hageman,540
+Park,24-1,U.S. House,,REP,Steven R. Helling,151
+Park,24-1,U.S. House,,REP,Write-ins,8
+Park,24-1,U.S. House,,REP,Over Votes,0
+Park,24-1,U.S. House,,REP,Under Votes,31
+Park,24-1,U.S. House,,DEM,Kyle G. Cameron,39
+Park,24-1,U.S. House,,DEM,Write-ins,0
+Park,24-1,U.S. House,,DEM,Over Votes,0
+Park,24-1,U.S. House,,DEM,Under Votes,5
+Park,24-1,State Senate,18,REP,Landon Greer,317
+Park,24-1,State Senate,18,REP,Tim A. French,388
+Park,24-1,State Senate,18,REP,Write-ins,0
+Park,24-1,State Senate,18,REP,Over Votes,0
+Park,24-1,State Senate,18,REP,Under Votes,25
+Park,24-1,State Senate,18,DEM,Write-ins,4
+Park,24-1,State House,24,REP,Matt Hall,250
+Park,24-1,State House,24,REP,Nina Webber,273
+Park,24-1,State House,24,REP,Write-ins,5
+Park,24-1,State House,24,REP,Over Votes,0
+Park,24-1,State House,24,REP,Under Votes,13
+Park,24-1,State House,24,DEM,Write-ins,3
+Park,24-1,State House,50,REP,David Hill,75
+Park,24-1,State House,50,REP,Rachel Rodriguez-Williams,106
+Park,24-1,State House,50,REP,Write-ins,1
+Park,24-1,State House,50,REP,Over Votes,0
+Park,24-1,State House,50,REP,Under Votes,7
+Park,24-1,State House,50,DEM,Write-ins,3
+Park,24-1,Ballots Cast,,REP,Ballots Cast,730
+Park,24-1,Ballots Cast,,DEM,Ballots Cast,44
+Park,24-1,Ballots Cast,,NP,Ballots Cast,35
+Park,24-1,Ballots Cast,,,Ballots Cast,809
+Park,25-1,U.S. Senate,,REP,John Barrasso,705
+Park,25-1,U.S. Senate,,REP,John Holtz,80
+Park,25-1,U.S. Senate,,REP,Reid Rasner,183
+Park,25-1,U.S. Senate,,REP,Write-ins,21
+Park,25-1,U.S. Senate,,REP,Over Votes,2
+Park,25-1,U.S. Senate,,REP,Under Votes,50
+Park,25-1,U.S. Senate,,DEM,Scott D Morrow,30
+Park,25-1,U.S. Senate,,DEM,Write-ins,0
+Park,25-1,U.S. Senate,,DEM,Over Votes,0
+Park,25-1,U.S. Senate,,DEM,Under Votes,4
+Park,25-1,U.S. House,,REP,Harriet Hageman,731
+Park,25-1,U.S. House,,REP,Steven R. Helling,220
+Park,25-1,U.S. House,,REP,Write-ins,32
+Park,25-1,U.S. House,,REP,Over Votes,2
+Park,25-1,U.S. House,,REP,Under Votes,56
+Park,25-1,U.S. House,,DEM,Kyle G. Cameron,28
+Park,25-1,U.S. House,,DEM,Write-ins,1
+Park,25-1,U.S. House,,DEM,Over Votes,0
+Park,25-1,U.S. House,,DEM,Under Votes,5
+Park,25-1,State Senate,18,REP,Landon Greer,503
+Park,25-1,State Senate,18,REP,Tim A. French,502
+Park,25-1,State Senate,18,REP,Write-ins,6
+Park,25-1,State Senate,18,REP,Over Votes,0
+Park,25-1,State Senate,18,REP,Under Votes,30
+Park,25-1,State Senate,18,DEM,Write-ins,3
+Park,25-1,State House,24,REP,Matt Hall,555
+Park,25-1,State House,24,REP,Nina Webber,446
+Park,25-1,State House,24,REP,Write-ins,6
+Park,25-1,State House,24,REP,Over Votes,0
+Park,25-1,State House,24,REP,Under Votes,34
+Park,25-1,State House,24,DEM,Write-ins,6
+Park,25-1,Ballots Cast,,REP,Ballots Cast,1041
+Park,25-1,Ballots Cast,,DEM,Ballots Cast,34
+Park,25-1,Ballots Cast,,NP,Ballots Cast,25
+Park,25-1,Ballots Cast,,,Ballots Cast,1100

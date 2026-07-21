@@ -1,0 +1,609 @@
+county,precinct,office,district,party,candidate,votes
+Big Horn,1-1,U.S. Senate,,REP,Bryan E Miller,24
+Big Horn,1-1,U.S. Senate,,REP,Cynthia M. Lummis,302
+Big Horn,1-1,U.S. Senate,,REP,Devon Cade,16
+Big Horn,1-1,U.S. Senate,,REP,Donna Rice,31
+Big Horn,1-1,U.S. Senate,,REP,John Holtz,13
+Big Horn,1-1,U.S. Senate,,REP,Josh Wheeler,15
+Big Horn,1-1,U.S. Senate,,REP,Michael Kemler,3
+Big Horn,1-1,U.S. Senate,,REP,R. Mark Armstrong,30
+Big Horn,1-1,U.S. Senate,,REP,Robert G. Short,30
+Big Horn,1-1,U.S. Senate,,REP,Star Roselli,1
+Big Horn,1-1,U.S. Senate,,REP,Write-ins,1
+Big Horn,1-1,U.S. Senate,,REP,Over Votes,1
+Big Horn,1-1,U.S. Senate,,REP,Under Votes,9
+Big Horn,1-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Big Horn,1-1,U.S. Senate,,DEM,Kenneth R. Casner,2
+Big Horn,1-1,U.S. Senate,,DEM,Merav Ben David,16
+Big Horn,1-1,U.S. Senate,,DEM,Nathan Wendt,12
+Big Horn,1-1,U.S. Senate,,DEM,Rex Wilde,1
+Big Horn,1-1,U.S. Senate,,DEM,Yana Ludwig,9
+Big Horn,1-1,U.S. Senate,,DEM,Write-ins,2
+Big Horn,1-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,1-1,U.S. Senate,,DEM,Under Votes,1
+Big Horn,1-1,U.S. House,,REP,Blake Stanley,127
+Big Horn,1-1,U.S. House,,REP,Liz Cheney,339
+Big Horn,1-1,U.S. House,,REP,Write-ins,0
+Big Horn,1-1,U.S. House,,REP,Over Votes,0
+Big Horn,1-1,U.S. House,,REP,Under Votes,10
+Big Horn,1-1,U.S. House,,DEM,Carl Beach,8
+Big Horn,1-1,U.S. House,,DEM,Carol Hafner,11
+Big Horn,1-1,U.S. House,,DEM,Lynnette Grey Bull,21
+Big Horn,1-1,U.S. House,,DEM,Write-ins,1
+Big Horn,1-1,U.S. House,,DEM,Over Votes,0
+Big Horn,1-1,U.S. House,,DEM,Under Votes,3
+Big Horn,1-1,State Senate,20,REP,Ed Cooper,173
+Big Horn,1-1,State Senate,20,REP,Linda Weeks,255
+Big Horn,1-1,State Senate,20,REP,Roland Luehne,32
+Big Horn,1-1,State Senate,20,REP,Write-ins,0
+Big Horn,1-1,State Senate,20,REP,Over Votes,1
+Big Horn,1-1,State Senate,20,REP,Under Votes,15
+Big Horn,1-1,State Senate,20,DEM,Theresa Livingston,42
+Big Horn,1-1,State Senate,20,DEM,Write-ins,1
+Big Horn,1-1,State Senate,20,DEM,Over Votes,0
+Big Horn,1-1,State Senate,20,DEM,Under Votes,1
+Big Horn,1-1,State House,28,REP,David Bayert,120
+Big Horn,1-1,State House,28,REP,John R. Winter,334
+Big Horn,1-1,State House,28,REP,Write-ins,1
+Big Horn,1-1,State House,28,REP,Over Votes,1
+Big Horn,1-1,State House,28,REP,Under Votes,20
+Big Horn,1-1,State House,28,DEM,Levi J. Shinkle,43
+Big Horn,1-1,State House,28,DEM,Write-ins,0
+Big Horn,1-1,State House,28,DEM,Over Votes,0
+Big Horn,1-1,State House,28,DEM,Under Votes,1
+Big Horn,1-1,Ballots Cast,,REP,Ballots Cast,476
+Big Horn,1-1,Ballots Cast,,DEM,Ballots Cast,44
+Big Horn,1-1,Ballots Cast,,NP,Ballots Cast,11
+Big Horn,1-1,Ballots Cast,,,Ballots Cast,531
+Big Horn,11-1,U.S. Senate,,REP,Bryan E Miller,37
+Big Horn,11-1,U.S. Senate,,REP,Cynthia M. Lummis,331
+Big Horn,11-1,U.S. Senate,,REP,Devon Cade,13
+Big Horn,11-1,U.S. Senate,,REP,Donna Rice,44
+Big Horn,11-1,U.S. Senate,,REP,John Holtz,12
+Big Horn,11-1,U.S. Senate,,REP,Josh Wheeler,16
+Big Horn,11-1,U.S. Senate,,REP,Michael Kemler,6
+Big Horn,11-1,U.S. Senate,,REP,R. Mark Armstrong,17
+Big Horn,11-1,U.S. Senate,,REP,Robert G. Short,32
+Big Horn,11-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,11-1,U.S. Senate,,REP,Write-ins,1
+Big Horn,11-1,U.S. Senate,,REP,Over Votes,1
+Big Horn,11-1,U.S. Senate,,REP,Under Votes,18
+Big Horn,11-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Big Horn,11-1,U.S. Senate,,DEM,Kenneth R. Casner,4
+Big Horn,11-1,U.S. Senate,,DEM,Merav Ben David,34
+Big Horn,11-1,U.S. Senate,,DEM,Nathan Wendt,12
+Big Horn,11-1,U.S. Senate,,DEM,Rex Wilde,7
+Big Horn,11-1,U.S. Senate,,DEM,Yana Ludwig,14
+Big Horn,11-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,11-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,11-1,U.S. Senate,,DEM,Under Votes,3
+Big Horn,11-1,U.S. House,,REP,Blake Stanley,117
+Big Horn,11-1,U.S. House,,REP,Liz Cheney,396
+Big Horn,11-1,U.S. House,,REP,Write-ins,0
+Big Horn,11-1,U.S. House,,REP,Over Votes,0
+Big Horn,11-1,U.S. House,,REP,Under Votes,15
+Big Horn,11-1,U.S. House,,DEM,Carl Beach,12
+Big Horn,11-1,U.S. House,,DEM,Carol Hafner,17
+Big Horn,11-1,U.S. House,,DEM,Lynnette Grey Bull,40
+Big Horn,11-1,U.S. House,,DEM,Write-ins,2
+Big Horn,11-1,U.S. House,,DEM,Over Votes,0
+Big Horn,11-1,U.S. House,,DEM,Under Votes,4
+Big Horn,11-1,State House,26,REP,Jamie Flitner,490
+Big Horn,11-1,State House,26,REP,Write-ins,3
+Big Horn,11-1,State House,26,REP,Over Votes,0
+Big Horn,11-1,State House,26,REP,Under Votes,35
+Big Horn,11-1,State House,26,DEM,Write-ins,7
+Big Horn,11-1,Ballots Cast,,REP,Ballots Cast,528
+Big Horn,11-1,Ballots Cast,,DEM,Ballots Cast,75
+Big Horn,11-1,Ballots Cast,,NP,Ballots Cast,16
+Big Horn,11-1,Ballots Cast,,,Ballots Cast,619
+Big Horn,16-1,U.S. Senate,,REP,Bryan E Miller,9
+Big Horn,16-1,U.S. Senate,,REP,Cynthia M. Lummis,100
+Big Horn,16-1,U.S. Senate,,REP,Devon Cade,3
+Big Horn,16-1,U.S. Senate,,REP,Donna Rice,7
+Big Horn,16-1,U.S. Senate,,REP,John Holtz,1
+Big Horn,16-1,U.S. Senate,,REP,Josh Wheeler,9
+Big Horn,16-1,U.S. Senate,,REP,Michael Kemler,2
+Big Horn,16-1,U.S. Senate,,REP,R. Mark Armstrong,7
+Big Horn,16-1,U.S. Senate,,REP,Robert G. Short,4
+Big Horn,16-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,16-1,U.S. Senate,,REP,Write-ins,2
+Big Horn,16-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,16-1,U.S. Senate,,REP,Under Votes,3
+Big Horn,16-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,16-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Big Horn,16-1,U.S. Senate,,DEM,Merav Ben David,9
+Big Horn,16-1,U.S. Senate,,DEM,Nathan Wendt,0
+Big Horn,16-1,U.S. Senate,,DEM,Rex Wilde,1
+Big Horn,16-1,U.S. Senate,,DEM,Yana Ludwig,1
+Big Horn,16-1,U.S. Senate,,DEM,Write-ins,1
+Big Horn,16-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,16-1,U.S. Senate,,DEM,Under Votes,2
+Big Horn,16-1,U.S. House,,REP,Blake Stanley,20
+Big Horn,16-1,U.S. House,,REP,Liz Cheney,120
+Big Horn,16-1,U.S. House,,REP,Write-ins,3
+Big Horn,16-1,U.S. House,,REP,Over Votes,1
+Big Horn,16-1,U.S. House,,REP,Under Votes,3
+Big Horn,16-1,U.S. House,,DEM,Carl Beach,1
+Big Horn,16-1,U.S. House,,DEM,Carol Hafner,2
+Big Horn,16-1,U.S. House,,DEM,Lynnette Grey Bull,11
+Big Horn,16-1,U.S. House,,DEM,Write-ins,0
+Big Horn,16-1,U.S. House,,DEM,Over Votes,0
+Big Horn,16-1,U.S. House,,DEM,Under Votes,0
+Big Horn,16-1,State House,26,REP,Jamie Flitner,121
+Big Horn,16-1,State House,26,REP,Write-ins,8
+Big Horn,16-1,State House,26,REP,Over Votes,0
+Big Horn,16-1,State House,26,REP,Under Votes,18
+Big Horn,16-1,State House,26,DEM,Write-ins,4
+Big Horn,16-1,Ballots Cast,,REP,Ballots Cast,147
+Big Horn,16-1,Ballots Cast,,DEM,Ballots Cast,14
+Big Horn,16-1,Ballots Cast,,NP,Ballots Cast,0
+Big Horn,16-1,Ballots Cast,,,Ballots Cast,161
+Big Horn,2-1,U.S. Senate,,REP,Bryan E Miller,15
+Big Horn,2-1,U.S. Senate,,REP,Cynthia M. Lummis,109
+Big Horn,2-1,U.S. Senate,,REP,Devon Cade,2
+Big Horn,2-1,U.S. Senate,,REP,Donna Rice,10
+Big Horn,2-1,U.S. Senate,,REP,John Holtz,2
+Big Horn,2-1,U.S. Senate,,REP,Josh Wheeler,5
+Big Horn,2-1,U.S. Senate,,REP,Michael Kemler,1
+Big Horn,2-1,U.S. Senate,,REP,R. Mark Armstrong,4
+Big Horn,2-1,U.S. Senate,,REP,Robert G. Short,6
+Big Horn,2-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,2-1,U.S. Senate,,REP,Write-ins,0
+Big Horn,2-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,2-1,U.S. Senate,,REP,Under Votes,8
+Big Horn,2-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,2-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Big Horn,2-1,U.S. Senate,,DEM,Merav Ben David,2
+Big Horn,2-1,U.S. Senate,,DEM,Nathan Wendt,0
+Big Horn,2-1,U.S. Senate,,DEM,Rex Wilde,0
+Big Horn,2-1,U.S. Senate,,DEM,Yana Ludwig,0
+Big Horn,2-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,2-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,2-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,2-1,U.S. House,,REP,Blake Stanley,31
+Big Horn,2-1,U.S. House,,REP,Liz Cheney,125
+Big Horn,2-1,U.S. House,,REP,Write-ins,2
+Big Horn,2-1,U.S. House,,REP,Over Votes,0
+Big Horn,2-1,U.S. House,,REP,Under Votes,4
+Big Horn,2-1,U.S. House,,DEM,Carl Beach,0
+Big Horn,2-1,U.S. House,,DEM,Carol Hafner,0
+Big Horn,2-1,U.S. House,,DEM,Lynnette Grey Bull,2
+Big Horn,2-1,U.S. House,,DEM,Write-ins,0
+Big Horn,2-1,U.S. House,,DEM,Over Votes,0
+Big Horn,2-1,U.S. House,,DEM,Under Votes,0
+Big Horn,2-1,State Senate,20,REP,Ed Cooper,31
+Big Horn,2-1,State Senate,20,REP,Linda Weeks,112
+Big Horn,2-1,State Senate,20,REP,Roland Luehne,2
+Big Horn,2-1,State Senate,20,REP,Write-ins,0
+Big Horn,2-1,State Senate,20,REP,Over Votes,0
+Big Horn,2-1,State Senate,20,REP,Under Votes,17
+Big Horn,2-1,State Senate,20,DEM,Theresa Livingston,2
+Big Horn,2-1,State Senate,20,DEM,Write-ins,0
+Big Horn,2-1,State Senate,20,DEM,Over Votes,0
+Big Horn,2-1,State Senate,20,DEM,Under Votes,0
+Big Horn,2-1,State House,28,REP,David Bayert,15
+Big Horn,2-1,State House,28,REP,John R. Winter,136
+Big Horn,2-1,State House,28,REP,Write-ins,1
+Big Horn,2-1,State House,28,REP,Over Votes,0
+Big Horn,2-1,State House,28,REP,Under Votes,10
+Big Horn,2-1,State House,28,DEM,Levi J. Shinkle,1
+Big Horn,2-1,State House,28,DEM,Write-ins,0
+Big Horn,2-1,State House,28,DEM,Over Votes,0
+Big Horn,2-1,State House,28,DEM,Under Votes,1
+Big Horn,2-1,Ballots Cast,,REP,Ballots Cast,162
+Big Horn,2-1,Ballots Cast,,DEM,Ballots Cast,2
+Big Horn,2-1,Ballots Cast,,NP,Ballots Cast,1
+Big Horn,2-1,Ballots Cast,,,Ballots Cast,165
+Big Horn,20-1,U.S. Senate,,REP,Bryan E Miller,63
+Big Horn,20-1,U.S. Senate,,REP,Cynthia M. Lummis,603
+Big Horn,20-1,U.S. Senate,,REP,Devon Cade,15
+Big Horn,20-1,U.S. Senate,,REP,Donna Rice,36
+Big Horn,20-1,U.S. Senate,,REP,John Holtz,11
+Big Horn,20-1,U.S. Senate,,REP,Josh Wheeler,11
+Big Horn,20-1,U.S. Senate,,REP,Michael Kemler,7
+Big Horn,20-1,U.S. Senate,,REP,R. Mark Armstrong,28
+Big Horn,20-1,U.S. Senate,,REP,Robert G. Short,53
+Big Horn,20-1,U.S. Senate,,REP,Star Roselli,4
+Big Horn,20-1,U.S. Senate,,REP,Write-ins,2
+Big Horn,20-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,20-1,U.S. Senate,,REP,Under Votes,21
+Big Horn,20-1,U.S. Senate,,DEM,James Kirk DeBrine,4
+Big Horn,20-1,U.S. Senate,,DEM,Kenneth R. Casner,5
+Big Horn,20-1,U.S. Senate,,DEM,Merav Ben David,14
+Big Horn,20-1,U.S. Senate,,DEM,Nathan Wendt,7
+Big Horn,20-1,U.S. Senate,,DEM,Rex Wilde,4
+Big Horn,20-1,U.S. Senate,,DEM,Yana Ludwig,10
+Big Horn,20-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,20-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,20-1,U.S. Senate,,DEM,Under Votes,3
+Big Horn,20-1,U.S. House,,REP,Blake Stanley,166
+Big Horn,20-1,U.S. House,,REP,Liz Cheney,664
+Big Horn,20-1,U.S. House,,REP,Write-ins,2
+Big Horn,20-1,U.S. House,,REP,Over Votes,0
+Big Horn,20-1,U.S. House,,REP,Under Votes,22
+Big Horn,20-1,U.S. House,,DEM,Carl Beach,6
+Big Horn,20-1,U.S. House,,DEM,Carol Hafner,17
+Big Horn,20-1,U.S. House,,DEM,Lynnette Grey Bull,20
+Big Horn,20-1,U.S. House,,DEM,Write-ins,0
+Big Horn,20-1,U.S. House,,DEM,Over Votes,1
+Big Horn,20-1,U.S. House,,DEM,Under Votes,3
+Big Horn,20-1,State House,26,REP,Jamie Flitner,770
+Big Horn,20-1,State House,26,REP,Write-ins,21
+Big Horn,20-1,State House,26,REP,Over Votes,0
+Big Horn,20-1,State House,26,REP,Under Votes,63
+Big Horn,20-1,State House,26,DEM,Write-ins,2
+Big Horn,20-1,Ballots Cast,,REP,Ballots Cast,854
+Big Horn,20-1,Ballots Cast,,DEM,Ballots Cast,47
+Big Horn,20-1,Ballots Cast,,NP,Ballots Cast,22
+Big Horn,20-1,Ballots Cast,,,Ballots Cast,923
+Big Horn,22-1,U.S. Senate,,REP,Bryan E Miller,28
+Big Horn,22-1,U.S. Senate,,REP,Cynthia M. Lummis,192
+Big Horn,22-1,U.S. Senate,,REP,Devon Cade,4
+Big Horn,22-1,U.S. Senate,,REP,Donna Rice,6
+Big Horn,22-1,U.S. Senate,,REP,John Holtz,5
+Big Horn,22-1,U.S. Senate,,REP,Josh Wheeler,6
+Big Horn,22-1,U.S. Senate,,REP,Michael Kemler,0
+Big Horn,22-1,U.S. Senate,,REP,R. Mark Armstrong,7
+Big Horn,22-1,U.S. Senate,,REP,Robert G. Short,15
+Big Horn,22-1,U.S. Senate,,REP,Star Roselli,3
+Big Horn,22-1,U.S. Senate,,REP,Write-ins,0
+Big Horn,22-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,22-1,U.S. Senate,,REP,Under Votes,4
+Big Horn,22-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,22-1,U.S. Senate,,DEM,Kenneth R. Casner,2
+Big Horn,22-1,U.S. Senate,,DEM,Merav Ben David,2
+Big Horn,22-1,U.S. Senate,,DEM,Nathan Wendt,1
+Big Horn,22-1,U.S. Senate,,DEM,Rex Wilde,1
+Big Horn,22-1,U.S. Senate,,DEM,Yana Ludwig,2
+Big Horn,22-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,22-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,22-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,22-1,U.S. House,,REP,Blake Stanley,51
+Big Horn,22-1,U.S. House,,REP,Liz Cheney,213
+Big Horn,22-1,U.S. House,,REP,Write-ins,0
+Big Horn,22-1,U.S. House,,REP,Over Votes,2
+Big Horn,22-1,U.S. House,,REP,Under Votes,4
+Big Horn,22-1,U.S. House,,DEM,Carl Beach,1
+Big Horn,22-1,U.S. House,,DEM,Carol Hafner,3
+Big Horn,22-1,U.S. House,,DEM,Lynnette Grey Bull,4
+Big Horn,22-1,U.S. House,,DEM,Write-ins,0
+Big Horn,22-1,U.S. House,,DEM,Over Votes,0
+Big Horn,22-1,U.S. House,,DEM,Under Votes,0
+Big Horn,22-1,State House,26,REP,Jamie Flitner,252
+Big Horn,22-1,State House,26,REP,Write-ins,3
+Big Horn,22-1,State House,26,REP,Over Votes,0
+Big Horn,22-1,State House,26,REP,Under Votes,15
+Big Horn,22-1,State House,26,DEM,Write-ins,0
+Big Horn,22-1,Ballots Cast,,REP,Ballots Cast,270
+Big Horn,22-1,Ballots Cast,,DEM,Ballots Cast,8
+Big Horn,22-1,Ballots Cast,,NP,Ballots Cast,1
+Big Horn,22-1,Ballots Cast,,,Ballots Cast,279
+Big Horn,23-1,U.S. Senate,,REP,Bryan E Miller,14
+Big Horn,23-1,U.S. Senate,,REP,Cynthia M. Lummis,109
+Big Horn,23-1,U.S. Senate,,REP,Devon Cade,1
+Big Horn,23-1,U.S. Senate,,REP,Donna Rice,8
+Big Horn,23-1,U.S. Senate,,REP,John Holtz,4
+Big Horn,23-1,U.S. Senate,,REP,Josh Wheeler,3
+Big Horn,23-1,U.S. Senate,,REP,Michael Kemler,1
+Big Horn,23-1,U.S. Senate,,REP,R. Mark Armstrong,4
+Big Horn,23-1,U.S. Senate,,REP,Robert G. Short,9
+Big Horn,23-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,23-1,U.S. Senate,,REP,Write-ins,1
+Big Horn,23-1,U.S. Senate,,REP,Over Votes,1
+Big Horn,23-1,U.S. Senate,,REP,Under Votes,8
+Big Horn,23-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Big Horn,23-1,U.S. Senate,,DEM,Kenneth R. Casner,2
+Big Horn,23-1,U.S. Senate,,DEM,Merav Ben David,0
+Big Horn,23-1,U.S. Senate,,DEM,Nathan Wendt,1
+Big Horn,23-1,U.S. Senate,,DEM,Rex Wilde,1
+Big Horn,23-1,U.S. Senate,,DEM,Yana Ludwig,4
+Big Horn,23-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,23-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,23-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,23-1,U.S. House,,REP,Blake Stanley,36
+Big Horn,23-1,U.S. House,,REP,Liz Cheney,116
+Big Horn,23-1,U.S. House,,REP,Write-ins,1
+Big Horn,23-1,U.S. House,,REP,Over Votes,1
+Big Horn,23-1,U.S. House,,REP,Under Votes,9
+Big Horn,23-1,U.S. House,,DEM,Carl Beach,1
+Big Horn,23-1,U.S. House,,DEM,Carol Hafner,1
+Big Horn,23-1,U.S. House,,DEM,Lynnette Grey Bull,6
+Big Horn,23-1,U.S. House,,DEM,Write-ins,0
+Big Horn,23-1,U.S. House,,DEM,Over Votes,0
+Big Horn,23-1,U.S. House,,DEM,Under Votes,1
+Big Horn,23-1,State House,26,REP,Jamie Flitner,146
+Big Horn,23-1,State House,26,REP,Write-ins,0
+Big Horn,23-1,State House,26,REP,Over Votes,0
+Big Horn,23-1,State House,26,REP,Under Votes,17
+Big Horn,23-1,State House,26,DEM,Write-ins,0
+Big Horn,23-1,Ballots Cast,,REP,Ballots Cast,163
+Big Horn,23-1,Ballots Cast,,DEM,Ballots Cast,9
+Big Horn,23-1,Ballots Cast,,NP,Ballots Cast,10
+Big Horn,23-1,Ballots Cast,,,Ballots Cast,182
+Big Horn,25-1,U.S. Senate,,REP,Bryan E Miller,5
+Big Horn,25-1,U.S. Senate,,REP,Cynthia M. Lummis,30
+Big Horn,25-1,U.S. Senate,,REP,Devon Cade,1
+Big Horn,25-1,U.S. Senate,,REP,Donna Rice,2
+Big Horn,25-1,U.S. Senate,,REP,John Holtz,3
+Big Horn,25-1,U.S. Senate,,REP,Josh Wheeler,1
+Big Horn,25-1,U.S. Senate,,REP,Michael Kemler,2
+Big Horn,25-1,U.S. Senate,,REP,R. Mark Armstrong,1
+Big Horn,25-1,U.S. Senate,,REP,Robert G. Short,6
+Big Horn,25-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,25-1,U.S. Senate,,REP,Write-ins,0
+Big Horn,25-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,25-1,U.S. Senate,,REP,Under Votes,1
+Big Horn,25-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,25-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Big Horn,25-1,U.S. Senate,,DEM,Merav Ben David,3
+Big Horn,25-1,U.S. Senate,,DEM,Nathan Wendt,3
+Big Horn,25-1,U.S. Senate,,DEM,Rex Wilde,1
+Big Horn,25-1,U.S. Senate,,DEM,Yana Ludwig,2
+Big Horn,25-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,25-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,25-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,25-1,U.S. House,,REP,Blake Stanley,17
+Big Horn,25-1,U.S. House,,REP,Liz Cheney,35
+Big Horn,25-1,U.S. House,,REP,Write-ins,0
+Big Horn,25-1,U.S. House,,REP,Over Votes,0
+Big Horn,25-1,U.S. House,,REP,Under Votes,0
+Big Horn,25-1,U.S. House,,DEM,Carl Beach,2
+Big Horn,25-1,U.S. House,,DEM,Carol Hafner,3
+Big Horn,25-1,U.S. House,,DEM,Lynnette Grey Bull,5
+Big Horn,25-1,U.S. House,,DEM,Write-ins,0
+Big Horn,25-1,U.S. House,,DEM,Over Votes,0
+Big Horn,25-1,U.S. House,,DEM,Under Votes,0
+Big Horn,25-1,State House,26,REP,Jamie Flitner,48
+Big Horn,25-1,State House,26,REP,Write-ins,0
+Big Horn,25-1,State House,26,REP,Over Votes,0
+Big Horn,25-1,State House,26,REP,Under Votes,4
+Big Horn,25-1,State House,26,DEM,Write-ins,1
+Big Horn,25-1,Ballots Cast,,REP,Ballots Cast,52
+Big Horn,25-1,Ballots Cast,,DEM,Ballots Cast,10
+Big Horn,25-1,Ballots Cast,,NP,Ballots Cast,1
+Big Horn,25-1,Ballots Cast,,,Ballots Cast,63
+Big Horn,26-1,U.S. Senate,,REP,Bryan E Miller,8
+Big Horn,26-1,U.S. Senate,,REP,Cynthia M. Lummis,32
+Big Horn,26-1,U.S. Senate,,REP,Devon Cade,0
+Big Horn,26-1,U.S. Senate,,REP,Donna Rice,3
+Big Horn,26-1,U.S. Senate,,REP,John Holtz,2
+Big Horn,26-1,U.S. Senate,,REP,Josh Wheeler,2
+Big Horn,26-1,U.S. Senate,,REP,Michael Kemler,0
+Big Horn,26-1,U.S. Senate,,REP,R. Mark Armstrong,3
+Big Horn,26-1,U.S. Senate,,REP,Robert G. Short,3
+Big Horn,26-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,26-1,U.S. Senate,,REP,Write-ins,0
+Big Horn,26-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,26-1,U.S. Senate,,REP,Under Votes,1
+Big Horn,26-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,26-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Big Horn,26-1,U.S. Senate,,DEM,Merav Ben David,1
+Big Horn,26-1,U.S. Senate,,DEM,Nathan Wendt,1
+Big Horn,26-1,U.S. Senate,,DEM,Rex Wilde,1
+Big Horn,26-1,U.S. Senate,,DEM,Yana Ludwig,5
+Big Horn,26-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,26-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,26-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,26-1,U.S. House,,REP,Blake Stanley,16
+Big Horn,26-1,U.S. House,,REP,Liz Cheney,38
+Big Horn,26-1,U.S. House,,REP,Write-ins,0
+Big Horn,26-1,U.S. House,,REP,Over Votes,0
+Big Horn,26-1,U.S. House,,REP,Under Votes,0
+Big Horn,26-1,U.S. House,,DEM,Carl Beach,2
+Big Horn,26-1,U.S. House,,DEM,Carol Hafner,1
+Big Horn,26-1,U.S. House,,DEM,Lynnette Grey Bull,5
+Big Horn,26-1,U.S. House,,DEM,Write-ins,0
+Big Horn,26-1,U.S. House,,DEM,Over Votes,0
+Big Horn,26-1,U.S. House,,DEM,Under Votes,0
+Big Horn,26-1,State House,26,REP,Jamie Flitner,51
+Big Horn,26-1,State House,26,REP,Write-ins,1
+Big Horn,26-1,State House,26,REP,Over Votes,0
+Big Horn,26-1,State House,26,REP,Under Votes,2
+Big Horn,26-1,State House,26,DEM,Write-ins,0
+Big Horn,26-1,Ballots Cast,,REP,Ballots Cast,54
+Big Horn,26-1,Ballots Cast,,DEM,Ballots Cast,8
+Big Horn,26-1,Ballots Cast,,NP,Ballots Cast,2
+Big Horn,26-1,Ballots Cast,,,Ballots Cast,64
+Big Horn,3-1,U.S. Senate,,REP,Bryan E Miller,5
+Big Horn,3-1,U.S. Senate,,REP,Cynthia M. Lummis,40
+Big Horn,3-1,U.S. Senate,,REP,Devon Cade,0
+Big Horn,3-1,U.S. Senate,,REP,Donna Rice,4
+Big Horn,3-1,U.S. Senate,,REP,John Holtz,3
+Big Horn,3-1,U.S. Senate,,REP,Josh Wheeler,0
+Big Horn,3-1,U.S. Senate,,REP,Michael Kemler,1
+Big Horn,3-1,U.S. Senate,,REP,R. Mark Armstrong,1
+Big Horn,3-1,U.S. Senate,,REP,Robert G. Short,6
+Big Horn,3-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,3-1,U.S. Senate,,REP,Write-ins,0
+Big Horn,3-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,3-1,U.S. Senate,,REP,Under Votes,0
+Big Horn,3-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,3-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Big Horn,3-1,U.S. Senate,,DEM,Merav Ben David,0
+Big Horn,3-1,U.S. Senate,,DEM,Nathan Wendt,1
+Big Horn,3-1,U.S. Senate,,DEM,Rex Wilde,0
+Big Horn,3-1,U.S. Senate,,DEM,Yana Ludwig,2
+Big Horn,3-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,3-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,3-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,3-1,U.S. House,,REP,Blake Stanley,4
+Big Horn,3-1,U.S. House,,REP,Liz Cheney,55
+Big Horn,3-1,U.S. House,,REP,Write-ins,0
+Big Horn,3-1,U.S. House,,REP,Over Votes,1
+Big Horn,3-1,U.S. House,,REP,Under Votes,0
+Big Horn,3-1,U.S. House,,DEM,Carl Beach,0
+Big Horn,3-1,U.S. House,,DEM,Carol Hafner,2
+Big Horn,3-1,U.S. House,,DEM,Lynnette Grey Bull,1
+Big Horn,3-1,U.S. House,,DEM,Write-ins,0
+Big Horn,3-1,U.S. House,,DEM,Over Votes,0
+Big Horn,3-1,U.S. House,,DEM,Under Votes,0
+Big Horn,3-1,State Senate,20,REP,Ed Cooper,25
+Big Horn,3-1,State Senate,20,REP,Linda Weeks,31
+Big Horn,3-1,State Senate,20,REP,Roland Luehne,1
+Big Horn,3-1,State Senate,20,REP,Write-ins,0
+Big Horn,3-1,State Senate,20,REP,Over Votes,1
+Big Horn,3-1,State Senate,20,REP,Under Votes,2
+Big Horn,3-1,State Senate,20,DEM,Theresa Livingston,3
+Big Horn,3-1,State Senate,20,DEM,Write-ins,0
+Big Horn,3-1,State Senate,20,DEM,Over Votes,0
+Big Horn,3-1,State Senate,20,DEM,Under Votes,0
+Big Horn,3-1,State House,28,REP,David Bayert,6
+Big Horn,3-1,State House,28,REP,John R. Winter,53
+Big Horn,3-1,State House,28,REP,Write-ins,0
+Big Horn,3-1,State House,28,REP,Over Votes,0
+Big Horn,3-1,State House,28,REP,Under Votes,1
+Big Horn,3-1,State House,28,DEM,Levi J. Shinkle,3
+Big Horn,3-1,State House,28,DEM,Write-ins,0
+Big Horn,3-1,State House,28,DEM,Over Votes,0
+Big Horn,3-1,State House,28,DEM,Under Votes,0
+Big Horn,3-1,Ballots Cast,,REP,Ballots Cast,60
+Big Horn,3-1,Ballots Cast,,DEM,Ballots Cast,3
+Big Horn,3-1,Ballots Cast,,NP,Ballots Cast,0
+Big Horn,3-1,Ballots Cast,,,Ballots Cast,63
+Big Horn,5-1,U.S. Senate,,REP,Bryan E Miller,4
+Big Horn,5-1,U.S. Senate,,REP,Cynthia M. Lummis,20
+Big Horn,5-1,U.S. Senate,,REP,Devon Cade,3
+Big Horn,5-1,U.S. Senate,,REP,Donna Rice,2
+Big Horn,5-1,U.S. Senate,,REP,John Holtz,2
+Big Horn,5-1,U.S. Senate,,REP,Josh Wheeler,1
+Big Horn,5-1,U.S. Senate,,REP,Michael Kemler,0
+Big Horn,5-1,U.S. Senate,,REP,R. Mark Armstrong,0
+Big Horn,5-1,U.S. Senate,,REP,Robert G. Short,2
+Big Horn,5-1,U.S. Senate,,REP,Star Roselli,1
+Big Horn,5-1,U.S. Senate,,REP,Write-ins,0
+Big Horn,5-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,5-1,U.S. Senate,,REP,Under Votes,0
+Big Horn,5-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,5-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Big Horn,5-1,U.S. Senate,,DEM,Merav Ben David,1
+Big Horn,5-1,U.S. Senate,,DEM,Nathan Wendt,0
+Big Horn,5-1,U.S. Senate,,DEM,Rex Wilde,0
+Big Horn,5-1,U.S. Senate,,DEM,Yana Ludwig,0
+Big Horn,5-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,5-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,5-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,5-1,U.S. House,,REP,Blake Stanley,5
+Big Horn,5-1,U.S. House,,REP,Liz Cheney,29
+Big Horn,5-1,U.S. House,,REP,Write-ins,0
+Big Horn,5-1,U.S. House,,REP,Over Votes,0
+Big Horn,5-1,U.S. House,,REP,Under Votes,1
+Big Horn,5-1,U.S. House,,DEM,Carl Beach,0
+Big Horn,5-1,U.S. House,,DEM,Carol Hafner,0
+Big Horn,5-1,U.S. House,,DEM,Lynnette Grey Bull,1
+Big Horn,5-1,U.S. House,,DEM,Write-ins,0
+Big Horn,5-1,U.S. House,,DEM,Over Votes,0
+Big Horn,5-1,U.S. House,,DEM,Under Votes,0
+Big Horn,5-1,State House,26,REP,Jamie Flitner,33
+Big Horn,5-1,State House,26,REP,Write-ins,0
+Big Horn,5-1,State House,26,REP,Over Votes,0
+Big Horn,5-1,State House,26,REP,Under Votes,2
+Big Horn,5-1,State House,26,DEM,Write-ins,0
+Big Horn,5-1,Ballots Cast,,REP,Ballots Cast,35
+Big Horn,5-1,Ballots Cast,,DEM,Ballots Cast,1
+Big Horn,5-1,Ballots Cast,,NP,Ballots Cast,0
+Big Horn,5-1,Ballots Cast,,,Ballots Cast,36
+Big Horn,6-1,U.S. Senate,,REP,Bryan E Miller,1
+Big Horn,6-1,U.S. Senate,,REP,Cynthia M. Lummis,41
+Big Horn,6-1,U.S. Senate,,REP,Devon Cade,3
+Big Horn,6-1,U.S. Senate,,REP,Donna Rice,1
+Big Horn,6-1,U.S. Senate,,REP,John Holtz,0
+Big Horn,6-1,U.S. Senate,,REP,Josh Wheeler,0
+Big Horn,6-1,U.S. Senate,,REP,Michael Kemler,0
+Big Horn,6-1,U.S. Senate,,REP,R. Mark Armstrong,0
+Big Horn,6-1,U.S. Senate,,REP,Robert G. Short,5
+Big Horn,6-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,6-1,U.S. Senate,,REP,Write-ins,1
+Big Horn,6-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,6-1,U.S. Senate,,REP,Under Votes,5
+Big Horn,6-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,6-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Big Horn,6-1,U.S. Senate,,DEM,Merav Ben David,1
+Big Horn,6-1,U.S. Senate,,DEM,Nathan Wendt,3
+Big Horn,6-1,U.S. Senate,,DEM,Rex Wilde,0
+Big Horn,6-1,U.S. Senate,,DEM,Yana Ludwig,0
+Big Horn,6-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,6-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,6-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,6-1,U.S. House,,REP,Blake Stanley,4
+Big Horn,6-1,U.S. House,,REP,Liz Cheney,52
+Big Horn,6-1,U.S. House,,REP,Write-ins,0
+Big Horn,6-1,U.S. House,,REP,Over Votes,0
+Big Horn,6-1,U.S. House,,REP,Under Votes,1
+Big Horn,6-1,U.S. House,,DEM,Carl Beach,0
+Big Horn,6-1,U.S. House,,DEM,Carol Hafner,2
+Big Horn,6-1,U.S. House,,DEM,Lynnette Grey Bull,2
+Big Horn,6-1,U.S. House,,DEM,Write-ins,0
+Big Horn,6-1,U.S. House,,DEM,Over Votes,0
+Big Horn,6-1,U.S. House,,DEM,Under Votes,0
+Big Horn,6-1,State Senate,20,REP,Ed Cooper,23
+Big Horn,6-1,State Senate,20,REP,Linda Weeks,33
+Big Horn,6-1,State Senate,20,REP,Roland Luehne,1
+Big Horn,6-1,State Senate,20,REP,Write-ins,0
+Big Horn,6-1,State Senate,20,REP,Over Votes,0
+Big Horn,6-1,State Senate,20,REP,Under Votes,0
+Big Horn,6-1,State Senate,20,DEM,Theresa Livingston,3
+Big Horn,6-1,State Senate,20,DEM,Write-ins,0
+Big Horn,6-1,State Senate,20,DEM,Over Votes,0
+Big Horn,6-1,State Senate,20,DEM,Under Votes,1
+Big Horn,6-1,State House,27,REP,Mike Greear,53
+Big Horn,6-1,State House,27,REP,Write-ins,0
+Big Horn,6-1,State House,27,REP,Over Votes,0
+Big Horn,6-1,State House,27,REP,Under Votes,4
+Big Horn,6-1,State House,27,DEM,Write-ins,0
+Big Horn,6-1,Ballots Cast,,REP,Ballots Cast,57
+Big Horn,6-1,Ballots Cast,,DEM,Ballots Cast,4
+Big Horn,6-1,Ballots Cast,,NP,Ballots Cast,0
+Big Horn,6-1,Ballots Cast,,,Ballots Cast,61
+Big Horn,8-1,U.S. Senate,,REP,Bryan E Miller,7
+Big Horn,8-1,U.S. Senate,,REP,Cynthia M. Lummis,78
+Big Horn,8-1,U.S. Senate,,REP,Devon Cade,1
+Big Horn,8-1,U.S. Senate,,REP,Donna Rice,5
+Big Horn,8-1,U.S. Senate,,REP,John Holtz,0
+Big Horn,8-1,U.S. Senate,,REP,Josh Wheeler,3
+Big Horn,8-1,U.S. Senate,,REP,Michael Kemler,1
+Big Horn,8-1,U.S. Senate,,REP,R. Mark Armstrong,3
+Big Horn,8-1,U.S. Senate,,REP,Robert G. Short,9
+Big Horn,8-1,U.S. Senate,,REP,Star Roselli,0
+Big Horn,8-1,U.S. Senate,,REP,Write-ins,0
+Big Horn,8-1,U.S. Senate,,REP,Over Votes,0
+Big Horn,8-1,U.S. Senate,,REP,Under Votes,5
+Big Horn,8-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Big Horn,8-1,U.S. Senate,,DEM,Kenneth R. Casner,2
+Big Horn,8-1,U.S. Senate,,DEM,Merav Ben David,1
+Big Horn,8-1,U.S. Senate,,DEM,Nathan Wendt,1
+Big Horn,8-1,U.S. Senate,,DEM,Rex Wilde,0
+Big Horn,8-1,U.S. Senate,,DEM,Yana Ludwig,0
+Big Horn,8-1,U.S. Senate,,DEM,Write-ins,0
+Big Horn,8-1,U.S. Senate,,DEM,Over Votes,0
+Big Horn,8-1,U.S. Senate,,DEM,Under Votes,0
+Big Horn,8-1,U.S. House,,REP,Blake Stanley,18
+Big Horn,8-1,U.S. House,,REP,Liz Cheney,91
+Big Horn,8-1,U.S. House,,REP,Write-ins,0
+Big Horn,8-1,U.S. House,,REP,Over Votes,0
+Big Horn,8-1,U.S. House,,REP,Under Votes,3
+Big Horn,8-1,U.S. House,,DEM,Carl Beach,1
+Big Horn,8-1,U.S. House,,DEM,Carol Hafner,0
+Big Horn,8-1,U.S. House,,DEM,Lynnette Grey Bull,3
+Big Horn,8-1,U.S. House,,DEM,Write-ins,0
+Big Horn,8-1,U.S. House,,DEM,Over Votes,0
+Big Horn,8-1,U.S. House,,DEM,Under Votes,0
+Big Horn,8-1,State Senate,20,REP,Ed Cooper,61
+Big Horn,8-1,State Senate,20,REP,Linda Weeks,51
+Big Horn,8-1,State Senate,20,REP,Roland Luehne,0
+Big Horn,8-1,State Senate,20,REP,Write-ins,0
+Big Horn,8-1,State Senate,20,REP,Over Votes,0
+Big Horn,8-1,State Senate,20,REP,Under Votes,0
+Big Horn,8-1,State Senate,20,DEM,Theresa Livingston,3
+Big Horn,8-1,State Senate,20,DEM,Write-ins,0
+Big Horn,8-1,State Senate,20,DEM,Over Votes,0
+Big Horn,8-1,State Senate,20,DEM,Under Votes,1
+Big Horn,8-1,State House,27,REP,Mike Greear,98
+Big Horn,8-1,State House,27,REP,Write-ins,1
+Big Horn,8-1,State House,27,REP,Over Votes,0
+Big Horn,8-1,State House,27,REP,Under Votes,13
+Big Horn,8-1,State House,27,DEM,Write-ins,0
+Big Horn,8-1,Ballots Cast,,REP,Ballots Cast,112
+Big Horn,8-1,Ballots Cast,,DEM,Ballots Cast,4
+Big Horn,8-1,Ballots Cast,,NP,Ballots Cast,5
+Big Horn,8-1,Ballots Cast,,,Ballots Cast,121

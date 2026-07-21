@@ -1,0 +1,688 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,1-01,U.S. House,,REP,Harriet Hageman,753
+Lincoln,1-01,U.S. House,,DEM,Lynnette GreyBull,125
+Lincoln,1-01,U.S. House,,LIB,Richard Brubaker,28
+Lincoln,1-01,U.S. House,,CTRY,Marissa Joy Selvig,17
+Lincoln,1-01,U.S. House,,,Write-ins,12
+Lincoln,1-01,U.S. House,,,Over Votes,2
+Lincoln,1-01,U.S. House,,,Under Votes,13
+Lincoln,1-01,Governor,,REP,Mark Gordon,724
+Lincoln,1-01,Governor,,DEM,Theresa A. Livingston,81
+Lincoln,1-01,Governor,,LIB,Jared J. Baldes,39
+Lincoln,1-01,Governor,,,Write-ins,89
+Lincoln,1-01,Governor,,,Over Votes,1
+Lincoln,1-01,Governor,,,Under Votes,16
+Lincoln,1-01,Secretary of State,,REP,Chuck Gray,785
+Lincoln,1-01,Secretary of State,,,Write-ins,22
+Lincoln,1-01,Secretary of State,,,Over Votes,0
+Lincoln,1-01,Secretary of State,,,Under Votes,143
+Lincoln,1-01,State Auditor,,REP,Kristi Racines,800
+Lincoln,1-01,State Auditor,,,Write-ins,4
+Lincoln,1-01,State Auditor,,,Over Votes,0
+Lincoln,1-01,State Auditor,,,Under Votes,146
+Lincoln,1-01,State Treasurer,,REP,Curt Meier,806
+Lincoln,1-01,State Treasurer,,,Write-ins,5
+Lincoln,1-01,State Treasurer,,,Over Votes,0
+Lincoln,1-01,State Treasurer,,,Under Votes,139
+Lincoln,1-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,768
+Lincoln,1-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",125
+Lincoln,1-01,Superintendent of Public Instruction,,,Write-ins,11
+Lincoln,1-01,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,1-01,Superintendent of Public Instruction,,,Under Votes,46
+Lincoln,1-01,State House,18,REP,Scott Heiner,750
+Lincoln,1-01,State House,18,LIB,Dennis B. Laughlin,135
+Lincoln,1-01,State House,18,,Write-ins,6
+Lincoln,1-01,State House,18,,Over Votes,0
+Lincoln,1-01,State House,18,,Under Votes,59
+Lincoln,1-01,Ballots Cast,,,Ballots Cast,950
+Lincoln,1-01,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,1-01,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,131
+Lincoln,1-01,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,1-01,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,142
+Lincoln,1-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,1-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,65
+Lincoln,1-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Lincoln,1-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,33
+Lincoln,1-01,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,1-01,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,50
+Lincoln,1-04,U.S. House,,REP,Harriet Hageman,195
+Lincoln,1-04,U.S. House,,DEM,Lynnette GreyBull,45
+Lincoln,1-04,U.S. House,,LIB,Richard Brubaker,6
+Lincoln,1-04,U.S. House,,CTRY,Marissa Joy Selvig,3
+Lincoln,1-04,U.S. House,,,Write-ins,4
+Lincoln,1-04,U.S. House,,,Over Votes,1
+Lincoln,1-04,U.S. House,,,Under Votes,3
+Lincoln,1-04,Governor,,REP,Mark Gordon,175
+Lincoln,1-04,Governor,,DEM,Theresa A. Livingston,32
+Lincoln,1-04,Governor,,LIB,Jared J. Baldes,7
+Lincoln,1-04,Governor,,,Write-ins,37
+Lincoln,1-04,Governor,,,Over Votes,0
+Lincoln,1-04,Governor,,,Under Votes,6
+Lincoln,1-04,Secretary of State,,REP,Chuck Gray,220
+Lincoln,1-04,Secretary of State,,,Write-ins,5
+Lincoln,1-04,Secretary of State,,,Over Votes,0
+Lincoln,1-04,Secretary of State,,,Under Votes,32
+Lincoln,1-04,State Auditor,,REP,Kristi Racines,224
+Lincoln,1-04,State Auditor,,,Write-ins,0
+Lincoln,1-04,State Auditor,,,Over Votes,0
+Lincoln,1-04,State Auditor,,,Under Votes,33
+Lincoln,1-04,State Treasurer,,REP,Curt Meier,222
+Lincoln,1-04,State Treasurer,,,Write-ins,0
+Lincoln,1-04,State Treasurer,,,Over Votes,0
+Lincoln,1-04,State Treasurer,,,Under Votes,35
+Lincoln,1-04,Superintendent of Public Instruction,,REP,Megan Degenfelder,197
+Lincoln,1-04,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",48
+Lincoln,1-04,Superintendent of Public Instruction,,,Write-ins,1
+Lincoln,1-04,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,1-04,Superintendent of Public Instruction,,,Under Votes,11
+Lincoln,1-04,State House,18,REP,Scott Heiner,201
+Lincoln,1-04,State House,18,LIB,Dennis B. Laughlin,38
+Lincoln,1-04,State House,18,,Write-ins,2
+Lincoln,1-04,State House,18,,Over Votes,0
+Lincoln,1-04,State House,18,,Under Votes,16
+Lincoln,1-04,Ballots Cast,,,Ballots Cast,257
+Lincoln,1-04,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,1-04,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,28
+Lincoln,1-04,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,1-04,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,34
+Lincoln,1-04,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,1-04,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,23
+Lincoln,1-04,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Lincoln,1-04,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,14
+Lincoln,1-04,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,1-04,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,12
+Lincoln,1-06,U.S. House,,REP,Harriet Hageman,104
+Lincoln,1-06,U.S. House,,DEM,Lynnette GreyBull,7
+Lincoln,1-06,U.S. House,,LIB,Richard Brubaker,4
+Lincoln,1-06,U.S. House,,CTRY,Marissa Joy Selvig,2
+Lincoln,1-06,U.S. House,,,Write-ins,1
+Lincoln,1-06,U.S. House,,,Over Votes,1
+Lincoln,1-06,U.S. House,,,Under Votes,2
+Lincoln,1-06,Governor,,REP,Mark Gordon,90
+Lincoln,1-06,Governor,,DEM,Theresa A. Livingston,4
+Lincoln,1-06,Governor,,LIB,Jared J. Baldes,3
+Lincoln,1-06,Governor,,,Write-ins,20
+Lincoln,1-06,Governor,,,Over Votes,0
+Lincoln,1-06,Governor,,,Under Votes,4
+Lincoln,1-06,Secretary of State,,REP,Chuck Gray,94
+Lincoln,1-06,Secretary of State,,,Write-ins,2
+Lincoln,1-06,Secretary of State,,,Over Votes,0
+Lincoln,1-06,Secretary of State,,,Under Votes,25
+Lincoln,1-06,State Auditor,,REP,Kristi Racines,95
+Lincoln,1-06,State Auditor,,,Write-ins,1
+Lincoln,1-06,State Auditor,,,Over Votes,0
+Lincoln,1-06,State Auditor,,,Under Votes,25
+Lincoln,1-06,State Treasurer,,REP,Curt Meier,95
+Lincoln,1-06,State Treasurer,,,Write-ins,3
+Lincoln,1-06,State Treasurer,,,Over Votes,0
+Lincoln,1-06,State Treasurer,,,Under Votes,23
+Lincoln,1-06,Superintendent of Public Instruction,,REP,Megan Degenfelder,102
+Lincoln,1-06,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Lincoln,1-06,Superintendent of Public Instruction,,,Write-ins,0
+Lincoln,1-06,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,1-06,Superintendent of Public Instruction,,,Under Votes,11
+Lincoln,1-06,State House,18,REP,Scott Heiner,99
+Lincoln,1-06,State House,18,LIB,Dennis B. Laughlin,12
+Lincoln,1-06,State House,18,,Write-ins,0
+Lincoln,1-06,State House,18,,Over Votes,0
+Lincoln,1-06,State House,18,,Under Votes,10
+Lincoln,1-06,Ballots Cast,,,Ballots Cast,121
+Lincoln,1-06,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,1-06,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,28
+Lincoln,1-06,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,1-06,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,30
+Lincoln,1-06,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,1-06,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,19
+Lincoln,1-06,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Lincoln,1-06,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,6
+Lincoln,1-06,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,1-06,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,13
+Lincoln,1-07,U.S. House,,REP,Harriet Hageman,57
+Lincoln,1-07,U.S. House,,DEM,Lynnette GreyBull,5
+Lincoln,1-07,U.S. House,,LIB,Richard Brubaker,1
+Lincoln,1-07,U.S. House,,CTRY,Marissa Joy Selvig,0
+Lincoln,1-07,U.S. House,,,Write-ins,0
+Lincoln,1-07,U.S. House,,,Over Votes,1
+Lincoln,1-07,U.S. House,,,Under Votes,0
+Lincoln,1-07,Governor,,REP,Mark Gordon,41
+Lincoln,1-07,Governor,,DEM,Theresa A. Livingston,3
+Lincoln,1-07,Governor,,LIB,Jared J. Baldes,2
+Lincoln,1-07,Governor,,,Write-ins,17
+Lincoln,1-07,Governor,,,Over Votes,0
+Lincoln,1-07,Governor,,,Under Votes,1
+Lincoln,1-07,Secretary of State,,REP,Chuck Gray,54
+Lincoln,1-07,Secretary of State,,,Write-ins,1
+Lincoln,1-07,Secretary of State,,,Over Votes,0
+Lincoln,1-07,Secretary of State,,,Under Votes,9
+Lincoln,1-07,State Auditor,,REP,Kristi Racines,55
+Lincoln,1-07,State Auditor,,,Write-ins,0
+Lincoln,1-07,State Auditor,,,Over Votes,0
+Lincoln,1-07,State Auditor,,,Under Votes,9
+Lincoln,1-07,State Treasurer,,REP,Curt Meier,54
+Lincoln,1-07,State Treasurer,,,Write-ins,1
+Lincoln,1-07,State Treasurer,,,Over Votes,0
+Lincoln,1-07,State Treasurer,,,Under Votes,9
+Lincoln,1-07,Superintendent of Public Instruction,,REP,Megan Degenfelder,51
+Lincoln,1-07,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Lincoln,1-07,Superintendent of Public Instruction,,,Write-ins,6
+Lincoln,1-07,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,1-07,Superintendent of Public Instruction,,,Under Votes,2
+Lincoln,1-07,State House,18,REP,Scott Heiner,54
+Lincoln,1-07,State House,18,LIB,Dennis B. Laughlin,7
+Lincoln,1-07,State House,18,,Write-ins,0
+Lincoln,1-07,State House,18,,Over Votes,0
+Lincoln,1-07,State House,18,,Under Votes,3
+Lincoln,1-07,Ballots Cast,,,Ballots Cast,64
+Lincoln,1-07,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,1-07,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,11
+Lincoln,1-07,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,1-07,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,9
+Lincoln,1-07,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,1-07,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,0
+Lincoln,1-07,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Lincoln,1-07,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,0
+Lincoln,1-07,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,1-07,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,5
+Lincoln,1-08,U.S. House,,REP,Harriet Hageman,227
+Lincoln,1-08,U.S. House,,DEM,Lynnette GreyBull,9
+Lincoln,1-08,U.S. House,,LIB,Richard Brubaker,5
+Lincoln,1-08,U.S. House,,CTRY,Marissa Joy Selvig,1
+Lincoln,1-08,U.S. House,,,Write-ins,3
+Lincoln,1-08,U.S. House,,,Over Votes,2
+Lincoln,1-08,U.S. House,,,Under Votes,1
+Lincoln,1-08,Governor,,REP,Mark Gordon,131
+Lincoln,1-08,Governor,,DEM,Theresa A. Livingston,6
+Lincoln,1-08,Governor,,LIB,Jared J. Baldes,10
+Lincoln,1-08,Governor,,,Write-ins,94
+Lincoln,1-08,Governor,,,Over Votes,0
+Lincoln,1-08,Governor,,,Under Votes,7
+Lincoln,1-08,Secretary of State,,REP,Chuck Gray,229
+Lincoln,1-08,Secretary of State,,,Write-ins,4
+Lincoln,1-08,Secretary of State,,,Over Votes,0
+Lincoln,1-08,Secretary of State,,,Under Votes,15
+Lincoln,1-08,State Auditor,,REP,Kristi Racines,214
+Lincoln,1-08,State Auditor,,,Write-ins,2
+Lincoln,1-08,State Auditor,,,Over Votes,0
+Lincoln,1-08,State Auditor,,,Under Votes,32
+Lincoln,1-08,State Treasurer,,REP,Curt Meier,224
+Lincoln,1-08,State Treasurer,,,Write-ins,3
+Lincoln,1-08,State Treasurer,,,Over Votes,0
+Lincoln,1-08,State Treasurer,,,Under Votes,21
+Lincoln,1-08,Superintendent of Public Instruction,,REP,Megan Degenfelder,187
+Lincoln,1-08,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",9
+Lincoln,1-08,Superintendent of Public Instruction,,,Write-ins,34
+Lincoln,1-08,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,1-08,Superintendent of Public Instruction,,,Under Votes,18
+Lincoln,1-08,State House,20,REP,Albert Sommers,139
+Lincoln,1-08,State House,20,,Write-ins,86
+Lincoln,1-08,State House,20,,Over Votes,0
+Lincoln,1-08,State House,20,,Under Votes,23
+Lincoln,1-08,Ballots Cast,,,Ballots Cast,248
+Lincoln,1-08,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,1-08,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,48
+Lincoln,1-08,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,1-08,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,48
+Lincoln,1-08,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,1-08,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,18
+Lincoln,1-08,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Lincoln,1-08,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,11
+Lincoln,1-08,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,1-08,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,30
+Lincoln,2-01,U.S. House,,REP,Harriet Hageman,605
+Lincoln,2-01,U.S. House,,DEM,Lynnette GreyBull,66
+Lincoln,2-01,U.S. House,,LIB,Richard Brubaker,16
+Lincoln,2-01,U.S. House,,CTRY,Marissa Joy Selvig,16
+Lincoln,2-01,U.S. House,,,Write-ins,14
+Lincoln,2-01,U.S. House,,,Over Votes,2
+Lincoln,2-01,U.S. House,,,Under Votes,19
+Lincoln,2-01,Governor,,REP,Mark Gordon,633
+Lincoln,2-01,Governor,,DEM,Theresa A. Livingston,45
+Lincoln,2-01,Governor,,LIB,Jared J. Baldes,31
+Lincoln,2-01,Governor,,,Write-ins,15
+Lincoln,2-01,Governor,,,Over Votes,0
+Lincoln,2-01,Governor,,,Under Votes,14
+Lincoln,2-01,Secretary of State,,REP,Chuck Gray,626
+Lincoln,2-01,Secretary of State,,,Write-ins,30
+Lincoln,2-01,Secretary of State,,,Over Votes,1
+Lincoln,2-01,Secretary of State,,,Under Votes,81
+Lincoln,2-01,State Auditor,,REP,Kristi Racines,653
+Lincoln,2-01,State Auditor,,,Write-ins,4
+Lincoln,2-01,State Auditor,,,Over Votes,0
+Lincoln,2-01,State Auditor,,,Under Votes,81
+Lincoln,2-01,State Treasurer,,REP,Curt Meier,646
+Lincoln,2-01,State Treasurer,,,Write-ins,7
+Lincoln,2-01,State Treasurer,,,Over Votes,0
+Lincoln,2-01,State Treasurer,,,Under Votes,85
+Lincoln,2-01,Superintendent of Public Instruction,,REP,Megan Degenfelder,643
+Lincoln,2-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",63
+Lincoln,2-01,Superintendent of Public Instruction,,,Write-ins,3
+Lincoln,2-01,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-01,Superintendent of Public Instruction,,,Under Votes,29
+Lincoln,2-01,State House,21,REP,Lane Allred,662
+Lincoln,2-01,State House,21,,Write-ins,14
+Lincoln,2-01,State House,21,,Over Votes,1
+Lincoln,2-01,State House,21,,Under Votes,61
+Lincoln,2-01,Ballots Cast,,,Ballots Cast,738
+Lincoln,2-01,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,1
+Lincoln,2-01,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,130
+Lincoln,2-01,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-01,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,135
+Lincoln,2-01,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,2-01,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,77
+Lincoln,2-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Lincoln,2-01,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,43
+Lincoln,2-01,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,1
+Lincoln,2-01,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,110
+Lincoln,2-02,U.S. House,,REP,Harriet Hageman,218
+Lincoln,2-02,U.S. House,,DEM,Lynnette GreyBull,16
+Lincoln,2-02,U.S. House,,LIB,Richard Brubaker,5
+Lincoln,2-02,U.S. House,,CTRY,Marissa Joy Selvig,6
+Lincoln,2-02,U.S. House,,,Write-ins,6
+Lincoln,2-02,U.S. House,,,Over Votes,1
+Lincoln,2-02,U.S. House,,,Under Votes,4
+Lincoln,2-02,Governor,,REP,Mark Gordon,226
+Lincoln,2-02,Governor,,DEM,Theresa A. Livingston,11
+Lincoln,2-02,Governor,,LIB,Jared J. Baldes,10
+Lincoln,2-02,Governor,,,Write-ins,6
+Lincoln,2-02,Governor,,,Over Votes,0
+Lincoln,2-02,Governor,,,Under Votes,3
+Lincoln,2-02,Secretary of State,,REP,Chuck Gray,218
+Lincoln,2-02,Secretary of State,,,Write-ins,9
+Lincoln,2-02,Secretary of State,,,Over Votes,0
+Lincoln,2-02,Secretary of State,,,Under Votes,29
+Lincoln,2-02,State Auditor,,REP,Kristi Racines,223
+Lincoln,2-02,State Auditor,,,Write-ins,2
+Lincoln,2-02,State Auditor,,,Over Votes,0
+Lincoln,2-02,State Auditor,,,Under Votes,31
+Lincoln,2-02,State Treasurer,,REP,Curt Meier,222
+Lincoln,2-02,State Treasurer,,,Write-ins,2
+Lincoln,2-02,State Treasurer,,,Over Votes,0
+Lincoln,2-02,State Treasurer,,,Under Votes,32
+Lincoln,2-02,Superintendent of Public Instruction,,REP,Megan Degenfelder,226
+Lincoln,2-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",17
+Lincoln,2-02,Superintendent of Public Instruction,,,Write-ins,0
+Lincoln,2-02,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-02,Superintendent of Public Instruction,,,Under Votes,13
+Lincoln,2-02,State House,21,REP,Lane Allred,239
+Lincoln,2-02,State House,21,,Write-ins,5
+Lincoln,2-02,State House,21,,Over Votes,0
+Lincoln,2-02,State House,21,,Under Votes,12
+Lincoln,2-02,Ballots Cast,,,Ballots Cast,256
+Lincoln,2-02,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-02,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,54
+Lincoln,2-02,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-02,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,55
+Lincoln,2-02,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Lincoln,2-02,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,12
+Lincoln,2-02,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Lincoln,2-02,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,8
+Lincoln,2-02,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,2-02,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,40
+Lincoln,2-03,U.S. House,,REP,Harriet Hageman,514
+Lincoln,2-03,U.S. House,,DEM,Lynnette GreyBull,236
+Lincoln,2-03,U.S. House,,LIB,Richard Brubaker,21
+Lincoln,2-03,U.S. House,,CTRY,Marissa Joy Selvig,11
+Lincoln,2-03,U.S. House,,,Write-ins,15
+Lincoln,2-03,U.S. House,,,Over Votes,3
+Lincoln,2-03,U.S. House,,,Under Votes,18
+Lincoln,2-03,Governor,,REP,Mark Gordon,565
+Lincoln,2-03,Governor,,DEM,Theresa A. Livingston,174
+Lincoln,2-03,Governor,,LIB,Jared J. Baldes,28
+Lincoln,2-03,Governor,,,Write-ins,33
+Lincoln,2-03,Governor,,,Over Votes,0
+Lincoln,2-03,Governor,,,Under Votes,18
+Lincoln,2-03,Secretary of State,,REP,Chuck Gray,604
+Lincoln,2-03,Secretary of State,,,Write-ins,29
+Lincoln,2-03,Secretary of State,,,Over Votes,0
+Lincoln,2-03,Secretary of State,,,Under Votes,185
+Lincoln,2-03,State Auditor,,REP,Kristi Racines,624
+Lincoln,2-03,State Auditor,,,Write-ins,7
+Lincoln,2-03,State Auditor,,,Over Votes,0
+Lincoln,2-03,State Auditor,,,Under Votes,187
+Lincoln,2-03,State Treasurer,,REP,Curt Meier,621
+Lincoln,2-03,State Treasurer,,,Write-ins,8
+Lincoln,2-03,State Treasurer,,,Over Votes,0
+Lincoln,2-03,State Treasurer,,,Under Votes,189
+Lincoln,2-03,Superintendent of Public Instruction,,REP,Megan Degenfelder,542
+Lincoln,2-03,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",221
+Lincoln,2-03,Superintendent of Public Instruction,,,Write-ins,5
+Lincoln,2-03,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-03,Superintendent of Public Instruction,,,Under Votes,50
+Lincoln,2-03,State House,22,REP,Andrew Byron,482
+Lincoln,2-03,State House,22,IND,Bob Strobel,305
+Lincoln,2-03,State House,22,,Write-ins,4
+Lincoln,2-03,State House,22,,Over Votes,0
+Lincoln,2-03,State House,22,,Under Votes,27
+Lincoln,2-03,Ballots Cast,,,Ballots Cast,818
+Lincoln,2-03,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-03,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,224
+Lincoln,2-03,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-03,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,231
+Lincoln,2-03,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,2-03,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,87
+Lincoln,2-03,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Lincoln,2-03,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,49
+Lincoln,2-03,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,2-03,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,198
+Lincoln,2-04,U.S. House,,REP,Harriet Hageman,345
+Lincoln,2-04,U.S. House,,DEM,Lynnette GreyBull,33
+Lincoln,2-04,U.S. House,,LIB,Richard Brubaker,10
+Lincoln,2-04,U.S. House,,CTRY,Marissa Joy Selvig,6
+Lincoln,2-04,U.S. House,,,Write-ins,2
+Lincoln,2-04,U.S. House,,,Over Votes,1
+Lincoln,2-04,U.S. House,,,Under Votes,4
+Lincoln,2-04,Governor,,REP,Mark Gordon,333
+Lincoln,2-04,Governor,,DEM,Theresa A. Livingston,29
+Lincoln,2-04,Governor,,LIB,Jared J. Baldes,9
+Lincoln,2-04,Governor,,,Write-ins,18
+Lincoln,2-04,Governor,,,Over Votes,0
+Lincoln,2-04,Governor,,,Under Votes,12
+Lincoln,2-04,Secretary of State,,REP,Chuck Gray,363
+Lincoln,2-04,Secretary of State,,,Write-ins,4
+Lincoln,2-04,Secretary of State,,,Over Votes,0
+Lincoln,2-04,Secretary of State,,,Under Votes,34
+Lincoln,2-04,State Auditor,,REP,Kristi Racines,364
+Lincoln,2-04,State Auditor,,,Write-ins,0
+Lincoln,2-04,State Auditor,,,Over Votes,0
+Lincoln,2-04,State Auditor,,,Under Votes,37
+Lincoln,2-04,State Treasurer,,REP,Curt Meier,366
+Lincoln,2-04,State Treasurer,,,Write-ins,0
+Lincoln,2-04,State Treasurer,,,Over Votes,0
+Lincoln,2-04,State Treasurer,,,Under Votes,35
+Lincoln,2-04,Superintendent of Public Instruction,,REP,Megan Degenfelder,342
+Lincoln,2-04,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",34
+Lincoln,2-04,Superintendent of Public Instruction,,,Write-ins,11
+Lincoln,2-04,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-04,Superintendent of Public Instruction,,,Under Votes,14
+Lincoln,2-04,State House,21,REP,Lane Allred,347
+Lincoln,2-04,State House,21,,Write-ins,14
+Lincoln,2-04,State House,21,,Over Votes,0
+Lincoln,2-04,State House,21,,Under Votes,40
+Lincoln,2-04,Ballots Cast,,,Ballots Cast,401
+Lincoln,2-04,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-04,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,76
+Lincoln,2-04,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-04,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,86
+Lincoln,2-04,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,2-04,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,25
+Lincoln,2-04,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Lincoln,2-04,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,10
+Lincoln,2-04,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,1
+Lincoln,2-04,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,71
+Lincoln,2-05,U.S. House,,REP,Harriet Hageman,521
+Lincoln,2-05,U.S. House,,DEM,Lynnette GreyBull,104
+Lincoln,2-05,U.S. House,,LIB,Richard Brubaker,12
+Lincoln,2-05,U.S. House,,CTRY,Marissa Joy Selvig,8
+Lincoln,2-05,U.S. House,,,Write-ins,8
+Lincoln,2-05,U.S. House,,,Over Votes,1
+Lincoln,2-05,U.S. House,,,Under Votes,3
+Lincoln,2-05,Governor,,REP,Mark Gordon,521
+Lincoln,2-05,Governor,,DEM,Theresa A. Livingston,69
+Lincoln,2-05,Governor,,LIB,Jared J. Baldes,19
+Lincoln,2-05,Governor,,,Write-ins,34
+Lincoln,2-05,Governor,,,Over Votes,0
+Lincoln,2-05,Governor,,,Under Votes,14
+Lincoln,2-05,Secretary of State,,REP,Chuck Gray,538
+Lincoln,2-05,Secretary of State,,,Write-ins,18
+Lincoln,2-05,Secretary of State,,,Over Votes,0
+Lincoln,2-05,Secretary of State,,,Under Votes,101
+Lincoln,2-05,State Auditor,,REP,Kristi Racines,545
+Lincoln,2-05,State Auditor,,,Write-ins,10
+Lincoln,2-05,State Auditor,,,Over Votes,0
+Lincoln,2-05,State Auditor,,,Under Votes,102
+Lincoln,2-05,State Treasurer,,REP,Curt Meier,550
+Lincoln,2-05,State Treasurer,,,Write-ins,10
+Lincoln,2-05,State Treasurer,,,Over Votes,0
+Lincoln,2-05,State Treasurer,,,Under Votes,97
+Lincoln,2-05,Superintendent of Public Instruction,,REP,Megan Degenfelder,522
+Lincoln,2-05,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",96
+Lincoln,2-05,Superintendent of Public Instruction,,,Write-ins,11
+Lincoln,2-05,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-05,Superintendent of Public Instruction,,,Under Votes,28
+Lincoln,2-05,State House,21,REP,Lane Allred,254
+Lincoln,2-05,State House,21,,Write-ins,5
+Lincoln,2-05,State House,21,,Over Votes,0
+Lincoln,2-05,State House,21,,Under Votes,37
+Lincoln,2-05,State House,22,REP,Andrew Byron,218
+Lincoln,2-05,State House,22,IND,Bob Strobel,114
+Lincoln,2-05,State House,22,,Write-ins,10
+Lincoln,2-05,State House,22,,Over Votes,1
+Lincoln,2-05,State House,22,,Under Votes,18
+Lincoln,2-05,Ballots Cast,,,Ballots Cast,657
+Lincoln,2-05,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-05,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,136
+Lincoln,2-05,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,1
+Lincoln,2-05,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,153
+Lincoln,2-05,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,1
+Lincoln,2-05,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,48
+Lincoln,2-05,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,3
+Lincoln,2-05,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,25
+Lincoln,2-05,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,2-05,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,116
+Lincoln,2-06,U.S. House,,REP,Harriet Hageman,396
+Lincoln,2-06,U.S. House,,DEM,Lynnette GreyBull,28
+Lincoln,2-06,U.S. House,,LIB,Richard Brubaker,9
+Lincoln,2-06,U.S. House,,CTRY,Marissa Joy Selvig,7
+Lincoln,2-06,U.S. House,,,Write-ins,2
+Lincoln,2-06,U.S. House,,,Over Votes,3
+Lincoln,2-06,U.S. House,,,Under Votes,6
+Lincoln,2-06,Governor,,REP,Mark Gordon,382
+Lincoln,2-06,Governor,,DEM,Theresa A. Livingston,22
+Lincoln,2-06,Governor,,LIB,Jared J. Baldes,25
+Lincoln,2-06,Governor,,,Write-ins,18
+Lincoln,2-06,Governor,,,Over Votes,0
+Lincoln,2-06,Governor,,,Under Votes,4
+Lincoln,2-06,Secretary of State,,REP,Chuck Gray,388
+Lincoln,2-06,Secretary of State,,,Write-ins,17
+Lincoln,2-06,Secretary of State,,,Over Votes,0
+Lincoln,2-06,Secretary of State,,,Under Votes,46
+Lincoln,2-06,State Auditor,,REP,Kristi Racines,408
+Lincoln,2-06,State Auditor,,,Write-ins,3
+Lincoln,2-06,State Auditor,,,Over Votes,0
+Lincoln,2-06,State Auditor,,,Under Votes,40
+Lincoln,2-06,State Treasurer,,REP,Curt Meier,402
+Lincoln,2-06,State Treasurer,,,Write-ins,5
+Lincoln,2-06,State Treasurer,,,Over Votes,1
+Lincoln,2-06,State Treasurer,,,Under Votes,43
+Lincoln,2-06,Superintendent of Public Instruction,,REP,Megan Degenfelder,401
+Lincoln,2-06,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",33
+Lincoln,2-06,Superintendent of Public Instruction,,,Write-ins,4
+Lincoln,2-06,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-06,Superintendent of Public Instruction,,,Under Votes,13
+Lincoln,2-06,State House,21,REP,Lane Allred,404
+Lincoln,2-06,State House,21,,Write-ins,12
+Lincoln,2-06,State House,21,,Over Votes,0
+Lincoln,2-06,State House,21,,Under Votes,35
+Lincoln,2-06,Ballots Cast,,,Ballots Cast,451
+Lincoln,2-06,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-06,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,79
+Lincoln,2-06,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-06,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,90
+Lincoln,2-06,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,2-06,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,43
+Lincoln,2-06,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Lincoln,2-06,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,21
+Lincoln,2-06,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,2-06,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,63
+Lincoln,2-07,U.S. House,,REP,Harriet Hageman,774
+Lincoln,2-07,U.S. House,,DEM,Lynnette GreyBull,44
+Lincoln,2-07,U.S. House,,LIB,Richard Brubaker,17
+Lincoln,2-07,U.S. House,,CTRY,Marissa Joy Selvig,16
+Lincoln,2-07,U.S. House,,,Write-ins,12
+Lincoln,2-07,U.S. House,,,Over Votes,2
+Lincoln,2-07,U.S. House,,,Under Votes,14
+Lincoln,2-07,Governor,,REP,Mark Gordon,769
+Lincoln,2-07,Governor,,DEM,Theresa A. Livingston,29
+Lincoln,2-07,Governor,,LIB,Jared J. Baldes,40
+Lincoln,2-07,Governor,,,Write-ins,29
+Lincoln,2-07,Governor,,,Over Votes,0
+Lincoln,2-07,Governor,,,Under Votes,12
+Lincoln,2-07,Secretary of State,,REP,Chuck Gray,773
+Lincoln,2-07,Secretary of State,,,Write-ins,17
+Lincoln,2-07,Secretary of State,,,Over Votes,1
+Lincoln,2-07,Secretary of State,,,Under Votes,88
+Lincoln,2-07,State Auditor,,REP,Kristi Racines,802
+Lincoln,2-07,State Auditor,,,Write-ins,2
+Lincoln,2-07,State Auditor,,,Over Votes,0
+Lincoln,2-07,State Auditor,,,Under Votes,75
+Lincoln,2-07,State Treasurer,,REP,Curt Meier,813
+Lincoln,2-07,State Treasurer,,,Write-ins,3
+Lincoln,2-07,State Treasurer,,,Over Votes,0
+Lincoln,2-07,State Treasurer,,,Under Votes,63
+Lincoln,2-07,Superintendent of Public Instruction,,REP,Megan Degenfelder,795
+Lincoln,2-07,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",50
+Lincoln,2-07,Superintendent of Public Instruction,,,Write-ins,7
+Lincoln,2-07,Superintendent of Public Instruction,,,Over Votes,1
+Lincoln,2-07,Superintendent of Public Instruction,,,Under Votes,26
+Lincoln,2-07,State House,21,REP,Lane Allred,781
+Lincoln,2-07,State House,21,,Write-ins,38
+Lincoln,2-07,State House,21,,Over Votes,0
+Lincoln,2-07,State House,21,,Under Votes,60
+Lincoln,2-07,Ballots Cast,,,Ballots Cast,879
+Lincoln,2-07,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-07,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,155
+Lincoln,2-07,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-07,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,167
+Lincoln,2-07,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,2-07,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,86
+Lincoln,2-07,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,0
+Lincoln,2-07,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,51
+Lincoln,2-07,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,1
+Lincoln,2-07,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,123
+Lincoln,2-08,U.S. House,,REP,Harriet Hageman,379
+Lincoln,2-08,U.S. House,,DEM,Lynnette GreyBull,34
+Lincoln,2-08,U.S. House,,LIB,Richard Brubaker,5
+Lincoln,2-08,U.S. House,,CTRY,Marissa Joy Selvig,6
+Lincoln,2-08,U.S. House,,,Write-ins,5
+Lincoln,2-08,U.S. House,,,Over Votes,1
+Lincoln,2-08,U.S. House,,,Under Votes,5
+Lincoln,2-08,Governor,,REP,Mark Gordon,374
+Lincoln,2-08,Governor,,DEM,Theresa A. Livingston,23
+Lincoln,2-08,Governor,,LIB,Jared J. Baldes,17
+Lincoln,2-08,Governor,,,Write-ins,14
+Lincoln,2-08,Governor,,,Over Votes,1
+Lincoln,2-08,Governor,,,Under Votes,6
+Lincoln,2-08,Secretary of State,,REP,Chuck Gray,384
+Lincoln,2-08,Secretary of State,,,Write-ins,7
+Lincoln,2-08,Secretary of State,,,Over Votes,0
+Lincoln,2-08,Secretary of State,,,Under Votes,44
+Lincoln,2-08,State Auditor,,REP,Kristi Racines,388
+Lincoln,2-08,State Auditor,,,Write-ins,3
+Lincoln,2-08,State Auditor,,,Over Votes,0
+Lincoln,2-08,State Auditor,,,Under Votes,44
+Lincoln,2-08,State Treasurer,,REP,Curt Meier,382
+Lincoln,2-08,State Treasurer,,,Write-ins,3
+Lincoln,2-08,State Treasurer,,,Over Votes,0
+Lincoln,2-08,State Treasurer,,,Under Votes,50
+Lincoln,2-08,Superintendent of Public Instruction,,REP,Megan Degenfelder,376
+Lincoln,2-08,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",31
+Lincoln,2-08,Superintendent of Public Instruction,,,Write-ins,7
+Lincoln,2-08,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-08,Superintendent of Public Instruction,,,Under Votes,21
+Lincoln,2-08,State House,21,REP,Lane Allred,379
+Lincoln,2-08,State House,21,,Write-ins,12
+Lincoln,2-08,State House,21,,Over Votes,0
+Lincoln,2-08,State House,21,,Under Votes,44
+Lincoln,2-08,Ballots Cast,,,Ballots Cast,435
+Lincoln,2-08,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-08,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,65
+Lincoln,2-08,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-08,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,80
+Lincoln,2-08,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,2-08,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,36
+Lincoln,2-08,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Lincoln,2-08,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,21
+Lincoln,2-08,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,2-08,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,54
+Lincoln,2-09,U.S. House,,REP,Harriet Hageman,296
+Lincoln,2-09,U.S. House,,DEM,Lynnette GreyBull,15
+Lincoln,2-09,U.S. House,,LIB,Richard Brubaker,2
+Lincoln,2-09,U.S. House,,CTRY,Marissa Joy Selvig,3
+Lincoln,2-09,U.S. House,,,Write-ins,4
+Lincoln,2-09,U.S. House,,,Over Votes,1
+Lincoln,2-09,U.S. House,,,Under Votes,8
+Lincoln,2-09,Governor,,REP,Mark Gordon,253
+Lincoln,2-09,Governor,,DEM,Theresa A. Livingston,13
+Lincoln,2-09,Governor,,LIB,Jared J. Baldes,4
+Lincoln,2-09,Governor,,,Write-ins,49
+Lincoln,2-09,Governor,,,Over Votes,0
+Lincoln,2-09,Governor,,,Under Votes,10
+Lincoln,2-09,Secretary of State,,REP,Chuck Gray,290
+Lincoln,2-09,Secretary of State,,,Write-ins,9
+Lincoln,2-09,Secretary of State,,,Over Votes,0
+Lincoln,2-09,Secretary of State,,,Under Votes,30
+Lincoln,2-09,State Auditor,,REP,Kristi Racines,302
+Lincoln,2-09,State Auditor,,,Write-ins,1
+Lincoln,2-09,State Auditor,,,Over Votes,0
+Lincoln,2-09,State Auditor,,,Under Votes,26
+Lincoln,2-09,State Treasurer,,REP,Curt Meier,307
+Lincoln,2-09,State Treasurer,,,Write-ins,4
+Lincoln,2-09,State Treasurer,,,Over Votes,0
+Lincoln,2-09,State Treasurer,,,Under Votes,18
+Lincoln,2-09,Superintendent of Public Instruction,,REP,Megan Degenfelder,287
+Lincoln,2-09,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",19
+Lincoln,2-09,Superintendent of Public Instruction,,,Write-ins,0
+Lincoln,2-09,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-09,Superintendent of Public Instruction,,,Under Votes,23
+Lincoln,2-09,State House,18,REP,Scott Heiner,301
+Lincoln,2-09,State House,18,LIB,Dennis B. Laughlin,16
+Lincoln,2-09,State House,18,,Write-ins,0
+Lincoln,2-09,State House,18,,Over Votes,0
+Lincoln,2-09,State House,18,,Under Votes,12
+Lincoln,2-09,Ballots Cast,,,Ballots Cast,329
+Lincoln,2-09,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-09,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,68
+Lincoln,2-09,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-09,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,74
+Lincoln,2-09,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,2-09,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,40
+Lincoln,2-09,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,1
+Lincoln,2-09,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,19
+Lincoln,2-09,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,2-09,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,50
+Lincoln,2-10,U.S. House,,REP,Harriet Hageman,734
+Lincoln,2-10,U.S. House,,DEM,Lynnette GreyBull,231
+Lincoln,2-10,U.S. House,,LIB,Richard Brubaker,18
+Lincoln,2-10,U.S. House,,CTRY,Marissa Joy Selvig,10
+Lincoln,2-10,U.S. House,,,Write-ins,14
+Lincoln,2-10,U.S. House,,,Over Votes,5
+Lincoln,2-10,U.S. House,,,Under Votes,10
+Lincoln,2-10,Governor,,REP,Mark Gordon,804
+Lincoln,2-10,Governor,,DEM,Theresa A. Livingston,158
+Lincoln,2-10,Governor,,LIB,Jared J. Baldes,30
+Lincoln,2-10,Governor,,,Write-ins,15
+Lincoln,2-10,Governor,,,Over Votes,0
+Lincoln,2-10,Governor,,,Under Votes,15
+Lincoln,2-10,Secretary of State,,REP,Chuck Gray,833
+Lincoln,2-10,Secretary of State,,,Write-ins,41
+Lincoln,2-10,Secretary of State,,,Over Votes,0
+Lincoln,2-10,Secretary of State,,,Under Votes,148
+Lincoln,2-10,State Auditor,,REP,Kristi Racines,855
+Lincoln,2-10,State Auditor,,,Write-ins,12
+Lincoln,2-10,State Auditor,,,Over Votes,0
+Lincoln,2-10,State Auditor,,,Under Votes,155
+Lincoln,2-10,State Treasurer,,REP,Curt Meier,865
+Lincoln,2-10,State Treasurer,,,Write-ins,12
+Lincoln,2-10,State Treasurer,,,Over Votes,0
+Lincoln,2-10,State Treasurer,,,Under Votes,145
+Lincoln,2-10,Superintendent of Public Instruction,,REP,Megan Degenfelder,772
+Lincoln,2-10,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",205
+Lincoln,2-10,Superintendent of Public Instruction,,,Write-ins,9
+Lincoln,2-10,Superintendent of Public Instruction,,,Over Votes,0
+Lincoln,2-10,Superintendent of Public Instruction,,,Under Votes,36
+Lincoln,2-10,State House,22,REP,Andrew Byron,662
+Lincoln,2-10,State House,22,IND,Bob Strobel,324
+Lincoln,2-10,State House,22,,Write-ins,1
+Lincoln,2-10,State House,22,,Over Votes,4
+Lincoln,2-10,State House,22,,Under Votes,31
+Lincoln,2-10,Ballots Cast,,,Ballots Cast,1022
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Over Votes,0
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District Craig L. Jones",,,Under Votes,186
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Over Votes,0
+Lincoln,2-10,"Circuit Court Judge, Third Judicial District John R. Prokos",,,Under Votes,200
+Lincoln,2-10,Constitutional Amendment A Local Government Investment in Equities,,,Over Votes,0
+Lincoln,2-10,Constitutional Amendment A Local Government Investment in Equities,,,Under Votes,72
+Lincoln,2-10,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Over Votes,2
+Lincoln,2-10,Constitutional Amendment B Supreme Court Justices and District Judges – Retirement,,,Under Votes,46
+Lincoln,2-10,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Over Votes,0
+Lincoln,2-10,"District Court Judge, Third Judicial District Joseph B. Bluemel",,,Under Votes,159

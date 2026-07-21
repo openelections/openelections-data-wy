@@ -1,0 +1,1121 @@
+county,precinct,office,district,party,candidate,votes
+Fremont,01-1,U.S. Senate,,REP,John Barrasso,307
+Fremont,01-1,U.S. Senate,,REP,John Holtz,19
+Fremont,01-1,U.S. Senate,,REP,Reid Rasner,70
+Fremont,01-1,U.S. Senate,,REP,Write-ins,9
+Fremont,01-1,U.S. Senate,,REP,Over Votes,0
+Fremont,01-1,U.S. Senate,,REP,Under Votes,16
+Fremont,01-1,U.S. Senate,,DEM,Scott D Morrow,48
+Fremont,01-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,01-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-1,U.S. Senate,,DEM,Under Votes,6
+Fremont,01-1,U.S. House,,REP,Harriet Hageman,298
+Fremont,01-1,U.S. House,,REP,Steven R. Helling,79
+Fremont,01-1,U.S. House,,REP,Write-ins,17
+Fremont,01-1,U.S. House,,REP,Over Votes,1
+Fremont,01-1,U.S. House,,REP,Under Votes,26
+Fremont,01-1,U.S. House,,DEM,Kyle G. Cameron,48
+Fremont,01-1,U.S. House,,DEM,Write-ins,0
+Fremont,01-1,U.S. House,,DEM,Over Votes,0
+Fremont,01-1,U.S. House,,DEM,Under Votes,6
+Fremont,01-1,State House,54,REP,Lloyd Charles Larsen,207
+Fremont,01-1,State House,54,REP,Tina Clifford,207
+Fremont,01-1,State House,54,REP,Write-ins,0
+Fremont,01-1,State House,54,REP,Over Votes,0
+Fremont,01-1,State House,54,REP,Under Votes,7
+Fremont,01-1,State House,54,DEM,Write-ins,5
+Fremont,01-1,Ballots Cast,,REP,Ballots Cast,421
+Fremont,01-1,Ballots Cast,,DEM,Ballots Cast,54
+Fremont,01-1,Ballots Cast,,NP,Ballots Cast,13
+Fremont,01-1,Ballots Cast,,,Ballots Cast,488
+Fremont,01-2,U.S. Senate,,REP,John Barrasso,117
+Fremont,01-2,U.S. Senate,,REP,John Holtz,12
+Fremont,01-2,U.S. Senate,,REP,Reid Rasner,18
+Fremont,01-2,U.S. Senate,,REP,Write-ins,6
+Fremont,01-2,U.S. Senate,,REP,Over Votes,0
+Fremont,01-2,U.S. Senate,,REP,Under Votes,14
+Fremont,01-2,U.S. Senate,,DEM,Scott D Morrow,38
+Fremont,01-2,U.S. Senate,,DEM,Write-ins,0
+Fremont,01-2,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-2,U.S. Senate,,DEM,Under Votes,1
+Fremont,01-2,U.S. House,,REP,Harriet Hageman,104
+Fremont,01-2,U.S. House,,REP,Steven R. Helling,43
+Fremont,01-2,U.S. House,,REP,Write-ins,10
+Fremont,01-2,U.S. House,,REP,Over Votes,0
+Fremont,01-2,U.S. House,,REP,Under Votes,10
+Fremont,01-2,U.S. House,,DEM,Kyle G. Cameron,36
+Fremont,01-2,U.S. House,,DEM,Write-ins,0
+Fremont,01-2,U.S. House,,DEM,Over Votes,0
+Fremont,01-2,U.S. House,,DEM,Under Votes,3
+Fremont,01-2,State House,54,REP,Lloyd Charles Larsen,92
+Fremont,01-2,State House,54,REP,Tina Clifford,72
+Fremont,01-2,State House,54,REP,Write-ins,0
+Fremont,01-2,State House,54,REP,Over Votes,1
+Fremont,01-2,State House,54,REP,Under Votes,2
+Fremont,01-2,State House,54,DEM,Write-ins,5
+Fremont,01-2,Ballots Cast,,REP,Ballots Cast,167
+Fremont,01-2,Ballots Cast,,DEM,Ballots Cast,39
+Fremont,01-2,Ballots Cast,,NP,Ballots Cast,8
+Fremont,01-2,Ballots Cast,,,Ballots Cast,214
+Fremont,01-3,U.S. Senate,,REP,John Barrasso,149
+Fremont,01-3,U.S. Senate,,REP,John Holtz,31
+Fremont,01-3,U.S. Senate,,REP,Reid Rasner,49
+Fremont,01-3,U.S. Senate,,REP,Write-ins,15
+Fremont,01-3,U.S. Senate,,REP,Over Votes,0
+Fremont,01-3,U.S. Senate,,REP,Under Votes,30
+Fremont,01-3,U.S. Senate,,DEM,Scott D Morrow,43
+Fremont,01-3,U.S. Senate,,DEM,Write-ins,1
+Fremont,01-3,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-3,U.S. Senate,,DEM,Under Votes,6
+Fremont,01-3,U.S. House,,REP,Harriet Hageman,132
+Fremont,01-3,U.S. House,,REP,Steven R. Helling,88
+Fremont,01-3,U.S. House,,REP,Write-ins,32
+Fremont,01-3,U.S. House,,REP,Over Votes,1
+Fremont,01-3,U.S. House,,REP,Under Votes,21
+Fremont,01-3,U.S. House,,DEM,Kyle G. Cameron,42
+Fremont,01-3,U.S. House,,DEM,Write-ins,1
+Fremont,01-3,U.S. House,,DEM,Over Votes,0
+Fremont,01-3,U.S. House,,DEM,Under Votes,7
+Fremont,01-3,State House,54,REP,Lloyd Charles Larsen,168
+Fremont,01-3,State House,54,REP,Tina Clifford,103
+Fremont,01-3,State House,54,REP,Write-ins,1
+Fremont,01-3,State House,54,REP,Over Votes,0
+Fremont,01-3,State House,54,REP,Under Votes,2
+Fremont,01-3,State House,54,DEM,Write-ins,2
+Fremont,01-3,Ballots Cast,,REP,Ballots Cast,274
+Fremont,01-3,Ballots Cast,,DEM,Ballots Cast,50
+Fremont,01-3,Ballots Cast,,NP,Ballots Cast,13
+Fremont,01-3,Ballots Cast,,,Ballots Cast,337
+Fremont,01-4,U.S. Senate,,REP,John Barrasso,144
+Fremont,01-4,U.S. Senate,,REP,John Holtz,24
+Fremont,01-4,U.S. Senate,,REP,Reid Rasner,27
+Fremont,01-4,U.S. Senate,,REP,Write-ins,2
+Fremont,01-4,U.S. Senate,,REP,Over Votes,0
+Fremont,01-4,U.S. Senate,,REP,Under Votes,20
+Fremont,01-4,U.S. Senate,,DEM,Scott D Morrow,40
+Fremont,01-4,U.S. Senate,,DEM,Write-ins,0
+Fremont,01-4,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-4,U.S. Senate,,DEM,Under Votes,1
+Fremont,01-4,U.S. House,,REP,Harriet Hageman,133
+Fremont,01-4,U.S. House,,REP,Steven R. Helling,52
+Fremont,01-4,U.S. House,,REP,Write-ins,8
+Fremont,01-4,U.S. House,,REP,Over Votes,0
+Fremont,01-4,U.S. House,,REP,Under Votes,24
+Fremont,01-4,U.S. House,,DEM,Kyle G. Cameron,39
+Fremont,01-4,U.S. House,,DEM,Write-ins,0
+Fremont,01-4,U.S. House,,DEM,Over Votes,0
+Fremont,01-4,U.S. House,,DEM,Under Votes,2
+Fremont,01-4,State House,54,REP,Lloyd Charles Larsen,118
+Fremont,01-4,State House,54,REP,Tina Clifford,97
+Fremont,01-4,State House,54,REP,Write-ins,0
+Fremont,01-4,State House,54,REP,Over Votes,0
+Fremont,01-4,State House,54,REP,Under Votes,2
+Fremont,01-4,State House,54,DEM,Write-ins,6
+Fremont,01-4,Ballots Cast,,REP,Ballots Cast,217
+Fremont,01-4,Ballots Cast,,DEM,Ballots Cast,41
+Fremont,01-4,Ballots Cast,,NP,Ballots Cast,7
+Fremont,01-4,Ballots Cast,,,Ballots Cast,265
+Fremont,01-5,U.S. Senate,,REP,John Barrasso,277
+Fremont,01-5,U.S. Senate,,REP,John Holtz,41
+Fremont,01-5,U.S. Senate,,REP,Reid Rasner,49
+Fremont,01-5,U.S. Senate,,REP,Write-ins,11
+Fremont,01-5,U.S. Senate,,REP,Over Votes,0
+Fremont,01-5,U.S. Senate,,REP,Under Votes,26
+Fremont,01-5,U.S. Senate,,DEM,Scott D Morrow,49
+Fremont,01-5,U.S. Senate,,DEM,Write-ins,1
+Fremont,01-5,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-5,U.S. Senate,,DEM,Under Votes,9
+Fremont,01-5,U.S. House,,REP,Harriet Hageman,231
+Fremont,01-5,U.S. House,,REP,Steven R. Helling,115
+Fremont,01-5,U.S. House,,REP,Write-ins,16
+Fremont,01-5,U.S. House,,REP,Over Votes,0
+Fremont,01-5,U.S. House,,REP,Under Votes,42
+Fremont,01-5,U.S. House,,DEM,Kyle G. Cameron,47
+Fremont,01-5,U.S. House,,DEM,Write-ins,1
+Fremont,01-5,U.S. House,,DEM,Over Votes,0
+Fremont,01-5,U.S. House,,DEM,Under Votes,11
+Fremont,01-5,State House,54,REP,Lloyd Charles Larsen,238
+Fremont,01-5,State House,54,REP,Tina Clifford,161
+Fremont,01-5,State House,54,REP,Write-ins,3
+Fremont,01-5,State House,54,REP,Over Votes,0
+Fremont,01-5,State House,54,REP,Under Votes,2
+Fremont,01-5,State House,54,DEM,Write-ins,4
+Fremont,01-5,Ballots Cast,,REP,Ballots Cast,404
+Fremont,01-5,Ballots Cast,,DEM,Ballots Cast,59
+Fremont,01-5,Ballots Cast,,NP,Ballots Cast,19
+Fremont,01-5,Ballots Cast,,,Ballots Cast,482
+Fremont,01-6,U.S. Senate,,REP,John Barrasso,194
+Fremont,01-6,U.S. Senate,,REP,John Holtz,24
+Fremont,01-6,U.S. Senate,,REP,Reid Rasner,46
+Fremont,01-6,U.S. Senate,,REP,Write-ins,17
+Fremont,01-6,U.S. Senate,,REP,Over Votes,0
+Fremont,01-6,U.S. Senate,,REP,Under Votes,18
+Fremont,01-6,U.S. Senate,,DEM,Scott D Morrow,63
+Fremont,01-6,U.S. Senate,,DEM,Write-ins,1
+Fremont,01-6,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-6,U.S. Senate,,DEM,Under Votes,3
+Fremont,01-6,U.S. House,,REP,Harriet Hageman,170
+Fremont,01-6,U.S. House,,REP,Steven R. Helling,82
+Fremont,01-6,U.S. House,,REP,Write-ins,22
+Fremont,01-6,U.S. House,,REP,Over Votes,0
+Fremont,01-6,U.S. House,,REP,Under Votes,25
+Fremont,01-6,U.S. House,,DEM,Kyle G. Cameron,61
+Fremont,01-6,U.S. House,,DEM,Write-ins,1
+Fremont,01-6,U.S. House,,DEM,Over Votes,0
+Fremont,01-6,U.S. House,,DEM,Under Votes,5
+Fremont,01-6,State House,54,REP,Lloyd Charles Larsen,166
+Fremont,01-6,State House,54,REP,Tina Clifford,131
+Fremont,01-6,State House,54,REP,Write-ins,0
+Fremont,01-6,State House,54,REP,Over Votes,1
+Fremont,01-6,State House,54,REP,Under Votes,1
+Fremont,01-6,State House,54,DEM,Write-ins,8
+Fremont,01-6,Ballots Cast,,REP,Ballots Cast,299
+Fremont,01-6,Ballots Cast,,DEM,Ballots Cast,67
+Fremont,01-6,Ballots Cast,,NP,Ballots Cast,10
+Fremont,01-6,Ballots Cast,,,Ballots Cast,376
+Fremont,02-1,U.S. Senate,,REP,John Barrasso,102
+Fremont,02-1,U.S. Senate,,REP,John Holtz,6
+Fremont,02-1,U.S. Senate,,REP,Reid Rasner,30
+Fremont,02-1,U.S. Senate,,REP,Write-ins,3
+Fremont,02-1,U.S. Senate,,REP,Over Votes,0
+Fremont,02-1,U.S. Senate,,REP,Under Votes,2
+Fremont,02-1,U.S. Senate,,DEM,Scott D Morrow,13
+Fremont,02-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,02-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,02-1,U.S. Senate,,DEM,Under Votes,1
+Fremont,02-1,U.S. House,,REP,Harriet Hageman,112
+Fremont,02-1,U.S. House,,REP,Steven R. Helling,21
+Fremont,02-1,U.S. House,,REP,Write-ins,5
+Fremont,02-1,U.S. House,,REP,Over Votes,0
+Fremont,02-1,U.S. House,,REP,Under Votes,5
+Fremont,02-1,U.S. House,,DEM,Kyle G. Cameron,12
+Fremont,02-1,U.S. House,,DEM,Write-ins,0
+Fremont,02-1,U.S. House,,DEM,Over Votes,0
+Fremont,02-1,U.S. House,,DEM,Under Votes,2
+Fremont,02-1,State House,33,REP,Sarah Penn,121
+Fremont,02-1,State House,33,REP,Write-ins,2
+Fremont,02-1,State House,33,REP,Over Votes,0
+Fremont,02-1,State House,33,REP,Under Votes,20
+Fremont,02-1,State House,33,DEM,Ivan D. Posey,12
+Fremont,02-1,State House,33,DEM,Write-ins,1
+Fremont,02-1,State House,33,DEM,Over Votes,0
+Fremont,02-1,State House,33,DEM,Under Votes,1
+Fremont,02-1,Ballots Cast,,REP,Ballots Cast,143
+Fremont,02-1,Ballots Cast,,DEM,Ballots Cast,14
+Fremont,02-1,Ballots Cast,,NP,Ballots Cast,6
+Fremont,02-1,Ballots Cast,,,Ballots Cast,163
+Fremont,03-1,U.S. Senate,,REP,John Barrasso,145
+Fremont,03-1,U.S. Senate,,REP,John Holtz,17
+Fremont,03-1,U.S. Senate,,REP,Reid Rasner,71
+Fremont,03-1,U.S. Senate,,REP,Write-ins,3
+Fremont,03-1,U.S. Senate,,REP,Over Votes,0
+Fremont,03-1,U.S. Senate,,REP,Under Votes,6
+Fremont,03-1,U.S. Senate,,DEM,Scott D Morrow,11
+Fremont,03-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-1,U.S. Senate,,DEM,Under Votes,2
+Fremont,03-1,U.S. House,,REP,Harriet Hageman,195
+Fremont,03-1,U.S. House,,REP,Steven R. Helling,37
+Fremont,03-1,U.S. House,,REP,Write-ins,2
+Fremont,03-1,U.S. House,,REP,Over Votes,0
+Fremont,03-1,U.S. House,,REP,Under Votes,8
+Fremont,03-1,U.S. House,,DEM,Kyle G. Cameron,10
+Fremont,03-1,U.S. House,,DEM,Write-ins,0
+Fremont,03-1,U.S. House,,DEM,Over Votes,0
+Fremont,03-1,U.S. House,,DEM,Under Votes,3
+Fremont,03-1,State Senate,26,REP,Elizabeth Philp,78
+Fremont,03-1,State Senate,26,REP,Tim Salazar,156
+Fremont,03-1,State Senate,26,REP,Write-ins,0
+Fremont,03-1,State Senate,26,REP,Over Votes,0
+Fremont,03-1,State Senate,26,REP,Under Votes,8
+Fremont,03-1,State Senate,26,DEM,Write-ins,2
+Fremont,03-1,State House,55,REP,Ember Oakley,87
+Fremont,03-1,State House,55,REP,Joel Guggenmos,150
+Fremont,03-1,State House,55,REP,Write-ins,0
+Fremont,03-1,State House,55,REP,Over Votes,0
+Fremont,03-1,State House,55,REP,Under Votes,5
+Fremont,03-1,State House,55,DEM,Write-ins,1
+Fremont,03-1,Ballots Cast,,REP,Ballots Cast,242
+Fremont,03-1,Ballots Cast,,DEM,Ballots Cast,13
+Fremont,03-1,Ballots Cast,,NP,Ballots Cast,6
+Fremont,03-1,Ballots Cast,,,Ballots Cast,261
+Fremont,03-2,U.S. Senate,,REP,John Barrasso,130
+Fremont,03-2,U.S. Senate,,REP,John Holtz,14
+Fremont,03-2,U.S. Senate,,REP,Reid Rasner,48
+Fremont,03-2,U.S. Senate,,REP,Write-ins,3
+Fremont,03-2,U.S. Senate,,REP,Over Votes,0
+Fremont,03-2,U.S. Senate,,REP,Under Votes,2
+Fremont,03-2,U.S. Senate,,DEM,Scott D Morrow,11
+Fremont,03-2,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-2,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-2,U.S. Senate,,DEM,Under Votes,0
+Fremont,03-2,U.S. House,,REP,Harriet Hageman,165
+Fremont,03-2,U.S. House,,REP,Steven R. Helling,29
+Fremont,03-2,U.S. House,,REP,Write-ins,2
+Fremont,03-2,U.S. House,,REP,Over Votes,0
+Fremont,03-2,U.S. House,,REP,Under Votes,1
+Fremont,03-2,U.S. House,,DEM,Kyle G. Cameron,11
+Fremont,03-2,U.S. House,,DEM,Write-ins,0
+Fremont,03-2,U.S. House,,DEM,Over Votes,0
+Fremont,03-2,U.S. House,,DEM,Under Votes,0
+Fremont,03-2,State Senate,26,REP,Elizabeth Philp,67
+Fremont,03-2,State Senate,26,REP,Tim Salazar,120
+Fremont,03-2,State Senate,26,REP,Write-ins,0
+Fremont,03-2,State Senate,26,REP,Over Votes,0
+Fremont,03-2,State Senate,26,REP,Under Votes,3
+Fremont,03-2,State Senate,26,DEM,Write-ins,0
+Fremont,03-2,State House,33,REP,Sarah Penn,7
+Fremont,03-2,State House,33,REP,Write-ins,0
+Fremont,03-2,State House,33,REP,Over Votes,0
+Fremont,03-2,State House,33,REP,Under Votes,0
+Fremont,03-2,State House,33,DEM,Ivan D. Posey,0
+Fremont,03-2,State House,33,DEM,Write-ins,0
+Fremont,03-2,State House,33,DEM,Over Votes,0
+Fremont,03-2,State House,33,DEM,Under Votes,0
+Fremont,03-2,State House,34,REP,Pepper L. Ottman,57
+Fremont,03-2,State House,34,REP,Reg Phillips,36
+Fremont,03-2,State House,34,REP,Write-ins,0
+Fremont,03-2,State House,34,REP,Over Votes,0
+Fremont,03-2,State House,34,REP,Under Votes,4
+Fremont,03-2,State House,34,DEM,Write-ins,0
+Fremont,03-2,State House,55,REP,Ember Oakley,31
+Fremont,03-2,State House,55,REP,Joel Guggenmos,62
+Fremont,03-2,State House,55,REP,Write-ins,0
+Fremont,03-2,State House,55,REP,Over Votes,0
+Fremont,03-2,State House,55,REP,Under Votes,0
+Fremont,03-2,State House,55,DEM,Write-ins,0
+Fremont,03-2,Ballots Cast,,REP,Ballots Cast,197
+Fremont,03-2,Ballots Cast,,DEM,Ballots Cast,11
+Fremont,03-2,Ballots Cast,,NP,Ballots Cast,10
+Fremont,03-2,Ballots Cast,,,Ballots Cast,218
+Fremont,03-3,U.S. Senate,,REP,John Barrasso,230
+Fremont,03-3,U.S. Senate,,REP,John Holtz,21
+Fremont,03-3,U.S. Senate,,REP,Reid Rasner,97
+Fremont,03-3,U.S. Senate,,REP,Write-ins,1
+Fremont,03-3,U.S. Senate,,REP,Over Votes,0
+Fremont,03-3,U.S. Senate,,REP,Under Votes,5
+Fremont,03-3,U.S. Senate,,DEM,Scott D Morrow,32
+Fremont,03-3,U.S. Senate,,DEM,Write-ins,1
+Fremont,03-3,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-3,U.S. Senate,,DEM,Under Votes,2
+Fremont,03-3,U.S. House,,REP,Harriet Hageman,286
+Fremont,03-3,U.S. House,,REP,Steven R. Helling,55
+Fremont,03-3,U.S. House,,REP,Write-ins,4
+Fremont,03-3,U.S. House,,REP,Over Votes,0
+Fremont,03-3,U.S. House,,REP,Under Votes,9
+Fremont,03-3,U.S. House,,DEM,Kyle G. Cameron,30
+Fremont,03-3,U.S. House,,DEM,Write-ins,1
+Fremont,03-3,U.S. House,,DEM,Over Votes,0
+Fremont,03-3,U.S. House,,DEM,Under Votes,4
+Fremont,03-3,State Senate,26,REP,Elizabeth Philp,140
+Fremont,03-3,State Senate,26,REP,Tim Salazar,205
+Fremont,03-3,State Senate,26,REP,Write-ins,0
+Fremont,03-3,State Senate,26,REP,Over Votes,0
+Fremont,03-3,State Senate,26,REP,Under Votes,9
+Fremont,03-3,State Senate,26,DEM,Write-ins,4
+Fremont,03-3,State House,55,REP,Ember Oakley,149
+Fremont,03-3,State House,55,REP,Joel Guggenmos,200
+Fremont,03-3,State House,55,REP,Write-ins,1
+Fremont,03-3,State House,55,REP,Over Votes,0
+Fremont,03-3,State House,55,REP,Under Votes,4
+Fremont,03-3,State House,55,DEM,Write-ins,3
+Fremont,03-3,Ballots Cast,,REP,Ballots Cast,354
+Fremont,03-3,Ballots Cast,,DEM,Ballots Cast,35
+Fremont,03-3,Ballots Cast,,NP,Ballots Cast,16
+Fremont,03-3,Ballots Cast,,,Ballots Cast,405
+Fremont,03-4,U.S. Senate,,REP,John Barrasso,177
+Fremont,03-4,U.S. Senate,,REP,John Holtz,21
+Fremont,03-4,U.S. Senate,,REP,Reid Rasner,69
+Fremont,03-4,U.S. Senate,,REP,Write-ins,3
+Fremont,03-4,U.S. Senate,,REP,Over Votes,0
+Fremont,03-4,U.S. Senate,,REP,Under Votes,8
+Fremont,03-4,U.S. Senate,,DEM,Scott D Morrow,32
+Fremont,03-4,U.S. Senate,,DEM,Write-ins,1
+Fremont,03-4,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-4,U.S. Senate,,DEM,Under Votes,1
+Fremont,03-4,U.S. House,,REP,Harriet Hageman,216
+Fremont,03-4,U.S. House,,REP,Steven R. Helling,50
+Fremont,03-4,U.S. House,,REP,Write-ins,2
+Fremont,03-4,U.S. House,,REP,Over Votes,0
+Fremont,03-4,U.S. House,,REP,Under Votes,10
+Fremont,03-4,U.S. House,,DEM,Kyle G. Cameron,31
+Fremont,03-4,U.S. House,,DEM,Write-ins,0
+Fremont,03-4,U.S. House,,DEM,Over Votes,0
+Fremont,03-4,U.S. House,,DEM,Under Votes,3
+Fremont,03-4,State Senate,26,REP,Elizabeth Philp,106
+Fremont,03-4,State Senate,26,REP,Tim Salazar,158
+Fremont,03-4,State Senate,26,REP,Write-ins,1
+Fremont,03-4,State Senate,26,REP,Over Votes,0
+Fremont,03-4,State Senate,26,REP,Under Votes,13
+Fremont,03-4,State Senate,26,DEM,Write-ins,1
+Fremont,03-4,State House,55,REP,Ember Oakley,102
+Fremont,03-4,State House,55,REP,Joel Guggenmos,165
+Fremont,03-4,State House,55,REP,Write-ins,1
+Fremont,03-4,State House,55,REP,Over Votes,1
+Fremont,03-4,State House,55,REP,Under Votes,9
+Fremont,03-4,State House,55,DEM,Write-ins,1
+Fremont,03-4,Ballots Cast,,REP,Ballots Cast,278
+Fremont,03-4,Ballots Cast,,DEM,Ballots Cast,34
+Fremont,03-4,Ballots Cast,,NP,Ballots Cast,6
+Fremont,03-4,Ballots Cast,,,Ballots Cast,318
+Fremont,03-5,U.S. Senate,,REP,John Barrasso,260
+Fremont,03-5,U.S. Senate,,REP,John Holtz,38
+Fremont,03-5,U.S. Senate,,REP,Reid Rasner,84
+Fremont,03-5,U.S. Senate,,REP,Write-ins,8
+Fremont,03-5,U.S. Senate,,REP,Over Votes,0
+Fremont,03-5,U.S. Senate,,REP,Under Votes,12
+Fremont,03-5,U.S. Senate,,DEM,Scott D Morrow,34
+Fremont,03-5,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-5,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-5,U.S. Senate,,DEM,Under Votes,3
+Fremont,03-5,U.S. House,,REP,Harriet Hageman,299
+Fremont,03-5,U.S. House,,REP,Steven R. Helling,85
+Fremont,03-5,U.S. House,,REP,Write-ins,6
+Fremont,03-5,U.S. House,,REP,Over Votes,1
+Fremont,03-5,U.S. House,,REP,Under Votes,11
+Fremont,03-5,U.S. House,,DEM,Kyle G. Cameron,33
+Fremont,03-5,U.S. House,,DEM,Write-ins,0
+Fremont,03-5,U.S. House,,DEM,Over Votes,0
+Fremont,03-5,U.S. House,,DEM,Under Votes,4
+Fremont,03-5,State Senate,26,REP,Elizabeth Philp,151
+Fremont,03-5,State Senate,26,REP,Tim Salazar,226
+Fremont,03-5,State Senate,26,REP,Write-ins,1
+Fremont,03-5,State Senate,26,REP,Over Votes,1
+Fremont,03-5,State Senate,26,REP,Under Votes,9
+Fremont,03-5,State Senate,26,DEM,Write-ins,3
+Fremont,03-5,State House,33,REP,Sarah Penn,14
+Fremont,03-5,State House,33,REP,Write-ins,0
+Fremont,03-5,State House,33,REP,Over Votes,0
+Fremont,03-5,State House,33,REP,Under Votes,0
+Fremont,03-5,State House,33,DEM,Ivan D. Posey,4
+Fremont,03-5,State House,33,DEM,Write-ins,0
+Fremont,03-5,State House,33,DEM,Over Votes,0
+Fremont,03-5,State House,33,DEM,Under Votes,0
+Fremont,03-5,State House,34,REP,Pepper L. Ottman,45
+Fremont,03-5,State House,34,REP,Reg Phillips,11
+Fremont,03-5,State House,34,REP,Write-ins,0
+Fremont,03-5,State House,34,REP,Over Votes,0
+Fremont,03-5,State House,34,REP,Under Votes,2
+Fremont,03-5,State House,34,DEM,Write-ins,1
+Fremont,03-5,State House,55,REP,Ember Oakley,171
+Fremont,03-5,State House,55,REP,Joel Guggenmos,149
+Fremont,03-5,State House,55,REP,Write-ins,2
+Fremont,03-5,State House,55,REP,Over Votes,0
+Fremont,03-5,State House,55,REP,Under Votes,8
+Fremont,03-5,State House,55,DEM,Write-ins,3
+Fremont,03-5,Ballots Cast,,REP,Ballots Cast,402
+Fremont,03-5,Ballots Cast,,DEM,Ballots Cast,37
+Fremont,03-5,Ballots Cast,,NP,Ballots Cast,11
+Fremont,03-5,Ballots Cast,,,Ballots Cast,450
+Fremont,03-6,U.S. Senate,,REP,John Barrasso,315
+Fremont,03-6,U.S. Senate,,REP,John Holtz,34
+Fremont,03-6,U.S. Senate,,REP,Reid Rasner,82
+Fremont,03-6,U.S. Senate,,REP,Write-ins,2
+Fremont,03-6,U.S. Senate,,REP,Over Votes,0
+Fremont,03-6,U.S. Senate,,REP,Under Votes,21
+Fremont,03-6,U.S. Senate,,DEM,Scott D Morrow,17
+Fremont,03-6,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-6,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-6,U.S. Senate,,DEM,Under Votes,2
+Fremont,03-6,U.S. House,,REP,Harriet Hageman,342
+Fremont,03-6,U.S. House,,REP,Steven R. Helling,88
+Fremont,03-6,U.S. House,,REP,Write-ins,7
+Fremont,03-6,U.S. House,,REP,Over Votes,0
+Fremont,03-6,U.S. House,,REP,Under Votes,17
+Fremont,03-6,U.S. House,,DEM,Kyle G. Cameron,16
+Fremont,03-6,U.S. House,,DEM,Write-ins,0
+Fremont,03-6,U.S. House,,DEM,Over Votes,0
+Fremont,03-6,U.S. House,,DEM,Under Votes,3
+Fremont,03-6,State Senate,26,REP,Elizabeth Philp,200
+Fremont,03-6,State Senate,26,REP,Tim Salazar,234
+Fremont,03-6,State Senate,26,REP,Write-ins,1
+Fremont,03-6,State Senate,26,REP,Over Votes,2
+Fremont,03-6,State Senate,26,REP,Under Votes,17
+Fremont,03-6,State Senate,26,DEM,Write-ins,3
+Fremont,03-6,State House,55,REP,Ember Oakley,209
+Fremont,03-6,State House,55,REP,Joel Guggenmos,238
+Fremont,03-6,State House,55,REP,Write-ins,2
+Fremont,03-6,State House,55,REP,Over Votes,0
+Fremont,03-6,State House,55,REP,Under Votes,5
+Fremont,03-6,State House,55,DEM,Write-ins,1
+Fremont,03-6,Ballots Cast,,REP,Ballots Cast,454
+Fremont,03-6,Ballots Cast,,DEM,Ballots Cast,19
+Fremont,03-6,Ballots Cast,,NP,Ballots Cast,7
+Fremont,03-6,Ballots Cast,,,Ballots Cast,480
+Fremont,04-1,U.S. Senate,,REP,John Barrasso,34
+Fremont,04-1,U.S. Senate,,REP,John Holtz,9
+Fremont,04-1,U.S. Senate,,REP,Reid Rasner,20
+Fremont,04-1,U.S. Senate,,REP,Write-ins,1
+Fremont,04-1,U.S. Senate,,REP,Over Votes,0
+Fremont,04-1,U.S. Senate,,REP,Under Votes,1
+Fremont,04-1,U.S. Senate,,DEM,Scott D Morrow,67
+Fremont,04-1,U.S. Senate,,DEM,Write-ins,1
+Fremont,04-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,04-1,U.S. Senate,,DEM,Under Votes,11
+Fremont,04-1,U.S. House,,REP,Harriet Hageman,43
+Fremont,04-1,U.S. House,,REP,Steven R. Helling,21
+Fremont,04-1,U.S. House,,REP,Write-ins,0
+Fremont,04-1,U.S. House,,REP,Over Votes,0
+Fremont,04-1,U.S. House,,REP,Under Votes,1
+Fremont,04-1,U.S. House,,DEM,Kyle G. Cameron,64
+Fremont,04-1,U.S. House,,DEM,Write-ins,1
+Fremont,04-1,U.S. House,,DEM,Over Votes,0
+Fremont,04-1,U.S. House,,DEM,Under Votes,14
+Fremont,04-1,State House,33,REP,Sarah Penn,44
+Fremont,04-1,State House,33,REP,Write-ins,5
+Fremont,04-1,State House,33,REP,Over Votes,0
+Fremont,04-1,State House,33,REP,Under Votes,16
+Fremont,04-1,State House,33,DEM,Ivan D. Posey,76
+Fremont,04-1,State House,33,DEM,Write-ins,1
+Fremont,04-1,State House,33,DEM,Over Votes,0
+Fremont,04-1,State House,33,DEM,Under Votes,2
+Fremont,04-1,Ballots Cast,,REP,Ballots Cast,65
+Fremont,04-1,Ballots Cast,,DEM,Ballots Cast,79
+Fremont,04-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,04-1,Ballots Cast,,,Ballots Cast,144
+Fremont,05-1,U.S. Senate,,REP,John Barrasso,560
+Fremont,05-1,U.S. Senate,,REP,John Holtz,72
+Fremont,05-1,U.S. Senate,,REP,Reid Rasner,189
+Fremont,05-1,U.S. Senate,,REP,Write-ins,24
+Fremont,05-1,U.S. Senate,,REP,Over Votes,0
+Fremont,05-1,U.S. Senate,,REP,Under Votes,53
+Fremont,05-1,U.S. Senate,,DEM,Scott D Morrow,61
+Fremont,05-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,05-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,05-1,U.S. Senate,,DEM,Under Votes,5
+Fremont,05-1,U.S. House,,REP,Harriet Hageman,596
+Fremont,05-1,U.S. House,,REP,Steven R. Helling,201
+Fremont,05-1,U.S. House,,REP,Write-ins,47
+Fremont,05-1,U.S. House,,REP,Over Votes,0
+Fremont,05-1,U.S. House,,REP,Under Votes,54
+Fremont,05-1,U.S. House,,DEM,Kyle G. Cameron,60
+Fremont,05-1,U.S. House,,DEM,Write-ins,0
+Fremont,05-1,U.S. House,,DEM,Over Votes,1
+Fremont,05-1,U.S. House,,DEM,Under Votes,5
+Fremont,05-1,State Senate,26,REP,Elizabeth Philp,32
+Fremont,05-1,State Senate,26,REP,Tim Salazar,12
+Fremont,05-1,State Senate,26,REP,Write-ins,0
+Fremont,05-1,State Senate,26,REP,Over Votes,0
+Fremont,05-1,State Senate,26,REP,Under Votes,2
+Fremont,05-1,State Senate,26,DEM,Write-ins,0
+Fremont,05-1,State House,33,REP,Sarah Penn,6
+Fremont,05-1,State House,33,REP,Write-ins,0
+Fremont,05-1,State House,33,REP,Over Votes,0
+Fremont,05-1,State House,33,REP,Under Votes,1
+Fremont,05-1,State House,33,DEM,Ivan D. Posey,0
+Fremont,05-1,State House,33,DEM,Write-ins,0
+Fremont,05-1,State House,33,DEM,Over Votes,0
+Fremont,05-1,State House,33,DEM,Under Votes,0
+Fremont,05-1,State House,34,REP,Pepper L. Ottman,15
+Fremont,05-1,State House,34,REP,Reg Phillips,30
+Fremont,05-1,State House,34,REP,Write-ins,0
+Fremont,05-1,State House,34,REP,Over Votes,0
+Fremont,05-1,State House,34,REP,Under Votes,1
+Fremont,05-1,State House,34,DEM,Write-ins,0
+Fremont,05-1,State House,54,REP,Lloyd Charles Larsen,421
+Fremont,05-1,State House,54,REP,Tina Clifford,417
+Fremont,05-1,State House,54,REP,Write-ins,0
+Fremont,05-1,State House,54,REP,Over Votes,0
+Fremont,05-1,State House,54,REP,Under Votes,7
+Fremont,05-1,State House,54,DEM,Write-ins,7
+Fremont,05-1,Ballots Cast,,REP,Ballots Cast,898
+Fremont,05-1,Ballots Cast,,DEM,Ballots Cast,66
+Fremont,05-1,Ballots Cast,,NP,Ballots Cast,19
+Fremont,05-1,Ballots Cast,,,Ballots Cast,983
+Fremont,06-1,U.S. Senate,,REP,John Barrasso,155
+Fremont,06-1,U.S. Senate,,REP,John Holtz,20
+Fremont,06-1,U.S. Senate,,REP,Reid Rasner,48
+Fremont,06-1,U.S. Senate,,REP,Write-ins,5
+Fremont,06-1,U.S. Senate,,REP,Over Votes,0
+Fremont,06-1,U.S. Senate,,REP,Under Votes,8
+Fremont,06-1,U.S. Senate,,DEM,Scott D Morrow,17
+Fremont,06-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,06-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,06-1,U.S. Senate,,DEM,Under Votes,3
+Fremont,06-1,U.S. House,,REP,Harriet Hageman,169
+Fremont,06-1,U.S. House,,REP,Steven R. Helling,50
+Fremont,06-1,U.S. House,,REP,Write-ins,7
+Fremont,06-1,U.S. House,,REP,Over Votes,0
+Fremont,06-1,U.S. House,,REP,Under Votes,10
+Fremont,06-1,U.S. House,,DEM,Kyle G. Cameron,17
+Fremont,06-1,U.S. House,,DEM,Write-ins,0
+Fremont,06-1,U.S. House,,DEM,Over Votes,0
+Fremont,06-1,U.S. House,,DEM,Under Votes,3
+Fremont,06-1,State House,33,REP,Sarah Penn,140
+Fremont,06-1,State House,33,REP,Write-ins,10
+Fremont,06-1,State House,33,REP,Over Votes,0
+Fremont,06-1,State House,33,REP,Under Votes,40
+Fremont,06-1,State House,33,DEM,Ivan D. Posey,14
+Fremont,06-1,State House,33,DEM,Write-ins,0
+Fremont,06-1,State House,33,DEM,Over Votes,0
+Fremont,06-1,State House,33,DEM,Under Votes,1
+Fremont,06-1,State House,54,REP,Lloyd Charles Larsen,26
+Fremont,06-1,State House,54,REP,Tina Clifford,20
+Fremont,06-1,State House,54,REP,Write-ins,0
+Fremont,06-1,State House,54,REP,Over Votes,0
+Fremont,06-1,State House,54,REP,Under Votes,0
+Fremont,06-1,State House,54,DEM,Write-ins,0
+Fremont,06-1,Ballots Cast,,REP,Ballots Cast,236
+Fremont,06-1,Ballots Cast,,DEM,Ballots Cast,20
+Fremont,06-1,Ballots Cast,,NP,Ballots Cast,5
+Fremont,06-1,Ballots Cast,,,Ballots Cast,261
+Fremont,07-1,U.S. Senate,,REP,John Barrasso,337
+Fremont,07-1,U.S. Senate,,REP,John Holtz,38
+Fremont,07-1,U.S. Senate,,REP,Reid Rasner,171
+Fremont,07-1,U.S. Senate,,REP,Write-ins,10
+Fremont,07-1,U.S. Senate,,REP,Over Votes,1
+Fremont,07-1,U.S. Senate,,REP,Under Votes,23
+Fremont,07-1,U.S. Senate,,DEM,Scott D Morrow,33
+Fremont,07-1,U.S. Senate,,DEM,Write-ins,1
+Fremont,07-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,07-1,U.S. Senate,,DEM,Under Votes,6
+Fremont,07-1,U.S. House,,REP,Harriet Hageman,442
+Fremont,07-1,U.S. House,,REP,Steven R. Helling,108
+Fremont,07-1,U.S. House,,REP,Write-ins,6
+Fremont,07-1,U.S. House,,REP,Over Votes,1
+Fremont,07-1,U.S. House,,REP,Under Votes,23
+Fremont,07-1,U.S. House,,DEM,Kyle G. Cameron,34
+Fremont,07-1,U.S. House,,DEM,Write-ins,1
+Fremont,07-1,U.S. House,,DEM,Over Votes,0
+Fremont,07-1,U.S. House,,DEM,Under Votes,5
+Fremont,07-1,State Senate,26,REP,Elizabeth Philp,199
+Fremont,07-1,State Senate,26,REP,Tim Salazar,355
+Fremont,07-1,State Senate,26,REP,Write-ins,0
+Fremont,07-1,State Senate,26,REP,Over Votes,0
+Fremont,07-1,State Senate,26,REP,Under Votes,26
+Fremont,07-1,State Senate,26,DEM,Write-ins,3
+Fremont,07-1,State House,34,REP,Pepper L. Ottman,263
+Fremont,07-1,State House,34,REP,Reg Phillips,302
+Fremont,07-1,State House,34,REP,Write-ins,1
+Fremont,07-1,State House,34,REP,Over Votes,0
+Fremont,07-1,State House,34,REP,Under Votes,14
+Fremont,07-1,State House,34,DEM,Write-ins,3
+Fremont,07-1,Ballots Cast,,REP,Ballots Cast,580
+Fremont,07-1,Ballots Cast,,DEM,Ballots Cast,40
+Fremont,07-1,Ballots Cast,,NP,Ballots Cast,8
+Fremont,07-1,Ballots Cast,,,Ballots Cast,628
+Fremont,08-1,U.S. Senate,,REP,John Barrasso,60
+Fremont,08-1,U.S. Senate,,REP,John Holtz,6
+Fremont,08-1,U.S. Senate,,REP,Reid Rasner,19
+Fremont,08-1,U.S. Senate,,REP,Write-ins,2
+Fremont,08-1,U.S. Senate,,REP,Over Votes,0
+Fremont,08-1,U.S. Senate,,REP,Under Votes,0
+Fremont,08-1,U.S. Senate,,DEM,Scott D Morrow,24
+Fremont,08-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,08-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,08-1,U.S. Senate,,DEM,Under Votes,10
+Fremont,08-1,U.S. House,,REP,Harriet Hageman,68
+Fremont,08-1,U.S. House,,REP,Steven R. Helling,17
+Fremont,08-1,U.S. House,,REP,Write-ins,2
+Fremont,08-1,U.S. House,,REP,Over Votes,0
+Fremont,08-1,U.S. House,,REP,Under Votes,0
+Fremont,08-1,U.S. House,,DEM,Kyle G. Cameron,21
+Fremont,08-1,U.S. House,,DEM,Write-ins,0
+Fremont,08-1,U.S. House,,DEM,Over Votes,0
+Fremont,08-1,U.S. House,,DEM,Under Votes,13
+Fremont,08-1,State House,33,REP,Sarah Penn,75
+Fremont,08-1,State House,33,REP,Write-ins,5
+Fremont,08-1,State House,33,REP,Over Votes,0
+Fremont,08-1,State House,33,REP,Under Votes,7
+Fremont,08-1,State House,33,DEM,Ivan D. Posey,34
+Fremont,08-1,State House,33,DEM,Write-ins,0
+Fremont,08-1,State House,33,DEM,Over Votes,0
+Fremont,08-1,State House,33,DEM,Under Votes,0
+Fremont,08-1,Ballots Cast,,REP,Ballots Cast,87
+Fremont,08-1,Ballots Cast,,DEM,Ballots Cast,34
+Fremont,08-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,08-1,Ballots Cast,,,Ballots Cast,121
+Fremont,09-1,U.S. Senate,,REP,John Barrasso,144
+Fremont,09-1,U.S. Senate,,REP,John Holtz,8
+Fremont,09-1,U.S. Senate,,REP,Reid Rasner,67
+Fremont,09-1,U.S. Senate,,REP,Write-ins,0
+Fremont,09-1,U.S. Senate,,REP,Over Votes,0
+Fremont,09-1,U.S. Senate,,REP,Under Votes,2
+Fremont,09-1,U.S. Senate,,DEM,Scott D Morrow,1
+Fremont,09-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,09-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,09-1,U.S. Senate,,DEM,Under Votes,2
+Fremont,09-1,U.S. House,,REP,Harriet Hageman,203
+Fremont,09-1,U.S. House,,REP,Steven R. Helling,16
+Fremont,09-1,U.S. House,,REP,Write-ins,0
+Fremont,09-1,U.S. House,,REP,Over Votes,0
+Fremont,09-1,U.S. House,,REP,Under Votes,2
+Fremont,09-1,U.S. House,,DEM,Kyle G. Cameron,1
+Fremont,09-1,U.S. House,,DEM,Write-ins,0
+Fremont,09-1,U.S. House,,DEM,Over Votes,0
+Fremont,09-1,U.S. House,,DEM,Under Votes,2
+Fremont,09-1,State Senate,26,REP,Elizabeth Philp,109
+Fremont,09-1,State Senate,26,REP,Tim Salazar,110
+Fremont,09-1,State Senate,26,REP,Write-ins,0
+Fremont,09-1,State Senate,26,REP,Over Votes,0
+Fremont,09-1,State Senate,26,REP,Under Votes,2
+Fremont,09-1,State Senate,26,DEM,Write-ins,0
+Fremont,09-1,State House,34,REP,Pepper L. Ottman,120
+Fremont,09-1,State House,34,REP,Reg Phillips,99
+Fremont,09-1,State House,34,REP,Write-ins,0
+Fremont,09-1,State House,34,REP,Over Votes,0
+Fremont,09-1,State House,34,REP,Under Votes,2
+Fremont,09-1,State House,34,DEM,Write-ins,0
+Fremont,09-1,Ballots Cast,,REP,Ballots Cast,221
+Fremont,09-1,Ballots Cast,,DEM,Ballots Cast,3
+Fremont,09-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,09-1,Ballots Cast,,,Ballots Cast,224
+Fremont,10-1,U.S. Senate,,REP,John Barrasso,212
+Fremont,10-1,U.S. Senate,,REP,John Holtz,23
+Fremont,10-1,U.S. Senate,,REP,Reid Rasner,114
+Fremont,10-1,U.S. Senate,,REP,Write-ins,5
+Fremont,10-1,U.S. Senate,,REP,Over Votes,0
+Fremont,10-1,U.S. Senate,,REP,Under Votes,4
+Fremont,10-1,U.S. Senate,,DEM,Scott D Morrow,14
+Fremont,10-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,10-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,10-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,10-1,U.S. House,,REP,Harriet Hageman,319
+Fremont,10-1,U.S. House,,REP,Steven R. Helling,32
+Fremont,10-1,U.S. House,,REP,Write-ins,2
+Fremont,10-1,U.S. House,,REP,Over Votes,1
+Fremont,10-1,U.S. House,,REP,Under Votes,4
+Fremont,10-1,U.S. House,,DEM,Kyle G. Cameron,14
+Fremont,10-1,U.S. House,,DEM,Write-ins,0
+Fremont,10-1,U.S. House,,DEM,Over Votes,0
+Fremont,10-1,U.S. House,,DEM,Under Votes,0
+Fremont,10-1,State Senate,26,REP,Elizabeth Philp,143
+Fremont,10-1,State Senate,26,REP,Tim Salazar,206
+Fremont,10-1,State Senate,26,REP,Write-ins,0
+Fremont,10-1,State Senate,26,REP,Over Votes,1
+Fremont,10-1,State Senate,26,REP,Under Votes,8
+Fremont,10-1,State Senate,26,DEM,Write-ins,3
+Fremont,10-1,State House,34,REP,Pepper L. Ottman,223
+Fremont,10-1,State House,34,REP,Reg Phillips,115
+Fremont,10-1,State House,34,REP,Write-ins,0
+Fremont,10-1,State House,34,REP,Over Votes,2
+Fremont,10-1,State House,34,REP,Under Votes,18
+Fremont,10-1,State House,34,DEM,Write-ins,0
+Fremont,10-1,Ballots Cast,,REP,Ballots Cast,358
+Fremont,10-1,Ballots Cast,,DEM,Ballots Cast,14
+Fremont,10-1,Ballots Cast,,NP,Ballots Cast,9
+Fremont,10-1,Ballots Cast,,,Ballots Cast,381
+Fremont,12-1,U.S. Senate,,REP,John Barrasso,36
+Fremont,12-1,U.S. Senate,,REP,John Holtz,1
+Fremont,12-1,U.S. Senate,,REP,Reid Rasner,5
+Fremont,12-1,U.S. Senate,,REP,Write-ins,0
+Fremont,12-1,U.S. Senate,,REP,Over Votes,0
+Fremont,12-1,U.S. Senate,,REP,Under Votes,2
+Fremont,12-1,U.S. Senate,,DEM,Scott D Morrow,1
+Fremont,12-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,12-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,12-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,12-1,U.S. House,,REP,Harriet Hageman,42
+Fremont,12-1,U.S. House,,REP,Steven R. Helling,2
+Fremont,12-1,U.S. House,,REP,Write-ins,0
+Fremont,12-1,U.S. House,,REP,Over Votes,0
+Fremont,12-1,U.S. House,,REP,Under Votes,0
+Fremont,12-1,U.S. House,,DEM,Kyle G. Cameron,1
+Fremont,12-1,U.S. House,,DEM,Write-ins,0
+Fremont,12-1,U.S. House,,DEM,Over Votes,0
+Fremont,12-1,U.S. House,,DEM,Under Votes,0
+Fremont,12-1,State Senate,26,REP,Elizabeth Philp,10
+Fremont,12-1,State Senate,26,REP,Tim Salazar,34
+Fremont,12-1,State Senate,26,REP,Write-ins,0
+Fremont,12-1,State Senate,26,REP,Over Votes,0
+Fremont,12-1,State Senate,26,REP,Under Votes,0
+Fremont,12-1,State Senate,26,DEM,Write-ins,0
+Fremont,12-1,State House,34,REP,Pepper L. Ottman,35
+Fremont,12-1,State House,34,REP,Reg Phillips,9
+Fremont,12-1,State House,34,REP,Write-ins,0
+Fremont,12-1,State House,34,REP,Over Votes,0
+Fremont,12-1,State House,34,REP,Under Votes,0
+Fremont,12-1,State House,34,DEM,Write-ins,0
+Fremont,12-1,Ballots Cast,,REP,Ballots Cast,44
+Fremont,12-1,Ballots Cast,,DEM,Ballots Cast,1
+Fremont,12-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,12-1,Ballots Cast,,,Ballots Cast,45
+Fremont,13-1,U.S. Senate,,REP,John Barrasso,49
+Fremont,13-1,U.S. Senate,,REP,John Holtz,8
+Fremont,13-1,U.S. Senate,,REP,Reid Rasner,24
+Fremont,13-1,U.S. Senate,,REP,Write-ins,0
+Fremont,13-1,U.S. Senate,,REP,Over Votes,0
+Fremont,13-1,U.S. Senate,,REP,Under Votes,3
+Fremont,13-1,U.S. Senate,,DEM,Scott D Morrow,60
+Fremont,13-1,U.S. Senate,,DEM,Write-ins,2
+Fremont,13-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,13-1,U.S. Senate,,DEM,Under Votes,10
+Fremont,13-1,U.S. House,,REP,Harriet Hageman,60
+Fremont,13-1,U.S. House,,REP,Steven R. Helling,19
+Fremont,13-1,U.S. House,,REP,Write-ins,1
+Fremont,13-1,U.S. House,,REP,Over Votes,0
+Fremont,13-1,U.S. House,,REP,Under Votes,4
+Fremont,13-1,U.S. House,,DEM,Kyle G. Cameron,61
+Fremont,13-1,U.S. House,,DEM,Write-ins,1
+Fremont,13-1,U.S. House,,DEM,Over Votes,0
+Fremont,13-1,U.S. House,,DEM,Under Votes,10
+Fremont,13-1,State House,33,REP,Sarah Penn,59
+Fremont,13-1,State House,33,REP,Write-ins,9
+Fremont,13-1,State House,33,REP,Over Votes,0
+Fremont,13-1,State House,33,REP,Under Votes,16
+Fremont,13-1,State House,33,DEM,Ivan D. Posey,71
+Fremont,13-1,State House,33,DEM,Write-ins,0
+Fremont,13-1,State House,33,DEM,Over Votes,0
+Fremont,13-1,State House,33,DEM,Under Votes,1
+Fremont,13-1,Ballots Cast,,REP,Ballots Cast,84
+Fremont,13-1,Ballots Cast,,DEM,Ballots Cast,72
+Fremont,13-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,13-1,Ballots Cast,,,Ballots Cast,156
+Fremont,14-1,U.S. Senate,,REP,John Barrasso,238
+Fremont,14-1,U.S. Senate,,REP,John Holtz,13
+Fremont,14-1,U.S. Senate,,REP,Reid Rasner,137
+Fremont,14-1,U.S. Senate,,REP,Write-ins,3
+Fremont,14-1,U.S. Senate,,REP,Over Votes,1
+Fremont,14-1,U.S. Senate,,REP,Under Votes,4
+Fremont,14-1,U.S. Senate,,DEM,Scott D Morrow,20
+Fremont,14-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,14-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,14-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,14-1,U.S. House,,REP,Harriet Hageman,340
+Fremont,14-1,U.S. House,,REP,Steven R. Helling,46
+Fremont,14-1,U.S. House,,REP,Write-ins,6
+Fremont,14-1,U.S. House,,REP,Over Votes,0
+Fremont,14-1,U.S. House,,REP,Under Votes,4
+Fremont,14-1,U.S. House,,DEM,Kyle G. Cameron,20
+Fremont,14-1,U.S. House,,DEM,Write-ins,0
+Fremont,14-1,U.S. House,,DEM,Over Votes,0
+Fremont,14-1,U.S. House,,DEM,Under Votes,0
+Fremont,14-1,State Senate,26,REP,Elizabeth Philp,151
+Fremont,14-1,State Senate,26,REP,Tim Salazar,237
+Fremont,14-1,State Senate,26,REP,Write-ins,1
+Fremont,14-1,State Senate,26,REP,Over Votes,0
+Fremont,14-1,State Senate,26,REP,Under Votes,7
+Fremont,14-1,State Senate,26,DEM,Write-ins,4
+Fremont,14-1,State House,34,REP,Pepper L. Ottman,282
+Fremont,14-1,State House,34,REP,Reg Phillips,109
+Fremont,14-1,State House,34,REP,Write-ins,0
+Fremont,14-1,State House,34,REP,Over Votes,1
+Fremont,14-1,State House,34,REP,Under Votes,4
+Fremont,14-1,State House,34,DEM,Write-ins,3
+Fremont,14-1,Ballots Cast,,REP,Ballots Cast,396
+Fremont,14-1,Ballots Cast,,DEM,Ballots Cast,20
+Fremont,14-1,Ballots Cast,,NP,Ballots Cast,3
+Fremont,14-1,Ballots Cast,,,Ballots Cast,419
+Fremont,16-1,U.S. Senate,,REP,John Barrasso,50
+Fremont,16-1,U.S. Senate,,REP,John Holtz,4
+Fremont,16-1,U.S. Senate,,REP,Reid Rasner,34
+Fremont,16-1,U.S. Senate,,REP,Write-ins,0
+Fremont,16-1,U.S. Senate,,REP,Over Votes,0
+Fremont,16-1,U.S. Senate,,REP,Under Votes,4
+Fremont,16-1,U.S. Senate,,DEM,Scott D Morrow,9
+Fremont,16-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,16-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,16-1,U.S. Senate,,DEM,Under Votes,1
+Fremont,16-1,U.S. House,,REP,Harriet Hageman,76
+Fremont,16-1,U.S. House,,REP,Steven R. Helling,11
+Fremont,16-1,U.S. House,,REP,Write-ins,2
+Fremont,16-1,U.S. House,,REP,Over Votes,0
+Fremont,16-1,U.S. House,,REP,Under Votes,3
+Fremont,16-1,U.S. House,,DEM,Kyle G. Cameron,9
+Fremont,16-1,U.S. House,,DEM,Write-ins,0
+Fremont,16-1,U.S. House,,DEM,Over Votes,0
+Fremont,16-1,U.S. House,,DEM,Under Votes,1
+Fremont,16-1,State Senate,26,REP,Elizabeth Philp,37
+Fremont,16-1,State Senate,26,REP,Tim Salazar,53
+Fremont,16-1,State Senate,26,REP,Write-ins,0
+Fremont,16-1,State Senate,26,REP,Over Votes,0
+Fremont,16-1,State Senate,26,REP,Under Votes,2
+Fremont,16-1,State Senate,26,DEM,Write-ins,0
+Fremont,16-1,State House,34,REP,Pepper L. Ottman,57
+Fremont,16-1,State House,34,REP,Reg Phillips,33
+Fremont,16-1,State House,34,REP,Write-ins,0
+Fremont,16-1,State House,34,REP,Over Votes,0
+Fremont,16-1,State House,34,REP,Under Votes,2
+Fremont,16-1,State House,34,DEM,Write-ins,0
+Fremont,16-1,Ballots Cast,,REP,Ballots Cast,92
+Fremont,16-1,Ballots Cast,,DEM,Ballots Cast,10
+Fremont,16-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,16-1,Ballots Cast,,,Ballots Cast,102
+Fremont,17-1,U.S. Senate,,REP,John Barrasso,95
+Fremont,17-1,U.S. Senate,,REP,John Holtz,4
+Fremont,17-1,U.S. Senate,,REP,Reid Rasner,27
+Fremont,17-1,U.S. Senate,,REP,Write-ins,3
+Fremont,17-1,U.S. Senate,,REP,Over Votes,0
+Fremont,17-1,U.S. Senate,,REP,Under Votes,2
+Fremont,17-1,U.S. Senate,,DEM,Scott D Morrow,19
+Fremont,17-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,17-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,17-1,U.S. Senate,,DEM,Under Votes,1
+Fremont,17-1,U.S. House,,REP,Harriet Hageman,112
+Fremont,17-1,U.S. House,,REP,Steven R. Helling,14
+Fremont,17-1,U.S. House,,REP,Write-ins,2
+Fremont,17-1,U.S. House,,REP,Over Votes,0
+Fremont,17-1,U.S. House,,REP,Under Votes,3
+Fremont,17-1,U.S. House,,DEM,Kyle G. Cameron,18
+Fremont,17-1,U.S. House,,DEM,Write-ins,0
+Fremont,17-1,U.S. House,,DEM,Over Votes,0
+Fremont,17-1,U.S. House,,DEM,Under Votes,2
+Fremont,17-1,State House,33,REP,Sarah Penn,115
+Fremont,17-1,State House,33,REP,Write-ins,2
+Fremont,17-1,State House,33,REP,Over Votes,0
+Fremont,17-1,State House,33,REP,Under Votes,14
+Fremont,17-1,State House,33,DEM,Ivan D. Posey,20
+Fremont,17-1,State House,33,DEM,Write-ins,0
+Fremont,17-1,State House,33,DEM,Over Votes,0
+Fremont,17-1,State House,33,DEM,Under Votes,0
+Fremont,17-1,Ballots Cast,,REP,Ballots Cast,131
+Fremont,17-1,Ballots Cast,,DEM,Ballots Cast,20
+Fremont,17-1,Ballots Cast,,NP,Ballots Cast,3
+Fremont,17-1,Ballots Cast,,,Ballots Cast,154
+Fremont,18-1,U.S. Senate,,REP,John Barrasso,317
+Fremont,18-1,U.S. Senate,,REP,John Holtz,26
+Fremont,18-1,U.S. Senate,,REP,Reid Rasner,158
+Fremont,18-1,U.S. Senate,,REP,Write-ins,2
+Fremont,18-1,U.S. Senate,,REP,Over Votes,0
+Fremont,18-1,U.S. Senate,,REP,Under Votes,8
+Fremont,18-1,U.S. Senate,,DEM,Scott D Morrow,10
+Fremont,18-1,U.S. Senate,,DEM,Write-ins,1
+Fremont,18-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,18-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,18-1,U.S. House,,REP,Harriet Hageman,434
+Fremont,18-1,U.S. House,,REP,Steven R. Helling,66
+Fremont,18-1,U.S. House,,REP,Write-ins,1
+Fremont,18-1,U.S. House,,REP,Over Votes,1
+Fremont,18-1,U.S. House,,REP,Under Votes,9
+Fremont,18-1,U.S. House,,DEM,Kyle G. Cameron,10
+Fremont,18-1,U.S. House,,DEM,Write-ins,1
+Fremont,18-1,U.S. House,,DEM,Over Votes,0
+Fremont,18-1,U.S. House,,DEM,Under Votes,0
+Fremont,18-1,State Senate,26,REP,Elizabeth Philp,164
+Fremont,18-1,State Senate,26,REP,Tim Salazar,336
+Fremont,18-1,State Senate,26,REP,Write-ins,2
+Fremont,18-1,State Senate,26,REP,Over Votes,1
+Fremont,18-1,State Senate,26,REP,Under Votes,8
+Fremont,18-1,State Senate,26,DEM,Write-ins,1
+Fremont,18-1,State House,34,REP,Pepper L. Ottman,330
+Fremont,18-1,State House,34,REP,Reg Phillips,157
+Fremont,18-1,State House,34,REP,Write-ins,2
+Fremont,18-1,State House,34,REP,Over Votes,2
+Fremont,18-1,State House,34,REP,Under Votes,20
+Fremont,18-1,State House,34,DEM,Write-ins,1
+Fremont,18-1,Ballots Cast,,REP,Ballots Cast,511
+Fremont,18-1,Ballots Cast,,DEM,Ballots Cast,11
+Fremont,18-1,Ballots Cast,,NP,Ballots Cast,6
+Fremont,18-1,Ballots Cast,,,Ballots Cast,528
+Fremont,18-2,U.S. Senate,,REP,John Barrasso,156
+Fremont,18-2,U.S. Senate,,REP,John Holtz,10
+Fremont,18-2,U.S. Senate,,REP,Reid Rasner,40
+Fremont,18-2,U.S. Senate,,REP,Write-ins,6
+Fremont,18-2,U.S. Senate,,REP,Over Votes,1
+Fremont,18-2,U.S. Senate,,REP,Under Votes,9
+Fremont,18-2,U.S. Senate,,DEM,Scott D Morrow,15
+Fremont,18-2,U.S. Senate,,DEM,Write-ins,0
+Fremont,18-2,U.S. Senate,,DEM,Over Votes,0
+Fremont,18-2,U.S. Senate,,DEM,Under Votes,2
+Fremont,18-2,U.S. House,,REP,Harriet Hageman,168
+Fremont,18-2,U.S. House,,REP,Steven R. Helling,37
+Fremont,18-2,U.S. House,,REP,Write-ins,6
+Fremont,18-2,U.S. House,,REP,Over Votes,1
+Fremont,18-2,U.S. House,,REP,Under Votes,10
+Fremont,18-2,U.S. House,,DEM,Kyle G. Cameron,15
+Fremont,18-2,U.S. House,,DEM,Write-ins,0
+Fremont,18-2,U.S. House,,DEM,Over Votes,0
+Fremont,18-2,U.S. House,,DEM,Under Votes,2
+Fremont,18-2,State Senate,26,REP,Elizabeth Philp,84
+Fremont,18-2,State Senate,26,REP,Tim Salazar,125
+Fremont,18-2,State Senate,26,REP,Write-ins,1
+Fremont,18-2,State Senate,26,REP,Over Votes,0
+Fremont,18-2,State Senate,26,REP,Under Votes,12
+Fremont,18-2,State Senate,26,DEM,Write-ins,1
+Fremont,18-2,State House,55,REP,Ember Oakley,106
+Fremont,18-2,State House,55,REP,Joel Guggenmos,107
+Fremont,18-2,State House,55,REP,Write-ins,2
+Fremont,18-2,State House,55,REP,Over Votes,1
+Fremont,18-2,State House,55,REP,Under Votes,6
+Fremont,18-2,State House,55,DEM,Write-ins,1
+Fremont,18-2,Ballots Cast,,REP,Ballots Cast,222
+Fremont,18-2,Ballots Cast,,DEM,Ballots Cast,17
+Fremont,18-2,Ballots Cast,,NP,Ballots Cast,4
+Fremont,18-2,Ballots Cast,,,Ballots Cast,243
+Fremont,19-1,U.S. Senate,,REP,John Barrasso,40
+Fremont,19-1,U.S. Senate,,REP,John Holtz,3
+Fremont,19-1,U.S. Senate,,REP,Reid Rasner,12
+Fremont,19-1,U.S. Senate,,REP,Write-ins,0
+Fremont,19-1,U.S. Senate,,REP,Over Votes,0
+Fremont,19-1,U.S. Senate,,REP,Under Votes,1
+Fremont,19-1,U.S. Senate,,DEM,Scott D Morrow,2
+Fremont,19-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,19-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,19-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,19-1,U.S. House,,REP,Harriet Hageman,48
+Fremont,19-1,U.S. House,,REP,Steven R. Helling,7
+Fremont,19-1,U.S. House,,REP,Write-ins,0
+Fremont,19-1,U.S. House,,REP,Over Votes,0
+Fremont,19-1,U.S. House,,REP,Under Votes,1
+Fremont,19-1,U.S. House,,DEM,Kyle G. Cameron,2
+Fremont,19-1,U.S. House,,DEM,Write-ins,0
+Fremont,19-1,U.S. House,,DEM,Over Votes,0
+Fremont,19-1,U.S. House,,DEM,Under Votes,0
+Fremont,19-1,State Senate,26,REP,Elizabeth Philp,17
+Fremont,19-1,State Senate,26,REP,Tim Salazar,17
+Fremont,19-1,State Senate,26,REP,Write-ins,0
+Fremont,19-1,State Senate,26,REP,Over Votes,0
+Fremont,19-1,State Senate,26,REP,Under Votes,1
+Fremont,19-1,State Senate,26,DEM,Write-ins,0
+Fremont,19-1,State House,33,REP,Sarah Penn,18
+Fremont,19-1,State House,33,REP,Write-ins,0
+Fremont,19-1,State House,33,REP,Over Votes,0
+Fremont,19-1,State House,33,REP,Under Votes,3
+Fremont,19-1,State House,33,DEM,Ivan D. Posey,2
+Fremont,19-1,State House,33,DEM,Write-ins,0
+Fremont,19-1,State House,33,DEM,Over Votes,0
+Fremont,19-1,State House,33,DEM,Under Votes,0
+Fremont,19-1,State House,34,REP,Pepper L. Ottman,15
+Fremont,19-1,State House,34,REP,Reg Phillips,19
+Fremont,19-1,State House,34,REP,Write-ins,0
+Fremont,19-1,State House,34,REP,Over Votes,0
+Fremont,19-1,State House,34,REP,Under Votes,1
+Fremont,19-1,State House,34,DEM,Write-ins,0
+Fremont,19-1,Ballots Cast,,REP,Ballots Cast,56
+Fremont,19-1,Ballots Cast,,DEM,Ballots Cast,2
+Fremont,19-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,19-1,Ballots Cast,,,Ballots Cast,58
+Fremont,20-1,U.S. Senate,,REP,John Barrasso,109
+Fremont,20-1,U.S. Senate,,REP,John Holtz,5
+Fremont,20-1,U.S. Senate,,REP,Reid Rasner,55
+Fremont,20-1,U.S. Senate,,REP,Write-ins,0
+Fremont,20-1,U.S. Senate,,REP,Over Votes,0
+Fremont,20-1,U.S. Senate,,REP,Under Votes,1
+Fremont,20-1,U.S. Senate,,DEM,Scott D Morrow,9
+Fremont,20-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,20-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,20-1,U.S. Senate,,DEM,Under Votes,2
+Fremont,20-1,U.S. House,,REP,Harriet Hageman,143
+Fremont,20-1,U.S. House,,REP,Steven R. Helling,25
+Fremont,20-1,U.S. House,,REP,Write-ins,0
+Fremont,20-1,U.S. House,,REP,Over Votes,0
+Fremont,20-1,U.S. House,,REP,Under Votes,2
+Fremont,20-1,U.S. House,,DEM,Kyle G. Cameron,10
+Fremont,20-1,U.S. House,,DEM,Write-ins,0
+Fremont,20-1,U.S. House,,DEM,Over Votes,0
+Fremont,20-1,U.S. House,,DEM,Under Votes,1
+Fremont,20-1,State Senate,20,REP,Ed Cooper,81
+Fremont,20-1,State Senate,20,REP,Tom Olmstead,80
+Fremont,20-1,State Senate,20,REP,Write-ins,1
+Fremont,20-1,State Senate,20,REP,Over Votes,0
+Fremont,20-1,State Senate,20,REP,Under Votes,8
+Fremont,20-1,State Senate,20,DEM,Write-ins,1
+Fremont,20-1,State House,28,REP,John R. Winter,104
+Fremont,20-1,State House,28,REP,Kevin Skates,56
+Fremont,20-1,State House,28,REP,Write-ins,1
+Fremont,20-1,State House,28,REP,Over Votes,0
+Fremont,20-1,State House,28,REP,Under Votes,9
+Fremont,20-1,State House,28,DEM,Write-ins,0
+Fremont,20-1,Ballots Cast,,REP,Ballots Cast,170
+Fremont,20-1,Ballots Cast,,DEM,Ballots Cast,11
+Fremont,20-1,Ballots Cast,,NP,Ballots Cast,5
+Fremont,20-1,Ballots Cast,,,Ballots Cast,186
+Fremont,21-1,U.S. Senate,,REP,John Barrasso,72
+Fremont,21-1,U.S. Senate,,REP,John Holtz,4
+Fremont,21-1,U.S. Senate,,REP,Reid Rasner,35
+Fremont,21-1,U.S. Senate,,REP,Write-ins,0
+Fremont,21-1,U.S. Senate,,REP,Over Votes,0
+Fremont,21-1,U.S. Senate,,REP,Under Votes,2
+Fremont,21-1,U.S. Senate,,DEM,Scott D Morrow,5
+Fremont,21-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,21-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,21-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,21-1,U.S. House,,REP,Harriet Hageman,94
+Fremont,21-1,U.S. House,,REP,Steven R. Helling,18
+Fremont,21-1,U.S. House,,REP,Write-ins,0
+Fremont,21-1,U.S. House,,REP,Over Votes,0
+Fremont,21-1,U.S. House,,REP,Under Votes,1
+Fremont,21-1,U.S. House,,DEM,Kyle G. Cameron,5
+Fremont,21-1,U.S. House,,DEM,Write-ins,0
+Fremont,21-1,U.S. House,,DEM,Over Votes,0
+Fremont,21-1,U.S. House,,DEM,Under Votes,0
+Fremont,21-1,State Senate,26,REP,Elizabeth Philp,38
+Fremont,21-1,State Senate,26,REP,Tim Salazar,42
+Fremont,21-1,State Senate,26,REP,Write-ins,0
+Fremont,21-1,State Senate,26,REP,Over Votes,0
+Fremont,21-1,State Senate,26,REP,Under Votes,1
+Fremont,21-1,State Senate,26,DEM,Write-ins,1
+Fremont,21-1,State House,33,REP,Sarah Penn,29
+Fremont,21-1,State House,33,REP,Write-ins,1
+Fremont,21-1,State House,33,REP,Over Votes,0
+Fremont,21-1,State House,33,REP,Under Votes,2
+Fremont,21-1,State House,33,DEM,Ivan D. Posey,2
+Fremont,21-1,State House,33,DEM,Write-ins,0
+Fremont,21-1,State House,33,DEM,Over Votes,0
+Fremont,21-1,State House,33,DEM,Under Votes,0
+Fremont,21-1,State House,34,REP,Pepper L. Ottman,32
+Fremont,21-1,State House,34,REP,Reg Phillips,46
+Fremont,21-1,State House,34,REP,Write-ins,0
+Fremont,21-1,State House,34,REP,Over Votes,0
+Fremont,21-1,State House,34,REP,Under Votes,3
+Fremont,21-1,State House,34,DEM,Write-ins,1
+Fremont,21-1,Ballots Cast,,REP,Ballots Cast,113
+Fremont,21-1,Ballots Cast,,DEM,Ballots Cast,5
+Fremont,21-1,Ballots Cast,,NP,Ballots Cast,1
+Fremont,21-1,Ballots Cast,,,Ballots Cast,119
+Fremont,22-1,U.S. Senate,,REP,John Barrasso,15
+Fremont,22-1,U.S. Senate,,REP,John Holtz,0
+Fremont,22-1,U.S. Senate,,REP,Reid Rasner,4
+Fremont,22-1,U.S. Senate,,REP,Write-ins,0
+Fremont,22-1,U.S. Senate,,REP,Over Votes,0
+Fremont,22-1,U.S. Senate,,REP,Under Votes,0
+Fremont,22-1,U.S. Senate,,DEM,Scott D Morrow,0
+Fremont,22-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,22-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,22-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,22-1,U.S. House,,REP,Harriet Hageman,18
+Fremont,22-1,U.S. House,,REP,Steven R. Helling,0
+Fremont,22-1,U.S. House,,REP,Write-ins,0
+Fremont,22-1,U.S. House,,REP,Over Votes,0
+Fremont,22-1,U.S. House,,REP,Under Votes,1
+Fremont,22-1,U.S. House,,DEM,Kyle G. Cameron,0
+Fremont,22-1,U.S. House,,DEM,Write-ins,0
+Fremont,22-1,U.S. House,,DEM,Over Votes,0
+Fremont,22-1,U.S. House,,DEM,Under Votes,0
+Fremont,22-1,State Senate,20,REP,Ed Cooper,16
+Fremont,22-1,State Senate,20,REP,Tom Olmstead,2
+Fremont,22-1,State Senate,20,REP,Write-ins,0
+Fremont,22-1,State Senate,20,REP,Over Votes,0
+Fremont,22-1,State Senate,20,REP,Under Votes,1
+Fremont,22-1,State Senate,20,DEM,Write-ins,0
+Fremont,22-1,State House,28,REP,John R. Winter,11
+Fremont,22-1,State House,28,REP,Kevin Skates,5
+Fremont,22-1,State House,28,REP,Write-ins,0
+Fremont,22-1,State House,28,REP,Over Votes,0
+Fremont,22-1,State House,28,REP,Under Votes,3
+Fremont,22-1,State House,28,DEM,Write-ins,0
+Fremont,22-1,Ballots Cast,,REP,Ballots Cast,19
+Fremont,22-1,Ballots Cast,,DEM,Ballots Cast,0
+Fremont,22-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,22-1,Ballots Cast,,,Ballots Cast,19
+Fremont,24-1,U.S. Senate,,REP,John Barrasso,24
+Fremont,24-1,U.S. Senate,,REP,John Holtz,7
+Fremont,24-1,U.S. Senate,,REP,Reid Rasner,15
+Fremont,24-1,U.S. Senate,,REP,Write-ins,3
+Fremont,24-1,U.S. Senate,,REP,Over Votes,0
+Fremont,24-1,U.S. Senate,,REP,Under Votes,1
+Fremont,24-1,U.S. Senate,,DEM,Scott D Morrow,4
+Fremont,24-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,24-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,24-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,24-1,U.S. House,,REP,Harriet Hageman,39
+Fremont,24-1,U.S. House,,REP,Steven R. Helling,8
+Fremont,24-1,U.S. House,,REP,Write-ins,1
+Fremont,24-1,U.S. House,,REP,Over Votes,0
+Fremont,24-1,U.S. House,,REP,Under Votes,2
+Fremont,24-1,U.S. House,,DEM,Kyle G. Cameron,4
+Fremont,24-1,U.S. House,,DEM,Write-ins,0
+Fremont,24-1,U.S. House,,DEM,Over Votes,0
+Fremont,24-1,U.S. House,,DEM,Under Votes,0
+Fremont,24-1,State House,33,REP,Sarah Penn,32
+Fremont,24-1,State House,33,REP,Write-ins,8
+Fremont,24-1,State House,33,REP,Over Votes,0
+Fremont,24-1,State House,33,REP,Under Votes,10
+Fremont,24-1,State House,33,DEM,Ivan D. Posey,4
+Fremont,24-1,State House,33,DEM,Write-ins,0
+Fremont,24-1,State House,33,DEM,Over Votes,0
+Fremont,24-1,State House,33,DEM,Under Votes,0
+Fremont,24-1,Ballots Cast,,REP,Ballots Cast,50
+Fremont,24-1,Ballots Cast,,DEM,Ballots Cast,4
+Fremont,24-1,Ballots Cast,,NP,Ballots Cast,2
+Fremont,24-1,Ballots Cast,,,Ballots Cast,56

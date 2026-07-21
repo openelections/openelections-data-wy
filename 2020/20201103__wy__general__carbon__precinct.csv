@@ -1,0 +1,638 @@
+county,precinct,office,district,party,candidate,votes
+Carbon,1-1,President,,REP,Donald J. Trump,300
+Carbon,1-1,President,,DEM,Joseph R. Biden,173
+Carbon,1-1,President,,LIB,Jo Jorgensen,6
+Carbon,1-1,President,,IND,Brock Pierce,3
+Carbon,1-1,President,,,Write-ins,4
+Carbon,1-1,President,,,Over Votes,4
+Carbon,1-1,President,,,Under Votes,0
+Carbon,1-1,U.S. Senate,,REP,Cynthia M. Lummis,298
+Carbon,1-1,U.S. Senate,,DEM,Merav Ben David,175
+Carbon,1-1,U.S. Senate,,,Write-ins,1
+Carbon,1-1,U.S. Senate,,,Over Votes,1
+Carbon,1-1,U.S. Senate,,,Under Votes,15
+Carbon,1-1,U.S. House,,REP,Liz Cheney,265
+Carbon,1-1,U.S. House,,DEM,Lynnette Grey Bull,171
+Carbon,1-1,U.S. House,,LIB,Richard Brubaker,24
+Carbon,1-1,U.S. House,,,Jeff Haggit (CONST.),15
+Carbon,1-1,U.S. House,,,Write-ins,0
+Carbon,1-1,U.S. House,,,Over Votes,2
+Carbon,1-1,U.S. House,,,Under Votes,13
+Carbon,1-1,State House,15,REP,Donald Burkhart,281
+Carbon,1-1,State House,15,DEM,Jacquelin Wells,199
+Carbon,1-1,State House,15,,Write-ins,3
+Carbon,1-1,State House,15,,Over Votes,1
+Carbon,1-1,State House,15,,Under Votes,6
+Carbon,1-1,Ballots Cast,,,Ballots Cast,490
+Carbon,1-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,1-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,39
+Carbon,1-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,1-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,40
+Carbon,1-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,1-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,48
+Carbon,1-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,1-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,43
+Carbon,1-2,President,,REP,Donald J. Trump,207
+Carbon,1-2,President,,DEM,Joseph R. Biden,53
+Carbon,1-2,President,,LIB,Jo Jorgensen,8
+Carbon,1-2,President,,IND,Brock Pierce,2
+Carbon,1-2,President,,,Write-ins,0
+Carbon,1-2,President,,,Over Votes,1
+Carbon,1-2,President,,,Under Votes,2
+Carbon,1-2,U.S. Senate,,REP,Cynthia M. Lummis,207
+Carbon,1-2,U.S. Senate,,DEM,Merav Ben David,59
+Carbon,1-2,U.S. Senate,,,Write-ins,0
+Carbon,1-2,U.S. Senate,,,Over Votes,0
+Carbon,1-2,U.S. Senate,,,Under Votes,7
+Carbon,1-2,U.S. House,,REP,Liz Cheney,186
+Carbon,1-2,U.S. House,,DEM,Lynnette Grey Bull,48
+Carbon,1-2,U.S. House,,LIB,Richard Brubaker,17
+Carbon,1-2,U.S. House,,,Jeff Haggit (CONST.),12
+Carbon,1-2,U.S. House,,,Write-ins,0
+Carbon,1-2,U.S. House,,,Over Votes,0
+Carbon,1-2,U.S. House,,,Under Votes,10
+Carbon,1-2,State House,15,REP,Donald Burkhart,94
+Carbon,1-2,State House,15,DEM,Jacquelin Wells,50
+Carbon,1-2,State House,15,,Write-ins,0
+Carbon,1-2,State House,15,,Over Votes,0
+Carbon,1-2,State House,15,,Under Votes,4
+Carbon,1-2,State House,47,REP,Jerry Paxton,99
+Carbon,1-2,State House,47,LIB,Lela Konecny,24
+Carbon,1-2,State House,47,,Write-ins,0
+Carbon,1-2,State House,47,,Over Votes,0
+Carbon,1-2,State House,47,,Under Votes,2
+Carbon,1-2,Ballots Cast,,,Ballots Cast,273
+Carbon,1-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,1-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,28
+Carbon,1-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,1-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,38
+Carbon,1-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,1-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,43
+Carbon,1-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Carbon,1-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,37
+Carbon,10-1,President,,REP,Donald J. Trump,52
+Carbon,10-1,President,,DEM,Joseph R. Biden,5
+Carbon,10-1,President,,LIB,Jo Jorgensen,1
+Carbon,10-1,President,,IND,Brock Pierce,0
+Carbon,10-1,President,,,Write-ins,0
+Carbon,10-1,President,,,Over Votes,0
+Carbon,10-1,President,,,Under Votes,0
+Carbon,10-1,U.S. Senate,,REP,Cynthia M. Lummis,55
+Carbon,10-1,U.S. Senate,,DEM,Merav Ben David,3
+Carbon,10-1,U.S. Senate,,,Write-ins,0
+Carbon,10-1,U.S. Senate,,,Over Votes,0
+Carbon,10-1,U.S. Senate,,,Under Votes,0
+Carbon,10-1,U.S. House,,REP,Liz Cheney,52
+Carbon,10-1,U.S. House,,DEM,Lynnette Grey Bull,4
+Carbon,10-1,U.S. House,,LIB,Richard Brubaker,2
+Carbon,10-1,U.S. House,,,Jeff Haggit (CONST.),0
+Carbon,10-1,U.S. House,,,Write-ins,0
+Carbon,10-1,U.S. House,,,Over Votes,0
+Carbon,10-1,U.S. House,,,Under Votes,0
+Carbon,10-1,State House,47,REP,Jerry Paxton,51
+Carbon,10-1,State House,47,LIB,Lela Konecny,3
+Carbon,10-1,State House,47,,Write-ins,0
+Carbon,10-1,State House,47,,Over Votes,0
+Carbon,10-1,State House,47,,Under Votes,4
+Carbon,10-1,Ballots Cast,,,Ballots Cast,58
+Carbon,10-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,10-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,8
+Carbon,10-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,10-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,6
+Carbon,10-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,10-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,8
+Carbon,10-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,10-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,6
+Carbon,11-1,President,,REP,Donald J. Trump,689
+Carbon,11-1,President,,DEM,Joseph R. Biden,247
+Carbon,11-1,President,,LIB,Jo Jorgensen,18
+Carbon,11-1,President,,IND,Brock Pierce,3
+Carbon,11-1,President,,,Write-ins,3
+Carbon,11-1,President,,,Over Votes,4
+Carbon,11-1,President,,,Under Votes,2
+Carbon,11-1,U.S. Senate,,REP,Cynthia M. Lummis,702
+Carbon,11-1,U.S. Senate,,DEM,Merav Ben David,240
+Carbon,11-1,U.S. Senate,,,Write-ins,3
+Carbon,11-1,U.S. Senate,,,Over Votes,0
+Carbon,11-1,U.S. Senate,,,Under Votes,21
+Carbon,11-1,U.S. House,,REP,Liz Cheney,660
+Carbon,11-1,U.S. House,,DEM,Lynnette Grey Bull,222
+Carbon,11-1,U.S. House,,LIB,Richard Brubaker,37
+Carbon,11-1,U.S. House,,,Jeff Haggit (CONST.),25
+Carbon,11-1,U.S. House,,,Write-ins,2
+Carbon,11-1,U.S. House,,,Over Votes,8
+Carbon,11-1,U.S. House,,,Under Votes,12
+Carbon,11-1,State House,47,REP,Jerry Paxton,632
+Carbon,11-1,State House,47,LIB,Lela Konecny,293
+Carbon,11-1,State House,47,,Write-ins,9
+Carbon,11-1,State House,47,,Over Votes,1
+Carbon,11-1,State House,47,,Under Votes,31
+Carbon,11-1,Ballots Cast,,,Ballots Cast,966
+Carbon,11-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,11-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,113
+Carbon,11-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Carbon,11-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,110
+Carbon,11-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,11-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,117
+Carbon,11-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Carbon,11-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,113
+Carbon,11-2,President,,REP,Donald J. Trump,363
+Carbon,11-2,President,,DEM,Joseph R. Biden,80
+Carbon,11-2,President,,LIB,Jo Jorgensen,18
+Carbon,11-2,President,,IND,Brock Pierce,2
+Carbon,11-2,President,,,Write-ins,0
+Carbon,11-2,President,,,Over Votes,0
+Carbon,11-2,President,,,Under Votes,1
+Carbon,11-2,U.S. Senate,,REP,Cynthia M. Lummis,373
+Carbon,11-2,U.S. Senate,,DEM,Merav Ben David,82
+Carbon,11-2,U.S. Senate,,,Write-ins,1
+Carbon,11-2,U.S. Senate,,,Over Votes,0
+Carbon,11-2,U.S. Senate,,,Under Votes,8
+Carbon,11-2,U.S. House,,REP,Liz Cheney,338
+Carbon,11-2,U.S. House,,DEM,Lynnette Grey Bull,69
+Carbon,11-2,U.S. House,,LIB,Richard Brubaker,25
+Carbon,11-2,U.S. House,,,Jeff Haggit (CONST.),12
+Carbon,11-2,U.S. House,,,Write-ins,0
+Carbon,11-2,U.S. House,,,Over Votes,4
+Carbon,11-2,U.S. House,,,Under Votes,16
+Carbon,11-2,State House,47,REP,Jerry Paxton,333
+Carbon,11-2,State House,47,LIB,Lela Konecny,104
+Carbon,11-2,State House,47,,Write-ins,2
+Carbon,11-2,State House,47,,Over Votes,1
+Carbon,11-2,State House,47,,Under Votes,24
+Carbon,11-2,Ballots Cast,,,Ballots Cast,464
+Carbon,11-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,11-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,90
+Carbon,11-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Carbon,11-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,74
+Carbon,11-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,1
+Carbon,11-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,93
+Carbon,11-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Carbon,11-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,86
+Carbon,12-1,President,,REP,Donald J. Trump,242
+Carbon,12-1,President,,DEM,Joseph R. Biden,54
+Carbon,12-1,President,,LIB,Jo Jorgensen,6
+Carbon,12-1,President,,IND,Brock Pierce,6
+Carbon,12-1,President,,,Write-ins,0
+Carbon,12-1,President,,,Over Votes,2
+Carbon,12-1,President,,,Under Votes,2
+Carbon,12-1,U.S. Senate,,REP,Cynthia M. Lummis,246
+Carbon,12-1,U.S. Senate,,DEM,Merav Ben David,60
+Carbon,12-1,U.S. Senate,,,Write-ins,1
+Carbon,12-1,U.S. Senate,,,Over Votes,0
+Carbon,12-1,U.S. Senate,,,Under Votes,5
+Carbon,12-1,U.S. House,,REP,Liz Cheney,229
+Carbon,12-1,U.S. House,,DEM,Lynnette Grey Bull,53
+Carbon,12-1,U.S. House,,LIB,Richard Brubaker,12
+Carbon,12-1,U.S. House,,,Jeff Haggit (CONST.),11
+Carbon,12-1,U.S. House,,,Write-ins,1
+Carbon,12-1,U.S. House,,,Over Votes,2
+Carbon,12-1,U.S. House,,,Under Votes,4
+Carbon,12-1,State House,47,REP,Jerry Paxton,221
+Carbon,12-1,State House,47,LIB,Lela Konecny,80
+Carbon,12-1,State House,47,,Write-ins,1
+Carbon,12-1,State House,47,,Over Votes,0
+Carbon,12-1,State House,47,,Under Votes,10
+Carbon,12-1,Ballots Cast,,,Ballots Cast,312
+Carbon,12-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,12-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,46
+Carbon,12-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Carbon,12-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,29
+Carbon,12-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,12-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,49
+Carbon,12-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,12-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,43
+Carbon,13-1,President,,REP,Donald J. Trump,206
+Carbon,13-1,President,,DEM,Joseph R. Biden,53
+Carbon,13-1,President,,LIB,Jo Jorgensen,4
+Carbon,13-1,President,,IND,Brock Pierce,2
+Carbon,13-1,President,,,Write-ins,2
+Carbon,13-1,President,,,Over Votes,0
+Carbon,13-1,President,,,Under Votes,3
+Carbon,13-1,U.S. Senate,,REP,Cynthia M. Lummis,212
+Carbon,13-1,U.S. Senate,,DEM,Merav Ben David,51
+Carbon,13-1,U.S. Senate,,,Write-ins,0
+Carbon,13-1,U.S. Senate,,,Over Votes,0
+Carbon,13-1,U.S. Senate,,,Under Votes,7
+Carbon,13-1,U.S. House,,REP,Liz Cheney,191
+Carbon,13-1,U.S. House,,DEM,Lynnette Grey Bull,54
+Carbon,13-1,U.S. House,,LIB,Richard Brubaker,11
+Carbon,13-1,U.S. House,,,Jeff Haggit (CONST.),7
+Carbon,13-1,U.S. House,,,Write-ins,0
+Carbon,13-1,U.S. House,,,Over Votes,1
+Carbon,13-1,U.S. House,,,Under Votes,6
+Carbon,13-1,State House,47,REP,Jerry Paxton,193
+Carbon,13-1,State House,47,LIB,Lela Konecny,60
+Carbon,13-1,State House,47,,Write-ins,1
+Carbon,13-1,State House,47,,Over Votes,0
+Carbon,13-1,State House,47,,Under Votes,16
+Carbon,13-1,Ballots Cast,,,Ballots Cast,270
+Carbon,13-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,13-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,50
+Carbon,13-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,13-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,30
+Carbon,13-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,13-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,51
+Carbon,13-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,13-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,50
+Carbon,14-1,President,,REP,Donald J. Trump,121
+Carbon,14-1,President,,DEM,Joseph R. Biden,13
+Carbon,14-1,President,,LIB,Jo Jorgensen,2
+Carbon,14-1,President,,IND,Brock Pierce,2
+Carbon,14-1,President,,,Write-ins,1
+Carbon,14-1,President,,,Over Votes,0
+Carbon,14-1,President,,,Under Votes,0
+Carbon,14-1,U.S. Senate,,REP,Cynthia M. Lummis,129
+Carbon,14-1,U.S. Senate,,DEM,Merav Ben David,10
+Carbon,14-1,U.S. Senate,,,Write-ins,0
+Carbon,14-1,U.S. Senate,,,Over Votes,0
+Carbon,14-1,U.S. Senate,,,Under Votes,0
+Carbon,14-1,U.S. House,,REP,Liz Cheney,118
+Carbon,14-1,U.S. House,,DEM,Lynnette Grey Bull,12
+Carbon,14-1,U.S. House,,LIB,Richard Brubaker,2
+Carbon,14-1,U.S. House,,,Jeff Haggit (CONST.),4
+Carbon,14-1,U.S. House,,,Write-ins,0
+Carbon,14-1,U.S. House,,,Over Votes,2
+Carbon,14-1,U.S. House,,,Under Votes,1
+Carbon,14-1,State House,47,REP,Jerry Paxton,115
+Carbon,14-1,State House,47,LIB,Lela Konecny,20
+Carbon,14-1,State House,47,,Write-ins,0
+Carbon,14-1,State House,47,,Over Votes,0
+Carbon,14-1,State House,47,,Under Votes,4
+Carbon,14-1,Ballots Cast,,,Ballots Cast,139
+Carbon,14-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,14-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,38
+Carbon,14-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,14-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,23
+Carbon,14-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,14-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,39
+Carbon,14-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,14-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,37
+Carbon,15-1,President,,REP,Donald J. Trump,346
+Carbon,15-1,President,,DEM,Joseph R. Biden,16
+Carbon,15-1,President,,LIB,Jo Jorgensen,6
+Carbon,15-1,President,,IND,Brock Pierce,2
+Carbon,15-1,President,,,Write-ins,1
+Carbon,15-1,President,,,Over Votes,1
+Carbon,15-1,President,,,Under Votes,0
+Carbon,15-1,U.S. Senate,,REP,Cynthia M. Lummis,345
+Carbon,15-1,U.S. Senate,,DEM,Merav Ben David,19
+Carbon,15-1,U.S. Senate,,,Write-ins,0
+Carbon,15-1,U.S. Senate,,,Over Votes,0
+Carbon,15-1,U.S. Senate,,,Under Votes,8
+Carbon,15-1,U.S. House,,REP,Liz Cheney,331
+Carbon,15-1,U.S. House,,DEM,Lynnette Grey Bull,16
+Carbon,15-1,U.S. House,,LIB,Richard Brubaker,10
+Carbon,15-1,U.S. House,,,Jeff Haggit (CONST.),10
+Carbon,15-1,U.S. House,,,Write-ins,0
+Carbon,15-1,U.S. House,,,Over Votes,0
+Carbon,15-1,U.S. House,,,Under Votes,5
+Carbon,15-1,State House,47,REP,Jerry Paxton,325
+Carbon,15-1,State House,47,LIB,Lela Konecny,35
+Carbon,15-1,State House,47,,Write-ins,1
+Carbon,15-1,State House,47,,Over Votes,0
+Carbon,15-1,State House,47,,Under Votes,11
+Carbon,15-1,Ballots Cast,,,Ballots Cast,372
+Carbon,15-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,15-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,57
+Carbon,15-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,15-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,55
+Carbon,15-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,15-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,55
+Carbon,15-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,15-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,55
+Carbon,2-1,President,,REP,Donald J. Trump,465
+Carbon,2-1,President,,DEM,Joseph R. Biden,142
+Carbon,2-1,President,,LIB,Jo Jorgensen,6
+Carbon,2-1,President,,IND,Brock Pierce,7
+Carbon,2-1,President,,,Write-ins,1
+Carbon,2-1,President,,,Over Votes,1
+Carbon,2-1,President,,,Under Votes,1
+Carbon,2-1,U.S. Senate,,REP,Cynthia M. Lummis,465
+Carbon,2-1,U.S. Senate,,DEM,Merav Ben David,144
+Carbon,2-1,U.S. Senate,,,Write-ins,1
+Carbon,2-1,U.S. Senate,,,Over Votes,0
+Carbon,2-1,U.S. Senate,,,Under Votes,13
+Carbon,2-1,U.S. House,,REP,Liz Cheney,434
+Carbon,2-1,U.S. House,,DEM,Lynnette Grey Bull,134
+Carbon,2-1,U.S. House,,LIB,Richard Brubaker,27
+Carbon,2-1,U.S. House,,,Jeff Haggit (CONST.),11
+Carbon,2-1,U.S. House,,,Write-ins,0
+Carbon,2-1,U.S. House,,,Over Votes,2
+Carbon,2-1,U.S. House,,,Under Votes,15
+Carbon,2-1,State House,15,REP,Donald Burkhart,400
+Carbon,2-1,State House,15,DEM,Jacquelin Wells,211
+Carbon,2-1,State House,15,,Write-ins,1
+Carbon,2-1,State House,15,,Over Votes,0
+Carbon,2-1,State House,15,,Under Votes,11
+Carbon,2-1,Ballots Cast,,,Ballots Cast,623
+Carbon,2-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,2-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,59
+Carbon,2-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,2-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,65
+Carbon,2-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,2-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,63
+Carbon,2-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,2-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,61
+Carbon,2-2,President,,REP,Donald J. Trump,500
+Carbon,2-2,President,,DEM,Joseph R. Biden,175
+Carbon,2-2,President,,LIB,Jo Jorgensen,9
+Carbon,2-2,President,,IND,Brock Pierce,3
+Carbon,2-2,President,,,Write-ins,4
+Carbon,2-2,President,,,Over Votes,0
+Carbon,2-2,President,,,Under Votes,4
+Carbon,2-2,U.S. Senate,,REP,Cynthia M. Lummis,505
+Carbon,2-2,U.S. Senate,,DEM,Merav Ben David,171
+Carbon,2-2,U.S. Senate,,,Write-ins,2
+Carbon,2-2,U.S. Senate,,,Over Votes,0
+Carbon,2-2,U.S. Senate,,,Under Votes,17
+Carbon,2-2,U.S. House,,REP,Liz Cheney,460
+Carbon,2-2,U.S. House,,DEM,Lynnette Grey Bull,163
+Carbon,2-2,U.S. House,,LIB,Richard Brubaker,30
+Carbon,2-2,U.S. House,,,Jeff Haggit (CONST.),18
+Carbon,2-2,U.S. House,,,Write-ins,2
+Carbon,2-2,U.S. House,,,Over Votes,5
+Carbon,2-2,U.S. House,,,Under Votes,17
+Carbon,2-2,State House,15,REP,Donald Burkhart,438
+Carbon,2-2,State House,15,DEM,Jacquelin Wells,242
+Carbon,2-2,State House,15,,Write-ins,2
+Carbon,2-2,State House,15,,Over Votes,1
+Carbon,2-2,State House,15,,Under Votes,12
+Carbon,2-2,Ballots Cast,,,Ballots Cast,695
+Carbon,2-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,2-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,63
+Carbon,2-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,2
+Carbon,2-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,64
+Carbon,2-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,2-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,76
+Carbon,2-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,2-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,75
+Carbon,3-1,President,,REP,Donald J. Trump,309
+Carbon,3-1,President,,DEM,Joseph R. Biden,160
+Carbon,3-1,President,,LIB,Jo Jorgensen,9
+Carbon,3-1,President,,IND,Brock Pierce,6
+Carbon,3-1,President,,,Write-ins,1
+Carbon,3-1,President,,,Over Votes,0
+Carbon,3-1,President,,,Under Votes,2
+Carbon,3-1,U.S. Senate,,REP,Cynthia M. Lummis,315
+Carbon,3-1,U.S. Senate,,DEM,Merav Ben David,157
+Carbon,3-1,U.S. Senate,,,Write-ins,1
+Carbon,3-1,U.S. Senate,,,Over Votes,1
+Carbon,3-1,U.S. Senate,,,Under Votes,13
+Carbon,3-1,U.S. House,,REP,Liz Cheney,287
+Carbon,3-1,U.S. House,,DEM,Lynnette Grey Bull,136
+Carbon,3-1,U.S. House,,LIB,Richard Brubaker,27
+Carbon,3-1,U.S. House,,,Jeff Haggit (CONST.),17
+Carbon,3-1,U.S. House,,,Write-ins,0
+Carbon,3-1,U.S. House,,,Over Votes,2
+Carbon,3-1,U.S. House,,,Under Votes,18
+Carbon,3-1,State House,15,REP,Donald Burkhart,291
+Carbon,3-1,State House,15,DEM,Jacquelin Wells,181
+Carbon,3-1,State House,15,,Write-ins,0
+Carbon,3-1,State House,15,,Over Votes,0
+Carbon,3-1,State House,15,,Under Votes,15
+Carbon,3-1,Ballots Cast,,,Ballots Cast,487
+Carbon,3-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,3-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,47
+Carbon,3-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Carbon,3-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,50
+Carbon,3-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,3-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,59
+Carbon,3-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,3-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,56
+Carbon,3-2,President,,REP,Donald J. Trump,467
+Carbon,3-2,President,,DEM,Joseph R. Biden,154
+Carbon,3-2,President,,LIB,Jo Jorgensen,23
+Carbon,3-2,President,,IND,Brock Pierce,6
+Carbon,3-2,President,,,Write-ins,7
+Carbon,3-2,President,,,Over Votes,1
+Carbon,3-2,President,,,Under Votes,4
+Carbon,3-2,U.S. Senate,,REP,Cynthia M. Lummis,482
+Carbon,3-2,U.S. Senate,,DEM,Merav Ben David,154
+Carbon,3-2,U.S. Senate,,,Write-ins,5
+Carbon,3-2,U.S. Senate,,,Over Votes,1
+Carbon,3-2,U.S. Senate,,,Under Votes,20
+Carbon,3-2,U.S. House,,REP,Liz Cheney,418
+Carbon,3-2,U.S. House,,DEM,Lynnette Grey Bull,144
+Carbon,3-2,U.S. House,,LIB,Richard Brubaker,41
+Carbon,3-2,U.S. House,,,Jeff Haggit (CONST.),25
+Carbon,3-2,U.S. House,,,Write-ins,4
+Carbon,3-2,U.S. House,,,Over Votes,5
+Carbon,3-2,U.S. House,,,Under Votes,25
+Carbon,3-2,State House,15,REP,Donald Burkhart,415
+Carbon,3-2,State House,15,DEM,Jacquelin Wells,224
+Carbon,3-2,State House,15,,Write-ins,4
+Carbon,3-2,State House,15,,Over Votes,1
+Carbon,3-2,State House,15,,Under Votes,18
+Carbon,3-2,Ballots Cast,,,Ballots Cast,662
+Carbon,3-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,3-2,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,65
+Carbon,3-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,3-2,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,71
+Carbon,3-2,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,1
+Carbon,3-2,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,84
+Carbon,3-2,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,1
+Carbon,3-2,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,79
+Carbon,4-1,President,,REP,Donald J. Trump,20
+Carbon,4-1,President,,DEM,Joseph R. Biden,0
+Carbon,4-1,President,,LIB,Jo Jorgensen,0
+Carbon,4-1,President,,IND,Brock Pierce,0
+Carbon,4-1,President,,,Write-ins,0
+Carbon,4-1,President,,,Over Votes,0
+Carbon,4-1,President,,,Under Votes,0
+Carbon,4-1,U.S. Senate,,REP,Cynthia M. Lummis,20
+Carbon,4-1,U.S. Senate,,DEM,Merav Ben David,0
+Carbon,4-1,U.S. Senate,,,Write-ins,0
+Carbon,4-1,U.S. Senate,,,Over Votes,0
+Carbon,4-1,U.S. Senate,,,Under Votes,0
+Carbon,4-1,U.S. House,,REP,Liz Cheney,19
+Carbon,4-1,U.S. House,,DEM,Lynnette Grey Bull,1
+Carbon,4-1,U.S. House,,LIB,Richard Brubaker,0
+Carbon,4-1,U.S. House,,,Jeff Haggit (CONST.),0
+Carbon,4-1,U.S. House,,,Write-ins,0
+Carbon,4-1,U.S. House,,,Over Votes,0
+Carbon,4-1,U.S. House,,,Under Votes,0
+Carbon,4-1,State House,47,REP,Jerry Paxton,18
+Carbon,4-1,State House,47,LIB,Lela Konecny,2
+Carbon,4-1,State House,47,,Write-ins,0
+Carbon,4-1,State House,47,,Over Votes,0
+Carbon,4-1,State House,47,,Under Votes,0
+Carbon,4-1,Ballots Cast,,,Ballots Cast,20
+Carbon,4-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,4-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,6
+Carbon,4-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,4-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,2
+Carbon,4-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,4-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,5
+Carbon,4-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,4-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,5
+Carbon,5-1,President,,REP,Donald J. Trump,174
+Carbon,5-1,President,,DEM,Joseph R. Biden,26
+Carbon,5-1,President,,LIB,Jo Jorgensen,4
+Carbon,5-1,President,,IND,Brock Pierce,0
+Carbon,5-1,President,,,Write-ins,4
+Carbon,5-1,President,,,Over Votes,1
+Carbon,5-1,President,,,Under Votes,1
+Carbon,5-1,U.S. Senate,,REP,Cynthia M. Lummis,173
+Carbon,5-1,U.S. Senate,,DEM,Merav Ben David,34
+Carbon,5-1,U.S. Senate,,,Write-ins,0
+Carbon,5-1,U.S. Senate,,,Over Votes,0
+Carbon,5-1,U.S. Senate,,,Under Votes,3
+Carbon,5-1,U.S. House,,REP,Liz Cheney,153
+Carbon,5-1,U.S. House,,DEM,Lynnette Grey Bull,29
+Carbon,5-1,U.S. House,,LIB,Richard Brubaker,10
+Carbon,5-1,U.S. House,,,Jeff Haggit (CONST.),10
+Carbon,5-1,U.S. House,,,Write-ins,0
+Carbon,5-1,U.S. House,,,Over Votes,5
+Carbon,5-1,U.S. House,,,Under Votes,3
+Carbon,5-1,State House,15,REP,Donald Burkhart,133
+Carbon,5-1,State House,15,DEM,Jacquelin Wells,37
+Carbon,5-1,State House,15,,Write-ins,1
+Carbon,5-1,State House,15,,Over Votes,0
+Carbon,5-1,State House,15,,Under Votes,3
+Carbon,5-1,State House,47,REP,Jerry Paxton,32
+Carbon,5-1,State House,47,LIB,Lela Konecny,4
+Carbon,5-1,State House,47,,Write-ins,0
+Carbon,5-1,State House,47,,Over Votes,0
+Carbon,5-1,State House,47,,Under Votes,0
+Carbon,5-1,Ballots Cast,,,Ballots Cast,210
+Carbon,5-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,5-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,17
+Carbon,5-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,1
+Carbon,5-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,16
+Carbon,5-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,5-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,21
+Carbon,5-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,5-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,18
+Carbon,6-1,President,,REP,Donald J. Trump,19
+Carbon,6-1,President,,DEM,Joseph R. Biden,1
+Carbon,6-1,President,,LIB,Jo Jorgensen,2
+Carbon,6-1,President,,IND,Brock Pierce,0
+Carbon,6-1,President,,,Write-ins,0
+Carbon,6-1,President,,,Over Votes,0
+Carbon,6-1,President,,,Under Votes,0
+Carbon,6-1,U.S. Senate,,REP,Cynthia M. Lummis,20
+Carbon,6-1,U.S. Senate,,DEM,Merav Ben David,1
+Carbon,6-1,U.S. Senate,,,Write-ins,0
+Carbon,6-1,U.S. Senate,,,Over Votes,0
+Carbon,6-1,U.S. Senate,,,Under Votes,1
+Carbon,6-1,U.S. House,,REP,Liz Cheney,19
+Carbon,6-1,U.S. House,,DEM,Lynnette Grey Bull,0
+Carbon,6-1,U.S. House,,LIB,Richard Brubaker,2
+Carbon,6-1,U.S. House,,,Jeff Haggit (CONST.),0
+Carbon,6-1,U.S. House,,,Write-ins,0
+Carbon,6-1,U.S. House,,,Over Votes,0
+Carbon,6-1,U.S. House,,,Under Votes,1
+Carbon,6-1,State House,47,REP,Jerry Paxton,11
+Carbon,6-1,State House,47,LIB,Lela Konecny,6
+Carbon,6-1,State House,47,,Write-ins,0
+Carbon,6-1,State House,47,,Over Votes,0
+Carbon,6-1,State House,47,,Under Votes,5
+Carbon,6-1,Ballots Cast,,,Ballots Cast,22
+Carbon,6-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,6-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,5
+Carbon,6-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,6-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,3
+Carbon,6-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,6-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,5
+Carbon,6-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,6-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,5
+Carbon,7-1,President,,REP,Donald J. Trump,125
+Carbon,7-1,President,,DEM,Joseph R. Biden,14
+Carbon,7-1,President,,LIB,Jo Jorgensen,4
+Carbon,7-1,President,,IND,Brock Pierce,1
+Carbon,7-1,President,,,Write-ins,1
+Carbon,7-1,President,,,Over Votes,0
+Carbon,7-1,President,,,Under Votes,0
+Carbon,7-1,U.S. Senate,,REP,Cynthia M. Lummis,130
+Carbon,7-1,U.S. Senate,,DEM,Merav Ben David,12
+Carbon,7-1,U.S. Senate,,,Write-ins,1
+Carbon,7-1,U.S. Senate,,,Over Votes,0
+Carbon,7-1,U.S. Senate,,,Under Votes,2
+Carbon,7-1,U.S. House,,REP,Liz Cheney,116
+Carbon,7-1,U.S. House,,DEM,Lynnette Grey Bull,15
+Carbon,7-1,U.S. House,,LIB,Richard Brubaker,3
+Carbon,7-1,U.S. House,,,Jeff Haggit (CONST.),7
+Carbon,7-1,U.S. House,,,Write-ins,0
+Carbon,7-1,U.S. House,,,Over Votes,0
+Carbon,7-1,U.S. House,,,Under Votes,4
+Carbon,7-1,State House,47,REP,Jerry Paxton,110
+Carbon,7-1,State House,47,LIB,Lela Konecny,24
+Carbon,7-1,State House,47,,Write-ins,4
+Carbon,7-1,State House,47,,Over Votes,0
+Carbon,7-1,State House,47,,Under Votes,7
+Carbon,7-1,Ballots Cast,,,Ballots Cast,145
+Carbon,7-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,7-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,14
+Carbon,7-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,7-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,11
+Carbon,7-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,7-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,17
+Carbon,7-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,7-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,14
+Carbon,8-1,President,,REP,Donald J. Trump,269
+Carbon,8-1,President,,DEM,Joseph R. Biden,48
+Carbon,8-1,President,,LIB,Jo Jorgensen,12
+Carbon,8-1,President,,IND,Brock Pierce,2
+Carbon,8-1,President,,,Write-ins,1
+Carbon,8-1,President,,,Over Votes,1
+Carbon,8-1,President,,,Under Votes,1
+Carbon,8-1,U.S. Senate,,REP,Cynthia M. Lummis,271
+Carbon,8-1,U.S. Senate,,DEM,Merav Ben David,53
+Carbon,8-1,U.S. Senate,,,Write-ins,2
+Carbon,8-1,U.S. Senate,,,Over Votes,0
+Carbon,8-1,U.S. Senate,,,Under Votes,8
+Carbon,8-1,U.S. House,,REP,Liz Cheney,245
+Carbon,8-1,U.S. House,,DEM,Lynnette Grey Bull,44
+Carbon,8-1,U.S. House,,LIB,Richard Brubaker,19
+Carbon,8-1,U.S. House,,,Jeff Haggit (CONST.),16
+Carbon,8-1,U.S. House,,,Write-ins,1
+Carbon,8-1,U.S. House,,,Over Votes,2
+Carbon,8-1,U.S. House,,,Under Votes,7
+Carbon,8-1,State House,47,REP,Jerry Paxton,247
+Carbon,8-1,State House,47,LIB,Lela Konecny,74
+Carbon,8-1,State House,47,,Write-ins,1
+Carbon,8-1,State House,47,,Over Votes,2
+Carbon,8-1,State House,47,,Under Votes,10
+Carbon,8-1,Ballots Cast,,,Ballots Cast,334
+Carbon,8-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,8-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,39
+Carbon,8-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,8-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,39
+Carbon,8-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,8-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,38
+Carbon,8-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,8-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,37
+Carbon,9-1,President,,REP,Donald J. Trump,140
+Carbon,9-1,President,,DEM,Joseph R. Biden,13
+Carbon,9-1,President,,LIB,Jo Jorgensen,4
+Carbon,9-1,President,,IND,Brock Pierce,2
+Carbon,9-1,President,,,Write-ins,2
+Carbon,9-1,President,,,Over Votes,1
+Carbon,9-1,President,,,Under Votes,2
+Carbon,9-1,U.S. Senate,,REP,Cynthia M. Lummis,143
+Carbon,9-1,U.S. Senate,,DEM,Merav Ben David,16
+Carbon,9-1,U.S. Senate,,,Write-ins,2
+Carbon,9-1,U.S. Senate,,,Over Votes,0
+Carbon,9-1,U.S. Senate,,,Under Votes,3
+Carbon,9-1,U.S. House,,REP,Liz Cheney,123
+Carbon,9-1,U.S. House,,DEM,Lynnette Grey Bull,22
+Carbon,9-1,U.S. House,,LIB,Richard Brubaker,14
+Carbon,9-1,U.S. House,,,Jeff Haggit (CONST.),4
+Carbon,9-1,U.S. House,,,Write-ins,0
+Carbon,9-1,U.S. House,,,Over Votes,1
+Carbon,9-1,U.S. House,,,Under Votes,0
+Carbon,9-1,State House,47,REP,Jerry Paxton,118
+Carbon,9-1,State House,47,LIB,Lela Konecny,38
+Carbon,9-1,State House,47,,Write-ins,2
+Carbon,9-1,State House,47,,Over Votes,0
+Carbon,9-1,State House,47,,Under Votes,6
+Carbon,9-1,Ballots Cast,,,Ballots Cast,164
+Carbon,9-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Over Votes,0
+Carbon,9-1,"Circuit Court Judge, Second Judicial District Susan K. Stipe",,,Under Votes,21
+Carbon,9-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Over Votes,0
+Carbon,9-1,Constitutional Amendment A Debt Limits for Municipal Sewer Projects,,,Under Votes,17
+Carbon,9-1,Justice of the Supreme Court Kari Jo Gray,,,Over Votes,0
+Carbon,9-1,Justice of the Supreme Court Kari Jo Gray,,,Under Votes,27
+Carbon,9-1,Justice of the Supreme Court Lynne Boomgaarden,,,Over Votes,0
+Carbon,9-1,Justice of the Supreme Court Lynne Boomgaarden,,,Under Votes,23

@@ -1,0 +1,526 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,1-01,U.S. Senate,,REP,John Barrasso,406
+Lincoln,1-01,U.S. Senate,,REP,John Holtz,29
+Lincoln,1-01,U.S. Senate,,REP,Reid Rasner,155
+Lincoln,1-01,U.S. Senate,,REP,Write-ins,14
+Lincoln,1-01,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-01,U.S. Senate,,REP,Under Votes,19
+Lincoln,1-01,U.S. Senate,,DEM,Scott D Morrow,40
+Lincoln,1-01,U.S. Senate,,DEM,Write-ins,1
+Lincoln,1-01,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-01,U.S. Senate,,DEM,Under Votes,5
+Lincoln,1-01,U.S. House,,REP,Harriet Hageman,502
+Lincoln,1-01,U.S. House,,REP,Steven R. Helling,93
+Lincoln,1-01,U.S. House,,REP,Write-ins,4
+Lincoln,1-01,U.S. House,,REP,Over Votes,0
+Lincoln,1-01,U.S. House,,REP,Under Votes,24
+Lincoln,1-01,U.S. House,,DEM,Kyle G. Cameron,37
+Lincoln,1-01,U.S. House,,DEM,Write-ins,1
+Lincoln,1-01,U.S. House,,DEM,Over Votes,0
+Lincoln,1-01,U.S. House,,DEM,Under Votes,8
+Lincoln,1-01,State Senate,14,REP,Albert Sommers,186
+Lincoln,1-01,State Senate,14,REP,Bill Winney,59
+Lincoln,1-01,State Senate,14,REP,Laura Taliaferro Pearson,366
+Lincoln,1-01,State Senate,14,REP,Write-ins,1
+Lincoln,1-01,State Senate,14,REP,Over Votes,1
+Lincoln,1-01,State Senate,14,REP,Under Votes,10
+Lincoln,1-01,State Senate,14,DEM,Write-ins,8
+Lincoln,1-01,State House,18,REP,Scott Heiner,285
+Lincoln,1-01,State House,18,REP,Thomas D. Crank,330
+Lincoln,1-01,State House,18,REP,Write-ins,1
+Lincoln,1-01,State House,18,REP,Over Votes,0
+Lincoln,1-01,State House,18,REP,Under Votes,7
+Lincoln,1-01,State House,18,DEM,Write-ins,7
+Lincoln,1-01,Ballots Cast,,REP,Ballots Cast,623
+Lincoln,1-01,Ballots Cast,,DEM,Ballots Cast,46
+Lincoln,1-01,Ballots Cast,,NP,Ballots Cast,16
+Lincoln,1-01,Ballots Cast,,,Ballots Cast,685
+Lincoln,1-04,U.S. Senate,,REP,John Barrasso,102
+Lincoln,1-04,U.S. Senate,,REP,John Holtz,8
+Lincoln,1-04,U.S. Senate,,REP,Reid Rasner,47
+Lincoln,1-04,U.S. Senate,,REP,Write-ins,1
+Lincoln,1-04,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-04,U.S. Senate,,REP,Under Votes,2
+Lincoln,1-04,U.S. Senate,,DEM,Scott D Morrow,23
+Lincoln,1-04,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-04,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-04,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-04,U.S. House,,REP,Harriet Hageman,143
+Lincoln,1-04,U.S. House,,REP,Steven R. Helling,16
+Lincoln,1-04,U.S. House,,REP,Write-ins,0
+Lincoln,1-04,U.S. House,,REP,Over Votes,0
+Lincoln,1-04,U.S. House,,REP,Under Votes,1
+Lincoln,1-04,U.S. House,,DEM,Kyle G. Cameron,22
+Lincoln,1-04,U.S. House,,DEM,Write-ins,0
+Lincoln,1-04,U.S. House,,DEM,Over Votes,0
+Lincoln,1-04,U.S. House,,DEM,Under Votes,1
+Lincoln,1-04,State Senate,14,REP,Albert Sommers,30
+Lincoln,1-04,State Senate,14,REP,Bill Winney,10
+Lincoln,1-04,State Senate,14,REP,Laura Taliaferro Pearson,112
+Lincoln,1-04,State Senate,14,REP,Write-ins,1
+Lincoln,1-04,State Senate,14,REP,Over Votes,0
+Lincoln,1-04,State Senate,14,REP,Under Votes,7
+Lincoln,1-04,State Senate,14,DEM,Write-ins,2
+Lincoln,1-04,State House,18,REP,Scott Heiner,84
+Lincoln,1-04,State House,18,REP,Thomas D. Crank,72
+Lincoln,1-04,State House,18,REP,Write-ins,1
+Lincoln,1-04,State House,18,REP,Over Votes,0
+Lincoln,1-04,State House,18,REP,Under Votes,3
+Lincoln,1-04,State House,18,DEM,Write-ins,2
+Lincoln,1-04,Ballots Cast,,REP,Ballots Cast,160
+Lincoln,1-04,Ballots Cast,,DEM,Ballots Cast,23
+Lincoln,1-04,Ballots Cast,,NP,Ballots Cast,1
+Lincoln,1-04,Ballots Cast,,,Ballots Cast,184
+Lincoln,1-06,U.S. Senate,,REP,John Barrasso,62
+Lincoln,1-06,U.S. Senate,,REP,John Holtz,4
+Lincoln,1-06,U.S. Senate,,REP,Reid Rasner,11
+Lincoln,1-06,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-06,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-06,U.S. Senate,,REP,Under Votes,2
+Lincoln,1-06,U.S. Senate,,DEM,Scott D Morrow,1
+Lincoln,1-06,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-06,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-06,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-06,U.S. House,,REP,Harriet Hageman,66
+Lincoln,1-06,U.S. House,,REP,Steven R. Helling,9
+Lincoln,1-06,U.S. House,,REP,Write-ins,0
+Lincoln,1-06,U.S. House,,REP,Over Votes,0
+Lincoln,1-06,U.S. House,,REP,Under Votes,4
+Lincoln,1-06,U.S. House,,DEM,Kyle G. Cameron,1
+Lincoln,1-06,U.S. House,,DEM,Write-ins,0
+Lincoln,1-06,U.S. House,,DEM,Over Votes,0
+Lincoln,1-06,U.S. House,,DEM,Under Votes,0
+Lincoln,1-06,State Senate,14,REP,Albert Sommers,25
+Lincoln,1-06,State Senate,14,REP,Bill Winney,0
+Lincoln,1-06,State Senate,14,REP,Laura Taliaferro Pearson,53
+Lincoln,1-06,State Senate,14,REP,Write-ins,1
+Lincoln,1-06,State Senate,14,REP,Over Votes,0
+Lincoln,1-06,State Senate,14,REP,Under Votes,0
+Lincoln,1-06,State Senate,14,DEM,Write-ins,0
+Lincoln,1-06,State House,18,REP,Scott Heiner,40
+Lincoln,1-06,State House,18,REP,Thomas D. Crank,37
+Lincoln,1-06,State House,18,REP,Write-ins,0
+Lincoln,1-06,State House,18,REP,Over Votes,0
+Lincoln,1-06,State House,18,REP,Under Votes,2
+Lincoln,1-06,State House,18,DEM,Write-ins,0
+Lincoln,1-06,Ballots Cast,,REP,Ballots Cast,79
+Lincoln,1-06,Ballots Cast,,DEM,Ballots Cast,1
+Lincoln,1-06,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,1-06,Ballots Cast,,,Ballots Cast,80
+Lincoln,1-07,U.S. Senate,,REP,John Barrasso,25
+Lincoln,1-07,U.S. Senate,,REP,John Holtz,1
+Lincoln,1-07,U.S. Senate,,REP,Reid Rasner,11
+Lincoln,1-07,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-07,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-07,U.S. Senate,,REP,Under Votes,2
+Lincoln,1-07,U.S. Senate,,DEM,Scott D Morrow,1
+Lincoln,1-07,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-07,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-07,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-07,U.S. House,,REP,Harriet Hageman,36
+Lincoln,1-07,U.S. House,,REP,Steven R. Helling,2
+Lincoln,1-07,U.S. House,,REP,Write-ins,0
+Lincoln,1-07,U.S. House,,REP,Over Votes,0
+Lincoln,1-07,U.S. House,,REP,Under Votes,1
+Lincoln,1-07,U.S. House,,DEM,Kyle G. Cameron,1
+Lincoln,1-07,U.S. House,,DEM,Write-ins,0
+Lincoln,1-07,U.S. House,,DEM,Over Votes,0
+Lincoln,1-07,U.S. House,,DEM,Under Votes,0
+Lincoln,1-07,State Senate,14,REP,Albert Sommers,8
+Lincoln,1-07,State Senate,14,REP,Bill Winney,4
+Lincoln,1-07,State Senate,14,REP,Laura Taliaferro Pearson,27
+Lincoln,1-07,State Senate,14,REP,Write-ins,0
+Lincoln,1-07,State Senate,14,REP,Over Votes,0
+Lincoln,1-07,State Senate,14,REP,Under Votes,0
+Lincoln,1-07,State Senate,14,DEM,Write-ins,0
+Lincoln,1-07,State House,18,REP,Scott Heiner,21
+Lincoln,1-07,State House,18,REP,Thomas D. Crank,16
+Lincoln,1-07,State House,18,REP,Write-ins,0
+Lincoln,1-07,State House,18,REP,Over Votes,0
+Lincoln,1-07,State House,18,REP,Under Votes,2
+Lincoln,1-07,State House,18,DEM,Write-ins,0
+Lincoln,1-07,Ballots Cast,,REP,Ballots Cast,39
+Lincoln,1-07,Ballots Cast,,DEM,Ballots Cast,1
+Lincoln,1-07,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,1-07,Ballots Cast,,,Ballots Cast,40
+Lincoln,1-08,U.S. Senate,,REP,John Barrasso,109
+Lincoln,1-08,U.S. Senate,,REP,John Holtz,11
+Lincoln,1-08,U.S. Senate,,REP,Reid Rasner,64
+Lincoln,1-08,U.S. Senate,,REP,Write-ins,1
+Lincoln,1-08,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-08,U.S. Senate,,REP,Under Votes,10
+Lincoln,1-08,U.S. Senate,,DEM,Scott D Morrow,2
+Lincoln,1-08,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-08,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-08,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-08,U.S. House,,REP,Harriet Hageman,169
+Lincoln,1-08,U.S. House,,REP,Steven R. Helling,19
+Lincoln,1-08,U.S. House,,REP,Write-ins,1
+Lincoln,1-08,U.S. House,,REP,Over Votes,1
+Lincoln,1-08,U.S. House,,REP,Under Votes,5
+Lincoln,1-08,U.S. House,,DEM,Kyle G. Cameron,2
+Lincoln,1-08,U.S. House,,DEM,Write-ins,0
+Lincoln,1-08,U.S. House,,DEM,Over Votes,0
+Lincoln,1-08,U.S. House,,DEM,Under Votes,0
+Lincoln,1-08,State Senate,14,REP,Albert Sommers,30
+Lincoln,1-08,State Senate,14,REP,Bill Winney,19
+Lincoln,1-08,State Senate,14,REP,Laura Taliaferro Pearson,142
+Lincoln,1-08,State Senate,14,REP,Write-ins,0
+Lincoln,1-08,State Senate,14,REP,Over Votes,0
+Lincoln,1-08,State Senate,14,REP,Under Votes,4
+Lincoln,1-08,State Senate,14,DEM,Write-ins,0
+Lincoln,1-08,State House,20,REP,Cat Urbigkit,23
+Lincoln,1-08,State House,20,REP,Mike Schmid,170
+Lincoln,1-08,State House,20,REP,Write-ins,2
+Lincoln,1-08,State House,20,REP,Over Votes,0
+Lincoln,1-08,State House,20,REP,Under Votes,0
+Lincoln,1-08,State House,20,DEM,Write-ins,0
+Lincoln,1-08,Ballots Cast,,REP,Ballots Cast,195
+Lincoln,1-08,Ballots Cast,,DEM,Ballots Cast,2
+Lincoln,1-08,Ballots Cast,,NP,Ballots Cast,4
+Lincoln,1-08,Ballots Cast,,,Ballots Cast,201
+Lincoln,2-01,U.S. Senate,,REP,John Barrasso,331
+Lincoln,2-01,U.S. Senate,,REP,John Holtz,22
+Lincoln,2-01,U.S. Senate,,REP,Reid Rasner,99
+Lincoln,2-01,U.S. Senate,,REP,Write-ins,3
+Lincoln,2-01,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-01,U.S. Senate,,REP,Under Votes,16
+Lincoln,2-01,U.S. Senate,,DEM,Scott D Morrow,4
+Lincoln,2-01,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-01,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-01,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-01,U.S. House,,REP,Harriet Hageman,374
+Lincoln,2-01,U.S. House,,REP,Steven R. Helling,69
+Lincoln,2-01,U.S. House,,REP,Write-ins,6
+Lincoln,2-01,U.S. House,,REP,Over Votes,3
+Lincoln,2-01,U.S. House,,REP,Under Votes,19
+Lincoln,2-01,U.S. House,,DEM,Kyle G. Cameron,4
+Lincoln,2-01,U.S. House,,DEM,Write-ins,0
+Lincoln,2-01,U.S. House,,DEM,Over Votes,0
+Lincoln,2-01,U.S. House,,DEM,Under Votes,0
+Lincoln,2-01,State Senate,16,REP,Dan Dockstader,427
+Lincoln,2-01,State Senate,16,REP,Write-ins,10
+Lincoln,2-01,State Senate,16,REP,Over Votes,1
+Lincoln,2-01,State Senate,16,REP,Under Votes,33
+Lincoln,2-01,State Senate,16,DEM,Write-ins,0
+Lincoln,2-01,State House,21,REP,McKay L. Erickson,378
+Lincoln,2-01,State House,21,REP,T. Deb Wolfley,88
+Lincoln,2-01,State House,21,REP,Write-ins,0
+Lincoln,2-01,State House,21,REP,Over Votes,1
+Lincoln,2-01,State House,21,REP,Under Votes,4
+Lincoln,2-01,State House,21,DEM,Write-ins,0
+Lincoln,2-01,Ballots Cast,,REP,Ballots Cast,471
+Lincoln,2-01,Ballots Cast,,DEM,Ballots Cast,4
+Lincoln,2-01,Ballots Cast,,NP,Ballots Cast,3
+Lincoln,2-01,Ballots Cast,,,Ballots Cast,478
+Lincoln,2-02,U.S. Senate,,REP,John Barrasso,136
+Lincoln,2-02,U.S. Senate,,REP,John Holtz,4
+Lincoln,2-02,U.S. Senate,,REP,Reid Rasner,30
+Lincoln,2-02,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-02,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-02,U.S. Senate,,REP,Under Votes,5
+Lincoln,2-02,U.S. Senate,,DEM,Scott D Morrow,2
+Lincoln,2-02,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-02,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-02,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-02,U.S. House,,REP,Harriet Hageman,145
+Lincoln,2-02,U.S. House,,REP,Steven R. Helling,21
+Lincoln,2-02,U.S. House,,REP,Write-ins,1
+Lincoln,2-02,U.S. House,,REP,Over Votes,0
+Lincoln,2-02,U.S. House,,REP,Under Votes,8
+Lincoln,2-02,U.S. House,,DEM,Kyle G. Cameron,2
+Lincoln,2-02,U.S. House,,DEM,Write-ins,0
+Lincoln,2-02,U.S. House,,DEM,Over Votes,0
+Lincoln,2-02,U.S. House,,DEM,Under Votes,0
+Lincoln,2-02,State Senate,16,REP,Dan Dockstader,166
+Lincoln,2-02,State Senate,16,REP,Write-ins,3
+Lincoln,2-02,State Senate,16,REP,Over Votes,0
+Lincoln,2-02,State Senate,16,REP,Under Votes,6
+Lincoln,2-02,State Senate,16,DEM,Write-ins,0
+Lincoln,2-02,State House,21,REP,McKay L. Erickson,131
+Lincoln,2-02,State House,21,REP,T. Deb Wolfley,42
+Lincoln,2-02,State House,21,REP,Write-ins,0
+Lincoln,2-02,State House,21,REP,Over Votes,0
+Lincoln,2-02,State House,21,REP,Under Votes,2
+Lincoln,2-02,State House,21,DEM,Write-ins,0
+Lincoln,2-02,Ballots Cast,,REP,Ballots Cast,175
+Lincoln,2-02,Ballots Cast,,DEM,Ballots Cast,2
+Lincoln,2-02,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-02,Ballots Cast,,,Ballots Cast,177
+Lincoln,2-03,U.S. Senate,,REP,John Barrasso,148
+Lincoln,2-03,U.S. Senate,,REP,John Holtz,17
+Lincoln,2-03,U.S. Senate,,REP,Reid Rasner,36
+Lincoln,2-03,U.S. Senate,,REP,Write-ins,6
+Lincoln,2-03,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-03,U.S. Senate,,REP,Under Votes,2
+Lincoln,2-03,U.S. Senate,,DEM,Scott D Morrow,11
+Lincoln,2-03,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-03,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-03,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-03,U.S. House,,REP,Harriet Hageman,167
+Lincoln,2-03,U.S. House,,REP,Steven R. Helling,29
+Lincoln,2-03,U.S. House,,REP,Write-ins,8
+Lincoln,2-03,U.S. House,,REP,Over Votes,0
+Lincoln,2-03,U.S. House,,REP,Under Votes,5
+Lincoln,2-03,U.S. House,,DEM,Kyle G. Cameron,11
+Lincoln,2-03,U.S. House,,DEM,Write-ins,0
+Lincoln,2-03,U.S. House,,DEM,Over Votes,0
+Lincoln,2-03,U.S. House,,DEM,Under Votes,1
+Lincoln,2-03,State Senate,16,REP,Dan Dockstader,187
+Lincoln,2-03,State Senate,16,REP,Write-ins,2
+Lincoln,2-03,State Senate,16,REP,Over Votes,0
+Lincoln,2-03,State Senate,16,REP,Under Votes,20
+Lincoln,2-03,State Senate,16,DEM,Write-ins,0
+Lincoln,2-03,State House,22,REP,Andrew P Byron,167
+Lincoln,2-03,State House,22,REP,Write-ins,7
+Lincoln,2-03,State House,22,REP,Over Votes,0
+Lincoln,2-03,State House,22,REP,Under Votes,35
+Lincoln,2-03,State House,22,DEM,Write-ins,0
+Lincoln,2-03,Ballots Cast,,REP,Ballots Cast,209
+Lincoln,2-03,Ballots Cast,,DEM,Ballots Cast,12
+Lincoln,2-03,Ballots Cast,,NP,Ballots Cast,1
+Lincoln,2-03,Ballots Cast,,,Ballots Cast,222
+Lincoln,2-04,U.S. Senate,,REP,John Barrasso,158
+Lincoln,2-04,U.S. Senate,,REP,John Holtz,12
+Lincoln,2-04,U.S. Senate,,REP,Reid Rasner,78
+Lincoln,2-04,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-04,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-04,U.S. Senate,,REP,Under Votes,5
+Lincoln,2-04,U.S. Senate,,DEM,Scott D Morrow,6
+Lincoln,2-04,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-04,U.S. Senate,,DEM,Over Votes,1
+Lincoln,2-04,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-04,U.S. House,,REP,Harriet Hageman,215
+Lincoln,2-04,U.S. House,,REP,Steven R. Helling,32
+Lincoln,2-04,U.S. House,,REP,Write-ins,1
+Lincoln,2-04,U.S. House,,REP,Over Votes,1
+Lincoln,2-04,U.S. House,,REP,Under Votes,5
+Lincoln,2-04,U.S. House,,DEM,Kyle G. Cameron,7
+Lincoln,2-04,U.S. House,,DEM,Write-ins,0
+Lincoln,2-04,U.S. House,,DEM,Over Votes,0
+Lincoln,2-04,U.S. House,,DEM,Under Votes,0
+Lincoln,2-04,State Senate,16,REP,Dan Dockstader,233
+Lincoln,2-04,State Senate,16,REP,Write-ins,2
+Lincoln,2-04,State Senate,16,REP,Over Votes,0
+Lincoln,2-04,State Senate,16,REP,Under Votes,19
+Lincoln,2-04,State Senate,16,DEM,Write-ins,1
+Lincoln,2-04,State House,21,REP,McKay L. Erickson,168
+Lincoln,2-04,State House,21,REP,T. Deb Wolfley,80
+Lincoln,2-04,State House,21,REP,Write-ins,2
+Lincoln,2-04,State House,21,REP,Over Votes,1
+Lincoln,2-04,State House,21,REP,Under Votes,3
+Lincoln,2-04,State House,21,DEM,Write-ins,1
+Lincoln,2-04,Ballots Cast,,REP,Ballots Cast,254
+Lincoln,2-04,Ballots Cast,,DEM,Ballots Cast,7
+Lincoln,2-04,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-04,Ballots Cast,,,Ballots Cast,261
+Lincoln,2-05,U.S. Senate,,REP,John Barrasso,182
+Lincoln,2-05,U.S. Senate,,REP,John Holtz,31
+Lincoln,2-05,U.S. Senate,,REP,Reid Rasner,94
+Lincoln,2-05,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-05,U.S. Senate,,REP,Over Votes,1
+Lincoln,2-05,U.S. Senate,,REP,Under Votes,6
+Lincoln,2-05,U.S. Senate,,DEM,Scott D Morrow,8
+Lincoln,2-05,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-05,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-05,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-05,U.S. House,,REP,Harriet Hageman,252
+Lincoln,2-05,U.S. House,,REP,Steven R. Helling,54
+Lincoln,2-05,U.S. House,,REP,Write-ins,1
+Lincoln,2-05,U.S. House,,REP,Over Votes,1
+Lincoln,2-05,U.S. House,,REP,Under Votes,6
+Lincoln,2-05,U.S. House,,DEM,Kyle G. Cameron,8
+Lincoln,2-05,U.S. House,,DEM,Write-ins,0
+Lincoln,2-05,U.S. House,,DEM,Over Votes,0
+Lincoln,2-05,U.S. House,,DEM,Under Votes,0
+Lincoln,2-05,State Senate,16,REP,Dan Dockstader,275
+Lincoln,2-05,State Senate,16,REP,Write-ins,6
+Lincoln,2-05,State Senate,16,REP,Over Votes,0
+Lincoln,2-05,State Senate,16,REP,Under Votes,33
+Lincoln,2-05,State Senate,16,DEM,Write-ins,1
+Lincoln,2-05,State House,21,REP,McKay L. Erickson,114
+Lincoln,2-05,State House,21,REP,T. Deb Wolfley,40
+Lincoln,2-05,State House,21,REP,Write-ins,0
+Lincoln,2-05,State House,21,REP,Over Votes,0
+Lincoln,2-05,State House,21,REP,Under Votes,3
+Lincoln,2-05,State House,21,DEM,Write-ins,0
+Lincoln,2-05,State House,22,REP,Andrew P Byron,116
+Lincoln,2-05,State House,22,REP,Write-ins,14
+Lincoln,2-05,State House,22,REP,Over Votes,0
+Lincoln,2-05,State House,22,REP,Under Votes,27
+Lincoln,2-05,State House,22,DEM,Write-ins,1
+Lincoln,2-05,Ballots Cast,,REP,Ballots Cast,314
+Lincoln,2-05,Ballots Cast,,DEM,Ballots Cast,8
+Lincoln,2-05,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-05,Ballots Cast,,,Ballots Cast,322
+Lincoln,2-06,U.S. Senate,,REP,John Barrasso,258
+Lincoln,2-06,U.S. Senate,,REP,John Holtz,12
+Lincoln,2-06,U.S. Senate,,REP,Reid Rasner,82
+Lincoln,2-06,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-06,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-06,U.S. Senate,,REP,Under Votes,6
+Lincoln,2-06,U.S. Senate,,DEM,Scott D Morrow,7
+Lincoln,2-06,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-06,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-06,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-06,U.S. House,,REP,Harriet Hageman,294
+Lincoln,2-06,U.S. House,,REP,Steven R. Helling,50
+Lincoln,2-06,U.S. House,,REP,Write-ins,1
+Lincoln,2-06,U.S. House,,REP,Over Votes,1
+Lincoln,2-06,U.S. House,,REP,Under Votes,13
+Lincoln,2-06,U.S. House,,DEM,Kyle G. Cameron,7
+Lincoln,2-06,U.S. House,,DEM,Write-ins,0
+Lincoln,2-06,U.S. House,,DEM,Over Votes,0
+Lincoln,2-06,U.S. House,,DEM,Under Votes,0
+Lincoln,2-06,State Senate,16,REP,Dan Dockstader,327
+Lincoln,2-06,State Senate,16,REP,Write-ins,4
+Lincoln,2-06,State Senate,16,REP,Over Votes,0
+Lincoln,2-06,State Senate,16,REP,Under Votes,28
+Lincoln,2-06,State Senate,16,DEM,Write-ins,1
+Lincoln,2-06,State House,21,REP,McKay L. Erickson,286
+Lincoln,2-06,State House,21,REP,T. Deb Wolfley,72
+Lincoln,2-06,State House,21,REP,Write-ins,0
+Lincoln,2-06,State House,21,REP,Over Votes,0
+Lincoln,2-06,State House,21,REP,Under Votes,1
+Lincoln,2-06,State House,21,DEM,Write-ins,1
+Lincoln,2-06,Ballots Cast,,REP,Ballots Cast,359
+Lincoln,2-06,Ballots Cast,,DEM,Ballots Cast,7
+Lincoln,2-06,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-06,Ballots Cast,,,Ballots Cast,366
+Lincoln,2-07,U.S. Senate,,REP,John Barrasso,449
+Lincoln,2-07,U.S. Senate,,REP,John Holtz,40
+Lincoln,2-07,U.S. Senate,,REP,Reid Rasner,171
+Lincoln,2-07,U.S. Senate,,REP,Write-ins,3
+Lincoln,2-07,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-07,U.S. Senate,,REP,Under Votes,29
+Lincoln,2-07,U.S. Senate,,DEM,Scott D Morrow,5
+Lincoln,2-07,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-07,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-07,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-07,U.S. House,,REP,Harriet Hageman,573
+Lincoln,2-07,U.S. House,,REP,Steven R. Helling,83
+Lincoln,2-07,U.S. House,,REP,Write-ins,3
+Lincoln,2-07,U.S. House,,REP,Over Votes,0
+Lincoln,2-07,U.S. House,,REP,Under Votes,33
+Lincoln,2-07,U.S. House,,DEM,Kyle G. Cameron,5
+Lincoln,2-07,U.S. House,,DEM,Write-ins,0
+Lincoln,2-07,U.S. House,,DEM,Over Votes,0
+Lincoln,2-07,U.S. House,,DEM,Under Votes,0
+Lincoln,2-07,State Senate,16,REP,Dan Dockstader,630
+Lincoln,2-07,State Senate,16,REP,Write-ins,18
+Lincoln,2-07,State Senate,16,REP,Over Votes,0
+Lincoln,2-07,State Senate,16,REP,Under Votes,44
+Lincoln,2-07,State Senate,16,DEM,Write-ins,0
+Lincoln,2-07,State House,21,REP,McKay L. Erickson,515
+Lincoln,2-07,State House,21,REP,T. Deb Wolfley,172
+Lincoln,2-07,State House,21,REP,Write-ins,0
+Lincoln,2-07,State House,21,REP,Over Votes,0
+Lincoln,2-07,State House,21,REP,Under Votes,5
+Lincoln,2-07,State House,21,DEM,Write-ins,0
+Lincoln,2-07,Ballots Cast,,REP,Ballots Cast,692
+Lincoln,2-07,Ballots Cast,,DEM,Ballots Cast,5
+Lincoln,2-07,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-07,Ballots Cast,,,Ballots Cast,697
+Lincoln,2-08,U.S. Senate,,REP,John Barrasso,178
+Lincoln,2-08,U.S. Senate,,REP,John Holtz,13
+Lincoln,2-08,U.S. Senate,,REP,Reid Rasner,82
+Lincoln,2-08,U.S. Senate,,REP,Write-ins,2
+Lincoln,2-08,U.S. Senate,,REP,Over Votes,1
+Lincoln,2-08,U.S. Senate,,REP,Under Votes,12
+Lincoln,2-08,U.S. Senate,,DEM,Scott D Morrow,1
+Lincoln,2-08,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-08,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-08,U.S. Senate,,DEM,Under Votes,4
+Lincoln,2-08,U.S. House,,REP,Harriet Hageman,235
+Lincoln,2-08,U.S. House,,REP,Steven R. Helling,38
+Lincoln,2-08,U.S. House,,REP,Write-ins,3
+Lincoln,2-08,U.S. House,,REP,Over Votes,0
+Lincoln,2-08,U.S. House,,REP,Under Votes,12
+Lincoln,2-08,U.S. House,,DEM,Kyle G. Cameron,1
+Lincoln,2-08,U.S. House,,DEM,Write-ins,0
+Lincoln,2-08,U.S. House,,DEM,Over Votes,0
+Lincoln,2-08,U.S. House,,DEM,Under Votes,4
+Lincoln,2-08,State Senate,16,REP,Dan Dockstader,251
+Lincoln,2-08,State Senate,16,REP,Write-ins,5
+Lincoln,2-08,State Senate,16,REP,Over Votes,0
+Lincoln,2-08,State Senate,16,REP,Under Votes,32
+Lincoln,2-08,State Senate,16,DEM,Write-ins,0
+Lincoln,2-08,State House,21,REP,McKay L. Erickson,219
+Lincoln,2-08,State House,21,REP,T. Deb Wolfley,65
+Lincoln,2-08,State House,21,REP,Write-ins,0
+Lincoln,2-08,State House,21,REP,Over Votes,0
+Lincoln,2-08,State House,21,REP,Under Votes,4
+Lincoln,2-08,State House,21,DEM,Write-ins,1
+Lincoln,2-08,Ballots Cast,,REP,Ballots Cast,288
+Lincoln,2-08,Ballots Cast,,DEM,Ballots Cast,5
+Lincoln,2-08,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-08,Ballots Cast,,,Ballots Cast,293
+Lincoln,2-09,U.S. Senate,,REP,John Barrasso,119
+Lincoln,2-09,U.S. Senate,,REP,John Holtz,7
+Lincoln,2-09,U.S. Senate,,REP,Reid Rasner,62
+Lincoln,2-09,U.S. Senate,,REP,Write-ins,2
+Lincoln,2-09,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-09,U.S. Senate,,REP,Under Votes,18
+Lincoln,2-09,U.S. Senate,,DEM,Scott D Morrow,9
+Lincoln,2-09,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-09,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-09,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-09,U.S. House,,REP,Harriet Hageman,180
+Lincoln,2-09,U.S. House,,REP,Steven R. Helling,23
+Lincoln,2-09,U.S. House,,REP,Write-ins,0
+Lincoln,2-09,U.S. House,,REP,Over Votes,0
+Lincoln,2-09,U.S. House,,REP,Under Votes,5
+Lincoln,2-09,U.S. House,,DEM,Kyle G. Cameron,7
+Lincoln,2-09,U.S. House,,DEM,Write-ins,0
+Lincoln,2-09,U.S. House,,DEM,Over Votes,0
+Lincoln,2-09,U.S. House,,DEM,Under Votes,2
+Lincoln,2-09,State Senate,14,REP,Albert Sommers,44
+Lincoln,2-09,State Senate,14,REP,Bill Winney,16
+Lincoln,2-09,State Senate,14,REP,Laura Taliaferro Pearson,141
+Lincoln,2-09,State Senate,14,REP,Write-ins,0
+Lincoln,2-09,State Senate,14,REP,Over Votes,0
+Lincoln,2-09,State Senate,14,REP,Under Votes,7
+Lincoln,2-09,State Senate,14,DEM,Write-ins,1
+Lincoln,2-09,State House,18,REP,Scott Heiner,173
+Lincoln,2-09,State House,18,REP,Thomas D. Crank,28
+Lincoln,2-09,State House,18,REP,Write-ins,0
+Lincoln,2-09,State House,18,REP,Over Votes,0
+Lincoln,2-09,State House,18,REP,Under Votes,7
+Lincoln,2-09,State House,18,DEM,Write-ins,1
+Lincoln,2-09,Ballots Cast,,REP,Ballots Cast,208
+Lincoln,2-09,Ballots Cast,,DEM,Ballots Cast,9
+Lincoln,2-09,Ballots Cast,,NP,Ballots Cast,10
+Lincoln,2-09,Ballots Cast,,,Ballots Cast,227
+Lincoln,2-10,U.S. Senate,,REP,John Barrasso,272
+Lincoln,2-10,U.S. Senate,,REP,John Holtz,25
+Lincoln,2-10,U.S. Senate,,REP,Reid Rasner,111
+Lincoln,2-10,U.S. Senate,,REP,Write-ins,6
+Lincoln,2-10,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-10,U.S. Senate,,REP,Under Votes,12
+Lincoln,2-10,U.S. Senate,,DEM,Scott D Morrow,20
+Lincoln,2-10,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-10,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-10,U.S. Senate,,DEM,Under Votes,2
+Lincoln,2-10,U.S. House,,REP,Harriet Hageman,342
+Lincoln,2-10,U.S. House,,REP,Steven R. Helling,59
+Lincoln,2-10,U.S. House,,REP,Write-ins,17
+Lincoln,2-10,U.S. House,,REP,Over Votes,0
+Lincoln,2-10,U.S. House,,REP,Under Votes,8
+Lincoln,2-10,U.S. House,,DEM,Kyle G. Cameron,20
+Lincoln,2-10,U.S. House,,DEM,Write-ins,0
+Lincoln,2-10,U.S. House,,DEM,Over Votes,0
+Lincoln,2-10,U.S. House,,DEM,Under Votes,2
+Lincoln,2-10,State Senate,16,REP,Dan Dockstader,378
+Lincoln,2-10,State Senate,16,REP,Write-ins,8
+Lincoln,2-10,State Senate,16,REP,Over Votes,0
+Lincoln,2-10,State Senate,16,REP,Under Votes,40
+Lincoln,2-10,State Senate,16,DEM,Write-ins,2
+Lincoln,2-10,State House,22,REP,Andrew P Byron,344
+Lincoln,2-10,State House,22,REP,Write-ins,13
+Lincoln,2-10,State House,22,REP,Over Votes,0
+Lincoln,2-10,State House,22,REP,Under Votes,69
+Lincoln,2-10,State House,22,DEM,Write-ins,2
+Lincoln,2-10,Ballots Cast,,REP,Ballots Cast,426
+Lincoln,2-10,Ballots Cast,,DEM,Ballots Cast,22
+Lincoln,2-10,Ballots Cast,,NP,Ballots Cast,17
+Lincoln,2-10,Ballots Cast,,,Ballots Cast,465

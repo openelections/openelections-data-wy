@@ -50,6 +50,11 @@ class LayoutCfg:
     last_name_only: bool = False
     # Per-column office label overrides applied BEFORE forward-fill.
     office_overrides: dict[int, str] | None = None
+    # Back-fill office labels rightward into candidate columns that lack one.
+    # Used for .xls statewide summary workbooks (2000/2002 primary/general)
+    # where the first candidate of each office group sits one column LEFT of
+    # the office label, so forward-fill alone misses it.
+    office_back_fill: bool = False
 
 
 @dataclass
@@ -217,6 +222,86 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
 
     candidate_labels: list[str] = [vjoin(cfg.candidate_rows, c) for c in range(ncols)]
 
+    # Optional back-fill mode (for .xls statewide summary workbooks where the
+    # office label is positioned mid-group, not at the first candidate of the
+    # group). Forward-fill alone mis-extends the previous office across spacer
+    # columns into the next group's first candidates. Instead, identify runs
+    # of contiguous candidate columns and assign each run a single office
+    # label: the explicit label found inside the run, else the nearest
+    # explicit office label on either side (ties prefer left, since labels
+    # conventionally start groups). Non-candidate columns with their own
+    # explicit label (e.g. "Total Ballots Cast") keep that label.
+    if cfg.office_back_fill:
+        office_labels = list(office_labels_raw)
+        # Build per-column nearest explicit-office info on each side.
+        left_lbl: list[str] = [""] * ncols
+        left_dist: list[int | None] = [None] * ncols
+        cur = ""
+        cur_d: int | None = None
+        for c in range(ncols):
+            if office_labels_raw[c]:
+                cur = office_labels_raw[c]
+                cur_d = 0
+            elif cur_d is not None:
+                cur_d += 1
+            left_lbl[c] = cur
+            left_dist[c] = cur_d
+        right_lbl: list[str] = [""] * ncols
+        right_dist: list[int | None] = [None] * ncols
+        cur = ""
+        cur_d = None
+        for c in range(ncols - 1, -1, -1):
+            if office_labels_raw[c]:
+                cur = office_labels_raw[c]
+                cur_d = 0
+            elif cur_d is not None:
+                cur_d += 1
+            right_lbl[c] = cur
+            right_dist[c] = cur_d
+        # Walk runs of contiguous candidate columns.
+        c = 0
+        while c < ncols:
+            if not candidate_labels[c]:
+                c += 1
+                continue
+            run_start = c
+            while c < ncols and candidate_labels[c]:
+                c += 1
+            run_end = c  # exclusive
+            # Find the first explicit office label inside the run.
+            first_explicit = -1
+            for j in range(run_start, run_end):
+                if office_labels_raw[j]:
+                    first_explicit = j
+                    break
+            if first_explicit < 0:
+                # No explicit label inside the run: use nearest outside.
+                ld = left_dist[run_start]
+                rd = right_dist[run_start]
+                if ld is None and rd is None:
+                    label = ""
+                elif ld is None:
+                    label = right_lbl[run_start]
+                elif rd is None:
+                    label = left_lbl[run_start]
+                elif rd < ld:
+                    label = right_lbl[run_start]
+                else:
+                    label = left_lbl[run_start]
+                for j in range(run_start, run_end):
+                    office_labels[j] = label
+            else:
+                # Back-fill the prefix (run_start..first_explicit) from the
+                # first explicit label, then forward-fill the rest.
+                first_label = office_labels_raw[first_explicit]
+                for j in range(run_start, first_explicit):
+                    office_labels[j] = first_label
+                cur = first_label
+                for j in range(first_explicit, run_end):
+                    if office_labels_raw[j]:
+                        cur = office_labels_raw[j]
+                    office_labels[j] = cur
+
     # If a column's joined office text doesn't normalize to a known office,
     # inherit the previous column's normalized office (handles multi-column
     # merged labels where the continuation cell has a fragment like
@@ -369,6 +454,11 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
     # Iterate data rows.
     seen_precincts: list[str] = []
     seen_precinct_set: set[str] = set()
+    # Track emitted (precinct, office, district, party, candidate) keys to drop
+    # duplicates created by source-layout quirks (e.g. 2020 Uinta primary has a
+    # second Democratic Write-Ins/Overvotes/Undervotes block wedged after the
+    # main candidate block for House District 49 — same key, different value).
+    emitted_keys: set[tuple] = set()
     # Labels in the precinct column that should be skipped as block separators
     # (2000 primary uses "::" to delimit race groups within a single sheet).
     SKIP_PRECINCT_LABELS = {"::", ":"}
@@ -460,6 +550,12 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
                 raise ValueError(
                     f"non-integer vote {v!r} at precinct {precinct!r} col {c} in {cfg.county}"
                 )
+            emit_key = (precinct, meta["office"], meta["district"], meta["party"], meta["candidate"])
+            if emit_key in emitted_keys:
+                # Source-layout duplicate (see comment above). Skip the later
+                # occurrence rather than emitting a duplicate row.
+                continue
+            emitted_keys.add(emit_key)
             res.rows.append(Row(
                 county=cfg.county,
                 precinct=precinct,
@@ -493,11 +589,17 @@ def _parse_tbc(grid: list[list], cfg: LayoutCfg) -> SheetResult:
     mat = [[norm_cell(r[i]) if i < len(r) else None for i in range(ncols)] for r in grid]
 
     # Find header row: last row with blank precinct col that has a string in any other col.
+    # Treat a row whose precinct-col cell is the literal "Precinct" (case-insensitive)
+    # as a column-header row — Family D (2022+) TBC sheets include a "Precinct" label
+    # above the data, which would otherwise be parsed as a precinct name.
     header_idx = -1
     for i in range(nrows):
         row = mat[i]
         label = row[cfg.precinct_col] if cfg.precinct_col < len(row) else None
         if isinstance(label, str) and label:
+            if label.lower().strip() == "precinct":
+                header_idx = i
+                continue
             break
         if any(isinstance(v, str) and v for j, v in enumerate(row) if j != cfg.precinct_col):
             header_idx = i

@@ -1,5 +1,6 @@
 # /// script
 # requires-python = ">=3.10"
+# dependencies = ["xlrd>=2.0", "openpyxl>=3.1"]
 # ///
 """Validate generated OpenElections CSVs.
 
@@ -8,6 +9,11 @@ Checks (per election):
   2. county-level file == groupby-sum of statewide precinct file
   3. every county has a precinct file (all 23 expected)
   4. (optional) source-total cross-check: parsed county totals vs captured source totals
+  5. advisory cross-check vs statewide summary workbook (where one exists):
+     per-(county, office, district, party, candidate) totals from the
+     per-county CSV files vs the statewide summary workbook. Discrepancies
+     are reported as advisory -- they may reflect summary workbook layout
+     quirks rather than parser errors.
 
 Usage:
     uv run parsers/validate.py --all
@@ -25,7 +31,11 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from counties import COUNTY_NAMES  # noqa: E402
-from families import ELECTION_DATES  # noqa: E402
+from families import (  # noqa: E402
+    ELECTION_DATES,
+    ElectionSpec,
+    parse_statewide_summary,
+)
 
 PRECINCT_HEADER = ["county", "precinct", "office", "district", "party", "candidate", "votes"]
 COUNTY_HEADER = ["county", "office", "district", "party", "candidate", "votes"]
@@ -36,6 +46,73 @@ def _read(path: Path) -> list[dict]:
         return []
     with path.open("r", encoding="utf-8") as f:
         return list(csv.DictReader(f))
+
+
+def cross_check_summary(date: str, election_type: str) -> list[str]:
+    """Advisory cross-check of per-county CSV totals vs statewide summary workbook.
+
+    Aggregates my per-county precinct CSVs by (county, office, district, party,
+    candidate) and compares to the summary workbook parsed by
+    parse_statewide_summary. Mismatches are reported as advisory: a non-zero
+    count does not fail validation, since summary workbooks sometimes include
+    rows (judicial retentions, ballot issues, party totals) that the per-county
+    CSVs intentionally exclude.
+    """
+    et = "primary" if election_type == "primary" else "general"
+    year = date[:4]
+    base = REPO_ROOT / year / f"{date}__wy__{et}"
+    spec = ElectionSpec(
+        date=date, year=year, election_type=election_type,
+        family="", sources_dir=REPO_ROOT / "sources" / date,
+    )
+    summary = parse_statewide_summary(spec)
+    if not summary:
+        return []
+    csv_totals: dict[tuple, int] = defaultdict(int)
+    for county in COUNTY_NAMES:
+        slug = county.lower().replace(" ", "_")
+        p = base.parent / f"{base.name}__{slug}__precinct.csv"
+        if not p.exists():
+            continue
+        with p.open("r", encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                k = (r["county"], r["office"], r["district"], r["party"], r["candidate"])
+                try:
+                    v = int(r["votes"])
+                except ValueError:
+                    continue
+                csv_totals[k] += v
+    notes: list[str] = []
+    mismatches: list[tuple] = []
+    only_in_summary: list[tuple] = []
+    only_in_csv: list[tuple] = []
+    for k in set(summary) | set(csv_totals):
+        s = summary.get(k, 0)
+        c = csv_totals.get(k, 0)
+        if s == c:
+            continue
+        if s and not c:
+            only_in_summary.append((k, s))
+        elif c and not s:
+            only_in_csv.append((k, c))
+        else:
+            mismatches.append((k, s, c))
+    if mismatches:
+        notes.append(
+            f"{date}: summary cross-check {len(mismatches)} value mismatch(es); "
+            f"first: {mismatches[:5]}"
+        )
+    if only_in_summary:
+        notes.append(
+            f"{date}: summary cross-check {len(only_in_summary)} key(s) only in summary "
+            f"(likely ballot issues / judicial / party totals); first: {only_in_summary[:5]}"
+        )
+    if only_in_csv:
+        notes.append(
+            f"{date}: summary cross-check {len(only_in_csv)} key(s) only in CSV "
+            f"(possible parser invention or summary gap); first: {only_in_csv[:5]}"
+        )
+    return notes
 
 
 def validate_election(date: str, election_type: str) -> list[str]:
@@ -108,6 +185,11 @@ def validate_election(date: str, election_type: str) -> list[str]:
     if mismatches:
         problems.append(f"{date}: county-level != groupby-sum(statewide); {len(mismatches)} mismatch(es); first: {mismatches[:3]}")
 
+    # Advisory summary cross-check (does not fail validation).
+    notes = cross_check_summary(date, election_type)
+    for n in notes:
+        problems.append("ADVISORY: " + n)
+
     return problems
 
 
@@ -137,11 +219,15 @@ def main() -> int:
             any_problem = True
             continue
         problems = validate_election(date, et)
-        if problems:
+        failures = [p for p in problems if not p.startswith("ADVISORY:")]
+        advisories = [p for p in problems if p.startswith("ADVISORY:")]
+        if failures:
             any_problem = True
-            for p in problems:
+            for p in failures:
                 print("FAIL:", p)
-        else:
+        for p in advisories:
+            print(p)
+        if not failures:
             print(f"OK {date} {et}")
     return 1 if any_problem else 0
 

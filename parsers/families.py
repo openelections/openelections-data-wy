@@ -27,6 +27,18 @@ ELECTION_DATES = {
     "20101102": ("2010", "general"),
     "20120821": ("2012", "primary"),
     "20121106": ("2012", "general"),
+    "20140819": ("2014", "primary"),
+    "20141104": ("2014", "general"),
+    "20160816": ("2016", "primary"),
+    "20161108": ("2016", "general"),
+    "20180821": ("2018", "primary"),
+    "20181106": ("2018", "general"),
+    "20200818": ("2020", "primary"),
+    "20201103": ("2020", "general"),
+    "20220816": ("2022", "primary"),
+    "20221108": ("2022", "general"),
+    "20240820": ("2024", "primary"),
+    "20241105": ("2024", "general"),
 }
 
 
@@ -107,12 +119,14 @@ FAMA_2002_2004_RE = re.compile(r"^([A-Za-z ]+)\.xls$", re.IGNORECASE)
 # ---------------------------------------------------------------------------
 
 def family_c_cfg(role: str, election_type: str, county: str) -> LayoutCfg:
+    # '.' appears in some 2020 primary sheets as a stray placeholder (treat as NA).
+    na_markers = frozenset({"-", "`", "."})
     if role == "tbc":
         return LayoutCfg(
             office_rows=[0],
             candidate_rows=[1],
             data_start_row=2,
-            na_markers=frozenset({"-", "`"}),
+            na_markers=na_markers,
             total_row_labels=frozenset({"total", "totals", "official totals"}),
             county=county,
             election_type=election_type,
@@ -124,7 +138,7 @@ def family_c_cfg(role: str, election_type: str, county: str) -> LayoutCfg:
             party_row=1,
             candidate_rows=[2],
             data_start_row=3,
-            na_markers=frozenset({"-", "`"}),
+            na_markers=na_markers,
             total_row_labels=frozenset({"total", "totals", "official totals"}),
             county=county,
             election_type=election_type,
@@ -133,7 +147,7 @@ def family_c_cfg(role: str, election_type: str, county: str) -> LayoutCfg:
         office_rows=[0],
         candidate_rows=[1],
         data_start_row=2,
-        na_markers=frozenset({"-", "`"}),
+        na_markers=na_markers,
         total_row_labels=frozenset({"total", "totals", "official totals"}),
         county=county,
         election_type=election_type,
@@ -294,6 +308,116 @@ def parse_family_b(spec: ElectionSpec) -> dict[str, list[Row]]:
             pbp_precincts_by_county[county] = res.precincts
 
     # Merge TBC rows onto PbP precinct names.
+    for county, tbc in tbc_res_by_county.items():
+        pbp_p = pbp_precincts_by_county.get(county, tbc.precincts)
+        aligned = _align_tbc_to_pbp(per_county.get(county, []), tbc, pbp_p)
+        per_county.setdefault(county, []).extend(aligned)
+    return per_county
+
+
+# ---------------------------------------------------------------------------
+# Family D: 2022, 2024 (consolidated workbooks, per-county sheets)
+# ---------------------------------------------------------------------------
+
+# Filenames vary: 2022 uses "2022_Primary_County_PbP.xlsx", 2024 uses
+# "2024 Primary County PbP Results - OFFICIAL.xlsx". Match loosely.
+FAMD_PBP_RE = re.compile(r"(primary|general).*county.*pbp", re.IGNORECASE)
+FAMD_TBC_RE = re.compile(r"(primary|general).*county.*pbp.*tbc|county.*pbp.*tbc", re.IGNORECASE)
+FAMD_TBC_GEN_RE = re.compile(r"county.*general.*pbp.*tbc|general.*county.*pbp.*tbc", re.IGNORECASE)
+
+
+def _family_d_is_tbc(name: str) -> bool:
+    n = name.lower()
+    return ("tbc" in n and "pbp" in n) or ("total ballot" in n)
+
+
+def family_d_cfg(election_type: str, county: str) -> LayoutCfg:
+    """Family D PbP layout: title row 0, blank row 1, office row 2, then
+    party row 3 + candidate row 4 + data row 5 (primary), or candidate row 3 +
+    data row 4 (general). Office labels include ", Continued" suffixes for
+    wrapped races — normalize_office handles those."""
+    if election_type == "primary":
+        return LayoutCfg(
+            office_rows=[2],
+            party_row=3,
+            candidate_rows=[4],
+            data_start_row=5,
+            na_markers=frozenset({"-", "`", "."}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county=county,
+            election_type=election_type,
+        )
+    return LayoutCfg(
+        office_rows=[2],
+        candidate_rows=[3],
+        data_start_row=4,
+        na_markers=frozenset({"-", "`", "."}),
+        total_row_labels=frozenset({"total", "totals", "official totals"}),
+        county=county,
+        election_type=election_type,
+    )
+
+
+def parse_family_d(spec: ElectionSpec) -> dict[str, list[Row]]:
+    """Family D: each election ships as 2 consolidated workbooks (PbP + TBC),
+    each with one sheet per county (sheet title = county name)."""
+    per_county: dict[str, list[Row]] = {}
+    pbp_precincts_by_county: dict[str, list[str]] = {}
+    tbc_res_by_county: dict[str, SheetResult] = {}
+
+    pbp_path: Path | None = None
+    tbc_path: Path | None = None
+    for path in sorted(spec.sources_dir.iterdir()):
+        if not path.is_file() or not path.suffix.lower() == ".xlsx":
+            continue
+        if _family_d_is_tbc(path.name):
+            tbc_path = path
+        elif "pbp" in path.name.lower():
+            pbp_path = path
+
+    if pbp_path is not None:
+        sheets = read_any_with_names(str(pbp_path))
+        for sheet_name, sheet in sheets:
+            county = sheet_name.strip()
+            if county not in COUNTY_NAMES_SET:
+                # Skip non-county sheets (e.g. "Summary").
+                continue
+            if not sheet or all(all(v is None for v in r) for r in sheet):
+                continue
+            cfg = family_d_cfg(spec.election_type, county)
+            res = parse_sheet(sheet, cfg)
+            if res.rows or res.precincts:
+                per_county.setdefault(county, []).extend(res.rows)
+                if county not in pbp_precincts_by_county or len(res.precincts) > len(pbp_precincts_by_county[county]):
+                    pbp_precincts_by_county[county] = res.precincts
+
+    if tbc_path is not None:
+        sheets = read_any_with_names(str(tbc_path))
+        for sheet_name, sheet in sheets:
+            county = sheet_name.strip()
+            if county not in COUNTY_NAMES_SET:
+                continue
+            if not sheet or all(all(v is None for v in r) for r in sheet):
+                continue
+            cfg = family_d_cfg(spec.election_type, county)
+            cfg = LayoutCfg(
+                office_rows=cfg.office_rows,
+                candidate_rows=cfg.candidate_rows,
+                party_row=cfg.party_row,
+                data_start_row=cfg.data_start_row,
+                # TBC sheets are purely numeric; source files occasionally have
+                # stray text (e.g. 'No') in cells that should be integers — treat
+                # those as NA rather than aborting the whole election.
+                na_markers=cfg.na_markers | frozenset({"No", "Yes"}),
+                total_row_labels=cfg.total_row_labels,
+                county=county,
+                election_type=spec.election_type,
+                is_tbc=True,
+            )
+            res = parse_sheet(sheet, cfg)
+            if res.rows or res.precincts:
+                tbc_res_by_county[county] = res
+
     for county, tbc in tbc_res_by_county.items():
         pbp_p = pbp_precincts_by_county.get(county, tbc.precincts)
         aligned = _align_tbc_to_pbp(per_county.get(county, []), tbc, pbp_p)
@@ -494,7 +618,146 @@ def parse_election(spec: ElectionSpec) -> dict[str, list[Row]]:
         return parse_family_b(spec)
     if spec.family == "C":
         return parse_family_c(spec)
+    if spec.family == "D":
+        return parse_family_d(spec)
     raise NotImplementedError(spec.family)
+
+
+# ---------------------------------------------------------------------------
+# Statewide summary workbooks (advisory cross-check source)
+# ---------------------------------------------------------------------------
+
+# Per-election summary file layouts. Each entry: (filename, LayoutCfg kwargs).
+# Layouts match the corresponding per-county family cfg with these differences:
+#   - county="Statewide" (placeholder; real county comes from col 0 of each row)
+#   - data_start_row shifted down (summary files have more header rows)
+#   - total_row_labels includes "Official Totals" for .xls summaries
+# 2004 primary/general summary files are templates with no usable data — skipped.
+# 2012 general has no summary file in sources/.
+SUMMARY_LAYOUTS: dict[str, list[tuple[str, dict]]] = {
+    "20000822": [  # 2000 primary
+        ("US - 2000 - Statewide summary.xls", dict(
+            office_rows=[0, 1], candidate_rows=[3], data_start_row=5,
+            na_markers=frozenset({"-", "`", "NA", "N"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="primary", file_party="",
+            office_back_fill=True,
+        )),
+    ],
+    "20001107": [  # 2000 general
+        ("Statewide Issues & Races.xls", dict(
+            office_rows=[0, 1, 2], candidate_rows=[4], data_start_row=6,
+            na_markers=frozenset({"-", "`", "NA", "N"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="general", file_party="",
+            office_back_fill=True,
+        )),
+    ],
+    "20020820": [  # 2002 primary
+        ("Primary Summary Statewide.xls", dict(
+            office_rows=[0, 1], candidate_rows=[3], data_start_row=5,
+            na_markers=frozenset({"-", "`", "NA", "N"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="primary", file_party="",
+            office_back_fill=True,
+        )),
+    ],
+    "20021105": [  # 2002 general
+        ("General Summary2.xls", dict(
+            office_rows=[0, 1, 2], candidate_rows=[3], data_start_row=5,
+            na_markers=frozenset({"-", "`", "NA", "N"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="general", file_party="",
+            office_back_fill=True,
+        )),
+    ],
+    # 2004 primary/general: template files, skipped.
+    "20080819": [  # 2008 primary: 3 per-party files
+        ("D-Statewide_Candidates_Summary.xls", dict(
+            office_rows=[1], candidate_rows=[2], data_start_row=3,
+            na_markers=frozenset({"-", "`"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="primary", file_party="DEM",
+        )),
+        ("R-Statewide_Candidates_Summary.xls", dict(
+            office_rows=[1], candidate_rows=[2], data_start_row=3,
+            na_markers=frozenset({"-", "`"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="primary", file_party="REP",
+        )),
+        ("L-Statewide_Candidates_Summary.xls", dict(
+            office_rows=[1], candidate_rows=[2], data_start_row=3,
+            na_markers=frozenset({"-", "`"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="primary", file_party="LIB",
+        )),
+    ],
+    "20081104": [  # 2008 general
+        ("Statewide_Candidates_Summary.xlsx", dict(
+            office_rows=[1], candidate_rows=[2], data_start_row=4,
+            na_markers=frozenset({"-", "`"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="general", file_party="",
+        )),
+    ],
+    "20100817": [  # 2010 primary
+        ("2010_Statewide_Candidates_Summary.xlsx", dict(
+            office_rows=[0], party_row=1, candidate_rows=[2], data_start_row=3,
+            na_markers=frozenset({"-", "`"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="primary", file_party="",
+        )),
+    ],
+    "20101102": [  # 2010 general
+        ("2010_Statewide_Candidates_Summary.xlsx", dict(
+            office_rows=[0], candidate_rows=[1], data_start_row=2,
+            na_markers=frozenset({"-", "`"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="general", file_party="",
+        )),
+    ],
+    "20120821": [  # 2012 primary
+        ("2012_Statewide_Candidates_Summary.xlsx", dict(
+            office_rows=[0], party_row=1, candidate_rows=[2], data_start_row=3,
+            na_markers=frozenset({"-", "`"}),
+            total_row_labels=frozenset({"total", "totals", "official totals"}),
+            county="Statewide", election_type="primary", file_party="",
+        )),
+    ],
+    # 20121106: no summary file in sources/.
+}
+
+
+def parse_statewide_summary(spec: ElectionSpec) -> dict[tuple[str, str, str, str, str], int]:
+    """Parse statewide summary workbook(s) and aggregate by (county, office, district, party, candidate).
+
+    Returns {} if no summary exists for this election. The 'Total' / 'Official
+    Totals' row is captured into source_totals by parse_sheet and excluded from
+    data rows, so it is not aggregated here.
+    """
+    layouts = SUMMARY_LAYOUTS.get(spec.date)
+    if not layouts:
+        return {}
+    out: dict[tuple[str, str, str, str, str], int] = {}
+    for fname, kw in layouts:
+        path = spec.sources_dir / fname
+        if not path.exists():
+            continue
+        cfg = LayoutCfg(**kw)
+        sheets = read_any(str(path))
+        for sheet in sheets:
+            if not sheet or all(all(v is None for v in r) for r in sheet):
+                continue
+            res = parse_sheet(sheet, cfg)
+            for r in res.rows:
+                # Swap: precinct col held the county name; cfg.county was placeholder.
+                county = r.precinct
+                if county.lower() in cfg.total_row_labels:
+                    continue
+                key = (county, r.office, r.district, r.party, r.candidate)
+                out[key] = out.get(key, 0) + r.votes
+            break
+    return out
 
 
 def discover_elections(sources_root: Path) -> list[ElectionSpec]:
@@ -503,8 +766,10 @@ def discover_elections(sources_root: Path) -> list[ElectionSpec]:
         d = sources_root / date
         if not d.is_dir():
             continue
-        if year in ("2010", "2012"):
+        if year in ("2010", "2012", "2014", "2016", "2018", "2020"):
             family = "C"
+        elif year in ("2022", "2024"):
+            family = "D"
         elif year == "2008":
             family = "B"
         else:

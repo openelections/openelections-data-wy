@@ -1,0 +1,451 @@
+county,precinct,office,district,party,candidate,votes
+Niobrara,1-2,U.S. House,,REP,Anthony Bouchard,1
+Niobrara,1-2,U.S. House,,REP,Denton Knapp,0
+Niobrara,1-2,U.S. House,,REP,Harriet Hageman,44
+Niobrara,1-2,U.S. House,,REP,Liz Cheney,1
+Niobrara,1-2,U.S. House,,REP,Robyn M. Belinskey,0
+Niobrara,1-2,U.S. House,,REP,Write-ins,0
+Niobrara,1-2,U.S. House,,REP,Over Votes,1
+Niobrara,1-2,U.S. House,,REP,Under Votes,0
+Niobrara,1-2,U.S. House,,DEM,Lynnette GreyBull,0
+Niobrara,1-2,U.S. House,,DEM,Meghan R. Jensen,0
+Niobrara,1-2,U.S. House,,DEM,Steve Helling,0
+Niobrara,1-2,U.S. House,,DEM,Write-ins,0
+Niobrara,1-2,U.S. House,,DEM,Over Votes,0
+Niobrara,1-2,U.S. House,,DEM,Under Votes,0
+Niobrara,1-2,Governor,,REP,Brent Bien,23
+Niobrara,1-2,Governor,,REP,James Scott Quick,2
+Niobrara,1-2,Governor,,REP,Mark Gordon,20
+Niobrara,1-2,Governor,,REP,Rex Rammell,2
+Niobrara,1-2,Governor,,REP,Write-ins,0
+Niobrara,1-2,Governor,,REP,Over Votes,0
+Niobrara,1-2,Governor,,REP,Under Votes,0
+Niobrara,1-2,Governor,,DEM,Rex Wilde,0
+Niobrara,1-2,Governor,,DEM,Theresa A. Livingston,0
+Niobrara,1-2,Governor,,DEM,Write-ins,0
+Niobrara,1-2,Governor,,DEM,Over Votes,0
+Niobrara,1-2,Governor,,DEM,Under Votes,0
+Niobrara,1-2,Secretary of State,,REP,* Withdrawn Candidate,1
+Niobrara,1-2,Secretary of State,,REP,Chuck Gray,27
+Niobrara,1-2,Secretary of State,,REP,Mark Armstrong,2
+Niobrara,1-2,Secretary of State,,REP,Tara Nethercott,16
+Niobrara,1-2,Secretary of State,,REP,Write-ins,0
+Niobrara,1-2,Secretary of State,,REP,Over Votes,0
+Niobrara,1-2,Secretary of State,,REP,Under Votes,1
+Niobrara,1-2,Secretary of State,,DEM,Write-ins,0
+Niobrara,1-2,Secretary of State,,DEM,Over Votes,0
+Niobrara,1-2,Secretary of State,,DEM,Under Votes,0
+Niobrara,1-2,State Auditor,,REP,Kristi Racines,42
+Niobrara,1-2,State Auditor,,REP,Write-ins,0
+Niobrara,1-2,State Auditor,,REP,Over Votes,0
+Niobrara,1-2,State Auditor,,REP,Under Votes,5
+Niobrara,1-2,State Auditor,,DEM,Write-ins,0
+Niobrara,1-2,State Treasurer,,REP,Bill Gallop,8
+Niobrara,1-2,State Treasurer,,REP,Curt Meier,34
+Niobrara,1-2,State Treasurer,,REP,Write-ins,0
+Niobrara,1-2,State Treasurer,,REP,Over Votes,0
+Niobrara,1-2,State Treasurer,,REP,Under Votes,5
+Niobrara,1-2,State Treasurer,,DEM,Write-ins,0
+Niobrara,1-2,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,4
+Niobrara,1-2,Superintendent of Public Instruction,,REP,Brian Schroeder,19
+Niobrara,1-2,Superintendent of Public Instruction,,REP,Jennifer Zerba,2
+Niobrara,1-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,15
+Niobrara,1-2,Superintendent of Public Instruction,,REP,Robert J. White III,0
+Niobrara,1-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Niobrara,1-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Niobrara,1-2,Superintendent of Public Instruction,,REP,Under Votes,7
+Niobrara,1-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Niobrara,1-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Niobrara,1-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Niobrara,1-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Niobrara,1-2,State Senate,3,REP,Cheri Steinmetz,26
+Niobrara,1-2,State Senate,3,REP,Marty Ertman,19
+Niobrara,1-2,State Senate,3,REP,Write-ins,0
+Niobrara,1-2,State Senate,3,REP,Over Votes,0
+Niobrara,1-2,State Senate,3,REP,Under Votes,2
+Niobrara,1-2,State Senate,3,DEM,Write-ins,0
+Niobrara,1-2,State House,2,REP,Allen Earl Slagle,2
+Niobrara,1-2,State House,2,REP,JD Williams,44
+Niobrara,1-2,State House,2,REP,Write-ins,0
+Niobrara,1-2,State House,2,REP,Over Votes,0
+Niobrara,1-2,State House,2,REP,Under Votes,1
+Niobrara,1-2,State House,2,DEM,Write-ins,0
+Niobrara,1-2,Ballots Cast,,REP,Ballots Cast,47
+Niobrara,1-2,Ballots Cast,,DEM,Ballots Cast,0
+Niobrara,1-2,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,1-2,Ballots Cast,,,Ballots Cast,47
+Niobrara,3-2,U.S. House,,REP,Anthony Bouchard,2
+Niobrara,3-2,U.S. House,,REP,Denton Knapp,0
+Niobrara,3-2,U.S. House,,REP,Harriet Hageman,60
+Niobrara,3-2,U.S. House,,REP,Liz Cheney,5
+Niobrara,3-2,U.S. House,,REP,Robyn M. Belinskey,1
+Niobrara,3-2,U.S. House,,REP,Write-ins,0
+Niobrara,3-2,U.S. House,,REP,Over Votes,0
+Niobrara,3-2,U.S. House,,REP,Under Votes,1
+Niobrara,3-2,U.S. House,,DEM,Lynnette GreyBull,0
+Niobrara,3-2,U.S. House,,DEM,Meghan R. Jensen,0
+Niobrara,3-2,U.S. House,,DEM,Steve Helling,0
+Niobrara,3-2,U.S. House,,DEM,Write-ins,0
+Niobrara,3-2,U.S. House,,DEM,Over Votes,0
+Niobrara,3-2,U.S. House,,DEM,Under Votes,0
+Niobrara,3-2,Governor,,REP,Brent Bien,35
+Niobrara,3-2,Governor,,REP,James Scott Quick,1
+Niobrara,3-2,Governor,,REP,Mark Gordon,26
+Niobrara,3-2,Governor,,REP,Rex Rammell,4
+Niobrara,3-2,Governor,,REP,Write-ins,0
+Niobrara,3-2,Governor,,REP,Over Votes,0
+Niobrara,3-2,Governor,,REP,Under Votes,3
+Niobrara,3-2,Governor,,DEM,Rex Wilde,0
+Niobrara,3-2,Governor,,DEM,Theresa A. Livingston,0
+Niobrara,3-2,Governor,,DEM,Write-ins,0
+Niobrara,3-2,Governor,,DEM,Over Votes,0
+Niobrara,3-2,Governor,,DEM,Under Votes,0
+Niobrara,3-2,Secretary of State,,REP,* Withdrawn Candidate,2
+Niobrara,3-2,Secretary of State,,REP,Chuck Gray,42
+Niobrara,3-2,Secretary of State,,REP,Mark Armstrong,5
+Niobrara,3-2,Secretary of State,,REP,Tara Nethercott,13
+Niobrara,3-2,Secretary of State,,REP,Write-ins,1
+Niobrara,3-2,Secretary of State,,REP,Over Votes,0
+Niobrara,3-2,Secretary of State,,REP,Under Votes,6
+Niobrara,3-2,Secretary of State,,DEM,Write-ins,0
+Niobrara,3-2,Secretary of State,,DEM,Over Votes,0
+Niobrara,3-2,Secretary of State,,DEM,Under Votes,0
+Niobrara,3-2,State Auditor,,REP,Kristi Racines,56
+Niobrara,3-2,State Auditor,,REP,Write-ins,0
+Niobrara,3-2,State Auditor,,REP,Over Votes,0
+Niobrara,3-2,State Auditor,,REP,Under Votes,13
+Niobrara,3-2,State Auditor,,DEM,Write-ins,0
+Niobrara,3-2,State Treasurer,,REP,Bill Gallop,10
+Niobrara,3-2,State Treasurer,,REP,Curt Meier,47
+Niobrara,3-2,State Treasurer,,REP,Write-ins,0
+Niobrara,3-2,State Treasurer,,REP,Over Votes,0
+Niobrara,3-2,State Treasurer,,REP,Under Votes,12
+Niobrara,3-2,State Treasurer,,DEM,Write-ins,0
+Niobrara,3-2,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,1
+Niobrara,3-2,Superintendent of Public Instruction,,REP,Brian Schroeder,28
+Niobrara,3-2,Superintendent of Public Instruction,,REP,Jennifer Zerba,4
+Niobrara,3-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,23
+Niobrara,3-2,Superintendent of Public Instruction,,REP,Robert J. White III,1
+Niobrara,3-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Niobrara,3-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Niobrara,3-2,Superintendent of Public Instruction,,REP,Under Votes,12
+Niobrara,3-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Niobrara,3-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Niobrara,3-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Niobrara,3-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Niobrara,3-2,State Senate,3,REP,Cheri Steinmetz,39
+Niobrara,3-2,State Senate,3,REP,Marty Ertman,21
+Niobrara,3-2,State Senate,3,REP,Write-ins,0
+Niobrara,3-2,State Senate,3,REP,Over Votes,0
+Niobrara,3-2,State Senate,3,REP,Under Votes,9
+Niobrara,3-2,State Senate,3,DEM,Write-ins,0
+Niobrara,3-2,State House,2,REP,Allen Earl Slagle,11
+Niobrara,3-2,State House,2,REP,JD Williams,57
+Niobrara,3-2,State House,2,REP,Write-ins,0
+Niobrara,3-2,State House,2,REP,Over Votes,0
+Niobrara,3-2,State House,2,REP,Under Votes,1
+Niobrara,3-2,State House,2,DEM,Write-ins,0
+Niobrara,3-2,Ballots Cast,,REP,Ballots Cast,69
+Niobrara,3-2,Ballots Cast,,DEM,Ballots Cast,0
+Niobrara,3-2,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,3-2,Ballots Cast,,,Ballots Cast,69
+Niobrara,4-1,U.S. House,,REP,Anthony Bouchard,2
+Niobrara,4-1,U.S. House,,REP,Denton Knapp,0
+Niobrara,4-1,U.S. House,,REP,Harriet Hageman,85
+Niobrara,4-1,U.S. House,,REP,Liz Cheney,2
+Niobrara,4-1,U.S. House,,REP,Robyn M. Belinskey,0
+Niobrara,4-1,U.S. House,,REP,Write-ins,0
+Niobrara,4-1,U.S. House,,REP,Over Votes,0
+Niobrara,4-1,U.S. House,,REP,Under Votes,0
+Niobrara,4-1,U.S. House,,DEM,Lynnette GreyBull,0
+Niobrara,4-1,U.S. House,,DEM,Meghan R. Jensen,0
+Niobrara,4-1,U.S. House,,DEM,Steve Helling,0
+Niobrara,4-1,U.S. House,,DEM,Write-ins,0
+Niobrara,4-1,U.S. House,,DEM,Over Votes,0
+Niobrara,4-1,U.S. House,,DEM,Under Votes,0
+Niobrara,4-1,Governor,,REP,Brent Bien,53
+Niobrara,4-1,Governor,,REP,James Scott Quick,14
+Niobrara,4-1,Governor,,REP,Mark Gordon,20
+Niobrara,4-1,Governor,,REP,Rex Rammell,0
+Niobrara,4-1,Governor,,REP,Write-ins,0
+Niobrara,4-1,Governor,,REP,Over Votes,0
+Niobrara,4-1,Governor,,REP,Under Votes,2
+Niobrara,4-1,Governor,,DEM,Rex Wilde,0
+Niobrara,4-1,Governor,,DEM,Theresa A. Livingston,0
+Niobrara,4-1,Governor,,DEM,Write-ins,0
+Niobrara,4-1,Governor,,DEM,Over Votes,0
+Niobrara,4-1,Governor,,DEM,Under Votes,0
+Niobrara,4-1,Secretary of State,,REP,* Withdrawn Candidate,5
+Niobrara,4-1,Secretary of State,,REP,Chuck Gray,57
+Niobrara,4-1,Secretary of State,,REP,Mark Armstrong,7
+Niobrara,4-1,Secretary of State,,REP,Tara Nethercott,16
+Niobrara,4-1,Secretary of State,,REP,Write-ins,0
+Niobrara,4-1,Secretary of State,,REP,Over Votes,0
+Niobrara,4-1,Secretary of State,,REP,Under Votes,4
+Niobrara,4-1,Secretary of State,,DEM,Write-ins,0
+Niobrara,4-1,Secretary of State,,DEM,Over Votes,0
+Niobrara,4-1,Secretary of State,,DEM,Under Votes,0
+Niobrara,4-1,State Auditor,,REP,Kristi Racines,71
+Niobrara,4-1,State Auditor,,REP,Write-ins,0
+Niobrara,4-1,State Auditor,,REP,Over Votes,0
+Niobrara,4-1,State Auditor,,REP,Under Votes,18
+Niobrara,4-1,State Auditor,,DEM,Write-ins,0
+Niobrara,4-1,State Treasurer,,REP,Bill Gallop,17
+Niobrara,4-1,State Treasurer,,REP,Curt Meier,57
+Niobrara,4-1,State Treasurer,,REP,Write-ins,0
+Niobrara,4-1,State Treasurer,,REP,Over Votes,0
+Niobrara,4-1,State Treasurer,,REP,Under Votes,15
+Niobrara,4-1,State Treasurer,,DEM,Write-ins,0
+Niobrara,4-1,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,11
+Niobrara,4-1,Superintendent of Public Instruction,,REP,Brian Schroeder,42
+Niobrara,4-1,Superintendent of Public Instruction,,REP,Jennifer Zerba,3
+Niobrara,4-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,17
+Niobrara,4-1,Superintendent of Public Instruction,,REP,Robert J. White III,4
+Niobrara,4-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Niobrara,4-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Niobrara,4-1,Superintendent of Public Instruction,,REP,Under Votes,12
+Niobrara,4-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Niobrara,4-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Niobrara,4-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Niobrara,4-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Niobrara,4-1,State Senate,3,REP,Cheri Steinmetz,41
+Niobrara,4-1,State Senate,3,REP,Marty Ertman,39
+Niobrara,4-1,State Senate,3,REP,Write-ins,1
+Niobrara,4-1,State Senate,3,REP,Over Votes,0
+Niobrara,4-1,State Senate,3,REP,Under Votes,8
+Niobrara,4-1,State Senate,3,DEM,Write-ins,0
+Niobrara,4-1,State House,2,REP,Allen Earl Slagle,39
+Niobrara,4-1,State House,2,REP,JD Williams,48
+Niobrara,4-1,State House,2,REP,Write-ins,0
+Niobrara,4-1,State House,2,REP,Over Votes,0
+Niobrara,4-1,State House,2,REP,Under Votes,2
+Niobrara,4-1,State House,2,DEM,Write-ins,0
+Niobrara,4-1,Ballots Cast,,REP,Ballots Cast,89
+Niobrara,4-1,Ballots Cast,,DEM,Ballots Cast,0
+Niobrara,4-1,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,4-1,Ballots Cast,,,Ballots Cast,89
+Niobrara,6-1,U.S. House,,REP,Anthony Bouchard,10
+Niobrara,6-1,U.S. House,,REP,Denton Knapp,3
+Niobrara,6-1,U.S. House,,REP,Harriet Hageman,216
+Niobrara,6-1,U.S. House,,REP,Liz Cheney,24
+Niobrara,6-1,U.S. House,,REP,Robyn M. Belinskey,3
+Niobrara,6-1,U.S. House,,REP,Write-ins,0
+Niobrara,6-1,U.S. House,,REP,Over Votes,2
+Niobrara,6-1,U.S. House,,REP,Under Votes,1
+Niobrara,6-1,U.S. House,,DEM,Lynnette GreyBull,3
+Niobrara,6-1,U.S. House,,DEM,Meghan R. Jensen,1
+Niobrara,6-1,U.S. House,,DEM,Steve Helling,1
+Niobrara,6-1,U.S. House,,DEM,Write-ins,0
+Niobrara,6-1,U.S. House,,DEM,Over Votes,0
+Niobrara,6-1,U.S. House,,DEM,Under Votes,0
+Niobrara,6-1,Governor,,REP,Brent Bien,124
+Niobrara,6-1,Governor,,REP,James Scott Quick,17
+Niobrara,6-1,Governor,,REP,Mark Gordon,93
+Niobrara,6-1,Governor,,REP,Rex Rammell,15
+Niobrara,6-1,Governor,,REP,Write-ins,0
+Niobrara,6-1,Governor,,REP,Over Votes,0
+Niobrara,6-1,Governor,,REP,Under Votes,10
+Niobrara,6-1,Governor,,DEM,Rex Wilde,2
+Niobrara,6-1,Governor,,DEM,Theresa A. Livingston,2
+Niobrara,6-1,Governor,,DEM,Write-ins,0
+Niobrara,6-1,Governor,,DEM,Over Votes,0
+Niobrara,6-1,Governor,,DEM,Under Votes,1
+Niobrara,6-1,Secretary of State,,REP,* Withdrawn Candidate,0
+Niobrara,6-1,Secretary of State,,REP,Chuck Gray,149
+Niobrara,6-1,Secretary of State,,REP,Mark Armstrong,20
+Niobrara,6-1,Secretary of State,,REP,Tara Nethercott,69
+Niobrara,6-1,Secretary of State,,REP,Write-ins,0
+Niobrara,6-1,Secretary of State,,REP,Over Votes,2
+Niobrara,6-1,Secretary of State,,REP,Under Votes,19
+Niobrara,6-1,Secretary of State,,DEM,Write-ins,0
+Niobrara,6-1,Secretary of State,,DEM,Over Votes,0
+Niobrara,6-1,Secretary of State,,DEM,Under Votes,5
+Niobrara,6-1,State Auditor,,REP,Kristi Racines,217
+Niobrara,6-1,State Auditor,,REP,Write-ins,2
+Niobrara,6-1,State Auditor,,REP,Over Votes,0
+Niobrara,6-1,State Auditor,,REP,Under Votes,40
+Niobrara,6-1,State Auditor,,DEM,Write-ins,0
+Niobrara,6-1,State Treasurer,,REP,Bill Gallop,31
+Niobrara,6-1,State Treasurer,,REP,Curt Meier,197
+Niobrara,6-1,State Treasurer,,REP,Write-ins,0
+Niobrara,6-1,State Treasurer,,REP,Over Votes,1
+Niobrara,6-1,State Treasurer,,REP,Under Votes,30
+Niobrara,6-1,State Treasurer,,DEM,Write-ins,0
+Niobrara,6-1,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,15
+Niobrara,6-1,Superintendent of Public Instruction,,REP,Brian Schroeder,112
+Niobrara,6-1,Superintendent of Public Instruction,,REP,Jennifer Zerba,24
+Niobrara,6-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,59
+Niobrara,6-1,Superintendent of Public Instruction,,REP,Robert J. White III,13
+Niobrara,6-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Niobrara,6-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Niobrara,6-1,Superintendent of Public Instruction,,REP,Under Votes,35
+Niobrara,6-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Niobrara,6-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Niobrara,6-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Niobrara,6-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Niobrara,6-1,State Senate,3,REP,Cheri Steinmetz,145
+Niobrara,6-1,State Senate,3,REP,Marty Ertman,82
+Niobrara,6-1,State Senate,3,REP,Write-ins,0
+Niobrara,6-1,State Senate,3,REP,Over Votes,1
+Niobrara,6-1,State Senate,3,REP,Under Votes,31
+Niobrara,6-1,State Senate,3,DEM,Write-ins,1
+Niobrara,6-1,State House,2,REP,Allen Earl Slagle,67
+Niobrara,6-1,State House,2,REP,JD Williams,181
+Niobrara,6-1,State House,2,REP,Write-ins,0
+Niobrara,6-1,State House,2,REP,Over Votes,2
+Niobrara,6-1,State House,2,REP,Under Votes,9
+Niobrara,6-1,State House,2,DEM,Write-ins,1
+Niobrara,6-1,Ballots Cast,,REP,Ballots Cast,259
+Niobrara,6-1,Ballots Cast,,DEM,Ballots Cast,5
+Niobrara,6-1,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,6-1,Ballots Cast,,,Ballots Cast,264
+Niobrara,6-2,U.S. House,,REP,Anthony Bouchard,8
+Niobrara,6-2,U.S. House,,REP,Denton Knapp,6
+Niobrara,6-2,U.S. House,,REP,Harriet Hageman,401
+Niobrara,6-2,U.S. House,,REP,Liz Cheney,75
+Niobrara,6-2,U.S. House,,REP,Robyn M. Belinskey,4
+Niobrara,6-2,U.S. House,,REP,Write-ins,0
+Niobrara,6-2,U.S. House,,REP,Over Votes,1
+Niobrara,6-2,U.S. House,,REP,Under Votes,1
+Niobrara,6-2,U.S. House,,DEM,Lynnette GreyBull,1
+Niobrara,6-2,U.S. House,,DEM,Meghan R. Jensen,0
+Niobrara,6-2,U.S. House,,DEM,Steve Helling,1
+Niobrara,6-2,U.S. House,,DEM,Write-ins,0
+Niobrara,6-2,U.S. House,,DEM,Over Votes,0
+Niobrara,6-2,U.S. House,,DEM,Under Votes,0
+Niobrara,6-2,Governor,,REP,Brent Bien,228
+Niobrara,6-2,Governor,,REP,James Scott Quick,24
+Niobrara,6-2,Governor,,REP,Mark Gordon,205
+Niobrara,6-2,Governor,,REP,Rex Rammell,26
+Niobrara,6-2,Governor,,REP,Write-ins,0
+Niobrara,6-2,Governor,,REP,Over Votes,0
+Niobrara,6-2,Governor,,REP,Under Votes,13
+Niobrara,6-2,Governor,,DEM,Rex Wilde,2
+Niobrara,6-2,Governor,,DEM,Theresa A. Livingston,0
+Niobrara,6-2,Governor,,DEM,Write-ins,0
+Niobrara,6-2,Governor,,DEM,Over Votes,0
+Niobrara,6-2,Governor,,DEM,Under Votes,0
+Niobrara,6-2,Secretary of State,,REP,* Withdrawn Candidate,5
+Niobrara,6-2,Secretary of State,,REP,Chuck Gray,231
+Niobrara,6-2,Secretary of State,,REP,Mark Armstrong,61
+Niobrara,6-2,Secretary of State,,REP,Tara Nethercott,163
+Niobrara,6-2,Secretary of State,,REP,Write-ins,0
+Niobrara,6-2,Secretary of State,,REP,Over Votes,0
+Niobrara,6-2,Secretary of State,,REP,Under Votes,36
+Niobrara,6-2,Secretary of State,,DEM,Write-ins,0
+Niobrara,6-2,Secretary of State,,DEM,Over Votes,0
+Niobrara,6-2,Secretary of State,,DEM,Under Votes,2
+Niobrara,6-2,State Auditor,,REP,Kristi Racines,429
+Niobrara,6-2,State Auditor,,REP,Write-ins,1
+Niobrara,6-2,State Auditor,,REP,Over Votes,0
+Niobrara,6-2,State Auditor,,REP,Under Votes,66
+Niobrara,6-2,State Auditor,,DEM,Write-ins,0
+Niobrara,6-2,State Treasurer,,REP,Bill Gallop,96
+Niobrara,6-2,State Treasurer,,REP,Curt Meier,345
+Niobrara,6-2,State Treasurer,,REP,Write-ins,3
+Niobrara,6-2,State Treasurer,,REP,Over Votes,0
+Niobrara,6-2,State Treasurer,,REP,Under Votes,52
+Niobrara,6-2,State Treasurer,,DEM,Write-ins,0
+Niobrara,6-2,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,33
+Niobrara,6-2,Superintendent of Public Instruction,,REP,Brian Schroeder,174
+Niobrara,6-2,Superintendent of Public Instruction,,REP,Jennifer Zerba,67
+Niobrara,6-2,Superintendent of Public Instruction,,REP,Megan Degenfelder,150
+Niobrara,6-2,Superintendent of Public Instruction,,REP,Robert J. White III,9
+Niobrara,6-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Niobrara,6-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Niobrara,6-2,Superintendent of Public Instruction,,REP,Under Votes,63
+Niobrara,6-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Niobrara,6-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Niobrara,6-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Niobrara,6-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Niobrara,6-2,State Senate,3,REP,Cheri Steinmetz,272
+Niobrara,6-2,State Senate,3,REP,Marty Ertman,184
+Niobrara,6-2,State Senate,3,REP,Write-ins,2
+Niobrara,6-2,State Senate,3,REP,Over Votes,0
+Niobrara,6-2,State Senate,3,REP,Under Votes,38
+Niobrara,6-2,State Senate,3,DEM,Write-ins,0
+Niobrara,6-2,State House,2,REP,Allen Earl Slagle,140
+Niobrara,6-2,State House,2,REP,JD Williams,339
+Niobrara,6-2,State House,2,REP,Write-ins,1
+Niobrara,6-2,State House,2,REP,Over Votes,1
+Niobrara,6-2,State House,2,REP,Under Votes,15
+Niobrara,6-2,State House,2,DEM,Write-ins,0
+Niobrara,6-2,Ballots Cast,,REP,Ballots Cast,496
+Niobrara,6-2,Ballots Cast,,DEM,Ballots Cast,2
+Niobrara,6-2,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,6-2,Ballots Cast,,,Ballots Cast,498
+Niobrara,7-1,U.S. House,,REP,Anthony Bouchard,2
+Niobrara,7-1,U.S. House,,REP,Denton Knapp,1
+Niobrara,7-1,U.S. House,,REP,Harriet Hageman,102
+Niobrara,7-1,U.S. House,,REP,Liz Cheney,6
+Niobrara,7-1,U.S. House,,REP,Robyn M. Belinskey,1
+Niobrara,7-1,U.S. House,,REP,Write-ins,0
+Niobrara,7-1,U.S. House,,REP,Over Votes,0
+Niobrara,7-1,U.S. House,,REP,Under Votes,3
+Niobrara,7-1,U.S. House,,DEM,Lynnette GreyBull,2
+Niobrara,7-1,U.S. House,,DEM,Meghan R. Jensen,0
+Niobrara,7-1,U.S. House,,DEM,Steve Helling,0
+Niobrara,7-1,U.S. House,,DEM,Write-ins,0
+Niobrara,7-1,U.S. House,,DEM,Over Votes,0
+Niobrara,7-1,U.S. House,,DEM,Under Votes,0
+Niobrara,7-1,Governor,,REP,Brent Bien,50
+Niobrara,7-1,Governor,,REP,James Scott Quick,18
+Niobrara,7-1,Governor,,REP,Mark Gordon,39
+Niobrara,7-1,Governor,,REP,Rex Rammell,6
+Niobrara,7-1,Governor,,REP,Write-ins,0
+Niobrara,7-1,Governor,,REP,Over Votes,0
+Niobrara,7-1,Governor,,REP,Under Votes,2
+Niobrara,7-1,Governor,,DEM,Rex Wilde,0
+Niobrara,7-1,Governor,,DEM,Theresa A. Livingston,2
+Niobrara,7-1,Governor,,DEM,Write-ins,0
+Niobrara,7-1,Governor,,DEM,Over Votes,0
+Niobrara,7-1,Governor,,DEM,Under Votes,0
+Niobrara,7-1,Secretary of State,,REP,* Withdrawn Candidate,10
+Niobrara,7-1,Secretary of State,,REP,Chuck Gray,74
+Niobrara,7-1,Secretary of State,,REP,Mark Armstrong,8
+Niobrara,7-1,Secretary of State,,REP,Tara Nethercott,16
+Niobrara,7-1,Secretary of State,,REP,Write-ins,0
+Niobrara,7-1,Secretary of State,,REP,Over Votes,0
+Niobrara,7-1,Secretary of State,,REP,Under Votes,7
+Niobrara,7-1,Secretary of State,,DEM,Write-ins,0
+Niobrara,7-1,Secretary of State,,DEM,Over Votes,0
+Niobrara,7-1,Secretary of State,,DEM,Under Votes,2
+Niobrara,7-1,State Auditor,,REP,Kristi Racines,94
+Niobrara,7-1,State Auditor,,REP,Write-ins,0
+Niobrara,7-1,State Auditor,,REP,Over Votes,0
+Niobrara,7-1,State Auditor,,REP,Under Votes,21
+Niobrara,7-1,State Auditor,,DEM,Write-ins,0
+Niobrara,7-1,State Treasurer,,REP,Bill Gallop,12
+Niobrara,7-1,State Treasurer,,REP,Curt Meier,88
+Niobrara,7-1,State Treasurer,,REP,Write-ins,0
+Niobrara,7-1,State Treasurer,,REP,Over Votes,0
+Niobrara,7-1,State Treasurer,,REP,Under Votes,15
+Niobrara,7-1,State Treasurer,,DEM,Write-ins,0
+Niobrara,7-1,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,13
+Niobrara,7-1,Superintendent of Public Instruction,,REP,Brian Schroeder,37
+Niobrara,7-1,Superintendent of Public Instruction,,REP,Jennifer Zerba,8
+Niobrara,7-1,Superintendent of Public Instruction,,REP,Megan Degenfelder,38
+Niobrara,7-1,Superintendent of Public Instruction,,REP,Robert J. White III,2
+Niobrara,7-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Niobrara,7-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Niobrara,7-1,Superintendent of Public Instruction,,REP,Under Votes,16
+Niobrara,7-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Niobrara,7-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Niobrara,7-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Niobrara,7-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Niobrara,7-1,State Senate,3,REP,Cheri Steinmetz,57
+Niobrara,7-1,State Senate,3,REP,Marty Ertman,39
+Niobrara,7-1,State Senate,3,REP,Write-ins,0
+Niobrara,7-1,State Senate,3,REP,Over Votes,0
+Niobrara,7-1,State Senate,3,REP,Under Votes,19
+Niobrara,7-1,State Senate,3,DEM,Write-ins,0
+Niobrara,7-1,State House,2,REP,Allen Earl Slagle,39
+Niobrara,7-1,State House,2,REP,JD Williams,72
+Niobrara,7-1,State House,2,REP,Write-ins,0
+Niobrara,7-1,State House,2,REP,Over Votes,0
+Niobrara,7-1,State House,2,REP,Under Votes,4
+Niobrara,7-1,State House,2,DEM,Write-ins,0
+Niobrara,7-1,Ballots Cast,,REP,Ballots Cast,115
+Niobrara,7-1,Ballots Cast,,DEM,Ballots Cast,2
+Niobrara,7-1,Ballots Cast,,NP,Ballots Cast,0
+Niobrara,7-1,Ballots Cast,,,Ballots Cast,117

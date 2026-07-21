@@ -1,0 +1,872 @@
+county,precinct,office,district,party,candidate,votes
+Carbon,1-1,U.S. Senate,,REP,Bryan E Miller,9
+Carbon,1-1,U.S. Senate,,REP,Cynthia M. Lummis,64
+Carbon,1-1,U.S. Senate,,REP,Devon Cade,2
+Carbon,1-1,U.S. Senate,,REP,Donna Rice,2
+Carbon,1-1,U.S. Senate,,REP,John Holtz,3
+Carbon,1-1,U.S. Senate,,REP,Josh Wheeler,6
+Carbon,1-1,U.S. Senate,,REP,Michael Kemler,2
+Carbon,1-1,U.S. Senate,,REP,R. Mark Armstrong,9
+Carbon,1-1,U.S. Senate,,REP,Robert G. Short,5
+Carbon,1-1,U.S. Senate,,REP,Star Roselli,2
+Carbon,1-1,U.S. Senate,,REP,Write-ins,0
+Carbon,1-1,U.S. Senate,,REP,Over Votes,0
+Carbon,1-1,U.S. Senate,,REP,Under Votes,1
+Carbon,1-1,U.S. Senate,,DEM,James Kirk DeBrine,8
+Carbon,1-1,U.S. Senate,,DEM,Kenneth R. Casner,23
+Carbon,1-1,U.S. Senate,,DEM,Merav Ben David,19
+Carbon,1-1,U.S. Senate,,DEM,Nathan Wendt,10
+Carbon,1-1,U.S. Senate,,DEM,Rex Wilde,3
+Carbon,1-1,U.S. Senate,,DEM,Yana Ludwig,15
+Carbon,1-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,1-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,1-1,U.S. Senate,,DEM,Under Votes,9
+Carbon,1-1,U.S. House,,REP,Blake Stanley,29
+Carbon,1-1,U.S. House,,REP,Liz Cheney,73
+Carbon,1-1,U.S. House,,REP,Write-ins,0
+Carbon,1-1,U.S. House,,REP,Over Votes,0
+Carbon,1-1,U.S. House,,REP,Under Votes,3
+Carbon,1-1,U.S. House,,DEM,Carl Beach,19
+Carbon,1-1,U.S. House,,DEM,Carol Hafner,16
+Carbon,1-1,U.S. House,,DEM,Lynnette Grey Bull,42
+Carbon,1-1,U.S. House,,DEM,Write-ins,0
+Carbon,1-1,U.S. House,,DEM,Over Votes,1
+Carbon,1-1,U.S. House,,DEM,Under Votes,9
+Carbon,1-1,State House,15,REP,Donald Burkhart,93
+Carbon,1-1,State House,15,REP,Write-ins,2
+Carbon,1-1,State House,15,REP,Over Votes,0
+Carbon,1-1,State House,15,REP,Under Votes,10
+Carbon,1-1,State House,15,DEM,Jacquelin Wells,77
+Carbon,1-1,State House,15,DEM,Write-ins,1
+Carbon,1-1,State House,15,DEM,Over Votes,0
+Carbon,1-1,State House,15,DEM,Under Votes,9
+Carbon,1-1,Ballots Cast,,REP,Ballots Cast,105
+Carbon,1-1,Ballots Cast,,DEM,Ballots Cast,87
+Carbon,1-1,Ballots Cast,,NP,Ballots Cast,11
+Carbon,1-1,Ballots Cast,,,Ballots Cast,203
+Carbon,1-2,U.S. Senate,,REP,Bryan E Miller,16
+Carbon,1-2,U.S. Senate,,REP,Cynthia M. Lummis,43
+Carbon,1-2,U.S. Senate,,REP,Devon Cade,2
+Carbon,1-2,U.S. Senate,,REP,Donna Rice,5
+Carbon,1-2,U.S. Senate,,REP,John Holtz,0
+Carbon,1-2,U.S. Senate,,REP,Josh Wheeler,5
+Carbon,1-2,U.S. Senate,,REP,Michael Kemler,1
+Carbon,1-2,U.S. Senate,,REP,R. Mark Armstrong,2
+Carbon,1-2,U.S. Senate,,REP,Robert G. Short,6
+Carbon,1-2,U.S. Senate,,REP,Star Roselli,1
+Carbon,1-2,U.S. Senate,,REP,Write-ins,0
+Carbon,1-2,U.S. Senate,,REP,Over Votes,0
+Carbon,1-2,U.S. Senate,,REP,Under Votes,4
+Carbon,1-2,U.S. Senate,,DEM,James Kirk DeBrine,1
+Carbon,1-2,U.S. Senate,,DEM,Kenneth R. Casner,6
+Carbon,1-2,U.S. Senate,,DEM,Merav Ben David,4
+Carbon,1-2,U.S. Senate,,DEM,Nathan Wendt,2
+Carbon,1-2,U.S. Senate,,DEM,Rex Wilde,0
+Carbon,1-2,U.S. Senate,,DEM,Yana Ludwig,0
+Carbon,1-2,U.S. Senate,,DEM,Write-ins,0
+Carbon,1-2,U.S. Senate,,DEM,Over Votes,0
+Carbon,1-2,U.S. Senate,,DEM,Under Votes,1
+Carbon,1-2,U.S. House,,REP,Blake Stanley,30
+Carbon,1-2,U.S. House,,REP,Liz Cheney,46
+Carbon,1-2,U.S. House,,REP,Write-ins,0
+Carbon,1-2,U.S. House,,REP,Over Votes,0
+Carbon,1-2,U.S. House,,REP,Under Votes,9
+Carbon,1-2,U.S. House,,DEM,Carl Beach,0
+Carbon,1-2,U.S. House,,DEM,Carol Hafner,3
+Carbon,1-2,U.S. House,,DEM,Lynnette Grey Bull,9
+Carbon,1-2,U.S. House,,DEM,Write-ins,0
+Carbon,1-2,U.S. House,,DEM,Over Votes,0
+Carbon,1-2,U.S. House,,DEM,Under Votes,2
+Carbon,1-2,State House,15,REP,Donald Burkhart,35
+Carbon,1-2,State House,15,REP,Write-ins,1
+Carbon,1-2,State House,15,REP,Over Votes,0
+Carbon,1-2,State House,15,REP,Under Votes,3
+Carbon,1-2,State House,15,DEM,Jacquelin Wells,9
+Carbon,1-2,State House,15,DEM,Write-ins,0
+Carbon,1-2,State House,15,DEM,Over Votes,0
+Carbon,1-2,State House,15,DEM,Under Votes,1
+Carbon,1-2,State House,47,REP,Dee Garrison,2
+Carbon,1-2,State House,47,REP,Jerry Paxton,20
+Carbon,1-2,State House,47,REP,Joey Correnti IV,15
+Carbon,1-2,State House,47,REP,Julie McCallister,7
+Carbon,1-2,State House,47,REP,Write-ins,0
+Carbon,1-2,State House,47,REP,Over Votes,0
+Carbon,1-2,State House,47,REP,Under Votes,2
+Carbon,1-2,State House,47,DEM,Write-ins,2
+Carbon,1-2,Ballots Cast,,REP,Ballots Cast,85
+Carbon,1-2,Ballots Cast,,DEM,Ballots Cast,14
+Carbon,1-2,Ballots Cast,,NP,Ballots Cast,2
+Carbon,1-2,Ballots Cast,,,Ballots Cast,101
+Carbon,10-1,U.S. Senate,,REP,Bryan E Miller,1
+Carbon,10-1,U.S. Senate,,REP,Cynthia M. Lummis,25
+Carbon,10-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,10-1,U.S. Senate,,REP,Donna Rice,1
+Carbon,10-1,U.S. Senate,,REP,John Holtz,0
+Carbon,10-1,U.S. Senate,,REP,Josh Wheeler,1
+Carbon,10-1,U.S. Senate,,REP,Michael Kemler,1
+Carbon,10-1,U.S. Senate,,REP,R. Mark Armstrong,0
+Carbon,10-1,U.S. Senate,,REP,Robert G. Short,0
+Carbon,10-1,U.S. Senate,,REP,Star Roselli,0
+Carbon,10-1,U.S. Senate,,REP,Write-ins,0
+Carbon,10-1,U.S. Senate,,REP,Over Votes,0
+Carbon,10-1,U.S. Senate,,REP,Under Votes,1
+Carbon,10-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Carbon,10-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Carbon,10-1,U.S. Senate,,DEM,Merav Ben David,1
+Carbon,10-1,U.S. Senate,,DEM,Nathan Wendt,0
+Carbon,10-1,U.S. Senate,,DEM,Rex Wilde,0
+Carbon,10-1,U.S. Senate,,DEM,Yana Ludwig,1
+Carbon,10-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,10-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,10-1,U.S. Senate,,DEM,Under Votes,0
+Carbon,10-1,U.S. House,,REP,Blake Stanley,0
+Carbon,10-1,U.S. House,,REP,Liz Cheney,30
+Carbon,10-1,U.S. House,,REP,Write-ins,0
+Carbon,10-1,U.S. House,,REP,Over Votes,0
+Carbon,10-1,U.S. House,,REP,Under Votes,0
+Carbon,10-1,U.S. House,,DEM,Carl Beach,0
+Carbon,10-1,U.S. House,,DEM,Carol Hafner,1
+Carbon,10-1,U.S. House,,DEM,Lynnette Grey Bull,2
+Carbon,10-1,U.S. House,,DEM,Write-ins,0
+Carbon,10-1,U.S. House,,DEM,Over Votes,0
+Carbon,10-1,U.S. House,,DEM,Under Votes,0
+Carbon,10-1,State House,47,REP,Dee Garrison,1
+Carbon,10-1,State House,47,REP,Jerry Paxton,13
+Carbon,10-1,State House,47,REP,Joey Correnti IV,7
+Carbon,10-1,State House,47,REP,Julie McCallister,3
+Carbon,10-1,State House,47,REP,Write-ins,0
+Carbon,10-1,State House,47,REP,Over Votes,1
+Carbon,10-1,State House,47,REP,Under Votes,5
+Carbon,10-1,State House,47,DEM,Write-ins,0
+Carbon,10-1,Ballots Cast,,REP,Ballots Cast,30
+Carbon,10-1,Ballots Cast,,DEM,Ballots Cast,3
+Carbon,10-1,Ballots Cast,,NP,Ballots Cast,0
+Carbon,10-1,Ballots Cast,,,Ballots Cast,33
+Carbon,11-1,U.S. Senate,,REP,Bryan E Miller,35
+Carbon,11-1,U.S. Senate,,REP,Cynthia M. Lummis,284
+Carbon,11-1,U.S. Senate,,REP,Devon Cade,1
+Carbon,11-1,U.S. Senate,,REP,Donna Rice,25
+Carbon,11-1,U.S. Senate,,REP,John Holtz,7
+Carbon,11-1,U.S. Senate,,REP,Josh Wheeler,15
+Carbon,11-1,U.S. Senate,,REP,Michael Kemler,10
+Carbon,11-1,U.S. Senate,,REP,R. Mark Armstrong,22
+Carbon,11-1,U.S. Senate,,REP,Robert G. Short,21
+Carbon,11-1,U.S. Senate,,REP,Star Roselli,2
+Carbon,11-1,U.S. Senate,,REP,Write-ins,2
+Carbon,11-1,U.S. Senate,,REP,Over Votes,1
+Carbon,11-1,U.S. Senate,,REP,Under Votes,33
+Carbon,11-1,U.S. Senate,,DEM,James Kirk DeBrine,5
+Carbon,11-1,U.S. Senate,,DEM,Kenneth R. Casner,16
+Carbon,11-1,U.S. Senate,,DEM,Merav Ben David,37
+Carbon,11-1,U.S. Senate,,DEM,Nathan Wendt,4
+Carbon,11-1,U.S. Senate,,DEM,Rex Wilde,2
+Carbon,11-1,U.S. Senate,,DEM,Yana Ludwig,21
+Carbon,11-1,U.S. Senate,,DEM,Write-ins,2
+Carbon,11-1,U.S. Senate,,DEM,Over Votes,1
+Carbon,11-1,U.S. Senate,,DEM,Under Votes,8
+Carbon,11-1,U.S. House,,REP,Blake Stanley,128
+Carbon,11-1,U.S. House,,REP,Liz Cheney,309
+Carbon,11-1,U.S. House,,REP,Write-ins,0
+Carbon,11-1,U.S. House,,REP,Over Votes,0
+Carbon,11-1,U.S. House,,REP,Under Votes,21
+Carbon,11-1,U.S. House,,DEM,Carl Beach,56
+Carbon,11-1,U.S. House,,DEM,Carol Hafner,6
+Carbon,11-1,U.S. House,,DEM,Lynnette Grey Bull,28
+Carbon,11-1,U.S. House,,DEM,Write-ins,2
+Carbon,11-1,U.S. House,,DEM,Over Votes,0
+Carbon,11-1,U.S. House,,DEM,Under Votes,4
+Carbon,11-1,State House,47,REP,Dee Garrison,7
+Carbon,11-1,State House,47,REP,Jerry Paxton,230
+Carbon,11-1,State House,47,REP,Joey Correnti IV,148
+Carbon,11-1,State House,47,REP,Julie McCallister,65
+Carbon,11-1,State House,47,REP,Write-ins,0
+Carbon,11-1,State House,47,REP,Over Votes,3
+Carbon,11-1,State House,47,REP,Under Votes,5
+Carbon,11-1,State House,47,DEM,Write-ins,21
+Carbon,11-1,Ballots Cast,,REP,Ballots Cast,458
+Carbon,11-1,Ballots Cast,,DEM,Ballots Cast,96
+Carbon,11-1,Ballots Cast,,NP,Ballots Cast,30
+Carbon,11-1,Ballots Cast,,,Ballots Cast,584
+Carbon,11-2,U.S. Senate,,REP,Bryan E Miller,23
+Carbon,11-2,U.S. Senate,,REP,Cynthia M. Lummis,159
+Carbon,11-2,U.S. Senate,,REP,Devon Cade,1
+Carbon,11-2,U.S. Senate,,REP,Donna Rice,10
+Carbon,11-2,U.S. Senate,,REP,John Holtz,4
+Carbon,11-2,U.S. Senate,,REP,Josh Wheeler,3
+Carbon,11-2,U.S. Senate,,REP,Michael Kemler,0
+Carbon,11-2,U.S. Senate,,REP,R. Mark Armstrong,7
+Carbon,11-2,U.S. Senate,,REP,Robert G. Short,6
+Carbon,11-2,U.S. Senate,,REP,Star Roselli,3
+Carbon,11-2,U.S. Senate,,REP,Write-ins,0
+Carbon,11-2,U.S. Senate,,REP,Over Votes,0
+Carbon,11-2,U.S. Senate,,REP,Under Votes,10
+Carbon,11-2,U.S. Senate,,DEM,James Kirk DeBrine,2
+Carbon,11-2,U.S. Senate,,DEM,Kenneth R. Casner,4
+Carbon,11-2,U.S. Senate,,DEM,Merav Ben David,13
+Carbon,11-2,U.S. Senate,,DEM,Nathan Wendt,5
+Carbon,11-2,U.S. Senate,,DEM,Rex Wilde,0
+Carbon,11-2,U.S. Senate,,DEM,Yana Ludwig,4
+Carbon,11-2,U.S. Senate,,DEM,Write-ins,0
+Carbon,11-2,U.S. Senate,,DEM,Over Votes,0
+Carbon,11-2,U.S. Senate,,DEM,Under Votes,0
+Carbon,11-2,U.S. House,,REP,Blake Stanley,35
+Carbon,11-2,U.S. House,,REP,Liz Cheney,185
+Carbon,11-2,U.S. House,,REP,Write-ins,0
+Carbon,11-2,U.S. House,,REP,Over Votes,1
+Carbon,11-2,U.S. House,,REP,Under Votes,5
+Carbon,11-2,U.S. House,,DEM,Carl Beach,16
+Carbon,11-2,U.S. House,,DEM,Carol Hafner,2
+Carbon,11-2,U.S. House,,DEM,Lynnette Grey Bull,9
+Carbon,11-2,U.S. House,,DEM,Write-ins,0
+Carbon,11-2,U.S. House,,DEM,Over Votes,0
+Carbon,11-2,U.S. House,,DEM,Under Votes,1
+Carbon,11-2,State House,47,REP,Dee Garrison,9
+Carbon,11-2,State House,47,REP,Jerry Paxton,121
+Carbon,11-2,State House,47,REP,Joey Correnti IV,66
+Carbon,11-2,State House,47,REP,Julie McCallister,22
+Carbon,11-2,State House,47,REP,Write-ins,0
+Carbon,11-2,State House,47,REP,Over Votes,0
+Carbon,11-2,State House,47,REP,Under Votes,8
+Carbon,11-2,State House,47,DEM,Write-ins,3
+Carbon,11-2,Ballots Cast,,REP,Ballots Cast,226
+Carbon,11-2,Ballots Cast,,DEM,Ballots Cast,28
+Carbon,11-2,Ballots Cast,,NP,Ballots Cast,0
+Carbon,11-2,Ballots Cast,,,Ballots Cast,254
+Carbon,12-1,U.S. Senate,,REP,Bryan E Miller,18
+Carbon,12-1,U.S. Senate,,REP,Cynthia M. Lummis,76
+Carbon,12-1,U.S. Senate,,REP,Devon Cade,1
+Carbon,12-1,U.S. Senate,,REP,Donna Rice,6
+Carbon,12-1,U.S. Senate,,REP,John Holtz,2
+Carbon,12-1,U.S. Senate,,REP,Josh Wheeler,5
+Carbon,12-1,U.S. Senate,,REP,Michael Kemler,0
+Carbon,12-1,U.S. Senate,,REP,R. Mark Armstrong,16
+Carbon,12-1,U.S. Senate,,REP,Robert G. Short,14
+Carbon,12-1,U.S. Senate,,REP,Star Roselli,0
+Carbon,12-1,U.S. Senate,,REP,Write-ins,0
+Carbon,12-1,U.S. Senate,,REP,Over Votes,1
+Carbon,12-1,U.S. Senate,,REP,Under Votes,5
+Carbon,12-1,U.S. Senate,,DEM,James Kirk DeBrine,3
+Carbon,12-1,U.S. Senate,,DEM,Kenneth R. Casner,8
+Carbon,12-1,U.S. Senate,,DEM,Merav Ben David,8
+Carbon,12-1,U.S. Senate,,DEM,Nathan Wendt,2
+Carbon,12-1,U.S. Senate,,DEM,Rex Wilde,7
+Carbon,12-1,U.S. Senate,,DEM,Yana Ludwig,2
+Carbon,12-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,12-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,12-1,U.S. Senate,,DEM,Under Votes,1
+Carbon,12-1,U.S. House,,REP,Blake Stanley,49
+Carbon,12-1,U.S. House,,REP,Liz Cheney,88
+Carbon,12-1,U.S. House,,REP,Write-ins,0
+Carbon,12-1,U.S. House,,REP,Over Votes,0
+Carbon,12-1,U.S. House,,REP,Under Votes,7
+Carbon,12-1,U.S. House,,DEM,Carl Beach,17
+Carbon,12-1,U.S. House,,DEM,Carol Hafner,5
+Carbon,12-1,U.S. House,,DEM,Lynnette Grey Bull,9
+Carbon,12-1,U.S. House,,DEM,Write-ins,0
+Carbon,12-1,U.S. House,,DEM,Over Votes,0
+Carbon,12-1,U.S. House,,DEM,Under Votes,0
+Carbon,12-1,State House,47,REP,Dee Garrison,1
+Carbon,12-1,State House,47,REP,Jerry Paxton,80
+Carbon,12-1,State House,47,REP,Joey Correnti IV,37
+Carbon,12-1,State House,47,REP,Julie McCallister,21
+Carbon,12-1,State House,47,REP,Write-ins,0
+Carbon,12-1,State House,47,REP,Over Votes,2
+Carbon,12-1,State House,47,REP,Under Votes,3
+Carbon,12-1,State House,47,DEM,Write-ins,3
+Carbon,12-1,Ballots Cast,,REP,Ballots Cast,144
+Carbon,12-1,Ballots Cast,,DEM,Ballots Cast,31
+Carbon,12-1,Ballots Cast,,NP,Ballots Cast,11
+Carbon,12-1,Ballots Cast,,,Ballots Cast,186
+Carbon,13-1,U.S. Senate,,REP,Bryan E Miller,14
+Carbon,13-1,U.S. Senate,,REP,Cynthia M. Lummis,92
+Carbon,13-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,13-1,U.S. Senate,,REP,Donna Rice,10
+Carbon,13-1,U.S. Senate,,REP,John Holtz,1
+Carbon,13-1,U.S. Senate,,REP,Josh Wheeler,2
+Carbon,13-1,U.S. Senate,,REP,Michael Kemler,0
+Carbon,13-1,U.S. Senate,,REP,R. Mark Armstrong,4
+Carbon,13-1,U.S. Senate,,REP,Robert G. Short,9
+Carbon,13-1,U.S. Senate,,REP,Star Roselli,1
+Carbon,13-1,U.S. Senate,,REP,Write-ins,1
+Carbon,13-1,U.S. Senate,,REP,Over Votes,0
+Carbon,13-1,U.S. Senate,,REP,Under Votes,4
+Carbon,13-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Carbon,13-1,U.S. Senate,,DEM,Kenneth R. Casner,3
+Carbon,13-1,U.S. Senate,,DEM,Merav Ben David,8
+Carbon,13-1,U.S. Senate,,DEM,Nathan Wendt,2
+Carbon,13-1,U.S. Senate,,DEM,Rex Wilde,2
+Carbon,13-1,U.S. Senate,,DEM,Yana Ludwig,4
+Carbon,13-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,13-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,13-1,U.S. Senate,,DEM,Under Votes,2
+Carbon,13-1,U.S. House,,REP,Blake Stanley,26
+Carbon,13-1,U.S. House,,REP,Liz Cheney,109
+Carbon,13-1,U.S. House,,REP,Write-ins,1
+Carbon,13-1,U.S. House,,REP,Over Votes,0
+Carbon,13-1,U.S. House,,REP,Under Votes,2
+Carbon,13-1,U.S. House,,DEM,Carl Beach,13
+Carbon,13-1,U.S. House,,DEM,Carol Hafner,2
+Carbon,13-1,U.S. House,,DEM,Lynnette Grey Bull,6
+Carbon,13-1,U.S. House,,DEM,Write-ins,0
+Carbon,13-1,U.S. House,,DEM,Over Votes,0
+Carbon,13-1,U.S. House,,DEM,Under Votes,0
+Carbon,13-1,State House,47,REP,Dee Garrison,3
+Carbon,13-1,State House,47,REP,Jerry Paxton,84
+Carbon,13-1,State House,47,REP,Joey Correnti IV,33
+Carbon,13-1,State House,47,REP,Julie McCallister,15
+Carbon,13-1,State House,47,REP,Write-ins,1
+Carbon,13-1,State House,47,REP,Over Votes,0
+Carbon,13-1,State House,47,REP,Under Votes,2
+Carbon,13-1,State House,47,DEM,Write-ins,4
+Carbon,13-1,Ballots Cast,,REP,Ballots Cast,138
+Carbon,13-1,Ballots Cast,,DEM,Ballots Cast,21
+Carbon,13-1,Ballots Cast,,NP,Ballots Cast,1
+Carbon,13-1,Ballots Cast,,,Ballots Cast,160
+Carbon,14-1,U.S. Senate,,REP,Bryan E Miller,1
+Carbon,14-1,U.S. Senate,,REP,Cynthia M. Lummis,40
+Carbon,14-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,14-1,U.S. Senate,,REP,Donna Rice,2
+Carbon,14-1,U.S. Senate,,REP,John Holtz,1
+Carbon,14-1,U.S. Senate,,REP,Josh Wheeler,0
+Carbon,14-1,U.S. Senate,,REP,Michael Kemler,0
+Carbon,14-1,U.S. Senate,,REP,R. Mark Armstrong,2
+Carbon,14-1,U.S. Senate,,REP,Robert G. Short,6
+Carbon,14-1,U.S. Senate,,REP,Star Roselli,1
+Carbon,14-1,U.S. Senate,,REP,Write-ins,0
+Carbon,14-1,U.S. Senate,,REP,Over Votes,0
+Carbon,14-1,U.S. Senate,,REP,Under Votes,2
+Carbon,14-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Carbon,14-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Carbon,14-1,U.S. Senate,,DEM,Merav Ben David,1
+Carbon,14-1,U.S. Senate,,DEM,Nathan Wendt,1
+Carbon,14-1,U.S. Senate,,DEM,Rex Wilde,0
+Carbon,14-1,U.S. Senate,,DEM,Yana Ludwig,0
+Carbon,14-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,14-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,14-1,U.S. Senate,,DEM,Under Votes,0
+Carbon,14-1,U.S. House,,REP,Blake Stanley,12
+Carbon,14-1,U.S. House,,REP,Liz Cheney,41
+Carbon,14-1,U.S. House,,REP,Write-ins,0
+Carbon,14-1,U.S. House,,REP,Over Votes,1
+Carbon,14-1,U.S. House,,REP,Under Votes,1
+Carbon,14-1,U.S. House,,DEM,Carl Beach,0
+Carbon,14-1,U.S. House,,DEM,Carol Hafner,0
+Carbon,14-1,U.S. House,,DEM,Lynnette Grey Bull,2
+Carbon,14-1,U.S. House,,DEM,Write-ins,0
+Carbon,14-1,U.S. House,,DEM,Over Votes,0
+Carbon,14-1,U.S. House,,DEM,Under Votes,1
+Carbon,14-1,State House,47,REP,Dee Garrison,1
+Carbon,14-1,State House,47,REP,Jerry Paxton,30
+Carbon,14-1,State House,47,REP,Joey Correnti IV,8
+Carbon,14-1,State House,47,REP,Julie McCallister,16
+Carbon,14-1,State House,47,REP,Write-ins,0
+Carbon,14-1,State House,47,REP,Over Votes,0
+Carbon,14-1,State House,47,REP,Under Votes,0
+Carbon,14-1,State House,47,DEM,Write-ins,0
+Carbon,14-1,Ballots Cast,,REP,Ballots Cast,55
+Carbon,14-1,Ballots Cast,,DEM,Ballots Cast,3
+Carbon,14-1,Ballots Cast,,NP,Ballots Cast,0
+Carbon,14-1,Ballots Cast,,,Ballots Cast,58
+Carbon,15-1,U.S. Senate,,REP,Bryan E Miller,21
+Carbon,15-1,U.S. Senate,,REP,Cynthia M. Lummis,99
+Carbon,15-1,U.S. Senate,,REP,Devon Cade,6
+Carbon,15-1,U.S. Senate,,REP,Donna Rice,6
+Carbon,15-1,U.S. Senate,,REP,John Holtz,3
+Carbon,15-1,U.S. Senate,,REP,Josh Wheeler,10
+Carbon,15-1,U.S. Senate,,REP,Michael Kemler,2
+Carbon,15-1,U.S. Senate,,REP,R. Mark Armstrong,7
+Carbon,15-1,U.S. Senate,,REP,Robert G. Short,14
+Carbon,15-1,U.S. Senate,,REP,Star Roselli,1
+Carbon,15-1,U.S. Senate,,REP,Write-ins,1
+Carbon,15-1,U.S. Senate,,REP,Over Votes,0
+Carbon,15-1,U.S. Senate,,REP,Under Votes,7
+Carbon,15-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Carbon,15-1,U.S. Senate,,DEM,Kenneth R. Casner,1
+Carbon,15-1,U.S. Senate,,DEM,Merav Ben David,3
+Carbon,15-1,U.S. Senate,,DEM,Nathan Wendt,1
+Carbon,15-1,U.S. Senate,,DEM,Rex Wilde,0
+Carbon,15-1,U.S. Senate,,DEM,Yana Ludwig,0
+Carbon,15-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,15-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,15-1,U.S. Senate,,DEM,Under Votes,0
+Carbon,15-1,U.S. House,,REP,Blake Stanley,42
+Carbon,15-1,U.S. House,,REP,Liz Cheney,132
+Carbon,15-1,U.S. House,,REP,Write-ins,0
+Carbon,15-1,U.S. House,,REP,Over Votes,1
+Carbon,15-1,U.S. House,,REP,Under Votes,2
+Carbon,15-1,U.S. House,,DEM,Carl Beach,3
+Carbon,15-1,U.S. House,,DEM,Carol Hafner,1
+Carbon,15-1,U.S. House,,DEM,Lynnette Grey Bull,1
+Carbon,15-1,U.S. House,,DEM,Write-ins,0
+Carbon,15-1,U.S. House,,DEM,Over Votes,0
+Carbon,15-1,U.S. House,,DEM,Under Votes,0
+Carbon,15-1,State House,47,REP,Dee Garrison,1
+Carbon,15-1,State House,47,REP,Jerry Paxton,101
+Carbon,15-1,State House,47,REP,Joey Correnti IV,29
+Carbon,15-1,State House,47,REP,Julie McCallister,40
+Carbon,15-1,State House,47,REP,Write-ins,0
+Carbon,15-1,State House,47,REP,Over Votes,2
+Carbon,15-1,State House,47,REP,Under Votes,4
+Carbon,15-1,State House,47,DEM,Write-ins,2
+Carbon,15-1,Ballots Cast,,REP,Ballots Cast,177
+Carbon,15-1,Ballots Cast,,DEM,Ballots Cast,5
+Carbon,15-1,Ballots Cast,,NP,Ballots Cast,4
+Carbon,15-1,Ballots Cast,,,Ballots Cast,186
+Carbon,2-1,U.S. Senate,,REP,Bryan E Miller,13
+Carbon,2-1,U.S. Senate,,REP,Cynthia M. Lummis,108
+Carbon,2-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,2-1,U.S. Senate,,REP,Donna Rice,5
+Carbon,2-1,U.S. Senate,,REP,John Holtz,7
+Carbon,2-1,U.S. Senate,,REP,Josh Wheeler,5
+Carbon,2-1,U.S. Senate,,REP,Michael Kemler,1
+Carbon,2-1,U.S. Senate,,REP,R. Mark Armstrong,8
+Carbon,2-1,U.S. Senate,,REP,Robert G. Short,12
+Carbon,2-1,U.S. Senate,,REP,Star Roselli,2
+Carbon,2-1,U.S. Senate,,REP,Write-ins,3
+Carbon,2-1,U.S. Senate,,REP,Over Votes,0
+Carbon,2-1,U.S. Senate,,REP,Under Votes,10
+Carbon,2-1,U.S. Senate,,DEM,James Kirk DeBrine,4
+Carbon,2-1,U.S. Senate,,DEM,Kenneth R. Casner,10
+Carbon,2-1,U.S. Senate,,DEM,Merav Ben David,11
+Carbon,2-1,U.S. Senate,,DEM,Nathan Wendt,9
+Carbon,2-1,U.S. Senate,,DEM,Rex Wilde,7
+Carbon,2-1,U.S. Senate,,DEM,Yana Ludwig,14
+Carbon,2-1,U.S. Senate,,DEM,Write-ins,1
+Carbon,2-1,U.S. Senate,,DEM,Over Votes,1
+Carbon,2-1,U.S. Senate,,DEM,Under Votes,7
+Carbon,2-1,U.S. House,,REP,Blake Stanley,53
+Carbon,2-1,U.S. House,,REP,Liz Cheney,117
+Carbon,2-1,U.S. House,,REP,Write-ins,1
+Carbon,2-1,U.S. House,,REP,Over Votes,0
+Carbon,2-1,U.S. House,,REP,Under Votes,3
+Carbon,2-1,U.S. House,,DEM,Carl Beach,14
+Carbon,2-1,U.S. House,,DEM,Carol Hafner,14
+Carbon,2-1,U.S. House,,DEM,Lynnette Grey Bull,24
+Carbon,2-1,U.S. House,,DEM,Write-ins,2
+Carbon,2-1,U.S. House,,DEM,Over Votes,1
+Carbon,2-1,U.S. House,,DEM,Under Votes,9
+Carbon,2-1,State House,15,REP,Donald Burkhart,154
+Carbon,2-1,State House,15,REP,Write-ins,6
+Carbon,2-1,State House,15,REP,Over Votes,0
+Carbon,2-1,State House,15,REP,Under Votes,14
+Carbon,2-1,State House,15,DEM,Jacquelin Wells,55
+Carbon,2-1,State House,15,DEM,Write-ins,0
+Carbon,2-1,State House,15,DEM,Over Votes,0
+Carbon,2-1,State House,15,DEM,Under Votes,9
+Carbon,2-1,Ballots Cast,,REP,Ballots Cast,174
+Carbon,2-1,Ballots Cast,,DEM,Ballots Cast,64
+Carbon,2-1,Ballots Cast,,NP,Ballots Cast,12
+Carbon,2-1,Ballots Cast,,,Ballots Cast,250
+Carbon,2-2,U.S. Senate,,REP,Bryan E Miller,28
+Carbon,2-2,U.S. Senate,,REP,Cynthia M. Lummis,152
+Carbon,2-2,U.S. Senate,,REP,Devon Cade,3
+Carbon,2-2,U.S. Senate,,REP,Donna Rice,16
+Carbon,2-2,U.S. Senate,,REP,John Holtz,7
+Carbon,2-2,U.S. Senate,,REP,Josh Wheeler,9
+Carbon,2-2,U.S. Senate,,REP,Michael Kemler,6
+Carbon,2-2,U.S. Senate,,REP,R. Mark Armstrong,5
+Carbon,2-2,U.S. Senate,,REP,Robert G. Short,20
+Carbon,2-2,U.S. Senate,,REP,Star Roselli,1
+Carbon,2-2,U.S. Senate,,REP,Write-ins,1
+Carbon,2-2,U.S. Senate,,REP,Over Votes,2
+Carbon,2-2,U.S. Senate,,REP,Under Votes,13
+Carbon,2-2,U.S. Senate,,DEM,James Kirk DeBrine,4
+Carbon,2-2,U.S. Senate,,DEM,Kenneth R. Casner,22
+Carbon,2-2,U.S. Senate,,DEM,Merav Ben David,31
+Carbon,2-2,U.S. Senate,,DEM,Nathan Wendt,15
+Carbon,2-2,U.S. Senate,,DEM,Rex Wilde,3
+Carbon,2-2,U.S. Senate,,DEM,Yana Ludwig,13
+Carbon,2-2,U.S. Senate,,DEM,Write-ins,1
+Carbon,2-2,U.S. Senate,,DEM,Over Votes,0
+Carbon,2-2,U.S. Senate,,DEM,Under Votes,7
+Carbon,2-2,U.S. House,,REP,Blake Stanley,72
+Carbon,2-2,U.S. House,,REP,Liz Cheney,181
+Carbon,2-2,U.S. House,,REP,Write-ins,1
+Carbon,2-2,U.S. House,,REP,Over Votes,1
+Carbon,2-2,U.S. House,,REP,Under Votes,8
+Carbon,2-2,U.S. House,,DEM,Carl Beach,29
+Carbon,2-2,U.S. House,,DEM,Carol Hafner,18
+Carbon,2-2,U.S. House,,DEM,Lynnette Grey Bull,41
+Carbon,2-2,U.S. House,,DEM,Write-ins,2
+Carbon,2-2,U.S. House,,DEM,Over Votes,1
+Carbon,2-2,U.S. House,,DEM,Under Votes,5
+Carbon,2-2,State House,15,REP,Donald Burkhart,221
+Carbon,2-2,State House,15,REP,Write-ins,11
+Carbon,2-2,State House,15,REP,Over Votes,0
+Carbon,2-2,State House,15,REP,Under Votes,31
+Carbon,2-2,State House,15,DEM,Jacquelin Wells,89
+Carbon,2-2,State House,15,DEM,Write-ins,2
+Carbon,2-2,State House,15,DEM,Over Votes,0
+Carbon,2-2,State House,15,DEM,Under Votes,5
+Carbon,2-2,Ballots Cast,,REP,Ballots Cast,263
+Carbon,2-2,Ballots Cast,,DEM,Ballots Cast,96
+Carbon,2-2,Ballots Cast,,NP,Ballots Cast,16
+Carbon,2-2,Ballots Cast,,,Ballots Cast,375
+Carbon,3-1,U.S. Senate,,REP,Bryan E Miller,13
+Carbon,3-1,U.S. Senate,,REP,Cynthia M. Lummis,94
+Carbon,3-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,3-1,U.S. Senate,,REP,Donna Rice,8
+Carbon,3-1,U.S. Senate,,REP,John Holtz,7
+Carbon,3-1,U.S. Senate,,REP,Josh Wheeler,4
+Carbon,3-1,U.S. Senate,,REP,Michael Kemler,2
+Carbon,3-1,U.S. Senate,,REP,R. Mark Armstrong,6
+Carbon,3-1,U.S. Senate,,REP,Robert G. Short,9
+Carbon,3-1,U.S. Senate,,REP,Star Roselli,2
+Carbon,3-1,U.S. Senate,,REP,Write-ins,1
+Carbon,3-1,U.S. Senate,,REP,Over Votes,0
+Carbon,3-1,U.S. Senate,,REP,Under Votes,6
+Carbon,3-1,U.S. Senate,,DEM,James Kirk DeBrine,5
+Carbon,3-1,U.S. Senate,,DEM,Kenneth R. Casner,18
+Carbon,3-1,U.S. Senate,,DEM,Merav Ben David,23
+Carbon,3-1,U.S. Senate,,DEM,Nathan Wendt,16
+Carbon,3-1,U.S. Senate,,DEM,Rex Wilde,5
+Carbon,3-1,U.S. Senate,,DEM,Yana Ludwig,12
+Carbon,3-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,3-1,U.S. Senate,,DEM,Over Votes,1
+Carbon,3-1,U.S. Senate,,DEM,Under Votes,6
+Carbon,3-1,U.S. House,,REP,Blake Stanley,44
+Carbon,3-1,U.S. House,,REP,Liz Cheney,104
+Carbon,3-1,U.S. House,,REP,Write-ins,1
+Carbon,3-1,U.S. House,,REP,Over Votes,0
+Carbon,3-1,U.S. House,,REP,Under Votes,3
+Carbon,3-1,U.S. House,,DEM,Carl Beach,24
+Carbon,3-1,U.S. House,,DEM,Carol Hafner,14
+Carbon,3-1,U.S. House,,DEM,Lynnette Grey Bull,38
+Carbon,3-1,U.S. House,,DEM,Write-ins,0
+Carbon,3-1,U.S. House,,DEM,Over Votes,1
+Carbon,3-1,U.S. House,,DEM,Under Votes,9
+Carbon,3-1,State House,15,REP,Donald Burkhart,140
+Carbon,3-1,State House,15,REP,Write-ins,1
+Carbon,3-1,State House,15,REP,Over Votes,0
+Carbon,3-1,State House,15,REP,Under Votes,11
+Carbon,3-1,State House,15,DEM,Jacquelin Wells,78
+Carbon,3-1,State House,15,DEM,Write-ins,1
+Carbon,3-1,State House,15,DEM,Over Votes,0
+Carbon,3-1,State House,15,DEM,Under Votes,7
+Carbon,3-1,Ballots Cast,,REP,Ballots Cast,152
+Carbon,3-1,Ballots Cast,,DEM,Ballots Cast,86
+Carbon,3-1,Ballots Cast,,NP,Ballots Cast,3
+Carbon,3-1,Ballots Cast,,,Ballots Cast,241
+Carbon,3-2,U.S. Senate,,REP,Bryan E Miller,16
+Carbon,3-2,U.S. Senate,,REP,Cynthia M. Lummis,152
+Carbon,3-2,U.S. Senate,,REP,Devon Cade,1
+Carbon,3-2,U.S. Senate,,REP,Donna Rice,11
+Carbon,3-2,U.S. Senate,,REP,John Holtz,6
+Carbon,3-2,U.S. Senate,,REP,Josh Wheeler,17
+Carbon,3-2,U.S. Senate,,REP,Michael Kemler,2
+Carbon,3-2,U.S. Senate,,REP,R. Mark Armstrong,8
+Carbon,3-2,U.S. Senate,,REP,Robert G. Short,15
+Carbon,3-2,U.S. Senate,,REP,Star Roselli,0
+Carbon,3-2,U.S. Senate,,REP,Write-ins,1
+Carbon,3-2,U.S. Senate,,REP,Over Votes,1
+Carbon,3-2,U.S. Senate,,REP,Under Votes,18
+Carbon,3-2,U.S. Senate,,DEM,James Kirk DeBrine,1
+Carbon,3-2,U.S. Senate,,DEM,Kenneth R. Casner,10
+Carbon,3-2,U.S. Senate,,DEM,Merav Ben David,25
+Carbon,3-2,U.S. Senate,,DEM,Nathan Wendt,13
+Carbon,3-2,U.S. Senate,,DEM,Rex Wilde,10
+Carbon,3-2,U.S. Senate,,DEM,Yana Ludwig,19
+Carbon,3-2,U.S. Senate,,DEM,Write-ins,0
+Carbon,3-2,U.S. Senate,,DEM,Over Votes,0
+Carbon,3-2,U.S. Senate,,DEM,Under Votes,6
+Carbon,3-2,U.S. House,,REP,Blake Stanley,71
+Carbon,3-2,U.S. House,,REP,Liz Cheney,166
+Carbon,3-2,U.S. House,,REP,Write-ins,0
+Carbon,3-2,U.S. House,,REP,Over Votes,0
+Carbon,3-2,U.S. House,,REP,Under Votes,11
+Carbon,3-2,U.S. House,,DEM,Carl Beach,13
+Carbon,3-2,U.S. House,,DEM,Carol Hafner,24
+Carbon,3-2,U.S. House,,DEM,Lynnette Grey Bull,41
+Carbon,3-2,U.S. House,,DEM,Write-ins,0
+Carbon,3-2,U.S. House,,DEM,Over Votes,0
+Carbon,3-2,U.S. House,,DEM,Under Votes,6
+Carbon,3-2,State House,15,REP,Donald Burkhart,212
+Carbon,3-2,State House,15,REP,Write-ins,8
+Carbon,3-2,State House,15,REP,Over Votes,0
+Carbon,3-2,State House,15,REP,Under Votes,28
+Carbon,3-2,State House,15,DEM,Jacquelin Wells,78
+Carbon,3-2,State House,15,DEM,Write-ins,2
+Carbon,3-2,State House,15,DEM,Over Votes,0
+Carbon,3-2,State House,15,DEM,Under Votes,4
+Carbon,3-2,Ballots Cast,,REP,Ballots Cast,248
+Carbon,3-2,Ballots Cast,,DEM,Ballots Cast,84
+Carbon,3-2,Ballots Cast,,NP,Ballots Cast,15
+Carbon,3-2,Ballots Cast,,,Ballots Cast,347
+Carbon,4-1,U.S. Senate,,REP,Bryan E Miller,2
+Carbon,4-1,U.S. Senate,,REP,Cynthia M. Lummis,6
+Carbon,4-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,4-1,U.S. Senate,,REP,Donna Rice,0
+Carbon,4-1,U.S. Senate,,REP,John Holtz,0
+Carbon,4-1,U.S. Senate,,REP,Josh Wheeler,1
+Carbon,4-1,U.S. Senate,,REP,Michael Kemler,0
+Carbon,4-1,U.S. Senate,,REP,R. Mark Armstrong,0
+Carbon,4-1,U.S. Senate,,REP,Robert G. Short,2
+Carbon,4-1,U.S. Senate,,REP,Star Roselli,0
+Carbon,4-1,U.S. Senate,,REP,Write-ins,0
+Carbon,4-1,U.S. Senate,,REP,Over Votes,0
+Carbon,4-1,U.S. Senate,,REP,Under Votes,0
+Carbon,4-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Carbon,4-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Carbon,4-1,U.S. Senate,,DEM,Merav Ben David,0
+Carbon,4-1,U.S. Senate,,DEM,Nathan Wendt,0
+Carbon,4-1,U.S. Senate,,DEM,Rex Wilde,0
+Carbon,4-1,U.S. Senate,,DEM,Yana Ludwig,0
+Carbon,4-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,4-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,4-1,U.S. Senate,,DEM,Under Votes,0
+Carbon,4-1,U.S. House,,REP,Blake Stanley,3
+Carbon,4-1,U.S. House,,REP,Liz Cheney,8
+Carbon,4-1,U.S. House,,REP,Write-ins,0
+Carbon,4-1,U.S. House,,REP,Over Votes,0
+Carbon,4-1,U.S. House,,REP,Under Votes,0
+Carbon,4-1,U.S. House,,DEM,Carl Beach,0
+Carbon,4-1,U.S. House,,DEM,Carol Hafner,0
+Carbon,4-1,U.S. House,,DEM,Lynnette Grey Bull,0
+Carbon,4-1,U.S. House,,DEM,Write-ins,0
+Carbon,4-1,U.S. House,,DEM,Over Votes,0
+Carbon,4-1,U.S. House,,DEM,Under Votes,0
+Carbon,4-1,State House,47,REP,Dee Garrison,2
+Carbon,4-1,State House,47,REP,Jerry Paxton,7
+Carbon,4-1,State House,47,REP,Joey Correnti IV,0
+Carbon,4-1,State House,47,REP,Julie McCallister,2
+Carbon,4-1,State House,47,REP,Write-ins,0
+Carbon,4-1,State House,47,REP,Over Votes,0
+Carbon,4-1,State House,47,REP,Under Votes,0
+Carbon,4-1,State House,47,DEM,Write-ins,0
+Carbon,4-1,Ballots Cast,,REP,Ballots Cast,11
+Carbon,4-1,Ballots Cast,,DEM,Ballots Cast,0
+Carbon,4-1,Ballots Cast,,NP,Ballots Cast,0
+Carbon,4-1,Ballots Cast,,,Ballots Cast,11
+Carbon,5-1,U.S. Senate,,REP,Bryan E Miller,6
+Carbon,5-1,U.S. Senate,,REP,Cynthia M. Lummis,54
+Carbon,5-1,U.S. Senate,,REP,Devon Cade,2
+Carbon,5-1,U.S. Senate,,REP,Donna Rice,7
+Carbon,5-1,U.S. Senate,,REP,John Holtz,1
+Carbon,5-1,U.S. Senate,,REP,Josh Wheeler,3
+Carbon,5-1,U.S. Senate,,REP,Michael Kemler,2
+Carbon,5-1,U.S. Senate,,REP,R. Mark Armstrong,5
+Carbon,5-1,U.S. Senate,,REP,Robert G. Short,4
+Carbon,5-1,U.S. Senate,,REP,Star Roselli,1
+Carbon,5-1,U.S. Senate,,REP,Write-ins,0
+Carbon,5-1,U.S. Senate,,REP,Over Votes,0
+Carbon,5-1,U.S. Senate,,REP,Under Votes,0
+Carbon,5-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Carbon,5-1,U.S. Senate,,DEM,Kenneth R. Casner,5
+Carbon,5-1,U.S. Senate,,DEM,Merav Ben David,6
+Carbon,5-1,U.S. Senate,,DEM,Nathan Wendt,0
+Carbon,5-1,U.S. Senate,,DEM,Rex Wilde,1
+Carbon,5-1,U.S. Senate,,DEM,Yana Ludwig,0
+Carbon,5-1,U.S. Senate,,DEM,Write-ins,1
+Carbon,5-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,5-1,U.S. Senate,,DEM,Under Votes,2
+Carbon,5-1,U.S. House,,REP,Blake Stanley,22
+Carbon,5-1,U.S. House,,REP,Liz Cheney,57
+Carbon,5-1,U.S. House,,REP,Write-ins,0
+Carbon,5-1,U.S. House,,REP,Over Votes,0
+Carbon,5-1,U.S. House,,REP,Under Votes,6
+Carbon,5-1,U.S. House,,DEM,Carl Beach,3
+Carbon,5-1,U.S. House,,DEM,Carol Hafner,1
+Carbon,5-1,U.S. House,,DEM,Lynnette Grey Bull,8
+Carbon,5-1,U.S. House,,DEM,Write-ins,0
+Carbon,5-1,U.S. House,,DEM,Over Votes,0
+Carbon,5-1,U.S. House,,DEM,Under Votes,4
+Carbon,5-1,State House,15,REP,Donald Burkhart,56
+Carbon,5-1,State House,15,REP,Write-ins,1
+Carbon,5-1,State House,15,REP,Over Votes,0
+Carbon,5-1,State House,15,REP,Under Votes,9
+Carbon,5-1,State House,15,DEM,Jacquelin Wells,11
+Carbon,5-1,State House,15,DEM,Write-ins,0
+Carbon,5-1,State House,15,DEM,Over Votes,0
+Carbon,5-1,State House,15,DEM,Under Votes,1
+Carbon,5-1,State House,47,REP,Dee Garrison,0
+Carbon,5-1,State House,47,REP,Jerry Paxton,12
+Carbon,5-1,State House,47,REP,Joey Correnti IV,6
+Carbon,5-1,State House,47,REP,Julie McCallister,1
+Carbon,5-1,State House,47,REP,Write-ins,0
+Carbon,5-1,State House,47,REP,Over Votes,0
+Carbon,5-1,State House,47,REP,Under Votes,0
+Carbon,5-1,State House,47,DEM,Write-ins,0
+Carbon,5-1,Ballots Cast,,REP,Ballots Cast,85
+Carbon,5-1,Ballots Cast,,DEM,Ballots Cast,16
+Carbon,5-1,Ballots Cast,,NP,Ballots Cast,2
+Carbon,5-1,Ballots Cast,,,Ballots Cast,103
+Carbon,6-1,U.S. Senate,,REP,Bryan E Miller,0
+Carbon,6-1,U.S. Senate,,REP,Cynthia M. Lummis,11
+Carbon,6-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,6-1,U.S. Senate,,REP,Donna Rice,0
+Carbon,6-1,U.S. Senate,,REP,John Holtz,0
+Carbon,6-1,U.S. Senate,,REP,Josh Wheeler,0
+Carbon,6-1,U.S. Senate,,REP,Michael Kemler,0
+Carbon,6-1,U.S. Senate,,REP,R. Mark Armstrong,0
+Carbon,6-1,U.S. Senate,,REP,Robert G. Short,1
+Carbon,6-1,U.S. Senate,,REP,Star Roselli,0
+Carbon,6-1,U.S. Senate,,REP,Write-ins,0
+Carbon,6-1,U.S. Senate,,REP,Over Votes,0
+Carbon,6-1,U.S. Senate,,REP,Under Votes,0
+Carbon,6-1,U.S. Senate,,DEM,James Kirk DeBrine,0
+Carbon,6-1,U.S. Senate,,DEM,Kenneth R. Casner,0
+Carbon,6-1,U.S. Senate,,DEM,Merav Ben David,0
+Carbon,6-1,U.S. Senate,,DEM,Nathan Wendt,0
+Carbon,6-1,U.S. Senate,,DEM,Rex Wilde,0
+Carbon,6-1,U.S. Senate,,DEM,Yana Ludwig,0
+Carbon,6-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,6-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,6-1,U.S. Senate,,DEM,Under Votes,0
+Carbon,6-1,U.S. House,,REP,Blake Stanley,0
+Carbon,6-1,U.S. House,,REP,Liz Cheney,12
+Carbon,6-1,U.S. House,,REP,Write-ins,0
+Carbon,6-1,U.S. House,,REP,Over Votes,0
+Carbon,6-1,U.S. House,,REP,Under Votes,0
+Carbon,6-1,U.S. House,,DEM,Carl Beach,0
+Carbon,6-1,U.S. House,,DEM,Carol Hafner,0
+Carbon,6-1,U.S. House,,DEM,Lynnette Grey Bull,0
+Carbon,6-1,U.S. House,,DEM,Write-ins,0
+Carbon,6-1,U.S. House,,DEM,Over Votes,0
+Carbon,6-1,U.S. House,,DEM,Under Votes,0
+Carbon,6-1,State House,47,REP,Dee Garrison,1
+Carbon,6-1,State House,47,REP,Jerry Paxton,6
+Carbon,6-1,State House,47,REP,Joey Correnti IV,0
+Carbon,6-1,State House,47,REP,Julie McCallister,5
+Carbon,6-1,State House,47,REP,Write-ins,0
+Carbon,6-1,State House,47,REP,Over Votes,0
+Carbon,6-1,State House,47,REP,Under Votes,0
+Carbon,6-1,State House,47,DEM,Write-ins,0
+Carbon,6-1,Ballots Cast,,REP,Ballots Cast,12
+Carbon,6-1,Ballots Cast,,DEM,Ballots Cast,0
+Carbon,6-1,Ballots Cast,,NP,Ballots Cast,0
+Carbon,6-1,Ballots Cast,,,Ballots Cast,12
+Carbon,7-1,U.S. Senate,,REP,Bryan E Miller,3
+Carbon,7-1,U.S. Senate,,REP,Cynthia M. Lummis,45
+Carbon,7-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,7-1,U.S. Senate,,REP,Donna Rice,3
+Carbon,7-1,U.S. Senate,,REP,John Holtz,1
+Carbon,7-1,U.S. Senate,,REP,Josh Wheeler,5
+Carbon,7-1,U.S. Senate,,REP,Michael Kemler,1
+Carbon,7-1,U.S. Senate,,REP,R. Mark Armstrong,0
+Carbon,7-1,U.S. Senate,,REP,Robert G. Short,5
+Carbon,7-1,U.S. Senate,,REP,Star Roselli,0
+Carbon,7-1,U.S. Senate,,REP,Write-ins,0
+Carbon,7-1,U.S. Senate,,REP,Over Votes,0
+Carbon,7-1,U.S. Senate,,REP,Under Votes,3
+Carbon,7-1,U.S. Senate,,DEM,James Kirk DeBrine,1
+Carbon,7-1,U.S. Senate,,DEM,Kenneth R. Casner,2
+Carbon,7-1,U.S. Senate,,DEM,Merav Ben David,1
+Carbon,7-1,U.S. Senate,,DEM,Nathan Wendt,1
+Carbon,7-1,U.S. Senate,,DEM,Rex Wilde,0
+Carbon,7-1,U.S. Senate,,DEM,Yana Ludwig,1
+Carbon,7-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,7-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,7-1,U.S. Senate,,DEM,Under Votes,0
+Carbon,7-1,U.S. House,,REP,Blake Stanley,10
+Carbon,7-1,U.S. House,,REP,Liz Cheney,55
+Carbon,7-1,U.S. House,,REP,Write-ins,0
+Carbon,7-1,U.S. House,,REP,Over Votes,0
+Carbon,7-1,U.S. House,,REP,Under Votes,1
+Carbon,7-1,U.S. House,,DEM,Carl Beach,3
+Carbon,7-1,U.S. House,,DEM,Carol Hafner,1
+Carbon,7-1,U.S. House,,DEM,Lynnette Grey Bull,1
+Carbon,7-1,U.S. House,,DEM,Write-ins,0
+Carbon,7-1,U.S. House,,DEM,Over Votes,0
+Carbon,7-1,U.S. House,,DEM,Under Votes,1
+Carbon,7-1,State House,47,REP,Dee Garrison,1
+Carbon,7-1,State House,47,REP,Jerry Paxton,31
+Carbon,7-1,State House,47,REP,Joey Correnti IV,11
+Carbon,7-1,State House,47,REP,Julie McCallister,20
+Carbon,7-1,State House,47,REP,Write-ins,0
+Carbon,7-1,State House,47,REP,Over Votes,1
+Carbon,7-1,State House,47,REP,Under Votes,2
+Carbon,7-1,State House,47,DEM,Write-ins,1
+Carbon,7-1,Ballots Cast,,REP,Ballots Cast,66
+Carbon,7-1,Ballots Cast,,DEM,Ballots Cast,6
+Carbon,7-1,Ballots Cast,,NP,Ballots Cast,9
+Carbon,7-1,Ballots Cast,,,Ballots Cast,81
+Carbon,8-1,U.S. Senate,,REP,Bryan E Miller,5
+Carbon,8-1,U.S. Senate,,REP,Cynthia M. Lummis,72
+Carbon,8-1,U.S. Senate,,REP,Devon Cade,0
+Carbon,8-1,U.S. Senate,,REP,Donna Rice,8
+Carbon,8-1,U.S. Senate,,REP,John Holtz,2
+Carbon,8-1,U.S. Senate,,REP,Josh Wheeler,10
+Carbon,8-1,U.S. Senate,,REP,Michael Kemler,0
+Carbon,8-1,U.S. Senate,,REP,R. Mark Armstrong,10
+Carbon,8-1,U.S. Senate,,REP,Robert G. Short,3
+Carbon,8-1,U.S. Senate,,REP,Star Roselli,1
+Carbon,8-1,U.S. Senate,,REP,Write-ins,0
+Carbon,8-1,U.S. Senate,,REP,Over Votes,0
+Carbon,8-1,U.S. Senate,,REP,Under Votes,2
+Carbon,8-1,U.S. Senate,,DEM,James Kirk DeBrine,2
+Carbon,8-1,U.S. Senate,,DEM,Kenneth R. Casner,3
+Carbon,8-1,U.S. Senate,,DEM,Merav Ben David,7
+Carbon,8-1,U.S. Senate,,DEM,Nathan Wendt,5
+Carbon,8-1,U.S. Senate,,DEM,Rex Wilde,2
+Carbon,8-1,U.S. Senate,,DEM,Yana Ludwig,3
+Carbon,8-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,8-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,8-1,U.S. Senate,,DEM,Under Votes,2
+Carbon,8-1,U.S. House,,REP,Blake Stanley,34
+Carbon,8-1,U.S. House,,REP,Liz Cheney,75
+Carbon,8-1,U.S. House,,REP,Write-ins,0
+Carbon,8-1,U.S. House,,REP,Over Votes,0
+Carbon,8-1,U.S. House,,REP,Under Votes,4
+Carbon,8-1,U.S. House,,DEM,Carl Beach,2
+Carbon,8-1,U.S. House,,DEM,Carol Hafner,9
+Carbon,8-1,U.S. House,,DEM,Lynnette Grey Bull,10
+Carbon,8-1,U.S. House,,DEM,Write-ins,0
+Carbon,8-1,U.S. House,,DEM,Over Votes,0
+Carbon,8-1,U.S. House,,DEM,Under Votes,3
+Carbon,8-1,State House,47,REP,Dee Garrison,4
+Carbon,8-1,State House,47,REP,Jerry Paxton,51
+Carbon,8-1,State House,47,REP,Joey Correnti IV,36
+Carbon,8-1,State House,47,REP,Julie McCallister,20
+Carbon,8-1,State House,47,REP,Write-ins,0
+Carbon,8-1,State House,47,REP,Over Votes,0
+Carbon,8-1,State House,47,REP,Under Votes,2
+Carbon,8-1,State House,47,DEM,Write-ins,1
+Carbon,8-1,Ballots Cast,,REP,Ballots Cast,113
+Carbon,8-1,Ballots Cast,,DEM,Ballots Cast,24
+Carbon,8-1,Ballots Cast,,NP,Ballots Cast,29
+Carbon,8-1,Ballots Cast,,,Ballots Cast,166
+Carbon,9-1,U.S. Senate,,REP,Bryan E Miller,4
+Carbon,9-1,U.S. Senate,,REP,Cynthia M. Lummis,65
+Carbon,9-1,U.S. Senate,,REP,Devon Cade,1
+Carbon,9-1,U.S. Senate,,REP,Donna Rice,10
+Carbon,9-1,U.S. Senate,,REP,John Holtz,1
+Carbon,9-1,U.S. Senate,,REP,Josh Wheeler,2
+Carbon,9-1,U.S. Senate,,REP,Michael Kemler,2
+Carbon,9-1,U.S. Senate,,REP,R. Mark Armstrong,2
+Carbon,9-1,U.S. Senate,,REP,Robert G. Short,8
+Carbon,9-1,U.S. Senate,,REP,Star Roselli,1
+Carbon,9-1,U.S. Senate,,REP,Write-ins,0
+Carbon,9-1,U.S. Senate,,REP,Over Votes,0
+Carbon,9-1,U.S. Senate,,REP,Under Votes,2
+Carbon,9-1,U.S. Senate,,DEM,James Kirk DeBrine,2
+Carbon,9-1,U.S. Senate,,DEM,Kenneth R. Casner,5
+Carbon,9-1,U.S. Senate,,DEM,Merav Ben David,1
+Carbon,9-1,U.S. Senate,,DEM,Nathan Wendt,0
+Carbon,9-1,U.S. Senate,,DEM,Rex Wilde,1
+Carbon,9-1,U.S. Senate,,DEM,Yana Ludwig,1
+Carbon,9-1,U.S. Senate,,DEM,Write-ins,0
+Carbon,9-1,U.S. Senate,,DEM,Over Votes,0
+Carbon,9-1,U.S. Senate,,DEM,Under Votes,0
+Carbon,9-1,U.S. House,,REP,Blake Stanley,26
+Carbon,9-1,U.S. House,,REP,Liz Cheney,68
+Carbon,9-1,U.S. House,,REP,Write-ins,1
+Carbon,9-1,U.S. House,,REP,Over Votes,0
+Carbon,9-1,U.S. House,,REP,Under Votes,3
+Carbon,9-1,U.S. House,,DEM,Carl Beach,4
+Carbon,9-1,U.S. House,,DEM,Carol Hafner,3
+Carbon,9-1,U.S. House,,DEM,Lynnette Grey Bull,2
+Carbon,9-1,U.S. House,,DEM,Write-ins,0
+Carbon,9-1,U.S. House,,DEM,Over Votes,0
+Carbon,9-1,U.S. House,,DEM,Under Votes,1
+Carbon,9-1,State House,47,REP,Dee Garrison,4
+Carbon,9-1,State House,47,REP,Jerry Paxton,54
+Carbon,9-1,State House,47,REP,Joey Correnti IV,24
+Carbon,9-1,State House,47,REP,Julie McCallister,12
+Carbon,9-1,State House,47,REP,Write-ins,0
+Carbon,9-1,State House,47,REP,Over Votes,2
+Carbon,9-1,State House,47,REP,Under Votes,2
+Carbon,9-1,State House,47,DEM,Write-ins,0
+Carbon,9-1,Ballots Cast,,REP,Ballots Cast,98
+Carbon,9-1,Ballots Cast,,DEM,Ballots Cast,10
+Carbon,9-1,Ballots Cast,,NP,Ballots Cast,5
+Carbon,9-1,Ballots Cast,,,Ballots Cast,113
