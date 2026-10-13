@@ -123,6 +123,8 @@ Uinta,1-3,State Senate,14,REP,Write-ins,0
 Uinta,1-3,State Senate,14,REP,Over Votes,0
 Uinta,1-3,State Senate,14,REP,Under Votes,5
 Uinta,1-3,State Senate,14,DEM,Write-ins,1
+Uinta,1-3,State Senate,14,DEM,Over Votes,0
+Uinta,1-3,State Senate,14,DEM,Under Votes,8
 Uinta,1-3,State House,18,REP,Mike Lundgren,16
 Uinta,1-3,State House,18,REP,Scott Heiner,40
 Uinta,1-3,State House,18,REP,Thomas D. Crank,18
@@ -130,12 +132,16 @@ Uinta,1-3,State House,18,REP,Write-ins,1
 Uinta,1-3,State House,18,REP,Over Votes,0
 Uinta,1-3,State House,18,REP,Under Votes,5
 Uinta,1-3,State House,18,DEM,Write-ins,1
+Uinta,1-3,State House,18,DEM,Over Votes,0
+Uinta,1-3,State House,18,DEM,Under Votes,8
 Uinta,1-3,State House,19,REP,Danny Eyre,119
 Uinta,1-3,State House,19,REP,Karl Allred,115
 Uinta,1-3,State House,19,REP,Write-ins,1
 Uinta,1-3,State House,19,REP,Over Votes,0
 Uinta,1-3,State House,19,REP,Under Votes,10
 Uinta,1-3,State House,19,DEM,Write-ins,3
+Uinta,1-3,State House,19,DEM,Over Votes,0
+Uinta,1-3,State House,19,DEM,Under Votes,35
 Uinta,1-3,Ballots Cast,,REP,Ballots Cast,325
 Uinta,1-3,Ballots Cast,,DEM,Ballots Cast,47
 Uinta,1-3,Ballots Cast,,NP,Ballots Cast,10
@@ -222,6 +228,8 @@ Uinta,2-1,State Senate,14,REP,Write-ins,0
 Uinta,2-1,State Senate,14,REP,Over Votes,0
 Uinta,2-1,State Senate,14,REP,Under Votes,7
 Uinta,2-1,State Senate,14,DEM,Write-ins,0
+Uinta,2-1,State Senate,14,DEM,Over Votes,0
+Uinta,2-1,State Senate,14,DEM,Under Votes,15
 Uinta,2-1,State House,18,REP,Mike Lundgren,15
 Uinta,2-1,State House,18,REP,Scott Heiner,90
 Uinta,2-1,State House,18,REP,Thomas D. Crank,46
@@ -229,12 +237,16 @@ Uinta,2-1,State House,18,REP,Write-ins,1
 Uinta,2-1,State House,18,REP,Over Votes,0
 Uinta,2-1,State House,18,REP,Under Votes,12
 Uinta,2-1,State House,18,DEM,Write-ins,0
+Uinta,2-1,State House,18,DEM,Over Votes,0
+Uinta,2-1,State House,18,DEM,Under Votes,15
 Uinta,2-1,State House,19,REP,Danny Eyre,211
 Uinta,2-1,State House,19,REP,Karl Allred,103
 Uinta,2-1,State House,19,REP,Write-ins,3
 Uinta,2-1,State House,19,REP,Over Votes,0
 Uinta,2-1,State House,19,REP,Under Votes,13
 Uinta,2-1,State House,19,DEM,Write-ins,2
+Uinta,2-1,State House,19,DEM,Over Votes,0
+Uinta,2-1,State House,19,DEM,Under Votes,23
 Uinta,2-1,State House,49,DEM,Joy Bell,2
 Uinta,2-1,State House,49,DEM,Robert A. Wharff,1
 Uinta,2-1,State House,49,DEM,Write-ins,0
@@ -284,6 +296,8 @@ Uinta,2-2,State Senate,14,REP,Write-ins,0
 Uinta,2-2,State Senate,14,REP,Over Votes,0
 Uinta,2-2,State Senate,14,REP,Under Votes,8
 Uinta,2-2,State Senate,14,DEM,Write-ins,0
+Uinta,2-2,State Senate,14,DEM,Over Votes,0
+Uinta,2-2,State Senate,14,DEM,Under Votes,15
 Uinta,2-2,State House,18,REP,Mike Lundgren,16
 Uinta,2-2,State House,18,REP,Scott Heiner,68
 Uinta,2-2,State House,18,REP,Thomas D. Crank,37
@@ -291,6 +305,8 @@ Uinta,2-2,State House,18,REP,Write-ins,0
 Uinta,2-2,State House,18,REP,Over Votes,0
 Uinta,2-2,State House,18,REP,Under Votes,8
 Uinta,2-2,State House,18,DEM,Write-ins,0
+Uinta,2-2,State House,18,DEM,Over Votes,0
+Uinta,2-2,State House,18,DEM,Under Votes,15
 Uinta,2-2,Ballots Cast,,REP,Ballots Cast,129
 Uinta,2-2,Ballots Cast,,DEM,Ballots Cast,15
 Uinta,2-2,Ballots Cast,,NP,Ballots Cast,1
@@ -334,6 +350,8 @@ Uinta,3-1,State House,19,REP,Write-ins,0
 Uinta,3-1,State House,19,REP,Over Votes,0
 Uinta,3-1,State House,19,REP,Under Votes,3
 Uinta,3-1,State House,19,DEM,Write-ins,4
+Uinta,3-1,State House,19,DEM,Over Votes,0
+Uinta,3-1,State House,19,DEM,Under Votes,38
 Uinta,3-1,Ballots Cast,,REP,Ballots Cast,433
 Uinta,3-1,Ballots Cast,,DEM,Ballots Cast,42
 Uinta,3-1,Ballots Cast,,NP,Ballots Cast,14
@@ -377,6 +395,8 @@ Uinta,3-2,State House,19,REP,Write-ins,1
 Uinta,3-2,State House,19,REP,Over Votes,0
 Uinta,3-2,State House,19,REP,Under Votes,4
 Uinta,3-2,State House,19,DEM,Write-ins,2
+Uinta,3-2,State House,19,DEM,Over Votes,0
+Uinta,3-2,State House,19,DEM,Under Votes,24
 Uinta,3-2,Ballots Cast,,REP,Ballots Cast,301
 Uinta,3-2,Ballots Cast,,DEM,Ballots Cast,26
 Uinta,3-2,Ballots Cast,,NP,Ballots Cast,0
@@ -420,6 +440,8 @@ Uinta,4-1,State House,19,REP,Write-ins,0
 Uinta,4-1,State House,19,REP,Over Votes,0
 Uinta,4-1,State House,19,REP,Under Votes,9
 Uinta,4-1,State House,19,DEM,Write-ins,10
+Uinta,4-1,State House,19,DEM,Over Votes,0
+Uinta,4-1,State House,19,DEM,Under Votes,60
 Uinta,4-1,Ballots Cast,,REP,Ballots Cast,486
 Uinta,4-1,Ballots Cast,,DEM,Ballots Cast,70
 Uinta,4-1,Ballots Cast,,NP,Ballots Cast,0
@@ -463,6 +485,8 @@ Uinta,4-2,State House,19,REP,Write-ins,1
 Uinta,4-2,State House,19,REP,Over Votes,0
 Uinta,4-2,State House,19,REP,Under Votes,4
 Uinta,4-2,State House,19,DEM,Write-ins,7
+Uinta,4-2,State House,19,DEM,Over Votes,0
+Uinta,4-2,State House,19,DEM,Under Votes,23
 Uinta,4-2,Ballots Cast,,REP,Ballots Cast,275
 Uinta,4-2,Ballots Cast,,DEM,Ballots Cast,30
 Uinta,4-2,Ballots Cast,,NP,Ballots Cast,7

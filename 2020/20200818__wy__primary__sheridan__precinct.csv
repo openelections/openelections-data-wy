@@ -37,18 +37,24 @@ Sheridan,1-1,State Senate,22,REP,Write-ins,0
 Sheridan,1-1,State Senate,22,REP,Over Votes,0
 Sheridan,1-1,State Senate,22,REP,Under Votes,0
 Sheridan,1-1,State Senate,22,DEM,Write-ins,0
+Sheridan,1-1,State Senate,22,DEM,Over Votes,0
+Sheridan,1-1,State Senate,22,DEM,Under Votes,1
 Sheridan,1-1,State House,29,REP,Ken Pendergraft,88
 Sheridan,1-1,State House,29,REP,Mark S. Kinner,98
 Sheridan,1-1,State House,29,REP,Write-ins,1
 Sheridan,1-1,State House,29,REP,Over Votes,1
 Sheridan,1-1,State House,29,REP,Under Votes,3
 Sheridan,1-1,State House,29,DEM,Write-ins,8
+Sheridan,1-1,State House,29,DEM,Over Votes,0
+Sheridan,1-1,State House,29,DEM,Under Votes,36
 Sheridan,1-1,State House,30,REP,John Heyneman,0
 Sheridan,1-1,State House,30,REP,Mark Jennings,2
 Sheridan,1-1,State House,30,REP,Write-ins,0
 Sheridan,1-1,State House,30,REP,Over Votes,0
 Sheridan,1-1,State House,30,REP,Under Votes,0
 Sheridan,1-1,State House,30,DEM,Write-ins,0
+Sheridan,1-1,State House,30,DEM,Over Votes,0
+Sheridan,1-1,State House,30,DEM,Under Votes,1
 Sheridan,1-1,Ballots Cast,,REP,Ballots Cast,193
 Sheridan,1-1,Ballots Cast,,DEM,Ballots Cast,45
 Sheridan,1-1,Ballots Cast,,NP,Ballots Cast,15
@@ -91,12 +97,15 @@ Sheridan,10-1,State Senate,22,REP,Write-ins,0
 Sheridan,10-1,State Senate,22,REP,Over Votes,0
 Sheridan,10-1,State Senate,22,REP,Under Votes,11
 Sheridan,10-1,State Senate,22,DEM,Write-ins,2
+Sheridan,10-1,State Senate,22,DEM,Under Votes,3
 Sheridan,10-1,State House,40,REP,Barry Crago,56
 Sheridan,10-1,State House,40,REP,Richard L. Tass,36
 Sheridan,10-1,State House,40,REP,Write-ins,0
 Sheridan,10-1,State House,40,REP,Over Votes,0
 Sheridan,10-1,State House,40,REP,Under Votes,2
 Sheridan,10-1,State House,40,DEM,Write-ins,2
+Sheridan,10-1,State House,40,DEM,Over Votes,0
+Sheridan,10-1,State House,40,DEM,Under Votes,3
 Sheridan,10-1,Ballots Cast,,REP,Ballots Cast,94
 Sheridan,10-1,Ballots Cast,,DEM,Ballots Cast,5
 Sheridan,10-1,Ballots Cast,,NP,Ballots Cast,0
@@ -139,18 +148,23 @@ Sheridan,11-1,State Senate,22,REP,Write-ins,12
 Sheridan,11-1,State Senate,22,REP,Over Votes,0
 Sheridan,11-1,State Senate,22,REP,Under Votes,61
 Sheridan,11-1,State Senate,22,DEM,Write-ins,6
+Sheridan,11-1,State Senate,22,DEM,Under Votes,46
 Sheridan,11-1,State House,30,REP,John Heyneman,119
 Sheridan,11-1,State House,30,REP,Mark Jennings,187
 Sheridan,11-1,State House,30,REP,Write-ins,1
 Sheridan,11-1,State House,30,REP,Over Votes,0
 Sheridan,11-1,State House,30,REP,Under Votes,7
 Sheridan,11-1,State House,30,DEM,Write-ins,8
+Sheridan,11-1,State House,30,DEM,Over Votes,0
+Sheridan,11-1,State House,30,DEM,Under Votes,44
 Sheridan,11-1,State House,51,REP,Cyrus Western,47
 Sheridan,11-1,State House,51,REP,Dennis Fox,11
 Sheridan,11-1,State House,51,REP,Write-ins,0
 Sheridan,11-1,State House,51,REP,Over Votes,0
 Sheridan,11-1,State House,51,REP,Under Votes,1
 Sheridan,11-1,State House,51,DEM,Write-ins,0
+Sheridan,11-1,State House,51,DEM,Over Votes,0
+Sheridan,11-1,State House,51,DEM,Under Votes,4
 Sheridan,11-1,Ballots Cast,,REP,Ballots Cast,373
 Sheridan,11-1,Ballots Cast,,DEM,Ballots Cast,56
 Sheridan,11-1,Ballots Cast,,NP,Ballots Cast,0
@@ -194,6 +208,8 @@ Sheridan,12-1,State House,51,REP,Write-ins,2
 Sheridan,12-1,State House,51,REP,Over Votes,0
 Sheridan,12-1,State House,51,REP,Under Votes,35
 Sheridan,12-1,State House,51,DEM,Write-ins,13
+Sheridan,12-1,State House,51,DEM,Over Votes,0
+Sheridan,12-1,State House,51,DEM,Under Votes,96
 Sheridan,12-1,Ballots Cast,,REP,Ballots Cast,789
 Sheridan,12-1,Ballots Cast,,DEM,Ballots Cast,109
 Sheridan,12-1,Ballots Cast,,NP,Ballots Cast,0
@@ -237,6 +253,8 @@ Sheridan,13-1,State House,51,REP,Write-ins,0
 Sheridan,13-1,State House,51,REP,Over Votes,0
 Sheridan,13-1,State House,51,REP,Under Votes,6
 Sheridan,13-1,State House,51,DEM,Write-ins,3
+Sheridan,13-1,State House,51,DEM,Over Votes,0
+Sheridan,13-1,State House,51,DEM,Under Votes,45
 Sheridan,13-1,Ballots Cast,,REP,Ballots Cast,228
 Sheridan,13-1,Ballots Cast,,DEM,Ballots Cast,48
 Sheridan,13-1,Ballots Cast,,NP,Ballots Cast,0
@@ -279,12 +297,15 @@ Sheridan,16-1,State Senate,22,REP,Write-ins,4
 Sheridan,16-1,State Senate,22,REP,Over Votes,0
 Sheridan,16-1,State Senate,22,REP,Under Votes,23
 Sheridan,16-1,State Senate,22,DEM,Write-ins,1
+Sheridan,16-1,State Senate,22,DEM,Under Votes,11
 Sheridan,16-1,State House,30,REP,John Heyneman,50
 Sheridan,16-1,State House,30,REP,Mark Jennings,72
 Sheridan,16-1,State House,30,REP,Write-ins,0
 Sheridan,16-1,State House,30,REP,Over Votes,0
 Sheridan,16-1,State House,30,REP,Under Votes,5
 Sheridan,16-1,State House,30,DEM,Write-ins,0
+Sheridan,16-1,State House,30,DEM,Over Votes,0
+Sheridan,16-1,State House,30,DEM,Under Votes,12
 Sheridan,16-1,Ballots Cast,,REP,Ballots Cast,127
 Sheridan,16-1,Ballots Cast,,DEM,Ballots Cast,12
 Sheridan,16-1,Ballots Cast,,NP,Ballots Cast,0
@@ -328,6 +349,8 @@ Sheridan,17-1,State House,51,REP,Write-ins,1
 Sheridan,17-1,State House,51,REP,Over Votes,0
 Sheridan,17-1,State House,51,REP,Under Votes,3
 Sheridan,17-1,State House,51,DEM,Write-ins,1
+Sheridan,17-1,State House,51,DEM,Over Votes,0
+Sheridan,17-1,State House,51,DEM,Under Votes,21
 Sheridan,17-1,Ballots Cast,,REP,Ballots Cast,180
 Sheridan,17-1,Ballots Cast,,DEM,Ballots Cast,22
 Sheridan,17-1,Ballots Cast,,NP,Ballots Cast,14
@@ -371,6 +394,8 @@ Sheridan,17-2,State House,51,REP,Write-ins,0
 Sheridan,17-2,State House,51,REP,Over Votes,0
 Sheridan,17-2,State House,51,REP,Under Votes,7
 Sheridan,17-2,State House,51,DEM,Write-ins,6
+Sheridan,17-2,State House,51,DEM,Over Votes,0
+Sheridan,17-2,State House,51,DEM,Under Votes,14
 Sheridan,17-2,Ballots Cast,,REP,Ballots Cast,159
 Sheridan,17-2,Ballots Cast,,DEM,Ballots Cast,20
 Sheridan,17-2,Ballots Cast,,NP,Ballots Cast,0
@@ -414,6 +439,8 @@ Sheridan,18-1,State House,51,REP,Write-ins,0
 Sheridan,18-1,State House,51,REP,Over Votes,0
 Sheridan,18-1,State House,51,REP,Under Votes,0
 Sheridan,18-1,State House,51,DEM,Write-ins,1
+Sheridan,18-1,State House,51,DEM,Over Votes,0
+Sheridan,18-1,State House,51,DEM,Under Votes,3
 Sheridan,18-1,Ballots Cast,,REP,Ballots Cast,24
 Sheridan,18-1,Ballots Cast,,DEM,Ballots Cast,4
 Sheridan,18-1,Ballots Cast,,NP,Ballots Cast,0
@@ -456,12 +483,15 @@ Sheridan,19-1,State Senate,22,REP,Write-ins,11
 Sheridan,19-1,State Senate,22,REP,Over Votes,0
 Sheridan,19-1,State Senate,22,REP,Under Votes,21
 Sheridan,19-1,State Senate,22,DEM,Write-ins,1
+Sheridan,19-1,State Senate,22,DEM,Under Votes,15
 Sheridan,19-1,State House,30,REP,John Heyneman,73
 Sheridan,19-1,State House,30,REP,Mark Jennings,93
 Sheridan,19-1,State House,30,REP,Write-ins,0
 Sheridan,19-1,State House,30,REP,Over Votes,0
 Sheridan,19-1,State House,30,REP,Under Votes,3
 Sheridan,19-1,State House,30,DEM,Write-ins,2
+Sheridan,19-1,State House,30,DEM,Over Votes,0
+Sheridan,19-1,State House,30,DEM,Under Votes,14
 Sheridan,19-1,Ballots Cast,,REP,Ballots Cast,169
 Sheridan,19-1,Ballots Cast,,DEM,Ballots Cast,16
 Sheridan,19-1,Ballots Cast,,NP,Ballots Cast,0
@@ -504,18 +534,24 @@ Sheridan,2-1,State Senate,22,REP,Write-ins,0
 Sheridan,2-1,State Senate,22,REP,Over Votes,0
 Sheridan,2-1,State Senate,22,REP,Under Votes,0
 Sheridan,2-1,State Senate,22,DEM,Write-ins,0
+Sheridan,2-1,State Senate,22,DEM,Over Votes,0
+Sheridan,2-1,State Senate,22,DEM,Under Votes,2
 Sheridan,2-1,State House,29,REP,Ken Pendergraft,106
 Sheridan,2-1,State House,29,REP,Mark S. Kinner,107
 Sheridan,2-1,State House,29,REP,Write-ins,0
 Sheridan,2-1,State House,29,REP,Over Votes,0
 Sheridan,2-1,State House,29,REP,Under Votes,5
 Sheridan,2-1,State House,29,DEM,Write-ins,3
+Sheridan,2-1,State House,29,DEM,Over Votes,0
+Sheridan,2-1,State House,29,DEM,Under Votes,43
 Sheridan,2-1,State House,30,REP,John Heyneman,0
 Sheridan,2-1,State House,30,REP,Mark Jennings,0
 Sheridan,2-1,State House,30,REP,Write-ins,0
 Sheridan,2-1,State House,30,REP,Over Votes,0
 Sheridan,2-1,State House,30,REP,Under Votes,0
 Sheridan,2-1,State House,30,DEM,Write-ins,0
+Sheridan,2-1,State House,30,DEM,Over Votes,0
+Sheridan,2-1,State House,30,DEM,Under Votes,2
 Sheridan,2-1,Ballots Cast,,REP,Ballots Cast,218
 Sheridan,2-1,Ballots Cast,,DEM,Ballots Cast,48
 Sheridan,2-1,Ballots Cast,,NP,Ballots Cast,9
@@ -559,6 +595,8 @@ Sheridan,2-2,State House,51,REP,Write-ins,1
 Sheridan,2-2,State House,51,REP,Over Votes,0
 Sheridan,2-2,State House,51,REP,Under Votes,8
 Sheridan,2-2,State House,51,DEM,Write-ins,4
+Sheridan,2-2,State House,51,DEM,Over Votes,0
+Sheridan,2-2,State House,51,DEM,Under Votes,48
 Sheridan,2-2,Ballots Cast,,REP,Ballots Cast,200
 Sheridan,2-2,Ballots Cast,,DEM,Ballots Cast,52
 Sheridan,2-2,Ballots Cast,,NP,Ballots Cast,14
@@ -602,12 +640,15 @@ Sheridan,2-3,State House,29,REP,Write-ins,2
 Sheridan,2-3,State House,29,REP,Over Votes,0
 Sheridan,2-3,State House,29,REP,Under Votes,16
 Sheridan,2-3,State House,29,DEM,Write-ins,3
+Sheridan,2-3,State House,29,DEM,Under Votes,89
 Sheridan,2-3,State House,51,REP,Cyrus Western,0
 Sheridan,2-3,State House,51,REP,Dennis Fox,0
 Sheridan,2-3,State House,51,REP,Write-ins,0
 Sheridan,2-3,State House,51,REP,Over Votes,0
 Sheridan,2-3,State House,51,REP,Under Votes,0
 Sheridan,2-3,State House,51,DEM,Write-ins,0
+Sheridan,2-3,State House,51,DEM,Over Votes,0
+Sheridan,2-3,State House,51,DEM,Under Votes,0
 Sheridan,2-3,Ballots Cast,,REP,Ballots Cast,395
 Sheridan,2-3,Ballots Cast,,DEM,Ballots Cast,92
 Sheridan,2-3,Ballots Cast,,NP,Ballots Cast,20
@@ -651,6 +692,8 @@ Sheridan,2-4,State House,29,REP,Write-ins,0
 Sheridan,2-4,State House,29,REP,Over Votes,0
 Sheridan,2-4,State House,29,REP,Under Votes,4
 Sheridan,2-4,State House,29,DEM,Write-ins,8
+Sheridan,2-4,State House,29,DEM,Over Votes,0
+Sheridan,2-4,State House,29,DEM,Under Votes,73
 Sheridan,2-4,Ballots Cast,,REP,Ballots Cast,290
 Sheridan,2-4,Ballots Cast,,DEM,Ballots Cast,81
 Sheridan,2-4,Ballots Cast,,NP,Ballots Cast,15
@@ -694,6 +737,8 @@ Sheridan,2-5,State House,51,REP,Write-ins,3
 Sheridan,2-5,State House,51,REP,Over Votes,1
 Sheridan,2-5,State House,51,REP,Under Votes,19
 Sheridan,2-5,State House,51,DEM,Write-ins,15
+Sheridan,2-5,State House,51,DEM,Over Votes,0
+Sheridan,2-5,State House,51,DEM,Under Votes,97
 Sheridan,2-5,Ballots Cast,,REP,Ballots Cast,619
 Sheridan,2-5,Ballots Cast,,DEM,Ballots Cast,112
 Sheridan,2-5,Ballots Cast,,NP,Ballots Cast,30
@@ -737,6 +782,8 @@ Sheridan,20-1,State House,51,REP,Write-ins,0
 Sheridan,20-1,State House,51,REP,Over Votes,0
 Sheridan,20-1,State House,51,REP,Under Votes,5
 Sheridan,20-1,State House,51,DEM,Write-ins,6
+Sheridan,20-1,State House,51,DEM,Over Votes,0
+Sheridan,20-1,State House,51,DEM,Under Votes,36
 Sheridan,20-1,Ballots Cast,,REP,Ballots Cast,279
 Sheridan,20-1,Ballots Cast,,DEM,Ballots Cast,42
 Sheridan,20-1,Ballots Cast,,NP,Ballots Cast,28
@@ -780,6 +827,8 @@ Sheridan,20-2,State House,51,REP,Write-ins,0
 Sheridan,20-2,State House,51,REP,Over Votes,1
 Sheridan,20-2,State House,51,REP,Under Votes,2
 Sheridan,20-2,State House,51,DEM,Write-ins,3
+Sheridan,20-2,State House,51,DEM,Over Votes,0
+Sheridan,20-2,State House,51,DEM,Under Votes,7
 Sheridan,20-2,Ballots Cast,,REP,Ballots Cast,81
 Sheridan,20-2,Ballots Cast,,DEM,Ballots Cast,10
 Sheridan,20-2,Ballots Cast,,NP,Ballots Cast,0
@@ -823,6 +872,8 @@ Sheridan,3-2,State House,29,REP,Write-ins,0
 Sheridan,3-2,State House,29,REP,Over Votes,0
 Sheridan,3-2,State House,29,REP,Under Votes,1
 Sheridan,3-2,State House,29,DEM,Write-ins,3
+Sheridan,3-2,State House,29,DEM,Over Votes,0
+Sheridan,3-2,State House,29,DEM,Under Votes,59
 Sheridan,3-2,Ballots Cast,,REP,Ballots Cast,146
 Sheridan,3-2,Ballots Cast,,DEM,Ballots Cast,62
 Sheridan,3-2,Ballots Cast,,NP,Ballots Cast,11
@@ -865,18 +916,23 @@ Sheridan,3-3,State Senate,22,REP,Write-ins,3
 Sheridan,3-3,State Senate,22,REP,Over Votes,0
 Sheridan,3-3,State Senate,22,REP,Under Votes,17
 Sheridan,3-3,State Senate,22,DEM,Write-ins,2
+Sheridan,3-3,State Senate,22,DEM,Under Votes,13
 Sheridan,3-3,State House,29,REP,Ken Pendergraft,34
 Sheridan,3-3,State House,29,REP,Mark S. Kinner,35
 Sheridan,3-3,State House,29,REP,Write-ins,0
 Sheridan,3-3,State House,29,REP,Over Votes,0
 Sheridan,3-3,State House,29,REP,Under Votes,2
 Sheridan,3-3,State House,29,DEM,Write-ins,2
+Sheridan,3-3,State House,29,DEM,Over Votes,0
+Sheridan,3-3,State House,29,DEM,Under Votes,6
 Sheridan,3-3,State House,30,REP,John Heyneman,25
 Sheridan,3-3,State House,30,REP,Mark Jennings,53
 Sheridan,3-3,State House,30,REP,Write-ins,1
 Sheridan,3-3,State House,30,REP,Over Votes,0
 Sheridan,3-3,State House,30,REP,Under Votes,1
 Sheridan,3-3,State House,30,DEM,Write-ins,2
+Sheridan,3-3,State House,30,DEM,Over Votes,0
+Sheridan,3-3,State House,30,DEM,Under Votes,13
 Sheridan,3-3,Ballots Cast,,REP,Ballots Cast,151
 Sheridan,3-3,Ballots Cast,,DEM,Ballots Cast,23
 Sheridan,3-3,Ballots Cast,,NP,Ballots Cast,7
@@ -920,6 +976,8 @@ Sheridan,3-4,State House,29,REP,Write-ins,1
 Sheridan,3-4,State House,29,REP,Over Votes,0
 Sheridan,3-4,State House,29,REP,Under Votes,11
 Sheridan,3-4,State House,29,DEM,Write-ins,5
+Sheridan,3-4,State House,29,DEM,Over Votes,0
+Sheridan,3-4,State House,29,DEM,Under Votes,86
 Sheridan,3-4,Ballots Cast,,REP,Ballots Cast,312
 Sheridan,3-4,Ballots Cast,,DEM,Ballots Cast,91
 Sheridan,3-4,Ballots Cast,,NP,Ballots Cast,13
@@ -962,12 +1020,15 @@ Sheridan,3-5,State Senate,22,REP,Write-ins,12
 Sheridan,3-5,State Senate,22,REP,Over Votes,0
 Sheridan,3-5,State Senate,22,REP,Under Votes,77
 Sheridan,3-5,State Senate,22,DEM,Write-ins,3
+Sheridan,3-5,State Senate,22,DEM,Under Votes,96
 Sheridan,3-5,State House,30,REP,John Heyneman,215
 Sheridan,3-5,State House,30,REP,Mark Jennings,231
 Sheridan,3-5,State House,30,REP,Write-ins,0
 Sheridan,3-5,State House,30,REP,Over Votes,0
 Sheridan,3-5,State House,30,REP,Under Votes,5
 Sheridan,3-5,State House,30,DEM,Write-ins,8
+Sheridan,3-5,State House,30,DEM,Over Votes,0
+Sheridan,3-5,State House,30,DEM,Under Votes,91
 Sheridan,3-5,Ballots Cast,,REP,Ballots Cast,451
 Sheridan,3-5,Ballots Cast,,DEM,Ballots Cast,99
 Sheridan,3-5,Ballots Cast,,NP,Ballots Cast,27
@@ -1010,12 +1071,15 @@ Sheridan,4-2,State Senate,22,REP,Write-ins,6
 Sheridan,4-2,State Senate,22,REP,Over Votes,0
 Sheridan,4-2,State Senate,22,REP,Under Votes,52
 Sheridan,4-2,State Senate,22,DEM,Write-ins,7
+Sheridan,4-2,State Senate,22,DEM,Under Votes,68
 Sheridan,4-2,State House,30,REP,John Heyneman,114
 Sheridan,4-2,State House,30,REP,Mark Jennings,194
 Sheridan,4-2,State House,30,REP,Write-ins,0
 Sheridan,4-2,State House,30,REP,Over Votes,0
 Sheridan,4-2,State House,30,REP,Under Votes,0
 Sheridan,4-2,State House,30,DEM,Write-ins,10
+Sheridan,4-2,State House,30,DEM,Over Votes,0
+Sheridan,4-2,State House,30,DEM,Under Votes,65
 Sheridan,4-2,Ballots Cast,,REP,Ballots Cast,308
 Sheridan,4-2,Ballots Cast,,DEM,Ballots Cast,75
 Sheridan,4-2,Ballots Cast,,NP,Ballots Cast,27
@@ -1058,12 +1122,15 @@ Sheridan,4-3,State Senate,22,REP,Write-ins,18
 Sheridan,4-3,State Senate,22,REP,Over Votes,0
 Sheridan,4-3,State Senate,22,REP,Under Votes,62
 Sheridan,4-3,State Senate,22,DEM,Write-ins,6
+Sheridan,4-3,State Senate,22,DEM,Under Votes,48
 Sheridan,4-3,State House,30,REP,John Heyneman,94
 Sheridan,4-3,State House,30,REP,Mark Jennings,212
 Sheridan,4-3,State House,30,REP,Write-ins,0
 Sheridan,4-3,State House,30,REP,Over Votes,0
 Sheridan,4-3,State House,30,REP,Under Votes,4
 Sheridan,4-3,State House,30,DEM,Write-ins,6
+Sheridan,4-3,State House,30,DEM,Over Votes,0
+Sheridan,4-3,State House,30,DEM,Under Votes,48
 Sheridan,4-3,Ballots Cast,,REP,Ballots Cast,310
 Sheridan,4-3,Ballots Cast,,DEM,Ballots Cast,54
 Sheridan,4-3,Ballots Cast,,NP,Ballots Cast,15
@@ -1107,6 +1174,8 @@ Sheridan,4-4,State House,29,REP,Write-ins,0
 Sheridan,4-4,State House,29,REP,Over Votes,0
 Sheridan,4-4,State House,29,REP,Under Votes,3
 Sheridan,4-4,State House,29,DEM,Write-ins,3
+Sheridan,4-4,State House,29,DEM,Over Votes,0
+Sheridan,4-4,State House,29,DEM,Under Votes,16
 Sheridan,4-4,Ballots Cast,,REP,Ballots Cast,75
 Sheridan,4-4,Ballots Cast,,DEM,Ballots Cast,19
 Sheridan,4-4,Ballots Cast,,NP,Ballots Cast,4
@@ -1149,12 +1218,15 @@ Sheridan,5-1,State Senate,22,REP,Write-ins,1
 Sheridan,5-1,State Senate,22,REP,Over Votes,0
 Sheridan,5-1,State Senate,22,REP,Under Votes,10
 Sheridan,5-1,State Senate,22,DEM,Write-ins,1
+Sheridan,5-1,State Senate,22,DEM,Under Votes,9
 Sheridan,5-1,State House,30,REP,John Heyneman,32
 Sheridan,5-1,State House,30,REP,Mark Jennings,45
 Sheridan,5-1,State House,30,REP,Write-ins,0
 Sheridan,5-1,State House,30,REP,Over Votes,0
 Sheridan,5-1,State House,30,REP,Under Votes,2
 Sheridan,5-1,State House,30,DEM,Write-ins,1
+Sheridan,5-1,State House,30,DEM,Over Votes,0
+Sheridan,5-1,State House,30,DEM,Under Votes,9
 Sheridan,5-1,Ballots Cast,,REP,Ballots Cast,79
 Sheridan,5-1,Ballots Cast,,DEM,Ballots Cast,10
 Sheridan,5-1,Ballots Cast,,NP,Ballots Cast,0
@@ -1197,12 +1269,15 @@ Sheridan,6-1,State Senate,22,REP,Write-ins,11
 Sheridan,6-1,State Senate,22,REP,Over Votes,0
 Sheridan,6-1,State Senate,22,REP,Under Votes,66
 Sheridan,6-1,State Senate,22,DEM,Write-ins,1
+Sheridan,6-1,State Senate,22,DEM,Under Votes,29
 Sheridan,6-1,State House,30,REP,John Heyneman,157
 Sheridan,6-1,State House,30,REP,Mark Jennings,199
 Sheridan,6-1,State House,30,REP,Write-ins,0
 Sheridan,6-1,State House,30,REP,Over Votes,0
 Sheridan,6-1,State House,30,REP,Under Votes,2
 Sheridan,6-1,State House,30,DEM,Write-ins,2
+Sheridan,6-1,State House,30,DEM,Over Votes,0
+Sheridan,6-1,State House,30,DEM,Under Votes,28
 Sheridan,6-1,Ballots Cast,,REP,Ballots Cast,358
 Sheridan,6-1,Ballots Cast,,DEM,Ballots Cast,30
 Sheridan,6-1,Ballots Cast,,NP,Ballots Cast,0
@@ -1246,6 +1321,8 @@ Sheridan,7-1,State House,51,REP,Write-ins,0
 Sheridan,7-1,State House,51,REP,Over Votes,0
 Sheridan,7-1,State House,51,REP,Under Votes,9
 Sheridan,7-1,State House,51,DEM,Write-ins,0
+Sheridan,7-1,State House,51,DEM,Over Votes,0
+Sheridan,7-1,State House,51,DEM,Under Votes,12
 Sheridan,7-1,Ballots Cast,,REP,Ballots Cast,158
 Sheridan,7-1,Ballots Cast,,DEM,Ballots Cast,12
 Sheridan,7-1,Ballots Cast,,NP,Ballots Cast,0
@@ -1289,6 +1366,8 @@ Sheridan,8-1,State House,51,REP,Write-ins,1
 Sheridan,8-1,State House,51,REP,Over Votes,2
 Sheridan,8-1,State House,51,REP,Under Votes,8
 Sheridan,8-1,State House,51,DEM,Write-ins,4
+Sheridan,8-1,State House,51,DEM,Over Votes,0
+Sheridan,8-1,State House,51,DEM,Under Votes,52
 Sheridan,8-1,Ballots Cast,,REP,Ballots Cast,319
 Sheridan,8-1,Ballots Cast,,DEM,Ballots Cast,56
 Sheridan,8-1,Ballots Cast,,NP,Ballots Cast,0
@@ -1331,12 +1410,15 @@ Sheridan,9-1,State Senate,22,REP,Write-ins,1
 Sheridan,9-1,State Senate,22,REP,Over Votes,0
 Sheridan,9-1,State Senate,22,REP,Under Votes,2
 Sheridan,9-1,State Senate,22,DEM,Write-ins,0
+Sheridan,9-1,State Senate,22,DEM,Under Votes,4
 Sheridan,9-1,State House,40,REP,Barry Crago,14
 Sheridan,9-1,State House,40,REP,Richard L. Tass,24
 Sheridan,9-1,State House,40,REP,Write-ins,0
 Sheridan,9-1,State House,40,REP,Over Votes,0
 Sheridan,9-1,State House,40,REP,Under Votes,1
 Sheridan,9-1,State House,40,DEM,Write-ins,0
+Sheridan,9-1,State House,40,DEM,Over Votes,0
+Sheridan,9-1,State House,40,DEM,Under Votes,4
 Sheridan,9-1,Ballots Cast,,REP,Ballots Cast,39
 Sheridan,9-1,Ballots Cast,,DEM,Ballots Cast,4
 Sheridan,9-1,Ballots Cast,,NP,Ballots Cast,0

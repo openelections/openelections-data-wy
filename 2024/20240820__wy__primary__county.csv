@@ -88,23 +88,31 @@ Big Horn,State Senate,20,REP,Write-ins,1
 Big Horn,State Senate,20,REP,Over Votes,0
 Big Horn,State Senate,20,REP,Under Votes,29
 Big Horn,State Senate,20,DEM,Write-ins,3
+Big Horn,State Senate,20,DEM,Over Votes,0
+Big Horn,State Senate,20,DEM,Under Votes,27
 Big Horn,State House,26,REP,Dalton Banks,1479
 Big Horn,State House,26,REP,Write-ins,38
 Big Horn,State House,26,REP,Over Votes,0
 Big Horn,State House,26,REP,Under Votes,155
 Big Horn,State House,26,DEM,Write-ins,7
+Big Horn,State House,26,DEM,Over Votes,0
+Big Horn,State House,26,DEM,Under Votes,68
 Big Horn,State House,27,REP,Martha Lawley,164
 Big Horn,State House,27,REP,Tami Young,170
 Big Horn,State House,27,REP,Write-ins,3
 Big Horn,State House,27,REP,Over Votes,1
 Big Horn,State House,27,REP,Under Votes,21
 Big Horn,State House,27,DEM,Write-ins,1
+Big Horn,State House,27,DEM,Over Votes,0
+Big Horn,State House,27,DEM,Under Votes,7
 Big Horn,State House,28,REP,John R. Winter,349
 Big Horn,State House,28,REP,Kevin Skates,87
 Big Horn,State House,28,REP,Write-ins,1
 Big Horn,State House,28,REP,Over Votes,1
 Big Horn,State House,28,REP,Under Votes,20
 Big Horn,State House,28,DEM,Write-ins,2
+Big Horn,State House,28,DEM,Over Votes,0
+Big Horn,State House,28,DEM,Under Votes,20
 Big Horn,Ballots Cast,,REP,Ballots Cast,2489
 Big Horn,Ballots Cast,,DEM,Ballots Cast,105
 Big Horn,Ballots Cast,,NP,Ballots Cast,50
@@ -134,32 +142,44 @@ Campbell,State Senate,24,REP,Write-ins,11
 Campbell,State Senate,24,REP,Over Votes,3
 Campbell,State Senate,24,REP,Under Votes,115
 Campbell,State Senate,24,DEM,Write-ins,21
+Campbell,State Senate,24,DEM,Over Votes,0
+Campbell,State Senate,24,DEM,Under Votes,88
 Campbell,State House,3,REP,Abby Angelos,1455
 Campbell,State House,3,REP,Write-ins,23
 Campbell,State House,3,REP,Over Votes,0
 Campbell,State House,3,REP,Under Votes,165
 Campbell,State House,3,DEM,Write-ins,0
+Campbell,State House,3,DEM,Over Votes,0
+Campbell,State House,3,DEM,Under Votes,19
 Campbell,State House,31,REP,John W Bear,879
 Campbell,State House,31,REP,Write-ins,63
 Campbell,State House,31,REP,Over Votes,0
 Campbell,State House,31,REP,Under Votes,202
 Campbell,State House,31,DEM,Write-ins,4
+Campbell,State House,31,DEM,Over Votes,0
+Campbell,State House,31,DEM,Under Votes,30
 Campbell,State House,32,REP,George Dunlap,706
 Campbell,State House,32,REP,Ken L. Clouston,1062
 Campbell,State House,32,REP,Write-ins,5
 Campbell,State House,32,REP,Over Votes,2
 Campbell,State House,32,REP,Under Votes,23
 Campbell,State House,32,DEM,Write-ins,11
+Campbell,State House,32,DEM,Over Votes,0
+Campbell,State House,32,DEM,Under Votes,36
 Campbell,State House,52,REP,Reuben Tarver,1309
 Campbell,State House,52,REP,Write-ins,14
 Campbell,State House,52,REP,Over Votes,0
 Campbell,State House,52,REP,Under Votes,157
 Campbell,State House,52,DEM,Write-ins,5
+Campbell,State House,52,DEM,Over Votes,0
+Campbell,State House,52,DEM,Under Votes,16
 Campbell,State House,53,REP,Christopher R. Knapp,955
 Campbell,State House,53,REP,Write-ins,15
 Campbell,State House,53,REP,Over Votes,1
 Campbell,State House,53,REP,Under Votes,154
 Campbell,State House,53,DEM,Write-ins,6
+Campbell,State House,53,DEM,Over Votes,0
+Campbell,State House,53,DEM,Under Votes,56
 Campbell,Ballots Cast,,REP,Ballots Cast,7190
 Campbell,Ballots Cast,,DEM,Ballots Cast,183
 Campbell,Ballots Cast,,NP,Ballots Cast,105
@@ -190,6 +210,8 @@ Carbon,State House,15,REP,Write-ins,15
 Carbon,State House,15,REP,Over Votes,4
 Carbon,State House,15,REP,Under Votes,26
 Carbon,State House,15,DEM,Write-ins,23
+Carbon,State House,15,DEM,Over Votes,0
+Carbon,State House,15,DEM,Under Votes,199
 Carbon,State House,47,REP,Bob Davis,1221
 Carbon,State House,47,REP,Write-ins,30
 Carbon,State House,47,REP,Over Votes,0
@@ -226,18 +248,24 @@ Converse,State Senate,2,REP,Write-ins,46
 Converse,State Senate,2,REP,Over Votes,1
 Converse,State Senate,2,REP,Under Votes,400
 Converse,State Senate,2,DEM,Write-ins,4
+Converse,State Senate,2,DEM,Over Votes,0
+Converse,State Senate,2,DEM,Under Votes,104
 Converse,State House,6,REP,Aaron Clausen,1162
 Converse,State House,6,REP,Tomi Strock,1278
 Converse,State House,6,REP,Write-ins,8
 Converse,State House,6,REP,Over Votes,3
 Converse,State House,6,REP,Under Votes,54
 Converse,State House,6,DEM,Write-ins,5
+Converse,State House,6,DEM,Over Votes,0
+Converse,State House,6,DEM,Under Votes,69
 Converse,State House,62,REP,Edis Allen,484
 Converse,State House,62,REP,Kevin Campbell,395
 Converse,State House,62,REP,Write-ins,5
 Converse,State House,62,REP,Over Votes,1
 Converse,State House,62,REP,Under Votes,61
 Converse,State House,62,DEM,Write-ins,0
+Converse,State House,62,DEM,Over Votes,0
+Converse,State House,62,DEM,Under Votes,34
 Converse,Ballots Cast,,REP,Ballots Cast,3451
 Converse,Ballots Cast,,DEM,Ballots Cast,108
 Converse,Ballots Cast,,NP,Ballots Cast,38
@@ -266,6 +294,8 @@ Crook,State House,1,REP,Write-ins,46
 Crook,State House,1,REP,Over Votes,0
 Crook,State House,1,REP,Under Votes,177
 Crook,State House,1,DEM,Write-ins,3
+Crook,State House,1,DEM,Over Votes,0
+Crook,State House,1,DEM,Under Votes,46
 Crook,Ballots Cast,,REP,Ballots Cast,1833
 Crook,Ballots Cast,,DEM,Ballots Cast,49
 Crook,Ballots Cast,,NP,Ballots Cast,9
@@ -295,18 +325,24 @@ Fremont,State Senate,20,REP,Write-ins,1
 Fremont,State Senate,20,REP,Over Votes,0
 Fremont,State Senate,20,REP,Under Votes,9
 Fremont,State Senate,20,DEM,Write-ins,1
+Fremont,State Senate,20,DEM,Over Votes,0
+Fremont,State Senate,20,DEM,Under Votes,10
 Fremont,State Senate,26,REP,Elizabeth Philp,1726
 Fremont,State Senate,26,REP,Tim Salazar,2626
 Fremont,State Senate,26,REP,Write-ins,7
 Fremont,State Senate,26,REP,Over Votes,5
 Fremont,State Senate,26,REP,Under Votes,128
 Fremont,State Senate,26,DEM,Write-ins,26
+Fremont,State Senate,26,DEM,Over Votes,0
+Fremont,State Senate,26,DEM,Under Votes,238
 Fremont,State House,28,REP,John R. Winter,115
 Fremont,State House,28,REP,Kevin Skates,61
 Fremont,State House,28,REP,Write-ins,1
 Fremont,State House,28,REP,Over Votes,0
 Fremont,State House,28,REP,Under Votes,12
 Fremont,State House,28,DEM,Write-ins,0
+Fremont,State House,28,DEM,Over Votes,0
+Fremont,State House,28,DEM,Under Votes,11
 Fremont,State House,33,REP,Sarah Penn,660
 Fremont,State House,33,REP,Write-ins,42
 Fremont,State House,33,REP,Over Votes,0
@@ -321,18 +357,24 @@ Fremont,State House,34,REP,Write-ins,3
 Fremont,State House,34,REP,Over Votes,5
 Fremont,State House,34,REP,Under Votes,71
 Fremont,State House,34,DEM,Write-ins,9
+Fremont,State House,34,DEM,Over Votes,0
+Fremont,State House,34,DEM,Under Votes,102
 Fremont,State House,54,REP,Lloyd Charles Larsen,1436
 Fremont,State House,54,REP,Tina Clifford,1208
 Fremont,State House,54,REP,Write-ins,4
 Fremont,State House,54,REP,Over Votes,2
 Fremont,State House,54,REP,Under Votes,23
 Fremont,State House,54,DEM,Write-ins,37
+Fremont,State House,54,DEM,Over Votes,0
+Fremont,State House,54,DEM,Under Votes,344
 Fremont,State House,55,REP,Ember Oakley,855
 Fremont,State House,55,REP,Joel Guggenmos,1071
 Fremont,State House,55,REP,Write-ins,8
 Fremont,State House,55,REP,Over Votes,2
 Fremont,State House,55,REP,Under Votes,37
 Fremont,State House,55,DEM,Write-ins,10
+Fremont,State House,55,DEM,Over Votes,0
+Fremont,State House,55,DEM,Under Votes,143
 Fremont,Ballots Cast,,REP,Ballots Cast,8185
 Fremont,Ballots Cast,,DEM,Ballots Cast,902
 Fremont,Ballots Cast,,NP,Ballots Cast,197
@@ -362,12 +404,16 @@ Goshen,State House,2,REP,Write-ins,3
 Goshen,State House,2,REP,Over Votes,2
 Goshen,State House,2,REP,Under Votes,14
 Goshen,State House,2,DEM,Write-ins,5
+Goshen,State House,2,DEM,Over Votes,0
+Goshen,State House,2,DEM,Under Votes,17
 Goshen,State House,5,REP,Jackie Van Mark,891
 Goshen,State House,5,REP,Scott Smith,1554
 Goshen,State House,5,REP,Write-ins,7
 Goshen,State House,5,REP,Over Votes,1
 Goshen,State House,5,REP,Under Votes,27
 Goshen,State House,5,DEM,Write-ins,22
+Goshen,State House,5,DEM,Over Votes,0
+Goshen,State House,5,DEM,Under Votes,120
 Goshen,Ballots Cast,,REP,Ballots Cast,3236
 Goshen,Ballots Cast,,DEM,Ballots Cast,164
 Goshen,Ballots Cast,,NP,Ballots Cast,27
@@ -397,12 +443,16 @@ Hot Springs,State Senate,20,REP,Write-ins,8
 Hot Springs,State Senate,20,REP,Over Votes,0
 Hot Springs,State Senate,20,REP,Under Votes,76
 Hot Springs,State Senate,20,DEM,Write-ins,9
+Hot Springs,State Senate,20,DEM,Over Votes,0
+Hot Springs,State Senate,20,DEM,Under Votes,96
 Hot Springs,State House,28,REP,John R. Winter,888
 Hot Springs,State House,28,REP,Kevin Skates,650
 Hot Springs,State House,28,REP,Write-ins,7
 Hot Springs,State House,28,REP,Over Votes,0
 Hot Springs,State House,28,REP,Under Votes,48
 Hot Springs,State House,28,DEM,Write-ins,32
+Hot Springs,State House,28,DEM,Over Votes,0
+Hot Springs,State House,28,DEM,Under Votes,73
 Hot Springs,Ballots Cast,,REP,Ballots Cast,1593
 Hot Springs,Ballots Cast,,DEM,Ballots Cast,105
 Hot Springs,Ballots Cast,,NP,Ballots Cast,50
@@ -432,6 +482,8 @@ Johnson,State Senate,22,REP,Write-ins,8
 Johnson,State Senate,22,REP,Over Votes,0
 Johnson,State Senate,22,REP,Under Votes,40
 Johnson,State Senate,22,DEM,Write-ins,10
+Johnson,State Senate,22,DEM,Over Votes,0
+Johnson,State Senate,22,DEM,Under Votes,70
 Johnson,State House,40,REP,Liberty Poley,651
 Johnson,State House,40,REP,Marilyn Connoly,1446
 Johnson,State House,40,REP,Mark Jones,978
@@ -439,6 +491,8 @@ Johnson,State House,40,REP,Write-ins,3
 Johnson,State House,40,REP,Over Votes,4
 Johnson,State House,40,REP,Under Votes,34
 Johnson,State House,40,DEM,Write-ins,24
+Johnson,State House,40,DEM,Over Votes,0
+Johnson,State House,40,DEM,Under Votes,56
 Johnson,Ballots Cast,,REP,Ballots Cast,3116
 Johnson,Ballots Cast,,DEM,Ballots Cast,80
 Johnson,Ballots Cast,,NP,Ballots Cast,26
@@ -468,6 +522,8 @@ Laramie,State Senate,4,REP,Write-ins,47
 Laramie,State Senate,4,REP,Over Votes,3
 Laramie,State Senate,4,REP,Under Votes,199
 Laramie,State Senate,4,DEM,Write-ins,104
+Laramie,State Senate,4,DEM,Over Votes,0
+Laramie,State Senate,4,DEM,Under Votes,480
 Laramie,State Senate,6,REP,Darin Smith,943
 Laramie,State Senate,6,REP,Eric D Johnston,262
 Laramie,State Senate,6,REP,Gary Bjorklund,48
@@ -513,18 +569,24 @@ Laramie,State House,8,REP,Write-ins,4
 Laramie,State House,8,REP,Over Votes,5
 Laramie,State House,8,REP,Under Votes,38
 Laramie,State House,8,DEM,Write-ins,44
+Laramie,State House,8,DEM,Over Votes,0
+Laramie,State House,8,DEM,Under Votes,209
 Laramie,State House,9,REP,Exie Brown,708
 Laramie,State House,9,REP,Landon J. Brown,725
 Laramie,State House,9,REP,Write-ins,7
 Laramie,State House,9,REP,Over Votes,3
 Laramie,State House,9,REP,Under Votes,23
 Laramie,State House,9,DEM,Write-ins,50
+Laramie,State House,9,DEM,Over Votes,0
+Laramie,State House,9,DEM,Under Votes,176
 Laramie,State House,10,REP,Jennifer James,546
 Laramie,State House,10,REP,John Eklund,1517
 Laramie,State House,10,REP,Write-ins,40
 Laramie,State House,10,REP,Over Votes,0
 Laramie,State House,10,REP,Under Votes,88
 Laramie,State House,10,DEM,Write-ins,25
+Laramie,State House,10,DEM,Over Votes,0
+Laramie,State House,10,DEM,Under Votes,100
 Laramie,State House,11,REP,Jacob Wasserburger,457
 Laramie,State House,11,REP,Seth Ulvestad,366
 Laramie,State House,11,REP,Write-ins,14
@@ -540,6 +602,8 @@ Laramie,State House,12,REP,Write-ins,4
 Laramie,State House,12,REP,Over Votes,1
 Laramie,State House,12,REP,Under Votes,23
 Laramie,State House,12,DEM,Write-ins,23
+Laramie,State House,12,DEM,Over Votes,0
+Laramie,State House,12,DEM,Under Votes,117
 Laramie,State House,41,REP,Bill Henderson,610
 Laramie,State House,41,REP,Gary Brown,719
 Laramie,State House,41,REP,Write-ins,9
@@ -564,6 +628,8 @@ Laramie,State House,43,REP,Write-ins,7
 Laramie,State House,43,REP,Over Votes,2
 Laramie,State House,43,REP,Under Votes,18
 Laramie,State House,43,DEM,Write-ins,40
+Laramie,State House,43,DEM,Over Votes,0
+Laramie,State House,43,DEM,Under Votes,111
 Laramie,State House,44,REP,John B Romero-Martinez,71
 Laramie,State House,44,REP,Lee Filer,314
 Laramie,State House,44,REP,Tamara Trujillo,190
@@ -571,12 +637,16 @@ Laramie,State House,44,REP,Write-ins,1
 Laramie,State House,44,REP,Over Votes,1
 Laramie,State House,44,REP,Under Votes,14
 Laramie,State House,44,DEM,Write-ins,50
+Laramie,State House,44,DEM,Over Votes,0
+Laramie,State House,44,DEM,Under Votes,141
 Laramie,State House,61,REP,Daniel J. Singh,506
 Laramie,State House,61,REP,Matt Malcom,353
 Laramie,State House,61,REP,Write-ins,6
 Laramie,State House,61,REP,Over Votes,1
 Laramie,State House,61,REP,Under Votes,22
 Laramie,State House,61,DEM,Write-ins,41
+Laramie,State House,61,DEM,Over Votes,0
+Laramie,State House,61,DEM,Under Votes,172
 Laramie,Ballots Cast,,REP,Ballots Cast,15625
 Laramie,Ballots Cast,,DEM,Ballots Cast,2454
 Laramie,Ballots Cast,,NP,Ballots Cast,475
@@ -607,34 +677,46 @@ Lincoln,State Senate,14,REP,Write-ins,3
 Lincoln,State Senate,14,REP,Over Votes,1
 Lincoln,State Senate,14,REP,Under Votes,28
 Lincoln,State Senate,14,DEM,Write-ins,11
+Lincoln,State Senate,14,DEM,Over Votes,0
+Lincoln,State Senate,14,DEM,Under Votes,71
 Lincoln,State Senate,16,REP,Dan Dockstader,2874
 Lincoln,State Senate,16,REP,Write-ins,58
 Lincoln,State Senate,16,REP,Over Votes,1
 Lincoln,State Senate,16,REP,Under Votes,255
 Lincoln,State Senate,16,DEM,Write-ins,5
+Lincoln,State Senate,16,DEM,Over Votes,0
+Lincoln,State Senate,16,DEM,Under Votes,67
 Lincoln,State House,18,REP,Scott Heiner,603
 Lincoln,State House,18,REP,Thomas D. Crank,483
 Lincoln,State House,18,REP,Write-ins,2
 Lincoln,State House,18,REP,Over Votes,0
 Lincoln,State House,18,REP,Under Votes,21
 Lincoln,State House,18,DEM,Write-ins,10
+Lincoln,State House,18,DEM,Over Votes,0
+Lincoln,State House,18,DEM,Under Votes,70
 Lincoln,State House,20,REP,Cat Urbigkit,23
 Lincoln,State House,20,REP,Mike Schmid,170
 Lincoln,State House,20,REP,Write-ins,2
 Lincoln,State House,20,REP,Over Votes,0
 Lincoln,State House,20,REP,Under Votes,0
 Lincoln,State House,20,DEM,Write-ins,0
+Lincoln,State House,20,DEM,Over Votes,0
+Lincoln,State House,20,DEM,Under Votes,2
 Lincoln,State House,21,REP,McKay L. Erickson,1811
 Lincoln,State House,21,REP,T. Deb Wolfley,559
 Lincoln,State House,21,REP,Write-ins,2
 Lincoln,State House,21,REP,Over Votes,2
 Lincoln,State House,21,REP,Under Votes,22
 Lincoln,State House,21,DEM,Write-ins,3
+Lincoln,State House,21,DEM,Over Votes,0
+Lincoln,State House,21,DEM,Under Votes,31
 Lincoln,State House,22,REP,Andrew P Byron,627
 Lincoln,State House,22,REP,Write-ins,34
 Lincoln,State House,22,REP,Over Votes,0
 Lincoln,State House,22,REP,Under Votes,131
 Lincoln,State House,22,DEM,Write-ins,3
+Lincoln,State House,22,DEM,Over Votes,0
+Lincoln,State House,22,DEM,Under Votes,35
 Lincoln,Ballots Cast,,REP,Ballots Cast,4492
 Lincoln,Ballots Cast,,DEM,Ballots Cast,154
 Lincoln,Ballots Cast,,NP,Ballots Cast,52
@@ -663,12 +745,16 @@ Natrona,State Senate,2,REP,Write-ins,9
 Natrona,State Senate,2,REP,Over Votes,0
 Natrona,State Senate,2,REP,Under Votes,139
 Natrona,State Senate,2,DEM,Write-ins,3
+Natrona,State Senate,2,DEM,Over Votes,0
+Natrona,State Senate,2,DEM,Under Votes,49
 Natrona,State Senate,28,REP,Bryce Reece,1274
 Natrona,State Senate,28,REP,Jim Anderson,1304
 Natrona,State Senate,28,REP,Write-ins,18
 Natrona,State Senate,28,REP,Over Votes,1
 Natrona,State Senate,28,REP,Under Votes,167
 Natrona,State Senate,28,DEM,Write-ins,21
+Natrona,State Senate,28,DEM,Over Votes,0
+Natrona,State Senate,28,DEM,Under Votes,235
 Natrona,State Senate,30,REP,Charles H Schoenwolf,394
 Natrona,State Senate,30,REP,Charles K. Scott,1438
 Natrona,State Senate,30,REP,Robert L. Hendry,1179
@@ -676,28 +762,38 @@ Natrona,State Senate,30,REP,Write-ins,7
 Natrona,State Senate,30,REP,Over Votes,1
 Natrona,State Senate,30,REP,Under Votes,150
 Natrona,State Senate,30,DEM,Write-ins,25
+Natrona,State Senate,30,DEM,Over Votes,0
+Natrona,State Senate,30,DEM,Under Votes,162
 Natrona,State House,35,REP,Christopher Dresang,945
 Natrona,State House,35,REP,Tony Locke,1082
 Natrona,State House,35,REP,Write-ins,7
 Natrona,State House,35,REP,Over Votes,3
 Natrona,State House,35,REP,Under Votes,46
 Natrona,State House,35,DEM,Write-ins,8
+Natrona,State House,35,DEM,Over Votes,0
+Natrona,State House,35,DEM,Under Votes,112
 Natrona,State House,36,REP,Art Washut,994
 Natrona,State House,36,REP,Write-ins,33
 Natrona,State House,36,REP,Over Votes,1
 Natrona,State House,36,REP,Under Votes,191
 Natrona,State House,36,DEM,Write-ins,18
+Natrona,State House,36,DEM,Over Votes,0
+Natrona,State House,36,DEM,Under Votes,134
 Natrona,State House,37,REP,Steve Harshman,1717
 Natrona,State House,37,REP,Write-ins,106
 Natrona,State House,37,REP,Over Votes,0
 Natrona,State House,37,REP,Under Votes,414
 Natrona,State House,37,DEM,Write-ins,9
+Natrona,State House,37,DEM,Over Votes,0
+Natrona,State House,37,DEM,Under Votes,135
 Natrona,State House,38,REP,Jayme Lien,859
 Natrona,State House,38,REP,Tom Walters,715
 Natrona,State House,38,REP,Write-ins,4
 Natrona,State House,38,REP,Over Votes,0
 Natrona,State House,38,REP,Under Votes,82
 Natrona,State House,38,DEM,Write-ins,10
+Natrona,State House,38,DEM,Over Votes,0
+Natrona,State House,38,DEM,Under Votes,89
 Natrona,State House,56,REP,Elissa Campbell,806
 Natrona,State House,56,REP,Pamela Mertens,111
 Natrona,State House,56,REP,Pete Fox,541
@@ -705,29 +801,39 @@ Natrona,State House,56,REP,Write-ins,4
 Natrona,State House,56,REP,Over Votes,6
 Natrona,State House,56,REP,Under Votes,133
 Natrona,State House,56,DEM,Write-ins,9
+Natrona,State House,56,DEM,Over Votes,0
+Natrona,State House,56,DEM,Under Votes,143
 Natrona,State House,57,REP,Jeanette Ward,485
 Natrona,State House,57,REP,Julie Jarvis,623
 Natrona,State House,57,REP,Write-ins,6
 Natrona,State House,57,REP,Over Votes,0
 Natrona,State House,57,REP,Under Votes,49
 Natrona,State House,57,DEM,Write-ins,12
+Natrona,State House,57,DEM,Over Votes,0
+Natrona,State House,57,DEM,Under Votes,92
 Natrona,State House,58,REP,Bill Allemand,1017
 Natrona,State House,58,REP,Tom Jones,424
 Natrona,State House,58,REP,Write-ins,5
 Natrona,State House,58,REP,Over Votes,2
 Natrona,State House,58,REP,Under Votes,61
 Natrona,State House,58,DEM,Write-ins,13
+Natrona,State House,58,DEM,Over Votes,0
+Natrona,State House,58,DEM,Under Votes,75
 Natrona,State House,59,REP,J.R. Riggins,947
 Natrona,State House,59,REP,Write-ins,45
 Natrona,State House,59,REP,Over Votes,0
 Natrona,State House,59,REP,Under Votes,243
 Natrona,State House,59,DEM,Write-ins,14
+Natrona,State House,59,DEM,Over Votes,0
+Natrona,State House,59,DEM,Under Votes,120
 Natrona,State House,62,REP,Edis Allen,304
 Natrona,State House,62,REP,Kevin Campbell,399
 Natrona,State House,62,REP,Write-ins,3
 Natrona,State House,62,REP,Over Votes,2
 Natrona,State House,62,REP,Under Votes,98
 Natrona,State House,62,DEM,Write-ins,4
+Natrona,State House,62,DEM,Over Votes,0
+Natrona,State House,62,DEM,Under Votes,48
 Natrona,Ballots Cast,,REP,Ballots Cast,13513
 Natrona,Ballots Cast,,DEM,Ballots Cast,1045
 Natrona,Ballots Cast,,NP,Ballots Cast,412
@@ -757,6 +863,8 @@ Niobrara,State House,2,REP,Write-ins,1
 Niobrara,State House,2,REP,Over Votes,0
 Niobrara,State House,2,REP,Under Votes,2
 Niobrara,State House,2,DEM,Write-ins,5
+Niobrara,State House,2,DEM,Over Votes,0
+Niobrara,State House,2,DEM,Under Votes,10
 Niobrara,Ballots Cast,,REP,Ballots Cast,899
 Niobrara,Ballots Cast,,DEM,Ballots Cast,15
 Niobrara,Ballots Cast,,NP,Ballots Cast,0
@@ -786,41 +894,55 @@ Park,State Senate,18,REP,Write-ins,19
 Park,State Senate,18,REP,Over Votes,3
 Park,State Senate,18,REP,Under Votes,155
 Park,State Senate,18,DEM,Write-ins,15
+Park,State Senate,18,DEM,Over Votes,0
+Park,State Senate,18,DEM,Under Votes,164
 Park,State Senate,20,REP,Ed Cooper,193
 Park,State Senate,20,REP,Tom Olmstead,342
 Park,State Senate,20,REP,Write-ins,5
 Park,State Senate,20,REP,Over Votes,0
 Park,State Senate,20,REP,Under Votes,34
 Park,State Senate,20,DEM,Write-ins,4
+Park,State Senate,20,DEM,Over Votes,0
+Park,State Senate,20,DEM,Under Votes,16
 Park,State House,24,REP,Matt Hall,1233
 Park,State House,24,REP,Nina Webber,1406
 Park,State House,24,REP,Write-ins,18
 Park,State House,24,REP,Over Votes,0
 Park,State House,24,REP,Under Votes,87
 Park,State House,24,DEM,Write-ins,11
+Park,State House,24,DEM,Over Votes,0
+Park,State House,24,DEM,Under Votes,88
 Park,State House,25,REP,David Northrup,808
 Park,State House,25,REP,Paul Hoeft,1251
 Park,State House,25,REP,Write-ins,5
 Park,State House,25,REP,Over Votes,4
 Park,State House,25,REP,Under Votes,35
 Park,State House,25,DEM,Write-ins,14
+Park,State House,25,DEM,Over Votes,0
+Park,State House,25,DEM,Under Votes,95
 Park,State House,26,REP,Dalton Banks,147
 Park,State House,26,REP,Write-ins,3
 Park,State House,26,REP,Over Votes,0
 Park,State House,26,REP,Under Votes,29
 Park,State House,26,DEM,Write-ins,1
+Park,State House,26,DEM,Over Votes,0
+Park,State House,26,DEM,Under Votes,9
 Park,State House,28,REP,John R. Winter,356
 Park,State House,28,REP,Kevin Skates,182
 Park,State House,28,REP,Write-ins,1
 Park,State House,28,REP,Over Votes,0
 Park,State House,28,REP,Under Votes,35
 Park,State House,28,DEM,Write-ins,3
+Park,State House,28,DEM,Over Votes,0
+Park,State House,28,DEM,Under Votes,17
 Park,State House,50,REP,David Hill,1061
 Park,State House,50,REP,Rachel Rodriguez-Williams,1778
 Park,State House,50,REP,Write-ins,11
 Park,State House,50,REP,Over Votes,7
 Park,State House,50,REP,Under Votes,79
 Park,State House,50,DEM,Write-ins,10
+Park,State House,50,DEM,Over Votes,0
+Park,State House,50,DEM,Under Votes,70
 Park,Ballots Cast,,REP,Ballots Cast,8536
 Park,Ballots Cast,,DEM,Ballots Cast,318
 Park,Ballots Cast,,NP,Ballots Cast,118
@@ -894,17 +1016,23 @@ Sheridan,State Senate,22,REP,Write-ins,9
 Sheridan,State Senate,22,REP,Over Votes,1
 Sheridan,State Senate,22,REP,Under Votes,73
 Sheridan,State Senate,22,DEM,Write-ins,24
+Sheridan,State Senate,22,DEM,Over Votes,0
+Sheridan,State Senate,22,DEM,Under Votes,176
 Sheridan,State House,29,REP,Ken Pendergraft,1165
 Sheridan,State House,29,REP,Write-ins,103
 Sheridan,State House,29,REP,Over Votes,0
 Sheridan,State House,29,REP,Under Votes,362
 Sheridan,State House,29,DEM,Write-ins,68
+Sheridan,State House,29,DEM,Over Votes,0
+Sheridan,State House,29,DEM,Under Votes,146
 Sheridan,State House,30,REP,Gail Symons,916
 Sheridan,State House,30,REP,Tom Kelly,1313
 Sheridan,State House,30,REP,Write-ins,3
 Sheridan,State House,30,REP,Over Votes,1
 Sheridan,State House,30,REP,Under Votes,78
 Sheridan,State House,30,DEM,Write-ins,16
+Sheridan,State House,30,DEM,Over Votes,0
+Sheridan,State House,30,DEM,Under Votes,137
 Sheridan,State House,40,REP,Liberty Poley,116
 Sheridan,State House,40,REP,Marilyn Connoly,127
 Sheridan,State House,40,REP,Mark Jones,204
@@ -912,11 +1040,15 @@ Sheridan,State House,40,REP,Write-ins,2
 Sheridan,State House,40,REP,Over Votes,0
 Sheridan,State House,40,REP,Under Votes,26
 Sheridan,State House,40,DEM,Write-ins,3
+Sheridan,State House,40,DEM,Over Votes,0
+Sheridan,State House,40,DEM,Under Votes,26
 Sheridan,State House,51,REP,Laurie Bratten,2163
 Sheridan,State House,51,REP,Write-ins,185
 Sheridan,State House,51,REP,Over Votes,0
 Sheridan,State House,51,REP,Under Votes,469
 Sheridan,State House,51,DEM,Write-ins,43
+Sheridan,State House,51,DEM,Over Votes,0
+Sheridan,State House,51,DEM,Under Votes,183
 Sheridan,Ballots Cast,,REP,Ballots Cast,7233
 Sheridan,Ballots Cast,,DEM,Ballots Cast,622
 Sheridan,Ballots Cast,,NP,Ballots Cast,76
@@ -947,12 +1079,16 @@ Sublette,State Senate,14,REP,Write-ins,4
 Sublette,State Senate,14,REP,Over Votes,3
 Sublette,State Senate,14,REP,Under Votes,52
 Sublette,State Senate,14,DEM,Write-ins,7
+Sublette,State Senate,14,DEM,Over Votes,0
+Sublette,State Senate,14,DEM,Under Votes,44
 Sublette,State House,20,REP,Cat Urbigkit,1006
 Sublette,State House,20,REP,Mike Schmid,1585
 Sublette,State House,20,REP,Write-ins,6
 Sublette,State House,20,REP,Over Votes,2
 Sublette,State House,20,REP,Under Votes,78
 Sublette,State House,20,DEM,Write-ins,4
+Sublette,State House,20,DEM,Over Votes,0
+Sublette,State House,20,DEM,Under Votes,47
 Sublette,Ballots Cast,,REP,Ballots Cast,2677
 Sublette,Ballots Cast,,DEM,Ballots Cast,51
 Sublette,Ballots Cast,,NP,Ballots Cast,0
@@ -992,6 +1128,8 @@ Sweetwater,State Senate,14,REP,Write-ins,3
 Sweetwater,State Senate,14,REP,Over Votes,0
 Sweetwater,State Senate,14,REP,Under Votes,20
 Sweetwater,State Senate,14,DEM,Write-ins,7
+Sweetwater,State Senate,14,DEM,Over Votes,0
+Sweetwater,State Senate,14,DEM,Under Votes,79
 Sweetwater,State House,15,REP,Pamela Thayer,20
 Sweetwater,State House,15,REP,Sheryl Foland,6
 Sweetwater,State House,15,REP,Terry Lee Weickum,10
@@ -999,18 +1137,24 @@ Sweetwater,State House,15,REP,Write-ins,0
 Sweetwater,State House,15,REP,Over Votes,0
 Sweetwater,State House,15,REP,Under Votes,2
 Sweetwater,State House,15,DEM,Write-ins,1
+Sweetwater,State House,15,DEM,Over Votes,0
+Sweetwater,State House,15,DEM,Under Votes,1
 Sweetwater,State House,17,REP,J.T. Larson,562
 Sweetwater,State House,17,REP,Terry Ellison,481
 Sweetwater,State House,17,REP,Write-ins,3
 Sweetwater,State House,17,REP,Over Votes,1
 Sweetwater,State House,17,REP,Under Votes,33
 Sweetwater,State House,17,DEM,Write-ins,33
+Sweetwater,State House,17,DEM,Over Votes,0
+Sweetwater,State House,17,DEM,Under Votes,170
 Sweetwater,State House,18,REP,Scott Heiner,394
 Sweetwater,State House,18,REP,Thomas D. Crank,179
 Sweetwater,State House,18,REP,Write-ins,3
 Sweetwater,State House,18,REP,Over Votes,1
 Sweetwater,State House,18,REP,Under Votes,23
 Sweetwater,State House,18,DEM,Write-ins,8
+Sweetwater,State House,18,DEM,Over Votes,0
+Sweetwater,State House,18,DEM,Under Votes,78
 Sweetwater,State House,39,REP,Cody Wylie,501
 Sweetwater,State House,39,REP,Laura Mckee,457
 Sweetwater,State House,39,REP,Marshall Burt,88
@@ -1018,6 +1162,8 @@ Sweetwater,State House,39,REP,Write-ins,3
 Sweetwater,State House,39,REP,Over Votes,2
 Sweetwater,State House,39,REP,Under Votes,25
 Sweetwater,State House,39,DEM,Write-ins,28
+Sweetwater,State House,39,DEM,Over Votes,0
+Sweetwater,State House,39,DEM,Under Votes,152
 Sweetwater,State House,47,REP,Bob Davis,327
 Sweetwater,State House,47,REP,Write-ins,6
 Sweetwater,State House,47,REP,Over Votes,0
@@ -1032,12 +1178,16 @@ Sweetwater,State House,48,REP,Write-ins,0
 Sweetwater,State House,48,REP,Over Votes,1
 Sweetwater,State House,48,REP,Under Votes,24
 Sweetwater,State House,48,DEM,Write-ins,20
+Sweetwater,State House,48,DEM,Over Votes,0
+Sweetwater,State House,48,DEM,Under Votes,151
 Sweetwater,State House,60,REP,Marlene Brady,566
 Sweetwater,State House,60,REP,Tony Niemiec,520
 Sweetwater,State House,60,REP,Write-ins,7
 Sweetwater,State House,60,REP,Over Votes,1
 Sweetwater,State House,60,REP,Under Votes,28
 Sweetwater,State House,60,DEM,Write-ins,52
+Sweetwater,State House,60,DEM,Over Votes,0
+Sweetwater,State House,60,DEM,Under Votes,181
 Sweetwater,Ballots Cast,,REP,Ballots Cast,5440
 Sweetwater,Ballots Cast,,DEM,Ballots Cast,925
 Sweetwater,Ballots Cast,,NP,Ballots Cast,132
@@ -1066,6 +1216,8 @@ Teton,State Senate,16,REP,Write-ins,26
 Teton,State Senate,16,REP,Over Votes,0
 Teton,State Senate,16,REP,Under Votes,114
 Teton,State Senate,16,DEM,Write-ins,14
+Teton,State Senate,16,DEM,Over Votes,0
+Teton,State Senate,16,DEM,Under Votes,191
 Teton,State House,16,REP,Write-ins,68
 Teton,State House,16,DEM,Mike Yin,469
 Teton,State House,16,DEM,Write-ins,0
@@ -1076,6 +1228,8 @@ Teton,State House,22,REP,Write-ins,18
 Teton,State House,22,REP,Over Votes,0
 Teton,State House,22,REP,Under Votes,75
 Teton,State House,22,DEM,Write-ins,12
+Teton,State House,22,DEM,Over Votes,0
+Teton,State House,22,DEM,Under Votes,193
 Teton,State House,23,REP,Write-ins,108
 Teton,State House,23,DEM,Liz Storer,492
 Teton,State House,23,DEM,Write-ins,6
@@ -1111,24 +1265,32 @@ Uinta,State Senate,14,REP,Write-ins,0
 Uinta,State Senate,14,REP,Over Votes,0
 Uinta,State Senate,14,REP,Under Votes,30
 Uinta,State Senate,14,DEM,Write-ins,2
+Uinta,State Senate,14,DEM,Over Votes,0
+Uinta,State Senate,14,DEM,Under Votes,12
 Uinta,State House,18,REP,Scott Heiner,194
 Uinta,State House,18,REP,Thomas D. Crank,71
 Uinta,State House,18,REP,Write-ins,0
 Uinta,State House,18,REP,Over Votes,1
 Uinta,State House,18,REP,Under Votes,24
 Uinta,State House,18,DEM,Write-ins,2
+Uinta,State House,18,DEM,Over Votes,0
+Uinta,State House,18,DEM,Under Votes,12
 Uinta,State House,19,REP,Joe Webb,1019
 Uinta,State House,19,REP,Jon R. Conrad,792
 Uinta,State House,19,REP,Write-ins,10
 Uinta,State House,19,REP,Over Votes,1
 Uinta,State House,19,REP,Under Votes,35
 Uinta,State House,19,DEM,Write-ins,35
+Uinta,State House,19,DEM,Over Votes,0
+Uinta,State House,19,DEM,Under Votes,68
 Uinta,State House,49,REP,Robert Wharff,812
 Uinta,State House,49,REP,Ryan C. Berger,725
 Uinta,State House,49,REP,Write-ins,5
 Uinta,State House,49,REP,Over Votes,2
 Uinta,State House,49,REP,Under Votes,47
 Uinta,State House,49,DEM,Write-ins,24
+Uinta,State House,49,DEM,Over Votes,0
+Uinta,State House,49,DEM,Under Votes,125
 Uinta,Ballots Cast,,REP,Ballots Cast,3738
 Uinta,Ballots Cast,,DEM,Ballots Cast,266
 Uinta,Ballots Cast,,NP,Ballots Cast,107
@@ -1158,12 +1320,16 @@ Washakie,State Senate,20,REP,Write-ins,9
 Washakie,State Senate,20,REP,Over Votes,1
 Washakie,State Senate,20,REP,Under Votes,47
 Washakie,State Senate,20,DEM,Write-ins,17
+Washakie,State Senate,20,DEM,Over Votes,0
+Washakie,State Senate,20,DEM,Under Votes,110
 Washakie,State House,27,REP,Martha Lawley,1341
 Washakie,State House,27,REP,Tami Young,715
 Washakie,State House,27,REP,Write-ins,5
 Washakie,State House,27,REP,Over Votes,0
 Washakie,State House,27,REP,Under Votes,66
 Washakie,State House,27,DEM,Write-ins,13
+Washakie,State House,27,DEM,Over Votes,0
+Washakie,State House,27,DEM,Under Votes,114
 Washakie,Ballots Cast,,REP,Ballots Cast,2127
 Washakie,Ballots Cast,,DEM,Ballots Cast,127
 Washakie,Ballots Cast,,NP,Ballots Cast,51
@@ -1192,12 +1358,16 @@ Weston,State House,1,REP,Write-ins,22
 Weston,State House,1,REP,Over Votes,0
 Weston,State House,1,REP,Under Votes,96
 Weston,State House,1,DEM,Write-ins,1
+Weston,State House,1,DEM,Over Votes,0
+Weston,State House,1,DEM,Under Votes,17
 Weston,State House,2,REP,Allen E. Slagle,576
 Weston,State House,2,REP,JD Williams,578
 Weston,State House,2,REP,Write-ins,4
 Weston,State House,2,REP,Over Votes,2
 Weston,State House,2,REP,Under Votes,26
 Weston,State House,2,DEM,Write-ins,5
+Weston,State House,2,DEM,Over Votes,0
+Weston,State House,2,DEM,Under Votes,26
 Weston,Ballots Cast,,REP,Ballots Cast,1949
 Weston,Ballots Cast,,DEM,Ballots Cast,49
 Weston,Ballots Cast,,NP,Ballots Cast,28

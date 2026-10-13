@@ -24,12 +24,16 @@ Park,01-01,State Senate,18,REP,Write-ins,1
 Park,01-01,State Senate,18,REP,Over Votes,0
 Park,01-01,State Senate,18,REP,Under Votes,9
 Park,01-01,State Senate,18,DEM,Write-ins,0
+Park,01-01,State Senate,18,DEM,Over Votes,0
+Park,01-01,State Senate,18,DEM,Under Votes,6
 Park,01-01,State House,50,REP,David Hill,66
 Park,01-01,State House,50,REP,Rachel Rodriguez-Williams,177
 Park,01-01,State House,50,REP,Write-ins,3
 Park,01-01,State House,50,REP,Over Votes,1
 Park,01-01,State House,50,REP,Under Votes,9
 Park,01-01,State House,50,DEM,Write-ins,0
+Park,01-01,State House,50,DEM,Over Votes,0
+Park,01-01,State House,50,DEM,Under Votes,6
 Park,01-01,Ballots Cast,,REP,Ballots Cast,256
 Park,01-01,Ballots Cast,,DEM,Ballots Cast,6
 Park,01-01,Ballots Cast,,NP,Ballots Cast,0
@@ -59,12 +63,16 @@ Park,02-01,State Senate,18,REP,Write-ins,5
 Park,02-01,State Senate,18,REP,Over Votes,1
 Park,02-01,State Senate,18,REP,Under Votes,28
 Park,02-01,State Senate,18,DEM,Write-ins,5
+Park,02-01,State Senate,18,DEM,Over Votes,0
+Park,02-01,State Senate,18,DEM,Under Votes,31
 Park,02-01,State House,50,REP,David Hill,406
 Park,02-01,State House,50,REP,Rachel Rodriguez-Williams,518
 Park,02-01,State House,50,REP,Write-ins,4
 Park,02-01,State House,50,REP,Over Votes,2
 Park,02-01,State House,50,REP,Under Votes,25
 Park,02-01,State House,50,DEM,Write-ins,4
+Park,02-01,State House,50,DEM,Over Votes,0
+Park,02-01,State House,50,DEM,Under Votes,32
 Park,02-01,Ballots Cast,,REP,Ballots Cast,955
 Park,02-01,Ballots Cast,,DEM,Ballots Cast,36
 Park,02-01,Ballots Cast,,NP,Ballots Cast,21
@@ -94,12 +102,16 @@ Park,03-01,State Senate,18,REP,Write-ins,0
 Park,03-01,State Senate,18,REP,Over Votes,0
 Park,03-01,State Senate,18,REP,Under Votes,11
 Park,03-01,State Senate,18,DEM,Write-ins,3
+Park,03-01,State Senate,18,DEM,Over Votes,0
+Park,03-01,State Senate,18,DEM,Under Votes,6
 Park,03-01,State House,50,REP,David Hill,150
 Park,03-01,State House,50,REP,Rachel Rodriguez-Williams,287
 Park,03-01,State House,50,REP,Write-ins,1
 Park,03-01,State House,50,REP,Over Votes,0
 Park,03-01,State House,50,REP,Under Votes,9
 Park,03-01,State House,50,DEM,Write-ins,3
+Park,03-01,State House,50,DEM,Over Votes,0
+Park,03-01,State House,50,DEM,Under Votes,6
 Park,03-01,Ballots Cast,,REP,Ballots Cast,447
 Park,03-01,Ballots Cast,,DEM,Ballots Cast,9
 Park,03-01,Ballots Cast,,NP,Ballots Cast,0
@@ -129,24 +141,32 @@ Park,03-02,State Senate,18,REP,Write-ins,1
 Park,03-02,State Senate,18,REP,Over Votes,0
 Park,03-02,State Senate,18,REP,Under Votes,10
 Park,03-02,State Senate,18,DEM,Write-ins,0
+Park,03-02,State Senate,18,DEM,Over Votes,0
+Park,03-02,State Senate,18,DEM,Under Votes,11
 Park,03-02,State Senate,20,REP,Ed Cooper,93
 Park,03-02,State Senate,20,REP,Tom Olmstead,145
 Park,03-02,State Senate,20,REP,Write-ins,1
 Park,03-02,State Senate,20,REP,Over Votes,0
 Park,03-02,State Senate,20,REP,Under Votes,20
 Park,03-02,State Senate,20,DEM,Write-ins,1
+Park,03-02,State Senate,20,DEM,Over Votes,0
+Park,03-02,State Senate,20,DEM,Under Votes,5
 Park,03-02,State House,28,REP,John R. Winter,133
 Park,03-02,State House,28,REP,Kevin Skates,107
 Park,03-02,State House,28,REP,Write-ins,0
 Park,03-02,State House,28,REP,Over Votes,0
 Park,03-02,State House,28,REP,Under Votes,19
 Park,03-02,State House,28,DEM,Write-ins,2
+Park,03-02,State House,28,DEM,Over Votes,0
+Park,03-02,State House,28,DEM,Under Votes,4
 Park,03-02,State House,50,REP,David Hill,166
 Park,03-02,State House,50,REP,Rachel Rodriguez-Williams,250
 Park,03-02,State House,50,REP,Write-ins,1
 Park,03-02,State House,50,REP,Over Votes,0
 Park,03-02,State House,50,REP,Under Votes,13
 Park,03-02,State House,50,DEM,Write-ins,0
+Park,03-02,State House,50,DEM,Over Votes,0
+Park,03-02,State House,50,DEM,Under Votes,11
 Park,03-02,Ballots Cast,,REP,Ballots Cast,689
 Park,03-02,Ballots Cast,,DEM,Ballots Cast,17
 Park,03-02,Ballots Cast,,NP,Ballots Cast,0
@@ -176,12 +196,16 @@ Park,04-01,State Senate,18,REP,Write-ins,2
 Park,04-01,State Senate,18,REP,Over Votes,2
 Park,04-01,State Senate,18,REP,Under Votes,19
 Park,04-01,State Senate,18,DEM,Write-ins,0
+Park,04-01,State Senate,18,DEM,Over Votes,0
+Park,04-01,State Senate,18,DEM,Under Votes,7
 Park,04-01,State House,24,REP,Matt Hall,277
 Park,04-01,State House,24,REP,Nina Webber,445
 Park,04-01,State House,24,REP,Write-ins,1
 Park,04-01,State House,24,REP,Over Votes,0
 Park,04-01,State House,24,REP,Under Votes,20
 Park,04-01,State House,24,DEM,Write-ins,0
+Park,04-01,State House,24,DEM,Over Votes,0
+Park,04-01,State House,24,DEM,Under Votes,7
 Park,04-01,Ballots Cast,,REP,Ballots Cast,743
 Park,04-01,Ballots Cast,,DEM,Ballots Cast,7
 Park,04-01,Ballots Cast,,NP,Ballots Cast,0
@@ -211,18 +235,24 @@ Park,04-02,State Senate,18,REP,Write-ins,0
 Park,04-02,State Senate,18,REP,Over Votes,0
 Park,04-02,State Senate,18,REP,Under Votes,2
 Park,04-02,State Senate,18,DEM,Write-ins,0
+Park,04-02,State Senate,18,DEM,Over Votes,0
+Park,04-02,State Senate,18,DEM,Under Votes,0
 Park,04-02,State House,24,REP,Matt Hall,3
 Park,04-02,State House,24,REP,Nina Webber,6
 Park,04-02,State House,24,REP,Write-ins,0
 Park,04-02,State House,24,REP,Over Votes,0
 Park,04-02,State House,24,REP,Under Votes,0
 Park,04-02,State House,24,DEM,Write-ins,0
+Park,04-02,State House,24,DEM,Over Votes,0
+Park,04-02,State House,24,DEM,Under Votes,0
 Park,04-02,State House,50,REP,David Hill,41
 Park,04-02,State House,50,REP,Rachel Rodriguez-Williams,74
 Park,04-02,State House,50,REP,Write-ins,1
 Park,04-02,State House,50,REP,Over Votes,1
 Park,04-02,State House,50,REP,Under Votes,2
 Park,04-02,State House,50,DEM,Write-ins,0
+Park,04-02,State House,50,DEM,Over Votes,0
+Park,04-02,State House,50,DEM,Under Votes,0
 Park,04-02,Ballots Cast,,REP,Ballots Cast,128
 Park,04-02,Ballots Cast,,DEM,Ballots Cast,0
 Park,04-02,Ballots Cast,,NP,Ballots Cast,0
@@ -251,6 +281,8 @@ Park,06-01,State House,26,REP,Write-ins,3
 Park,06-01,State House,26,REP,Over Votes,0
 Park,06-01,State House,26,REP,Under Votes,26
 Park,06-01,State House,26,DEM,Write-ins,1
+Park,06-01,State House,26,DEM,Over Votes,0
+Park,06-01,State House,26,DEM,Under Votes,7
 Park,06-01,Ballots Cast,,REP,Ballots Cast,170
 Park,06-01,Ballots Cast,,DEM,Ballots Cast,8
 Park,06-01,Ballots Cast,,NP,Ballots Cast,1
@@ -280,12 +312,16 @@ Park,07-02,State Senate,18,REP,Write-ins,0
 Park,07-02,State Senate,18,REP,Over Votes,0
 Park,07-02,State Senate,18,REP,Under Votes,1
 Park,07-02,State Senate,18,DEM,Write-ins,0
+Park,07-02,State Senate,18,DEM,Over Votes,0
+Park,07-02,State Senate,18,DEM,Under Votes,0
 Park,07-02,State House,24,REP,Matt Hall,17
 Park,07-02,State House,24,REP,Nina Webber,12
 Park,07-02,State House,24,REP,Write-ins,0
 Park,07-02,State House,24,REP,Over Votes,0
 Park,07-02,State House,24,REP,Under Votes,0
 Park,07-02,State House,24,DEM,Write-ins,0
+Park,07-02,State House,24,DEM,Over Votes,0
+Park,07-02,State House,24,DEM,Under Votes,0
 Park,07-02,Ballots Cast,,REP,Ballots Cast,29
 Park,07-02,Ballots Cast,,DEM,Ballots Cast,0
 Park,07-02,Ballots Cast,,NP,Ballots Cast,0
@@ -315,12 +351,16 @@ Park,08-01,State Senate,20,REP,Write-ins,3
 Park,08-01,State Senate,20,REP,Over Votes,0
 Park,08-01,State Senate,20,REP,Under Votes,2
 Park,08-01,State Senate,20,DEM,Write-ins,0
+Park,08-01,State Senate,20,DEM,Over Votes,0
+Park,08-01,State Senate,20,DEM,Under Votes,0
 Park,08-01,State House,28,REP,John R. Winter,62
 Park,08-01,State House,28,REP,Kevin Skates,17
 Park,08-01,State House,28,REP,Write-ins,1
 Park,08-01,State House,28,REP,Over Votes,0
 Park,08-01,State House,28,REP,Under Votes,4
 Park,08-01,State House,28,DEM,Write-ins,0
+Park,08-01,State House,28,DEM,Over Votes,0
+Park,08-01,State House,28,DEM,Under Votes,0
 Park,08-01,Ballots Cast,,REP,Ballots Cast,84
 Park,08-01,Ballots Cast,,DEM,Ballots Cast,0
 Park,08-01,Ballots Cast,,NP,Ballots Cast,0
@@ -350,12 +390,16 @@ Park,08-02,State Senate,20,REP,Write-ins,0
 Park,08-02,State Senate,20,REP,Over Votes,0
 Park,08-02,State Senate,20,REP,Under Votes,9
 Park,08-02,State Senate,20,DEM,Write-ins,2
+Park,08-02,State Senate,20,DEM,Over Votes,0
+Park,08-02,State Senate,20,DEM,Under Votes,8
 Park,08-02,State House,28,REP,John R. Winter,80
 Park,08-02,State House,28,REP,Kevin Skates,44
 Park,08-02,State House,28,REP,Write-ins,0
 Park,08-02,State House,28,REP,Over Votes,0
 Park,08-02,State House,28,REP,Under Votes,6
 Park,08-02,State House,28,DEM,Write-ins,0
+Park,08-02,State House,28,DEM,Over Votes,0
+Park,08-02,State House,28,DEM,Under Votes,10
 Park,08-02,Ballots Cast,,REP,Ballots Cast,130
 Park,08-02,Ballots Cast,,DEM,Ballots Cast,10
 Park,08-02,Ballots Cast,,NP,Ballots Cast,5
@@ -385,12 +429,16 @@ Park,08-03,State Senate,20,REP,Write-ins,1
 Park,08-03,State Senate,20,REP,Over Votes,0
 Park,08-03,State Senate,20,REP,Under Votes,3
 Park,08-03,State Senate,20,DEM,Write-ins,1
+Park,08-03,State Senate,20,DEM,Over Votes,0
+Park,08-03,State Senate,20,DEM,Under Votes,3
 Park,08-03,State House,28,REP,John R. Winter,81
 Park,08-03,State House,28,REP,Kevin Skates,14
 Park,08-03,State House,28,REP,Write-ins,0
 Park,08-03,State House,28,REP,Over Votes,0
 Park,08-03,State House,28,REP,Under Votes,6
 Park,08-03,State House,28,DEM,Write-ins,1
+Park,08-03,State House,28,DEM,Over Votes,0
+Park,08-03,State House,28,DEM,Under Votes,3
 Park,08-03,Ballots Cast,,REP,Ballots Cast,101
 Park,08-03,Ballots Cast,,DEM,Ballots Cast,4
 Park,08-03,Ballots Cast,,NP,Ballots Cast,0
@@ -420,6 +468,8 @@ Park,09-01,State House,25,REP,Write-ins,0
 Park,09-01,State House,25,REP,Over Votes,2
 Park,09-01,State House,25,REP,Under Votes,9
 Park,09-01,State House,25,DEM,Write-ins,2
+Park,09-01,State House,25,DEM,Over Votes,0
+Park,09-01,State House,25,DEM,Under Votes,23
 Park,09-01,Ballots Cast,,REP,Ballots Cast,363
 Park,09-01,Ballots Cast,,DEM,Ballots Cast,25
 Park,09-01,Ballots Cast,,NP,Ballots Cast,14
@@ -449,6 +499,8 @@ Park,09-05,State House,25,REP,Write-ins,1
 Park,09-05,State House,25,REP,Over Votes,0
 Park,09-05,State House,25,REP,Under Votes,11
 Park,09-05,State House,25,DEM,Write-ins,5
+Park,09-05,State House,25,DEM,Over Votes,0
+Park,09-05,State House,25,DEM,Under Votes,35
 Park,09-05,Ballots Cast,,REP,Ballots Cast,483
 Park,09-05,Ballots Cast,,DEM,Ballots Cast,40
 Park,09-05,Ballots Cast,,NP,Ballots Cast,8
@@ -478,6 +530,8 @@ Park,09-07,State House,25,REP,Write-ins,0
 Park,09-07,State House,25,REP,Over Votes,0
 Park,09-07,State House,25,REP,Under Votes,6
 Park,09-07,State House,25,DEM,Write-ins,1
+Park,09-07,State House,25,DEM,Over Votes,0
+Park,09-07,State House,25,DEM,Under Votes,20
 Park,09-07,Ballots Cast,,REP,Ballots Cast,341
 Park,09-07,Ballots Cast,,DEM,Ballots Cast,21
 Park,09-07,Ballots Cast,,NP,Ballots Cast,9
@@ -507,11 +561,15 @@ Park,10-1,State House,25,REP,Write-ins,0
 Park,10-1,State House,25,REP,Over Votes,1
 Park,10-1,State House,25,REP,Under Votes,5
 Park,10-1,State House,25,DEM,Write-ins,0
+Park,10-1,State House,25,DEM,Over Votes,0
+Park,10-1,State House,25,DEM,Under Votes,5
 Park,10-1,State House,26,REP,Dalton Banks,6
 Park,10-1,State House,26,REP,Write-ins,0
 Park,10-1,State House,26,REP,Over Votes,0
 Park,10-1,State House,26,REP,Under Votes,3
 Park,10-1,State House,26,DEM,Write-ins,0
+Park,10-1,State House,26,DEM,Over Votes,0
+Park,10-1,State House,26,DEM,Under Votes,2
 Park,10-1,Ballots Cast,,REP,Ballots Cast,332
 Park,10-1,Ballots Cast,,DEM,Ballots Cast,7
 Park,10-1,Ballots Cast,,NP,Ballots Cast,0
@@ -541,6 +599,8 @@ Park,10-2,State House,25,REP,Write-ins,4
 Park,10-2,State House,25,REP,Over Votes,1
 Park,10-2,State House,25,REP,Under Votes,4
 Park,10-2,State House,25,DEM,Write-ins,6
+Park,10-2,State House,25,DEM,Over Votes,0
+Park,10-2,State House,25,DEM,Under Votes,12
 Park,10-2,Ballots Cast,,REP,Ballots Cast,593
 Park,10-2,Ballots Cast,,DEM,Ballots Cast,18
 Park,10-2,Ballots Cast,,NP,Ballots Cast,0
@@ -570,12 +630,16 @@ Park,11-2,State Senate,18,REP,Write-ins,0
 Park,11-2,State Senate,18,REP,Over Votes,0
 Park,11-2,State Senate,18,REP,Under Votes,2
 Park,11-2,State Senate,18,DEM,Write-ins,0
+Park,11-2,State Senate,18,DEM,Over Votes,0
+Park,11-2,State Senate,18,DEM,Under Votes,0
 Park,11-2,State House,50,REP,David Hill,14
 Park,11-2,State House,50,REP,Rachel Rodriguez-Williams,26
 Park,11-2,State House,50,REP,Write-ins,0
 Park,11-2,State House,50,REP,Over Votes,1
 Park,11-2,State House,50,REP,Under Votes,2
 Park,11-2,State House,50,DEM,Write-ins,0
+Park,11-2,State House,50,DEM,Over Votes,0
+Park,11-2,State House,50,DEM,Under Votes,0
 Park,11-2,Ballots Cast,,REP,Ballots Cast,43
 Park,11-2,Ballots Cast,,DEM,Ballots Cast,0
 Park,11-2,Ballots Cast,,NP,Ballots Cast,0
@@ -605,12 +669,16 @@ Park,16-1,State Senate,18,REP,Write-ins,1
 Park,16-1,State Senate,18,REP,Over Votes,0
 Park,16-1,State Senate,18,REP,Under Votes,16
 Park,16-1,State Senate,18,DEM,Write-ins,0
+Park,16-1,State Senate,18,DEM,Over Votes,0
+Park,16-1,State Senate,18,DEM,Under Votes,22
 Park,16-1,State House,24,REP,Matt Hall,131
 Park,16-1,State House,24,REP,Nina Webber,224
 Park,16-1,State House,24,REP,Write-ins,6
 Park,16-1,State House,24,REP,Over Votes,0
 Park,16-1,State House,24,REP,Under Votes,20
 Park,16-1,State House,24,DEM,Write-ins,2
+Park,16-1,State House,24,DEM,Over Votes,0
+Park,16-1,State House,24,DEM,Under Votes,20
 Park,16-1,Ballots Cast,,REP,Ballots Cast,381
 Park,16-1,Ballots Cast,,DEM,Ballots Cast,22
 Park,16-1,Ballots Cast,,NP,Ballots Cast,0
@@ -640,12 +708,16 @@ Park,21-1,State Senate,18,REP,Write-ins,3
 Park,21-1,State Senate,18,REP,Over Votes,0
 Park,21-1,State Senate,18,REP,Under Votes,2
 Park,21-1,State Senate,18,DEM,Write-ins,0
+Park,21-1,State Senate,18,DEM,Over Votes,0
+Park,21-1,State Senate,18,DEM,Under Votes,9
 Park,21-1,State House,50,REP,David Hill,112
 Park,21-1,State House,50,REP,Rachel Rodriguez-Williams,297
 Park,21-1,State House,50,REP,Write-ins,0
 Park,21-1,State House,50,REP,Over Votes,2
 Park,21-1,State House,50,REP,Under Votes,11
 Park,21-1,State House,50,DEM,Write-ins,0
+Park,21-1,State House,50,DEM,Over Votes,0
+Park,21-1,State House,50,DEM,Under Votes,9
 Park,21-1,Ballots Cast,,REP,Ballots Cast,422
 Park,21-1,Ballots Cast,,DEM,Ballots Cast,9
 Park,21-1,Ballots Cast,,NP,Ballots Cast,0
@@ -675,12 +747,16 @@ Park,23-1,State Senate,18,REP,Write-ins,0
 Park,23-1,State Senate,18,REP,Over Votes,0
 Park,23-1,State Senate,18,REP,Under Votes,0
 Park,23-1,State Senate,18,DEM,Write-ins,0
+Park,23-1,State Senate,18,DEM,Over Votes,0
+Park,23-1,State Senate,18,DEM,Under Votes,1
 Park,23-1,State House,50,REP,David Hill,31
 Park,23-1,State House,50,REP,Rachel Rodriguez-Williams,43
 Park,23-1,State House,50,REP,Write-ins,0
 Park,23-1,State House,50,REP,Over Votes,0
 Park,23-1,State House,50,REP,Under Votes,1
 Park,23-1,State House,50,DEM,Write-ins,0
+Park,23-1,State House,50,DEM,Over Votes,0
+Park,23-1,State House,50,DEM,Under Votes,1
 Park,23-1,Ballots Cast,,REP,Ballots Cast,75
 Park,23-1,Ballots Cast,,DEM,Ballots Cast,1
 Park,23-1,Ballots Cast,,NP,Ballots Cast,0
@@ -710,18 +786,24 @@ Park,24-1,State Senate,18,REP,Write-ins,0
 Park,24-1,State Senate,18,REP,Over Votes,0
 Park,24-1,State Senate,18,REP,Under Votes,25
 Park,24-1,State Senate,18,DEM,Write-ins,4
+Park,24-1,State Senate,18,DEM,Over Votes,0
+Park,24-1,State Senate,18,DEM,Under Votes,40
 Park,24-1,State House,24,REP,Matt Hall,250
 Park,24-1,State House,24,REP,Nina Webber,273
 Park,24-1,State House,24,REP,Write-ins,5
 Park,24-1,State House,24,REP,Over Votes,0
 Park,24-1,State House,24,REP,Under Votes,13
 Park,24-1,State House,24,DEM,Write-ins,3
+Park,24-1,State House,24,DEM,Over Votes,0
+Park,24-1,State House,24,DEM,Under Votes,33
 Park,24-1,State House,50,REP,David Hill,75
 Park,24-1,State House,50,REP,Rachel Rodriguez-Williams,106
 Park,24-1,State House,50,REP,Write-ins,1
 Park,24-1,State House,50,REP,Over Votes,0
 Park,24-1,State House,50,REP,Under Votes,7
 Park,24-1,State House,50,DEM,Write-ins,3
+Park,24-1,State House,50,DEM,Over Votes,0
+Park,24-1,State House,50,DEM,Under Votes,5
 Park,24-1,Ballots Cast,,REP,Ballots Cast,730
 Park,24-1,Ballots Cast,,DEM,Ballots Cast,44
 Park,24-1,Ballots Cast,,NP,Ballots Cast,35
@@ -751,12 +833,16 @@ Park,25-1,State Senate,18,REP,Write-ins,6
 Park,25-1,State Senate,18,REP,Over Votes,0
 Park,25-1,State Senate,18,REP,Under Votes,30
 Park,25-1,State Senate,18,DEM,Write-ins,3
+Park,25-1,State Senate,18,DEM,Over Votes,0
+Park,25-1,State Senate,18,DEM,Under Votes,31
 Park,25-1,State House,24,REP,Matt Hall,555
 Park,25-1,State House,24,REP,Nina Webber,446
 Park,25-1,State House,24,REP,Write-ins,6
 Park,25-1,State House,24,REP,Over Votes,0
 Park,25-1,State House,24,REP,Under Votes,34
 Park,25-1,State House,24,DEM,Write-ins,6
+Park,25-1,State House,24,DEM,Over Votes,0
+Park,25-1,State House,24,DEM,Under Votes,28
 Park,25-1,Ballots Cast,,REP,Ballots Cast,1041
 Park,25-1,Ballots Cast,,DEM,Ballots Cast,34
 Park,25-1,Ballots Cast,,NP,Ballots Cast,25

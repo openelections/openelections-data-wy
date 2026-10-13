@@ -25,12 +25,16 @@ Lincoln,1-01,State Senate,14,REP,Write-ins,1
 Lincoln,1-01,State Senate,14,REP,Over Votes,1
 Lincoln,1-01,State Senate,14,REP,Under Votes,10
 Lincoln,1-01,State Senate,14,DEM,Write-ins,8
+Lincoln,1-01,State Senate,14,DEM,Over Votes,0
+Lincoln,1-01,State Senate,14,DEM,Under Votes,38
 Lincoln,1-01,State House,18,REP,Scott Heiner,285
 Lincoln,1-01,State House,18,REP,Thomas D. Crank,330
 Lincoln,1-01,State House,18,REP,Write-ins,1
 Lincoln,1-01,State House,18,REP,Over Votes,0
 Lincoln,1-01,State House,18,REP,Under Votes,7
 Lincoln,1-01,State House,18,DEM,Write-ins,7
+Lincoln,1-01,State House,18,DEM,Over Votes,0
+Lincoln,1-01,State House,18,DEM,Under Votes,39
 Lincoln,1-01,Ballots Cast,,REP,Ballots Cast,623
 Lincoln,1-01,Ballots Cast,,DEM,Ballots Cast,46
 Lincoln,1-01,Ballots Cast,,NP,Ballots Cast,16
@@ -61,12 +65,16 @@ Lincoln,1-04,State Senate,14,REP,Write-ins,1
 Lincoln,1-04,State Senate,14,REP,Over Votes,0
 Lincoln,1-04,State Senate,14,REP,Under Votes,7
 Lincoln,1-04,State Senate,14,DEM,Write-ins,2
+Lincoln,1-04,State Senate,14,DEM,Over Votes,0
+Lincoln,1-04,State Senate,14,DEM,Under Votes,21
 Lincoln,1-04,State House,18,REP,Scott Heiner,84
 Lincoln,1-04,State House,18,REP,Thomas D. Crank,72
 Lincoln,1-04,State House,18,REP,Write-ins,1
 Lincoln,1-04,State House,18,REP,Over Votes,0
 Lincoln,1-04,State House,18,REP,Under Votes,3
 Lincoln,1-04,State House,18,DEM,Write-ins,2
+Lincoln,1-04,State House,18,DEM,Over Votes,0
+Lincoln,1-04,State House,18,DEM,Under Votes,21
 Lincoln,1-04,Ballots Cast,,REP,Ballots Cast,160
 Lincoln,1-04,Ballots Cast,,DEM,Ballots Cast,23
 Lincoln,1-04,Ballots Cast,,NP,Ballots Cast,1
@@ -97,12 +105,16 @@ Lincoln,1-06,State Senate,14,REP,Write-ins,1
 Lincoln,1-06,State Senate,14,REP,Over Votes,0
 Lincoln,1-06,State Senate,14,REP,Under Votes,0
 Lincoln,1-06,State Senate,14,DEM,Write-ins,0
+Lincoln,1-06,State Senate,14,DEM,Over Votes,0
+Lincoln,1-06,State Senate,14,DEM,Under Votes,1
 Lincoln,1-06,State House,18,REP,Scott Heiner,40
 Lincoln,1-06,State House,18,REP,Thomas D. Crank,37
 Lincoln,1-06,State House,18,REP,Write-ins,0
 Lincoln,1-06,State House,18,REP,Over Votes,0
 Lincoln,1-06,State House,18,REP,Under Votes,2
 Lincoln,1-06,State House,18,DEM,Write-ins,0
+Lincoln,1-06,State House,18,DEM,Over Votes,0
+Lincoln,1-06,State House,18,DEM,Under Votes,1
 Lincoln,1-06,Ballots Cast,,REP,Ballots Cast,79
 Lincoln,1-06,Ballots Cast,,DEM,Ballots Cast,1
 Lincoln,1-06,Ballots Cast,,NP,Ballots Cast,0
@@ -133,12 +145,16 @@ Lincoln,1-07,State Senate,14,REP,Write-ins,0
 Lincoln,1-07,State Senate,14,REP,Over Votes,0
 Lincoln,1-07,State Senate,14,REP,Under Votes,0
 Lincoln,1-07,State Senate,14,DEM,Write-ins,0
+Lincoln,1-07,State Senate,14,DEM,Over Votes,0
+Lincoln,1-07,State Senate,14,DEM,Under Votes,1
 Lincoln,1-07,State House,18,REP,Scott Heiner,21
 Lincoln,1-07,State House,18,REP,Thomas D. Crank,16
 Lincoln,1-07,State House,18,REP,Write-ins,0
 Lincoln,1-07,State House,18,REP,Over Votes,0
 Lincoln,1-07,State House,18,REP,Under Votes,2
 Lincoln,1-07,State House,18,DEM,Write-ins,0
+Lincoln,1-07,State House,18,DEM,Over Votes,0
+Lincoln,1-07,State House,18,DEM,Under Votes,1
 Lincoln,1-07,Ballots Cast,,REP,Ballots Cast,39
 Lincoln,1-07,Ballots Cast,,DEM,Ballots Cast,1
 Lincoln,1-07,Ballots Cast,,NP,Ballots Cast,0
@@ -169,12 +185,16 @@ Lincoln,1-08,State Senate,14,REP,Write-ins,0
 Lincoln,1-08,State Senate,14,REP,Over Votes,0
 Lincoln,1-08,State Senate,14,REP,Under Votes,4
 Lincoln,1-08,State Senate,14,DEM,Write-ins,0
+Lincoln,1-08,State Senate,14,DEM,Over Votes,0
+Lincoln,1-08,State Senate,14,DEM,Under Votes,2
 Lincoln,1-08,State House,20,REP,Cat Urbigkit,23
 Lincoln,1-08,State House,20,REP,Mike Schmid,170
 Lincoln,1-08,State House,20,REP,Write-ins,2
 Lincoln,1-08,State House,20,REP,Over Votes,0
 Lincoln,1-08,State House,20,REP,Under Votes,0
 Lincoln,1-08,State House,20,DEM,Write-ins,0
+Lincoln,1-08,State House,20,DEM,Over Votes,0
+Lincoln,1-08,State House,20,DEM,Under Votes,2
 Lincoln,1-08,Ballots Cast,,REP,Ballots Cast,195
 Lincoln,1-08,Ballots Cast,,DEM,Ballots Cast,2
 Lincoln,1-08,Ballots Cast,,NP,Ballots Cast,4
@@ -203,12 +223,16 @@ Lincoln,2-01,State Senate,16,REP,Write-ins,10
 Lincoln,2-01,State Senate,16,REP,Over Votes,1
 Lincoln,2-01,State Senate,16,REP,Under Votes,33
 Lincoln,2-01,State Senate,16,DEM,Write-ins,0
+Lincoln,2-01,State Senate,16,DEM,Over Votes,0
+Lincoln,2-01,State Senate,16,DEM,Under Votes,4
 Lincoln,2-01,State House,21,REP,McKay L. Erickson,378
 Lincoln,2-01,State House,21,REP,T. Deb Wolfley,88
 Lincoln,2-01,State House,21,REP,Write-ins,0
 Lincoln,2-01,State House,21,REP,Over Votes,1
 Lincoln,2-01,State House,21,REP,Under Votes,4
 Lincoln,2-01,State House,21,DEM,Write-ins,0
+Lincoln,2-01,State House,21,DEM,Over Votes,0
+Lincoln,2-01,State House,21,DEM,Under Votes,4
 Lincoln,2-01,Ballots Cast,,REP,Ballots Cast,471
 Lincoln,2-01,Ballots Cast,,DEM,Ballots Cast,4
 Lincoln,2-01,Ballots Cast,,NP,Ballots Cast,3
@@ -237,12 +261,16 @@ Lincoln,2-02,State Senate,16,REP,Write-ins,3
 Lincoln,2-02,State Senate,16,REP,Over Votes,0
 Lincoln,2-02,State Senate,16,REP,Under Votes,6
 Lincoln,2-02,State Senate,16,DEM,Write-ins,0
+Lincoln,2-02,State Senate,16,DEM,Over Votes,0
+Lincoln,2-02,State Senate,16,DEM,Under Votes,2
 Lincoln,2-02,State House,21,REP,McKay L. Erickson,131
 Lincoln,2-02,State House,21,REP,T. Deb Wolfley,42
 Lincoln,2-02,State House,21,REP,Write-ins,0
 Lincoln,2-02,State House,21,REP,Over Votes,0
 Lincoln,2-02,State House,21,REP,Under Votes,2
 Lincoln,2-02,State House,21,DEM,Write-ins,0
+Lincoln,2-02,State House,21,DEM,Over Votes,0
+Lincoln,2-02,State House,21,DEM,Under Votes,2
 Lincoln,2-02,Ballots Cast,,REP,Ballots Cast,175
 Lincoln,2-02,Ballots Cast,,DEM,Ballots Cast,2
 Lincoln,2-02,Ballots Cast,,NP,Ballots Cast,0
@@ -271,11 +299,15 @@ Lincoln,2-03,State Senate,16,REP,Write-ins,2
 Lincoln,2-03,State Senate,16,REP,Over Votes,0
 Lincoln,2-03,State Senate,16,REP,Under Votes,20
 Lincoln,2-03,State Senate,16,DEM,Write-ins,0
+Lincoln,2-03,State Senate,16,DEM,Over Votes,0
+Lincoln,2-03,State Senate,16,DEM,Under Votes,12
 Lincoln,2-03,State House,22,REP,Andrew P Byron,167
 Lincoln,2-03,State House,22,REP,Write-ins,7
 Lincoln,2-03,State House,22,REP,Over Votes,0
 Lincoln,2-03,State House,22,REP,Under Votes,35
 Lincoln,2-03,State House,22,DEM,Write-ins,0
+Lincoln,2-03,State House,22,DEM,Over Votes,0
+Lincoln,2-03,State House,22,DEM,Under Votes,12
 Lincoln,2-03,Ballots Cast,,REP,Ballots Cast,209
 Lincoln,2-03,Ballots Cast,,DEM,Ballots Cast,12
 Lincoln,2-03,Ballots Cast,,NP,Ballots Cast,1
@@ -304,12 +336,16 @@ Lincoln,2-04,State Senate,16,REP,Write-ins,2
 Lincoln,2-04,State Senate,16,REP,Over Votes,0
 Lincoln,2-04,State Senate,16,REP,Under Votes,19
 Lincoln,2-04,State Senate,16,DEM,Write-ins,1
+Lincoln,2-04,State Senate,16,DEM,Over Votes,0
+Lincoln,2-04,State Senate,16,DEM,Under Votes,6
 Lincoln,2-04,State House,21,REP,McKay L. Erickson,168
 Lincoln,2-04,State House,21,REP,T. Deb Wolfley,80
 Lincoln,2-04,State House,21,REP,Write-ins,2
 Lincoln,2-04,State House,21,REP,Over Votes,1
 Lincoln,2-04,State House,21,REP,Under Votes,3
 Lincoln,2-04,State House,21,DEM,Write-ins,1
+Lincoln,2-04,State House,21,DEM,Over Votes,0
+Lincoln,2-04,State House,21,DEM,Under Votes,6
 Lincoln,2-04,Ballots Cast,,REP,Ballots Cast,254
 Lincoln,2-04,Ballots Cast,,DEM,Ballots Cast,7
 Lincoln,2-04,Ballots Cast,,NP,Ballots Cast,0
@@ -338,17 +374,23 @@ Lincoln,2-05,State Senate,16,REP,Write-ins,6
 Lincoln,2-05,State Senate,16,REP,Over Votes,0
 Lincoln,2-05,State Senate,16,REP,Under Votes,33
 Lincoln,2-05,State Senate,16,DEM,Write-ins,1
+Lincoln,2-05,State Senate,16,DEM,Over Votes,0
+Lincoln,2-05,State Senate,16,DEM,Under Votes,7
 Lincoln,2-05,State House,21,REP,McKay L. Erickson,114
 Lincoln,2-05,State House,21,REP,T. Deb Wolfley,40
 Lincoln,2-05,State House,21,REP,Write-ins,0
 Lincoln,2-05,State House,21,REP,Over Votes,0
 Lincoln,2-05,State House,21,REP,Under Votes,3
 Lincoln,2-05,State House,21,DEM,Write-ins,0
+Lincoln,2-05,State House,21,DEM,Over Votes,0
+Lincoln,2-05,State House,21,DEM,Under Votes,4
 Lincoln,2-05,State House,22,REP,Andrew P Byron,116
 Lincoln,2-05,State House,22,REP,Write-ins,14
 Lincoln,2-05,State House,22,REP,Over Votes,0
 Lincoln,2-05,State House,22,REP,Under Votes,27
 Lincoln,2-05,State House,22,DEM,Write-ins,1
+Lincoln,2-05,State House,22,DEM,Over Votes,0
+Lincoln,2-05,State House,22,DEM,Under Votes,3
 Lincoln,2-05,Ballots Cast,,REP,Ballots Cast,314
 Lincoln,2-05,Ballots Cast,,DEM,Ballots Cast,8
 Lincoln,2-05,Ballots Cast,,NP,Ballots Cast,0
@@ -377,12 +419,16 @@ Lincoln,2-06,State Senate,16,REP,Write-ins,4
 Lincoln,2-06,State Senate,16,REP,Over Votes,0
 Lincoln,2-06,State Senate,16,REP,Under Votes,28
 Lincoln,2-06,State Senate,16,DEM,Write-ins,1
+Lincoln,2-06,State Senate,16,DEM,Over Votes,0
+Lincoln,2-06,State Senate,16,DEM,Under Votes,6
 Lincoln,2-06,State House,21,REP,McKay L. Erickson,286
 Lincoln,2-06,State House,21,REP,T. Deb Wolfley,72
 Lincoln,2-06,State House,21,REP,Write-ins,0
 Lincoln,2-06,State House,21,REP,Over Votes,0
 Lincoln,2-06,State House,21,REP,Under Votes,1
 Lincoln,2-06,State House,21,DEM,Write-ins,1
+Lincoln,2-06,State House,21,DEM,Over Votes,0
+Lincoln,2-06,State House,21,DEM,Under Votes,6
 Lincoln,2-06,Ballots Cast,,REP,Ballots Cast,359
 Lincoln,2-06,Ballots Cast,,DEM,Ballots Cast,7
 Lincoln,2-06,Ballots Cast,,NP,Ballots Cast,0
@@ -411,12 +457,16 @@ Lincoln,2-07,State Senate,16,REP,Write-ins,18
 Lincoln,2-07,State Senate,16,REP,Over Votes,0
 Lincoln,2-07,State Senate,16,REP,Under Votes,44
 Lincoln,2-07,State Senate,16,DEM,Write-ins,0
+Lincoln,2-07,State Senate,16,DEM,Over Votes,0
+Lincoln,2-07,State Senate,16,DEM,Under Votes,5
 Lincoln,2-07,State House,21,REP,McKay L. Erickson,515
 Lincoln,2-07,State House,21,REP,T. Deb Wolfley,172
 Lincoln,2-07,State House,21,REP,Write-ins,0
 Lincoln,2-07,State House,21,REP,Over Votes,0
 Lincoln,2-07,State House,21,REP,Under Votes,5
 Lincoln,2-07,State House,21,DEM,Write-ins,0
+Lincoln,2-07,State House,21,DEM,Over Votes,0
+Lincoln,2-07,State House,21,DEM,Under Votes,5
 Lincoln,2-07,Ballots Cast,,REP,Ballots Cast,692
 Lincoln,2-07,Ballots Cast,,DEM,Ballots Cast,5
 Lincoln,2-07,Ballots Cast,,NP,Ballots Cast,0
@@ -445,12 +495,16 @@ Lincoln,2-08,State Senate,16,REP,Write-ins,5
 Lincoln,2-08,State Senate,16,REP,Over Votes,0
 Lincoln,2-08,State Senate,16,REP,Under Votes,32
 Lincoln,2-08,State Senate,16,DEM,Write-ins,0
+Lincoln,2-08,State Senate,16,DEM,Over Votes,0
+Lincoln,2-08,State Senate,16,DEM,Under Votes,5
 Lincoln,2-08,State House,21,REP,McKay L. Erickson,219
 Lincoln,2-08,State House,21,REP,T. Deb Wolfley,65
 Lincoln,2-08,State House,21,REP,Write-ins,0
 Lincoln,2-08,State House,21,REP,Over Votes,0
 Lincoln,2-08,State House,21,REP,Under Votes,4
 Lincoln,2-08,State House,21,DEM,Write-ins,1
+Lincoln,2-08,State House,21,DEM,Over Votes,0
+Lincoln,2-08,State House,21,DEM,Under Votes,4
 Lincoln,2-08,Ballots Cast,,REP,Ballots Cast,288
 Lincoln,2-08,Ballots Cast,,DEM,Ballots Cast,5
 Lincoln,2-08,Ballots Cast,,NP,Ballots Cast,0
@@ -481,12 +535,16 @@ Lincoln,2-09,State Senate,14,REP,Write-ins,0
 Lincoln,2-09,State Senate,14,REP,Over Votes,0
 Lincoln,2-09,State Senate,14,REP,Under Votes,7
 Lincoln,2-09,State Senate,14,DEM,Write-ins,1
+Lincoln,2-09,State Senate,14,DEM,Over Votes,0
+Lincoln,2-09,State Senate,14,DEM,Under Votes,8
 Lincoln,2-09,State House,18,REP,Scott Heiner,173
 Lincoln,2-09,State House,18,REP,Thomas D. Crank,28
 Lincoln,2-09,State House,18,REP,Write-ins,0
 Lincoln,2-09,State House,18,REP,Over Votes,0
 Lincoln,2-09,State House,18,REP,Under Votes,7
 Lincoln,2-09,State House,18,DEM,Write-ins,1
+Lincoln,2-09,State House,18,DEM,Over Votes,0
+Lincoln,2-09,State House,18,DEM,Under Votes,8
 Lincoln,2-09,Ballots Cast,,REP,Ballots Cast,208
 Lincoln,2-09,Ballots Cast,,DEM,Ballots Cast,9
 Lincoln,2-09,Ballots Cast,,NP,Ballots Cast,10
@@ -515,11 +573,15 @@ Lincoln,2-10,State Senate,16,REP,Write-ins,8
 Lincoln,2-10,State Senate,16,REP,Over Votes,0
 Lincoln,2-10,State Senate,16,REP,Under Votes,40
 Lincoln,2-10,State Senate,16,DEM,Write-ins,2
+Lincoln,2-10,State Senate,16,DEM,Over Votes,0
+Lincoln,2-10,State Senate,16,DEM,Under Votes,20
 Lincoln,2-10,State House,22,REP,Andrew P Byron,344
 Lincoln,2-10,State House,22,REP,Write-ins,13
 Lincoln,2-10,State House,22,REP,Over Votes,0
 Lincoln,2-10,State House,22,REP,Under Votes,69
 Lincoln,2-10,State House,22,DEM,Write-ins,2
+Lincoln,2-10,State House,22,DEM,Over Votes,0
+Lincoln,2-10,State House,22,DEM,Under Votes,20
 Lincoln,2-10,Ballots Cast,,REP,Ballots Cast,426
 Lincoln,2-10,Ballots Cast,,DEM,Ballots Cast,22
 Lincoln,2-10,Ballots Cast,,NP,Ballots Cast,17

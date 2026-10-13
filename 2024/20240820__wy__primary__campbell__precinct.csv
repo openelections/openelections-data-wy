@@ -24,11 +24,15 @@ Campbell,01-01,State Senate,24,REP,Write-ins,1
 Campbell,01-01,State Senate,24,REP,Over Votes,1
 Campbell,01-01,State Senate,24,REP,Under Votes,12
 Campbell,01-01,State Senate,24,DEM,Write-ins,5
+Campbell,01-01,State Senate,24,DEM,Over Votes,0
+Campbell,01-01,State Senate,24,DEM,Under Votes,19
 Campbell,01-01,State House,53,REP,Christopher R. Knapp,241
 Campbell,01-01,State House,53,REP,Write-ins,3
 Campbell,01-01,State House,53,REP,Over Votes,0
 Campbell,01-01,State House,53,REP,Under Votes,33
 Campbell,01-01,State House,53,DEM,Write-ins,1
+Campbell,01-01,State House,53,DEM,Over Votes,0
+Campbell,01-01,State House,53,DEM,Under Votes,23
 Campbell,01-01,Ballots Cast,,REP,Ballots Cast,277
 Campbell,01-01,Ballots Cast,,DEM,Ballots Cast,24
 Campbell,01-01,Ballots Cast,,NP,Ballots Cast,6
@@ -57,6 +61,8 @@ Campbell,01-02,State House,52,REP,Write-ins,1
 Campbell,01-02,State House,52,REP,Over Votes,0
 Campbell,01-02,State House,52,REP,Under Votes,11
 Campbell,01-02,State House,52,DEM,Write-ins,1
+Campbell,01-02,State House,52,DEM,Over Votes,0
+Campbell,01-02,State House,52,DEM,Under Votes,0
 Campbell,01-02,Ballots Cast,,REP,Ballots Cast,36
 Campbell,01-02,Ballots Cast,,DEM,Ballots Cast,1
 Campbell,01-02,Ballots Cast,,NP,Ballots Cast,1
@@ -86,11 +92,15 @@ Campbell,01-03,State Senate,24,REP,Write-ins,1
 Campbell,01-03,State Senate,24,REP,Over Votes,1
 Campbell,01-03,State Senate,24,REP,Under Votes,5
 Campbell,01-03,State Senate,24,DEM,Write-ins,1
+Campbell,01-03,State Senate,24,DEM,Over Votes,0
+Campbell,01-03,State Senate,24,DEM,Under Votes,5
 Campbell,01-03,State House,53,REP,Christopher R. Knapp,71
 Campbell,01-03,State House,53,REP,Write-ins,2
 Campbell,01-03,State House,53,REP,Over Votes,0
 Campbell,01-03,State House,53,REP,Under Votes,12
 Campbell,01-03,State House,53,DEM,Write-ins,1
+Campbell,01-03,State House,53,DEM,Over Votes,0
+Campbell,01-03,State House,53,DEM,Under Votes,5
 Campbell,01-03,Ballots Cast,,REP,Ballots Cast,85
 Campbell,01-03,Ballots Cast,,DEM,Ballots Cast,6
 Campbell,01-03,Ballots Cast,,NP,Ballots Cast,1
@@ -120,11 +130,15 @@ Campbell,01-05,State Senate,24,REP,Write-ins,0
 Campbell,01-05,State Senate,24,REP,Over Votes,0
 Campbell,01-05,State Senate,24,REP,Under Votes,10
 Campbell,01-05,State Senate,24,DEM,Write-ins,2
+Campbell,01-05,State Senate,24,DEM,Over Votes,0
+Campbell,01-05,State Senate,24,DEM,Under Votes,12
 Campbell,01-05,State House,53,REP,Christopher R. Knapp,206
 Campbell,01-05,State House,53,REP,Write-ins,2
 Campbell,01-05,State House,53,REP,Over Votes,0
 Campbell,01-05,State House,53,REP,Under Votes,34
 Campbell,01-05,State House,53,DEM,Write-ins,1
+Campbell,01-05,State House,53,DEM,Over Votes,0
+Campbell,01-05,State House,53,DEM,Under Votes,13
 Campbell,01-05,Ballots Cast,,REP,Ballots Cast,242
 Campbell,01-05,Ballots Cast,,DEM,Ballots Cast,14
 Campbell,01-05,Ballots Cast,,NP,Ballots Cast,4
@@ -154,11 +168,15 @@ Campbell,01-07,State Senate,24,REP,Write-ins,1
 Campbell,01-07,State Senate,24,REP,Over Votes,0
 Campbell,01-07,State Senate,24,REP,Under Votes,13
 Campbell,01-07,State Senate,24,DEM,Write-ins,3
+Campbell,01-07,State Senate,24,DEM,Over Votes,0
+Campbell,01-07,State Senate,24,DEM,Under Votes,6
 Campbell,01-07,State House,53,REP,Christopher R. Knapp,238
 Campbell,01-07,State House,53,REP,Write-ins,4
 Campbell,01-07,State House,53,REP,Over Votes,0
 Campbell,01-07,State House,53,REP,Under Votes,44
 Campbell,01-07,State House,53,DEM,Write-ins,2
+Campbell,01-07,State House,53,DEM,Over Votes,0
+Campbell,01-07,State House,53,DEM,Under Votes,7
 Campbell,01-07,Ballots Cast,,REP,Ballots Cast,286
 Campbell,01-07,Ballots Cast,,DEM,Ballots Cast,9
 Campbell,01-07,Ballots Cast,,NP,Ballots Cast,3
@@ -188,11 +206,15 @@ Campbell,01-09,State Senate,24,REP,Write-ins,2
 Campbell,01-09,State Senate,24,REP,Over Votes,0
 Campbell,01-09,State Senate,24,REP,Under Votes,5
 Campbell,01-09,State Senate,24,DEM,Write-ins,1
+Campbell,01-09,State Senate,24,DEM,Over Votes,0
+Campbell,01-09,State Senate,24,DEM,Under Votes,8
 Campbell,01-09,State House,53,REP,Christopher R. Knapp,199
 Campbell,01-09,State House,53,REP,Write-ins,4
 Campbell,01-09,State House,53,REP,Over Votes,1
 Campbell,01-09,State House,53,REP,Under Votes,31
 Campbell,01-09,State House,53,DEM,Write-ins,1
+Campbell,01-09,State House,53,DEM,Over Votes,0
+Campbell,01-09,State House,53,DEM,Under Votes,8
 Campbell,01-09,Ballots Cast,,REP,Ballots Cast,235
 Campbell,01-09,Ballots Cast,,DEM,Ballots Cast,9
 Campbell,01-09,Ballots Cast,,NP,Ballots Cast,10
@@ -221,6 +243,8 @@ Campbell,01-12,State House,52,REP,Write-ins,1
 Campbell,01-12,State House,52,REP,Over Votes,0
 Campbell,01-12,State House,52,REP,Under Votes,24
 Campbell,01-12,State House,52,DEM,Write-ins,2
+Campbell,01-12,State House,52,DEM,Over Votes,0
+Campbell,01-12,State House,52,DEM,Under Votes,4
 Campbell,01-12,Ballots Cast,,REP,Ballots Cast,207
 Campbell,01-12,Ballots Cast,,DEM,Ballots Cast,6
 Campbell,01-12,Ballots Cast,,NP,Ballots Cast,7
@@ -250,12 +274,16 @@ Campbell,01-14,State Senate,24,REP,Write-ins,0
 Campbell,01-14,State Senate,24,REP,Over Votes,0
 Campbell,01-14,State Senate,24,REP,Under Votes,7
 Campbell,01-14,State Senate,24,DEM,Write-ins,0
+Campbell,01-14,State Senate,24,DEM,Over Votes,0
+Campbell,01-14,State Senate,24,DEM,Under Votes,6
 Campbell,01-14,State House,32,REP,George Dunlap,60
 Campbell,01-14,State House,32,REP,Ken L. Clouston,54
 Campbell,01-14,State House,32,REP,Write-ins,3
 Campbell,01-14,State House,32,REP,Over Votes,0
 Campbell,01-14,State House,32,REP,Under Votes,0
 Campbell,01-14,State House,32,DEM,Write-ins,0
+Campbell,01-14,State House,32,DEM,Over Votes,0
+Campbell,01-14,State House,32,DEM,Under Votes,6
 Campbell,01-14,Ballots Cast,,REP,Ballots Cast,117
 Campbell,01-14,Ballots Cast,,DEM,Ballots Cast,6
 Campbell,01-14,Ballots Cast,,NP,Ballots Cast,2
@@ -285,12 +313,16 @@ Campbell,01-15,State Senate,24,REP,Write-ins,0
 Campbell,01-15,State Senate,24,REP,Over Votes,0
 Campbell,01-15,State Senate,24,REP,Under Votes,21
 Campbell,01-15,State Senate,24,DEM,Write-ins,4
+Campbell,01-15,State Senate,24,DEM,Over Votes,0
+Campbell,01-15,State Senate,24,DEM,Under Votes,13
 Campbell,01-15,State House,32,REP,George Dunlap,173
 Campbell,01-15,State House,32,REP,Ken L. Clouston,260
 Campbell,01-15,State House,32,REP,Write-ins,0
 Campbell,01-15,State House,32,REP,Over Votes,1
 Campbell,01-15,State House,32,REP,Under Votes,9
 Campbell,01-15,State House,32,DEM,Write-ins,6
+Campbell,01-15,State House,32,DEM,Over Votes,0
+Campbell,01-15,State House,32,DEM,Under Votes,11
 Campbell,01-15,Ballots Cast,,REP,Ballots Cast,443
 Campbell,01-15,Ballots Cast,,DEM,Ballots Cast,17
 Campbell,01-15,Ballots Cast,,NP,Ballots Cast,8
@@ -319,12 +351,16 @@ Campbell,01-16,State Senate,24,REP,Write-ins,4
 Campbell,01-16,State Senate,24,REP,Over Votes,1
 Campbell,01-16,State Senate,24,REP,Under Votes,6
 Campbell,01-16,State Senate,24,DEM,Write-ins,1
+Campbell,01-16,State Senate,24,DEM,Over Votes,0
+Campbell,01-16,State Senate,24,DEM,Under Votes,4
 Campbell,01-16,State House,32,REP,George Dunlap,74
 Campbell,01-16,State House,32,REP,Ken L. Clouston,173
 Campbell,01-16,State House,32,REP,Write-ins,2
 Campbell,01-16,State House,32,REP,Over Votes,1
 Campbell,01-16,State House,32,REP,Under Votes,1
 Campbell,01-16,State House,32,DEM,Write-ins,1
+Campbell,01-16,State House,32,DEM,Over Votes,0
+Campbell,01-16,State House,32,DEM,Under Votes,4
 Campbell,01-16,Ballots Cast,,REP,Ballots Cast,251
 Campbell,01-16,Ballots Cast,,DEM,Ballots Cast,5
 Campbell,01-16,Ballots Cast,,NP,Ballots Cast,12
@@ -353,6 +389,8 @@ Campbell,01-17,State House,31,REP,Write-ins,10
 Campbell,01-17,State House,31,REP,Over Votes,0
 Campbell,01-17,State House,31,REP,Under Votes,33
 Campbell,01-17,State House,31,DEM,Write-ins,0
+Campbell,01-17,State House,31,DEM,Over Votes,0
+Campbell,01-17,State House,31,DEM,Under Votes,11
 Campbell,01-17,Ballots Cast,,REP,Ballots Cast,258
 Campbell,01-17,Ballots Cast,,DEM,Ballots Cast,11
 Campbell,01-17,Ballots Cast,,NP,Ballots Cast,4
@@ -381,6 +419,8 @@ Campbell,01-18,State House,31,REP,Write-ins,10
 Campbell,01-18,State House,31,REP,Over Votes,0
 Campbell,01-18,State House,31,REP,Under Votes,40
 Campbell,01-18,State House,31,DEM,Write-ins,1
+Campbell,01-18,State House,31,DEM,Over Votes,0
+Campbell,01-18,State House,31,DEM,Under Votes,7
 Campbell,01-18,Ballots Cast,,REP,Ballots Cast,185
 Campbell,01-18,Ballots Cast,,DEM,Ballots Cast,8
 Campbell,01-18,Ballots Cast,,NP,Ballots Cast,4
@@ -410,12 +450,16 @@ Campbell,01-19,State Senate,24,REP,Write-ins,1
 Campbell,01-19,State Senate,24,REP,Over Votes,0
 Campbell,01-19,State Senate,24,REP,Under Votes,14
 Campbell,01-19,State Senate,24,DEM,Write-ins,0
+Campbell,01-19,State Senate,24,DEM,Over Votes,0
+Campbell,01-19,State Senate,24,DEM,Under Votes,5
 Campbell,01-19,State House,32,REP,George Dunlap,152
 Campbell,01-19,State House,32,REP,Ken L. Clouston,180
 Campbell,01-19,State House,32,REP,Write-ins,0
 Campbell,01-19,State House,32,REP,Over Votes,0
 Campbell,01-19,State House,32,REP,Under Votes,7
 Campbell,01-19,State House,32,DEM,Write-ins,0
+Campbell,01-19,State House,32,DEM,Over Votes,0
+Campbell,01-19,State House,32,DEM,Under Votes,5
 Campbell,01-19,Ballots Cast,,REP,Ballots Cast,339
 Campbell,01-19,Ballots Cast,,DEM,Ballots Cast,5
 Campbell,01-19,Ballots Cast,,NP,Ballots Cast,6
@@ -445,12 +489,16 @@ Campbell,01-20,State Senate,24,REP,Write-ins,0
 Campbell,01-20,State Senate,24,REP,Over Votes,0
 Campbell,01-20,State Senate,24,REP,Under Votes,10
 Campbell,01-20,State Senate,24,DEM,Write-ins,3
+Campbell,01-20,State Senate,24,DEM,Over Votes,0
+Campbell,01-20,State Senate,24,DEM,Under Votes,7
 Campbell,01-20,State House,32,REP,George Dunlap,98
 Campbell,01-20,State House,32,REP,Ken L. Clouston,148
 Campbell,01-20,State House,32,REP,Write-ins,0
 Campbell,01-20,State House,32,REP,Over Votes,0
 Campbell,01-20,State House,32,REP,Under Votes,4
 Campbell,01-20,State House,32,DEM,Write-ins,3
+Campbell,01-20,State House,32,DEM,Over Votes,0
+Campbell,01-20,State House,32,DEM,Under Votes,7
 Campbell,01-20,Ballots Cast,,REP,Ballots Cast,250
 Campbell,01-20,Ballots Cast,,DEM,Ballots Cast,10
 Campbell,01-20,Ballots Cast,,NP,Ballots Cast,8
@@ -479,6 +527,8 @@ Campbell,01-21,State House,31,REP,Write-ins,9
 Campbell,01-21,State House,31,REP,Over Votes,0
 Campbell,01-21,State House,31,REP,Under Votes,29
 Campbell,01-21,State House,31,DEM,Write-ins,1
+Campbell,01-21,State House,31,DEM,Over Votes,0
+Campbell,01-21,State House,31,DEM,Under Votes,3
 Campbell,01-21,Ballots Cast,,REP,Ballots Cast,190
 Campbell,01-21,Ballots Cast,,DEM,Ballots Cast,4
 Campbell,01-21,Ballots Cast,,NP,Ballots Cast,7
@@ -507,6 +557,8 @@ Campbell,01-22,State House,31,REP,Write-ins,4
 Campbell,01-22,State House,31,REP,Over Votes,0
 Campbell,01-22,State House,31,REP,Under Votes,9
 Campbell,01-22,State House,31,DEM,Write-ins,0
+Campbell,01-22,State House,31,DEM,Over Votes,0
+Campbell,01-22,State House,31,DEM,Under Votes,0
 Campbell,01-22,Ballots Cast,,REP,Ballots Cast,86
 Campbell,01-22,Ballots Cast,,DEM,Ballots Cast,0
 Campbell,01-22,Ballots Cast,,NP,Ballots Cast,3
@@ -535,6 +587,8 @@ Campbell,01-23,State House,31,REP,Write-ins,22
 Campbell,01-23,State House,31,REP,Over Votes,0
 Campbell,01-23,State House,31,REP,Under Votes,59
 Campbell,01-23,State House,31,DEM,Write-ins,0
+Campbell,01-23,State House,31,DEM,Over Votes,0
+Campbell,01-23,State House,31,DEM,Under Votes,5
 Campbell,01-23,Ballots Cast,,REP,Ballots Cast,228
 Campbell,01-23,Ballots Cast,,DEM,Ballots Cast,5
 Campbell,01-23,Ballots Cast,,NP,Ballots Cast,2
@@ -563,6 +617,8 @@ Campbell,01-24,State House,31,REP,Write-ins,8
 Campbell,01-24,State House,31,REP,Over Votes,0
 Campbell,01-24,State House,31,REP,Under Votes,26
 Campbell,01-24,State House,31,DEM,Write-ins,2
+Campbell,01-24,State House,31,DEM,Over Votes,0
+Campbell,01-24,State House,31,DEM,Under Votes,4
 Campbell,01-24,Ballots Cast,,REP,Ballots Cast,157
 Campbell,01-24,Ballots Cast,,DEM,Ballots Cast,6
 Campbell,01-24,Ballots Cast,,NP,Ballots Cast,4
@@ -592,12 +648,16 @@ Campbell,01-25,State Senate,24,REP,Write-ins,1
 Campbell,01-25,State Senate,24,REP,Over Votes,0
 Campbell,01-25,State Senate,24,REP,Under Votes,10
 Campbell,01-25,State Senate,24,DEM,Write-ins,1
+Campbell,01-25,State Senate,24,DEM,Over Votes,0
+Campbell,01-25,State Senate,24,DEM,Under Votes,3
 Campbell,01-25,State House,32,REP,George Dunlap,137
 Campbell,01-25,State House,32,REP,Ken L. Clouston,231
 Campbell,01-25,State House,32,REP,Write-ins,0
 Campbell,01-25,State House,32,REP,Over Votes,0
 Campbell,01-25,State House,32,REP,Under Votes,2
 Campbell,01-25,State House,32,DEM,Write-ins,1
+Campbell,01-25,State House,32,DEM,Over Votes,0
+Campbell,01-25,State House,32,DEM,Under Votes,3
 Campbell,01-25,Ballots Cast,,REP,Ballots Cast,370
 Campbell,01-25,Ballots Cast,,DEM,Ballots Cast,4
 Campbell,01-25,Ballots Cast,,NP,Ballots Cast,5
@@ -626,6 +686,8 @@ Campbell,01-26,State House,3,REP,Write-ins,3
 Campbell,01-26,State House,3,REP,Over Votes,0
 Campbell,01-26,State House,3,REP,Under Votes,10
 Campbell,01-26,State House,3,DEM,Write-ins,0
+Campbell,01-26,State House,3,DEM,Over Votes,0
+Campbell,01-26,State House,3,DEM,Under Votes,2
 Campbell,01-26,Ballots Cast,,REP,Ballots Cast,99
 Campbell,01-26,Ballots Cast,,DEM,Ballots Cast,2
 Campbell,01-26,Ballots Cast,,NP,Ballots Cast,1
@@ -654,6 +716,8 @@ Campbell,01-27,State House,3,REP,Write-ins,2
 Campbell,01-27,State House,3,REP,Over Votes,0
 Campbell,01-27,State House,3,REP,Under Votes,46
 Campbell,01-27,State House,3,DEM,Write-ins,0
+Campbell,01-27,State House,3,DEM,Over Votes,0
+Campbell,01-27,State House,3,DEM,Under Votes,2
 Campbell,01-27,Ballots Cast,,REP,Ballots Cast,285
 Campbell,01-27,Ballots Cast,,DEM,Ballots Cast,2
 Campbell,01-27,Ballots Cast,,NP,Ballots Cast,1
@@ -682,6 +746,8 @@ Campbell,02-01,State House,52,REP,Write-ins,0
 Campbell,02-01,State House,52,REP,Over Votes,0
 Campbell,02-01,State House,52,REP,Under Votes,18
 Campbell,02-01,State House,52,DEM,Write-ins,0
+Campbell,02-01,State House,52,DEM,Over Votes,0
+Campbell,02-01,State House,52,DEM,Under Votes,2
 Campbell,02-01,Ballots Cast,,REP,Ballots Cast,128
 Campbell,02-01,Ballots Cast,,DEM,Ballots Cast,2
 Campbell,02-01,Ballots Cast,,NP,Ballots Cast,0
@@ -710,6 +776,8 @@ Campbell,03-01,State House,3,REP,Write-ins,6
 Campbell,03-01,State House,3,REP,Over Votes,0
 Campbell,03-01,State House,3,REP,Under Votes,31
 Campbell,03-01,State House,3,DEM,Write-ins,0
+Campbell,03-01,State House,3,DEM,Over Votes,0
+Campbell,03-01,State House,3,DEM,Under Votes,2
 Campbell,03-01,Ballots Cast,,REP,Ballots Cast,344
 Campbell,03-01,Ballots Cast,,DEM,Ballots Cast,2
 Campbell,03-01,Ballots Cast,,NP,Ballots Cast,0
@@ -738,6 +806,8 @@ Campbell,04-01,State House,52,REP,Write-ins,4
 Campbell,04-01,State House,52,REP,Over Votes,0
 Campbell,04-01,State House,52,REP,Under Votes,40
 Campbell,04-01,State House,52,DEM,Write-ins,1
+Campbell,04-01,State House,52,DEM,Over Votes,0
+Campbell,04-01,State House,52,DEM,Under Votes,0
 Campbell,04-01,Ballots Cast,,REP,Ballots Cast,370
 Campbell,04-01,Ballots Cast,,DEM,Ballots Cast,1
 Campbell,04-01,Ballots Cast,,NP,Ballots Cast,0
@@ -766,6 +836,8 @@ Campbell,06-01,State House,52,REP,Write-ins,0
 Campbell,06-01,State House,52,REP,Over Votes,0
 Campbell,06-01,State House,52,REP,Under Votes,25
 Campbell,06-01,State House,52,DEM,Write-ins,0
+Campbell,06-01,State House,52,DEM,Over Votes,0
+Campbell,06-01,State House,52,DEM,Under Votes,0
 Campbell,06-01,Ballots Cast,,REP,Ballots Cast,199
 Campbell,06-01,Ballots Cast,,DEM,Ballots Cast,0
 Campbell,06-01,Ballots Cast,,NP,Ballots Cast,0
@@ -794,6 +866,8 @@ Campbell,07-01,State House,52,REP,Write-ins,2
 Campbell,07-01,State House,52,REP,Over Votes,0
 Campbell,07-01,State House,52,REP,Under Votes,0
 Campbell,07-01,State House,52,DEM,Write-ins,0
+Campbell,07-01,State House,52,DEM,Over Votes,0
+Campbell,07-01,State House,52,DEM,Under Votes,4
 Campbell,07-01,Ballots Cast,,REP,Ballots Cast,91
 Campbell,07-01,Ballots Cast,,DEM,Ballots Cast,4
 Campbell,07-01,Ballots Cast,,NP,Ballots Cast,0
@@ -822,6 +896,8 @@ Campbell,08-01,State House,52,REP,Write-ins,1
 Campbell,08-01,State House,52,REP,Over Votes,0
 Campbell,08-01,State House,52,REP,Under Votes,1
 Campbell,08-01,State House,52,DEM,Write-ins,0
+Campbell,08-01,State House,52,DEM,Over Votes,0
+Campbell,08-01,State House,52,DEM,Under Votes,0
 Campbell,08-01,Ballots Cast,,REP,Ballots Cast,72
 Campbell,08-01,Ballots Cast,,DEM,Ballots Cast,0
 Campbell,08-01,Ballots Cast,,NP,Ballots Cast,0
@@ -851,12 +927,16 @@ Campbell,09-01,State Senate,24,REP,Write-ins,0
 Campbell,09-01,State Senate,24,REP,Over Votes,0
 Campbell,09-01,State Senate,24,REP,Under Votes,2
 Campbell,09-01,State Senate,24,DEM,Write-ins,0
+Campbell,09-01,State Senate,24,DEM,Over Votes,0
+Campbell,09-01,State Senate,24,DEM,Under Votes,0
 Campbell,09-01,State House,32,REP,George Dunlap,12
 Campbell,09-01,State House,32,REP,Ken L. Clouston,16
 Campbell,09-01,State House,32,REP,Write-ins,0
 Campbell,09-01,State House,32,REP,Over Votes,0
 Campbell,09-01,State House,32,REP,Under Votes,0
 Campbell,09-01,State House,32,DEM,Write-ins,0
+Campbell,09-01,State House,32,DEM,Over Votes,0
+Campbell,09-01,State House,32,DEM,Under Votes,0
 Campbell,09-01,Ballots Cast,,REP,Ballots Cast,28
 Campbell,09-01,Ballots Cast,,DEM,Ballots Cast,0
 Campbell,09-01,Ballots Cast,,NP,Ballots Cast,0
@@ -885,6 +965,8 @@ Campbell,13-01,State House,3,REP,Write-ins,3
 Campbell,13-01,State House,3,REP,Over Votes,0
 Campbell,13-01,State House,3,REP,Under Votes,12
 Campbell,13-01,State House,3,DEM,Write-ins,0
+Campbell,13-01,State House,3,DEM,Over Votes,0
+Campbell,13-01,State House,3,DEM,Under Votes,0
 Campbell,13-01,Ballots Cast,,REP,Ballots Cast,111
 Campbell,13-01,Ballots Cast,,DEM,Ballots Cast,0
 Campbell,13-01,Ballots Cast,,NP,Ballots Cast,0
@@ -913,6 +995,8 @@ Campbell,14-01,State House,3,REP,Write-ins,2
 Campbell,14-01,State House,3,REP,Over Votes,0
 Campbell,14-01,State House,3,REP,Under Votes,10
 Campbell,14-01,State House,3,DEM,Write-ins,0
+Campbell,14-01,State House,3,DEM,Over Votes,0
+Campbell,14-01,State House,3,DEM,Under Votes,8
 Campbell,14-01,Ballots Cast,,REP,Ballots Cast,208
 Campbell,14-01,Ballots Cast,,DEM,Ballots Cast,8
 Campbell,14-01,Ballots Cast,,NP,Ballots Cast,6
@@ -941,6 +1025,8 @@ Campbell,14-02,State House,3,REP,Write-ins,1
 Campbell,14-02,State House,3,REP,Over Votes,0
 Campbell,14-02,State House,3,REP,Under Votes,8
 Campbell,14-02,State House,3,DEM,Write-ins,0
+Campbell,14-02,State House,3,DEM,Over Votes,0
+Campbell,14-02,State House,3,DEM,Under Votes,2
 Campbell,14-02,Ballots Cast,,REP,Ballots Cast,148
 Campbell,14-02,Ballots Cast,,DEM,Ballots Cast,2
 Campbell,14-02,Ballots Cast,,NP,Ballots Cast,0
@@ -969,6 +1055,8 @@ Campbell,18-01,State House,52,REP,Write-ins,1
 Campbell,18-01,State House,52,REP,Over Votes,0
 Campbell,18-01,State House,52,REP,Under Votes,16
 Campbell,18-01,State House,52,DEM,Write-ins,0
+Campbell,18-01,State House,52,DEM,Over Votes,0
+Campbell,18-01,State House,52,DEM,Under Votes,2
 Campbell,18-01,Ballots Cast,,REP,Ballots Cast,164
 Campbell,18-01,Ballots Cast,,DEM,Ballots Cast,2
 Campbell,18-01,Ballots Cast,,NP,Ballots Cast,0
@@ -997,6 +1085,8 @@ Campbell,19-01,State House,3,REP,Write-ins,3
 Campbell,19-01,State House,3,REP,Over Votes,0
 Campbell,19-01,State House,3,REP,Under Votes,18
 Campbell,19-01,State House,3,DEM,Write-ins,0
+Campbell,19-01,State House,3,DEM,Over Votes,0
+Campbell,19-01,State House,3,DEM,Under Votes,2
 Campbell,19-01,Ballots Cast,,REP,Ballots Cast,119
 Campbell,19-01,Ballots Cast,,DEM,Ballots Cast,2
 Campbell,19-01,Ballots Cast,,NP,Ballots Cast,0
@@ -1025,6 +1115,8 @@ Campbell,22-01,State House,52,REP,Write-ins,4
 Campbell,22-01,State House,52,REP,Over Votes,0
 Campbell,22-01,State House,52,REP,Under Votes,22
 Campbell,22-01,State House,52,DEM,Write-ins,1
+Campbell,22-01,State House,52,DEM,Over Votes,0
+Campbell,22-01,State House,52,DEM,Under Votes,4
 Campbell,22-01,Ballots Cast,,REP,Ballots Cast,213
 Campbell,22-01,Ballots Cast,,DEM,Ballots Cast,5
 Campbell,22-01,Ballots Cast,,NP,Ballots Cast,0
@@ -1053,6 +1145,8 @@ Campbell,23-01,State House,3,REP,Write-ins,3
 Campbell,23-01,State House,3,REP,Over Votes,0
 Campbell,23-01,State House,3,REP,Under Votes,29
 Campbell,23-01,State House,3,DEM,Write-ins,0
+Campbell,23-01,State House,3,DEM,Over Votes,0
+Campbell,23-01,State House,3,DEM,Under Votes,1
 Campbell,23-01,Ballots Cast,,REP,Ballots Cast,310
 Campbell,23-01,Ballots Cast,,DEM,Ballots Cast,1
 Campbell,23-01,Ballots Cast,,NP,Ballots Cast,0
@@ -1081,6 +1175,8 @@ Campbell,24-01,State House,3,REP,Write-ins,0
 Campbell,24-01,State House,3,REP,Over Votes,0
 Campbell,24-01,State House,3,REP,Under Votes,1
 Campbell,24-01,State House,3,DEM,Write-ins,0
+Campbell,24-01,State House,3,DEM,Over Votes,0
+Campbell,24-01,State House,3,DEM,Under Votes,0
 Campbell,24-01,Ballots Cast,,REP,Ballots Cast,19
 Campbell,24-01,Ballots Cast,,DEM,Ballots Cast,0
 Campbell,24-01,Ballots Cast,,NP,Ballots Cast,0
@@ -1109,6 +1205,8 @@ Campbell,26-01,State House,31,REP,Write-ins,0
 Campbell,26-01,State House,31,REP,Over Votes,0
 Campbell,26-01,State House,31,REP,Under Votes,6
 Campbell,26-01,State House,31,DEM,Write-ins,0
+Campbell,26-01,State House,31,DEM,Over Votes,0
+Campbell,26-01,State House,31,DEM,Under Votes,0
 Campbell,26-01,Ballots Cast,,REP,Ballots Cast,40
 Campbell,26-01,Ballots Cast,,DEM,Ballots Cast,0
 Campbell,26-01,Ballots Cast,,NP,Ballots Cast,0

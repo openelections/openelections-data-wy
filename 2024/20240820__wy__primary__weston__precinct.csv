@@ -24,6 +24,8 @@ Weston,1-1,State House,2,REP,Write-ins,3
 Weston,1-1,State House,2,REP,Over Votes,0
 Weston,1-1,State House,2,REP,Under Votes,8
 Weston,1-1,State House,2,DEM,Write-ins,1
+Weston,1-1,State House,2,DEM,Over Votes,0
+Weston,1-1,State House,2,DEM,Under Votes,10
 Weston,1-1,Ballots Cast,,REP,Ballots Cast,436
 Weston,1-1,Ballots Cast,,DEM,Ballots Cast,11
 Weston,1-1,Ballots Cast,,NP,Ballots Cast,0
@@ -52,6 +54,8 @@ Weston,1-2,State House,1,REP,Write-ins,6
 Weston,1-2,State House,1,REP,Over Votes,0
 Weston,1-2,State House,1,REP,Under Votes,34
 Weston,1-2,State House,1,DEM,Write-ins,1
+Weston,1-2,State House,1,DEM,Over Votes,0
+Weston,1-2,State House,1,DEM,Under Votes,11
 Weston,1-2,Ballots Cast,,REP,Ballots Cast,278
 Weston,1-2,Ballots Cast,,DEM,Ballots Cast,12
 Weston,1-2,Ballots Cast,,NP,Ballots Cast,0
@@ -80,6 +84,8 @@ Weston,2-1,State House,1,REP,Write-ins,3
 Weston,2-1,State House,1,REP,Over Votes,0
 Weston,2-1,State House,1,REP,Under Votes,9
 Weston,2-1,State House,1,DEM,Write-ins,0
+Weston,2-1,State House,1,DEM,Over Votes,0
+Weston,2-1,State House,1,DEM,Under Votes,0
 Weston,2-1,Ballots Cast,,REP,Ballots Cast,94
 Weston,2-1,Ballots Cast,,DEM,Ballots Cast,0
 Weston,2-1,Ballots Cast,,NP,Ballots Cast,0
@@ -108,6 +114,8 @@ Weston,3-1,State House,1,REP,Write-ins,5
 Weston,3-1,State House,1,REP,Over Votes,0
 Weston,3-1,State House,1,REP,Under Votes,21
 Weston,3-1,State House,1,DEM,Write-ins,0
+Weston,3-1,State House,1,DEM,Over Votes,0
+Weston,3-1,State House,1,DEM,Under Votes,2
 Weston,3-1,Ballots Cast,,REP,Ballots Cast,147
 Weston,3-1,Ballots Cast,,DEM,Ballots Cast,2
 Weston,3-1,Ballots Cast,,NP,Ballots Cast,0
@@ -136,6 +144,8 @@ Weston,4-1,State House,1,REP,Write-ins,8
 Weston,4-1,State House,1,REP,Over Votes,0
 Weston,4-1,State House,1,REP,Under Votes,32
 Weston,4-1,State House,1,DEM,Write-ins,0
+Weston,4-1,State House,1,DEM,Over Votes,0
+Weston,4-1,State House,1,DEM,Under Votes,4
 Weston,4-1,Ballots Cast,,REP,Ballots Cast,244
 Weston,4-1,Ballots Cast,,DEM,Ballots Cast,4
 Weston,4-1,Ballots Cast,,NP,Ballots Cast,4
@@ -165,6 +175,8 @@ Weston,5-1,State House,2,REP,Write-ins,0
 Weston,5-1,State House,2,REP,Over Votes,0
 Weston,5-1,State House,2,REP,Under Votes,6
 Weston,5-1,State House,2,DEM,Write-ins,1
+Weston,5-1,State House,2,DEM,Over Votes,0
+Weston,5-1,State House,2,DEM,Under Votes,9
 Weston,5-1,Ballots Cast,,REP,Ballots Cast,239
 Weston,5-1,Ballots Cast,,DEM,Ballots Cast,10
 Weston,5-1,Ballots Cast,,NP,Ballots Cast,9
@@ -194,6 +206,8 @@ Weston,5-2,State House,2,REP,Write-ins,1
 Weston,5-2,State House,2,REP,Over Votes,2
 Weston,5-2,State House,2,REP,Under Votes,6
 Weston,5-2,State House,2,DEM,Write-ins,2
+Weston,5-2,State House,2,DEM,Over Votes,0
+Weston,5-2,State House,2,DEM,Under Votes,2
 Weston,5-2,Ballots Cast,,REP,Ballots Cast,258
 Weston,5-2,Ballots Cast,,DEM,Ballots Cast,4
 Weston,5-2,Ballots Cast,,NP,Ballots Cast,10
@@ -223,6 +237,8 @@ Weston,5-3,State House,2,REP,Write-ins,0
 Weston,5-3,State House,2,REP,Over Votes,0
 Weston,5-3,State House,2,REP,Under Votes,6
 Weston,5-3,State House,2,DEM,Write-ins,1
+Weston,5-3,State House,2,DEM,Over Votes,0
+Weston,5-3,State House,2,DEM,Under Votes,5
 Weston,5-3,Ballots Cast,,REP,Ballots Cast,253
 Weston,5-3,Ballots Cast,,DEM,Ballots Cast,6
 Weston,5-3,Ballots Cast,,NP,Ballots Cast,5

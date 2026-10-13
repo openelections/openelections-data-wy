@@ -33,6 +33,8 @@ Laramie,01-01,State House,44,REP,Write-ins,0
 Laramie,01-01,State House,44,REP,Over Votes,1
 Laramie,01-01,State House,44,REP,Under Votes,2
 Laramie,01-01,State House,44,DEM,Write-ins,25
+Laramie,01-01,State House,44,DEM,Over Votes,0
+Laramie,01-01,State House,44,DEM,Under Votes,65
 Laramie,01-01,Ballots Cast,,REP,Ballots Cast,335
 Laramie,01-01,Ballots Cast,,DEM,Ballots Cast,90
 Laramie,01-01,Ballots Cast,,NP,Ballots Cast,24
@@ -71,6 +73,8 @@ Laramie,01-02,State House,44,REP,Write-ins,1
 Laramie,01-02,State House,44,REP,Over Votes,0
 Laramie,01-02,State House,44,REP,Under Votes,12
 Laramie,01-02,State House,44,DEM,Write-ins,24
+Laramie,01-02,State House,44,DEM,Over Votes,0
+Laramie,01-02,State House,44,DEM,Under Votes,69
 Laramie,01-02,Ballots Cast,,REP,Ballots Cast,226
 Laramie,01-02,Ballots Cast,,DEM,Ballots Cast,93
 Laramie,01-02,Ballots Cast,,NP,Ballots Cast,13
@@ -244,6 +248,8 @@ Laramie,01-07,State House,43,REP,Write-ins,0
 Laramie,01-07,State House,43,REP,Over Votes,0
 Laramie,01-07,State House,43,REP,Under Votes,0
 Laramie,01-07,State House,43,DEM,Write-ins,1
+Laramie,01-07,State House,43,DEM,Over Votes,0
+Laramie,01-07,State House,43,DEM,Under Votes,7
 Laramie,01-07,Ballots Cast,,REP,Ballots Cast,37
 Laramie,01-07,Ballots Cast,,DEM,Ballots Cast,8
 Laramie,01-07,Ballots Cast,,NP,Ballots Cast,3
@@ -273,6 +279,8 @@ Laramie,02-01,State Senate,4,REP,Write-ins,7
 Laramie,02-01,State Senate,4,REP,Over Votes,0
 Laramie,02-01,State Senate,4,REP,Under Votes,39
 Laramie,02-01,State Senate,4,DEM,Write-ins,16
+Laramie,02-01,State Senate,4,DEM,Over Votes,0
+Laramie,02-01,State Senate,4,DEM,Under Votes,98
 Laramie,02-01,State House,7,REP,Bob Nicholas,464
 Laramie,02-01,State House,7,REP,Kathy Russell,257
 Laramie,02-01,State House,7,REP,Write-ins,3
@@ -311,6 +319,8 @@ Laramie,02-02,State Senate,4,REP,Write-ins,9
 Laramie,02-02,State Senate,4,REP,Over Votes,1
 Laramie,02-02,State Senate,4,REP,Under Votes,50
 Laramie,02-02,State Senate,4,DEM,Write-ins,38
+Laramie,02-02,State Senate,4,DEM,Over Votes,0
+Laramie,02-02,State Senate,4,DEM,Under Votes,179
 Laramie,02-02,State House,7,REP,Bob Nicholas,604
 Laramie,02-02,State House,7,REP,Kathy Russell,425
 Laramie,02-02,State House,7,REP,Write-ins,9
@@ -381,6 +391,8 @@ Laramie,02-04,State Senate,4,REP,Write-ins,5
 Laramie,02-04,State Senate,4,REP,Over Votes,1
 Laramie,02-04,State Senate,4,REP,Under Votes,24
 Laramie,02-04,State Senate,4,DEM,Write-ins,18
+Laramie,02-04,State Senate,4,DEM,Over Votes,0
+Laramie,02-04,State Senate,4,DEM,Under Votes,62
 Laramie,02-04,State House,8,REP,Cayd Batchelor,23
 Laramie,02-04,State House,8,REP,David Zwonitzer,345
 Laramie,02-04,State House,8,REP,Steve Johnson,192
@@ -388,6 +400,8 @@ Laramie,02-04,State House,8,REP,Write-ins,1
 Laramie,02-04,State House,8,REP,Over Votes,2
 Laramie,02-04,State House,8,REP,Under Votes,13
 Laramie,02-04,State House,8,DEM,Write-ins,15
+Laramie,02-04,State House,8,DEM,Over Votes,0
+Laramie,02-04,State House,8,DEM,Under Votes,65
 Laramie,02-04,Ballots Cast,,REP,Ballots Cast,576
 Laramie,02-04,Ballots Cast,,DEM,Ballots Cast,80
 Laramie,02-04,Ballots Cast,,NP,Ballots Cast,25
@@ -417,6 +431,8 @@ Laramie,02-05,State Senate,4,REP,Write-ins,0
 Laramie,02-05,State Senate,4,REP,Over Votes,0
 Laramie,02-05,State Senate,4,REP,Under Votes,2
 Laramie,02-05,State Senate,4,DEM,Write-ins,3
+Laramie,02-05,State Senate,4,DEM,Over Votes,0
+Laramie,02-05,State Senate,4,DEM,Under Votes,13
 Laramie,02-05,State House,8,REP,Cayd Batchelor,4
 Laramie,02-05,State House,8,REP,David Zwonitzer,26
 Laramie,02-05,State House,8,REP,Steve Johnson,20
@@ -424,6 +440,8 @@ Laramie,02-05,State House,8,REP,Write-ins,0
 Laramie,02-05,State House,8,REP,Over Votes,0
 Laramie,02-05,State House,8,REP,Under Votes,1
 Laramie,02-05,State House,8,DEM,Write-ins,2
+Laramie,02-05,State House,8,DEM,Over Votes,0
+Laramie,02-05,State House,8,DEM,Under Votes,14
 Laramie,02-05,Ballots Cast,,REP,Ballots Cast,51
 Laramie,02-05,Ballots Cast,,DEM,Ballots Cast,16
 Laramie,02-05,Ballots Cast,,NP,Ballots Cast,5
@@ -453,6 +471,8 @@ Laramie,02-06,State House,9,REP,Write-ins,4
 Laramie,02-06,State House,9,REP,Over Votes,1
 Laramie,02-06,State House,9,REP,Under Votes,13
 Laramie,02-06,State House,9,DEM,Write-ins,29
+Laramie,02-06,State House,9,DEM,Over Votes,0
+Laramie,02-06,State House,9,DEM,Under Votes,106
 Laramie,02-06,Ballots Cast,,REP,Ballots Cast,785
 Laramie,02-06,Ballots Cast,,DEM,Ballots Cast,135
 Laramie,02-06,Ballots Cast,,NP,Ballots Cast,33
@@ -482,6 +502,8 @@ Laramie,02-07,State House,9,REP,Write-ins,1
 Laramie,02-07,State House,9,REP,Over Votes,2
 Laramie,02-07,State House,9,REP,Under Votes,10
 Laramie,02-07,State House,9,DEM,Write-ins,21
+Laramie,02-07,State House,9,DEM,Over Votes,0
+Laramie,02-07,State House,9,DEM,Under Votes,65
 Laramie,02-07,Ballots Cast,,REP,Ballots Cast,648
 Laramie,02-07,Ballots Cast,,DEM,Ballots Cast,86
 Laramie,02-07,Ballots Cast,,NP,Ballots Cast,37
@@ -511,6 +533,8 @@ Laramie,02-08,State Senate,4,REP,Write-ins,1
 Laramie,02-08,State Senate,4,REP,Over Votes,0
 Laramie,02-08,State Senate,4,REP,Under Votes,5
 Laramie,02-08,State Senate,4,DEM,Write-ins,1
+Laramie,02-08,State Senate,4,DEM,Over Votes,0
+Laramie,02-08,State Senate,4,DEM,Under Votes,16
 Laramie,02-08,State House,8,REP,Cayd Batchelor,8
 Laramie,02-08,State House,8,REP,David Zwonitzer,73
 Laramie,02-08,State House,8,REP,Steve Johnson,46
@@ -518,6 +542,8 @@ Laramie,02-08,State House,8,REP,Write-ins,0
 Laramie,02-08,State House,8,REP,Over Votes,0
 Laramie,02-08,State House,8,REP,Under Votes,2
 Laramie,02-08,State House,8,DEM,Write-ins,2
+Laramie,02-08,State House,8,DEM,Over Votes,0
+Laramie,02-08,State House,8,DEM,Under Votes,15
 Laramie,02-08,Ballots Cast,,REP,Ballots Cast,129
 Laramie,02-08,Ballots Cast,,DEM,Ballots Cast,17
 Laramie,02-08,Ballots Cast,,NP,Ballots Cast,4
@@ -619,6 +645,8 @@ Laramie,03-03,State House,61,REP,Write-ins,2
 Laramie,03-03,State House,61,REP,Over Votes,1
 Laramie,03-03,State House,61,REP,Under Votes,7
 Laramie,03-03,State House,61,DEM,Write-ins,22
+Laramie,03-03,State House,61,DEM,Over Votes,0
+Laramie,03-03,State House,61,DEM,Under Votes,109
 Laramie,03-03,Ballots Cast,,REP,Ballots Cast,477
 Laramie,03-03,Ballots Cast,,DEM,Ballots Cast,131
 Laramie,03-03,Ballots Cast,,NP,Ballots Cast,36
@@ -648,6 +676,8 @@ Laramie,03-04,State House,61,REP,Write-ins,4
 Laramie,03-04,State House,61,REP,Over Votes,0
 Laramie,03-04,State House,61,REP,Under Votes,13
 Laramie,03-04,State House,61,DEM,Write-ins,17
+Laramie,03-04,State House,61,DEM,Over Votes,0
+Laramie,03-04,State House,61,DEM,Under Votes,60
 Laramie,03-04,Ballots Cast,,REP,Ballots Cast,384
 Laramie,03-04,Ballots Cast,,DEM,Ballots Cast,77
 Laramie,03-04,Ballots Cast,,NP,Ballots Cast,22
@@ -677,6 +707,8 @@ Laramie,03-05,State House,43,REP,Write-ins,1
 Laramie,03-05,State House,43,REP,Over Votes,1
 Laramie,03-05,State House,43,REP,Under Votes,6
 Laramie,03-05,State House,43,DEM,Write-ins,15
+Laramie,03-05,State House,43,DEM,Over Votes,0
+Laramie,03-05,State House,43,DEM,Under Votes,42
 Laramie,03-05,Ballots Cast,,REP,Ballots Cast,404
 Laramie,03-05,Ballots Cast,,DEM,Ballots Cast,57
 Laramie,03-05,Ballots Cast,,NP,Ballots Cast,22
@@ -706,6 +738,8 @@ Laramie,03-06,State House,43,REP,Write-ins,1
 Laramie,03-06,State House,43,REP,Over Votes,1
 Laramie,03-06,State House,43,REP,Under Votes,7
 Laramie,03-06,State House,43,DEM,Write-ins,13
+Laramie,03-06,State House,43,DEM,Over Votes,0
+Laramie,03-06,State House,43,DEM,Under Votes,29
 Laramie,03-06,Ballots Cast,,REP,Ballots Cast,445
 Laramie,03-06,Ballots Cast,,DEM,Ballots Cast,42
 Laramie,03-06,Ballots Cast,,NP,Ballots Cast,21
@@ -735,6 +769,8 @@ Laramie,03-07,State House,43,REP,Write-ins,1
 Laramie,03-07,State House,43,REP,Over Votes,0
 Laramie,03-07,State House,43,REP,Under Votes,1
 Laramie,03-07,State House,43,DEM,Write-ins,0
+Laramie,03-07,State House,43,DEM,Over Votes,0
+Laramie,03-07,State House,43,DEM,Under Votes,11
 Laramie,03-07,Ballots Cast,,REP,Ballots Cast,65
 Laramie,03-07,Ballots Cast,,DEM,Ballots Cast,11
 Laramie,03-07,Ballots Cast,,NP,Ballots Cast,4
@@ -884,6 +920,8 @@ Laramie,04-04,State House,10,REP,Write-ins,9
 Laramie,04-04,State House,10,REP,Over Votes,0
 Laramie,04-04,State House,10,REP,Under Votes,22
 Laramie,04-04,State House,10,DEM,Write-ins,2
+Laramie,04-04,State House,10,DEM,Over Votes,0
+Laramie,04-04,State House,10,DEM,Under Votes,15
 Laramie,04-04,Ballots Cast,,REP,Ballots Cast,320
 Laramie,04-04,Ballots Cast,,DEM,Ballots Cast,17
 Laramie,04-04,Ballots Cast,,NP,Ballots Cast,0
@@ -913,6 +951,8 @@ Laramie,04-05,State Senate,4,REP,Write-ins,12
 Laramie,04-05,State Senate,4,REP,Over Votes,1
 Laramie,04-05,State Senate,4,REP,Under Votes,39
 Laramie,04-05,State Senate,4,DEM,Write-ins,11
+Laramie,04-05,State Senate,4,DEM,Over Votes,0
+Laramie,04-05,State Senate,4,DEM,Under Votes,55
 Laramie,04-05,State House,8,REP,Cayd Batchelor,19
 Laramie,04-05,State House,8,REP,David Zwonitzer,357
 Laramie,04-05,State House,8,REP,Steve Johnson,446
@@ -920,6 +960,8 @@ Laramie,04-05,State House,8,REP,Write-ins,2
 Laramie,04-05,State House,8,REP,Over Votes,2
 Laramie,04-05,State House,8,REP,Under Votes,11
 Laramie,04-05,State House,8,DEM,Write-ins,12
+Laramie,04-05,State House,8,DEM,Over Votes,0
+Laramie,04-05,State House,8,DEM,Under Votes,54
 Laramie,04-05,Ballots Cast,,REP,Ballots Cast,837
 Laramie,04-05,Ballots Cast,,DEM,Ballots Cast,66
 Laramie,04-05,Ballots Cast,,NP,Ballots Cast,0
@@ -949,6 +991,8 @@ Laramie,04-06,State Senate,4,REP,Write-ins,13
 Laramie,04-06,State Senate,4,REP,Over Votes,0
 Laramie,04-06,State Senate,4,REP,Under Votes,40
 Laramie,04-06,State Senate,4,DEM,Write-ins,17
+Laramie,04-06,State Senate,4,DEM,Over Votes,0
+Laramie,04-06,State Senate,4,DEM,Under Votes,57
 Laramie,04-06,State House,8,REP,Cayd Batchelor,24
 Laramie,04-06,State House,8,REP,David Zwonitzer,334
 Laramie,04-06,State House,8,REP,Steve Johnson,479
@@ -956,6 +1000,8 @@ Laramie,04-06,State House,8,REP,Write-ins,1
 Laramie,04-06,State House,8,REP,Over Votes,1
 Laramie,04-06,State House,8,REP,Under Votes,11
 Laramie,04-06,State House,8,DEM,Write-ins,13
+Laramie,04-06,State House,8,DEM,Over Votes,0
+Laramie,04-06,State House,8,DEM,Under Votes,61
 Laramie,04-06,Ballots Cast,,REP,Ballots Cast,850
 Laramie,04-06,Ballots Cast,,DEM,Ballots Cast,74
 Laramie,04-06,Ballots Cast,,NP,Ballots Cast,0
@@ -997,6 +1043,8 @@ Laramie,04-07,State House,10,REP,Write-ins,9
 Laramie,04-07,State House,10,REP,Over Votes,0
 Laramie,04-07,State House,10,REP,Under Votes,25
 Laramie,04-07,State House,10,DEM,Write-ins,12
+Laramie,04-07,State House,10,DEM,Over Votes,0
+Laramie,04-07,State House,10,DEM,Under Votes,32
 Laramie,04-07,Ballots Cast,,REP,Ballots Cast,585
 Laramie,04-07,Ballots Cast,,DEM,Ballots Cast,44
 Laramie,04-07,Ballots Cast,,NP,Ballots Cast,0
@@ -1026,6 +1074,8 @@ Laramie,04-08,State House,43,REP,Write-ins,2
 Laramie,04-08,State House,43,REP,Over Votes,0
 Laramie,04-08,State House,43,REP,Under Votes,3
 Laramie,04-08,State House,43,DEM,Write-ins,7
+Laramie,04-08,State House,43,DEM,Over Votes,0
+Laramie,04-08,State House,43,DEM,Under Votes,20
 Laramie,04-08,Ballots Cast,,REP,Ballots Cast,334
 Laramie,04-08,Ballots Cast,,DEM,Ballots Cast,27
 Laramie,04-08,Ballots Cast,,NP,Ballots Cast,0
@@ -1055,6 +1105,8 @@ Laramie,04-09,State House,12,REP,Write-ins,2
 Laramie,04-09,State House,12,REP,Over Votes,0
 Laramie,04-09,State House,12,REP,Under Votes,8
 Laramie,04-09,State House,12,DEM,Write-ins,7
+Laramie,04-09,State House,12,DEM,Over Votes,0
+Laramie,04-09,State House,12,DEM,Under Votes,41
 Laramie,04-09,Ballots Cast,,REP,Ballots Cast,372
 Laramie,04-09,Ballots Cast,,DEM,Ballots Cast,48
 Laramie,04-09,Ballots Cast,,NP,Ballots Cast,0
@@ -1093,6 +1145,8 @@ Laramie,04-10,State House,44,REP,Write-ins,0
 Laramie,04-10,State House,44,REP,Over Votes,0
 Laramie,04-10,State House,44,REP,Under Votes,0
 Laramie,04-10,State House,44,DEM,Write-ins,1
+Laramie,04-10,State House,44,DEM,Over Votes,0
+Laramie,04-10,State House,44,DEM,Under Votes,7
 Laramie,04-10,Ballots Cast,,REP,Ballots Cast,30
 Laramie,04-10,Ballots Cast,,DEM,Ballots Cast,8
 Laramie,04-10,Ballots Cast,,NP,Ballots Cast,0
@@ -1122,6 +1176,8 @@ Laramie,04-11,State House,12,REP,Write-ins,2
 Laramie,04-11,State House,12,REP,Over Votes,1
 Laramie,04-11,State House,12,REP,Under Votes,15
 Laramie,04-11,State House,12,DEM,Write-ins,16
+Laramie,04-11,State House,12,DEM,Over Votes,0
+Laramie,04-11,State House,12,DEM,Under Votes,76
 Laramie,04-11,Ballots Cast,,REP,Ballots Cast,404
 Laramie,04-11,Ballots Cast,,DEM,Ballots Cast,92
 Laramie,04-11,Ballots Cast,,NP,Ballots Cast,0
@@ -1151,6 +1207,8 @@ Laramie,05-01,State House,43,REP,Write-ins,2
 Laramie,05-01,State House,43,REP,Over Votes,0
 Laramie,05-01,State House,43,REP,Under Votes,1
 Laramie,05-01,State House,43,DEM,Write-ins,4
+Laramie,05-01,State House,43,DEM,Over Votes,0
+Laramie,05-01,State House,43,DEM,Under Votes,2
 Laramie,05-01,Ballots Cast,,REP,Ballots Cast,103
 Laramie,05-01,Ballots Cast,,DEM,Ballots Cast,6
 Laramie,05-01,Ballots Cast,,NP,Ballots Cast,0
@@ -1192,6 +1250,8 @@ Laramie,05-02,State House,10,REP,Write-ins,9
 Laramie,05-02,State House,10,REP,Over Votes,0
 Laramie,05-02,State House,10,REP,Under Votes,15
 Laramie,05-02,State House,10,DEM,Write-ins,2
+Laramie,05-02,State House,10,DEM,Over Votes,0
+Laramie,05-02,State House,10,DEM,Under Votes,23
 Laramie,05-02,Ballots Cast,,REP,Ballots Cast,604
 Laramie,05-02,Ballots Cast,,DEM,Ballots Cast,25
 Laramie,05-02,Ballots Cast,,NP,Ballots Cast,0
@@ -1233,6 +1293,8 @@ Laramie,05-03,State House,10,REP,Write-ins,9
 Laramie,05-03,State House,10,REP,Over Votes,0
 Laramie,05-03,State House,10,REP,Under Votes,18
 Laramie,05-03,State House,10,DEM,Write-ins,5
+Laramie,05-03,State House,10,DEM,Over Votes,0
+Laramie,05-03,State House,10,DEM,Under Votes,17
 Laramie,05-03,Ballots Cast,,REP,Ballots Cast,431
 Laramie,05-03,Ballots Cast,,DEM,Ballots Cast,22
 Laramie,05-03,Ballots Cast,,NP,Ballots Cast,0
@@ -1274,6 +1336,8 @@ Laramie,05-04,State House,10,REP,Write-ins,4
 Laramie,05-04,State House,10,REP,Over Votes,0
 Laramie,05-04,State House,10,REP,Under Votes,8
 Laramie,05-04,State House,10,DEM,Write-ins,4
+Laramie,05-04,State House,10,DEM,Over Votes,0
+Laramie,05-04,State House,10,DEM,Under Votes,13
 Laramie,05-04,Ballots Cast,,REP,Ballots Cast,251
 Laramie,05-04,Ballots Cast,,DEM,Ballots Cast,17
 Laramie,05-04,Ballots Cast,,NP,Ballots Cast,6
@@ -1343,6 +1407,8 @@ Laramie,06-03,State House,61,REP,Write-ins,0
 Laramie,06-03,State House,61,REP,Over Votes,0
 Laramie,06-03,State House,61,REP,Under Votes,2
 Laramie,06-03,State House,61,DEM,Write-ins,2
+Laramie,06-03,State House,61,DEM,Over Votes,0
+Laramie,06-03,State House,61,DEM,Under Votes,3
 Laramie,06-03,Ballots Cast,,REP,Ballots Cast,27
 Laramie,06-03,Ballots Cast,,DEM,Ballots Cast,5
 Laramie,06-03,Ballots Cast,,NP,Ballots Cast,0
@@ -1372,6 +1438,8 @@ Laramie,06-04,State House,9,REP,Write-ins,2
 Laramie,06-04,State House,9,REP,Over Votes,0
 Laramie,06-04,State House,9,REP,Under Votes,0
 Laramie,06-04,State House,9,DEM,Write-ins,0
+Laramie,06-04,State House,9,DEM,Over Votes,0
+Laramie,06-04,State House,9,DEM,Under Votes,5
 Laramie,06-04,Ballots Cast,,REP,Ballots Cast,33
 Laramie,06-04,Ballots Cast,,DEM,Ballots Cast,5
 Laramie,06-04,Ballots Cast,,NP,Ballots Cast,0

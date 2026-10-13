@@ -118,6 +118,8 @@ Carbon,2022-01-01 00:00:00,State House,15,REP,Write-ins,2
 Carbon,2022-01-01 00:00:00,State House,15,REP,Over Votes,0
 Carbon,2022-01-01 00:00:00,State House,15,REP,Under Votes,1
 Carbon,2022-01-01 00:00:00,State House,15,DEM,Write-ins,3
+Carbon,2022-01-01 00:00:00,State House,15,DEM,Over Votes,0
+Carbon,2022-01-01 00:00:00,State House,15,DEM,Under Votes,45
 Carbon,2022-01-01 00:00:00,Ballots Cast,,REP,Ballots Cast,106
 Carbon,2022-01-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,48
 Carbon,2022-01-01 00:00:00,Ballots Cast,,NP,Ballots Cast,9
@@ -148,6 +150,8 @@ Carbon,2022-01-02 00:00:00,State House,15,REP,Write-ins,4
 Carbon,2022-01-02 00:00:00,State House,15,REP,Over Votes,0
 Carbon,2022-01-02 00:00:00,State House,15,REP,Under Votes,7
 Carbon,2022-01-02 00:00:00,State House,15,DEM,Write-ins,4
+Carbon,2022-01-02 00:00:00,State House,15,DEM,Over Votes,0
+Carbon,2022-01-02 00:00:00,State House,15,DEM,Under Votes,11
 Carbon,2022-01-02 00:00:00,Ballots Cast,,REP,Ballots Cast,138
 Carbon,2022-01-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,15
 Carbon,2022-01-02 00:00:00,Ballots Cast,,NP,Ballots Cast,5
@@ -178,6 +182,8 @@ Carbon,2022-02-01 00:00:00,State House,15,REP,Write-ins,3
 Carbon,2022-02-01 00:00:00,State House,15,REP,Over Votes,2
 Carbon,2022-02-01 00:00:00,State House,15,REP,Under Votes,4
 Carbon,2022-02-01 00:00:00,State House,15,DEM,Write-ins,3
+Carbon,2022-02-01 00:00:00,State House,15,DEM,Over Votes,0
+Carbon,2022-02-01 00:00:00,State House,15,DEM,Under Votes,34
 Carbon,2022-02-01 00:00:00,Ballots Cast,,REP,Ballots Cast,207
 Carbon,2022-02-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,37
 Carbon,2022-02-01 00:00:00,Ballots Cast,,NP,Ballots Cast,13
@@ -208,6 +214,8 @@ Carbon,2022-02-02 00:00:00,State House,15,REP,Write-ins,2
 Carbon,2022-02-02 00:00:00,State House,15,REP,Over Votes,1
 Carbon,2022-02-02 00:00:00,State House,15,REP,Under Votes,5
 Carbon,2022-02-02 00:00:00,State House,15,DEM,Write-ins,6
+Carbon,2022-02-02 00:00:00,State House,15,DEM,Over Votes,0
+Carbon,2022-02-02 00:00:00,State House,15,DEM,Under Votes,32
 Carbon,2022-02-02 00:00:00,Ballots Cast,,REP,Ballots Cast,218
 Carbon,2022-02-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,38
 Carbon,2022-02-02 00:00:00,Ballots Cast,,NP,Ballots Cast,11
@@ -238,6 +246,8 @@ Carbon,2022-03-01 00:00:00,State House,15,REP,Write-ins,0
 Carbon,2022-03-01 00:00:00,State House,15,REP,Over Votes,0
 Carbon,2022-03-01 00:00:00,State House,15,REP,Under Votes,3
 Carbon,2022-03-01 00:00:00,State House,15,DEM,Write-ins,2
+Carbon,2022-03-01 00:00:00,State House,15,DEM,Over Votes,0
+Carbon,2022-03-01 00:00:00,State House,15,DEM,Under Votes,30
 Carbon,2022-03-01 00:00:00,Ballots Cast,,REP,Ballots Cast,145
 Carbon,2022-03-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,32
 Carbon,2022-03-01 00:00:00,Ballots Cast,,NP,Ballots Cast,7
@@ -268,6 +278,8 @@ Carbon,2022-03-02 00:00:00,State House,15,REP,Write-ins,3
 Carbon,2022-03-02 00:00:00,State House,15,REP,Over Votes,1
 Carbon,2022-03-02 00:00:00,State House,15,REP,Under Votes,6
 Carbon,2022-03-02 00:00:00,State House,15,DEM,Write-ins,5
+Carbon,2022-03-02 00:00:00,State House,15,DEM,Over Votes,0
+Carbon,2022-03-02 00:00:00,State House,15,DEM,Under Votes,40
 Carbon,2022-03-02 00:00:00,Ballots Cast,,REP,Ballots Cast,272
 Carbon,2022-03-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,45
 Carbon,2022-03-02 00:00:00,Ballots Cast,,NP,Ballots Cast,10
@@ -298,6 +310,8 @@ Carbon,2022-04-01 00:00:00,State House,15,REP,Write-ins,0
 Carbon,2022-04-01 00:00:00,State House,15,REP,Over Votes,0
 Carbon,2022-04-01 00:00:00,State House,15,REP,Under Votes,0
 Carbon,2022-04-01 00:00:00,State House,15,DEM,Write-ins,0
+Carbon,2022-04-01 00:00:00,State House,15,DEM,Over Votes,0
+Carbon,2022-04-01 00:00:00,State House,15,DEM,Under Votes,0
 Carbon,2022-04-01 00:00:00,Ballots Cast,,REP,Ballots Cast,7
 Carbon,2022-04-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,0
 Carbon,2022-04-01 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -328,6 +342,8 @@ Carbon,2022-05-01 00:00:00,State House,15,REP,Write-ins,1
 Carbon,2022-05-01 00:00:00,State House,15,REP,Over Votes,0
 Carbon,2022-05-01 00:00:00,State House,15,REP,Under Votes,0
 Carbon,2022-05-01 00:00:00,State House,15,DEM,Write-ins,0
+Carbon,2022-05-01 00:00:00,State House,15,DEM,Over Votes,0
+Carbon,2022-05-01 00:00:00,State House,15,DEM,Under Votes,7
 Carbon,2022-05-01 00:00:00,Ballots Cast,,REP,Ballots Cast,83
 Carbon,2022-05-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,7
 Carbon,2022-05-01 00:00:00,Ballots Cast,,NP,Ballots Cast,0

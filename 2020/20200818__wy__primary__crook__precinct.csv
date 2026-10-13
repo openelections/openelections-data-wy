@@ -38,6 +38,8 @@ Crook,1-1,State House,1,REP,Write-ins,0
 Crook,1-1,State House,1,REP,Over Votes,0
 Crook,1-1,State House,1,REP,Under Votes,2
 Crook,1-1,State House,1,DEM,Write-ins,2
+Crook,1-1,State House,1,DEM,Over Votes,0
+Crook,1-1,State House,1,DEM,Under Votes,10
 Crook,1-1,Ballots Cast,,REP,Ballots Cast,228
 Crook,1-1,Ballots Cast,,DEM,Ballots Cast,12
 Crook,1-1,Ballots Cast,,NP,Ballots Cast,5
@@ -81,6 +83,8 @@ Crook,1-2,State House,1,REP,Write-ins,2
 Crook,1-2,State House,1,REP,Over Votes,0
 Crook,1-2,State House,1,REP,Under Votes,1
 Crook,1-2,State House,1,DEM,Write-ins,3
+Crook,1-2,State House,1,DEM,Over Votes,0
+Crook,1-2,State House,1,DEM,Under Votes,11
 Crook,1-2,Ballots Cast,,REP,Ballots Cast,204
 Crook,1-2,Ballots Cast,,DEM,Ballots Cast,14
 Crook,1-2,Ballots Cast,,NP,Ballots Cast,7
@@ -124,6 +128,8 @@ Crook,11-11,State House,1,REP,Write-ins,0
 Crook,11-11,State House,1,REP,Over Votes,0
 Crook,11-11,State House,1,REP,Under Votes,3
 Crook,11-11,State House,1,DEM,Write-ins,1
+Crook,11-11,State House,1,DEM,Over Votes,0
+Crook,11-11,State House,1,DEM,Under Votes,5
 Crook,11-11,Ballots Cast,,REP,Ballots Cast,156
 Crook,11-11,Ballots Cast,,DEM,Ballots Cast,6
 Crook,11-11,Ballots Cast,,NP,Ballots Cast,0
@@ -167,6 +173,8 @@ Crook,12-12,State House,1,REP,Write-ins,0
 Crook,12-12,State House,1,REP,Over Votes,0
 Crook,12-12,State House,1,REP,Under Votes,2
 Crook,12-12,State House,1,DEM,Write-ins,1
+Crook,12-12,State House,1,DEM,Over Votes,0
+Crook,12-12,State House,1,DEM,Under Votes,11
 Crook,12-12,Ballots Cast,,REP,Ballots Cast,206
 Crook,12-12,Ballots Cast,,DEM,Ballots Cast,12
 Crook,12-12,Ballots Cast,,NP,Ballots Cast,0
@@ -210,6 +218,8 @@ Crook,13-13,State House,1,REP,Write-ins,0
 Crook,13-13,State House,1,REP,Over Votes,0
 Crook,13-13,State House,1,REP,Under Votes,1
 Crook,13-13,State House,1,DEM,Write-ins,0
+Crook,13-13,State House,1,DEM,Over Votes,0
+Crook,13-13,State House,1,DEM,Under Votes,6
 Crook,13-13,Ballots Cast,,REP,Ballots Cast,197
 Crook,13-13,Ballots Cast,,DEM,Ballots Cast,6
 Crook,13-13,Ballots Cast,,NP,Ballots Cast,0
@@ -253,6 +263,8 @@ Crook,14-14,State House,1,REP,Write-ins,0
 Crook,14-14,State House,1,REP,Over Votes,0
 Crook,14-14,State House,1,REP,Under Votes,0
 Crook,14-14,State House,1,DEM,Write-ins,1
+Crook,14-14,State House,1,DEM,Over Votes,0
+Crook,14-14,State House,1,DEM,Under Votes,6
 Crook,14-14,Ballots Cast,,REP,Ballots Cast,127
 Crook,14-14,Ballots Cast,,DEM,Ballots Cast,7
 Crook,14-14,Ballots Cast,,NP,Ballots Cast,0
@@ -296,6 +308,8 @@ Crook,15-15,State House,1,REP,Write-ins,0
 Crook,15-15,State House,1,REP,Over Votes,0
 Crook,15-15,State House,1,REP,Under Votes,0
 Crook,15-15,State House,1,DEM,Write-ins,0
+Crook,15-15,State House,1,DEM,Over Votes,0
+Crook,15-15,State House,1,DEM,Under Votes,6
 Crook,15-15,Ballots Cast,,REP,Ballots Cast,157
 Crook,15-15,Ballots Cast,,DEM,Ballots Cast,6
 Crook,15-15,Ballots Cast,,NP,Ballots Cast,1
@@ -339,6 +353,8 @@ Crook,16-16,State House,1,REP,Write-ins,0
 Crook,16-16,State House,1,REP,Over Votes,0
 Crook,16-16,State House,1,REP,Under Votes,0
 Crook,16-16,State House,1,DEM,Write-ins,0
+Crook,16-16,State House,1,DEM,Over Votes,0
+Crook,16-16,State House,1,DEM,Under Votes,3
 Crook,16-16,Ballots Cast,,REP,Ballots Cast,222
 Crook,16-16,Ballots Cast,,DEM,Ballots Cast,3
 Crook,16-16,Ballots Cast,,NP,Ballots Cast,0
@@ -382,6 +398,8 @@ Crook,18-1,State House,1,REP,Write-ins,0
 Crook,18-1,State House,1,REP,Over Votes,0
 Crook,18-1,State House,1,REP,Under Votes,3
 Crook,18-1,State House,1,DEM,Write-ins,0
+Crook,18-1,State House,1,DEM,Over Votes,0
+Crook,18-1,State House,1,DEM,Under Votes,5
 Crook,18-1,Ballots Cast,,REP,Ballots Cast,98
 Crook,18-1,Ballots Cast,,DEM,Ballots Cast,5
 Crook,18-1,Ballots Cast,,NP,Ballots Cast,2
@@ -425,6 +443,8 @@ Crook,18-2,State House,1,REP,Write-ins,0
 Crook,18-2,State House,1,REP,Over Votes,1
 Crook,18-2,State House,1,REP,Under Votes,1
 Crook,18-2,State House,1,DEM,Write-ins,0
+Crook,18-2,State House,1,DEM,Over Votes,0
+Crook,18-2,State House,1,DEM,Under Votes,7
 Crook,18-2,Ballots Cast,,REP,Ballots Cast,129
 Crook,18-2,Ballots Cast,,DEM,Ballots Cast,7
 Crook,18-2,Ballots Cast,,NP,Ballots Cast,6
@@ -468,6 +488,8 @@ Crook,2-2,State House,1,REP,Write-ins,1
 Crook,2-2,State House,1,REP,Over Votes,0
 Crook,2-2,State House,1,REP,Under Votes,1
 Crook,2-2,State House,1,DEM,Write-ins,6
+Crook,2-2,State House,1,DEM,Over Votes,0
+Crook,2-2,State House,1,DEM,Under Votes,17
 Crook,2-2,Ballots Cast,,REP,Ballots Cast,381
 Crook,2-2,Ballots Cast,,DEM,Ballots Cast,23
 Crook,2-2,Ballots Cast,,NP,Ballots Cast,0
@@ -511,6 +533,8 @@ Crook,23-23,State House,1,REP,Write-ins,0
 Crook,23-23,State House,1,REP,Over Votes,0
 Crook,23-23,State House,1,REP,Under Votes,0
 Crook,23-23,State House,1,DEM,Write-ins,0
+Crook,23-23,State House,1,DEM,Over Votes,0
+Crook,23-23,State House,1,DEM,Under Votes,0
 Crook,23-23,Ballots Cast,,REP,Ballots Cast,38
 Crook,23-23,Ballots Cast,,DEM,Ballots Cast,0
 Crook,23-23,Ballots Cast,,NP,Ballots Cast,0
@@ -554,6 +578,8 @@ Crook,24-24,State House,1,REP,Write-ins,0
 Crook,24-24,State House,1,REP,Over Votes,0
 Crook,24-24,State House,1,REP,Under Votes,0
 Crook,24-24,State House,1,DEM,Write-ins,0
+Crook,24-24,State House,1,DEM,Over Votes,0
+Crook,24-24,State House,1,DEM,Under Votes,1
 Crook,24-24,Ballots Cast,,REP,Ballots Cast,39
 Crook,24-24,Ballots Cast,,DEM,Ballots Cast,1
 Crook,24-24,Ballots Cast,,NP,Ballots Cast,0
@@ -597,6 +623,8 @@ Crook,26-26,State House,1,REP,Write-ins,0
 Crook,26-26,State House,1,REP,Over Votes,0
 Crook,26-26,State House,1,REP,Under Votes,0
 Crook,26-26,State House,1,DEM,Write-ins,0
+Crook,26-26,State House,1,DEM,Over Votes,0
+Crook,26-26,State House,1,DEM,Under Votes,0
 Crook,26-26,Ballots Cast,,REP,Ballots Cast,57
 Crook,26-26,Ballots Cast,,DEM,Ballots Cast,0
 Crook,26-26,Ballots Cast,,NP,Ballots Cast,0
@@ -640,6 +668,8 @@ Crook,3-3,State House,1,REP,Write-ins,0
 Crook,3-3,State House,1,REP,Over Votes,0
 Crook,3-3,State House,1,REP,Under Votes,0
 Crook,3-3,State House,1,DEM,Write-ins,0
+Crook,3-3,State House,1,DEM,Over Votes,0
+Crook,3-3,State House,1,DEM,Under Votes,7
 Crook,3-3,Ballots Cast,,REP,Ballots Cast,113
 Crook,3-3,Ballots Cast,,DEM,Ballots Cast,7
 Crook,3-3,Ballots Cast,,NP,Ballots Cast,0
@@ -683,6 +713,8 @@ Crook,7-7,State House,1,REP,Write-ins,0
 Crook,7-7,State House,1,REP,Over Votes,1
 Crook,7-7,State House,1,REP,Under Votes,0
 Crook,7-7,State House,1,DEM,Write-ins,1
+Crook,7-7,State House,1,DEM,Over Votes,0
+Crook,7-7,State House,1,DEM,Under Votes,10
 Crook,7-7,Ballots Cast,,REP,Ballots Cast,119
 Crook,7-7,Ballots Cast,,DEM,Ballots Cast,11
 Crook,7-7,Ballots Cast,,NP,Ballots Cast,0
@@ -726,6 +758,8 @@ Crook,9-9,State House,1,REP,Write-ins,0
 Crook,9-9,State House,1,REP,Over Votes,0
 Crook,9-9,State House,1,REP,Under Votes,1
 Crook,9-9,State House,1,DEM,Write-ins,0
+Crook,9-9,State House,1,DEM,Over Votes,0
+Crook,9-9,State House,1,DEM,Under Votes,0
 Crook,9-9,Ballots Cast,,REP,Ballots Cast,71
 Crook,9-9,Ballots Cast,,DEM,Ballots Cast,0
 Crook,9-9,Ballots Cast,,NP,Ballots Cast,0

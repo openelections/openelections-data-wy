@@ -23,12 +23,16 @@ Converse,13-13,State Senate,2,REP,Write-ins,2
 Converse,13-13,State Senate,2,REP,Over Votes,0
 Converse,13-13,State Senate,2,REP,Under Votes,12
 Converse,13-13,State Senate,2,DEM,Write-ins,0
+Converse,13-13,State Senate,2,DEM,Over Votes,0
+Converse,13-13,State Senate,2,DEM,Under Votes,1
 Converse,13-13,State House,6,REP,Aaron Clausen,26
 Converse,13-13,State House,6,REP,Tomi Strock,32
 Converse,13-13,State House,6,REP,Write-ins,0
 Converse,13-13,State House,6,REP,Over Votes,0
 Converse,13-13,State House,6,REP,Under Votes,3
 Converse,13-13,State House,6,DEM,Write-ins,1
+Converse,13-13,State House,6,DEM,Over Votes,0
+Converse,13-13,State House,6,DEM,Under Votes,0
 Converse,13-13,Ballots Cast,,REP,Ballots Cast,61
 Converse,13-13,Ballots Cast,,DEM,Ballots Cast,1
 Converse,13-13,Ballots Cast,,NP,Ballots Cast,0
@@ -57,12 +61,16 @@ Converse,20-20,State Senate,2,REP,Write-ins,0
 Converse,20-20,State Senate,2,REP,Over Votes,0
 Converse,20-20,State Senate,2,REP,Under Votes,6
 Converse,20-20,State Senate,2,DEM,Write-ins,1
+Converse,20-20,State Senate,2,DEM,Over Votes,0
+Converse,20-20,State Senate,2,DEM,Under Votes,2
 Converse,20-20,State House,6,REP,Aaron Clausen,35
 Converse,20-20,State House,6,REP,Tomi Strock,34
 Converse,20-20,State House,6,REP,Write-ins,0
 Converse,20-20,State House,6,REP,Over Votes,0
 Converse,20-20,State House,6,REP,Under Votes,2
 Converse,20-20,State House,6,DEM,Write-ins,0
+Converse,20-20,State House,6,DEM,Over Votes,0
+Converse,20-20,State House,6,DEM,Under Votes,3
 Converse,20-20,Ballots Cast,,REP,Ballots Cast,71
 Converse,20-20,Ballots Cast,,DEM,Ballots Cast,3
 Converse,20-20,Ballots Cast,,NP,Ballots Cast,0
@@ -91,12 +99,16 @@ Converse,2022-01-01 00:00:00,State Senate,2,REP,Write-ins,0
 Converse,2022-01-01 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-01-01 00:00:00,State Senate,2,REP,Under Votes,11
 Converse,2022-01-01 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-01-01 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-01-01 00:00:00,State Senate,2,DEM,Under Votes,0
 Converse,2022-01-01 00:00:00,State House,6,REP,Aaron Clausen,44
 Converse,2022-01-01 00:00:00,State House,6,REP,Tomi Strock,67
 Converse,2022-01-01 00:00:00,State House,6,REP,Write-ins,0
 Converse,2022-01-01 00:00:00,State House,6,REP,Over Votes,0
 Converse,2022-01-01 00:00:00,State House,6,REP,Under Votes,4
 Converse,2022-01-01 00:00:00,State House,6,DEM,Write-ins,0
+Converse,2022-01-01 00:00:00,State House,6,DEM,Over Votes,0
+Converse,2022-01-01 00:00:00,State House,6,DEM,Under Votes,0
 Converse,2022-01-01 00:00:00,Ballots Cast,,REP,Ballots Cast,115
 Converse,2022-01-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,0
 Converse,2022-01-01 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -125,12 +137,16 @@ Converse,2022-02-02 00:00:00,State Senate,2,REP,Write-ins,4
 Converse,2022-02-02 00:00:00,State Senate,2,REP,Over Votes,1
 Converse,2022-02-02 00:00:00,State Senate,2,REP,Under Votes,38
 Converse,2022-02-02 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-02-02 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-02-02 00:00:00,State Senate,2,DEM,Under Votes,7
 Converse,2022-02-02 00:00:00,State House,6,REP,Aaron Clausen,138
 Converse,2022-02-02 00:00:00,State House,6,REP,Tomi Strock,118
 Converse,2022-02-02 00:00:00,State House,6,REP,Write-ins,0
 Converse,2022-02-02 00:00:00,State House,6,REP,Over Votes,0
 Converse,2022-02-02 00:00:00,State House,6,REP,Under Votes,6
 Converse,2022-02-02 00:00:00,State House,6,DEM,Write-ins,0
+Converse,2022-02-02 00:00:00,State House,6,DEM,Over Votes,0
+Converse,2022-02-02 00:00:00,State House,6,DEM,Under Votes,7
 Converse,2022-02-02 00:00:00,Ballots Cast,,REP,Ballots Cast,262
 Converse,2022-02-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,7
 Converse,2022-02-02 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -159,12 +175,16 @@ Converse,2022-03-01 00:00:00,State Senate,2,REP,Write-ins,2
 Converse,2022-03-01 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-03-01 00:00:00,State Senate,2,REP,Under Votes,13
 Converse,2022-03-01 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-03-01 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-03-01 00:00:00,State Senate,2,DEM,Under Votes,2
 Converse,2022-03-01 00:00:00,State House,6,REP,Aaron Clausen,53
 Converse,2022-03-01 00:00:00,State House,6,REP,Tomi Strock,60
 Converse,2022-03-01 00:00:00,State House,6,REP,Write-ins,1
 Converse,2022-03-01 00:00:00,State House,6,REP,Over Votes,0
 Converse,2022-03-01 00:00:00,State House,6,REP,Under Votes,2
 Converse,2022-03-01 00:00:00,State House,6,DEM,Write-ins,0
+Converse,2022-03-01 00:00:00,State House,6,DEM,Over Votes,0
+Converse,2022-03-01 00:00:00,State House,6,DEM,Under Votes,2
 Converse,2022-03-01 00:00:00,Ballots Cast,,REP,Ballots Cast,116
 Converse,2022-03-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,2
 Converse,2022-03-01 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -193,12 +213,16 @@ Converse,2022-04-04 00:00:00,State Senate,2,REP,Write-ins,4
 Converse,2022-04-04 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-04-04 00:00:00,State Senate,2,REP,Under Votes,30
 Converse,2022-04-04 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-04-04 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-04-04 00:00:00,State Senate,2,DEM,Under Votes,7
 Converse,2022-04-04 00:00:00,State House,6,REP,Aaron Clausen,125
 Converse,2022-04-04 00:00:00,State House,6,REP,Tomi Strock,136
 Converse,2022-04-04 00:00:00,State House,6,REP,Write-ins,1
 Converse,2022-04-04 00:00:00,State House,6,REP,Over Votes,0
 Converse,2022-04-04 00:00:00,State House,6,REP,Under Votes,2
 Converse,2022-04-04 00:00:00,State House,6,DEM,Write-ins,0
+Converse,2022-04-04 00:00:00,State House,6,DEM,Over Votes,0
+Converse,2022-04-04 00:00:00,State House,6,DEM,Under Votes,7
 Converse,2022-04-04 00:00:00,Ballots Cast,,REP,Ballots Cast,264
 Converse,2022-04-04 00:00:00,Ballots Cast,,DEM,Ballots Cast,7
 Converse,2022-04-04 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -227,12 +251,16 @@ Converse,2022-06-06 00:00:00,State Senate,2,REP,Write-ins,0
 Converse,2022-06-06 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-06-06 00:00:00,State Senate,2,REP,Under Votes,15
 Converse,2022-06-06 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-06-06 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-06-06 00:00:00,State Senate,2,DEM,Under Votes,5
 Converse,2022-06-06 00:00:00,State House,62,REP,Edis Allen,96
 Converse,2022-06-06 00:00:00,State House,62,REP,Kevin Campbell,76
 Converse,2022-06-06 00:00:00,State House,62,REP,Write-ins,0
 Converse,2022-06-06 00:00:00,State House,62,REP,Over Votes,0
 Converse,2022-06-06 00:00:00,State House,62,REP,Under Votes,17
 Converse,2022-06-06 00:00:00,State House,62,DEM,Write-ins,0
+Converse,2022-06-06 00:00:00,State House,62,DEM,Over Votes,0
+Converse,2022-06-06 00:00:00,State House,62,DEM,Under Votes,5
 Converse,2022-06-06 00:00:00,Ballots Cast,,REP,Ballots Cast,189
 Converse,2022-06-06 00:00:00,Ballots Cast,,DEM,Ballots Cast,5
 Converse,2022-06-06 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -261,12 +289,16 @@ Converse,2022-07-07 00:00:00,State Senate,2,REP,Write-ins,3
 Converse,2022-07-07 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-07-07 00:00:00,State Senate,2,REP,Under Votes,28
 Converse,2022-07-07 00:00:00,State Senate,2,DEM,Write-ins,1
+Converse,2022-07-07 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-07-07 00:00:00,State Senate,2,DEM,Under Votes,5
 Converse,2022-07-07 00:00:00,State House,6,REP,Aaron Clausen,50
 Converse,2022-07-07 00:00:00,State House,6,REP,Tomi Strock,84
 Converse,2022-07-07 00:00:00,State House,6,REP,Write-ins,1
 Converse,2022-07-07 00:00:00,State House,6,REP,Over Votes,1
 Converse,2022-07-07 00:00:00,State House,6,REP,Under Votes,3
 Converse,2022-07-07 00:00:00,State House,6,DEM,Write-ins,2
+Converse,2022-07-07 00:00:00,State House,6,DEM,Over Votes,0
+Converse,2022-07-07 00:00:00,State House,6,DEM,Under Votes,4
 Converse,2022-07-07 00:00:00,Ballots Cast,,REP,Ballots Cast,139
 Converse,2022-07-07 00:00:00,Ballots Cast,,DEM,Ballots Cast,6
 Converse,2022-07-07 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -295,12 +327,16 @@ Converse,2022-08-08 00:00:00,State Senate,2,REP,Write-ins,3
 Converse,2022-08-08 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-08-08 00:00:00,State Senate,2,REP,Under Votes,24
 Converse,2022-08-08 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-08-08 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-08-08 00:00:00,State Senate,2,DEM,Under Votes,4
 Converse,2022-08-08 00:00:00,State House,6,REP,Aaron Clausen,93
 Converse,2022-08-08 00:00:00,State House,6,REP,Tomi Strock,92
 Converse,2022-08-08 00:00:00,State House,6,REP,Write-ins,1
 Converse,2022-08-08 00:00:00,State House,6,REP,Over Votes,0
 Converse,2022-08-08 00:00:00,State House,6,REP,Under Votes,5
 Converse,2022-08-08 00:00:00,State House,6,DEM,Write-ins,0
+Converse,2022-08-08 00:00:00,State House,6,DEM,Over Votes,0
+Converse,2022-08-08 00:00:00,State House,6,DEM,Under Votes,4
 Converse,2022-08-08 00:00:00,Ballots Cast,,REP,Ballots Cast,191
 Converse,2022-08-08 00:00:00,Ballots Cast,,DEM,Ballots Cast,4
 Converse,2022-08-08 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -329,12 +365,16 @@ Converse,2022-09-01 00:00:00,State Senate,2,REP,Write-ins,2
 Converse,2022-09-01 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-09-01 00:00:00,State Senate,2,REP,Under Votes,14
 Converse,2022-09-01 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-09-01 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-09-01 00:00:00,State Senate,2,DEM,Under Votes,12
 Converse,2022-09-01 00:00:00,State House,62,REP,Edis Allen,154
 Converse,2022-09-01 00:00:00,State House,62,REP,Kevin Campbell,117
 Converse,2022-09-01 00:00:00,State House,62,REP,Write-ins,1
 Converse,2022-09-01 00:00:00,State House,62,REP,Over Votes,1
 Converse,2022-09-01 00:00:00,State House,62,REP,Under Votes,13
 Converse,2022-09-01 00:00:00,State House,62,DEM,Write-ins,0
+Converse,2022-09-01 00:00:00,State House,62,DEM,Over Votes,0
+Converse,2022-09-01 00:00:00,State House,62,DEM,Under Votes,12
 Converse,2022-09-01 00:00:00,Ballots Cast,,REP,Ballots Cast,286
 Converse,2022-09-01 00:00:00,Ballots Cast,,DEM,Ballots Cast,12
 Converse,2022-09-01 00:00:00,Ballots Cast,,NP,Ballots Cast,8
@@ -363,12 +403,16 @@ Converse,2022-09-02 00:00:00,State Senate,2,REP,Write-ins,5
 Converse,2022-09-02 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-09-02 00:00:00,State Senate,2,REP,Under Votes,15
 Converse,2022-09-02 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-09-02 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-09-02 00:00:00,State Senate,2,DEM,Under Votes,10
 Converse,2022-09-02 00:00:00,State House,62,REP,Edis Allen,117
 Converse,2022-09-02 00:00:00,State House,62,REP,Kevin Campbell,86
 Converse,2022-09-02 00:00:00,State House,62,REP,Write-ins,4
 Converse,2022-09-02 00:00:00,State House,62,REP,Over Votes,0
 Converse,2022-09-02 00:00:00,State House,62,REP,Under Votes,11
 Converse,2022-09-02 00:00:00,State House,62,DEM,Write-ins,0
+Converse,2022-09-02 00:00:00,State House,62,DEM,Over Votes,0
+Converse,2022-09-02 00:00:00,State House,62,DEM,Under Votes,10
 Converse,2022-09-02 00:00:00,Ballots Cast,,REP,Ballots Cast,218
 Converse,2022-09-02 00:00:00,Ballots Cast,,DEM,Ballots Cast,10
 Converse,2022-09-02 00:00:00,Ballots Cast,,NP,Ballots Cast,3
@@ -397,12 +441,16 @@ Converse,2022-10-10 00:00:00,State Senate,2,REP,Write-ins,1
 Converse,2022-10-10 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-10-10 00:00:00,State Senate,2,REP,Under Votes,16
 Converse,2022-10-10 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-10-10 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-10-10 00:00:00,State Senate,2,DEM,Under Votes,5
 Converse,2022-10-10 00:00:00,State House,62,REP,Edis Allen,73
 Converse,2022-10-10 00:00:00,State House,62,REP,Kevin Campbell,70
 Converse,2022-10-10 00:00:00,State House,62,REP,Write-ins,0
 Converse,2022-10-10 00:00:00,State House,62,REP,Over Votes,0
 Converse,2022-10-10 00:00:00,State House,62,REP,Under Votes,11
 Converse,2022-10-10 00:00:00,State House,62,DEM,Write-ins,0
+Converse,2022-10-10 00:00:00,State House,62,DEM,Over Votes,0
+Converse,2022-10-10 00:00:00,State House,62,DEM,Under Votes,5
 Converse,2022-10-10 00:00:00,Ballots Cast,,REP,Ballots Cast,154
 Converse,2022-10-10 00:00:00,Ballots Cast,,DEM,Ballots Cast,5
 Converse,2022-10-10 00:00:00,Ballots Cast,,NP,Ballots Cast,0
@@ -431,12 +479,16 @@ Converse,2022-11-11 00:00:00,State Senate,2,REP,Write-ins,2
 Converse,2022-11-11 00:00:00,State Senate,2,REP,Over Votes,0
 Converse,2022-11-11 00:00:00,State Senate,2,REP,Under Votes,21
 Converse,2022-11-11 00:00:00,State Senate,2,DEM,Write-ins,0
+Converse,2022-11-11 00:00:00,State Senate,2,DEM,Over Votes,0
+Converse,2022-11-11 00:00:00,State Senate,2,DEM,Under Votes,2
 Converse,2022-11-11 00:00:00,State House,62,REP,Edis Allen,44
 Converse,2022-11-11 00:00:00,State House,62,REP,Kevin Campbell,46
 Converse,2022-11-11 00:00:00,State House,62,REP,Write-ins,0
 Converse,2022-11-11 00:00:00,State House,62,REP,Over Votes,0
 Converse,2022-11-11 00:00:00,State House,62,REP,Under Votes,9
 Converse,2022-11-11 00:00:00,State House,62,DEM,Write-ins,0
+Converse,2022-11-11 00:00:00,State House,62,DEM,Over Votes,0
+Converse,2022-11-11 00:00:00,State House,62,DEM,Under Votes,2
 Converse,2022-11-11 00:00:00,Ballots Cast,,REP,Ballots Cast,99
 Converse,2022-11-11 00:00:00,Ballots Cast,,DEM,Ballots Cast,2
 Converse,2022-11-11 00:00:00,Ballots Cast,,NP,Ballots Cast,3
@@ -465,12 +517,16 @@ Converse,23-1,State Senate,2,REP,Write-ins,1
 Converse,23-1,State Senate,2,REP,Over Votes,0
 Converse,23-1,State Senate,2,REP,Under Votes,23
 Converse,23-1,State Senate,2,DEM,Write-ins,1
+Converse,23-1,State Senate,2,DEM,Over Votes,0
+Converse,23-1,State Senate,2,DEM,Under Votes,5
 Converse,23-1,State House,6,REP,Aaron Clausen,73
 Converse,23-1,State House,6,REP,Tomi Strock,62
 Converse,23-1,State House,6,REP,Write-ins,0
 Converse,23-1,State House,6,REP,Over Votes,0
 Converse,23-1,State House,6,REP,Under Votes,4
 Converse,23-1,State House,6,DEM,Write-ins,1
+Converse,23-1,State House,6,DEM,Over Votes,0
+Converse,23-1,State House,6,DEM,Under Votes,5
 Converse,23-1,Ballots Cast,,REP,Ballots Cast,139
 Converse,23-1,Ballots Cast,,DEM,Ballots Cast,6
 Converse,23-1,Ballots Cast,,NP,Ballots Cast,2
@@ -499,12 +555,16 @@ Converse,23-2,State Senate,2,REP,Write-ins,5
 Converse,23-2,State Senate,2,REP,Over Votes,0
 Converse,23-2,State Senate,2,REP,Under Votes,33
 Converse,23-2,State Senate,2,DEM,Write-ins,0
+Converse,23-2,State Senate,2,DEM,Over Votes,0
+Converse,23-2,State Senate,2,DEM,Under Votes,9
 Converse,23-2,State House,6,REP,Aaron Clausen,111
 Converse,23-2,State House,6,REP,Tomi Strock,153
 Converse,23-2,State House,6,REP,Write-ins,1
 Converse,23-2,State House,6,REP,Over Votes,0
 Converse,23-2,State House,6,REP,Under Votes,4
 Converse,23-2,State House,6,DEM,Write-ins,0
+Converse,23-2,State House,6,DEM,Over Votes,0
+Converse,23-2,State House,6,DEM,Under Votes,9
 Converse,23-2,Ballots Cast,,REP,Ballots Cast,269
 Converse,23-2,Ballots Cast,,DEM,Ballots Cast,9
 Converse,23-2,Ballots Cast,,NP,Ballots Cast,4
@@ -533,12 +593,16 @@ Converse,23-3,State Senate,2,REP,Write-ins,2
 Converse,23-3,State Senate,2,REP,Over Votes,0
 Converse,23-3,State Senate,2,REP,Under Votes,21
 Converse,23-3,State Senate,2,DEM,Write-ins,0
+Converse,23-3,State Senate,2,DEM,Over Votes,0
+Converse,23-3,State Senate,2,DEM,Under Votes,7
 Converse,23-3,State House,6,REP,Aaron Clausen,105
 Converse,23-3,State House,6,REP,Tomi Strock,99
 Converse,23-3,State House,6,REP,Write-ins,1
 Converse,23-3,State House,6,REP,Over Votes,0
 Converse,23-3,State House,6,REP,Under Votes,4
 Converse,23-3,State House,6,DEM,Write-ins,1
+Converse,23-3,State House,6,DEM,Over Votes,0
+Converse,23-3,State House,6,DEM,Under Votes,6
 Converse,23-3,Ballots Cast,,REP,Ballots Cast,209
 Converse,23-3,Ballots Cast,,DEM,Ballots Cast,7
 Converse,23-3,Ballots Cast,,NP,Ballots Cast,5
@@ -567,12 +631,16 @@ Converse,23-4,State Senate,2,REP,Write-ins,8
 Converse,23-4,State Senate,2,REP,Over Votes,0
 Converse,23-4,State Senate,2,REP,Under Votes,45
 Converse,23-4,State Senate,2,DEM,Write-ins,1
+Converse,23-4,State Senate,2,DEM,Over Votes,0
+Converse,23-4,State Senate,2,DEM,Under Votes,16
 Converse,23-4,State House,6,REP,Aaron Clausen,174
 Converse,23-4,State House,6,REP,Tomi Strock,168
 Converse,23-4,State House,6,REP,Write-ins,1
 Converse,23-4,State House,6,REP,Over Votes,1
 Converse,23-4,State House,6,REP,Under Votes,12
 Converse,23-4,State House,6,DEM,Write-ins,0
+Converse,23-4,State House,6,DEM,Over Votes,0
+Converse,23-4,State House,6,DEM,Under Votes,17
 Converse,23-4,Ballots Cast,,REP,Ballots Cast,356
 Converse,23-4,Ballots Cast,,DEM,Ballots Cast,17
 Converse,23-4,Ballots Cast,,NP,Ballots Cast,10
@@ -601,12 +669,16 @@ Converse,23-5,State Senate,2,REP,Write-ins,1
 Converse,23-5,State Senate,2,REP,Over Votes,0
 Converse,23-5,State Senate,2,REP,Under Votes,13
 Converse,23-5,State Senate,2,DEM,Write-ins,0
+Converse,23-5,State Senate,2,DEM,Over Votes,0
+Converse,23-5,State Senate,2,DEM,Under Votes,4
 Converse,23-5,State House,6,REP,Aaron Clausen,51
 Converse,23-5,State House,6,REP,Tomi Strock,95
 Converse,23-5,State House,6,REP,Write-ins,0
 Converse,23-5,State House,6,REP,Over Votes,0
 Converse,23-5,State House,6,REP,Under Votes,2
 Converse,23-5,State House,6,DEM,Write-ins,0
+Converse,23-5,State House,6,DEM,Over Votes,0
+Converse,23-5,State House,6,DEM,Under Votes,4
 Converse,23-5,Ballots Cast,,REP,Ballots Cast,148
 Converse,23-5,Ballots Cast,,DEM,Ballots Cast,4
 Converse,23-5,Ballots Cast,,NP,Ballots Cast,1
@@ -635,12 +707,16 @@ Converse,23-6,State Senate,2,REP,Write-ins,1
 Converse,23-6,State Senate,2,REP,Over Votes,0
 Converse,23-6,State Senate,2,REP,Under Votes,22
 Converse,23-6,State Senate,2,DEM,Write-ins,0
+Converse,23-6,State Senate,2,DEM,Over Votes,0
+Converse,23-6,State Senate,2,DEM,Under Votes,1
 Converse,23-6,State House,6,REP,Aaron Clausen,84
 Converse,23-6,State House,6,REP,Tomi Strock,78
 Converse,23-6,State House,6,REP,Write-ins,1
 Converse,23-6,State House,6,REP,Over Votes,1
 Converse,23-6,State House,6,REP,Under Votes,1
 Converse,23-6,State House,6,DEM,Write-ins,0
+Converse,23-6,State House,6,DEM,Over Votes,0
+Converse,23-6,State House,6,DEM,Under Votes,1
 Converse,23-6,Ballots Cast,,REP,Ballots Cast,165
 Converse,23-6,Ballots Cast,,DEM,Ballots Cast,1
 Converse,23-6,Ballots Cast,,NP,Ballots Cast,2

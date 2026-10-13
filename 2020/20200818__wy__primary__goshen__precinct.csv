@@ -37,6 +37,8 @@ Goshen,1-1,State House,2,REP,Write-ins,0
 Goshen,1-1,State House,2,REP,Over Votes,0
 Goshen,1-1,State House,2,REP,Under Votes,3
 Goshen,1-1,State House,2,DEM,Write-ins,0
+Goshen,1-1,State House,2,DEM,Over Votes,0
+Goshen,1-1,State House,2,DEM,Under Votes,0
 Goshen,1-1,Ballots Cast,,REP,Ballots Cast,42
 Goshen,1-1,Ballots Cast,,DEM,Ballots Cast,0
 Goshen,1-1,Ballots Cast,,NP,Ballots Cast,0
@@ -79,6 +81,8 @@ Goshen,10-1,State House,5,REP,Write-ins,1
 Goshen,10-1,State House,5,REP,Over Votes,0
 Goshen,10-1,State House,5,REP,Under Votes,5
 Goshen,10-1,State House,5,DEM,Write-ins,2
+Goshen,10-1,State House,5,DEM,Over Votes,0
+Goshen,10-1,State House,5,DEM,Under Votes,23
 Goshen,10-1,Ballots Cast,,REP,Ballots Cast,49
 Goshen,10-1,Ballots Cast,,DEM,Ballots Cast,25
 Goshen,10-1,Ballots Cast,,NP,Ballots Cast,5
@@ -121,6 +125,8 @@ Goshen,10-10,State House,2,REP,Write-ins,1
 Goshen,10-10,State House,2,REP,Over Votes,0
 Goshen,10-10,State House,2,REP,Under Votes,7
 Goshen,10-10,State House,2,DEM,Write-ins,3
+Goshen,10-10,State House,2,DEM,Over Votes,0
+Goshen,10-10,State House,2,DEM,Under Votes,22
 Goshen,10-10,Ballots Cast,,REP,Ballots Cast,74
 Goshen,10-10,Ballots Cast,,DEM,Ballots Cast,25
 Goshen,10-10,Ballots Cast,,NP,Ballots Cast,0
@@ -163,6 +169,8 @@ Goshen,10-11,State House,2,REP,Write-ins,2
 Goshen,10-11,State House,2,REP,Over Votes,0
 Goshen,10-11,State House,2,REP,Under Votes,7
 Goshen,10-11,State House,2,DEM,Write-ins,2
+Goshen,10-11,State House,2,DEM,Over Votes,0
+Goshen,10-11,State House,2,DEM,Under Votes,3
 Goshen,10-11,Ballots Cast,,REP,Ballots Cast,54
 Goshen,10-11,Ballots Cast,,DEM,Ballots Cast,5
 Goshen,10-11,Ballots Cast,,NP,Ballots Cast,1
@@ -217,6 +225,8 @@ Goshen,10-12,State House,10,REP,Write-ins,0
 Goshen,10-12,State House,10,REP,Over Votes,0
 Goshen,10-12,State House,10,REP,Under Votes,3
 Goshen,10-12,State House,10,DEM,Write-ins,0
+Goshen,10-12,State House,10,DEM,Over Votes,0
+Goshen,10-12,State House,10,DEM,Under Votes,1
 Goshen,10-12,Ballots Cast,,REP,Ballots Cast,11
 Goshen,10-12,Ballots Cast,,DEM,Ballots Cast,1
 Goshen,10-12,Ballots Cast,,NP,Ballots Cast,0
@@ -259,6 +269,8 @@ Goshen,10-2,State House,5,REP,Write-ins,2
 Goshen,10-2,State House,5,REP,Over Votes,0
 Goshen,10-2,State House,5,REP,Under Votes,14
 Goshen,10-2,State House,5,DEM,Write-ins,0
+Goshen,10-2,State House,5,DEM,Over Votes,0
+Goshen,10-2,State House,5,DEM,Under Votes,27
 Goshen,10-2,Ballots Cast,,REP,Ballots Cast,117
 Goshen,10-2,Ballots Cast,,DEM,Ballots Cast,27
 Goshen,10-2,Ballots Cast,,NP,Ballots Cast,5
@@ -301,6 +313,8 @@ Goshen,10-3,State House,2,REP,Write-ins,1
 Goshen,10-3,State House,2,REP,Over Votes,0
 Goshen,10-3,State House,2,REP,Under Votes,5
 Goshen,10-3,State House,2,DEM,Write-ins,1
+Goshen,10-3,State House,2,DEM,Over Votes,0
+Goshen,10-3,State House,2,DEM,Under Votes,7
 Goshen,10-3,Ballots Cast,,REP,Ballots Cast,36
 Goshen,10-3,Ballots Cast,,DEM,Ballots Cast,8
 Goshen,10-3,Ballots Cast,,NP,Ballots Cast,4
@@ -343,6 +357,8 @@ Goshen,10-4,State House,5,REP,Write-ins,4
 Goshen,10-4,State House,5,REP,Over Votes,0
 Goshen,10-4,State House,5,REP,Under Votes,38
 Goshen,10-4,State House,5,DEM,Write-ins,3
+Goshen,10-4,State House,5,DEM,Over Votes,0
+Goshen,10-4,State House,5,DEM,Under Votes,49
 Goshen,10-4,Ballots Cast,,REP,Ballots Cast,318
 Goshen,10-4,Ballots Cast,,DEM,Ballots Cast,52
 Goshen,10-4,Ballots Cast,,NP,Ballots Cast,10
@@ -385,6 +401,8 @@ Goshen,10-5,State House,5,REP,Write-ins,7
 Goshen,10-5,State House,5,REP,Over Votes,0
 Goshen,10-5,State House,5,REP,Under Votes,28
 Goshen,10-5,State House,5,DEM,Write-ins,6
+Goshen,10-5,State House,5,DEM,Over Votes,0
+Goshen,10-5,State House,5,DEM,Under Votes,41
 Goshen,10-5,Ballots Cast,,REP,Ballots Cast,212
 Goshen,10-5,Ballots Cast,,DEM,Ballots Cast,47
 Goshen,10-5,Ballots Cast,,NP,Ballots Cast,8
@@ -427,6 +445,8 @@ Goshen,10-6,State House,5,REP,Write-ins,6
 Goshen,10-6,State House,5,REP,Over Votes,0
 Goshen,10-6,State House,5,REP,Under Votes,14
 Goshen,10-6,State House,5,DEM,Write-ins,1
+Goshen,10-6,State House,5,DEM,Over Votes,0
+Goshen,10-6,State House,5,DEM,Under Votes,45
 Goshen,10-6,Ballots Cast,,REP,Ballots Cast,158
 Goshen,10-6,Ballots Cast,,DEM,Ballots Cast,46
 Goshen,10-6,Ballots Cast,,NP,Ballots Cast,10
@@ -469,6 +489,8 @@ Goshen,10-7,State House,5,REP,Write-ins,2
 Goshen,10-7,State House,5,REP,Over Votes,1
 Goshen,10-7,State House,5,REP,Under Votes,18
 Goshen,10-7,State House,5,DEM,Write-ins,1
+Goshen,10-7,State House,5,DEM,Over Votes,0
+Goshen,10-7,State House,5,DEM,Under Votes,26
 Goshen,10-7,Ballots Cast,,REP,Ballots Cast,150
 Goshen,10-7,Ballots Cast,,DEM,Ballots Cast,27
 Goshen,10-7,Ballots Cast,,NP,Ballots Cast,12
@@ -511,6 +533,8 @@ Goshen,10-8,State House,2,REP,Write-ins,5
 Goshen,10-8,State House,2,REP,Over Votes,0
 Goshen,10-8,State House,2,REP,Under Votes,37
 Goshen,10-8,State House,2,DEM,Write-ins,1
+Goshen,10-8,State House,2,DEM,Over Votes,0
+Goshen,10-8,State House,2,DEM,Under Votes,42
 Goshen,10-8,Ballots Cast,,REP,Ballots Cast,356
 Goshen,10-8,Ballots Cast,,DEM,Ballots Cast,43
 Goshen,10-8,Ballots Cast,,NP,Ballots Cast,0
@@ -553,6 +577,8 @@ Goshen,10-9,State House,5,REP,Write-ins,11
 Goshen,10-9,State House,5,REP,Over Votes,0
 Goshen,10-9,State House,5,REP,Under Votes,31
 Goshen,10-9,State House,5,DEM,Write-ins,3
+Goshen,10-9,State House,5,DEM,Over Votes,0
+Goshen,10-9,State House,5,DEM,Under Votes,47
 Goshen,10-9,Ballots Cast,,REP,Ballots Cast,301
 Goshen,10-9,Ballots Cast,,DEM,Ballots Cast,50
 Goshen,10-9,Ballots Cast,,NP,Ballots Cast,0
@@ -595,6 +621,8 @@ Goshen,13-1,State House,5,REP,Write-ins,1
 Goshen,13-1,State House,5,REP,Over Votes,1
 Goshen,13-1,State House,5,REP,Under Votes,8
 Goshen,13-1,State House,5,DEM,Write-ins,1
+Goshen,13-1,State House,5,DEM,Over Votes,0
+Goshen,13-1,State House,5,DEM,Under Votes,9
 Goshen,13-1,Ballots Cast,,REP,Ballots Cast,102
 Goshen,13-1,Ballots Cast,,DEM,Ballots Cast,10
 Goshen,13-1,Ballots Cast,,NP,Ballots Cast,0
@@ -637,6 +665,8 @@ Goshen,15-1,State House,5,REP,Write-ins,1
 Goshen,15-1,State House,5,REP,Over Votes,0
 Goshen,15-1,State House,5,REP,Under Votes,15
 Goshen,15-1,State House,5,DEM,Write-ins,1
+Goshen,15-1,State House,5,DEM,Over Votes,0
+Goshen,15-1,State House,5,DEM,Under Votes,13
 Goshen,15-1,Ballots Cast,,REP,Ballots Cast,114
 Goshen,15-1,Ballots Cast,,DEM,Ballots Cast,14
 Goshen,15-1,Ballots Cast,,NP,Ballots Cast,0
@@ -679,6 +709,8 @@ Goshen,16-1,State House,5,REP,Write-ins,1
 Goshen,16-1,State House,5,REP,Over Votes,0
 Goshen,16-1,State House,5,REP,Under Votes,5
 Goshen,16-1,State House,5,DEM,Write-ins,0
+Goshen,16-1,State House,5,DEM,Over Votes,0
+Goshen,16-1,State House,5,DEM,Under Votes,1
 Goshen,16-1,Ballots Cast,,REP,Ballots Cast,93
 Goshen,16-1,Ballots Cast,,DEM,Ballots Cast,1
 Goshen,16-1,Ballots Cast,,NP,Ballots Cast,0
@@ -733,6 +765,8 @@ Goshen,16-2,State House,10,REP,Write-ins,1
 Goshen,16-2,State House,10,REP,Over Votes,0
 Goshen,16-2,State House,10,REP,Under Votes,7
 Goshen,16-2,State House,10,DEM,Write-ins,0
+Goshen,16-2,State House,10,DEM,Over Votes,0
+Goshen,16-2,State House,10,DEM,Under Votes,1
 Goshen,16-2,Ballots Cast,,REP,Ballots Cast,81
 Goshen,16-2,Ballots Cast,,DEM,Ballots Cast,1
 Goshen,16-2,Ballots Cast,,NP,Ballots Cast,0
@@ -775,6 +809,8 @@ Goshen,17-1,State House,5,REP,Write-ins,4
 Goshen,17-1,State House,5,REP,Over Votes,0
 Goshen,17-1,State House,5,REP,Under Votes,4
 Goshen,17-1,State House,5,DEM,Write-ins,0
+Goshen,17-1,State House,5,DEM,Over Votes,0
+Goshen,17-1,State House,5,DEM,Under Votes,1
 Goshen,17-1,Ballots Cast,,REP,Ballots Cast,53
 Goshen,17-1,Ballots Cast,,DEM,Ballots Cast,1
 Goshen,17-1,Ballots Cast,,NP,Ballots Cast,0
@@ -829,6 +865,8 @@ Goshen,17-2,State House,10,REP,Write-ins,0
 Goshen,17-2,State House,10,REP,Over Votes,0
 Goshen,17-2,State House,10,REP,Under Votes,0
 Goshen,17-2,State House,10,DEM,Write-ins,0
+Goshen,17-2,State House,10,DEM,Over Votes,0
+Goshen,17-2,State House,10,DEM,Under Votes,0
 Goshen,17-2,Ballots Cast,,REP,Ballots Cast,11
 Goshen,17-2,Ballots Cast,,DEM,Ballots Cast,0
 Goshen,17-2,Ballots Cast,,NP,Ballots Cast,0
@@ -871,6 +909,8 @@ Goshen,18-1,State House,5,REP,Write-ins,15
 Goshen,18-1,State House,5,REP,Over Votes,0
 Goshen,18-1,State House,5,REP,Under Votes,19
 Goshen,18-1,State House,5,DEM,Write-ins,1
+Goshen,18-1,State House,5,DEM,Over Votes,0
+Goshen,18-1,State House,5,DEM,Under Votes,9
 Goshen,18-1,Ballots Cast,,REP,Ballots Cast,137
 Goshen,18-1,Ballots Cast,,DEM,Ballots Cast,10
 Goshen,18-1,Ballots Cast,,NP,Ballots Cast,0
@@ -925,6 +965,8 @@ Goshen,18-3,State House,10,REP,Write-ins,0
 Goshen,18-3,State House,10,REP,Over Votes,0
 Goshen,18-3,State House,10,REP,Under Votes,1
 Goshen,18-3,State House,10,DEM,Write-ins,0
+Goshen,18-3,State House,10,DEM,Over Votes,0
+Goshen,18-3,State House,10,DEM,Under Votes,0
 Goshen,18-3,Ballots Cast,,REP,Ballots Cast,31
 Goshen,18-3,Ballots Cast,,DEM,Ballots Cast,0
 Goshen,18-3,Ballots Cast,,NP,Ballots Cast,0
@@ -967,6 +1009,8 @@ Goshen,2-1,State House,2,REP,Write-ins,0
 Goshen,2-1,State House,2,REP,Over Votes,0
 Goshen,2-1,State House,2,REP,Under Votes,5
 Goshen,2-1,State House,2,DEM,Write-ins,0
+Goshen,2-1,State House,2,DEM,Over Votes,0
+Goshen,2-1,State House,2,DEM,Under Votes,7
 Goshen,2-1,Ballots Cast,,REP,Ballots Cast,55
 Goshen,2-1,Ballots Cast,,DEM,Ballots Cast,7
 Goshen,2-1,Ballots Cast,,NP,Ballots Cast,0
@@ -1009,6 +1053,8 @@ Goshen,20-1,State House,5,REP,Write-ins,0
 Goshen,20-1,State House,5,REP,Over Votes,0
 Goshen,20-1,State House,5,REP,Under Votes,2
 Goshen,20-1,State House,5,DEM,Write-ins,0
+Goshen,20-1,State House,5,DEM,Over Votes,0
+Goshen,20-1,State House,5,DEM,Under Votes,0
 Goshen,20-1,Ballots Cast,,REP,Ballots Cast,19
 Goshen,20-1,Ballots Cast,,DEM,Ballots Cast,0
 Goshen,20-1,Ballots Cast,,NP,Ballots Cast,0
@@ -1051,6 +1097,8 @@ Goshen,8-1,State House,5,REP,Write-ins,12
 Goshen,8-1,State House,5,REP,Over Votes,0
 Goshen,8-1,State House,5,REP,Under Votes,46
 Goshen,8-1,State House,5,DEM,Write-ins,1
+Goshen,8-1,State House,5,DEM,Over Votes,0
+Goshen,8-1,State House,5,DEM,Under Votes,19
 Goshen,8-1,Ballots Cast,,REP,Ballots Cast,290
 Goshen,8-1,Ballots Cast,,DEM,Ballots Cast,20
 Goshen,8-1,Ballots Cast,,NP,Ballots Cast,0
@@ -1093,6 +1141,8 @@ Goshen,9-1,State House,5,REP,Write-ins,11
 Goshen,9-1,State House,5,REP,Over Votes,0
 Goshen,9-1,State House,5,REP,Under Votes,16
 Goshen,9-1,State House,5,DEM,Write-ins,2
+Goshen,9-1,State House,5,DEM,Over Votes,0
+Goshen,9-1,State House,5,DEM,Under Votes,16
 Goshen,9-1,Ballots Cast,,REP,Ballots Cast,147
 Goshen,9-1,Ballots Cast,,DEM,Ballots Cast,18
 Goshen,9-1,Ballots Cast,,NP,Ballots Cast,0

@@ -40,12 +40,16 @@ Uinta,1-1,State Auditor,,REP,Write-ins,5
 Uinta,1-1,State Auditor,,REP,Over Votes,0
 Uinta,1-1,State Auditor,,REP,Under Votes,223
 Uinta,1-1,State Auditor,,DEM,Write-ins,1
+Uinta,1-1,State Auditor,,DEM,Over Votes,0
+Uinta,1-1,State Auditor,,DEM,Under Votes,38
 Uinta,1-1,State Treasurer,,REP,Bill Gallop,195
 Uinta,1-1,State Treasurer,,REP,Curt Meier,534
 Uinta,1-1,State Treasurer,,REP,Write-ins,3
 Uinta,1-1,State Treasurer,,REP,Over Votes,0
 Uinta,1-1,State Treasurer,,REP,Under Votes,214
 Uinta,1-1,State Treasurer,,DEM,Write-ins,1
+Uinta,1-1,State Treasurer,,DEM,Over Votes,0
+Uinta,1-1,State Treasurer,,DEM,Under Votes,38
 Uinta,1-1,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,109
 Uinta,1-1,Superintendent of Public Instruction,,REP,Brian Schroeder,310
 Uinta,1-1,Superintendent of Public Instruction,,REP,Jennifer Zerba,102
@@ -64,6 +68,8 @@ Uinta,1-1,State Senate,15,REP,Write-ins,2
 Uinta,1-1,State Senate,15,REP,Over Votes,0
 Uinta,1-1,State Senate,15,REP,Under Votes,44
 Uinta,1-1,State Senate,15,DEM,Write-ins,2
+Uinta,1-1,State Senate,15,DEM,Over Votes,0
+Uinta,1-1,State Senate,15,DEM,Under Votes,37
 Uinta,1-1,State House,49,REP,Ryan C. Berger,549
 Uinta,1-1,State House,49,REP,Vladimir Allred,297
 Uinta,1-1,State House,49,REP,Write-ins,4
@@ -118,12 +124,16 @@ Uinta,1-2,State Auditor,,REP,Write-ins,1
 Uinta,1-2,State Auditor,,REP,Over Votes,1
 Uinta,1-2,State Auditor,,REP,Under Votes,300
 Uinta,1-2,State Auditor,,DEM,Write-ins,3
+Uinta,1-2,State Auditor,,DEM,Over Votes,0
+Uinta,1-2,State Auditor,,DEM,Under Votes,63
 Uinta,1-2,State Treasurer,,REP,Bill Gallop,241
 Uinta,1-2,State Treasurer,,REP,Curt Meier,684
 Uinta,1-2,State Treasurer,,REP,Write-ins,2
 Uinta,1-2,State Treasurer,,REP,Over Votes,0
 Uinta,1-2,State Treasurer,,REP,Under Votes,261
 Uinta,1-2,State Treasurer,,DEM,Write-ins,3
+Uinta,1-2,State Treasurer,,DEM,Over Votes,0
+Uinta,1-2,State Treasurer,,DEM,Under Votes,63
 Uinta,1-2,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,108
 Uinta,1-2,Superintendent of Public Instruction,,REP,Brian Schroeder,379
 Uinta,1-2,Superintendent of Public Instruction,,REP,Jennifer Zerba,132
@@ -142,6 +152,8 @@ Uinta,1-2,State Senate,15,REP,Write-ins,3
 Uinta,1-2,State Senate,15,REP,Over Votes,0
 Uinta,1-2,State Senate,15,REP,Under Votes,57
 Uinta,1-2,State Senate,15,DEM,Write-ins,5
+Uinta,1-2,State Senate,15,DEM,Over Votes,0
+Uinta,1-2,State Senate,15,DEM,Under Votes,61
 Uinta,1-2,State House,19,REP,Andy Stocks,4
 Uinta,1-2,State House,19,REP,Jon R. Conrad,17
 Uinta,1-2,State House,19,REP,Karl Allred,16
@@ -206,12 +218,16 @@ Uinta,1-3,State Auditor,,REP,Write-ins,3
 Uinta,1-3,State Auditor,,REP,Over Votes,0
 Uinta,1-3,State Auditor,,REP,Under Votes,105
 Uinta,1-3,State Auditor,,DEM,Write-ins,0
+Uinta,1-3,State Auditor,,DEM,Over Votes,0
+Uinta,1-3,State Auditor,,DEM,Under Votes,26
 Uinta,1-3,State Treasurer,,REP,Bill Gallop,121
 Uinta,1-3,State Treasurer,,REP,Curt Meier,250
 Uinta,1-3,State Treasurer,,REP,Write-ins,1
 Uinta,1-3,State Treasurer,,REP,Over Votes,0
 Uinta,1-3,State Treasurer,,REP,Under Votes,82
 Uinta,1-3,State Treasurer,,DEM,Write-ins,0
+Uinta,1-3,State Treasurer,,DEM,Over Votes,0
+Uinta,1-3,State Treasurer,,DEM,Under Votes,26
 Uinta,1-3,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,40
 Uinta,1-3,Superintendent of Public Instruction,,REP,Brian Schroeder,179
 Uinta,1-3,Superintendent of Public Instruction,,REP,Jennifer Zerba,42
@@ -230,11 +246,15 @@ Uinta,1-3,State Senate,15,REP,Write-ins,1
 Uinta,1-3,State Senate,15,REP,Over Votes,0
 Uinta,1-3,State Senate,15,REP,Under Votes,19
 Uinta,1-3,State Senate,15,DEM,Write-ins,2
+Uinta,1-3,State Senate,15,DEM,Over Votes,0
+Uinta,1-3,State Senate,15,DEM,Under Votes,22
 Uinta,1-3,State House,18,REP,Scott Heiner,15
 Uinta,1-3,State House,18,REP,Write-ins,2
 Uinta,1-3,State House,18,REP,Over Votes,0
 Uinta,1-3,State House,18,REP,Under Votes,5
 Uinta,1-3,State House,18,DEM,Write-ins,0
+Uinta,1-3,State House,18,DEM,Over Votes,0
+Uinta,1-3,State House,18,DEM,Under Votes,2
 Uinta,1-3,State House,19,REP,Andy Stocks,1
 Uinta,1-3,State House,19,REP,Jon R. Conrad,1
 Uinta,1-3,State House,19,REP,Karl Allred,1
@@ -299,12 +319,16 @@ Uinta,1-4,State Auditor,,REP,Write-ins,2
 Uinta,1-4,State Auditor,,REP,Over Votes,0
 Uinta,1-4,State Auditor,,REP,Under Votes,34
 Uinta,1-4,State Auditor,,DEM,Write-ins,0
+Uinta,1-4,State Auditor,,DEM,Over Votes,0
+Uinta,1-4,State Auditor,,DEM,Under Votes,13
 Uinta,1-4,State Treasurer,,REP,Bill Gallop,64
 Uinta,1-4,State Treasurer,,REP,Curt Meier,109
 Uinta,1-4,State Treasurer,,REP,Write-ins,0
 Uinta,1-4,State Treasurer,,REP,Over Votes,0
 Uinta,1-4,State Treasurer,,REP,Under Votes,32
 Uinta,1-4,State Treasurer,,DEM,Write-ins,1
+Uinta,1-4,State Treasurer,,DEM,Over Votes,0
+Uinta,1-4,State Treasurer,,DEM,Under Votes,12
 Uinta,1-4,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,34
 Uinta,1-4,Superintendent of Public Instruction,,REP,Brian Schroeder,64
 Uinta,1-4,Superintendent of Public Instruction,,REP,Jennifer Zerba,22
@@ -323,6 +347,8 @@ Uinta,1-4,State Senate,15,REP,Write-ins,0
 Uinta,1-4,State Senate,15,REP,Over Votes,0
 Uinta,1-4,State Senate,15,REP,Under Votes,8
 Uinta,1-4,State Senate,15,DEM,Write-ins,1
+Uinta,1-4,State Senate,15,DEM,Over Votes,0
+Uinta,1-4,State Senate,15,DEM,Under Votes,12
 Uinta,1-4,State House,19,REP,Andy Stocks,44
 Uinta,1-4,State House,19,REP,Jon R. Conrad,65
 Uinta,1-4,State House,19,REP,Karl Allred,85
@@ -378,12 +404,16 @@ Uinta,2-1,State Auditor,,REP,Write-ins,1
 Uinta,2-1,State Auditor,,REP,Over Votes,0
 Uinta,2-1,State Auditor,,REP,Under Votes,145
 Uinta,2-1,State Auditor,,DEM,Write-ins,0
+Uinta,2-1,State Auditor,,DEM,Over Votes,0
+Uinta,2-1,State Auditor,,DEM,Under Votes,13
 Uinta,2-1,State Treasurer,,REP,Bill Gallop,132
 Uinta,2-1,State Treasurer,,REP,Curt Meier,404
 Uinta,2-1,State Treasurer,,REP,Write-ins,1
 Uinta,2-1,State Treasurer,,REP,Over Votes,0
 Uinta,2-1,State Treasurer,,REP,Under Votes,144
 Uinta,2-1,State Treasurer,,DEM,Write-ins,0
+Uinta,2-1,State Treasurer,,DEM,Over Votes,0
+Uinta,2-1,State Treasurer,,DEM,Under Votes,13
 Uinta,2-1,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,49
 Uinta,2-1,Superintendent of Public Instruction,,REP,Brian Schroeder,241
 Uinta,2-1,Superintendent of Public Instruction,,REP,Jennifer Zerba,55
@@ -402,11 +432,15 @@ Uinta,2-1,State Senate,15,REP,Write-ins,2
 Uinta,2-1,State Senate,15,REP,Over Votes,0
 Uinta,2-1,State Senate,15,REP,Under Votes,24
 Uinta,2-1,State Senate,15,DEM,Write-ins,0
+Uinta,2-1,State Senate,15,DEM,Over Votes,0
+Uinta,2-1,State Senate,15,DEM,Under Votes,7
 Uinta,2-1,State House,18,REP,Scott Heiner,222
 Uinta,2-1,State House,18,REP,Write-ins,3
 Uinta,2-1,State House,18,REP,Over Votes,0
 Uinta,2-1,State House,18,REP,Under Votes,71
 Uinta,2-1,State House,18,DEM,Write-ins,0
+Uinta,2-1,State House,18,DEM,Over Votes,0
+Uinta,2-1,State House,18,DEM,Under Votes,6
 Uinta,2-1,State House,19,REP,Andy Stocks,56
 Uinta,2-1,State House,19,REP,Jon R. Conrad,181
 Uinta,2-1,State House,19,REP,Karl Allred,105
@@ -471,12 +505,16 @@ Uinta,2-2,State Auditor,,REP,Write-ins,1
 Uinta,2-2,State Auditor,,REP,Over Votes,0
 Uinta,2-2,State Auditor,,REP,Under Votes,19
 Uinta,2-2,State Auditor,,DEM,Write-ins,1
+Uinta,2-2,State Auditor,,DEM,Over Votes,0
+Uinta,2-2,State Auditor,,DEM,Under Votes,4
 Uinta,2-2,State Treasurer,,REP,Bill Gallop,48
 Uinta,2-2,State Treasurer,,REP,Curt Meier,98
 Uinta,2-2,State Treasurer,,REP,Write-ins,0
 Uinta,2-2,State Treasurer,,REP,Over Votes,0
 Uinta,2-2,State Treasurer,,REP,Under Votes,21
 Uinta,2-2,State Treasurer,,DEM,Write-ins,1
+Uinta,2-2,State Treasurer,,DEM,Over Votes,0
+Uinta,2-2,State Treasurer,,DEM,Under Votes,4
 Uinta,2-2,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,19
 Uinta,2-2,Superintendent of Public Instruction,,REP,Brian Schroeder,56
 Uinta,2-2,Superintendent of Public Instruction,,REP,Jennifer Zerba,19
@@ -494,6 +532,8 @@ Uinta,2-2,State House,18,REP,Write-ins,2
 Uinta,2-2,State House,18,REP,Over Votes,0
 Uinta,2-2,State House,18,REP,Under Votes,19
 Uinta,2-2,State House,18,DEM,Write-ins,0
+Uinta,2-2,State House,18,DEM,Over Votes,0
+Uinta,2-2,State House,18,DEM,Under Votes,5
 Uinta,2-2,Ballots Cast,,REP,Ballots Cast,167
 Uinta,2-2,Ballots Cast,,DEM,Ballots Cast,5
 Uinta,2-2,Ballots Cast,,NP,Ballots Cast,4
@@ -539,12 +579,16 @@ Uinta,3-1,State Auditor,,REP,Write-ins,1
 Uinta,3-1,State Auditor,,REP,Over Votes,0
 Uinta,3-1,State Auditor,,REP,Under Votes,119
 Uinta,3-1,State Auditor,,DEM,Write-ins,1
+Uinta,3-1,State Auditor,,DEM,Over Votes,0
+Uinta,3-1,State Auditor,,DEM,Under Votes,15
 Uinta,3-1,State Treasurer,,REP,Bill Gallop,177
 Uinta,3-1,State Treasurer,,REP,Curt Meier,277
 Uinta,3-1,State Treasurer,,REP,Write-ins,0
 Uinta,3-1,State Treasurer,,REP,Over Votes,0
 Uinta,3-1,State Treasurer,,REP,Under Votes,121
 Uinta,3-1,State Treasurer,,DEM,Write-ins,1
+Uinta,3-1,State Treasurer,,DEM,Over Votes,0
+Uinta,3-1,State Treasurer,,DEM,Under Votes,15
 Uinta,3-1,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,31
 Uinta,3-1,Superintendent of Public Instruction,,REP,Brian Schroeder,183
 Uinta,3-1,Superintendent of Public Instruction,,REP,Jennifer Zerba,76
@@ -563,6 +607,8 @@ Uinta,3-1,State Senate,15,REP,Write-ins,1
 Uinta,3-1,State Senate,15,REP,Over Votes,1
 Uinta,3-1,State Senate,15,REP,Under Votes,49
 Uinta,3-1,State Senate,15,DEM,Write-ins,1
+Uinta,3-1,State Senate,15,DEM,Over Votes,0
+Uinta,3-1,State Senate,15,DEM,Under Votes,15
 Uinta,3-1,State House,19,REP,Andy Stocks,207
 Uinta,3-1,State House,19,REP,Jon R. Conrad,193
 Uinta,3-1,State House,19,REP,Karl Allred,142
@@ -618,12 +664,16 @@ Uinta,3-2,State Auditor,,REP,Write-ins,6
 Uinta,3-2,State Auditor,,REP,Over Votes,0
 Uinta,3-2,State Auditor,,REP,Under Votes,83
 Uinta,3-2,State Auditor,,DEM,Write-ins,0
+Uinta,3-2,State Auditor,,DEM,Over Votes,0
+Uinta,3-2,State Auditor,,DEM,Under Votes,5
 Uinta,3-2,State Treasurer,,REP,Bill Gallop,85
 Uinta,3-2,State Treasurer,,REP,Curt Meier,243
 Uinta,3-2,State Treasurer,,REP,Write-ins,0
 Uinta,3-2,State Treasurer,,REP,Over Votes,0
 Uinta,3-2,State Treasurer,,REP,Under Votes,77
 Uinta,3-2,State Treasurer,,DEM,Write-ins,0
+Uinta,3-2,State Treasurer,,DEM,Over Votes,0
+Uinta,3-2,State Treasurer,,DEM,Under Votes,5
 Uinta,3-2,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,25
 Uinta,3-2,Superintendent of Public Instruction,,REP,Brian Schroeder,134
 Uinta,3-2,Superintendent of Public Instruction,,REP,Jennifer Zerba,42
@@ -642,6 +692,8 @@ Uinta,3-2,State Senate,15,REP,Write-ins,0
 Uinta,3-2,State Senate,15,REP,Over Votes,0
 Uinta,3-2,State Senate,15,REP,Under Votes,20
 Uinta,3-2,State Senate,15,DEM,Write-ins,0
+Uinta,3-2,State Senate,15,DEM,Over Votes,0
+Uinta,3-2,State Senate,15,DEM,Under Votes,5
 Uinta,3-2,State House,19,REP,Andy Stocks,116
 Uinta,3-2,State House,19,REP,Jon R. Conrad,144
 Uinta,3-2,State House,19,REP,Karl Allred,132
@@ -697,12 +749,16 @@ Uinta,4-1,State Auditor,,REP,Write-ins,2
 Uinta,4-1,State Auditor,,REP,Over Votes,1
 Uinta,4-1,State Auditor,,REP,Under Votes,121
 Uinta,4-1,State Auditor,,DEM,Write-ins,3
+Uinta,4-1,State Auditor,,DEM,Over Votes,0
+Uinta,4-1,State Auditor,,DEM,Under Votes,23
 Uinta,4-1,State Treasurer,,REP,Bill Gallop,135
 Uinta,4-1,State Treasurer,,REP,Curt Meier,389
 Uinta,4-1,State Treasurer,,REP,Write-ins,1
 Uinta,4-1,State Treasurer,,REP,Over Votes,0
 Uinta,4-1,State Treasurer,,REP,Under Votes,132
 Uinta,4-1,State Treasurer,,DEM,Write-ins,3
+Uinta,4-1,State Treasurer,,DEM,Over Votes,0
+Uinta,4-1,State Treasurer,,DEM,Under Votes,23
 Uinta,4-1,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,59
 Uinta,4-1,Superintendent of Public Instruction,,REP,Brian Schroeder,235
 Uinta,4-1,Superintendent of Public Instruction,,REP,Jennifer Zerba,77
@@ -721,6 +777,8 @@ Uinta,4-1,State Senate,15,REP,Write-ins,1
 Uinta,4-1,State Senate,15,REP,Over Votes,0
 Uinta,4-1,State Senate,15,REP,Under Votes,42
 Uinta,4-1,State Senate,15,DEM,Write-ins,3
+Uinta,4-1,State Senate,15,DEM,Over Votes,0
+Uinta,4-1,State Senate,15,DEM,Under Votes,23
 Uinta,4-1,State House,19,REP,Andy Stocks,111
 Uinta,4-1,State House,19,REP,Jon R. Conrad,330
 Uinta,4-1,State House,19,REP,Karl Allred,175
@@ -776,12 +834,16 @@ Uinta,4-2,State Auditor,,REP,Write-ins,1
 Uinta,4-2,State Auditor,,REP,Over Votes,0
 Uinta,4-2,State Auditor,,REP,Under Votes,64
 Uinta,4-2,State Auditor,,DEM,Write-ins,1
+Uinta,4-2,State Auditor,,DEM,Over Votes,0
+Uinta,4-2,State Auditor,,DEM,Under Votes,12
 Uinta,4-2,State Treasurer,,REP,Bill Gallop,90
 Uinta,4-2,State Treasurer,,REP,Curt Meier,213
 Uinta,4-2,State Treasurer,,REP,Write-ins,0
 Uinta,4-2,State Treasurer,,REP,Over Votes,0
 Uinta,4-2,State Treasurer,,REP,Under Votes,74
 Uinta,4-2,State Treasurer,,DEM,Write-ins,1
+Uinta,4-2,State Treasurer,,DEM,Over Votes,0
+Uinta,4-2,State Treasurer,,DEM,Under Votes,12
 Uinta,4-2,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,34
 Uinta,4-2,Superintendent of Public Instruction,,REP,Brian Schroeder,118
 Uinta,4-2,Superintendent of Public Instruction,,REP,Jennifer Zerba,39
@@ -800,6 +862,8 @@ Uinta,4-2,State Senate,15,REP,Write-ins,1
 Uinta,4-2,State Senate,15,REP,Over Votes,0
 Uinta,4-2,State Senate,15,REP,Under Votes,25
 Uinta,4-2,State Senate,15,DEM,Write-ins,1
+Uinta,4-2,State Senate,15,DEM,Over Votes,0
+Uinta,4-2,State Senate,15,DEM,Under Votes,12
 Uinta,4-2,State House,19,REP,Andy Stocks,99
 Uinta,4-2,State House,19,REP,Jon R. Conrad,147
 Uinta,4-2,State House,19,REP,Karl Allred,96

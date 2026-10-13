@@ -93,6 +93,8 @@ Carbon,1-2,State House,47,REP,Write-ins,0
 Carbon,1-2,State House,47,REP,Over Votes,0
 Carbon,1-2,State House,47,REP,Under Votes,2
 Carbon,1-2,State House,47,DEM,Write-ins,2
+Carbon,1-2,State House,47,DEM,Over Votes,0
+Carbon,1-2,State House,47,DEM,Under Votes,2
 Carbon,1-2,Ballots Cast,,REP,Ballots Cast,85
 Carbon,1-2,Ballots Cast,,DEM,Ballots Cast,14
 Carbon,1-2,Ballots Cast,,NP,Ballots Cast,2
@@ -138,6 +140,8 @@ Carbon,10-1,State House,47,REP,Write-ins,0
 Carbon,10-1,State House,47,REP,Over Votes,1
 Carbon,10-1,State House,47,REP,Under Votes,5
 Carbon,10-1,State House,47,DEM,Write-ins,0
+Carbon,10-1,State House,47,DEM,Over Votes,0
+Carbon,10-1,State House,47,DEM,Under Votes,3
 Carbon,10-1,Ballots Cast,,REP,Ballots Cast,30
 Carbon,10-1,Ballots Cast,,DEM,Ballots Cast,3
 Carbon,10-1,Ballots Cast,,NP,Ballots Cast,0
@@ -183,6 +187,8 @@ Carbon,11-1,State House,47,REP,Write-ins,0
 Carbon,11-1,State House,47,REP,Over Votes,3
 Carbon,11-1,State House,47,REP,Under Votes,5
 Carbon,11-1,State House,47,DEM,Write-ins,21
+Carbon,11-1,State House,47,DEM,Over Votes,0
+Carbon,11-1,State House,47,DEM,Under Votes,75
 Carbon,11-1,Ballots Cast,,REP,Ballots Cast,458
 Carbon,11-1,Ballots Cast,,DEM,Ballots Cast,96
 Carbon,11-1,Ballots Cast,,NP,Ballots Cast,30
@@ -228,6 +234,8 @@ Carbon,11-2,State House,47,REP,Write-ins,0
 Carbon,11-2,State House,47,REP,Over Votes,0
 Carbon,11-2,State House,47,REP,Under Votes,8
 Carbon,11-2,State House,47,DEM,Write-ins,3
+Carbon,11-2,State House,47,DEM,Over Votes,0
+Carbon,11-2,State House,47,DEM,Under Votes,25
 Carbon,11-2,Ballots Cast,,REP,Ballots Cast,226
 Carbon,11-2,Ballots Cast,,DEM,Ballots Cast,28
 Carbon,11-2,Ballots Cast,,NP,Ballots Cast,0
@@ -273,6 +281,8 @@ Carbon,12-1,State House,47,REP,Write-ins,0
 Carbon,12-1,State House,47,REP,Over Votes,2
 Carbon,12-1,State House,47,REP,Under Votes,3
 Carbon,12-1,State House,47,DEM,Write-ins,3
+Carbon,12-1,State House,47,DEM,Over Votes,0
+Carbon,12-1,State House,47,DEM,Under Votes,28
 Carbon,12-1,Ballots Cast,,REP,Ballots Cast,144
 Carbon,12-1,Ballots Cast,,DEM,Ballots Cast,31
 Carbon,12-1,Ballots Cast,,NP,Ballots Cast,11
@@ -318,6 +328,8 @@ Carbon,13-1,State House,47,REP,Write-ins,1
 Carbon,13-1,State House,47,REP,Over Votes,0
 Carbon,13-1,State House,47,REP,Under Votes,2
 Carbon,13-1,State House,47,DEM,Write-ins,4
+Carbon,13-1,State House,47,DEM,Over Votes,0
+Carbon,13-1,State House,47,DEM,Under Votes,17
 Carbon,13-1,Ballots Cast,,REP,Ballots Cast,138
 Carbon,13-1,Ballots Cast,,DEM,Ballots Cast,21
 Carbon,13-1,Ballots Cast,,NP,Ballots Cast,1
@@ -363,6 +375,8 @@ Carbon,14-1,State House,47,REP,Write-ins,0
 Carbon,14-1,State House,47,REP,Over Votes,0
 Carbon,14-1,State House,47,REP,Under Votes,0
 Carbon,14-1,State House,47,DEM,Write-ins,0
+Carbon,14-1,State House,47,DEM,Over Votes,0
+Carbon,14-1,State House,47,DEM,Under Votes,3
 Carbon,14-1,Ballots Cast,,REP,Ballots Cast,55
 Carbon,14-1,Ballots Cast,,DEM,Ballots Cast,3
 Carbon,14-1,Ballots Cast,,NP,Ballots Cast,0
@@ -408,6 +422,8 @@ Carbon,15-1,State House,47,REP,Write-ins,0
 Carbon,15-1,State House,47,REP,Over Votes,2
 Carbon,15-1,State House,47,REP,Under Votes,4
 Carbon,15-1,State House,47,DEM,Write-ins,2
+Carbon,15-1,State House,47,DEM,Over Votes,0
+Carbon,15-1,State House,47,DEM,Under Votes,3
 Carbon,15-1,Ballots Cast,,REP,Ballots Cast,177
 Carbon,15-1,Ballots Cast,,DEM,Ballots Cast,5
 Carbon,15-1,Ballots Cast,,NP,Ballots Cast,4
@@ -633,6 +649,8 @@ Carbon,4-1,State House,47,REP,Write-ins,0
 Carbon,4-1,State House,47,REP,Over Votes,0
 Carbon,4-1,State House,47,REP,Under Votes,0
 Carbon,4-1,State House,47,DEM,Write-ins,0
+Carbon,4-1,State House,47,DEM,Over Votes,0
+Carbon,4-1,State House,47,DEM,Under Votes,0
 Carbon,4-1,Ballots Cast,,REP,Ballots Cast,11
 Carbon,4-1,Ballots Cast,,DEM,Ballots Cast,0
 Carbon,4-1,Ballots Cast,,NP,Ballots Cast,0
@@ -686,6 +704,8 @@ Carbon,5-1,State House,47,REP,Write-ins,0
 Carbon,5-1,State House,47,REP,Over Votes,0
 Carbon,5-1,State House,47,REP,Under Votes,0
 Carbon,5-1,State House,47,DEM,Write-ins,0
+Carbon,5-1,State House,47,DEM,Over Votes,0
+Carbon,5-1,State House,47,DEM,Under Votes,4
 Carbon,5-1,Ballots Cast,,REP,Ballots Cast,85
 Carbon,5-1,Ballots Cast,,DEM,Ballots Cast,16
 Carbon,5-1,Ballots Cast,,NP,Ballots Cast,2
@@ -731,6 +751,8 @@ Carbon,6-1,State House,47,REP,Write-ins,0
 Carbon,6-1,State House,47,REP,Over Votes,0
 Carbon,6-1,State House,47,REP,Under Votes,0
 Carbon,6-1,State House,47,DEM,Write-ins,0
+Carbon,6-1,State House,47,DEM,Over Votes,0
+Carbon,6-1,State House,47,DEM,Under Votes,0
 Carbon,6-1,Ballots Cast,,REP,Ballots Cast,12
 Carbon,6-1,Ballots Cast,,DEM,Ballots Cast,0
 Carbon,6-1,Ballots Cast,,NP,Ballots Cast,0
@@ -776,6 +798,8 @@ Carbon,7-1,State House,47,REP,Write-ins,0
 Carbon,7-1,State House,47,REP,Over Votes,1
 Carbon,7-1,State House,47,REP,Under Votes,2
 Carbon,7-1,State House,47,DEM,Write-ins,1
+Carbon,7-1,State House,47,DEM,Over Votes,0
+Carbon,7-1,State House,47,DEM,Under Votes,5
 Carbon,7-1,Ballots Cast,,REP,Ballots Cast,66
 Carbon,7-1,Ballots Cast,,DEM,Ballots Cast,6
 Carbon,7-1,Ballots Cast,,NP,Ballots Cast,9
@@ -821,6 +845,8 @@ Carbon,8-1,State House,47,REP,Write-ins,0
 Carbon,8-1,State House,47,REP,Over Votes,0
 Carbon,8-1,State House,47,REP,Under Votes,2
 Carbon,8-1,State House,47,DEM,Write-ins,1
+Carbon,8-1,State House,47,DEM,Over Votes,0
+Carbon,8-1,State House,47,DEM,Under Votes,23
 Carbon,8-1,Ballots Cast,,REP,Ballots Cast,113
 Carbon,8-1,Ballots Cast,,DEM,Ballots Cast,24
 Carbon,8-1,Ballots Cast,,NP,Ballots Cast,29
@@ -866,6 +892,8 @@ Carbon,9-1,State House,47,REP,Write-ins,0
 Carbon,9-1,State House,47,REP,Over Votes,2
 Carbon,9-1,State House,47,REP,Under Votes,2
 Carbon,9-1,State House,47,DEM,Write-ins,0
+Carbon,9-1,State House,47,DEM,Over Votes,0
+Carbon,9-1,State House,47,DEM,Under Votes,10
 Carbon,9-1,Ballots Cast,,REP,Ballots Cast,98
 Carbon,9-1,Ballots Cast,,DEM,Ballots Cast,10
 Carbon,9-1,Ballots Cast,,NP,Ballots Cast,5

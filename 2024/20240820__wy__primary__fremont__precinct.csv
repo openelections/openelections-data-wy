@@ -24,6 +24,8 @@ Fremont,01-1,State House,54,REP,Write-ins,0
 Fremont,01-1,State House,54,REP,Over Votes,0
 Fremont,01-1,State House,54,REP,Under Votes,7
 Fremont,01-1,State House,54,DEM,Write-ins,5
+Fremont,01-1,State House,54,DEM,Over Votes,0
+Fremont,01-1,State House,54,DEM,Under Votes,49
 Fremont,01-1,Ballots Cast,,REP,Ballots Cast,421
 Fremont,01-1,Ballots Cast,,DEM,Ballots Cast,54
 Fremont,01-1,Ballots Cast,,NP,Ballots Cast,13
@@ -53,6 +55,8 @@ Fremont,01-2,State House,54,REP,Write-ins,0
 Fremont,01-2,State House,54,REP,Over Votes,1
 Fremont,01-2,State House,54,REP,Under Votes,2
 Fremont,01-2,State House,54,DEM,Write-ins,5
+Fremont,01-2,State House,54,DEM,Over Votes,0
+Fremont,01-2,State House,54,DEM,Under Votes,34
 Fremont,01-2,Ballots Cast,,REP,Ballots Cast,167
 Fremont,01-2,Ballots Cast,,DEM,Ballots Cast,39
 Fremont,01-2,Ballots Cast,,NP,Ballots Cast,8
@@ -82,6 +86,8 @@ Fremont,01-3,State House,54,REP,Write-ins,1
 Fremont,01-3,State House,54,REP,Over Votes,0
 Fremont,01-3,State House,54,REP,Under Votes,2
 Fremont,01-3,State House,54,DEM,Write-ins,2
+Fremont,01-3,State House,54,DEM,Over Votes,0
+Fremont,01-3,State House,54,DEM,Under Votes,48
 Fremont,01-3,Ballots Cast,,REP,Ballots Cast,274
 Fremont,01-3,Ballots Cast,,DEM,Ballots Cast,50
 Fremont,01-3,Ballots Cast,,NP,Ballots Cast,13
@@ -111,6 +117,8 @@ Fremont,01-4,State House,54,REP,Write-ins,0
 Fremont,01-4,State House,54,REP,Over Votes,0
 Fremont,01-4,State House,54,REP,Under Votes,2
 Fremont,01-4,State House,54,DEM,Write-ins,6
+Fremont,01-4,State House,54,DEM,Over Votes,0
+Fremont,01-4,State House,54,DEM,Under Votes,35
 Fremont,01-4,Ballots Cast,,REP,Ballots Cast,217
 Fremont,01-4,Ballots Cast,,DEM,Ballots Cast,41
 Fremont,01-4,Ballots Cast,,NP,Ballots Cast,7
@@ -140,6 +148,8 @@ Fremont,01-5,State House,54,REP,Write-ins,3
 Fremont,01-5,State House,54,REP,Over Votes,0
 Fremont,01-5,State House,54,REP,Under Votes,2
 Fremont,01-5,State House,54,DEM,Write-ins,4
+Fremont,01-5,State House,54,DEM,Over Votes,0
+Fremont,01-5,State House,54,DEM,Under Votes,55
 Fremont,01-5,Ballots Cast,,REP,Ballots Cast,404
 Fremont,01-5,Ballots Cast,,DEM,Ballots Cast,59
 Fremont,01-5,Ballots Cast,,NP,Ballots Cast,19
@@ -169,6 +179,8 @@ Fremont,01-6,State House,54,REP,Write-ins,0
 Fremont,01-6,State House,54,REP,Over Votes,1
 Fremont,01-6,State House,54,REP,Under Votes,1
 Fremont,01-6,State House,54,DEM,Write-ins,8
+Fremont,01-6,State House,54,DEM,Over Votes,0
+Fremont,01-6,State House,54,DEM,Under Votes,59
 Fremont,01-6,Ballots Cast,,REP,Ballots Cast,299
 Fremont,01-6,Ballots Cast,,DEM,Ballots Cast,67
 Fremont,01-6,Ballots Cast,,NP,Ballots Cast,10
@@ -229,12 +241,16 @@ Fremont,03-1,State Senate,26,REP,Write-ins,0
 Fremont,03-1,State Senate,26,REP,Over Votes,0
 Fremont,03-1,State Senate,26,REP,Under Votes,8
 Fremont,03-1,State Senate,26,DEM,Write-ins,2
+Fremont,03-1,State Senate,26,DEM,Over Votes,0
+Fremont,03-1,State Senate,26,DEM,Under Votes,11
 Fremont,03-1,State House,55,REP,Ember Oakley,87
 Fremont,03-1,State House,55,REP,Joel Guggenmos,150
 Fremont,03-1,State House,55,REP,Write-ins,0
 Fremont,03-1,State House,55,REP,Over Votes,0
 Fremont,03-1,State House,55,REP,Under Votes,5
 Fremont,03-1,State House,55,DEM,Write-ins,1
+Fremont,03-1,State House,55,DEM,Over Votes,0
+Fremont,03-1,State House,55,DEM,Under Votes,12
 Fremont,03-1,Ballots Cast,,REP,Ballots Cast,242
 Fremont,03-1,Ballots Cast,,DEM,Ballots Cast,13
 Fremont,03-1,Ballots Cast,,NP,Ballots Cast,6
@@ -264,6 +280,8 @@ Fremont,03-2,State Senate,26,REP,Write-ins,0
 Fremont,03-2,State Senate,26,REP,Over Votes,0
 Fremont,03-2,State Senate,26,REP,Under Votes,3
 Fremont,03-2,State Senate,26,DEM,Write-ins,0
+Fremont,03-2,State Senate,26,DEM,Over Votes,0
+Fremont,03-2,State Senate,26,DEM,Under Votes,11
 Fremont,03-2,State House,33,REP,Sarah Penn,7
 Fremont,03-2,State House,33,REP,Write-ins,0
 Fremont,03-2,State House,33,REP,Over Votes,0
@@ -278,12 +296,16 @@ Fremont,03-2,State House,34,REP,Write-ins,0
 Fremont,03-2,State House,34,REP,Over Votes,0
 Fremont,03-2,State House,34,REP,Under Votes,4
 Fremont,03-2,State House,34,DEM,Write-ins,0
+Fremont,03-2,State House,34,DEM,Over Votes,0
+Fremont,03-2,State House,34,DEM,Under Votes,6
 Fremont,03-2,State House,55,REP,Ember Oakley,31
 Fremont,03-2,State House,55,REP,Joel Guggenmos,62
 Fremont,03-2,State House,55,REP,Write-ins,0
 Fremont,03-2,State House,55,REP,Over Votes,0
 Fremont,03-2,State House,55,REP,Under Votes,0
 Fremont,03-2,State House,55,DEM,Write-ins,0
+Fremont,03-2,State House,55,DEM,Over Votes,0
+Fremont,03-2,State House,55,DEM,Under Votes,5
 Fremont,03-2,Ballots Cast,,REP,Ballots Cast,197
 Fremont,03-2,Ballots Cast,,DEM,Ballots Cast,11
 Fremont,03-2,Ballots Cast,,NP,Ballots Cast,10
@@ -313,12 +335,16 @@ Fremont,03-3,State Senate,26,REP,Write-ins,0
 Fremont,03-3,State Senate,26,REP,Over Votes,0
 Fremont,03-3,State Senate,26,REP,Under Votes,9
 Fremont,03-3,State Senate,26,DEM,Write-ins,4
+Fremont,03-3,State Senate,26,DEM,Over Votes,0
+Fremont,03-3,State Senate,26,DEM,Under Votes,31
 Fremont,03-3,State House,55,REP,Ember Oakley,149
 Fremont,03-3,State House,55,REP,Joel Guggenmos,200
 Fremont,03-3,State House,55,REP,Write-ins,1
 Fremont,03-3,State House,55,REP,Over Votes,0
 Fremont,03-3,State House,55,REP,Under Votes,4
 Fremont,03-3,State House,55,DEM,Write-ins,3
+Fremont,03-3,State House,55,DEM,Over Votes,0
+Fremont,03-3,State House,55,DEM,Under Votes,32
 Fremont,03-3,Ballots Cast,,REP,Ballots Cast,354
 Fremont,03-3,Ballots Cast,,DEM,Ballots Cast,35
 Fremont,03-3,Ballots Cast,,NP,Ballots Cast,16
@@ -348,12 +374,16 @@ Fremont,03-4,State Senate,26,REP,Write-ins,1
 Fremont,03-4,State Senate,26,REP,Over Votes,0
 Fremont,03-4,State Senate,26,REP,Under Votes,13
 Fremont,03-4,State Senate,26,DEM,Write-ins,1
+Fremont,03-4,State Senate,26,DEM,Over Votes,0
+Fremont,03-4,State Senate,26,DEM,Under Votes,33
 Fremont,03-4,State House,55,REP,Ember Oakley,102
 Fremont,03-4,State House,55,REP,Joel Guggenmos,165
 Fremont,03-4,State House,55,REP,Write-ins,1
 Fremont,03-4,State House,55,REP,Over Votes,1
 Fremont,03-4,State House,55,REP,Under Votes,9
 Fremont,03-4,State House,55,DEM,Write-ins,1
+Fremont,03-4,State House,55,DEM,Over Votes,0
+Fremont,03-4,State House,55,DEM,Under Votes,33
 Fremont,03-4,Ballots Cast,,REP,Ballots Cast,278
 Fremont,03-4,Ballots Cast,,DEM,Ballots Cast,34
 Fremont,03-4,Ballots Cast,,NP,Ballots Cast,6
@@ -383,6 +413,8 @@ Fremont,03-5,State Senate,26,REP,Write-ins,1
 Fremont,03-5,State Senate,26,REP,Over Votes,1
 Fremont,03-5,State Senate,26,REP,Under Votes,9
 Fremont,03-5,State Senate,26,DEM,Write-ins,3
+Fremont,03-5,State Senate,26,DEM,Over Votes,0
+Fremont,03-5,State Senate,26,DEM,Under Votes,30
 Fremont,03-5,State House,33,REP,Sarah Penn,14
 Fremont,03-5,State House,33,REP,Write-ins,0
 Fremont,03-5,State House,33,REP,Over Votes,0
@@ -397,12 +429,16 @@ Fremont,03-5,State House,34,REP,Write-ins,0
 Fremont,03-5,State House,34,REP,Over Votes,0
 Fremont,03-5,State House,34,REP,Under Votes,2
 Fremont,03-5,State House,34,DEM,Write-ins,1
+Fremont,03-5,State House,34,DEM,Over Votes,0
+Fremont,03-5,State House,34,DEM,Under Votes,2
 Fremont,03-5,State House,55,REP,Ember Oakley,171
 Fremont,03-5,State House,55,REP,Joel Guggenmos,149
 Fremont,03-5,State House,55,REP,Write-ins,2
 Fremont,03-5,State House,55,REP,Over Votes,0
 Fremont,03-5,State House,55,REP,Under Votes,8
 Fremont,03-5,State House,55,DEM,Write-ins,3
+Fremont,03-5,State House,55,DEM,Over Votes,0
+Fremont,03-5,State House,55,DEM,Under Votes,27
 Fremont,03-5,Ballots Cast,,REP,Ballots Cast,402
 Fremont,03-5,Ballots Cast,,DEM,Ballots Cast,37
 Fremont,03-5,Ballots Cast,,NP,Ballots Cast,11
@@ -432,12 +468,16 @@ Fremont,03-6,State Senate,26,REP,Write-ins,1
 Fremont,03-6,State Senate,26,REP,Over Votes,2
 Fremont,03-6,State Senate,26,REP,Under Votes,17
 Fremont,03-6,State Senate,26,DEM,Write-ins,3
+Fremont,03-6,State Senate,26,DEM,Over Votes,0
+Fremont,03-6,State Senate,26,DEM,Under Votes,16
 Fremont,03-6,State House,55,REP,Ember Oakley,209
 Fremont,03-6,State House,55,REP,Joel Guggenmos,238
 Fremont,03-6,State House,55,REP,Write-ins,2
 Fremont,03-6,State House,55,REP,Over Votes,0
 Fremont,03-6,State House,55,REP,Under Votes,5
 Fremont,03-6,State House,55,DEM,Write-ins,1
+Fremont,03-6,State House,55,DEM,Over Votes,0
+Fremont,03-6,State House,55,DEM,Under Votes,18
 Fremont,03-6,Ballots Cast,,REP,Ballots Cast,454
 Fremont,03-6,Ballots Cast,,DEM,Ballots Cast,19
 Fremont,03-6,Ballots Cast,,NP,Ballots Cast,7
@@ -498,6 +538,8 @@ Fremont,05-1,State Senate,26,REP,Write-ins,0
 Fremont,05-1,State Senate,26,REP,Over Votes,0
 Fremont,05-1,State Senate,26,REP,Under Votes,2
 Fremont,05-1,State Senate,26,DEM,Write-ins,0
+Fremont,05-1,State Senate,26,DEM,Over Votes,0
+Fremont,05-1,State Senate,26,DEM,Under Votes,0
 Fremont,05-1,State House,33,REP,Sarah Penn,6
 Fremont,05-1,State House,33,REP,Write-ins,0
 Fremont,05-1,State House,33,REP,Over Votes,0
@@ -512,12 +554,16 @@ Fremont,05-1,State House,34,REP,Write-ins,0
 Fremont,05-1,State House,34,REP,Over Votes,0
 Fremont,05-1,State House,34,REP,Under Votes,1
 Fremont,05-1,State House,34,DEM,Write-ins,0
+Fremont,05-1,State House,34,DEM,Over Votes,0
+Fremont,05-1,State House,34,DEM,Under Votes,0
 Fremont,05-1,State House,54,REP,Lloyd Charles Larsen,421
 Fremont,05-1,State House,54,REP,Tina Clifford,417
 Fremont,05-1,State House,54,REP,Write-ins,0
 Fremont,05-1,State House,54,REP,Over Votes,0
 Fremont,05-1,State House,54,REP,Under Votes,7
 Fremont,05-1,State House,54,DEM,Write-ins,7
+Fremont,05-1,State House,54,DEM,Over Votes,0
+Fremont,05-1,State House,54,DEM,Under Votes,59
 Fremont,05-1,Ballots Cast,,REP,Ballots Cast,898
 Fremont,05-1,Ballots Cast,,DEM,Ballots Cast,66
 Fremont,05-1,Ballots Cast,,NP,Ballots Cast,19
@@ -555,6 +601,8 @@ Fremont,06-1,State House,54,REP,Write-ins,0
 Fremont,06-1,State House,54,REP,Over Votes,0
 Fremont,06-1,State House,54,REP,Under Votes,0
 Fremont,06-1,State House,54,DEM,Write-ins,0
+Fremont,06-1,State House,54,DEM,Over Votes,0
+Fremont,06-1,State House,54,DEM,Under Votes,5
 Fremont,06-1,Ballots Cast,,REP,Ballots Cast,236
 Fremont,06-1,Ballots Cast,,DEM,Ballots Cast,20
 Fremont,06-1,Ballots Cast,,NP,Ballots Cast,5
@@ -584,12 +632,16 @@ Fremont,07-1,State Senate,26,REP,Write-ins,0
 Fremont,07-1,State Senate,26,REP,Over Votes,0
 Fremont,07-1,State Senate,26,REP,Under Votes,26
 Fremont,07-1,State Senate,26,DEM,Write-ins,3
+Fremont,07-1,State Senate,26,DEM,Over Votes,0
+Fremont,07-1,State Senate,26,DEM,Under Votes,37
 Fremont,07-1,State House,34,REP,Pepper L. Ottman,263
 Fremont,07-1,State House,34,REP,Reg Phillips,302
 Fremont,07-1,State House,34,REP,Write-ins,1
 Fremont,07-1,State House,34,REP,Over Votes,0
 Fremont,07-1,State House,34,REP,Under Votes,14
 Fremont,07-1,State House,34,DEM,Write-ins,3
+Fremont,07-1,State House,34,DEM,Over Votes,0
+Fremont,07-1,State House,34,DEM,Under Votes,37
 Fremont,07-1,Ballots Cast,,REP,Ballots Cast,580
 Fremont,07-1,Ballots Cast,,DEM,Ballots Cast,40
 Fremont,07-1,Ballots Cast,,NP,Ballots Cast,8
@@ -650,12 +702,16 @@ Fremont,09-1,State Senate,26,REP,Write-ins,0
 Fremont,09-1,State Senate,26,REP,Over Votes,0
 Fremont,09-1,State Senate,26,REP,Under Votes,2
 Fremont,09-1,State Senate,26,DEM,Write-ins,0
+Fremont,09-1,State Senate,26,DEM,Over Votes,0
+Fremont,09-1,State Senate,26,DEM,Under Votes,3
 Fremont,09-1,State House,34,REP,Pepper L. Ottman,120
 Fremont,09-1,State House,34,REP,Reg Phillips,99
 Fremont,09-1,State House,34,REP,Write-ins,0
 Fremont,09-1,State House,34,REP,Over Votes,0
 Fremont,09-1,State House,34,REP,Under Votes,2
 Fremont,09-1,State House,34,DEM,Write-ins,0
+Fremont,09-1,State House,34,DEM,Over Votes,0
+Fremont,09-1,State House,34,DEM,Under Votes,3
 Fremont,09-1,Ballots Cast,,REP,Ballots Cast,221
 Fremont,09-1,Ballots Cast,,DEM,Ballots Cast,3
 Fremont,09-1,Ballots Cast,,NP,Ballots Cast,0
@@ -685,12 +741,16 @@ Fremont,10-1,State Senate,26,REP,Write-ins,0
 Fremont,10-1,State Senate,26,REP,Over Votes,1
 Fremont,10-1,State Senate,26,REP,Under Votes,8
 Fremont,10-1,State Senate,26,DEM,Write-ins,3
+Fremont,10-1,State Senate,26,DEM,Over Votes,0
+Fremont,10-1,State Senate,26,DEM,Under Votes,11
 Fremont,10-1,State House,34,REP,Pepper L. Ottman,223
 Fremont,10-1,State House,34,REP,Reg Phillips,115
 Fremont,10-1,State House,34,REP,Write-ins,0
 Fremont,10-1,State House,34,REP,Over Votes,2
 Fremont,10-1,State House,34,REP,Under Votes,18
 Fremont,10-1,State House,34,DEM,Write-ins,0
+Fremont,10-1,State House,34,DEM,Over Votes,0
+Fremont,10-1,State House,34,DEM,Under Votes,14
 Fremont,10-1,Ballots Cast,,REP,Ballots Cast,358
 Fremont,10-1,Ballots Cast,,DEM,Ballots Cast,14
 Fremont,10-1,Ballots Cast,,NP,Ballots Cast,9
@@ -720,12 +780,16 @@ Fremont,12-1,State Senate,26,REP,Write-ins,0
 Fremont,12-1,State Senate,26,REP,Over Votes,0
 Fremont,12-1,State Senate,26,REP,Under Votes,0
 Fremont,12-1,State Senate,26,DEM,Write-ins,0
+Fremont,12-1,State Senate,26,DEM,Over Votes,0
+Fremont,12-1,State Senate,26,DEM,Under Votes,1
 Fremont,12-1,State House,34,REP,Pepper L. Ottman,35
 Fremont,12-1,State House,34,REP,Reg Phillips,9
 Fremont,12-1,State House,34,REP,Write-ins,0
 Fremont,12-1,State House,34,REP,Over Votes,0
 Fremont,12-1,State House,34,REP,Under Votes,0
 Fremont,12-1,State House,34,DEM,Write-ins,0
+Fremont,12-1,State House,34,DEM,Over Votes,0
+Fremont,12-1,State House,34,DEM,Under Votes,1
 Fremont,12-1,Ballots Cast,,REP,Ballots Cast,44
 Fremont,12-1,Ballots Cast,,DEM,Ballots Cast,1
 Fremont,12-1,Ballots Cast,,NP,Ballots Cast,0
@@ -786,12 +850,16 @@ Fremont,14-1,State Senate,26,REP,Write-ins,1
 Fremont,14-1,State Senate,26,REP,Over Votes,0
 Fremont,14-1,State Senate,26,REP,Under Votes,7
 Fremont,14-1,State Senate,26,DEM,Write-ins,4
+Fremont,14-1,State Senate,26,DEM,Over Votes,0
+Fremont,14-1,State Senate,26,DEM,Under Votes,16
 Fremont,14-1,State House,34,REP,Pepper L. Ottman,282
 Fremont,14-1,State House,34,REP,Reg Phillips,109
 Fremont,14-1,State House,34,REP,Write-ins,0
 Fremont,14-1,State House,34,REP,Over Votes,1
 Fremont,14-1,State House,34,REP,Under Votes,4
 Fremont,14-1,State House,34,DEM,Write-ins,3
+Fremont,14-1,State House,34,DEM,Over Votes,0
+Fremont,14-1,State House,34,DEM,Under Votes,17
 Fremont,14-1,Ballots Cast,,REP,Ballots Cast,396
 Fremont,14-1,Ballots Cast,,DEM,Ballots Cast,20
 Fremont,14-1,Ballots Cast,,NP,Ballots Cast,3
@@ -821,12 +889,16 @@ Fremont,16-1,State Senate,26,REP,Write-ins,0
 Fremont,16-1,State Senate,26,REP,Over Votes,0
 Fremont,16-1,State Senate,26,REP,Under Votes,2
 Fremont,16-1,State Senate,26,DEM,Write-ins,0
+Fremont,16-1,State Senate,26,DEM,Over Votes,0
+Fremont,16-1,State Senate,26,DEM,Under Votes,10
 Fremont,16-1,State House,34,REP,Pepper L. Ottman,57
 Fremont,16-1,State House,34,REP,Reg Phillips,33
 Fremont,16-1,State House,34,REP,Write-ins,0
 Fremont,16-1,State House,34,REP,Over Votes,0
 Fremont,16-1,State House,34,REP,Under Votes,2
 Fremont,16-1,State House,34,DEM,Write-ins,0
+Fremont,16-1,State House,34,DEM,Over Votes,0
+Fremont,16-1,State House,34,DEM,Under Votes,10
 Fremont,16-1,Ballots Cast,,REP,Ballots Cast,92
 Fremont,16-1,Ballots Cast,,DEM,Ballots Cast,10
 Fremont,16-1,Ballots Cast,,NP,Ballots Cast,0
@@ -887,12 +959,16 @@ Fremont,18-1,State Senate,26,REP,Write-ins,2
 Fremont,18-1,State Senate,26,REP,Over Votes,1
 Fremont,18-1,State Senate,26,REP,Under Votes,8
 Fremont,18-1,State Senate,26,DEM,Write-ins,1
+Fremont,18-1,State Senate,26,DEM,Over Votes,0
+Fremont,18-1,State Senate,26,DEM,Under Votes,10
 Fremont,18-1,State House,34,REP,Pepper L. Ottman,330
 Fremont,18-1,State House,34,REP,Reg Phillips,157
 Fremont,18-1,State House,34,REP,Write-ins,2
 Fremont,18-1,State House,34,REP,Over Votes,2
 Fremont,18-1,State House,34,REP,Under Votes,20
 Fremont,18-1,State House,34,DEM,Write-ins,1
+Fremont,18-1,State House,34,DEM,Over Votes,0
+Fremont,18-1,State House,34,DEM,Under Votes,10
 Fremont,18-1,Ballots Cast,,REP,Ballots Cast,511
 Fremont,18-1,Ballots Cast,,DEM,Ballots Cast,11
 Fremont,18-1,Ballots Cast,,NP,Ballots Cast,6
@@ -922,12 +998,16 @@ Fremont,18-2,State Senate,26,REP,Write-ins,1
 Fremont,18-2,State Senate,26,REP,Over Votes,0
 Fremont,18-2,State Senate,26,REP,Under Votes,12
 Fremont,18-2,State Senate,26,DEM,Write-ins,1
+Fremont,18-2,State Senate,26,DEM,Over Votes,0
+Fremont,18-2,State Senate,26,DEM,Under Votes,16
 Fremont,18-2,State House,55,REP,Ember Oakley,106
 Fremont,18-2,State House,55,REP,Joel Guggenmos,107
 Fremont,18-2,State House,55,REP,Write-ins,2
 Fremont,18-2,State House,55,REP,Over Votes,1
 Fremont,18-2,State House,55,REP,Under Votes,6
 Fremont,18-2,State House,55,DEM,Write-ins,1
+Fremont,18-2,State House,55,DEM,Over Votes,0
+Fremont,18-2,State House,55,DEM,Under Votes,16
 Fremont,18-2,Ballots Cast,,REP,Ballots Cast,222
 Fremont,18-2,Ballots Cast,,DEM,Ballots Cast,17
 Fremont,18-2,Ballots Cast,,NP,Ballots Cast,4
@@ -957,6 +1037,8 @@ Fremont,19-1,State Senate,26,REP,Write-ins,0
 Fremont,19-1,State Senate,26,REP,Over Votes,0
 Fremont,19-1,State Senate,26,REP,Under Votes,1
 Fremont,19-1,State Senate,26,DEM,Write-ins,0
+Fremont,19-1,State Senate,26,DEM,Over Votes,0
+Fremont,19-1,State Senate,26,DEM,Under Votes,0
 Fremont,19-1,State House,33,REP,Sarah Penn,18
 Fremont,19-1,State House,33,REP,Write-ins,0
 Fremont,19-1,State House,33,REP,Over Votes,0
@@ -971,6 +1053,8 @@ Fremont,19-1,State House,34,REP,Write-ins,0
 Fremont,19-1,State House,34,REP,Over Votes,0
 Fremont,19-1,State House,34,REP,Under Votes,1
 Fremont,19-1,State House,34,DEM,Write-ins,0
+Fremont,19-1,State House,34,DEM,Over Votes,0
+Fremont,19-1,State House,34,DEM,Under Votes,0
 Fremont,19-1,Ballots Cast,,REP,Ballots Cast,56
 Fremont,19-1,Ballots Cast,,DEM,Ballots Cast,2
 Fremont,19-1,Ballots Cast,,NP,Ballots Cast,0
@@ -1000,12 +1084,16 @@ Fremont,20-1,State Senate,20,REP,Write-ins,1
 Fremont,20-1,State Senate,20,REP,Over Votes,0
 Fremont,20-1,State Senate,20,REP,Under Votes,8
 Fremont,20-1,State Senate,20,DEM,Write-ins,1
+Fremont,20-1,State Senate,20,DEM,Over Votes,0
+Fremont,20-1,State Senate,20,DEM,Under Votes,10
 Fremont,20-1,State House,28,REP,John R. Winter,104
 Fremont,20-1,State House,28,REP,Kevin Skates,56
 Fremont,20-1,State House,28,REP,Write-ins,1
 Fremont,20-1,State House,28,REP,Over Votes,0
 Fremont,20-1,State House,28,REP,Under Votes,9
 Fremont,20-1,State House,28,DEM,Write-ins,0
+Fremont,20-1,State House,28,DEM,Over Votes,0
+Fremont,20-1,State House,28,DEM,Under Votes,11
 Fremont,20-1,Ballots Cast,,REP,Ballots Cast,170
 Fremont,20-1,Ballots Cast,,DEM,Ballots Cast,11
 Fremont,20-1,Ballots Cast,,NP,Ballots Cast,5
@@ -1035,6 +1123,8 @@ Fremont,21-1,State Senate,26,REP,Write-ins,0
 Fremont,21-1,State Senate,26,REP,Over Votes,0
 Fremont,21-1,State Senate,26,REP,Under Votes,1
 Fremont,21-1,State Senate,26,DEM,Write-ins,1
+Fremont,21-1,State Senate,26,DEM,Over Votes,0
+Fremont,21-1,State Senate,26,DEM,Under Votes,2
 Fremont,21-1,State House,33,REP,Sarah Penn,29
 Fremont,21-1,State House,33,REP,Write-ins,1
 Fremont,21-1,State House,33,REP,Over Votes,0
@@ -1049,6 +1139,8 @@ Fremont,21-1,State House,34,REP,Write-ins,0
 Fremont,21-1,State House,34,REP,Over Votes,0
 Fremont,21-1,State House,34,REP,Under Votes,3
 Fremont,21-1,State House,34,DEM,Write-ins,1
+Fremont,21-1,State House,34,DEM,Over Votes,0
+Fremont,21-1,State House,34,DEM,Under Votes,2
 Fremont,21-1,Ballots Cast,,REP,Ballots Cast,113
 Fremont,21-1,Ballots Cast,,DEM,Ballots Cast,5
 Fremont,21-1,Ballots Cast,,NP,Ballots Cast,1
@@ -1078,12 +1170,16 @@ Fremont,22-1,State Senate,20,REP,Write-ins,0
 Fremont,22-1,State Senate,20,REP,Over Votes,0
 Fremont,22-1,State Senate,20,REP,Under Votes,1
 Fremont,22-1,State Senate,20,DEM,Write-ins,0
+Fremont,22-1,State Senate,20,DEM,Over Votes,0
+Fremont,22-1,State Senate,20,DEM,Under Votes,0
 Fremont,22-1,State House,28,REP,John R. Winter,11
 Fremont,22-1,State House,28,REP,Kevin Skates,5
 Fremont,22-1,State House,28,REP,Write-ins,0
 Fremont,22-1,State House,28,REP,Over Votes,0
 Fremont,22-1,State House,28,REP,Under Votes,3
 Fremont,22-1,State House,28,DEM,Write-ins,0
+Fremont,22-1,State House,28,DEM,Over Votes,0
+Fremont,22-1,State House,28,DEM,Under Votes,0
 Fremont,22-1,Ballots Cast,,REP,Ballots Cast,19
 Fremont,22-1,Ballots Cast,,DEM,Ballots Cast,0
 Fremont,22-1,Ballots Cast,,NP,Ballots Cast,0

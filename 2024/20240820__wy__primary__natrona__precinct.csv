@@ -25,12 +25,16 @@ Natrona,1-1,State Senate,30,REP,Write-ins,0
 Natrona,1-1,State Senate,30,REP,Over Votes,0
 Natrona,1-1,State Senate,30,REP,Under Votes,10
 Natrona,1-1,State Senate,30,DEM,Write-ins,6
+Natrona,1-1,State Senate,30,DEM,Over Votes,0
+Natrona,1-1,State Senate,30,DEM,Under Votes,25
 Natrona,1-1,State House,58,REP,Bill Allemand,73
 Natrona,1-1,State House,58,REP,Tom Jones,61
 Natrona,1-1,State House,58,REP,Write-ins,1
 Natrona,1-1,State House,58,REP,Over Votes,0
 Natrona,1-1,State House,58,REP,Under Votes,8
 Natrona,1-1,State House,58,DEM,Write-ins,7
+Natrona,1-1,State House,58,DEM,Over Votes,0
+Natrona,1-1,State House,58,DEM,Under Votes,24
 Natrona,1-1,Ballots Cast,,REP,Ballots Cast,143
 Natrona,1-1,Ballots Cast,,DEM,Ballots Cast,31
 Natrona,1-1,Ballots Cast,,NP,Ballots Cast,2
@@ -59,6 +63,8 @@ Natrona,1-11,State House,37,REP,Write-ins,9
 Natrona,1-11,State House,37,REP,Over Votes,0
 Natrona,1-11,State House,37,REP,Under Votes,35
 Natrona,1-11,State House,37,DEM,Write-ins,0
+Natrona,1-11,State House,37,DEM,Over Votes,0
+Natrona,1-11,State House,37,DEM,Under Votes,13
 Natrona,1-11,Ballots Cast,,REP,Ballots Cast,217
 Natrona,1-11,Ballots Cast,,DEM,Ballots Cast,13
 Natrona,1-11,Ballots Cast,,NP,Ballots Cast,3
@@ -87,6 +93,8 @@ Natrona,1-12,State House,36,REP,Write-ins,6
 Natrona,1-12,State House,36,REP,Over Votes,0
 Natrona,1-12,State House,36,REP,Under Votes,19
 Natrona,1-12,State House,36,DEM,Write-ins,4
+Natrona,1-12,State House,36,DEM,Over Votes,0
+Natrona,1-12,State House,36,DEM,Under Votes,21
 Natrona,1-12,Ballots Cast,,REP,Ballots Cast,116
 Natrona,1-12,Ballots Cast,,DEM,Ballots Cast,25
 Natrona,1-12,Ballots Cast,,NP,Ballots Cast,5
@@ -116,6 +124,8 @@ Natrona,1-2,State Senate,28,REP,Write-ins,1
 Natrona,1-2,State Senate,28,REP,Over Votes,0
 Natrona,1-2,State Senate,28,REP,Under Votes,8
 Natrona,1-2,State Senate,28,DEM,Write-ins,1
+Natrona,1-2,State Senate,28,DEM,Over Votes,0
+Natrona,1-2,State Senate,28,DEM,Under Votes,16
 Natrona,1-2,State House,56,REP,Elissa Campbell,70
 Natrona,1-2,State House,56,REP,Pamela Mertens,15
 Natrona,1-2,State House,56,REP,Pete Fox,38
@@ -123,6 +133,8 @@ Natrona,1-2,State House,56,REP,Write-ins,0
 Natrona,1-2,State House,56,REP,Over Votes,0
 Natrona,1-2,State House,56,REP,Under Votes,15
 Natrona,1-2,State House,56,DEM,Write-ins,1
+Natrona,1-2,State House,56,DEM,Over Votes,0
+Natrona,1-2,State House,56,DEM,Under Votes,16
 Natrona,1-2,Ballots Cast,,REP,Ballots Cast,138
 Natrona,1-2,Ballots Cast,,DEM,Ballots Cast,17
 Natrona,1-2,Ballots Cast,,NP,Ballots Cast,8
@@ -152,6 +164,8 @@ Natrona,1-3,State Senate,28,REP,Write-ins,4
 Natrona,1-3,State Senate,28,REP,Over Votes,0
 Natrona,1-3,State Senate,28,REP,Under Votes,16
 Natrona,1-3,State Senate,28,DEM,Write-ins,2
+Natrona,1-3,State Senate,28,DEM,Over Votes,0
+Natrona,1-3,State Senate,28,DEM,Under Votes,31
 Natrona,1-3,State House,56,REP,Elissa Campbell,148
 Natrona,1-3,State House,56,REP,Pamela Mertens,34
 Natrona,1-3,State House,56,REP,Pete Fox,96
@@ -159,6 +173,8 @@ Natrona,1-3,State House,56,REP,Write-ins,2
 Natrona,1-3,State House,56,REP,Over Votes,0
 Natrona,1-3,State House,56,REP,Under Votes,31
 Natrona,1-3,State House,56,DEM,Write-ins,2
+Natrona,1-3,State House,56,DEM,Over Votes,0
+Natrona,1-3,State House,56,DEM,Under Votes,31
 Natrona,1-3,Ballots Cast,,REP,Ballots Cast,311
 Natrona,1-3,Ballots Cast,,DEM,Ballots Cast,33
 Natrona,1-3,Ballots Cast,,NP,Ballots Cast,21
@@ -188,6 +204,8 @@ Natrona,1-4,State Senate,28,REP,Write-ins,4
 Natrona,1-4,State Senate,28,REP,Over Votes,0
 Natrona,1-4,State Senate,28,REP,Under Votes,29
 Natrona,1-4,State Senate,28,DEM,Write-ins,3
+Natrona,1-4,State Senate,28,DEM,Over Votes,0
+Natrona,1-4,State Senate,28,DEM,Under Votes,41
 Natrona,1-4,State House,56,REP,Elissa Campbell,230
 Natrona,1-4,State House,56,REP,Pamela Mertens,24
 Natrona,1-4,State House,56,REP,Pete Fox,140
@@ -195,6 +213,8 @@ Natrona,1-4,State House,56,REP,Write-ins,2
 Natrona,1-4,State House,56,REP,Over Votes,2
 Natrona,1-4,State House,56,REP,Under Votes,42
 Natrona,1-4,State House,56,DEM,Write-ins,2
+Natrona,1-4,State House,56,DEM,Over Votes,0
+Natrona,1-4,State House,56,DEM,Under Votes,42
 Natrona,1-4,Ballots Cast,,REP,Ballots Cast,440
 Natrona,1-4,Ballots Cast,,DEM,Ballots Cast,44
 Natrona,1-4,Ballots Cast,,NP,Ballots Cast,6
@@ -224,6 +244,8 @@ Natrona,1-5,State Senate,28,REP,Write-ins,0
 Natrona,1-5,State Senate,28,REP,Over Votes,0
 Natrona,1-5,State Senate,28,REP,Under Votes,19
 Natrona,1-5,State Senate,28,DEM,Write-ins,3
+Natrona,1-5,State Senate,28,DEM,Over Votes,0
+Natrona,1-5,State Senate,28,DEM,Under Votes,26
 Natrona,1-5,State House,56,REP,Elissa Campbell,160
 Natrona,1-5,State House,56,REP,Pamela Mertens,11
 Natrona,1-5,State House,56,REP,Pete Fox,54
@@ -231,6 +253,8 @@ Natrona,1-5,State House,56,REP,Write-ins,0
 Natrona,1-5,State House,56,REP,Over Votes,1
 Natrona,1-5,State House,56,REP,Under Votes,17
 Natrona,1-5,State House,56,DEM,Write-ins,3
+Natrona,1-5,State House,56,DEM,Over Votes,0
+Natrona,1-5,State House,56,DEM,Under Votes,26
 Natrona,1-5,Ballots Cast,,REP,Ballots Cast,243
 Natrona,1-5,Ballots Cast,,DEM,Ballots Cast,29
 Natrona,1-5,Ballots Cast,,NP,Ballots Cast,9
@@ -260,18 +284,24 @@ Natrona,1-6,State Senate,28,REP,Write-ins,1
 Natrona,1-6,State Senate,28,REP,Over Votes,0
 Natrona,1-6,State Senate,28,REP,Under Votes,27
 Natrona,1-6,State Senate,28,DEM,Write-ins,4
+Natrona,1-6,State Senate,28,DEM,Over Votes,0
+Natrona,1-6,State Senate,28,DEM,Under Votes,17
 Natrona,1-6,State House,35,REP,Christopher Dresang,23
 Natrona,1-6,State House,35,REP,Tony Locke,40
 Natrona,1-6,State House,35,REP,Write-ins,0
 Natrona,1-6,State House,35,REP,Over Votes,0
 Natrona,1-6,State House,35,REP,Under Votes,1
 Natrona,1-6,State House,35,DEM,Write-ins,2
+Natrona,1-6,State House,35,DEM,Over Votes,0
+Natrona,1-6,State House,35,DEM,Under Votes,5
 Natrona,1-6,State House,57,REP,Jeanette Ward,93
 Natrona,1-6,State House,57,REP,Julie Jarvis,125
 Natrona,1-6,State House,57,REP,Write-ins,3
 Natrona,1-6,State House,57,REP,Over Votes,0
 Natrona,1-6,State House,57,REP,Under Votes,8
 Natrona,1-6,State House,57,DEM,Write-ins,4
+Natrona,1-6,State House,57,DEM,Over Votes,0
+Natrona,1-6,State House,57,DEM,Under Votes,17
 Natrona,1-6,Ballots Cast,,REP,Ballots Cast,293
 Natrona,1-6,Ballots Cast,,DEM,Ballots Cast,28
 Natrona,1-6,Ballots Cast,,NP,Ballots Cast,13
@@ -301,12 +331,16 @@ Natrona,1-7,State Senate,28,REP,Write-ins,3
 Natrona,1-7,State Senate,28,REP,Over Votes,1
 Natrona,1-7,State Senate,28,REP,Under Votes,25
 Natrona,1-7,State Senate,28,DEM,Write-ins,4
+Natrona,1-7,State Senate,28,DEM,Over Votes,0
+Natrona,1-7,State Senate,28,DEM,Under Votes,47
 Natrona,1-7,State House,57,REP,Jeanette Ward,198
 Natrona,1-7,State House,57,REP,Julie Jarvis,245
 Natrona,1-7,State House,57,REP,Write-ins,1
 Natrona,1-7,State House,57,REP,Over Votes,0
 Natrona,1-7,State House,57,REP,Under Votes,22
 Natrona,1-7,State House,57,DEM,Write-ins,4
+Natrona,1-7,State House,57,DEM,Over Votes,0
+Natrona,1-7,State House,57,DEM,Under Votes,47
 Natrona,1-7,Ballots Cast,,REP,Ballots Cast,466
 Natrona,1-7,Ballots Cast,,DEM,Ballots Cast,51
 Natrona,1-7,Ballots Cast,,NP,Ballots Cast,20
@@ -336,6 +370,8 @@ Natrona,1-9,State Senate,28,REP,Write-ins,0
 Natrona,1-9,State Senate,28,REP,Over Votes,0
 Natrona,1-9,State Senate,28,REP,Under Votes,13
 Natrona,1-9,State Senate,28,DEM,Write-ins,0
+Natrona,1-9,State Senate,28,DEM,Over Votes,0
+Natrona,1-9,State Senate,28,DEM,Under Votes,29
 Natrona,1-9,State House,56,REP,Elissa Campbell,198
 Natrona,1-9,State House,56,REP,Pamela Mertens,27
 Natrona,1-9,State House,56,REP,Pete Fox,213
@@ -343,6 +379,8 @@ Natrona,1-9,State House,56,REP,Write-ins,0
 Natrona,1-9,State House,56,REP,Over Votes,3
 Natrona,1-9,State House,56,REP,Under Votes,28
 Natrona,1-9,State House,56,DEM,Write-ins,1
+Natrona,1-9,State House,56,DEM,Over Votes,0
+Natrona,1-9,State House,56,DEM,Under Votes,28
 Natrona,1-9,Ballots Cast,,REP,Ballots Cast,469
 Natrona,1-9,Ballots Cast,,DEM,Ballots Cast,29
 Natrona,1-9,Ballots Cast,,NP,Ballots Cast,10
@@ -373,12 +411,16 @@ Natrona,11-1,State Senate,30,REP,Write-ins,0
 Natrona,11-1,State Senate,30,REP,Over Votes,0
 Natrona,11-1,State Senate,30,REP,Under Votes,1
 Natrona,11-1,State Senate,30,DEM,Write-ins,0
+Natrona,11-1,State Senate,30,DEM,Over Votes,0
+Natrona,11-1,State Senate,30,DEM,Under Votes,1
 Natrona,11-1,State House,38,REP,Jayme Lien,38
 Natrona,11-1,State House,38,REP,Tom Walters,43
 Natrona,11-1,State House,38,REP,Write-ins,0
 Natrona,11-1,State House,38,REP,Over Votes,0
 Natrona,11-1,State House,38,REP,Under Votes,2
 Natrona,11-1,State House,38,DEM,Write-ins,0
+Natrona,11-1,State House,38,DEM,Over Votes,0
+Natrona,11-1,State House,38,DEM,Under Votes,1
 Natrona,11-1,Ballots Cast,,REP,Ballots Cast,83
 Natrona,11-1,Ballots Cast,,DEM,Ballots Cast,1
 Natrona,11-1,Ballots Cast,,NP,Ballots Cast,0
@@ -409,12 +451,16 @@ Natrona,11-2,State Senate,30,REP,Write-ins,0
 Natrona,11-2,State Senate,30,REP,Over Votes,1
 Natrona,11-2,State Senate,30,REP,Under Votes,2
 Natrona,11-2,State Senate,30,DEM,Write-ins,1
+Natrona,11-2,State Senate,30,DEM,Over Votes,0
+Natrona,11-2,State Senate,30,DEM,Under Votes,1
 Natrona,11-2,State House,38,REP,Jayme Lien,26
 Natrona,11-2,State House,38,REP,Tom Walters,30
 Natrona,11-2,State House,38,REP,Write-ins,0
 Natrona,11-2,State House,38,REP,Over Votes,0
 Natrona,11-2,State House,38,REP,Under Votes,4
 Natrona,11-2,State House,38,DEM,Write-ins,1
+Natrona,11-2,State House,38,DEM,Over Votes,0
+Natrona,11-2,State House,38,DEM,Under Votes,1
 Natrona,11-2,Ballots Cast,,REP,Ballots Cast,60
 Natrona,11-2,Ballots Cast,,DEM,Ballots Cast,2
 Natrona,11-2,Ballots Cast,,NP,Ballots Cast,0
@@ -445,12 +491,16 @@ Natrona,11-3,State Senate,30,REP,Write-ins,0
 Natrona,11-3,State Senate,30,REP,Over Votes,0
 Natrona,11-3,State Senate,30,REP,Under Votes,4
 Natrona,11-3,State Senate,30,DEM,Write-ins,1
+Natrona,11-3,State Senate,30,DEM,Over Votes,0
+Natrona,11-3,State Senate,30,DEM,Under Votes,4
 Natrona,11-3,State House,38,REP,Jayme Lien,62
 Natrona,11-3,State House,38,REP,Tom Walters,60
 Natrona,11-3,State House,38,REP,Write-ins,1
 Natrona,11-3,State House,38,REP,Over Votes,0
 Natrona,11-3,State House,38,REP,Under Votes,9
 Natrona,11-3,State House,38,DEM,Write-ins,1
+Natrona,11-3,State House,38,DEM,Over Votes,0
+Natrona,11-3,State House,38,DEM,Under Votes,4
 Natrona,11-3,Ballots Cast,,REP,Ballots Cast,132
 Natrona,11-3,Ballots Cast,,DEM,Ballots Cast,5
 Natrona,11-3,Ballots Cast,,NP,Ballots Cast,3
@@ -481,12 +531,16 @@ Natrona,11-4,State Senate,30,REP,Write-ins,0
 Natrona,11-4,State Senate,30,REP,Over Votes,0
 Natrona,11-4,State Senate,30,REP,Under Votes,3
 Natrona,11-4,State Senate,30,DEM,Write-ins,0
+Natrona,11-4,State Senate,30,DEM,Over Votes,0
+Natrona,11-4,State Senate,30,DEM,Under Votes,0
 Natrona,11-4,State House,38,REP,Jayme Lien,34
 Natrona,11-4,State House,38,REP,Tom Walters,32
 Natrona,11-4,State House,38,REP,Write-ins,0
 Natrona,11-4,State House,38,REP,Over Votes,0
 Natrona,11-4,State House,38,REP,Under Votes,3
 Natrona,11-4,State House,38,DEM,Write-ins,0
+Natrona,11-4,State House,38,DEM,Over Votes,0
+Natrona,11-4,State House,38,DEM,Under Votes,0
 Natrona,11-4,Ballots Cast,,REP,Ballots Cast,69
 Natrona,11-4,Ballots Cast,,DEM,Ballots Cast,0
 Natrona,11-4,Ballots Cast,,NP,Ballots Cast,0
@@ -516,11 +570,15 @@ Natrona,12-2,State House,35,REP,Write-ins,0
 Natrona,12-2,State House,35,REP,Over Votes,0
 Natrona,12-2,State House,35,REP,Under Votes,0
 Natrona,12-2,State House,35,DEM,Write-ins,0
+Natrona,12-2,State House,35,DEM,Over Votes,0
+Natrona,12-2,State House,35,DEM,Under Votes,0
 Natrona,12-2,State House,37,REP,Steve Harshman,129
 Natrona,12-2,State House,37,REP,Write-ins,6
 Natrona,12-2,State House,37,REP,Over Votes,0
 Natrona,12-2,State House,37,REP,Under Votes,33
 Natrona,12-2,State House,37,DEM,Write-ins,1
+Natrona,12-2,State House,37,DEM,Over Votes,0
+Natrona,12-2,State House,37,DEM,Under Votes,7
 Natrona,12-2,Ballots Cast,,REP,Ballots Cast,189
 Natrona,12-2,Ballots Cast,,DEM,Ballots Cast,8
 Natrona,12-2,Ballots Cast,,NP,Ballots Cast,4
@@ -551,12 +609,16 @@ Natrona,13-1,State Senate,30,REP,Write-ins,0
 Natrona,13-1,State Senate,30,REP,Over Votes,0
 Natrona,13-1,State Senate,30,REP,Under Votes,3
 Natrona,13-1,State Senate,30,DEM,Write-ins,0
+Natrona,13-1,State Senate,30,DEM,Over Votes,0
+Natrona,13-1,State Senate,30,DEM,Under Votes,1
 Natrona,13-1,State House,58,REP,Bill Allemand,38
 Natrona,13-1,State House,58,REP,Tom Jones,14
 Natrona,13-1,State House,58,REP,Write-ins,0
 Natrona,13-1,State House,58,REP,Over Votes,1
 Natrona,13-1,State House,58,REP,Under Votes,1
 Natrona,13-1,State House,58,DEM,Write-ins,0
+Natrona,13-1,State House,58,DEM,Over Votes,0
+Natrona,13-1,State House,58,DEM,Under Votes,1
 Natrona,13-1,Ballots Cast,,REP,Ballots Cast,54
 Natrona,13-1,Ballots Cast,,DEM,Ballots Cast,1
 Natrona,13-1,Ballots Cast,,NP,Ballots Cast,0
@@ -587,12 +649,16 @@ Natrona,13-2,State Senate,30,REP,Write-ins,0
 Natrona,13-2,State Senate,30,REP,Over Votes,0
 Natrona,13-2,State Senate,30,REP,Under Votes,1
 Natrona,13-2,State Senate,30,DEM,Write-ins,0
+Natrona,13-2,State Senate,30,DEM,Over Votes,0
+Natrona,13-2,State Senate,30,DEM,Under Votes,0
 Natrona,13-2,State House,38,REP,Jayme Lien,14
 Natrona,13-2,State House,38,REP,Tom Walters,24
 Natrona,13-2,State House,38,REP,Write-ins,0
 Natrona,13-2,State House,38,REP,Over Votes,0
 Natrona,13-2,State House,38,REP,Under Votes,2
 Natrona,13-2,State House,38,DEM,Write-ins,0
+Natrona,13-2,State House,38,DEM,Over Votes,0
+Natrona,13-2,State House,38,DEM,Under Votes,0
 Natrona,13-2,Ballots Cast,,REP,Ballots Cast,40
 Natrona,13-2,Ballots Cast,,DEM,Ballots Cast,0
 Natrona,13-2,Ballots Cast,,NP,Ballots Cast,0
@@ -623,12 +689,16 @@ Natrona,14-1,State Senate,30,REP,Write-ins,0
 Natrona,14-1,State Senate,30,REP,Over Votes,0
 Natrona,14-1,State Senate,30,REP,Under Votes,1
 Natrona,14-1,State Senate,30,DEM,Write-ins,0
+Natrona,14-1,State Senate,30,DEM,Over Votes,0
+Natrona,14-1,State Senate,30,DEM,Under Votes,0
 Natrona,14-1,State House,38,REP,Jayme Lien,8
 Natrona,14-1,State House,38,REP,Tom Walters,3
 Natrona,14-1,State House,38,REP,Write-ins,0
 Natrona,14-1,State House,38,REP,Over Votes,0
 Natrona,14-1,State House,38,REP,Under Votes,2
 Natrona,14-1,State House,38,DEM,Write-ins,0
+Natrona,14-1,State House,38,DEM,Over Votes,0
+Natrona,14-1,State House,38,DEM,Under Votes,0
 Natrona,14-1,Ballots Cast,,REP,Ballots Cast,13
 Natrona,14-1,Ballots Cast,,DEM,Ballots Cast,0
 Natrona,14-1,Ballots Cast,,NP,Ballots Cast,0
@@ -657,6 +727,8 @@ Natrona,2-1,State House,59,REP,Write-ins,12
 Natrona,2-1,State House,59,REP,Over Votes,0
 Natrona,2-1,State House,59,REP,Under Votes,62
 Natrona,2-1,State House,59,DEM,Write-ins,7
+Natrona,2-1,State House,59,DEM,Over Votes,0
+Natrona,2-1,State House,59,DEM,Under Votes,41
 Natrona,2-1,Ballots Cast,,REP,Ballots Cast,294
 Natrona,2-1,Ballots Cast,,DEM,Ballots Cast,48
 Natrona,2-1,Ballots Cast,,NP,Ballots Cast,7
@@ -685,6 +757,8 @@ Natrona,2-10,State House,37,REP,Write-ins,17
 Natrona,2-10,State House,37,REP,Over Votes,0
 Natrona,2-10,State House,37,REP,Under Votes,84
 Natrona,2-10,State House,37,DEM,Write-ins,0
+Natrona,2-10,State House,37,DEM,Over Votes,0
+Natrona,2-10,State House,37,DEM,Under Votes,27
 Natrona,2-10,Ballots Cast,,REP,Ballots Cast,447
 Natrona,2-10,Ballots Cast,,DEM,Ballots Cast,27
 Natrona,2-10,Ballots Cast,,NP,Ballots Cast,8
@@ -713,6 +787,8 @@ Natrona,2-2,State House,59,REP,Write-ins,9
 Natrona,2-2,State House,59,REP,Over Votes,0
 Natrona,2-2,State House,59,REP,Under Votes,38
 Natrona,2-2,State House,59,DEM,Write-ins,0
+Natrona,2-2,State House,59,DEM,Over Votes,0
+Natrona,2-2,State House,59,DEM,Under Votes,30
 Natrona,2-2,Ballots Cast,,REP,Ballots Cast,190
 Natrona,2-2,Ballots Cast,,DEM,Ballots Cast,30
 Natrona,2-2,Ballots Cast,,NP,Ballots Cast,11
@@ -741,6 +817,8 @@ Natrona,2-3,State House,59,REP,Write-ins,5
 Natrona,2-3,State House,59,REP,Over Votes,0
 Natrona,2-3,State House,59,REP,Under Votes,38
 Natrona,2-3,State House,59,DEM,Write-ins,0
+Natrona,2-3,State House,59,DEM,Over Votes,0
+Natrona,2-3,State House,59,DEM,Under Votes,11
 Natrona,2-3,Ballots Cast,,REP,Ballots Cast,149
 Natrona,2-3,Ballots Cast,,DEM,Ballots Cast,11
 Natrona,2-3,Ballots Cast,,NP,Ballots Cast,10
@@ -769,6 +847,8 @@ Natrona,2-4,State House,37,REP,Write-ins,9
 Natrona,2-4,State House,37,REP,Over Votes,0
 Natrona,2-4,State House,37,REP,Under Votes,40
 Natrona,2-4,State House,37,DEM,Write-ins,0
+Natrona,2-4,State House,37,DEM,Over Votes,0
+Natrona,2-4,State House,37,DEM,Under Votes,26
 Natrona,2-4,Ballots Cast,,REP,Ballots Cast,197
 Natrona,2-4,Ballots Cast,,DEM,Ballots Cast,26
 Natrona,2-4,Ballots Cast,,NP,Ballots Cast,7
@@ -797,6 +877,8 @@ Natrona,2-6,State House,37,REP,Write-ins,43
 Natrona,2-6,State House,37,REP,Over Votes,0
 Natrona,2-6,State House,37,REP,Under Votes,126
 Natrona,2-6,State House,37,DEM,Write-ins,5
+Natrona,2-6,State House,37,DEM,Over Votes,0
+Natrona,2-6,State House,37,DEM,Under Votes,47
 Natrona,2-6,Ballots Cast,,REP,Ballots Cast,652
 Natrona,2-6,Ballots Cast,,DEM,Ballots Cast,52
 Natrona,2-6,Ballots Cast,,NP,Ballots Cast,22
@@ -827,12 +909,16 @@ Natrona,2-7,State Senate,30,REP,Write-ins,4
 Natrona,2-7,State Senate,30,REP,Over Votes,0
 Natrona,2-7,State Senate,30,REP,Under Votes,27
 Natrona,2-7,State Senate,30,DEM,Write-ins,5
+Natrona,2-7,State Senate,30,DEM,Over Votes,0
+Natrona,2-7,State Senate,30,DEM,Under Votes,31
 Natrona,2-7,State House,38,REP,Jayme Lien,305
 Natrona,2-7,State House,38,REP,Tom Walters,235
 Natrona,2-7,State House,38,REP,Write-ins,2
 Natrona,2-7,State House,38,REP,Over Votes,0
 Natrona,2-7,State House,38,REP,Under Votes,29
 Natrona,2-7,State House,38,DEM,Write-ins,4
+Natrona,2-7,State House,38,DEM,Over Votes,0
+Natrona,2-7,State House,38,DEM,Under Votes,32
 Natrona,2-7,Ballots Cast,,REP,Ballots Cast,571
 Natrona,2-7,Ballots Cast,,DEM,Ballots Cast,36
 Natrona,2-7,Ballots Cast,,NP,Ballots Cast,19
@@ -863,12 +949,16 @@ Natrona,2-8,State Senate,30,REP,Write-ins,0
 Natrona,2-8,State Senate,30,REP,Over Votes,0
 Natrona,2-8,State Senate,30,REP,Under Votes,18
 Natrona,2-8,State Senate,30,DEM,Write-ins,3
+Natrona,2-8,State Senate,30,DEM,Over Votes,0
+Natrona,2-8,State Senate,30,DEM,Under Votes,42
 Natrona,2-8,State House,38,REP,Jayme Lien,258
 Natrona,2-8,State House,38,REP,Tom Walters,211
 Natrona,2-8,State House,38,REP,Write-ins,0
 Natrona,2-8,State House,38,REP,Over Votes,0
 Natrona,2-8,State House,38,REP,Under Votes,21
 Natrona,2-8,State House,38,DEM,Write-ins,4
+Natrona,2-8,State House,38,DEM,Over Votes,0
+Natrona,2-8,State House,38,DEM,Under Votes,41
 Natrona,2-8,Ballots Cast,,REP,Ballots Cast,490
 Natrona,2-8,Ballots Cast,,DEM,Ballots Cast,45
 Natrona,2-8,Ballots Cast,,NP,Ballots Cast,19
@@ -899,17 +989,23 @@ Natrona,2-9,State Senate,30,REP,Write-ins,1
 Natrona,2-9,State Senate,30,REP,Over Votes,0
 Natrona,2-9,State Senate,30,REP,Under Votes,12
 Natrona,2-9,State Senate,30,DEM,Write-ins,0
+Natrona,2-9,State Senate,30,DEM,Over Votes,0
+Natrona,2-9,State Senate,30,DEM,Under Votes,10
 Natrona,2-9,State House,37,REP,Steve Harshman,0
 Natrona,2-9,State House,37,REP,Write-ins,0
 Natrona,2-9,State House,37,REP,Over Votes,0
 Natrona,2-9,State House,37,REP,Under Votes,0
 Natrona,2-9,State House,37,DEM,Write-ins,0
+Natrona,2-9,State House,37,DEM,Over Votes,0
+Natrona,2-9,State House,37,DEM,Under Votes,0
 Natrona,2-9,State House,38,REP,Jayme Lien,114
 Natrona,2-9,State House,38,REP,Tom Walters,77
 Natrona,2-9,State House,38,REP,Write-ins,1
 Natrona,2-9,State House,38,REP,Over Votes,0
 Natrona,2-9,State House,38,REP,Under Votes,10
 Natrona,2-9,State House,38,DEM,Write-ins,0
+Natrona,2-9,State House,38,DEM,Over Votes,0
+Natrona,2-9,State House,38,DEM,Under Votes,10
 Natrona,2-9,Ballots Cast,,REP,Ballots Cast,202
 Natrona,2-9,Ballots Cast,,DEM,Ballots Cast,10
 Natrona,2-9,Ballots Cast,,NP,Ballots Cast,1
@@ -939,6 +1035,8 @@ Natrona,3-10,State House,35,REP,Write-ins,2
 Natrona,3-10,State House,35,REP,Over Votes,2
 Natrona,3-10,State House,35,REP,Under Votes,27
 Natrona,3-10,State House,35,DEM,Write-ins,3
+Natrona,3-10,State House,35,DEM,Over Votes,0
+Natrona,3-10,State House,35,DEM,Under Votes,45
 Natrona,3-10,Ballots Cast,,REP,Ballots Cast,1197
 Natrona,3-10,Ballots Cast,,DEM,Ballots Cast,48
 Natrona,3-10,Ballots Cast,,NP,Ballots Cast,29
@@ -967,6 +1065,8 @@ Natrona,3-2,State House,36,REP,Write-ins,3
 Natrona,3-2,State House,36,REP,Over Votes,0
 Natrona,3-2,State House,36,REP,Under Votes,28
 Natrona,3-2,State House,36,DEM,Write-ins,5
+Natrona,3-2,State House,36,DEM,Over Votes,0
+Natrona,3-2,State House,36,DEM,Under Votes,24
 Natrona,3-2,Ballots Cast,,REP,Ballots Cast,212
 Natrona,3-2,Ballots Cast,,DEM,Ballots Cast,29
 Natrona,3-2,Ballots Cast,,NP,Ballots Cast,11
@@ -995,6 +1095,8 @@ Natrona,3-3,State House,36,REP,Write-ins,8
 Natrona,3-3,State House,36,REP,Over Votes,1
 Natrona,3-3,State House,36,REP,Under Votes,64
 Natrona,3-3,State House,36,DEM,Write-ins,4
+Natrona,3-3,State House,36,DEM,Over Votes,0
+Natrona,3-3,State House,36,DEM,Under Votes,33
 Natrona,3-3,Ballots Cast,,REP,Ballots Cast,335
 Natrona,3-3,Ballots Cast,,DEM,Ballots Cast,37
 Natrona,3-3,Ballots Cast,,NP,Ballots Cast,10
@@ -1024,12 +1126,16 @@ Natrona,3-4,State Senate,28,REP,Write-ins,5
 Natrona,3-4,State Senate,28,REP,Over Votes,0
 Natrona,3-4,State Senate,28,REP,Under Votes,19
 Natrona,3-4,State Senate,28,DEM,Write-ins,2
+Natrona,3-4,State Senate,28,DEM,Over Votes,0
+Natrona,3-4,State Senate,28,DEM,Under Votes,12
 Natrona,3-4,State House,57,REP,Jeanette Ward,125
 Natrona,3-4,State House,57,REP,Julie Jarvis,174
 Natrona,3-4,State House,57,REP,Write-ins,2
 Natrona,3-4,State House,57,REP,Over Votes,0
 Natrona,3-4,State House,57,REP,Under Votes,7
 Natrona,3-4,State House,57,DEM,Write-ins,2
+Natrona,3-4,State House,57,DEM,Over Votes,0
+Natrona,3-4,State House,57,DEM,Under Votes,12
 Natrona,3-4,Ballots Cast,,REP,Ballots Cast,308
 Natrona,3-4,Ballots Cast,,DEM,Ballots Cast,14
 Natrona,3-4,Ballots Cast,,NP,Ballots Cast,9
@@ -1058,6 +1164,8 @@ Natrona,3-5,State House,36,REP,Write-ins,10
 Natrona,3-5,State House,36,REP,Over Votes,0
 Natrona,3-5,State House,36,REP,Under Votes,48
 Natrona,3-5,State House,36,DEM,Write-ins,4
+Natrona,3-5,State House,36,DEM,Over Votes,0
+Natrona,3-5,State House,36,DEM,Under Votes,30
 Natrona,3-5,Ballots Cast,,REP,Ballots Cast,285
 Natrona,3-5,Ballots Cast,,DEM,Ballots Cast,34
 Natrona,3-5,Ballots Cast,,NP,Ballots Cast,5
@@ -1087,6 +1195,8 @@ Natrona,3-6,State House,35,REP,Write-ins,5
 Natrona,3-6,State House,35,REP,Over Votes,1
 Natrona,3-6,State House,35,REP,Under Votes,18
 Natrona,3-6,State House,35,DEM,Write-ins,3
+Natrona,3-6,State House,35,DEM,Over Votes,0
+Natrona,3-6,State House,35,DEM,Under Votes,62
 Natrona,3-6,Ballots Cast,,REP,Ballots Cast,801
 Natrona,3-6,Ballots Cast,,DEM,Ballots Cast,65
 Natrona,3-6,Ballots Cast,,NP,Ballots Cast,14
@@ -1116,12 +1226,16 @@ Natrona,3-8,State Senate,28,REP,Write-ins,0
 Natrona,3-8,State Senate,28,REP,Over Votes,0
 Natrona,3-8,State Senate,28,REP,Under Votes,11
 Natrona,3-8,State Senate,28,DEM,Write-ins,2
+Natrona,3-8,State Senate,28,DEM,Over Votes,0
+Natrona,3-8,State Senate,28,DEM,Under Votes,16
 Natrona,3-8,State House,57,REP,Jeanette Ward,69
 Natrona,3-8,State House,57,REP,Julie Jarvis,79
 Natrona,3-8,State House,57,REP,Write-ins,0
 Natrona,3-8,State House,57,REP,Over Votes,0
 Natrona,3-8,State House,57,REP,Under Votes,12
 Natrona,3-8,State House,57,DEM,Write-ins,2
+Natrona,3-8,State House,57,DEM,Over Votes,0
+Natrona,3-8,State House,57,DEM,Under Votes,16
 Natrona,3-8,Ballots Cast,,REP,Ballots Cast,160
 Natrona,3-8,Ballots Cast,,DEM,Ballots Cast,18
 Natrona,3-8,Ballots Cast,,NP,Ballots Cast,6
@@ -1150,6 +1264,8 @@ Natrona,3-9,State House,36,REP,Write-ins,6
 Natrona,3-9,State House,36,REP,Over Votes,0
 Natrona,3-9,State House,36,REP,Under Votes,32
 Natrona,3-9,State House,36,DEM,Write-ins,1
+Natrona,3-9,State House,36,DEM,Over Votes,0
+Natrona,3-9,State House,36,DEM,Under Votes,26
 Natrona,3-9,Ballots Cast,,REP,Ballots Cast,271
 Natrona,3-9,Ballots Cast,,DEM,Ballots Cast,27
 Natrona,3-9,Ballots Cast,,NP,Ballots Cast,15
@@ -1178,12 +1294,16 @@ Natrona,4-1,State Senate,2,REP,Write-ins,2
 Natrona,4-1,State Senate,2,REP,Over Votes,0
 Natrona,4-1,State Senate,2,REP,Under Votes,60
 Natrona,4-1,State Senate,2,DEM,Write-ins,2
+Natrona,4-1,State Senate,2,DEM,Over Votes,0
+Natrona,4-1,State Senate,2,DEM,Under Votes,33
 Natrona,4-1,State House,62,REP,Edis Allen,83
 Natrona,4-1,State House,62,REP,Kevin Campbell,145
 Natrona,4-1,State House,62,REP,Write-ins,2
 Natrona,4-1,State House,62,REP,Over Votes,0
 Natrona,4-1,State House,62,REP,Under Votes,37
 Natrona,4-1,State House,62,DEM,Write-ins,2
+Natrona,4-1,State House,62,DEM,Over Votes,0
+Natrona,4-1,State House,62,DEM,Under Votes,33
 Natrona,4-1,Ballots Cast,,REP,Ballots Cast,267
 Natrona,4-1,Ballots Cast,,DEM,Ballots Cast,35
 Natrona,4-1,Ballots Cast,,NP,Ballots Cast,12
@@ -1212,12 +1332,16 @@ Natrona,4-2,State Senate,2,REP,Write-ins,6
 Natrona,4-2,State Senate,2,REP,Over Votes,0
 Natrona,4-2,State Senate,2,REP,Under Votes,71
 Natrona,4-2,State Senate,2,DEM,Write-ins,1
+Natrona,4-2,State Senate,2,DEM,Over Votes,0
+Natrona,4-2,State Senate,2,DEM,Under Votes,16
 Natrona,4-2,State House,62,REP,Edis Allen,201
 Natrona,4-2,State House,62,REP,Kevin Campbell,229
 Natrona,4-2,State House,62,REP,Write-ins,1
 Natrona,4-2,State House,62,REP,Over Votes,2
 Natrona,4-2,State House,62,REP,Under Votes,50
 Natrona,4-2,State House,62,DEM,Write-ins,2
+Natrona,4-2,State House,62,DEM,Over Votes,0
+Natrona,4-2,State House,62,DEM,Under Votes,15
 Natrona,4-2,Ballots Cast,,REP,Ballots Cast,483
 Natrona,4-2,Ballots Cast,,DEM,Ballots Cast,17
 Natrona,4-2,Ballots Cast,,NP,Ballots Cast,7
@@ -1246,12 +1370,16 @@ Natrona,5-1,State Senate,2,REP,Write-ins,0
 Natrona,5-1,State Senate,2,REP,Over Votes,0
 Natrona,5-1,State Senate,2,REP,Under Votes,3
 Natrona,5-1,State Senate,2,DEM,Write-ins,0
+Natrona,5-1,State Senate,2,DEM,Over Votes,0
+Natrona,5-1,State Senate,2,DEM,Under Votes,0
 Natrona,5-1,State House,62,REP,Edis Allen,6
 Natrona,5-1,State House,62,REP,Kevin Campbell,7
 Natrona,5-1,State House,62,REP,Write-ins,0
 Natrona,5-1,State House,62,REP,Over Votes,0
 Natrona,5-1,State House,62,REP,Under Votes,8
 Natrona,5-1,State House,62,DEM,Write-ins,0
+Natrona,5-1,State House,62,DEM,Over Votes,0
+Natrona,5-1,State House,62,DEM,Under Votes,0
 Natrona,5-1,Ballots Cast,,REP,Ballots Cast,21
 Natrona,5-1,Ballots Cast,,DEM,Ballots Cast,0
 Natrona,5-1,Ballots Cast,,NP,Ballots Cast,2
@@ -1282,12 +1410,16 @@ Natrona,7-1,State Senate,30,REP,Write-ins,0
 Natrona,7-1,State Senate,30,REP,Over Votes,0
 Natrona,7-1,State Senate,30,REP,Under Votes,4
 Natrona,7-1,State Senate,30,DEM,Write-ins,0
+Natrona,7-1,State Senate,30,DEM,Over Votes,0
+Natrona,7-1,State Senate,30,DEM,Under Votes,3
 Natrona,7-1,State House,58,REP,Bill Allemand,56
 Natrona,7-1,State House,58,REP,Tom Jones,16
 Natrona,7-1,State House,58,REP,Write-ins,0
 Natrona,7-1,State House,58,REP,Over Votes,0
 Natrona,7-1,State House,58,REP,Under Votes,1
 Natrona,7-1,State House,58,DEM,Write-ins,0
+Natrona,7-1,State House,58,DEM,Over Votes,0
+Natrona,7-1,State House,58,DEM,Under Votes,3
 Natrona,7-1,Ballots Cast,,REP,Ballots Cast,73
 Natrona,7-1,Ballots Cast,,DEM,Ballots Cast,3
 Natrona,7-1,Ballots Cast,,NP,Ballots Cast,5
@@ -1318,12 +1450,16 @@ Natrona,7-2,State Senate,30,REP,Write-ins,0
 Natrona,7-2,State Senate,30,REP,Over Votes,0
 Natrona,7-2,State Senate,30,REP,Under Votes,5
 Natrona,7-2,State Senate,30,DEM,Write-ins,1
+Natrona,7-2,State Senate,30,DEM,Over Votes,0
+Natrona,7-2,State Senate,30,DEM,Under Votes,0
 Natrona,7-2,State House,58,REP,Bill Allemand,52
 Natrona,7-2,State House,58,REP,Tom Jones,11
 Natrona,7-2,State House,58,REP,Write-ins,0
 Natrona,7-2,State House,58,REP,Over Votes,0
 Natrona,7-2,State House,58,REP,Under Votes,1
 Natrona,7-2,State House,58,DEM,Write-ins,1
+Natrona,7-2,State House,58,DEM,Over Votes,0
+Natrona,7-2,State House,58,DEM,Under Votes,0
 Natrona,7-2,Ballots Cast,,REP,Ballots Cast,64
 Natrona,7-2,Ballots Cast,,DEM,Ballots Cast,1
 Natrona,7-2,Ballots Cast,,NP,Ballots Cast,2
@@ -1354,17 +1490,23 @@ Natrona,8-1,State Senate,30,REP,Write-ins,0
 Natrona,8-1,State Senate,30,REP,Over Votes,0
 Natrona,8-1,State Senate,30,REP,Under Votes,0
 Natrona,8-1,State Senate,30,DEM,Write-ins,0
+Natrona,8-1,State Senate,30,DEM,Over Votes,0
+Natrona,8-1,State Senate,30,DEM,Under Votes,0
 Natrona,8-1,State House,58,REP,Bill Allemand,0
 Natrona,8-1,State House,58,REP,Tom Jones,0
 Natrona,8-1,State House,58,REP,Write-ins,0
 Natrona,8-1,State House,58,REP,Over Votes,0
 Natrona,8-1,State House,58,REP,Under Votes,0
 Natrona,8-1,State House,58,DEM,Write-ins,0
+Natrona,8-1,State House,58,DEM,Over Votes,0
+Natrona,8-1,State House,58,DEM,Under Votes,0
 Natrona,8-1,State House,59,REP,J.R. Riggins,391
 Natrona,8-1,State House,59,REP,Write-ins,15
 Natrona,8-1,State House,59,REP,Over Votes,0
 Natrona,8-1,State House,59,REP,Under Votes,87
 Natrona,8-1,State House,59,DEM,Write-ins,5
+Natrona,8-1,State House,59,DEM,Over Votes,0
+Natrona,8-1,State House,59,DEM,Under Votes,35
 Natrona,8-1,Ballots Cast,,REP,Ballots Cast,493
 Natrona,8-1,Ballots Cast,,DEM,Ballots Cast,40
 Natrona,8-1,Ballots Cast,,NP,Ballots Cast,27
@@ -1393,6 +1535,8 @@ Natrona,8-2,State House,59,REP,Write-ins,4
 Natrona,8-2,State House,59,REP,Over Votes,0
 Natrona,8-2,State House,59,REP,Under Votes,18
 Natrona,8-2,State House,59,DEM,Write-ins,1
+Natrona,8-2,State House,59,DEM,Over Votes,0
+Natrona,8-2,State House,59,DEM,Under Votes,2
 Natrona,8-2,Ballots Cast,,REP,Ballots Cast,109
 Natrona,8-2,Ballots Cast,,DEM,Ballots Cast,3
 Natrona,8-2,Ballots Cast,,NP,Ballots Cast,3
@@ -1421,6 +1565,8 @@ Natrona,8-3,State Senate,2,REP,Write-ins,1
 Natrona,8-3,State Senate,2,REP,Over Votes,0
 Natrona,8-3,State Senate,2,REP,Under Votes,5
 Natrona,8-3,State Senate,2,DEM,Write-ins,0
+Natrona,8-3,State Senate,2,DEM,Over Votes,0
+Natrona,8-3,State Senate,2,DEM,Under Votes,0
 Natrona,8-3,State Senate,30,REP,Charles H Schoenwolf,33
 Natrona,8-3,State Senate,30,REP,Charles K. Scott,86
 Natrona,8-3,State Senate,30,REP,Robert L. Hendry,50
@@ -1428,18 +1574,24 @@ Natrona,8-3,State Senate,30,REP,Write-ins,0
 Natrona,8-3,State Senate,30,REP,Over Votes,0
 Natrona,8-3,State Senate,30,REP,Under Votes,8
 Natrona,8-3,State Senate,30,DEM,Write-ins,1
+Natrona,8-3,State Senate,30,DEM,Over Votes,0
+Natrona,8-3,State Senate,30,DEM,Under Votes,10
 Natrona,8-3,State House,58,REP,Bill Allemand,129
 Natrona,8-3,State House,58,REP,Tom Jones,41
 Natrona,8-3,State House,58,REP,Write-ins,0
 Natrona,8-3,State House,58,REP,Over Votes,1
 Natrona,8-3,State House,58,REP,Under Votes,6
 Natrona,8-3,State House,58,DEM,Write-ins,0
+Natrona,8-3,State House,58,DEM,Over Votes,0
+Natrona,8-3,State House,58,DEM,Under Votes,11
 Natrona,8-3,State House,62,REP,Edis Allen,14
 Natrona,8-3,State House,62,REP,Kevin Campbell,18
 Natrona,8-3,State House,62,REP,Write-ins,0
 Natrona,8-3,State House,62,REP,Over Votes,0
 Natrona,8-3,State House,62,REP,Under Votes,3
 Natrona,8-3,State House,62,DEM,Write-ins,0
+Natrona,8-3,State House,62,DEM,Over Votes,0
+Natrona,8-3,State House,62,DEM,Under Votes,0
 Natrona,8-3,Ballots Cast,,REP,Ballots Cast,212
 Natrona,8-3,Ballots Cast,,DEM,Ballots Cast,11
 Natrona,8-3,Ballots Cast,,NP,Ballots Cast,9
@@ -1470,12 +1622,16 @@ Natrona,8-4,State Senate,30,REP,Write-ins,1
 Natrona,8-4,State Senate,30,REP,Over Votes,0
 Natrona,8-4,State Senate,30,REP,Under Votes,23
 Natrona,8-4,State Senate,30,DEM,Write-ins,5
+Natrona,8-4,State Senate,30,DEM,Over Votes,0
+Natrona,8-4,State Senate,30,DEM,Under Votes,16
 Natrona,8-4,State House,58,REP,Bill Allemand,336
 Natrona,8-4,State House,58,REP,Tom Jones,169
 Natrona,8-4,State House,58,REP,Write-ins,2
 Natrona,8-4,State House,58,REP,Over Votes,0
 Natrona,8-4,State House,58,REP,Under Votes,25
 Natrona,8-4,State House,58,DEM,Write-ins,3
+Natrona,8-4,State House,58,DEM,Over Votes,0
+Natrona,8-4,State House,58,DEM,Under Votes,18
 Natrona,8-4,Ballots Cast,,REP,Ballots Cast,532
 Natrona,8-4,Ballots Cast,,DEM,Ballots Cast,21
 Natrona,8-4,Ballots Cast,,NP,Ballots Cast,6
@@ -1506,12 +1662,16 @@ Natrona,8-5,State Senate,30,REP,Write-ins,1
 Natrona,8-5,State Senate,30,REP,Over Votes,0
 Natrona,8-5,State Senate,30,REP,Under Votes,28
 Natrona,8-5,State Senate,30,DEM,Write-ins,2
+Natrona,8-5,State Senate,30,DEM,Over Votes,0
+Natrona,8-5,State Senate,30,DEM,Under Votes,18
 Natrona,8-5,State House,58,REP,Bill Allemand,333
 Natrona,8-5,State House,58,REP,Tom Jones,112
 Natrona,8-5,State House,58,REP,Write-ins,2
 Natrona,8-5,State House,58,REP,Over Votes,0
 Natrona,8-5,State House,58,REP,Under Votes,19
 Natrona,8-5,State House,58,DEM,Write-ins,2
+Natrona,8-5,State House,58,DEM,Over Votes,0
+Natrona,8-5,State House,58,DEM,Under Votes,18
 Natrona,8-5,Ballots Cast,,REP,Ballots Cast,466
 Natrona,8-5,Ballots Cast,,DEM,Ballots Cast,20
 Natrona,8-5,Ballots Cast,,NP,Ballots Cast,23
@@ -1540,11 +1700,15 @@ Natrona,9-1,State House,37,REP,Write-ins,22
 Natrona,9-1,State House,37,REP,Over Votes,0
 Natrona,9-1,State House,37,REP,Under Votes,96
 Natrona,9-1,State House,37,DEM,Write-ins,3
+Natrona,9-1,State House,37,DEM,Over Votes,0
+Natrona,9-1,State House,37,DEM,Under Votes,15
 Natrona,9-1,State House,59,REP,J.R. Riggins,0
 Natrona,9-1,State House,59,REP,Write-ins,0
 Natrona,9-1,State House,59,REP,Over Votes,0
 Natrona,9-1,State House,59,REP,Under Votes,0
 Natrona,9-1,State House,59,DEM,Write-ins,1
+Natrona,9-1,State House,59,DEM,Over Votes,0
+Natrona,9-1,State House,59,DEM,Under Votes,1
 Natrona,9-1,Ballots Cast,,REP,Ballots Cast,556
 Natrona,9-1,Ballots Cast,,DEM,Ballots Cast,20
 Natrona,9-1,Ballots Cast,,NP,Ballots Cast,9

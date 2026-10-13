@@ -40,12 +40,16 @@ Lincoln,1-01,State Auditor,,REP,Write-ins,2
 Lincoln,1-01,State Auditor,,REP,Over Votes,0
 Lincoln,1-01,State Auditor,,REP,Under Votes,137
 Lincoln,1-01,State Auditor,,DEM,Write-ins,2
+Lincoln,1-01,State Auditor,,DEM,Over Votes,0
+Lincoln,1-01,State Auditor,,DEM,Under Votes,28
 Lincoln,1-01,State Treasurer,,REP,Bill Gallop,180
 Lincoln,1-01,State Treasurer,,REP,Curt Meier,447
 Lincoln,1-01,State Treasurer,,REP,Write-ins,1
 Lincoln,1-01,State Treasurer,,REP,Over Votes,0
 Lincoln,1-01,State Treasurer,,REP,Under Votes,145
 Lincoln,1-01,State Treasurer,,DEM,Write-ins,2
+Lincoln,1-01,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-01,State Treasurer,,DEM,Under Votes,28
 Lincoln,1-01,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,100
 Lincoln,1-01,Superintendent of Public Instruction,,REP,Brian Schroeder,206
 Lincoln,1-01,Superintendent of Public Instruction,,REP,Jennifer Zerba,117
@@ -107,12 +111,16 @@ Lincoln,1-04,State Auditor,,REP,Write-ins,1
 Lincoln,1-04,State Auditor,,REP,Over Votes,0
 Lincoln,1-04,State Auditor,,REP,Under Votes,41
 Lincoln,1-04,State Auditor,,DEM,Write-ins,0
+Lincoln,1-04,State Auditor,,DEM,Over Votes,0
+Lincoln,1-04,State Auditor,,DEM,Under Votes,12
 Lincoln,1-04,State Treasurer,,REP,Bill Gallop,53
 Lincoln,1-04,State Treasurer,,REP,Curt Meier,126
 Lincoln,1-04,State Treasurer,,REP,Write-ins,0
 Lincoln,1-04,State Treasurer,,REP,Over Votes,0
 Lincoln,1-04,State Treasurer,,REP,Under Votes,38
 Lincoln,1-04,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-04,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-04,State Treasurer,,DEM,Under Votes,12
 Lincoln,1-04,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,19
 Lincoln,1-04,Superintendent of Public Instruction,,REP,Brian Schroeder,71
 Lincoln,1-04,Superintendent of Public Instruction,,REP,Jennifer Zerba,43
@@ -174,12 +182,16 @@ Lincoln,1-06,State Auditor,,REP,Write-ins,1
 Lincoln,1-06,State Auditor,,REP,Over Votes,0
 Lincoln,1-06,State Auditor,,REP,Under Votes,23
 Lincoln,1-06,State Auditor,,DEM,Write-ins,0
+Lincoln,1-06,State Auditor,,DEM,Over Votes,0
+Lincoln,1-06,State Auditor,,DEM,Under Votes,1
 Lincoln,1-06,State Treasurer,,REP,Bill Gallop,25
 Lincoln,1-06,State Treasurer,,REP,Curt Meier,53
 Lincoln,1-06,State Treasurer,,REP,Write-ins,0
 Lincoln,1-06,State Treasurer,,REP,Over Votes,0
 Lincoln,1-06,State Treasurer,,REP,Under Votes,27
 Lincoln,1-06,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-06,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-06,State Treasurer,,DEM,Under Votes,1
 Lincoln,1-06,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,17
 Lincoln,1-06,Superintendent of Public Instruction,,REP,Brian Schroeder,29
 Lincoln,1-06,Superintendent of Public Instruction,,REP,Jennifer Zerba,3
@@ -241,12 +253,16 @@ Lincoln,1-07,State Auditor,,REP,Write-ins,0
 Lincoln,1-07,State Auditor,,REP,Over Votes,0
 Lincoln,1-07,State Auditor,,REP,Under Votes,10
 Lincoln,1-07,State Auditor,,DEM,Write-ins,0
+Lincoln,1-07,State Auditor,,DEM,Over Votes,0
+Lincoln,1-07,State Auditor,,DEM,Under Votes,0
 Lincoln,1-07,State Treasurer,,REP,Bill Gallop,8
 Lincoln,1-07,State Treasurer,,REP,Curt Meier,45
 Lincoln,1-07,State Treasurer,,REP,Write-ins,0
 Lincoln,1-07,State Treasurer,,REP,Over Votes,0
 Lincoln,1-07,State Treasurer,,REP,Under Votes,6
 Lincoln,1-07,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-07,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-07,State Treasurer,,DEM,Under Votes,0
 Lincoln,1-07,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,2
 Lincoln,1-07,Superintendent of Public Instruction,,REP,Brian Schroeder,24
 Lincoln,1-07,Superintendent of Public Instruction,,REP,Jennifer Zerba,5
@@ -308,12 +324,16 @@ Lincoln,1-08,State Auditor,,REP,Write-ins,1
 Lincoln,1-08,State Auditor,,REP,Over Votes,0
 Lincoln,1-08,State Auditor,,REP,Under Votes,59
 Lincoln,1-08,State Auditor,,DEM,Write-ins,0
+Lincoln,1-08,State Auditor,,DEM,Over Votes,0
+Lincoln,1-08,State Auditor,,DEM,Under Votes,2
 Lincoln,1-08,State Treasurer,,REP,Bill Gallop,62
 Lincoln,1-08,State Treasurer,,REP,Curt Meier,146
 Lincoln,1-08,State Treasurer,,REP,Write-ins,1
 Lincoln,1-08,State Treasurer,,REP,Over Votes,0
 Lincoln,1-08,State Treasurer,,REP,Under Votes,47
 Lincoln,1-08,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-08,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-08,State Treasurer,,DEM,Under Votes,2
 Lincoln,1-08,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,36
 Lincoln,1-08,Superintendent of Public Instruction,,REP,Brian Schroeder,120
 Lincoln,1-08,Superintendent of Public Instruction,,REP,Jennifer Zerba,25
@@ -333,6 +353,8 @@ Lincoln,1-08,State House,20,REP,Write-ins,0
 Lincoln,1-08,State House,20,REP,Over Votes,0
 Lincoln,1-08,State House,20,REP,Under Votes,2
 Lincoln,1-08,State House,20,DEM,Write-ins,0
+Lincoln,1-08,State House,20,DEM,Over Votes,0
+Lincoln,1-08,State House,20,DEM,Under Votes,2
 Lincoln,1-08,Ballots Cast,,REP,Ballots Cast,256
 Lincoln,1-08,Ballots Cast,,DEM,Ballots Cast,2
 Lincoln,1-08,Ballots Cast,,NP,Ballots Cast,1
@@ -378,12 +400,16 @@ Lincoln,2-01,State Auditor,,REP,Write-ins,1
 Lincoln,2-01,State Auditor,,REP,Over Votes,0
 Lincoln,2-01,State Auditor,,REP,Under Votes,106
 Lincoln,2-01,State Auditor,,DEM,Write-ins,0
+Lincoln,2-01,State Auditor,,DEM,Over Votes,0
+Lincoln,2-01,State Auditor,,DEM,Under Votes,8
 Lincoln,2-01,State Treasurer,,REP,Bill Gallop,168
 Lincoln,2-01,State Treasurer,,REP,Curt Meier,330
 Lincoln,2-01,State Treasurer,,REP,Write-ins,1
 Lincoln,2-01,State Treasurer,,REP,Over Votes,1
 Lincoln,2-01,State Treasurer,,REP,Under Votes,120
 Lincoln,2-01,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-01,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-01,State Treasurer,,DEM,Under Votes,8
 Lincoln,2-01,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,32
 Lincoln,2-01,Superintendent of Public Instruction,,REP,Brian Schroeder,218
 Lincoln,2-01,Superintendent of Public Instruction,,REP,Jennifer Zerba,30
@@ -402,6 +428,8 @@ Lincoln,2-01,State House,21,REP,Write-ins,1
 Lincoln,2-01,State House,21,REP,Over Votes,0
 Lincoln,2-01,State House,21,REP,Under Votes,17
 Lincoln,2-01,State House,21,DEM,Write-ins,1
+Lincoln,2-01,State House,21,DEM,Over Votes,0
+Lincoln,2-01,State House,21,DEM,Under Votes,7
 Lincoln,2-01,Ballots Cast,,REP,Ballots Cast,620
 Lincoln,2-01,Ballots Cast,,DEM,Ballots Cast,8
 Lincoln,2-01,Ballots Cast,,NP,Ballots Cast,17
@@ -447,12 +475,16 @@ Lincoln,2-02,State Auditor,,REP,Write-ins,0
 Lincoln,2-02,State Auditor,,REP,Over Votes,0
 Lincoln,2-02,State Auditor,,REP,Under Votes,45
 Lincoln,2-02,State Auditor,,DEM,Write-ins,0
+Lincoln,2-02,State Auditor,,DEM,Over Votes,0
+Lincoln,2-02,State Auditor,,DEM,Under Votes,0
 Lincoln,2-02,State Treasurer,,REP,Bill Gallop,64
 Lincoln,2-02,State Treasurer,,REP,Curt Meier,109
 Lincoln,2-02,State Treasurer,,REP,Write-ins,1
 Lincoln,2-02,State Treasurer,,REP,Over Votes,1
 Lincoln,2-02,State Treasurer,,REP,Under Votes,63
 Lincoln,2-02,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-02,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-02,State Treasurer,,DEM,Under Votes,0
 Lincoln,2-02,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,28
 Lincoln,2-02,Superintendent of Public Instruction,,REP,Brian Schroeder,75
 Lincoln,2-02,Superintendent of Public Instruction,,REP,Jennifer Zerba,16
@@ -471,6 +503,8 @@ Lincoln,2-02,State House,21,REP,Write-ins,1
 Lincoln,2-02,State House,21,REP,Over Votes,0
 Lincoln,2-02,State House,21,REP,Under Votes,4
 Lincoln,2-02,State House,21,DEM,Write-ins,0
+Lincoln,2-02,State House,21,DEM,Over Votes,0
+Lincoln,2-02,State House,21,DEM,Under Votes,0
 Lincoln,2-02,Ballots Cast,,REP,Ballots Cast,238
 Lincoln,2-02,Ballots Cast,,DEM,Ballots Cast,0
 Lincoln,2-02,Ballots Cast,,NP,Ballots Cast,0
@@ -516,12 +550,16 @@ Lincoln,2-03,State Auditor,,REP,Write-ins,3
 Lincoln,2-03,State Auditor,,REP,Over Votes,0
 Lincoln,2-03,State Auditor,,REP,Under Votes,183
 Lincoln,2-03,State Auditor,,DEM,Write-ins,0
+Lincoln,2-03,State Auditor,,DEM,Over Votes,0
+Lincoln,2-03,State Auditor,,DEM,Under Votes,17
 Lincoln,2-03,State Treasurer,,REP,Bill Gallop,180
 Lincoln,2-03,State Treasurer,,REP,Curt Meier,248
 Lincoln,2-03,State Treasurer,,REP,Write-ins,5
 Lincoln,2-03,State Treasurer,,REP,Over Votes,0
 Lincoln,2-03,State Treasurer,,REP,Under Votes,182
 Lincoln,2-03,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-03,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-03,State Treasurer,,DEM,Under Votes,17
 Lincoln,2-03,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,55
 Lincoln,2-03,Superintendent of Public Instruction,,REP,Brian Schroeder,215
 Lincoln,2-03,Superintendent of Public Instruction,,REP,Jennifer Zerba,74
@@ -539,6 +577,8 @@ Lincoln,2-03,State House,22,REP,Write-ins,18
 Lincoln,2-03,State House,22,REP,Over Votes,0
 Lincoln,2-03,State House,22,REP,Under Votes,170
 Lincoln,2-03,State House,22,DEM,Write-ins,2
+Lincoln,2-03,State House,22,DEM,Over Votes,0
+Lincoln,2-03,State House,22,DEM,Under Votes,15
 Lincoln,2-03,Ballots Cast,,REP,Ballots Cast,615
 Lincoln,2-03,Ballots Cast,,DEM,Ballots Cast,17
 Lincoln,2-03,Ballots Cast,,NP,Ballots Cast,16
@@ -584,12 +624,16 @@ Lincoln,2-04,State Auditor,,REP,Write-ins,2
 Lincoln,2-04,State Auditor,,REP,Over Votes,0
 Lincoln,2-04,State Auditor,,REP,Under Votes,66
 Lincoln,2-04,State Auditor,,DEM,Write-ins,0
+Lincoln,2-04,State Auditor,,DEM,Over Votes,0
+Lincoln,2-04,State Auditor,,DEM,Under Votes,2
 Lincoln,2-04,State Treasurer,,REP,Bill Gallop,95
 Lincoln,2-04,State Treasurer,,REP,Curt Meier,181
 Lincoln,2-04,State Treasurer,,REP,Write-ins,2
 Lincoln,2-04,State Treasurer,,REP,Over Votes,0
 Lincoln,2-04,State Treasurer,,REP,Under Votes,78
 Lincoln,2-04,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-04,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-04,State Treasurer,,DEM,Under Votes,2
 Lincoln,2-04,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,13
 Lincoln,2-04,Superintendent of Public Instruction,,REP,Brian Schroeder,165
 Lincoln,2-04,Superintendent of Public Instruction,,REP,Jennifer Zerba,23
@@ -608,6 +652,8 @@ Lincoln,2-04,State House,21,REP,Write-ins,0
 Lincoln,2-04,State House,21,REP,Over Votes,0
 Lincoln,2-04,State House,21,REP,Under Votes,9
 Lincoln,2-04,State House,21,DEM,Write-ins,0
+Lincoln,2-04,State House,21,DEM,Over Votes,0
+Lincoln,2-04,State House,21,DEM,Under Votes,2
 Lincoln,2-04,Ballots Cast,,REP,Ballots Cast,356
 Lincoln,2-04,Ballots Cast,,DEM,Ballots Cast,2
 Lincoln,2-04,Ballots Cast,,NP,Ballots Cast,2
@@ -653,12 +699,16 @@ Lincoln,2-05,State Auditor,,REP,Write-ins,3
 Lincoln,2-05,State Auditor,,REP,Over Votes,0
 Lincoln,2-05,State Auditor,,REP,Under Votes,136
 Lincoln,2-05,State Auditor,,DEM,Write-ins,0
+Lincoln,2-05,State Auditor,,DEM,Over Votes,0
+Lincoln,2-05,State Auditor,,DEM,Under Votes,12
 Lincoln,2-05,State Treasurer,,REP,Bill Gallop,149
 Lincoln,2-05,State Treasurer,,REP,Curt Meier,279
 Lincoln,2-05,State Treasurer,,REP,Write-ins,1
 Lincoln,2-05,State Treasurer,,REP,Over Votes,0
 Lincoln,2-05,State Treasurer,,REP,Under Votes,149
 Lincoln,2-05,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-05,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-05,State Treasurer,,DEM,Under Votes,12
 Lincoln,2-05,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,42
 Lincoln,2-05,Superintendent of Public Instruction,,REP,Brian Schroeder,225
 Lincoln,2-05,Superintendent of Public Instruction,,REP,Jennifer Zerba,67
@@ -677,11 +727,15 @@ Lincoln,2-05,State House,21,REP,Write-ins,0
 Lincoln,2-05,State House,21,REP,Over Votes,0
 Lincoln,2-05,State House,21,REP,Under Votes,32
 Lincoln,2-05,State House,21,DEM,Write-ins,0
+Lincoln,2-05,State House,21,DEM,Over Votes,0
+Lincoln,2-05,State House,21,DEM,Under Votes,5
 Lincoln,2-05,State House,22,REP,Andrew Byron,233
 Lincoln,2-05,State House,22,REP,Write-ins,6
 Lincoln,2-05,State House,22,REP,Over Votes,1
 Lincoln,2-05,State House,22,REP,Under Votes,80
 Lincoln,2-05,State House,22,DEM,Write-ins,0
+Lincoln,2-05,State House,22,DEM,Over Votes,0
+Lincoln,2-05,State House,22,DEM,Under Votes,7
 Lincoln,2-05,Ballots Cast,,REP,Ballots Cast,578
 Lincoln,2-05,Ballots Cast,,DEM,Ballots Cast,12
 Lincoln,2-05,Ballots Cast,,NP,Ballots Cast,3
@@ -727,12 +781,16 @@ Lincoln,2-06,State Auditor,,REP,Write-ins,0
 Lincoln,2-06,State Auditor,,REP,Over Votes,0
 Lincoln,2-06,State Auditor,,REP,Under Votes,74
 Lincoln,2-06,State Auditor,,DEM,Write-ins,0
+Lincoln,2-06,State Auditor,,DEM,Over Votes,0
+Lincoln,2-06,State Auditor,,DEM,Under Votes,6
 Lincoln,2-06,State Treasurer,,REP,Bill Gallop,123
 Lincoln,2-06,State Treasurer,,REP,Curt Meier,184
 Lincoln,2-06,State Treasurer,,REP,Write-ins,0
 Lincoln,2-06,State Treasurer,,REP,Over Votes,0
 Lincoln,2-06,State Treasurer,,REP,Under Votes,99
 Lincoln,2-06,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-06,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-06,State Treasurer,,DEM,Under Votes,6
 Lincoln,2-06,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,39
 Lincoln,2-06,Superintendent of Public Instruction,,REP,Brian Schroeder,150
 Lincoln,2-06,Superintendent of Public Instruction,,REP,Jennifer Zerba,30
@@ -751,6 +809,8 @@ Lincoln,2-06,State House,21,REP,Write-ins,0
 Lincoln,2-06,State House,21,REP,Over Votes,0
 Lincoln,2-06,State House,21,REP,Under Votes,11
 Lincoln,2-06,State House,21,DEM,Write-ins,1
+Lincoln,2-06,State House,21,DEM,Over Votes,0
+Lincoln,2-06,State House,21,DEM,Under Votes,5
 Lincoln,2-06,Ballots Cast,,REP,Ballots Cast,406
 Lincoln,2-06,Ballots Cast,,DEM,Ballots Cast,6
 Lincoln,2-06,Ballots Cast,,NP,Ballots Cast,0
@@ -796,12 +856,16 @@ Lincoln,2-07,State Auditor,,REP,Write-ins,4
 Lincoln,2-07,State Auditor,,REP,Over Votes,0
 Lincoln,2-07,State Auditor,,REP,Under Votes,165
 Lincoln,2-07,State Auditor,,DEM,Write-ins,0
+Lincoln,2-07,State Auditor,,DEM,Over Votes,0
+Lincoln,2-07,State Auditor,,DEM,Under Votes,12
 Lincoln,2-07,State Treasurer,,REP,Bill Gallop,209
 Lincoln,2-07,State Treasurer,,REP,Curt Meier,406
 Lincoln,2-07,State Treasurer,,REP,Write-ins,3
 Lincoln,2-07,State Treasurer,,REP,Over Votes,0
 Lincoln,2-07,State Treasurer,,REP,Under Votes,208
 Lincoln,2-07,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-07,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-07,State Treasurer,,DEM,Under Votes,12
 Lincoln,2-07,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,73
 Lincoln,2-07,Superintendent of Public Instruction,,REP,Brian Schroeder,314
 Lincoln,2-07,Superintendent of Public Instruction,,REP,Jennifer Zerba,40
@@ -820,6 +884,8 @@ Lincoln,2-07,State House,21,REP,Write-ins,2
 Lincoln,2-07,State House,21,REP,Over Votes,2
 Lincoln,2-07,State House,21,REP,Under Votes,18
 Lincoln,2-07,State House,21,DEM,Write-ins,0
+Lincoln,2-07,State House,21,DEM,Over Votes,0
+Lincoln,2-07,State House,21,DEM,Under Votes,12
 Lincoln,2-07,Ballots Cast,,REP,Ballots Cast,826
 Lincoln,2-07,Ballots Cast,,DEM,Ballots Cast,12
 Lincoln,2-07,Ballots Cast,,NP,Ballots Cast,0
@@ -865,12 +931,16 @@ Lincoln,2-08,State Auditor,,REP,Write-ins,0
 Lincoln,2-08,State Auditor,,REP,Over Votes,0
 Lincoln,2-08,State Auditor,,REP,Under Votes,75
 Lincoln,2-08,State Auditor,,DEM,Write-ins,1
+Lincoln,2-08,State Auditor,,DEM,Over Votes,0
+Lincoln,2-08,State Auditor,,DEM,Under Votes,2
 Lincoln,2-08,State Treasurer,,REP,Bill Gallop,121
 Lincoln,2-08,State Treasurer,,REP,Curt Meier,172
 Lincoln,2-08,State Treasurer,,REP,Write-ins,0
 Lincoln,2-08,State Treasurer,,REP,Over Votes,0
 Lincoln,2-08,State Treasurer,,REP,Under Votes,100
 Lincoln,2-08,State Treasurer,,DEM,Write-ins,1
+Lincoln,2-08,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-08,State Treasurer,,DEM,Under Votes,2
 Lincoln,2-08,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,17
 Lincoln,2-08,Superintendent of Public Instruction,,REP,Brian Schroeder,185
 Lincoln,2-08,Superintendent of Public Instruction,,REP,Jennifer Zerba,27
@@ -889,6 +959,8 @@ Lincoln,2-08,State House,21,REP,Write-ins,1
 Lincoln,2-08,State House,21,REP,Over Votes,0
 Lincoln,2-08,State House,21,REP,Under Votes,19
 Lincoln,2-08,State House,21,DEM,Write-ins,1
+Lincoln,2-08,State House,21,DEM,Over Votes,0
+Lincoln,2-08,State House,21,DEM,Under Votes,2
 Lincoln,2-08,Ballots Cast,,REP,Ballots Cast,393
 Lincoln,2-08,Ballots Cast,,DEM,Ballots Cast,3
 Lincoln,2-08,Ballots Cast,,NP,Ballots Cast,1
@@ -934,12 +1006,16 @@ Lincoln,2-09,State Auditor,,REP,Write-ins,0
 Lincoln,2-09,State Auditor,,REP,Over Votes,0
 Lincoln,2-09,State Auditor,,REP,Under Votes,37
 Lincoln,2-09,State Auditor,,DEM,Write-ins,0
+Lincoln,2-09,State Auditor,,DEM,Over Votes,0
+Lincoln,2-09,State Auditor,,DEM,Under Votes,8
 Lincoln,2-09,State Treasurer,,REP,Bill Gallop,59
 Lincoln,2-09,State Treasurer,,REP,Curt Meier,181
 Lincoln,2-09,State Treasurer,,REP,Write-ins,0
 Lincoln,2-09,State Treasurer,,REP,Over Votes,0
 Lincoln,2-09,State Treasurer,,REP,Under Votes,40
 Lincoln,2-09,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-09,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-09,State Treasurer,,DEM,Under Votes,8
 Lincoln,2-09,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,25
 Lincoln,2-09,Superintendent of Public Instruction,,REP,Brian Schroeder,155
 Lincoln,2-09,Superintendent of Public Instruction,,REP,Jennifer Zerba,22
@@ -1001,12 +1077,16 @@ Lincoln,2-10,State Auditor,,REP,Write-ins,3
 Lincoln,2-10,State Auditor,,REP,Over Votes,1
 Lincoln,2-10,State Auditor,,REP,Under Votes,185
 Lincoln,2-10,State Auditor,,DEM,Write-ins,0
+Lincoln,2-10,State Auditor,,DEM,Over Votes,0
+Lincoln,2-10,State Auditor,,DEM,Under Votes,24
 Lincoln,2-10,State Treasurer,,REP,Bill Gallop,216
 Lincoln,2-10,State Treasurer,,REP,Curt Meier,339
 Lincoln,2-10,State Treasurer,,REP,Write-ins,2
 Lincoln,2-10,State Treasurer,,REP,Over Votes,2
 Lincoln,2-10,State Treasurer,,REP,Under Votes,239
 Lincoln,2-10,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-10,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-10,State Treasurer,,DEM,Under Votes,24
 Lincoln,2-10,Superintendent of Public Instruction,,REP,* Withdrawn Candidate,62
 Lincoln,2-10,Superintendent of Public Instruction,,REP,Brian Schroeder,320
 Lincoln,2-10,Superintendent of Public Instruction,,REP,Jennifer Zerba,79
@@ -1024,6 +1104,8 @@ Lincoln,2-10,State House,22,REP,Write-ins,10
 Lincoln,2-10,State House,22,REP,Over Votes,0
 Lincoln,2-10,State House,22,REP,Under Votes,195
 Lincoln,2-10,State House,22,DEM,Write-ins,0
+Lincoln,2-10,State House,22,DEM,Over Votes,0
+Lincoln,2-10,State House,22,DEM,Under Votes,24
 Lincoln,2-10,Ballots Cast,,REP,Ballots Cast,798
 Lincoln,2-10,Ballots Cast,,DEM,Ballots Cast,24
 Lincoln,2-10,Ballots Cast,,NP,Ballots Cast,29

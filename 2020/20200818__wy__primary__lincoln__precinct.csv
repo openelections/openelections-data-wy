@@ -39,6 +39,8 @@ Lincoln,1-1,State Senate,14,REP,Write-ins,1
 Lincoln,1-1,State Senate,14,REP,Over Votes,0
 Lincoln,1-1,State Senate,14,REP,Under Votes,7
 Lincoln,1-1,State Senate,14,DEM,Write-ins,9
+Lincoln,1-1,State Senate,14,DEM,Over Votes,0
+Lincoln,1-1,State Senate,14,DEM,Under Votes,83
 Lincoln,1-1,State House,18,REP,Mike Lundgren,49
 Lincoln,1-1,State House,18,REP,Scott Heiner,181
 Lincoln,1-1,State House,18,REP,Thomas D. Crank,410
@@ -46,6 +48,8 @@ Lincoln,1-1,State House,18,REP,Write-ins,1
 Lincoln,1-1,State House,18,REP,Over Votes,0
 Lincoln,1-1,State House,18,REP,Under Votes,3
 Lincoln,1-1,State House,18,DEM,Write-ins,9
+Lincoln,1-1,State House,18,DEM,Over Votes,0
+Lincoln,1-1,State House,18,DEM,Under Votes,83
 Lincoln,1-1,Ballots Cast,,REP,Ballots Cast,644
 Lincoln,1-1,Ballots Cast,,DEM,Ballots Cast,92
 Lincoln,1-1,Ballots Cast,,NP,Ballots Cast,27
@@ -90,6 +94,8 @@ Lincoln,1-4,State Senate,14,REP,Write-ins,0
 Lincoln,1-4,State Senate,14,REP,Over Votes,0
 Lincoln,1-4,State Senate,14,REP,Under Votes,0
 Lincoln,1-4,State Senate,14,DEM,Write-ins,3
+Lincoln,1-4,State Senate,14,DEM,Over Votes,0
+Lincoln,1-4,State Senate,14,DEM,Under Votes,41
 Lincoln,1-4,State House,18,REP,Mike Lundgren,12
 Lincoln,1-4,State House,18,REP,Scott Heiner,70
 Lincoln,1-4,State House,18,REP,Thomas D. Crank,103
@@ -97,6 +103,8 @@ Lincoln,1-4,State House,18,REP,Write-ins,0
 Lincoln,1-4,State House,18,REP,Over Votes,0
 Lincoln,1-4,State House,18,REP,Under Votes,0
 Lincoln,1-4,State House,18,DEM,Write-ins,2
+Lincoln,1-4,State House,18,DEM,Over Votes,0
+Lincoln,1-4,State House,18,DEM,Under Votes,42
 Lincoln,1-4,Ballots Cast,,REP,Ballots Cast,185
 Lincoln,1-4,Ballots Cast,,DEM,Ballots Cast,44
 Lincoln,1-4,Ballots Cast,,NP,Ballots Cast,2
@@ -141,11 +149,15 @@ Lincoln,1-6,State Senate,14,REP,Write-ins,0
 Lincoln,1-6,State Senate,14,REP,Over Votes,0
 Lincoln,1-6,State Senate,14,REP,Under Votes,1
 Lincoln,1-6,State Senate,14,DEM,Write-ins,0
+Lincoln,1-6,State Senate,14,DEM,Over Votes,0
+Lincoln,1-6,State Senate,14,DEM,Under Votes,1
 Lincoln,1-6,State Senate,16,REP,Dan Dockstader,36
 Lincoln,1-6,State Senate,16,REP,Write-ins,0
 Lincoln,1-6,State Senate,16,REP,Over Votes,0
 Lincoln,1-6,State Senate,16,REP,Under Votes,9
 Lincoln,1-6,State Senate,16,DEM,Write-ins,0
+Lincoln,1-6,State Senate,16,DEM,Over Votes,0
+Lincoln,1-6,State Senate,16,DEM,Under Votes,4
 Lincoln,1-6,State House,18,REP,Mike Lundgren,4
 Lincoln,1-6,State House,18,REP,Scott Heiner,8
 Lincoln,1-6,State House,18,REP,Thomas D. Crank,35
@@ -153,12 +165,16 @@ Lincoln,1-6,State House,18,REP,Write-ins,0
 Lincoln,1-6,State House,18,REP,Over Votes,0
 Lincoln,1-6,State House,18,REP,Under Votes,0
 Lincoln,1-6,State House,18,DEM,Write-ins,0
+Lincoln,1-6,State House,18,DEM,Over Votes,0
+Lincoln,1-6,State House,18,DEM,Under Votes,1
 Lincoln,1-6,State House,21,REP,Evan J. Simpson,15
 Lincoln,1-6,State House,21,REP,Taylor Allred,27
 Lincoln,1-6,State House,21,REP,Write-ins,0
 Lincoln,1-6,State House,21,REP,Over Votes,0
 Lincoln,1-6,State House,21,REP,Under Votes,3
 Lincoln,1-6,State House,21,DEM,Write-ins,1
+Lincoln,1-6,State House,21,DEM,Over Votes,0
+Lincoln,1-6,State House,21,DEM,Under Votes,3
 Lincoln,1-6,Ballots Cast,,REP,Ballots Cast,92
 Lincoln,1-6,Ballots Cast,,DEM,Ballots Cast,5
 Lincoln,1-6,Ballots Cast,,NP,Ballots Cast,0
@@ -203,6 +219,8 @@ Lincoln,1-7,State Senate,14,REP,Write-ins,0
 Lincoln,1-7,State Senate,14,REP,Over Votes,0
 Lincoln,1-7,State Senate,14,REP,Under Votes,2
 Lincoln,1-7,State Senate,14,DEM,Write-ins,0
+Lincoln,1-7,State Senate,14,DEM,Over Votes,0
+Lincoln,1-7,State Senate,14,DEM,Under Votes,3
 Lincoln,1-7,State House,18,REP,Mike Lundgren,1
 Lincoln,1-7,State House,18,REP,Scott Heiner,17
 Lincoln,1-7,State House,18,REP,Thomas D. Crank,32
@@ -210,6 +228,8 @@ Lincoln,1-7,State House,18,REP,Write-ins,0
 Lincoln,1-7,State House,18,REP,Over Votes,0
 Lincoln,1-7,State House,18,REP,Under Votes,0
 Lincoln,1-7,State House,18,DEM,Write-ins,0
+Lincoln,1-7,State House,18,DEM,Over Votes,0
+Lincoln,1-7,State House,18,DEM,Under Votes,3
 Lincoln,1-7,Ballots Cast,,REP,Ballots Cast,50
 Lincoln,1-7,Ballots Cast,,DEM,Ballots Cast,3
 Lincoln,1-7,Ballots Cast,,NP,Ballots Cast,2
@@ -254,11 +274,15 @@ Lincoln,1-8,State Senate,14,REP,Write-ins,3
 Lincoln,1-8,State Senate,14,REP,Over Votes,1
 Lincoln,1-8,State Senate,14,REP,Under Votes,6
 Lincoln,1-8,State Senate,14,DEM,Write-ins,0
+Lincoln,1-8,State Senate,14,DEM,Over Votes,0
+Lincoln,1-8,State Senate,14,DEM,Under Votes,1
 Lincoln,1-8,State Senate,16,REP,Dan Dockstader,37
 Lincoln,1-8,State Senate,16,REP,Write-ins,2
 Lincoln,1-8,State Senate,16,REP,Over Votes,0
 Lincoln,1-8,State Senate,16,REP,Under Votes,10
 Lincoln,1-8,State Senate,16,DEM,Write-ins,0
+Lincoln,1-8,State Senate,16,DEM,Over Votes,0
+Lincoln,1-8,State Senate,16,DEM,Under Votes,2
 Lincoln,1-8,State House,18,REP,Mike Lundgren,11
 Lincoln,1-8,State House,18,REP,Scott Heiner,60
 Lincoln,1-8,State House,18,REP,Thomas D. Crank,31
@@ -266,12 +290,16 @@ Lincoln,1-8,State House,18,REP,Write-ins,0
 Lincoln,1-8,State House,18,REP,Over Votes,2
 Lincoln,1-8,State House,18,REP,Under Votes,6
 Lincoln,1-8,State House,18,DEM,Write-ins,0
+Lincoln,1-8,State House,18,DEM,Over Votes,0
+Lincoln,1-8,State House,18,DEM,Under Votes,1
 Lincoln,1-8,State House,21,REP,Evan J. Simpson,13
 Lincoln,1-8,State House,21,REP,Taylor Allred,26
 Lincoln,1-8,State House,21,REP,Write-ins,2
 Lincoln,1-8,State House,21,REP,Over Votes,2
 Lincoln,1-8,State House,21,REP,Under Votes,6
 Lincoln,1-8,State House,21,DEM,Write-ins,1
+Lincoln,1-8,State House,21,DEM,Over Votes,0
+Lincoln,1-8,State House,21,DEM,Under Votes,1
 Lincoln,1-8,Ballots Cast,,REP,Ballots Cast,159
 Lincoln,1-8,Ballots Cast,,DEM,Ballots Cast,3
 Lincoln,1-8,Ballots Cast,,NP,Ballots Cast,3
@@ -314,12 +342,16 @@ Lincoln,2-1,State Senate,16,REP,Write-ins,5
 Lincoln,2-1,State Senate,16,REP,Over Votes,0
 Lincoln,2-1,State Senate,16,REP,Under Votes,36
 Lincoln,2-1,State Senate,16,DEM,Write-ins,0
+Lincoln,2-1,State Senate,16,DEM,Over Votes,0
+Lincoln,2-1,State Senate,16,DEM,Under Votes,17
 Lincoln,2-1,State House,21,REP,Evan J. Simpson,291
 Lincoln,2-1,State House,21,REP,Taylor Allred,136
 Lincoln,2-1,State House,21,REP,Write-ins,0
 Lincoln,2-1,State House,21,REP,Over Votes,2
 Lincoln,2-1,State House,21,REP,Under Votes,6
 Lincoln,2-1,State House,21,DEM,Write-ins,0
+Lincoln,2-1,State House,21,DEM,Over Votes,0
+Lincoln,2-1,State House,21,DEM,Under Votes,17
 Lincoln,2-1,Ballots Cast,,REP,Ballots Cast,435
 Lincoln,2-1,Ballots Cast,,DEM,Ballots Cast,17
 Lincoln,2-1,Ballots Cast,,NP,Ballots Cast,6
@@ -362,11 +394,15 @@ Lincoln,2-10,State Senate,16,REP,Write-ins,2
 Lincoln,2-10,State Senate,16,REP,Over Votes,0
 Lincoln,2-10,State Senate,16,REP,Under Votes,39
 Lincoln,2-10,State Senate,16,DEM,Write-ins,4
+Lincoln,2-10,State Senate,16,DEM,Over Votes,0
+Lincoln,2-10,State Senate,16,DEM,Under Votes,92
 Lincoln,2-10,State House,22,REP,Bill Winney,347
 Lincoln,2-10,State House,22,REP,Write-ins,11
 Lincoln,2-10,State House,22,REP,Over Votes,0
 Lincoln,2-10,State House,22,REP,Under Votes,75
 Lincoln,2-10,State House,22,DEM,Write-ins,5
+Lincoln,2-10,State House,22,DEM,Over Votes,0
+Lincoln,2-10,State House,22,DEM,Under Votes,91
 Lincoln,2-10,Ballots Cast,,REP,Ballots Cast,433
 Lincoln,2-10,Ballots Cast,,DEM,Ballots Cast,96
 Lincoln,2-10,Ballots Cast,,NP,Ballots Cast,39
@@ -409,12 +445,16 @@ Lincoln,2-2,State Senate,16,REP,Write-ins,3
 Lincoln,2-2,State Senate,16,REP,Over Votes,0
 Lincoln,2-2,State Senate,16,REP,Under Votes,8
 Lincoln,2-2,State Senate,16,DEM,Write-ins,1
+Lincoln,2-2,State Senate,16,DEM,Over Votes,0
+Lincoln,2-2,State Senate,16,DEM,Under Votes,7
 Lincoln,2-2,State House,21,REP,Evan J. Simpson,100
 Lincoln,2-2,State House,21,REP,Taylor Allred,30
 Lincoln,2-2,State House,21,REP,Write-ins,1
 Lincoln,2-2,State House,21,REP,Over Votes,0
 Lincoln,2-2,State House,21,REP,Under Votes,3
 Lincoln,2-2,State House,21,DEM,Write-ins,1
+Lincoln,2-2,State House,21,DEM,Over Votes,0
+Lincoln,2-2,State House,21,DEM,Under Votes,7
 Lincoln,2-2,Ballots Cast,,REP,Ballots Cast,134
 Lincoln,2-2,Ballots Cast,,DEM,Ballots Cast,8
 Lincoln,2-2,Ballots Cast,,NP,Ballots Cast,0
@@ -457,11 +497,15 @@ Lincoln,2-3,State Senate,16,REP,Write-ins,0
 Lincoln,2-3,State Senate,16,REP,Over Votes,0
 Lincoln,2-3,State Senate,16,REP,Under Votes,40
 Lincoln,2-3,State Senate,16,DEM,Write-ins,4
+Lincoln,2-3,State Senate,16,DEM,Over Votes,0
+Lincoln,2-3,State Senate,16,DEM,Under Votes,63
 Lincoln,2-3,State House,22,REP,Bill Winney,176
 Lincoln,2-3,State House,22,REP,Write-ins,28
 Lincoln,2-3,State House,22,REP,Over Votes,0
 Lincoln,2-3,State House,22,REP,Under Votes,49
 Lincoln,2-3,State House,22,DEM,Write-ins,4
+Lincoln,2-3,State House,22,DEM,Over Votes,0
+Lincoln,2-3,State House,22,DEM,Under Votes,63
 Lincoln,2-3,Ballots Cast,,REP,Ballots Cast,253
 Lincoln,2-3,Ballots Cast,,DEM,Ballots Cast,67
 Lincoln,2-3,Ballots Cast,,NP,Ballots Cast,18
@@ -504,12 +548,16 @@ Lincoln,2-4,State Senate,16,REP,Write-ins,0
 Lincoln,2-4,State Senate,16,REP,Over Votes,0
 Lincoln,2-4,State Senate,16,REP,Under Votes,11
 Lincoln,2-4,State Senate,16,DEM,Write-ins,1
+Lincoln,2-4,State Senate,16,DEM,Over Votes,0
+Lincoln,2-4,State Senate,16,DEM,Under Votes,9
 Lincoln,2-4,State House,21,REP,Evan J. Simpson,107
 Lincoln,2-4,State House,21,REP,Taylor Allred,81
 Lincoln,2-4,State House,21,REP,Write-ins,0
 Lincoln,2-4,State House,21,REP,Over Votes,0
 Lincoln,2-4,State House,21,REP,Under Votes,7
 Lincoln,2-4,State House,21,DEM,Write-ins,1
+Lincoln,2-4,State House,21,DEM,Over Votes,0
+Lincoln,2-4,State House,21,DEM,Under Votes,9
 Lincoln,2-4,Ballots Cast,,REP,Ballots Cast,195
 Lincoln,2-4,Ballots Cast,,DEM,Ballots Cast,10
 Lincoln,2-4,Ballots Cast,,NP,Ballots Cast,0
@@ -552,11 +600,15 @@ Lincoln,2-5,State Senate,16,REP,Write-ins,5
 Lincoln,2-5,State Senate,16,REP,Over Votes,0
 Lincoln,2-5,State Senate,16,REP,Under Votes,12
 Lincoln,2-5,State Senate,16,DEM,Write-ins,3
+Lincoln,2-5,State Senate,16,DEM,Over Votes,0
+Lincoln,2-5,State Senate,16,DEM,Under Votes,28
 Lincoln,2-5,State House,22,REP,Bill Winney,229
 Lincoln,2-5,State House,22,REP,Write-ins,40
 Lincoln,2-5,State House,22,REP,Over Votes,0
 Lincoln,2-5,State House,22,REP,Under Votes,39
 Lincoln,2-5,State House,22,DEM,Write-ins,3
+Lincoln,2-5,State House,22,DEM,Over Votes,0
+Lincoln,2-5,State House,22,DEM,Under Votes,28
 Lincoln,2-5,Ballots Cast,,REP,Ballots Cast,308
 Lincoln,2-5,Ballots Cast,,DEM,Ballots Cast,31
 Lincoln,2-5,Ballots Cast,,NP,Ballots Cast,0
@@ -599,12 +651,16 @@ Lincoln,2-6,State Senate,16,REP,Write-ins,3
 Lincoln,2-6,State Senate,16,REP,Over Votes,0
 Lincoln,2-6,State Senate,16,REP,Under Votes,15
 Lincoln,2-6,State Senate,16,DEM,Write-ins,2
+Lincoln,2-6,State Senate,16,DEM,Over Votes,0
+Lincoln,2-6,State Senate,16,DEM,Under Votes,11
 Lincoln,2-6,State House,21,REP,Evan J. Simpson,160
 Lincoln,2-6,State House,21,REP,Taylor Allred,93
 Lincoln,2-6,State House,21,REP,Write-ins,0
 Lincoln,2-6,State House,21,REP,Over Votes,1
 Lincoln,2-6,State House,21,REP,Under Votes,5
 Lincoln,2-6,State House,21,DEM,Write-ins,1
+Lincoln,2-6,State House,21,DEM,Over Votes,0
+Lincoln,2-6,State House,21,DEM,Under Votes,12
 Lincoln,2-6,Ballots Cast,,REP,Ballots Cast,259
 Lincoln,2-6,Ballots Cast,,DEM,Ballots Cast,13
 Lincoln,2-6,Ballots Cast,,NP,Ballots Cast,0
@@ -647,12 +703,16 @@ Lincoln,2-7,State Senate,16,REP,Write-ins,13
 Lincoln,2-7,State Senate,16,REP,Over Votes,0
 Lincoln,2-7,State Senate,16,REP,Under Votes,19
 Lincoln,2-7,State Senate,16,DEM,Write-ins,2
+Lincoln,2-7,State Senate,16,DEM,Over Votes,0
+Lincoln,2-7,State Senate,16,DEM,Under Votes,11
 Lincoln,2-7,State House,21,REP,Evan J. Simpson,378
 Lincoln,2-7,State House,21,REP,Taylor Allred,192
 Lincoln,2-7,State House,21,REP,Write-ins,1
 Lincoln,2-7,State House,21,REP,Over Votes,1
 Lincoln,2-7,State House,21,REP,Under Votes,1
 Lincoln,2-7,State House,21,DEM,Write-ins,3
+Lincoln,2-7,State House,21,DEM,Over Votes,0
+Lincoln,2-7,State House,21,DEM,Under Votes,10
 Lincoln,2-7,Ballots Cast,,REP,Ballots Cast,573
 Lincoln,2-7,Ballots Cast,,DEM,Ballots Cast,13
 Lincoln,2-7,Ballots Cast,,NP,Ballots Cast,0
@@ -695,12 +755,16 @@ Lincoln,2-8,State Senate,16,REP,Write-ins,4
 Lincoln,2-8,State Senate,16,REP,Over Votes,0
 Lincoln,2-8,State Senate,16,REP,Under Votes,19
 Lincoln,2-8,State Senate,16,DEM,Write-ins,1
+Lincoln,2-8,State Senate,16,DEM,Over Votes,0
+Lincoln,2-8,State Senate,16,DEM,Under Votes,12
 Lincoln,2-8,State House,21,REP,Evan J. Simpson,139
 Lincoln,2-8,State House,21,REP,Taylor Allred,106
 Lincoln,2-8,State House,21,REP,Write-ins,1
 Lincoln,2-8,State House,21,REP,Over Votes,0
 Lincoln,2-8,State House,21,REP,Under Votes,3
 Lincoln,2-8,State House,21,DEM,Write-ins,1
+Lincoln,2-8,State House,21,DEM,Over Votes,0
+Lincoln,2-8,State House,21,DEM,Under Votes,12
 Lincoln,2-8,Ballots Cast,,REP,Ballots Cast,249
 Lincoln,2-8,Ballots Cast,,DEM,Ballots Cast,13
 Lincoln,2-8,Ballots Cast,,NP,Ballots Cast,2
@@ -743,12 +807,16 @@ Lincoln,2-9,State Senate,16,REP,Write-ins,1
 Lincoln,2-9,State Senate,16,REP,Over Votes,0
 Lincoln,2-9,State Senate,16,REP,Under Votes,19
 Lincoln,2-9,State Senate,16,DEM,Write-ins,1
+Lincoln,2-9,State Senate,16,DEM,Over Votes,0
+Lincoln,2-9,State Senate,16,DEM,Under Votes,14
 Lincoln,2-9,State House,21,REP,Evan J. Simpson,87
 Lincoln,2-9,State House,21,REP,Taylor Allred,155
 Lincoln,2-9,State House,21,REP,Write-ins,0
 Lincoln,2-9,State House,21,REP,Over Votes,0
 Lincoln,2-9,State House,21,REP,Under Votes,1
 Lincoln,2-9,State House,21,DEM,Write-ins,2
+Lincoln,2-9,State House,21,DEM,Over Votes,0
+Lincoln,2-9,State House,21,DEM,Under Votes,13
 Lincoln,2-9,Ballots Cast,,REP,Ballots Cast,243
 Lincoln,2-9,Ballots Cast,,DEM,Ballots Cast,15
 Lincoln,2-9,Ballots Cast,,NP,Ballots Cast,9
