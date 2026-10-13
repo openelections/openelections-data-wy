@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from pathlib import Path
 
 from crosstab import LayoutCfg, Row, SheetResult, parse_sheet, read_any
@@ -39,6 +39,7 @@ ELECTION_DATES = {
     "20221108": ("2022", "general"),
     "20240820": ("2024", "primary"),
     "20241105": ("2024", "general"),
+    "20260818": ("2026", "primary"),
 }
 
 
@@ -331,6 +332,47 @@ def _family_d_is_tbc(name: str) -> bool:
     return ("tbc" in n and "pbp" in n) or ("total ballot" in n)
 
 
+# Known source data errors in per-county PbP values, by election date. Keys are
+# (county, precinct, office, district, party, candidate); precinct "" in the
+# totals-row key position means the source Total row. Values are the corrected
+# vote counts, verified against the county's Total Ballots Cast workbook
+# (candidates + Write-Ins + Over Votes + Under Votes == party ballots cast).
+FAMILY_D_VOTE_OVERRIDES: dict[str, dict[tuple, int]] = {
+    "20260818": {
+        # Park 09-05 REP Superintendent Undervotes reads "56.37" in the source;
+        # true value 56 (REP ballots cast 615 == 36+349+170+3+1+56).
+        ("Park", "09-05", "Superintendent of Public Instruction", "", "REP", "Under Votes"): 56,
+        # County total reads "1223.37" (computed from the bad cell); true total 1223.
+        ("", "Park", "Superintendent of Public Instruction", "", "REP", "Under Votes"): 1223,
+    },
+}
+
+# Source files where a party group's party-row label is missing. Keys are
+# (county, column index) -> source-style party label. Values verified against
+# the certified Statewide House Candidates Summary PDF.
+FAMILY_D_PARTY_OVERRIDES: dict[str, dict[str, dict[int, str]]] = {
+    "20260818": {
+        # Platte: the Democratic House 4 write-in block (cols 97-99) has no
+        # "Democratic" label; values 12/0/168 match the certified summary.
+        "Platte": {97: "DEM", 98: "DEM", 99: "DEM"},
+    },
+}
+
+# Source name typos to correct at parse time (county sheets disagree with the
+# certified Statewide Candidates Summary PDF). Keyed by election date.
+FAMILY_D_CANDIDATE_RENAMES: dict[str, dict[str, str]] = {
+    # Sheridan's per-county sheet misspells the HD 40 candidate (Johnson's
+    # sheet and the certified summary both spell it "Connolly").
+    # Weston's per-county sheet drops the middle initial from the SD 3
+    # candidate (Goshen's and Niobrara's sheets and the summary spell it
+    # "Cheri E Steinmetz").
+    "20260818": {
+        "Marilyn Connoly": "Marilyn Connolly",
+        "Cheri Steinmetz": "Cheri E Steinmetz",
+    },
+}
+
+
 def family_d_cfg(election_type: str, county: str) -> LayoutCfg:
     """Family D PbP layout: title row 0, blank row 1, office row 2, then
     party row 3 + candidate row 4 + data row 5 (primary), or candidate row 3 +
@@ -385,6 +427,16 @@ def parse_family_d(spec: ElectionSpec) -> dict[str, list[Row]]:
             if not sheet or all(all(v is None for v in r) for r in sheet):
                 continue
             cfg = family_d_cfg(spec.election_type, county)
+            raw_overrides = FAMILY_D_VOTE_OVERRIDES.get(spec.date)
+            if raw_overrides:
+                # Re-key: cfg is per-county, so keys lose the county segment
+                # ("" county in the table = totals-row override, kept as-is).
+                cfg.vote_overrides = {
+                    k[1:]: v for k, v in raw_overrides.items() if k[0] in (county, "")
+                }
+            party_overrides = FAMILY_D_PARTY_OVERRIDES.get(spec.date, {}).get(county)
+            if party_overrides:
+                cfg.party_overrides = dict(party_overrides)
             res = parse_sheet(sheet, cfg)
             if res.rows or res.precincts:
                 per_county.setdefault(county, []).extend(res.rows)
@@ -422,6 +474,13 @@ def parse_family_d(spec: ElectionSpec) -> dict[str, list[Row]]:
         pbp_p = pbp_precincts_by_county.get(county, tbc.precincts)
         aligned = _align_tbc_to_pbp(per_county.get(county, []), tbc, pbp_p)
         per_county.setdefault(county, []).extend(aligned)
+
+    renames = FAMILY_D_CANDIDATE_RENAMES.get(spec.date)
+    if renames:
+        for county, rows in list(per_county.items()):
+            if any(r.candidate in renames for r in rows):
+                per_county[county] = [replace(r, candidate=renames[r.candidate]) if r.candidate in renames else r
+                                      for r in rows]
     return per_county
 
 
@@ -768,7 +827,7 @@ def discover_elections(sources_root: Path) -> list[ElectionSpec]:
             continue
         if year in ("2010", "2012", "2014", "2016", "2018", "2020"):
             family = "C"
-        elif year in ("2022", "2024"):
+        elif year in ("2022", "2024", "2026"):
             family = "D"
         elif year == "2008":
             family = "B"

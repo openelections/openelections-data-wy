@@ -1,7 +1,7 @@
 # /// script
 # requires-python = ">=3.10"
 # ///
-"""Download 2014-2024 Wyoming election result zips from sos.wyo.gov and extract
+"""Download 2014-2026 Wyoming election result zips from sos.wyo.gov and extract
 to sources/<date>/.
 
 Each election ships as a single zip containing either per-county .xlsx files
@@ -33,6 +33,7 @@ DOWNLOADS = [
     ("20221108", "2022", "general", "https://sos.wyo.gov/Elections/Docs/2022/Results/General/2022_Wyoming_General_Results.zip"),
     ("20240820", "2024", "primary", "https://sos.wyo.gov/Elections/Docs/2024/Results/Primary/2024_Wyoming_Primary_Results.zip"),
     ("20241105", "2024", "general", "https://sos.wyo.gov/Elections/Docs/2024/Results/General/2024_Wyoming_General_Results.zip"),
+    ("20260818", "2026", "primary", "https://sos.wyo.gov/Elections/Docs/2026/Results/Primary/2026_Wyoming_Primary_Results.zip"),
 ]
 
 

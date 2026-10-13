@@ -50,11 +50,24 @@ class LayoutCfg:
     last_name_only: bool = False
     # Per-column office label overrides applied BEFORE forward-fill.
     office_overrides: dict[int, str] | None = None
+    # Per-column party label overrides applied AFTER forward-fill (overwriting
+    # both the forward-filled label and the explicit/party-raw label). Used for
+    # source files where a party group's label cell is missing (e.g. 2026 Platte
+    # primary's Democratic House 4 write-in block sits unlabeled after the
+    # Republican block).
+    party_overrides: dict[int, str] | None = None
     # Back-fill office labels rightward into candidate columns that lack one.
     # Used for .xls statewide summary workbooks (2000/2002 primary/general)
     # where the first candidate of each office group sits one column LEFT of
     # the office label, so forward-fill alone misses it.
     office_back_fill: bool = False
+    # Per-cell vote-value overrides for known source data errors, keyed by
+    # (precinct, office, district, party, candidate). Precinct "" matches the
+    # source Total row (whose key is used in source_totals). Cells matching a
+    # key emit the override value even when the source cell is non-numeric;
+    # fractional source values (e.g. a stray "56.37") with no matching override
+    # still raise, so new typos surface instead of being silently floored.
+    vote_overrides: dict[tuple, int] | None = None
 
 
 @dataclass
@@ -219,6 +232,11 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
         for c in range(ncols):
             v = mat[cfg.party_row][c] if c < len(mat[cfg.party_row]) else None
             party_raw[c] = (v if isinstance(v, str) and v else "")
+    if cfg.party_overrides:
+        for c, p in cfg.party_overrides.items():
+            if c < ncols:
+                party_labels[c] = p
+                party_raw[c] = p
 
     candidate_labels: list[str] = [vjoin(cfg.candidate_rows, c) for c in range(ncols)]
 
@@ -402,6 +420,29 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
                     else:
                         is_orphan = False
                     break
+            # A pseudo run whose first column carries an explicit party label
+            # (e.g. a write-in-only race's Write-Ins column labeled "Democratic",
+            # followed by party-less Over/Under columns) belongs to that party's
+            # candidate block, even though the run sits after a spacer. Only an
+            # explicitly-labeled party that matches this column's forward-filled
+            # party anchor counts; unrelated strays stay orphaned.
+            if is_orphan:
+                # Find the contiguous pseudo run ending at this column.
+                run_start = c
+                while run_start > 0 and candidate_labels[run_start - 1] and _is_pseudo_candidate(candidate_labels[run_start - 1]):
+                    run_start -= 1
+                lbl = party_labels[c] if party_labels else ""
+                want = ""
+                try:
+                    want = normalize_party(lbl) if lbl else ""
+                except ValueError:
+                    want = ""
+                if want and party_raw and party_raw[run_start]:
+                    try:
+                        if normalize_party(party_raw[run_start]) == want:
+                            is_orphan = False
+                    except ValueError:
+                        pass
             if is_orphan:
                 col_meta.append({"skip": True})
                 continue
@@ -502,10 +543,14 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
                 v = row[c]
                 if v is None or (isinstance(v, str) and (not v or v in cfg.na_markers)):
                     continue
-                if not _is_int_like(v):
-                    continue
                 key = (meta["office"], meta["district"], meta["party"], meta["candidate"])
-                res.source_totals[key] = _as_int(v)
+                tot_key = ("", *key)
+                if cfg.vote_overrides and tot_key in cfg.vote_overrides:
+                    res.source_totals[key] = cfg.vote_overrides[tot_key]
+                elif not _is_int_like(v):
+                    continue
+                else:
+                    res.source_totals[key] = _as_int(v)
             continue
         # Skip fully-blank rows.
         if all((v is None or (isinstance(v, str) and not v)) for v in row):
@@ -531,26 +576,33 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
             if c >= len(row):
                 continue
             v = row[c]
-            if v is None:
-                continue
-            if isinstance(v, str):
-                if not v:
+            emit_key = (precinct, meta["office"], meta["district"], meta["party"], meta["candidate"])
+            override = cfg.vote_overrides.get(emit_key) if cfg.vote_overrides else None
+            if override is not None and not _is_int_like(v):
+                # Known-bad cell (e.g. fractional source value); emit the override.
+                votes = override
+            else:
+                if v is None:
                     continue
-                if v in cfg.na_markers:
-                    continue
-                # Tolerate text-formatted integers like "0" or "12".
-                if re.fullmatch(r"-?\d+", v.strip()):
-                    v = int(v.strip())
-                else:
+                if isinstance(v, str):
+                    if not v:
+                        continue
+                    if v in cfg.na_markers:
+                        continue
+                    # Tolerate text-formatted integers like "0" or "12".
+                    if re.fullmatch(r"-?\d+", v.strip()):
+                        v = int(v.strip())
+                    else:
+                        raise ValueError(
+                            f"non-numeric vote {v!r} at precinct {precinct!r} col {c} "
+                            f"office={meta['office']!r} candidate={meta['candidate']!r} in {cfg.county}"
+                        )
+                if not _is_int_like(v):
                     raise ValueError(
-                        f"non-numeric vote {v!r} at precinct {precinct!r} col {c} "
+                        f"non-integer vote {v!r} at precinct {precinct!r} col {c} "
                         f"office={meta['office']!r} candidate={meta['candidate']!r} in {cfg.county}"
                     )
-            if not _is_int_like(v):
-                raise ValueError(
-                    f"non-integer vote {v!r} at precinct {precinct!r} col {c} in {cfg.county}"
-                )
-            emit_key = (precinct, meta["office"], meta["district"], meta["party"], meta["candidate"])
+                votes = _as_int(v)
             if emit_key in emitted_keys:
                 # Source-layout duplicate (see comment above). Skip the later
                 # occurrence rather than emitting a duplicate row.
@@ -563,7 +615,7 @@ def parse_sheet(grid: list[list], cfg: LayoutCfg) -> SheetResult:
                 district=meta["district"],
                 party=meta["party"],
                 candidate=meta["candidate"],
-                votes=_as_int(v),
+                votes=votes,
             ))
 
     res.precincts = seen_precincts
