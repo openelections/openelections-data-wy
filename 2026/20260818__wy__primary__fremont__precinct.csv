@@ -1,0 +1,3102 @@
+county,precinct,office,district,party,candidate,votes
+Fremont,01-1,U.S. Senate,,REP,Harriet Hageman,249
+Fremont,01-1,U.S. Senate,,REP,Jill M Edwards,10
+Fremont,01-1,U.S. Senate,,REP,Jimmy Skovgard,8
+Fremont,01-1,U.S. Senate,,REP,John Holtz,12
+Fremont,01-1,U.S. Senate,,REP,Sam Mead,184
+Fremont,01-1,U.S. Senate,,REP,Write-ins,3
+Fremont,01-1,U.S. Senate,,REP,Over Votes,1
+Fremont,01-1,U.S. Senate,,REP,Under Votes,17
+Fremont,01-1,U.S. Senate,,DEM,Billy Benavidez,5
+Fremont,01-1,U.S. Senate,,DEM,James Byrd,31
+Fremont,01-1,U.S. Senate,,DEM,Write-ins,2
+Fremont,01-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-1,U.S. Senate,,DEM,Under Votes,3
+Fremont,01-1,U.S. House,,REP,* Withdrawn Candidate,5
+Fremont,01-1,U.S. House,,REP,Bo Biteman,17
+Fremont,01-1,U.S. House,,REP,Chuck Gray,92
+Fremont,01-1,U.S. House,,REP,David Giralt,30
+Fremont,01-1,U.S. House,,REP,Jillian Balow,62
+Fremont,01-1,U.S. House,,REP,Keith B. Goodenough,17
+Fremont,01-1,U.S. House,,REP,Kevin Christensen,109
+Fremont,01-1,U.S. House,,REP,Reid Rasner,46
+Fremont,01-1,U.S. House,,REP,Richard Dodson,2
+Fremont,01-1,U.S. House,,REP,Steve Friess,70
+Fremont,01-1,U.S. House,,REP,Write-ins,0
+Fremont,01-1,U.S. House,,REP,Over Votes,7
+Fremont,01-1,U.S. House,,REP,Under Votes,27
+Fremont,01-1,U.S. House,,DEM,Elena Del Real,9
+Fremont,01-1,U.S. House,,DEM,Lisa Kinney,30
+Fremont,01-1,U.S. House,,DEM,Write-ins,1
+Fremont,01-1,U.S. House,,DEM,Over Votes,0
+Fremont,01-1,U.S. House,,DEM,Under Votes,1
+Fremont,01-1,Governor,,REP,Brent Bien,115
+Fremont,01-1,Governor,,REP,Curt Blake,6
+Fremont,01-1,Governor,,REP,Eric Barlow,220
+Fremont,01-1,Governor,,REP,Megan Degenfelder,135
+Fremont,01-1,Governor,,REP,Write-ins,0
+Fremont,01-1,Governor,,REP,Over Votes,0
+Fremont,01-1,Governor,,REP,Under Votes,8
+Fremont,01-1,Governor,,DEM,Kenneth R. Casner,35
+Fremont,01-1,Governor,,DEM,Write-ins,2
+Fremont,01-1,Governor,,DEM,Over Votes,0
+Fremont,01-1,Governor,,DEM,Under Votes,4
+Fremont,01-1,Secretary of State,,REP,CJ Young,58
+Fremont,01-1,Secretary of State,,REP,Qwenton Eagle Oviatt,40
+Fremont,01-1,Secretary of State,,REP,Rachel Williams,105
+Fremont,01-1,Secretary of State,,REP,Robert Short,226
+Fremont,01-1,Secretary of State,,REP,Write-ins,1
+Fremont,01-1,Secretary of State,,REP,Over Votes,0
+Fremont,01-1,Secretary of State,,REP,Under Votes,54
+Fremont,01-1,Secretary of State,,DEM,Bryan McCarty,35
+Fremont,01-1,Secretary of State,,DEM,Write-ins,2
+Fremont,01-1,Secretary of State,,DEM,Over Votes,0
+Fremont,01-1,Secretary of State,,DEM,Under Votes,4
+Fremont,01-1,State Auditor,,REP,Kristi Racines,375
+Fremont,01-1,State Auditor,,REP,Write-ins,1
+Fremont,01-1,State Auditor,,REP,Over Votes,0
+Fremont,01-1,State Auditor,,REP,Under Votes,108
+Fremont,01-1,State Auditor,,DEM,Write-ins,2
+Fremont,01-1,State Auditor,,DEM,Over Votes,0
+Fremont,01-1,State Auditor,,DEM,Under Votes,39
+Fremont,01-1,State Treasurer,,REP,Curt Meier,288
+Fremont,01-1,State Treasurer,,REP,Scott Smith,135
+Fremont,01-1,State Treasurer,,REP,Write-ins,0
+Fremont,01-1,State Treasurer,,REP,Over Votes,0
+Fremont,01-1,State Treasurer,,REP,Under Votes,61
+Fremont,01-1,State Treasurer,,DEM,Write-ins,3
+Fremont,01-1,State Treasurer,,DEM,Over Votes,0
+Fremont,01-1,State Treasurer,,DEM,Under Votes,38
+Fremont,01-1,Superintendent of Public Instruction,,REP,Chad Auer,57
+Fremont,01-1,Superintendent of Public Instruction,,REP,Steve Harshman,215
+Fremont,01-1,Superintendent of Public Instruction,,REP,Tom Kelly,142
+Fremont,01-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,01-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,01-1,Superintendent of Public Instruction,,REP,Under Votes,68
+Fremont,01-1,Superintendent of Public Instruction,,DEM,Ana Cordova,19
+Fremont,01-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",14
+Fremont,01-1,Superintendent of Public Instruction,,DEM,Write-ins,3
+Fremont,01-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,01-1,Superintendent of Public Instruction,,DEM,Under Votes,5
+Fremont,01-1,State Senate,25,REP,Cale Case,271
+Fremont,01-1,State Senate,25,REP,Lisa Wilson,194
+Fremont,01-1,State Senate,25,REP,Write-ins,1
+Fremont,01-1,State Senate,25,REP,Over Votes,0
+Fremont,01-1,State Senate,25,REP,Under Votes,18
+Fremont,01-1,State Senate,25,DEM,Write-ins,3
+Fremont,01-1,State Senate,25,DEM,Over Votes,0
+Fremont,01-1,State Senate,25,DEM,Under Votes,38
+Fremont,01-1,State House,54,REP,Jeff Martin,172
+Fremont,01-1,State House,54,REP,Lloyd Charles Larsen,286
+Fremont,01-1,State House,54,REP,Write-ins,3
+Fremont,01-1,State House,54,REP,Over Votes,0
+Fremont,01-1,State House,54,REP,Under Votes,23
+Fremont,01-1,State House,54,DEM,Write-ins,3
+Fremont,01-1,State House,54,DEM,Over Votes,0
+Fremont,01-1,State House,54,DEM,Under Votes,38
+Fremont,01-1,Ballots Cast,,REP,Ballots Cast,484
+Fremont,01-1,Ballots Cast,,DEM,Ballots Cast,41
+Fremont,01-1,Ballots Cast,,NP,Ballots Cast,26
+Fremont,01-1,Ballots Cast,,,Ballots Cast,551
+Fremont,01-2,U.S. Senate,,REP,Harriet Hageman,90
+Fremont,01-2,U.S. Senate,,REP,Jill M Edwards,7
+Fremont,01-2,U.S. Senate,,REP,Jimmy Skovgard,7
+Fremont,01-2,U.S. Senate,,REP,John Holtz,1
+Fremont,01-2,U.S. Senate,,REP,Sam Mead,94
+Fremont,01-2,U.S. Senate,,REP,Write-ins,0
+Fremont,01-2,U.S. Senate,,REP,Over Votes,0
+Fremont,01-2,U.S. Senate,,REP,Under Votes,4
+Fremont,01-2,U.S. Senate,,DEM,Billy Benavidez,4
+Fremont,01-2,U.S. Senate,,DEM,James Byrd,30
+Fremont,01-2,U.S. Senate,,DEM,Write-ins,1
+Fremont,01-2,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-2,U.S. Senate,,DEM,Under Votes,1
+Fremont,01-2,U.S. House,,REP,* Withdrawn Candidate,2
+Fremont,01-2,U.S. House,,REP,Bo Biteman,2
+Fremont,01-2,U.S. House,,REP,Chuck Gray,34
+Fremont,01-2,U.S. House,,REP,David Giralt,8
+Fremont,01-2,U.S. House,,REP,Jillian Balow,19
+Fremont,01-2,U.S. House,,REP,Keith B. Goodenough,3
+Fremont,01-2,U.S. House,,REP,Kevin Christensen,59
+Fremont,01-2,U.S. House,,REP,Reid Rasner,16
+Fremont,01-2,U.S. House,,REP,Richard Dodson,4
+Fremont,01-2,U.S. House,,REP,Steve Friess,44
+Fremont,01-2,U.S. House,,REP,Write-ins,0
+Fremont,01-2,U.S. House,,REP,Over Votes,3
+Fremont,01-2,U.S. House,,REP,Under Votes,9
+Fremont,01-2,U.S. House,,DEM,Elena Del Real,5
+Fremont,01-2,U.S. House,,DEM,Lisa Kinney,26
+Fremont,01-2,U.S. House,,DEM,Write-ins,1
+Fremont,01-2,U.S. House,,DEM,Over Votes,0
+Fremont,01-2,U.S. House,,DEM,Under Votes,4
+Fremont,01-2,Governor,,REP,Brent Bien,41
+Fremont,01-2,Governor,,REP,Curt Blake,3
+Fremont,01-2,Governor,,REP,Eric Barlow,109
+Fremont,01-2,Governor,,REP,Megan Degenfelder,47
+Fremont,01-2,Governor,,REP,Write-ins,0
+Fremont,01-2,Governor,,REP,Over Votes,0
+Fremont,01-2,Governor,,REP,Under Votes,3
+Fremont,01-2,Governor,,DEM,Kenneth R. Casner,29
+Fremont,01-2,Governor,,DEM,Write-ins,2
+Fremont,01-2,Governor,,DEM,Over Votes,0
+Fremont,01-2,Governor,,DEM,Under Votes,5
+Fremont,01-2,Secretary of State,,REP,CJ Young,19
+Fremont,01-2,Secretary of State,,REP,Qwenton Eagle Oviatt,12
+Fremont,01-2,Secretary of State,,REP,Rachel Williams,47
+Fremont,01-2,Secretary of State,,REP,Robert Short,102
+Fremont,01-2,Secretary of State,,REP,Write-ins,0
+Fremont,01-2,Secretary of State,,REP,Over Votes,0
+Fremont,01-2,Secretary of State,,REP,Under Votes,23
+Fremont,01-2,Secretary of State,,DEM,Bryan McCarty,29
+Fremont,01-2,Secretary of State,,DEM,Write-ins,1
+Fremont,01-2,Secretary of State,,DEM,Over Votes,0
+Fremont,01-2,Secretary of State,,DEM,Under Votes,6
+Fremont,01-2,State Auditor,,REP,Kristi Racines,150
+Fremont,01-2,State Auditor,,REP,Write-ins,1
+Fremont,01-2,State Auditor,,REP,Over Votes,0
+Fremont,01-2,State Auditor,,REP,Under Votes,52
+Fremont,01-2,State Auditor,,DEM,Write-ins,3
+Fremont,01-2,State Auditor,,DEM,Over Votes,0
+Fremont,01-2,State Auditor,,DEM,Under Votes,33
+Fremont,01-2,State Treasurer,,REP,Curt Meier,117
+Fremont,01-2,State Treasurer,,REP,Scott Smith,59
+Fremont,01-2,State Treasurer,,REP,Write-ins,0
+Fremont,01-2,State Treasurer,,REP,Over Votes,1
+Fremont,01-2,State Treasurer,,REP,Under Votes,26
+Fremont,01-2,State Treasurer,,DEM,Write-ins,2
+Fremont,01-2,State Treasurer,,DEM,Over Votes,0
+Fremont,01-2,State Treasurer,,DEM,Under Votes,34
+Fremont,01-2,Superintendent of Public Instruction,,REP,Chad Auer,14
+Fremont,01-2,Superintendent of Public Instruction,,REP,Steve Harshman,97
+Fremont,01-2,Superintendent of Public Instruction,,REP,Tom Kelly,65
+Fremont,01-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,01-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,01-2,Superintendent of Public Instruction,,REP,Under Votes,27
+Fremont,01-2,Superintendent of Public Instruction,,DEM,Ana Cordova,11
+Fremont,01-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",21
+Fremont,01-2,Superintendent of Public Instruction,,DEM,Write-ins,1
+Fremont,01-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,01-2,Superintendent of Public Instruction,,DEM,Under Votes,3
+Fremont,01-2,State Senate,25,REP,Cale Case,122
+Fremont,01-2,State Senate,25,REP,Lisa Wilson,74
+Fremont,01-2,State Senate,25,REP,Write-ins,0
+Fremont,01-2,State Senate,25,REP,Over Votes,0
+Fremont,01-2,State Senate,25,REP,Under Votes,7
+Fremont,01-2,State Senate,25,DEM,Write-ins,2
+Fremont,01-2,State Senate,25,DEM,Over Votes,0
+Fremont,01-2,State Senate,25,DEM,Under Votes,34
+Fremont,01-2,State House,54,REP,Jeff Martin,69
+Fremont,01-2,State House,54,REP,Lloyd Charles Larsen,124
+Fremont,01-2,State House,54,REP,Write-ins,1
+Fremont,01-2,State House,54,REP,Over Votes,0
+Fremont,01-2,State House,54,REP,Under Votes,9
+Fremont,01-2,State House,54,DEM,Write-ins,1
+Fremont,01-2,State House,54,DEM,Over Votes,0
+Fremont,01-2,State House,54,DEM,Under Votes,35
+Fremont,01-2,Ballots Cast,,REP,Ballots Cast,203
+Fremont,01-2,Ballots Cast,,DEM,Ballots Cast,36
+Fremont,01-2,Ballots Cast,,NP,Ballots Cast,11
+Fremont,01-2,Ballots Cast,,,Ballots Cast,250
+Fremont,01-3,U.S. Senate,,REP,Harriet Hageman,127
+Fremont,01-3,U.S. Senate,,REP,Jill M Edwards,15
+Fremont,01-3,U.S. Senate,,REP,Jimmy Skovgard,18
+Fremont,01-3,U.S. Senate,,REP,John Holtz,4
+Fremont,01-3,U.S. Senate,,REP,Sam Mead,193
+Fremont,01-3,U.S. Senate,,REP,Write-ins,0
+Fremont,01-3,U.S. Senate,,REP,Over Votes,0
+Fremont,01-3,U.S. Senate,,REP,Under Votes,10
+Fremont,01-3,U.S. Senate,,DEM,Billy Benavidez,10
+Fremont,01-3,U.S. Senate,,DEM,James Byrd,37
+Fremont,01-3,U.S. Senate,,DEM,Write-ins,1
+Fremont,01-3,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-3,U.S. Senate,,DEM,Under Votes,4
+Fremont,01-3,U.S. House,,REP,* Withdrawn Candidate,8
+Fremont,01-3,U.S. House,,REP,Bo Biteman,9
+Fremont,01-3,U.S. House,,REP,Chuck Gray,59
+Fremont,01-3,U.S. House,,REP,David Giralt,25
+Fremont,01-3,U.S. House,,REP,Jillian Balow,23
+Fremont,01-3,U.S. House,,REP,Keith B. Goodenough,20
+Fremont,01-3,U.S. House,,REP,Kevin Christensen,118
+Fremont,01-3,U.S. House,,REP,Reid Rasner,21
+Fremont,01-3,U.S. House,,REP,Richard Dodson,11
+Fremont,01-3,U.S. House,,REP,Steve Friess,54
+Fremont,01-3,U.S. House,,REP,Write-ins,1
+Fremont,01-3,U.S. House,,REP,Over Votes,3
+Fremont,01-3,U.S. House,,REP,Under Votes,15
+Fremont,01-3,U.S. House,,DEM,Elena Del Real,18
+Fremont,01-3,U.S. House,,DEM,Lisa Kinney,27
+Fremont,01-3,U.S. House,,DEM,Write-ins,1
+Fremont,01-3,U.S. House,,DEM,Over Votes,0
+Fremont,01-3,U.S. House,,DEM,Under Votes,6
+Fremont,01-3,Governor,,REP,Brent Bien,59
+Fremont,01-3,Governor,,REP,Curt Blake,4
+Fremont,01-3,Governor,,REP,Eric Barlow,228
+Fremont,01-3,Governor,,REP,Megan Degenfelder,69
+Fremont,01-3,Governor,,REP,Write-ins,0
+Fremont,01-3,Governor,,REP,Over Votes,1
+Fremont,01-3,Governor,,REP,Under Votes,6
+Fremont,01-3,Governor,,DEM,Kenneth R. Casner,40
+Fremont,01-3,Governor,,DEM,Write-ins,4
+Fremont,01-3,Governor,,DEM,Over Votes,0
+Fremont,01-3,Governor,,DEM,Under Votes,8
+Fremont,01-3,Secretary of State,,REP,CJ Young,15
+Fremont,01-3,Secretary of State,,REP,Qwenton Eagle Oviatt,28
+Fremont,01-3,Secretary of State,,REP,Rachel Williams,63
+Fremont,01-3,Secretary of State,,REP,Robert Short,229
+Fremont,01-3,Secretary of State,,REP,Write-ins,0
+Fremont,01-3,Secretary of State,,REP,Over Votes,0
+Fremont,01-3,Secretary of State,,REP,Under Votes,32
+Fremont,01-3,Secretary of State,,DEM,Bryan McCarty,39
+Fremont,01-3,Secretary of State,,DEM,Write-ins,2
+Fremont,01-3,Secretary of State,,DEM,Over Votes,0
+Fremont,01-3,Secretary of State,,DEM,Under Votes,11
+Fremont,01-3,State Auditor,,REP,Kristi Racines,279
+Fremont,01-3,State Auditor,,REP,Write-ins,2
+Fremont,01-3,State Auditor,,REP,Over Votes,0
+Fremont,01-3,State Auditor,,REP,Under Votes,86
+Fremont,01-3,State Auditor,,DEM,Write-ins,4
+Fremont,01-3,State Auditor,,DEM,Over Votes,0
+Fremont,01-3,State Auditor,,DEM,Under Votes,48
+Fremont,01-3,State Treasurer,,REP,Curt Meier,252
+Fremont,01-3,State Treasurer,,REP,Scott Smith,66
+Fremont,01-3,State Treasurer,,REP,Write-ins,1
+Fremont,01-3,State Treasurer,,REP,Over Votes,0
+Fremont,01-3,State Treasurer,,REP,Under Votes,48
+Fremont,01-3,State Treasurer,,DEM,Write-ins,4
+Fremont,01-3,State Treasurer,,DEM,Over Votes,0
+Fremont,01-3,State Treasurer,,DEM,Under Votes,48
+Fremont,01-3,Superintendent of Public Instruction,,REP,Chad Auer,55
+Fremont,01-3,Superintendent of Public Instruction,,REP,Steve Harshman,206
+Fremont,01-3,Superintendent of Public Instruction,,REP,Tom Kelly,78
+Fremont,01-3,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,01-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,01-3,Superintendent of Public Instruction,,REP,Under Votes,26
+Fremont,01-3,Superintendent of Public Instruction,,DEM,Ana Cordova,24
+Fremont,01-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",18
+Fremont,01-3,Superintendent of Public Instruction,,DEM,Write-ins,1
+Fremont,01-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,01-3,Superintendent of Public Instruction,,DEM,Under Votes,9
+Fremont,01-3,State Senate,25,REP,Cale Case,258
+Fremont,01-3,State Senate,25,REP,Lisa Wilson,100
+Fremont,01-3,State Senate,25,REP,Write-ins,0
+Fremont,01-3,State Senate,25,REP,Over Votes,0
+Fremont,01-3,State Senate,25,REP,Under Votes,9
+Fremont,01-3,State Senate,25,DEM,Write-ins,5
+Fremont,01-3,State Senate,25,DEM,Over Votes,0
+Fremont,01-3,State Senate,25,DEM,Under Votes,47
+Fremont,01-3,State House,54,REP,Jeff Martin,96
+Fremont,01-3,State House,54,REP,Lloyd Charles Larsen,256
+Fremont,01-3,State House,54,REP,Write-ins,1
+Fremont,01-3,State House,54,REP,Over Votes,1
+Fremont,01-3,State House,54,REP,Under Votes,13
+Fremont,01-3,State House,54,DEM,Write-ins,3
+Fremont,01-3,State House,54,DEM,Over Votes,0
+Fremont,01-3,State House,54,DEM,Under Votes,49
+Fremont,01-3,Ballots Cast,,REP,Ballots Cast,367
+Fremont,01-3,Ballots Cast,,DEM,Ballots Cast,52
+Fremont,01-3,Ballots Cast,,NP,Ballots Cast,23
+Fremont,01-3,Ballots Cast,,,Ballots Cast,442
+Fremont,01-4,U.S. Senate,,REP,Harriet Hageman,112
+Fremont,01-4,U.S. Senate,,REP,Jill M Edwards,5
+Fremont,01-4,U.S. Senate,,REP,Jimmy Skovgard,5
+Fremont,01-4,U.S. Senate,,REP,John Holtz,2
+Fremont,01-4,U.S. Senate,,REP,Sam Mead,122
+Fremont,01-4,U.S. Senate,,REP,Write-ins,0
+Fremont,01-4,U.S. Senate,,REP,Over Votes,0
+Fremont,01-4,U.S. Senate,,REP,Under Votes,11
+Fremont,01-4,U.S. Senate,,DEM,Billy Benavidez,8
+Fremont,01-4,U.S. Senate,,DEM,James Byrd,28
+Fremont,01-4,U.S. Senate,,DEM,Write-ins,0
+Fremont,01-4,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-4,U.S. Senate,,DEM,Under Votes,2
+Fremont,01-4,U.S. House,,REP,* Withdrawn Candidate,7
+Fremont,01-4,U.S. House,,REP,Bo Biteman,9
+Fremont,01-4,U.S. House,,REP,Chuck Gray,36
+Fremont,01-4,U.S. House,,REP,David Giralt,14
+Fremont,01-4,U.S. House,,REP,Jillian Balow,32
+Fremont,01-4,U.S. House,,REP,Keith B. Goodenough,6
+Fremont,01-4,U.S. House,,REP,Kevin Christensen,64
+Fremont,01-4,U.S. House,,REP,Reid Rasner,20
+Fremont,01-4,U.S. House,,REP,Richard Dodson,2
+Fremont,01-4,U.S. House,,REP,Steve Friess,48
+Fremont,01-4,U.S. House,,REP,Write-ins,0
+Fremont,01-4,U.S. House,,REP,Over Votes,3
+Fremont,01-4,U.S. House,,REP,Under Votes,16
+Fremont,01-4,U.S. House,,DEM,Elena Del Real,10
+Fremont,01-4,U.S. House,,DEM,Lisa Kinney,24
+Fremont,01-4,U.S. House,,DEM,Write-ins,0
+Fremont,01-4,U.S. House,,DEM,Over Votes,0
+Fremont,01-4,U.S. House,,DEM,Under Votes,4
+Fremont,01-4,Governor,,REP,Brent Bien,47
+Fremont,01-4,Governor,,REP,Curt Blake,2
+Fremont,01-4,Governor,,REP,Eric Barlow,139
+Fremont,01-4,Governor,,REP,Megan Degenfelder,65
+Fremont,01-4,Governor,,REP,Write-ins,0
+Fremont,01-4,Governor,,REP,Over Votes,0
+Fremont,01-4,Governor,,REP,Under Votes,4
+Fremont,01-4,Governor,,DEM,Kenneth R. Casner,33
+Fremont,01-4,Governor,,DEM,Write-ins,1
+Fremont,01-4,Governor,,DEM,Over Votes,0
+Fremont,01-4,Governor,,DEM,Under Votes,4
+Fremont,01-4,Secretary of State,,REP,CJ Young,17
+Fremont,01-4,Secretary of State,,REP,Qwenton Eagle Oviatt,16
+Fremont,01-4,Secretary of State,,REP,Rachel Williams,62
+Fremont,01-4,Secretary of State,,REP,Robert Short,142
+Fremont,01-4,Secretary of State,,REP,Write-ins,0
+Fremont,01-4,Secretary of State,,REP,Over Votes,0
+Fremont,01-4,Secretary of State,,REP,Under Votes,20
+Fremont,01-4,Secretary of State,,DEM,Bryan McCarty,34
+Fremont,01-4,Secretary of State,,DEM,Write-ins,0
+Fremont,01-4,Secretary of State,,DEM,Over Votes,0
+Fremont,01-4,Secretary of State,,DEM,Under Votes,4
+Fremont,01-4,State Auditor,,REP,Kristi Racines,195
+Fremont,01-4,State Auditor,,REP,Write-ins,0
+Fremont,01-4,State Auditor,,REP,Over Votes,0
+Fremont,01-4,State Auditor,,REP,Under Votes,62
+Fremont,01-4,State Auditor,,DEM,Write-ins,3
+Fremont,01-4,State Auditor,,DEM,Over Votes,0
+Fremont,01-4,State Auditor,,DEM,Under Votes,35
+Fremont,01-4,State Treasurer,,REP,Curt Meier,167
+Fremont,01-4,State Treasurer,,REP,Scott Smith,59
+Fremont,01-4,State Treasurer,,REP,Write-ins,0
+Fremont,01-4,State Treasurer,,REP,Over Votes,0
+Fremont,01-4,State Treasurer,,REP,Under Votes,31
+Fremont,01-4,State Treasurer,,DEM,Write-ins,2
+Fremont,01-4,State Treasurer,,DEM,Over Votes,0
+Fremont,01-4,State Treasurer,,DEM,Under Votes,36
+Fremont,01-4,Superintendent of Public Instruction,,REP,Chad Auer,30
+Fremont,01-4,Superintendent of Public Instruction,,REP,Steve Harshman,142
+Fremont,01-4,Superintendent of Public Instruction,,REP,Tom Kelly,52
+Fremont,01-4,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,01-4,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,01-4,Superintendent of Public Instruction,,REP,Under Votes,33
+Fremont,01-4,Superintendent of Public Instruction,,DEM,Ana Cordova,16
+Fremont,01-4,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",19
+Fremont,01-4,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,01-4,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,01-4,Superintendent of Public Instruction,,DEM,Under Votes,3
+Fremont,01-4,State Senate,25,REP,Cale Case,163
+Fremont,01-4,State Senate,25,REP,Lisa Wilson,83
+Fremont,01-4,State Senate,25,REP,Write-ins,0
+Fremont,01-4,State Senate,25,REP,Over Votes,0
+Fremont,01-4,State Senate,25,REP,Under Votes,11
+Fremont,01-4,State Senate,25,DEM,Write-ins,3
+Fremont,01-4,State Senate,25,DEM,Over Votes,0
+Fremont,01-4,State Senate,25,DEM,Under Votes,35
+Fremont,01-4,State House,54,REP,Jeff Martin,85
+Fremont,01-4,State House,54,REP,Lloyd Charles Larsen,161
+Fremont,01-4,State House,54,REP,Write-ins,0
+Fremont,01-4,State House,54,REP,Over Votes,0
+Fremont,01-4,State House,54,REP,Under Votes,11
+Fremont,01-4,State House,54,DEM,Write-ins,2
+Fremont,01-4,State House,54,DEM,Over Votes,0
+Fremont,01-4,State House,54,DEM,Under Votes,36
+Fremont,01-4,Ballots Cast,,REP,Ballots Cast,257
+Fremont,01-4,Ballots Cast,,DEM,Ballots Cast,38
+Fremont,01-4,Ballots Cast,,NP,Ballots Cast,19
+Fremont,01-4,Ballots Cast,,,Ballots Cast,314
+Fremont,01-5,U.S. Senate,,REP,Harriet Hageman,204
+Fremont,01-5,U.S. Senate,,REP,Jill M Edwards,10
+Fremont,01-5,U.S. Senate,,REP,Jimmy Skovgard,9
+Fremont,01-5,U.S. Senate,,REP,John Holtz,10
+Fremont,01-5,U.S. Senate,,REP,Sam Mead,267
+Fremont,01-5,U.S. Senate,,REP,Write-ins,3
+Fremont,01-5,U.S. Senate,,REP,Over Votes,0
+Fremont,01-5,U.S. Senate,,REP,Under Votes,11
+Fremont,01-5,U.S. Senate,,DEM,Billy Benavidez,9
+Fremont,01-5,U.S. Senate,,DEM,James Byrd,36
+Fremont,01-5,U.S. Senate,,DEM,Write-ins,0
+Fremont,01-5,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-5,U.S. Senate,,DEM,Under Votes,3
+Fremont,01-5,U.S. House,,REP,* Withdrawn Candidate,9
+Fremont,01-5,U.S. House,,REP,Bo Biteman,18
+Fremont,01-5,U.S. House,,REP,Chuck Gray,87
+Fremont,01-5,U.S. House,,REP,David Giralt,26
+Fremont,01-5,U.S. House,,REP,Jillian Balow,66
+Fremont,01-5,U.S. House,,REP,Keith B. Goodenough,13
+Fremont,01-5,U.S. House,,REP,Kevin Christensen,145
+Fremont,01-5,U.S. House,,REP,Reid Rasner,28
+Fremont,01-5,U.S. House,,REP,Richard Dodson,5
+Fremont,01-5,U.S. House,,REP,Steve Friess,85
+Fremont,01-5,U.S. House,,REP,Write-ins,2
+Fremont,01-5,U.S. House,,REP,Over Votes,8
+Fremont,01-5,U.S. House,,REP,Under Votes,22
+Fremont,01-5,U.S. House,,DEM,Elena Del Real,5
+Fremont,01-5,U.S. House,,DEM,Lisa Kinney,40
+Fremont,01-5,U.S. House,,DEM,Write-ins,0
+Fremont,01-5,U.S. House,,DEM,Over Votes,0
+Fremont,01-5,U.S. House,,DEM,Under Votes,3
+Fremont,01-5,Governor,,REP,Brent Bien,78
+Fremont,01-5,Governor,,REP,Curt Blake,7
+Fremont,01-5,Governor,,REP,Eric Barlow,308
+Fremont,01-5,Governor,,REP,Megan Degenfelder,114
+Fremont,01-5,Governor,,REP,Write-ins,2
+Fremont,01-5,Governor,,REP,Over Votes,0
+Fremont,01-5,Governor,,REP,Under Votes,5
+Fremont,01-5,Governor,,DEM,Kenneth R. Casner,33
+Fremont,01-5,Governor,,DEM,Write-ins,2
+Fremont,01-5,Governor,,DEM,Over Votes,0
+Fremont,01-5,Governor,,DEM,Under Votes,13
+Fremont,01-5,Secretary of State,,REP,CJ Young,47
+Fremont,01-5,Secretary of State,,REP,Qwenton Eagle Oviatt,49
+Fremont,01-5,Secretary of State,,REP,Rachel Williams,94
+Fremont,01-5,Secretary of State,,REP,Robert Short,278
+Fremont,01-5,Secretary of State,,REP,Write-ins,4
+Fremont,01-5,Secretary of State,,REP,Over Votes,0
+Fremont,01-5,Secretary of State,,REP,Under Votes,42
+Fremont,01-5,Secretary of State,,DEM,Bryan McCarty,40
+Fremont,01-5,Secretary of State,,DEM,Write-ins,0
+Fremont,01-5,Secretary of State,,DEM,Over Votes,0
+Fremont,01-5,Secretary of State,,DEM,Under Votes,8
+Fremont,01-5,State Auditor,,REP,Kristi Racines,397
+Fremont,01-5,State Auditor,,REP,Write-ins,1
+Fremont,01-5,State Auditor,,REP,Over Votes,0
+Fremont,01-5,State Auditor,,REP,Under Votes,116
+Fremont,01-5,State Auditor,,DEM,Write-ins,2
+Fremont,01-5,State Auditor,,DEM,Over Votes,0
+Fremont,01-5,State Auditor,,DEM,Under Votes,46
+Fremont,01-5,State Treasurer,,REP,Curt Meier,332
+Fremont,01-5,State Treasurer,,REP,Scott Smith,122
+Fremont,01-5,State Treasurer,,REP,Write-ins,1
+Fremont,01-5,State Treasurer,,REP,Over Votes,0
+Fremont,01-5,State Treasurer,,REP,Under Votes,59
+Fremont,01-5,State Treasurer,,DEM,Write-ins,1
+Fremont,01-5,State Treasurer,,DEM,Over Votes,0
+Fremont,01-5,State Treasurer,,DEM,Under Votes,47
+Fremont,01-5,Superintendent of Public Instruction,,REP,Chad Auer,66
+Fremont,01-5,Superintendent of Public Instruction,,REP,Steve Harshman,267
+Fremont,01-5,Superintendent of Public Instruction,,REP,Tom Kelly,119
+Fremont,01-5,Superintendent of Public Instruction,,REP,Write-ins,4
+Fremont,01-5,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,01-5,Superintendent of Public Instruction,,REP,Under Votes,58
+Fremont,01-5,Superintendent of Public Instruction,,DEM,Ana Cordova,15
+Fremont,01-5,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",29
+Fremont,01-5,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,01-5,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,01-5,Superintendent of Public Instruction,,DEM,Under Votes,4
+Fremont,01-5,State Senate,25,REP,Cale Case,340
+Fremont,01-5,State Senate,25,REP,Lisa Wilson,164
+Fremont,01-5,State Senate,25,REP,Write-ins,1
+Fremont,01-5,State Senate,25,REP,Over Votes,0
+Fremont,01-5,State Senate,25,REP,Under Votes,9
+Fremont,01-5,State Senate,25,DEM,Write-ins,4
+Fremont,01-5,State Senate,25,DEM,Over Votes,0
+Fremont,01-5,State Senate,25,DEM,Under Votes,44
+Fremont,01-5,State House,54,REP,Jeff Martin,150
+Fremont,01-5,State House,54,REP,Lloyd Charles Larsen,347
+Fremont,01-5,State House,54,REP,Write-ins,1
+Fremont,01-5,State House,54,REP,Over Votes,0
+Fremont,01-5,State House,54,REP,Under Votes,16
+Fremont,01-5,State House,54,DEM,Write-ins,4
+Fremont,01-5,State House,54,DEM,Over Votes,0
+Fremont,01-5,State House,54,DEM,Under Votes,44
+Fremont,01-5,Ballots Cast,,REP,Ballots Cast,514
+Fremont,01-5,Ballots Cast,,DEM,Ballots Cast,48
+Fremont,01-5,Ballots Cast,,NP,Ballots Cast,24
+Fremont,01-5,Ballots Cast,,,Ballots Cast,586
+Fremont,01-6,U.S. Senate,,REP,Harriet Hageman,170
+Fremont,01-6,U.S. Senate,,REP,Jill M Edwards,5
+Fremont,01-6,U.S. Senate,,REP,Jimmy Skovgard,4
+Fremont,01-6,U.S. Senate,,REP,John Holtz,6
+Fremont,01-6,U.S. Senate,,REP,Sam Mead,196
+Fremont,01-6,U.S. Senate,,REP,Write-ins,2
+Fremont,01-6,U.S. Senate,,REP,Over Votes,0
+Fremont,01-6,U.S. Senate,,REP,Under Votes,9
+Fremont,01-6,U.S. Senate,,DEM,Billy Benavidez,11
+Fremont,01-6,U.S. Senate,,DEM,James Byrd,37
+Fremont,01-6,U.S. Senate,,DEM,Write-ins,6
+Fremont,01-6,U.S. Senate,,DEM,Over Votes,0
+Fremont,01-6,U.S. Senate,,DEM,Under Votes,7
+Fremont,01-6,U.S. House,,REP,* Withdrawn Candidate,1
+Fremont,01-6,U.S. House,,REP,Bo Biteman,12
+Fremont,01-6,U.S. House,,REP,Chuck Gray,54
+Fremont,01-6,U.S. House,,REP,David Giralt,22
+Fremont,01-6,U.S. House,,REP,Jillian Balow,69
+Fremont,01-6,U.S. House,,REP,Keith B. Goodenough,13
+Fremont,01-6,U.S. House,,REP,Kevin Christensen,96
+Fremont,01-6,U.S. House,,REP,Reid Rasner,21
+Fremont,01-6,U.S. House,,REP,Richard Dodson,3
+Fremont,01-6,U.S. House,,REP,Steve Friess,76
+Fremont,01-6,U.S. House,,REP,Write-ins,2
+Fremont,01-6,U.S. House,,REP,Over Votes,5
+Fremont,01-6,U.S. House,,REP,Under Votes,18
+Fremont,01-6,U.S. House,,DEM,Elena Del Real,16
+Fremont,01-6,U.S. House,,DEM,Lisa Kinney,34
+Fremont,01-6,U.S. House,,DEM,Write-ins,1
+Fremont,01-6,U.S. House,,DEM,Over Votes,1
+Fremont,01-6,U.S. House,,DEM,Under Votes,9
+Fremont,01-6,Governor,,REP,Brent Bien,64
+Fremont,01-6,Governor,,REP,Curt Blake,6
+Fremont,01-6,Governor,,REP,Eric Barlow,237
+Fremont,01-6,Governor,,REP,Megan Degenfelder,83
+Fremont,01-6,Governor,,REP,Write-ins,0
+Fremont,01-6,Governor,,REP,Over Votes,0
+Fremont,01-6,Governor,,REP,Under Votes,2
+Fremont,01-6,Governor,,DEM,Kenneth R. Casner,36
+Fremont,01-6,Governor,,DEM,Write-ins,6
+Fremont,01-6,Governor,,DEM,Over Votes,0
+Fremont,01-6,Governor,,DEM,Under Votes,19
+Fremont,01-6,Secretary of State,,REP,CJ Young,32
+Fremont,01-6,Secretary of State,,REP,Qwenton Eagle Oviatt,29
+Fremont,01-6,Secretary of State,,REP,Rachel Williams,72
+Fremont,01-6,Secretary of State,,REP,Robert Short,222
+Fremont,01-6,Secretary of State,,REP,Write-ins,1
+Fremont,01-6,Secretary of State,,REP,Over Votes,0
+Fremont,01-6,Secretary of State,,REP,Under Votes,36
+Fremont,01-6,Secretary of State,,DEM,Bryan McCarty,42
+Fremont,01-6,Secretary of State,,DEM,Write-ins,4
+Fremont,01-6,Secretary of State,,DEM,Over Votes,1
+Fremont,01-6,Secretary of State,,DEM,Under Votes,14
+Fremont,01-6,State Auditor,,REP,Kristi Racines,313
+Fremont,01-6,State Auditor,,REP,Write-ins,1
+Fremont,01-6,State Auditor,,REP,Over Votes,0
+Fremont,01-6,State Auditor,,REP,Under Votes,78
+Fremont,01-6,State Auditor,,DEM,Write-ins,8
+Fremont,01-6,State Auditor,,DEM,Over Votes,0
+Fremont,01-6,State Auditor,,DEM,Under Votes,53
+Fremont,01-6,State Treasurer,,REP,Curt Meier,256
+Fremont,01-6,State Treasurer,,REP,Scott Smith,93
+Fremont,01-6,State Treasurer,,REP,Write-ins,0
+Fremont,01-6,State Treasurer,,REP,Over Votes,0
+Fremont,01-6,State Treasurer,,REP,Under Votes,43
+Fremont,01-6,State Treasurer,,DEM,Write-ins,6
+Fremont,01-6,State Treasurer,,DEM,Over Votes,0
+Fremont,01-6,State Treasurer,,DEM,Under Votes,55
+Fremont,01-6,Superintendent of Public Instruction,,REP,Chad Auer,47
+Fremont,01-6,Superintendent of Public Instruction,,REP,Steve Harshman,226
+Fremont,01-6,Superintendent of Public Instruction,,REP,Tom Kelly,74
+Fremont,01-6,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,01-6,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,01-6,Superintendent of Public Instruction,,REP,Under Votes,45
+Fremont,01-6,Superintendent of Public Instruction,,DEM,Ana Cordova,18
+Fremont,01-6,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",30
+Fremont,01-6,Superintendent of Public Instruction,,DEM,Write-ins,3
+Fremont,01-6,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,01-6,Superintendent of Public Instruction,,DEM,Under Votes,10
+Fremont,01-6,State Senate,25,REP,Cale Case,261
+Fremont,01-6,State Senate,25,REP,Lisa Wilson,116
+Fremont,01-6,State Senate,25,REP,Write-ins,0
+Fremont,01-6,State Senate,25,REP,Over Votes,0
+Fremont,01-6,State Senate,25,REP,Under Votes,15
+Fremont,01-6,State Senate,25,DEM,Write-ins,7
+Fremont,01-6,State Senate,25,DEM,Over Votes,0
+Fremont,01-6,State Senate,25,DEM,Under Votes,54
+Fremont,01-6,State House,54,REP,Jeff Martin,105
+Fremont,01-6,State House,54,REP,Lloyd Charles Larsen,271
+Fremont,01-6,State House,54,REP,Write-ins,0
+Fremont,01-6,State House,54,REP,Over Votes,0
+Fremont,01-6,State House,54,REP,Under Votes,16
+Fremont,01-6,State House,54,DEM,Write-ins,7
+Fremont,01-6,State House,54,DEM,Over Votes,0
+Fremont,01-6,State House,54,DEM,Under Votes,54
+Fremont,01-6,Ballots Cast,,REP,Ballots Cast,392
+Fremont,01-6,Ballots Cast,,DEM,Ballots Cast,61
+Fremont,01-6,Ballots Cast,,NP,Ballots Cast,23
+Fremont,01-6,Ballots Cast,,,Ballots Cast,476
+Fremont,02-1,U.S. Senate,,REP,Harriet Hageman,107
+Fremont,02-1,U.S. Senate,,REP,Jill M Edwards,5
+Fremont,02-1,U.S. Senate,,REP,Jimmy Skovgard,5
+Fremont,02-1,U.S. Senate,,REP,John Holtz,2
+Fremont,02-1,U.S. Senate,,REP,Sam Mead,46
+Fremont,02-1,U.S. Senate,,REP,Write-ins,0
+Fremont,02-1,U.S. Senate,,REP,Over Votes,0
+Fremont,02-1,U.S. Senate,,REP,Under Votes,3
+Fremont,02-1,U.S. Senate,,DEM,Billy Benavidez,5
+Fremont,02-1,U.S. Senate,,DEM,James Byrd,10
+Fremont,02-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,02-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,02-1,U.S. Senate,,DEM,Under Votes,2
+Fremont,02-1,U.S. House,,REP,* Withdrawn Candidate,4
+Fremont,02-1,U.S. House,,REP,Bo Biteman,4
+Fremont,02-1,U.S. House,,REP,Chuck Gray,26
+Fremont,02-1,U.S. House,,REP,David Giralt,18
+Fremont,02-1,U.S. House,,REP,Jillian Balow,9
+Fremont,02-1,U.S. House,,REP,Keith B. Goodenough,4
+Fremont,02-1,U.S. House,,REP,Kevin Christensen,28
+Fremont,02-1,U.S. House,,REP,Reid Rasner,23
+Fremont,02-1,U.S. House,,REP,Richard Dodson,0
+Fremont,02-1,U.S. House,,REP,Steve Friess,43
+Fremont,02-1,U.S. House,,REP,Write-ins,0
+Fremont,02-1,U.S. House,,REP,Over Votes,3
+Fremont,02-1,U.S. House,,REP,Under Votes,6
+Fremont,02-1,U.S. House,,DEM,Elena Del Real,4
+Fremont,02-1,U.S. House,,DEM,Lisa Kinney,12
+Fremont,02-1,U.S. House,,DEM,Write-ins,0
+Fremont,02-1,U.S. House,,DEM,Over Votes,0
+Fremont,02-1,U.S. House,,DEM,Under Votes,1
+Fremont,02-1,Governor,,REP,Brent Bien,41
+Fremont,02-1,Governor,,REP,Curt Blake,2
+Fremont,02-1,Governor,,REP,Eric Barlow,70
+Fremont,02-1,Governor,,REP,Megan Degenfelder,54
+Fremont,02-1,Governor,,REP,Write-ins,0
+Fremont,02-1,Governor,,REP,Over Votes,0
+Fremont,02-1,Governor,,REP,Under Votes,1
+Fremont,02-1,Governor,,DEM,Kenneth R. Casner,14
+Fremont,02-1,Governor,,DEM,Write-ins,2
+Fremont,02-1,Governor,,DEM,Over Votes,0
+Fremont,02-1,Governor,,DEM,Under Votes,1
+Fremont,02-1,Secretary of State,,REP,CJ Young,18
+Fremont,02-1,Secretary of State,,REP,Qwenton Eagle Oviatt,26
+Fremont,02-1,Secretary of State,,REP,Rachel Williams,50
+Fremont,02-1,Secretary of State,,REP,Robert Short,59
+Fremont,02-1,Secretary of State,,REP,Write-ins,0
+Fremont,02-1,Secretary of State,,REP,Over Votes,0
+Fremont,02-1,Secretary of State,,REP,Under Votes,15
+Fremont,02-1,Secretary of State,,DEM,Bryan McCarty,16
+Fremont,02-1,Secretary of State,,DEM,Write-ins,0
+Fremont,02-1,Secretary of State,,DEM,Over Votes,0
+Fremont,02-1,Secretary of State,,DEM,Under Votes,1
+Fremont,02-1,State Auditor,,REP,Kristi Racines,139
+Fremont,02-1,State Auditor,,REP,Write-ins,1
+Fremont,02-1,State Auditor,,REP,Over Votes,0
+Fremont,02-1,State Auditor,,REP,Under Votes,28
+Fremont,02-1,State Auditor,,DEM,Write-ins,0
+Fremont,02-1,State Auditor,,DEM,Over Votes,0
+Fremont,02-1,State Auditor,,DEM,Under Votes,17
+Fremont,02-1,State Treasurer,,REP,Curt Meier,96
+Fremont,02-1,State Treasurer,,REP,Scott Smith,52
+Fremont,02-1,State Treasurer,,REP,Write-ins,0
+Fremont,02-1,State Treasurer,,REP,Over Votes,0
+Fremont,02-1,State Treasurer,,REP,Under Votes,20
+Fremont,02-1,State Treasurer,,DEM,Write-ins,0
+Fremont,02-1,State Treasurer,,DEM,Over Votes,0
+Fremont,02-1,State Treasurer,,DEM,Under Votes,17
+Fremont,02-1,Superintendent of Public Instruction,,REP,Chad Auer,19
+Fremont,02-1,Superintendent of Public Instruction,,REP,Steve Harshman,76
+Fremont,02-1,Superintendent of Public Instruction,,REP,Tom Kelly,55
+Fremont,02-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Fremont,02-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,02-1,Superintendent of Public Instruction,,REP,Under Votes,17
+Fremont,02-1,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Fremont,02-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",10
+Fremont,02-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,02-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,02-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Fremont,02-1,State Senate,25,REP,Cale Case,84
+Fremont,02-1,State Senate,25,REP,Lisa Wilson,81
+Fremont,02-1,State Senate,25,REP,Write-ins,0
+Fremont,02-1,State Senate,25,REP,Over Votes,0
+Fremont,02-1,State Senate,25,REP,Under Votes,3
+Fremont,02-1,State Senate,25,DEM,Write-ins,0
+Fremont,02-1,State Senate,25,DEM,Over Votes,0
+Fremont,02-1,State Senate,25,DEM,Under Votes,17
+Fremont,02-1,State House,33,REP,Write-ins,9
+Fremont,02-1,State House,33,REP,Over Votes,0
+Fremont,02-1,State House,33,REP,Under Votes,159
+Fremont,02-1,State House,33,DEM,Ivan D. Posey,17
+Fremont,02-1,State House,33,DEM,Write-ins,0
+Fremont,02-1,State House,33,DEM,Over Votes,0
+Fremont,02-1,State House,33,DEM,Under Votes,0
+Fremont,02-1,Ballots Cast,,REP,Ballots Cast,168
+Fremont,02-1,Ballots Cast,,DEM,Ballots Cast,17
+Fremont,02-1,Ballots Cast,,NP,Ballots Cast,9
+Fremont,02-1,Ballots Cast,,,Ballots Cast,194
+Fremont,03-1,U.S. Senate,,REP,Harriet Hageman,168
+Fremont,03-1,U.S. Senate,,REP,Jill M Edwards,7
+Fremont,03-1,U.S. Senate,,REP,Jimmy Skovgard,4
+Fremont,03-1,U.S. Senate,,REP,John Holtz,11
+Fremont,03-1,U.S. Senate,,REP,Sam Mead,81
+Fremont,03-1,U.S. Senate,,REP,Write-ins,0
+Fremont,03-1,U.S. Senate,,REP,Over Votes,0
+Fremont,03-1,U.S. Senate,,REP,Under Votes,12
+Fremont,03-1,U.S. Senate,,DEM,Billy Benavidez,4
+Fremont,03-1,U.S. Senate,,DEM,James Byrd,11
+Fremont,03-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,03-1,U.S. House,,REP,* Withdrawn Candidate,3
+Fremont,03-1,U.S. House,,REP,Bo Biteman,5
+Fremont,03-1,U.S. House,,REP,Chuck Gray,78
+Fremont,03-1,U.S. House,,REP,David Giralt,13
+Fremont,03-1,U.S. House,,REP,Jillian Balow,20
+Fremont,03-1,U.S. House,,REP,Keith B. Goodenough,8
+Fremont,03-1,U.S. House,,REP,Kevin Christensen,35
+Fremont,03-1,U.S. House,,REP,Reid Rasner,33
+Fremont,03-1,U.S. House,,REP,Richard Dodson,4
+Fremont,03-1,U.S. House,,REP,Steve Friess,63
+Fremont,03-1,U.S. House,,REP,Write-ins,2
+Fremont,03-1,U.S. House,,REP,Over Votes,6
+Fremont,03-1,U.S. House,,REP,Under Votes,13
+Fremont,03-1,U.S. House,,DEM,Elena Del Real,4
+Fremont,03-1,U.S. House,,DEM,Lisa Kinney,11
+Fremont,03-1,U.S. House,,DEM,Write-ins,0
+Fremont,03-1,U.S. House,,DEM,Over Votes,0
+Fremont,03-1,U.S. House,,DEM,Under Votes,0
+Fremont,03-1,Governor,,REP,Brent Bien,53
+Fremont,03-1,Governor,,REP,Curt Blake,4
+Fremont,03-1,Governor,,REP,Eric Barlow,123
+Fremont,03-1,Governor,,REP,Megan Degenfelder,99
+Fremont,03-1,Governor,,REP,Write-ins,1
+Fremont,03-1,Governor,,REP,Over Votes,0
+Fremont,03-1,Governor,,REP,Under Votes,3
+Fremont,03-1,Governor,,DEM,Kenneth R. Casner,13
+Fremont,03-1,Governor,,DEM,Write-ins,0
+Fremont,03-1,Governor,,DEM,Over Votes,0
+Fremont,03-1,Governor,,DEM,Under Votes,2
+Fremont,03-1,Secretary of State,,REP,CJ Young,35
+Fremont,03-1,Secretary of State,,REP,Qwenton Eagle Oviatt,15
+Fremont,03-1,Secretary of State,,REP,Rachel Williams,63
+Fremont,03-1,Secretary of State,,REP,Robert Short,131
+Fremont,03-1,Secretary of State,,REP,Write-ins,2
+Fremont,03-1,Secretary of State,,REP,Over Votes,1
+Fremont,03-1,Secretary of State,,REP,Under Votes,36
+Fremont,03-1,Secretary of State,,DEM,Bryan McCarty,13
+Fremont,03-1,Secretary of State,,DEM,Write-ins,0
+Fremont,03-1,Secretary of State,,DEM,Over Votes,0
+Fremont,03-1,Secretary of State,,DEM,Under Votes,2
+Fremont,03-1,State Auditor,,REP,Kristi Racines,233
+Fremont,03-1,State Auditor,,REP,Write-ins,3
+Fremont,03-1,State Auditor,,REP,Over Votes,0
+Fremont,03-1,State Auditor,,REP,Under Votes,47
+Fremont,03-1,State Auditor,,DEM,Write-ins,1
+Fremont,03-1,State Auditor,,DEM,Over Votes,0
+Fremont,03-1,State Auditor,,DEM,Under Votes,14
+Fremont,03-1,State Treasurer,,REP,Curt Meier,157
+Fremont,03-1,State Treasurer,,REP,Scott Smith,87
+Fremont,03-1,State Treasurer,,REP,Write-ins,2
+Fremont,03-1,State Treasurer,,REP,Over Votes,0
+Fremont,03-1,State Treasurer,,REP,Under Votes,37
+Fremont,03-1,State Treasurer,,DEM,Write-ins,0
+Fremont,03-1,State Treasurer,,DEM,Over Votes,0
+Fremont,03-1,State Treasurer,,DEM,Under Votes,15
+Fremont,03-1,Superintendent of Public Instruction,,REP,Chad Auer,19
+Fremont,03-1,Superintendent of Public Instruction,,REP,Steve Harshman,142
+Fremont,03-1,Superintendent of Public Instruction,,REP,Tom Kelly,78
+Fremont,03-1,Superintendent of Public Instruction,,REP,Write-ins,3
+Fremont,03-1,Superintendent of Public Instruction,,REP,Over Votes,1
+Fremont,03-1,Superintendent of Public Instruction,,REP,Under Votes,40
+Fremont,03-1,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Fremont,03-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Fremont,03-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,03-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,03-1,Superintendent of Public Instruction,,DEM,Under Votes,2
+Fremont,03-1,State House,55,REP,Carl Manning,228
+Fremont,03-1,State House,55,REP,Write-ins,8
+Fremont,03-1,State House,55,REP,Over Votes,0
+Fremont,03-1,State House,55,REP,Under Votes,47
+Fremont,03-1,State House,55,DEM,Write-ins,1
+Fremont,03-1,State House,55,DEM,Over Votes,0
+Fremont,03-1,State House,55,DEM,Under Votes,14
+Fremont,03-1,Ballots Cast,,REP,Ballots Cast,283
+Fremont,03-1,Ballots Cast,,DEM,Ballots Cast,15
+Fremont,03-1,Ballots Cast,,NP,Ballots Cast,8
+Fremont,03-1,Ballots Cast,,,Ballots Cast,306
+Fremont,03-2,U.S. Senate,,REP,Harriet Hageman,156
+Fremont,03-2,U.S. Senate,,REP,Jill M Edwards,3
+Fremont,03-2,U.S. Senate,,REP,Jimmy Skovgard,5
+Fremont,03-2,U.S. Senate,,REP,John Holtz,9
+Fremont,03-2,U.S. Senate,,REP,Sam Mead,44
+Fremont,03-2,U.S. Senate,,REP,Write-ins,0
+Fremont,03-2,U.S. Senate,,REP,Over Votes,0
+Fremont,03-2,U.S. Senate,,REP,Under Votes,2
+Fremont,03-2,U.S. Senate,,DEM,Billy Benavidez,3
+Fremont,03-2,U.S. Senate,,DEM,James Byrd,12
+Fremont,03-2,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-2,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-2,U.S. Senate,,DEM,Under Votes,1
+Fremont,03-2,U.S. House,,REP,* Withdrawn Candidate,3
+Fremont,03-2,U.S. House,,REP,Bo Biteman,6
+Fremont,03-2,U.S. House,,REP,Chuck Gray,48
+Fremont,03-2,U.S. House,,REP,David Giralt,14
+Fremont,03-2,U.S. House,,REP,Jillian Balow,10
+Fremont,03-2,U.S. House,,REP,Keith B. Goodenough,2
+Fremont,03-2,U.S. House,,REP,Kevin Christensen,23
+Fremont,03-2,U.S. House,,REP,Reid Rasner,34
+Fremont,03-2,U.S. House,,REP,Richard Dodson,6
+Fremont,03-2,U.S. House,,REP,Steve Friess,60
+Fremont,03-2,U.S. House,,REP,Write-ins,0
+Fremont,03-2,U.S. House,,REP,Over Votes,8
+Fremont,03-2,U.S. House,,REP,Under Votes,5
+Fremont,03-2,U.S. House,,DEM,Elena Del Real,4
+Fremont,03-2,U.S. House,,DEM,Lisa Kinney,11
+Fremont,03-2,U.S. House,,DEM,Write-ins,0
+Fremont,03-2,U.S. House,,DEM,Over Votes,0
+Fremont,03-2,U.S. House,,DEM,Under Votes,1
+Fremont,03-2,Governor,,REP,Brent Bien,37
+Fremont,03-2,Governor,,REP,Curt Blake,4
+Fremont,03-2,Governor,,REP,Eric Barlow,72
+Fremont,03-2,Governor,,REP,Megan Degenfelder,100
+Fremont,03-2,Governor,,REP,Write-ins,0
+Fremont,03-2,Governor,,REP,Over Votes,1
+Fremont,03-2,Governor,,REP,Under Votes,5
+Fremont,03-2,Governor,,DEM,Kenneth R. Casner,12
+Fremont,03-2,Governor,,DEM,Write-ins,0
+Fremont,03-2,Governor,,DEM,Over Votes,0
+Fremont,03-2,Governor,,DEM,Under Votes,4
+Fremont,03-2,Secretary of State,,REP,CJ Young,33
+Fremont,03-2,Secretary of State,,REP,Qwenton Eagle Oviatt,19
+Fremont,03-2,Secretary of State,,REP,Rachel Williams,74
+Fremont,03-2,Secretary of State,,REP,Robert Short,72
+Fremont,03-2,Secretary of State,,REP,Write-ins,3
+Fremont,03-2,Secretary of State,,REP,Over Votes,0
+Fremont,03-2,Secretary of State,,REP,Under Votes,18
+Fremont,03-2,Secretary of State,,DEM,Bryan McCarty,13
+Fremont,03-2,Secretary of State,,DEM,Write-ins,0
+Fremont,03-2,Secretary of State,,DEM,Over Votes,0
+Fremont,03-2,Secretary of State,,DEM,Under Votes,3
+Fremont,03-2,State Auditor,,REP,Kristi Racines,190
+Fremont,03-2,State Auditor,,REP,Write-ins,2
+Fremont,03-2,State Auditor,,REP,Over Votes,0
+Fremont,03-2,State Auditor,,REP,Under Votes,27
+Fremont,03-2,State Auditor,,DEM,Write-ins,1
+Fremont,03-2,State Auditor,,DEM,Over Votes,0
+Fremont,03-2,State Auditor,,DEM,Under Votes,15
+Fremont,03-2,State Treasurer,,REP,Curt Meier,128
+Fremont,03-2,State Treasurer,,REP,Scott Smith,72
+Fremont,03-2,State Treasurer,,REP,Write-ins,4
+Fremont,03-2,State Treasurer,,REP,Over Votes,0
+Fremont,03-2,State Treasurer,,REP,Under Votes,15
+Fremont,03-2,State Treasurer,,DEM,Write-ins,1
+Fremont,03-2,State Treasurer,,DEM,Over Votes,0
+Fremont,03-2,State Treasurer,,DEM,Under Votes,15
+Fremont,03-2,Superintendent of Public Instruction,,REP,Chad Auer,28
+Fremont,03-2,Superintendent of Public Instruction,,REP,Steve Harshman,86
+Fremont,03-2,Superintendent of Public Instruction,,REP,Tom Kelly,83
+Fremont,03-2,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,03-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,03-2,Superintendent of Public Instruction,,REP,Under Votes,20
+Fremont,03-2,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Fremont,03-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Fremont,03-2,Superintendent of Public Instruction,,DEM,Write-ins,1
+Fremont,03-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,03-2,Superintendent of Public Instruction,,DEM,Under Votes,1
+Fremont,03-2,State Senate,25,REP,Cale Case,3
+Fremont,03-2,State Senate,25,REP,Lisa Wilson,3
+Fremont,03-2,State Senate,25,REP,Write-ins,0
+Fremont,03-2,State Senate,25,REP,Over Votes,0
+Fremont,03-2,State Senate,25,REP,Under Votes,0
+Fremont,03-2,State Senate,25,DEM,Write-ins,0
+Fremont,03-2,State Senate,25,DEM,Over Votes,0
+Fremont,03-2,State Senate,25,DEM,Under Votes,0
+Fremont,03-2,State House,33,REP,Write-ins,1
+Fremont,03-2,State House,33,REP,Over Votes,0
+Fremont,03-2,State House,33,REP,Under Votes,5
+Fremont,03-2,State House,33,DEM,Ivan D. Posey,0
+Fremont,03-2,State House,33,DEM,Write-ins,0
+Fremont,03-2,State House,33,DEM,Over Votes,0
+Fremont,03-2,State House,33,DEM,Under Votes,0
+Fremont,03-2,State House,34,REP,Pepper L Ottman,101
+Fremont,03-2,State House,34,REP,Write-ins,4
+Fremont,03-2,State House,34,REP,Over Votes,0
+Fremont,03-2,State House,34,REP,Under Votes,14
+Fremont,03-2,State House,34,DEM,Write-ins,1
+Fremont,03-2,State House,34,DEM,Over Votes,0
+Fremont,03-2,State House,34,DEM,Under Votes,9
+Fremont,03-2,State House,55,REP,Carl Manning,79
+Fremont,03-2,State House,55,REP,Write-ins,1
+Fremont,03-2,State House,55,REP,Over Votes,0
+Fremont,03-2,State House,55,REP,Under Votes,14
+Fremont,03-2,State House,55,DEM,Write-ins,0
+Fremont,03-2,State House,55,DEM,Over Votes,0
+Fremont,03-2,State House,55,DEM,Under Votes,6
+Fremont,03-2,Ballots Cast,,REP,Ballots Cast,219
+Fremont,03-2,Ballots Cast,,DEM,Ballots Cast,16
+Fremont,03-2,Ballots Cast,,NP,Ballots Cast,15
+Fremont,03-2,Ballots Cast,,,Ballots Cast,250
+Fremont,03-3,U.S. Senate,,REP,Harriet Hageman,266
+Fremont,03-3,U.S. Senate,,REP,Jill M Edwards,12
+Fremont,03-3,U.S. Senate,,REP,Jimmy Skovgard,12
+Fremont,03-3,U.S. Senate,,REP,John Holtz,13
+Fremont,03-3,U.S. Senate,,REP,Sam Mead,91
+Fremont,03-3,U.S. Senate,,REP,Write-ins,2
+Fremont,03-3,U.S. Senate,,REP,Over Votes,2
+Fremont,03-3,U.S. Senate,,REP,Under Votes,10
+Fremont,03-3,U.S. Senate,,DEM,Billy Benavidez,8
+Fremont,03-3,U.S. Senate,,DEM,James Byrd,28
+Fremont,03-3,U.S. Senate,,DEM,Write-ins,2
+Fremont,03-3,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-3,U.S. Senate,,DEM,Under Votes,6
+Fremont,03-3,U.S. House,,REP,* Withdrawn Candidate,7
+Fremont,03-3,U.S. House,,REP,Bo Biteman,14
+Fremont,03-3,U.S. House,,REP,Chuck Gray,82
+Fremont,03-3,U.S. House,,REP,David Giralt,33
+Fremont,03-3,U.S. House,,REP,Jillian Balow,33
+Fremont,03-3,U.S. House,,REP,Keith B. Goodenough,7
+Fremont,03-3,U.S. House,,REP,Kevin Christensen,54
+Fremont,03-3,U.S. House,,REP,Reid Rasner,65
+Fremont,03-3,U.S. House,,REP,Richard Dodson,7
+Fremont,03-3,U.S. House,,REP,Steve Friess,80
+Fremont,03-3,U.S. House,,REP,Write-ins,4
+Fremont,03-3,U.S. House,,REP,Over Votes,8
+Fremont,03-3,U.S. House,,REP,Under Votes,14
+Fremont,03-3,U.S. House,,DEM,Elena Del Real,8
+Fremont,03-3,U.S. House,,DEM,Lisa Kinney,27
+Fremont,03-3,U.S. House,,DEM,Write-ins,1
+Fremont,03-3,U.S. House,,DEM,Over Votes,2
+Fremont,03-3,U.S. House,,DEM,Under Votes,6
+Fremont,03-3,Governor,,REP,Brent Bien,91
+Fremont,03-3,Governor,,REP,Curt Blake,6
+Fremont,03-3,Governor,,REP,Eric Barlow,171
+Fremont,03-3,Governor,,REP,Megan Degenfelder,136
+Fremont,03-3,Governor,,REP,Write-ins,0
+Fremont,03-3,Governor,,REP,Over Votes,0
+Fremont,03-3,Governor,,REP,Under Votes,4
+Fremont,03-3,Governor,,DEM,Kenneth R. Casner,34
+Fremont,03-3,Governor,,DEM,Write-ins,3
+Fremont,03-3,Governor,,DEM,Over Votes,1
+Fremont,03-3,Governor,,DEM,Under Votes,6
+Fremont,03-3,Secretary of State,,REP,CJ Young,48
+Fremont,03-3,Secretary of State,,REP,Qwenton Eagle Oviatt,29
+Fremont,03-3,Secretary of State,,REP,Rachel Williams,112
+Fremont,03-3,Secretary of State,,REP,Robert Short,186
+Fremont,03-3,Secretary of State,,REP,Write-ins,4
+Fremont,03-3,Secretary of State,,REP,Over Votes,0
+Fremont,03-3,Secretary of State,,REP,Under Votes,29
+Fremont,03-3,Secretary of State,,DEM,Bryan McCarty,36
+Fremont,03-3,Secretary of State,,DEM,Write-ins,1
+Fremont,03-3,Secretary of State,,DEM,Over Votes,0
+Fremont,03-3,Secretary of State,,DEM,Under Votes,7
+Fremont,03-3,State Auditor,,REP,Kristi Racines,359
+Fremont,03-3,State Auditor,,REP,Write-ins,1
+Fremont,03-3,State Auditor,,REP,Over Votes,0
+Fremont,03-3,State Auditor,,REP,Under Votes,48
+Fremont,03-3,State Auditor,,DEM,Write-ins,3
+Fremont,03-3,State Auditor,,DEM,Over Votes,0
+Fremont,03-3,State Auditor,,DEM,Under Votes,41
+Fremont,03-3,State Treasurer,,REP,Curt Meier,247
+Fremont,03-3,State Treasurer,,REP,Scott Smith,119
+Fremont,03-3,State Treasurer,,REP,Write-ins,1
+Fremont,03-3,State Treasurer,,REP,Over Votes,0
+Fremont,03-3,State Treasurer,,REP,Under Votes,41
+Fremont,03-3,State Treasurer,,DEM,Write-ins,4
+Fremont,03-3,State Treasurer,,DEM,Over Votes,0
+Fremont,03-3,State Treasurer,,DEM,Under Votes,40
+Fremont,03-3,Superintendent of Public Instruction,,REP,Chad Auer,48
+Fremont,03-3,Superintendent of Public Instruction,,REP,Steve Harshman,200
+Fremont,03-3,Superintendent of Public Instruction,,REP,Tom Kelly,117
+Fremont,03-3,Superintendent of Public Instruction,,REP,Write-ins,3
+Fremont,03-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,03-3,Superintendent of Public Instruction,,REP,Under Votes,40
+Fremont,03-3,Superintendent of Public Instruction,,DEM,Ana Cordova,14
+Fremont,03-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",24
+Fremont,03-3,Superintendent of Public Instruction,,DEM,Write-ins,1
+Fremont,03-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,03-3,Superintendent of Public Instruction,,DEM,Under Votes,5
+Fremont,03-3,State House,55,REP,Carl Manning,345
+Fremont,03-3,State House,55,REP,Write-ins,9
+Fremont,03-3,State House,55,REP,Over Votes,0
+Fremont,03-3,State House,55,REP,Under Votes,54
+Fremont,03-3,State House,55,DEM,Write-ins,4
+Fremont,03-3,State House,55,DEM,Over Votes,0
+Fremont,03-3,State House,55,DEM,Under Votes,40
+Fremont,03-3,Ballots Cast,,REP,Ballots Cast,408
+Fremont,03-3,Ballots Cast,,DEM,Ballots Cast,44
+Fremont,03-3,Ballots Cast,,NP,Ballots Cast,22
+Fremont,03-3,Ballots Cast,,,Ballots Cast,474
+Fremont,03-4,U.S. Senate,,REP,Harriet Hageman,197
+Fremont,03-4,U.S. Senate,,REP,Jill M Edwards,9
+Fremont,03-4,U.S. Senate,,REP,Jimmy Skovgard,8
+Fremont,03-4,U.S. Senate,,REP,John Holtz,6
+Fremont,03-4,U.S. Senate,,REP,Sam Mead,76
+Fremont,03-4,U.S. Senate,,REP,Write-ins,1
+Fremont,03-4,U.S. Senate,,REP,Over Votes,0
+Fremont,03-4,U.S. Senate,,REP,Under Votes,7
+Fremont,03-4,U.S. Senate,,DEM,Billy Benavidez,5
+Fremont,03-4,U.S. Senate,,DEM,James Byrd,24
+Fremont,03-4,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-4,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-4,U.S. Senate,,DEM,Under Votes,5
+Fremont,03-4,U.S. House,,REP,* Withdrawn Candidate,13
+Fremont,03-4,U.S. House,,REP,Bo Biteman,6
+Fremont,03-4,U.S. House,,REP,Chuck Gray,52
+Fremont,03-4,U.S. House,,REP,David Giralt,21
+Fremont,03-4,U.S. House,,REP,Jillian Balow,22
+Fremont,03-4,U.S. House,,REP,Keith B. Goodenough,14
+Fremont,03-4,U.S. House,,REP,Kevin Christensen,38
+Fremont,03-4,U.S. House,,REP,Reid Rasner,51
+Fremont,03-4,U.S. House,,REP,Richard Dodson,2
+Fremont,03-4,U.S. House,,REP,Steve Friess,59
+Fremont,03-4,U.S. House,,REP,Write-ins,2
+Fremont,03-4,U.S. House,,REP,Over Votes,13
+Fremont,03-4,U.S. House,,REP,Under Votes,11
+Fremont,03-4,U.S. House,,DEM,Elena Del Real,7
+Fremont,03-4,U.S. House,,DEM,Lisa Kinney,23
+Fremont,03-4,U.S. House,,DEM,Write-ins,0
+Fremont,03-4,U.S. House,,DEM,Over Votes,0
+Fremont,03-4,U.S. House,,DEM,Under Votes,4
+Fremont,03-4,Governor,,REP,Brent Bien,68
+Fremont,03-4,Governor,,REP,Curt Blake,12
+Fremont,03-4,Governor,,REP,Eric Barlow,112
+Fremont,03-4,Governor,,REP,Megan Degenfelder,106
+Fremont,03-4,Governor,,REP,Write-ins,1
+Fremont,03-4,Governor,,REP,Over Votes,1
+Fremont,03-4,Governor,,REP,Under Votes,4
+Fremont,03-4,Governor,,DEM,Kenneth R. Casner,25
+Fremont,03-4,Governor,,DEM,Write-ins,0
+Fremont,03-4,Governor,,DEM,Over Votes,0
+Fremont,03-4,Governor,,DEM,Under Votes,9
+Fremont,03-4,Secretary of State,,REP,CJ Young,36
+Fremont,03-4,Secretary of State,,REP,Qwenton Eagle Oviatt,10
+Fremont,03-4,Secretary of State,,REP,Rachel Williams,95
+Fremont,03-4,Secretary of State,,REP,Robert Short,139
+Fremont,03-4,Secretary of State,,REP,Write-ins,1
+Fremont,03-4,Secretary of State,,REP,Over Votes,0
+Fremont,03-4,Secretary of State,,REP,Under Votes,23
+Fremont,03-4,Secretary of State,,DEM,Bryan McCarty,26
+Fremont,03-4,Secretary of State,,DEM,Write-ins,0
+Fremont,03-4,Secretary of State,,DEM,Over Votes,0
+Fremont,03-4,Secretary of State,,DEM,Under Votes,8
+Fremont,03-4,State Auditor,,REP,Kristi Racines,259
+Fremont,03-4,State Auditor,,REP,Write-ins,0
+Fremont,03-4,State Auditor,,REP,Over Votes,0
+Fremont,03-4,State Auditor,,REP,Under Votes,45
+Fremont,03-4,State Auditor,,DEM,Write-ins,1
+Fremont,03-4,State Auditor,,DEM,Over Votes,0
+Fremont,03-4,State Auditor,,DEM,Under Votes,33
+Fremont,03-4,State Treasurer,,REP,Curt Meier,170
+Fremont,03-4,State Treasurer,,REP,Scott Smith,101
+Fremont,03-4,State Treasurer,,REP,Write-ins,1
+Fremont,03-4,State Treasurer,,REP,Over Votes,0
+Fremont,03-4,State Treasurer,,REP,Under Votes,32
+Fremont,03-4,State Treasurer,,DEM,Write-ins,1
+Fremont,03-4,State Treasurer,,DEM,Over Votes,0
+Fremont,03-4,State Treasurer,,DEM,Under Votes,33
+Fremont,03-4,Superintendent of Public Instruction,,REP,Chad Auer,28
+Fremont,03-4,Superintendent of Public Instruction,,REP,Steve Harshman,150
+Fremont,03-4,Superintendent of Public Instruction,,REP,Tom Kelly,93
+Fremont,03-4,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,03-4,Superintendent of Public Instruction,,REP,Over Votes,1
+Fremont,03-4,Superintendent of Public Instruction,,REP,Under Votes,30
+Fremont,03-4,Superintendent of Public Instruction,,DEM,Ana Cordova,16
+Fremont,03-4,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",16
+Fremont,03-4,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,03-4,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,03-4,Superintendent of Public Instruction,,DEM,Under Votes,2
+Fremont,03-4,State House,55,REP,Carl Manning,249
+Fremont,03-4,State House,55,REP,Write-ins,9
+Fremont,03-4,State House,55,REP,Over Votes,0
+Fremont,03-4,State House,55,REP,Under Votes,46
+Fremont,03-4,State House,55,DEM,Write-ins,2
+Fremont,03-4,State House,55,DEM,Over Votes,0
+Fremont,03-4,State House,55,DEM,Under Votes,32
+Fremont,03-4,Ballots Cast,,REP,Ballots Cast,304
+Fremont,03-4,Ballots Cast,,DEM,Ballots Cast,34
+Fremont,03-4,Ballots Cast,,NP,Ballots Cast,18
+Fremont,03-4,Ballots Cast,,,Ballots Cast,356
+Fremont,03-5,U.S. Senate,,REP,Harriet Hageman,277
+Fremont,03-5,U.S. Senate,,REP,Jill M Edwards,14
+Fremont,03-5,U.S. Senate,,REP,Jimmy Skovgard,11
+Fremont,03-5,U.S. Senate,,REP,John Holtz,12
+Fremont,03-5,U.S. Senate,,REP,Sam Mead,117
+Fremont,03-5,U.S. Senate,,REP,Write-ins,1
+Fremont,03-5,U.S. Senate,,REP,Over Votes,1
+Fremont,03-5,U.S. Senate,,REP,Under Votes,11
+Fremont,03-5,U.S. Senate,,DEM,Billy Benavidez,4
+Fremont,03-5,U.S. Senate,,DEM,James Byrd,36
+Fremont,03-5,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-5,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-5,U.S. Senate,,DEM,Under Votes,4
+Fremont,03-5,U.S. House,,REP,* Withdrawn Candidate,12
+Fremont,03-5,U.S. House,,REP,Bo Biteman,29
+Fremont,03-5,U.S. House,,REP,Chuck Gray,100
+Fremont,03-5,U.S. House,,REP,David Giralt,31
+Fremont,03-5,U.S. House,,REP,Jillian Balow,40
+Fremont,03-5,U.S. House,,REP,Keith B. Goodenough,7
+Fremont,03-5,U.S. House,,REP,Kevin Christensen,67
+Fremont,03-5,U.S. House,,REP,Reid Rasner,36
+Fremont,03-5,U.S. House,,REP,Richard Dodson,3
+Fremont,03-5,U.S. House,,REP,Steve Friess,84
+Fremont,03-5,U.S. House,,REP,Write-ins,2
+Fremont,03-5,U.S. House,,REP,Over Votes,17
+Fremont,03-5,U.S. House,,REP,Under Votes,16
+Fremont,03-5,U.S. House,,DEM,Elena Del Real,6
+Fremont,03-5,U.S. House,,DEM,Lisa Kinney,33
+Fremont,03-5,U.S. House,,DEM,Write-ins,0
+Fremont,03-5,U.S. House,,DEM,Over Votes,0
+Fremont,03-5,U.S. House,,DEM,Under Votes,5
+Fremont,03-5,Governor,,REP,Brent Bien,96
+Fremont,03-5,Governor,,REP,Curt Blake,7
+Fremont,03-5,Governor,,REP,Eric Barlow,186
+Fremont,03-5,Governor,,REP,Megan Degenfelder,150
+Fremont,03-5,Governor,,REP,Write-ins,0
+Fremont,03-5,Governor,,REP,Over Votes,0
+Fremont,03-5,Governor,,REP,Under Votes,5
+Fremont,03-5,Governor,,DEM,Kenneth R. Casner,35
+Fremont,03-5,Governor,,DEM,Write-ins,2
+Fremont,03-5,Governor,,DEM,Over Votes,0
+Fremont,03-5,Governor,,DEM,Under Votes,7
+Fremont,03-5,Secretary of State,,REP,CJ Young,82
+Fremont,03-5,Secretary of State,,REP,Qwenton Eagle Oviatt,19
+Fremont,03-5,Secretary of State,,REP,Rachel Williams,112
+Fremont,03-5,Secretary of State,,REP,Robert Short,181
+Fremont,03-5,Secretary of State,,REP,Write-ins,2
+Fremont,03-5,Secretary of State,,REP,Over Votes,0
+Fremont,03-5,Secretary of State,,REP,Under Votes,48
+Fremont,03-5,Secretary of State,,DEM,Bryan McCarty,35
+Fremont,03-5,Secretary of State,,DEM,Write-ins,2
+Fremont,03-5,Secretary of State,,DEM,Over Votes,0
+Fremont,03-5,Secretary of State,,DEM,Under Votes,7
+Fremont,03-5,State Auditor,,REP,Kristi Racines,373
+Fremont,03-5,State Auditor,,REP,Write-ins,5
+Fremont,03-5,State Auditor,,REP,Over Votes,0
+Fremont,03-5,State Auditor,,REP,Under Votes,66
+Fremont,03-5,State Auditor,,DEM,Write-ins,3
+Fremont,03-5,State Auditor,,DEM,Over Votes,0
+Fremont,03-5,State Auditor,,DEM,Under Votes,41
+Fremont,03-5,State Treasurer,,REP,Curt Meier,268
+Fremont,03-5,State Treasurer,,REP,Scott Smith,134
+Fremont,03-5,State Treasurer,,REP,Write-ins,1
+Fremont,03-5,State Treasurer,,REP,Over Votes,0
+Fremont,03-5,State Treasurer,,REP,Under Votes,41
+Fremont,03-5,State Treasurer,,DEM,Write-ins,3
+Fremont,03-5,State Treasurer,,DEM,Over Votes,0
+Fremont,03-5,State Treasurer,,DEM,Under Votes,41
+Fremont,03-5,Superintendent of Public Instruction,,REP,Chad Auer,60
+Fremont,03-5,Superintendent of Public Instruction,,REP,Steve Harshman,232
+Fremont,03-5,Superintendent of Public Instruction,,REP,Tom Kelly,103
+Fremont,03-5,Superintendent of Public Instruction,,REP,Write-ins,1
+Fremont,03-5,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,03-5,Superintendent of Public Instruction,,REP,Under Votes,48
+Fremont,03-5,Superintendent of Public Instruction,,DEM,Ana Cordova,19
+Fremont,03-5,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",22
+Fremont,03-5,Superintendent of Public Instruction,,DEM,Write-ins,1
+Fremont,03-5,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,03-5,Superintendent of Public Instruction,,DEM,Under Votes,2
+Fremont,03-5,State Senate,25,REP,Cale Case,4
+Fremont,03-5,State Senate,25,REP,Lisa Wilson,13
+Fremont,03-5,State Senate,25,REP,Write-ins,0
+Fremont,03-5,State Senate,25,REP,Over Votes,0
+Fremont,03-5,State Senate,25,REP,Under Votes,1
+Fremont,03-5,State Senate,25,DEM,Write-ins,0
+Fremont,03-5,State Senate,25,DEM,Over Votes,0
+Fremont,03-5,State Senate,25,DEM,Under Votes,3
+Fremont,03-5,State House,33,REP,Write-ins,2
+Fremont,03-5,State House,33,REP,Over Votes,0
+Fremont,03-5,State House,33,REP,Under Votes,16
+Fremont,03-5,State House,33,DEM,Ivan D. Posey,3
+Fremont,03-5,State House,33,DEM,Write-ins,0
+Fremont,03-5,State House,33,DEM,Over Votes,0
+Fremont,03-5,State House,33,DEM,Under Votes,0
+Fremont,03-5,State House,34,REP,Pepper L Ottman,53
+Fremont,03-5,State House,34,REP,Write-ins,2
+Fremont,03-5,State House,34,REP,Over Votes,0
+Fremont,03-5,State House,34,REP,Under Votes,9
+Fremont,03-5,State House,34,DEM,Write-ins,0
+Fremont,03-5,State House,34,DEM,Over Votes,0
+Fremont,03-5,State House,34,DEM,Under Votes,3
+Fremont,03-5,State House,55,REP,Carl Manning,286
+Fremont,03-5,State House,55,REP,Write-ins,14
+Fremont,03-5,State House,55,REP,Over Votes,0
+Fremont,03-5,State House,55,REP,Under Votes,62
+Fremont,03-5,State House,55,DEM,Write-ins,2
+Fremont,03-5,State House,55,DEM,Over Votes,0
+Fremont,03-5,State House,55,DEM,Under Votes,36
+Fremont,03-5,Ballots Cast,,REP,Ballots Cast,444
+Fremont,03-5,Ballots Cast,,DEM,Ballots Cast,44
+Fremont,03-5,Ballots Cast,,NP,Ballots Cast,27
+Fremont,03-5,Ballots Cast,,,Ballots Cast,515
+Fremont,03-6,U.S. Senate,,REP,Harriet Hageman,311
+Fremont,03-6,U.S. Senate,,REP,Jill M Edwards,15
+Fremont,03-6,U.S. Senate,,REP,Jimmy Skovgard,10
+Fremont,03-6,U.S. Senate,,REP,John Holtz,8
+Fremont,03-6,U.S. Senate,,REP,Sam Mead,173
+Fremont,03-6,U.S. Senate,,REP,Write-ins,1
+Fremont,03-6,U.S. Senate,,REP,Over Votes,0
+Fremont,03-6,U.S. Senate,,REP,Under Votes,11
+Fremont,03-6,U.S. Senate,,DEM,Billy Benavidez,8
+Fremont,03-6,U.S. Senate,,DEM,James Byrd,10
+Fremont,03-6,U.S. Senate,,DEM,Write-ins,0
+Fremont,03-6,U.S. Senate,,DEM,Over Votes,0
+Fremont,03-6,U.S. Senate,,DEM,Under Votes,5
+Fremont,03-6,U.S. House,,REP,* Withdrawn Candidate,7
+Fremont,03-6,U.S. House,,REP,Bo Biteman,19
+Fremont,03-6,U.S. House,,REP,Chuck Gray,90
+Fremont,03-6,U.S. House,,REP,David Giralt,45
+Fremont,03-6,U.S. House,,REP,Jillian Balow,52
+Fremont,03-6,U.S. House,,REP,Keith B. Goodenough,11
+Fremont,03-6,U.S. House,,REP,Kevin Christensen,90
+Fremont,03-6,U.S. House,,REP,Reid Rasner,39
+Fremont,03-6,U.S. House,,REP,Richard Dodson,7
+Fremont,03-6,U.S. House,,REP,Steve Friess,130
+Fremont,03-6,U.S. House,,REP,Write-ins,0
+Fremont,03-6,U.S. House,,REP,Over Votes,16
+Fremont,03-6,U.S. House,,REP,Under Votes,23
+Fremont,03-6,U.S. House,,DEM,Elena Del Real,6
+Fremont,03-6,U.S. House,,DEM,Lisa Kinney,12
+Fremont,03-6,U.S. House,,DEM,Write-ins,0
+Fremont,03-6,U.S. House,,DEM,Over Votes,0
+Fremont,03-6,U.S. House,,DEM,Under Votes,5
+Fremont,03-6,Governor,,REP,Brent Bien,87
+Fremont,03-6,Governor,,REP,Curt Blake,4
+Fremont,03-6,Governor,,REP,Eric Barlow,272
+Fremont,03-6,Governor,,REP,Megan Degenfelder,155
+Fremont,03-6,Governor,,REP,Write-ins,1
+Fremont,03-6,Governor,,REP,Over Votes,1
+Fremont,03-6,Governor,,REP,Under Votes,9
+Fremont,03-6,Governor,,DEM,Kenneth R. Casner,17
+Fremont,03-6,Governor,,DEM,Write-ins,2
+Fremont,03-6,Governor,,DEM,Over Votes,0
+Fremont,03-6,Governor,,DEM,Under Votes,4
+Fremont,03-6,Secretary of State,,REP,CJ Young,84
+Fremont,03-6,Secretary of State,,REP,Qwenton Eagle Oviatt,26
+Fremont,03-6,Secretary of State,,REP,Rachel Williams,131
+Fremont,03-6,Secretary of State,,REP,Robert Short,235
+Fremont,03-6,Secretary of State,,REP,Write-ins,0
+Fremont,03-6,Secretary of State,,REP,Over Votes,0
+Fremont,03-6,Secretary of State,,REP,Under Votes,53
+Fremont,03-6,Secretary of State,,DEM,Bryan McCarty,13
+Fremont,03-6,Secretary of State,,DEM,Write-ins,0
+Fremont,03-6,Secretary of State,,DEM,Over Votes,0
+Fremont,03-6,Secretary of State,,DEM,Under Votes,10
+Fremont,03-6,State Auditor,,REP,Kristi Racines,455
+Fremont,03-6,State Auditor,,REP,Write-ins,1
+Fremont,03-6,State Auditor,,REP,Over Votes,0
+Fremont,03-6,State Auditor,,REP,Under Votes,73
+Fremont,03-6,State Auditor,,DEM,Write-ins,0
+Fremont,03-6,State Auditor,,DEM,Over Votes,0
+Fremont,03-6,State Auditor,,DEM,Under Votes,23
+Fremont,03-6,State Treasurer,,REP,Curt Meier,373
+Fremont,03-6,State Treasurer,,REP,Scott Smith,106
+Fremont,03-6,State Treasurer,,REP,Write-ins,2
+Fremont,03-6,State Treasurer,,REP,Over Votes,1
+Fremont,03-6,State Treasurer,,REP,Under Votes,47
+Fremont,03-6,State Treasurer,,DEM,Write-ins,0
+Fremont,03-6,State Treasurer,,DEM,Over Votes,0
+Fremont,03-6,State Treasurer,,DEM,Under Votes,23
+Fremont,03-6,Superintendent of Public Instruction,,REP,Chad Auer,53
+Fremont,03-6,Superintendent of Public Instruction,,REP,Steve Harshman,268
+Fremont,03-6,Superintendent of Public Instruction,,REP,Tom Kelly,144
+Fremont,03-6,Superintendent of Public Instruction,,REP,Write-ins,1
+Fremont,03-6,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,03-6,Superintendent of Public Instruction,,REP,Under Votes,63
+Fremont,03-6,Superintendent of Public Instruction,,DEM,Ana Cordova,8
+Fremont,03-6,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",10
+Fremont,03-6,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,03-6,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,03-6,Superintendent of Public Instruction,,DEM,Under Votes,5
+Fremont,03-6,State House,55,REP,Carl Manning,423
+Fremont,03-6,State House,55,REP,Write-ins,15
+Fremont,03-6,State House,55,REP,Over Votes,1
+Fremont,03-6,State House,55,REP,Under Votes,90
+Fremont,03-6,State House,55,DEM,Write-ins,0
+Fremont,03-6,State House,55,DEM,Over Votes,0
+Fremont,03-6,State House,55,DEM,Under Votes,23
+Fremont,03-6,Ballots Cast,,REP,Ballots Cast,529
+Fremont,03-6,Ballots Cast,,DEM,Ballots Cast,23
+Fremont,03-6,Ballots Cast,,NP,Ballots Cast,19
+Fremont,03-6,Ballots Cast,,,Ballots Cast,571
+Fremont,04-1,U.S. Senate,,REP,Harriet Hageman,32
+Fremont,04-1,U.S. Senate,,REP,Jill M Edwards,2
+Fremont,04-1,U.S. Senate,,REP,Jimmy Skovgard,5
+Fremont,04-1,U.S. Senate,,REP,John Holtz,3
+Fremont,04-1,U.S. Senate,,REP,Sam Mead,23
+Fremont,04-1,U.S. Senate,,REP,Write-ins,1
+Fremont,04-1,U.S. Senate,,REP,Over Votes,0
+Fremont,04-1,U.S. Senate,,REP,Under Votes,1
+Fremont,04-1,U.S. Senate,,DEM,Billy Benavidez,29
+Fremont,04-1,U.S. Senate,,DEM,James Byrd,39
+Fremont,04-1,U.S. Senate,,DEM,Write-ins,1
+Fremont,04-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,04-1,U.S. Senate,,DEM,Under Votes,6
+Fremont,04-1,U.S. House,,REP,* Withdrawn Candidate,5
+Fremont,04-1,U.S. House,,REP,Bo Biteman,4
+Fremont,04-1,U.S. House,,REP,Chuck Gray,10
+Fremont,04-1,U.S. House,,REP,David Giralt,1
+Fremont,04-1,U.S. House,,REP,Jillian Balow,3
+Fremont,04-1,U.S. House,,REP,Keith B. Goodenough,4
+Fremont,04-1,U.S. House,,REP,Kevin Christensen,9
+Fremont,04-1,U.S. House,,REP,Reid Rasner,5
+Fremont,04-1,U.S. House,,REP,Richard Dodson,3
+Fremont,04-1,U.S. House,,REP,Steve Friess,23
+Fremont,04-1,U.S. House,,REP,Write-ins,0
+Fremont,04-1,U.S. House,,REP,Over Votes,0
+Fremont,04-1,U.S. House,,REP,Under Votes,0
+Fremont,04-1,U.S. House,,DEM,Elena Del Real,34
+Fremont,04-1,U.S. House,,DEM,Lisa Kinney,35
+Fremont,04-1,U.S. House,,DEM,Write-ins,1
+Fremont,04-1,U.S. House,,DEM,Over Votes,0
+Fremont,04-1,U.S. House,,DEM,Under Votes,5
+Fremont,04-1,Governor,,REP,Brent Bien,18
+Fremont,04-1,Governor,,REP,Curt Blake,4
+Fremont,04-1,Governor,,REP,Eric Barlow,28
+Fremont,04-1,Governor,,REP,Megan Degenfelder,17
+Fremont,04-1,Governor,,REP,Write-ins,0
+Fremont,04-1,Governor,,REP,Over Votes,0
+Fremont,04-1,Governor,,REP,Under Votes,0
+Fremont,04-1,Governor,,DEM,Kenneth R. Casner,58
+Fremont,04-1,Governor,,DEM,Write-ins,5
+Fremont,04-1,Governor,,DEM,Over Votes,0
+Fremont,04-1,Governor,,DEM,Under Votes,12
+Fremont,04-1,Secretary of State,,REP,CJ Young,11
+Fremont,04-1,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Fremont,04-1,Secretary of State,,REP,Rachel Williams,19
+Fremont,04-1,Secretary of State,,REP,Robert Short,21
+Fremont,04-1,Secretary of State,,REP,Write-ins,0
+Fremont,04-1,Secretary of State,,REP,Over Votes,0
+Fremont,04-1,Secretary of State,,REP,Under Votes,10
+Fremont,04-1,Secretary of State,,DEM,Bryan McCarty,61
+Fremont,04-1,Secretary of State,,DEM,Write-ins,1
+Fremont,04-1,Secretary of State,,DEM,Over Votes,0
+Fremont,04-1,Secretary of State,,DEM,Under Votes,13
+Fremont,04-1,State Auditor,,REP,Kristi Racines,53
+Fremont,04-1,State Auditor,,REP,Write-ins,1
+Fremont,04-1,State Auditor,,REP,Over Votes,0
+Fremont,04-1,State Auditor,,REP,Under Votes,13
+Fremont,04-1,State Auditor,,DEM,Write-ins,2
+Fremont,04-1,State Auditor,,DEM,Over Votes,0
+Fremont,04-1,State Auditor,,DEM,Under Votes,73
+Fremont,04-1,State Treasurer,,REP,Curt Meier,41
+Fremont,04-1,State Treasurer,,REP,Scott Smith,20
+Fremont,04-1,State Treasurer,,REP,Write-ins,0
+Fremont,04-1,State Treasurer,,REP,Over Votes,0
+Fremont,04-1,State Treasurer,,REP,Under Votes,6
+Fremont,04-1,State Treasurer,,DEM,Write-ins,4
+Fremont,04-1,State Treasurer,,DEM,Over Votes,0
+Fremont,04-1,State Treasurer,,DEM,Under Votes,71
+Fremont,04-1,Superintendent of Public Instruction,,REP,Chad Auer,10
+Fremont,04-1,Superintendent of Public Instruction,,REP,Steve Harshman,20
+Fremont,04-1,Superintendent of Public Instruction,,REP,Tom Kelly,24
+Fremont,04-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,04-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,04-1,Superintendent of Public Instruction,,REP,Under Votes,11
+Fremont,04-1,Superintendent of Public Instruction,,DEM,Ana Cordova,14
+Fremont,04-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",60
+Fremont,04-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,04-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,04-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Fremont,04-1,State Senate,25,REP,Cale Case,41
+Fremont,04-1,State Senate,25,REP,Lisa Wilson,23
+Fremont,04-1,State Senate,25,REP,Write-ins,1
+Fremont,04-1,State Senate,25,REP,Over Votes,0
+Fremont,04-1,State Senate,25,REP,Under Votes,2
+Fremont,04-1,State Senate,25,DEM,Write-ins,4
+Fremont,04-1,State Senate,25,DEM,Over Votes,0
+Fremont,04-1,State Senate,25,DEM,Under Votes,71
+Fremont,04-1,State House,33,REP,Write-ins,10
+Fremont,04-1,State House,33,REP,Over Votes,0
+Fremont,04-1,State House,33,REP,Under Votes,57
+Fremont,04-1,State House,33,DEM,Ivan D. Posey,71
+Fremont,04-1,State House,33,DEM,Write-ins,0
+Fremont,04-1,State House,33,DEM,Over Votes,0
+Fremont,04-1,State House,33,DEM,Under Votes,4
+Fremont,04-1,Ballots Cast,,REP,Ballots Cast,67
+Fremont,04-1,Ballots Cast,,DEM,Ballots Cast,75
+Fremont,04-1,Ballots Cast,,NP,Ballots Cast,10
+Fremont,04-1,Ballots Cast,,,Ballots Cast,152
+Fremont,05-1,U.S. Senate,,REP,Harriet Hageman,537
+Fremont,05-1,U.S. Senate,,REP,Jill M Edwards,18
+Fremont,05-1,U.S. Senate,,REP,Jimmy Skovgard,17
+Fremont,05-1,U.S. Senate,,REP,John Holtz,19
+Fremont,05-1,U.S. Senate,,REP,Sam Mead,445
+Fremont,05-1,U.S. Senate,,REP,Write-ins,1
+Fremont,05-1,U.S. Senate,,REP,Over Votes,0
+Fremont,05-1,U.S. Senate,,REP,Under Votes,17
+Fremont,05-1,U.S. Senate,,DEM,Billy Benavidez,12
+Fremont,05-1,U.S. Senate,,DEM,James Byrd,35
+Fremont,05-1,U.S. Senate,,DEM,Write-ins,3
+Fremont,05-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,05-1,U.S. Senate,,DEM,Under Votes,9
+Fremont,05-1,U.S. House,,REP,* Withdrawn Candidate,19
+Fremont,05-1,U.S. House,,REP,Bo Biteman,31
+Fremont,05-1,U.S. House,,REP,Chuck Gray,177
+Fremont,05-1,U.S. House,,REP,David Giralt,89
+Fremont,05-1,U.S. House,,REP,Jillian Balow,117
+Fremont,05-1,U.S. House,,REP,Keith B. Goodenough,22
+Fremont,05-1,U.S. House,,REP,Kevin Christensen,264
+Fremont,05-1,U.S. House,,REP,Reid Rasner,62
+Fremont,05-1,U.S. House,,REP,Richard Dodson,23
+Fremont,05-1,U.S. House,,REP,Steve Friess,193
+Fremont,05-1,U.S. House,,REP,Write-ins,1
+Fremont,05-1,U.S. House,,REP,Over Votes,14
+Fremont,05-1,U.S. House,,REP,Under Votes,42
+Fremont,05-1,U.S. House,,DEM,Elena Del Real,11
+Fremont,05-1,U.S. House,,DEM,Lisa Kinney,35
+Fremont,05-1,U.S. House,,DEM,Write-ins,3
+Fremont,05-1,U.S. House,,DEM,Over Votes,1
+Fremont,05-1,U.S. House,,DEM,Under Votes,9
+Fremont,05-1,Governor,,REP,Brent Bien,219
+Fremont,05-1,Governor,,REP,Curt Blake,11
+Fremont,05-1,Governor,,REP,Eric Barlow,586
+Fremont,05-1,Governor,,REP,Megan Degenfelder,228
+Fremont,05-1,Governor,,REP,Write-ins,0
+Fremont,05-1,Governor,,REP,Over Votes,0
+Fremont,05-1,Governor,,REP,Under Votes,10
+Fremont,05-1,Governor,,DEM,Kenneth R. Casner,38
+Fremont,05-1,Governor,,DEM,Write-ins,5
+Fremont,05-1,Governor,,DEM,Over Votes,0
+Fremont,05-1,Governor,,DEM,Under Votes,16
+Fremont,05-1,Secretary of State,,REP,CJ Young,107
+Fremont,05-1,Secretary of State,,REP,Qwenton Eagle Oviatt,74
+Fremont,05-1,Secretary of State,,REP,Rachel Williams,220
+Fremont,05-1,Secretary of State,,REP,Robert Short,552
+Fremont,05-1,Secretary of State,,REP,Write-ins,3
+Fremont,05-1,Secretary of State,,REP,Over Votes,0
+Fremont,05-1,Secretary of State,,REP,Under Votes,98
+Fremont,05-1,Secretary of State,,DEM,Bryan McCarty,47
+Fremont,05-1,Secretary of State,,DEM,Write-ins,1
+Fremont,05-1,Secretary of State,,DEM,Over Votes,0
+Fremont,05-1,Secretary of State,,DEM,Under Votes,11
+Fremont,05-1,State Auditor,,REP,Kristi Racines,815
+Fremont,05-1,State Auditor,,REP,Write-ins,2
+Fremont,05-1,State Auditor,,REP,Over Votes,0
+Fremont,05-1,State Auditor,,REP,Under Votes,237
+Fremont,05-1,State Auditor,,DEM,Write-ins,2
+Fremont,05-1,State Auditor,,DEM,Over Votes,0
+Fremont,05-1,State Auditor,,DEM,Under Votes,57
+Fremont,05-1,State Treasurer,,REP,Curt Meier,669
+Fremont,05-1,State Treasurer,,REP,Scott Smith,260
+Fremont,05-1,State Treasurer,,REP,Write-ins,2
+Fremont,05-1,State Treasurer,,REP,Over Votes,0
+Fremont,05-1,State Treasurer,,REP,Under Votes,123
+Fremont,05-1,State Treasurer,,DEM,Write-ins,3
+Fremont,05-1,State Treasurer,,DEM,Over Votes,0
+Fremont,05-1,State Treasurer,,DEM,Under Votes,56
+Fremont,05-1,Superintendent of Public Instruction,,REP,Chad Auer,87
+Fremont,05-1,Superintendent of Public Instruction,,REP,Steve Harshman,610
+Fremont,05-1,Superintendent of Public Instruction,,REP,Tom Kelly,243
+Fremont,05-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,05-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,05-1,Superintendent of Public Instruction,,REP,Under Votes,112
+Fremont,05-1,Superintendent of Public Instruction,,DEM,Ana Cordova,18
+Fremont,05-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",28
+Fremont,05-1,Superintendent of Public Instruction,,DEM,Write-ins,2
+Fremont,05-1,Superintendent of Public Instruction,,DEM,Over Votes,1
+Fremont,05-1,Superintendent of Public Instruction,,DEM,Under Votes,10
+Fremont,05-1,State Senate,25,REP,Cale Case,627
+Fremont,05-1,State Senate,25,REP,Lisa Wilson,364
+Fremont,05-1,State Senate,25,REP,Write-ins,3
+Fremont,05-1,State Senate,25,REP,Over Votes,0
+Fremont,05-1,State Senate,25,REP,Under Votes,16
+Fremont,05-1,State Senate,25,DEM,Write-ins,6
+Fremont,05-1,State Senate,25,DEM,Over Votes,0
+Fremont,05-1,State Senate,25,DEM,Under Votes,53
+Fremont,05-1,State House,33,REP,Write-ins,0
+Fremont,05-1,State House,33,REP,Over Votes,0
+Fremont,05-1,State House,33,REP,Under Votes,8
+Fremont,05-1,State House,33,DEM,Ivan D. Posey,0
+Fremont,05-1,State House,33,DEM,Write-ins,0
+Fremont,05-1,State House,33,DEM,Over Votes,0
+Fremont,05-1,State House,33,DEM,Under Votes,0
+Fremont,05-1,State House,34,REP,Pepper L Ottman,25
+Fremont,05-1,State House,34,REP,Write-ins,10
+Fremont,05-1,State House,34,REP,Over Votes,0
+Fremont,05-1,State House,34,REP,Under Votes,9
+Fremont,05-1,State House,34,DEM,Write-ins,0
+Fremont,05-1,State House,34,DEM,Over Votes,0
+Fremont,05-1,State House,34,DEM,Under Votes,0
+Fremont,05-1,State House,54,REP,Jeff Martin,352
+Fremont,05-1,State House,54,REP,Lloyd Charles Larsen,626
+Fremont,05-1,State House,54,REP,Write-ins,1
+Fremont,05-1,State House,54,REP,Over Votes,0
+Fremont,05-1,State House,54,REP,Under Votes,23
+Fremont,05-1,State House,54,DEM,Write-ins,5
+Fremont,05-1,State House,54,DEM,Over Votes,0
+Fremont,05-1,State House,54,DEM,Under Votes,54
+Fremont,05-1,Ballots Cast,,REP,Ballots Cast,1054
+Fremont,05-1,Ballots Cast,,DEM,Ballots Cast,59
+Fremont,05-1,Ballots Cast,,NP,Ballots Cast,38
+Fremont,05-1,Ballots Cast,,,Ballots Cast,1151
+Fremont,06-1,U.S. Senate,,REP,Harriet Hageman,180
+Fremont,06-1,U.S. Senate,,REP,Jill M Edwards,3
+Fremont,06-1,U.S. Senate,,REP,Jimmy Skovgard,4
+Fremont,06-1,U.S. Senate,,REP,John Holtz,5
+Fremont,06-1,U.S. Senate,,REP,Sam Mead,132
+Fremont,06-1,U.S. Senate,,REP,Write-ins,0
+Fremont,06-1,U.S. Senate,,REP,Over Votes,0
+Fremont,06-1,U.S. Senate,,REP,Under Votes,4
+Fremont,06-1,U.S. Senate,,DEM,Billy Benavidez,4
+Fremont,06-1,U.S. Senate,,DEM,James Byrd,11
+Fremont,06-1,U.S. Senate,,DEM,Write-ins,1
+Fremont,06-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,06-1,U.S. Senate,,DEM,Under Votes,2
+Fremont,06-1,U.S. House,,REP,* Withdrawn Candidate,9
+Fremont,06-1,U.S. House,,REP,Bo Biteman,10
+Fremont,06-1,U.S. House,,REP,Chuck Gray,55
+Fremont,06-1,U.S. House,,REP,David Giralt,28
+Fremont,06-1,U.S. House,,REP,Jillian Balow,31
+Fremont,06-1,U.S. House,,REP,Keith B. Goodenough,6
+Fremont,06-1,U.S. House,,REP,Kevin Christensen,66
+Fremont,06-1,U.S. House,,REP,Reid Rasner,24
+Fremont,06-1,U.S. House,,REP,Richard Dodson,0
+Fremont,06-1,U.S. House,,REP,Steve Friess,77
+Fremont,06-1,U.S. House,,REP,Write-ins,0
+Fremont,06-1,U.S. House,,REP,Over Votes,2
+Fremont,06-1,U.S. House,,REP,Under Votes,20
+Fremont,06-1,U.S. House,,DEM,Elena Del Real,7
+Fremont,06-1,U.S. House,,DEM,Lisa Kinney,11
+Fremont,06-1,U.S. House,,DEM,Write-ins,0
+Fremont,06-1,U.S. House,,DEM,Over Votes,0
+Fremont,06-1,U.S. House,,DEM,Under Votes,0
+Fremont,06-1,Governor,,REP,Brent Bien,61
+Fremont,06-1,Governor,,REP,Curt Blake,3
+Fremont,06-1,Governor,,REP,Eric Barlow,162
+Fremont,06-1,Governor,,REP,Megan Degenfelder,96
+Fremont,06-1,Governor,,REP,Write-ins,0
+Fremont,06-1,Governor,,REP,Over Votes,0
+Fremont,06-1,Governor,,REP,Under Votes,6
+Fremont,06-1,Governor,,DEM,Kenneth R. Casner,13
+Fremont,06-1,Governor,,DEM,Write-ins,2
+Fremont,06-1,Governor,,DEM,Over Votes,0
+Fremont,06-1,Governor,,DEM,Under Votes,3
+Fremont,06-1,Secretary of State,,REP,CJ Young,33
+Fremont,06-1,Secretary of State,,REP,Qwenton Eagle Oviatt,31
+Fremont,06-1,Secretary of State,,REP,Rachel Williams,87
+Fremont,06-1,Secretary of State,,REP,Robert Short,136
+Fremont,06-1,Secretary of State,,REP,Write-ins,2
+Fremont,06-1,Secretary of State,,REP,Over Votes,0
+Fremont,06-1,Secretary of State,,REP,Under Votes,39
+Fremont,06-1,Secretary of State,,DEM,Bryan McCarty,12
+Fremont,06-1,Secretary of State,,DEM,Write-ins,1
+Fremont,06-1,Secretary of State,,DEM,Over Votes,0
+Fremont,06-1,Secretary of State,,DEM,Under Votes,5
+Fremont,06-1,State Auditor,,REP,Kristi Racines,242
+Fremont,06-1,State Auditor,,REP,Write-ins,3
+Fremont,06-1,State Auditor,,REP,Over Votes,0
+Fremont,06-1,State Auditor,,REP,Under Votes,83
+Fremont,06-1,State Auditor,,DEM,Write-ins,2
+Fremont,06-1,State Auditor,,DEM,Over Votes,0
+Fremont,06-1,State Auditor,,DEM,Under Votes,16
+Fremont,06-1,State Treasurer,,REP,Curt Meier,182
+Fremont,06-1,State Treasurer,,REP,Scott Smith,96
+Fremont,06-1,State Treasurer,,REP,Write-ins,2
+Fremont,06-1,State Treasurer,,REP,Over Votes,0
+Fremont,06-1,State Treasurer,,REP,Under Votes,48
+Fremont,06-1,State Treasurer,,DEM,Write-ins,2
+Fremont,06-1,State Treasurer,,DEM,Over Votes,0
+Fremont,06-1,State Treasurer,,DEM,Under Votes,16
+Fremont,06-1,Superintendent of Public Instruction,,REP,Chad Auer,30
+Fremont,06-1,Superintendent of Public Instruction,,REP,Steve Harshman,185
+Fremont,06-1,Superintendent of Public Instruction,,REP,Tom Kelly,78
+Fremont,06-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,06-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,06-1,Superintendent of Public Instruction,,REP,Under Votes,33
+Fremont,06-1,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Fremont,06-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",9
+Fremont,06-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Fremont,06-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,06-1,Superintendent of Public Instruction,,DEM,Under Votes,2
+Fremont,06-1,State Senate,25,REP,Cale Case,200
+Fremont,06-1,State Senate,25,REP,Lisa Wilson,121
+Fremont,06-1,State Senate,25,REP,Write-ins,1
+Fremont,06-1,State Senate,25,REP,Over Votes,0
+Fremont,06-1,State Senate,25,REP,Under Votes,6
+Fremont,06-1,State Senate,25,DEM,Write-ins,2
+Fremont,06-1,State Senate,25,DEM,Over Votes,0
+Fremont,06-1,State Senate,25,DEM,Under Votes,16
+Fremont,06-1,State House,33,REP,Write-ins,41
+Fremont,06-1,State House,33,REP,Over Votes,0
+Fremont,06-1,State House,33,REP,Under Votes,233
+Fremont,06-1,State House,33,DEM,Ivan D. Posey,13
+Fremont,06-1,State House,33,DEM,Write-ins,0
+Fremont,06-1,State House,33,DEM,Over Votes,0
+Fremont,06-1,State House,33,DEM,Under Votes,2
+Fremont,06-1,State House,54,REP,Jeff Martin,15
+Fremont,06-1,State House,54,REP,Lloyd Charles Larsen,38
+Fremont,06-1,State House,54,REP,Write-ins,0
+Fremont,06-1,State House,54,REP,Over Votes,0
+Fremont,06-1,State House,54,REP,Under Votes,1
+Fremont,06-1,State House,54,DEM,Write-ins,0
+Fremont,06-1,State House,54,DEM,Over Votes,0
+Fremont,06-1,State House,54,DEM,Under Votes,3
+Fremont,06-1,Ballots Cast,,REP,Ballots Cast,328
+Fremont,06-1,Ballots Cast,,DEM,Ballots Cast,18
+Fremont,06-1,Ballots Cast,,NP,Ballots Cast,9
+Fremont,06-1,Ballots Cast,,,Ballots Cast,355
+Fremont,07-1,U.S. Senate,,REP,Harriet Hageman,439
+Fremont,07-1,U.S. Senate,,REP,Jill M Edwards,12
+Fremont,07-1,U.S. Senate,,REP,Jimmy Skovgard,7
+Fremont,07-1,U.S. Senate,,REP,John Holtz,7
+Fremont,07-1,U.S. Senate,,REP,Sam Mead,164
+Fremont,07-1,U.S. Senate,,REP,Write-ins,1
+Fremont,07-1,U.S. Senate,,REP,Over Votes,0
+Fremont,07-1,U.S. Senate,,REP,Under Votes,12
+Fremont,07-1,U.S. Senate,,DEM,Billy Benavidez,3
+Fremont,07-1,U.S. Senate,,DEM,James Byrd,29
+Fremont,07-1,U.S. Senate,,DEM,Write-ins,1
+Fremont,07-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,07-1,U.S. Senate,,DEM,Under Votes,4
+Fremont,07-1,U.S. House,,REP,* Withdrawn Candidate,8
+Fremont,07-1,U.S. House,,REP,Bo Biteman,37
+Fremont,07-1,U.S. House,,REP,Chuck Gray,100
+Fremont,07-1,U.S. House,,REP,David Giralt,50
+Fremont,07-1,U.S. House,,REP,Jillian Balow,44
+Fremont,07-1,U.S. House,,REP,Keith B. Goodenough,20
+Fremont,07-1,U.S. House,,REP,Kevin Christensen,97
+Fremont,07-1,U.S. House,,REP,Reid Rasner,80
+Fremont,07-1,U.S. House,,REP,Richard Dodson,7
+Fremont,07-1,U.S. House,,REP,Steve Friess,149
+Fremont,07-1,U.S. House,,REP,Write-ins,0
+Fremont,07-1,U.S. House,,REP,Over Votes,9
+Fremont,07-1,U.S. House,,REP,Under Votes,41
+Fremont,07-1,U.S. House,,DEM,Elena Del Real,11
+Fremont,07-1,U.S. House,,DEM,Lisa Kinney,22
+Fremont,07-1,U.S. House,,DEM,Write-ins,1
+Fremont,07-1,U.S. House,,DEM,Over Votes,0
+Fremont,07-1,U.S. House,,DEM,Under Votes,3
+Fremont,07-1,Governor,,REP,Brent Bien,169
+Fremont,07-1,Governor,,REP,Curt Blake,7
+Fremont,07-1,Governor,,REP,Eric Barlow,211
+Fremont,07-1,Governor,,REP,Megan Degenfelder,243
+Fremont,07-1,Governor,,REP,Write-ins,0
+Fremont,07-1,Governor,,REP,Over Votes,1
+Fremont,07-1,Governor,,REP,Under Votes,11
+Fremont,07-1,Governor,,DEM,Kenneth R. Casner,25
+Fremont,07-1,Governor,,DEM,Write-ins,2
+Fremont,07-1,Governor,,DEM,Over Votes,0
+Fremont,07-1,Governor,,DEM,Under Votes,10
+Fremont,07-1,Secretary of State,,REP,CJ Young,77
+Fremont,07-1,Secretary of State,,REP,Qwenton Eagle Oviatt,45
+Fremont,07-1,Secretary of State,,REP,Rachel Williams,159
+Fremont,07-1,Secretary of State,,REP,Robert Short,240
+Fremont,07-1,Secretary of State,,REP,Write-ins,0
+Fremont,07-1,Secretary of State,,REP,Over Votes,0
+Fremont,07-1,Secretary of State,,REP,Under Votes,121
+Fremont,07-1,Secretary of State,,DEM,Bryan McCarty,25
+Fremont,07-1,Secretary of State,,DEM,Write-ins,1
+Fremont,07-1,Secretary of State,,DEM,Over Votes,0
+Fremont,07-1,Secretary of State,,DEM,Under Votes,11
+Fremont,07-1,State Auditor,,REP,Kristi Racines,483
+Fremont,07-1,State Auditor,,REP,Write-ins,3
+Fremont,07-1,State Auditor,,REP,Over Votes,0
+Fremont,07-1,State Auditor,,REP,Under Votes,156
+Fremont,07-1,State Auditor,,DEM,Write-ins,0
+Fremont,07-1,State Auditor,,DEM,Over Votes,0
+Fremont,07-1,State Auditor,,DEM,Under Votes,37
+Fremont,07-1,State Treasurer,,REP,Curt Meier,324
+Fremont,07-1,State Treasurer,,REP,Scott Smith,186
+Fremont,07-1,State Treasurer,,REP,Write-ins,0
+Fremont,07-1,State Treasurer,,REP,Over Votes,0
+Fremont,07-1,State Treasurer,,REP,Under Votes,132
+Fremont,07-1,State Treasurer,,DEM,Write-ins,1
+Fremont,07-1,State Treasurer,,DEM,Over Votes,0
+Fremont,07-1,State Treasurer,,DEM,Under Votes,36
+Fremont,07-1,Superintendent of Public Instruction,,REP,Chad Auer,48
+Fremont,07-1,Superintendent of Public Instruction,,REP,Steve Harshman,262
+Fremont,07-1,Superintendent of Public Instruction,,REP,Tom Kelly,189
+Fremont,07-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Fremont,07-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,07-1,Superintendent of Public Instruction,,REP,Under Votes,142
+Fremont,07-1,Superintendent of Public Instruction,,DEM,Ana Cordova,20
+Fremont,07-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",10
+Fremont,07-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,07-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,07-1,Superintendent of Public Instruction,,DEM,Under Votes,7
+Fremont,07-1,State House,34,REP,Pepper L Ottman,449
+Fremont,07-1,State House,34,REP,Write-ins,23
+Fremont,07-1,State House,34,REP,Over Votes,0
+Fremont,07-1,State House,34,REP,Under Votes,170
+Fremont,07-1,State House,34,DEM,Write-ins,1
+Fremont,07-1,State House,34,DEM,Over Votes,0
+Fremont,07-1,State House,34,DEM,Under Votes,36
+Fremont,07-1,Ballots Cast,,REP,Ballots Cast,642
+Fremont,07-1,Ballots Cast,,DEM,Ballots Cast,37
+Fremont,07-1,Ballots Cast,,NP,Ballots Cast,28
+Fremont,07-1,Ballots Cast,,,Ballots Cast,707
+Fremont,08-1,U.S. Senate,,REP,Harriet Hageman,69
+Fremont,08-1,U.S. Senate,,REP,Jill M Edwards,3
+Fremont,08-1,U.S. Senate,,REP,Jimmy Skovgard,3
+Fremont,08-1,U.S. Senate,,REP,John Holtz,2
+Fremont,08-1,U.S. Senate,,REP,Sam Mead,27
+Fremont,08-1,U.S. Senate,,REP,Write-ins,1
+Fremont,08-1,U.S. Senate,,REP,Over Votes,0
+Fremont,08-1,U.S. Senate,,REP,Under Votes,0
+Fremont,08-1,U.S. Senate,,DEM,Billy Benavidez,11
+Fremont,08-1,U.S. Senate,,DEM,James Byrd,27
+Fremont,08-1,U.S. Senate,,DEM,Write-ins,2
+Fremont,08-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,08-1,U.S. Senate,,DEM,Under Votes,8
+Fremont,08-1,U.S. House,,REP,* Withdrawn Candidate,3
+Fremont,08-1,U.S. House,,REP,Bo Biteman,2
+Fremont,08-1,U.S. House,,REP,Chuck Gray,20
+Fremont,08-1,U.S. House,,REP,David Giralt,8
+Fremont,08-1,U.S. House,,REP,Jillian Balow,13
+Fremont,08-1,U.S. House,,REP,Keith B. Goodenough,2
+Fremont,08-1,U.S. House,,REP,Kevin Christensen,14
+Fremont,08-1,U.S. House,,REP,Reid Rasner,18
+Fremont,08-1,U.S. House,,REP,Richard Dodson,1
+Fremont,08-1,U.S. House,,REP,Steve Friess,20
+Fremont,08-1,U.S. House,,REP,Write-ins,1
+Fremont,08-1,U.S. House,,REP,Over Votes,1
+Fremont,08-1,U.S. House,,REP,Under Votes,2
+Fremont,08-1,U.S. House,,DEM,Elena Del Real,14
+Fremont,08-1,U.S. House,,DEM,Lisa Kinney,25
+Fremont,08-1,U.S. House,,DEM,Write-ins,1
+Fremont,08-1,U.S. House,,DEM,Over Votes,0
+Fremont,08-1,U.S. House,,DEM,Under Votes,8
+Fremont,08-1,Governor,,REP,Brent Bien,22
+Fremont,08-1,Governor,,REP,Curt Blake,2
+Fremont,08-1,Governor,,REP,Eric Barlow,42
+Fremont,08-1,Governor,,REP,Megan Degenfelder,39
+Fremont,08-1,Governor,,REP,Write-ins,0
+Fremont,08-1,Governor,,REP,Over Votes,0
+Fremont,08-1,Governor,,REP,Under Votes,0
+Fremont,08-1,Governor,,DEM,Kenneth R. Casner,24
+Fremont,08-1,Governor,,DEM,Write-ins,5
+Fremont,08-1,Governor,,DEM,Over Votes,0
+Fremont,08-1,Governor,,DEM,Under Votes,19
+Fremont,08-1,Secretary of State,,REP,CJ Young,13
+Fremont,08-1,Secretary of State,,REP,Qwenton Eagle Oviatt,9
+Fremont,08-1,Secretary of State,,REP,Rachel Williams,40
+Fremont,08-1,Secretary of State,,REP,Robert Short,29
+Fremont,08-1,Secretary of State,,REP,Write-ins,1
+Fremont,08-1,Secretary of State,,REP,Over Votes,0
+Fremont,08-1,Secretary of State,,REP,Under Votes,13
+Fremont,08-1,Secretary of State,,DEM,Bryan McCarty,31
+Fremont,08-1,Secretary of State,,DEM,Write-ins,2
+Fremont,08-1,Secretary of State,,DEM,Over Votes,0
+Fremont,08-1,Secretary of State,,DEM,Under Votes,15
+Fremont,08-1,State Auditor,,REP,Kristi Racines,83
+Fremont,08-1,State Auditor,,REP,Write-ins,2
+Fremont,08-1,State Auditor,,REP,Over Votes,0
+Fremont,08-1,State Auditor,,REP,Under Votes,20
+Fremont,08-1,State Auditor,,DEM,Write-ins,1
+Fremont,08-1,State Auditor,,DEM,Over Votes,0
+Fremont,08-1,State Auditor,,DEM,Under Votes,47
+Fremont,08-1,State Treasurer,,REP,Curt Meier,50
+Fremont,08-1,State Treasurer,,REP,Scott Smith,41
+Fremont,08-1,State Treasurer,,REP,Write-ins,1
+Fremont,08-1,State Treasurer,,REP,Over Votes,0
+Fremont,08-1,State Treasurer,,REP,Under Votes,13
+Fremont,08-1,State Treasurer,,DEM,Write-ins,1
+Fremont,08-1,State Treasurer,,DEM,Over Votes,0
+Fremont,08-1,State Treasurer,,DEM,Under Votes,47
+Fremont,08-1,Superintendent of Public Instruction,,REP,Chad Auer,15
+Fremont,08-1,Superintendent of Public Instruction,,REP,Steve Harshman,41
+Fremont,08-1,Superintendent of Public Instruction,,REP,Tom Kelly,36
+Fremont,08-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,08-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,08-1,Superintendent of Public Instruction,,REP,Under Votes,11
+Fremont,08-1,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Fremont,08-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",40
+Fremont,08-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,08-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,08-1,Superintendent of Public Instruction,,DEM,Under Votes,2
+Fremont,08-1,State Senate,25,REP,Cale Case,50
+Fremont,08-1,State Senate,25,REP,Lisa Wilson,45
+Fremont,08-1,State Senate,25,REP,Write-ins,1
+Fremont,08-1,State Senate,25,REP,Over Votes,0
+Fremont,08-1,State Senate,25,REP,Under Votes,9
+Fremont,08-1,State Senate,25,DEM,Write-ins,0
+Fremont,08-1,State Senate,25,DEM,Over Votes,0
+Fremont,08-1,State Senate,25,DEM,Under Votes,48
+Fremont,08-1,State House,33,REP,Write-ins,12
+Fremont,08-1,State House,33,REP,Over Votes,0
+Fremont,08-1,State House,33,REP,Under Votes,93
+Fremont,08-1,State House,33,DEM,Ivan D. Posey,46
+Fremont,08-1,State House,33,DEM,Write-ins,0
+Fremont,08-1,State House,33,DEM,Over Votes,0
+Fremont,08-1,State House,33,DEM,Under Votes,2
+Fremont,08-1,Ballots Cast,,REP,Ballots Cast,105
+Fremont,08-1,Ballots Cast,,DEM,Ballots Cast,48
+Fremont,08-1,Ballots Cast,,NP,Ballots Cast,13
+Fremont,08-1,Ballots Cast,,,Ballots Cast,166
+Fremont,09-1,U.S. Senate,,REP,Harriet Hageman,188
+Fremont,09-1,U.S. Senate,,REP,Jill M Edwards,1
+Fremont,09-1,U.S. Senate,,REP,Jimmy Skovgard,2
+Fremont,09-1,U.S. Senate,,REP,John Holtz,5
+Fremont,09-1,U.S. Senate,,REP,Sam Mead,56
+Fremont,09-1,U.S. Senate,,REP,Write-ins,2
+Fremont,09-1,U.S. Senate,,REP,Over Votes,0
+Fremont,09-1,U.S. Senate,,REP,Under Votes,7
+Fremont,09-1,U.S. Senate,,DEM,Billy Benavidez,0
+Fremont,09-1,U.S. Senate,,DEM,James Byrd,2
+Fremont,09-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,09-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,09-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,09-1,U.S. House,,REP,* Withdrawn Candidate,4
+Fremont,09-1,U.S. House,,REP,Bo Biteman,9
+Fremont,09-1,U.S. House,,REP,Chuck Gray,55
+Fremont,09-1,U.S. House,,REP,David Giralt,19
+Fremont,09-1,U.S. House,,REP,Jillian Balow,20
+Fremont,09-1,U.S. House,,REP,Keith B. Goodenough,5
+Fremont,09-1,U.S. House,,REP,Kevin Christensen,37
+Fremont,09-1,U.S. House,,REP,Reid Rasner,31
+Fremont,09-1,U.S. House,,REP,Richard Dodson,2
+Fremont,09-1,U.S. House,,REP,Steve Friess,63
+Fremont,09-1,U.S. House,,REP,Write-ins,1
+Fremont,09-1,U.S. House,,REP,Over Votes,6
+Fremont,09-1,U.S. House,,REP,Under Votes,9
+Fremont,09-1,U.S. House,,DEM,Elena Del Real,0
+Fremont,09-1,U.S. House,,DEM,Lisa Kinney,2
+Fremont,09-1,U.S. House,,DEM,Write-ins,0
+Fremont,09-1,U.S. House,,DEM,Over Votes,0
+Fremont,09-1,U.S. House,,DEM,Under Votes,0
+Fremont,09-1,Governor,,REP,Brent Bien,69
+Fremont,09-1,Governor,,REP,Curt Blake,3
+Fremont,09-1,Governor,,REP,Eric Barlow,121
+Fremont,09-1,Governor,,REP,Megan Degenfelder,66
+Fremont,09-1,Governor,,REP,Write-ins,0
+Fremont,09-1,Governor,,REP,Over Votes,0
+Fremont,09-1,Governor,,REP,Under Votes,2
+Fremont,09-1,Governor,,DEM,Kenneth R. Casner,2
+Fremont,09-1,Governor,,DEM,Write-ins,0
+Fremont,09-1,Governor,,DEM,Over Votes,0
+Fremont,09-1,Governor,,DEM,Under Votes,0
+Fremont,09-1,Secretary of State,,REP,CJ Young,33
+Fremont,09-1,Secretary of State,,REP,Qwenton Eagle Oviatt,9
+Fremont,09-1,Secretary of State,,REP,Rachel Williams,57
+Fremont,09-1,Secretary of State,,REP,Robert Short,132
+Fremont,09-1,Secretary of State,,REP,Write-ins,0
+Fremont,09-1,Secretary of State,,REP,Over Votes,0
+Fremont,09-1,Secretary of State,,REP,Under Votes,30
+Fremont,09-1,Secretary of State,,DEM,Bryan McCarty,2
+Fremont,09-1,Secretary of State,,DEM,Write-ins,0
+Fremont,09-1,Secretary of State,,DEM,Over Votes,0
+Fremont,09-1,Secretary of State,,DEM,Under Votes,0
+Fremont,09-1,State Auditor,,REP,Kristi Racines,221
+Fremont,09-1,State Auditor,,REP,Write-ins,1
+Fremont,09-1,State Auditor,,REP,Over Votes,0
+Fremont,09-1,State Auditor,,REP,Under Votes,39
+Fremont,09-1,State Auditor,,DEM,Write-ins,0
+Fremont,09-1,State Auditor,,DEM,Over Votes,0
+Fremont,09-1,State Auditor,,DEM,Under Votes,2
+Fremont,09-1,State Treasurer,,REP,Curt Meier,186
+Fremont,09-1,State Treasurer,,REP,Scott Smith,53
+Fremont,09-1,State Treasurer,,REP,Write-ins,0
+Fremont,09-1,State Treasurer,,REP,Over Votes,0
+Fremont,09-1,State Treasurer,,REP,Under Votes,22
+Fremont,09-1,State Treasurer,,DEM,Write-ins,0
+Fremont,09-1,State Treasurer,,DEM,Over Votes,0
+Fremont,09-1,State Treasurer,,DEM,Under Votes,2
+Fremont,09-1,Superintendent of Public Instruction,,REP,Chad Auer,26
+Fremont,09-1,Superintendent of Public Instruction,,REP,Steve Harshman,139
+Fremont,09-1,Superintendent of Public Instruction,,REP,Tom Kelly,69
+Fremont,09-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,09-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,09-1,Superintendent of Public Instruction,,REP,Under Votes,27
+Fremont,09-1,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Fremont,09-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Fremont,09-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,09-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,09-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Fremont,09-1,State House,34,REP,Pepper L Ottman,191
+Fremont,09-1,State House,34,REP,Write-ins,10
+Fremont,09-1,State House,34,REP,Over Votes,0
+Fremont,09-1,State House,34,REP,Under Votes,60
+Fremont,09-1,State House,34,DEM,Write-ins,0
+Fremont,09-1,State House,34,DEM,Over Votes,0
+Fremont,09-1,State House,34,DEM,Under Votes,2
+Fremont,09-1,Ballots Cast,,REP,Ballots Cast,261
+Fremont,09-1,Ballots Cast,,DEM,Ballots Cast,2
+Fremont,09-1,Ballots Cast,,NP,Ballots Cast,6
+Fremont,09-1,Ballots Cast,,,Ballots Cast,269
+Fremont,10-1,U.S. Senate,,REP,Harriet Hageman,329
+Fremont,10-1,U.S. Senate,,REP,Jill M Edwards,8
+Fremont,10-1,U.S. Senate,,REP,Jimmy Skovgard,5
+Fremont,10-1,U.S. Senate,,REP,John Holtz,4
+Fremont,10-1,U.S. Senate,,REP,Sam Mead,77
+Fremont,10-1,U.S. Senate,,REP,Write-ins,0
+Fremont,10-1,U.S. Senate,,REP,Over Votes,0
+Fremont,10-1,U.S. Senate,,REP,Under Votes,7
+Fremont,10-1,U.S. Senate,,DEM,Billy Benavidez,3
+Fremont,10-1,U.S. Senate,,DEM,James Byrd,17
+Fremont,10-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,10-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,10-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,10-1,U.S. House,,REP,* Withdrawn Candidate,8
+Fremont,10-1,U.S. House,,REP,Bo Biteman,9
+Fremont,10-1,U.S. House,,REP,Chuck Gray,119
+Fremont,10-1,U.S. House,,REP,David Giralt,31
+Fremont,10-1,U.S. House,,REP,Jillian Balow,33
+Fremont,10-1,U.S. House,,REP,Keith B. Goodenough,3
+Fremont,10-1,U.S. House,,REP,Kevin Christensen,39
+Fremont,10-1,U.S. House,,REP,Reid Rasner,63
+Fremont,10-1,U.S. House,,REP,Richard Dodson,6
+Fremont,10-1,U.S. House,,REP,Steve Friess,85
+Fremont,10-1,U.S. House,,REP,Write-ins,0
+Fremont,10-1,U.S. House,,REP,Over Votes,10
+Fremont,10-1,U.S. House,,REP,Under Votes,24
+Fremont,10-1,U.S. House,,DEM,Elena Del Real,3
+Fremont,10-1,U.S. House,,DEM,Lisa Kinney,16
+Fremont,10-1,U.S. House,,DEM,Write-ins,0
+Fremont,10-1,U.S. House,,DEM,Over Votes,0
+Fremont,10-1,U.S. House,,DEM,Under Votes,1
+Fremont,10-1,Governor,,REP,Brent Bien,137
+Fremont,10-1,Governor,,REP,Curt Blake,4
+Fremont,10-1,Governor,,REP,Eric Barlow,142
+Fremont,10-1,Governor,,REP,Megan Degenfelder,143
+Fremont,10-1,Governor,,REP,Write-ins,0
+Fremont,10-1,Governor,,REP,Over Votes,1
+Fremont,10-1,Governor,,REP,Under Votes,3
+Fremont,10-1,Governor,,DEM,Kenneth R. Casner,17
+Fremont,10-1,Governor,,DEM,Write-ins,2
+Fremont,10-1,Governor,,DEM,Over Votes,0
+Fremont,10-1,Governor,,DEM,Under Votes,1
+Fremont,10-1,Secretary of State,,REP,CJ Young,48
+Fremont,10-1,Secretary of State,,REP,Qwenton Eagle Oviatt,14
+Fremont,10-1,Secretary of State,,REP,Rachel Williams,139
+Fremont,10-1,Secretary of State,,REP,Robert Short,161
+Fremont,10-1,Secretary of State,,REP,Write-ins,0
+Fremont,10-1,Secretary of State,,REP,Over Votes,1
+Fremont,10-1,Secretary of State,,REP,Under Votes,67
+Fremont,10-1,Secretary of State,,DEM,Bryan McCarty,18
+Fremont,10-1,Secretary of State,,DEM,Write-ins,0
+Fremont,10-1,Secretary of State,,DEM,Over Votes,0
+Fremont,10-1,Secretary of State,,DEM,Under Votes,2
+Fremont,10-1,State Auditor,,REP,Kristi Racines,351
+Fremont,10-1,State Auditor,,REP,Write-ins,2
+Fremont,10-1,State Auditor,,REP,Over Votes,0
+Fremont,10-1,State Auditor,,REP,Under Votes,77
+Fremont,10-1,State Auditor,,DEM,Write-ins,2
+Fremont,10-1,State Auditor,,DEM,Over Votes,0
+Fremont,10-1,State Auditor,,DEM,Under Votes,18
+Fremont,10-1,State Treasurer,,REP,Curt Meier,257
+Fremont,10-1,State Treasurer,,REP,Scott Smith,121
+Fremont,10-1,State Treasurer,,REP,Write-ins,1
+Fremont,10-1,State Treasurer,,REP,Over Votes,0
+Fremont,10-1,State Treasurer,,REP,Under Votes,51
+Fremont,10-1,State Treasurer,,DEM,Write-ins,2
+Fremont,10-1,State Treasurer,,DEM,Over Votes,0
+Fremont,10-1,State Treasurer,,DEM,Under Votes,18
+Fremont,10-1,Superintendent of Public Instruction,,REP,Chad Auer,27
+Fremont,10-1,Superintendent of Public Instruction,,REP,Steve Harshman,194
+Fremont,10-1,Superintendent of Public Instruction,,REP,Tom Kelly,140
+Fremont,10-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,10-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,10-1,Superintendent of Public Instruction,,REP,Under Votes,67
+Fremont,10-1,Superintendent of Public Instruction,,DEM,Ana Cordova,10
+Fremont,10-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Fremont,10-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Fremont,10-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,10-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Fremont,10-1,State House,34,REP,Pepper L Ottman,334
+Fremont,10-1,State House,34,REP,Write-ins,9
+Fremont,10-1,State House,34,REP,Over Votes,0
+Fremont,10-1,State House,34,REP,Under Votes,87
+Fremont,10-1,State House,34,DEM,Write-ins,3
+Fremont,10-1,State House,34,DEM,Over Votes,0
+Fremont,10-1,State House,34,DEM,Under Votes,17
+Fremont,10-1,Ballots Cast,,REP,Ballots Cast,430
+Fremont,10-1,Ballots Cast,,DEM,Ballots Cast,20
+Fremont,10-1,Ballots Cast,,NP,Ballots Cast,10
+Fremont,10-1,Ballots Cast,,,Ballots Cast,460
+Fremont,12-1,U.S. Senate,,REP,Harriet Hageman,43
+Fremont,12-1,U.S. Senate,,REP,Jill M Edwards,0
+Fremont,12-1,U.S. Senate,,REP,Jimmy Skovgard,0
+Fremont,12-1,U.S. Senate,,REP,John Holtz,0
+Fremont,12-1,U.S. Senate,,REP,Sam Mead,5
+Fremont,12-1,U.S. Senate,,REP,Write-ins,0
+Fremont,12-1,U.S. Senate,,REP,Over Votes,0
+Fremont,12-1,U.S. Senate,,REP,Under Votes,1
+Fremont,12-1,U.S. Senate,,DEM,Billy Benavidez,0
+Fremont,12-1,U.S. Senate,,DEM,James Byrd,2
+Fremont,12-1,U.S. Senate,,DEM,Write-ins,1
+Fremont,12-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,12-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,12-1,U.S. House,,REP,* Withdrawn Candidate,0
+Fremont,12-1,U.S. House,,REP,Bo Biteman,8
+Fremont,12-1,U.S. House,,REP,Chuck Gray,25
+Fremont,12-1,U.S. House,,REP,David Giralt,4
+Fremont,12-1,U.S. House,,REP,Jillian Balow,0
+Fremont,12-1,U.S. House,,REP,Keith B. Goodenough,1
+Fremont,12-1,U.S. House,,REP,Kevin Christensen,2
+Fremont,12-1,U.S. House,,REP,Reid Rasner,1
+Fremont,12-1,U.S. House,,REP,Richard Dodson,0
+Fremont,12-1,U.S. House,,REP,Steve Friess,6
+Fremont,12-1,U.S. House,,REP,Write-ins,1
+Fremont,12-1,U.S. House,,REP,Over Votes,0
+Fremont,12-1,U.S. House,,REP,Under Votes,1
+Fremont,12-1,U.S. House,,DEM,Elena Del Real,0
+Fremont,12-1,U.S. House,,DEM,Lisa Kinney,3
+Fremont,12-1,U.S. House,,DEM,Write-ins,0
+Fremont,12-1,U.S. House,,DEM,Over Votes,0
+Fremont,12-1,U.S. House,,DEM,Under Votes,0
+Fremont,12-1,Governor,,REP,Brent Bien,28
+Fremont,12-1,Governor,,REP,Curt Blake,1
+Fremont,12-1,Governor,,REP,Eric Barlow,7
+Fremont,12-1,Governor,,REP,Megan Degenfelder,13
+Fremont,12-1,Governor,,REP,Write-ins,0
+Fremont,12-1,Governor,,REP,Over Votes,0
+Fremont,12-1,Governor,,REP,Under Votes,0
+Fremont,12-1,Governor,,DEM,Kenneth R. Casner,2
+Fremont,12-1,Governor,,DEM,Write-ins,1
+Fremont,12-1,Governor,,DEM,Over Votes,0
+Fremont,12-1,Governor,,DEM,Under Votes,0
+Fremont,12-1,Secretary of State,,REP,CJ Young,2
+Fremont,12-1,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Fremont,12-1,Secretary of State,,REP,Rachel Williams,22
+Fremont,12-1,Secretary of State,,REP,Robert Short,16
+Fremont,12-1,Secretary of State,,REP,Write-ins,1
+Fremont,12-1,Secretary of State,,REP,Over Votes,0
+Fremont,12-1,Secretary of State,,REP,Under Votes,2
+Fremont,12-1,Secretary of State,,DEM,Bryan McCarty,3
+Fremont,12-1,Secretary of State,,DEM,Write-ins,0
+Fremont,12-1,Secretary of State,,DEM,Over Votes,0
+Fremont,12-1,Secretary of State,,DEM,Under Votes,0
+Fremont,12-1,State Auditor,,REP,Kristi Racines,43
+Fremont,12-1,State Auditor,,REP,Write-ins,0
+Fremont,12-1,State Auditor,,REP,Over Votes,0
+Fremont,12-1,State Auditor,,REP,Under Votes,6
+Fremont,12-1,State Auditor,,DEM,Write-ins,0
+Fremont,12-1,State Auditor,,DEM,Over Votes,0
+Fremont,12-1,State Auditor,,DEM,Under Votes,3
+Fremont,12-1,State Treasurer,,REP,Curt Meier,25
+Fremont,12-1,State Treasurer,,REP,Scott Smith,22
+Fremont,12-1,State Treasurer,,REP,Write-ins,0
+Fremont,12-1,State Treasurer,,REP,Over Votes,0
+Fremont,12-1,State Treasurer,,REP,Under Votes,2
+Fremont,12-1,State Treasurer,,DEM,Write-ins,0
+Fremont,12-1,State Treasurer,,DEM,Over Votes,0
+Fremont,12-1,State Treasurer,,DEM,Under Votes,3
+Fremont,12-1,Superintendent of Public Instruction,,REP,Chad Auer,4
+Fremont,12-1,Superintendent of Public Instruction,,REP,Steve Harshman,25
+Fremont,12-1,Superintendent of Public Instruction,,REP,Tom Kelly,16
+Fremont,12-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,12-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,12-1,Superintendent of Public Instruction,,REP,Under Votes,4
+Fremont,12-1,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Fremont,12-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Fremont,12-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,12-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,12-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Fremont,12-1,State House,34,REP,Pepper L Ottman,44
+Fremont,12-1,State House,34,REP,Write-ins,1
+Fremont,12-1,State House,34,REP,Over Votes,0
+Fremont,12-1,State House,34,REP,Under Votes,4
+Fremont,12-1,State House,34,DEM,Write-ins,0
+Fremont,12-1,State House,34,DEM,Over Votes,0
+Fremont,12-1,State House,34,DEM,Under Votes,3
+Fremont,12-1,Ballots Cast,,REP,Ballots Cast,49
+Fremont,12-1,Ballots Cast,,DEM,Ballots Cast,3
+Fremont,12-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,12-1,Ballots Cast,,,Ballots Cast,52
+Fremont,13-1,U.S. Senate,,REP,Harriet Hageman,53
+Fremont,13-1,U.S. Senate,,REP,Jill M Edwards,2
+Fremont,13-1,U.S. Senate,,REP,Jimmy Skovgard,4
+Fremont,13-1,U.S. Senate,,REP,John Holtz,2
+Fremont,13-1,U.S. Senate,,REP,Sam Mead,34
+Fremont,13-1,U.S. Senate,,REP,Write-ins,0
+Fremont,13-1,U.S. Senate,,REP,Over Votes,0
+Fremont,13-1,U.S. Senate,,REP,Under Votes,2
+Fremont,13-1,U.S. Senate,,DEM,Billy Benavidez,41
+Fremont,13-1,U.S. Senate,,DEM,James Byrd,59
+Fremont,13-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,13-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,13-1,U.S. Senate,,DEM,Under Votes,6
+Fremont,13-1,U.S. House,,REP,* Withdrawn Candidate,2
+Fremont,13-1,U.S. House,,REP,Bo Biteman,5
+Fremont,13-1,U.S. House,,REP,Chuck Gray,17
+Fremont,13-1,U.S. House,,REP,David Giralt,6
+Fremont,13-1,U.S. House,,REP,Jillian Balow,8
+Fremont,13-1,U.S. House,,REP,Keith B. Goodenough,6
+Fremont,13-1,U.S. House,,REP,Kevin Christensen,11
+Fremont,13-1,U.S. House,,REP,Reid Rasner,10
+Fremont,13-1,U.S. House,,REP,Richard Dodson,1
+Fremont,13-1,U.S. House,,REP,Steve Friess,27
+Fremont,13-1,U.S. House,,REP,Write-ins,0
+Fremont,13-1,U.S. House,,REP,Over Votes,1
+Fremont,13-1,U.S. House,,REP,Under Votes,3
+Fremont,13-1,U.S. House,,DEM,Elena Del Real,32
+Fremont,13-1,U.S. House,,DEM,Lisa Kinney,62
+Fremont,13-1,U.S. House,,DEM,Write-ins,1
+Fremont,13-1,U.S. House,,DEM,Over Votes,0
+Fremont,13-1,U.S. House,,DEM,Under Votes,11
+Fremont,13-1,Governor,,REP,Brent Bien,15
+Fremont,13-1,Governor,,REP,Curt Blake,3
+Fremont,13-1,Governor,,REP,Eric Barlow,52
+Fremont,13-1,Governor,,REP,Megan Degenfelder,25
+Fremont,13-1,Governor,,REP,Write-ins,1
+Fremont,13-1,Governor,,REP,Over Votes,0
+Fremont,13-1,Governor,,REP,Under Votes,1
+Fremont,13-1,Governor,,DEM,Kenneth R. Casner,79
+Fremont,13-1,Governor,,DEM,Write-ins,6
+Fremont,13-1,Governor,,DEM,Over Votes,1
+Fremont,13-1,Governor,,DEM,Under Votes,20
+Fremont,13-1,Secretary of State,,REP,CJ Young,11
+Fremont,13-1,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Fremont,13-1,Secretary of State,,REP,Rachel Williams,30
+Fremont,13-1,Secretary of State,,REP,Robert Short,37
+Fremont,13-1,Secretary of State,,REP,Write-ins,3
+Fremont,13-1,Secretary of State,,REP,Over Votes,0
+Fremont,13-1,Secretary of State,,REP,Under Votes,10
+Fremont,13-1,Secretary of State,,DEM,Bryan McCarty,88
+Fremont,13-1,Secretary of State,,DEM,Write-ins,0
+Fremont,13-1,Secretary of State,,DEM,Over Votes,0
+Fremont,13-1,Secretary of State,,DEM,Under Votes,18
+Fremont,13-1,State Auditor,,REP,Kristi Racines,83
+Fremont,13-1,State Auditor,,REP,Write-ins,1
+Fremont,13-1,State Auditor,,REP,Over Votes,0
+Fremont,13-1,State Auditor,,REP,Under Votes,13
+Fremont,13-1,State Auditor,,DEM,Write-ins,3
+Fremont,13-1,State Auditor,,DEM,Over Votes,0
+Fremont,13-1,State Auditor,,DEM,Under Votes,103
+Fremont,13-1,State Treasurer,,REP,Curt Meier,55
+Fremont,13-1,State Treasurer,,REP,Scott Smith,31
+Fremont,13-1,State Treasurer,,REP,Write-ins,1
+Fremont,13-1,State Treasurer,,REP,Over Votes,0
+Fremont,13-1,State Treasurer,,REP,Under Votes,10
+Fremont,13-1,State Treasurer,,DEM,Write-ins,3
+Fremont,13-1,State Treasurer,,DEM,Over Votes,0
+Fremont,13-1,State Treasurer,,DEM,Under Votes,103
+Fremont,13-1,Superintendent of Public Instruction,,REP,Chad Auer,13
+Fremont,13-1,Superintendent of Public Instruction,,REP,Steve Harshman,45
+Fremont,13-1,Superintendent of Public Instruction,,REP,Tom Kelly,28
+Fremont,13-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,13-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,13-1,Superintendent of Public Instruction,,REP,Under Votes,11
+Fremont,13-1,Superintendent of Public Instruction,,DEM,Ana Cordova,19
+Fremont,13-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",82
+Fremont,13-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,13-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,13-1,Superintendent of Public Instruction,,DEM,Under Votes,5
+Fremont,13-1,State Senate,25,REP,Cale Case,45
+Fremont,13-1,State Senate,25,REP,Lisa Wilson,46
+Fremont,13-1,State Senate,25,REP,Write-ins,0
+Fremont,13-1,State Senate,25,REP,Over Votes,0
+Fremont,13-1,State Senate,25,REP,Under Votes,6
+Fremont,13-1,State Senate,25,DEM,Write-ins,2
+Fremont,13-1,State Senate,25,DEM,Over Votes,0
+Fremont,13-1,State Senate,25,DEM,Under Votes,104
+Fremont,13-1,State House,33,REP,Write-ins,11
+Fremont,13-1,State House,33,REP,Over Votes,0
+Fremont,13-1,State House,33,REP,Under Votes,86
+Fremont,13-1,State House,33,DEM,Ivan D. Posey,103
+Fremont,13-1,State House,33,DEM,Write-ins,0
+Fremont,13-1,State House,33,DEM,Over Votes,0
+Fremont,13-1,State House,33,DEM,Under Votes,3
+Fremont,13-1,Ballots Cast,,REP,Ballots Cast,97
+Fremont,13-1,Ballots Cast,,DEM,Ballots Cast,106
+Fremont,13-1,Ballots Cast,,NP,Ballots Cast,8
+Fremont,13-1,Ballots Cast,,,Ballots Cast,211
+Fremont,14-1,U.S. Senate,,REP,Harriet Hageman,362
+Fremont,14-1,U.S. Senate,,REP,Jill M Edwards,11
+Fremont,14-1,U.S. Senate,,REP,Jimmy Skovgard,11
+Fremont,14-1,U.S. Senate,,REP,John Holtz,10
+Fremont,14-1,U.S. Senate,,REP,Sam Mead,79
+Fremont,14-1,U.S. Senate,,REP,Write-ins,0
+Fremont,14-1,U.S. Senate,,REP,Over Votes,0
+Fremont,14-1,U.S. Senate,,REP,Under Votes,7
+Fremont,14-1,U.S. Senate,,DEM,Billy Benavidez,4
+Fremont,14-1,U.S. Senate,,DEM,James Byrd,16
+Fremont,14-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,14-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,14-1,U.S. Senate,,DEM,Under Votes,1
+Fremont,14-1,U.S. House,,REP,* Withdrawn Candidate,16
+Fremont,14-1,U.S. House,,REP,Bo Biteman,18
+Fremont,14-1,U.S. House,,REP,Chuck Gray,135
+Fremont,14-1,U.S. House,,REP,David Giralt,43
+Fremont,14-1,U.S. House,,REP,Jillian Balow,42
+Fremont,14-1,U.S. House,,REP,Keith B. Goodenough,5
+Fremont,14-1,U.S. House,,REP,Kevin Christensen,38
+Fremont,14-1,U.S. House,,REP,Reid Rasner,65
+Fremont,14-1,U.S. House,,REP,Richard Dodson,9
+Fremont,14-1,U.S. House,,REP,Steve Friess,86
+Fremont,14-1,U.S. House,,REP,Write-ins,0
+Fremont,14-1,U.S. House,,REP,Over Votes,3
+Fremont,14-1,U.S. House,,REP,Under Votes,20
+Fremont,14-1,U.S. House,,DEM,Elena Del Real,6
+Fremont,14-1,U.S. House,,DEM,Lisa Kinney,14
+Fremont,14-1,U.S. House,,DEM,Write-ins,0
+Fremont,14-1,U.S. House,,DEM,Over Votes,0
+Fremont,14-1,U.S. House,,DEM,Under Votes,1
+Fremont,14-1,Governor,,REP,Brent Bien,175
+Fremont,14-1,Governor,,REP,Curt Blake,5
+Fremont,14-1,Governor,,REP,Eric Barlow,155
+Fremont,14-1,Governor,,REP,Megan Degenfelder,140
+Fremont,14-1,Governor,,REP,Write-ins,0
+Fremont,14-1,Governor,,REP,Over Votes,1
+Fremont,14-1,Governor,,REP,Under Votes,4
+Fremont,14-1,Governor,,DEM,Kenneth R. Casner,18
+Fremont,14-1,Governor,,DEM,Write-ins,3
+Fremont,14-1,Governor,,DEM,Over Votes,0
+Fremont,14-1,Governor,,DEM,Under Votes,0
+Fremont,14-1,Secretary of State,,REP,CJ Young,74
+Fremont,14-1,Secretary of State,,REP,Qwenton Eagle Oviatt,19
+Fremont,14-1,Secretary of State,,REP,Rachel Williams,159
+Fremont,14-1,Secretary of State,,REP,Robert Short,165
+Fremont,14-1,Secretary of State,,REP,Write-ins,1
+Fremont,14-1,Secretary of State,,REP,Over Votes,0
+Fremont,14-1,Secretary of State,,REP,Under Votes,62
+Fremont,14-1,Secretary of State,,DEM,Bryan McCarty,19
+Fremont,14-1,Secretary of State,,DEM,Write-ins,0
+Fremont,14-1,Secretary of State,,DEM,Over Votes,0
+Fremont,14-1,Secretary of State,,DEM,Under Votes,2
+Fremont,14-1,State Auditor,,REP,Kristi Racines,399
+Fremont,14-1,State Auditor,,REP,Write-ins,2
+Fremont,14-1,State Auditor,,REP,Over Votes,0
+Fremont,14-1,State Auditor,,REP,Under Votes,79
+Fremont,14-1,State Auditor,,DEM,Write-ins,0
+Fremont,14-1,State Auditor,,DEM,Over Votes,0
+Fremont,14-1,State Auditor,,DEM,Under Votes,21
+Fremont,14-1,State Treasurer,,REP,Curt Meier,271
+Fremont,14-1,State Treasurer,,REP,Scott Smith,154
+Fremont,14-1,State Treasurer,,REP,Write-ins,1
+Fremont,14-1,State Treasurer,,REP,Over Votes,1
+Fremont,14-1,State Treasurer,,REP,Under Votes,53
+Fremont,14-1,State Treasurer,,DEM,Write-ins,0
+Fremont,14-1,State Treasurer,,DEM,Over Votes,0
+Fremont,14-1,State Treasurer,,DEM,Under Votes,21
+Fremont,14-1,Superintendent of Public Instruction,,REP,Chad Auer,48
+Fremont,14-1,Superintendent of Public Instruction,,REP,Steve Harshman,227
+Fremont,14-1,Superintendent of Public Instruction,,REP,Tom Kelly,144
+Fremont,14-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Fremont,14-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,14-1,Superintendent of Public Instruction,,REP,Under Votes,60
+Fremont,14-1,Superintendent of Public Instruction,,DEM,Ana Cordova,11
+Fremont,14-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",9
+Fremont,14-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,14-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,14-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Fremont,14-1,State House,34,REP,Pepper L Ottman,381
+Fremont,14-1,State House,34,REP,Write-ins,20
+Fremont,14-1,State House,34,REP,Over Votes,0
+Fremont,14-1,State House,34,REP,Under Votes,79
+Fremont,14-1,State House,34,DEM,Write-ins,1
+Fremont,14-1,State House,34,DEM,Over Votes,0
+Fremont,14-1,State House,34,DEM,Under Votes,20
+Fremont,14-1,Ballots Cast,,REP,Ballots Cast,480
+Fremont,14-1,Ballots Cast,,DEM,Ballots Cast,21
+Fremont,14-1,Ballots Cast,,NP,Ballots Cast,8
+Fremont,14-1,Ballots Cast,,,Ballots Cast,509
+Fremont,16-1,U.S. Senate,,REP,Harriet Hageman,75
+Fremont,16-1,U.S. Senate,,REP,Jill M Edwards,3
+Fremont,16-1,U.S. Senate,,REP,Jimmy Skovgard,0
+Fremont,16-1,U.S. Senate,,REP,John Holtz,2
+Fremont,16-1,U.S. Senate,,REP,Sam Mead,14
+Fremont,16-1,U.S. Senate,,REP,Write-ins,0
+Fremont,16-1,U.S. Senate,,REP,Over Votes,0
+Fremont,16-1,U.S. Senate,,REP,Under Votes,6
+Fremont,16-1,U.S. Senate,,DEM,Billy Benavidez,1
+Fremont,16-1,U.S. Senate,,DEM,James Byrd,6
+Fremont,16-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,16-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,16-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,16-1,U.S. House,,REP,* Withdrawn Candidate,5
+Fremont,16-1,U.S. House,,REP,Bo Biteman,0
+Fremont,16-1,U.S. House,,REP,Chuck Gray,32
+Fremont,16-1,U.S. House,,REP,David Giralt,4
+Fremont,16-1,U.S. House,,REP,Jillian Balow,1
+Fremont,16-1,U.S. House,,REP,Keith B. Goodenough,2
+Fremont,16-1,U.S. House,,REP,Kevin Christensen,14
+Fremont,16-1,U.S. House,,REP,Reid Rasner,11
+Fremont,16-1,U.S. House,,REP,Richard Dodson,1
+Fremont,16-1,U.S. House,,REP,Steve Friess,23
+Fremont,16-1,U.S. House,,REP,Write-ins,0
+Fremont,16-1,U.S. House,,REP,Over Votes,1
+Fremont,16-1,U.S. House,,REP,Under Votes,6
+Fremont,16-1,U.S. House,,DEM,Elena Del Real,2
+Fremont,16-1,U.S. House,,DEM,Lisa Kinney,5
+Fremont,16-1,U.S. House,,DEM,Write-ins,0
+Fremont,16-1,U.S. House,,DEM,Over Votes,0
+Fremont,16-1,U.S. House,,DEM,Under Votes,0
+Fremont,16-1,Governor,,REP,Brent Bien,40
+Fremont,16-1,Governor,,REP,Curt Blake,1
+Fremont,16-1,Governor,,REP,Eric Barlow,25
+Fremont,16-1,Governor,,REP,Megan Degenfelder,34
+Fremont,16-1,Governor,,REP,Write-ins,0
+Fremont,16-1,Governor,,REP,Over Votes,0
+Fremont,16-1,Governor,,REP,Under Votes,0
+Fremont,16-1,Governor,,DEM,Kenneth R. Casner,7
+Fremont,16-1,Governor,,DEM,Write-ins,0
+Fremont,16-1,Governor,,DEM,Over Votes,0
+Fremont,16-1,Governor,,DEM,Under Votes,0
+Fremont,16-1,Secretary of State,,REP,CJ Young,7
+Fremont,16-1,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Fremont,16-1,Secretary of State,,REP,Rachel Williams,32
+Fremont,16-1,Secretary of State,,REP,Robert Short,33
+Fremont,16-1,Secretary of State,,REP,Write-ins,0
+Fremont,16-1,Secretary of State,,REP,Over Votes,0
+Fremont,16-1,Secretary of State,,REP,Under Votes,22
+Fremont,16-1,Secretary of State,,DEM,Bryan McCarty,7
+Fremont,16-1,Secretary of State,,DEM,Write-ins,0
+Fremont,16-1,Secretary of State,,DEM,Over Votes,0
+Fremont,16-1,Secretary of State,,DEM,Under Votes,0
+Fremont,16-1,State Auditor,,REP,Kristi Racines,72
+Fremont,16-1,State Auditor,,REP,Write-ins,0
+Fremont,16-1,State Auditor,,REP,Over Votes,0
+Fremont,16-1,State Auditor,,REP,Under Votes,28
+Fremont,16-1,State Auditor,,DEM,Write-ins,0
+Fremont,16-1,State Auditor,,DEM,Over Votes,0
+Fremont,16-1,State Auditor,,DEM,Under Votes,7
+Fremont,16-1,State Treasurer,,REP,Curt Meier,46
+Fremont,16-1,State Treasurer,,REP,Scott Smith,36
+Fremont,16-1,State Treasurer,,REP,Write-ins,0
+Fremont,16-1,State Treasurer,,REP,Over Votes,0
+Fremont,16-1,State Treasurer,,REP,Under Votes,18
+Fremont,16-1,State Treasurer,,DEM,Write-ins,0
+Fremont,16-1,State Treasurer,,DEM,Over Votes,0
+Fremont,16-1,State Treasurer,,DEM,Under Votes,7
+Fremont,16-1,Superintendent of Public Instruction,,REP,Chad Auer,8
+Fremont,16-1,Superintendent of Public Instruction,,REP,Steve Harshman,38
+Fremont,16-1,Superintendent of Public Instruction,,REP,Tom Kelly,31
+Fremont,16-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Fremont,16-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,16-1,Superintendent of Public Instruction,,REP,Under Votes,22
+Fremont,16-1,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Fremont,16-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Fremont,16-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,16-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,16-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Fremont,16-1,State House,34,REP,Pepper L Ottman,77
+Fremont,16-1,State House,34,REP,Write-ins,5
+Fremont,16-1,State House,34,REP,Over Votes,0
+Fremont,16-1,State House,34,REP,Under Votes,18
+Fremont,16-1,State House,34,DEM,Write-ins,0
+Fremont,16-1,State House,34,DEM,Over Votes,0
+Fremont,16-1,State House,34,DEM,Under Votes,7
+Fremont,16-1,Ballots Cast,,REP,Ballots Cast,100
+Fremont,16-1,Ballots Cast,,DEM,Ballots Cast,7
+Fremont,16-1,Ballots Cast,,NP,Ballots Cast,3
+Fremont,16-1,Ballots Cast,,,Ballots Cast,110
+Fremont,17-1,U.S. Senate,,REP,Harriet Hageman,97
+Fremont,17-1,U.S. Senate,,REP,Jill M Edwards,1
+Fremont,17-1,U.S. Senate,,REP,Jimmy Skovgard,3
+Fremont,17-1,U.S. Senate,,REP,John Holtz,3
+Fremont,17-1,U.S. Senate,,REP,Sam Mead,47
+Fremont,17-1,U.S. Senate,,REP,Write-ins,0
+Fremont,17-1,U.S. Senate,,REP,Over Votes,0
+Fremont,17-1,U.S. Senate,,REP,Under Votes,1
+Fremont,17-1,U.S. Senate,,DEM,Billy Benavidez,7
+Fremont,17-1,U.S. Senate,,DEM,James Byrd,11
+Fremont,17-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,17-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,17-1,U.S. Senate,,DEM,Under Votes,1
+Fremont,17-1,U.S. House,,REP,* Withdrawn Candidate,4
+Fremont,17-1,U.S. House,,REP,Bo Biteman,2
+Fremont,17-1,U.S. House,,REP,Chuck Gray,38
+Fremont,17-1,U.S. House,,REP,David Giralt,9
+Fremont,17-1,U.S. House,,REP,Jillian Balow,16
+Fremont,17-1,U.S. House,,REP,Keith B. Goodenough,7
+Fremont,17-1,U.S. House,,REP,Kevin Christensen,22
+Fremont,17-1,U.S. House,,REP,Reid Rasner,10
+Fremont,17-1,U.S. House,,REP,Richard Dodson,1
+Fremont,17-1,U.S. House,,REP,Steve Friess,35
+Fremont,17-1,U.S. House,,REP,Write-ins,3
+Fremont,17-1,U.S. House,,REP,Over Votes,1
+Fremont,17-1,U.S. House,,REP,Under Votes,4
+Fremont,17-1,U.S. House,,DEM,Elena Del Real,3
+Fremont,17-1,U.S. House,,DEM,Lisa Kinney,14
+Fremont,17-1,U.S. House,,DEM,Write-ins,0
+Fremont,17-1,U.S. House,,DEM,Over Votes,0
+Fremont,17-1,U.S. House,,DEM,Under Votes,2
+Fremont,17-1,Governor,,REP,Brent Bien,33
+Fremont,17-1,Governor,,REP,Curt Blake,3
+Fremont,17-1,Governor,,REP,Eric Barlow,59
+Fremont,17-1,Governor,,REP,Megan Degenfelder,57
+Fremont,17-1,Governor,,REP,Write-ins,0
+Fremont,17-1,Governor,,REP,Over Votes,0
+Fremont,17-1,Governor,,REP,Under Votes,0
+Fremont,17-1,Governor,,DEM,Kenneth R. Casner,18
+Fremont,17-1,Governor,,DEM,Write-ins,1
+Fremont,17-1,Governor,,DEM,Over Votes,0
+Fremont,17-1,Governor,,DEM,Under Votes,0
+Fremont,17-1,Secretary of State,,REP,CJ Young,21
+Fremont,17-1,Secretary of State,,REP,Qwenton Eagle Oviatt,3
+Fremont,17-1,Secretary of State,,REP,Rachel Williams,54
+Fremont,17-1,Secretary of State,,REP,Robert Short,49
+Fremont,17-1,Secretary of State,,REP,Write-ins,0
+Fremont,17-1,Secretary of State,,REP,Over Votes,0
+Fremont,17-1,Secretary of State,,REP,Under Votes,25
+Fremont,17-1,Secretary of State,,DEM,Bryan McCarty,17
+Fremont,17-1,Secretary of State,,DEM,Write-ins,1
+Fremont,17-1,Secretary of State,,DEM,Over Votes,0
+Fremont,17-1,Secretary of State,,DEM,Under Votes,1
+Fremont,17-1,State Auditor,,REP,Kristi Racines,116
+Fremont,17-1,State Auditor,,REP,Write-ins,2
+Fremont,17-1,State Auditor,,REP,Over Votes,0
+Fremont,17-1,State Auditor,,REP,Under Votes,34
+Fremont,17-1,State Auditor,,DEM,Write-ins,2
+Fremont,17-1,State Auditor,,DEM,Over Votes,0
+Fremont,17-1,State Auditor,,DEM,Under Votes,17
+Fremont,17-1,State Treasurer,,REP,Curt Meier,93
+Fremont,17-1,State Treasurer,,REP,Scott Smith,43
+Fremont,17-1,State Treasurer,,REP,Write-ins,0
+Fremont,17-1,State Treasurer,,REP,Over Votes,0
+Fremont,17-1,State Treasurer,,REP,Under Votes,16
+Fremont,17-1,State Treasurer,,DEM,Write-ins,0
+Fremont,17-1,State Treasurer,,DEM,Over Votes,0
+Fremont,17-1,State Treasurer,,DEM,Under Votes,19
+Fremont,17-1,Superintendent of Public Instruction,,REP,Chad Auer,11
+Fremont,17-1,Superintendent of Public Instruction,,REP,Steve Harshman,72
+Fremont,17-1,Superintendent of Public Instruction,,REP,Tom Kelly,47
+Fremont,17-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,17-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,17-1,Superintendent of Public Instruction,,REP,Under Votes,22
+Fremont,17-1,Superintendent of Public Instruction,,DEM,Ana Cordova,8
+Fremont,17-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",10
+Fremont,17-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,17-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,17-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Fremont,17-1,State Senate,25,REP,Cale Case,85
+Fremont,17-1,State Senate,25,REP,Lisa Wilson,55
+Fremont,17-1,State Senate,25,REP,Write-ins,0
+Fremont,17-1,State Senate,25,REP,Over Votes,0
+Fremont,17-1,State Senate,25,REP,Under Votes,12
+Fremont,17-1,State Senate,25,DEM,Write-ins,2
+Fremont,17-1,State Senate,25,DEM,Over Votes,0
+Fremont,17-1,State Senate,25,DEM,Under Votes,17
+Fremont,17-1,State House,33,REP,Write-ins,18
+Fremont,17-1,State House,33,REP,Over Votes,0
+Fremont,17-1,State House,33,REP,Under Votes,134
+Fremont,17-1,State House,33,DEM,Ivan D. Posey,16
+Fremont,17-1,State House,33,DEM,Write-ins,1
+Fremont,17-1,State House,33,DEM,Over Votes,0
+Fremont,17-1,State House,33,DEM,Under Votes,2
+Fremont,17-1,Ballots Cast,,REP,Ballots Cast,152
+Fremont,17-1,Ballots Cast,,DEM,Ballots Cast,19
+Fremont,17-1,Ballots Cast,,NP,Ballots Cast,5
+Fremont,17-1,Ballots Cast,,,Ballots Cast,176
+Fremont,18-1,U.S. Senate,,REP,Harriet Hageman,468
+Fremont,18-1,U.S. Senate,,REP,Jill M Edwards,6
+Fremont,18-1,U.S. Senate,,REP,Jimmy Skovgard,8
+Fremont,18-1,U.S. Senate,,REP,John Holtz,10
+Fremont,18-1,U.S. Senate,,REP,Sam Mead,112
+Fremont,18-1,U.S. Senate,,REP,Write-ins,0
+Fremont,18-1,U.S. Senate,,REP,Over Votes,2
+Fremont,18-1,U.S. Senate,,REP,Under Votes,17
+Fremont,18-1,U.S. Senate,,DEM,Billy Benavidez,3
+Fremont,18-1,U.S. Senate,,DEM,James Byrd,15
+Fremont,18-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,18-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,18-1,U.S. Senate,,DEM,Under Votes,2
+Fremont,18-1,U.S. House,,REP,* Withdrawn Candidate,23
+Fremont,18-1,U.S. House,,REP,Bo Biteman,16
+Fremont,18-1,U.S. House,,REP,Chuck Gray,165
+Fremont,18-1,U.S. House,,REP,David Giralt,40
+Fremont,18-1,U.S. House,,REP,Jillian Balow,44
+Fremont,18-1,U.S. House,,REP,Keith B. Goodenough,5
+Fremont,18-1,U.S. House,,REP,Kevin Christensen,73
+Fremont,18-1,U.S. House,,REP,Reid Rasner,70
+Fremont,18-1,U.S. House,,REP,Richard Dodson,6
+Fremont,18-1,U.S. House,,REP,Steve Friess,129
+Fremont,18-1,U.S. House,,REP,Write-ins,0
+Fremont,18-1,U.S. House,,REP,Over Votes,21
+Fremont,18-1,U.S. House,,REP,Under Votes,31
+Fremont,18-1,U.S. House,,DEM,Elena Del Real,3
+Fremont,18-1,U.S. House,,DEM,Lisa Kinney,15
+Fremont,18-1,U.S. House,,DEM,Write-ins,0
+Fremont,18-1,U.S. House,,DEM,Over Votes,0
+Fremont,18-1,U.S. House,,DEM,Under Votes,2
+Fremont,18-1,Governor,,REP,Brent Bien,190
+Fremont,18-1,Governor,,REP,Curt Blake,5
+Fremont,18-1,Governor,,REP,Eric Barlow,173
+Fremont,18-1,Governor,,REP,Megan Degenfelder,243
+Fremont,18-1,Governor,,REP,Write-ins,1
+Fremont,18-1,Governor,,REP,Over Votes,0
+Fremont,18-1,Governor,,REP,Under Votes,11
+Fremont,18-1,Governor,,DEM,Kenneth R. Casner,17
+Fremont,18-1,Governor,,DEM,Write-ins,2
+Fremont,18-1,Governor,,DEM,Over Votes,0
+Fremont,18-1,Governor,,DEM,Under Votes,1
+Fremont,18-1,Secretary of State,,REP,CJ Young,79
+Fremont,18-1,Secretary of State,,REP,Qwenton Eagle Oviatt,30
+Fremont,18-1,Secretary of State,,REP,Rachel Williams,222
+Fremont,18-1,Secretary of State,,REP,Robert Short,215
+Fremont,18-1,Secretary of State,,REP,Write-ins,1
+Fremont,18-1,Secretary of State,,REP,Over Votes,1
+Fremont,18-1,Secretary of State,,REP,Under Votes,75
+Fremont,18-1,Secretary of State,,DEM,Bryan McCarty,17
+Fremont,18-1,Secretary of State,,DEM,Write-ins,0
+Fremont,18-1,Secretary of State,,DEM,Over Votes,0
+Fremont,18-1,Secretary of State,,DEM,Under Votes,3
+Fremont,18-1,State Auditor,,REP,Kristi Racines,516
+Fremont,18-1,State Auditor,,REP,Write-ins,2
+Fremont,18-1,State Auditor,,REP,Over Votes,0
+Fremont,18-1,State Auditor,,REP,Under Votes,105
+Fremont,18-1,State Auditor,,DEM,Write-ins,1
+Fremont,18-1,State Auditor,,DEM,Over Votes,0
+Fremont,18-1,State Auditor,,DEM,Under Votes,19
+Fremont,18-1,State Treasurer,,REP,Curt Meier,341
+Fremont,18-1,State Treasurer,,REP,Scott Smith,202
+Fremont,18-1,State Treasurer,,REP,Write-ins,0
+Fremont,18-1,State Treasurer,,REP,Over Votes,0
+Fremont,18-1,State Treasurer,,REP,Under Votes,80
+Fremont,18-1,State Treasurer,,DEM,Write-ins,2
+Fremont,18-1,State Treasurer,,DEM,Over Votes,0
+Fremont,18-1,State Treasurer,,DEM,Under Votes,18
+Fremont,18-1,Superintendent of Public Instruction,,REP,Chad Auer,63
+Fremont,18-1,Superintendent of Public Instruction,,REP,Steve Harshman,254
+Fremont,18-1,Superintendent of Public Instruction,,REP,Tom Kelly,211
+Fremont,18-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Fremont,18-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,18-1,Superintendent of Public Instruction,,REP,Under Votes,94
+Fremont,18-1,Superintendent of Public Instruction,,DEM,Ana Cordova,12
+Fremont,18-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Fremont,18-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,18-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,18-1,Superintendent of Public Instruction,,DEM,Under Votes,3
+Fremont,18-1,State House,34,REP,Pepper L Ottman,507
+Fremont,18-1,State House,34,REP,Write-ins,22
+Fremont,18-1,State House,34,REP,Over Votes,0
+Fremont,18-1,State House,34,REP,Under Votes,94
+Fremont,18-1,State House,34,DEM,Write-ins,1
+Fremont,18-1,State House,34,DEM,Over Votes,0
+Fremont,18-1,State House,34,DEM,Under Votes,19
+Fremont,18-1,Ballots Cast,,REP,Ballots Cast,623
+Fremont,18-1,Ballots Cast,,DEM,Ballots Cast,20
+Fremont,18-1,Ballots Cast,,NP,Ballots Cast,19
+Fremont,18-1,Ballots Cast,,,Ballots Cast,662
+Fremont,18-2,U.S. Senate,,REP,Harriet Hageman,159
+Fremont,18-2,U.S. Senate,,REP,Jill M Edwards,3
+Fremont,18-2,U.S. Senate,,REP,Jimmy Skovgard,4
+Fremont,18-2,U.S. Senate,,REP,John Holtz,5
+Fremont,18-2,U.S. Senate,,REP,Sam Mead,78
+Fremont,18-2,U.S. Senate,,REP,Write-ins,1
+Fremont,18-2,U.S. Senate,,REP,Over Votes,0
+Fremont,18-2,U.S. Senate,,REP,Under Votes,6
+Fremont,18-2,U.S. Senate,,DEM,Billy Benavidez,0
+Fremont,18-2,U.S. Senate,,DEM,James Byrd,8
+Fremont,18-2,U.S. Senate,,DEM,Write-ins,0
+Fremont,18-2,U.S. Senate,,DEM,Over Votes,0
+Fremont,18-2,U.S. Senate,,DEM,Under Votes,6
+Fremont,18-2,U.S. House,,REP,* Withdrawn Candidate,3
+Fremont,18-2,U.S. House,,REP,Bo Biteman,12
+Fremont,18-2,U.S. House,,REP,Chuck Gray,36
+Fremont,18-2,U.S. House,,REP,David Giralt,24
+Fremont,18-2,U.S. House,,REP,Jillian Balow,24
+Fremont,18-2,U.S. House,,REP,Keith B. Goodenough,3
+Fremont,18-2,U.S. House,,REP,Kevin Christensen,52
+Fremont,18-2,U.S. House,,REP,Reid Rasner,29
+Fremont,18-2,U.S. House,,REP,Richard Dodson,0
+Fremont,18-2,U.S. House,,REP,Steve Friess,60
+Fremont,18-2,U.S. House,,REP,Write-ins,0
+Fremont,18-2,U.S. House,,REP,Over Votes,5
+Fremont,18-2,U.S. House,,REP,Under Votes,8
+Fremont,18-2,U.S. House,,DEM,Elena Del Real,3
+Fremont,18-2,U.S. House,,DEM,Lisa Kinney,6
+Fremont,18-2,U.S. House,,DEM,Write-ins,0
+Fremont,18-2,U.S. House,,DEM,Over Votes,0
+Fremont,18-2,U.S. House,,DEM,Under Votes,5
+Fremont,18-2,Governor,,REP,Brent Bien,51
+Fremont,18-2,Governor,,REP,Curt Blake,2
+Fremont,18-2,Governor,,REP,Eric Barlow,135
+Fremont,18-2,Governor,,REP,Megan Degenfelder,64
+Fremont,18-2,Governor,,REP,Write-ins,1
+Fremont,18-2,Governor,,REP,Over Votes,0
+Fremont,18-2,Governor,,REP,Under Votes,3
+Fremont,18-2,Governor,,DEM,Kenneth R. Casner,7
+Fremont,18-2,Governor,,DEM,Write-ins,2
+Fremont,18-2,Governor,,DEM,Over Votes,0
+Fremont,18-2,Governor,,DEM,Under Votes,5
+Fremont,18-2,Secretary of State,,REP,CJ Young,38
+Fremont,18-2,Secretary of State,,REP,Qwenton Eagle Oviatt,1
+Fremont,18-2,Secretary of State,,REP,Rachel Williams,59
+Fremont,18-2,Secretary of State,,REP,Robert Short,122
+Fremont,18-2,Secretary of State,,REP,Write-ins,0
+Fremont,18-2,Secretary of State,,REP,Over Votes,0
+Fremont,18-2,Secretary of State,,REP,Under Votes,36
+Fremont,18-2,Secretary of State,,DEM,Bryan McCarty,10
+Fremont,18-2,Secretary of State,,DEM,Write-ins,0
+Fremont,18-2,Secretary of State,,DEM,Over Votes,0
+Fremont,18-2,Secretary of State,,DEM,Under Votes,4
+Fremont,18-2,State Auditor,,REP,Kristi Racines,209
+Fremont,18-2,State Auditor,,REP,Write-ins,0
+Fremont,18-2,State Auditor,,REP,Over Votes,0
+Fremont,18-2,State Auditor,,REP,Under Votes,47
+Fremont,18-2,State Auditor,,DEM,Write-ins,1
+Fremont,18-2,State Auditor,,DEM,Over Votes,0
+Fremont,18-2,State Auditor,,DEM,Under Votes,13
+Fremont,18-2,State Treasurer,,REP,Curt Meier,188
+Fremont,18-2,State Treasurer,,REP,Scott Smith,47
+Fremont,18-2,State Treasurer,,REP,Write-ins,0
+Fremont,18-2,State Treasurer,,REP,Over Votes,0
+Fremont,18-2,State Treasurer,,REP,Under Votes,21
+Fremont,18-2,State Treasurer,,DEM,Write-ins,2
+Fremont,18-2,State Treasurer,,DEM,Over Votes,0
+Fremont,18-2,State Treasurer,,DEM,Under Votes,12
+Fremont,18-2,Superintendent of Public Instruction,,REP,Chad Auer,25
+Fremont,18-2,Superintendent of Public Instruction,,REP,Steve Harshman,145
+Fremont,18-2,Superintendent of Public Instruction,,REP,Tom Kelly,51
+Fremont,18-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,18-2,Superintendent of Public Instruction,,REP,Over Votes,1
+Fremont,18-2,Superintendent of Public Instruction,,REP,Under Votes,34
+Fremont,18-2,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Fremont,18-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Fremont,18-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,18-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,18-2,Superintendent of Public Instruction,,DEM,Under Votes,6
+Fremont,18-2,State House,55,REP,Carl Manning,203
+Fremont,18-2,State House,55,REP,Write-ins,4
+Fremont,18-2,State House,55,REP,Over Votes,0
+Fremont,18-2,State House,55,REP,Under Votes,49
+Fremont,18-2,State House,55,DEM,Write-ins,1
+Fremont,18-2,State House,55,DEM,Over Votes,0
+Fremont,18-2,State House,55,DEM,Under Votes,13
+Fremont,18-2,Ballots Cast,,REP,Ballots Cast,256
+Fremont,18-2,Ballots Cast,,DEM,Ballots Cast,14
+Fremont,18-2,Ballots Cast,,NP,Ballots Cast,12
+Fremont,18-2,Ballots Cast,,,Ballots Cast,282
+Fremont,19-1,U.S. Senate,,REP,Harriet Hageman,42
+Fremont,19-1,U.S. Senate,,REP,Jill M Edwards,2
+Fremont,19-1,U.S. Senate,,REP,Jimmy Skovgard,2
+Fremont,19-1,U.S. Senate,,REP,John Holtz,3
+Fremont,19-1,U.S. Senate,,REP,Sam Mead,9
+Fremont,19-1,U.S. Senate,,REP,Write-ins,0
+Fremont,19-1,U.S. Senate,,REP,Over Votes,0
+Fremont,19-1,U.S. Senate,,REP,Under Votes,1
+Fremont,19-1,U.S. Senate,,DEM,Billy Benavidez,0
+Fremont,19-1,U.S. Senate,,DEM,James Byrd,6
+Fremont,19-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,19-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,19-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,19-1,U.S. House,,REP,* Withdrawn Candidate,2
+Fremont,19-1,U.S. House,,REP,Bo Biteman,1
+Fremont,19-1,U.S. House,,REP,Chuck Gray,8
+Fremont,19-1,U.S. House,,REP,David Giralt,3
+Fremont,19-1,U.S. House,,REP,Jillian Balow,4
+Fremont,19-1,U.S. House,,REP,Keith B. Goodenough,2
+Fremont,19-1,U.S. House,,REP,Kevin Christensen,14
+Fremont,19-1,U.S. House,,REP,Reid Rasner,13
+Fremont,19-1,U.S. House,,REP,Richard Dodson,0
+Fremont,19-1,U.S. House,,REP,Steve Friess,7
+Fremont,19-1,U.S. House,,REP,Write-ins,0
+Fremont,19-1,U.S. House,,REP,Over Votes,1
+Fremont,19-1,U.S. House,,REP,Under Votes,4
+Fremont,19-1,U.S. House,,DEM,Elena Del Real,1
+Fremont,19-1,U.S. House,,DEM,Lisa Kinney,5
+Fremont,19-1,U.S. House,,DEM,Write-ins,0
+Fremont,19-1,U.S. House,,DEM,Over Votes,0
+Fremont,19-1,U.S. House,,DEM,Under Votes,0
+Fremont,19-1,Governor,,REP,Brent Bien,21
+Fremont,19-1,Governor,,REP,Curt Blake,1
+Fremont,19-1,Governor,,REP,Eric Barlow,21
+Fremont,19-1,Governor,,REP,Megan Degenfelder,14
+Fremont,19-1,Governor,,REP,Write-ins,0
+Fremont,19-1,Governor,,REP,Over Votes,0
+Fremont,19-1,Governor,,REP,Under Votes,2
+Fremont,19-1,Governor,,DEM,Kenneth R. Casner,6
+Fremont,19-1,Governor,,DEM,Write-ins,0
+Fremont,19-1,Governor,,DEM,Over Votes,0
+Fremont,19-1,Governor,,DEM,Under Votes,0
+Fremont,19-1,Secretary of State,,REP,CJ Young,6
+Fremont,19-1,Secretary of State,,REP,Qwenton Eagle Oviatt,3
+Fremont,19-1,Secretary of State,,REP,Rachel Williams,11
+Fremont,19-1,Secretary of State,,REP,Robert Short,24
+Fremont,19-1,Secretary of State,,REP,Write-ins,0
+Fremont,19-1,Secretary of State,,REP,Over Votes,0
+Fremont,19-1,Secretary of State,,REP,Under Votes,15
+Fremont,19-1,Secretary of State,,DEM,Bryan McCarty,6
+Fremont,19-1,Secretary of State,,DEM,Write-ins,0
+Fremont,19-1,Secretary of State,,DEM,Over Votes,0
+Fremont,19-1,Secretary of State,,DEM,Under Votes,0
+Fremont,19-1,State Auditor,,REP,Kristi Racines,39
+Fremont,19-1,State Auditor,,REP,Write-ins,0
+Fremont,19-1,State Auditor,,REP,Over Votes,0
+Fremont,19-1,State Auditor,,REP,Under Votes,20
+Fremont,19-1,State Auditor,,DEM,Write-ins,2
+Fremont,19-1,State Auditor,,DEM,Over Votes,0
+Fremont,19-1,State Auditor,,DEM,Under Votes,4
+Fremont,19-1,State Treasurer,,REP,Curt Meier,29
+Fremont,19-1,State Treasurer,,REP,Scott Smith,15
+Fremont,19-1,State Treasurer,,REP,Write-ins,0
+Fremont,19-1,State Treasurer,,REP,Over Votes,0
+Fremont,19-1,State Treasurer,,REP,Under Votes,15
+Fremont,19-1,State Treasurer,,DEM,Write-ins,2
+Fremont,19-1,State Treasurer,,DEM,Over Votes,0
+Fremont,19-1,State Treasurer,,DEM,Under Votes,4
+Fremont,19-1,Superintendent of Public Instruction,,REP,Chad Auer,6
+Fremont,19-1,Superintendent of Public Instruction,,REP,Steve Harshman,25
+Fremont,19-1,Superintendent of Public Instruction,,REP,Tom Kelly,13
+Fremont,19-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,19-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,19-1,Superintendent of Public Instruction,,REP,Under Votes,15
+Fremont,19-1,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Fremont,19-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Fremont,19-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,19-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,19-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Fremont,19-1,State Senate,25,REP,Cale Case,15
+Fremont,19-1,State Senate,25,REP,Lisa Wilson,4
+Fremont,19-1,State Senate,25,REP,Write-ins,0
+Fremont,19-1,State Senate,25,REP,Over Votes,0
+Fremont,19-1,State Senate,25,REP,Under Votes,3
+Fremont,19-1,State Senate,25,DEM,Write-ins,0
+Fremont,19-1,State Senate,25,DEM,Over Votes,0
+Fremont,19-1,State Senate,25,DEM,Under Votes,4
+Fremont,19-1,State House,33,REP,Write-ins,1
+Fremont,19-1,State House,33,REP,Over Votes,0
+Fremont,19-1,State House,33,REP,Under Votes,21
+Fremont,19-1,State House,33,DEM,Ivan D. Posey,4
+Fremont,19-1,State House,33,DEM,Write-ins,0
+Fremont,19-1,State House,33,DEM,Over Votes,0
+Fremont,19-1,State House,33,DEM,Under Votes,0
+Fremont,19-1,State House,34,REP,Pepper L Ottman,23
+Fremont,19-1,State House,34,REP,Write-ins,2
+Fremont,19-1,State House,34,REP,Over Votes,0
+Fremont,19-1,State House,34,REP,Under Votes,12
+Fremont,19-1,State House,34,DEM,Write-ins,1
+Fremont,19-1,State House,34,DEM,Over Votes,0
+Fremont,19-1,State House,34,DEM,Under Votes,1
+Fremont,19-1,Ballots Cast,,REP,Ballots Cast,59
+Fremont,19-1,Ballots Cast,,DEM,Ballots Cast,6
+Fremont,19-1,Ballots Cast,,NP,Ballots Cast,1
+Fremont,19-1,Ballots Cast,,,Ballots Cast,66
+Fremont,20-1,U.S. Senate,,REP,Harriet Hageman,150
+Fremont,20-1,U.S. Senate,,REP,Jill M Edwards,1
+Fremont,20-1,U.S. Senate,,REP,Jimmy Skovgard,6
+Fremont,20-1,U.S. Senate,,REP,John Holtz,7
+Fremont,20-1,U.S. Senate,,REP,Sam Mead,35
+Fremont,20-1,U.S. Senate,,REP,Write-ins,0
+Fremont,20-1,U.S. Senate,,REP,Over Votes,0
+Fremont,20-1,U.S. Senate,,REP,Under Votes,9
+Fremont,20-1,U.S. Senate,,DEM,Billy Benavidez,4
+Fremont,20-1,U.S. Senate,,DEM,James Byrd,7
+Fremont,20-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,20-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,20-1,U.S. Senate,,DEM,Under Votes,1
+Fremont,20-1,U.S. House,,REP,* Withdrawn Candidate,3
+Fremont,20-1,U.S. House,,REP,Bo Biteman,4
+Fremont,20-1,U.S. House,,REP,Chuck Gray,60
+Fremont,20-1,U.S. House,,REP,David Giralt,27
+Fremont,20-1,U.S. House,,REP,Jillian Balow,7
+Fremont,20-1,U.S. House,,REP,Keith B. Goodenough,7
+Fremont,20-1,U.S. House,,REP,Kevin Christensen,13
+Fremont,20-1,U.S. House,,REP,Reid Rasner,37
+Fremont,20-1,U.S. House,,REP,Richard Dodson,1
+Fremont,20-1,U.S. House,,REP,Steve Friess,32
+Fremont,20-1,U.S. House,,REP,Write-ins,0
+Fremont,20-1,U.S. House,,REP,Over Votes,4
+Fremont,20-1,U.S. House,,REP,Under Votes,13
+Fremont,20-1,U.S. House,,DEM,Elena Del Real,1
+Fremont,20-1,U.S. House,,DEM,Lisa Kinney,10
+Fremont,20-1,U.S. House,,DEM,Write-ins,0
+Fremont,20-1,U.S. House,,DEM,Over Votes,0
+Fremont,20-1,U.S. House,,DEM,Under Votes,1
+Fremont,20-1,Governor,,REP,Brent Bien,68
+Fremont,20-1,Governor,,REP,Curt Blake,3
+Fremont,20-1,Governor,,REP,Eric Barlow,69
+Fremont,20-1,Governor,,REP,Megan Degenfelder,63
+Fremont,20-1,Governor,,REP,Write-ins,0
+Fremont,20-1,Governor,,REP,Over Votes,0
+Fremont,20-1,Governor,,REP,Under Votes,5
+Fremont,20-1,Governor,,DEM,Kenneth R. Casner,11
+Fremont,20-1,Governor,,DEM,Write-ins,0
+Fremont,20-1,Governor,,DEM,Over Votes,0
+Fremont,20-1,Governor,,DEM,Under Votes,1
+Fremont,20-1,Secretary of State,,REP,CJ Young,27
+Fremont,20-1,Secretary of State,,REP,Qwenton Eagle Oviatt,14
+Fremont,20-1,Secretary of State,,REP,Rachel Williams,55
+Fremont,20-1,Secretary of State,,REP,Robert Short,78
+Fremont,20-1,Secretary of State,,REP,Write-ins,0
+Fremont,20-1,Secretary of State,,REP,Over Votes,0
+Fremont,20-1,Secretary of State,,REP,Under Votes,34
+Fremont,20-1,Secretary of State,,DEM,Bryan McCarty,11
+Fremont,20-1,Secretary of State,,DEM,Write-ins,0
+Fremont,20-1,Secretary of State,,DEM,Over Votes,0
+Fremont,20-1,Secretary of State,,DEM,Under Votes,1
+Fremont,20-1,State Auditor,,REP,Kristi Racines,172
+Fremont,20-1,State Auditor,,REP,Write-ins,1
+Fremont,20-1,State Auditor,,REP,Over Votes,0
+Fremont,20-1,State Auditor,,REP,Under Votes,35
+Fremont,20-1,State Auditor,,DEM,Write-ins,0
+Fremont,20-1,State Auditor,,DEM,Over Votes,0
+Fremont,20-1,State Auditor,,DEM,Under Votes,12
+Fremont,20-1,State Treasurer,,REP,Curt Meier,121
+Fremont,20-1,State Treasurer,,REP,Scott Smith,60
+Fremont,20-1,State Treasurer,,REP,Write-ins,1
+Fremont,20-1,State Treasurer,,REP,Over Votes,0
+Fremont,20-1,State Treasurer,,REP,Under Votes,26
+Fremont,20-1,State Treasurer,,DEM,Write-ins,0
+Fremont,20-1,State Treasurer,,DEM,Over Votes,0
+Fremont,20-1,State Treasurer,,DEM,Under Votes,12
+Fremont,20-1,Superintendent of Public Instruction,,REP,Chad Auer,19
+Fremont,20-1,Superintendent of Public Instruction,,REP,Steve Harshman,88
+Fremont,20-1,Superintendent of Public Instruction,,REP,Tom Kelly,66
+Fremont,20-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,20-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,20-1,Superintendent of Public Instruction,,REP,Under Votes,33
+Fremont,20-1,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Fremont,20-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Fremont,20-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,20-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,20-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Fremont,20-1,State House,28,REP,Allen Hogg,75
+Fremont,20-1,State House,28,REP,Carlin Jones,25
+Fremont,20-1,State House,28,REP,Marshall Keller,70
+Fremont,20-1,State House,28,REP,Roland Luehne,18
+Fremont,20-1,State House,28,REP,Write-ins,0
+Fremont,20-1,State House,28,REP,Over Votes,0
+Fremont,20-1,State House,28,REP,Under Votes,20
+Fremont,20-1,State House,28,DEM,Write-ins,0
+Fremont,20-1,State House,28,DEM,Over Votes,0
+Fremont,20-1,State House,28,DEM,Under Votes,12
+Fremont,20-1,Ballots Cast,,REP,Ballots Cast,208
+Fremont,20-1,Ballots Cast,,DEM,Ballots Cast,12
+Fremont,20-1,Ballots Cast,,NP,Ballots Cast,14
+Fremont,20-1,Ballots Cast,,,Ballots Cast,234
+Fremont,21-1,U.S. Senate,,REP,Harriet Hageman,102
+Fremont,21-1,U.S. Senate,,REP,Jill M Edwards,7
+Fremont,21-1,U.S. Senate,,REP,Jimmy Skovgard,6
+Fremont,21-1,U.S. Senate,,REP,John Holtz,5
+Fremont,21-1,U.S. Senate,,REP,Sam Mead,30
+Fremont,21-1,U.S. Senate,,REP,Write-ins,1
+Fremont,21-1,U.S. Senate,,REP,Over Votes,0
+Fremont,21-1,U.S. Senate,,REP,Under Votes,2
+Fremont,21-1,U.S. Senate,,DEM,Billy Benavidez,0
+Fremont,21-1,U.S. Senate,,DEM,James Byrd,2
+Fremont,21-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,21-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,21-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,21-1,U.S. House,,REP,* Withdrawn Candidate,3
+Fremont,21-1,U.S. House,,REP,Bo Biteman,12
+Fremont,21-1,U.S. House,,REP,Chuck Gray,32
+Fremont,21-1,U.S. House,,REP,David Giralt,11
+Fremont,21-1,U.S. House,,REP,Jillian Balow,22
+Fremont,21-1,U.S. House,,REP,Keith B. Goodenough,7
+Fremont,21-1,U.S. House,,REP,Kevin Christensen,8
+Fremont,21-1,U.S. House,,REP,Reid Rasner,26
+Fremont,21-1,U.S. House,,REP,Richard Dodson,3
+Fremont,21-1,U.S. House,,REP,Steve Friess,16
+Fremont,21-1,U.S. House,,REP,Write-ins,2
+Fremont,21-1,U.S. House,,REP,Over Votes,5
+Fremont,21-1,U.S. House,,REP,Under Votes,6
+Fremont,21-1,U.S. House,,DEM,Elena Del Real,1
+Fremont,21-1,U.S. House,,DEM,Lisa Kinney,1
+Fremont,21-1,U.S. House,,DEM,Write-ins,0
+Fremont,21-1,U.S. House,,DEM,Over Votes,0
+Fremont,21-1,U.S. House,,DEM,Under Votes,0
+Fremont,21-1,Governor,,REP,Brent Bien,30
+Fremont,21-1,Governor,,REP,Curt Blake,5
+Fremont,21-1,Governor,,REP,Eric Barlow,54
+Fremont,21-1,Governor,,REP,Megan Degenfelder,64
+Fremont,21-1,Governor,,REP,Write-ins,0
+Fremont,21-1,Governor,,REP,Over Votes,0
+Fremont,21-1,Governor,,REP,Under Votes,0
+Fremont,21-1,Governor,,DEM,Kenneth R. Casner,2
+Fremont,21-1,Governor,,DEM,Write-ins,0
+Fremont,21-1,Governor,,DEM,Over Votes,0
+Fremont,21-1,Governor,,DEM,Under Votes,0
+Fremont,21-1,Secretary of State,,REP,CJ Young,10
+Fremont,21-1,Secretary of State,,REP,Qwenton Eagle Oviatt,9
+Fremont,21-1,Secretary of State,,REP,Rachel Williams,39
+Fremont,21-1,Secretary of State,,REP,Robert Short,77
+Fremont,21-1,Secretary of State,,REP,Write-ins,2
+Fremont,21-1,Secretary of State,,REP,Over Votes,0
+Fremont,21-1,Secretary of State,,REP,Under Votes,16
+Fremont,21-1,Secretary of State,,DEM,Bryan McCarty,2
+Fremont,21-1,Secretary of State,,DEM,Write-ins,0
+Fremont,21-1,Secretary of State,,DEM,Over Votes,0
+Fremont,21-1,Secretary of State,,DEM,Under Votes,0
+Fremont,21-1,State Auditor,,REP,Kristi Racines,130
+Fremont,21-1,State Auditor,,REP,Write-ins,1
+Fremont,21-1,State Auditor,,REP,Over Votes,0
+Fremont,21-1,State Auditor,,REP,Under Votes,22
+Fremont,21-1,State Auditor,,DEM,Write-ins,0
+Fremont,21-1,State Auditor,,DEM,Over Votes,0
+Fremont,21-1,State Auditor,,DEM,Under Votes,2
+Fremont,21-1,State Treasurer,,REP,Curt Meier,92
+Fremont,21-1,State Treasurer,,REP,Scott Smith,47
+Fremont,21-1,State Treasurer,,REP,Write-ins,3
+Fremont,21-1,State Treasurer,,REP,Over Votes,0
+Fremont,21-1,State Treasurer,,REP,Under Votes,11
+Fremont,21-1,State Treasurer,,DEM,Write-ins,0
+Fremont,21-1,State Treasurer,,DEM,Over Votes,0
+Fremont,21-1,State Treasurer,,DEM,Under Votes,2
+Fremont,21-1,Superintendent of Public Instruction,,REP,Chad Auer,21
+Fremont,21-1,Superintendent of Public Instruction,,REP,Steve Harshman,73
+Fremont,21-1,Superintendent of Public Instruction,,REP,Tom Kelly,40
+Fremont,21-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Fremont,21-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,21-1,Superintendent of Public Instruction,,REP,Under Votes,17
+Fremont,21-1,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Fremont,21-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Fremont,21-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,21-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,21-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Fremont,21-1,State Senate,25,REP,Cale Case,17
+Fremont,21-1,State Senate,25,REP,Lisa Wilson,14
+Fremont,21-1,State Senate,25,REP,Write-ins,0
+Fremont,21-1,State Senate,25,REP,Over Votes,0
+Fremont,21-1,State Senate,25,REP,Under Votes,4
+Fremont,21-1,State Senate,25,DEM,Write-ins,0
+Fremont,21-1,State Senate,25,DEM,Over Votes,0
+Fremont,21-1,State Senate,25,DEM,Under Votes,0
+Fremont,21-1,State House,33,REP,Write-ins,2
+Fremont,21-1,State House,33,REP,Over Votes,0
+Fremont,21-1,State House,33,REP,Under Votes,33
+Fremont,21-1,State House,33,DEM,Ivan D. Posey,0
+Fremont,21-1,State House,33,DEM,Write-ins,0
+Fremont,21-1,State House,33,DEM,Over Votes,0
+Fremont,21-1,State House,33,DEM,Under Votes,0
+Fremont,21-1,State House,34,REP,Pepper L Ottman,101
+Fremont,21-1,State House,34,REP,Write-ins,1
+Fremont,21-1,State House,34,REP,Over Votes,0
+Fremont,21-1,State House,34,REP,Under Votes,16
+Fremont,21-1,State House,34,DEM,Write-ins,0
+Fremont,21-1,State House,34,DEM,Over Votes,0
+Fremont,21-1,State House,34,DEM,Under Votes,2
+Fremont,21-1,Ballots Cast,,REP,Ballots Cast,153
+Fremont,21-1,Ballots Cast,,DEM,Ballots Cast,2
+Fremont,21-1,Ballots Cast,,NP,Ballots Cast,5
+Fremont,21-1,Ballots Cast,,,Ballots Cast,160
+Fremont,22-1,U.S. Senate,,REP,Harriet Hageman,17
+Fremont,22-1,U.S. Senate,,REP,Jill M Edwards,0
+Fremont,22-1,U.S. Senate,,REP,Jimmy Skovgard,1
+Fremont,22-1,U.S. Senate,,REP,John Holtz,0
+Fremont,22-1,U.S. Senate,,REP,Sam Mead,4
+Fremont,22-1,U.S. Senate,,REP,Write-ins,0
+Fremont,22-1,U.S. Senate,,REP,Over Votes,0
+Fremont,22-1,U.S. Senate,,REP,Under Votes,0
+Fremont,22-1,U.S. Senate,,DEM,Billy Benavidez,0
+Fremont,22-1,U.S. Senate,,DEM,James Byrd,1
+Fremont,22-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,22-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,22-1,U.S. Senate,,DEM,Under Votes,0
+Fremont,22-1,U.S. House,,REP,* Withdrawn Candidate,1
+Fremont,22-1,U.S. House,,REP,Bo Biteman,0
+Fremont,22-1,U.S. House,,REP,Chuck Gray,3
+Fremont,22-1,U.S. House,,REP,David Giralt,1
+Fremont,22-1,U.S. House,,REP,Jillian Balow,0
+Fremont,22-1,U.S. House,,REP,Keith B. Goodenough,0
+Fremont,22-1,U.S. House,,REP,Kevin Christensen,4
+Fremont,22-1,U.S. House,,REP,Reid Rasner,3
+Fremont,22-1,U.S. House,,REP,Richard Dodson,0
+Fremont,22-1,U.S. House,,REP,Steve Friess,8
+Fremont,22-1,U.S. House,,REP,Write-ins,0
+Fremont,22-1,U.S. House,,REP,Over Votes,1
+Fremont,22-1,U.S. House,,REP,Under Votes,1
+Fremont,22-1,U.S. House,,DEM,Elena Del Real,1
+Fremont,22-1,U.S. House,,DEM,Lisa Kinney,0
+Fremont,22-1,U.S. House,,DEM,Write-ins,0
+Fremont,22-1,U.S. House,,DEM,Over Votes,0
+Fremont,22-1,U.S. House,,DEM,Under Votes,0
+Fremont,22-1,Governor,,REP,Brent Bien,3
+Fremont,22-1,Governor,,REP,Curt Blake,0
+Fremont,22-1,Governor,,REP,Eric Barlow,8
+Fremont,22-1,Governor,,REP,Megan Degenfelder,11
+Fremont,22-1,Governor,,REP,Write-ins,0
+Fremont,22-1,Governor,,REP,Over Votes,0
+Fremont,22-1,Governor,,REP,Under Votes,0
+Fremont,22-1,Governor,,DEM,Kenneth R. Casner,1
+Fremont,22-1,Governor,,DEM,Write-ins,0
+Fremont,22-1,Governor,,DEM,Over Votes,0
+Fremont,22-1,Governor,,DEM,Under Votes,0
+Fremont,22-1,Secretary of State,,REP,CJ Young,0
+Fremont,22-1,Secretary of State,,REP,Qwenton Eagle Oviatt,1
+Fremont,22-1,Secretary of State,,REP,Rachel Williams,3
+Fremont,22-1,Secretary of State,,REP,Robert Short,14
+Fremont,22-1,Secretary of State,,REP,Write-ins,0
+Fremont,22-1,Secretary of State,,REP,Over Votes,0
+Fremont,22-1,Secretary of State,,REP,Under Votes,4
+Fremont,22-1,Secretary of State,,DEM,Bryan McCarty,1
+Fremont,22-1,Secretary of State,,DEM,Write-ins,0
+Fremont,22-1,Secretary of State,,DEM,Over Votes,0
+Fremont,22-1,Secretary of State,,DEM,Under Votes,0
+Fremont,22-1,State Auditor,,REP,Kristi Racines,21
+Fremont,22-1,State Auditor,,REP,Write-ins,0
+Fremont,22-1,State Auditor,,REP,Over Votes,0
+Fremont,22-1,State Auditor,,REP,Under Votes,1
+Fremont,22-1,State Auditor,,DEM,Write-ins,0
+Fremont,22-1,State Auditor,,DEM,Over Votes,0
+Fremont,22-1,State Auditor,,DEM,Under Votes,1
+Fremont,22-1,State Treasurer,,REP,Curt Meier,18
+Fremont,22-1,State Treasurer,,REP,Scott Smith,2
+Fremont,22-1,State Treasurer,,REP,Write-ins,0
+Fremont,22-1,State Treasurer,,REP,Over Votes,0
+Fremont,22-1,State Treasurer,,REP,Under Votes,2
+Fremont,22-1,State Treasurer,,DEM,Write-ins,0
+Fremont,22-1,State Treasurer,,DEM,Over Votes,0
+Fremont,22-1,State Treasurer,,DEM,Under Votes,1
+Fremont,22-1,Superintendent of Public Instruction,,REP,Chad Auer,2
+Fremont,22-1,Superintendent of Public Instruction,,REP,Steve Harshman,15
+Fremont,22-1,Superintendent of Public Instruction,,REP,Tom Kelly,1
+Fremont,22-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,22-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,22-1,Superintendent of Public Instruction,,REP,Under Votes,4
+Fremont,22-1,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Fremont,22-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Fremont,22-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,22-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,22-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Fremont,22-1,State House,28,REP,Allen Hogg,13
+Fremont,22-1,State House,28,REP,Carlin Jones,2
+Fremont,22-1,State House,28,REP,Marshall Keller,5
+Fremont,22-1,State House,28,REP,Roland Luehne,0
+Fremont,22-1,State House,28,REP,Write-ins,0
+Fremont,22-1,State House,28,REP,Over Votes,0
+Fremont,22-1,State House,28,REP,Under Votes,2
+Fremont,22-1,State House,28,DEM,Write-ins,0
+Fremont,22-1,State House,28,DEM,Over Votes,0
+Fremont,22-1,State House,28,DEM,Under Votes,1
+Fremont,22-1,Ballots Cast,,REP,Ballots Cast,22
+Fremont,22-1,Ballots Cast,,DEM,Ballots Cast,1
+Fremont,22-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,22-1,Ballots Cast,,,Ballots Cast,23
+Fremont,24-1,U.S. Senate,,REP,Harriet Hageman,36
+Fremont,24-1,U.S. Senate,,REP,Jill M Edwards,1
+Fremont,24-1,U.S. Senate,,REP,Jimmy Skovgard,0
+Fremont,24-1,U.S. Senate,,REP,John Holtz,1
+Fremont,24-1,U.S. Senate,,REP,Sam Mead,17
+Fremont,24-1,U.S. Senate,,REP,Write-ins,0
+Fremont,24-1,U.S. Senate,,REP,Over Votes,1
+Fremont,24-1,U.S. Senate,,REP,Under Votes,2
+Fremont,24-1,U.S. Senate,,DEM,Billy Benavidez,2
+Fremont,24-1,U.S. Senate,,DEM,James Byrd,0
+Fremont,24-1,U.S. Senate,,DEM,Write-ins,0
+Fremont,24-1,U.S. Senate,,DEM,Over Votes,0
+Fremont,24-1,U.S. Senate,,DEM,Under Votes,2
+Fremont,24-1,U.S. House,,REP,* Withdrawn Candidate,0
+Fremont,24-1,U.S. House,,REP,Bo Biteman,7
+Fremont,24-1,U.S. House,,REP,Chuck Gray,21
+Fremont,24-1,U.S. House,,REP,David Giralt,3
+Fremont,24-1,U.S. House,,REP,Jillian Balow,2
+Fremont,24-1,U.S. House,,REP,Keith B. Goodenough,2
+Fremont,24-1,U.S. House,,REP,Kevin Christensen,6
+Fremont,24-1,U.S. House,,REP,Reid Rasner,5
+Fremont,24-1,U.S. House,,REP,Richard Dodson,0
+Fremont,24-1,U.S. House,,REP,Steve Friess,9
+Fremont,24-1,U.S. House,,REP,Write-ins,0
+Fremont,24-1,U.S. House,,REP,Over Votes,1
+Fremont,24-1,U.S. House,,REP,Under Votes,2
+Fremont,24-1,U.S. House,,DEM,Elena Del Real,2
+Fremont,24-1,U.S. House,,DEM,Lisa Kinney,0
+Fremont,24-1,U.S. House,,DEM,Write-ins,0
+Fremont,24-1,U.S. House,,DEM,Over Votes,0
+Fremont,24-1,U.S. House,,DEM,Under Votes,2
+Fremont,24-1,Governor,,REP,Brent Bien,32
+Fremont,24-1,Governor,,REP,Curt Blake,0
+Fremont,24-1,Governor,,REP,Eric Barlow,19
+Fremont,24-1,Governor,,REP,Megan Degenfelder,7
+Fremont,24-1,Governor,,REP,Write-ins,0
+Fremont,24-1,Governor,,REP,Over Votes,0
+Fremont,24-1,Governor,,REP,Under Votes,0
+Fremont,24-1,Governor,,DEM,Kenneth R. Casner,2
+Fremont,24-1,Governor,,DEM,Write-ins,0
+Fremont,24-1,Governor,,DEM,Over Votes,0
+Fremont,24-1,Governor,,DEM,Under Votes,2
+Fremont,24-1,Secretary of State,,REP,CJ Young,7
+Fremont,24-1,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Fremont,24-1,Secretary of State,,REP,Rachel Williams,18
+Fremont,24-1,Secretary of State,,REP,Robert Short,17
+Fremont,24-1,Secretary of State,,REP,Write-ins,0
+Fremont,24-1,Secretary of State,,REP,Over Votes,0
+Fremont,24-1,Secretary of State,,REP,Under Votes,10
+Fremont,24-1,Secretary of State,,DEM,Bryan McCarty,2
+Fremont,24-1,Secretary of State,,DEM,Write-ins,0
+Fremont,24-1,Secretary of State,,DEM,Over Votes,0
+Fremont,24-1,Secretary of State,,DEM,Under Votes,2
+Fremont,24-1,State Auditor,,REP,Kristi Racines,40
+Fremont,24-1,State Auditor,,REP,Write-ins,0
+Fremont,24-1,State Auditor,,REP,Over Votes,0
+Fremont,24-1,State Auditor,,REP,Under Votes,18
+Fremont,24-1,State Auditor,,DEM,Write-ins,0
+Fremont,24-1,State Auditor,,DEM,Over Votes,0
+Fremont,24-1,State Auditor,,DEM,Under Votes,4
+Fremont,24-1,State Treasurer,,REP,Curt Meier,21
+Fremont,24-1,State Treasurer,,REP,Scott Smith,29
+Fremont,24-1,State Treasurer,,REP,Write-ins,0
+Fremont,24-1,State Treasurer,,REP,Over Votes,0
+Fremont,24-1,State Treasurer,,REP,Under Votes,8
+Fremont,24-1,State Treasurer,,DEM,Write-ins,0
+Fremont,24-1,State Treasurer,,DEM,Over Votes,0
+Fremont,24-1,State Treasurer,,DEM,Under Votes,4
+Fremont,24-1,Superintendent of Public Instruction,,REP,Chad Auer,3
+Fremont,24-1,Superintendent of Public Instruction,,REP,Steve Harshman,24
+Fremont,24-1,Superintendent of Public Instruction,,REP,Tom Kelly,21
+Fremont,24-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Fremont,24-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Fremont,24-1,Superintendent of Public Instruction,,REP,Under Votes,10
+Fremont,24-1,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Fremont,24-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Fremont,24-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Fremont,24-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Fremont,24-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Fremont,24-1,State Senate,25,REP,Cale Case,18
+Fremont,24-1,State Senate,25,REP,Lisa Wilson,36
+Fremont,24-1,State Senate,25,REP,Write-ins,0
+Fremont,24-1,State Senate,25,REP,Over Votes,1
+Fremont,24-1,State Senate,25,REP,Under Votes,3
+Fremont,24-1,State Senate,25,DEM,Write-ins,0
+Fremont,24-1,State Senate,25,DEM,Over Votes,0
+Fremont,24-1,State Senate,25,DEM,Under Votes,4
+Fremont,24-1,State House,33,REP,Write-ins,14
+Fremont,24-1,State House,33,REP,Over Votes,0
+Fremont,24-1,State House,33,REP,Under Votes,44
+Fremont,24-1,State House,33,DEM,Ivan D. Posey,3
+Fremont,24-1,State House,33,DEM,Write-ins,0
+Fremont,24-1,State House,33,DEM,Over Votes,0
+Fremont,24-1,State House,33,DEM,Under Votes,1
+Fremont,24-1,Ballots Cast,,REP,Ballots Cast,58
+Fremont,24-1,Ballots Cast,,DEM,Ballots Cast,4
+Fremont,24-1,Ballots Cast,,NP,Ballots Cast,0
+Fremont,24-1,Ballots Cast,,,Ballots Cast,62

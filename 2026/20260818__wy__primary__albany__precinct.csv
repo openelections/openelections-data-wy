@@ -1,0 +1,1040 @@
+county,precinct,office,district,party,candidate,votes
+Albany,13-1,U.S. Senate,,REP,Harriet Hageman,212
+Albany,13-1,U.S. Senate,,REP,Jill M Edwards,32
+Albany,13-1,U.S. Senate,,REP,Jimmy Skovgard,30
+Albany,13-1,U.S. Senate,,REP,John Holtz,6
+Albany,13-1,U.S. Senate,,REP,Sam Mead,290
+Albany,13-1,U.S. Senate,,REP,Write-ins,2
+Albany,13-1,U.S. Senate,,REP,Over Votes,1
+Albany,13-1,U.S. Senate,,REP,Under Votes,9
+Albany,13-1,U.S. Senate,,DEM,Billy Benavidez,22
+Albany,13-1,U.S. Senate,,DEM,James Byrd,122
+Albany,13-1,U.S. Senate,,DEM,Write-ins,2
+Albany,13-1,U.S. Senate,,DEM,Over Votes,0
+Albany,13-1,U.S. Senate,,DEM,Under Votes,11
+Albany,13-1,U.S. House,,REP,* Withdrawn Candidate,9
+Albany,13-1,U.S. House,,REP,Bo Biteman,13
+Albany,13-1,U.S. House,,REP,Chuck Gray,107
+Albany,13-1,U.S. House,,REP,David Giralt,29
+Albany,13-1,U.S. House,,REP,Jillian Balow,58
+Albany,13-1,U.S. House,,REP,Keith B. Goodenough,18
+Albany,13-1,U.S. House,,REP,Kevin Christensen,193
+Albany,13-1,U.S. House,,REP,Reid Rasner,29
+Albany,13-1,U.S. House,,REP,Richard Dodson,21
+Albany,13-1,U.S. House,,REP,Steve Friess,79
+Albany,13-1,U.S. House,,REP,Write-ins,2
+Albany,13-1,U.S. House,,REP,Over Votes,6
+Albany,13-1,U.S. House,,REP,Under Votes,18
+Albany,13-1,U.S. House,,DEM,Elena Del Real,10
+Albany,13-1,U.S. House,,DEM,Lisa Kinney,140
+Albany,13-1,U.S. House,,DEM,Write-ins,0
+Albany,13-1,U.S. House,,DEM,Over Votes,1
+Albany,13-1,U.S. House,,DEM,Under Votes,6
+Albany,13-1,Governor,,REP,Brent Bien,87
+Albany,13-1,Governor,,REP,Curt Blake,7
+Albany,13-1,Governor,,REP,Eric Barlow,369
+Albany,13-1,Governor,,REP,Megan Degenfelder,116
+Albany,13-1,Governor,,REP,Write-ins,2
+Albany,13-1,Governor,,REP,Over Votes,0
+Albany,13-1,Governor,,REP,Under Votes,1
+Albany,13-1,Governor,,DEM,Kenneth R. Casner,136
+Albany,13-1,Governor,,DEM,Write-ins,9
+Albany,13-1,Governor,,DEM,Over Votes,0
+Albany,13-1,Governor,,DEM,Under Votes,12
+Albany,13-1,Secretary of State,,REP,CJ Young,81
+Albany,13-1,Secretary of State,,REP,Qwenton Eagle Oviatt,51
+Albany,13-1,Secretary of State,,REP,Rachel Williams,106
+Albany,13-1,Secretary of State,,REP,Robert Short,285
+Albany,13-1,Secretary of State,,REP,Write-ins,5
+Albany,13-1,Secretary of State,,REP,Over Votes,0
+Albany,13-1,Secretary of State,,REP,Under Votes,54
+Albany,13-1,Secretary of State,,DEM,Bryan McCarty,144
+Albany,13-1,Secretary of State,,DEM,Write-ins,2
+Albany,13-1,Secretary of State,,DEM,Over Votes,0
+Albany,13-1,Secretary of State,,DEM,Under Votes,11
+Albany,13-1,State Auditor,,REP,Kristi Racines,422
+Albany,13-1,State Auditor,,REP,Write-ins,3
+Albany,13-1,State Auditor,,REP,Over Votes,0
+Albany,13-1,State Auditor,,REP,Under Votes,157
+Albany,13-1,State Auditor,,DEM,Write-ins,12
+Albany,13-1,State Auditor,,DEM,Over Votes,0
+Albany,13-1,State Auditor,,DEM,Under Votes,145
+Albany,13-1,State Treasurer,,REP,Curt Meier,391
+Albany,13-1,State Treasurer,,REP,Scott Smith,98
+Albany,13-1,State Treasurer,,REP,Write-ins,6
+Albany,13-1,State Treasurer,,REP,Over Votes,0
+Albany,13-1,State Treasurer,,REP,Under Votes,87
+Albany,13-1,State Treasurer,,DEM,Write-ins,15
+Albany,13-1,State Treasurer,,DEM,Over Votes,0
+Albany,13-1,State Treasurer,,DEM,Under Votes,142
+Albany,13-1,Superintendent of Public Instruction,,REP,Chad Auer,74
+Albany,13-1,Superintendent of Public Instruction,,REP,Steve Harshman,330
+Albany,13-1,Superintendent of Public Instruction,,REP,Tom Kelly,123
+Albany,13-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Albany,13-1,Superintendent of Public Instruction,,REP,Over Votes,1
+Albany,13-1,Superintendent of Public Instruction,,REP,Under Votes,52
+Albany,13-1,Superintendent of Public Instruction,,DEM,Ana Cordova,92
+Albany,13-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",47
+Albany,13-1,Superintendent of Public Instruction,,DEM,Write-ins,5
+Albany,13-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,13-1,Superintendent of Public Instruction,,DEM,Under Votes,13
+Albany,13-1,State Senate,9,REP,Write-ins,52
+Albany,13-1,State Senate,9,REP,Over Votes,0
+Albany,13-1,State Senate,9,REP,Under Votes,530
+Albany,13-1,State Senate,9,DEM,Chris Rothfuss,152
+Albany,13-1,State Senate,9,DEM,Write-ins,0
+Albany,13-1,State Senate,9,DEM,Over Votes,0
+Albany,13-1,State Senate,9,DEM,Under Votes,5
+Albany,13-1,State House,13,REP,Shane Swett,326
+Albany,13-1,State House,13,REP,Write-ins,25
+Albany,13-1,State House,13,REP,Over Votes,0
+Albany,13-1,State House,13,REP,Under Votes,231
+Albany,13-1,State House,13,DEM,Ken Chestek,148
+Albany,13-1,State House,13,DEM,Write-ins,3
+Albany,13-1,State House,13,DEM,Over Votes,0
+Albany,13-1,State House,13,DEM,Under Votes,6
+Albany,13-1,Ballots Cast,,REP,Ballots Cast,582
+Albany,13-1,Ballots Cast,,DEM,Ballots Cast,157
+Albany,13-1,Ballots Cast,,NP,Ballots Cast,33
+Albany,13-1,Ballots Cast,,,Ballots Cast,772
+Albany,13-2,U.S. Senate,,REP,Harriet Hageman,16
+Albany,13-2,U.S. Senate,,REP,Jill M Edwards,9
+Albany,13-2,U.S. Senate,,REP,Jimmy Skovgard,6
+Albany,13-2,U.S. Senate,,REP,John Holtz,3
+Albany,13-2,U.S. Senate,,REP,Sam Mead,40
+Albany,13-2,U.S. Senate,,REP,Write-ins,0
+Albany,13-2,U.S. Senate,,REP,Over Votes,1
+Albany,13-2,U.S. Senate,,REP,Under Votes,0
+Albany,13-2,U.S. Senate,,DEM,Billy Benavidez,6
+Albany,13-2,U.S. Senate,,DEM,James Byrd,38
+Albany,13-2,U.S. Senate,,DEM,Write-ins,0
+Albany,13-2,U.S. Senate,,DEM,Over Votes,0
+Albany,13-2,U.S. Senate,,DEM,Under Votes,0
+Albany,13-2,U.S. House,,REP,* Withdrawn Candidate,1
+Albany,13-2,U.S. House,,REP,Bo Biteman,4
+Albany,13-2,U.S. House,,REP,Chuck Gray,4
+Albany,13-2,U.S. House,,REP,David Giralt,6
+Albany,13-2,U.S. House,,REP,Jillian Balow,4
+Albany,13-2,U.S. House,,REP,Keith B. Goodenough,5
+Albany,13-2,U.S. House,,REP,Kevin Christensen,31
+Albany,13-2,U.S. House,,REP,Reid Rasner,3
+Albany,13-2,U.S. House,,REP,Richard Dodson,4
+Albany,13-2,U.S. House,,REP,Steve Friess,10
+Albany,13-2,U.S. House,,REP,Write-ins,0
+Albany,13-2,U.S. House,,REP,Over Votes,1
+Albany,13-2,U.S. House,,REP,Under Votes,2
+Albany,13-2,U.S. House,,DEM,Elena Del Real,5
+Albany,13-2,U.S. House,,DEM,Lisa Kinney,36
+Albany,13-2,U.S. House,,DEM,Write-ins,0
+Albany,13-2,U.S. House,,DEM,Over Votes,1
+Albany,13-2,U.S. House,,DEM,Under Votes,2
+Albany,13-2,Governor,,REP,Brent Bien,13
+Albany,13-2,Governor,,REP,Curt Blake,3
+Albany,13-2,Governor,,REP,Eric Barlow,51
+Albany,13-2,Governor,,REP,Megan Degenfelder,8
+Albany,13-2,Governor,,REP,Write-ins,0
+Albany,13-2,Governor,,REP,Over Votes,0
+Albany,13-2,Governor,,REP,Under Votes,0
+Albany,13-2,Governor,,DEM,Kenneth R. Casner,39
+Albany,13-2,Governor,,DEM,Write-ins,2
+Albany,13-2,Governor,,DEM,Over Votes,0
+Albany,13-2,Governor,,DEM,Under Votes,3
+Albany,13-2,Secretary of State,,REP,CJ Young,10
+Albany,13-2,Secretary of State,,REP,Qwenton Eagle Oviatt,13
+Albany,13-2,Secretary of State,,REP,Rachel Williams,11
+Albany,13-2,Secretary of State,,REP,Robert Short,38
+Albany,13-2,Secretary of State,,REP,Write-ins,0
+Albany,13-2,Secretary of State,,REP,Over Votes,0
+Albany,13-2,Secretary of State,,REP,Under Votes,3
+Albany,13-2,Secretary of State,,DEM,Bryan McCarty,39
+Albany,13-2,Secretary of State,,DEM,Write-ins,1
+Albany,13-2,Secretary of State,,DEM,Over Votes,0
+Albany,13-2,Secretary of State,,DEM,Under Votes,4
+Albany,13-2,State Auditor,,REP,Kristi Racines,58
+Albany,13-2,State Auditor,,REP,Write-ins,0
+Albany,13-2,State Auditor,,REP,Over Votes,0
+Albany,13-2,State Auditor,,REP,Under Votes,17
+Albany,13-2,State Auditor,,DEM,Write-ins,3
+Albany,13-2,State Auditor,,DEM,Over Votes,0
+Albany,13-2,State Auditor,,DEM,Under Votes,41
+Albany,13-2,State Treasurer,,REP,Curt Meier,54
+Albany,13-2,State Treasurer,,REP,Scott Smith,12
+Albany,13-2,State Treasurer,,REP,Write-ins,0
+Albany,13-2,State Treasurer,,REP,Over Votes,0
+Albany,13-2,State Treasurer,,REP,Under Votes,9
+Albany,13-2,State Treasurer,,DEM,Write-ins,3
+Albany,13-2,State Treasurer,,DEM,Over Votes,0
+Albany,13-2,State Treasurer,,DEM,Under Votes,41
+Albany,13-2,Superintendent of Public Instruction,,REP,Chad Auer,14
+Albany,13-2,Superintendent of Public Instruction,,REP,Steve Harshman,44
+Albany,13-2,Superintendent of Public Instruction,,REP,Tom Kelly,10
+Albany,13-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Albany,13-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,13-2,Superintendent of Public Instruction,,REP,Under Votes,7
+Albany,13-2,Superintendent of Public Instruction,,DEM,Ana Cordova,23
+Albany,13-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",14
+Albany,13-2,Superintendent of Public Instruction,,DEM,Write-ins,1
+Albany,13-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,13-2,Superintendent of Public Instruction,,DEM,Under Votes,6
+Albany,13-2,State Senate,9,REP,Write-ins,7
+Albany,13-2,State Senate,9,REP,Over Votes,0
+Albany,13-2,State Senate,9,REP,Under Votes,68
+Albany,13-2,State Senate,9,DEM,Chris Rothfuss,41
+Albany,13-2,State Senate,9,DEM,Write-ins,0
+Albany,13-2,State Senate,9,DEM,Over Votes,0
+Albany,13-2,State Senate,9,DEM,Under Votes,3
+Albany,13-2,State House,13,REP,Shane Swett,39
+Albany,13-2,State House,13,REP,Write-ins,6
+Albany,13-2,State House,13,REP,Over Votes,0
+Albany,13-2,State House,13,REP,Under Votes,30
+Albany,13-2,State House,13,DEM,Ken Chestek,42
+Albany,13-2,State House,13,DEM,Write-ins,0
+Albany,13-2,State House,13,DEM,Over Votes,0
+Albany,13-2,State House,13,DEM,Under Votes,2
+Albany,13-2,Ballots Cast,,REP,Ballots Cast,75
+Albany,13-2,Ballots Cast,,DEM,Ballots Cast,44
+Albany,13-2,Ballots Cast,,NP,Ballots Cast,7
+Albany,13-2,Ballots Cast,,,Ballots Cast,126
+Albany,13-3,U.S. Senate,,REP,Harriet Hageman,169
+Albany,13-3,U.S. Senate,,REP,Jill M Edwards,12
+Albany,13-3,U.S. Senate,,REP,Jimmy Skovgard,22
+Albany,13-3,U.S. Senate,,REP,John Holtz,6
+Albany,13-3,U.S. Senate,,REP,Sam Mead,171
+Albany,13-3,U.S. Senate,,REP,Write-ins,1
+Albany,13-3,U.S. Senate,,REP,Over Votes,1
+Albany,13-3,U.S. Senate,,REP,Under Votes,11
+Albany,13-3,U.S. Senate,,DEM,Billy Benavidez,18
+Albany,13-3,U.S. Senate,,DEM,James Byrd,119
+Albany,13-3,U.S. Senate,,DEM,Write-ins,0
+Albany,13-3,U.S. Senate,,DEM,Over Votes,0
+Albany,13-3,U.S. Senate,,DEM,Under Votes,8
+Albany,13-3,U.S. House,,REP,* Withdrawn Candidate,4
+Albany,13-3,U.S. House,,REP,Bo Biteman,24
+Albany,13-3,U.S. House,,REP,Chuck Gray,69
+Albany,13-3,U.S. House,,REP,David Giralt,31
+Albany,13-3,U.S. House,,REP,Jillian Balow,37
+Albany,13-3,U.S. House,,REP,Keith B. Goodenough,10
+Albany,13-3,U.S. House,,REP,Kevin Christensen,116
+Albany,13-3,U.S. House,,REP,Reid Rasner,26
+Albany,13-3,U.S. House,,REP,Richard Dodson,2
+Albany,13-3,U.S. House,,REP,Steve Friess,57
+Albany,13-3,U.S. House,,REP,Write-ins,2
+Albany,13-3,U.S. House,,REP,Over Votes,6
+Albany,13-3,U.S. House,,REP,Under Votes,9
+Albany,13-3,U.S. House,,DEM,Elena Del Real,15
+Albany,13-3,U.S. House,,DEM,Lisa Kinney,126
+Albany,13-3,U.S. House,,DEM,Write-ins,1
+Albany,13-3,U.S. House,,DEM,Over Votes,1
+Albany,13-3,U.S. House,,DEM,Under Votes,2
+Albany,13-3,Governor,,REP,Brent Bien,78
+Albany,13-3,Governor,,REP,Curt Blake,5
+Albany,13-3,Governor,,REP,Eric Barlow,206
+Albany,13-3,Governor,,REP,Megan Degenfelder,99
+Albany,13-3,Governor,,REP,Write-ins,2
+Albany,13-3,Governor,,REP,Over Votes,0
+Albany,13-3,Governor,,REP,Under Votes,3
+Albany,13-3,Governor,,DEM,Kenneth R. Casner,121
+Albany,13-3,Governor,,DEM,Write-ins,2
+Albany,13-3,Governor,,DEM,Over Votes,1
+Albany,13-3,Governor,,DEM,Under Votes,21
+Albany,13-3,Secretary of State,,REP,CJ Young,55
+Albany,13-3,Secretary of State,,REP,Qwenton Eagle Oviatt,14
+Albany,13-3,Secretary of State,,REP,Rachel Williams,91
+Albany,13-3,Secretary of State,,REP,Robert Short,195
+Albany,13-3,Secretary of State,,REP,Write-ins,2
+Albany,13-3,Secretary of State,,REP,Over Votes,0
+Albany,13-3,Secretary of State,,REP,Under Votes,36
+Albany,13-3,Secretary of State,,DEM,Bryan McCarty,124
+Albany,13-3,Secretary of State,,DEM,Write-ins,0
+Albany,13-3,Secretary of State,,DEM,Over Votes,0
+Albany,13-3,Secretary of State,,DEM,Under Votes,21
+Albany,13-3,State Auditor,,REP,Kristi Racines,306
+Albany,13-3,State Auditor,,REP,Write-ins,2
+Albany,13-3,State Auditor,,REP,Over Votes,0
+Albany,13-3,State Auditor,,REP,Under Votes,85
+Albany,13-3,State Auditor,,DEM,Write-ins,10
+Albany,13-3,State Auditor,,DEM,Over Votes,0
+Albany,13-3,State Auditor,,DEM,Under Votes,135
+Albany,13-3,State Treasurer,,REP,Curt Meier,261
+Albany,13-3,State Treasurer,,REP,Scott Smith,82
+Albany,13-3,State Treasurer,,REP,Write-ins,3
+Albany,13-3,State Treasurer,,REP,Over Votes,0
+Albany,13-3,State Treasurer,,REP,Under Votes,47
+Albany,13-3,State Treasurer,,DEM,Write-ins,7
+Albany,13-3,State Treasurer,,DEM,Over Votes,0
+Albany,13-3,State Treasurer,,DEM,Under Votes,138
+Albany,13-3,Superintendent of Public Instruction,,REP,Chad Auer,50
+Albany,13-3,Superintendent of Public Instruction,,REP,Steve Harshman,230
+Albany,13-3,Superintendent of Public Instruction,,REP,Tom Kelly,85
+Albany,13-3,Superintendent of Public Instruction,,REP,Write-ins,2
+Albany,13-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,13-3,Superintendent of Public Instruction,,REP,Under Votes,26
+Albany,13-3,Superintendent of Public Instruction,,DEM,Ana Cordova,90
+Albany,13-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",41
+Albany,13-3,Superintendent of Public Instruction,,DEM,Write-ins,1
+Albany,13-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,13-3,Superintendent of Public Instruction,,DEM,Under Votes,13
+Albany,13-3,State Senate,9,REP,Write-ins,39
+Albany,13-3,State Senate,9,REP,Over Votes,0
+Albany,13-3,State Senate,9,REP,Under Votes,354
+Albany,13-3,State Senate,9,DEM,Chris Rothfuss,130
+Albany,13-3,State Senate,9,DEM,Write-ins,0
+Albany,13-3,State Senate,9,DEM,Over Votes,0
+Albany,13-3,State Senate,9,DEM,Under Votes,15
+Albany,13-3,State House,13,REP,Shane Swett,244
+Albany,13-3,State House,13,REP,Write-ins,13
+Albany,13-3,State House,13,REP,Over Votes,0
+Albany,13-3,State House,13,REP,Under Votes,136
+Albany,13-3,State House,13,DEM,Ken Chestek,127
+Albany,13-3,State House,13,DEM,Write-ins,1
+Albany,13-3,State House,13,DEM,Over Votes,0
+Albany,13-3,State House,13,DEM,Under Votes,17
+Albany,13-3,Ballots Cast,,REP,Ballots Cast,393
+Albany,13-3,Ballots Cast,,DEM,Ballots Cast,145
+Albany,13-3,Ballots Cast,,NP,Ballots Cast,29
+Albany,13-3,Ballots Cast,,,Ballots Cast,567
+Albany,14-0,U.S. Senate,,REP,Harriet Hageman,246
+Albany,14-0,U.S. Senate,,REP,Jill M Edwards,6
+Albany,14-0,U.S. Senate,,REP,Jimmy Skovgard,7
+Albany,14-0,U.S. Senate,,REP,John Holtz,11
+Albany,14-0,U.S. Senate,,REP,Sam Mead,75
+Albany,14-0,U.S. Senate,,REP,Write-ins,1
+Albany,14-0,U.S. Senate,,REP,Over Votes,1
+Albany,14-0,U.S. Senate,,REP,Under Votes,6
+Albany,14-0,U.S. Senate,,DEM,Billy Benavidez,4
+Albany,14-0,U.S. Senate,,DEM,James Byrd,24
+Albany,14-0,U.S. Senate,,DEM,Write-ins,1
+Albany,14-0,U.S. Senate,,DEM,Over Votes,0
+Albany,14-0,U.S. Senate,,DEM,Under Votes,2
+Albany,14-0,U.S. House,,REP,* Withdrawn Candidate,6
+Albany,14-0,U.S. House,,REP,Bo Biteman,18
+Albany,14-0,U.S. House,,REP,Chuck Gray,110
+Albany,14-0,U.S. House,,REP,David Giralt,31
+Albany,14-0,U.S. House,,REP,Jillian Balow,32
+Albany,14-0,U.S. House,,REP,Keith B. Goodenough,8
+Albany,14-0,U.S. House,,REP,Kevin Christensen,43
+Albany,14-0,U.S. House,,REP,Reid Rasner,35
+Albany,14-0,U.S. House,,REP,Richard Dodson,4
+Albany,14-0,U.S. House,,REP,Steve Friess,46
+Albany,14-0,U.S. House,,REP,Write-ins,1
+Albany,14-0,U.S. House,,REP,Over Votes,7
+Albany,14-0,U.S. House,,REP,Under Votes,12
+Albany,14-0,U.S. House,,DEM,Elena Del Real,1
+Albany,14-0,U.S. House,,DEM,Lisa Kinney,28
+Albany,14-0,U.S. House,,DEM,Write-ins,1
+Albany,14-0,U.S. House,,DEM,Over Votes,0
+Albany,14-0,U.S. House,,DEM,Under Votes,1
+Albany,14-0,Governor,,REP,Brent Bien,105
+Albany,14-0,Governor,,REP,Curt Blake,9
+Albany,14-0,Governor,,REP,Eric Barlow,143
+Albany,14-0,Governor,,REP,Megan Degenfelder,93
+Albany,14-0,Governor,,REP,Write-ins,0
+Albany,14-0,Governor,,REP,Over Votes,0
+Albany,14-0,Governor,,REP,Under Votes,3
+Albany,14-0,Governor,,DEM,Kenneth R. Casner,25
+Albany,14-0,Governor,,DEM,Write-ins,3
+Albany,14-0,Governor,,DEM,Over Votes,0
+Albany,14-0,Governor,,DEM,Under Votes,3
+Albany,14-0,Secretary of State,,REP,CJ Young,32
+Albany,14-0,Secretary of State,,REP,Qwenton Eagle Oviatt,28
+Albany,14-0,Secretary of State,,REP,Rachel Williams,80
+Albany,14-0,Secretary of State,,REP,Robert Short,172
+Albany,14-0,Secretary of State,,REP,Write-ins,1
+Albany,14-0,Secretary of State,,REP,Over Votes,1
+Albany,14-0,Secretary of State,,REP,Under Votes,39
+Albany,14-0,Secretary of State,,DEM,Bryan McCarty,27
+Albany,14-0,Secretary of State,,DEM,Write-ins,2
+Albany,14-0,Secretary of State,,DEM,Over Votes,0
+Albany,14-0,Secretary of State,,DEM,Under Votes,2
+Albany,14-0,State Auditor,,REP,Kristi Racines,289
+Albany,14-0,State Auditor,,REP,Write-ins,1
+Albany,14-0,State Auditor,,REP,Over Votes,0
+Albany,14-0,State Auditor,,REP,Under Votes,63
+Albany,14-0,State Auditor,,DEM,Write-ins,2
+Albany,14-0,State Auditor,,DEM,Over Votes,0
+Albany,14-0,State Auditor,,DEM,Under Votes,29
+Albany,14-0,State Treasurer,,REP,Curt Meier,233
+Albany,14-0,State Treasurer,,REP,Scott Smith,76
+Albany,14-0,State Treasurer,,REP,Write-ins,0
+Albany,14-0,State Treasurer,,REP,Over Votes,0
+Albany,14-0,State Treasurer,,REP,Under Votes,44
+Albany,14-0,State Treasurer,,DEM,Write-ins,2
+Albany,14-0,State Treasurer,,DEM,Over Votes,0
+Albany,14-0,State Treasurer,,DEM,Under Votes,29
+Albany,14-0,Superintendent of Public Instruction,,REP,Chad Auer,27
+Albany,14-0,Superintendent of Public Instruction,,REP,Steve Harshman,197
+Albany,14-0,Superintendent of Public Instruction,,REP,Tom Kelly,87
+Albany,14-0,Superintendent of Public Instruction,,REP,Write-ins,0
+Albany,14-0,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,14-0,Superintendent of Public Instruction,,REP,Under Votes,42
+Albany,14-0,Superintendent of Public Instruction,,DEM,Ana Cordova,16
+Albany,14-0,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",12
+Albany,14-0,Superintendent of Public Instruction,,DEM,Write-ins,1
+Albany,14-0,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,14-0,Superintendent of Public Instruction,,DEM,Under Votes,2
+Albany,14-0,State House,14,REP,Emily Study,272
+Albany,14-0,State House,14,REP,Write-ins,7
+Albany,14-0,State House,14,REP,Over Votes,0
+Albany,14-0,State House,14,REP,Under Votes,74
+Albany,14-0,State House,14,DEM,Trey Sherwood,30
+Albany,14-0,State House,14,DEM,Write-ins,0
+Albany,14-0,State House,14,DEM,Over Votes,0
+Albany,14-0,State House,14,DEM,Under Votes,1
+Albany,14-0,Ballots Cast,,REP,Ballots Cast,353
+Albany,14-0,Ballots Cast,,DEM,Ballots Cast,31
+Albany,14-0,Ballots Cast,,NP,Ballots Cast,0
+Albany,14-0,Ballots Cast,,,Ballots Cast,384
+Albany,14-2,U.S. Senate,,REP,Harriet Hageman,50
+Albany,14-2,U.S. Senate,,REP,Jill M Edwards,5
+Albany,14-2,U.S. Senate,,REP,Jimmy Skovgard,3
+Albany,14-2,U.S. Senate,,REP,John Holtz,5
+Albany,14-2,U.S. Senate,,REP,Sam Mead,34
+Albany,14-2,U.S. Senate,,REP,Write-ins,0
+Albany,14-2,U.S. Senate,,REP,Over Votes,0
+Albany,14-2,U.S. Senate,,REP,Under Votes,3
+Albany,14-2,U.S. Senate,,DEM,Billy Benavidez,9
+Albany,14-2,U.S. Senate,,DEM,James Byrd,34
+Albany,14-2,U.S. Senate,,DEM,Write-ins,2
+Albany,14-2,U.S. Senate,,DEM,Over Votes,0
+Albany,14-2,U.S. Senate,,DEM,Under Votes,5
+Albany,14-2,U.S. House,,REP,* Withdrawn Candidate,2
+Albany,14-2,U.S. House,,REP,Bo Biteman,1
+Albany,14-2,U.S. House,,REP,Chuck Gray,31
+Albany,14-2,U.S. House,,REP,David Giralt,6
+Albany,14-2,U.S. House,,REP,Jillian Balow,12
+Albany,14-2,U.S. House,,REP,Keith B. Goodenough,8
+Albany,14-2,U.S. House,,REP,Kevin Christensen,13
+Albany,14-2,U.S. House,,REP,Reid Rasner,8
+Albany,14-2,U.S. House,,REP,Richard Dodson,2
+Albany,14-2,U.S. House,,REP,Steve Friess,11
+Albany,14-2,U.S. House,,REP,Write-ins,1
+Albany,14-2,U.S. House,,REP,Over Votes,4
+Albany,14-2,U.S. House,,REP,Under Votes,1
+Albany,14-2,U.S. House,,DEM,Elena Del Real,6
+Albany,14-2,U.S. House,,DEM,Lisa Kinney,41
+Albany,14-2,U.S. House,,DEM,Write-ins,0
+Albany,14-2,U.S. House,,DEM,Over Votes,0
+Albany,14-2,U.S. House,,DEM,Under Votes,3
+Albany,14-2,Governor,,REP,Brent Bien,21
+Albany,14-2,Governor,,REP,Curt Blake,4
+Albany,14-2,Governor,,REP,Eric Barlow,47
+Albany,14-2,Governor,,REP,Megan Degenfelder,26
+Albany,14-2,Governor,,REP,Write-ins,0
+Albany,14-2,Governor,,REP,Over Votes,0
+Albany,14-2,Governor,,REP,Under Votes,2
+Albany,14-2,Governor,,DEM,Kenneth R. Casner,44
+Albany,14-2,Governor,,DEM,Write-ins,1
+Albany,14-2,Governor,,DEM,Over Votes,0
+Albany,14-2,Governor,,DEM,Under Votes,5
+Albany,14-2,Secretary of State,,REP,CJ Young,10
+Albany,14-2,Secretary of State,,REP,Qwenton Eagle Oviatt,11
+Albany,14-2,Secretary of State,,REP,Rachel Williams,25
+Albany,14-2,Secretary of State,,REP,Robert Short,44
+Albany,14-2,Secretary of State,,REP,Write-ins,0
+Albany,14-2,Secretary of State,,REP,Over Votes,0
+Albany,14-2,Secretary of State,,REP,Under Votes,10
+Albany,14-2,Secretary of State,,DEM,Bryan McCarty,45
+Albany,14-2,Secretary of State,,DEM,Write-ins,1
+Albany,14-2,Secretary of State,,DEM,Over Votes,0
+Albany,14-2,Secretary of State,,DEM,Under Votes,4
+Albany,14-2,State Auditor,,REP,Kristi Racines,83
+Albany,14-2,State Auditor,,REP,Write-ins,1
+Albany,14-2,State Auditor,,REP,Over Votes,0
+Albany,14-2,State Auditor,,REP,Under Votes,16
+Albany,14-2,State Auditor,,DEM,Write-ins,3
+Albany,14-2,State Auditor,,DEM,Over Votes,0
+Albany,14-2,State Auditor,,DEM,Under Votes,47
+Albany,14-2,State Treasurer,,REP,Curt Meier,65
+Albany,14-2,State Treasurer,,REP,Scott Smith,21
+Albany,14-2,State Treasurer,,REP,Write-ins,0
+Albany,14-2,State Treasurer,,REP,Over Votes,0
+Albany,14-2,State Treasurer,,REP,Under Votes,14
+Albany,14-2,State Treasurer,,DEM,Write-ins,4
+Albany,14-2,State Treasurer,,DEM,Over Votes,0
+Albany,14-2,State Treasurer,,DEM,Under Votes,46
+Albany,14-2,Superintendent of Public Instruction,,REP,Chad Auer,15
+Albany,14-2,Superintendent of Public Instruction,,REP,Steve Harshman,57
+Albany,14-2,Superintendent of Public Instruction,,REP,Tom Kelly,22
+Albany,14-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Albany,14-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,14-2,Superintendent of Public Instruction,,REP,Under Votes,6
+Albany,14-2,Superintendent of Public Instruction,,DEM,Ana Cordova,38
+Albany,14-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Albany,14-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Albany,14-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,14-2,Superintendent of Public Instruction,,DEM,Under Votes,4
+Albany,14-2,State House,14,REP,Emily Study,76
+Albany,14-2,State House,14,REP,Write-ins,1
+Albany,14-2,State House,14,REP,Over Votes,0
+Albany,14-2,State House,14,REP,Under Votes,23
+Albany,14-2,State House,14,DEM,Trey Sherwood,48
+Albany,14-2,State House,14,DEM,Write-ins,0
+Albany,14-2,State House,14,DEM,Over Votes,0
+Albany,14-2,State House,14,DEM,Under Votes,2
+Albany,14-2,Ballots Cast,,REP,Ballots Cast,100
+Albany,14-2,Ballots Cast,,DEM,Ballots Cast,50
+Albany,14-2,Ballots Cast,,NP,Ballots Cast,7
+Albany,14-2,Ballots Cast,,,Ballots Cast,157
+Albany,14-3,U.S. Senate,,REP,Harriet Hageman,510
+Albany,14-3,U.S. Senate,,REP,Jill M Edwards,97
+Albany,14-3,U.S. Senate,,REP,Jimmy Skovgard,75
+Albany,14-3,U.S. Senate,,REP,John Holtz,33
+Albany,14-3,U.S. Senate,,REP,Sam Mead,653
+Albany,14-3,U.S. Senate,,REP,Write-ins,11
+Albany,14-3,U.S. Senate,,REP,Over Votes,0
+Albany,14-3,U.S. Senate,,REP,Under Votes,19
+Albany,14-3,U.S. Senate,,DEM,Billy Benavidez,61
+Albany,14-3,U.S. Senate,,DEM,James Byrd,297
+Albany,14-3,U.S. Senate,,DEM,Write-ins,4
+Albany,14-3,U.S. Senate,,DEM,Over Votes,0
+Albany,14-3,U.S. Senate,,DEM,Under Votes,20
+Albany,14-3,U.S. House,,REP,* Withdrawn Candidate,13
+Albany,14-3,U.S. House,,REP,Bo Biteman,67
+Albany,14-3,U.S. House,,REP,Chuck Gray,187
+Albany,14-3,U.S. House,,REP,David Giralt,104
+Albany,14-3,U.S. House,,REP,Jillian Balow,152
+Albany,14-3,U.S. House,,REP,Keith B. Goodenough,42
+Albany,14-3,U.S. House,,REP,Kevin Christensen,409
+Albany,14-3,U.S. House,,REP,Reid Rasner,74
+Albany,14-3,U.S. House,,REP,Richard Dodson,41
+Albany,14-3,U.S. House,,REP,Steve Friess,239
+Albany,14-3,U.S. House,,REP,Write-ins,11
+Albany,14-3,U.S. House,,REP,Over Votes,28
+Albany,14-3,U.S. House,,REP,Under Votes,31
+Albany,14-3,U.S. House,,DEM,Elena Del Real,31
+Albany,14-3,U.S. House,,DEM,Lisa Kinney,341
+Albany,14-3,U.S. House,,DEM,Write-ins,1
+Albany,14-3,U.S. House,,DEM,Over Votes,1
+Albany,14-3,U.S. House,,DEM,Under Votes,8
+Albany,14-3,Governor,,REP,Brent Bien,187
+Albany,14-3,Governor,,REP,Curt Blake,28
+Albany,14-3,Governor,,REP,Eric Barlow,909
+Albany,14-3,Governor,,REP,Megan Degenfelder,262
+Albany,14-3,Governor,,REP,Write-ins,2
+Albany,14-3,Governor,,REP,Over Votes,0
+Albany,14-3,Governor,,REP,Under Votes,10
+Albany,14-3,Governor,,DEM,Kenneth R. Casner,323
+Albany,14-3,Governor,,DEM,Write-ins,13
+Albany,14-3,Governor,,DEM,Over Votes,0
+Albany,14-3,Governor,,DEM,Under Votes,46
+Albany,14-3,Secretary of State,,REP,CJ Young,193
+Albany,14-3,Secretary of State,,REP,Qwenton Eagle Oviatt,119
+Albany,14-3,Secretary of State,,REP,Rachel Williams,229
+Albany,14-3,Secretary of State,,REP,Robert Short,742
+Albany,14-3,Secretary of State,,REP,Write-ins,9
+Albany,14-3,Secretary of State,,REP,Over Votes,0
+Albany,14-3,Secretary of State,,REP,Under Votes,106
+Albany,14-3,Secretary of State,,DEM,Bryan McCarty,336
+Albany,14-3,Secretary of State,,DEM,Write-ins,2
+Albany,14-3,Secretary of State,,DEM,Over Votes,0
+Albany,14-3,Secretary of State,,DEM,Under Votes,44
+Albany,14-3,State Auditor,,REP,Kristi Racines,1056
+Albany,14-3,State Auditor,,REP,Write-ins,10
+Albany,14-3,State Auditor,,REP,Over Votes,0
+Albany,14-3,State Auditor,,REP,Under Votes,332
+Albany,14-3,State Auditor,,DEM,Write-ins,18
+Albany,14-3,State Auditor,,DEM,Over Votes,0
+Albany,14-3,State Auditor,,DEM,Under Votes,364
+Albany,14-3,State Treasurer,,REP,Curt Meier,1023
+Albany,14-3,State Treasurer,,REP,Scott Smith,216
+Albany,14-3,State Treasurer,,REP,Write-ins,4
+Albany,14-3,State Treasurer,,REP,Over Votes,1
+Albany,14-3,State Treasurer,,REP,Under Votes,154
+Albany,14-3,State Treasurer,,DEM,Write-ins,23
+Albany,14-3,State Treasurer,,DEM,Over Votes,0
+Albany,14-3,State Treasurer,,DEM,Under Votes,359
+Albany,14-3,Superintendent of Public Instruction,,REP,Chad Auer,178
+Albany,14-3,Superintendent of Public Instruction,,REP,Steve Harshman,865
+Albany,14-3,Superintendent of Public Instruction,,REP,Tom Kelly,254
+Albany,14-3,Superintendent of Public Instruction,,REP,Write-ins,5
+Albany,14-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,14-3,Superintendent of Public Instruction,,REP,Under Votes,96
+Albany,14-3,Superintendent of Public Instruction,,DEM,Ana Cordova,216
+Albany,14-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",124
+Albany,14-3,Superintendent of Public Instruction,,DEM,Write-ins,5
+Albany,14-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,14-3,Superintendent of Public Instruction,,DEM,Under Votes,37
+Albany,14-3,State House,14,REP,Emily Study,929
+Albany,14-3,State House,14,REP,Write-ins,40
+Albany,14-3,State House,14,REP,Over Votes,0
+Albany,14-3,State House,14,REP,Under Votes,429
+Albany,14-3,State House,14,DEM,Trey Sherwood,365
+Albany,14-3,State House,14,DEM,Write-ins,1
+Albany,14-3,State House,14,DEM,Over Votes,0
+Albany,14-3,State House,14,DEM,Under Votes,16
+Albany,14-3,Ballots Cast,,REP,Ballots Cast,1398
+Albany,14-3,Ballots Cast,,DEM,Ballots Cast,382
+Albany,14-3,Ballots Cast,,NP,Ballots Cast,78
+Albany,14-3,Ballots Cast,,,Ballots Cast,1858
+Albany,45-1,U.S. Senate,,REP,Harriet Hageman,180
+Albany,45-1,U.S. Senate,,REP,Jill M Edwards,50
+Albany,45-1,U.S. Senate,,REP,Jimmy Skovgard,38
+Albany,45-1,U.S. Senate,,REP,John Holtz,19
+Albany,45-1,U.S. Senate,,REP,Sam Mead,451
+Albany,45-1,U.S. Senate,,REP,Write-ins,5
+Albany,45-1,U.S. Senate,,REP,Over Votes,1
+Albany,45-1,U.S. Senate,,REP,Under Votes,21
+Albany,45-1,U.S. Senate,,DEM,Billy Benavidez,58
+Albany,45-1,U.S. Senate,,DEM,James Byrd,215
+Albany,45-1,U.S. Senate,,DEM,Write-ins,3
+Albany,45-1,U.S. Senate,,DEM,Over Votes,0
+Albany,45-1,U.S. Senate,,DEM,Under Votes,22
+Albany,45-1,U.S. House,,REP,* Withdrawn Candidate,8
+Albany,45-1,U.S. House,,REP,Bo Biteman,32
+Albany,45-1,U.S. House,,REP,Chuck Gray,92
+Albany,45-1,U.S. House,,REP,David Giralt,34
+Albany,45-1,U.S. House,,REP,Jillian Balow,62
+Albany,45-1,U.S. House,,REP,Keith B. Goodenough,52
+Albany,45-1,U.S. House,,REP,Kevin Christensen,279
+Albany,45-1,U.S. House,,REP,Reid Rasner,29
+Albany,45-1,U.S. House,,REP,Richard Dodson,41
+Albany,45-1,U.S. House,,REP,Steve Friess,89
+Albany,45-1,U.S. House,,REP,Write-ins,4
+Albany,45-1,U.S. House,,REP,Over Votes,18
+Albany,45-1,U.S. House,,REP,Under Votes,25
+Albany,45-1,U.S. House,,DEM,Elena Del Real,35
+Albany,45-1,U.S. House,,DEM,Lisa Kinney,252
+Albany,45-1,U.S. House,,DEM,Write-ins,2
+Albany,45-1,U.S. House,,DEM,Over Votes,0
+Albany,45-1,U.S. House,,DEM,Under Votes,9
+Albany,45-1,Governor,,REP,Brent Bien,104
+Albany,45-1,Governor,,REP,Curt Blake,16
+Albany,45-1,Governor,,REP,Eric Barlow,549
+Albany,45-1,Governor,,REP,Megan Degenfelder,91
+Albany,45-1,Governor,,REP,Write-ins,2
+Albany,45-1,Governor,,REP,Over Votes,1
+Albany,45-1,Governor,,REP,Under Votes,2
+Albany,45-1,Governor,,DEM,Kenneth R. Casner,242
+Albany,45-1,Governor,,DEM,Write-ins,10
+Albany,45-1,Governor,,DEM,Over Votes,0
+Albany,45-1,Governor,,DEM,Under Votes,46
+Albany,45-1,Secretary of State,,REP,CJ Young,108
+Albany,45-1,Secretary of State,,REP,Qwenton Eagle Oviatt,110
+Albany,45-1,Secretary of State,,REP,Rachel Williams,108
+Albany,45-1,Secretary of State,,REP,Robert Short,376
+Albany,45-1,Secretary of State,,REP,Write-ins,5
+Albany,45-1,Secretary of State,,REP,Over Votes,0
+Albany,45-1,Secretary of State,,REP,Under Votes,58
+Albany,45-1,Secretary of State,,DEM,Bryan McCarty,248
+Albany,45-1,Secretary of State,,DEM,Write-ins,6
+Albany,45-1,Secretary of State,,DEM,Over Votes,1
+Albany,45-1,Secretary of State,,DEM,Under Votes,43
+Albany,45-1,State Auditor,,REP,Kristi Racines,516
+Albany,45-1,State Auditor,,REP,Write-ins,7
+Albany,45-1,State Auditor,,REP,Over Votes,0
+Albany,45-1,State Auditor,,REP,Under Votes,242
+Albany,45-1,State Auditor,,DEM,Write-ins,20
+Albany,45-1,State Auditor,,DEM,Over Votes,0
+Albany,45-1,State Auditor,,DEM,Under Votes,278
+Albany,45-1,State Treasurer,,REP,Curt Meier,538
+Albany,45-1,State Treasurer,,REP,Scott Smith,114
+Albany,45-1,State Treasurer,,REP,Write-ins,6
+Albany,45-1,State Treasurer,,REP,Over Votes,0
+Albany,45-1,State Treasurer,,REP,Under Votes,107
+Albany,45-1,State Treasurer,,DEM,Write-ins,20
+Albany,45-1,State Treasurer,,DEM,Over Votes,0
+Albany,45-1,State Treasurer,,DEM,Under Votes,278
+Albany,45-1,Superintendent of Public Instruction,,REP,Chad Auer,115
+Albany,45-1,Superintendent of Public Instruction,,REP,Steve Harshman,445
+Albany,45-1,Superintendent of Public Instruction,,REP,Tom Kelly,131
+Albany,45-1,Superintendent of Public Instruction,,REP,Write-ins,6
+Albany,45-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,45-1,Superintendent of Public Instruction,,REP,Under Votes,68
+Albany,45-1,Superintendent of Public Instruction,,DEM,Ana Cordova,178
+Albany,45-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",81
+Albany,45-1,Superintendent of Public Instruction,,DEM,Write-ins,4
+Albany,45-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,45-1,Superintendent of Public Instruction,,DEM,Under Votes,35
+Albany,45-1,State Senate,9,REP,Write-ins,71
+Albany,45-1,State Senate,9,REP,Over Votes,0
+Albany,45-1,State Senate,9,REP,Under Votes,694
+Albany,45-1,State Senate,9,DEM,Chris Rothfuss,278
+Albany,45-1,State Senate,9,DEM,Write-ins,1
+Albany,45-1,State Senate,9,DEM,Over Votes,0
+Albany,45-1,State Senate,9,DEM,Under Votes,19
+Albany,45-1,State House,45,REP,Ross Davenport,360
+Albany,45-1,State House,45,REP,Write-ins,29
+Albany,45-1,State House,45,REP,Over Votes,0
+Albany,45-1,State House,45,REP,Under Votes,376
+Albany,45-1,State House,45,DEM,Karlee Provenza,280
+Albany,45-1,State House,45,DEM,Write-ins,1
+Albany,45-1,State House,45,DEM,Over Votes,0
+Albany,45-1,State House,45,DEM,Under Votes,17
+Albany,45-1,Ballots Cast,,REP,Ballots Cast,765
+Albany,45-1,Ballots Cast,,DEM,Ballots Cast,298
+Albany,45-1,Ballots Cast,,NP,Ballots Cast,53
+Albany,45-1,Ballots Cast,,,Ballots Cast,1116
+Albany,45-2,U.S. Senate,,REP,Harriet Hageman,122
+Albany,45-2,U.S. Senate,,REP,Jill M Edwards,28
+Albany,45-2,U.S. Senate,,REP,Jimmy Skovgard,28
+Albany,45-2,U.S. Senate,,REP,John Holtz,10
+Albany,45-2,U.S. Senate,,REP,Sam Mead,241
+Albany,45-2,U.S. Senate,,REP,Write-ins,1
+Albany,45-2,U.S. Senate,,REP,Over Votes,0
+Albany,45-2,U.S. Senate,,REP,Under Votes,10
+Albany,45-2,U.S. Senate,,DEM,Billy Benavidez,41
+Albany,45-2,U.S. Senate,,DEM,James Byrd,159
+Albany,45-2,U.S. Senate,,DEM,Write-ins,7
+Albany,45-2,U.S. Senate,,DEM,Over Votes,0
+Albany,45-2,U.S. Senate,,DEM,Under Votes,13
+Albany,45-2,U.S. House,,REP,* Withdrawn Candidate,7
+Albany,45-2,U.S. House,,REP,Bo Biteman,16
+Albany,45-2,U.S. House,,REP,Chuck Gray,60
+Albany,45-2,U.S. House,,REP,David Giralt,15
+Albany,45-2,U.S. House,,REP,Jillian Balow,25
+Albany,45-2,U.S. House,,REP,Keith B. Goodenough,22
+Albany,45-2,U.S. House,,REP,Kevin Christensen,174
+Albany,45-2,U.S. House,,REP,Reid Rasner,24
+Albany,45-2,U.S. House,,REP,Richard Dodson,23
+Albany,45-2,U.S. House,,REP,Steve Friess,59
+Albany,45-2,U.S. House,,REP,Write-ins,0
+Albany,45-2,U.S. House,,REP,Over Votes,5
+Albany,45-2,U.S. House,,REP,Under Votes,10
+Albany,45-2,U.S. House,,DEM,Elena Del Real,23
+Albany,45-2,U.S. House,,DEM,Lisa Kinney,185
+Albany,45-2,U.S. House,,DEM,Write-ins,4
+Albany,45-2,U.S. House,,DEM,Over Votes,1
+Albany,45-2,U.S. House,,DEM,Under Votes,7
+Albany,45-2,Governor,,REP,Brent Bien,72
+Albany,45-2,Governor,,REP,Curt Blake,14
+Albany,45-2,Governor,,REP,Eric Barlow,291
+Albany,45-2,Governor,,REP,Megan Degenfelder,60
+Albany,45-2,Governor,,REP,Write-ins,1
+Albany,45-2,Governor,,REP,Over Votes,0
+Albany,45-2,Governor,,REP,Under Votes,2
+Albany,45-2,Governor,,DEM,Kenneth R. Casner,184
+Albany,45-2,Governor,,DEM,Write-ins,8
+Albany,45-2,Governor,,DEM,Over Votes,0
+Albany,45-2,Governor,,DEM,Under Votes,28
+Albany,45-2,Secretary of State,,REP,CJ Young,55
+Albany,45-2,Secretary of State,,REP,Qwenton Eagle Oviatt,52
+Albany,45-2,Secretary of State,,REP,Rachel Williams,61
+Albany,45-2,Secretary of State,,REP,Robert Short,234
+Albany,45-2,Secretary of State,,REP,Write-ins,0
+Albany,45-2,Secretary of State,,REP,Over Votes,0
+Albany,45-2,Secretary of State,,REP,Under Votes,38
+Albany,45-2,Secretary of State,,DEM,Bryan McCarty,185
+Albany,45-2,Secretary of State,,DEM,Write-ins,5
+Albany,45-2,Secretary of State,,DEM,Over Votes,0
+Albany,45-2,Secretary of State,,DEM,Under Votes,30
+Albany,45-2,State Auditor,,REP,Kristi Racines,311
+Albany,45-2,State Auditor,,REP,Write-ins,2
+Albany,45-2,State Auditor,,REP,Over Votes,0
+Albany,45-2,State Auditor,,REP,Under Votes,127
+Albany,45-2,State Auditor,,DEM,Write-ins,15
+Albany,45-2,State Auditor,,DEM,Over Votes,0
+Albany,45-2,State Auditor,,DEM,Under Votes,205
+Albany,45-2,State Treasurer,,REP,Curt Meier,293
+Albany,45-2,State Treasurer,,REP,Scott Smith,68
+Albany,45-2,State Treasurer,,REP,Write-ins,2
+Albany,45-2,State Treasurer,,REP,Over Votes,0
+Albany,45-2,State Treasurer,,REP,Under Votes,77
+Albany,45-2,State Treasurer,,DEM,Write-ins,12
+Albany,45-2,State Treasurer,,DEM,Over Votes,0
+Albany,45-2,State Treasurer,,DEM,Under Votes,208
+Albany,45-2,Superintendent of Public Instruction,,REP,Chad Auer,60
+Albany,45-2,Superintendent of Public Instruction,,REP,Steve Harshman,243
+Albany,45-2,Superintendent of Public Instruction,,REP,Tom Kelly,92
+Albany,45-2,Superintendent of Public Instruction,,REP,Write-ins,3
+Albany,45-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,45-2,Superintendent of Public Instruction,,REP,Under Votes,42
+Albany,45-2,Superintendent of Public Instruction,,DEM,Ana Cordova,145
+Albany,45-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",53
+Albany,45-2,Superintendent of Public Instruction,,DEM,Write-ins,4
+Albany,45-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,45-2,Superintendent of Public Instruction,,DEM,Under Votes,18
+Albany,45-2,State Senate,9,REP,Write-ins,35
+Albany,45-2,State Senate,9,REP,Over Votes,0
+Albany,45-2,State Senate,9,REP,Under Votes,405
+Albany,45-2,State Senate,9,DEM,Chris Rothfuss,200
+Albany,45-2,State Senate,9,DEM,Write-ins,1
+Albany,45-2,State Senate,9,DEM,Over Votes,0
+Albany,45-2,State Senate,9,DEM,Under Votes,19
+Albany,45-2,State House,45,REP,Ross Davenport,236
+Albany,45-2,State House,45,REP,Write-ins,9
+Albany,45-2,State House,45,REP,Over Votes,0
+Albany,45-2,State House,45,REP,Under Votes,195
+Albany,45-2,State House,45,DEM,Karlee Provenza,210
+Albany,45-2,State House,45,DEM,Write-ins,1
+Albany,45-2,State House,45,DEM,Over Votes,0
+Albany,45-2,State House,45,DEM,Under Votes,9
+Albany,45-2,Ballots Cast,,REP,Ballots Cast,440
+Albany,45-2,Ballots Cast,,DEM,Ballots Cast,220
+Albany,45-2,Ballots Cast,,NP,Ballots Cast,48
+Albany,45-2,Ballots Cast,,,Ballots Cast,708
+Albany,46-0,U.S. Senate,,REP,Harriet Hageman,933
+Albany,46-0,U.S. Senate,,REP,Jill M Edwards,41
+Albany,46-0,U.S. Senate,,REP,Jimmy Skovgard,42
+Albany,46-0,U.S. Senate,,REP,John Holtz,47
+Albany,46-0,U.S. Senate,,REP,Sam Mead,391
+Albany,46-0,U.S. Senate,,REP,Write-ins,2
+Albany,46-0,U.S. Senate,,REP,Over Votes,4
+Albany,46-0,U.S. Senate,,REP,Under Votes,21
+Albany,46-0,U.S. Senate,,DEM,Billy Benavidez,30
+Albany,46-0,U.S. Senate,,DEM,James Byrd,134
+Albany,46-0,U.S. Senate,,DEM,Write-ins,3
+Albany,46-0,U.S. Senate,,DEM,Over Votes,0
+Albany,46-0,U.S. Senate,,DEM,Under Votes,11
+Albany,46-0,U.S. House,,REP,* Withdrawn Candidate,21
+Albany,46-0,U.S. House,,REP,Bo Biteman,70
+Albany,46-0,U.S. House,,REP,Chuck Gray,363
+Albany,46-0,U.S. House,,REP,David Giralt,108
+Albany,46-0,U.S. House,,REP,Jillian Balow,120
+Albany,46-0,U.S. House,,REP,Keith B. Goodenough,24
+Albany,46-0,U.S. House,,REP,Kevin Christensen,258
+Albany,46-0,U.S. House,,REP,Reid Rasner,145
+Albany,46-0,U.S. House,,REP,Richard Dodson,18
+Albany,46-0,U.S. House,,REP,Steve Friess,287
+Albany,46-0,U.S. House,,REP,Write-ins,4
+Albany,46-0,U.S. House,,REP,Over Votes,19
+Albany,46-0,U.S. House,,REP,Under Votes,44
+Albany,46-0,U.S. House,,DEM,Elena Del Real,27
+Albany,46-0,U.S. House,,DEM,Lisa Kinney,147
+Albany,46-0,U.S. House,,DEM,Write-ins,1
+Albany,46-0,U.S. House,,DEM,Over Votes,0
+Albany,46-0,U.S. House,,DEM,Under Votes,3
+Albany,46-0,Governor,,REP,Brent Bien,416
+Albany,46-0,Governor,,REP,Curt Blake,46
+Albany,46-0,Governor,,REP,Eric Barlow,554
+Albany,46-0,Governor,,REP,Megan Degenfelder,457
+Albany,46-0,Governor,,REP,Write-ins,3
+Albany,46-0,Governor,,REP,Over Votes,1
+Albany,46-0,Governor,,REP,Under Votes,4
+Albany,46-0,Governor,,DEM,Kenneth R. Casner,143
+Albany,46-0,Governor,,DEM,Write-ins,5
+Albany,46-0,Governor,,DEM,Over Votes,0
+Albany,46-0,Governor,,DEM,Under Votes,30
+Albany,46-0,Secretary of State,,REP,CJ Young,239
+Albany,46-0,Secretary of State,,REP,Qwenton Eagle Oviatt,79
+Albany,46-0,Secretary of State,,REP,Rachel Williams,381
+Albany,46-0,Secretary of State,,REP,Robert Short,596
+Albany,46-0,Secretary of State,,REP,Write-ins,4
+Albany,46-0,Secretary of State,,REP,Over Votes,1
+Albany,46-0,Secretary of State,,REP,Under Votes,181
+Albany,46-0,Secretary of State,,DEM,Bryan McCarty,155
+Albany,46-0,Secretary of State,,DEM,Write-ins,1
+Albany,46-0,Secretary of State,,DEM,Over Votes,0
+Albany,46-0,Secretary of State,,DEM,Under Votes,22
+Albany,46-0,State Auditor,,REP,Kristi Racines,1177
+Albany,46-0,State Auditor,,REP,Write-ins,11
+Albany,46-0,State Auditor,,REP,Over Votes,0
+Albany,46-0,State Auditor,,REP,Under Votes,293
+Albany,46-0,State Auditor,,DEM,Write-ins,11
+Albany,46-0,State Auditor,,DEM,Over Votes,0
+Albany,46-0,State Auditor,,DEM,Under Votes,167
+Albany,46-0,State Treasurer,,REP,Curt Meier,924
+Albany,46-0,State Treasurer,,REP,Scott Smith,328
+Albany,46-0,State Treasurer,,REP,Write-ins,5
+Albany,46-0,State Treasurer,,REP,Over Votes,2
+Albany,46-0,State Treasurer,,REP,Under Votes,222
+Albany,46-0,State Treasurer,,DEM,Write-ins,9
+Albany,46-0,State Treasurer,,DEM,Over Votes,0
+Albany,46-0,State Treasurer,,DEM,Under Votes,169
+Albany,46-0,Superintendent of Public Instruction,,REP,Chad Auer,163
+Albany,46-0,Superintendent of Public Instruction,,REP,Steve Harshman,710
+Albany,46-0,Superintendent of Public Instruction,,REP,Tom Kelly,398
+Albany,46-0,Superintendent of Public Instruction,,REP,Write-ins,9
+Albany,46-0,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,46-0,Superintendent of Public Instruction,,REP,Under Votes,201
+Albany,46-0,Superintendent of Public Instruction,,DEM,Ana Cordova,98
+Albany,46-0,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",58
+Albany,46-0,Superintendent of Public Instruction,,DEM,Write-ins,4
+Albany,46-0,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,46-0,Superintendent of Public Instruction,,DEM,Under Votes,18
+Albany,46-0,State House,46,REP,Cam Wright,846
+Albany,46-0,State House,46,REP,Ocean Andrew,579
+Albany,46-0,State House,46,REP,Write-ins,3
+Albany,46-0,State House,46,REP,Over Votes,3
+Albany,46-0,State House,46,REP,Under Votes,50
+Albany,46-0,State House,46,DEM,Gary Wilken,149
+Albany,46-0,State House,46,DEM,Write-ins,1
+Albany,46-0,State House,46,DEM,Over Votes,0
+Albany,46-0,State House,46,DEM,Under Votes,28
+Albany,46-0,Ballots Cast,,REP,Ballots Cast,1481
+Albany,46-0,Ballots Cast,,DEM,Ballots Cast,178
+Albany,46-0,Ballots Cast,,NP,Ballots Cast,0
+Albany,46-0,Ballots Cast,,,Ballots Cast,1659
+Albany,46-1,U.S. Senate,,REP,Harriet Hageman,208
+Albany,46-1,U.S. Senate,,REP,Jill M Edwards,14
+Albany,46-1,U.S. Senate,,REP,Jimmy Skovgard,10
+Albany,46-1,U.S. Senate,,REP,John Holtz,7
+Albany,46-1,U.S. Senate,,REP,Sam Mead,113
+Albany,46-1,U.S. Senate,,REP,Write-ins,3
+Albany,46-1,U.S. Senate,,REP,Over Votes,1
+Albany,46-1,U.S. Senate,,REP,Under Votes,8
+Albany,46-1,U.S. Senate,,DEM,Billy Benavidez,23
+Albany,46-1,U.S. Senate,,DEM,James Byrd,65
+Albany,46-1,U.S. Senate,,DEM,Write-ins,1
+Albany,46-1,U.S. Senate,,DEM,Over Votes,0
+Albany,46-1,U.S. Senate,,DEM,Under Votes,9
+Albany,46-1,U.S. House,,REP,* Withdrawn Candidate,10
+Albany,46-1,U.S. House,,REP,Bo Biteman,14
+Albany,46-1,U.S. House,,REP,Chuck Gray,94
+Albany,46-1,U.S. House,,REP,David Giralt,23
+Albany,46-1,U.S. House,,REP,Jillian Balow,36
+Albany,46-1,U.S. House,,REP,Keith B. Goodenough,6
+Albany,46-1,U.S. House,,REP,Kevin Christensen,75
+Albany,46-1,U.S. House,,REP,Reid Rasner,37
+Albany,46-1,U.S. House,,REP,Richard Dodson,5
+Albany,46-1,U.S. House,,REP,Steve Friess,50
+Albany,46-1,U.S. House,,REP,Write-ins,2
+Albany,46-1,U.S. House,,REP,Over Votes,5
+Albany,46-1,U.S. House,,REP,Under Votes,7
+Albany,46-1,U.S. House,,DEM,Elena Del Real,12
+Albany,46-1,U.S. House,,DEM,Lisa Kinney,79
+Albany,46-1,U.S. House,,DEM,Write-ins,0
+Albany,46-1,U.S. House,,DEM,Over Votes,0
+Albany,46-1,U.S. House,,DEM,Under Votes,7
+Albany,46-1,Governor,,REP,Brent Bien,87
+Albany,46-1,Governor,,REP,Curt Blake,7
+Albany,46-1,Governor,,REP,Eric Barlow,158
+Albany,46-1,Governor,,REP,Megan Degenfelder,110
+Albany,46-1,Governor,,REP,Write-ins,1
+Albany,46-1,Governor,,REP,Over Votes,0
+Albany,46-1,Governor,,REP,Under Votes,1
+Albany,46-1,Governor,,DEM,Kenneth R. Casner,78
+Albany,46-1,Governor,,DEM,Write-ins,5
+Albany,46-1,Governor,,DEM,Over Votes,0
+Albany,46-1,Governor,,DEM,Under Votes,15
+Albany,46-1,Secretary of State,,REP,CJ Young,55
+Albany,46-1,Secretary of State,,REP,Qwenton Eagle Oviatt,21
+Albany,46-1,Secretary of State,,REP,Rachel Williams,92
+Albany,46-1,Secretary of State,,REP,Robert Short,153
+Albany,46-1,Secretary of State,,REP,Write-ins,2
+Albany,46-1,Secretary of State,,REP,Over Votes,0
+Albany,46-1,Secretary of State,,REP,Under Votes,41
+Albany,46-1,Secretary of State,,DEM,Bryan McCarty,80
+Albany,46-1,Secretary of State,,DEM,Write-ins,1
+Albany,46-1,Secretary of State,,DEM,Over Votes,0
+Albany,46-1,Secretary of State,,DEM,Under Votes,17
+Albany,46-1,State Auditor,,REP,Kristi Racines,304
+Albany,46-1,State Auditor,,REP,Write-ins,2
+Albany,46-1,State Auditor,,REP,Over Votes,0
+Albany,46-1,State Auditor,,REP,Under Votes,58
+Albany,46-1,State Auditor,,DEM,Write-ins,4
+Albany,46-1,State Auditor,,DEM,Over Votes,0
+Albany,46-1,State Auditor,,DEM,Under Votes,94
+Albany,46-1,State Treasurer,,REP,Curt Meier,238
+Albany,46-1,State Treasurer,,REP,Scott Smith,90
+Albany,46-1,State Treasurer,,REP,Write-ins,2
+Albany,46-1,State Treasurer,,REP,Over Votes,0
+Albany,46-1,State Treasurer,,REP,Under Votes,34
+Albany,46-1,State Treasurer,,DEM,Write-ins,5
+Albany,46-1,State Treasurer,,DEM,Over Votes,0
+Albany,46-1,State Treasurer,,DEM,Under Votes,93
+Albany,46-1,Superintendent of Public Instruction,,REP,Chad Auer,45
+Albany,46-1,Superintendent of Public Instruction,,REP,Steve Harshman,194
+Albany,46-1,Superintendent of Public Instruction,,REP,Tom Kelly,99
+Albany,46-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Albany,46-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,46-1,Superintendent of Public Instruction,,REP,Under Votes,24
+Albany,46-1,Superintendent of Public Instruction,,DEM,Ana Cordova,46
+Albany,46-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",41
+Albany,46-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Albany,46-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,46-1,Superintendent of Public Instruction,,DEM,Under Votes,10
+Albany,46-1,State House,46,REP,Cam Wright,219
+Albany,46-1,State House,46,REP,Ocean Andrew,136
+Albany,46-1,State House,46,REP,Write-ins,2
+Albany,46-1,State House,46,REP,Over Votes,0
+Albany,46-1,State House,46,REP,Under Votes,7
+Albany,46-1,State House,46,DEM,Gary Wilken,77
+Albany,46-1,State House,46,DEM,Write-ins,5
+Albany,46-1,State House,46,DEM,Over Votes,0
+Albany,46-1,State House,46,DEM,Under Votes,16
+Albany,46-1,Ballots Cast,,REP,Ballots Cast,364
+Albany,46-1,Ballots Cast,,DEM,Ballots Cast,98
+Albany,46-1,Ballots Cast,,NP,Ballots Cast,23
+Albany,46-1,Ballots Cast,,,Ballots Cast,485
+Albany,46-2,U.S. Senate,,REP,Harriet Hageman,161
+Albany,46-2,U.S. Senate,,REP,Jill M Edwards,7
+Albany,46-2,U.S. Senate,,REP,Jimmy Skovgard,8
+Albany,46-2,U.S. Senate,,REP,John Holtz,5
+Albany,46-2,U.S. Senate,,REP,Sam Mead,102
+Albany,46-2,U.S. Senate,,REP,Write-ins,1
+Albany,46-2,U.S. Senate,,REP,Over Votes,0
+Albany,46-2,U.S. Senate,,REP,Under Votes,6
+Albany,46-2,U.S. Senate,,DEM,Billy Benavidez,16
+Albany,46-2,U.S. Senate,,DEM,James Byrd,59
+Albany,46-2,U.S. Senate,,DEM,Write-ins,0
+Albany,46-2,U.S. Senate,,DEM,Over Votes,0
+Albany,46-2,U.S. Senate,,DEM,Under Votes,4
+Albany,46-2,U.S. House,,REP,* Withdrawn Candidate,5
+Albany,46-2,U.S. House,,REP,Bo Biteman,11
+Albany,46-2,U.S. House,,REP,Chuck Gray,81
+Albany,46-2,U.S. House,,REP,David Giralt,16
+Albany,46-2,U.S. House,,REP,Jillian Balow,21
+Albany,46-2,U.S. House,,REP,Keith B. Goodenough,5
+Albany,46-2,U.S. House,,REP,Kevin Christensen,62
+Albany,46-2,U.S. House,,REP,Reid Rasner,34
+Albany,46-2,U.S. House,,REP,Richard Dodson,4
+Albany,46-2,U.S. House,,REP,Steve Friess,38
+Albany,46-2,U.S. House,,REP,Write-ins,0
+Albany,46-2,U.S. House,,REP,Over Votes,5
+Albany,46-2,U.S. House,,REP,Under Votes,8
+Albany,46-2,U.S. House,,DEM,Elena Del Real,14
+Albany,46-2,U.S. House,,DEM,Lisa Kinney,60
+Albany,46-2,U.S. House,,DEM,Write-ins,0
+Albany,46-2,U.S. House,,DEM,Over Votes,0
+Albany,46-2,U.S. House,,DEM,Under Votes,5
+Albany,46-2,Governor,,REP,Brent Bien,74
+Albany,46-2,Governor,,REP,Curt Blake,15
+Albany,46-2,Governor,,REP,Eric Barlow,118
+Albany,46-2,Governor,,REP,Megan Degenfelder,78
+Albany,46-2,Governor,,REP,Write-ins,0
+Albany,46-2,Governor,,REP,Over Votes,0
+Albany,46-2,Governor,,REP,Under Votes,5
+Albany,46-2,Governor,,DEM,Kenneth R. Casner,67
+Albany,46-2,Governor,,DEM,Write-ins,1
+Albany,46-2,Governor,,DEM,Over Votes,0
+Albany,46-2,Governor,,DEM,Under Votes,11
+Albany,46-2,Secretary of State,,REP,CJ Young,45
+Albany,46-2,Secretary of State,,REP,Qwenton Eagle Oviatt,27
+Albany,46-2,Secretary of State,,REP,Rachel Williams,67
+Albany,46-2,Secretary of State,,REP,Robert Short,124
+Albany,46-2,Secretary of State,,REP,Write-ins,1
+Albany,46-2,Secretary of State,,REP,Over Votes,0
+Albany,46-2,Secretary of State,,REP,Under Votes,26
+Albany,46-2,Secretary of State,,DEM,Bryan McCarty,64
+Albany,46-2,Secretary of State,,DEM,Write-ins,1
+Albany,46-2,Secretary of State,,DEM,Over Votes,0
+Albany,46-2,Secretary of State,,DEM,Under Votes,14
+Albany,46-2,State Auditor,,REP,Kristi Racines,236
+Albany,46-2,State Auditor,,REP,Write-ins,2
+Albany,46-2,State Auditor,,REP,Over Votes,0
+Albany,46-2,State Auditor,,REP,Under Votes,52
+Albany,46-2,State Auditor,,DEM,Write-ins,5
+Albany,46-2,State Auditor,,DEM,Over Votes,0
+Albany,46-2,State Auditor,,DEM,Under Votes,74
+Albany,46-2,State Treasurer,,REP,Curt Meier,194
+Albany,46-2,State Treasurer,,REP,Scott Smith,65
+Albany,46-2,State Treasurer,,REP,Write-ins,1
+Albany,46-2,State Treasurer,,REP,Over Votes,0
+Albany,46-2,State Treasurer,,REP,Under Votes,30
+Albany,46-2,State Treasurer,,DEM,Write-ins,6
+Albany,46-2,State Treasurer,,DEM,Over Votes,0
+Albany,46-2,State Treasurer,,DEM,Under Votes,73
+Albany,46-2,Superintendent of Public Instruction,,REP,Chad Auer,33
+Albany,46-2,Superintendent of Public Instruction,,REP,Steve Harshman,164
+Albany,46-2,Superintendent of Public Instruction,,REP,Tom Kelly,72
+Albany,46-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Albany,46-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Albany,46-2,Superintendent of Public Instruction,,REP,Under Votes,21
+Albany,46-2,Superintendent of Public Instruction,,DEM,Ana Cordova,48
+Albany,46-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",21
+Albany,46-2,Superintendent of Public Instruction,,DEM,Write-ins,2
+Albany,46-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Albany,46-2,Superintendent of Public Instruction,,DEM,Under Votes,8
+Albany,46-2,State House,46,REP,Cam Wright,191
+Albany,46-2,State House,46,REP,Ocean Andrew,93
+Albany,46-2,State House,46,REP,Write-ins,1
+Albany,46-2,State House,46,REP,Over Votes,0
+Albany,46-2,State House,46,REP,Under Votes,5
+Albany,46-2,State House,46,DEM,Gary Wilken,67
+Albany,46-2,State House,46,DEM,Write-ins,1
+Albany,46-2,State House,46,DEM,Over Votes,0
+Albany,46-2,State House,46,DEM,Under Votes,11
+Albany,46-2,Ballots Cast,,REP,Ballots Cast,290
+Albany,46-2,Ballots Cast,,DEM,Ballots Cast,79
+Albany,46-2,Ballots Cast,,NP,Ballots Cast,14
+Albany,46-2,Ballots Cast,,,Ballots Cast,383

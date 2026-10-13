@@ -1,0 +1,466 @@
+county,precinct,office,district,party,candidate,votes
+Hot Springs,1-01,U.S. Senate,,REP,Harriet Hageman,271
+Hot Springs,1-01,U.S. Senate,,REP,Jill M Edwards,13
+Hot Springs,1-01,U.S. Senate,,REP,Jimmy Skovgard,6
+Hot Springs,1-01,U.S. Senate,,REP,John Holtz,9
+Hot Springs,1-01,U.S. Senate,,REP,Sam Mead,152
+Hot Springs,1-01,U.S. Senate,,REP,Write-ins,3
+Hot Springs,1-01,U.S. Senate,,REP,Over Votes,1
+Hot Springs,1-01,U.S. Senate,,REP,Under Votes,13
+Hot Springs,1-01,U.S. Senate,,DEM,Billy Benavidez,7
+Hot Springs,1-01,U.S. Senate,,DEM,James Byrd,35
+Hot Springs,1-01,U.S. Senate,,DEM,Write-ins,2
+Hot Springs,1-01,U.S. Senate,,DEM,Over Votes,0
+Hot Springs,1-01,U.S. Senate,,DEM,Under Votes,2
+Hot Springs,1-01,U.S. House,,REP,* Withdrawn Candidate,7
+Hot Springs,1-01,U.S. House,,REP,Bo Biteman,19
+Hot Springs,1-01,U.S. House,,REP,Chuck Gray,65
+Hot Springs,1-01,U.S. House,,REP,David Giralt,70
+Hot Springs,1-01,U.S. House,,REP,Jillian Balow,49
+Hot Springs,1-01,U.S. House,,REP,Keith B. Goodenough,11
+Hot Springs,1-01,U.S. House,,REP,Kevin Christensen,58
+Hot Springs,1-01,U.S. House,,REP,Reid Rasner,63
+Hot Springs,1-01,U.S. House,,REP,Richard Dodson,4
+Hot Springs,1-01,U.S. House,,REP,Steve Friess,89
+Hot Springs,1-01,U.S. House,,REP,Write-ins,4
+Hot Springs,1-01,U.S. House,,REP,Over Votes,13
+Hot Springs,1-01,U.S. House,,REP,Under Votes,16
+Hot Springs,1-01,U.S. House,,DEM,Elena Del Real,8
+Hot Springs,1-01,U.S. House,,DEM,Lisa Kinney,35
+Hot Springs,1-01,U.S. House,,DEM,Write-ins,0
+Hot Springs,1-01,U.S. House,,DEM,Over Votes,0
+Hot Springs,1-01,U.S. House,,DEM,Under Votes,3
+Hot Springs,1-01,Governor,,REP,Brent Bien,117
+Hot Springs,1-01,Governor,,REP,Curt Blake,11
+Hot Springs,1-01,Governor,,REP,Eric Barlow,194
+Hot Springs,1-01,Governor,,REP,Megan Degenfelder,131
+Hot Springs,1-01,Governor,,REP,Write-ins,1
+Hot Springs,1-01,Governor,,REP,Over Votes,2
+Hot Springs,1-01,Governor,,REP,Under Votes,12
+Hot Springs,1-01,Governor,,DEM,Kenneth R. Casner,37
+Hot Springs,1-01,Governor,,DEM,Write-ins,6
+Hot Springs,1-01,Governor,,DEM,Over Votes,0
+Hot Springs,1-01,Governor,,DEM,Under Votes,3
+Hot Springs,1-01,Secretary of State,,REP,CJ Young,57
+Hot Springs,1-01,Secretary of State,,REP,Qwenton Eagle Oviatt,22
+Hot Springs,1-01,Secretary of State,,REP,Rachel Williams,120
+Hot Springs,1-01,Secretary of State,,REP,Robert Short,228
+Hot Springs,1-01,Secretary of State,,REP,Write-ins,1
+Hot Springs,1-01,Secretary of State,,REP,Over Votes,0
+Hot Springs,1-01,Secretary of State,,REP,Under Votes,40
+Hot Springs,1-01,Secretary of State,,DEM,Bryan McCarty,39
+Hot Springs,1-01,Secretary of State,,DEM,Write-ins,3
+Hot Springs,1-01,Secretary of State,,DEM,Over Votes,0
+Hot Springs,1-01,Secretary of State,,DEM,Under Votes,4
+Hot Springs,1-01,State Auditor,,REP,Kristi Racines,396
+Hot Springs,1-01,State Auditor,,REP,Write-ins,1
+Hot Springs,1-01,State Auditor,,REP,Over Votes,0
+Hot Springs,1-01,State Auditor,,REP,Under Votes,71
+Hot Springs,1-01,State Auditor,,DEM,Write-ins,4
+Hot Springs,1-01,State Auditor,,DEM,Over Votes,0
+Hot Springs,1-01,State Auditor,,DEM,Under Votes,42
+Hot Springs,1-01,State Treasurer,,REP,Curt Meier,310
+Hot Springs,1-01,State Treasurer,,REP,Scott Smith,99
+Hot Springs,1-01,State Treasurer,,REP,Write-ins,1
+Hot Springs,1-01,State Treasurer,,REP,Over Votes,0
+Hot Springs,1-01,State Treasurer,,REP,Under Votes,58
+Hot Springs,1-01,State Treasurer,,DEM,Write-ins,5
+Hot Springs,1-01,State Treasurer,,DEM,Over Votes,0
+Hot Springs,1-01,State Treasurer,,DEM,Under Votes,41
+Hot Springs,1-01,Superintendent of Public Instruction,,REP,Chad Auer,26
+Hot Springs,1-01,Superintendent of Public Instruction,,REP,Steve Harshman,263
+Hot Springs,1-01,Superintendent of Public Instruction,,REP,Tom Kelly,127
+Hot Springs,1-01,Superintendent of Public Instruction,,REP,Write-ins,2
+Hot Springs,1-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Hot Springs,1-01,Superintendent of Public Instruction,,REP,Under Votes,50
+Hot Springs,1-01,Superintendent of Public Instruction,,DEM,Ana Cordova,17
+Hot Springs,1-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",25
+Hot Springs,1-01,Superintendent of Public Instruction,,DEM,Write-ins,2
+Hot Springs,1-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Hot Springs,1-01,Superintendent of Public Instruction,,DEM,Under Votes,2
+Hot Springs,1-01,State House,28,REP,Allen Hogg,129
+Hot Springs,1-01,State House,28,REP,Carlin Jones,55
+Hot Springs,1-01,State House,28,REP,Marshall Keller,224
+Hot Springs,1-01,State House,28,REP,Roland Luehne,30
+Hot Springs,1-01,State House,28,REP,Write-ins,4
+Hot Springs,1-01,State House,28,REP,Over Votes,12
+Hot Springs,1-01,State House,28,REP,Under Votes,14
+Hot Springs,1-01,State House,28,DEM,Write-ins,20
+Hot Springs,1-01,State House,28,DEM,Over Votes,0
+Hot Springs,1-01,State House,28,DEM,Under Votes,26
+Hot Springs,1-01,Ballots Cast,,REP,Ballots Cast,468
+Hot Springs,1-01,Ballots Cast,,DEM,Ballots Cast,46
+Hot Springs,1-01,Ballots Cast,,NP,Ballots Cast,19
+Hot Springs,1-01,Ballots Cast,,,Ballots Cast,533
+Hot Springs,1-02,U.S. Senate,,REP,Harriet Hageman,234
+Hot Springs,1-02,U.S. Senate,,REP,Jill M Edwards,7
+Hot Springs,1-02,U.S. Senate,,REP,Jimmy Skovgard,9
+Hot Springs,1-02,U.S. Senate,,REP,John Holtz,7
+Hot Springs,1-02,U.S. Senate,,REP,Sam Mead,81
+Hot Springs,1-02,U.S. Senate,,REP,Write-ins,0
+Hot Springs,1-02,U.S. Senate,,REP,Over Votes,0
+Hot Springs,1-02,U.S. Senate,,REP,Under Votes,10
+Hot Springs,1-02,U.S. Senate,,DEM,Billy Benavidez,4
+Hot Springs,1-02,U.S. Senate,,DEM,James Byrd,23
+Hot Springs,1-02,U.S. Senate,,DEM,Write-ins,0
+Hot Springs,1-02,U.S. Senate,,DEM,Over Votes,0
+Hot Springs,1-02,U.S. Senate,,DEM,Under Votes,2
+Hot Springs,1-02,U.S. House,,REP,* Withdrawn Candidate,8
+Hot Springs,1-02,U.S. House,,REP,Bo Biteman,15
+Hot Springs,1-02,U.S. House,,REP,Chuck Gray,57
+Hot Springs,1-02,U.S. House,,REP,David Giralt,48
+Hot Springs,1-02,U.S. House,,REP,Jillian Balow,43
+Hot Springs,1-02,U.S. House,,REP,Keith B. Goodenough,10
+Hot Springs,1-02,U.S. House,,REP,Kevin Christensen,30
+Hot Springs,1-02,U.S. House,,REP,Reid Rasner,31
+Hot Springs,1-02,U.S. House,,REP,Richard Dodson,3
+Hot Springs,1-02,U.S. House,,REP,Steve Friess,74
+Hot Springs,1-02,U.S. House,,REP,Write-ins,0
+Hot Springs,1-02,U.S. House,,REP,Over Votes,3
+Hot Springs,1-02,U.S. House,,REP,Under Votes,26
+Hot Springs,1-02,U.S. House,,DEM,Elena Del Real,3
+Hot Springs,1-02,U.S. House,,DEM,Lisa Kinney,24
+Hot Springs,1-02,U.S. House,,DEM,Write-ins,0
+Hot Springs,1-02,U.S. House,,DEM,Over Votes,0
+Hot Springs,1-02,U.S. House,,DEM,Under Votes,2
+Hot Springs,1-02,Governor,,REP,Brent Bien,88
+Hot Springs,1-02,Governor,,REP,Curt Blake,6
+Hot Springs,1-02,Governor,,REP,Eric Barlow,125
+Hot Springs,1-02,Governor,,REP,Megan Degenfelder,116
+Hot Springs,1-02,Governor,,REP,Write-ins,1
+Hot Springs,1-02,Governor,,REP,Over Votes,0
+Hot Springs,1-02,Governor,,REP,Under Votes,12
+Hot Springs,1-02,Governor,,DEM,Kenneth R. Casner,25
+Hot Springs,1-02,Governor,,DEM,Write-ins,1
+Hot Springs,1-02,Governor,,DEM,Over Votes,0
+Hot Springs,1-02,Governor,,DEM,Under Votes,3
+Hot Springs,1-02,Secretary of State,,REP,CJ Young,35
+Hot Springs,1-02,Secretary of State,,REP,Qwenton Eagle Oviatt,22
+Hot Springs,1-02,Secretary of State,,REP,Rachel Williams,110
+Hot Springs,1-02,Secretary of State,,REP,Robert Short,122
+Hot Springs,1-02,Secretary of State,,REP,Write-ins,2
+Hot Springs,1-02,Secretary of State,,REP,Over Votes,0
+Hot Springs,1-02,Secretary of State,,REP,Under Votes,57
+Hot Springs,1-02,Secretary of State,,DEM,Bryan McCarty,28
+Hot Springs,1-02,Secretary of State,,DEM,Write-ins,0
+Hot Springs,1-02,Secretary of State,,DEM,Over Votes,0
+Hot Springs,1-02,Secretary of State,,DEM,Under Votes,1
+Hot Springs,1-02,State Auditor,,REP,Kristi Racines,274
+Hot Springs,1-02,State Auditor,,REP,Write-ins,1
+Hot Springs,1-02,State Auditor,,REP,Over Votes,0
+Hot Springs,1-02,State Auditor,,REP,Under Votes,73
+Hot Springs,1-02,State Auditor,,DEM,Write-ins,0
+Hot Springs,1-02,State Auditor,,DEM,Over Votes,0
+Hot Springs,1-02,State Auditor,,DEM,Under Votes,29
+Hot Springs,1-02,State Treasurer,,REP,Curt Meier,211
+Hot Springs,1-02,State Treasurer,,REP,Scott Smith,79
+Hot Springs,1-02,State Treasurer,,REP,Write-ins,0
+Hot Springs,1-02,State Treasurer,,REP,Over Votes,0
+Hot Springs,1-02,State Treasurer,,REP,Under Votes,58
+Hot Springs,1-02,State Treasurer,,DEM,Write-ins,0
+Hot Springs,1-02,State Treasurer,,DEM,Over Votes,0
+Hot Springs,1-02,State Treasurer,,DEM,Under Votes,29
+Hot Springs,1-02,Superintendent of Public Instruction,,REP,Chad Auer,38
+Hot Springs,1-02,Superintendent of Public Instruction,,REP,Steve Harshman,156
+Hot Springs,1-02,Superintendent of Public Instruction,,REP,Tom Kelly,96
+Hot Springs,1-02,Superintendent of Public Instruction,,REP,Write-ins,2
+Hot Springs,1-02,Superintendent of Public Instruction,,REP,Over Votes,0
+Hot Springs,1-02,Superintendent of Public Instruction,,REP,Under Votes,56
+Hot Springs,1-02,Superintendent of Public Instruction,,DEM,Ana Cordova,11
+Hot Springs,1-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",17
+Hot Springs,1-02,Superintendent of Public Instruction,,DEM,Write-ins,0
+Hot Springs,1-02,Superintendent of Public Instruction,,DEM,Over Votes,0
+Hot Springs,1-02,Superintendent of Public Instruction,,DEM,Under Votes,1
+Hot Springs,1-02,State House,28,REP,Allen Hogg,106
+Hot Springs,1-02,State House,28,REP,Carlin Jones,66
+Hot Springs,1-02,State House,28,REP,Marshall Keller,127
+Hot Springs,1-02,State House,28,REP,Roland Luehne,30
+Hot Springs,1-02,State House,28,REP,Write-ins,2
+Hot Springs,1-02,State House,28,REP,Over Votes,3
+Hot Springs,1-02,State House,28,REP,Under Votes,14
+Hot Springs,1-02,State House,28,DEM,Write-ins,14
+Hot Springs,1-02,State House,28,DEM,Over Votes,0
+Hot Springs,1-02,State House,28,DEM,Under Votes,15
+Hot Springs,1-02,Ballots Cast,,REP,Ballots Cast,348
+Hot Springs,1-02,Ballots Cast,,DEM,Ballots Cast,29
+Hot Springs,1-02,Ballots Cast,,NP,Ballots Cast,12
+Hot Springs,1-02,Ballots Cast,,,Ballots Cast,389
+Hot Springs,2-01,U.S. Senate,,REP,Harriet Hageman,46
+Hot Springs,2-01,U.S. Senate,,REP,Jill M Edwards,0
+Hot Springs,2-01,U.S. Senate,,REP,Jimmy Skovgard,2
+Hot Springs,2-01,U.S. Senate,,REP,John Holtz,3
+Hot Springs,2-01,U.S. Senate,,REP,Sam Mead,9
+Hot Springs,2-01,U.S. Senate,,REP,Write-ins,0
+Hot Springs,2-01,U.S. Senate,,REP,Over Votes,0
+Hot Springs,2-01,U.S. Senate,,REP,Under Votes,0
+Hot Springs,2-01,U.S. Senate,,DEM,Billy Benavidez,5
+Hot Springs,2-01,U.S. Senate,,DEM,James Byrd,3
+Hot Springs,2-01,U.S. Senate,,DEM,Write-ins,0
+Hot Springs,2-01,U.S. Senate,,DEM,Over Votes,0
+Hot Springs,2-01,U.S. Senate,,DEM,Under Votes,0
+Hot Springs,2-01,U.S. House,,REP,* Withdrawn Candidate,0
+Hot Springs,2-01,U.S. House,,REP,Bo Biteman,4
+Hot Springs,2-01,U.S. House,,REP,Chuck Gray,11
+Hot Springs,2-01,U.S. House,,REP,David Giralt,7
+Hot Springs,2-01,U.S. House,,REP,Jillian Balow,4
+Hot Springs,2-01,U.S. House,,REP,Keith B. Goodenough,1
+Hot Springs,2-01,U.S. House,,REP,Kevin Christensen,3
+Hot Springs,2-01,U.S. House,,REP,Reid Rasner,13
+Hot Springs,2-01,U.S. House,,REP,Richard Dodson,0
+Hot Springs,2-01,U.S. House,,REP,Steve Friess,15
+Hot Springs,2-01,U.S. House,,REP,Write-ins,0
+Hot Springs,2-01,U.S. House,,REP,Over Votes,1
+Hot Springs,2-01,U.S. House,,REP,Under Votes,1
+Hot Springs,2-01,U.S. House,,DEM,Elena Del Real,2
+Hot Springs,2-01,U.S. House,,DEM,Lisa Kinney,6
+Hot Springs,2-01,U.S. House,,DEM,Write-ins,0
+Hot Springs,2-01,U.S. House,,DEM,Over Votes,0
+Hot Springs,2-01,U.S. House,,DEM,Under Votes,0
+Hot Springs,2-01,Governor,,REP,Brent Bien,14
+Hot Springs,2-01,Governor,,REP,Curt Blake,0
+Hot Springs,2-01,Governor,,REP,Eric Barlow,14
+Hot Springs,2-01,Governor,,REP,Megan Degenfelder,32
+Hot Springs,2-01,Governor,,REP,Write-ins,0
+Hot Springs,2-01,Governor,,REP,Over Votes,0
+Hot Springs,2-01,Governor,,REP,Under Votes,0
+Hot Springs,2-01,Governor,,DEM,Kenneth R. Casner,8
+Hot Springs,2-01,Governor,,DEM,Write-ins,0
+Hot Springs,2-01,Governor,,DEM,Over Votes,0
+Hot Springs,2-01,Governor,,DEM,Under Votes,0
+Hot Springs,2-01,Secretary of State,,REP,CJ Young,7
+Hot Springs,2-01,Secretary of State,,REP,Qwenton Eagle Oviatt,7
+Hot Springs,2-01,Secretary of State,,REP,Rachel Williams,17
+Hot Springs,2-01,Secretary of State,,REP,Robert Short,18
+Hot Springs,2-01,Secretary of State,,REP,Write-ins,0
+Hot Springs,2-01,Secretary of State,,REP,Over Votes,0
+Hot Springs,2-01,Secretary of State,,REP,Under Votes,11
+Hot Springs,2-01,Secretary of State,,DEM,Bryan McCarty,8
+Hot Springs,2-01,Secretary of State,,DEM,Write-ins,0
+Hot Springs,2-01,Secretary of State,,DEM,Over Votes,0
+Hot Springs,2-01,Secretary of State,,DEM,Under Votes,0
+Hot Springs,2-01,State Auditor,,REP,Kristi Racines,45
+Hot Springs,2-01,State Auditor,,REP,Write-ins,0
+Hot Springs,2-01,State Auditor,,REP,Over Votes,0
+Hot Springs,2-01,State Auditor,,REP,Under Votes,15
+Hot Springs,2-01,State Auditor,,DEM,Write-ins,0
+Hot Springs,2-01,State Auditor,,DEM,Over Votes,0
+Hot Springs,2-01,State Auditor,,DEM,Under Votes,8
+Hot Springs,2-01,State Treasurer,,REP,Curt Meier,26
+Hot Springs,2-01,State Treasurer,,REP,Scott Smith,21
+Hot Springs,2-01,State Treasurer,,REP,Write-ins,0
+Hot Springs,2-01,State Treasurer,,REP,Over Votes,0
+Hot Springs,2-01,State Treasurer,,REP,Under Votes,13
+Hot Springs,2-01,State Treasurer,,DEM,Write-ins,0
+Hot Springs,2-01,State Treasurer,,DEM,Over Votes,0
+Hot Springs,2-01,State Treasurer,,DEM,Under Votes,8
+Hot Springs,2-01,Superintendent of Public Instruction,,REP,Chad Auer,6
+Hot Springs,2-01,Superintendent of Public Instruction,,REP,Steve Harshman,24
+Hot Springs,2-01,Superintendent of Public Instruction,,REP,Tom Kelly,20
+Hot Springs,2-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Hot Springs,2-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Hot Springs,2-01,Superintendent of Public Instruction,,REP,Under Votes,10
+Hot Springs,2-01,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Hot Springs,2-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Hot Springs,2-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Hot Springs,2-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Hot Springs,2-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Hot Springs,2-01,State House,28,REP,Allen Hogg,9
+Hot Springs,2-01,State House,28,REP,Carlin Jones,11
+Hot Springs,2-01,State House,28,REP,Marshall Keller,27
+Hot Springs,2-01,State House,28,REP,Roland Luehne,11
+Hot Springs,2-01,State House,28,REP,Write-ins,0
+Hot Springs,2-01,State House,28,REP,Over Votes,0
+Hot Springs,2-01,State House,28,REP,Under Votes,2
+Hot Springs,2-01,State House,28,DEM,Write-ins,1
+Hot Springs,2-01,State House,28,DEM,Over Votes,0
+Hot Springs,2-01,State House,28,DEM,Under Votes,7
+Hot Springs,2-01,Ballots Cast,,REP,Ballots Cast,60
+Hot Springs,2-01,Ballots Cast,,DEM,Ballots Cast,8
+Hot Springs,2-01,Ballots Cast,,NP,Ballots Cast,4
+Hot Springs,2-01,Ballots Cast,,,Ballots Cast,72
+Hot Springs,3-01,U.S. Senate,,REP,Harriet Hageman,14
+Hot Springs,3-01,U.S. Senate,,REP,Jill M Edwards,0
+Hot Springs,3-01,U.S. Senate,,REP,Jimmy Skovgard,4
+Hot Springs,3-01,U.S. Senate,,REP,John Holtz,1
+Hot Springs,3-01,U.S. Senate,,REP,Sam Mead,7
+Hot Springs,3-01,U.S. Senate,,REP,Write-ins,0
+Hot Springs,3-01,U.S. Senate,,REP,Over Votes,0
+Hot Springs,3-01,U.S. Senate,,REP,Under Votes,0
+Hot Springs,3-01,U.S. Senate,,DEM,Billy Benavidez,0
+Hot Springs,3-01,U.S. Senate,,DEM,James Byrd,1
+Hot Springs,3-01,U.S. Senate,,DEM,Write-ins,0
+Hot Springs,3-01,U.S. Senate,,DEM,Over Votes,0
+Hot Springs,3-01,U.S. Senate,,DEM,Under Votes,0
+Hot Springs,3-01,U.S. House,,REP,* Withdrawn Candidate,1
+Hot Springs,3-01,U.S. House,,REP,Bo Biteman,0
+Hot Springs,3-01,U.S. House,,REP,Chuck Gray,2
+Hot Springs,3-01,U.S. House,,REP,David Giralt,4
+Hot Springs,3-01,U.S. House,,REP,Jillian Balow,2
+Hot Springs,3-01,U.S. House,,REP,Keith B. Goodenough,0
+Hot Springs,3-01,U.S. House,,REP,Kevin Christensen,1
+Hot Springs,3-01,U.S. House,,REP,Reid Rasner,9
+Hot Springs,3-01,U.S. House,,REP,Richard Dodson,2
+Hot Springs,3-01,U.S. House,,REP,Steve Friess,4
+Hot Springs,3-01,U.S. House,,REP,Write-ins,0
+Hot Springs,3-01,U.S. House,,REP,Over Votes,0
+Hot Springs,3-01,U.S. House,,REP,Under Votes,1
+Hot Springs,3-01,U.S. House,,DEM,Elena Del Real,1
+Hot Springs,3-01,U.S. House,,DEM,Lisa Kinney,0
+Hot Springs,3-01,U.S. House,,DEM,Write-ins,0
+Hot Springs,3-01,U.S. House,,DEM,Over Votes,0
+Hot Springs,3-01,U.S. House,,DEM,Under Votes,0
+Hot Springs,3-01,Governor,,REP,Brent Bien,11
+Hot Springs,3-01,Governor,,REP,Curt Blake,0
+Hot Springs,3-01,Governor,,REP,Eric Barlow,4
+Hot Springs,3-01,Governor,,REP,Megan Degenfelder,11
+Hot Springs,3-01,Governor,,REP,Write-ins,0
+Hot Springs,3-01,Governor,,REP,Over Votes,0
+Hot Springs,3-01,Governor,,REP,Under Votes,0
+Hot Springs,3-01,Governor,,DEM,Kenneth R. Casner,1
+Hot Springs,3-01,Governor,,DEM,Write-ins,0
+Hot Springs,3-01,Governor,,DEM,Over Votes,0
+Hot Springs,3-01,Governor,,DEM,Under Votes,0
+Hot Springs,3-01,Secretary of State,,REP,CJ Young,9
+Hot Springs,3-01,Secretary of State,,REP,Qwenton Eagle Oviatt,1
+Hot Springs,3-01,Secretary of State,,REP,Rachel Williams,8
+Hot Springs,3-01,Secretary of State,,REP,Robert Short,4
+Hot Springs,3-01,Secretary of State,,REP,Write-ins,0
+Hot Springs,3-01,Secretary of State,,REP,Over Votes,0
+Hot Springs,3-01,Secretary of State,,REP,Under Votes,4
+Hot Springs,3-01,Secretary of State,,DEM,Bryan McCarty,1
+Hot Springs,3-01,Secretary of State,,DEM,Write-ins,0
+Hot Springs,3-01,Secretary of State,,DEM,Over Votes,0
+Hot Springs,3-01,Secretary of State,,DEM,Under Votes,0
+Hot Springs,3-01,State Auditor,,REP,Kristi Racines,22
+Hot Springs,3-01,State Auditor,,REP,Write-ins,0
+Hot Springs,3-01,State Auditor,,REP,Over Votes,0
+Hot Springs,3-01,State Auditor,,REP,Under Votes,4
+Hot Springs,3-01,State Auditor,,DEM,Write-ins,0
+Hot Springs,3-01,State Auditor,,DEM,Over Votes,0
+Hot Springs,3-01,State Auditor,,DEM,Under Votes,1
+Hot Springs,3-01,State Treasurer,,REP,Curt Meier,14
+Hot Springs,3-01,State Treasurer,,REP,Scott Smith,7
+Hot Springs,3-01,State Treasurer,,REP,Write-ins,0
+Hot Springs,3-01,State Treasurer,,REP,Over Votes,0
+Hot Springs,3-01,State Treasurer,,REP,Under Votes,5
+Hot Springs,3-01,State Treasurer,,DEM,Write-ins,0
+Hot Springs,3-01,State Treasurer,,DEM,Over Votes,0
+Hot Springs,3-01,State Treasurer,,DEM,Under Votes,1
+Hot Springs,3-01,Superintendent of Public Instruction,,REP,Chad Auer,1
+Hot Springs,3-01,Superintendent of Public Instruction,,REP,Steve Harshman,10
+Hot Springs,3-01,Superintendent of Public Instruction,,REP,Tom Kelly,11
+Hot Springs,3-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Hot Springs,3-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Hot Springs,3-01,Superintendent of Public Instruction,,REP,Under Votes,4
+Hot Springs,3-01,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Hot Springs,3-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Hot Springs,3-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Hot Springs,3-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Hot Springs,3-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Hot Springs,3-01,State House,28,REP,Allen Hogg,11
+Hot Springs,3-01,State House,28,REP,Carlin Jones,6
+Hot Springs,3-01,State House,28,REP,Marshall Keller,3
+Hot Springs,3-01,State House,28,REP,Roland Luehne,5
+Hot Springs,3-01,State House,28,REP,Write-ins,0
+Hot Springs,3-01,State House,28,REP,Over Votes,0
+Hot Springs,3-01,State House,28,REP,Under Votes,1
+Hot Springs,3-01,State House,28,DEM,Write-ins,1
+Hot Springs,3-01,State House,28,DEM,Over Votes,0
+Hot Springs,3-01,State House,28,DEM,Under Votes,0
+Hot Springs,3-01,Ballots Cast,,REP,Ballots Cast,26
+Hot Springs,3-01,Ballots Cast,,DEM,Ballots Cast,1
+Hot Springs,3-01,Ballots Cast,,NP,Ballots Cast,4
+Hot Springs,3-01,Ballots Cast,,,Ballots Cast,31
+Hot Springs,4-01,U.S. Senate,,REP,Harriet Hageman,524
+Hot Springs,4-01,U.S. Senate,,REP,Jill M Edwards,12
+Hot Springs,4-01,U.S. Senate,,REP,Jimmy Skovgard,8
+Hot Springs,4-01,U.S. Senate,,REP,John Holtz,14
+Hot Springs,4-01,U.S. Senate,,REP,Sam Mead,193
+Hot Springs,4-01,U.S. Senate,,REP,Write-ins,0
+Hot Springs,4-01,U.S. Senate,,REP,Over Votes,2
+Hot Springs,4-01,U.S. Senate,,REP,Under Votes,20
+Hot Springs,4-01,U.S. Senate,,DEM,Billy Benavidez,7
+Hot Springs,4-01,U.S. Senate,,DEM,James Byrd,26
+Hot Springs,4-01,U.S. Senate,,DEM,Write-ins,1
+Hot Springs,4-01,U.S. Senate,,DEM,Over Votes,0
+Hot Springs,4-01,U.S. Senate,,DEM,Under Votes,1
+Hot Springs,4-01,U.S. House,,REP,* Withdrawn Candidate,13
+Hot Springs,4-01,U.S. House,,REP,Bo Biteman,19
+Hot Springs,4-01,U.S. House,,REP,Chuck Gray,139
+Hot Springs,4-01,U.S. House,,REP,David Giralt,90
+Hot Springs,4-01,U.S. House,,REP,Jillian Balow,106
+Hot Springs,4-01,U.S. House,,REP,Keith B. Goodenough,10
+Hot Springs,4-01,U.S. House,,REP,Kevin Christensen,81
+Hot Springs,4-01,U.S. House,,REP,Reid Rasner,87
+Hot Springs,4-01,U.S. House,,REP,Richard Dodson,7
+Hot Springs,4-01,U.S. House,,REP,Steve Friess,172
+Hot Springs,4-01,U.S. House,,REP,Write-ins,0
+Hot Springs,4-01,U.S. House,,REP,Over Votes,5
+Hot Springs,4-01,U.S. House,,REP,Under Votes,44
+Hot Springs,4-01,U.S. House,,DEM,Elena Del Real,9
+Hot Springs,4-01,U.S. House,,DEM,Lisa Kinney,24
+Hot Springs,4-01,U.S. House,,DEM,Write-ins,1
+Hot Springs,4-01,U.S. House,,DEM,Over Votes,0
+Hot Springs,4-01,U.S. House,,DEM,Under Votes,1
+Hot Springs,4-01,Governor,,REP,Brent Bien,196
+Hot Springs,4-01,Governor,,REP,Curt Blake,5
+Hot Springs,4-01,Governor,,REP,Eric Barlow,304
+Hot Springs,4-01,Governor,,REP,Megan Degenfelder,257
+Hot Springs,4-01,Governor,,REP,Write-ins,0
+Hot Springs,4-01,Governor,,REP,Over Votes,0
+Hot Springs,4-01,Governor,,REP,Under Votes,11
+Hot Springs,4-01,Governor,,DEM,Kenneth R. Casner,29
+Hot Springs,4-01,Governor,,DEM,Write-ins,4
+Hot Springs,4-01,Governor,,DEM,Over Votes,0
+Hot Springs,4-01,Governor,,DEM,Under Votes,2
+Hot Springs,4-01,Secretary of State,,REP,CJ Young,73
+Hot Springs,4-01,Secretary of State,,REP,Qwenton Eagle Oviatt,30
+Hot Springs,4-01,Secretary of State,,REP,Rachel Williams,248
+Hot Springs,4-01,Secretary of State,,REP,Robert Short,304
+Hot Springs,4-01,Secretary of State,,REP,Write-ins,1
+Hot Springs,4-01,Secretary of State,,REP,Over Votes,2
+Hot Springs,4-01,Secretary of State,,REP,Under Votes,115
+Hot Springs,4-01,Secretary of State,,DEM,Bryan McCarty,32
+Hot Springs,4-01,Secretary of State,,DEM,Write-ins,2
+Hot Springs,4-01,Secretary of State,,DEM,Over Votes,0
+Hot Springs,4-01,Secretary of State,,DEM,Under Votes,1
+Hot Springs,4-01,State Auditor,,REP,Kristi Racines,621
+Hot Springs,4-01,State Auditor,,REP,Write-ins,0
+Hot Springs,4-01,State Auditor,,REP,Over Votes,0
+Hot Springs,4-01,State Auditor,,REP,Under Votes,152
+Hot Springs,4-01,State Auditor,,DEM,Write-ins,5
+Hot Springs,4-01,State Auditor,,DEM,Over Votes,0
+Hot Springs,4-01,State Auditor,,DEM,Under Votes,30
+Hot Springs,4-01,State Treasurer,,REP,Curt Meier,480
+Hot Springs,4-01,State Treasurer,,REP,Scott Smith,164
+Hot Springs,4-01,State Treasurer,,REP,Write-ins,0
+Hot Springs,4-01,State Treasurer,,REP,Over Votes,0
+Hot Springs,4-01,State Treasurer,,REP,Under Votes,129
+Hot Springs,4-01,State Treasurer,,DEM,Write-ins,3
+Hot Springs,4-01,State Treasurer,,DEM,Over Votes,0
+Hot Springs,4-01,State Treasurer,,DEM,Under Votes,32
+Hot Springs,4-01,Superintendent of Public Instruction,,REP,Chad Auer,64
+Hot Springs,4-01,Superintendent of Public Instruction,,REP,Steve Harshman,385
+Hot Springs,4-01,Superintendent of Public Instruction,,REP,Tom Kelly,196
+Hot Springs,4-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Hot Springs,4-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Hot Springs,4-01,Superintendent of Public Instruction,,REP,Under Votes,128
+Hot Springs,4-01,Superintendent of Public Instruction,,DEM,Ana Cordova,16
+Hot Springs,4-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",18
+Hot Springs,4-01,Superintendent of Public Instruction,,DEM,Write-ins,1
+Hot Springs,4-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Hot Springs,4-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Hot Springs,4-01,State House,28,REP,Allen Hogg,294
+Hot Springs,4-01,State House,28,REP,Carlin Jones,159
+Hot Springs,4-01,State House,28,REP,Marshall Keller,256
+Hot Springs,4-01,State House,28,REP,Roland Luehne,43
+Hot Springs,4-01,State House,28,REP,Write-ins,2
+Hot Springs,4-01,State House,28,REP,Over Votes,0
+Hot Springs,4-01,State House,28,REP,Under Votes,19
+Hot Springs,4-01,State House,28,DEM,Write-ins,18
+Hot Springs,4-01,State House,28,DEM,Over Votes,0
+Hot Springs,4-01,State House,28,DEM,Under Votes,17
+Hot Springs,4-01,Ballots Cast,,REP,Ballots Cast,773
+Hot Springs,4-01,Ballots Cast,,DEM,Ballots Cast,35
+Hot Springs,4-01,Ballots Cast,,NP,Ballots Cast,0
+Hot Springs,4-01,Ballots Cast,,,Ballots Cast,808

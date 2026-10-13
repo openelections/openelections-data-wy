@@ -1,0 +1,1365 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,1-01,U.S. Senate,,REP,Harriet Hageman,496
+Lincoln,1-01,U.S. Senate,,REP,Jill M Edwards,34
+Lincoln,1-01,U.S. Senate,,REP,Jimmy Skovgard,14
+Lincoln,1-01,U.S. Senate,,REP,John Holtz,23
+Lincoln,1-01,U.S. Senate,,REP,Sam Mead,98
+Lincoln,1-01,U.S. Senate,,REP,Write-ins,3
+Lincoln,1-01,U.S. Senate,,REP,Over Votes,1
+Lincoln,1-01,U.S. Senate,,REP,Under Votes,25
+Lincoln,1-01,U.S. Senate,,DEM,Billy Benavidez,14
+Lincoln,1-01,U.S. Senate,,DEM,James Byrd,31
+Lincoln,1-01,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-01,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-01,U.S. Senate,,DEM,Under Votes,4
+Lincoln,1-01,U.S. House,,REP,* Withdrawn Candidate,13
+Lincoln,1-01,U.S. House,,REP,Bo Biteman,13
+Lincoln,1-01,U.S. House,,REP,Chuck Gray,191
+Lincoln,1-01,U.S. House,,REP,David Giralt,98
+Lincoln,1-01,U.S. House,,REP,Jillian Balow,82
+Lincoln,1-01,U.S. House,,REP,Keith B. Goodenough,7
+Lincoln,1-01,U.S. House,,REP,Kevin Christensen,56
+Lincoln,1-01,U.S. House,,REP,Reid Rasner,76
+Lincoln,1-01,U.S. House,,REP,Richard Dodson,7
+Lincoln,1-01,U.S. House,,REP,Steve Friess,87
+Lincoln,1-01,U.S. House,,REP,Write-ins,4
+Lincoln,1-01,U.S. House,,REP,Over Votes,21
+Lincoln,1-01,U.S. House,,REP,Under Votes,39
+Lincoln,1-01,U.S. House,,DEM,Elena Del Real,13
+Lincoln,1-01,U.S. House,,DEM,Lisa Kinney,32
+Lincoln,1-01,U.S. House,,DEM,Write-ins,0
+Lincoln,1-01,U.S. House,,DEM,Over Votes,0
+Lincoln,1-01,U.S. House,,DEM,Under Votes,4
+Lincoln,1-01,Governor,,REP,Brent Bien,159
+Lincoln,1-01,Governor,,REP,Curt Blake,15
+Lincoln,1-01,Governor,,REP,Eric Barlow,311
+Lincoln,1-01,Governor,,REP,Megan Degenfelder,185
+Lincoln,1-01,Governor,,REP,Write-ins,2
+Lincoln,1-01,Governor,,REP,Over Votes,0
+Lincoln,1-01,Governor,,REP,Under Votes,22
+Lincoln,1-01,Governor,,DEM,Kenneth R. Casner,41
+Lincoln,1-01,Governor,,DEM,Write-ins,2
+Lincoln,1-01,Governor,,DEM,Over Votes,0
+Lincoln,1-01,Governor,,DEM,Under Votes,6
+Lincoln,1-01,Secretary of State,,REP,CJ Young,80
+Lincoln,1-01,Secretary of State,,REP,Qwenton Eagle Oviatt,51
+Lincoln,1-01,Secretary of State,,REP,Rachel Williams,224
+Lincoln,1-01,Secretary of State,,REP,Robert Short,220
+Lincoln,1-01,Secretary of State,,REP,Write-ins,4
+Lincoln,1-01,Secretary of State,,REP,Over Votes,0
+Lincoln,1-01,Secretary of State,,REP,Under Votes,115
+Lincoln,1-01,Secretary of State,,DEM,Bryan McCarty,43
+Lincoln,1-01,Secretary of State,,DEM,Write-ins,0
+Lincoln,1-01,Secretary of State,,DEM,Over Votes,0
+Lincoln,1-01,Secretary of State,,DEM,Under Votes,6
+Lincoln,1-01,State Auditor,,REP,Kristi Racines,558
+Lincoln,1-01,State Auditor,,REP,Write-ins,5
+Lincoln,1-01,State Auditor,,REP,Over Votes,0
+Lincoln,1-01,State Auditor,,REP,Under Votes,131
+Lincoln,1-01,State Auditor,,DEM,Write-ins,0
+Lincoln,1-01,State Auditor,,DEM,Over Votes,0
+Lincoln,1-01,State Auditor,,DEM,Under Votes,49
+Lincoln,1-01,State Treasurer,,REP,Curt Meier,340
+Lincoln,1-01,State Treasurer,,REP,Scott Smith,230
+Lincoln,1-01,State Treasurer,,REP,Write-ins,3
+Lincoln,1-01,State Treasurer,,REP,Over Votes,0
+Lincoln,1-01,State Treasurer,,REP,Under Votes,121
+Lincoln,1-01,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-01,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-01,State Treasurer,,DEM,Under Votes,49
+Lincoln,1-01,Superintendent of Public Instruction,,REP,Chad Auer,69
+Lincoln,1-01,Superintendent of Public Instruction,,REP,Steve Harshman,306
+Lincoln,1-01,Superintendent of Public Instruction,,REP,Tom Kelly,200
+Lincoln,1-01,Superintendent of Public Instruction,,REP,Write-ins,3
+Lincoln,1-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,1-01,Superintendent of Public Instruction,,REP,Under Votes,116
+Lincoln,1-01,Superintendent of Public Instruction,,DEM,Ana Cordova,18
+Lincoln,1-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",23
+Lincoln,1-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,1-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,1-01,Superintendent of Public Instruction,,DEM,Under Votes,8
+Lincoln,1-01,State House,18,REP,Kenneth D Roberts,500
+Lincoln,1-01,State House,18,REP,Scott Heiner,178
+Lincoln,1-01,State House,18,REP,Write-ins,2
+Lincoln,1-01,State House,18,REP,Over Votes,0
+Lincoln,1-01,State House,18,REP,Under Votes,14
+Lincoln,1-01,State House,18,DEM,Write-ins,4
+Lincoln,1-01,State House,18,DEM,Over Votes,0
+Lincoln,1-01,State House,18,DEM,Under Votes,45
+Lincoln,1-01,Ballots Cast,,REP,Ballots Cast,694
+Lincoln,1-01,Ballots Cast,,DEM,Ballots Cast,49
+Lincoln,1-01,Ballots Cast,,NP,Ballots Cast,31
+Lincoln,1-01,Ballots Cast,,,Ballots Cast,774
+Lincoln,1-04,U.S. Senate,,REP,Harriet Hageman,134
+Lincoln,1-04,U.S. Senate,,REP,Jill M Edwards,7
+Lincoln,1-04,U.S. Senate,,REP,Jimmy Skovgard,2
+Lincoln,1-04,U.S. Senate,,REP,John Holtz,5
+Lincoln,1-04,U.S. Senate,,REP,Sam Mead,18
+Lincoln,1-04,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-04,U.S. Senate,,REP,Over Votes,1
+Lincoln,1-04,U.S. Senate,,REP,Under Votes,6
+Lincoln,1-04,U.S. Senate,,DEM,Billy Benavidez,3
+Lincoln,1-04,U.S. Senate,,DEM,James Byrd,11
+Lincoln,1-04,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-04,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-04,U.S. Senate,,DEM,Under Votes,1
+Lincoln,1-04,U.S. House,,REP,* Withdrawn Candidate,0
+Lincoln,1-04,U.S. House,,REP,Bo Biteman,6
+Lincoln,1-04,U.S. House,,REP,Chuck Gray,54
+Lincoln,1-04,U.S. House,,REP,David Giralt,24
+Lincoln,1-04,U.S. House,,REP,Jillian Balow,15
+Lincoln,1-04,U.S. House,,REP,Keith B. Goodenough,13
+Lincoln,1-04,U.S. House,,REP,Kevin Christensen,9
+Lincoln,1-04,U.S. House,,REP,Reid Rasner,23
+Lincoln,1-04,U.S. House,,REP,Richard Dodson,1
+Lincoln,1-04,U.S. House,,REP,Steve Friess,22
+Lincoln,1-04,U.S. House,,REP,Write-ins,1
+Lincoln,1-04,U.S. House,,REP,Over Votes,1
+Lincoln,1-04,U.S. House,,REP,Under Votes,4
+Lincoln,1-04,U.S. House,,DEM,Elena Del Real,2
+Lincoln,1-04,U.S. House,,DEM,Lisa Kinney,12
+Lincoln,1-04,U.S. House,,DEM,Write-ins,0
+Lincoln,1-04,U.S. House,,DEM,Over Votes,0
+Lincoln,1-04,U.S. House,,DEM,Under Votes,1
+Lincoln,1-04,Governor,,REP,Brent Bien,43
+Lincoln,1-04,Governor,,REP,Curt Blake,9
+Lincoln,1-04,Governor,,REP,Eric Barlow,57
+Lincoln,1-04,Governor,,REP,Megan Degenfelder,60
+Lincoln,1-04,Governor,,REP,Write-ins,0
+Lincoln,1-04,Governor,,REP,Over Votes,1
+Lincoln,1-04,Governor,,REP,Under Votes,3
+Lincoln,1-04,Governor,,DEM,Kenneth R. Casner,13
+Lincoln,1-04,Governor,,DEM,Write-ins,0
+Lincoln,1-04,Governor,,DEM,Over Votes,0
+Lincoln,1-04,Governor,,DEM,Under Votes,2
+Lincoln,1-04,Secretary of State,,REP,CJ Young,23
+Lincoln,1-04,Secretary of State,,REP,Qwenton Eagle Oviatt,15
+Lincoln,1-04,Secretary of State,,REP,Rachel Williams,68
+Lincoln,1-04,Secretary of State,,REP,Robert Short,51
+Lincoln,1-04,Secretary of State,,REP,Write-ins,0
+Lincoln,1-04,Secretary of State,,REP,Over Votes,0
+Lincoln,1-04,Secretary of State,,REP,Under Votes,16
+Lincoln,1-04,Secretary of State,,DEM,Bryan McCarty,13
+Lincoln,1-04,Secretary of State,,DEM,Write-ins,0
+Lincoln,1-04,Secretary of State,,DEM,Over Votes,0
+Lincoln,1-04,Secretary of State,,DEM,Under Votes,2
+Lincoln,1-04,State Auditor,,REP,Kristi Racines,139
+Lincoln,1-04,State Auditor,,REP,Write-ins,2
+Lincoln,1-04,State Auditor,,REP,Over Votes,0
+Lincoln,1-04,State Auditor,,REP,Under Votes,32
+Lincoln,1-04,State Auditor,,DEM,Write-ins,0
+Lincoln,1-04,State Auditor,,DEM,Over Votes,0
+Lincoln,1-04,State Auditor,,DEM,Under Votes,15
+Lincoln,1-04,State Treasurer,,REP,Curt Meier,84
+Lincoln,1-04,State Treasurer,,REP,Scott Smith,65
+Lincoln,1-04,State Treasurer,,REP,Write-ins,0
+Lincoln,1-04,State Treasurer,,REP,Over Votes,0
+Lincoln,1-04,State Treasurer,,REP,Under Votes,24
+Lincoln,1-04,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-04,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-04,State Treasurer,,DEM,Under Votes,15
+Lincoln,1-04,Superintendent of Public Instruction,,REP,Chad Auer,17
+Lincoln,1-04,Superintendent of Public Instruction,,REP,Steve Harshman,80
+Lincoln,1-04,Superintendent of Public Instruction,,REP,Tom Kelly,59
+Lincoln,1-04,Superintendent of Public Instruction,,REP,Write-ins,0
+Lincoln,1-04,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,1-04,Superintendent of Public Instruction,,REP,Under Votes,17
+Lincoln,1-04,Superintendent of Public Instruction,,DEM,Ana Cordova,10
+Lincoln,1-04,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Lincoln,1-04,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,1-04,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,1-04,Superintendent of Public Instruction,,DEM,Under Votes,1
+Lincoln,1-04,State House,18,REP,Kenneth D Roberts,127
+Lincoln,1-04,State House,18,REP,Scott Heiner,46
+Lincoln,1-04,State House,18,REP,Write-ins,0
+Lincoln,1-04,State House,18,REP,Over Votes,0
+Lincoln,1-04,State House,18,REP,Under Votes,0
+Lincoln,1-04,State House,18,DEM,Write-ins,0
+Lincoln,1-04,State House,18,DEM,Over Votes,0
+Lincoln,1-04,State House,18,DEM,Under Votes,15
+Lincoln,1-04,Ballots Cast,,REP,Ballots Cast,173
+Lincoln,1-04,Ballots Cast,,DEM,Ballots Cast,15
+Lincoln,1-04,Ballots Cast,,NP,Ballots Cast,5
+Lincoln,1-04,Ballots Cast,,,Ballots Cast,193
+Lincoln,1-06,U.S. Senate,,REP,Harriet Hageman,75
+Lincoln,1-06,U.S. Senate,,REP,Jill M Edwards,1
+Lincoln,1-06,U.S. Senate,,REP,Jimmy Skovgard,0
+Lincoln,1-06,U.S. Senate,,REP,John Holtz,0
+Lincoln,1-06,U.S. Senate,,REP,Sam Mead,25
+Lincoln,1-06,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-06,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-06,U.S. Senate,,REP,Under Votes,6
+Lincoln,1-06,U.S. Senate,,DEM,Billy Benavidez,0
+Lincoln,1-06,U.S. Senate,,DEM,James Byrd,1
+Lincoln,1-06,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-06,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-06,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-06,U.S. House,,REP,* Withdrawn Candidate,0
+Lincoln,1-06,U.S. House,,REP,Bo Biteman,4
+Lincoln,1-06,U.S. House,,REP,Chuck Gray,25
+Lincoln,1-06,U.S. House,,REP,David Giralt,21
+Lincoln,1-06,U.S. House,,REP,Jillian Balow,10
+Lincoln,1-06,U.S. House,,REP,Keith B. Goodenough,3
+Lincoln,1-06,U.S. House,,REP,Kevin Christensen,5
+Lincoln,1-06,U.S. House,,REP,Reid Rasner,7
+Lincoln,1-06,U.S. House,,REP,Richard Dodson,0
+Lincoln,1-06,U.S. House,,REP,Steve Friess,22
+Lincoln,1-06,U.S. House,,REP,Write-ins,0
+Lincoln,1-06,U.S. House,,REP,Over Votes,0
+Lincoln,1-06,U.S. House,,REP,Under Votes,10
+Lincoln,1-06,U.S. House,,DEM,Elena Del Real,0
+Lincoln,1-06,U.S. House,,DEM,Lisa Kinney,1
+Lincoln,1-06,U.S. House,,DEM,Write-ins,0
+Lincoln,1-06,U.S. House,,DEM,Over Votes,0
+Lincoln,1-06,U.S. House,,DEM,Under Votes,0
+Lincoln,1-06,Governor,,REP,Brent Bien,19
+Lincoln,1-06,Governor,,REP,Curt Blake,1
+Lincoln,1-06,Governor,,REP,Eric Barlow,48
+Lincoln,1-06,Governor,,REP,Megan Degenfelder,36
+Lincoln,1-06,Governor,,REP,Write-ins,0
+Lincoln,1-06,Governor,,REP,Over Votes,1
+Lincoln,1-06,Governor,,REP,Under Votes,2
+Lincoln,1-06,Governor,,DEM,Kenneth R. Casner,1
+Lincoln,1-06,Governor,,DEM,Write-ins,0
+Lincoln,1-06,Governor,,DEM,Over Votes,0
+Lincoln,1-06,Governor,,DEM,Under Votes,0
+Lincoln,1-06,Secretary of State,,REP,CJ Young,12
+Lincoln,1-06,Secretary of State,,REP,Qwenton Eagle Oviatt,4
+Lincoln,1-06,Secretary of State,,REP,Rachel Williams,31
+Lincoln,1-06,Secretary of State,,REP,Robert Short,30
+Lincoln,1-06,Secretary of State,,REP,Write-ins,0
+Lincoln,1-06,Secretary of State,,REP,Over Votes,0
+Lincoln,1-06,Secretary of State,,REP,Under Votes,30
+Lincoln,1-06,Secretary of State,,DEM,Bryan McCarty,1
+Lincoln,1-06,Secretary of State,,DEM,Write-ins,0
+Lincoln,1-06,Secretary of State,,DEM,Over Votes,0
+Lincoln,1-06,Secretary of State,,DEM,Under Votes,0
+Lincoln,1-06,State Auditor,,REP,Kristi Racines,76
+Lincoln,1-06,State Auditor,,REP,Write-ins,0
+Lincoln,1-06,State Auditor,,REP,Over Votes,0
+Lincoln,1-06,State Auditor,,REP,Under Votes,31
+Lincoln,1-06,State Auditor,,DEM,Write-ins,0
+Lincoln,1-06,State Auditor,,DEM,Over Votes,0
+Lincoln,1-06,State Auditor,,DEM,Under Votes,1
+Lincoln,1-06,State Treasurer,,REP,Curt Meier,53
+Lincoln,1-06,State Treasurer,,REP,Scott Smith,26
+Lincoln,1-06,State Treasurer,,REP,Write-ins,0
+Lincoln,1-06,State Treasurer,,REP,Over Votes,0
+Lincoln,1-06,State Treasurer,,REP,Under Votes,28
+Lincoln,1-06,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-06,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-06,State Treasurer,,DEM,Under Votes,1
+Lincoln,1-06,Superintendent of Public Instruction,,REP,Chad Auer,4
+Lincoln,1-06,Superintendent of Public Instruction,,REP,Steve Harshman,46
+Lincoln,1-06,Superintendent of Public Instruction,,REP,Tom Kelly,27
+Lincoln,1-06,Superintendent of Public Instruction,,REP,Write-ins,1
+Lincoln,1-06,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,1-06,Superintendent of Public Instruction,,REP,Under Votes,29
+Lincoln,1-06,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Lincoln,1-06,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Lincoln,1-06,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,1-06,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,1-06,Superintendent of Public Instruction,,DEM,Under Votes,0
+Lincoln,1-06,State House,18,REP,Kenneth D Roberts,79
+Lincoln,1-06,State House,18,REP,Scott Heiner,21
+Lincoln,1-06,State House,18,REP,Write-ins,0
+Lincoln,1-06,State House,18,REP,Over Votes,0
+Lincoln,1-06,State House,18,REP,Under Votes,7
+Lincoln,1-06,State House,18,DEM,Write-ins,0
+Lincoln,1-06,State House,18,DEM,Over Votes,0
+Lincoln,1-06,State House,18,DEM,Under Votes,1
+Lincoln,1-06,Ballots Cast,,REP,Ballots Cast,107
+Lincoln,1-06,Ballots Cast,,DEM,Ballots Cast,1
+Lincoln,1-06,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,1-06,Ballots Cast,,,Ballots Cast,108
+Lincoln,1-07,U.S. Senate,,REP,Harriet Hageman,47
+Lincoln,1-07,U.S. Senate,,REP,Jill M Edwards,0
+Lincoln,1-07,U.S. Senate,,REP,Jimmy Skovgard,0
+Lincoln,1-07,U.S. Senate,,REP,John Holtz,0
+Lincoln,1-07,U.S. Senate,,REP,Sam Mead,3
+Lincoln,1-07,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-07,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-07,U.S. Senate,,REP,Under Votes,2
+Lincoln,1-07,U.S. Senate,,DEM,Billy Benavidez,2
+Lincoln,1-07,U.S. Senate,,DEM,James Byrd,0
+Lincoln,1-07,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-07,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-07,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-07,U.S. House,,REP,* Withdrawn Candidate,0
+Lincoln,1-07,U.S. House,,REP,Bo Biteman,0
+Lincoln,1-07,U.S. House,,REP,Chuck Gray,25
+Lincoln,1-07,U.S. House,,REP,David Giralt,7
+Lincoln,1-07,U.S. House,,REP,Jillian Balow,3
+Lincoln,1-07,U.S. House,,REP,Keith B. Goodenough,0
+Lincoln,1-07,U.S. House,,REP,Kevin Christensen,2
+Lincoln,1-07,U.S. House,,REP,Reid Rasner,5
+Lincoln,1-07,U.S. House,,REP,Richard Dodson,0
+Lincoln,1-07,U.S. House,,REP,Steve Friess,9
+Lincoln,1-07,U.S. House,,REP,Write-ins,0
+Lincoln,1-07,U.S. House,,REP,Over Votes,1
+Lincoln,1-07,U.S. House,,REP,Under Votes,0
+Lincoln,1-07,U.S. House,,DEM,Elena Del Real,0
+Lincoln,1-07,U.S. House,,DEM,Lisa Kinney,2
+Lincoln,1-07,U.S. House,,DEM,Write-ins,0
+Lincoln,1-07,U.S. House,,DEM,Over Votes,0
+Lincoln,1-07,U.S. House,,DEM,Under Votes,0
+Lincoln,1-07,Governor,,REP,Brent Bien,19
+Lincoln,1-07,Governor,,REP,Curt Blake,0
+Lincoln,1-07,Governor,,REP,Eric Barlow,14
+Lincoln,1-07,Governor,,REP,Megan Degenfelder,16
+Lincoln,1-07,Governor,,REP,Write-ins,0
+Lincoln,1-07,Governor,,REP,Over Votes,0
+Lincoln,1-07,Governor,,REP,Under Votes,3
+Lincoln,1-07,Governor,,DEM,Kenneth R. Casner,2
+Lincoln,1-07,Governor,,DEM,Write-ins,0
+Lincoln,1-07,Governor,,DEM,Over Votes,0
+Lincoln,1-07,Governor,,DEM,Under Votes,0
+Lincoln,1-07,Secretary of State,,REP,CJ Young,10
+Lincoln,1-07,Secretary of State,,REP,Qwenton Eagle Oviatt,0
+Lincoln,1-07,Secretary of State,,REP,Rachel Williams,23
+Lincoln,1-07,Secretary of State,,REP,Robert Short,10
+Lincoln,1-07,Secretary of State,,REP,Write-ins,0
+Lincoln,1-07,Secretary of State,,REP,Over Votes,0
+Lincoln,1-07,Secretary of State,,REP,Under Votes,9
+Lincoln,1-07,Secretary of State,,DEM,Bryan McCarty,1
+Lincoln,1-07,Secretary of State,,DEM,Write-ins,0
+Lincoln,1-07,Secretary of State,,DEM,Over Votes,0
+Lincoln,1-07,Secretary of State,,DEM,Under Votes,1
+Lincoln,1-07,State Auditor,,REP,Kristi Racines,41
+Lincoln,1-07,State Auditor,,REP,Write-ins,0
+Lincoln,1-07,State Auditor,,REP,Over Votes,0
+Lincoln,1-07,State Auditor,,REP,Under Votes,11
+Lincoln,1-07,State Auditor,,DEM,Write-ins,0
+Lincoln,1-07,State Auditor,,DEM,Over Votes,0
+Lincoln,1-07,State Auditor,,DEM,Under Votes,2
+Lincoln,1-07,State Treasurer,,REP,Curt Meier,15
+Lincoln,1-07,State Treasurer,,REP,Scott Smith,32
+Lincoln,1-07,State Treasurer,,REP,Write-ins,0
+Lincoln,1-07,State Treasurer,,REP,Over Votes,0
+Lincoln,1-07,State Treasurer,,REP,Under Votes,5
+Lincoln,1-07,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-07,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-07,State Treasurer,,DEM,Under Votes,2
+Lincoln,1-07,Superintendent of Public Instruction,,REP,Chad Auer,5
+Lincoln,1-07,Superintendent of Public Instruction,,REP,Steve Harshman,21
+Lincoln,1-07,Superintendent of Public Instruction,,REP,Tom Kelly,18
+Lincoln,1-07,Superintendent of Public Instruction,,REP,Write-ins,0
+Lincoln,1-07,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,1-07,Superintendent of Public Instruction,,REP,Under Votes,8
+Lincoln,1-07,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Lincoln,1-07,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Lincoln,1-07,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,1-07,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,1-07,Superintendent of Public Instruction,,DEM,Under Votes,0
+Lincoln,1-07,State House,18,REP,Kenneth D Roberts,24
+Lincoln,1-07,State House,18,REP,Scott Heiner,25
+Lincoln,1-07,State House,18,REP,Write-ins,0
+Lincoln,1-07,State House,18,REP,Over Votes,0
+Lincoln,1-07,State House,18,REP,Under Votes,3
+Lincoln,1-07,State House,18,DEM,Write-ins,0
+Lincoln,1-07,State House,18,DEM,Over Votes,0
+Lincoln,1-07,State House,18,DEM,Under Votes,2
+Lincoln,1-07,Ballots Cast,,REP,Ballots Cast,52
+Lincoln,1-07,Ballots Cast,,DEM,Ballots Cast,2
+Lincoln,1-07,Ballots Cast,,NP,Ballots Cast,9
+Lincoln,1-07,Ballots Cast,,,Ballots Cast,63
+Lincoln,1-08,U.S. Senate,,REP,Harriet Hageman,147
+Lincoln,1-08,U.S. Senate,,REP,Jill M Edwards,4
+Lincoln,1-08,U.S. Senate,,REP,Jimmy Skovgard,7
+Lincoln,1-08,U.S. Senate,,REP,John Holtz,6
+Lincoln,1-08,U.S. Senate,,REP,Sam Mead,25
+Lincoln,1-08,U.S. Senate,,REP,Write-ins,0
+Lincoln,1-08,U.S. Senate,,REP,Over Votes,0
+Lincoln,1-08,U.S. Senate,,REP,Under Votes,9
+Lincoln,1-08,U.S. Senate,,DEM,Billy Benavidez,0
+Lincoln,1-08,U.S. Senate,,DEM,James Byrd,3
+Lincoln,1-08,U.S. Senate,,DEM,Write-ins,0
+Lincoln,1-08,U.S. Senate,,DEM,Over Votes,0
+Lincoln,1-08,U.S. Senate,,DEM,Under Votes,0
+Lincoln,1-08,U.S. House,,REP,* Withdrawn Candidate,5
+Lincoln,1-08,U.S. House,,REP,Bo Biteman,4
+Lincoln,1-08,U.S. House,,REP,Chuck Gray,99
+Lincoln,1-08,U.S. House,,REP,David Giralt,8
+Lincoln,1-08,U.S. House,,REP,Jillian Balow,8
+Lincoln,1-08,U.S. House,,REP,Keith B. Goodenough,4
+Lincoln,1-08,U.S. House,,REP,Kevin Christensen,10
+Lincoln,1-08,U.S. House,,REP,Reid Rasner,19
+Lincoln,1-08,U.S. House,,REP,Richard Dodson,0
+Lincoln,1-08,U.S. House,,REP,Steve Friess,25
+Lincoln,1-08,U.S. House,,REP,Write-ins,0
+Lincoln,1-08,U.S. House,,REP,Over Votes,3
+Lincoln,1-08,U.S. House,,REP,Under Votes,13
+Lincoln,1-08,U.S. House,,DEM,Elena Del Real,1
+Lincoln,1-08,U.S. House,,DEM,Lisa Kinney,2
+Lincoln,1-08,U.S. House,,DEM,Write-ins,0
+Lincoln,1-08,U.S. House,,DEM,Over Votes,0
+Lincoln,1-08,U.S. House,,DEM,Under Votes,0
+Lincoln,1-08,Governor,,REP,Brent Bien,137
+Lincoln,1-08,Governor,,REP,Curt Blake,4
+Lincoln,1-08,Governor,,REP,Eric Barlow,23
+Lincoln,1-08,Governor,,REP,Megan Degenfelder,28
+Lincoln,1-08,Governor,,REP,Write-ins,0
+Lincoln,1-08,Governor,,REP,Over Votes,0
+Lincoln,1-08,Governor,,REP,Under Votes,6
+Lincoln,1-08,Governor,,DEM,Kenneth R. Casner,3
+Lincoln,1-08,Governor,,DEM,Write-ins,0
+Lincoln,1-08,Governor,,DEM,Over Votes,0
+Lincoln,1-08,Governor,,DEM,Under Votes,0
+Lincoln,1-08,Secretary of State,,REP,CJ Young,18
+Lincoln,1-08,Secretary of State,,REP,Qwenton Eagle Oviatt,12
+Lincoln,1-08,Secretary of State,,REP,Rachel Williams,92
+Lincoln,1-08,Secretary of State,,REP,Robert Short,46
+Lincoln,1-08,Secretary of State,,REP,Write-ins,0
+Lincoln,1-08,Secretary of State,,REP,Over Votes,0
+Lincoln,1-08,Secretary of State,,REP,Under Votes,30
+Lincoln,1-08,Secretary of State,,DEM,Bryan McCarty,3
+Lincoln,1-08,Secretary of State,,DEM,Write-ins,0
+Lincoln,1-08,Secretary of State,,DEM,Over Votes,0
+Lincoln,1-08,Secretary of State,,DEM,Under Votes,0
+Lincoln,1-08,State Auditor,,REP,Kristi Racines,139
+Lincoln,1-08,State Auditor,,REP,Write-ins,2
+Lincoln,1-08,State Auditor,,REP,Over Votes,1
+Lincoln,1-08,State Auditor,,REP,Under Votes,56
+Lincoln,1-08,State Auditor,,DEM,Write-ins,0
+Lincoln,1-08,State Auditor,,DEM,Over Votes,0
+Lincoln,1-08,State Auditor,,DEM,Under Votes,3
+Lincoln,1-08,State Treasurer,,REP,Curt Meier,61
+Lincoln,1-08,State Treasurer,,REP,Scott Smith,108
+Lincoln,1-08,State Treasurer,,REP,Write-ins,1
+Lincoln,1-08,State Treasurer,,REP,Over Votes,0
+Lincoln,1-08,State Treasurer,,REP,Under Votes,28
+Lincoln,1-08,State Treasurer,,DEM,Write-ins,0
+Lincoln,1-08,State Treasurer,,DEM,Over Votes,0
+Lincoln,1-08,State Treasurer,,DEM,Under Votes,3
+Lincoln,1-08,Superintendent of Public Instruction,,REP,Chad Auer,12
+Lincoln,1-08,Superintendent of Public Instruction,,REP,Steve Harshman,49
+Lincoln,1-08,Superintendent of Public Instruction,,REP,Tom Kelly,104
+Lincoln,1-08,Superintendent of Public Instruction,,REP,Write-ins,1
+Lincoln,1-08,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,1-08,Superintendent of Public Instruction,,REP,Under Votes,32
+Lincoln,1-08,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Lincoln,1-08,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Lincoln,1-08,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,1-08,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,1-08,Superintendent of Public Instruction,,DEM,Under Votes,0
+Lincoln,1-08,State House,20,REP,Albert Sommers,36
+Lincoln,1-08,State House,20,REP,Bill Winney,34
+Lincoln,1-08,State House,20,REP,Matt McGinnis,116
+Lincoln,1-08,State House,20,REP,Write-ins,1
+Lincoln,1-08,State House,20,REP,Over Votes,1
+Lincoln,1-08,State House,20,REP,Under Votes,10
+Lincoln,1-08,State House,20,DEM,Write-ins,0
+Lincoln,1-08,State House,20,DEM,Over Votes,0
+Lincoln,1-08,State House,20,DEM,Under Votes,3
+Lincoln,1-08,Ballots Cast,,REP,Ballots Cast,198
+Lincoln,1-08,Ballots Cast,,DEM,Ballots Cast,3
+Lincoln,1-08,Ballots Cast,,NP,Ballots Cast,8
+Lincoln,1-08,Ballots Cast,,,Ballots Cast,209
+Lincoln,2-01,U.S. Senate,,REP,Harriet Hageman,421
+Lincoln,2-01,U.S. Senate,,REP,Jill M Edwards,17
+Lincoln,2-01,U.S. Senate,,REP,Jimmy Skovgard,14
+Lincoln,2-01,U.S. Senate,,REP,John Holtz,16
+Lincoln,2-01,U.S. Senate,,REP,Sam Mead,92
+Lincoln,2-01,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-01,U.S. Senate,,REP,Over Votes,1
+Lincoln,2-01,U.S. Senate,,REP,Under Votes,17
+Lincoln,2-01,U.S. Senate,,DEM,Billy Benavidez,3
+Lincoln,2-01,U.S. Senate,,DEM,James Byrd,6
+Lincoln,2-01,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-01,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-01,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-01,U.S. House,,REP,* Withdrawn Candidate,8
+Lincoln,2-01,U.S. House,,REP,Bo Biteman,14
+Lincoln,2-01,U.S. House,,REP,Chuck Gray,128
+Lincoln,2-01,U.S. House,,REP,David Giralt,60
+Lincoln,2-01,U.S. House,,REP,Jillian Balow,40
+Lincoln,2-01,U.S. House,,REP,Keith B. Goodenough,3
+Lincoln,2-01,U.S. House,,REP,Kevin Christensen,58
+Lincoln,2-01,U.S. House,,REP,Reid Rasner,53
+Lincoln,2-01,U.S. House,,REP,Richard Dodson,4
+Lincoln,2-01,U.S. House,,REP,Steve Friess,168
+Lincoln,2-01,U.S. House,,REP,Write-ins,0
+Lincoln,2-01,U.S. House,,REP,Over Votes,11
+Lincoln,2-01,U.S. House,,REP,Under Votes,31
+Lincoln,2-01,U.S. House,,DEM,Elena Del Real,1
+Lincoln,2-01,U.S. House,,DEM,Lisa Kinney,7
+Lincoln,2-01,U.S. House,,DEM,Write-ins,0
+Lincoln,2-01,U.S. House,,DEM,Over Votes,1
+Lincoln,2-01,U.S. House,,DEM,Under Votes,0
+Lincoln,2-01,Governor,,REP,Brent Bien,117
+Lincoln,2-01,Governor,,REP,Curt Blake,10
+Lincoln,2-01,Governor,,REP,Eric Barlow,292
+Lincoln,2-01,Governor,,REP,Megan Degenfelder,139
+Lincoln,2-01,Governor,,REP,Write-ins,0
+Lincoln,2-01,Governor,,REP,Over Votes,0
+Lincoln,2-01,Governor,,REP,Under Votes,20
+Lincoln,2-01,Governor,,DEM,Kenneth R. Casner,9
+Lincoln,2-01,Governor,,DEM,Write-ins,0
+Lincoln,2-01,Governor,,DEM,Over Votes,0
+Lincoln,2-01,Governor,,DEM,Under Votes,0
+Lincoln,2-01,Secretary of State,,REP,CJ Young,129
+Lincoln,2-01,Secretary of State,,REP,Qwenton Eagle Oviatt,74
+Lincoln,2-01,Secretary of State,,REP,Rachel Williams,136
+Lincoln,2-01,Secretary of State,,REP,Robert Short,153
+Lincoln,2-01,Secretary of State,,REP,Write-ins,0
+Lincoln,2-01,Secretary of State,,REP,Over Votes,0
+Lincoln,2-01,Secretary of State,,REP,Under Votes,86
+Lincoln,2-01,Secretary of State,,DEM,Bryan McCarty,8
+Lincoln,2-01,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-01,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-01,Secretary of State,,DEM,Under Votes,1
+Lincoln,2-01,State Auditor,,REP,Kristi Racines,482
+Lincoln,2-01,State Auditor,,REP,Write-ins,1
+Lincoln,2-01,State Auditor,,REP,Over Votes,0
+Lincoln,2-01,State Auditor,,REP,Under Votes,95
+Lincoln,2-01,State Auditor,,DEM,Write-ins,0
+Lincoln,2-01,State Auditor,,DEM,Over Votes,0
+Lincoln,2-01,State Auditor,,DEM,Under Votes,9
+Lincoln,2-01,State Treasurer,,REP,Curt Meier,299
+Lincoln,2-01,State Treasurer,,REP,Scott Smith,183
+Lincoln,2-01,State Treasurer,,REP,Write-ins,0
+Lincoln,2-01,State Treasurer,,REP,Over Votes,0
+Lincoln,2-01,State Treasurer,,REP,Under Votes,96
+Lincoln,2-01,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-01,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-01,State Treasurer,,DEM,Under Votes,9
+Lincoln,2-01,Superintendent of Public Instruction,,REP,Chad Auer,43
+Lincoln,2-01,Superintendent of Public Instruction,,REP,Steve Harshman,333
+Lincoln,2-01,Superintendent of Public Instruction,,REP,Tom Kelly,124
+Lincoln,2-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Lincoln,2-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-01,Superintendent of Public Instruction,,REP,Under Votes,78
+Lincoln,2-01,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Lincoln,2-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Lincoln,2-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-01,Superintendent of Public Instruction,,DEM,Under Votes,2
+Lincoln,2-01,State House,21,REP,McKay L. Erickson,513
+Lincoln,2-01,State House,21,REP,Write-ins,9
+Lincoln,2-01,State House,21,REP,Over Votes,0
+Lincoln,2-01,State House,21,REP,Under Votes,56
+Lincoln,2-01,State House,21,DEM,Write-ins,0
+Lincoln,2-01,State House,21,DEM,Over Votes,0
+Lincoln,2-01,State House,21,DEM,Under Votes,9
+Lincoln,2-01,Ballots Cast,,REP,Ballots Cast,578
+Lincoln,2-01,Ballots Cast,,DEM,Ballots Cast,9
+Lincoln,2-01,Ballots Cast,,NP,Ballots Cast,15
+Lincoln,2-01,Ballots Cast,,,Ballots Cast,602
+Lincoln,2-02,U.S. Senate,,REP,Harriet Hageman,159
+Lincoln,2-02,U.S. Senate,,REP,Jill M Edwards,3
+Lincoln,2-02,U.S. Senate,,REP,Jimmy Skovgard,0
+Lincoln,2-02,U.S. Senate,,REP,John Holtz,7
+Lincoln,2-02,U.S. Senate,,REP,Sam Mead,29
+Lincoln,2-02,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-02,U.S. Senate,,REP,Over Votes,1
+Lincoln,2-02,U.S. Senate,,REP,Under Votes,6
+Lincoln,2-02,U.S. Senate,,DEM,Billy Benavidez,0
+Lincoln,2-02,U.S. Senate,,DEM,James Byrd,1
+Lincoln,2-02,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-02,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-02,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-02,U.S. House,,REP,* Withdrawn Candidate,1
+Lincoln,2-02,U.S. House,,REP,Bo Biteman,4
+Lincoln,2-02,U.S. House,,REP,Chuck Gray,33
+Lincoln,2-02,U.S. House,,REP,David Giralt,23
+Lincoln,2-02,U.S. House,,REP,Jillian Balow,24
+Lincoln,2-02,U.S. House,,REP,Keith B. Goodenough,2
+Lincoln,2-02,U.S. House,,REP,Kevin Christensen,18
+Lincoln,2-02,U.S. House,,REP,Reid Rasner,18
+Lincoln,2-02,U.S. House,,REP,Richard Dodson,3
+Lincoln,2-02,U.S. House,,REP,Steve Friess,72
+Lincoln,2-02,U.S. House,,REP,Write-ins,1
+Lincoln,2-02,U.S. House,,REP,Over Votes,0
+Lincoln,2-02,U.S. House,,REP,Under Votes,7
+Lincoln,2-02,U.S. House,,DEM,Elena Del Real,0
+Lincoln,2-02,U.S. House,,DEM,Lisa Kinney,1
+Lincoln,2-02,U.S. House,,DEM,Write-ins,0
+Lincoln,2-02,U.S. House,,DEM,Over Votes,0
+Lincoln,2-02,U.S. House,,DEM,Under Votes,0
+Lincoln,2-02,Governor,,REP,Brent Bien,54
+Lincoln,2-02,Governor,,REP,Curt Blake,3
+Lincoln,2-02,Governor,,REP,Eric Barlow,104
+Lincoln,2-02,Governor,,REP,Megan Degenfelder,41
+Lincoln,2-02,Governor,,REP,Write-ins,1
+Lincoln,2-02,Governor,,REP,Over Votes,0
+Lincoln,2-02,Governor,,REP,Under Votes,3
+Lincoln,2-02,Governor,,DEM,Kenneth R. Casner,1
+Lincoln,2-02,Governor,,DEM,Write-ins,0
+Lincoln,2-02,Governor,,DEM,Over Votes,0
+Lincoln,2-02,Governor,,DEM,Under Votes,0
+Lincoln,2-02,Secretary of State,,REP,CJ Young,59
+Lincoln,2-02,Secretary of State,,REP,Qwenton Eagle Oviatt,19
+Lincoln,2-02,Secretary of State,,REP,Rachel Williams,47
+Lincoln,2-02,Secretary of State,,REP,Robert Short,55
+Lincoln,2-02,Secretary of State,,REP,Write-ins,1
+Lincoln,2-02,Secretary of State,,REP,Over Votes,0
+Lincoln,2-02,Secretary of State,,REP,Under Votes,25
+Lincoln,2-02,Secretary of State,,DEM,Bryan McCarty,1
+Lincoln,2-02,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-02,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-02,Secretary of State,,DEM,Under Votes,0
+Lincoln,2-02,State Auditor,,REP,Kristi Racines,174
+Lincoln,2-02,State Auditor,,REP,Write-ins,0
+Lincoln,2-02,State Auditor,,REP,Over Votes,0
+Lincoln,2-02,State Auditor,,REP,Under Votes,32
+Lincoln,2-02,State Auditor,,DEM,Write-ins,0
+Lincoln,2-02,State Auditor,,DEM,Over Votes,0
+Lincoln,2-02,State Auditor,,DEM,Under Votes,1
+Lincoln,2-02,State Treasurer,,REP,Curt Meier,115
+Lincoln,2-02,State Treasurer,,REP,Scott Smith,60
+Lincoln,2-02,State Treasurer,,REP,Write-ins,1
+Lincoln,2-02,State Treasurer,,REP,Over Votes,0
+Lincoln,2-02,State Treasurer,,REP,Under Votes,30
+Lincoln,2-02,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-02,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-02,State Treasurer,,DEM,Under Votes,1
+Lincoln,2-02,Superintendent of Public Instruction,,REP,Chad Auer,12
+Lincoln,2-02,Superintendent of Public Instruction,,REP,Steve Harshman,130
+Lincoln,2-02,Superintendent of Public Instruction,,REP,Tom Kelly,45
+Lincoln,2-02,Superintendent of Public Instruction,,REP,Write-ins,1
+Lincoln,2-02,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-02,Superintendent of Public Instruction,,REP,Under Votes,18
+Lincoln,2-02,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Lincoln,2-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Lincoln,2-02,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-02,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-02,Superintendent of Public Instruction,,DEM,Under Votes,0
+Lincoln,2-02,State House,21,REP,McKay L. Erickson,192
+Lincoln,2-02,State House,21,REP,Write-ins,2
+Lincoln,2-02,State House,21,REP,Over Votes,0
+Lincoln,2-02,State House,21,REP,Under Votes,12
+Lincoln,2-02,State House,21,DEM,Write-ins,0
+Lincoln,2-02,State House,21,DEM,Over Votes,0
+Lincoln,2-02,State House,21,DEM,Under Votes,1
+Lincoln,2-02,Ballots Cast,,REP,Ballots Cast,206
+Lincoln,2-02,Ballots Cast,,DEM,Ballots Cast,1
+Lincoln,2-02,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-02,Ballots Cast,,,Ballots Cast,207
+Lincoln,2-03,U.S. Senate,,REP,Harriet Hageman,238
+Lincoln,2-03,U.S. Senate,,REP,Jill M Edwards,13
+Lincoln,2-03,U.S. Senate,,REP,Jimmy Skovgard,14
+Lincoln,2-03,U.S. Senate,,REP,John Holtz,3
+Lincoln,2-03,U.S. Senate,,REP,Sam Mead,134
+Lincoln,2-03,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-03,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-03,U.S. Senate,,REP,Under Votes,13
+Lincoln,2-03,U.S. Senate,,DEM,Billy Benavidez,4
+Lincoln,2-03,U.S. Senate,,DEM,James Byrd,22
+Lincoln,2-03,U.S. Senate,,DEM,Write-ins,1
+Lincoln,2-03,U.S. Senate,,DEM,Over Votes,1
+Lincoln,2-03,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-03,U.S. House,,REP,* Withdrawn Candidate,7
+Lincoln,2-03,U.S. House,,REP,Bo Biteman,16
+Lincoln,2-03,U.S. House,,REP,Chuck Gray,105
+Lincoln,2-03,U.S. House,,REP,David Giralt,29
+Lincoln,2-03,U.S. House,,REP,Jillian Balow,16
+Lincoln,2-03,U.S. House,,REP,Keith B. Goodenough,7
+Lincoln,2-03,U.S. House,,REP,Kevin Christensen,63
+Lincoln,2-03,U.S. House,,REP,Reid Rasner,23
+Lincoln,2-03,U.S. House,,REP,Richard Dodson,11
+Lincoln,2-03,U.S. House,,REP,Steve Friess,102
+Lincoln,2-03,U.S. House,,REP,Write-ins,1
+Lincoln,2-03,U.S. House,,REP,Over Votes,12
+Lincoln,2-03,U.S. House,,REP,Under Votes,23
+Lincoln,2-03,U.S. House,,DEM,Elena Del Real,3
+Lincoln,2-03,U.S. House,,DEM,Lisa Kinney,24
+Lincoln,2-03,U.S. House,,DEM,Write-ins,0
+Lincoln,2-03,U.S. House,,DEM,Over Votes,0
+Lincoln,2-03,U.S. House,,DEM,Under Votes,2
+Lincoln,2-03,Governor,,REP,Brent Bien,111
+Lincoln,2-03,Governor,,REP,Curt Blake,12
+Lincoln,2-03,Governor,,REP,Eric Barlow,151
+Lincoln,2-03,Governor,,REP,Megan Degenfelder,127
+Lincoln,2-03,Governor,,REP,Write-ins,0
+Lincoln,2-03,Governor,,REP,Over Votes,0
+Lincoln,2-03,Governor,,REP,Under Votes,14
+Lincoln,2-03,Governor,,DEM,Kenneth R. Casner,22
+Lincoln,2-03,Governor,,DEM,Write-ins,0
+Lincoln,2-03,Governor,,DEM,Over Votes,1
+Lincoln,2-03,Governor,,DEM,Under Votes,6
+Lincoln,2-03,Secretary of State,,REP,CJ Young,54
+Lincoln,2-03,Secretary of State,,REP,Qwenton Eagle Oviatt,34
+Lincoln,2-03,Secretary of State,,REP,Rachel Williams,119
+Lincoln,2-03,Secretary of State,,REP,Robert Short,124
+Lincoln,2-03,Secretary of State,,REP,Write-ins,0
+Lincoln,2-03,Secretary of State,,REP,Over Votes,1
+Lincoln,2-03,Secretary of State,,REP,Under Votes,83
+Lincoln,2-03,Secretary of State,,DEM,Bryan McCarty,25
+Lincoln,2-03,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-03,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-03,Secretary of State,,DEM,Under Votes,4
+Lincoln,2-03,State Auditor,,REP,Kristi Racines,297
+Lincoln,2-03,State Auditor,,REP,Write-ins,2
+Lincoln,2-03,State Auditor,,REP,Over Votes,0
+Lincoln,2-03,State Auditor,,REP,Under Votes,116
+Lincoln,2-03,State Auditor,,DEM,Write-ins,2
+Lincoln,2-03,State Auditor,,DEM,Over Votes,0
+Lincoln,2-03,State Auditor,,DEM,Under Votes,27
+Lincoln,2-03,State Treasurer,,REP,Curt Meier,184
+Lincoln,2-03,State Treasurer,,REP,Scott Smith,130
+Lincoln,2-03,State Treasurer,,REP,Write-ins,1
+Lincoln,2-03,State Treasurer,,REP,Over Votes,1
+Lincoln,2-03,State Treasurer,,REP,Under Votes,99
+Lincoln,2-03,State Treasurer,,DEM,Write-ins,2
+Lincoln,2-03,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-03,State Treasurer,,DEM,Under Votes,27
+Lincoln,2-03,Superintendent of Public Instruction,,REP,Chad Auer,36
+Lincoln,2-03,Superintendent of Public Instruction,,REP,Steve Harshman,160
+Lincoln,2-03,Superintendent of Public Instruction,,REP,Tom Kelly,127
+Lincoln,2-03,Superintendent of Public Instruction,,REP,Write-ins,3
+Lincoln,2-03,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-03,Superintendent of Public Instruction,,REP,Under Votes,89
+Lincoln,2-03,Superintendent of Public Instruction,,DEM,Ana Cordova,16
+Lincoln,2-03,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Lincoln,2-03,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-03,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-03,Superintendent of Public Instruction,,DEM,Under Votes,5
+Lincoln,2-03,State House,22,REP,Andrew Byron,290
+Lincoln,2-03,State House,22,REP,Write-ins,7
+Lincoln,2-03,State House,22,REP,Over Votes,0
+Lincoln,2-03,State House,22,REP,Under Votes,118
+Lincoln,2-03,State House,22,DEM,Write-ins,2
+Lincoln,2-03,State House,22,DEM,Over Votes,0
+Lincoln,2-03,State House,22,DEM,Under Votes,27
+Lincoln,2-03,Ballots Cast,,REP,Ballots Cast,415
+Lincoln,2-03,Ballots Cast,,DEM,Ballots Cast,29
+Lincoln,2-03,Ballots Cast,,NP,Ballots Cast,35
+Lincoln,2-03,Ballots Cast,,,Ballots Cast,479
+Lincoln,2-04,U.S. Senate,,REP,Harriet Hageman,239
+Lincoln,2-04,U.S. Senate,,REP,Jill M Edwards,6
+Lincoln,2-04,U.S. Senate,,REP,Jimmy Skovgard,0
+Lincoln,2-04,U.S. Senate,,REP,John Holtz,8
+Lincoln,2-04,U.S. Senate,,REP,Sam Mead,39
+Lincoln,2-04,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-04,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-04,U.S. Senate,,REP,Under Votes,2
+Lincoln,2-04,U.S. Senate,,DEM,Billy Benavidez,2
+Lincoln,2-04,U.S. Senate,,DEM,James Byrd,3
+Lincoln,2-04,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-04,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-04,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-04,U.S. House,,REP,* Withdrawn Candidate,2
+Lincoln,2-04,U.S. House,,REP,Bo Biteman,22
+Lincoln,2-04,U.S. House,,REP,Chuck Gray,82
+Lincoln,2-04,U.S. House,,REP,David Giralt,28
+Lincoln,2-04,U.S. House,,REP,Jillian Balow,23
+Lincoln,2-04,U.S. House,,REP,Keith B. Goodenough,5
+Lincoln,2-04,U.S. House,,REP,Kevin Christensen,24
+Lincoln,2-04,U.S. House,,REP,Reid Rasner,34
+Lincoln,2-04,U.S. House,,REP,Richard Dodson,2
+Lincoln,2-04,U.S. House,,REP,Steve Friess,62
+Lincoln,2-04,U.S. House,,REP,Write-ins,0
+Lincoln,2-04,U.S. House,,REP,Over Votes,5
+Lincoln,2-04,U.S. House,,REP,Under Votes,5
+Lincoln,2-04,U.S. House,,DEM,Elena Del Real,1
+Lincoln,2-04,U.S. House,,DEM,Lisa Kinney,4
+Lincoln,2-04,U.S. House,,DEM,Write-ins,0
+Lincoln,2-04,U.S. House,,DEM,Over Votes,0
+Lincoln,2-04,U.S. House,,DEM,Under Votes,0
+Lincoln,2-04,Governor,,REP,Brent Bien,76
+Lincoln,2-04,Governor,,REP,Curt Blake,6
+Lincoln,2-04,Governor,,REP,Eric Barlow,95
+Lincoln,2-04,Governor,,REP,Megan Degenfelder,112
+Lincoln,2-04,Governor,,REP,Write-ins,0
+Lincoln,2-04,Governor,,REP,Over Votes,0
+Lincoln,2-04,Governor,,REP,Under Votes,5
+Lincoln,2-04,Governor,,DEM,Kenneth R. Casner,5
+Lincoln,2-04,Governor,,DEM,Write-ins,0
+Lincoln,2-04,Governor,,DEM,Over Votes,0
+Lincoln,2-04,Governor,,DEM,Under Votes,0
+Lincoln,2-04,Secretary of State,,REP,CJ Young,47
+Lincoln,2-04,Secretary of State,,REP,Qwenton Eagle Oviatt,22
+Lincoln,2-04,Secretary of State,,REP,Rachel Williams,101
+Lincoln,2-04,Secretary of State,,REP,Robert Short,75
+Lincoln,2-04,Secretary of State,,REP,Write-ins,0
+Lincoln,2-04,Secretary of State,,REP,Over Votes,0
+Lincoln,2-04,Secretary of State,,REP,Under Votes,49
+Lincoln,2-04,Secretary of State,,DEM,Bryan McCarty,5
+Lincoln,2-04,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-04,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-04,Secretary of State,,DEM,Under Votes,0
+Lincoln,2-04,State Auditor,,REP,Kristi Racines,245
+Lincoln,2-04,State Auditor,,REP,Write-ins,0
+Lincoln,2-04,State Auditor,,REP,Over Votes,0
+Lincoln,2-04,State Auditor,,REP,Under Votes,49
+Lincoln,2-04,State Auditor,,DEM,Write-ins,0
+Lincoln,2-04,State Auditor,,DEM,Over Votes,0
+Lincoln,2-04,State Auditor,,DEM,Under Votes,5
+Lincoln,2-04,State Treasurer,,REP,Curt Meier,127
+Lincoln,2-04,State Treasurer,,REP,Scott Smith,110
+Lincoln,2-04,State Treasurer,,REP,Write-ins,0
+Lincoln,2-04,State Treasurer,,REP,Over Votes,0
+Lincoln,2-04,State Treasurer,,REP,Under Votes,57
+Lincoln,2-04,State Treasurer,,DEM,Write-ins,1
+Lincoln,2-04,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-04,State Treasurer,,DEM,Under Votes,4
+Lincoln,2-04,Superintendent of Public Instruction,,REP,Chad Auer,26
+Lincoln,2-04,Superintendent of Public Instruction,,REP,Steve Harshman,125
+Lincoln,2-04,Superintendent of Public Instruction,,REP,Tom Kelly,92
+Lincoln,2-04,Superintendent of Public Instruction,,REP,Write-ins,0
+Lincoln,2-04,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-04,Superintendent of Public Instruction,,REP,Under Votes,51
+Lincoln,2-04,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Lincoln,2-04,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Lincoln,2-04,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-04,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-04,Superintendent of Public Instruction,,DEM,Under Votes,0
+Lincoln,2-04,State House,21,REP,McKay L. Erickson,244
+Lincoln,2-04,State House,21,REP,Write-ins,8
+Lincoln,2-04,State House,21,REP,Over Votes,0
+Lincoln,2-04,State House,21,REP,Under Votes,42
+Lincoln,2-04,State House,21,DEM,Write-ins,1
+Lincoln,2-04,State House,21,DEM,Over Votes,0
+Lincoln,2-04,State House,21,DEM,Under Votes,4
+Lincoln,2-04,Ballots Cast,,REP,Ballots Cast,294
+Lincoln,2-04,Ballots Cast,,DEM,Ballots Cast,5
+Lincoln,2-04,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-04,Ballots Cast,,,Ballots Cast,299
+Lincoln,2-05,U.S. Senate,,REP,Harriet Hageman,336
+Lincoln,2-05,U.S. Senate,,REP,Jill M Edwards,7
+Lincoln,2-05,U.S. Senate,,REP,Jimmy Skovgard,8
+Lincoln,2-05,U.S. Senate,,REP,John Holtz,7
+Lincoln,2-05,U.S. Senate,,REP,Sam Mead,72
+Lincoln,2-05,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-05,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-05,U.S. Senate,,REP,Under Votes,9
+Lincoln,2-05,U.S. Senate,,DEM,Billy Benavidez,1
+Lincoln,2-05,U.S. Senate,,DEM,James Byrd,9
+Lincoln,2-05,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-05,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-05,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-05,U.S. House,,REP,* Withdrawn Candidate,6
+Lincoln,2-05,U.S. House,,REP,Bo Biteman,14
+Lincoln,2-05,U.S. House,,REP,Chuck Gray,141
+Lincoln,2-05,U.S. House,,REP,David Giralt,40
+Lincoln,2-05,U.S. House,,REP,Jillian Balow,27
+Lincoln,2-05,U.S. House,,REP,Keith B. Goodenough,10
+Lincoln,2-05,U.S. House,,REP,Kevin Christensen,24
+Lincoln,2-05,U.S. House,,REP,Reid Rasner,22
+Lincoln,2-05,U.S. House,,REP,Richard Dodson,4
+Lincoln,2-05,U.S. House,,REP,Steve Friess,122
+Lincoln,2-05,U.S. House,,REP,Write-ins,0
+Lincoln,2-05,U.S. House,,REP,Over Votes,8
+Lincoln,2-05,U.S. House,,REP,Under Votes,21
+Lincoln,2-05,U.S. House,,DEM,Elena Del Real,1
+Lincoln,2-05,U.S. House,,DEM,Lisa Kinney,10
+Lincoln,2-05,U.S. House,,DEM,Write-ins,0
+Lincoln,2-05,U.S. House,,DEM,Over Votes,0
+Lincoln,2-05,U.S. House,,DEM,Under Votes,0
+Lincoln,2-05,Governor,,REP,Brent Bien,142
+Lincoln,2-05,Governor,,REP,Curt Blake,9
+Lincoln,2-05,Governor,,REP,Eric Barlow,153
+Lincoln,2-05,Governor,,REP,Megan Degenfelder,128
+Lincoln,2-05,Governor,,REP,Write-ins,0
+Lincoln,2-05,Governor,,REP,Over Votes,0
+Lincoln,2-05,Governor,,REP,Under Votes,7
+Lincoln,2-05,Governor,,DEM,Kenneth R. Casner,10
+Lincoln,2-05,Governor,,DEM,Write-ins,0
+Lincoln,2-05,Governor,,DEM,Over Votes,0
+Lincoln,2-05,Governor,,DEM,Under Votes,1
+Lincoln,2-05,Secretary of State,,REP,CJ Young,65
+Lincoln,2-05,Secretary of State,,REP,Qwenton Eagle Oviatt,19
+Lincoln,2-05,Secretary of State,,REP,Rachel Williams,169
+Lincoln,2-05,Secretary of State,,REP,Robert Short,118
+Lincoln,2-05,Secretary of State,,REP,Write-ins,1
+Lincoln,2-05,Secretary of State,,REP,Over Votes,0
+Lincoln,2-05,Secretary of State,,REP,Under Votes,67
+Lincoln,2-05,Secretary of State,,DEM,Bryan McCarty,10
+Lincoln,2-05,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-05,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-05,Secretary of State,,DEM,Under Votes,1
+Lincoln,2-05,State Auditor,,REP,Kristi Racines,352
+Lincoln,2-05,State Auditor,,REP,Write-ins,2
+Lincoln,2-05,State Auditor,,REP,Over Votes,0
+Lincoln,2-05,State Auditor,,REP,Under Votes,85
+Lincoln,2-05,State Auditor,,DEM,Write-ins,0
+Lincoln,2-05,State Auditor,,DEM,Over Votes,0
+Lincoln,2-05,State Auditor,,DEM,Under Votes,11
+Lincoln,2-05,State Treasurer,,REP,Curt Meier,201
+Lincoln,2-05,State Treasurer,,REP,Scott Smith,158
+Lincoln,2-05,State Treasurer,,REP,Write-ins,1
+Lincoln,2-05,State Treasurer,,REP,Over Votes,0
+Lincoln,2-05,State Treasurer,,REP,Under Votes,79
+Lincoln,2-05,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-05,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-05,State Treasurer,,DEM,Under Votes,11
+Lincoln,2-05,Superintendent of Public Instruction,,REP,Chad Auer,49
+Lincoln,2-05,Superintendent of Public Instruction,,REP,Steve Harshman,180
+Lincoln,2-05,Superintendent of Public Instruction,,REP,Tom Kelly,126
+Lincoln,2-05,Superintendent of Public Instruction,,REP,Write-ins,2
+Lincoln,2-05,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-05,Superintendent of Public Instruction,,REP,Under Votes,82
+Lincoln,2-05,Superintendent of Public Instruction,,DEM,Ana Cordova,9
+Lincoln,2-05,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Lincoln,2-05,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-05,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-05,Superintendent of Public Instruction,,DEM,Under Votes,1
+Lincoln,2-05,State House,21,REP,McKay L. Erickson,171
+Lincoln,2-05,State House,21,REP,Write-ins,1
+Lincoln,2-05,State House,21,REP,Over Votes,0
+Lincoln,2-05,State House,21,REP,Under Votes,32
+Lincoln,2-05,State House,21,DEM,Write-ins,1
+Lincoln,2-05,State House,21,DEM,Over Votes,0
+Lincoln,2-05,State House,21,DEM,Under Votes,7
+Lincoln,2-05,State House,22,REP,Andrew Byron,162
+Lincoln,2-05,State House,22,REP,Write-ins,9
+Lincoln,2-05,State House,22,REP,Over Votes,0
+Lincoln,2-05,State House,22,REP,Under Votes,64
+Lincoln,2-05,State House,22,DEM,Write-ins,0
+Lincoln,2-05,State House,22,DEM,Over Votes,0
+Lincoln,2-05,State House,22,DEM,Under Votes,3
+Lincoln,2-05,Ballots Cast,,REP,Ballots Cast,439
+Lincoln,2-05,Ballots Cast,,DEM,Ballots Cast,11
+Lincoln,2-05,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-05,Ballots Cast,,,Ballots Cast,450
+Lincoln,2-06,U.S. Senate,,REP,Harriet Hageman,307
+Lincoln,2-06,U.S. Senate,,REP,Jill M Edwards,11
+Lincoln,2-06,U.S. Senate,,REP,Jimmy Skovgard,2
+Lincoln,2-06,U.S. Senate,,REP,John Holtz,7
+Lincoln,2-06,U.S. Senate,,REP,Sam Mead,48
+Lincoln,2-06,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-06,U.S. Senate,,REP,Over Votes,1
+Lincoln,2-06,U.S. Senate,,REP,Under Votes,12
+Lincoln,2-06,U.S. Senate,,DEM,Billy Benavidez,1
+Lincoln,2-06,U.S. Senate,,DEM,James Byrd,7
+Lincoln,2-06,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-06,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-06,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-06,U.S. House,,REP,* Withdrawn Candidate,5
+Lincoln,2-06,U.S. House,,REP,Bo Biteman,18
+Lincoln,2-06,U.S. House,,REP,Chuck Gray,73
+Lincoln,2-06,U.S. House,,REP,David Giralt,25
+Lincoln,2-06,U.S. House,,REP,Jillian Balow,39
+Lincoln,2-06,U.S. House,,REP,Keith B. Goodenough,3
+Lincoln,2-06,U.S. House,,REP,Kevin Christensen,33
+Lincoln,2-06,U.S. House,,REP,Reid Rasner,32
+Lincoln,2-06,U.S. House,,REP,Richard Dodson,4
+Lincoln,2-06,U.S. House,,REP,Steve Friess,131
+Lincoln,2-06,U.S. House,,REP,Write-ins,0
+Lincoln,2-06,U.S. House,,REP,Over Votes,5
+Lincoln,2-06,U.S. House,,REP,Under Votes,21
+Lincoln,2-06,U.S. House,,DEM,Elena Del Real,1
+Lincoln,2-06,U.S. House,,DEM,Lisa Kinney,7
+Lincoln,2-06,U.S. House,,DEM,Write-ins,0
+Lincoln,2-06,U.S. House,,DEM,Over Votes,0
+Lincoln,2-06,U.S. House,,DEM,Under Votes,1
+Lincoln,2-06,Governor,,REP,Brent Bien,77
+Lincoln,2-06,Governor,,REP,Curt Blake,3
+Lincoln,2-06,Governor,,REP,Eric Barlow,192
+Lincoln,2-06,Governor,,REP,Megan Degenfelder,105
+Lincoln,2-06,Governor,,REP,Write-ins,0
+Lincoln,2-06,Governor,,REP,Over Votes,0
+Lincoln,2-06,Governor,,REP,Under Votes,12
+Lincoln,2-06,Governor,,DEM,Kenneth R. Casner,6
+Lincoln,2-06,Governor,,DEM,Write-ins,1
+Lincoln,2-06,Governor,,DEM,Over Votes,0
+Lincoln,2-06,Governor,,DEM,Under Votes,2
+Lincoln,2-06,Secretary of State,,REP,CJ Young,79
+Lincoln,2-06,Secretary of State,,REP,Qwenton Eagle Oviatt,37
+Lincoln,2-06,Secretary of State,,REP,Rachel Williams,86
+Lincoln,2-06,Secretary of State,,REP,Robert Short,110
+Lincoln,2-06,Secretary of State,,REP,Write-ins,1
+Lincoln,2-06,Secretary of State,,REP,Over Votes,0
+Lincoln,2-06,Secretary of State,,REP,Under Votes,76
+Lincoln,2-06,Secretary of State,,DEM,Bryan McCarty,6
+Lincoln,2-06,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-06,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-06,Secretary of State,,DEM,Under Votes,3
+Lincoln,2-06,State Auditor,,REP,Kristi Racines,309
+Lincoln,2-06,State Auditor,,REP,Write-ins,1
+Lincoln,2-06,State Auditor,,REP,Over Votes,0
+Lincoln,2-06,State Auditor,,REP,Under Votes,79
+Lincoln,2-06,State Auditor,,DEM,Write-ins,1
+Lincoln,2-06,State Auditor,,DEM,Over Votes,0
+Lincoln,2-06,State Auditor,,DEM,Under Votes,8
+Lincoln,2-06,State Treasurer,,REP,Curt Meier,199
+Lincoln,2-06,State Treasurer,,REP,Scott Smith,113
+Lincoln,2-06,State Treasurer,,REP,Write-ins,0
+Lincoln,2-06,State Treasurer,,REP,Over Votes,1
+Lincoln,2-06,State Treasurer,,REP,Under Votes,76
+Lincoln,2-06,State Treasurer,,DEM,Write-ins,1
+Lincoln,2-06,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-06,State Treasurer,,DEM,Under Votes,8
+Lincoln,2-06,Superintendent of Public Instruction,,REP,Chad Auer,24
+Lincoln,2-06,Superintendent of Public Instruction,,REP,Steve Harshman,229
+Lincoln,2-06,Superintendent of Public Instruction,,REP,Tom Kelly,70
+Lincoln,2-06,Superintendent of Public Instruction,,REP,Write-ins,1
+Lincoln,2-06,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-06,Superintendent of Public Instruction,,REP,Under Votes,65
+Lincoln,2-06,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Lincoln,2-06,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Lincoln,2-06,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-06,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-06,Superintendent of Public Instruction,,DEM,Under Votes,3
+Lincoln,2-06,State House,21,REP,McKay L. Erickson,358
+Lincoln,2-06,State House,21,REP,Write-ins,1
+Lincoln,2-06,State House,21,REP,Over Votes,0
+Lincoln,2-06,State House,21,REP,Under Votes,30
+Lincoln,2-06,State House,21,DEM,Write-ins,2
+Lincoln,2-06,State House,21,DEM,Over Votes,0
+Lincoln,2-06,State House,21,DEM,Under Votes,7
+Lincoln,2-06,Ballots Cast,,REP,Ballots Cast,389
+Lincoln,2-06,Ballots Cast,,DEM,Ballots Cast,9
+Lincoln,2-06,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-06,Ballots Cast,,,Ballots Cast,398
+Lincoln,2-07,U.S. Senate,,REP,Harriet Hageman,634
+Lincoln,2-07,U.S. Senate,,REP,Jill M Edwards,14
+Lincoln,2-07,U.S. Senate,,REP,Jimmy Skovgard,16
+Lincoln,2-07,U.S. Senate,,REP,John Holtz,10
+Lincoln,2-07,U.S. Senate,,REP,Sam Mead,120
+Lincoln,2-07,U.S. Senate,,REP,Write-ins,0
+Lincoln,2-07,U.S. Senate,,REP,Over Votes,1
+Lincoln,2-07,U.S. Senate,,REP,Under Votes,19
+Lincoln,2-07,U.S. Senate,,DEM,Billy Benavidez,2
+Lincoln,2-07,U.S. Senate,,DEM,James Byrd,4
+Lincoln,2-07,U.S. Senate,,DEM,Write-ins,1
+Lincoln,2-07,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-07,U.S. Senate,,DEM,Under Votes,0
+Lincoln,2-07,U.S. House,,REP,* Withdrawn Candidate,12
+Lincoln,2-07,U.S. House,,REP,Bo Biteman,26
+Lincoln,2-07,U.S. House,,REP,Chuck Gray,162
+Lincoln,2-07,U.S. House,,REP,David Giralt,73
+Lincoln,2-07,U.S. House,,REP,Jillian Balow,53
+Lincoln,2-07,U.S. House,,REP,Keith B. Goodenough,3
+Lincoln,2-07,U.S. House,,REP,Kevin Christensen,50
+Lincoln,2-07,U.S. House,,REP,Reid Rasner,56
+Lincoln,2-07,U.S. House,,REP,Richard Dodson,5
+Lincoln,2-07,U.S. House,,REP,Steve Friess,306
+Lincoln,2-07,U.S. House,,REP,Write-ins,2
+Lincoln,2-07,U.S. House,,REP,Over Votes,26
+Lincoln,2-07,U.S. House,,REP,Under Votes,40
+Lincoln,2-07,U.S. House,,DEM,Elena Del Real,2
+Lincoln,2-07,U.S. House,,DEM,Lisa Kinney,5
+Lincoln,2-07,U.S. House,,DEM,Write-ins,0
+Lincoln,2-07,U.S. House,,DEM,Over Votes,0
+Lincoln,2-07,U.S. House,,DEM,Under Votes,0
+Lincoln,2-07,Governor,,REP,Brent Bien,196
+Lincoln,2-07,Governor,,REP,Curt Blake,16
+Lincoln,2-07,Governor,,REP,Eric Barlow,413
+Lincoln,2-07,Governor,,REP,Megan Degenfelder,178
+Lincoln,2-07,Governor,,REP,Write-ins,0
+Lincoln,2-07,Governor,,REP,Over Votes,0
+Lincoln,2-07,Governor,,REP,Under Votes,11
+Lincoln,2-07,Governor,,DEM,Kenneth R. Casner,6
+Lincoln,2-07,Governor,,DEM,Write-ins,1
+Lincoln,2-07,Governor,,DEM,Over Votes,0
+Lincoln,2-07,Governor,,DEM,Under Votes,0
+Lincoln,2-07,Secretary of State,,REP,CJ Young,196
+Lincoln,2-07,Secretary of State,,REP,Qwenton Eagle Oviatt,90
+Lincoln,2-07,Secretary of State,,REP,Rachel Williams,184
+Lincoln,2-07,Secretary of State,,REP,Robert Short,224
+Lincoln,2-07,Secretary of State,,REP,Write-ins,1
+Lincoln,2-07,Secretary of State,,REP,Over Votes,0
+Lincoln,2-07,Secretary of State,,REP,Under Votes,119
+Lincoln,2-07,Secretary of State,,DEM,Bryan McCarty,6
+Lincoln,2-07,Secretary of State,,DEM,Write-ins,1
+Lincoln,2-07,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-07,Secretary of State,,DEM,Under Votes,0
+Lincoln,2-07,State Auditor,,REP,Kristi Racines,681
+Lincoln,2-07,State Auditor,,REP,Write-ins,1
+Lincoln,2-07,State Auditor,,REP,Over Votes,0
+Lincoln,2-07,State Auditor,,REP,Under Votes,132
+Lincoln,2-07,State Auditor,,DEM,Write-ins,0
+Lincoln,2-07,State Auditor,,DEM,Over Votes,0
+Lincoln,2-07,State Auditor,,DEM,Under Votes,7
+Lincoln,2-07,State Treasurer,,REP,Curt Meier,446
+Lincoln,2-07,State Treasurer,,REP,Scott Smith,246
+Lincoln,2-07,State Treasurer,,REP,Write-ins,1
+Lincoln,2-07,State Treasurer,,REP,Over Votes,0
+Lincoln,2-07,State Treasurer,,REP,Under Votes,121
+Lincoln,2-07,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-07,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-07,State Treasurer,,DEM,Under Votes,7
+Lincoln,2-07,Superintendent of Public Instruction,,REP,Chad Auer,38
+Lincoln,2-07,Superintendent of Public Instruction,,REP,Steve Harshman,515
+Lincoln,2-07,Superintendent of Public Instruction,,REP,Tom Kelly,160
+Lincoln,2-07,Superintendent of Public Instruction,,REP,Write-ins,2
+Lincoln,2-07,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-07,Superintendent of Public Instruction,,REP,Under Votes,99
+Lincoln,2-07,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Lincoln,2-07,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Lincoln,2-07,Superintendent of Public Instruction,,DEM,Write-ins,1
+Lincoln,2-07,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-07,Superintendent of Public Instruction,,DEM,Under Votes,1
+Lincoln,2-07,State House,21,REP,McKay L. Erickson,730
+Lincoln,2-07,State House,21,REP,Write-ins,12
+Lincoln,2-07,State House,21,REP,Over Votes,0
+Lincoln,2-07,State House,21,REP,Under Votes,72
+Lincoln,2-07,State House,21,DEM,Write-ins,1
+Lincoln,2-07,State House,21,DEM,Over Votes,0
+Lincoln,2-07,State House,21,DEM,Under Votes,6
+Lincoln,2-07,Ballots Cast,,REP,Ballots Cast,814
+Lincoln,2-07,Ballots Cast,,DEM,Ballots Cast,7
+Lincoln,2-07,Ballots Cast,,NP,Ballots Cast,0
+Lincoln,2-07,Ballots Cast,,,Ballots Cast,821
+Lincoln,2-08,U.S. Senate,,REP,Harriet Hageman,261
+Lincoln,2-08,U.S. Senate,,REP,Jill M Edwards,5
+Lincoln,2-08,U.S. Senate,,REP,Jimmy Skovgard,5
+Lincoln,2-08,U.S. Senate,,REP,John Holtz,6
+Lincoln,2-08,U.S. Senate,,REP,Sam Mead,48
+Lincoln,2-08,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-08,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-08,U.S. Senate,,REP,Under Votes,10
+Lincoln,2-08,U.S. Senate,,DEM,Billy Benavidez,1
+Lincoln,2-08,U.S. Senate,,DEM,James Byrd,5
+Lincoln,2-08,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-08,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-08,U.S. Senate,,DEM,Under Votes,1
+Lincoln,2-08,U.S. House,,REP,* Withdrawn Candidate,3
+Lincoln,2-08,U.S. House,,REP,Bo Biteman,12
+Lincoln,2-08,U.S. House,,REP,Chuck Gray,102
+Lincoln,2-08,U.S. House,,REP,David Giralt,32
+Lincoln,2-08,U.S. House,,REP,Jillian Balow,26
+Lincoln,2-08,U.S. House,,REP,Keith B. Goodenough,6
+Lincoln,2-08,U.S. House,,REP,Kevin Christensen,29
+Lincoln,2-08,U.S. House,,REP,Reid Rasner,26
+Lincoln,2-08,U.S. House,,REP,Richard Dodson,0
+Lincoln,2-08,U.S. House,,REP,Steve Friess,85
+Lincoln,2-08,U.S. House,,REP,Write-ins,1
+Lincoln,2-08,U.S. House,,REP,Over Votes,1
+Lincoln,2-08,U.S. House,,REP,Under Votes,13
+Lincoln,2-08,U.S. House,,DEM,Elena Del Real,0
+Lincoln,2-08,U.S. House,,DEM,Lisa Kinney,5
+Lincoln,2-08,U.S. House,,DEM,Write-ins,1
+Lincoln,2-08,U.S. House,,DEM,Over Votes,0
+Lincoln,2-08,U.S. House,,DEM,Under Votes,1
+Lincoln,2-08,Governor,,REP,Brent Bien,94
+Lincoln,2-08,Governor,,REP,Curt Blake,7
+Lincoln,2-08,Governor,,REP,Eric Barlow,109
+Lincoln,2-08,Governor,,REP,Megan Degenfelder,120
+Lincoln,2-08,Governor,,REP,Write-ins,0
+Lincoln,2-08,Governor,,REP,Over Votes,0
+Lincoln,2-08,Governor,,REP,Under Votes,6
+Lincoln,2-08,Governor,,DEM,Kenneth R. Casner,5
+Lincoln,2-08,Governor,,DEM,Write-ins,1
+Lincoln,2-08,Governor,,DEM,Over Votes,0
+Lincoln,2-08,Governor,,DEM,Under Votes,1
+Lincoln,2-08,Secretary of State,,REP,CJ Young,54
+Lincoln,2-08,Secretary of State,,REP,Qwenton Eagle Oviatt,25
+Lincoln,2-08,Secretary of State,,REP,Rachel Williams,113
+Lincoln,2-08,Secretary of State,,REP,Robert Short,100
+Lincoln,2-08,Secretary of State,,REP,Write-ins,0
+Lincoln,2-08,Secretary of State,,REP,Over Votes,0
+Lincoln,2-08,Secretary of State,,REP,Under Votes,44
+Lincoln,2-08,Secretary of State,,DEM,Bryan McCarty,5
+Lincoln,2-08,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-08,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-08,Secretary of State,,DEM,Under Votes,2
+Lincoln,2-08,State Auditor,,REP,Kristi Racines,279
+Lincoln,2-08,State Auditor,,REP,Write-ins,0
+Lincoln,2-08,State Auditor,,REP,Over Votes,0
+Lincoln,2-08,State Auditor,,REP,Under Votes,57
+Lincoln,2-08,State Auditor,,DEM,Write-ins,0
+Lincoln,2-08,State Auditor,,DEM,Over Votes,0
+Lincoln,2-08,State Auditor,,DEM,Under Votes,7
+Lincoln,2-08,State Treasurer,,REP,Curt Meier,167
+Lincoln,2-08,State Treasurer,,REP,Scott Smith,115
+Lincoln,2-08,State Treasurer,,REP,Write-ins,0
+Lincoln,2-08,State Treasurer,,REP,Over Votes,0
+Lincoln,2-08,State Treasurer,,REP,Under Votes,54
+Lincoln,2-08,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-08,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-08,State Treasurer,,DEM,Under Votes,7
+Lincoln,2-08,Superintendent of Public Instruction,,REP,Chad Auer,22
+Lincoln,2-08,Superintendent of Public Instruction,,REP,Steve Harshman,150
+Lincoln,2-08,Superintendent of Public Instruction,,REP,Tom Kelly,112
+Lincoln,2-08,Superintendent of Public Instruction,,REP,Write-ins,0
+Lincoln,2-08,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-08,Superintendent of Public Instruction,,REP,Under Votes,52
+Lincoln,2-08,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Lincoln,2-08,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Lincoln,2-08,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-08,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-08,Superintendent of Public Instruction,,DEM,Under Votes,2
+Lincoln,2-08,State House,21,REP,McKay L. Erickson,295
+Lincoln,2-08,State House,21,REP,Write-ins,3
+Lincoln,2-08,State House,21,REP,Over Votes,0
+Lincoln,2-08,State House,21,REP,Under Votes,38
+Lincoln,2-08,State House,21,DEM,Write-ins,0
+Lincoln,2-08,State House,21,DEM,Over Votes,0
+Lincoln,2-08,State House,21,DEM,Under Votes,7
+Lincoln,2-08,Ballots Cast,,REP,Ballots Cast,336
+Lincoln,2-08,Ballots Cast,,DEM,Ballots Cast,7
+Lincoln,2-08,Ballots Cast,,NP,Ballots Cast,3
+Lincoln,2-08,Ballots Cast,,,Ballots Cast,346
+Lincoln,2-09,U.S. Senate,,REP,Harriet Hageman,208
+Lincoln,2-09,U.S. Senate,,REP,Jill M Edwards,6
+Lincoln,2-09,U.S. Senate,,REP,Jimmy Skovgard,0
+Lincoln,2-09,U.S. Senate,,REP,John Holtz,3
+Lincoln,2-09,U.S. Senate,,REP,Sam Mead,18
+Lincoln,2-09,U.S. Senate,,REP,Write-ins,1
+Lincoln,2-09,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-09,U.S. Senate,,REP,Under Votes,8
+Lincoln,2-09,U.S. Senate,,DEM,Billy Benavidez,2
+Lincoln,2-09,U.S. Senate,,DEM,James Byrd,2
+Lincoln,2-09,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-09,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-09,U.S. Senate,,DEM,Under Votes,2
+Lincoln,2-09,U.S. House,,REP,* Withdrawn Candidate,4
+Lincoln,2-09,U.S. House,,REP,Bo Biteman,6
+Lincoln,2-09,U.S. House,,REP,Chuck Gray,73
+Lincoln,2-09,U.S. House,,REP,David Giralt,13
+Lincoln,2-09,U.S. House,,REP,Jillian Balow,20
+Lincoln,2-09,U.S. House,,REP,Keith B. Goodenough,1
+Lincoln,2-09,U.S. House,,REP,Kevin Christensen,18
+Lincoln,2-09,U.S. House,,REP,Reid Rasner,27
+Lincoln,2-09,U.S. House,,REP,Richard Dodson,2
+Lincoln,2-09,U.S. House,,REP,Steve Friess,61
+Lincoln,2-09,U.S. House,,REP,Write-ins,0
+Lincoln,2-09,U.S. House,,REP,Over Votes,4
+Lincoln,2-09,U.S. House,,REP,Under Votes,15
+Lincoln,2-09,U.S. House,,DEM,Elena Del Real,0
+Lincoln,2-09,U.S. House,,DEM,Lisa Kinney,5
+Lincoln,2-09,U.S. House,,DEM,Write-ins,0
+Lincoln,2-09,U.S. House,,DEM,Over Votes,0
+Lincoln,2-09,U.S. House,,DEM,Under Votes,1
+Lincoln,2-09,Governor,,REP,Brent Bien,77
+Lincoln,2-09,Governor,,REP,Curt Blake,3
+Lincoln,2-09,Governor,,REP,Eric Barlow,119
+Lincoln,2-09,Governor,,REP,Megan Degenfelder,36
+Lincoln,2-09,Governor,,REP,Write-ins,1
+Lincoln,2-09,Governor,,REP,Over Votes,0
+Lincoln,2-09,Governor,,REP,Under Votes,8
+Lincoln,2-09,Governor,,DEM,Kenneth R. Casner,5
+Lincoln,2-09,Governor,,DEM,Write-ins,0
+Lincoln,2-09,Governor,,DEM,Over Votes,0
+Lincoln,2-09,Governor,,DEM,Under Votes,1
+Lincoln,2-09,Secretary of State,,REP,CJ Young,32
+Lincoln,2-09,Secretary of State,,REP,Qwenton Eagle Oviatt,10
+Lincoln,2-09,Secretary of State,,REP,Rachel Williams,74
+Lincoln,2-09,Secretary of State,,REP,Robert Short,87
+Lincoln,2-09,Secretary of State,,REP,Write-ins,0
+Lincoln,2-09,Secretary of State,,REP,Over Votes,0
+Lincoln,2-09,Secretary of State,,REP,Under Votes,41
+Lincoln,2-09,Secretary of State,,DEM,Bryan McCarty,5
+Lincoln,2-09,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-09,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-09,Secretary of State,,DEM,Under Votes,1
+Lincoln,2-09,State Auditor,,REP,Kristi Racines,203
+Lincoln,2-09,State Auditor,,REP,Write-ins,0
+Lincoln,2-09,State Auditor,,REP,Over Votes,0
+Lincoln,2-09,State Auditor,,REP,Under Votes,41
+Lincoln,2-09,State Auditor,,DEM,Write-ins,0
+Lincoln,2-09,State Auditor,,DEM,Over Votes,0
+Lincoln,2-09,State Auditor,,DEM,Under Votes,6
+Lincoln,2-09,State Treasurer,,REP,Curt Meier,102
+Lincoln,2-09,State Treasurer,,REP,Scott Smith,97
+Lincoln,2-09,State Treasurer,,REP,Write-ins,0
+Lincoln,2-09,State Treasurer,,REP,Over Votes,0
+Lincoln,2-09,State Treasurer,,REP,Under Votes,45
+Lincoln,2-09,State Treasurer,,DEM,Write-ins,0
+Lincoln,2-09,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-09,State Treasurer,,DEM,Under Votes,6
+Lincoln,2-09,Superintendent of Public Instruction,,REP,Chad Auer,11
+Lincoln,2-09,Superintendent of Public Instruction,,REP,Steve Harshman,127
+Lincoln,2-09,Superintendent of Public Instruction,,REP,Tom Kelly,82
+Lincoln,2-09,Superintendent of Public Instruction,,REP,Write-ins,0
+Lincoln,2-09,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-09,Superintendent of Public Instruction,,REP,Under Votes,24
+Lincoln,2-09,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Lincoln,2-09,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Lincoln,2-09,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-09,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-09,Superintendent of Public Instruction,,DEM,Under Votes,1
+Lincoln,2-09,State House,18,REP,Kenneth D Roberts,104
+Lincoln,2-09,State House,18,REP,Scott Heiner,134
+Lincoln,2-09,State House,18,REP,Write-ins,0
+Lincoln,2-09,State House,18,REP,Over Votes,0
+Lincoln,2-09,State House,18,REP,Under Votes,6
+Lincoln,2-09,State House,18,DEM,Write-ins,0
+Lincoln,2-09,State House,18,DEM,Over Votes,0
+Lincoln,2-09,State House,18,DEM,Under Votes,6
+Lincoln,2-09,Ballots Cast,,REP,Ballots Cast,244
+Lincoln,2-09,Ballots Cast,,DEM,Ballots Cast,6
+Lincoln,2-09,Ballots Cast,,NP,Ballots Cast,10
+Lincoln,2-09,Ballots Cast,,,Ballots Cast,260
+Lincoln,2-10,U.S. Senate,,REP,Harriet Hageman,435
+Lincoln,2-10,U.S. Senate,,REP,Jill M Edwards,17
+Lincoln,2-10,U.S. Senate,,REP,Jimmy Skovgard,6
+Lincoln,2-10,U.S. Senate,,REP,John Holtz,17
+Lincoln,2-10,U.S. Senate,,REP,Sam Mead,112
+Lincoln,2-10,U.S. Senate,,REP,Write-ins,2
+Lincoln,2-10,U.S. Senate,,REP,Over Votes,0
+Lincoln,2-10,U.S. Senate,,REP,Under Votes,11
+Lincoln,2-10,U.S. Senate,,DEM,Billy Benavidez,7
+Lincoln,2-10,U.S. Senate,,DEM,James Byrd,36
+Lincoln,2-10,U.S. Senate,,DEM,Write-ins,0
+Lincoln,2-10,U.S. Senate,,DEM,Over Votes,0
+Lincoln,2-10,U.S. Senate,,DEM,Under Votes,4
+Lincoln,2-10,U.S. House,,REP,* Withdrawn Candidate,12
+Lincoln,2-10,U.S. House,,REP,Bo Biteman,15
+Lincoln,2-10,U.S. House,,REP,Chuck Gray,159
+Lincoln,2-10,U.S. House,,REP,David Giralt,55
+Lincoln,2-10,U.S. House,,REP,Jillian Balow,53
+Lincoln,2-10,U.S. House,,REP,Keith B. Goodenough,9
+Lincoln,2-10,U.S. House,,REP,Kevin Christensen,47
+Lincoln,2-10,U.S. House,,REP,Reid Rasner,49
+Lincoln,2-10,U.S. House,,REP,Richard Dodson,12
+Lincoln,2-10,U.S. House,,REP,Steve Friess,170
+Lincoln,2-10,U.S. House,,REP,Write-ins,1
+Lincoln,2-10,U.S. House,,REP,Over Votes,0
+Lincoln,2-10,U.S. House,,REP,Under Votes,18
+Lincoln,2-10,U.S. House,,DEM,Elena Del Real,8
+Lincoln,2-10,U.S. House,,DEM,Lisa Kinney,33
+Lincoln,2-10,U.S. House,,DEM,Write-ins,0
+Lincoln,2-10,U.S. House,,DEM,Over Votes,0
+Lincoln,2-10,U.S. House,,DEM,Under Votes,6
+Lincoln,2-10,Governor,,REP,Brent Bien,144
+Lincoln,2-10,Governor,,REP,Curt Blake,13
+Lincoln,2-10,Governor,,REP,Eric Barlow,187
+Lincoln,2-10,Governor,,REP,Megan Degenfelder,247
+Lincoln,2-10,Governor,,REP,Write-ins,0
+Lincoln,2-10,Governor,,REP,Over Votes,0
+Lincoln,2-10,Governor,,REP,Under Votes,9
+Lincoln,2-10,Governor,,DEM,Kenneth R. Casner,40
+Lincoln,2-10,Governor,,DEM,Write-ins,0
+Lincoln,2-10,Governor,,DEM,Over Votes,0
+Lincoln,2-10,Governor,,DEM,Under Votes,7
+Lincoln,2-10,Secretary of State,,REP,CJ Young,126
+Lincoln,2-10,Secretary of State,,REP,Qwenton Eagle Oviatt,30
+Lincoln,2-10,Secretary of State,,REP,Rachel Williams,192
+Lincoln,2-10,Secretary of State,,REP,Robert Short,149
+Lincoln,2-10,Secretary of State,,REP,Write-ins,1
+Lincoln,2-10,Secretary of State,,REP,Over Votes,0
+Lincoln,2-10,Secretary of State,,REP,Under Votes,102
+Lincoln,2-10,Secretary of State,,DEM,Bryan McCarty,38
+Lincoln,2-10,Secretary of State,,DEM,Write-ins,0
+Lincoln,2-10,Secretary of State,,DEM,Over Votes,0
+Lincoln,2-10,Secretary of State,,DEM,Under Votes,9
+Lincoln,2-10,State Auditor,,REP,Kristi Racines,477
+Lincoln,2-10,State Auditor,,REP,Write-ins,4
+Lincoln,2-10,State Auditor,,REP,Over Votes,0
+Lincoln,2-10,State Auditor,,REP,Under Votes,119
+Lincoln,2-10,State Auditor,,DEM,Write-ins,3
+Lincoln,2-10,State Auditor,,DEM,Over Votes,0
+Lincoln,2-10,State Auditor,,DEM,Under Votes,44
+Lincoln,2-10,State Treasurer,,REP,Curt Meier,266
+Lincoln,2-10,State Treasurer,,REP,Scott Smith,212
+Lincoln,2-10,State Treasurer,,REP,Write-ins,2
+Lincoln,2-10,State Treasurer,,REP,Over Votes,0
+Lincoln,2-10,State Treasurer,,REP,Under Votes,120
+Lincoln,2-10,State Treasurer,,DEM,Write-ins,2
+Lincoln,2-10,State Treasurer,,DEM,Over Votes,0
+Lincoln,2-10,State Treasurer,,DEM,Under Votes,45
+Lincoln,2-10,Superintendent of Public Instruction,,REP,Chad Auer,56
+Lincoln,2-10,Superintendent of Public Instruction,,REP,Steve Harshman,240
+Lincoln,2-10,Superintendent of Public Instruction,,REP,Tom Kelly,182
+Lincoln,2-10,Superintendent of Public Instruction,,REP,Write-ins,3
+Lincoln,2-10,Superintendent of Public Instruction,,REP,Over Votes,0
+Lincoln,2-10,Superintendent of Public Instruction,,REP,Under Votes,119
+Lincoln,2-10,Superintendent of Public Instruction,,DEM,Ana Cordova,25
+Lincoln,2-10,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",15
+Lincoln,2-10,Superintendent of Public Instruction,,DEM,Write-ins,0
+Lincoln,2-10,Superintendent of Public Instruction,,DEM,Over Votes,0
+Lincoln,2-10,Superintendent of Public Instruction,,DEM,Under Votes,7
+Lincoln,2-10,State House,22,REP,Andrew Byron,460
+Lincoln,2-10,State House,22,REP,Write-ins,6
+Lincoln,2-10,State House,22,REP,Over Votes,0
+Lincoln,2-10,State House,22,REP,Under Votes,134
+Lincoln,2-10,State House,22,DEM,Write-ins,2
+Lincoln,2-10,State House,22,DEM,Over Votes,0
+Lincoln,2-10,State House,22,DEM,Under Votes,45
+Lincoln,2-10,Ballots Cast,,REP,Ballots Cast,600
+Lincoln,2-10,Ballots Cast,,DEM,Ballots Cast,47
+Lincoln,2-10,Ballots Cast,,NP,Ballots Cast,61
+Lincoln,2-10,Ballots Cast,,,Ballots Cast,708

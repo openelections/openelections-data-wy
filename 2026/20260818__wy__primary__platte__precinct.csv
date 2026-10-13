@@ -1,0 +1,785 @@
+county,precinct,office,district,party,candidate,votes
+Platte,1-1,U.S. Senate,,REP,Harriet Hageman,644
+Platte,1-1,U.S. Senate,,REP,Jill M Edwards,12
+Platte,1-1,U.S. Senate,,REP,Jimmy Skovgard,17
+Platte,1-1,U.S. Senate,,REP,John Holtz,5
+Platte,1-1,U.S. Senate,,REP,Sam Mead,112
+Platte,1-1,U.S. Senate,,REP,Write-ins,4
+Platte,1-1,U.S. Senate,,REP,Over Votes,1
+Platte,1-1,U.S. Senate,,REP,Under Votes,11
+Platte,1-1,U.S. Senate,,DEM,Billy Benavidez,2
+Platte,1-1,U.S. Senate,,DEM,James Byrd,28
+Platte,1-1,U.S. Senate,,DEM,Write-ins,0
+Platte,1-1,U.S. Senate,,DEM,Over Votes,0
+Platte,1-1,U.S. Senate,,DEM,Under Votes,1
+Platte,1-1,U.S. House,,REP,* Withdrawn Candidate,7
+Platte,1-1,U.S. House,,REP,Bo Biteman,31
+Platte,1-1,U.S. House,,REP,Chuck Gray,255
+Platte,1-1,U.S. House,,REP,David Giralt,50
+Platte,1-1,U.S. House,,REP,Jillian Balow,96
+Platte,1-1,U.S. House,,REP,Keith B. Goodenough,14
+Platte,1-1,U.S. House,,REP,Kevin Christensen,66
+Platte,1-1,U.S. House,,REP,Reid Rasner,55
+Platte,1-1,U.S. House,,REP,Richard Dodson,6
+Platte,1-1,U.S. House,,REP,Steve Friess,166
+Platte,1-1,U.S. House,,REP,Write-ins,5
+Platte,1-1,U.S. House,,REP,Over Votes,19
+Platte,1-1,U.S. House,,REP,Under Votes,36
+Platte,1-1,U.S. House,,DEM,Elena Del Real,4
+Platte,1-1,U.S. House,,DEM,Lisa Kinney,25
+Platte,1-1,U.S. House,,DEM,Write-ins,0
+Platte,1-1,U.S. House,,DEM,Over Votes,0
+Platte,1-1,U.S. House,,DEM,Under Votes,2
+Platte,1-1,Governor,,REP,Brent Bien,247
+Platte,1-1,Governor,,REP,Curt Blake,9
+Platte,1-1,Governor,,REP,Eric Barlow,282
+Platte,1-1,Governor,,REP,Megan Degenfelder,256
+Platte,1-1,Governor,,REP,Write-ins,0
+Platte,1-1,Governor,,REP,Over Votes,1
+Platte,1-1,Governor,,REP,Under Votes,11
+Platte,1-1,Governor,,DEM,Kenneth R. Casner,28
+Platte,1-1,Governor,,DEM,Write-ins,1
+Platte,1-1,Governor,,DEM,Over Votes,0
+Platte,1-1,Governor,,DEM,Under Votes,2
+Platte,1-1,Secretary of State,,REP,CJ Young,66
+Platte,1-1,Secretary of State,,REP,Qwenton Eagle Oviatt,24
+Platte,1-1,Secretary of State,,REP,Rachel Williams,255
+Platte,1-1,Secretary of State,,REP,Robert Short,351
+Platte,1-1,Secretary of State,,REP,Write-ins,1
+Platte,1-1,Secretary of State,,REP,Over Votes,0
+Platte,1-1,Secretary of State,,REP,Under Votes,109
+Platte,1-1,Secretary of State,,DEM,Bryan McCarty,27
+Platte,1-1,Secretary of State,,DEM,Write-ins,1
+Platte,1-1,Secretary of State,,DEM,Over Votes,0
+Platte,1-1,Secretary of State,,DEM,Under Votes,3
+Platte,1-1,State Auditor,,REP,Kristi Racines,648
+Platte,1-1,State Auditor,,REP,Write-ins,4
+Platte,1-1,State Auditor,,REP,Over Votes,0
+Platte,1-1,State Auditor,,REP,Under Votes,154
+Platte,1-1,State Auditor,,DEM,Write-ins,1
+Platte,1-1,State Auditor,,DEM,Over Votes,0
+Platte,1-1,State Auditor,,DEM,Under Votes,30
+Platte,1-1,State Treasurer,,REP,Curt Meier,528
+Platte,1-1,State Treasurer,,REP,Scott Smith,202
+Platte,1-1,State Treasurer,,REP,Write-ins,1
+Platte,1-1,State Treasurer,,REP,Over Votes,0
+Platte,1-1,State Treasurer,,REP,Under Votes,75
+Platte,1-1,State Treasurer,,DEM,Write-ins,1
+Platte,1-1,State Treasurer,,DEM,Over Votes,0
+Platte,1-1,State Treasurer,,DEM,Under Votes,30
+Platte,1-1,Superintendent of Public Instruction,,REP,Chad Auer,50
+Platte,1-1,Superintendent of Public Instruction,,REP,Steve Harshman,402
+Platte,1-1,Superintendent of Public Instruction,,REP,Tom Kelly,237
+Platte,1-1,Superintendent of Public Instruction,,REP,Write-ins,3
+Platte,1-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,1-1,Superintendent of Public Instruction,,REP,Under Votes,114
+Platte,1-1,Superintendent of Public Instruction,,DEM,Ana Cordova,20
+Platte,1-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Platte,1-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Platte,1-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,1-1,Superintendent of Public Instruction,,DEM,Under Votes,2
+Platte,1-1,State Senate,6,REP,Roy Birt,445
+Platte,1-1,State Senate,6,REP,Taft Love,327
+Platte,1-1,State Senate,6,REP,Write-ins,4
+Platte,1-1,State Senate,6,REP,Over Votes,0
+Platte,1-1,State Senate,6,REP,Under Votes,30
+Platte,1-1,State Senate,6,DEM,Write-ins,1
+Platte,1-1,State Senate,6,DEM,Over Votes,0
+Platte,1-1,State Senate,6,DEM,Under Votes,30
+Platte,1-1,State House,4,REP,Jeremy Haroldson,556
+Platte,1-1,State House,4,REP,Write-ins,72
+Platte,1-1,State House,4,REP,Over Votes,0
+Platte,1-1,State House,4,REP,Under Votes,178
+Platte,1-1,State House,4,DEM,Write-ins,0
+Platte,1-1,State House,4,DEM,Over Votes,0
+Platte,1-1,State House,4,DEM,Under Votes,31
+Platte,1-1,Ballots Cast,,REP,Ballots Cast,806
+Platte,1-1,Ballots Cast,,DEM,Ballots Cast,31
+Platte,1-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,1-1,Ballots Cast,,,Ballots Cast,837
+Platte,1-2,U.S. Senate,,REP,Harriet Hageman,71
+Platte,1-2,U.S. Senate,,REP,Jill M Edwards,1
+Platte,1-2,U.S. Senate,,REP,Jimmy Skovgard,2
+Platte,1-2,U.S. Senate,,REP,John Holtz,1
+Platte,1-2,U.S. Senate,,REP,Sam Mead,10
+Platte,1-2,U.S. Senate,,REP,Write-ins,0
+Platte,1-2,U.S. Senate,,REP,Over Votes,0
+Platte,1-2,U.S. Senate,,REP,Under Votes,2
+Platte,1-2,U.S. Senate,,DEM,Billy Benavidez,0
+Platte,1-2,U.S. Senate,,DEM,James Byrd,1
+Platte,1-2,U.S. Senate,,DEM,Write-ins,0
+Platte,1-2,U.S. Senate,,DEM,Over Votes,0
+Platte,1-2,U.S. Senate,,DEM,Under Votes,0
+Platte,1-2,U.S. House,,REP,* Withdrawn Candidate,2
+Platte,1-2,U.S. House,,REP,Bo Biteman,0
+Platte,1-2,U.S. House,,REP,Chuck Gray,26
+Platte,1-2,U.S. House,,REP,David Giralt,11
+Platte,1-2,U.S. House,,REP,Jillian Balow,4
+Platte,1-2,U.S. House,,REP,Keith B. Goodenough,2
+Platte,1-2,U.S. House,,REP,Kevin Christensen,2
+Platte,1-2,U.S. House,,REP,Reid Rasner,10
+Platte,1-2,U.S. House,,REP,Richard Dodson,2
+Platte,1-2,U.S. House,,REP,Steve Friess,21
+Platte,1-2,U.S. House,,REP,Write-ins,0
+Platte,1-2,U.S. House,,REP,Over Votes,2
+Platte,1-2,U.S. House,,REP,Under Votes,5
+Platte,1-2,U.S. House,,DEM,Elena Del Real,0
+Platte,1-2,U.S. House,,DEM,Lisa Kinney,1
+Platte,1-2,U.S. House,,DEM,Write-ins,0
+Platte,1-2,U.S. House,,DEM,Over Votes,0
+Platte,1-2,U.S. House,,DEM,Under Votes,0
+Platte,1-2,Governor,,REP,Brent Bien,34
+Platte,1-2,Governor,,REP,Curt Blake,3
+Platte,1-2,Governor,,REP,Eric Barlow,26
+Platte,1-2,Governor,,REP,Megan Degenfelder,22
+Platte,1-2,Governor,,REP,Write-ins,0
+Platte,1-2,Governor,,REP,Over Votes,0
+Platte,1-2,Governor,,REP,Under Votes,2
+Platte,1-2,Governor,,DEM,Kenneth R. Casner,1
+Platte,1-2,Governor,,DEM,Write-ins,0
+Platte,1-2,Governor,,DEM,Over Votes,0
+Platte,1-2,Governor,,DEM,Under Votes,0
+Platte,1-2,Secretary of State,,REP,CJ Young,4
+Platte,1-2,Secretary of State,,REP,Qwenton Eagle Oviatt,3
+Platte,1-2,Secretary of State,,REP,Rachel Williams,27
+Platte,1-2,Secretary of State,,REP,Robert Short,40
+Platte,1-2,Secretary of State,,REP,Write-ins,1
+Platte,1-2,Secretary of State,,REP,Over Votes,0
+Platte,1-2,Secretary of State,,REP,Under Votes,12
+Platte,1-2,Secretary of State,,DEM,Bryan McCarty,1
+Platte,1-2,Secretary of State,,DEM,Write-ins,0
+Platte,1-2,Secretary of State,,DEM,Over Votes,0
+Platte,1-2,Secretary of State,,DEM,Under Votes,0
+Platte,1-2,State Auditor,,REP,Kristi Racines,64
+Platte,1-2,State Auditor,,REP,Write-ins,0
+Platte,1-2,State Auditor,,REP,Over Votes,0
+Platte,1-2,State Auditor,,REP,Under Votes,23
+Platte,1-2,State Auditor,,DEM,Write-ins,0
+Platte,1-2,State Auditor,,DEM,Over Votes,0
+Platte,1-2,State Auditor,,DEM,Under Votes,1
+Platte,1-2,State Treasurer,,REP,Curt Meier,59
+Platte,1-2,State Treasurer,,REP,Scott Smith,19
+Platte,1-2,State Treasurer,,REP,Write-ins,0
+Platte,1-2,State Treasurer,,REP,Over Votes,0
+Platte,1-2,State Treasurer,,REP,Under Votes,9
+Platte,1-2,State Treasurer,,DEM,Write-ins,0
+Platte,1-2,State Treasurer,,DEM,Over Votes,0
+Platte,1-2,State Treasurer,,DEM,Under Votes,1
+Platte,1-2,Superintendent of Public Instruction,,REP,Chad Auer,5
+Platte,1-2,Superintendent of Public Instruction,,REP,Steve Harshman,40
+Platte,1-2,Superintendent of Public Instruction,,REP,Tom Kelly,28
+Platte,1-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,1-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,1-2,Superintendent of Public Instruction,,REP,Under Votes,14
+Platte,1-2,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Platte,1-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Platte,1-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,1-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,1-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Platte,1-2,State Senate,6,REP,Roy Birt,35
+Platte,1-2,State Senate,6,REP,Taft Love,44
+Platte,1-2,State Senate,6,REP,Write-ins,1
+Platte,1-2,State Senate,6,REP,Over Votes,0
+Platte,1-2,State Senate,6,REP,Under Votes,7
+Platte,1-2,State Senate,6,DEM,Write-ins,0
+Platte,1-2,State Senate,6,DEM,Over Votes,0
+Platte,1-2,State Senate,6,DEM,Under Votes,1
+Platte,1-2,State House,4,REP,Jeremy Haroldson,58
+Platte,1-2,State House,4,REP,Write-ins,4
+Platte,1-2,State House,4,REP,Over Votes,0
+Platte,1-2,State House,4,REP,Under Votes,25
+Platte,1-2,State House,4,DEM,Write-ins,0
+Platte,1-2,State House,4,DEM,Over Votes,0
+Platte,1-2,State House,4,DEM,Under Votes,1
+Platte,1-2,Ballots Cast,,REP,Ballots Cast,87
+Platte,1-2,Ballots Cast,,DEM,Ballots Cast,1
+Platte,1-2,Ballots Cast,,NP,Ballots Cast,0
+Platte,1-2,Ballots Cast,,,Ballots Cast,88
+Platte,1-3,U.S. Senate,,REP,Harriet Hageman,80
+Platte,1-3,U.S. Senate,,REP,Jill M Edwards,0
+Platte,1-3,U.S. Senate,,REP,Jimmy Skovgard,2
+Platte,1-3,U.S. Senate,,REP,John Holtz,1
+Platte,1-3,U.S. Senate,,REP,Sam Mead,22
+Platte,1-3,U.S. Senate,,REP,Write-ins,0
+Platte,1-3,U.S. Senate,,REP,Over Votes,0
+Platte,1-3,U.S. Senate,,REP,Under Votes,4
+Platte,1-3,U.S. Senate,,DEM,Billy Benavidez,0
+Platte,1-3,U.S. Senate,,DEM,James Byrd,4
+Platte,1-3,U.S. Senate,,DEM,Write-ins,0
+Platte,1-3,U.S. Senate,,DEM,Over Votes,0
+Platte,1-3,U.S. Senate,,DEM,Under Votes,0
+Platte,1-3,U.S. House,,REP,* Withdrawn Candidate,1
+Platte,1-3,U.S. House,,REP,Bo Biteman,3
+Platte,1-3,U.S. House,,REP,Chuck Gray,40
+Platte,1-3,U.S. House,,REP,David Giralt,10
+Platte,1-3,U.S. House,,REP,Jillian Balow,11
+Platte,1-3,U.S. House,,REP,Keith B. Goodenough,1
+Platte,1-3,U.S. House,,REP,Kevin Christensen,10
+Platte,1-3,U.S. House,,REP,Reid Rasner,4
+Platte,1-3,U.S. House,,REP,Richard Dodson,1
+Platte,1-3,U.S. House,,REP,Steve Friess,22
+Platte,1-3,U.S. House,,REP,Write-ins,0
+Platte,1-3,U.S. House,,REP,Over Votes,0
+Platte,1-3,U.S. House,,REP,Under Votes,6
+Platte,1-3,U.S. House,,DEM,Elena Del Real,0
+Platte,1-3,U.S. House,,DEM,Lisa Kinney,4
+Platte,1-3,U.S. House,,DEM,Write-ins,0
+Platte,1-3,U.S. House,,DEM,Over Votes,0
+Platte,1-3,U.S. House,,DEM,Under Votes,0
+Platte,1-3,Governor,,REP,Brent Bien,53
+Platte,1-3,Governor,,REP,Curt Blake,1
+Platte,1-3,Governor,,REP,Eric Barlow,35
+Platte,1-3,Governor,,REP,Megan Degenfelder,17
+Platte,1-3,Governor,,REP,Write-ins,0
+Platte,1-3,Governor,,REP,Over Votes,0
+Platte,1-3,Governor,,REP,Under Votes,3
+Platte,1-3,Governor,,DEM,Kenneth R. Casner,4
+Platte,1-3,Governor,,DEM,Write-ins,0
+Platte,1-3,Governor,,DEM,Over Votes,0
+Platte,1-3,Governor,,DEM,Under Votes,0
+Platte,1-3,Secretary of State,,REP,CJ Young,10
+Platte,1-3,Secretary of State,,REP,Qwenton Eagle Oviatt,1
+Platte,1-3,Secretary of State,,REP,Rachel Williams,26
+Platte,1-3,Secretary of State,,REP,Robert Short,52
+Platte,1-3,Secretary of State,,REP,Write-ins,0
+Platte,1-3,Secretary of State,,REP,Over Votes,0
+Platte,1-3,Secretary of State,,REP,Under Votes,20
+Platte,1-3,Secretary of State,,DEM,Bryan McCarty,4
+Platte,1-3,Secretary of State,,DEM,Write-ins,0
+Platte,1-3,Secretary of State,,DEM,Over Votes,0
+Platte,1-3,Secretary of State,,DEM,Under Votes,0
+Platte,1-3,State Auditor,,REP,Kristi Racines,86
+Platte,1-3,State Auditor,,REP,Write-ins,0
+Platte,1-3,State Auditor,,REP,Over Votes,0
+Platte,1-3,State Auditor,,REP,Under Votes,23
+Platte,1-3,State Auditor,,DEM,Write-ins,0
+Platte,1-3,State Auditor,,DEM,Over Votes,0
+Platte,1-3,State Auditor,,DEM,Under Votes,4
+Platte,1-3,State Treasurer,,REP,Curt Meier,67
+Platte,1-3,State Treasurer,,REP,Scott Smith,23
+Platte,1-3,State Treasurer,,REP,Write-ins,0
+Platte,1-3,State Treasurer,,REP,Over Votes,0
+Platte,1-3,State Treasurer,,REP,Under Votes,19
+Platte,1-3,State Treasurer,,DEM,Write-ins,0
+Platte,1-3,State Treasurer,,DEM,Over Votes,0
+Platte,1-3,State Treasurer,,DEM,Under Votes,4
+Platte,1-3,Superintendent of Public Instruction,,REP,Chad Auer,6
+Platte,1-3,Superintendent of Public Instruction,,REP,Steve Harshman,59
+Platte,1-3,Superintendent of Public Instruction,,REP,Tom Kelly,26
+Platte,1-3,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,1-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,1-3,Superintendent of Public Instruction,,REP,Under Votes,18
+Platte,1-3,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Platte,1-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Platte,1-3,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,1-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,1-3,Superintendent of Public Instruction,,DEM,Under Votes,0
+Platte,1-3,State Senate,6,REP,Roy Birt,63
+Platte,1-3,State Senate,6,REP,Taft Love,43
+Platte,1-3,State Senate,6,REP,Write-ins,0
+Platte,1-3,State Senate,6,REP,Over Votes,0
+Platte,1-3,State Senate,6,REP,Under Votes,3
+Platte,1-3,State Senate,6,DEM,Write-ins,0
+Platte,1-3,State Senate,6,DEM,Over Votes,0
+Platte,1-3,State Senate,6,DEM,Under Votes,4
+Platte,1-3,State House,4,REP,Jeremy Haroldson,75
+Platte,1-3,State House,4,REP,Write-ins,4
+Platte,1-3,State House,4,REP,Over Votes,0
+Platte,1-3,State House,4,REP,Under Votes,30
+Platte,1-3,State House,4,DEM,Write-ins,0
+Platte,1-3,State House,4,DEM,Over Votes,0
+Platte,1-3,State House,4,DEM,Under Votes,4
+Platte,1-3,Ballots Cast,,REP,Ballots Cast,109
+Platte,1-3,Ballots Cast,,DEM,Ballots Cast,4
+Platte,1-3,Ballots Cast,,NP,Ballots Cast,0
+Platte,1-3,Ballots Cast,,,Ballots Cast,113
+Platte,1-6,U.S. Senate,,REP,Harriet Hageman,682
+Platte,1-6,U.S. Senate,,REP,Jill M Edwards,19
+Platte,1-6,U.S. Senate,,REP,Jimmy Skovgard,25
+Platte,1-6,U.S. Senate,,REP,John Holtz,16
+Platte,1-6,U.S. Senate,,REP,Sam Mead,168
+Platte,1-6,U.S. Senate,,REP,Write-ins,2
+Platte,1-6,U.S. Senate,,REP,Over Votes,1
+Platte,1-6,U.S. Senate,,REP,Under Votes,33
+Platte,1-6,U.S. Senate,,DEM,Billy Benavidez,19
+Platte,1-6,U.S. Senate,,DEM,James Byrd,52
+Platte,1-6,U.S. Senate,,DEM,Write-ins,1
+Platte,1-6,U.S. Senate,,DEM,Over Votes,0
+Platte,1-6,U.S. Senate,,DEM,Under Votes,4
+Platte,1-6,U.S. House,,REP,* Withdrawn Candidate,19
+Platte,1-6,U.S. House,,REP,Bo Biteman,17
+Platte,1-6,U.S. House,,REP,Chuck Gray,275
+Platte,1-6,U.S. House,,REP,David Giralt,85
+Platte,1-6,U.S. House,,REP,Jillian Balow,81
+Platte,1-6,U.S. House,,REP,Keith B. Goodenough,27
+Platte,1-6,U.S. House,,REP,Kevin Christensen,86
+Platte,1-6,U.S. House,,REP,Reid Rasner,90
+Platte,1-6,U.S. House,,REP,Richard Dodson,14
+Platte,1-6,U.S. House,,REP,Steve Friess,173
+Platte,1-6,U.S. House,,REP,Write-ins,3
+Platte,1-6,U.S. House,,REP,Over Votes,25
+Platte,1-6,U.S. House,,REP,Under Votes,51
+Platte,1-6,U.S. House,,DEM,Elena Del Real,15
+Platte,1-6,U.S. House,,DEM,Lisa Kinney,53
+Platte,1-6,U.S. House,,DEM,Write-ins,1
+Platte,1-6,U.S. House,,DEM,Over Votes,0
+Platte,1-6,U.S. House,,DEM,Under Votes,7
+Platte,1-6,Governor,,REP,Brent Bien,308
+Platte,1-6,Governor,,REP,Curt Blake,13
+Platte,1-6,Governor,,REP,Eric Barlow,348
+Platte,1-6,Governor,,REP,Megan Degenfelder,251
+Platte,1-6,Governor,,REP,Write-ins,1
+Platte,1-6,Governor,,REP,Over Votes,0
+Platte,1-6,Governor,,REP,Under Votes,25
+Platte,1-6,Governor,,DEM,Kenneth R. Casner,63
+Platte,1-6,Governor,,DEM,Write-ins,3
+Platte,1-6,Governor,,DEM,Over Votes,0
+Platte,1-6,Governor,,DEM,Under Votes,10
+Platte,1-6,Secretary of State,,REP,CJ Young,95
+Platte,1-6,Secretary of State,,REP,Qwenton Eagle Oviatt,54
+Platte,1-6,Secretary of State,,REP,Rachel Williams,272
+Platte,1-6,Secretary of State,,REP,Robert Short,384
+Platte,1-6,Secretary of State,,REP,Write-ins,4
+Platte,1-6,Secretary of State,,REP,Over Votes,0
+Platte,1-6,Secretary of State,,REP,Under Votes,137
+Platte,1-6,Secretary of State,,DEM,Bryan McCarty,63
+Platte,1-6,Secretary of State,,DEM,Write-ins,1
+Platte,1-6,Secretary of State,,DEM,Over Votes,0
+Platte,1-6,Secretary of State,,DEM,Under Votes,12
+Platte,1-6,State Auditor,,REP,Kristi Racines,767
+Platte,1-6,State Auditor,,REP,Write-ins,6
+Platte,1-6,State Auditor,,REP,Over Votes,0
+Platte,1-6,State Auditor,,REP,Under Votes,173
+Platte,1-6,State Auditor,,DEM,Write-ins,3
+Platte,1-6,State Auditor,,DEM,Over Votes,0
+Platte,1-6,State Auditor,,DEM,Under Votes,73
+Platte,1-6,State Treasurer,,REP,Curt Meier,571
+Platte,1-6,State Treasurer,,REP,Scott Smith,271
+Platte,1-6,State Treasurer,,REP,Write-ins,4
+Platte,1-6,State Treasurer,,REP,Over Votes,0
+Platte,1-6,State Treasurer,,REP,Under Votes,100
+Platte,1-6,State Treasurer,,DEM,Write-ins,3
+Platte,1-6,State Treasurer,,DEM,Over Votes,0
+Platte,1-6,State Treasurer,,DEM,Under Votes,73
+Platte,1-6,Superintendent of Public Instruction,,REP,Chad Auer,79
+Platte,1-6,Superintendent of Public Instruction,,REP,Steve Harshman,424
+Platte,1-6,Superintendent of Public Instruction,,REP,Tom Kelly,305
+Platte,1-6,Superintendent of Public Instruction,,REP,Write-ins,6
+Platte,1-6,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,1-6,Superintendent of Public Instruction,,REP,Under Votes,132
+Platte,1-6,Superintendent of Public Instruction,,DEM,Ana Cordova,41
+Platte,1-6,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",25
+Platte,1-6,Superintendent of Public Instruction,,DEM,Write-ins,1
+Platte,1-6,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,1-6,Superintendent of Public Instruction,,DEM,Under Votes,9
+Platte,1-6,State Senate,6,REP,Roy Birt,451
+Platte,1-6,State Senate,6,REP,Taft Love,452
+Platte,1-6,State Senate,6,REP,Write-ins,5
+Platte,1-6,State Senate,6,REP,Over Votes,0
+Platte,1-6,State Senate,6,REP,Under Votes,38
+Platte,1-6,State Senate,6,DEM,Write-ins,5
+Platte,1-6,State Senate,6,DEM,Over Votes,0
+Platte,1-6,State Senate,6,DEM,Under Votes,71
+Platte,1-6,State House,4,REP,Jeremy Haroldson,578
+Platte,1-6,State House,4,REP,Write-ins,96
+Platte,1-6,State House,4,REP,Over Votes,0
+Platte,1-6,State House,4,REP,Under Votes,272
+Platte,1-6,State House,4,DEM,Write-ins,9
+Platte,1-6,State House,4,DEM,Over Votes,0
+Platte,1-6,State House,4,DEM,Under Votes,67
+Platte,1-6,Ballots Cast,,REP,Ballots Cast,946
+Platte,1-6,Ballots Cast,,DEM,Ballots Cast,76
+Platte,1-6,Ballots Cast,,NP,Ballots Cast,36
+Platte,1-6,Ballots Cast,,,Ballots Cast,1058
+Platte,2-1,U.S. Senate,,REP,Harriet Hageman,208
+Platte,2-1,U.S. Senate,,REP,Jill M Edwards,9
+Platte,2-1,U.S. Senate,,REP,Jimmy Skovgard,8
+Platte,2-1,U.S. Senate,,REP,John Holtz,5
+Platte,2-1,U.S. Senate,,REP,Sam Mead,24
+Platte,2-1,U.S. Senate,,REP,Write-ins,0
+Platte,2-1,U.S. Senate,,REP,Over Votes,0
+Platte,2-1,U.S. Senate,,REP,Under Votes,9
+Platte,2-1,U.S. Senate,,DEM,Billy Benavidez,14
+Platte,2-1,U.S. Senate,,DEM,James Byrd,31
+Platte,2-1,U.S. Senate,,DEM,Write-ins,2
+Platte,2-1,U.S. Senate,,DEM,Over Votes,0
+Platte,2-1,U.S. Senate,,DEM,Under Votes,1
+Platte,2-1,U.S. House,,REP,* Withdrawn Candidate,6
+Platte,2-1,U.S. House,,REP,Bo Biteman,9
+Platte,2-1,U.S. House,,REP,Chuck Gray,85
+Platte,2-1,U.S. House,,REP,David Giralt,34
+Platte,2-1,U.S. House,,REP,Jillian Balow,21
+Platte,2-1,U.S. House,,REP,Keith B. Goodenough,6
+Platte,2-1,U.S. House,,REP,Kevin Christensen,20
+Platte,2-1,U.S. House,,REP,Reid Rasner,21
+Platte,2-1,U.S. House,,REP,Richard Dodson,5
+Platte,2-1,U.S. House,,REP,Steve Friess,30
+Platte,2-1,U.S. House,,REP,Write-ins,0
+Platte,2-1,U.S. House,,REP,Over Votes,9
+Platte,2-1,U.S. House,,REP,Under Votes,17
+Platte,2-1,U.S. House,,DEM,Elena Del Real,15
+Platte,2-1,U.S. House,,DEM,Lisa Kinney,32
+Platte,2-1,U.S. House,,DEM,Write-ins,0
+Platte,2-1,U.S. House,,DEM,Over Votes,0
+Platte,2-1,U.S. House,,DEM,Under Votes,1
+Platte,2-1,Governor,,REP,Brent Bien,88
+Platte,2-1,Governor,,REP,Curt Blake,4
+Platte,2-1,Governor,,REP,Eric Barlow,69
+Platte,2-1,Governor,,REP,Megan Degenfelder,93
+Platte,2-1,Governor,,REP,Write-ins,1
+Platte,2-1,Governor,,REP,Over Votes,1
+Platte,2-1,Governor,,REP,Under Votes,7
+Platte,2-1,Governor,,DEM,Kenneth R. Casner,37
+Platte,2-1,Governor,,DEM,Write-ins,4
+Platte,2-1,Governor,,DEM,Over Votes,0
+Platte,2-1,Governor,,DEM,Under Votes,7
+Platte,2-1,Secretary of State,,REP,CJ Young,38
+Platte,2-1,Secretary of State,,REP,Qwenton Eagle Oviatt,22
+Platte,2-1,Secretary of State,,REP,Rachel Williams,88
+Platte,2-1,Secretary of State,,REP,Robert Short,86
+Platte,2-1,Secretary of State,,REP,Write-ins,0
+Platte,2-1,Secretary of State,,REP,Over Votes,1
+Platte,2-1,Secretary of State,,REP,Under Votes,28
+Platte,2-1,Secretary of State,,DEM,Bryan McCarty,39
+Platte,2-1,Secretary of State,,DEM,Write-ins,0
+Platte,2-1,Secretary of State,,DEM,Over Votes,0
+Platte,2-1,Secretary of State,,DEM,Under Votes,9
+Platte,2-1,State Auditor,,REP,Kristi Racines,234
+Platte,2-1,State Auditor,,REP,Write-ins,0
+Platte,2-1,State Auditor,,REP,Over Votes,0
+Platte,2-1,State Auditor,,REP,Under Votes,29
+Platte,2-1,State Auditor,,DEM,Write-ins,3
+Platte,2-1,State Auditor,,DEM,Over Votes,0
+Platte,2-1,State Auditor,,DEM,Under Votes,45
+Platte,2-1,State Treasurer,,REP,Curt Meier,142
+Platte,2-1,State Treasurer,,REP,Scott Smith,98
+Platte,2-1,State Treasurer,,REP,Write-ins,0
+Platte,2-1,State Treasurer,,REP,Over Votes,1
+Platte,2-1,State Treasurer,,REP,Under Votes,22
+Platte,2-1,State Treasurer,,DEM,Write-ins,2
+Platte,2-1,State Treasurer,,DEM,Over Votes,0
+Platte,2-1,State Treasurer,,DEM,Under Votes,46
+Platte,2-1,Superintendent of Public Instruction,,REP,Chad Auer,11
+Platte,2-1,Superintendent of Public Instruction,,REP,Steve Harshman,129
+Platte,2-1,Superintendent of Public Instruction,,REP,Tom Kelly,95
+Platte,2-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,2-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,2-1,Superintendent of Public Instruction,,REP,Under Votes,28
+Platte,2-1,Superintendent of Public Instruction,,DEM,Ana Cordova,26
+Platte,2-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",18
+Platte,2-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,2-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,2-1,Superintendent of Public Instruction,,DEM,Under Votes,4
+Platte,2-1,State Senate,6,REP,Roy Birt,157
+Platte,2-1,State Senate,6,REP,Taft Love,89
+Platte,2-1,State Senate,6,REP,Write-ins,2
+Platte,2-1,State Senate,6,REP,Over Votes,1
+Platte,2-1,State Senate,6,REP,Under Votes,14
+Platte,2-1,State Senate,6,DEM,Write-ins,3
+Platte,2-1,State Senate,6,DEM,Over Votes,0
+Platte,2-1,State Senate,6,DEM,Under Votes,45
+Platte,2-1,State House,4,REP,Jeremy Haroldson,213
+Platte,2-1,State House,4,REP,Write-ins,11
+Platte,2-1,State House,4,REP,Over Votes,0
+Platte,2-1,State House,4,REP,Under Votes,39
+Platte,2-1,State House,4,DEM,Write-ins,2
+Platte,2-1,State House,4,DEM,Over Votes,0
+Platte,2-1,State House,4,DEM,Under Votes,46
+Platte,2-1,Ballots Cast,,REP,Ballots Cast,263
+Platte,2-1,Ballots Cast,,DEM,Ballots Cast,48
+Platte,2-1,Ballots Cast,,NP,Ballots Cast,27
+Platte,2-1,Ballots Cast,,,Ballots Cast,338
+Platte,2-2,U.S. Senate,,REP,Harriet Hageman,119
+Platte,2-2,U.S. Senate,,REP,Jill M Edwards,1
+Platte,2-2,U.S. Senate,,REP,Jimmy Skovgard,3
+Platte,2-2,U.S. Senate,,REP,John Holtz,1
+Platte,2-2,U.S. Senate,,REP,Sam Mead,9
+Platte,2-2,U.S. Senate,,REP,Write-ins,2
+Platte,2-2,U.S. Senate,,REP,Over Votes,0
+Platte,2-2,U.S. Senate,,REP,Under Votes,2
+Platte,2-2,U.S. Senate,,DEM,Billy Benavidez,2
+Platte,2-2,U.S. Senate,,DEM,James Byrd,1
+Platte,2-2,U.S. Senate,,DEM,Write-ins,0
+Platte,2-2,U.S. Senate,,DEM,Over Votes,0
+Platte,2-2,U.S. Senate,,DEM,Under Votes,0
+Platte,2-2,U.S. House,,REP,* Withdrawn Candidate,4
+Platte,2-2,U.S. House,,REP,Bo Biteman,3
+Platte,2-2,U.S. House,,REP,Chuck Gray,55
+Platte,2-2,U.S. House,,REP,David Giralt,17
+Platte,2-2,U.S. House,,REP,Jillian Balow,1
+Platte,2-2,U.S. House,,REP,Keith B. Goodenough,2
+Platte,2-2,U.S. House,,REP,Kevin Christensen,15
+Platte,2-2,U.S. House,,REP,Reid Rasner,13
+Platte,2-2,U.S. House,,REP,Richard Dodson,1
+Platte,2-2,U.S. House,,REP,Steve Friess,16
+Platte,2-2,U.S. House,,REP,Write-ins,0
+Platte,2-2,U.S. House,,REP,Over Votes,5
+Platte,2-2,U.S. House,,REP,Under Votes,5
+Platte,2-2,U.S. House,,DEM,Elena Del Real,2
+Platte,2-2,U.S. House,,DEM,Lisa Kinney,1
+Platte,2-2,U.S. House,,DEM,Write-ins,0
+Platte,2-2,U.S. House,,DEM,Over Votes,0
+Platte,2-2,U.S. House,,DEM,Under Votes,0
+Platte,2-2,Governor,,REP,Brent Bien,59
+Platte,2-2,Governor,,REP,Curt Blake,0
+Platte,2-2,Governor,,REP,Eric Barlow,30
+Platte,2-2,Governor,,REP,Megan Degenfelder,48
+Platte,2-2,Governor,,REP,Write-ins,0
+Platte,2-2,Governor,,REP,Over Votes,0
+Platte,2-2,Governor,,REP,Under Votes,0
+Platte,2-2,Governor,,DEM,Kenneth R. Casner,3
+Platte,2-2,Governor,,DEM,Write-ins,0
+Platte,2-2,Governor,,DEM,Over Votes,0
+Platte,2-2,Governor,,DEM,Under Votes,0
+Platte,2-2,Secretary of State,,REP,CJ Young,19
+Platte,2-2,Secretary of State,,REP,Qwenton Eagle Oviatt,9
+Platte,2-2,Secretary of State,,REP,Rachel Williams,43
+Platte,2-2,Secretary of State,,REP,Robert Short,52
+Platte,2-2,Secretary of State,,REP,Write-ins,1
+Platte,2-2,Secretary of State,,REP,Over Votes,0
+Platte,2-2,Secretary of State,,REP,Under Votes,13
+Platte,2-2,Secretary of State,,DEM,Bryan McCarty,3
+Platte,2-2,Secretary of State,,DEM,Write-ins,0
+Platte,2-2,Secretary of State,,DEM,Over Votes,0
+Platte,2-2,Secretary of State,,DEM,Under Votes,0
+Platte,2-2,State Auditor,,REP,Kristi Racines,115
+Platte,2-2,State Auditor,,REP,Write-ins,0
+Platte,2-2,State Auditor,,REP,Over Votes,0
+Platte,2-2,State Auditor,,REP,Under Votes,22
+Platte,2-2,State Auditor,,DEM,Write-ins,0
+Platte,2-2,State Auditor,,DEM,Over Votes,0
+Platte,2-2,State Auditor,,DEM,Under Votes,3
+Platte,2-2,State Treasurer,,REP,Curt Meier,74
+Platte,2-2,State Treasurer,,REP,Scott Smith,52
+Platte,2-2,State Treasurer,,REP,Write-ins,0
+Platte,2-2,State Treasurer,,REP,Over Votes,0
+Platte,2-2,State Treasurer,,REP,Under Votes,11
+Platte,2-2,State Treasurer,,DEM,Write-ins,0
+Platte,2-2,State Treasurer,,DEM,Over Votes,0
+Platte,2-2,State Treasurer,,DEM,Under Votes,3
+Platte,2-2,Superintendent of Public Instruction,,REP,Chad Auer,14
+Platte,2-2,Superintendent of Public Instruction,,REP,Steve Harshman,51
+Platte,2-2,Superintendent of Public Instruction,,REP,Tom Kelly,59
+Platte,2-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,2-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,2-2,Superintendent of Public Instruction,,REP,Under Votes,13
+Platte,2-2,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Platte,2-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Platte,2-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,2-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,2-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Platte,2-2,State Senate,6,REP,Roy Birt,82
+Platte,2-2,State Senate,6,REP,Taft Love,45
+Platte,2-2,State Senate,6,REP,Write-ins,1
+Platte,2-2,State Senate,6,REP,Over Votes,0
+Platte,2-2,State Senate,6,REP,Under Votes,9
+Platte,2-2,State Senate,6,DEM,Write-ins,0
+Platte,2-2,State Senate,6,DEM,Over Votes,0
+Platte,2-2,State Senate,6,DEM,Under Votes,3
+Platte,2-2,State House,4,REP,Jeremy Haroldson,109
+Platte,2-2,State House,4,REP,Write-ins,4
+Platte,2-2,State House,4,REP,Over Votes,0
+Platte,2-2,State House,4,REP,Under Votes,24
+Platte,2-2,State House,4,DEM,Write-ins,0
+Platte,2-2,State House,4,DEM,Over Votes,0
+Platte,2-2,State House,4,DEM,Under Votes,3
+Platte,2-2,Ballots Cast,,REP,Ballots Cast,137
+Platte,2-2,Ballots Cast,,DEM,Ballots Cast,3
+Platte,2-2,Ballots Cast,,NP,Ballots Cast,0
+Platte,2-2,Ballots Cast,,,Ballots Cast,140
+Platte,3-1,U.S. Senate,,REP,Harriet Hageman,167
+Platte,3-1,U.S. Senate,,REP,Jill M Edwards,2
+Platte,3-1,U.S. Senate,,REP,Jimmy Skovgard,4
+Platte,3-1,U.S. Senate,,REP,John Holtz,1
+Platte,3-1,U.S. Senate,,REP,Sam Mead,28
+Platte,3-1,U.S. Senate,,REP,Write-ins,0
+Platte,3-1,U.S. Senate,,REP,Over Votes,0
+Platte,3-1,U.S. Senate,,REP,Under Votes,1
+Platte,3-1,U.S. Senate,,DEM,Billy Benavidez,2
+Platte,3-1,U.S. Senate,,DEM,James Byrd,6
+Platte,3-1,U.S. Senate,,DEM,Write-ins,0
+Platte,3-1,U.S. Senate,,DEM,Over Votes,0
+Platte,3-1,U.S. Senate,,DEM,Under Votes,1
+Platte,3-1,U.S. House,,REP,* Withdrawn Candidate,2
+Platte,3-1,U.S. House,,REP,Bo Biteman,6
+Platte,3-1,U.S. House,,REP,Chuck Gray,91
+Platte,3-1,U.S. House,,REP,David Giralt,9
+Platte,3-1,U.S. House,,REP,Jillian Balow,13
+Platte,3-1,U.S. House,,REP,Keith B. Goodenough,8
+Platte,3-1,U.S. House,,REP,Kevin Christensen,16
+Platte,3-1,U.S. House,,REP,Reid Rasner,15
+Platte,3-1,U.S. House,,REP,Richard Dodson,0
+Platte,3-1,U.S. House,,REP,Steve Friess,34
+Platte,3-1,U.S. House,,REP,Write-ins,0
+Platte,3-1,U.S. House,,REP,Over Votes,2
+Platte,3-1,U.S. House,,REP,Under Votes,7
+Platte,3-1,U.S. House,,DEM,Elena Del Real,0
+Platte,3-1,U.S. House,,DEM,Lisa Kinney,8
+Platte,3-1,U.S. House,,DEM,Write-ins,0
+Platte,3-1,U.S. House,,DEM,Over Votes,0
+Platte,3-1,U.S. House,,DEM,Under Votes,1
+Platte,3-1,Governor,,REP,Brent Bien,60
+Platte,3-1,Governor,,REP,Curt Blake,0
+Platte,3-1,Governor,,REP,Eric Barlow,76
+Platte,3-1,Governor,,REP,Megan Degenfelder,64
+Platte,3-1,Governor,,REP,Write-ins,1
+Platte,3-1,Governor,,REP,Over Votes,1
+Platte,3-1,Governor,,REP,Under Votes,1
+Platte,3-1,Governor,,DEM,Kenneth R. Casner,7
+Platte,3-1,Governor,,DEM,Write-ins,0
+Platte,3-1,Governor,,DEM,Over Votes,0
+Platte,3-1,Governor,,DEM,Under Votes,2
+Platte,3-1,Secretary of State,,REP,CJ Young,15
+Platte,3-1,Secretary of State,,REP,Qwenton Eagle Oviatt,3
+Platte,3-1,Secretary of State,,REP,Rachel Williams,67
+Platte,3-1,Secretary of State,,REP,Robert Short,96
+Platte,3-1,Secretary of State,,REP,Write-ins,1
+Platte,3-1,Secretary of State,,REP,Over Votes,0
+Platte,3-1,Secretary of State,,REP,Under Votes,21
+Platte,3-1,Secretary of State,,DEM,Bryan McCarty,8
+Platte,3-1,Secretary of State,,DEM,Write-ins,0
+Platte,3-1,Secretary of State,,DEM,Over Votes,0
+Platte,3-1,Secretary of State,,DEM,Under Votes,1
+Platte,3-1,State Auditor,,REP,Kristi Racines,174
+Platte,3-1,State Auditor,,REP,Write-ins,1
+Platte,3-1,State Auditor,,REP,Over Votes,0
+Platte,3-1,State Auditor,,REP,Under Votes,28
+Platte,3-1,State Auditor,,DEM,Write-ins,0
+Platte,3-1,State Auditor,,DEM,Over Votes,0
+Platte,3-1,State Auditor,,DEM,Under Votes,9
+Platte,3-1,State Treasurer,,REP,Curt Meier,109
+Platte,3-1,State Treasurer,,REP,Scott Smith,70
+Platte,3-1,State Treasurer,,REP,Write-ins,0
+Platte,3-1,State Treasurer,,REP,Over Votes,0
+Platte,3-1,State Treasurer,,REP,Under Votes,24
+Platte,3-1,State Treasurer,,DEM,Write-ins,0
+Platte,3-1,State Treasurer,,DEM,Over Votes,0
+Platte,3-1,State Treasurer,,DEM,Under Votes,9
+Platte,3-1,Superintendent of Public Instruction,,REP,Chad Auer,23
+Platte,3-1,Superintendent of Public Instruction,,REP,Steve Harshman,89
+Platte,3-1,Superintendent of Public Instruction,,REP,Tom Kelly,64
+Platte,3-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,3-1,Superintendent of Public Instruction,,REP,Over Votes,1
+Platte,3-1,Superintendent of Public Instruction,,REP,Under Votes,26
+Platte,3-1,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Platte,3-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Platte,3-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,3-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,3-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Platte,3-1,State Senate,6,REP,Roy Birt,82
+Platte,3-1,State Senate,6,REP,Taft Love,91
+Platte,3-1,State Senate,6,REP,Write-ins,0
+Platte,3-1,State Senate,6,REP,Over Votes,0
+Platte,3-1,State Senate,6,REP,Under Votes,30
+Platte,3-1,State Senate,6,DEM,Write-ins,0
+Platte,3-1,State Senate,6,DEM,Over Votes,0
+Platte,3-1,State Senate,6,DEM,Under Votes,9
+Platte,3-1,State House,4,REP,Jeremy Haroldson,154
+Platte,3-1,State House,4,REP,Write-ins,9
+Platte,3-1,State House,4,REP,Over Votes,0
+Platte,3-1,State House,4,REP,Under Votes,40
+Platte,3-1,State House,4,DEM,Write-ins,0
+Platte,3-1,State House,4,DEM,Over Votes,0
+Platte,3-1,State House,4,DEM,Under Votes,9
+Platte,3-1,Ballots Cast,,REP,Ballots Cast,203
+Platte,3-1,Ballots Cast,,DEM,Ballots Cast,9
+Platte,3-1,Ballots Cast,,NP,Ballots Cast,0
+Platte,3-1,Ballots Cast,,,Ballots Cast,212
+Platte,4-1,U.S. Senate,,REP,Harriet Hageman,118
+Platte,4-1,U.S. Senate,,REP,Jill M Edwards,3
+Platte,4-1,U.S. Senate,,REP,Jimmy Skovgard,3
+Platte,4-1,U.S. Senate,,REP,John Holtz,2
+Platte,4-1,U.S. Senate,,REP,Sam Mead,23
+Platte,4-1,U.S. Senate,,REP,Write-ins,0
+Platte,4-1,U.S. Senate,,REP,Over Votes,0
+Platte,4-1,U.S. Senate,,REP,Under Votes,4
+Platte,4-1,U.S. Senate,,DEM,Billy Benavidez,3
+Platte,4-1,U.S. Senate,,DEM,James Byrd,5
+Platte,4-1,U.S. Senate,,DEM,Write-ins,0
+Platte,4-1,U.S. Senate,,DEM,Over Votes,0
+Platte,4-1,U.S. Senate,,DEM,Under Votes,0
+Platte,4-1,U.S. House,,REP,* Withdrawn Candidate,1
+Platte,4-1,U.S. House,,REP,Bo Biteman,6
+Platte,4-1,U.S. House,,REP,Chuck Gray,56
+Platte,4-1,U.S. House,,REP,David Giralt,21
+Platte,4-1,U.S. House,,REP,Jillian Balow,16
+Platte,4-1,U.S. House,,REP,Keith B. Goodenough,1
+Platte,4-1,U.S. House,,REP,Kevin Christensen,4
+Platte,4-1,U.S. House,,REP,Reid Rasner,14
+Platte,4-1,U.S. House,,REP,Richard Dodson,0
+Platte,4-1,U.S. House,,REP,Steve Friess,23
+Platte,4-1,U.S. House,,REP,Write-ins,0
+Platte,4-1,U.S. House,,REP,Over Votes,0
+Platte,4-1,U.S. House,,REP,Under Votes,11
+Platte,4-1,U.S. House,,DEM,Elena Del Real,2
+Platte,4-1,U.S. House,,DEM,Lisa Kinney,5
+Platte,4-1,U.S. House,,DEM,Write-ins,0
+Platte,4-1,U.S. House,,DEM,Over Votes,0
+Platte,4-1,U.S. House,,DEM,Under Votes,1
+Platte,4-1,Governor,,REP,Brent Bien,62
+Platte,4-1,Governor,,REP,Curt Blake,1
+Platte,4-1,Governor,,REP,Eric Barlow,47
+Platte,4-1,Governor,,REP,Megan Degenfelder,42
+Platte,4-1,Governor,,REP,Write-ins,0
+Platte,4-1,Governor,,REP,Over Votes,0
+Platte,4-1,Governor,,REP,Under Votes,1
+Platte,4-1,Governor,,DEM,Kenneth R. Casner,5
+Platte,4-1,Governor,,DEM,Write-ins,1
+Platte,4-1,Governor,,DEM,Over Votes,0
+Platte,4-1,Governor,,DEM,Under Votes,2
+Platte,4-1,Secretary of State,,REP,CJ Young,15
+Platte,4-1,Secretary of State,,REP,Qwenton Eagle Oviatt,5
+Platte,4-1,Secretary of State,,REP,Rachel Williams,49
+Platte,4-1,Secretary of State,,REP,Robert Short,67
+Platte,4-1,Secretary of State,,REP,Write-ins,0
+Platte,4-1,Secretary of State,,REP,Over Votes,0
+Platte,4-1,Secretary of State,,REP,Under Votes,17
+Platte,4-1,Secretary of State,,DEM,Bryan McCarty,6
+Platte,4-1,Secretary of State,,DEM,Write-ins,0
+Platte,4-1,Secretary of State,,DEM,Over Votes,0
+Platte,4-1,Secretary of State,,DEM,Under Votes,2
+Platte,4-1,State Auditor,,REP,Kristi Racines,135
+Platte,4-1,State Auditor,,REP,Write-ins,0
+Platte,4-1,State Auditor,,REP,Over Votes,0
+Platte,4-1,State Auditor,,REP,Under Votes,18
+Platte,4-1,State Auditor,,DEM,Write-ins,1
+Platte,4-1,State Auditor,,DEM,Over Votes,0
+Platte,4-1,State Auditor,,DEM,Under Votes,7
+Platte,4-1,State Treasurer,,REP,Curt Meier,96
+Platte,4-1,State Treasurer,,REP,Scott Smith,42
+Platte,4-1,State Treasurer,,REP,Write-ins,0
+Platte,4-1,State Treasurer,,REP,Over Votes,0
+Platte,4-1,State Treasurer,,REP,Under Votes,15
+Platte,4-1,State Treasurer,,DEM,Write-ins,1
+Platte,4-1,State Treasurer,,DEM,Over Votes,0
+Platte,4-1,State Treasurer,,DEM,Under Votes,7
+Platte,4-1,Superintendent of Public Instruction,,REP,Chad Auer,18
+Platte,4-1,Superintendent of Public Instruction,,REP,Steve Harshman,71
+Platte,4-1,Superintendent of Public Instruction,,REP,Tom Kelly,38
+Platte,4-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Platte,4-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Platte,4-1,Superintendent of Public Instruction,,REP,Under Votes,26
+Platte,4-1,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Platte,4-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Platte,4-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Platte,4-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Platte,4-1,Superintendent of Public Instruction,,DEM,Under Votes,2
+Platte,4-1,State Senate,6,REP,Roy Birt,79
+Platte,4-1,State Senate,6,REP,Taft Love,65
+Platte,4-1,State Senate,6,REP,Write-ins,0
+Platte,4-1,State Senate,6,REP,Over Votes,0
+Platte,4-1,State Senate,6,REP,Under Votes,9
+Platte,4-1,State Senate,6,DEM,Write-ins,1
+Platte,4-1,State Senate,6,DEM,Over Votes,0
+Platte,4-1,State Senate,6,DEM,Under Votes,7
+Platte,4-1,State House,4,REP,Jeremy Haroldson,110
+Platte,4-1,State House,4,REP,Write-ins,10
+Platte,4-1,State House,4,REP,Over Votes,0
+Platte,4-1,State House,4,REP,Under Votes,33
+Platte,4-1,State House,4,DEM,Write-ins,1
+Platte,4-1,State House,4,DEM,Over Votes,0
+Platte,4-1,State House,4,DEM,Under Votes,7
+Platte,4-1,Ballots Cast,,REP,Ballots Cast,153
+Platte,4-1,Ballots Cast,,DEM,Ballots Cast,8
+Platte,4-1,Ballots Cast,,NP,Ballots Cast,2
+Platte,4-1,Ballots Cast,,,Ballots Cast,163

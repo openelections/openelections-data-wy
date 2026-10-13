@@ -1,0 +1,3331 @@
+county,precinct,office,district,party,candidate,votes
+Sweetwater,01-2,U.S. Senate,,REP,Harriet Hageman,26
+Sweetwater,01-2,U.S. Senate,,REP,Jill M Edwards,2
+Sweetwater,01-2,U.S. Senate,,REP,Jimmy Skovgard,1
+Sweetwater,01-2,U.S. Senate,,REP,John Holtz,1
+Sweetwater,01-2,U.S. Senate,,REP,Sam Mead,2
+Sweetwater,01-2,U.S. Senate,,REP,Write-ins,0
+Sweetwater,01-2,U.S. Senate,,REP,Over Votes,0
+Sweetwater,01-2,U.S. Senate,,REP,Under Votes,1
+Sweetwater,01-2,U.S. Senate,,DEM,Billy Benavidez,1
+Sweetwater,01-2,U.S. Senate,,DEM,James Byrd,5
+Sweetwater,01-2,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,01-2,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,01-2,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,01-2,U.S. House,,REP,* Withdrawn Candidate,2
+Sweetwater,01-2,U.S. House,,REP,Bo Biteman,1
+Sweetwater,01-2,U.S. House,,REP,Chuck Gray,13
+Sweetwater,01-2,U.S. House,,REP,David Giralt,3
+Sweetwater,01-2,U.S. House,,REP,Jillian Balow,1
+Sweetwater,01-2,U.S. House,,REP,Keith B. Goodenough,0
+Sweetwater,01-2,U.S. House,,REP,Kevin Christensen,1
+Sweetwater,01-2,U.S. House,,REP,Reid Rasner,4
+Sweetwater,01-2,U.S. House,,REP,Richard Dodson,0
+Sweetwater,01-2,U.S. House,,REP,Steve Friess,7
+Sweetwater,01-2,U.S. House,,REP,Write-ins,0
+Sweetwater,01-2,U.S. House,,REP,Over Votes,0
+Sweetwater,01-2,U.S. House,,REP,Under Votes,1
+Sweetwater,01-2,U.S. House,,DEM,Elena Del Real,2
+Sweetwater,01-2,U.S. House,,DEM,Lisa Kinney,4
+Sweetwater,01-2,U.S. House,,DEM,Write-ins,0
+Sweetwater,01-2,U.S. House,,DEM,Over Votes,0
+Sweetwater,01-2,U.S. House,,DEM,Under Votes,0
+Sweetwater,01-2,Governor,,REP,Brent Bien,7
+Sweetwater,01-2,Governor,,REP,Curt Blake,0
+Sweetwater,01-2,Governor,,REP,Eric Barlow,17
+Sweetwater,01-2,Governor,,REP,Megan Degenfelder,8
+Sweetwater,01-2,Governor,,REP,Write-ins,0
+Sweetwater,01-2,Governor,,REP,Over Votes,0
+Sweetwater,01-2,Governor,,REP,Under Votes,1
+Sweetwater,01-2,Governor,,DEM,Kenneth R. Casner,6
+Sweetwater,01-2,Governor,,DEM,Write-ins,0
+Sweetwater,01-2,Governor,,DEM,Over Votes,0
+Sweetwater,01-2,Governor,,DEM,Under Votes,0
+Sweetwater,01-2,Secretary of State,,REP,CJ Young,5
+Sweetwater,01-2,Secretary of State,,REP,Qwenton Eagle Oviatt,2
+Sweetwater,01-2,Secretary of State,,REP,Rachel Williams,14
+Sweetwater,01-2,Secretary of State,,REP,Robert Short,11
+Sweetwater,01-2,Secretary of State,,REP,Write-ins,0
+Sweetwater,01-2,Secretary of State,,REP,Over Votes,0
+Sweetwater,01-2,Secretary of State,,REP,Under Votes,1
+Sweetwater,01-2,Secretary of State,,DEM,Bryan McCarty,5
+Sweetwater,01-2,Secretary of State,,DEM,Write-ins,0
+Sweetwater,01-2,Secretary of State,,DEM,Over Votes,0
+Sweetwater,01-2,Secretary of State,,DEM,Under Votes,1
+Sweetwater,01-2,State Auditor,,REP,Kristi Racines,24
+Sweetwater,01-2,State Auditor,,REP,Write-ins,0
+Sweetwater,01-2,State Auditor,,REP,Over Votes,0
+Sweetwater,01-2,State Auditor,,REP,Under Votes,9
+Sweetwater,01-2,State Auditor,,DEM,Write-ins,2
+Sweetwater,01-2,State Auditor,,DEM,Over Votes,0
+Sweetwater,01-2,State Auditor,,DEM,Under Votes,4
+Sweetwater,01-2,State Treasurer,,REP,Curt Meier,14
+Sweetwater,01-2,State Treasurer,,REP,Scott Smith,17
+Sweetwater,01-2,State Treasurer,,REP,Write-ins,0
+Sweetwater,01-2,State Treasurer,,REP,Over Votes,0
+Sweetwater,01-2,State Treasurer,,REP,Under Votes,2
+Sweetwater,01-2,State Treasurer,,DEM,Write-ins,2
+Sweetwater,01-2,State Treasurer,,DEM,Over Votes,0
+Sweetwater,01-2,State Treasurer,,DEM,Under Votes,4
+Sweetwater,01-2,Superintendent of Public Instruction,,REP,Chad Auer,0
+Sweetwater,01-2,Superintendent of Public Instruction,,REP,Steve Harshman,17
+Sweetwater,01-2,Superintendent of Public Instruction,,REP,Tom Kelly,12
+Sweetwater,01-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,01-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,01-2,Superintendent of Public Instruction,,REP,Under Votes,4
+Sweetwater,01-2,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Sweetwater,01-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Sweetwater,01-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,01-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,01-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,01-2,State House,18,REP,Kenneth D Roberts,12
+Sweetwater,01-2,State House,18,REP,Scott Heiner,17
+Sweetwater,01-2,State House,18,REP,Write-ins,0
+Sweetwater,01-2,State House,18,REP,Over Votes,0
+Sweetwater,01-2,State House,18,REP,Under Votes,4
+Sweetwater,01-2,State House,18,DEM,Write-ins,1
+Sweetwater,01-2,State House,18,DEM,Over Votes,0
+Sweetwater,01-2,State House,18,DEM,Under Votes,5
+Sweetwater,01-2,Ballots Cast,,REP,Ballots Cast,33
+Sweetwater,01-2,Ballots Cast,,DEM,Ballots Cast,6
+Sweetwater,01-2,Ballots Cast,,NP,Ballots Cast,2
+Sweetwater,01-2,Ballots Cast,,,Ballots Cast,41
+Sweetwater,03-4,U.S. Senate,,REP,Harriet Hageman,27
+Sweetwater,03-4,U.S. Senate,,REP,Jill M Edwards,2
+Sweetwater,03-4,U.S. Senate,,REP,Jimmy Skovgard,1
+Sweetwater,03-4,U.S. Senate,,REP,John Holtz,4
+Sweetwater,03-4,U.S. Senate,,REP,Sam Mead,6
+Sweetwater,03-4,U.S. Senate,,REP,Write-ins,0
+Sweetwater,03-4,U.S. Senate,,REP,Over Votes,0
+Sweetwater,03-4,U.S. Senate,,REP,Under Votes,4
+Sweetwater,03-4,U.S. Senate,,DEM,Billy Benavidez,1
+Sweetwater,03-4,U.S. Senate,,DEM,James Byrd,8
+Sweetwater,03-4,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,03-4,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,03-4,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,03-4,U.S. House,,REP,* Withdrawn Candidate,0
+Sweetwater,03-4,U.S. House,,REP,Bo Biteman,4
+Sweetwater,03-4,U.S. House,,REP,Chuck Gray,11
+Sweetwater,03-4,U.S. House,,REP,David Giralt,6
+Sweetwater,03-4,U.S. House,,REP,Jillian Balow,3
+Sweetwater,03-4,U.S. House,,REP,Keith B. Goodenough,3
+Sweetwater,03-4,U.S. House,,REP,Kevin Christensen,3
+Sweetwater,03-4,U.S. House,,REP,Reid Rasner,5
+Sweetwater,03-4,U.S. House,,REP,Richard Dodson,0
+Sweetwater,03-4,U.S. House,,REP,Steve Friess,5
+Sweetwater,03-4,U.S. House,,REP,Write-ins,0
+Sweetwater,03-4,U.S. House,,REP,Over Votes,1
+Sweetwater,03-4,U.S. House,,REP,Under Votes,3
+Sweetwater,03-4,U.S. House,,DEM,Elena Del Real,0
+Sweetwater,03-4,U.S. House,,DEM,Lisa Kinney,9
+Sweetwater,03-4,U.S. House,,DEM,Write-ins,0
+Sweetwater,03-4,U.S. House,,DEM,Over Votes,0
+Sweetwater,03-4,U.S. House,,DEM,Under Votes,0
+Sweetwater,03-4,Governor,,REP,Brent Bien,10
+Sweetwater,03-4,Governor,,REP,Curt Blake,4
+Sweetwater,03-4,Governor,,REP,Eric Barlow,13
+Sweetwater,03-4,Governor,,REP,Megan Degenfelder,15
+Sweetwater,03-4,Governor,,REP,Write-ins,0
+Sweetwater,03-4,Governor,,REP,Over Votes,0
+Sweetwater,03-4,Governor,,REP,Under Votes,2
+Sweetwater,03-4,Governor,,DEM,Kenneth R. Casner,9
+Sweetwater,03-4,Governor,,DEM,Write-ins,0
+Sweetwater,03-4,Governor,,DEM,Over Votes,0
+Sweetwater,03-4,Governor,,DEM,Under Votes,0
+Sweetwater,03-4,Secretary of State,,REP,CJ Young,5
+Sweetwater,03-4,Secretary of State,,REP,Qwenton Eagle Oviatt,5
+Sweetwater,03-4,Secretary of State,,REP,Rachel Williams,10
+Sweetwater,03-4,Secretary of State,,REP,Robert Short,16
+Sweetwater,03-4,Secretary of State,,REP,Write-ins,0
+Sweetwater,03-4,Secretary of State,,REP,Over Votes,0
+Sweetwater,03-4,Secretary of State,,REP,Under Votes,8
+Sweetwater,03-4,Secretary of State,,DEM,Bryan McCarty,9
+Sweetwater,03-4,Secretary of State,,DEM,Write-ins,0
+Sweetwater,03-4,Secretary of State,,DEM,Over Votes,0
+Sweetwater,03-4,Secretary of State,,DEM,Under Votes,0
+Sweetwater,03-4,State Auditor,,REP,Kristi Racines,32
+Sweetwater,03-4,State Auditor,,REP,Write-ins,0
+Sweetwater,03-4,State Auditor,,REP,Over Votes,0
+Sweetwater,03-4,State Auditor,,REP,Under Votes,12
+Sweetwater,03-4,State Auditor,,DEM,Write-ins,2
+Sweetwater,03-4,State Auditor,,DEM,Over Votes,0
+Sweetwater,03-4,State Auditor,,DEM,Under Votes,7
+Sweetwater,03-4,State Treasurer,,REP,Curt Meier,16
+Sweetwater,03-4,State Treasurer,,REP,Scott Smith,17
+Sweetwater,03-4,State Treasurer,,REP,Write-ins,0
+Sweetwater,03-4,State Treasurer,,REP,Over Votes,0
+Sweetwater,03-4,State Treasurer,,REP,Under Votes,11
+Sweetwater,03-4,State Treasurer,,DEM,Write-ins,1
+Sweetwater,03-4,State Treasurer,,DEM,Over Votes,0
+Sweetwater,03-4,State Treasurer,,DEM,Under Votes,8
+Sweetwater,03-4,Superintendent of Public Instruction,,REP,Chad Auer,1
+Sweetwater,03-4,Superintendent of Public Instruction,,REP,Steve Harshman,18
+Sweetwater,03-4,Superintendent of Public Instruction,,REP,Tom Kelly,15
+Sweetwater,03-4,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,03-4,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,03-4,Superintendent of Public Instruction,,REP,Under Votes,10
+Sweetwater,03-4,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Sweetwater,03-4,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Sweetwater,03-4,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,03-4,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,03-4,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,03-4,State House,17,REP,Elizabeth Bingham,30
+Sweetwater,03-4,State House,17,REP,Write-ins,2
+Sweetwater,03-4,State House,17,REP,Over Votes,0
+Sweetwater,03-4,State House,17,REP,Under Votes,12
+Sweetwater,03-4,State House,17,DEM,Rah Reinholz,9
+Sweetwater,03-4,State House,17,DEM,Write-ins,0
+Sweetwater,03-4,State House,17,DEM,Over Votes,0
+Sweetwater,03-4,State House,17,DEM,Under Votes,0
+Sweetwater,03-4,Ballots Cast,,REP,Ballots Cast,44
+Sweetwater,03-4,Ballots Cast,,DEM,Ballots Cast,9
+Sweetwater,03-4,Ballots Cast,,NP,Ballots Cast,3
+Sweetwater,03-4,Ballots Cast,,,Ballots Cast,56
+Sweetwater,03-6,U.S. Senate,,REP,Harriet Hageman,138
+Sweetwater,03-6,U.S. Senate,,REP,Jill M Edwards,9
+Sweetwater,03-6,U.S. Senate,,REP,Jimmy Skovgard,5
+Sweetwater,03-6,U.S. Senate,,REP,John Holtz,7
+Sweetwater,03-6,U.S. Senate,,REP,Sam Mead,34
+Sweetwater,03-6,U.S. Senate,,REP,Write-ins,1
+Sweetwater,03-6,U.S. Senate,,REP,Over Votes,0
+Sweetwater,03-6,U.S. Senate,,REP,Under Votes,6
+Sweetwater,03-6,U.S. Senate,,DEM,Billy Benavidez,18
+Sweetwater,03-6,U.S. Senate,,DEM,James Byrd,23
+Sweetwater,03-6,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,03-6,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,03-6,U.S. Senate,,DEM,Under Votes,4
+Sweetwater,03-6,U.S. House,,REP,* Withdrawn Candidate,7
+Sweetwater,03-6,U.S. House,,REP,Bo Biteman,6
+Sweetwater,03-6,U.S. House,,REP,Chuck Gray,53
+Sweetwater,03-6,U.S. House,,REP,David Giralt,21
+Sweetwater,03-6,U.S. House,,REP,Jillian Balow,23
+Sweetwater,03-6,U.S. House,,REP,Keith B. Goodenough,7
+Sweetwater,03-6,U.S. House,,REP,Kevin Christensen,23
+Sweetwater,03-6,U.S. House,,REP,Reid Rasner,21
+Sweetwater,03-6,U.S. House,,REP,Richard Dodson,3
+Sweetwater,03-6,U.S. House,,REP,Steve Friess,23
+Sweetwater,03-6,U.S. House,,REP,Write-ins,0
+Sweetwater,03-6,U.S. House,,REP,Over Votes,3
+Sweetwater,03-6,U.S. House,,REP,Under Votes,10
+Sweetwater,03-6,U.S. House,,DEM,Elena Del Real,19
+Sweetwater,03-6,U.S. House,,DEM,Lisa Kinney,21
+Sweetwater,03-6,U.S. House,,DEM,Write-ins,0
+Sweetwater,03-6,U.S. House,,DEM,Over Votes,0
+Sweetwater,03-6,U.S. House,,DEM,Under Votes,5
+Sweetwater,03-6,Governor,,REP,Brent Bien,43
+Sweetwater,03-6,Governor,,REP,Curt Blake,4
+Sweetwater,03-6,Governor,,REP,Eric Barlow,78
+Sweetwater,03-6,Governor,,REP,Megan Degenfelder,69
+Sweetwater,03-6,Governor,,REP,Write-ins,0
+Sweetwater,03-6,Governor,,REP,Over Votes,0
+Sweetwater,03-6,Governor,,REP,Under Votes,6
+Sweetwater,03-6,Governor,,DEM,Kenneth R. Casner,35
+Sweetwater,03-6,Governor,,DEM,Write-ins,1
+Sweetwater,03-6,Governor,,DEM,Over Votes,0
+Sweetwater,03-6,Governor,,DEM,Under Votes,9
+Sweetwater,03-6,Secretary of State,,REP,CJ Young,34
+Sweetwater,03-6,Secretary of State,,REP,Qwenton Eagle Oviatt,16
+Sweetwater,03-6,Secretary of State,,REP,Rachel Williams,72
+Sweetwater,03-6,Secretary of State,,REP,Robert Short,54
+Sweetwater,03-6,Secretary of State,,REP,Write-ins,1
+Sweetwater,03-6,Secretary of State,,REP,Over Votes,0
+Sweetwater,03-6,Secretary of State,,REP,Under Votes,23
+Sweetwater,03-6,Secretary of State,,DEM,Bryan McCarty,38
+Sweetwater,03-6,Secretary of State,,DEM,Write-ins,1
+Sweetwater,03-6,Secretary of State,,DEM,Over Votes,0
+Sweetwater,03-6,Secretary of State,,DEM,Under Votes,6
+Sweetwater,03-6,State Auditor,,REP,Kristi Racines,159
+Sweetwater,03-6,State Auditor,,REP,Write-ins,0
+Sweetwater,03-6,State Auditor,,REP,Over Votes,0
+Sweetwater,03-6,State Auditor,,REP,Under Votes,41
+Sweetwater,03-6,State Auditor,,DEM,Write-ins,4
+Sweetwater,03-6,State Auditor,,DEM,Over Votes,0
+Sweetwater,03-6,State Auditor,,DEM,Under Votes,41
+Sweetwater,03-6,State Treasurer,,REP,Curt Meier,98
+Sweetwater,03-6,State Treasurer,,REP,Scott Smith,75
+Sweetwater,03-6,State Treasurer,,REP,Write-ins,0
+Sweetwater,03-6,State Treasurer,,REP,Over Votes,0
+Sweetwater,03-6,State Treasurer,,REP,Under Votes,27
+Sweetwater,03-6,State Treasurer,,DEM,Write-ins,3
+Sweetwater,03-6,State Treasurer,,DEM,Over Votes,0
+Sweetwater,03-6,State Treasurer,,DEM,Under Votes,42
+Sweetwater,03-6,Superintendent of Public Instruction,,REP,Chad Auer,19
+Sweetwater,03-6,Superintendent of Public Instruction,,REP,Steve Harshman,89
+Sweetwater,03-6,Superintendent of Public Instruction,,REP,Tom Kelly,62
+Sweetwater,03-6,Superintendent of Public Instruction,,REP,Write-ins,2
+Sweetwater,03-6,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,03-6,Superintendent of Public Instruction,,REP,Under Votes,28
+Sweetwater,03-6,Superintendent of Public Instruction,,DEM,Ana Cordova,25
+Sweetwater,03-6,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",16
+Sweetwater,03-6,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,03-6,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,03-6,Superintendent of Public Instruction,,DEM,Under Votes,4
+Sweetwater,03-6,State House,48,REP,Darin McCann,62
+Sweetwater,03-6,State House,48,REP,James Wamsley,123
+Sweetwater,03-6,State House,48,REP,Write-ins,1
+Sweetwater,03-6,State House,48,REP,Over Votes,0
+Sweetwater,03-6,State House,48,REP,Under Votes,14
+Sweetwater,03-6,State House,48,DEM,Write-ins,10
+Sweetwater,03-6,State House,48,DEM,Over Votes,0
+Sweetwater,03-6,State House,48,DEM,Under Votes,35
+Sweetwater,03-6,Ballots Cast,,REP,Ballots Cast,200
+Sweetwater,03-6,Ballots Cast,,DEM,Ballots Cast,45
+Sweetwater,03-6,Ballots Cast,,NP,Ballots Cast,16
+Sweetwater,03-6,Ballots Cast,,,Ballots Cast,261
+Sweetwater,03-7,U.S. Senate,,REP,Harriet Hageman,330
+Sweetwater,03-7,U.S. Senate,,REP,Jill M Edwards,16
+Sweetwater,03-7,U.S. Senate,,REP,Jimmy Skovgard,12
+Sweetwater,03-7,U.S. Senate,,REP,John Holtz,13
+Sweetwater,03-7,U.S. Senate,,REP,Sam Mead,104
+Sweetwater,03-7,U.S. Senate,,REP,Write-ins,0
+Sweetwater,03-7,U.S. Senate,,REP,Over Votes,0
+Sweetwater,03-7,U.S. Senate,,REP,Under Votes,16
+Sweetwater,03-7,U.S. Senate,,DEM,Billy Benavidez,21
+Sweetwater,03-7,U.S. Senate,,DEM,James Byrd,83
+Sweetwater,03-7,U.S. Senate,,DEM,Write-ins,2
+Sweetwater,03-7,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,03-7,U.S. Senate,,DEM,Under Votes,14
+Sweetwater,03-7,U.S. House,,REP,* Withdrawn Candidate,9
+Sweetwater,03-7,U.S. House,,REP,Bo Biteman,15
+Sweetwater,03-7,U.S. House,,REP,Chuck Gray,116
+Sweetwater,03-7,U.S. House,,REP,David Giralt,31
+Sweetwater,03-7,U.S. House,,REP,Jillian Balow,47
+Sweetwater,03-7,U.S. House,,REP,Keith B. Goodenough,14
+Sweetwater,03-7,U.S. House,,REP,Kevin Christensen,58
+Sweetwater,03-7,U.S. House,,REP,Reid Rasner,64
+Sweetwater,03-7,U.S. House,,REP,Richard Dodson,10
+Sweetwater,03-7,U.S. House,,REP,Steve Friess,97
+Sweetwater,03-7,U.S. House,,REP,Write-ins,0
+Sweetwater,03-7,U.S. House,,REP,Over Votes,8
+Sweetwater,03-7,U.S. House,,REP,Under Votes,22
+Sweetwater,03-7,U.S. House,,DEM,Elena Del Real,20
+Sweetwater,03-7,U.S. House,,DEM,Lisa Kinney,80
+Sweetwater,03-7,U.S. House,,DEM,Write-ins,2
+Sweetwater,03-7,U.S. House,,DEM,Over Votes,1
+Sweetwater,03-7,U.S. House,,DEM,Under Votes,17
+Sweetwater,03-7,Governor,,REP,Brent Bien,95
+Sweetwater,03-7,Governor,,REP,Curt Blake,9
+Sweetwater,03-7,Governor,,REP,Eric Barlow,204
+Sweetwater,03-7,Governor,,REP,Megan Degenfelder,174
+Sweetwater,03-7,Governor,,REP,Write-ins,0
+Sweetwater,03-7,Governor,,REP,Over Votes,0
+Sweetwater,03-7,Governor,,REP,Under Votes,9
+Sweetwater,03-7,Governor,,DEM,Kenneth R. Casner,92
+Sweetwater,03-7,Governor,,DEM,Write-ins,8
+Sweetwater,03-7,Governor,,DEM,Over Votes,0
+Sweetwater,03-7,Governor,,DEM,Under Votes,20
+Sweetwater,03-7,Secretary of State,,REP,CJ Young,96
+Sweetwater,03-7,Secretary of State,,REP,Qwenton Eagle Oviatt,40
+Sweetwater,03-7,Secretary of State,,REP,Rachel Williams,147
+Sweetwater,03-7,Secretary of State,,REP,Robert Short,140
+Sweetwater,03-7,Secretary of State,,REP,Write-ins,2
+Sweetwater,03-7,Secretary of State,,REP,Over Votes,0
+Sweetwater,03-7,Secretary of State,,REP,Under Votes,66
+Sweetwater,03-7,Secretary of State,,DEM,Bryan McCarty,95
+Sweetwater,03-7,Secretary of State,,DEM,Write-ins,3
+Sweetwater,03-7,Secretary of State,,DEM,Over Votes,0
+Sweetwater,03-7,Secretary of State,,DEM,Under Votes,22
+Sweetwater,03-7,State Auditor,,REP,Kristi Racines,398
+Sweetwater,03-7,State Auditor,,REP,Write-ins,3
+Sweetwater,03-7,State Auditor,,REP,Over Votes,0
+Sweetwater,03-7,State Auditor,,REP,Under Votes,90
+Sweetwater,03-7,State Auditor,,DEM,Write-ins,10
+Sweetwater,03-7,State Auditor,,DEM,Over Votes,0
+Sweetwater,03-7,State Auditor,,DEM,Under Votes,110
+Sweetwater,03-7,State Treasurer,,REP,Curt Meier,255
+Sweetwater,03-7,State Treasurer,,REP,Scott Smith,173
+Sweetwater,03-7,State Treasurer,,REP,Write-ins,0
+Sweetwater,03-7,State Treasurer,,REP,Over Votes,0
+Sweetwater,03-7,State Treasurer,,REP,Under Votes,63
+Sweetwater,03-7,State Treasurer,,DEM,Write-ins,9
+Sweetwater,03-7,State Treasurer,,DEM,Over Votes,0
+Sweetwater,03-7,State Treasurer,,DEM,Under Votes,111
+Sweetwater,03-7,Superintendent of Public Instruction,,REP,Chad Auer,37
+Sweetwater,03-7,Superintendent of Public Instruction,,REP,Steve Harshman,267
+Sweetwater,03-7,Superintendent of Public Instruction,,REP,Tom Kelly,120
+Sweetwater,03-7,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,03-7,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,03-7,Superintendent of Public Instruction,,REP,Under Votes,67
+Sweetwater,03-7,Superintendent of Public Instruction,,DEM,Ana Cordova,52
+Sweetwater,03-7,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",46
+Sweetwater,03-7,Superintendent of Public Instruction,,DEM,Write-ins,3
+Sweetwater,03-7,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,03-7,Superintendent of Public Instruction,,DEM,Under Votes,19
+Sweetwater,03-7,State Senate,11,REP,Bob Davis,1
+Sweetwater,03-7,State Senate,11,REP,Write-ins,0
+Sweetwater,03-7,State Senate,11,REP,Over Votes,0
+Sweetwater,03-7,State Senate,11,REP,Under Votes,0
+Sweetwater,03-7,State Senate,11,DEM,Jim Wilson,0
+Sweetwater,03-7,State Senate,11,DEM,Write-ins,0
+Sweetwater,03-7,State Senate,11,DEM,Over Votes,0
+Sweetwater,03-7,State Senate,11,DEM,Under Votes,0
+Sweetwater,03-7,State House,17,REP,Elizabeth Bingham,389
+Sweetwater,03-7,State House,17,REP,Write-ins,7
+Sweetwater,03-7,State House,17,REP,Over Votes,0
+Sweetwater,03-7,State House,17,REP,Under Votes,94
+Sweetwater,03-7,State House,17,DEM,Rah Reinholz,94
+Sweetwater,03-7,State House,17,DEM,Write-ins,4
+Sweetwater,03-7,State House,17,DEM,Over Votes,0
+Sweetwater,03-7,State House,17,DEM,Under Votes,22
+Sweetwater,03-7,State House,47,REP,Eamon O'Toole,1
+Sweetwater,03-7,State House,47,REP,Write-ins,0
+Sweetwater,03-7,State House,47,REP,Over Votes,0
+Sweetwater,03-7,State House,47,REP,Under Votes,0
+Sweetwater,03-7,State House,47,DEM,Write-ins,0
+Sweetwater,03-7,State House,47,DEM,Over Votes,0
+Sweetwater,03-7,State House,47,DEM,Under Votes,0
+Sweetwater,03-7,Ballots Cast,,REP,Ballots Cast,491
+Sweetwater,03-7,Ballots Cast,,DEM,Ballots Cast,120
+Sweetwater,03-7,Ballots Cast,,NP,Ballots Cast,24
+Sweetwater,03-7,Ballots Cast,,,Ballots Cast,635
+Sweetwater,04-1,U.S. Senate,,REP,Harriet Hageman,94
+Sweetwater,04-1,U.S. Senate,,REP,Jill M Edwards,4
+Sweetwater,04-1,U.S. Senate,,REP,Jimmy Skovgard,7
+Sweetwater,04-1,U.S. Senate,,REP,John Holtz,1
+Sweetwater,04-1,U.S. Senate,,REP,Sam Mead,38
+Sweetwater,04-1,U.S. Senate,,REP,Write-ins,2
+Sweetwater,04-1,U.S. Senate,,REP,Over Votes,0
+Sweetwater,04-1,U.S. Senate,,REP,Under Votes,6
+Sweetwater,04-1,U.S. Senate,,DEM,Billy Benavidez,9
+Sweetwater,04-1,U.S. Senate,,DEM,James Byrd,35
+Sweetwater,04-1,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,04-1,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,04-1,U.S. Senate,,DEM,Under Votes,3
+Sweetwater,04-1,U.S. House,,REP,* Withdrawn Candidate,1
+Sweetwater,04-1,U.S. House,,REP,Bo Biteman,5
+Sweetwater,04-1,U.S. House,,REP,Chuck Gray,36
+Sweetwater,04-1,U.S. House,,REP,David Giralt,16
+Sweetwater,04-1,U.S. House,,REP,Jillian Balow,20
+Sweetwater,04-1,U.S. House,,REP,Keith B. Goodenough,5
+Sweetwater,04-1,U.S. House,,REP,Kevin Christensen,18
+Sweetwater,04-1,U.S. House,,REP,Reid Rasner,17
+Sweetwater,04-1,U.S. House,,REP,Richard Dodson,1
+Sweetwater,04-1,U.S. House,,REP,Steve Friess,19
+Sweetwater,04-1,U.S. House,,REP,Write-ins,3
+Sweetwater,04-1,U.S. House,,REP,Over Votes,3
+Sweetwater,04-1,U.S. House,,REP,Under Votes,8
+Sweetwater,04-1,U.S. House,,DEM,Elena Del Real,14
+Sweetwater,04-1,U.S. House,,DEM,Lisa Kinney,30
+Sweetwater,04-1,U.S. House,,DEM,Write-ins,0
+Sweetwater,04-1,U.S. House,,DEM,Over Votes,0
+Sweetwater,04-1,U.S. House,,DEM,Under Votes,3
+Sweetwater,04-1,Governor,,REP,Brent Bien,29
+Sweetwater,04-1,Governor,,REP,Curt Blake,5
+Sweetwater,04-1,Governor,,REP,Eric Barlow,69
+Sweetwater,04-1,Governor,,REP,Megan Degenfelder,42
+Sweetwater,04-1,Governor,,REP,Write-ins,1
+Sweetwater,04-1,Governor,,REP,Over Votes,1
+Sweetwater,04-1,Governor,,REP,Under Votes,5
+Sweetwater,04-1,Governor,,DEM,Kenneth R. Casner,38
+Sweetwater,04-1,Governor,,DEM,Write-ins,1
+Sweetwater,04-1,Governor,,DEM,Over Votes,0
+Sweetwater,04-1,Governor,,DEM,Under Votes,8
+Sweetwater,04-1,Secretary of State,,REP,CJ Young,25
+Sweetwater,04-1,Secretary of State,,REP,Qwenton Eagle Oviatt,11
+Sweetwater,04-1,Secretary of State,,REP,Rachel Williams,47
+Sweetwater,04-1,Secretary of State,,REP,Robert Short,44
+Sweetwater,04-1,Secretary of State,,REP,Write-ins,1
+Sweetwater,04-1,Secretary of State,,REP,Over Votes,0
+Sweetwater,04-1,Secretary of State,,REP,Under Votes,24
+Sweetwater,04-1,Secretary of State,,DEM,Bryan McCarty,38
+Sweetwater,04-1,Secretary of State,,DEM,Write-ins,0
+Sweetwater,04-1,Secretary of State,,DEM,Over Votes,0
+Sweetwater,04-1,Secretary of State,,DEM,Under Votes,9
+Sweetwater,04-1,State Auditor,,REP,Kristi Racines,118
+Sweetwater,04-1,State Auditor,,REP,Write-ins,4
+Sweetwater,04-1,State Auditor,,REP,Over Votes,0
+Sweetwater,04-1,State Auditor,,REP,Under Votes,30
+Sweetwater,04-1,State Auditor,,DEM,Write-ins,2
+Sweetwater,04-1,State Auditor,,DEM,Over Votes,0
+Sweetwater,04-1,State Auditor,,DEM,Under Votes,45
+Sweetwater,04-1,State Treasurer,,REP,Curt Meier,77
+Sweetwater,04-1,State Treasurer,,REP,Scott Smith,54
+Sweetwater,04-1,State Treasurer,,REP,Write-ins,1
+Sweetwater,04-1,State Treasurer,,REP,Over Votes,0
+Sweetwater,04-1,State Treasurer,,REP,Under Votes,20
+Sweetwater,04-1,State Treasurer,,DEM,Write-ins,2
+Sweetwater,04-1,State Treasurer,,DEM,Over Votes,0
+Sweetwater,04-1,State Treasurer,,DEM,Under Votes,45
+Sweetwater,04-1,Superintendent of Public Instruction,,REP,Chad Auer,14
+Sweetwater,04-1,Superintendent of Public Instruction,,REP,Steve Harshman,61
+Sweetwater,04-1,Superintendent of Public Instruction,,REP,Tom Kelly,51
+Sweetwater,04-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,04-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,04-1,Superintendent of Public Instruction,,REP,Under Votes,25
+Sweetwater,04-1,Superintendent of Public Instruction,,DEM,Ana Cordova,24
+Sweetwater,04-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",21
+Sweetwater,04-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,04-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,04-1,Superintendent of Public Instruction,,DEM,Under Votes,2
+Sweetwater,04-1,State House,17,REP,Elizabeth Bingham,113
+Sweetwater,04-1,State House,17,REP,Write-ins,7
+Sweetwater,04-1,State House,17,REP,Over Votes,0
+Sweetwater,04-1,State House,17,REP,Under Votes,32
+Sweetwater,04-1,State House,17,DEM,Rah Reinholz,40
+Sweetwater,04-1,State House,17,DEM,Write-ins,0
+Sweetwater,04-1,State House,17,DEM,Over Votes,0
+Sweetwater,04-1,State House,17,DEM,Under Votes,7
+Sweetwater,04-1,Ballots Cast,,REP,Ballots Cast,152
+Sweetwater,04-1,Ballots Cast,,DEM,Ballots Cast,47
+Sweetwater,04-1,Ballots Cast,,NP,Ballots Cast,14
+Sweetwater,04-1,Ballots Cast,,,Ballots Cast,213
+Sweetwater,04-4,U.S. Senate,,REP,Harriet Hageman,228
+Sweetwater,04-4,U.S. Senate,,REP,Jill M Edwards,12
+Sweetwater,04-4,U.S. Senate,,REP,Jimmy Skovgard,15
+Sweetwater,04-4,U.S. Senate,,REP,John Holtz,10
+Sweetwater,04-4,U.S. Senate,,REP,Sam Mead,42
+Sweetwater,04-4,U.S. Senate,,REP,Write-ins,2
+Sweetwater,04-4,U.S. Senate,,REP,Over Votes,0
+Sweetwater,04-4,U.S. Senate,,REP,Under Votes,16
+Sweetwater,04-4,U.S. Senate,,DEM,Billy Benavidez,15
+Sweetwater,04-4,U.S. Senate,,DEM,James Byrd,41
+Sweetwater,04-4,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,04-4,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,04-4,U.S. Senate,,DEM,Under Votes,2
+Sweetwater,04-4,U.S. House,,REP,* Withdrawn Candidate,9
+Sweetwater,04-4,U.S. House,,REP,Bo Biteman,9
+Sweetwater,04-4,U.S. House,,REP,Chuck Gray,70
+Sweetwater,04-4,U.S. House,,REP,David Giralt,44
+Sweetwater,04-4,U.S. House,,REP,Jillian Balow,38
+Sweetwater,04-4,U.S. House,,REP,Keith B. Goodenough,4
+Sweetwater,04-4,U.S. House,,REP,Kevin Christensen,26
+Sweetwater,04-4,U.S. House,,REP,Reid Rasner,31
+Sweetwater,04-4,U.S. House,,REP,Richard Dodson,11
+Sweetwater,04-4,U.S. House,,REP,Steve Friess,54
+Sweetwater,04-4,U.S. House,,REP,Write-ins,2
+Sweetwater,04-4,U.S. House,,REP,Over Votes,0
+Sweetwater,04-4,U.S. House,,REP,Under Votes,27
+Sweetwater,04-4,U.S. House,,DEM,Elena Del Real,13
+Sweetwater,04-4,U.S. House,,DEM,Lisa Kinney,40
+Sweetwater,04-4,U.S. House,,DEM,Write-ins,0
+Sweetwater,04-4,U.S. House,,DEM,Over Votes,0
+Sweetwater,04-4,U.S. House,,DEM,Under Votes,5
+Sweetwater,04-4,Governor,,REP,Brent Bien,62
+Sweetwater,04-4,Governor,,REP,Curt Blake,9
+Sweetwater,04-4,Governor,,REP,Eric Barlow,134
+Sweetwater,04-4,Governor,,REP,Megan Degenfelder,113
+Sweetwater,04-4,Governor,,REP,Write-ins,1
+Sweetwater,04-4,Governor,,REP,Over Votes,0
+Sweetwater,04-4,Governor,,REP,Under Votes,6
+Sweetwater,04-4,Governor,,DEM,Kenneth R. Casner,52
+Sweetwater,04-4,Governor,,DEM,Write-ins,1
+Sweetwater,04-4,Governor,,DEM,Over Votes,0
+Sweetwater,04-4,Governor,,DEM,Under Votes,5
+Sweetwater,04-4,Secretary of State,,REP,CJ Young,73
+Sweetwater,04-4,Secretary of State,,REP,Qwenton Eagle Oviatt,9
+Sweetwater,04-4,Secretary of State,,REP,Rachel Williams,83
+Sweetwater,04-4,Secretary of State,,REP,Robert Short,106
+Sweetwater,04-4,Secretary of State,,REP,Write-ins,3
+Sweetwater,04-4,Secretary of State,,REP,Over Votes,0
+Sweetwater,04-4,Secretary of State,,REP,Under Votes,51
+Sweetwater,04-4,Secretary of State,,DEM,Bryan McCarty,53
+Sweetwater,04-4,Secretary of State,,DEM,Write-ins,1
+Sweetwater,04-4,Secretary of State,,DEM,Over Votes,0
+Sweetwater,04-4,Secretary of State,,DEM,Under Votes,4
+Sweetwater,04-4,State Auditor,,REP,Kristi Racines,256
+Sweetwater,04-4,State Auditor,,REP,Write-ins,3
+Sweetwater,04-4,State Auditor,,REP,Over Votes,0
+Sweetwater,04-4,State Auditor,,REP,Under Votes,66
+Sweetwater,04-4,State Auditor,,DEM,Write-ins,2
+Sweetwater,04-4,State Auditor,,DEM,Over Votes,0
+Sweetwater,04-4,State Auditor,,DEM,Under Votes,56
+Sweetwater,04-4,State Treasurer,,REP,Curt Meier,169
+Sweetwater,04-4,State Treasurer,,REP,Scott Smith,101
+Sweetwater,04-4,State Treasurer,,REP,Write-ins,1
+Sweetwater,04-4,State Treasurer,,REP,Over Votes,0
+Sweetwater,04-4,State Treasurer,,REP,Under Votes,54
+Sweetwater,04-4,State Treasurer,,DEM,Write-ins,4
+Sweetwater,04-4,State Treasurer,,DEM,Over Votes,0
+Sweetwater,04-4,State Treasurer,,DEM,Under Votes,54
+Sweetwater,04-4,Superintendent of Public Instruction,,REP,Chad Auer,40
+Sweetwater,04-4,Superintendent of Public Instruction,,REP,Steve Harshman,151
+Sweetwater,04-4,Superintendent of Public Instruction,,REP,Tom Kelly,85
+Sweetwater,04-4,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,04-4,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,04-4,Superintendent of Public Instruction,,REP,Under Votes,48
+Sweetwater,04-4,Superintendent of Public Instruction,,DEM,Ana Cordova,21
+Sweetwater,04-4,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",34
+Sweetwater,04-4,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,04-4,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,04-4,Superintendent of Public Instruction,,DEM,Under Votes,3
+Sweetwater,04-4,State House,17,REP,Elizabeth Bingham,251
+Sweetwater,04-4,State House,17,REP,Write-ins,9
+Sweetwater,04-4,State House,17,REP,Over Votes,0
+Sweetwater,04-4,State House,17,REP,Under Votes,65
+Sweetwater,04-4,State House,17,DEM,Rah Reinholz,51
+Sweetwater,04-4,State House,17,DEM,Write-ins,0
+Sweetwater,04-4,State House,17,DEM,Over Votes,0
+Sweetwater,04-4,State House,17,DEM,Under Votes,7
+Sweetwater,04-4,Ballots Cast,,REP,Ballots Cast,325
+Sweetwater,04-4,Ballots Cast,,DEM,Ballots Cast,58
+Sweetwater,04-4,Ballots Cast,,NP,Ballots Cast,17
+Sweetwater,04-4,Ballots Cast,,,Ballots Cast,400
+Sweetwater,04-5,U.S. Senate,,REP,Harriet Hageman,86
+Sweetwater,04-5,U.S. Senate,,REP,Jill M Edwards,5
+Sweetwater,04-5,U.S. Senate,,REP,Jimmy Skovgard,8
+Sweetwater,04-5,U.S. Senate,,REP,John Holtz,5
+Sweetwater,04-5,U.S. Senate,,REP,Sam Mead,13
+Sweetwater,04-5,U.S. Senate,,REP,Write-ins,0
+Sweetwater,04-5,U.S. Senate,,REP,Over Votes,0
+Sweetwater,04-5,U.S. Senate,,REP,Under Votes,3
+Sweetwater,04-5,U.S. Senate,,DEM,Billy Benavidez,4
+Sweetwater,04-5,U.S. Senate,,DEM,James Byrd,20
+Sweetwater,04-5,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,04-5,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,04-5,U.S. Senate,,DEM,Under Votes,3
+Sweetwater,04-5,U.S. House,,REP,* Withdrawn Candidate,2
+Sweetwater,04-5,U.S. House,,REP,Bo Biteman,4
+Sweetwater,04-5,U.S. House,,REP,Chuck Gray,32
+Sweetwater,04-5,U.S. House,,REP,David Giralt,3
+Sweetwater,04-5,U.S. House,,REP,Jillian Balow,11
+Sweetwater,04-5,U.S. House,,REP,Keith B. Goodenough,2
+Sweetwater,04-5,U.S. House,,REP,Kevin Christensen,15
+Sweetwater,04-5,U.S. House,,REP,Reid Rasner,18
+Sweetwater,04-5,U.S. House,,REP,Richard Dodson,1
+Sweetwater,04-5,U.S. House,,REP,Steve Friess,23
+Sweetwater,04-5,U.S. House,,REP,Write-ins,0
+Sweetwater,04-5,U.S. House,,REP,Over Votes,2
+Sweetwater,04-5,U.S. House,,REP,Under Votes,7
+Sweetwater,04-5,U.S. House,,DEM,Elena Del Real,6
+Sweetwater,04-5,U.S. House,,DEM,Lisa Kinney,16
+Sweetwater,04-5,U.S. House,,DEM,Write-ins,0
+Sweetwater,04-5,U.S. House,,DEM,Over Votes,0
+Sweetwater,04-5,U.S. House,,DEM,Under Votes,5
+Sweetwater,04-5,Governor,,REP,Brent Bien,25
+Sweetwater,04-5,Governor,,REP,Curt Blake,0
+Sweetwater,04-5,Governor,,REP,Eric Barlow,45
+Sweetwater,04-5,Governor,,REP,Megan Degenfelder,45
+Sweetwater,04-5,Governor,,REP,Write-ins,0
+Sweetwater,04-5,Governor,,REP,Over Votes,0
+Sweetwater,04-5,Governor,,REP,Under Votes,5
+Sweetwater,04-5,Governor,,DEM,Kenneth R. Casner,22
+Sweetwater,04-5,Governor,,DEM,Write-ins,1
+Sweetwater,04-5,Governor,,DEM,Over Votes,0
+Sweetwater,04-5,Governor,,DEM,Under Votes,4
+Sweetwater,04-5,Secretary of State,,REP,CJ Young,20
+Sweetwater,04-5,Secretary of State,,REP,Qwenton Eagle Oviatt,9
+Sweetwater,04-5,Secretary of State,,REP,Rachel Williams,42
+Sweetwater,04-5,Secretary of State,,REP,Robert Short,33
+Sweetwater,04-5,Secretary of State,,REP,Write-ins,0
+Sweetwater,04-5,Secretary of State,,REP,Over Votes,0
+Sweetwater,04-5,Secretary of State,,REP,Under Votes,16
+Sweetwater,04-5,Secretary of State,,DEM,Bryan McCarty,22
+Sweetwater,04-5,Secretary of State,,DEM,Write-ins,0
+Sweetwater,04-5,Secretary of State,,DEM,Over Votes,0
+Sweetwater,04-5,Secretary of State,,DEM,Under Votes,5
+Sweetwater,04-5,State Auditor,,REP,Kristi Racines,103
+Sweetwater,04-5,State Auditor,,REP,Write-ins,1
+Sweetwater,04-5,State Auditor,,REP,Over Votes,0
+Sweetwater,04-5,State Auditor,,REP,Under Votes,16
+Sweetwater,04-5,State Auditor,,DEM,Write-ins,1
+Sweetwater,04-5,State Auditor,,DEM,Over Votes,0
+Sweetwater,04-5,State Auditor,,DEM,Under Votes,26
+Sweetwater,04-5,State Treasurer,,REP,Curt Meier,56
+Sweetwater,04-5,State Treasurer,,REP,Scott Smith,40
+Sweetwater,04-5,State Treasurer,,REP,Write-ins,1
+Sweetwater,04-5,State Treasurer,,REP,Over Votes,0
+Sweetwater,04-5,State Treasurer,,REP,Under Votes,23
+Sweetwater,04-5,State Treasurer,,DEM,Write-ins,2
+Sweetwater,04-5,State Treasurer,,DEM,Over Votes,0
+Sweetwater,04-5,State Treasurer,,DEM,Under Votes,25
+Sweetwater,04-5,Superintendent of Public Instruction,,REP,Chad Auer,8
+Sweetwater,04-5,Superintendent of Public Instruction,,REP,Steve Harshman,51
+Sweetwater,04-5,Superintendent of Public Instruction,,REP,Tom Kelly,42
+Sweetwater,04-5,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,04-5,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,04-5,Superintendent of Public Instruction,,REP,Under Votes,19
+Sweetwater,04-5,Superintendent of Public Instruction,,DEM,Ana Cordova,13
+Sweetwater,04-5,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",12
+Sweetwater,04-5,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,04-5,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,04-5,Superintendent of Public Instruction,,DEM,Under Votes,2
+Sweetwater,04-5,State Senate,13,REP,Stacy Jones,98
+Sweetwater,04-5,State Senate,13,REP,Write-ins,1
+Sweetwater,04-5,State Senate,13,REP,Over Votes,0
+Sweetwater,04-5,State Senate,13,REP,Under Votes,21
+Sweetwater,04-5,State Senate,13,DEM,Write-ins,2
+Sweetwater,04-5,State Senate,13,DEM,Over Votes,0
+Sweetwater,04-5,State Senate,13,DEM,Under Votes,25
+Sweetwater,04-5,State House,17,REP,Elizabeth Bingham,0
+Sweetwater,04-5,State House,17,REP,Write-ins,0
+Sweetwater,04-5,State House,17,REP,Over Votes,0
+Sweetwater,04-5,State House,17,REP,Under Votes,0
+Sweetwater,04-5,State House,17,DEM,Rah Reinholz,0
+Sweetwater,04-5,State House,17,DEM,Write-ins,0
+Sweetwater,04-5,State House,17,DEM,Over Votes,0
+Sweetwater,04-5,State House,17,DEM,Under Votes,0
+Sweetwater,04-5,State House,39,REP,Cody Wylie,104
+Sweetwater,04-5,State House,39,REP,Write-ins,1
+Sweetwater,04-5,State House,39,REP,Over Votes,0
+Sweetwater,04-5,State House,39,REP,Under Votes,15
+Sweetwater,04-5,State House,39,DEM,Write-ins,2
+Sweetwater,04-5,State House,39,DEM,Over Votes,0
+Sweetwater,04-5,State House,39,DEM,Under Votes,25
+Sweetwater,04-5,Ballots Cast,,REP,Ballots Cast,120
+Sweetwater,04-5,Ballots Cast,,DEM,Ballots Cast,27
+Sweetwater,04-5,Ballots Cast,,NP,Ballots Cast,11
+Sweetwater,04-5,Ballots Cast,,,Ballots Cast,158
+Sweetwater,04-6,U.S. Senate,,REP,Harriet Hageman,45
+Sweetwater,04-6,U.S. Senate,,REP,Jill M Edwards,0
+Sweetwater,04-6,U.S. Senate,,REP,Jimmy Skovgard,2
+Sweetwater,04-6,U.S. Senate,,REP,John Holtz,3
+Sweetwater,04-6,U.S. Senate,,REP,Sam Mead,7
+Sweetwater,04-6,U.S. Senate,,REP,Write-ins,0
+Sweetwater,04-6,U.S. Senate,,REP,Over Votes,0
+Sweetwater,04-6,U.S. Senate,,REP,Under Votes,0
+Sweetwater,04-6,U.S. Senate,,DEM,Billy Benavidez,3
+Sweetwater,04-6,U.S. Senate,,DEM,James Byrd,12
+Sweetwater,04-6,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,04-6,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,04-6,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,04-6,U.S. House,,REP,* Withdrawn Candidate,0
+Sweetwater,04-6,U.S. House,,REP,Bo Biteman,3
+Sweetwater,04-6,U.S. House,,REP,Chuck Gray,15
+Sweetwater,04-6,U.S. House,,REP,David Giralt,7
+Sweetwater,04-6,U.S. House,,REP,Jillian Balow,4
+Sweetwater,04-6,U.S. House,,REP,Keith B. Goodenough,0
+Sweetwater,04-6,U.S. House,,REP,Kevin Christensen,8
+Sweetwater,04-6,U.S. House,,REP,Reid Rasner,2
+Sweetwater,04-6,U.S. House,,REP,Richard Dodson,1
+Sweetwater,04-6,U.S. House,,REP,Steve Friess,13
+Sweetwater,04-6,U.S. House,,REP,Write-ins,0
+Sweetwater,04-6,U.S. House,,REP,Over Votes,2
+Sweetwater,04-6,U.S. House,,REP,Under Votes,2
+Sweetwater,04-6,U.S. House,,DEM,Elena Del Real,4
+Sweetwater,04-6,U.S. House,,DEM,Lisa Kinney,11
+Sweetwater,04-6,U.S. House,,DEM,Write-ins,0
+Sweetwater,04-6,U.S. House,,DEM,Over Votes,0
+Sweetwater,04-6,U.S. House,,DEM,Under Votes,0
+Sweetwater,04-6,Governor,,REP,Brent Bien,13
+Sweetwater,04-6,Governor,,REP,Curt Blake,2
+Sweetwater,04-6,Governor,,REP,Eric Barlow,19
+Sweetwater,04-6,Governor,,REP,Megan Degenfelder,19
+Sweetwater,04-6,Governor,,REP,Write-ins,0
+Sweetwater,04-6,Governor,,REP,Over Votes,0
+Sweetwater,04-6,Governor,,REP,Under Votes,4
+Sweetwater,04-6,Governor,,DEM,Kenneth R. Casner,14
+Sweetwater,04-6,Governor,,DEM,Write-ins,0
+Sweetwater,04-6,Governor,,DEM,Over Votes,0
+Sweetwater,04-6,Governor,,DEM,Under Votes,1
+Sweetwater,04-6,Secretary of State,,REP,CJ Young,10
+Sweetwater,04-6,Secretary of State,,REP,Qwenton Eagle Oviatt,2
+Sweetwater,04-6,Secretary of State,,REP,Rachel Williams,21
+Sweetwater,04-6,Secretary of State,,REP,Robert Short,16
+Sweetwater,04-6,Secretary of State,,REP,Write-ins,0
+Sweetwater,04-6,Secretary of State,,REP,Over Votes,0
+Sweetwater,04-6,Secretary of State,,REP,Under Votes,8
+Sweetwater,04-6,Secretary of State,,DEM,Bryan McCarty,15
+Sweetwater,04-6,Secretary of State,,DEM,Write-ins,0
+Sweetwater,04-6,Secretary of State,,DEM,Over Votes,0
+Sweetwater,04-6,Secretary of State,,DEM,Under Votes,0
+Sweetwater,04-6,State Auditor,,REP,Kristi Racines,45
+Sweetwater,04-6,State Auditor,,REP,Write-ins,0
+Sweetwater,04-6,State Auditor,,REP,Over Votes,0
+Sweetwater,04-6,State Auditor,,REP,Under Votes,12
+Sweetwater,04-6,State Auditor,,DEM,Write-ins,1
+Sweetwater,04-6,State Auditor,,DEM,Over Votes,0
+Sweetwater,04-6,State Auditor,,DEM,Under Votes,14
+Sweetwater,04-6,State Treasurer,,REP,Curt Meier,21
+Sweetwater,04-6,State Treasurer,,REP,Scott Smith,21
+Sweetwater,04-6,State Treasurer,,REP,Write-ins,0
+Sweetwater,04-6,State Treasurer,,REP,Over Votes,0
+Sweetwater,04-6,State Treasurer,,REP,Under Votes,15
+Sweetwater,04-6,State Treasurer,,DEM,Write-ins,1
+Sweetwater,04-6,State Treasurer,,DEM,Over Votes,0
+Sweetwater,04-6,State Treasurer,,DEM,Under Votes,14
+Sweetwater,04-6,Superintendent of Public Instruction,,REP,Chad Auer,5
+Sweetwater,04-6,Superintendent of Public Instruction,,REP,Steve Harshman,24
+Sweetwater,04-6,Superintendent of Public Instruction,,REP,Tom Kelly,15
+Sweetwater,04-6,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,04-6,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,04-6,Superintendent of Public Instruction,,REP,Under Votes,13
+Sweetwater,04-6,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Sweetwater,04-6,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Sweetwater,04-6,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,04-6,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,04-6,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,04-6,State Senate,11,REP,Bob Davis,42
+Sweetwater,04-6,State Senate,11,REP,Write-ins,1
+Sweetwater,04-6,State Senate,11,REP,Over Votes,0
+Sweetwater,04-6,State Senate,11,REP,Under Votes,14
+Sweetwater,04-6,State Senate,11,DEM,Jim Wilson,14
+Sweetwater,04-6,State Senate,11,DEM,Write-ins,0
+Sweetwater,04-6,State Senate,11,DEM,Over Votes,0
+Sweetwater,04-6,State Senate,11,DEM,Under Votes,1
+Sweetwater,04-6,State House,47,REP,Eamon O'Toole,41
+Sweetwater,04-6,State House,47,REP,Write-ins,0
+Sweetwater,04-6,State House,47,REP,Over Votes,0
+Sweetwater,04-6,State House,47,REP,Under Votes,16
+Sweetwater,04-6,State House,47,DEM,Write-ins,1
+Sweetwater,04-6,State House,47,DEM,Over Votes,0
+Sweetwater,04-6,State House,47,DEM,Under Votes,14
+Sweetwater,04-6,Ballots Cast,,REP,Ballots Cast,57
+Sweetwater,04-6,Ballots Cast,,DEM,Ballots Cast,15
+Sweetwater,04-6,Ballots Cast,,NP,Ballots Cast,6
+Sweetwater,04-6,Ballots Cast,,,Ballots Cast,78
+Sweetwater,04-7,U.S. Senate,,REP,Harriet Hageman,35
+Sweetwater,04-7,U.S. Senate,,REP,Jill M Edwards,2
+Sweetwater,04-7,U.S. Senate,,REP,Jimmy Skovgard,0
+Sweetwater,04-7,U.S. Senate,,REP,John Holtz,1
+Sweetwater,04-7,U.S. Senate,,REP,Sam Mead,14
+Sweetwater,04-7,U.S. Senate,,REP,Write-ins,0
+Sweetwater,04-7,U.S. Senate,,REP,Over Votes,0
+Sweetwater,04-7,U.S. Senate,,REP,Under Votes,1
+Sweetwater,04-7,U.S. Senate,,DEM,Billy Benavidez,2
+Sweetwater,04-7,U.S. Senate,,DEM,James Byrd,6
+Sweetwater,04-7,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,04-7,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,04-7,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,04-7,U.S. House,,REP,* Withdrawn Candidate,2
+Sweetwater,04-7,U.S. House,,REP,Bo Biteman,3
+Sweetwater,04-7,U.S. House,,REP,Chuck Gray,13
+Sweetwater,04-7,U.S. House,,REP,David Giralt,7
+Sweetwater,04-7,U.S. House,,REP,Jillian Balow,6
+Sweetwater,04-7,U.S. House,,REP,Keith B. Goodenough,3
+Sweetwater,04-7,U.S. House,,REP,Kevin Christensen,4
+Sweetwater,04-7,U.S. House,,REP,Reid Rasner,2
+Sweetwater,04-7,U.S. House,,REP,Richard Dodson,2
+Sweetwater,04-7,U.S. House,,REP,Steve Friess,10
+Sweetwater,04-7,U.S. House,,REP,Write-ins,0
+Sweetwater,04-7,U.S. House,,REP,Over Votes,0
+Sweetwater,04-7,U.S. House,,REP,Under Votes,1
+Sweetwater,04-7,U.S. House,,DEM,Elena Del Real,0
+Sweetwater,04-7,U.S. House,,DEM,Lisa Kinney,8
+Sweetwater,04-7,U.S. House,,DEM,Write-ins,0
+Sweetwater,04-7,U.S. House,,DEM,Over Votes,0
+Sweetwater,04-7,U.S. House,,DEM,Under Votes,0
+Sweetwater,04-7,Governor,,REP,Brent Bien,13
+Sweetwater,04-7,Governor,,REP,Curt Blake,2
+Sweetwater,04-7,Governor,,REP,Eric Barlow,20
+Sweetwater,04-7,Governor,,REP,Megan Degenfelder,18
+Sweetwater,04-7,Governor,,REP,Write-ins,0
+Sweetwater,04-7,Governor,,REP,Over Votes,0
+Sweetwater,04-7,Governor,,REP,Under Votes,0
+Sweetwater,04-7,Governor,,DEM,Kenneth R. Casner,7
+Sweetwater,04-7,Governor,,DEM,Write-ins,0
+Sweetwater,04-7,Governor,,DEM,Over Votes,0
+Sweetwater,04-7,Governor,,DEM,Under Votes,1
+Sweetwater,04-7,Secretary of State,,REP,CJ Young,13
+Sweetwater,04-7,Secretary of State,,REP,Qwenton Eagle Oviatt,1
+Sweetwater,04-7,Secretary of State,,REP,Rachel Williams,17
+Sweetwater,04-7,Secretary of State,,REP,Robert Short,14
+Sweetwater,04-7,Secretary of State,,REP,Write-ins,0
+Sweetwater,04-7,Secretary of State,,REP,Over Votes,0
+Sweetwater,04-7,Secretary of State,,REP,Under Votes,8
+Sweetwater,04-7,Secretary of State,,DEM,Bryan McCarty,7
+Sweetwater,04-7,Secretary of State,,DEM,Write-ins,0
+Sweetwater,04-7,Secretary of State,,DEM,Over Votes,0
+Sweetwater,04-7,Secretary of State,,DEM,Under Votes,1
+Sweetwater,04-7,State Auditor,,REP,Kristi Racines,45
+Sweetwater,04-7,State Auditor,,REP,Write-ins,0
+Sweetwater,04-7,State Auditor,,REP,Over Votes,0
+Sweetwater,04-7,State Auditor,,REP,Under Votes,8
+Sweetwater,04-7,State Auditor,,DEM,Write-ins,0
+Sweetwater,04-7,State Auditor,,DEM,Over Votes,0
+Sweetwater,04-7,State Auditor,,DEM,Under Votes,8
+Sweetwater,04-7,State Treasurer,,REP,Curt Meier,22
+Sweetwater,04-7,State Treasurer,,REP,Scott Smith,21
+Sweetwater,04-7,State Treasurer,,REP,Write-ins,0
+Sweetwater,04-7,State Treasurer,,REP,Over Votes,0
+Sweetwater,04-7,State Treasurer,,REP,Under Votes,10
+Sweetwater,04-7,State Treasurer,,DEM,Write-ins,0
+Sweetwater,04-7,State Treasurer,,DEM,Over Votes,0
+Sweetwater,04-7,State Treasurer,,DEM,Under Votes,8
+Sweetwater,04-7,Superintendent of Public Instruction,,REP,Chad Auer,7
+Sweetwater,04-7,Superintendent of Public Instruction,,REP,Steve Harshman,21
+Sweetwater,04-7,Superintendent of Public Instruction,,REP,Tom Kelly,19
+Sweetwater,04-7,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,04-7,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,04-7,Superintendent of Public Instruction,,REP,Under Votes,6
+Sweetwater,04-7,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Sweetwater,04-7,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",7
+Sweetwater,04-7,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,04-7,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,04-7,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,04-7,State Senate,11,REP,Bob Davis,43
+Sweetwater,04-7,State Senate,11,REP,Write-ins,1
+Sweetwater,04-7,State Senate,11,REP,Over Votes,0
+Sweetwater,04-7,State Senate,11,REP,Under Votes,9
+Sweetwater,04-7,State Senate,11,DEM,Jim Wilson,6
+Sweetwater,04-7,State Senate,11,DEM,Write-ins,1
+Sweetwater,04-7,State Senate,11,DEM,Over Votes,0
+Sweetwater,04-7,State Senate,11,DEM,Under Votes,1
+Sweetwater,04-7,State House,47,REP,Eamon O'Toole,38
+Sweetwater,04-7,State House,47,REP,Write-ins,1
+Sweetwater,04-7,State House,47,REP,Over Votes,0
+Sweetwater,04-7,State House,47,REP,Under Votes,14
+Sweetwater,04-7,State House,47,DEM,Write-ins,1
+Sweetwater,04-7,State House,47,DEM,Over Votes,0
+Sweetwater,04-7,State House,47,DEM,Under Votes,7
+Sweetwater,04-7,Ballots Cast,,REP,Ballots Cast,53
+Sweetwater,04-7,Ballots Cast,,DEM,Ballots Cast,8
+Sweetwater,04-7,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,04-7,Ballots Cast,,,Ballots Cast,61
+Sweetwater,05-10,U.S. Senate,,REP,Harriet Hageman,358
+Sweetwater,05-10,U.S. Senate,,REP,Jill M Edwards,26
+Sweetwater,05-10,U.S. Senate,,REP,Jimmy Skovgard,12
+Sweetwater,05-10,U.S. Senate,,REP,John Holtz,27
+Sweetwater,05-10,U.S. Senate,,REP,Sam Mead,136
+Sweetwater,05-10,U.S. Senate,,REP,Write-ins,4
+Sweetwater,05-10,U.S. Senate,,REP,Over Votes,0
+Sweetwater,05-10,U.S. Senate,,REP,Under Votes,27
+Sweetwater,05-10,U.S. Senate,,DEM,Billy Benavidez,15
+Sweetwater,05-10,U.S. Senate,,DEM,James Byrd,51
+Sweetwater,05-10,U.S. Senate,,DEM,Write-ins,1
+Sweetwater,05-10,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,05-10,U.S. Senate,,DEM,Under Votes,6
+Sweetwater,05-10,U.S. House,,REP,* Withdrawn Candidate,13
+Sweetwater,05-10,U.S. House,,REP,Bo Biteman,13
+Sweetwater,05-10,U.S. House,,REP,Chuck Gray,145
+Sweetwater,05-10,U.S. House,,REP,David Giralt,52
+Sweetwater,05-10,U.S. House,,REP,Jillian Balow,61
+Sweetwater,05-10,U.S. House,,REP,Keith B. Goodenough,16
+Sweetwater,05-10,U.S. House,,REP,Kevin Christensen,77
+Sweetwater,05-10,U.S. House,,REP,Reid Rasner,49
+Sweetwater,05-10,U.S. House,,REP,Richard Dodson,14
+Sweetwater,05-10,U.S. House,,REP,Steve Friess,82
+Sweetwater,05-10,U.S. House,,REP,Write-ins,1
+Sweetwater,05-10,U.S. House,,REP,Over Votes,22
+Sweetwater,05-10,U.S. House,,REP,Under Votes,45
+Sweetwater,05-10,U.S. House,,DEM,Elena Del Real,18
+Sweetwater,05-10,U.S. House,,DEM,Lisa Kinney,48
+Sweetwater,05-10,U.S. House,,DEM,Write-ins,0
+Sweetwater,05-10,U.S. House,,DEM,Over Votes,0
+Sweetwater,05-10,U.S. House,,DEM,Under Votes,7
+Sweetwater,05-10,Governor,,REP,Brent Bien,138
+Sweetwater,05-10,Governor,,REP,Curt Blake,20
+Sweetwater,05-10,Governor,,REP,Eric Barlow,248
+Sweetwater,05-10,Governor,,REP,Megan Degenfelder,159
+Sweetwater,05-10,Governor,,REP,Write-ins,1
+Sweetwater,05-10,Governor,,REP,Over Votes,1
+Sweetwater,05-10,Governor,,REP,Under Votes,23
+Sweetwater,05-10,Governor,,DEM,Kenneth R. Casner,62
+Sweetwater,05-10,Governor,,DEM,Write-ins,2
+Sweetwater,05-10,Governor,,DEM,Over Votes,0
+Sweetwater,05-10,Governor,,DEM,Under Votes,9
+Sweetwater,05-10,Secretary of State,,REP,CJ Young,78
+Sweetwater,05-10,Secretary of State,,REP,Qwenton Eagle Oviatt,36
+Sweetwater,05-10,Secretary of State,,REP,Rachel Williams,162
+Sweetwater,05-10,Secretary of State,,REP,Robert Short,197
+Sweetwater,05-10,Secretary of State,,REP,Write-ins,2
+Sweetwater,05-10,Secretary of State,,REP,Over Votes,0
+Sweetwater,05-10,Secretary of State,,REP,Under Votes,115
+Sweetwater,05-10,Secretary of State,,DEM,Bryan McCarty,61
+Sweetwater,05-10,Secretary of State,,DEM,Write-ins,1
+Sweetwater,05-10,Secretary of State,,DEM,Over Votes,0
+Sweetwater,05-10,Secretary of State,,DEM,Under Votes,11
+Sweetwater,05-10,State Auditor,,REP,Kristi Racines,441
+Sweetwater,05-10,State Auditor,,REP,Write-ins,2
+Sweetwater,05-10,State Auditor,,REP,Over Votes,0
+Sweetwater,05-10,State Auditor,,REP,Under Votes,147
+Sweetwater,05-10,State Auditor,,DEM,Write-ins,3
+Sweetwater,05-10,State Auditor,,DEM,Over Votes,0
+Sweetwater,05-10,State Auditor,,DEM,Under Votes,70
+Sweetwater,05-10,State Treasurer,,REP,Curt Meier,287
+Sweetwater,05-10,State Treasurer,,REP,Scott Smith,185
+Sweetwater,05-10,State Treasurer,,REP,Write-ins,1
+Sweetwater,05-10,State Treasurer,,REP,Over Votes,0
+Sweetwater,05-10,State Treasurer,,REP,Under Votes,117
+Sweetwater,05-10,State Treasurer,,DEM,Write-ins,4
+Sweetwater,05-10,State Treasurer,,DEM,Over Votes,0
+Sweetwater,05-10,State Treasurer,,DEM,Under Votes,69
+Sweetwater,05-10,Superintendent of Public Instruction,,REP,Chad Auer,45
+Sweetwater,05-10,Superintendent of Public Instruction,,REP,Steve Harshman,267
+Sweetwater,05-10,Superintendent of Public Instruction,,REP,Tom Kelly,172
+Sweetwater,05-10,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,05-10,Superintendent of Public Instruction,,REP,Over Votes,1
+Sweetwater,05-10,Superintendent of Public Instruction,,REP,Under Votes,105
+Sweetwater,05-10,Superintendent of Public Instruction,,DEM,Ana Cordova,39
+Sweetwater,05-10,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",28
+Sweetwater,05-10,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,05-10,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,05-10,Superintendent of Public Instruction,,DEM,Under Votes,6
+Sweetwater,05-10,State Senate,13,REP,Stacy Jones,467
+Sweetwater,05-10,State Senate,13,REP,Write-ins,13
+Sweetwater,05-10,State Senate,13,REP,Over Votes,0
+Sweetwater,05-10,State Senate,13,REP,Under Votes,110
+Sweetwater,05-10,State Senate,13,DEM,Write-ins,3
+Sweetwater,05-10,State Senate,13,DEM,Over Votes,0
+Sweetwater,05-10,State Senate,13,DEM,Under Votes,70
+Sweetwater,05-10,State House,39,REP,Cody Wylie,462
+Sweetwater,05-10,State House,39,REP,Write-ins,13
+Sweetwater,05-10,State House,39,REP,Over Votes,0
+Sweetwater,05-10,State House,39,REP,Under Votes,115
+Sweetwater,05-10,State House,39,DEM,Write-ins,4
+Sweetwater,05-10,State House,39,DEM,Over Votes,0
+Sweetwater,05-10,State House,39,DEM,Under Votes,69
+Sweetwater,05-10,Ballots Cast,,REP,Ballots Cast,590
+Sweetwater,05-10,Ballots Cast,,DEM,Ballots Cast,73
+Sweetwater,05-10,Ballots Cast,,NP,Ballots Cast,28
+Sweetwater,05-10,Ballots Cast,,,Ballots Cast,691
+Sweetwater,05-6,U.S. Senate,,REP,Harriet Hageman,162
+Sweetwater,05-6,U.S. Senate,,REP,Jill M Edwards,9
+Sweetwater,05-6,U.S. Senate,,REP,Jimmy Skovgard,11
+Sweetwater,05-6,U.S. Senate,,REP,John Holtz,19
+Sweetwater,05-6,U.S. Senate,,REP,Sam Mead,73
+Sweetwater,05-6,U.S. Senate,,REP,Write-ins,2
+Sweetwater,05-6,U.S. Senate,,REP,Over Votes,1
+Sweetwater,05-6,U.S. Senate,,REP,Under Votes,13
+Sweetwater,05-6,U.S. Senate,,DEM,Billy Benavidez,13
+Sweetwater,05-6,U.S. Senate,,DEM,James Byrd,29
+Sweetwater,05-6,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,05-6,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,05-6,U.S. Senate,,DEM,Under Votes,3
+Sweetwater,05-6,U.S. House,,REP,* Withdrawn Candidate,13
+Sweetwater,05-6,U.S. House,,REP,Bo Biteman,12
+Sweetwater,05-6,U.S. House,,REP,Chuck Gray,60
+Sweetwater,05-6,U.S. House,,REP,David Giralt,30
+Sweetwater,05-6,U.S. House,,REP,Jillian Balow,38
+Sweetwater,05-6,U.S. House,,REP,Keith B. Goodenough,8
+Sweetwater,05-6,U.S. House,,REP,Kevin Christensen,42
+Sweetwater,05-6,U.S. House,,REP,Reid Rasner,19
+Sweetwater,05-6,U.S. House,,REP,Richard Dodson,7
+Sweetwater,05-6,U.S. House,,REP,Steve Friess,42
+Sweetwater,05-6,U.S. House,,REP,Write-ins,1
+Sweetwater,05-6,U.S. House,,REP,Over Votes,4
+Sweetwater,05-6,U.S. House,,REP,Under Votes,14
+Sweetwater,05-6,U.S. House,,DEM,Elena Del Real,14
+Sweetwater,05-6,U.S. House,,DEM,Lisa Kinney,28
+Sweetwater,05-6,U.S. House,,DEM,Write-ins,0
+Sweetwater,05-6,U.S. House,,DEM,Over Votes,0
+Sweetwater,05-6,U.S. House,,DEM,Under Votes,3
+Sweetwater,05-6,Governor,,REP,Brent Bien,66
+Sweetwater,05-6,Governor,,REP,Curt Blake,10
+Sweetwater,05-6,Governor,,REP,Eric Barlow,125
+Sweetwater,05-6,Governor,,REP,Megan Degenfelder,78
+Sweetwater,05-6,Governor,,REP,Write-ins,1
+Sweetwater,05-6,Governor,,REP,Over Votes,0
+Sweetwater,05-6,Governor,,REP,Under Votes,10
+Sweetwater,05-6,Governor,,DEM,Kenneth R. Casner,38
+Sweetwater,05-6,Governor,,DEM,Write-ins,0
+Sweetwater,05-6,Governor,,DEM,Over Votes,0
+Sweetwater,05-6,Governor,,DEM,Under Votes,7
+Sweetwater,05-6,Secretary of State,,REP,CJ Young,55
+Sweetwater,05-6,Secretary of State,,REP,Qwenton Eagle Oviatt,19
+Sweetwater,05-6,Secretary of State,,REP,Rachel Williams,90
+Sweetwater,05-6,Secretary of State,,REP,Robert Short,83
+Sweetwater,05-6,Secretary of State,,REP,Write-ins,2
+Sweetwater,05-6,Secretary of State,,REP,Over Votes,1
+Sweetwater,05-6,Secretary of State,,REP,Under Votes,40
+Sweetwater,05-6,Secretary of State,,DEM,Bryan McCarty,40
+Sweetwater,05-6,Secretary of State,,DEM,Write-ins,0
+Sweetwater,05-6,Secretary of State,,DEM,Over Votes,0
+Sweetwater,05-6,Secretary of State,,DEM,Under Votes,5
+Sweetwater,05-6,State Auditor,,REP,Kristi Racines,236
+Sweetwater,05-6,State Auditor,,REP,Write-ins,3
+Sweetwater,05-6,State Auditor,,REP,Over Votes,1
+Sweetwater,05-6,State Auditor,,REP,Under Votes,50
+Sweetwater,05-6,State Auditor,,DEM,Write-ins,2
+Sweetwater,05-6,State Auditor,,DEM,Over Votes,0
+Sweetwater,05-6,State Auditor,,DEM,Under Votes,43
+Sweetwater,05-6,State Treasurer,,REP,Curt Meier,151
+Sweetwater,05-6,State Treasurer,,REP,Scott Smith,102
+Sweetwater,05-6,State Treasurer,,REP,Write-ins,3
+Sweetwater,05-6,State Treasurer,,REP,Over Votes,0
+Sweetwater,05-6,State Treasurer,,REP,Under Votes,34
+Sweetwater,05-6,State Treasurer,,DEM,Write-ins,3
+Sweetwater,05-6,State Treasurer,,DEM,Over Votes,0
+Sweetwater,05-6,State Treasurer,,DEM,Under Votes,42
+Sweetwater,05-6,Superintendent of Public Instruction,,REP,Chad Auer,25
+Sweetwater,05-6,Superintendent of Public Instruction,,REP,Steve Harshman,141
+Sweetwater,05-6,Superintendent of Public Instruction,,REP,Tom Kelly,80
+Sweetwater,05-6,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,05-6,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,05-6,Superintendent of Public Instruction,,REP,Under Votes,44
+Sweetwater,05-6,Superintendent of Public Instruction,,DEM,Ana Cordova,23
+Sweetwater,05-6,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",17
+Sweetwater,05-6,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,05-6,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,05-6,Superintendent of Public Instruction,,DEM,Under Votes,5
+Sweetwater,05-6,State House,17,REP,Elizabeth Bingham,204
+Sweetwater,05-6,State House,17,REP,Write-ins,8
+Sweetwater,05-6,State House,17,REP,Over Votes,1
+Sweetwater,05-6,State House,17,REP,Under Votes,45
+Sweetwater,05-6,State House,17,DEM,Rah Reinholz,36
+Sweetwater,05-6,State House,17,DEM,Write-ins,1
+Sweetwater,05-6,State House,17,DEM,Over Votes,0
+Sweetwater,05-6,State House,17,DEM,Under Votes,7
+Sweetwater,05-6,State House,48,REP,Darin McCann,8
+Sweetwater,05-6,State House,48,REP,James Wamsley,21
+Sweetwater,05-6,State House,48,REP,Write-ins,0
+Sweetwater,05-6,State House,48,REP,Over Votes,0
+Sweetwater,05-6,State House,48,REP,Under Votes,3
+Sweetwater,05-6,State House,48,DEM,Write-ins,0
+Sweetwater,05-6,State House,48,DEM,Over Votes,0
+Sweetwater,05-6,State House,48,DEM,Under Votes,1
+Sweetwater,05-6,Ballots Cast,,REP,Ballots Cast,290
+Sweetwater,05-6,Ballots Cast,,DEM,Ballots Cast,45
+Sweetwater,05-6,Ballots Cast,,NP,Ballots Cast,16
+Sweetwater,05-6,Ballots Cast,,,Ballots Cast,351
+Sweetwater,05-7,U.S. Senate,,REP,Harriet Hageman,80
+Sweetwater,05-7,U.S. Senate,,REP,Jill M Edwards,6
+Sweetwater,05-7,U.S. Senate,,REP,Jimmy Skovgard,3
+Sweetwater,05-7,U.S. Senate,,REP,John Holtz,3
+Sweetwater,05-7,U.S. Senate,,REP,Sam Mead,24
+Sweetwater,05-7,U.S. Senate,,REP,Write-ins,0
+Sweetwater,05-7,U.S. Senate,,REP,Over Votes,0
+Sweetwater,05-7,U.S. Senate,,REP,Under Votes,5
+Sweetwater,05-7,U.S. Senate,,DEM,Billy Benavidez,6
+Sweetwater,05-7,U.S. Senate,,DEM,James Byrd,21
+Sweetwater,05-7,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,05-7,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,05-7,U.S. Senate,,DEM,Under Votes,2
+Sweetwater,05-7,U.S. House,,REP,* Withdrawn Candidate,1
+Sweetwater,05-7,U.S. House,,REP,Bo Biteman,6
+Sweetwater,05-7,U.S. House,,REP,Chuck Gray,18
+Sweetwater,05-7,U.S. House,,REP,David Giralt,17
+Sweetwater,05-7,U.S. House,,REP,Jillian Balow,15
+Sweetwater,05-7,U.S. House,,REP,Keith B. Goodenough,3
+Sweetwater,05-7,U.S. House,,REP,Kevin Christensen,12
+Sweetwater,05-7,U.S. House,,REP,Reid Rasner,7
+Sweetwater,05-7,U.S. House,,REP,Richard Dodson,5
+Sweetwater,05-7,U.S. House,,REP,Steve Friess,20
+Sweetwater,05-7,U.S. House,,REP,Write-ins,1
+Sweetwater,05-7,U.S. House,,REP,Over Votes,5
+Sweetwater,05-7,U.S. House,,REP,Under Votes,11
+Sweetwater,05-7,U.S. House,,DEM,Elena Del Real,6
+Sweetwater,05-7,U.S. House,,DEM,Lisa Kinney,20
+Sweetwater,05-7,U.S. House,,DEM,Write-ins,1
+Sweetwater,05-7,U.S. House,,DEM,Over Votes,0
+Sweetwater,05-7,U.S. House,,DEM,Under Votes,2
+Sweetwater,05-7,Governor,,REP,Brent Bien,31
+Sweetwater,05-7,Governor,,REP,Curt Blake,5
+Sweetwater,05-7,Governor,,REP,Eric Barlow,50
+Sweetwater,05-7,Governor,,REP,Megan Degenfelder,28
+Sweetwater,05-7,Governor,,REP,Write-ins,2
+Sweetwater,05-7,Governor,,REP,Over Votes,0
+Sweetwater,05-7,Governor,,REP,Under Votes,5
+Sweetwater,05-7,Governor,,DEM,Kenneth R. Casner,25
+Sweetwater,05-7,Governor,,DEM,Write-ins,0
+Sweetwater,05-7,Governor,,DEM,Over Votes,0
+Sweetwater,05-7,Governor,,DEM,Under Votes,4
+Sweetwater,05-7,Secretary of State,,REP,CJ Young,20
+Sweetwater,05-7,Secretary of State,,REP,Qwenton Eagle Oviatt,13
+Sweetwater,05-7,Secretary of State,,REP,Rachel Williams,33
+Sweetwater,05-7,Secretary of State,,REP,Robert Short,42
+Sweetwater,05-7,Secretary of State,,REP,Write-ins,0
+Sweetwater,05-7,Secretary of State,,REP,Over Votes,0
+Sweetwater,05-7,Secretary of State,,REP,Under Votes,13
+Sweetwater,05-7,Secretary of State,,DEM,Bryan McCarty,27
+Sweetwater,05-7,Secretary of State,,DEM,Write-ins,0
+Sweetwater,05-7,Secretary of State,,DEM,Over Votes,0
+Sweetwater,05-7,Secretary of State,,DEM,Under Votes,2
+Sweetwater,05-7,State Auditor,,REP,Kristi Racines,91
+Sweetwater,05-7,State Auditor,,REP,Write-ins,3
+Sweetwater,05-7,State Auditor,,REP,Over Votes,0
+Sweetwater,05-7,State Auditor,,REP,Under Votes,27
+Sweetwater,05-7,State Auditor,,DEM,Write-ins,2
+Sweetwater,05-7,State Auditor,,DEM,Over Votes,0
+Sweetwater,05-7,State Auditor,,DEM,Under Votes,27
+Sweetwater,05-7,State Treasurer,,REP,Curt Meier,63
+Sweetwater,05-7,State Treasurer,,REP,Scott Smith,39
+Sweetwater,05-7,State Treasurer,,REP,Write-ins,0
+Sweetwater,05-7,State Treasurer,,REP,Over Votes,0
+Sweetwater,05-7,State Treasurer,,REP,Under Votes,19
+Sweetwater,05-7,State Treasurer,,DEM,Write-ins,2
+Sweetwater,05-7,State Treasurer,,DEM,Over Votes,0
+Sweetwater,05-7,State Treasurer,,DEM,Under Votes,27
+Sweetwater,05-7,Superintendent of Public Instruction,,REP,Chad Auer,18
+Sweetwater,05-7,Superintendent of Public Instruction,,REP,Steve Harshman,51
+Sweetwater,05-7,Superintendent of Public Instruction,,REP,Tom Kelly,36
+Sweetwater,05-7,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,05-7,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,05-7,Superintendent of Public Instruction,,REP,Under Votes,16
+Sweetwater,05-7,Superintendent of Public Instruction,,DEM,Ana Cordova,18
+Sweetwater,05-7,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",10
+Sweetwater,05-7,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,05-7,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,05-7,Superintendent of Public Instruction,,DEM,Under Votes,1
+Sweetwater,05-7,State House,48,REP,Darin McCann,34
+Sweetwater,05-7,State House,48,REP,James Wamsley,80
+Sweetwater,05-7,State House,48,REP,Write-ins,0
+Sweetwater,05-7,State House,48,REP,Over Votes,0
+Sweetwater,05-7,State House,48,REP,Under Votes,7
+Sweetwater,05-7,State House,48,DEM,Write-ins,5
+Sweetwater,05-7,State House,48,DEM,Over Votes,0
+Sweetwater,05-7,State House,48,DEM,Under Votes,24
+Sweetwater,05-7,Ballots Cast,,REP,Ballots Cast,121
+Sweetwater,05-7,Ballots Cast,,DEM,Ballots Cast,29
+Sweetwater,05-7,Ballots Cast,,NP,Ballots Cast,7
+Sweetwater,05-7,Ballots Cast,,,Ballots Cast,157
+Sweetwater,05-8,U.S. Senate,,REP,Harriet Hageman,351
+Sweetwater,05-8,U.S. Senate,,REP,Jill M Edwards,18
+Sweetwater,05-8,U.S. Senate,,REP,Jimmy Skovgard,15
+Sweetwater,05-8,U.S. Senate,,REP,John Holtz,14
+Sweetwater,05-8,U.S. Senate,,REP,Sam Mead,85
+Sweetwater,05-8,U.S. Senate,,REP,Write-ins,5
+Sweetwater,05-8,U.S. Senate,,REP,Over Votes,0
+Sweetwater,05-8,U.S. Senate,,REP,Under Votes,20
+Sweetwater,05-8,U.S. Senate,,DEM,Billy Benavidez,15
+Sweetwater,05-8,U.S. Senate,,DEM,James Byrd,61
+Sweetwater,05-8,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,05-8,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,05-8,U.S. Senate,,DEM,Under Votes,8
+Sweetwater,05-8,U.S. House,,REP,* Withdrawn Candidate,9
+Sweetwater,05-8,U.S. House,,REP,Bo Biteman,20
+Sweetwater,05-8,U.S. House,,REP,Chuck Gray,111
+Sweetwater,05-8,U.S. House,,REP,David Giralt,42
+Sweetwater,05-8,U.S. House,,REP,Jillian Balow,51
+Sweetwater,05-8,U.S. House,,REP,Keith B. Goodenough,7
+Sweetwater,05-8,U.S. House,,REP,Kevin Christensen,42
+Sweetwater,05-8,U.S. House,,REP,Reid Rasner,66
+Sweetwater,05-8,U.S. House,,REP,Richard Dodson,6
+Sweetwater,05-8,U.S. House,,REP,Steve Friess,101
+Sweetwater,05-8,U.S. House,,REP,Write-ins,2
+Sweetwater,05-8,U.S. House,,REP,Over Votes,19
+Sweetwater,05-8,U.S. House,,REP,Under Votes,32
+Sweetwater,05-8,U.S. House,,DEM,Elena Del Real,13
+Sweetwater,05-8,U.S. House,,DEM,Lisa Kinney,63
+Sweetwater,05-8,U.S. House,,DEM,Write-ins,0
+Sweetwater,05-8,U.S. House,,DEM,Over Votes,0
+Sweetwater,05-8,U.S. House,,DEM,Under Votes,8
+Sweetwater,05-8,Governor,,REP,Brent Bien,108
+Sweetwater,05-8,Governor,,REP,Curt Blake,10
+Sweetwater,05-8,Governor,,REP,Eric Barlow,225
+Sweetwater,05-8,Governor,,REP,Megan Degenfelder,149
+Sweetwater,05-8,Governor,,REP,Write-ins,2
+Sweetwater,05-8,Governor,,REP,Over Votes,0
+Sweetwater,05-8,Governor,,REP,Under Votes,14
+Sweetwater,05-8,Governor,,DEM,Kenneth R. Casner,69
+Sweetwater,05-8,Governor,,DEM,Write-ins,4
+Sweetwater,05-8,Governor,,DEM,Over Votes,0
+Sweetwater,05-8,Governor,,DEM,Under Votes,11
+Sweetwater,05-8,Secretary of State,,REP,CJ Young,101
+Sweetwater,05-8,Secretary of State,,REP,Qwenton Eagle Oviatt,22
+Sweetwater,05-8,Secretary of State,,REP,Rachel Williams,120
+Sweetwater,05-8,Secretary of State,,REP,Robert Short,163
+Sweetwater,05-8,Secretary of State,,REP,Write-ins,4
+Sweetwater,05-8,Secretary of State,,REP,Over Votes,0
+Sweetwater,05-8,Secretary of State,,REP,Under Votes,98
+Sweetwater,05-8,Secretary of State,,DEM,Bryan McCarty,75
+Sweetwater,05-8,Secretary of State,,DEM,Write-ins,0
+Sweetwater,05-8,Secretary of State,,DEM,Over Votes,0
+Sweetwater,05-8,Secretary of State,,DEM,Under Votes,9
+Sweetwater,05-8,State Auditor,,REP,Kristi Racines,399
+Sweetwater,05-8,State Auditor,,REP,Write-ins,3
+Sweetwater,05-8,State Auditor,,REP,Over Votes,0
+Sweetwater,05-8,State Auditor,,REP,Under Votes,106
+Sweetwater,05-8,State Auditor,,DEM,Write-ins,2
+Sweetwater,05-8,State Auditor,,DEM,Over Votes,0
+Sweetwater,05-8,State Auditor,,DEM,Under Votes,82
+Sweetwater,05-8,State Treasurer,,REP,Curt Meier,256
+Sweetwater,05-8,State Treasurer,,REP,Scott Smith,149
+Sweetwater,05-8,State Treasurer,,REP,Write-ins,3
+Sweetwater,05-8,State Treasurer,,REP,Over Votes,0
+Sweetwater,05-8,State Treasurer,,REP,Under Votes,100
+Sweetwater,05-8,State Treasurer,,DEM,Write-ins,4
+Sweetwater,05-8,State Treasurer,,DEM,Over Votes,0
+Sweetwater,05-8,State Treasurer,,DEM,Under Votes,80
+Sweetwater,05-8,Superintendent of Public Instruction,,REP,Chad Auer,47
+Sweetwater,05-8,Superintendent of Public Instruction,,REP,Steve Harshman,238
+Sweetwater,05-8,Superintendent of Public Instruction,,REP,Tom Kelly,137
+Sweetwater,05-8,Superintendent of Public Instruction,,REP,Write-ins,4
+Sweetwater,05-8,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,05-8,Superintendent of Public Instruction,,REP,Under Votes,82
+Sweetwater,05-8,Superintendent of Public Instruction,,DEM,Ana Cordova,32
+Sweetwater,05-8,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",38
+Sweetwater,05-8,Superintendent of Public Instruction,,DEM,Write-ins,3
+Sweetwater,05-8,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,05-8,Superintendent of Public Instruction,,DEM,Under Votes,11
+Sweetwater,05-8,State Senate,13,REP,Stacy Jones,412
+Sweetwater,05-8,State Senate,13,REP,Write-ins,4
+Sweetwater,05-8,State Senate,13,REP,Over Votes,0
+Sweetwater,05-8,State Senate,13,REP,Under Votes,92
+Sweetwater,05-8,State Senate,13,DEM,Write-ins,3
+Sweetwater,05-8,State Senate,13,DEM,Over Votes,0
+Sweetwater,05-8,State Senate,13,DEM,Under Votes,81
+Sweetwater,05-8,State House,39,REP,Cody Wylie,417
+Sweetwater,05-8,State House,39,REP,Write-ins,8
+Sweetwater,05-8,State House,39,REP,Over Votes,0
+Sweetwater,05-8,State House,39,REP,Under Votes,83
+Sweetwater,05-8,State House,39,DEM,Write-ins,4
+Sweetwater,05-8,State House,39,DEM,Over Votes,0
+Sweetwater,05-8,State House,39,DEM,Under Votes,80
+Sweetwater,05-8,Ballots Cast,,REP,Ballots Cast,508
+Sweetwater,05-8,Ballots Cast,,DEM,Ballots Cast,84
+Sweetwater,05-8,Ballots Cast,,NP,Ballots Cast,30
+Sweetwater,05-8,Ballots Cast,,,Ballots Cast,622
+Sweetwater,05-9,U.S. Senate,,REP,Harriet Hageman,53
+Sweetwater,05-9,U.S. Senate,,REP,Jill M Edwards,9
+Sweetwater,05-9,U.S. Senate,,REP,Jimmy Skovgard,3
+Sweetwater,05-9,U.S. Senate,,REP,John Holtz,3
+Sweetwater,05-9,U.S. Senate,,REP,Sam Mead,6
+Sweetwater,05-9,U.S. Senate,,REP,Write-ins,0
+Sweetwater,05-9,U.S. Senate,,REP,Over Votes,0
+Sweetwater,05-9,U.S. Senate,,REP,Under Votes,2
+Sweetwater,05-9,U.S. Senate,,DEM,Billy Benavidez,9
+Sweetwater,05-9,U.S. Senate,,DEM,James Byrd,12
+Sweetwater,05-9,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,05-9,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,05-9,U.S. Senate,,DEM,Under Votes,1
+Sweetwater,05-9,U.S. House,,REP,* Withdrawn Candidate,2
+Sweetwater,05-9,U.S. House,,REP,Bo Biteman,3
+Sweetwater,05-9,U.S. House,,REP,Chuck Gray,23
+Sweetwater,05-9,U.S. House,,REP,David Giralt,5
+Sweetwater,05-9,U.S. House,,REP,Jillian Balow,9
+Sweetwater,05-9,U.S. House,,REP,Keith B. Goodenough,4
+Sweetwater,05-9,U.S. House,,REP,Kevin Christensen,3
+Sweetwater,05-9,U.S. House,,REP,Reid Rasner,11
+Sweetwater,05-9,U.S. House,,REP,Richard Dodson,4
+Sweetwater,05-9,U.S. House,,REP,Steve Friess,9
+Sweetwater,05-9,U.S. House,,REP,Write-ins,1
+Sweetwater,05-9,U.S. House,,REP,Over Votes,0
+Sweetwater,05-9,U.S. House,,REP,Under Votes,2
+Sweetwater,05-9,U.S. House,,DEM,Elena Del Real,9
+Sweetwater,05-9,U.S. House,,DEM,Lisa Kinney,12
+Sweetwater,05-9,U.S. House,,DEM,Write-ins,0
+Sweetwater,05-9,U.S. House,,DEM,Over Votes,0
+Sweetwater,05-9,U.S. House,,DEM,Under Votes,1
+Sweetwater,05-9,Governor,,REP,Brent Bien,28
+Sweetwater,05-9,Governor,,REP,Curt Blake,2
+Sweetwater,05-9,Governor,,REP,Eric Barlow,22
+Sweetwater,05-9,Governor,,REP,Megan Degenfelder,23
+Sweetwater,05-9,Governor,,REP,Write-ins,0
+Sweetwater,05-9,Governor,,REP,Over Votes,0
+Sweetwater,05-9,Governor,,REP,Under Votes,1
+Sweetwater,05-9,Governor,,DEM,Kenneth R. Casner,19
+Sweetwater,05-9,Governor,,DEM,Write-ins,1
+Sweetwater,05-9,Governor,,DEM,Over Votes,0
+Sweetwater,05-9,Governor,,DEM,Under Votes,2
+Sweetwater,05-9,Secretary of State,,REP,CJ Young,14
+Sweetwater,05-9,Secretary of State,,REP,Qwenton Eagle Oviatt,7
+Sweetwater,05-9,Secretary of State,,REP,Rachel Williams,25
+Sweetwater,05-9,Secretary of State,,REP,Robert Short,24
+Sweetwater,05-9,Secretary of State,,REP,Write-ins,0
+Sweetwater,05-9,Secretary of State,,REP,Over Votes,0
+Sweetwater,05-9,Secretary of State,,REP,Under Votes,6
+Sweetwater,05-9,Secretary of State,,DEM,Bryan McCarty,20
+Sweetwater,05-9,Secretary of State,,DEM,Write-ins,0
+Sweetwater,05-9,Secretary of State,,DEM,Over Votes,0
+Sweetwater,05-9,Secretary of State,,DEM,Under Votes,2
+Sweetwater,05-9,State Auditor,,REP,Kristi Racines,62
+Sweetwater,05-9,State Auditor,,REP,Write-ins,1
+Sweetwater,05-9,State Auditor,,REP,Over Votes,0
+Sweetwater,05-9,State Auditor,,REP,Under Votes,13
+Sweetwater,05-9,State Auditor,,DEM,Write-ins,4
+Sweetwater,05-9,State Auditor,,DEM,Over Votes,0
+Sweetwater,05-9,State Auditor,,DEM,Under Votes,18
+Sweetwater,05-9,State Treasurer,,REP,Curt Meier,32
+Sweetwater,05-9,State Treasurer,,REP,Scott Smith,37
+Sweetwater,05-9,State Treasurer,,REP,Write-ins,0
+Sweetwater,05-9,State Treasurer,,REP,Over Votes,0
+Sweetwater,05-9,State Treasurer,,REP,Under Votes,7
+Sweetwater,05-9,State Treasurer,,DEM,Write-ins,1
+Sweetwater,05-9,State Treasurer,,DEM,Over Votes,0
+Sweetwater,05-9,State Treasurer,,DEM,Under Votes,21
+Sweetwater,05-9,Superintendent of Public Instruction,,REP,Chad Auer,10
+Sweetwater,05-9,Superintendent of Public Instruction,,REP,Steve Harshman,33
+Sweetwater,05-9,Superintendent of Public Instruction,,REP,Tom Kelly,26
+Sweetwater,05-9,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,05-9,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,05-9,Superintendent of Public Instruction,,REP,Under Votes,7
+Sweetwater,05-9,Superintendent of Public Instruction,,DEM,Ana Cordova,9
+Sweetwater,05-9,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",12
+Sweetwater,05-9,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,05-9,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,05-9,Superintendent of Public Instruction,,DEM,Under Votes,1
+Sweetwater,05-9,State Senate,13,REP,Stacy Jones,63
+Sweetwater,05-9,State Senate,13,REP,Write-ins,1
+Sweetwater,05-9,State Senate,13,REP,Over Votes,0
+Sweetwater,05-9,State Senate,13,REP,Under Votes,12
+Sweetwater,05-9,State Senate,13,DEM,Write-ins,2
+Sweetwater,05-9,State Senate,13,DEM,Over Votes,0
+Sweetwater,05-9,State Senate,13,DEM,Under Votes,20
+Sweetwater,05-9,State House,39,REP,Cody Wylie,60
+Sweetwater,05-9,State House,39,REP,Write-ins,3
+Sweetwater,05-9,State House,39,REP,Over Votes,0
+Sweetwater,05-9,State House,39,REP,Under Votes,13
+Sweetwater,05-9,State House,39,DEM,Write-ins,4
+Sweetwater,05-9,State House,39,DEM,Over Votes,0
+Sweetwater,05-9,State House,39,DEM,Under Votes,18
+Sweetwater,05-9,Ballots Cast,,REP,Ballots Cast,76
+Sweetwater,05-9,Ballots Cast,,DEM,Ballots Cast,22
+Sweetwater,05-9,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,05-9,Ballots Cast,,,Ballots Cast,98
+Sweetwater,06-1,U.S. Senate,,REP,Harriet Hageman,132
+Sweetwater,06-1,U.S. Senate,,REP,Jill M Edwards,5
+Sweetwater,06-1,U.S. Senate,,REP,Jimmy Skovgard,4
+Sweetwater,06-1,U.S. Senate,,REP,John Holtz,7
+Sweetwater,06-1,U.S. Senate,,REP,Sam Mead,34
+Sweetwater,06-1,U.S. Senate,,REP,Write-ins,2
+Sweetwater,06-1,U.S. Senate,,REP,Over Votes,0
+Sweetwater,06-1,U.S. Senate,,REP,Under Votes,9
+Sweetwater,06-1,U.S. Senate,,DEM,Billy Benavidez,13
+Sweetwater,06-1,U.S. Senate,,DEM,James Byrd,29
+Sweetwater,06-1,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,06-1,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,06-1,U.S. Senate,,DEM,Under Votes,3
+Sweetwater,06-1,U.S. House,,REP,* Withdrawn Candidate,6
+Sweetwater,06-1,U.S. House,,REP,Bo Biteman,3
+Sweetwater,06-1,U.S. House,,REP,Chuck Gray,41
+Sweetwater,06-1,U.S. House,,REP,David Giralt,6
+Sweetwater,06-1,U.S. House,,REP,Jillian Balow,20
+Sweetwater,06-1,U.S. House,,REP,Keith B. Goodenough,3
+Sweetwater,06-1,U.S. House,,REP,Kevin Christensen,16
+Sweetwater,06-1,U.S. House,,REP,Reid Rasner,35
+Sweetwater,06-1,U.S. House,,REP,Richard Dodson,1
+Sweetwater,06-1,U.S. House,,REP,Steve Friess,48
+Sweetwater,06-1,U.S. House,,REP,Write-ins,1
+Sweetwater,06-1,U.S. House,,REP,Over Votes,3
+Sweetwater,06-1,U.S. House,,REP,Under Votes,10
+Sweetwater,06-1,U.S. House,,DEM,Elena Del Real,9
+Sweetwater,06-1,U.S. House,,DEM,Lisa Kinney,32
+Sweetwater,06-1,U.S. House,,DEM,Write-ins,0
+Sweetwater,06-1,U.S. House,,DEM,Over Votes,0
+Sweetwater,06-1,U.S. House,,DEM,Under Votes,4
+Sweetwater,06-1,Governor,,REP,Brent Bien,43
+Sweetwater,06-1,Governor,,REP,Curt Blake,6
+Sweetwater,06-1,Governor,,REP,Eric Barlow,66
+Sweetwater,06-1,Governor,,REP,Megan Degenfelder,71
+Sweetwater,06-1,Governor,,REP,Write-ins,1
+Sweetwater,06-1,Governor,,REP,Over Votes,0
+Sweetwater,06-1,Governor,,REP,Under Votes,6
+Sweetwater,06-1,Governor,,DEM,Kenneth R. Casner,39
+Sweetwater,06-1,Governor,,DEM,Write-ins,2
+Sweetwater,06-1,Governor,,DEM,Over Votes,0
+Sweetwater,06-1,Governor,,DEM,Under Votes,4
+Sweetwater,06-1,Secretary of State,,REP,CJ Young,39
+Sweetwater,06-1,Secretary of State,,REP,Qwenton Eagle Oviatt,15
+Sweetwater,06-1,Secretary of State,,REP,Rachel Williams,67
+Sweetwater,06-1,Secretary of State,,REP,Robert Short,48
+Sweetwater,06-1,Secretary of State,,REP,Write-ins,1
+Sweetwater,06-1,Secretary of State,,REP,Over Votes,0
+Sweetwater,06-1,Secretary of State,,REP,Under Votes,23
+Sweetwater,06-1,Secretary of State,,DEM,Bryan McCarty,39
+Sweetwater,06-1,Secretary of State,,DEM,Write-ins,1
+Sweetwater,06-1,Secretary of State,,DEM,Over Votes,0
+Sweetwater,06-1,Secretary of State,,DEM,Under Votes,5
+Sweetwater,06-1,State Auditor,,REP,Kristi Racines,159
+Sweetwater,06-1,State Auditor,,REP,Write-ins,2
+Sweetwater,06-1,State Auditor,,REP,Over Votes,0
+Sweetwater,06-1,State Auditor,,REP,Under Votes,32
+Sweetwater,06-1,State Auditor,,DEM,Write-ins,2
+Sweetwater,06-1,State Auditor,,DEM,Over Votes,0
+Sweetwater,06-1,State Auditor,,DEM,Under Votes,43
+Sweetwater,06-1,State Treasurer,,REP,Curt Meier,102
+Sweetwater,06-1,State Treasurer,,REP,Scott Smith,66
+Sweetwater,06-1,State Treasurer,,REP,Write-ins,1
+Sweetwater,06-1,State Treasurer,,REP,Over Votes,0
+Sweetwater,06-1,State Treasurer,,REP,Under Votes,24
+Sweetwater,06-1,State Treasurer,,DEM,Write-ins,2
+Sweetwater,06-1,State Treasurer,,DEM,Over Votes,0
+Sweetwater,06-1,State Treasurer,,DEM,Under Votes,43
+Sweetwater,06-1,Superintendent of Public Instruction,,REP,Chad Auer,19
+Sweetwater,06-1,Superintendent of Public Instruction,,REP,Steve Harshman,82
+Sweetwater,06-1,Superintendent of Public Instruction,,REP,Tom Kelly,63
+Sweetwater,06-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,06-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,06-1,Superintendent of Public Instruction,,REP,Under Votes,28
+Sweetwater,06-1,Superintendent of Public Instruction,,DEM,Ana Cordova,20
+Sweetwater,06-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",20
+Sweetwater,06-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Sweetwater,06-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,06-1,Superintendent of Public Instruction,,DEM,Under Votes,4
+Sweetwater,06-1,State House,48,REP,Darin McCann,67
+Sweetwater,06-1,State House,48,REP,James Wamsley,114
+Sweetwater,06-1,State House,48,REP,Write-ins,0
+Sweetwater,06-1,State House,48,REP,Over Votes,0
+Sweetwater,06-1,State House,48,REP,Under Votes,12
+Sweetwater,06-1,State House,48,DEM,Write-ins,9
+Sweetwater,06-1,State House,48,DEM,Over Votes,0
+Sweetwater,06-1,State House,48,DEM,Under Votes,36
+Sweetwater,06-1,Ballots Cast,,REP,Ballots Cast,193
+Sweetwater,06-1,Ballots Cast,,DEM,Ballots Cast,45
+Sweetwater,06-1,Ballots Cast,,NP,Ballots Cast,18
+Sweetwater,06-1,Ballots Cast,,,Ballots Cast,256
+Sweetwater,06-3,U.S. Senate,,REP,Harriet Hageman,110
+Sweetwater,06-3,U.S. Senate,,REP,Jill M Edwards,6
+Sweetwater,06-3,U.S. Senate,,REP,Jimmy Skovgard,4
+Sweetwater,06-3,U.S. Senate,,REP,John Holtz,4
+Sweetwater,06-3,U.S. Senate,,REP,Sam Mead,31
+Sweetwater,06-3,U.S. Senate,,REP,Write-ins,1
+Sweetwater,06-3,U.S. Senate,,REP,Over Votes,0
+Sweetwater,06-3,U.S. Senate,,REP,Under Votes,12
+Sweetwater,06-3,U.S. Senate,,DEM,Billy Benavidez,4
+Sweetwater,06-3,U.S. Senate,,DEM,James Byrd,16
+Sweetwater,06-3,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,06-3,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,06-3,U.S. Senate,,DEM,Under Votes,1
+Sweetwater,06-3,U.S. House,,REP,* Withdrawn Candidate,1
+Sweetwater,06-3,U.S. House,,REP,Bo Biteman,7
+Sweetwater,06-3,U.S. House,,REP,Chuck Gray,44
+Sweetwater,06-3,U.S. House,,REP,David Giralt,9
+Sweetwater,06-3,U.S. House,,REP,Jillian Balow,24
+Sweetwater,06-3,U.S. House,,REP,Keith B. Goodenough,2
+Sweetwater,06-3,U.S. House,,REP,Kevin Christensen,22
+Sweetwater,06-3,U.S. House,,REP,Reid Rasner,15
+Sweetwater,06-3,U.S. House,,REP,Richard Dodson,1
+Sweetwater,06-3,U.S. House,,REP,Steve Friess,27
+Sweetwater,06-3,U.S. House,,REP,Write-ins,0
+Sweetwater,06-3,U.S. House,,REP,Over Votes,2
+Sweetwater,06-3,U.S. House,,REP,Under Votes,14
+Sweetwater,06-3,U.S. House,,DEM,Elena Del Real,7
+Sweetwater,06-3,U.S. House,,DEM,Lisa Kinney,13
+Sweetwater,06-3,U.S. House,,DEM,Write-ins,0
+Sweetwater,06-3,U.S. House,,DEM,Over Votes,0
+Sweetwater,06-3,U.S. House,,DEM,Under Votes,1
+Sweetwater,06-3,Governor,,REP,Brent Bien,31
+Sweetwater,06-3,Governor,,REP,Curt Blake,4
+Sweetwater,06-3,Governor,,REP,Eric Barlow,87
+Sweetwater,06-3,Governor,,REP,Megan Degenfelder,38
+Sweetwater,06-3,Governor,,REP,Write-ins,0
+Sweetwater,06-3,Governor,,REP,Over Votes,0
+Sweetwater,06-3,Governor,,REP,Under Votes,8
+Sweetwater,06-3,Governor,,DEM,Kenneth R. Casner,19
+Sweetwater,06-3,Governor,,DEM,Write-ins,1
+Sweetwater,06-3,Governor,,DEM,Over Votes,0
+Sweetwater,06-3,Governor,,DEM,Under Votes,1
+Sweetwater,06-3,Secretary of State,,REP,CJ Young,26
+Sweetwater,06-3,Secretary of State,,REP,Qwenton Eagle Oviatt,8
+Sweetwater,06-3,Secretary of State,,REP,Rachel Williams,49
+Sweetwater,06-3,Secretary of State,,REP,Robert Short,51
+Sweetwater,06-3,Secretary of State,,REP,Write-ins,2
+Sweetwater,06-3,Secretary of State,,REP,Over Votes,0
+Sweetwater,06-3,Secretary of State,,REP,Under Votes,32
+Sweetwater,06-3,Secretary of State,,DEM,Bryan McCarty,20
+Sweetwater,06-3,Secretary of State,,DEM,Write-ins,0
+Sweetwater,06-3,Secretary of State,,DEM,Over Votes,0
+Sweetwater,06-3,Secretary of State,,DEM,Under Votes,1
+Sweetwater,06-3,State Auditor,,REP,Kristi Racines,125
+Sweetwater,06-3,State Auditor,,REP,Write-ins,1
+Sweetwater,06-3,State Auditor,,REP,Over Votes,0
+Sweetwater,06-3,State Auditor,,REP,Under Votes,42
+Sweetwater,06-3,State Auditor,,DEM,Write-ins,0
+Sweetwater,06-3,State Auditor,,DEM,Over Votes,0
+Sweetwater,06-3,State Auditor,,DEM,Under Votes,21
+Sweetwater,06-3,State Treasurer,,REP,Curt Meier,93
+Sweetwater,06-3,State Treasurer,,REP,Scott Smith,50
+Sweetwater,06-3,State Treasurer,,REP,Write-ins,0
+Sweetwater,06-3,State Treasurer,,REP,Over Votes,0
+Sweetwater,06-3,State Treasurer,,REP,Under Votes,25
+Sweetwater,06-3,State Treasurer,,DEM,Write-ins,0
+Sweetwater,06-3,State Treasurer,,DEM,Over Votes,0
+Sweetwater,06-3,State Treasurer,,DEM,Under Votes,21
+Sweetwater,06-3,Superintendent of Public Instruction,,REP,Chad Auer,9
+Sweetwater,06-3,Superintendent of Public Instruction,,REP,Steve Harshman,80
+Sweetwater,06-3,Superintendent of Public Instruction,,REP,Tom Kelly,47
+Sweetwater,06-3,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,06-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,06-3,Superintendent of Public Instruction,,REP,Under Votes,31
+Sweetwater,06-3,Superintendent of Public Instruction,,DEM,Ana Cordova,13
+Sweetwater,06-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",7
+Sweetwater,06-3,Superintendent of Public Instruction,,DEM,Write-ins,1
+Sweetwater,06-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,06-3,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,06-3,State House,48,REP,Darin McCann,54
+Sweetwater,06-3,State House,48,REP,James Wamsley,101
+Sweetwater,06-3,State House,48,REP,Write-ins,1
+Sweetwater,06-3,State House,48,REP,Over Votes,0
+Sweetwater,06-3,State House,48,REP,Under Votes,12
+Sweetwater,06-3,State House,48,DEM,Write-ins,3
+Sweetwater,06-3,State House,48,DEM,Over Votes,0
+Sweetwater,06-3,State House,48,DEM,Under Votes,18
+Sweetwater,06-3,Ballots Cast,,REP,Ballots Cast,168
+Sweetwater,06-3,Ballots Cast,,DEM,Ballots Cast,21
+Sweetwater,06-3,Ballots Cast,,NP,Ballots Cast,6
+Sweetwater,06-3,Ballots Cast,,,Ballots Cast,195
+Sweetwater,06-5,U.S. Senate,,REP,Harriet Hageman,220
+Sweetwater,06-5,U.S. Senate,,REP,Jill M Edwards,13
+Sweetwater,06-5,U.S. Senate,,REP,Jimmy Skovgard,3
+Sweetwater,06-5,U.S. Senate,,REP,John Holtz,4
+Sweetwater,06-5,U.S. Senate,,REP,Sam Mead,72
+Sweetwater,06-5,U.S. Senate,,REP,Write-ins,1
+Sweetwater,06-5,U.S. Senate,,REP,Over Votes,0
+Sweetwater,06-5,U.S. Senate,,REP,Under Votes,9
+Sweetwater,06-5,U.S. Senate,,DEM,Billy Benavidez,13
+Sweetwater,06-5,U.S. Senate,,DEM,James Byrd,36
+Sweetwater,06-5,U.S. Senate,,DEM,Write-ins,1
+Sweetwater,06-5,U.S. Senate,,DEM,Over Votes,1
+Sweetwater,06-5,U.S. Senate,,DEM,Under Votes,3
+Sweetwater,06-5,U.S. House,,REP,* Withdrawn Candidate,6
+Sweetwater,06-5,U.S. House,,REP,Bo Biteman,4
+Sweetwater,06-5,U.S. House,,REP,Chuck Gray,94
+Sweetwater,06-5,U.S. House,,REP,David Giralt,25
+Sweetwater,06-5,U.S. House,,REP,Jillian Balow,44
+Sweetwater,06-5,U.S. House,,REP,Keith B. Goodenough,5
+Sweetwater,06-5,U.S. House,,REP,Kevin Christensen,28
+Sweetwater,06-5,U.S. House,,REP,Reid Rasner,26
+Sweetwater,06-5,U.S. House,,REP,Richard Dodson,9
+Sweetwater,06-5,U.S. House,,REP,Steve Friess,53
+Sweetwater,06-5,U.S. House,,REP,Write-ins,1
+Sweetwater,06-5,U.S. House,,REP,Over Votes,8
+Sweetwater,06-5,U.S. House,,REP,Under Votes,19
+Sweetwater,06-5,U.S. House,,DEM,Elena Del Real,13
+Sweetwater,06-5,U.S. House,,DEM,Lisa Kinney,37
+Sweetwater,06-5,U.S. House,,DEM,Write-ins,0
+Sweetwater,06-5,U.S. House,,DEM,Over Votes,0
+Sweetwater,06-5,U.S. House,,DEM,Under Votes,4
+Sweetwater,06-5,Governor,,REP,Brent Bien,84
+Sweetwater,06-5,Governor,,REP,Curt Blake,1
+Sweetwater,06-5,Governor,,REP,Eric Barlow,139
+Sweetwater,06-5,Governor,,REP,Megan Degenfelder,95
+Sweetwater,06-5,Governor,,REP,Write-ins,0
+Sweetwater,06-5,Governor,,REP,Over Votes,0
+Sweetwater,06-5,Governor,,REP,Under Votes,3
+Sweetwater,06-5,Governor,,DEM,Kenneth R. Casner,44
+Sweetwater,06-5,Governor,,DEM,Write-ins,3
+Sweetwater,06-5,Governor,,DEM,Over Votes,0
+Sweetwater,06-5,Governor,,DEM,Under Votes,7
+Sweetwater,06-5,Secretary of State,,REP,CJ Young,32
+Sweetwater,06-5,Secretary of State,,REP,Qwenton Eagle Oviatt,24
+Sweetwater,06-5,Secretary of State,,REP,Rachel Williams,118
+Sweetwater,06-5,Secretary of State,,REP,Robert Short,105
+Sweetwater,06-5,Secretary of State,,REP,Write-ins,1
+Sweetwater,06-5,Secretary of State,,REP,Over Votes,0
+Sweetwater,06-5,Secretary of State,,REP,Under Votes,42
+Sweetwater,06-5,Secretary of State,,DEM,Bryan McCarty,49
+Sweetwater,06-5,Secretary of State,,DEM,Write-ins,1
+Sweetwater,06-5,Secretary of State,,DEM,Over Votes,0
+Sweetwater,06-5,Secretary of State,,DEM,Under Votes,4
+Sweetwater,06-5,State Auditor,,REP,Kristi Racines,268
+Sweetwater,06-5,State Auditor,,REP,Write-ins,2
+Sweetwater,06-5,State Auditor,,REP,Over Votes,0
+Sweetwater,06-5,State Auditor,,REP,Under Votes,52
+Sweetwater,06-5,State Auditor,,DEM,Write-ins,5
+Sweetwater,06-5,State Auditor,,DEM,Over Votes,0
+Sweetwater,06-5,State Auditor,,DEM,Under Votes,49
+Sweetwater,06-5,State Treasurer,,REP,Curt Meier,173
+Sweetwater,06-5,State Treasurer,,REP,Scott Smith,103
+Sweetwater,06-5,State Treasurer,,REP,Write-ins,2
+Sweetwater,06-5,State Treasurer,,REP,Over Votes,0
+Sweetwater,06-5,State Treasurer,,REP,Under Votes,44
+Sweetwater,06-5,State Treasurer,,DEM,Write-ins,5
+Sweetwater,06-5,State Treasurer,,DEM,Over Votes,0
+Sweetwater,06-5,State Treasurer,,DEM,Under Votes,49
+Sweetwater,06-5,Superintendent of Public Instruction,,REP,Chad Auer,25
+Sweetwater,06-5,Superintendent of Public Instruction,,REP,Steve Harshman,137
+Sweetwater,06-5,Superintendent of Public Instruction,,REP,Tom Kelly,113
+Sweetwater,06-5,Superintendent of Public Instruction,,REP,Write-ins,3
+Sweetwater,06-5,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,06-5,Superintendent of Public Instruction,,REP,Under Votes,44
+Sweetwater,06-5,Superintendent of Public Instruction,,DEM,Ana Cordova,24
+Sweetwater,06-5,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",24
+Sweetwater,06-5,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,06-5,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,06-5,Superintendent of Public Instruction,,DEM,Under Votes,6
+Sweetwater,06-5,State House,48,REP,Darin McCann,112
+Sweetwater,06-5,State House,48,REP,James Wamsley,190
+Sweetwater,06-5,State House,48,REP,Write-ins,2
+Sweetwater,06-5,State House,48,REP,Over Votes,1
+Sweetwater,06-5,State House,48,REP,Under Votes,17
+Sweetwater,06-5,State House,48,DEM,Write-ins,12
+Sweetwater,06-5,State House,48,DEM,Over Votes,0
+Sweetwater,06-5,State House,48,DEM,Under Votes,42
+Sweetwater,06-5,Ballots Cast,,REP,Ballots Cast,322
+Sweetwater,06-5,Ballots Cast,,DEM,Ballots Cast,54
+Sweetwater,06-5,Ballots Cast,,NP,Ballots Cast,22
+Sweetwater,06-5,Ballots Cast,,,Ballots Cast,398
+Sweetwater,06-6,U.S. Senate,,REP,Harriet Hageman,0
+Sweetwater,06-6,U.S. Senate,,REP,Jill M Edwards,0
+Sweetwater,06-6,U.S. Senate,,REP,Jimmy Skovgard,0
+Sweetwater,06-6,U.S. Senate,,REP,John Holtz,0
+Sweetwater,06-6,U.S. Senate,,REP,Sam Mead,0
+Sweetwater,06-6,U.S. Senate,,REP,Write-ins,0
+Sweetwater,06-6,U.S. Senate,,REP,Over Votes,0
+Sweetwater,06-6,U.S. Senate,,REP,Under Votes,0
+Sweetwater,06-6,U.S. Senate,,DEM,Billy Benavidez,0
+Sweetwater,06-6,U.S. Senate,,DEM,James Byrd,0
+Sweetwater,06-6,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,06-6,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,06-6,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,06-6,U.S. House,,REP,* Withdrawn Candidate,0
+Sweetwater,06-6,U.S. House,,REP,Bo Biteman,0
+Sweetwater,06-6,U.S. House,,REP,Chuck Gray,0
+Sweetwater,06-6,U.S. House,,REP,David Giralt,0
+Sweetwater,06-6,U.S. House,,REP,Jillian Balow,0
+Sweetwater,06-6,U.S. House,,REP,Keith B. Goodenough,0
+Sweetwater,06-6,U.S. House,,REP,Kevin Christensen,0
+Sweetwater,06-6,U.S. House,,REP,Reid Rasner,0
+Sweetwater,06-6,U.S. House,,REP,Richard Dodson,0
+Sweetwater,06-6,U.S. House,,REP,Steve Friess,0
+Sweetwater,06-6,U.S. House,,REP,Write-ins,0
+Sweetwater,06-6,U.S. House,,REP,Over Votes,0
+Sweetwater,06-6,U.S. House,,REP,Under Votes,0
+Sweetwater,06-6,U.S. House,,DEM,Elena Del Real,0
+Sweetwater,06-6,U.S. House,,DEM,Lisa Kinney,0
+Sweetwater,06-6,U.S. House,,DEM,Write-ins,0
+Sweetwater,06-6,U.S. House,,DEM,Over Votes,0
+Sweetwater,06-6,U.S. House,,DEM,Under Votes,0
+Sweetwater,06-6,Governor,,REP,Brent Bien,0
+Sweetwater,06-6,Governor,,REP,Curt Blake,0
+Sweetwater,06-6,Governor,,REP,Eric Barlow,0
+Sweetwater,06-6,Governor,,REP,Megan Degenfelder,0
+Sweetwater,06-6,Governor,,REP,Write-ins,0
+Sweetwater,06-6,Governor,,REP,Over Votes,0
+Sweetwater,06-6,Governor,,REP,Under Votes,0
+Sweetwater,06-6,Governor,,DEM,Kenneth R. Casner,0
+Sweetwater,06-6,Governor,,DEM,Write-ins,0
+Sweetwater,06-6,Governor,,DEM,Over Votes,0
+Sweetwater,06-6,Governor,,DEM,Under Votes,0
+Sweetwater,06-6,Secretary of State,,REP,CJ Young,0
+Sweetwater,06-6,Secretary of State,,REP,Qwenton Eagle Oviatt,0
+Sweetwater,06-6,Secretary of State,,REP,Rachel Williams,0
+Sweetwater,06-6,Secretary of State,,REP,Robert Short,0
+Sweetwater,06-6,Secretary of State,,REP,Write-ins,0
+Sweetwater,06-6,Secretary of State,,REP,Over Votes,0
+Sweetwater,06-6,Secretary of State,,REP,Under Votes,0
+Sweetwater,06-6,Secretary of State,,DEM,Bryan McCarty,0
+Sweetwater,06-6,Secretary of State,,DEM,Write-ins,0
+Sweetwater,06-6,Secretary of State,,DEM,Over Votes,0
+Sweetwater,06-6,Secretary of State,,DEM,Under Votes,0
+Sweetwater,06-6,State Auditor,,REP,Kristi Racines,0
+Sweetwater,06-6,State Auditor,,REP,Write-ins,0
+Sweetwater,06-6,State Auditor,,REP,Over Votes,0
+Sweetwater,06-6,State Auditor,,REP,Under Votes,0
+Sweetwater,06-6,State Auditor,,DEM,Write-ins,0
+Sweetwater,06-6,State Auditor,,DEM,Over Votes,0
+Sweetwater,06-6,State Auditor,,DEM,Under Votes,0
+Sweetwater,06-6,State Treasurer,,REP,Curt Meier,0
+Sweetwater,06-6,State Treasurer,,REP,Scott Smith,0
+Sweetwater,06-6,State Treasurer,,REP,Write-ins,0
+Sweetwater,06-6,State Treasurer,,REP,Over Votes,0
+Sweetwater,06-6,State Treasurer,,REP,Under Votes,0
+Sweetwater,06-6,State Treasurer,,DEM,Write-ins,0
+Sweetwater,06-6,State Treasurer,,DEM,Over Votes,0
+Sweetwater,06-6,State Treasurer,,DEM,Under Votes,0
+Sweetwater,06-6,Superintendent of Public Instruction,,REP,Chad Auer,0
+Sweetwater,06-6,Superintendent of Public Instruction,,REP,Steve Harshman,0
+Sweetwater,06-6,Superintendent of Public Instruction,,REP,Tom Kelly,0
+Sweetwater,06-6,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,06-6,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,06-6,Superintendent of Public Instruction,,REP,Under Votes,0
+Sweetwater,06-6,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Sweetwater,06-6,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Sweetwater,06-6,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,06-6,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,06-6,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,06-6,State Senate,13,REP,Stacy Jones,0
+Sweetwater,06-6,State Senate,13,REP,Write-ins,0
+Sweetwater,06-6,State Senate,13,REP,Over Votes,0
+Sweetwater,06-6,State Senate,13,REP,Under Votes,0
+Sweetwater,06-6,State Senate,13,DEM,Write-ins,0
+Sweetwater,06-6,State Senate,13,DEM,Over Votes,0
+Sweetwater,06-6,State Senate,13,DEM,Under Votes,0
+Sweetwater,06-6,State House,39,REP,Cody Wylie,0
+Sweetwater,06-6,State House,39,REP,Write-ins,0
+Sweetwater,06-6,State House,39,REP,Over Votes,0
+Sweetwater,06-6,State House,39,REP,Under Votes,0
+Sweetwater,06-6,State House,39,DEM,Write-ins,0
+Sweetwater,06-6,State House,39,DEM,Over Votes,0
+Sweetwater,06-6,State House,39,DEM,Under Votes,0
+Sweetwater,06-6,Ballots Cast,,REP,Ballots Cast,0
+Sweetwater,06-6,Ballots Cast,,DEM,Ballots Cast,0
+Sweetwater,06-6,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,06-6,Ballots Cast,,,Ballots Cast,0
+Sweetwater,07-3,U.S. Senate,,REP,Harriet Hageman,321
+Sweetwater,07-3,U.S. Senate,,REP,Jill M Edwards,5
+Sweetwater,07-3,U.S. Senate,,REP,Jimmy Skovgard,12
+Sweetwater,07-3,U.S. Senate,,REP,John Holtz,9
+Sweetwater,07-3,U.S. Senate,,REP,Sam Mead,68
+Sweetwater,07-3,U.S. Senate,,REP,Write-ins,1
+Sweetwater,07-3,U.S. Senate,,REP,Over Votes,0
+Sweetwater,07-3,U.S. Senate,,REP,Under Votes,7
+Sweetwater,07-3,U.S. Senate,,DEM,Billy Benavidez,6
+Sweetwater,07-3,U.S. Senate,,DEM,James Byrd,24
+Sweetwater,07-3,U.S. Senate,,DEM,Write-ins,2
+Sweetwater,07-3,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,07-3,U.S. Senate,,DEM,Under Votes,2
+Sweetwater,07-3,U.S. House,,REP,* Withdrawn Candidate,10
+Sweetwater,07-3,U.S. House,,REP,Bo Biteman,14
+Sweetwater,07-3,U.S. House,,REP,Chuck Gray,135
+Sweetwater,07-3,U.S. House,,REP,David Giralt,30
+Sweetwater,07-3,U.S. House,,REP,Jillian Balow,34
+Sweetwater,07-3,U.S. House,,REP,Keith B. Goodenough,8
+Sweetwater,07-3,U.S. House,,REP,Kevin Christensen,37
+Sweetwater,07-3,U.S. House,,REP,Reid Rasner,51
+Sweetwater,07-3,U.S. House,,REP,Richard Dodson,5
+Sweetwater,07-3,U.S. House,,REP,Steve Friess,65
+Sweetwater,07-3,U.S. House,,REP,Write-ins,5
+Sweetwater,07-3,U.S. House,,REP,Over Votes,11
+Sweetwater,07-3,U.S. House,,REP,Under Votes,18
+Sweetwater,07-3,U.S. House,,DEM,Elena Del Real,11
+Sweetwater,07-3,U.S. House,,DEM,Lisa Kinney,19
+Sweetwater,07-3,U.S. House,,DEM,Write-ins,3
+Sweetwater,07-3,U.S. House,,DEM,Over Votes,0
+Sweetwater,07-3,U.S. House,,DEM,Under Votes,1
+Sweetwater,07-3,Governor,,REP,Brent Bien,140
+Sweetwater,07-3,Governor,,REP,Curt Blake,6
+Sweetwater,07-3,Governor,,REP,Eric Barlow,124
+Sweetwater,07-3,Governor,,REP,Megan Degenfelder,147
+Sweetwater,07-3,Governor,,REP,Write-ins,1
+Sweetwater,07-3,Governor,,REP,Over Votes,0
+Sweetwater,07-3,Governor,,REP,Under Votes,5
+Sweetwater,07-3,Governor,,DEM,Kenneth R. Casner,25
+Sweetwater,07-3,Governor,,DEM,Write-ins,4
+Sweetwater,07-3,Governor,,DEM,Over Votes,0
+Sweetwater,07-3,Governor,,DEM,Under Votes,5
+Sweetwater,07-3,Secretary of State,,REP,CJ Young,68
+Sweetwater,07-3,Secretary of State,,REP,Qwenton Eagle Oviatt,22
+Sweetwater,07-3,Secretary of State,,REP,Rachel Williams,172
+Sweetwater,07-3,Secretary of State,,REP,Robert Short,110
+Sweetwater,07-3,Secretary of State,,REP,Write-ins,2
+Sweetwater,07-3,Secretary of State,,REP,Over Votes,0
+Sweetwater,07-3,Secretary of State,,REP,Under Votes,49
+Sweetwater,07-3,Secretary of State,,DEM,Bryan McCarty,30
+Sweetwater,07-3,Secretary of State,,DEM,Write-ins,1
+Sweetwater,07-3,Secretary of State,,DEM,Over Votes,0
+Sweetwater,07-3,Secretary of State,,DEM,Under Votes,3
+Sweetwater,07-3,State Auditor,,REP,Kristi Racines,332
+Sweetwater,07-3,State Auditor,,REP,Write-ins,9
+Sweetwater,07-3,State Auditor,,REP,Over Votes,0
+Sweetwater,07-3,State Auditor,,REP,Under Votes,82
+Sweetwater,07-3,State Auditor,,DEM,Write-ins,1
+Sweetwater,07-3,State Auditor,,DEM,Over Votes,0
+Sweetwater,07-3,State Auditor,,DEM,Under Votes,33
+Sweetwater,07-3,State Treasurer,,REP,Curt Meier,210
+Sweetwater,07-3,State Treasurer,,REP,Scott Smith,150
+Sweetwater,07-3,State Treasurer,,REP,Write-ins,3
+Sweetwater,07-3,State Treasurer,,REP,Over Votes,0
+Sweetwater,07-3,State Treasurer,,REP,Under Votes,60
+Sweetwater,07-3,State Treasurer,,DEM,Write-ins,2
+Sweetwater,07-3,State Treasurer,,DEM,Over Votes,0
+Sweetwater,07-3,State Treasurer,,DEM,Under Votes,32
+Sweetwater,07-3,Superintendent of Public Instruction,,REP,Chad Auer,41
+Sweetwater,07-3,Superintendent of Public Instruction,,REP,Steve Harshman,172
+Sweetwater,07-3,Superintendent of Public Instruction,,REP,Tom Kelly,154
+Sweetwater,07-3,Superintendent of Public Instruction,,REP,Write-ins,2
+Sweetwater,07-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,07-3,Superintendent of Public Instruction,,REP,Under Votes,54
+Sweetwater,07-3,Superintendent of Public Instruction,,DEM,Ana Cordova,14
+Sweetwater,07-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",16
+Sweetwater,07-3,Superintendent of Public Instruction,,DEM,Write-ins,3
+Sweetwater,07-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,07-3,Superintendent of Public Instruction,,DEM,Under Votes,1
+Sweetwater,07-3,State House,48,REP,Darin McCann,216
+Sweetwater,07-3,State House,48,REP,James Wamsley,184
+Sweetwater,07-3,State House,48,REP,Write-ins,2
+Sweetwater,07-3,State House,48,REP,Over Votes,0
+Sweetwater,07-3,State House,48,REP,Under Votes,21
+Sweetwater,07-3,State House,48,DEM,Write-ins,7
+Sweetwater,07-3,State House,48,DEM,Over Votes,0
+Sweetwater,07-3,State House,48,DEM,Under Votes,27
+Sweetwater,07-3,Ballots Cast,,REP,Ballots Cast,423
+Sweetwater,07-3,Ballots Cast,,DEM,Ballots Cast,34
+Sweetwater,07-3,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,07-3,Ballots Cast,,,Ballots Cast,457
+Sweetwater,07-4,U.S. Senate,,REP,Harriet Hageman,106
+Sweetwater,07-4,U.S. Senate,,REP,Jill M Edwards,0
+Sweetwater,07-4,U.S. Senate,,REP,Jimmy Skovgard,9
+Sweetwater,07-4,U.S. Senate,,REP,John Holtz,2
+Sweetwater,07-4,U.S. Senate,,REP,Sam Mead,25
+Sweetwater,07-4,U.S. Senate,,REP,Write-ins,2
+Sweetwater,07-4,U.S. Senate,,REP,Over Votes,0
+Sweetwater,07-4,U.S. Senate,,REP,Under Votes,2
+Sweetwater,07-4,U.S. Senate,,DEM,Billy Benavidez,5
+Sweetwater,07-4,U.S. Senate,,DEM,James Byrd,5
+Sweetwater,07-4,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,07-4,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,07-4,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,07-4,U.S. House,,REP,* Withdrawn Candidate,3
+Sweetwater,07-4,U.S. House,,REP,Bo Biteman,8
+Sweetwater,07-4,U.S. House,,REP,Chuck Gray,48
+Sweetwater,07-4,U.S. House,,REP,David Giralt,4
+Sweetwater,07-4,U.S. House,,REP,Jillian Balow,8
+Sweetwater,07-4,U.S. House,,REP,Keith B. Goodenough,5
+Sweetwater,07-4,U.S. House,,REP,Kevin Christensen,15
+Sweetwater,07-4,U.S. House,,REP,Reid Rasner,17
+Sweetwater,07-4,U.S. House,,REP,Richard Dodson,5
+Sweetwater,07-4,U.S. House,,REP,Steve Friess,24
+Sweetwater,07-4,U.S. House,,REP,Write-ins,1
+Sweetwater,07-4,U.S. House,,REP,Over Votes,1
+Sweetwater,07-4,U.S. House,,REP,Under Votes,7
+Sweetwater,07-4,U.S. House,,DEM,Elena Del Real,5
+Sweetwater,07-4,U.S. House,,DEM,Lisa Kinney,5
+Sweetwater,07-4,U.S. House,,DEM,Write-ins,0
+Sweetwater,07-4,U.S. House,,DEM,Over Votes,0
+Sweetwater,07-4,U.S. House,,DEM,Under Votes,0
+Sweetwater,07-4,Governor,,REP,Brent Bien,39
+Sweetwater,07-4,Governor,,REP,Curt Blake,4
+Sweetwater,07-4,Governor,,REP,Eric Barlow,33
+Sweetwater,07-4,Governor,,REP,Megan Degenfelder,64
+Sweetwater,07-4,Governor,,REP,Write-ins,2
+Sweetwater,07-4,Governor,,REP,Over Votes,0
+Sweetwater,07-4,Governor,,REP,Under Votes,4
+Sweetwater,07-4,Governor,,DEM,Kenneth R. Casner,10
+Sweetwater,07-4,Governor,,DEM,Write-ins,0
+Sweetwater,07-4,Governor,,DEM,Over Votes,0
+Sweetwater,07-4,Governor,,DEM,Under Votes,0
+Sweetwater,07-4,Secretary of State,,REP,CJ Young,18
+Sweetwater,07-4,Secretary of State,,REP,Qwenton Eagle Oviatt,10
+Sweetwater,07-4,Secretary of State,,REP,Rachel Williams,54
+Sweetwater,07-4,Secretary of State,,REP,Robert Short,46
+Sweetwater,07-4,Secretary of State,,REP,Write-ins,1
+Sweetwater,07-4,Secretary of State,,REP,Over Votes,0
+Sweetwater,07-4,Secretary of State,,REP,Under Votes,17
+Sweetwater,07-4,Secretary of State,,DEM,Bryan McCarty,10
+Sweetwater,07-4,Secretary of State,,DEM,Write-ins,0
+Sweetwater,07-4,Secretary of State,,DEM,Over Votes,0
+Sweetwater,07-4,Secretary of State,,DEM,Under Votes,0
+Sweetwater,07-4,State Auditor,,REP,Kristi Racines,119
+Sweetwater,07-4,State Auditor,,REP,Write-ins,2
+Sweetwater,07-4,State Auditor,,REP,Over Votes,0
+Sweetwater,07-4,State Auditor,,REP,Under Votes,25
+Sweetwater,07-4,State Auditor,,DEM,Write-ins,0
+Sweetwater,07-4,State Auditor,,DEM,Over Votes,0
+Sweetwater,07-4,State Auditor,,DEM,Under Votes,10
+Sweetwater,07-4,State Treasurer,,REP,Curt Meier,73
+Sweetwater,07-4,State Treasurer,,REP,Scott Smith,52
+Sweetwater,07-4,State Treasurer,,REP,Write-ins,0
+Sweetwater,07-4,State Treasurer,,REP,Over Votes,0
+Sweetwater,07-4,State Treasurer,,REP,Under Votes,21
+Sweetwater,07-4,State Treasurer,,DEM,Write-ins,1
+Sweetwater,07-4,State Treasurer,,DEM,Over Votes,0
+Sweetwater,07-4,State Treasurer,,DEM,Under Votes,9
+Sweetwater,07-4,Superintendent of Public Instruction,,REP,Chad Auer,14
+Sweetwater,07-4,Superintendent of Public Instruction,,REP,Steve Harshman,53
+Sweetwater,07-4,Superintendent of Public Instruction,,REP,Tom Kelly,56
+Sweetwater,07-4,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,07-4,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,07-4,Superintendent of Public Instruction,,REP,Under Votes,23
+Sweetwater,07-4,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Sweetwater,07-4,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Sweetwater,07-4,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,07-4,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,07-4,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,07-4,State House,18,REP,Kenneth D Roberts,58
+Sweetwater,07-4,State House,18,REP,Scott Heiner,73
+Sweetwater,07-4,State House,18,REP,Write-ins,0
+Sweetwater,07-4,State House,18,REP,Over Votes,0
+Sweetwater,07-4,State House,18,REP,Under Votes,15
+Sweetwater,07-4,State House,18,DEM,Write-ins,1
+Sweetwater,07-4,State House,18,DEM,Over Votes,0
+Sweetwater,07-4,State House,18,DEM,Under Votes,9
+Sweetwater,07-4,Ballots Cast,,REP,Ballots Cast,146
+Sweetwater,07-4,Ballots Cast,,DEM,Ballots Cast,10
+Sweetwater,07-4,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,07-4,Ballots Cast,,,Ballots Cast,156
+Sweetwater,09-3,U.S. Senate,,REP,Harriet Hageman,102
+Sweetwater,09-3,U.S. Senate,,REP,Jill M Edwards,2
+Sweetwater,09-3,U.S. Senate,,REP,Jimmy Skovgard,2
+Sweetwater,09-3,U.S. Senate,,REP,John Holtz,4
+Sweetwater,09-3,U.S. Senate,,REP,Sam Mead,22
+Sweetwater,09-3,U.S. Senate,,REP,Write-ins,1
+Sweetwater,09-3,U.S. Senate,,REP,Over Votes,0
+Sweetwater,09-3,U.S. Senate,,REP,Under Votes,4
+Sweetwater,09-3,U.S. Senate,,DEM,Billy Benavidez,6
+Sweetwater,09-3,U.S. Senate,,DEM,James Byrd,7
+Sweetwater,09-3,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,09-3,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,09-3,U.S. Senate,,DEM,Under Votes,2
+Sweetwater,09-3,U.S. House,,REP,* Withdrawn Candidate,3
+Sweetwater,09-3,U.S. House,,REP,Bo Biteman,4
+Sweetwater,09-3,U.S. House,,REP,Chuck Gray,44
+Sweetwater,09-3,U.S. House,,REP,David Giralt,5
+Sweetwater,09-3,U.S. House,,REP,Jillian Balow,12
+Sweetwater,09-3,U.S. House,,REP,Keith B. Goodenough,1
+Sweetwater,09-3,U.S. House,,REP,Kevin Christensen,11
+Sweetwater,09-3,U.S. House,,REP,Reid Rasner,20
+Sweetwater,09-3,U.S. House,,REP,Richard Dodson,0
+Sweetwater,09-3,U.S. House,,REP,Steve Friess,20
+Sweetwater,09-3,U.S. House,,REP,Write-ins,1
+Sweetwater,09-3,U.S. House,,REP,Over Votes,2
+Sweetwater,09-3,U.S. House,,REP,Under Votes,14
+Sweetwater,09-3,U.S. House,,DEM,Elena Del Real,4
+Sweetwater,09-3,U.S. House,,DEM,Lisa Kinney,9
+Sweetwater,09-3,U.S. House,,DEM,Write-ins,0
+Sweetwater,09-3,U.S. House,,DEM,Over Votes,0
+Sweetwater,09-3,U.S. House,,DEM,Under Votes,2
+Sweetwater,09-3,Governor,,REP,Brent Bien,39
+Sweetwater,09-3,Governor,,REP,Curt Blake,4
+Sweetwater,09-3,Governor,,REP,Eric Barlow,43
+Sweetwater,09-3,Governor,,REP,Megan Degenfelder,47
+Sweetwater,09-3,Governor,,REP,Write-ins,0
+Sweetwater,09-3,Governor,,REP,Over Votes,0
+Sweetwater,09-3,Governor,,REP,Under Votes,4
+Sweetwater,09-3,Governor,,DEM,Kenneth R. Casner,11
+Sweetwater,09-3,Governor,,DEM,Write-ins,1
+Sweetwater,09-3,Governor,,DEM,Over Votes,0
+Sweetwater,09-3,Governor,,DEM,Under Votes,3
+Sweetwater,09-3,Secretary of State,,REP,CJ Young,22
+Sweetwater,09-3,Secretary of State,,REP,Qwenton Eagle Oviatt,7
+Sweetwater,09-3,Secretary of State,,REP,Rachel Williams,39
+Sweetwater,09-3,Secretary of State,,REP,Robert Short,43
+Sweetwater,09-3,Secretary of State,,REP,Write-ins,1
+Sweetwater,09-3,Secretary of State,,REP,Over Votes,0
+Sweetwater,09-3,Secretary of State,,REP,Under Votes,25
+Sweetwater,09-3,Secretary of State,,DEM,Bryan McCarty,12
+Sweetwater,09-3,Secretary of State,,DEM,Write-ins,0
+Sweetwater,09-3,Secretary of State,,DEM,Over Votes,0
+Sweetwater,09-3,Secretary of State,,DEM,Under Votes,3
+Sweetwater,09-3,State Auditor,,REP,Kristi Racines,104
+Sweetwater,09-3,State Auditor,,REP,Write-ins,1
+Sweetwater,09-3,State Auditor,,REP,Over Votes,0
+Sweetwater,09-3,State Auditor,,REP,Under Votes,32
+Sweetwater,09-3,State Auditor,,DEM,Write-ins,0
+Sweetwater,09-3,State Auditor,,DEM,Over Votes,0
+Sweetwater,09-3,State Auditor,,DEM,Under Votes,15
+Sweetwater,09-3,State Treasurer,,REP,Curt Meier,72
+Sweetwater,09-3,State Treasurer,,REP,Scott Smith,43
+Sweetwater,09-3,State Treasurer,,REP,Write-ins,1
+Sweetwater,09-3,State Treasurer,,REP,Over Votes,0
+Sweetwater,09-3,State Treasurer,,REP,Under Votes,21
+Sweetwater,09-3,State Treasurer,,DEM,Write-ins,0
+Sweetwater,09-3,State Treasurer,,DEM,Over Votes,0
+Sweetwater,09-3,State Treasurer,,DEM,Under Votes,15
+Sweetwater,09-3,Superintendent of Public Instruction,,REP,Chad Auer,11
+Sweetwater,09-3,Superintendent of Public Instruction,,REP,Steve Harshman,53
+Sweetwater,09-3,Superintendent of Public Instruction,,REP,Tom Kelly,46
+Sweetwater,09-3,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,09-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,09-3,Superintendent of Public Instruction,,REP,Under Votes,26
+Sweetwater,09-3,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Sweetwater,09-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Sweetwater,09-3,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,09-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,09-3,Superintendent of Public Instruction,,DEM,Under Votes,1
+Sweetwater,09-3,State House,18,REP,Kenneth D Roberts,49
+Sweetwater,09-3,State House,18,REP,Scott Heiner,81
+Sweetwater,09-3,State House,18,REP,Write-ins,1
+Sweetwater,09-3,State House,18,REP,Over Votes,0
+Sweetwater,09-3,State House,18,REP,Under Votes,6
+Sweetwater,09-3,State House,18,DEM,Write-ins,0
+Sweetwater,09-3,State House,18,DEM,Over Votes,0
+Sweetwater,09-3,State House,18,DEM,Under Votes,15
+Sweetwater,09-3,Ballots Cast,,REP,Ballots Cast,137
+Sweetwater,09-3,Ballots Cast,,DEM,Ballots Cast,15
+Sweetwater,09-3,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,09-3,Ballots Cast,,,Ballots Cast,152
+Sweetwater,10-10,U.S. Senate,,REP,Harriet Hageman,343
+Sweetwater,10-10,U.S. Senate,,REP,Jill M Edwards,20
+Sweetwater,10-10,U.S. Senate,,REP,Jimmy Skovgard,21
+Sweetwater,10-10,U.S. Senate,,REP,John Holtz,14
+Sweetwater,10-10,U.S. Senate,,REP,Sam Mead,110
+Sweetwater,10-10,U.S. Senate,,REP,Write-ins,3
+Sweetwater,10-10,U.S. Senate,,REP,Over Votes,0
+Sweetwater,10-10,U.S. Senate,,REP,Under Votes,19
+Sweetwater,10-10,U.S. Senate,,DEM,Billy Benavidez,26
+Sweetwater,10-10,U.S. Senate,,DEM,James Byrd,63
+Sweetwater,10-10,U.S. Senate,,DEM,Write-ins,2
+Sweetwater,10-10,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,10-10,U.S. Senate,,DEM,Under Votes,8
+Sweetwater,10-10,U.S. House,,REP,* Withdrawn Candidate,13
+Sweetwater,10-10,U.S. House,,REP,Bo Biteman,10
+Sweetwater,10-10,U.S. House,,REP,Chuck Gray,133
+Sweetwater,10-10,U.S. House,,REP,David Giralt,52
+Sweetwater,10-10,U.S. House,,REP,Jillian Balow,42
+Sweetwater,10-10,U.S. House,,REP,Keith B. Goodenough,15
+Sweetwater,10-10,U.S. House,,REP,Kevin Christensen,62
+Sweetwater,10-10,U.S. House,,REP,Reid Rasner,57
+Sweetwater,10-10,U.S. House,,REP,Richard Dodson,13
+Sweetwater,10-10,U.S. House,,REP,Steve Friess,84
+Sweetwater,10-10,U.S. House,,REP,Write-ins,3
+Sweetwater,10-10,U.S. House,,REP,Over Votes,11
+Sweetwater,10-10,U.S. House,,REP,Under Votes,35
+Sweetwater,10-10,U.S. House,,DEM,Elena Del Real,20
+Sweetwater,10-10,U.S. House,,DEM,Lisa Kinney,70
+Sweetwater,10-10,U.S. House,,DEM,Write-ins,2
+Sweetwater,10-10,U.S. House,,DEM,Over Votes,0
+Sweetwater,10-10,U.S. House,,DEM,Under Votes,7
+Sweetwater,10-10,Governor,,REP,Brent Bien,94
+Sweetwater,10-10,Governor,,REP,Curt Blake,19
+Sweetwater,10-10,Governor,,REP,Eric Barlow,218
+Sweetwater,10-10,Governor,,REP,Megan Degenfelder,181
+Sweetwater,10-10,Governor,,REP,Write-ins,0
+Sweetwater,10-10,Governor,,REP,Over Votes,0
+Sweetwater,10-10,Governor,,REP,Under Votes,18
+Sweetwater,10-10,Governor,,DEM,Kenneth R. Casner,76
+Sweetwater,10-10,Governor,,DEM,Write-ins,4
+Sweetwater,10-10,Governor,,DEM,Over Votes,0
+Sweetwater,10-10,Governor,,DEM,Under Votes,19
+Sweetwater,10-10,Secretary of State,,REP,CJ Young,98
+Sweetwater,10-10,Secretary of State,,REP,Qwenton Eagle Oviatt,25
+Sweetwater,10-10,Secretary of State,,REP,Rachel Williams,161
+Sweetwater,10-10,Secretary of State,,REP,Robert Short,154
+Sweetwater,10-10,Secretary of State,,REP,Write-ins,3
+Sweetwater,10-10,Secretary of State,,REP,Over Votes,0
+Sweetwater,10-10,Secretary of State,,REP,Under Votes,89
+Sweetwater,10-10,Secretary of State,,DEM,Bryan McCarty,79
+Sweetwater,10-10,Secretary of State,,DEM,Write-ins,2
+Sweetwater,10-10,Secretary of State,,DEM,Over Votes,0
+Sweetwater,10-10,Secretary of State,,DEM,Under Votes,18
+Sweetwater,10-10,State Auditor,,REP,Kristi Racines,413
+Sweetwater,10-10,State Auditor,,REP,Write-ins,3
+Sweetwater,10-10,State Auditor,,REP,Over Votes,0
+Sweetwater,10-10,State Auditor,,REP,Under Votes,114
+Sweetwater,10-10,State Auditor,,DEM,Write-ins,3
+Sweetwater,10-10,State Auditor,,DEM,Over Votes,0
+Sweetwater,10-10,State Auditor,,DEM,Under Votes,96
+Sweetwater,10-10,State Treasurer,,REP,Curt Meier,213
+Sweetwater,10-10,State Treasurer,,REP,Scott Smith,220
+Sweetwater,10-10,State Treasurer,,REP,Write-ins,2
+Sweetwater,10-10,State Treasurer,,REP,Over Votes,0
+Sweetwater,10-10,State Treasurer,,REP,Under Votes,95
+Sweetwater,10-10,State Treasurer,,DEM,Write-ins,4
+Sweetwater,10-10,State Treasurer,,DEM,Over Votes,0
+Sweetwater,10-10,State Treasurer,,DEM,Under Votes,95
+Sweetwater,10-10,Superintendent of Public Instruction,,REP,Chad Auer,57
+Sweetwater,10-10,Superintendent of Public Instruction,,REP,Steve Harshman,209
+Sweetwater,10-10,Superintendent of Public Instruction,,REP,Tom Kelly,177
+Sweetwater,10-10,Superintendent of Public Instruction,,REP,Write-ins,3
+Sweetwater,10-10,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,10-10,Superintendent of Public Instruction,,REP,Under Votes,84
+Sweetwater,10-10,Superintendent of Public Instruction,,DEM,Ana Cordova,58
+Sweetwater,10-10,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",32
+Sweetwater,10-10,Superintendent of Public Instruction,,DEM,Write-ins,1
+Sweetwater,10-10,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,10-10,Superintendent of Public Instruction,,DEM,Under Votes,8
+Sweetwater,10-10,State Senate,13,REP,Stacy Jones,412
+Sweetwater,10-10,State Senate,13,REP,Write-ins,4
+Sweetwater,10-10,State Senate,13,REP,Over Votes,0
+Sweetwater,10-10,State Senate,13,REP,Under Votes,114
+Sweetwater,10-10,State Senate,13,DEM,Write-ins,5
+Sweetwater,10-10,State Senate,13,DEM,Over Votes,0
+Sweetwater,10-10,State Senate,13,DEM,Under Votes,94
+Sweetwater,10-10,State House,60,REP,Marlene Brady,168
+Sweetwater,10-10,State House,60,REP,Tony Niemiec,343
+Sweetwater,10-10,State House,60,REP,Write-ins,2
+Sweetwater,10-10,State House,60,REP,Over Votes,0
+Sweetwater,10-10,State House,60,REP,Under Votes,17
+Sweetwater,10-10,State House,60,DEM,Write-ins,5
+Sweetwater,10-10,State House,60,DEM,Over Votes,0
+Sweetwater,10-10,State House,60,DEM,Under Votes,94
+Sweetwater,10-10,Ballots Cast,,REP,Ballots Cast,530
+Sweetwater,10-10,Ballots Cast,,DEM,Ballots Cast,99
+Sweetwater,10-10,Ballots Cast,,NP,Ballots Cast,27
+Sweetwater,10-10,Ballots Cast,,,Ballots Cast,656
+Sweetwater,10-11,U.S. Senate,,REP,Harriet Hageman,563
+Sweetwater,10-11,U.S. Senate,,REP,Jill M Edwards,28
+Sweetwater,10-11,U.S. Senate,,REP,Jimmy Skovgard,30
+Sweetwater,10-11,U.S. Senate,,REP,John Holtz,24
+Sweetwater,10-11,U.S. Senate,,REP,Sam Mead,204
+Sweetwater,10-11,U.S. Senate,,REP,Write-ins,2
+Sweetwater,10-11,U.S. Senate,,REP,Over Votes,1
+Sweetwater,10-11,U.S. Senate,,REP,Under Votes,22
+Sweetwater,10-11,U.S. Senate,,DEM,Billy Benavidez,31
+Sweetwater,10-11,U.S. Senate,,DEM,James Byrd,99
+Sweetwater,10-11,U.S. Senate,,DEM,Write-ins,1
+Sweetwater,10-11,U.S. Senate,,DEM,Over Votes,1
+Sweetwater,10-11,U.S. Senate,,DEM,Under Votes,6
+Sweetwater,10-11,U.S. House,,REP,* Withdrawn Candidate,22
+Sweetwater,10-11,U.S. House,,REP,Bo Biteman,26
+Sweetwater,10-11,U.S. House,,REP,Chuck Gray,216
+Sweetwater,10-11,U.S. House,,REP,David Giralt,63
+Sweetwater,10-11,U.S. House,,REP,Jillian Balow,87
+Sweetwater,10-11,U.S. House,,REP,Keith B. Goodenough,20
+Sweetwater,10-11,U.S. House,,REP,Kevin Christensen,112
+Sweetwater,10-11,U.S. House,,REP,Reid Rasner,72
+Sweetwater,10-11,U.S. House,,REP,Richard Dodson,15
+Sweetwater,10-11,U.S. House,,REP,Steve Friess,183
+Sweetwater,10-11,U.S. House,,REP,Write-ins,1
+Sweetwater,10-11,U.S. House,,REP,Over Votes,18
+Sweetwater,10-11,U.S. House,,REP,Under Votes,39
+Sweetwater,10-11,U.S. House,,DEM,Elena Del Real,36
+Sweetwater,10-11,U.S. House,,DEM,Lisa Kinney,89
+Sweetwater,10-11,U.S. House,,DEM,Write-ins,1
+Sweetwater,10-11,U.S. House,,DEM,Over Votes,0
+Sweetwater,10-11,U.S. House,,DEM,Under Votes,12
+Sweetwater,10-11,Governor,,REP,Brent Bien,188
+Sweetwater,10-11,Governor,,REP,Curt Blake,21
+Sweetwater,10-11,Governor,,REP,Eric Barlow,400
+Sweetwater,10-11,Governor,,REP,Megan Degenfelder,242
+Sweetwater,10-11,Governor,,REP,Write-ins,2
+Sweetwater,10-11,Governor,,REP,Over Votes,0
+Sweetwater,10-11,Governor,,REP,Under Votes,21
+Sweetwater,10-11,Governor,,DEM,Kenneth R. Casner,119
+Sweetwater,10-11,Governor,,DEM,Write-ins,5
+Sweetwater,10-11,Governor,,DEM,Over Votes,0
+Sweetwater,10-11,Governor,,DEM,Under Votes,14
+Sweetwater,10-11,Secretary of State,,REP,CJ Young,126
+Sweetwater,10-11,Secretary of State,,REP,Qwenton Eagle Oviatt,59
+Sweetwater,10-11,Secretary of State,,REP,Rachel Williams,261
+Sweetwater,10-11,Secretary of State,,REP,Robert Short,299
+Sweetwater,10-11,Secretary of State,,REP,Write-ins,1
+Sweetwater,10-11,Secretary of State,,REP,Over Votes,0
+Sweetwater,10-11,Secretary of State,,REP,Under Votes,128
+Sweetwater,10-11,Secretary of State,,DEM,Bryan McCarty,119
+Sweetwater,10-11,Secretary of State,,DEM,Write-ins,3
+Sweetwater,10-11,Secretary of State,,DEM,Over Votes,0
+Sweetwater,10-11,Secretary of State,,DEM,Under Votes,16
+Sweetwater,10-11,State Auditor,,REP,Kristi Racines,683
+Sweetwater,10-11,State Auditor,,REP,Write-ins,6
+Sweetwater,10-11,State Auditor,,REP,Over Votes,0
+Sweetwater,10-11,State Auditor,,REP,Under Votes,185
+Sweetwater,10-11,State Auditor,,DEM,Write-ins,6
+Sweetwater,10-11,State Auditor,,DEM,Over Votes,0
+Sweetwater,10-11,State Auditor,,DEM,Under Votes,132
+Sweetwater,10-11,State Treasurer,,REP,Curt Meier,455
+Sweetwater,10-11,State Treasurer,,REP,Scott Smith,272
+Sweetwater,10-11,State Treasurer,,REP,Write-ins,2
+Sweetwater,10-11,State Treasurer,,REP,Over Votes,0
+Sweetwater,10-11,State Treasurer,,REP,Under Votes,145
+Sweetwater,10-11,State Treasurer,,DEM,Write-ins,6
+Sweetwater,10-11,State Treasurer,,DEM,Over Votes,0
+Sweetwater,10-11,State Treasurer,,DEM,Under Votes,132
+Sweetwater,10-11,Superintendent of Public Instruction,,REP,Chad Auer,88
+Sweetwater,10-11,Superintendent of Public Instruction,,REP,Steve Harshman,390
+Sweetwater,10-11,Superintendent of Public Instruction,,REP,Tom Kelly,284
+Sweetwater,10-11,Superintendent of Public Instruction,,REP,Write-ins,3
+Sweetwater,10-11,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,10-11,Superintendent of Public Instruction,,REP,Under Votes,109
+Sweetwater,10-11,Superintendent of Public Instruction,,DEM,Ana Cordova,84
+Sweetwater,10-11,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",44
+Sweetwater,10-11,Superintendent of Public Instruction,,DEM,Write-ins,1
+Sweetwater,10-11,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,10-11,Superintendent of Public Instruction,,DEM,Under Votes,9
+Sweetwater,10-11,State Senate,13,REP,Stacy Jones,680
+Sweetwater,10-11,State Senate,13,REP,Write-ins,7
+Sweetwater,10-11,State Senate,13,REP,Over Votes,0
+Sweetwater,10-11,State Senate,13,REP,Under Votes,187
+Sweetwater,10-11,State Senate,13,DEM,Write-ins,8
+Sweetwater,10-11,State Senate,13,DEM,Over Votes,0
+Sweetwater,10-11,State Senate,13,DEM,Under Votes,130
+Sweetwater,10-11,State House,60,REP,Marlene Brady,289
+Sweetwater,10-11,State House,60,REP,Tony Niemiec,555
+Sweetwater,10-11,State House,60,REP,Write-ins,6
+Sweetwater,10-11,State House,60,REP,Over Votes,0
+Sweetwater,10-11,State House,60,REP,Under Votes,24
+Sweetwater,10-11,State House,60,DEM,Write-ins,6
+Sweetwater,10-11,State House,60,DEM,Over Votes,0
+Sweetwater,10-11,State House,60,DEM,Under Votes,132
+Sweetwater,10-11,Ballots Cast,,REP,Ballots Cast,874
+Sweetwater,10-11,Ballots Cast,,DEM,Ballots Cast,138
+Sweetwater,10-11,Ballots Cast,,NP,Ballots Cast,38
+Sweetwater,10-11,Ballots Cast,,,Ballots Cast,1050
+Sweetwater,10-12,U.S. Senate,,REP,Harriet Hageman,115
+Sweetwater,10-12,U.S. Senate,,REP,Jill M Edwards,12
+Sweetwater,10-12,U.S. Senate,,REP,Jimmy Skovgard,5
+Sweetwater,10-12,U.S. Senate,,REP,John Holtz,5
+Sweetwater,10-12,U.S. Senate,,REP,Sam Mead,30
+Sweetwater,10-12,U.S. Senate,,REP,Write-ins,0
+Sweetwater,10-12,U.S. Senate,,REP,Over Votes,0
+Sweetwater,10-12,U.S. Senate,,REP,Under Votes,5
+Sweetwater,10-12,U.S. Senate,,DEM,Billy Benavidez,1
+Sweetwater,10-12,U.S. Senate,,DEM,James Byrd,26
+Sweetwater,10-12,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,10-12,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,10-12,U.S. Senate,,DEM,Under Votes,2
+Sweetwater,10-12,U.S. House,,REP,* Withdrawn Candidate,3
+Sweetwater,10-12,U.S. House,,REP,Bo Biteman,5
+Sweetwater,10-12,U.S. House,,REP,Chuck Gray,32
+Sweetwater,10-12,U.S. House,,REP,David Giralt,12
+Sweetwater,10-12,U.S. House,,REP,Jillian Balow,24
+Sweetwater,10-12,U.S. House,,REP,Keith B. Goodenough,4
+Sweetwater,10-12,U.S. House,,REP,Kevin Christensen,9
+Sweetwater,10-12,U.S. House,,REP,Reid Rasner,14
+Sweetwater,10-12,U.S. House,,REP,Richard Dodson,1
+Sweetwater,10-12,U.S. House,,REP,Steve Friess,53
+Sweetwater,10-12,U.S. House,,REP,Write-ins,0
+Sweetwater,10-12,U.S. House,,REP,Over Votes,1
+Sweetwater,10-12,U.S. House,,REP,Under Votes,14
+Sweetwater,10-12,U.S. House,,DEM,Elena Del Real,7
+Sweetwater,10-12,U.S. House,,DEM,Lisa Kinney,17
+Sweetwater,10-12,U.S. House,,DEM,Write-ins,1
+Sweetwater,10-12,U.S. House,,DEM,Over Votes,0
+Sweetwater,10-12,U.S. House,,DEM,Under Votes,4
+Sweetwater,10-12,Governor,,REP,Brent Bien,36
+Sweetwater,10-12,Governor,,REP,Curt Blake,5
+Sweetwater,10-12,Governor,,REP,Eric Barlow,72
+Sweetwater,10-12,Governor,,REP,Megan Degenfelder,52
+Sweetwater,10-12,Governor,,REP,Write-ins,0
+Sweetwater,10-12,Governor,,REP,Over Votes,0
+Sweetwater,10-12,Governor,,REP,Under Votes,7
+Sweetwater,10-12,Governor,,DEM,Kenneth R. Casner,23
+Sweetwater,10-12,Governor,,DEM,Write-ins,1
+Sweetwater,10-12,Governor,,DEM,Over Votes,0
+Sweetwater,10-12,Governor,,DEM,Under Votes,5
+Sweetwater,10-12,Secretary of State,,REP,CJ Young,26
+Sweetwater,10-12,Secretary of State,,REP,Qwenton Eagle Oviatt,15
+Sweetwater,10-12,Secretary of State,,REP,Rachel Williams,52
+Sweetwater,10-12,Secretary of State,,REP,Robert Short,49
+Sweetwater,10-12,Secretary of State,,REP,Write-ins,0
+Sweetwater,10-12,Secretary of State,,REP,Over Votes,0
+Sweetwater,10-12,Secretary of State,,REP,Under Votes,30
+Sweetwater,10-12,Secretary of State,,DEM,Bryan McCarty,24
+Sweetwater,10-12,Secretary of State,,DEM,Write-ins,1
+Sweetwater,10-12,Secretary of State,,DEM,Over Votes,0
+Sweetwater,10-12,Secretary of State,,DEM,Under Votes,4
+Sweetwater,10-12,State Auditor,,REP,Kristi Racines,131
+Sweetwater,10-12,State Auditor,,REP,Write-ins,1
+Sweetwater,10-12,State Auditor,,REP,Over Votes,0
+Sweetwater,10-12,State Auditor,,REP,Under Votes,40
+Sweetwater,10-12,State Auditor,,DEM,Write-ins,0
+Sweetwater,10-12,State Auditor,,DEM,Over Votes,0
+Sweetwater,10-12,State Auditor,,DEM,Under Votes,29
+Sweetwater,10-12,State Treasurer,,REP,Curt Meier,85
+Sweetwater,10-12,State Treasurer,,REP,Scott Smith,51
+Sweetwater,10-12,State Treasurer,,REP,Write-ins,0
+Sweetwater,10-12,State Treasurer,,REP,Over Votes,0
+Sweetwater,10-12,State Treasurer,,REP,Under Votes,36
+Sweetwater,10-12,State Treasurer,,DEM,Write-ins,0
+Sweetwater,10-12,State Treasurer,,DEM,Over Votes,0
+Sweetwater,10-12,State Treasurer,,DEM,Under Votes,29
+Sweetwater,10-12,Superintendent of Public Instruction,,REP,Chad Auer,12
+Sweetwater,10-12,Superintendent of Public Instruction,,REP,Steve Harshman,73
+Sweetwater,10-12,Superintendent of Public Instruction,,REP,Tom Kelly,58
+Sweetwater,10-12,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,10-12,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,10-12,Superintendent of Public Instruction,,REP,Under Votes,29
+Sweetwater,10-12,Superintendent of Public Instruction,,DEM,Ana Cordova,20
+Sweetwater,10-12,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",7
+Sweetwater,10-12,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,10-12,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,10-12,Superintendent of Public Instruction,,DEM,Under Votes,2
+Sweetwater,10-12,State House,18,REP,Kenneth D Roberts,67
+Sweetwater,10-12,State House,18,REP,Scott Heiner,87
+Sweetwater,10-12,State House,18,REP,Write-ins,0
+Sweetwater,10-12,State House,18,REP,Over Votes,0
+Sweetwater,10-12,State House,18,REP,Under Votes,18
+Sweetwater,10-12,State House,18,DEM,Write-ins,1
+Sweetwater,10-12,State House,18,DEM,Over Votes,0
+Sweetwater,10-12,State House,18,DEM,Under Votes,28
+Sweetwater,10-12,Ballots Cast,,REP,Ballots Cast,172
+Sweetwater,10-12,Ballots Cast,,DEM,Ballots Cast,29
+Sweetwater,10-12,Ballots Cast,,NP,Ballots Cast,6
+Sweetwater,10-12,Ballots Cast,,,Ballots Cast,207
+Sweetwater,10-13,U.S. Senate,,REP,Harriet Hageman,154
+Sweetwater,10-13,U.S. Senate,,REP,Jill M Edwards,4
+Sweetwater,10-13,U.S. Senate,,REP,Jimmy Skovgard,9
+Sweetwater,10-13,U.S. Senate,,REP,John Holtz,6
+Sweetwater,10-13,U.S. Senate,,REP,Sam Mead,57
+Sweetwater,10-13,U.S. Senate,,REP,Write-ins,1
+Sweetwater,10-13,U.S. Senate,,REP,Over Votes,0
+Sweetwater,10-13,U.S. Senate,,REP,Under Votes,7
+Sweetwater,10-13,U.S. Senate,,DEM,Billy Benavidez,6
+Sweetwater,10-13,U.S. Senate,,DEM,James Byrd,33
+Sweetwater,10-13,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,10-13,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,10-13,U.S. Senate,,DEM,Under Votes,3
+Sweetwater,10-13,U.S. House,,REP,* Withdrawn Candidate,5
+Sweetwater,10-13,U.S. House,,REP,Bo Biteman,15
+Sweetwater,10-13,U.S. House,,REP,Chuck Gray,53
+Sweetwater,10-13,U.S. House,,REP,David Giralt,17
+Sweetwater,10-13,U.S. House,,REP,Jillian Balow,26
+Sweetwater,10-13,U.S. House,,REP,Keith B. Goodenough,7
+Sweetwater,10-13,U.S. House,,REP,Kevin Christensen,27
+Sweetwater,10-13,U.S. House,,REP,Reid Rasner,21
+Sweetwater,10-13,U.S. House,,REP,Richard Dodson,3
+Sweetwater,10-13,U.S. House,,REP,Steve Friess,46
+Sweetwater,10-13,U.S. House,,REP,Write-ins,0
+Sweetwater,10-13,U.S. House,,REP,Over Votes,3
+Sweetwater,10-13,U.S. House,,REP,Under Votes,15
+Sweetwater,10-13,U.S. House,,DEM,Elena Del Real,7
+Sweetwater,10-13,U.S. House,,DEM,Lisa Kinney,32
+Sweetwater,10-13,U.S. House,,DEM,Write-ins,0
+Sweetwater,10-13,U.S. House,,DEM,Over Votes,0
+Sweetwater,10-13,U.S. House,,DEM,Under Votes,3
+Sweetwater,10-13,Governor,,REP,Brent Bien,45
+Sweetwater,10-13,Governor,,REP,Curt Blake,8
+Sweetwater,10-13,Governor,,REP,Eric Barlow,110
+Sweetwater,10-13,Governor,,REP,Megan Degenfelder,69
+Sweetwater,10-13,Governor,,REP,Write-ins,0
+Sweetwater,10-13,Governor,,REP,Over Votes,0
+Sweetwater,10-13,Governor,,REP,Under Votes,6
+Sweetwater,10-13,Governor,,DEM,Kenneth R. Casner,34
+Sweetwater,10-13,Governor,,DEM,Write-ins,0
+Sweetwater,10-13,Governor,,DEM,Over Votes,1
+Sweetwater,10-13,Governor,,DEM,Under Votes,7
+Sweetwater,10-13,Secretary of State,,REP,CJ Young,40
+Sweetwater,10-13,Secretary of State,,REP,Qwenton Eagle Oviatt,19
+Sweetwater,10-13,Secretary of State,,REP,Rachel Williams,81
+Sweetwater,10-13,Secretary of State,,REP,Robert Short,63
+Sweetwater,10-13,Secretary of State,,REP,Write-ins,1
+Sweetwater,10-13,Secretary of State,,REP,Over Votes,0
+Sweetwater,10-13,Secretary of State,,REP,Under Votes,34
+Sweetwater,10-13,Secretary of State,,DEM,Bryan McCarty,34
+Sweetwater,10-13,Secretary of State,,DEM,Write-ins,0
+Sweetwater,10-13,Secretary of State,,DEM,Over Votes,0
+Sweetwater,10-13,Secretary of State,,DEM,Under Votes,8
+Sweetwater,10-13,State Auditor,,REP,Kristi Racines,186
+Sweetwater,10-13,State Auditor,,REP,Write-ins,1
+Sweetwater,10-13,State Auditor,,REP,Over Votes,0
+Sweetwater,10-13,State Auditor,,REP,Under Votes,51
+Sweetwater,10-13,State Auditor,,DEM,Write-ins,1
+Sweetwater,10-13,State Auditor,,DEM,Over Votes,0
+Sweetwater,10-13,State Auditor,,DEM,Under Votes,41
+Sweetwater,10-13,State Treasurer,,REP,Curt Meier,124
+Sweetwater,10-13,State Treasurer,,REP,Scott Smith,78
+Sweetwater,10-13,State Treasurer,,REP,Write-ins,0
+Sweetwater,10-13,State Treasurer,,REP,Over Votes,0
+Sweetwater,10-13,State Treasurer,,REP,Under Votes,36
+Sweetwater,10-13,State Treasurer,,DEM,Write-ins,0
+Sweetwater,10-13,State Treasurer,,DEM,Over Votes,0
+Sweetwater,10-13,State Treasurer,,DEM,Under Votes,42
+Sweetwater,10-13,Superintendent of Public Instruction,,REP,Chad Auer,24
+Sweetwater,10-13,Superintendent of Public Instruction,,REP,Steve Harshman,103
+Sweetwater,10-13,Superintendent of Public Instruction,,REP,Tom Kelly,73
+Sweetwater,10-13,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,10-13,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,10-13,Superintendent of Public Instruction,,REP,Under Votes,38
+Sweetwater,10-13,Superintendent of Public Instruction,,DEM,Ana Cordova,24
+Sweetwater,10-13,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",14
+Sweetwater,10-13,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,10-13,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,10-13,Superintendent of Public Instruction,,DEM,Under Votes,4
+Sweetwater,10-13,State Senate,13,REP,Stacy Jones,179
+Sweetwater,10-13,State Senate,13,REP,Write-ins,1
+Sweetwater,10-13,State Senate,13,REP,Over Votes,0
+Sweetwater,10-13,State Senate,13,REP,Under Votes,58
+Sweetwater,10-13,State Senate,13,DEM,Write-ins,0
+Sweetwater,10-13,State Senate,13,DEM,Over Votes,0
+Sweetwater,10-13,State Senate,13,DEM,Under Votes,42
+Sweetwater,10-13,State House,39,REP,Cody Wylie,197
+Sweetwater,10-13,State House,39,REP,Write-ins,5
+Sweetwater,10-13,State House,39,REP,Over Votes,0
+Sweetwater,10-13,State House,39,REP,Under Votes,36
+Sweetwater,10-13,State House,39,DEM,Write-ins,0
+Sweetwater,10-13,State House,39,DEM,Over Votes,0
+Sweetwater,10-13,State House,39,DEM,Under Votes,42
+Sweetwater,10-13,Ballots Cast,,REP,Ballots Cast,238
+Sweetwater,10-13,Ballots Cast,,DEM,Ballots Cast,42
+Sweetwater,10-13,Ballots Cast,,NP,Ballots Cast,8
+Sweetwater,10-13,Ballots Cast,,,Ballots Cast,288
+Sweetwater,10-8,U.S. Senate,,REP,Harriet Hageman,116
+Sweetwater,10-8,U.S. Senate,,REP,Jill M Edwards,13
+Sweetwater,10-8,U.S. Senate,,REP,Jimmy Skovgard,2
+Sweetwater,10-8,U.S. Senate,,REP,John Holtz,6
+Sweetwater,10-8,U.S. Senate,,REP,Sam Mead,42
+Sweetwater,10-8,U.S. Senate,,REP,Write-ins,1
+Sweetwater,10-8,U.S. Senate,,REP,Over Votes,0
+Sweetwater,10-8,U.S. Senate,,REP,Under Votes,8
+Sweetwater,10-8,U.S. Senate,,DEM,Billy Benavidez,12
+Sweetwater,10-8,U.S. Senate,,DEM,James Byrd,32
+Sweetwater,10-8,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,10-8,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,10-8,U.S. Senate,,DEM,Under Votes,2
+Sweetwater,10-8,U.S. House,,REP,* Withdrawn Candidate,2
+Sweetwater,10-8,U.S. House,,REP,Bo Biteman,9
+Sweetwater,10-8,U.S. House,,REP,Chuck Gray,40
+Sweetwater,10-8,U.S. House,,REP,David Giralt,13
+Sweetwater,10-8,U.S. House,,REP,Jillian Balow,18
+Sweetwater,10-8,U.S. House,,REP,Keith B. Goodenough,4
+Sweetwater,10-8,U.S. House,,REP,Kevin Christensen,24
+Sweetwater,10-8,U.S. House,,REP,Reid Rasner,20
+Sweetwater,10-8,U.S. House,,REP,Richard Dodson,9
+Sweetwater,10-8,U.S. House,,REP,Steve Friess,31
+Sweetwater,10-8,U.S. House,,REP,Write-ins,2
+Sweetwater,10-8,U.S. House,,REP,Over Votes,1
+Sweetwater,10-8,U.S. House,,REP,Under Votes,15
+Sweetwater,10-8,U.S. House,,DEM,Elena Del Real,13
+Sweetwater,10-8,U.S. House,,DEM,Lisa Kinney,29
+Sweetwater,10-8,U.S. House,,DEM,Write-ins,0
+Sweetwater,10-8,U.S. House,,DEM,Over Votes,0
+Sweetwater,10-8,U.S. House,,DEM,Under Votes,4
+Sweetwater,10-8,Governor,,REP,Brent Bien,44
+Sweetwater,10-8,Governor,,REP,Curt Blake,13
+Sweetwater,10-8,Governor,,REP,Eric Barlow,75
+Sweetwater,10-8,Governor,,REP,Megan Degenfelder,48
+Sweetwater,10-8,Governor,,REP,Write-ins,1
+Sweetwater,10-8,Governor,,REP,Over Votes,0
+Sweetwater,10-8,Governor,,REP,Under Votes,7
+Sweetwater,10-8,Governor,,DEM,Kenneth R. Casner,43
+Sweetwater,10-8,Governor,,DEM,Write-ins,0
+Sweetwater,10-8,Governor,,DEM,Over Votes,0
+Sweetwater,10-8,Governor,,DEM,Under Votes,3
+Sweetwater,10-8,Secretary of State,,REP,CJ Young,20
+Sweetwater,10-8,Secretary of State,,REP,Qwenton Eagle Oviatt,21
+Sweetwater,10-8,Secretary of State,,REP,Rachel Williams,60
+Sweetwater,10-8,Secretary of State,,REP,Robert Short,55
+Sweetwater,10-8,Secretary of State,,REP,Write-ins,2
+Sweetwater,10-8,Secretary of State,,REP,Over Votes,0
+Sweetwater,10-8,Secretary of State,,REP,Under Votes,30
+Sweetwater,10-8,Secretary of State,,DEM,Bryan McCarty,40
+Sweetwater,10-8,Secretary of State,,DEM,Write-ins,0
+Sweetwater,10-8,Secretary of State,,DEM,Over Votes,0
+Sweetwater,10-8,Secretary of State,,DEM,Under Votes,6
+Sweetwater,10-8,State Auditor,,REP,Kristi Racines,135
+Sweetwater,10-8,State Auditor,,REP,Write-ins,3
+Sweetwater,10-8,State Auditor,,REP,Over Votes,0
+Sweetwater,10-8,State Auditor,,REP,Under Votes,50
+Sweetwater,10-8,State Auditor,,DEM,Write-ins,0
+Sweetwater,10-8,State Auditor,,DEM,Over Votes,0
+Sweetwater,10-8,State Auditor,,DEM,Under Votes,46
+Sweetwater,10-8,State Treasurer,,REP,Curt Meier,84
+Sweetwater,10-8,State Treasurer,,REP,Scott Smith,76
+Sweetwater,10-8,State Treasurer,,REP,Write-ins,0
+Sweetwater,10-8,State Treasurer,,REP,Over Votes,0
+Sweetwater,10-8,State Treasurer,,REP,Under Votes,28
+Sweetwater,10-8,State Treasurer,,DEM,Write-ins,0
+Sweetwater,10-8,State Treasurer,,DEM,Over Votes,0
+Sweetwater,10-8,State Treasurer,,DEM,Under Votes,46
+Sweetwater,10-8,Superintendent of Public Instruction,,REP,Chad Auer,18
+Sweetwater,10-8,Superintendent of Public Instruction,,REP,Steve Harshman,76
+Sweetwater,10-8,Superintendent of Public Instruction,,REP,Tom Kelly,62
+Sweetwater,10-8,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,10-8,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,10-8,Superintendent of Public Instruction,,REP,Under Votes,31
+Sweetwater,10-8,Superintendent of Public Instruction,,DEM,Ana Cordova,20
+Sweetwater,10-8,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",23
+Sweetwater,10-8,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,10-8,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,10-8,Superintendent of Public Instruction,,DEM,Under Votes,3
+Sweetwater,10-8,State House,18,REP,Kenneth D Roberts,80
+Sweetwater,10-8,State House,18,REP,Scott Heiner,91
+Sweetwater,10-8,State House,18,REP,Write-ins,1
+Sweetwater,10-8,State House,18,REP,Over Votes,0
+Sweetwater,10-8,State House,18,REP,Under Votes,16
+Sweetwater,10-8,State House,18,DEM,Write-ins,1
+Sweetwater,10-8,State House,18,DEM,Over Votes,0
+Sweetwater,10-8,State House,18,DEM,Under Votes,45
+Sweetwater,10-8,Ballots Cast,,REP,Ballots Cast,188
+Sweetwater,10-8,Ballots Cast,,DEM,Ballots Cast,46
+Sweetwater,10-8,Ballots Cast,,NP,Ballots Cast,8
+Sweetwater,10-8,Ballots Cast,,,Ballots Cast,242
+Sweetwater,10-9,U.S. Senate,,REP,Harriet Hageman,135
+Sweetwater,10-9,U.S. Senate,,REP,Jill M Edwards,8
+Sweetwater,10-9,U.S. Senate,,REP,Jimmy Skovgard,8
+Sweetwater,10-9,U.S. Senate,,REP,John Holtz,7
+Sweetwater,10-9,U.S. Senate,,REP,Sam Mead,47
+Sweetwater,10-9,U.S. Senate,,REP,Write-ins,0
+Sweetwater,10-9,U.S. Senate,,REP,Over Votes,1
+Sweetwater,10-9,U.S. Senate,,REP,Under Votes,12
+Sweetwater,10-9,U.S. Senate,,DEM,Billy Benavidez,13
+Sweetwater,10-9,U.S. Senate,,DEM,James Byrd,29
+Sweetwater,10-9,U.S. Senate,,DEM,Write-ins,1
+Sweetwater,10-9,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,10-9,U.S. Senate,,DEM,Under Votes,3
+Sweetwater,10-9,U.S. House,,REP,* Withdrawn Candidate,6
+Sweetwater,10-9,U.S. House,,REP,Bo Biteman,5
+Sweetwater,10-9,U.S. House,,REP,Chuck Gray,67
+Sweetwater,10-9,U.S. House,,REP,David Giralt,14
+Sweetwater,10-9,U.S. House,,REP,Jillian Balow,15
+Sweetwater,10-9,U.S. House,,REP,Keith B. Goodenough,6
+Sweetwater,10-9,U.S. House,,REP,Kevin Christensen,20
+Sweetwater,10-9,U.S. House,,REP,Reid Rasner,17
+Sweetwater,10-9,U.S. House,,REP,Richard Dodson,6
+Sweetwater,10-9,U.S. House,,REP,Steve Friess,41
+Sweetwater,10-9,U.S. House,,REP,Write-ins,0
+Sweetwater,10-9,U.S. House,,REP,Over Votes,3
+Sweetwater,10-9,U.S. House,,REP,Under Votes,18
+Sweetwater,10-9,U.S. House,,DEM,Elena Del Real,13
+Sweetwater,10-9,U.S. House,,DEM,Lisa Kinney,28
+Sweetwater,10-9,U.S. House,,DEM,Write-ins,1
+Sweetwater,10-9,U.S. House,,DEM,Over Votes,0
+Sweetwater,10-9,U.S. House,,DEM,Under Votes,4
+Sweetwater,10-9,Governor,,REP,Brent Bien,46
+Sweetwater,10-9,Governor,,REP,Curt Blake,10
+Sweetwater,10-9,Governor,,REP,Eric Barlow,73
+Sweetwater,10-9,Governor,,REP,Megan Degenfelder,81
+Sweetwater,10-9,Governor,,REP,Write-ins,1
+Sweetwater,10-9,Governor,,REP,Over Votes,0
+Sweetwater,10-9,Governor,,REP,Under Votes,7
+Sweetwater,10-9,Governor,,DEM,Kenneth R. Casner,37
+Sweetwater,10-9,Governor,,DEM,Write-ins,3
+Sweetwater,10-9,Governor,,DEM,Over Votes,0
+Sweetwater,10-9,Governor,,DEM,Under Votes,6
+Sweetwater,10-9,Secretary of State,,REP,CJ Young,29
+Sweetwater,10-9,Secretary of State,,REP,Qwenton Eagle Oviatt,21
+Sweetwater,10-9,Secretary of State,,REP,Rachel Williams,89
+Sweetwater,10-9,Secretary of State,,REP,Robert Short,50
+Sweetwater,10-9,Secretary of State,,REP,Write-ins,0
+Sweetwater,10-9,Secretary of State,,REP,Over Votes,0
+Sweetwater,10-9,Secretary of State,,REP,Under Votes,29
+Sweetwater,10-9,Secretary of State,,DEM,Bryan McCarty,37
+Sweetwater,10-9,Secretary of State,,DEM,Write-ins,1
+Sweetwater,10-9,Secretary of State,,DEM,Over Votes,0
+Sweetwater,10-9,Secretary of State,,DEM,Under Votes,8
+Sweetwater,10-9,State Auditor,,REP,Kristi Racines,170
+Sweetwater,10-9,State Auditor,,REP,Write-ins,0
+Sweetwater,10-9,State Auditor,,REP,Over Votes,0
+Sweetwater,10-9,State Auditor,,REP,Under Votes,48
+Sweetwater,10-9,State Auditor,,DEM,Write-ins,2
+Sweetwater,10-9,State Auditor,,DEM,Over Votes,0
+Sweetwater,10-9,State Auditor,,DEM,Under Votes,44
+Sweetwater,10-9,State Treasurer,,REP,Curt Meier,91
+Sweetwater,10-9,State Treasurer,,REP,Scott Smith,84
+Sweetwater,10-9,State Treasurer,,REP,Write-ins,2
+Sweetwater,10-9,State Treasurer,,REP,Over Votes,0
+Sweetwater,10-9,State Treasurer,,REP,Under Votes,41
+Sweetwater,10-9,State Treasurer,,DEM,Write-ins,3
+Sweetwater,10-9,State Treasurer,,DEM,Over Votes,0
+Sweetwater,10-9,State Treasurer,,DEM,Under Votes,43
+Sweetwater,10-9,Superintendent of Public Instruction,,REP,Chad Auer,24
+Sweetwater,10-9,Superintendent of Public Instruction,,REP,Steve Harshman,90
+Sweetwater,10-9,Superintendent of Public Instruction,,REP,Tom Kelly,70
+Sweetwater,10-9,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,10-9,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,10-9,Superintendent of Public Instruction,,REP,Under Votes,33
+Sweetwater,10-9,Superintendent of Public Instruction,,DEM,Ana Cordova,22
+Sweetwater,10-9,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",19
+Sweetwater,10-9,Superintendent of Public Instruction,,DEM,Write-ins,1
+Sweetwater,10-9,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,10-9,Superintendent of Public Instruction,,DEM,Under Votes,4
+Sweetwater,10-9,State Senate,13,REP,Stacy Jones,178
+Sweetwater,10-9,State Senate,13,REP,Write-ins,2
+Sweetwater,10-9,State Senate,13,REP,Over Votes,0
+Sweetwater,10-9,State Senate,13,REP,Under Votes,38
+Sweetwater,10-9,State Senate,13,DEM,Write-ins,5
+Sweetwater,10-9,State Senate,13,DEM,Over Votes,0
+Sweetwater,10-9,State Senate,13,DEM,Under Votes,41
+Sweetwater,10-9,State House,60,REP,Marlene Brady,81
+Sweetwater,10-9,State House,60,REP,Tony Niemiec,134
+Sweetwater,10-9,State House,60,REP,Write-ins,0
+Sweetwater,10-9,State House,60,REP,Over Votes,0
+Sweetwater,10-9,State House,60,REP,Under Votes,3
+Sweetwater,10-9,State House,60,DEM,Write-ins,3
+Sweetwater,10-9,State House,60,DEM,Over Votes,0
+Sweetwater,10-9,State House,60,DEM,Under Votes,43
+Sweetwater,10-9,Ballots Cast,,REP,Ballots Cast,218
+Sweetwater,10-9,Ballots Cast,,DEM,Ballots Cast,46
+Sweetwater,10-9,Ballots Cast,,NP,Ballots Cast,16
+Sweetwater,10-9,Ballots Cast,,,Ballots Cast,280
+Sweetwater,12-2,U.S. Senate,,REP,Harriet Hageman,59
+Sweetwater,12-2,U.S. Senate,,REP,Jill M Edwards,1
+Sweetwater,12-2,U.S. Senate,,REP,Jimmy Skovgard,1
+Sweetwater,12-2,U.S. Senate,,REP,John Holtz,4
+Sweetwater,12-2,U.S. Senate,,REP,Sam Mead,8
+Sweetwater,12-2,U.S. Senate,,REP,Write-ins,0
+Sweetwater,12-2,U.S. Senate,,REP,Over Votes,1
+Sweetwater,12-2,U.S. Senate,,REP,Under Votes,1
+Sweetwater,12-2,U.S. Senate,,DEM,Billy Benavidez,5
+Sweetwater,12-2,U.S. Senate,,DEM,James Byrd,14
+Sweetwater,12-2,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,12-2,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,12-2,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,12-2,U.S. House,,REP,* Withdrawn Candidate,3
+Sweetwater,12-2,U.S. House,,REP,Bo Biteman,1
+Sweetwater,12-2,U.S. House,,REP,Chuck Gray,24
+Sweetwater,12-2,U.S. House,,REP,David Giralt,11
+Sweetwater,12-2,U.S. House,,REP,Jillian Balow,2
+Sweetwater,12-2,U.S. House,,REP,Keith B. Goodenough,5
+Sweetwater,12-2,U.S. House,,REP,Kevin Christensen,3
+Sweetwater,12-2,U.S. House,,REP,Reid Rasner,13
+Sweetwater,12-2,U.S. House,,REP,Richard Dodson,1
+Sweetwater,12-2,U.S. House,,REP,Steve Friess,10
+Sweetwater,12-2,U.S. House,,REP,Write-ins,0
+Sweetwater,12-2,U.S. House,,REP,Over Votes,0
+Sweetwater,12-2,U.S. House,,REP,Under Votes,2
+Sweetwater,12-2,U.S. House,,DEM,Elena Del Real,6
+Sweetwater,12-2,U.S. House,,DEM,Lisa Kinney,13
+Sweetwater,12-2,U.S. House,,DEM,Write-ins,0
+Sweetwater,12-2,U.S. House,,DEM,Over Votes,0
+Sweetwater,12-2,U.S. House,,DEM,Under Votes,0
+Sweetwater,12-2,Governor,,REP,Brent Bien,20
+Sweetwater,12-2,Governor,,REP,Curt Blake,4
+Sweetwater,12-2,Governor,,REP,Eric Barlow,15
+Sweetwater,12-2,Governor,,REP,Megan Degenfelder,35
+Sweetwater,12-2,Governor,,REP,Write-ins,0
+Sweetwater,12-2,Governor,,REP,Over Votes,0
+Sweetwater,12-2,Governor,,REP,Under Votes,1
+Sweetwater,12-2,Governor,,DEM,Kenneth R. Casner,18
+Sweetwater,12-2,Governor,,DEM,Write-ins,0
+Sweetwater,12-2,Governor,,DEM,Over Votes,0
+Sweetwater,12-2,Governor,,DEM,Under Votes,1
+Sweetwater,12-2,Secretary of State,,REP,CJ Young,12
+Sweetwater,12-2,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Sweetwater,12-2,Secretary of State,,REP,Rachel Williams,32
+Sweetwater,12-2,Secretary of State,,REP,Robert Short,23
+Sweetwater,12-2,Secretary of State,,REP,Write-ins,0
+Sweetwater,12-2,Secretary of State,,REP,Over Votes,0
+Sweetwater,12-2,Secretary of State,,REP,Under Votes,2
+Sweetwater,12-2,Secretary of State,,DEM,Bryan McCarty,18
+Sweetwater,12-2,Secretary of State,,DEM,Write-ins,0
+Sweetwater,12-2,Secretary of State,,DEM,Over Votes,0
+Sweetwater,12-2,Secretary of State,,DEM,Under Votes,1
+Sweetwater,12-2,State Auditor,,REP,Kristi Racines,69
+Sweetwater,12-2,State Auditor,,REP,Write-ins,0
+Sweetwater,12-2,State Auditor,,REP,Over Votes,0
+Sweetwater,12-2,State Auditor,,REP,Under Votes,6
+Sweetwater,12-2,State Auditor,,DEM,Write-ins,1
+Sweetwater,12-2,State Auditor,,DEM,Over Votes,0
+Sweetwater,12-2,State Auditor,,DEM,Under Votes,18
+Sweetwater,12-2,State Treasurer,,REP,Curt Meier,34
+Sweetwater,12-2,State Treasurer,,REP,Scott Smith,34
+Sweetwater,12-2,State Treasurer,,REP,Write-ins,0
+Sweetwater,12-2,State Treasurer,,REP,Over Votes,0
+Sweetwater,12-2,State Treasurer,,REP,Under Votes,7
+Sweetwater,12-2,State Treasurer,,DEM,Write-ins,1
+Sweetwater,12-2,State Treasurer,,DEM,Over Votes,0
+Sweetwater,12-2,State Treasurer,,DEM,Under Votes,18
+Sweetwater,12-2,Superintendent of Public Instruction,,REP,Chad Auer,11
+Sweetwater,12-2,Superintendent of Public Instruction,,REP,Steve Harshman,30
+Sweetwater,12-2,Superintendent of Public Instruction,,REP,Tom Kelly,27
+Sweetwater,12-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,12-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,12-2,Superintendent of Public Instruction,,REP,Under Votes,7
+Sweetwater,12-2,Superintendent of Public Instruction,,DEM,Ana Cordova,12
+Sweetwater,12-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Sweetwater,12-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,12-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,12-2,Superintendent of Public Instruction,,DEM,Under Votes,1
+Sweetwater,12-2,State Senate,11,REP,Bob Davis,65
+Sweetwater,12-2,State Senate,11,REP,Write-ins,0
+Sweetwater,12-2,State Senate,11,REP,Over Votes,0
+Sweetwater,12-2,State Senate,11,REP,Under Votes,10
+Sweetwater,12-2,State Senate,11,DEM,Jim Wilson,18
+Sweetwater,12-2,State Senate,11,DEM,Write-ins,0
+Sweetwater,12-2,State Senate,11,DEM,Over Votes,0
+Sweetwater,12-2,State Senate,11,DEM,Under Votes,1
+Sweetwater,12-2,State House,47,REP,Eamon O'Toole,64
+Sweetwater,12-2,State House,47,REP,Write-ins,0
+Sweetwater,12-2,State House,47,REP,Over Votes,0
+Sweetwater,12-2,State House,47,REP,Under Votes,11
+Sweetwater,12-2,State House,47,DEM,Write-ins,1
+Sweetwater,12-2,State House,47,DEM,Over Votes,0
+Sweetwater,12-2,State House,47,DEM,Under Votes,18
+Sweetwater,12-2,Ballots Cast,,REP,Ballots Cast,75
+Sweetwater,12-2,Ballots Cast,,DEM,Ballots Cast,19
+Sweetwater,12-2,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,12-2,Ballots Cast,,,Ballots Cast,94
+Sweetwater,13-2,U.S. Senate,,REP,Harriet Hageman,11
+Sweetwater,13-2,U.S. Senate,,REP,Jill M Edwards,1
+Sweetwater,13-2,U.S. Senate,,REP,Jimmy Skovgard,1
+Sweetwater,13-2,U.S. Senate,,REP,John Holtz,0
+Sweetwater,13-2,U.S. Senate,,REP,Sam Mead,2
+Sweetwater,13-2,U.S. Senate,,REP,Write-ins,0
+Sweetwater,13-2,U.S. Senate,,REP,Over Votes,0
+Sweetwater,13-2,U.S. Senate,,REP,Under Votes,0
+Sweetwater,13-2,U.S. Senate,,DEM,Billy Benavidez,1
+Sweetwater,13-2,U.S. Senate,,DEM,James Byrd,5
+Sweetwater,13-2,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,13-2,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,13-2,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,13-2,U.S. House,,REP,* Withdrawn Candidate,1
+Sweetwater,13-2,U.S. House,,REP,Bo Biteman,0
+Sweetwater,13-2,U.S. House,,REP,Chuck Gray,6
+Sweetwater,13-2,U.S. House,,REP,David Giralt,0
+Sweetwater,13-2,U.S. House,,REP,Jillian Balow,0
+Sweetwater,13-2,U.S. House,,REP,Keith B. Goodenough,0
+Sweetwater,13-2,U.S. House,,REP,Kevin Christensen,1
+Sweetwater,13-2,U.S. House,,REP,Reid Rasner,4
+Sweetwater,13-2,U.S. House,,REP,Richard Dodson,0
+Sweetwater,13-2,U.S. House,,REP,Steve Friess,2
+Sweetwater,13-2,U.S. House,,REP,Write-ins,0
+Sweetwater,13-2,U.S. House,,REP,Over Votes,1
+Sweetwater,13-2,U.S. House,,REP,Under Votes,0
+Sweetwater,13-2,U.S. House,,DEM,Elena Del Real,2
+Sweetwater,13-2,U.S. House,,DEM,Lisa Kinney,4
+Sweetwater,13-2,U.S. House,,DEM,Write-ins,0
+Sweetwater,13-2,U.S. House,,DEM,Over Votes,0
+Sweetwater,13-2,U.S. House,,DEM,Under Votes,0
+Sweetwater,13-2,Governor,,REP,Brent Bien,3
+Sweetwater,13-2,Governor,,REP,Curt Blake,0
+Sweetwater,13-2,Governor,,REP,Eric Barlow,7
+Sweetwater,13-2,Governor,,REP,Megan Degenfelder,4
+Sweetwater,13-2,Governor,,REP,Write-ins,0
+Sweetwater,13-2,Governor,,REP,Over Votes,0
+Sweetwater,13-2,Governor,,REP,Under Votes,1
+Sweetwater,13-2,Governor,,DEM,Kenneth R. Casner,6
+Sweetwater,13-2,Governor,,DEM,Write-ins,0
+Sweetwater,13-2,Governor,,DEM,Over Votes,0
+Sweetwater,13-2,Governor,,DEM,Under Votes,0
+Sweetwater,13-2,Secretary of State,,REP,CJ Young,2
+Sweetwater,13-2,Secretary of State,,REP,Qwenton Eagle Oviatt,0
+Sweetwater,13-2,Secretary of State,,REP,Rachel Williams,9
+Sweetwater,13-2,Secretary of State,,REP,Robert Short,1
+Sweetwater,13-2,Secretary of State,,REP,Write-ins,0
+Sweetwater,13-2,Secretary of State,,REP,Over Votes,0
+Sweetwater,13-2,Secretary of State,,REP,Under Votes,3
+Sweetwater,13-2,Secretary of State,,DEM,Bryan McCarty,6
+Sweetwater,13-2,Secretary of State,,DEM,Write-ins,0
+Sweetwater,13-2,Secretary of State,,DEM,Over Votes,0
+Sweetwater,13-2,Secretary of State,,DEM,Under Votes,0
+Sweetwater,13-2,State Auditor,,REP,Kristi Racines,15
+Sweetwater,13-2,State Auditor,,REP,Write-ins,0
+Sweetwater,13-2,State Auditor,,REP,Over Votes,0
+Sweetwater,13-2,State Auditor,,REP,Under Votes,0
+Sweetwater,13-2,State Auditor,,DEM,Write-ins,0
+Sweetwater,13-2,State Auditor,,DEM,Over Votes,0
+Sweetwater,13-2,State Auditor,,DEM,Under Votes,6
+Sweetwater,13-2,State Treasurer,,REP,Curt Meier,6
+Sweetwater,13-2,State Treasurer,,REP,Scott Smith,8
+Sweetwater,13-2,State Treasurer,,REP,Write-ins,0
+Sweetwater,13-2,State Treasurer,,REP,Over Votes,0
+Sweetwater,13-2,State Treasurer,,REP,Under Votes,1
+Sweetwater,13-2,State Treasurer,,DEM,Write-ins,0
+Sweetwater,13-2,State Treasurer,,DEM,Over Votes,0
+Sweetwater,13-2,State Treasurer,,DEM,Under Votes,6
+Sweetwater,13-2,Superintendent of Public Instruction,,REP,Chad Auer,3
+Sweetwater,13-2,Superintendent of Public Instruction,,REP,Steve Harshman,4
+Sweetwater,13-2,Superintendent of Public Instruction,,REP,Tom Kelly,5
+Sweetwater,13-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,13-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,13-2,Superintendent of Public Instruction,,REP,Under Votes,3
+Sweetwater,13-2,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Sweetwater,13-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Sweetwater,13-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,13-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,13-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,13-2,State House,18,REP,Kenneth D Roberts,4
+Sweetwater,13-2,State House,18,REP,Scott Heiner,10
+Sweetwater,13-2,State House,18,REP,Write-ins,0
+Sweetwater,13-2,State House,18,REP,Over Votes,0
+Sweetwater,13-2,State House,18,REP,Under Votes,1
+Sweetwater,13-2,State House,18,DEM,Write-ins,0
+Sweetwater,13-2,State House,18,DEM,Over Votes,0
+Sweetwater,13-2,State House,18,DEM,Under Votes,6
+Sweetwater,13-2,Ballots Cast,,REP,Ballots Cast,15
+Sweetwater,13-2,Ballots Cast,,DEM,Ballots Cast,6
+Sweetwater,13-2,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,13-2,Ballots Cast,,,Ballots Cast,21
+Sweetwater,19-1,U.S. Senate,,REP,Harriet Hageman,56
+Sweetwater,19-1,U.S. Senate,,REP,Jill M Edwards,5
+Sweetwater,19-1,U.S. Senate,,REP,Jimmy Skovgard,6
+Sweetwater,19-1,U.S. Senate,,REP,John Holtz,3
+Sweetwater,19-1,U.S. Senate,,REP,Sam Mead,7
+Sweetwater,19-1,U.S. Senate,,REP,Write-ins,0
+Sweetwater,19-1,U.S. Senate,,REP,Over Votes,0
+Sweetwater,19-1,U.S. Senate,,REP,Under Votes,7
+Sweetwater,19-1,U.S. Senate,,DEM,Billy Benavidez,0
+Sweetwater,19-1,U.S. Senate,,DEM,James Byrd,3
+Sweetwater,19-1,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,19-1,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,19-1,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,19-1,U.S. House,,REP,* Withdrawn Candidate,2
+Sweetwater,19-1,U.S. House,,REP,Bo Biteman,1
+Sweetwater,19-1,U.S. House,,REP,Chuck Gray,13
+Sweetwater,19-1,U.S. House,,REP,David Giralt,7
+Sweetwater,19-1,U.S. House,,REP,Jillian Balow,5
+Sweetwater,19-1,U.S. House,,REP,Keith B. Goodenough,2
+Sweetwater,19-1,U.S. House,,REP,Kevin Christensen,7
+Sweetwater,19-1,U.S. House,,REP,Reid Rasner,21
+Sweetwater,19-1,U.S. House,,REP,Richard Dodson,2
+Sweetwater,19-1,U.S. House,,REP,Steve Friess,14
+Sweetwater,19-1,U.S. House,,REP,Write-ins,1
+Sweetwater,19-1,U.S. House,,REP,Over Votes,2
+Sweetwater,19-1,U.S. House,,REP,Under Votes,7
+Sweetwater,19-1,U.S. House,,DEM,Elena Del Real,0
+Sweetwater,19-1,U.S. House,,DEM,Lisa Kinney,3
+Sweetwater,19-1,U.S. House,,DEM,Write-ins,0
+Sweetwater,19-1,U.S. House,,DEM,Over Votes,0
+Sweetwater,19-1,U.S. House,,DEM,Under Votes,0
+Sweetwater,19-1,Governor,,REP,Brent Bien,22
+Sweetwater,19-1,Governor,,REP,Curt Blake,4
+Sweetwater,19-1,Governor,,REP,Eric Barlow,20
+Sweetwater,19-1,Governor,,REP,Megan Degenfelder,34
+Sweetwater,19-1,Governor,,REP,Write-ins,0
+Sweetwater,19-1,Governor,,REP,Over Votes,0
+Sweetwater,19-1,Governor,,REP,Under Votes,4
+Sweetwater,19-1,Governor,,DEM,Kenneth R. Casner,3
+Sweetwater,19-1,Governor,,DEM,Write-ins,0
+Sweetwater,19-1,Governor,,DEM,Over Votes,0
+Sweetwater,19-1,Governor,,DEM,Under Votes,0
+Sweetwater,19-1,Secretary of State,,REP,CJ Young,19
+Sweetwater,19-1,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Sweetwater,19-1,Secretary of State,,REP,Rachel Williams,21
+Sweetwater,19-1,Secretary of State,,REP,Robert Short,23
+Sweetwater,19-1,Secretary of State,,REP,Write-ins,0
+Sweetwater,19-1,Secretary of State,,REP,Over Votes,0
+Sweetwater,19-1,Secretary of State,,REP,Under Votes,15
+Sweetwater,19-1,Secretary of State,,DEM,Bryan McCarty,3
+Sweetwater,19-1,Secretary of State,,DEM,Write-ins,0
+Sweetwater,19-1,Secretary of State,,DEM,Over Votes,0
+Sweetwater,19-1,Secretary of State,,DEM,Under Votes,0
+Sweetwater,19-1,State Auditor,,REP,Kristi Racines,68
+Sweetwater,19-1,State Auditor,,REP,Write-ins,1
+Sweetwater,19-1,State Auditor,,REP,Over Votes,0
+Sweetwater,19-1,State Auditor,,REP,Under Votes,15
+Sweetwater,19-1,State Auditor,,DEM,Write-ins,0
+Sweetwater,19-1,State Auditor,,DEM,Over Votes,0
+Sweetwater,19-1,State Auditor,,DEM,Under Votes,3
+Sweetwater,19-1,State Treasurer,,REP,Curt Meier,39
+Sweetwater,19-1,State Treasurer,,REP,Scott Smith,28
+Sweetwater,19-1,State Treasurer,,REP,Write-ins,0
+Sweetwater,19-1,State Treasurer,,REP,Over Votes,0
+Sweetwater,19-1,State Treasurer,,REP,Under Votes,17
+Sweetwater,19-1,State Treasurer,,DEM,Write-ins,0
+Sweetwater,19-1,State Treasurer,,DEM,Over Votes,0
+Sweetwater,19-1,State Treasurer,,DEM,Under Votes,3
+Sweetwater,19-1,Superintendent of Public Instruction,,REP,Chad Auer,15
+Sweetwater,19-1,Superintendent of Public Instruction,,REP,Steve Harshman,34
+Sweetwater,19-1,Superintendent of Public Instruction,,REP,Tom Kelly,18
+Sweetwater,19-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,19-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,19-1,Superintendent of Public Instruction,,REP,Under Votes,17
+Sweetwater,19-1,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Sweetwater,19-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Sweetwater,19-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,19-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,19-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,19-1,State Senate,11,REP,Bob Davis,68
+Sweetwater,19-1,State Senate,11,REP,Write-ins,1
+Sweetwater,19-1,State Senate,11,REP,Over Votes,0
+Sweetwater,19-1,State Senate,11,REP,Under Votes,15
+Sweetwater,19-1,State Senate,11,DEM,Jim Wilson,3
+Sweetwater,19-1,State Senate,11,DEM,Write-ins,0
+Sweetwater,19-1,State Senate,11,DEM,Over Votes,0
+Sweetwater,19-1,State Senate,11,DEM,Under Votes,0
+Sweetwater,19-1,State House,47,REP,Eamon O'Toole,64
+Sweetwater,19-1,State House,47,REP,Write-ins,1
+Sweetwater,19-1,State House,47,REP,Over Votes,0
+Sweetwater,19-1,State House,47,REP,Under Votes,19
+Sweetwater,19-1,State House,47,DEM,Write-ins,0
+Sweetwater,19-1,State House,47,DEM,Over Votes,0
+Sweetwater,19-1,State House,47,DEM,Under Votes,3
+Sweetwater,19-1,Ballots Cast,,REP,Ballots Cast,84
+Sweetwater,19-1,Ballots Cast,,DEM,Ballots Cast,3
+Sweetwater,19-1,Ballots Cast,,NP,Ballots Cast,6
+Sweetwater,19-1,Ballots Cast,,,Ballots Cast,93
+Sweetwater,20-2,U.S. Senate,,REP,Harriet Hageman,133
+Sweetwater,20-2,U.S. Senate,,REP,Jill M Edwards,6
+Sweetwater,20-2,U.S. Senate,,REP,Jimmy Skovgard,0
+Sweetwater,20-2,U.S. Senate,,REP,John Holtz,4
+Sweetwater,20-2,U.S. Senate,,REP,Sam Mead,25
+Sweetwater,20-2,U.S. Senate,,REP,Write-ins,0
+Sweetwater,20-2,U.S. Senate,,REP,Over Votes,0
+Sweetwater,20-2,U.S. Senate,,REP,Under Votes,4
+Sweetwater,20-2,U.S. Senate,,DEM,Billy Benavidez,2
+Sweetwater,20-2,U.S. Senate,,DEM,James Byrd,5
+Sweetwater,20-2,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,20-2,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,20-2,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,20-2,U.S. House,,REP,* Withdrawn Candidate,3
+Sweetwater,20-2,U.S. House,,REP,Bo Biteman,4
+Sweetwater,20-2,U.S. House,,REP,Chuck Gray,44
+Sweetwater,20-2,U.S. House,,REP,David Giralt,11
+Sweetwater,20-2,U.S. House,,REP,Jillian Balow,30
+Sweetwater,20-2,U.S. House,,REP,Keith B. Goodenough,0
+Sweetwater,20-2,U.S. House,,REP,Kevin Christensen,19
+Sweetwater,20-2,U.S. House,,REP,Reid Rasner,19
+Sweetwater,20-2,U.S. House,,REP,Richard Dodson,3
+Sweetwater,20-2,U.S. House,,REP,Steve Friess,29
+Sweetwater,20-2,U.S. House,,REP,Write-ins,0
+Sweetwater,20-2,U.S. House,,REP,Over Votes,6
+Sweetwater,20-2,U.S. House,,REP,Under Votes,4
+Sweetwater,20-2,U.S. House,,DEM,Elena Del Real,0
+Sweetwater,20-2,U.S. House,,DEM,Lisa Kinney,7
+Sweetwater,20-2,U.S. House,,DEM,Write-ins,0
+Sweetwater,20-2,U.S. House,,DEM,Over Votes,0
+Sweetwater,20-2,U.S. House,,DEM,Under Votes,0
+Sweetwater,20-2,Governor,,REP,Brent Bien,44
+Sweetwater,20-2,Governor,,REP,Curt Blake,1
+Sweetwater,20-2,Governor,,REP,Eric Barlow,66
+Sweetwater,20-2,Governor,,REP,Megan Degenfelder,57
+Sweetwater,20-2,Governor,,REP,Write-ins,0
+Sweetwater,20-2,Governor,,REP,Over Votes,0
+Sweetwater,20-2,Governor,,REP,Under Votes,4
+Sweetwater,20-2,Governor,,DEM,Kenneth R. Casner,7
+Sweetwater,20-2,Governor,,DEM,Write-ins,0
+Sweetwater,20-2,Governor,,DEM,Over Votes,0
+Sweetwater,20-2,Governor,,DEM,Under Votes,0
+Sweetwater,20-2,Secretary of State,,REP,CJ Young,23
+Sweetwater,20-2,Secretary of State,,REP,Qwenton Eagle Oviatt,2
+Sweetwater,20-2,Secretary of State,,REP,Rachel Williams,51
+Sweetwater,20-2,Secretary of State,,REP,Robert Short,57
+Sweetwater,20-2,Secretary of State,,REP,Write-ins,0
+Sweetwater,20-2,Secretary of State,,REP,Over Votes,0
+Sweetwater,20-2,Secretary of State,,REP,Under Votes,39
+Sweetwater,20-2,Secretary of State,,DEM,Bryan McCarty,7
+Sweetwater,20-2,Secretary of State,,DEM,Write-ins,0
+Sweetwater,20-2,Secretary of State,,DEM,Over Votes,0
+Sweetwater,20-2,Secretary of State,,DEM,Under Votes,0
+Sweetwater,20-2,State Auditor,,REP,Kristi Racines,140
+Sweetwater,20-2,State Auditor,,REP,Write-ins,1
+Sweetwater,20-2,State Auditor,,REP,Over Votes,0
+Sweetwater,20-2,State Auditor,,REP,Under Votes,31
+Sweetwater,20-2,State Auditor,,DEM,Write-ins,0
+Sweetwater,20-2,State Auditor,,DEM,Over Votes,0
+Sweetwater,20-2,State Auditor,,DEM,Under Votes,7
+Sweetwater,20-2,State Treasurer,,REP,Curt Meier,93
+Sweetwater,20-2,State Treasurer,,REP,Scott Smith,42
+Sweetwater,20-2,State Treasurer,,REP,Write-ins,0
+Sweetwater,20-2,State Treasurer,,REP,Over Votes,0
+Sweetwater,20-2,State Treasurer,,REP,Under Votes,37
+Sweetwater,20-2,State Treasurer,,DEM,Write-ins,0
+Sweetwater,20-2,State Treasurer,,DEM,Over Votes,0
+Sweetwater,20-2,State Treasurer,,DEM,Under Votes,7
+Sweetwater,20-2,Superintendent of Public Instruction,,REP,Chad Auer,16
+Sweetwater,20-2,Superintendent of Public Instruction,,REP,Steve Harshman,87
+Sweetwater,20-2,Superintendent of Public Instruction,,REP,Tom Kelly,35
+Sweetwater,20-2,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,20-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,20-2,Superintendent of Public Instruction,,REP,Under Votes,33
+Sweetwater,20-2,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Sweetwater,20-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Sweetwater,20-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,20-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,20-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,20-2,State Senate,11,REP,Bob Davis,140
+Sweetwater,20-2,State Senate,11,REP,Write-ins,0
+Sweetwater,20-2,State Senate,11,REP,Over Votes,0
+Sweetwater,20-2,State Senate,11,REP,Under Votes,32
+Sweetwater,20-2,State Senate,11,DEM,Jim Wilson,6
+Sweetwater,20-2,State Senate,11,DEM,Write-ins,0
+Sweetwater,20-2,State Senate,11,DEM,Over Votes,0
+Sweetwater,20-2,State Senate,11,DEM,Under Votes,1
+Sweetwater,20-2,State House,47,REP,Eamon O'Toole,129
+Sweetwater,20-2,State House,47,REP,Write-ins,0
+Sweetwater,20-2,State House,47,REP,Over Votes,1
+Sweetwater,20-2,State House,47,REP,Under Votes,42
+Sweetwater,20-2,State House,47,DEM,Write-ins,0
+Sweetwater,20-2,State House,47,DEM,Over Votes,0
+Sweetwater,20-2,State House,47,DEM,Under Votes,7
+Sweetwater,20-2,Ballots Cast,,REP,Ballots Cast,172
+Sweetwater,20-2,Ballots Cast,,DEM,Ballots Cast,7
+Sweetwater,20-2,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,20-2,Ballots Cast,,,Ballots Cast,179
+Sweetwater,21-1,U.S. Senate,,REP,Harriet Hageman,4
+Sweetwater,21-1,U.S. Senate,,REP,Jill M Edwards,0
+Sweetwater,21-1,U.S. Senate,,REP,Jimmy Skovgard,0
+Sweetwater,21-1,U.S. Senate,,REP,John Holtz,0
+Sweetwater,21-1,U.S. Senate,,REP,Sam Mead,7
+Sweetwater,21-1,U.S. Senate,,REP,Write-ins,0
+Sweetwater,21-1,U.S. Senate,,REP,Over Votes,0
+Sweetwater,21-1,U.S. Senate,,REP,Under Votes,0
+Sweetwater,21-1,U.S. Senate,,DEM,Billy Benavidez,0
+Sweetwater,21-1,U.S. Senate,,DEM,James Byrd,6
+Sweetwater,21-1,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,21-1,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,21-1,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,21-1,U.S. House,,REP,* Withdrawn Candidate,0
+Sweetwater,21-1,U.S. House,,REP,Bo Biteman,0
+Sweetwater,21-1,U.S. House,,REP,Chuck Gray,0
+Sweetwater,21-1,U.S. House,,REP,David Giralt,0
+Sweetwater,21-1,U.S. House,,REP,Jillian Balow,4
+Sweetwater,21-1,U.S. House,,REP,Keith B. Goodenough,0
+Sweetwater,21-1,U.S. House,,REP,Kevin Christensen,2
+Sweetwater,21-1,U.S. House,,REP,Reid Rasner,2
+Sweetwater,21-1,U.S. House,,REP,Richard Dodson,0
+Sweetwater,21-1,U.S. House,,REP,Steve Friess,3
+Sweetwater,21-1,U.S. House,,REP,Write-ins,0
+Sweetwater,21-1,U.S. House,,REP,Over Votes,0
+Sweetwater,21-1,U.S. House,,REP,Under Votes,0
+Sweetwater,21-1,U.S. House,,DEM,Elena Del Real,0
+Sweetwater,21-1,U.S. House,,DEM,Lisa Kinney,5
+Sweetwater,21-1,U.S. House,,DEM,Write-ins,0
+Sweetwater,21-1,U.S. House,,DEM,Over Votes,1
+Sweetwater,21-1,U.S. House,,DEM,Under Votes,0
+Sweetwater,21-1,Governor,,REP,Brent Bien,0
+Sweetwater,21-1,Governor,,REP,Curt Blake,0
+Sweetwater,21-1,Governor,,REP,Eric Barlow,7
+Sweetwater,21-1,Governor,,REP,Megan Degenfelder,4
+Sweetwater,21-1,Governor,,REP,Write-ins,0
+Sweetwater,21-1,Governor,,REP,Over Votes,0
+Sweetwater,21-1,Governor,,REP,Under Votes,0
+Sweetwater,21-1,Governor,,DEM,Kenneth R. Casner,6
+Sweetwater,21-1,Governor,,DEM,Write-ins,0
+Sweetwater,21-1,Governor,,DEM,Over Votes,0
+Sweetwater,21-1,Governor,,DEM,Under Votes,0
+Sweetwater,21-1,Secretary of State,,REP,CJ Young,3
+Sweetwater,21-1,Secretary of State,,REP,Qwenton Eagle Oviatt,0
+Sweetwater,21-1,Secretary of State,,REP,Rachel Williams,1
+Sweetwater,21-1,Secretary of State,,REP,Robert Short,7
+Sweetwater,21-1,Secretary of State,,REP,Write-ins,0
+Sweetwater,21-1,Secretary of State,,REP,Over Votes,0
+Sweetwater,21-1,Secretary of State,,REP,Under Votes,0
+Sweetwater,21-1,Secretary of State,,DEM,Bryan McCarty,6
+Sweetwater,21-1,Secretary of State,,DEM,Write-ins,0
+Sweetwater,21-1,Secretary of State,,DEM,Over Votes,0
+Sweetwater,21-1,Secretary of State,,DEM,Under Votes,0
+Sweetwater,21-1,State Auditor,,REP,Kristi Racines,9
+Sweetwater,21-1,State Auditor,,REP,Write-ins,0
+Sweetwater,21-1,State Auditor,,REP,Over Votes,0
+Sweetwater,21-1,State Auditor,,REP,Under Votes,2
+Sweetwater,21-1,State Auditor,,DEM,Write-ins,0
+Sweetwater,21-1,State Auditor,,DEM,Over Votes,0
+Sweetwater,21-1,State Auditor,,DEM,Under Votes,6
+Sweetwater,21-1,State Treasurer,,REP,Curt Meier,8
+Sweetwater,21-1,State Treasurer,,REP,Scott Smith,3
+Sweetwater,21-1,State Treasurer,,REP,Write-ins,0
+Sweetwater,21-1,State Treasurer,,REP,Over Votes,0
+Sweetwater,21-1,State Treasurer,,REP,Under Votes,0
+Sweetwater,21-1,State Treasurer,,DEM,Write-ins,0
+Sweetwater,21-1,State Treasurer,,DEM,Over Votes,0
+Sweetwater,21-1,State Treasurer,,DEM,Under Votes,6
+Sweetwater,21-1,Superintendent of Public Instruction,,REP,Chad Auer,1
+Sweetwater,21-1,Superintendent of Public Instruction,,REP,Steve Harshman,8
+Sweetwater,21-1,Superintendent of Public Instruction,,REP,Tom Kelly,0
+Sweetwater,21-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,21-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,21-1,Superintendent of Public Instruction,,REP,Under Votes,1
+Sweetwater,21-1,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Sweetwater,21-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Sweetwater,21-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,21-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,21-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,21-1,State Senate,11,REP,Bob Davis,8
+Sweetwater,21-1,State Senate,11,REP,Write-ins,0
+Sweetwater,21-1,State Senate,11,REP,Over Votes,0
+Sweetwater,21-1,State Senate,11,REP,Under Votes,3
+Sweetwater,21-1,State Senate,11,DEM,Jim Wilson,6
+Sweetwater,21-1,State Senate,11,DEM,Write-ins,0
+Sweetwater,21-1,State Senate,11,DEM,Over Votes,0
+Sweetwater,21-1,State Senate,11,DEM,Under Votes,0
+Sweetwater,21-1,State House,47,REP,Eamon O'Toole,5
+Sweetwater,21-1,State House,47,REP,Write-ins,0
+Sweetwater,21-1,State House,47,REP,Over Votes,0
+Sweetwater,21-1,State House,47,REP,Under Votes,6
+Sweetwater,21-1,State House,47,DEM,Write-ins,0
+Sweetwater,21-1,State House,47,DEM,Over Votes,0
+Sweetwater,21-1,State House,47,DEM,Under Votes,6
+Sweetwater,21-1,Ballots Cast,,REP,Ballots Cast,11
+Sweetwater,21-1,Ballots Cast,,DEM,Ballots Cast,6
+Sweetwater,21-1,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,21-1,Ballots Cast,,,Ballots Cast,17
+Sweetwater,23-2,U.S. Senate,,REP,Harriet Hageman,27
+Sweetwater,23-2,U.S. Senate,,REP,Jill M Edwards,4
+Sweetwater,23-2,U.S. Senate,,REP,Jimmy Skovgard,1
+Sweetwater,23-2,U.S. Senate,,REP,John Holtz,3
+Sweetwater,23-2,U.S. Senate,,REP,Sam Mead,5
+Sweetwater,23-2,U.S. Senate,,REP,Write-ins,0
+Sweetwater,23-2,U.S. Senate,,REP,Over Votes,0
+Sweetwater,23-2,U.S. Senate,,REP,Under Votes,8
+Sweetwater,23-2,U.S. Senate,,DEM,Billy Benavidez,1
+Sweetwater,23-2,U.S. Senate,,DEM,James Byrd,2
+Sweetwater,23-2,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,23-2,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,23-2,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,23-2,U.S. House,,REP,* Withdrawn Candidate,2
+Sweetwater,23-2,U.S. House,,REP,Bo Biteman,4
+Sweetwater,23-2,U.S. House,,REP,Chuck Gray,13
+Sweetwater,23-2,U.S. House,,REP,David Giralt,4
+Sweetwater,23-2,U.S. House,,REP,Jillian Balow,1
+Sweetwater,23-2,U.S. House,,REP,Keith B. Goodenough,0
+Sweetwater,23-2,U.S. House,,REP,Kevin Christensen,3
+Sweetwater,23-2,U.S. House,,REP,Reid Rasner,4
+Sweetwater,23-2,U.S. House,,REP,Richard Dodson,0
+Sweetwater,23-2,U.S. House,,REP,Steve Friess,2
+Sweetwater,23-2,U.S. House,,REP,Write-ins,0
+Sweetwater,23-2,U.S. House,,REP,Over Votes,3
+Sweetwater,23-2,U.S. House,,REP,Under Votes,12
+Sweetwater,23-2,U.S. House,,DEM,Elena Del Real,2
+Sweetwater,23-2,U.S. House,,DEM,Lisa Kinney,1
+Sweetwater,23-2,U.S. House,,DEM,Write-ins,0
+Sweetwater,23-2,U.S. House,,DEM,Over Votes,0
+Sweetwater,23-2,U.S. House,,DEM,Under Votes,0
+Sweetwater,23-2,Governor,,REP,Brent Bien,8
+Sweetwater,23-2,Governor,,REP,Curt Blake,3
+Sweetwater,23-2,Governor,,REP,Eric Barlow,10
+Sweetwater,23-2,Governor,,REP,Megan Degenfelder,16
+Sweetwater,23-2,Governor,,REP,Write-ins,0
+Sweetwater,23-2,Governor,,REP,Over Votes,0
+Sweetwater,23-2,Governor,,REP,Under Votes,11
+Sweetwater,23-2,Governor,,DEM,Kenneth R. Casner,3
+Sweetwater,23-2,Governor,,DEM,Write-ins,0
+Sweetwater,23-2,Governor,,DEM,Over Votes,0
+Sweetwater,23-2,Governor,,DEM,Under Votes,0
+Sweetwater,23-2,Secretary of State,,REP,CJ Young,16
+Sweetwater,23-2,Secretary of State,,REP,Qwenton Eagle Oviatt,0
+Sweetwater,23-2,Secretary of State,,REP,Rachel Williams,10
+Sweetwater,23-2,Secretary of State,,REP,Robert Short,8
+Sweetwater,23-2,Secretary of State,,REP,Write-ins,0
+Sweetwater,23-2,Secretary of State,,REP,Over Votes,0
+Sweetwater,23-2,Secretary of State,,REP,Under Votes,14
+Sweetwater,23-2,Secretary of State,,DEM,Bryan McCarty,2
+Sweetwater,23-2,Secretary of State,,DEM,Write-ins,0
+Sweetwater,23-2,Secretary of State,,DEM,Over Votes,0
+Sweetwater,23-2,Secretary of State,,DEM,Under Votes,1
+Sweetwater,23-2,State Auditor,,REP,Kristi Racines,33
+Sweetwater,23-2,State Auditor,,REP,Write-ins,1
+Sweetwater,23-2,State Auditor,,REP,Over Votes,0
+Sweetwater,23-2,State Auditor,,REP,Under Votes,14
+Sweetwater,23-2,State Auditor,,DEM,Write-ins,0
+Sweetwater,23-2,State Auditor,,DEM,Over Votes,0
+Sweetwater,23-2,State Auditor,,DEM,Under Votes,3
+Sweetwater,23-2,State Treasurer,,REP,Curt Meier,12
+Sweetwater,23-2,State Treasurer,,REP,Scott Smith,19
+Sweetwater,23-2,State Treasurer,,REP,Write-ins,1
+Sweetwater,23-2,State Treasurer,,REP,Over Votes,0
+Sweetwater,23-2,State Treasurer,,REP,Under Votes,16
+Sweetwater,23-2,State Treasurer,,DEM,Write-ins,0
+Sweetwater,23-2,State Treasurer,,DEM,Over Votes,0
+Sweetwater,23-2,State Treasurer,,DEM,Under Votes,3
+Sweetwater,23-2,Superintendent of Public Instruction,,REP,Chad Auer,5
+Sweetwater,23-2,Superintendent of Public Instruction,,REP,Steve Harshman,11
+Sweetwater,23-2,Superintendent of Public Instruction,,REP,Tom Kelly,15
+Sweetwater,23-2,Superintendent of Public Instruction,,REP,Write-ins,1
+Sweetwater,23-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,23-2,Superintendent of Public Instruction,,REP,Under Votes,16
+Sweetwater,23-2,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Sweetwater,23-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Sweetwater,23-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,23-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,23-2,Superintendent of Public Instruction,,DEM,Under Votes,1
+Sweetwater,23-2,State Senate,11,REP,Bob Davis,32
+Sweetwater,23-2,State Senate,11,REP,Write-ins,1
+Sweetwater,23-2,State Senate,11,REP,Over Votes,0
+Sweetwater,23-2,State Senate,11,REP,Under Votes,15
+Sweetwater,23-2,State Senate,11,DEM,Jim Wilson,2
+Sweetwater,23-2,State Senate,11,DEM,Write-ins,0
+Sweetwater,23-2,State Senate,11,DEM,Over Votes,0
+Sweetwater,23-2,State Senate,11,DEM,Under Votes,1
+Sweetwater,23-2,State House,47,REP,Eamon O'Toole,30
+Sweetwater,23-2,State House,47,REP,Write-ins,0
+Sweetwater,23-2,State House,47,REP,Over Votes,0
+Sweetwater,23-2,State House,47,REP,Under Votes,18
+Sweetwater,23-2,State House,47,DEM,Write-ins,0
+Sweetwater,23-2,State House,47,DEM,Over Votes,0
+Sweetwater,23-2,State House,47,DEM,Under Votes,3
+Sweetwater,23-2,Ballots Cast,,REP,Ballots Cast,48
+Sweetwater,23-2,Ballots Cast,,DEM,Ballots Cast,3
+Sweetwater,23-2,Ballots Cast,,NP,Ballots Cast,2
+Sweetwater,23-2,Ballots Cast,,,Ballots Cast,53
+Sweetwater,24-1,U.S. Senate,,REP,Harriet Hageman,40
+Sweetwater,24-1,U.S. Senate,,REP,Jill M Edwards,1
+Sweetwater,24-1,U.S. Senate,,REP,Jimmy Skovgard,2
+Sweetwater,24-1,U.S. Senate,,REP,John Holtz,2
+Sweetwater,24-1,U.S. Senate,,REP,Sam Mead,4
+Sweetwater,24-1,U.S. Senate,,REP,Write-ins,0
+Sweetwater,24-1,U.S. Senate,,REP,Over Votes,0
+Sweetwater,24-1,U.S. Senate,,REP,Under Votes,0
+Sweetwater,24-1,U.S. Senate,,DEM,Billy Benavidez,0
+Sweetwater,24-1,U.S. Senate,,DEM,James Byrd,0
+Sweetwater,24-1,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,24-1,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,24-1,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,24-1,U.S. House,,REP,* Withdrawn Candidate,1
+Sweetwater,24-1,U.S. House,,REP,Bo Biteman,0
+Sweetwater,24-1,U.S. House,,REP,Chuck Gray,14
+Sweetwater,24-1,U.S. House,,REP,David Giralt,9
+Sweetwater,24-1,U.S. House,,REP,Jillian Balow,3
+Sweetwater,24-1,U.S. House,,REP,Keith B. Goodenough,0
+Sweetwater,24-1,U.S. House,,REP,Kevin Christensen,3
+Sweetwater,24-1,U.S. House,,REP,Reid Rasner,7
+Sweetwater,24-1,U.S. House,,REP,Richard Dodson,3
+Sweetwater,24-1,U.S. House,,REP,Steve Friess,7
+Sweetwater,24-1,U.S. House,,REP,Write-ins,0
+Sweetwater,24-1,U.S. House,,REP,Over Votes,0
+Sweetwater,24-1,U.S. House,,REP,Under Votes,2
+Sweetwater,24-1,U.S. House,,DEM,Elena Del Real,0
+Sweetwater,24-1,U.S. House,,DEM,Lisa Kinney,0
+Sweetwater,24-1,U.S. House,,DEM,Write-ins,0
+Sweetwater,24-1,U.S. House,,DEM,Over Votes,0
+Sweetwater,24-1,U.S. House,,DEM,Under Votes,0
+Sweetwater,24-1,Governor,,REP,Brent Bien,12
+Sweetwater,24-1,Governor,,REP,Curt Blake,2
+Sweetwater,24-1,Governor,,REP,Eric Barlow,16
+Sweetwater,24-1,Governor,,REP,Megan Degenfelder,19
+Sweetwater,24-1,Governor,,REP,Write-ins,0
+Sweetwater,24-1,Governor,,REP,Over Votes,0
+Sweetwater,24-1,Governor,,REP,Under Votes,0
+Sweetwater,24-1,Governor,,DEM,Kenneth R. Casner,0
+Sweetwater,24-1,Governor,,DEM,Write-ins,0
+Sweetwater,24-1,Governor,,DEM,Over Votes,0
+Sweetwater,24-1,Governor,,DEM,Under Votes,0
+Sweetwater,24-1,Secretary of State,,REP,CJ Young,14
+Sweetwater,24-1,Secretary of State,,REP,Qwenton Eagle Oviatt,0
+Sweetwater,24-1,Secretary of State,,REP,Rachel Williams,14
+Sweetwater,24-1,Secretary of State,,REP,Robert Short,11
+Sweetwater,24-1,Secretary of State,,REP,Write-ins,0
+Sweetwater,24-1,Secretary of State,,REP,Over Votes,0
+Sweetwater,24-1,Secretary of State,,REP,Under Votes,10
+Sweetwater,24-1,Secretary of State,,DEM,Bryan McCarty,0
+Sweetwater,24-1,Secretary of State,,DEM,Write-ins,0
+Sweetwater,24-1,Secretary of State,,DEM,Over Votes,0
+Sweetwater,24-1,Secretary of State,,DEM,Under Votes,0
+Sweetwater,24-1,State Auditor,,REP,Kristi Racines,37
+Sweetwater,24-1,State Auditor,,REP,Write-ins,0
+Sweetwater,24-1,State Auditor,,REP,Over Votes,0
+Sweetwater,24-1,State Auditor,,REP,Under Votes,12
+Sweetwater,24-1,State Auditor,,DEM,Write-ins,0
+Sweetwater,24-1,State Auditor,,DEM,Over Votes,0
+Sweetwater,24-1,State Auditor,,DEM,Under Votes,0
+Sweetwater,24-1,State Treasurer,,REP,Curt Meier,25
+Sweetwater,24-1,State Treasurer,,REP,Scott Smith,15
+Sweetwater,24-1,State Treasurer,,REP,Write-ins,0
+Sweetwater,24-1,State Treasurer,,REP,Over Votes,0
+Sweetwater,24-1,State Treasurer,,REP,Under Votes,9
+Sweetwater,24-1,State Treasurer,,DEM,Write-ins,0
+Sweetwater,24-1,State Treasurer,,DEM,Over Votes,0
+Sweetwater,24-1,State Treasurer,,DEM,Under Votes,0
+Sweetwater,24-1,Superintendent of Public Instruction,,REP,Chad Auer,6
+Sweetwater,24-1,Superintendent of Public Instruction,,REP,Steve Harshman,18
+Sweetwater,24-1,Superintendent of Public Instruction,,REP,Tom Kelly,15
+Sweetwater,24-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,24-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,24-1,Superintendent of Public Instruction,,REP,Under Votes,10
+Sweetwater,24-1,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Sweetwater,24-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Sweetwater,24-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,24-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,24-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,24-1,State House,18,REP,Kenneth D Roberts,8
+Sweetwater,24-1,State House,18,REP,Scott Heiner,36
+Sweetwater,24-1,State House,18,REP,Write-ins,0
+Sweetwater,24-1,State House,18,REP,Over Votes,0
+Sweetwater,24-1,State House,18,REP,Under Votes,5
+Sweetwater,24-1,State House,18,DEM,Write-ins,0
+Sweetwater,24-1,State House,18,DEM,Over Votes,0
+Sweetwater,24-1,State House,18,DEM,Under Votes,0
+Sweetwater,24-1,Ballots Cast,,REP,Ballots Cast,49
+Sweetwater,24-1,Ballots Cast,,DEM,Ballots Cast,0
+Sweetwater,24-1,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,24-1,Ballots Cast,,,Ballots Cast,49
+Sweetwater,25-2,U.S. Senate,,REP,Harriet Hageman,28
+Sweetwater,25-2,U.S. Senate,,REP,Jill M Edwards,1
+Sweetwater,25-2,U.S. Senate,,REP,Jimmy Skovgard,1
+Sweetwater,25-2,U.S. Senate,,REP,John Holtz,1
+Sweetwater,25-2,U.S. Senate,,REP,Sam Mead,4
+Sweetwater,25-2,U.S. Senate,,REP,Write-ins,0
+Sweetwater,25-2,U.S. Senate,,REP,Over Votes,0
+Sweetwater,25-2,U.S. Senate,,REP,Under Votes,0
+Sweetwater,25-2,U.S. Senate,,DEM,Billy Benavidez,1
+Sweetwater,25-2,U.S. Senate,,DEM,James Byrd,1
+Sweetwater,25-2,U.S. Senate,,DEM,Write-ins,0
+Sweetwater,25-2,U.S. Senate,,DEM,Over Votes,0
+Sweetwater,25-2,U.S. Senate,,DEM,Under Votes,0
+Sweetwater,25-2,U.S. House,,REP,* Withdrawn Candidate,1
+Sweetwater,25-2,U.S. House,,REP,Bo Biteman,0
+Sweetwater,25-2,U.S. House,,REP,Chuck Gray,14
+Sweetwater,25-2,U.S. House,,REP,David Giralt,4
+Sweetwater,25-2,U.S. House,,REP,Jillian Balow,3
+Sweetwater,25-2,U.S. House,,REP,Keith B. Goodenough,1
+Sweetwater,25-2,U.S. House,,REP,Kevin Christensen,0
+Sweetwater,25-2,U.S. House,,REP,Reid Rasner,4
+Sweetwater,25-2,U.S. House,,REP,Richard Dodson,0
+Sweetwater,25-2,U.S. House,,REP,Steve Friess,6
+Sweetwater,25-2,U.S. House,,REP,Write-ins,0
+Sweetwater,25-2,U.S. House,,REP,Over Votes,2
+Sweetwater,25-2,U.S. House,,REP,Under Votes,0
+Sweetwater,25-2,U.S. House,,DEM,Elena Del Real,0
+Sweetwater,25-2,U.S. House,,DEM,Lisa Kinney,2
+Sweetwater,25-2,U.S. House,,DEM,Write-ins,0
+Sweetwater,25-2,U.S. House,,DEM,Over Votes,0
+Sweetwater,25-2,U.S. House,,DEM,Under Votes,0
+Sweetwater,25-2,Governor,,REP,Brent Bien,17
+Sweetwater,25-2,Governor,,REP,Curt Blake,1
+Sweetwater,25-2,Governor,,REP,Eric Barlow,7
+Sweetwater,25-2,Governor,,REP,Megan Degenfelder,10
+Sweetwater,25-2,Governor,,REP,Write-ins,0
+Sweetwater,25-2,Governor,,REP,Over Votes,0
+Sweetwater,25-2,Governor,,REP,Under Votes,0
+Sweetwater,25-2,Governor,,DEM,Kenneth R. Casner,1
+Sweetwater,25-2,Governor,,DEM,Write-ins,1
+Sweetwater,25-2,Governor,,DEM,Over Votes,0
+Sweetwater,25-2,Governor,,DEM,Under Votes,0
+Sweetwater,25-2,Secretary of State,,REP,CJ Young,8
+Sweetwater,25-2,Secretary of State,,REP,Qwenton Eagle Oviatt,2
+Sweetwater,25-2,Secretary of State,,REP,Rachel Williams,14
+Sweetwater,25-2,Secretary of State,,REP,Robert Short,9
+Sweetwater,25-2,Secretary of State,,REP,Write-ins,0
+Sweetwater,25-2,Secretary of State,,REP,Over Votes,0
+Sweetwater,25-2,Secretary of State,,REP,Under Votes,2
+Sweetwater,25-2,Secretary of State,,DEM,Bryan McCarty,2
+Sweetwater,25-2,Secretary of State,,DEM,Write-ins,0
+Sweetwater,25-2,Secretary of State,,DEM,Over Votes,0
+Sweetwater,25-2,Secretary of State,,DEM,Under Votes,0
+Sweetwater,25-2,State Auditor,,REP,Kristi Racines,30
+Sweetwater,25-2,State Auditor,,REP,Write-ins,0
+Sweetwater,25-2,State Auditor,,REP,Over Votes,0
+Sweetwater,25-2,State Auditor,,REP,Under Votes,5
+Sweetwater,25-2,State Auditor,,DEM,Write-ins,1
+Sweetwater,25-2,State Auditor,,DEM,Over Votes,0
+Sweetwater,25-2,State Auditor,,DEM,Under Votes,1
+Sweetwater,25-2,State Treasurer,,REP,Curt Meier,18
+Sweetwater,25-2,State Treasurer,,REP,Scott Smith,16
+Sweetwater,25-2,State Treasurer,,REP,Write-ins,0
+Sweetwater,25-2,State Treasurer,,REP,Over Votes,0
+Sweetwater,25-2,State Treasurer,,REP,Under Votes,1
+Sweetwater,25-2,State Treasurer,,DEM,Write-ins,1
+Sweetwater,25-2,State Treasurer,,DEM,Over Votes,0
+Sweetwater,25-2,State Treasurer,,DEM,Under Votes,1
+Sweetwater,25-2,Superintendent of Public Instruction,,REP,Chad Auer,5
+Sweetwater,25-2,Superintendent of Public Instruction,,REP,Steve Harshman,22
+Sweetwater,25-2,Superintendent of Public Instruction,,REP,Tom Kelly,5
+Sweetwater,25-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Sweetwater,25-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Sweetwater,25-2,Superintendent of Public Instruction,,REP,Under Votes,3
+Sweetwater,25-2,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Sweetwater,25-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Sweetwater,25-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sweetwater,25-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sweetwater,25-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sweetwater,25-2,State Senate,11,REP,Bob Davis,30
+Sweetwater,25-2,State Senate,11,REP,Write-ins,0
+Sweetwater,25-2,State Senate,11,REP,Over Votes,0
+Sweetwater,25-2,State Senate,11,REP,Under Votes,5
+Sweetwater,25-2,State Senate,11,DEM,Jim Wilson,2
+Sweetwater,25-2,State Senate,11,DEM,Write-ins,0
+Sweetwater,25-2,State Senate,11,DEM,Over Votes,0
+Sweetwater,25-2,State Senate,11,DEM,Under Votes,0
+Sweetwater,25-2,State House,15,REP,Pamela Thayer,33
+Sweetwater,25-2,State House,15,REP,Write-ins,0
+Sweetwater,25-2,State House,15,REP,Over Votes,0
+Sweetwater,25-2,State House,15,REP,Under Votes,2
+Sweetwater,25-2,State House,15,DEM,Write-ins,0
+Sweetwater,25-2,State House,15,DEM,Over Votes,0
+Sweetwater,25-2,State House,15,DEM,Under Votes,2
+Sweetwater,25-2,Ballots Cast,,REP,Ballots Cast,35
+Sweetwater,25-2,Ballots Cast,,DEM,Ballots Cast,2
+Sweetwater,25-2,Ballots Cast,,NP,Ballots Cast,0
+Sweetwater,25-2,Ballots Cast,,,Ballots Cast,37
+Sweetwater,Precincts Continue on Next Page,Superintendent of Public Instruction,,DEM,Write-ins,0

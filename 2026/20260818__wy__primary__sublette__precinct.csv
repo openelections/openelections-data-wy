@@ -1,0 +1,737 @@
+county,precinct,office,district,party,candidate,votes
+Sublette,1-1,U.S. Senate,,REP,Harriet Hageman,408
+Sublette,1-1,U.S. Senate,,REP,Jill M Edwards,14
+Sublette,1-1,U.S. Senate,,REP,Jimmy Skovgard,20
+Sublette,1-1,U.S. Senate,,REP,John Holtz,12
+Sublette,1-1,U.S. Senate,,REP,Sam Mead,292
+Sublette,1-1,U.S. Senate,,REP,Write-ins,4
+Sublette,1-1,U.S. Senate,,REP,Over Votes,3
+Sublette,1-1,U.S. Senate,,REP,Under Votes,27
+Sublette,1-1,U.S. Senate,,DEM,Billy Benavidez,3
+Sublette,1-1,U.S. Senate,,DEM,James Byrd,21
+Sublette,1-1,U.S. Senate,,DEM,Write-ins,1
+Sublette,1-1,U.S. Senate,,DEM,Over Votes,0
+Sublette,1-1,U.S. Senate,,DEM,Under Votes,0
+Sublette,1-1,U.S. House,,REP,* Withdrawn Candidate,8
+Sublette,1-1,U.S. House,,REP,Bo Biteman,26
+Sublette,1-1,U.S. House,,REP,Chuck Gray,142
+Sublette,1-1,U.S. House,,REP,David Giralt,71
+Sublette,1-1,U.S. House,,REP,Jillian Balow,66
+Sublette,1-1,U.S. House,,REP,Keith B. Goodenough,22
+Sublette,1-1,U.S. House,,REP,Kevin Christensen,183
+Sublette,1-1,U.S. House,,REP,Reid Rasner,33
+Sublette,1-1,U.S. House,,REP,Richard Dodson,10
+Sublette,1-1,U.S. House,,REP,Steve Friess,154
+Sublette,1-1,U.S. House,,REP,Write-ins,3
+Sublette,1-1,U.S. House,,REP,Over Votes,10
+Sublette,1-1,U.S. House,,REP,Under Votes,52
+Sublette,1-1,U.S. House,,DEM,Elena Del Real,4
+Sublette,1-1,U.S. House,,DEM,Lisa Kinney,20
+Sublette,1-1,U.S. House,,DEM,Write-ins,1
+Sublette,1-1,U.S. House,,DEM,Over Votes,0
+Sublette,1-1,U.S. House,,DEM,Under Votes,0
+Sublette,1-1,Governor,,REP,Brent Bien,144
+Sublette,1-1,Governor,,REP,Curt Blake,12
+Sublette,1-1,Governor,,REP,Eric Barlow,399
+Sublette,1-1,Governor,,REP,Megan Degenfelder,208
+Sublette,1-1,Governor,,REP,Write-ins,0
+Sublette,1-1,Governor,,REP,Over Votes,0
+Sublette,1-1,Governor,,REP,Under Votes,17
+Sublette,1-1,Governor,,DEM,Kenneth R. Casner,20
+Sublette,1-1,Governor,,DEM,Write-ins,1
+Sublette,1-1,Governor,,DEM,Over Votes,1
+Sublette,1-1,Governor,,DEM,Under Votes,3
+Sublette,1-1,Secretary of State,,REP,CJ Young,88
+Sublette,1-1,Secretary of State,,REP,Qwenton Eagle Oviatt,46
+Sublette,1-1,Secretary of State,,REP,Rachel Williams,193
+Sublette,1-1,Secretary of State,,REP,Robert Short,326
+Sublette,1-1,Secretary of State,,REP,Write-ins,3
+Sublette,1-1,Secretary of State,,REP,Over Votes,0
+Sublette,1-1,Secretary of State,,REP,Under Votes,124
+Sublette,1-1,Secretary of State,,DEM,Bryan McCarty,22
+Sublette,1-1,Secretary of State,,DEM,Write-ins,1
+Sublette,1-1,Secretary of State,,DEM,Over Votes,0
+Sublette,1-1,Secretary of State,,DEM,Under Votes,2
+Sublette,1-1,State Auditor,,REP,Kristi Racines,611
+Sublette,1-1,State Auditor,,REP,Write-ins,5
+Sublette,1-1,State Auditor,,REP,Over Votes,0
+Sublette,1-1,State Auditor,,REP,Under Votes,164
+Sublette,1-1,State Auditor,,DEM,Write-ins,2
+Sublette,1-1,State Auditor,,DEM,Over Votes,0
+Sublette,1-1,State Auditor,,DEM,Under Votes,23
+Sublette,1-1,State Treasurer,,REP,Curt Meier,427
+Sublette,1-1,State Treasurer,,REP,Scott Smith,201
+Sublette,1-1,State Treasurer,,REP,Write-ins,3
+Sublette,1-1,State Treasurer,,REP,Over Votes,1
+Sublette,1-1,State Treasurer,,REP,Under Votes,148
+Sublette,1-1,State Treasurer,,DEM,Write-ins,3
+Sublette,1-1,State Treasurer,,DEM,Over Votes,0
+Sublette,1-1,State Treasurer,,DEM,Under Votes,22
+Sublette,1-1,Superintendent of Public Instruction,,REP,Chad Auer,73
+Sublette,1-1,Superintendent of Public Instruction,,REP,Steve Harshman,386
+Sublette,1-1,Superintendent of Public Instruction,,REP,Tom Kelly,202
+Sublette,1-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Sublette,1-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,1-1,Superintendent of Public Instruction,,REP,Under Votes,117
+Sublette,1-1,Superintendent of Public Instruction,,DEM,Ana Cordova,14
+Sublette,1-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",9
+Sublette,1-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Sublette,1-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,1-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Sublette,1-1,State House,20,REP,Albert Sommers,526
+Sublette,1-1,State House,20,REP,Bill Winney,120
+Sublette,1-1,State House,20,REP,Matt McGinnis,113
+Sublette,1-1,State House,20,REP,Write-ins,2
+Sublette,1-1,State House,20,REP,Over Votes,0
+Sublette,1-1,State House,20,REP,Under Votes,19
+Sublette,1-1,State House,20,DEM,Write-ins,6
+Sublette,1-1,State House,20,DEM,Over Votes,0
+Sublette,1-1,State House,20,DEM,Under Votes,19
+Sublette,1-1,Ballots Cast,,REP,Ballots Cast,780
+Sublette,1-1,Ballots Cast,,DEM,Ballots Cast,25
+Sublette,1-1,Ballots Cast,,NP,Ballots Cast,9
+Sublette,1-1,Ballots Cast,,,Ballots Cast,814
+Sublette,1-3,U.S. Senate,,REP,Harriet Hageman,441
+Sublette,1-3,U.S. Senate,,REP,Jill M Edwards,19
+Sublette,1-3,U.S. Senate,,REP,Jimmy Skovgard,11
+Sublette,1-3,U.S. Senate,,REP,John Holtz,19
+Sublette,1-3,U.S. Senate,,REP,Sam Mead,253
+Sublette,1-3,U.S. Senate,,REP,Write-ins,3
+Sublette,1-3,U.S. Senate,,REP,Over Votes,1
+Sublette,1-3,U.S. Senate,,REP,Under Votes,37
+Sublette,1-3,U.S. Senate,,DEM,Billy Benavidez,2
+Sublette,1-3,U.S. Senate,,DEM,James Byrd,17
+Sublette,1-3,U.S. Senate,,DEM,Write-ins,2
+Sublette,1-3,U.S. Senate,,DEM,Over Votes,0
+Sublette,1-3,U.S. Senate,,DEM,Under Votes,4
+Sublette,1-3,U.S. House,,REP,* Withdrawn Candidate,10
+Sublette,1-3,U.S. House,,REP,Bo Biteman,19
+Sublette,1-3,U.S. House,,REP,Chuck Gray,166
+Sublette,1-3,U.S. House,,REP,David Giralt,55
+Sublette,1-3,U.S. House,,REP,Jillian Balow,58
+Sublette,1-3,U.S. House,,REP,Keith B. Goodenough,19
+Sublette,1-3,U.S. House,,REP,Kevin Christensen,186
+Sublette,1-3,U.S. House,,REP,Reid Rasner,50
+Sublette,1-3,U.S. House,,REP,Richard Dodson,8
+Sublette,1-3,U.S. House,,REP,Steve Friess,142
+Sublette,1-3,U.S. House,,REP,Write-ins,4
+Sublette,1-3,U.S. House,,REP,Over Votes,6
+Sublette,1-3,U.S. House,,REP,Under Votes,61
+Sublette,1-3,U.S. House,,DEM,Elena Del Real,4
+Sublette,1-3,U.S. House,,DEM,Lisa Kinney,15
+Sublette,1-3,U.S. House,,DEM,Write-ins,1
+Sublette,1-3,U.S. House,,DEM,Over Votes,0
+Sublette,1-3,U.S. House,,DEM,Under Votes,5
+Sublette,1-3,Governor,,REP,Brent Bien,139
+Sublette,1-3,Governor,,REP,Curt Blake,20
+Sublette,1-3,Governor,,REP,Eric Barlow,383
+Sublette,1-3,Governor,,REP,Megan Degenfelder,210
+Sublette,1-3,Governor,,REP,Write-ins,3
+Sublette,1-3,Governor,,REP,Over Votes,0
+Sublette,1-3,Governor,,REP,Under Votes,29
+Sublette,1-3,Governor,,DEM,Kenneth R. Casner,18
+Sublette,1-3,Governor,,DEM,Write-ins,3
+Sublette,1-3,Governor,,DEM,Over Votes,0
+Sublette,1-3,Governor,,DEM,Under Votes,4
+Sublette,1-3,Secretary of State,,REP,CJ Young,119
+Sublette,1-3,Secretary of State,,REP,Qwenton Eagle Oviatt,40
+Sublette,1-3,Secretary of State,,REP,Rachel Williams,188
+Sublette,1-3,Secretary of State,,REP,Robert Short,269
+Sublette,1-3,Secretary of State,,REP,Write-ins,7
+Sublette,1-3,Secretary of State,,REP,Over Votes,0
+Sublette,1-3,Secretary of State,,REP,Under Votes,161
+Sublette,1-3,Secretary of State,,DEM,Bryan McCarty,21
+Sublette,1-3,Secretary of State,,DEM,Write-ins,0
+Sublette,1-3,Secretary of State,,DEM,Over Votes,0
+Sublette,1-3,Secretary of State,,DEM,Under Votes,4
+Sublette,1-3,State Auditor,,REP,Kristi Racines,622
+Sublette,1-3,State Auditor,,REP,Write-ins,3
+Sublette,1-3,State Auditor,,REP,Over Votes,0
+Sublette,1-3,State Auditor,,REP,Under Votes,159
+Sublette,1-3,State Auditor,,DEM,Write-ins,1
+Sublette,1-3,State Auditor,,DEM,Over Votes,0
+Sublette,1-3,State Auditor,,DEM,Under Votes,24
+Sublette,1-3,State Treasurer,,REP,Curt Meier,440
+Sublette,1-3,State Treasurer,,REP,Scott Smith,200
+Sublette,1-3,State Treasurer,,REP,Write-ins,4
+Sublette,1-3,State Treasurer,,REP,Over Votes,0
+Sublette,1-3,State Treasurer,,REP,Under Votes,140
+Sublette,1-3,State Treasurer,,DEM,Write-ins,3
+Sublette,1-3,State Treasurer,,DEM,Over Votes,0
+Sublette,1-3,State Treasurer,,DEM,Under Votes,22
+Sublette,1-3,Superintendent of Public Instruction,,REP,Chad Auer,83
+Sublette,1-3,Superintendent of Public Instruction,,REP,Steve Harshman,346
+Sublette,1-3,Superintendent of Public Instruction,,REP,Tom Kelly,209
+Sublette,1-3,Superintendent of Public Instruction,,REP,Write-ins,7
+Sublette,1-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,1-3,Superintendent of Public Instruction,,REP,Under Votes,139
+Sublette,1-3,Superintendent of Public Instruction,,DEM,Ana Cordova,13
+Sublette,1-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",7
+Sublette,1-3,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sublette,1-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,1-3,Superintendent of Public Instruction,,DEM,Under Votes,5
+Sublette,1-3,State House,20,REP,Albert Sommers,490
+Sublette,1-3,State House,20,REP,Bill Winney,107
+Sublette,1-3,State House,20,REP,Matt McGinnis,157
+Sublette,1-3,State House,20,REP,Write-ins,2
+Sublette,1-3,State House,20,REP,Over Votes,0
+Sublette,1-3,State House,20,REP,Under Votes,28
+Sublette,1-3,State House,20,DEM,Write-ins,3
+Sublette,1-3,State House,20,DEM,Over Votes,0
+Sublette,1-3,State House,20,DEM,Under Votes,22
+Sublette,1-3,Ballots Cast,,REP,Ballots Cast,784
+Sublette,1-3,Ballots Cast,,DEM,Ballots Cast,25
+Sublette,1-3,Ballots Cast,,NP,Ballots Cast,33
+Sublette,1-3,Ballots Cast,,,Ballots Cast,842
+Sublette,1-4,U.S. Senate,,REP,Harriet Hageman,237
+Sublette,1-4,U.S. Senate,,REP,Jill M Edwards,3
+Sublette,1-4,U.S. Senate,,REP,Jimmy Skovgard,12
+Sublette,1-4,U.S. Senate,,REP,John Holtz,9
+Sublette,1-4,U.S. Senate,,REP,Sam Mead,127
+Sublette,1-4,U.S. Senate,,REP,Write-ins,3
+Sublette,1-4,U.S. Senate,,REP,Over Votes,1
+Sublette,1-4,U.S. Senate,,REP,Under Votes,15
+Sublette,1-4,U.S. Senate,,DEM,Billy Benavidez,2
+Sublette,1-4,U.S. Senate,,DEM,James Byrd,8
+Sublette,1-4,U.S. Senate,,DEM,Write-ins,0
+Sublette,1-4,U.S. Senate,,DEM,Over Votes,0
+Sublette,1-4,U.S. Senate,,DEM,Under Votes,0
+Sublette,1-4,U.S. House,,REP,* Withdrawn Candidate,7
+Sublette,1-4,U.S. House,,REP,Bo Biteman,18
+Sublette,1-4,U.S. House,,REP,Chuck Gray,95
+Sublette,1-4,U.S. House,,REP,David Giralt,34
+Sublette,1-4,U.S. House,,REP,Jillian Balow,19
+Sublette,1-4,U.S. House,,REP,Keith B. Goodenough,7
+Sublette,1-4,U.S. House,,REP,Kevin Christensen,90
+Sublette,1-4,U.S. House,,REP,Reid Rasner,41
+Sublette,1-4,U.S. House,,REP,Richard Dodson,3
+Sublette,1-4,U.S. House,,REP,Steve Friess,54
+Sublette,1-4,U.S. House,,REP,Write-ins,2
+Sublette,1-4,U.S. House,,REP,Over Votes,0
+Sublette,1-4,U.S. House,,REP,Under Votes,37
+Sublette,1-4,U.S. House,,DEM,Elena Del Real,2
+Sublette,1-4,U.S. House,,DEM,Lisa Kinney,8
+Sublette,1-4,U.S. House,,DEM,Write-ins,0
+Sublette,1-4,U.S. House,,DEM,Over Votes,0
+Sublette,1-4,U.S. House,,DEM,Under Votes,0
+Sublette,1-4,Governor,,REP,Brent Bien,70
+Sublette,1-4,Governor,,REP,Curt Blake,2
+Sublette,1-4,Governor,,REP,Eric Barlow,183
+Sublette,1-4,Governor,,REP,Megan Degenfelder,137
+Sublette,1-4,Governor,,REP,Write-ins,1
+Sublette,1-4,Governor,,REP,Over Votes,0
+Sublette,1-4,Governor,,REP,Under Votes,14
+Sublette,1-4,Governor,,DEM,Kenneth R. Casner,9
+Sublette,1-4,Governor,,DEM,Write-ins,0
+Sublette,1-4,Governor,,DEM,Over Votes,0
+Sublette,1-4,Governor,,DEM,Under Votes,1
+Sublette,1-4,Secretary of State,,REP,CJ Young,72
+Sublette,1-4,Secretary of State,,REP,Qwenton Eagle Oviatt,28
+Sublette,1-4,Secretary of State,,REP,Rachel Williams,91
+Sublette,1-4,Secretary of State,,REP,Robert Short,134
+Sublette,1-4,Secretary of State,,REP,Write-ins,4
+Sublette,1-4,Secretary of State,,REP,Over Votes,0
+Sublette,1-4,Secretary of State,,REP,Under Votes,78
+Sublette,1-4,Secretary of State,,DEM,Bryan McCarty,9
+Sublette,1-4,Secretary of State,,DEM,Write-ins,0
+Sublette,1-4,Secretary of State,,DEM,Over Votes,0
+Sublette,1-4,Secretary of State,,DEM,Under Votes,1
+Sublette,1-4,State Auditor,,REP,Kristi Racines,337
+Sublette,1-4,State Auditor,,REP,Write-ins,1
+Sublette,1-4,State Auditor,,REP,Over Votes,0
+Sublette,1-4,State Auditor,,REP,Under Votes,69
+Sublette,1-4,State Auditor,,DEM,Write-ins,1
+Sublette,1-4,State Auditor,,DEM,Over Votes,0
+Sublette,1-4,State Auditor,,DEM,Under Votes,9
+Sublette,1-4,State Treasurer,,REP,Curt Meier,217
+Sublette,1-4,State Treasurer,,REP,Scott Smith,106
+Sublette,1-4,State Treasurer,,REP,Write-ins,4
+Sublette,1-4,State Treasurer,,REP,Over Votes,0
+Sublette,1-4,State Treasurer,,REP,Under Votes,80
+Sublette,1-4,State Treasurer,,DEM,Write-ins,1
+Sublette,1-4,State Treasurer,,DEM,Over Votes,0
+Sublette,1-4,State Treasurer,,DEM,Under Votes,9
+Sublette,1-4,Superintendent of Public Instruction,,REP,Chad Auer,25
+Sublette,1-4,Superintendent of Public Instruction,,REP,Steve Harshman,158
+Sublette,1-4,Superintendent of Public Instruction,,REP,Tom Kelly,142
+Sublette,1-4,Superintendent of Public Instruction,,REP,Write-ins,2
+Sublette,1-4,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,1-4,Superintendent of Public Instruction,,REP,Under Votes,80
+Sublette,1-4,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Sublette,1-4,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Sublette,1-4,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sublette,1-4,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,1-4,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sublette,1-4,State House,20,REP,Albert Sommers,252
+Sublette,1-4,State House,20,REP,Bill Winney,55
+Sublette,1-4,State House,20,REP,Matt McGinnis,83
+Sublette,1-4,State House,20,REP,Write-ins,0
+Sublette,1-4,State House,20,REP,Over Votes,0
+Sublette,1-4,State House,20,REP,Under Votes,17
+Sublette,1-4,State House,20,DEM,Write-ins,2
+Sublette,1-4,State House,20,DEM,Over Votes,0
+Sublette,1-4,State House,20,DEM,Under Votes,8
+Sublette,1-4,Ballots Cast,,REP,Ballots Cast,407
+Sublette,1-4,Ballots Cast,,DEM,Ballots Cast,10
+Sublette,1-4,Ballots Cast,,NP,Ballots Cast,15
+Sublette,1-4,Ballots Cast,,,Ballots Cast,432
+Sublette,2-1,U.S. Senate,,REP,Harriet Hageman,338
+Sublette,2-1,U.S. Senate,,REP,Jill M Edwards,20
+Sublette,2-1,U.S. Senate,,REP,Jimmy Skovgard,9
+Sublette,2-1,U.S. Senate,,REP,John Holtz,10
+Sublette,2-1,U.S. Senate,,REP,Sam Mead,87
+Sublette,2-1,U.S. Senate,,REP,Write-ins,0
+Sublette,2-1,U.S. Senate,,REP,Over Votes,1
+Sublette,2-1,U.S. Senate,,REP,Under Votes,9
+Sublette,2-1,U.S. Senate,,DEM,Billy Benavidez,3
+Sublette,2-1,U.S. Senate,,DEM,James Byrd,4
+Sublette,2-1,U.S. Senate,,DEM,Write-ins,2
+Sublette,2-1,U.S. Senate,,DEM,Over Votes,0
+Sublette,2-1,U.S. Senate,,DEM,Under Votes,0
+Sublette,2-1,U.S. House,,REP,* Withdrawn Candidate,8
+Sublette,2-1,U.S. House,,REP,Bo Biteman,30
+Sublette,2-1,U.S. House,,REP,Chuck Gray,120
+Sublette,2-1,U.S. House,,REP,David Giralt,21
+Sublette,2-1,U.S. House,,REP,Jillian Balow,40
+Sublette,2-1,U.S. House,,REP,Keith B. Goodenough,4
+Sublette,2-1,U.S. House,,REP,Kevin Christensen,76
+Sublette,2-1,U.S. House,,REP,Reid Rasner,57
+Sublette,2-1,U.S. House,,REP,Richard Dodson,6
+Sublette,2-1,U.S. House,,REP,Steve Friess,65
+Sublette,2-1,U.S. House,,REP,Write-ins,0
+Sublette,2-1,U.S. House,,REP,Over Votes,11
+Sublette,2-1,U.S. House,,REP,Under Votes,36
+Sublette,2-1,U.S. House,,DEM,Elena Del Real,2
+Sublette,2-1,U.S. House,,DEM,Lisa Kinney,5
+Sublette,2-1,U.S. House,,DEM,Write-ins,1
+Sublette,2-1,U.S. House,,DEM,Over Votes,0
+Sublette,2-1,U.S. House,,DEM,Under Votes,1
+Sublette,2-1,Governor,,REP,Brent Bien,141
+Sublette,2-1,Governor,,REP,Curt Blake,10
+Sublette,2-1,Governor,,REP,Eric Barlow,201
+Sublette,2-1,Governor,,REP,Megan Degenfelder,114
+Sublette,2-1,Governor,,REP,Write-ins,1
+Sublette,2-1,Governor,,REP,Over Votes,0
+Sublette,2-1,Governor,,REP,Under Votes,7
+Sublette,2-1,Governor,,DEM,Kenneth R. Casner,7
+Sublette,2-1,Governor,,DEM,Write-ins,2
+Sublette,2-1,Governor,,DEM,Over Votes,0
+Sublette,2-1,Governor,,DEM,Under Votes,0
+Sublette,2-1,Secretary of State,,REP,CJ Young,57
+Sublette,2-1,Secretary of State,,REP,Qwenton Eagle Oviatt,18
+Sublette,2-1,Secretary of State,,REP,Rachel Williams,165
+Sublette,2-1,Secretary of State,,REP,Robert Short,161
+Sublette,2-1,Secretary of State,,REP,Write-ins,2
+Sublette,2-1,Secretary of State,,REP,Over Votes,1
+Sublette,2-1,Secretary of State,,REP,Under Votes,70
+Sublette,2-1,Secretary of State,,DEM,Bryan McCarty,6
+Sublette,2-1,Secretary of State,,DEM,Write-ins,2
+Sublette,2-1,Secretary of State,,DEM,Over Votes,0
+Sublette,2-1,Secretary of State,,DEM,Under Votes,1
+Sublette,2-1,State Auditor,,REP,Kristi Racines,395
+Sublette,2-1,State Auditor,,REP,Write-ins,1
+Sublette,2-1,State Auditor,,REP,Over Votes,0
+Sublette,2-1,State Auditor,,REP,Under Votes,78
+Sublette,2-1,State Auditor,,DEM,Write-ins,0
+Sublette,2-1,State Auditor,,DEM,Over Votes,0
+Sublette,2-1,State Auditor,,DEM,Under Votes,9
+Sublette,2-1,State Treasurer,,REP,Curt Meier,288
+Sublette,2-1,State Treasurer,,REP,Scott Smith,123
+Sublette,2-1,State Treasurer,,REP,Write-ins,2
+Sublette,2-1,State Treasurer,,REP,Over Votes,0
+Sublette,2-1,State Treasurer,,REP,Under Votes,61
+Sublette,2-1,State Treasurer,,DEM,Write-ins,1
+Sublette,2-1,State Treasurer,,DEM,Over Votes,0
+Sublette,2-1,State Treasurer,,DEM,Under Votes,8
+Sublette,2-1,Superintendent of Public Instruction,,REP,Chad Auer,39
+Sublette,2-1,Superintendent of Public Instruction,,REP,Steve Harshman,204
+Sublette,2-1,Superintendent of Public Instruction,,REP,Tom Kelly,163
+Sublette,2-1,Superintendent of Public Instruction,,REP,Write-ins,4
+Sublette,2-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,2-1,Superintendent of Public Instruction,,REP,Under Votes,64
+Sublette,2-1,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Sublette,2-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Sublette,2-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Sublette,2-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,2-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sublette,2-1,State House,20,REP,Albert Sommers,269
+Sublette,2-1,State House,20,REP,Bill Winney,99
+Sublette,2-1,State House,20,REP,Matt McGinnis,97
+Sublette,2-1,State House,20,REP,Write-ins,1
+Sublette,2-1,State House,20,REP,Over Votes,0
+Sublette,2-1,State House,20,REP,Under Votes,8
+Sublette,2-1,State House,20,DEM,Write-ins,3
+Sublette,2-1,State House,20,DEM,Over Votes,0
+Sublette,2-1,State House,20,DEM,Under Votes,6
+Sublette,2-1,Ballots Cast,,REP,Ballots Cast,474
+Sublette,2-1,Ballots Cast,,DEM,Ballots Cast,9
+Sublette,2-1,Ballots Cast,,NP,Ballots Cast,5
+Sublette,2-1,Ballots Cast,,,Ballots Cast,488
+Sublette,2-2,U.S. Senate,,REP,Harriet Hageman,143
+Sublette,2-2,U.S. Senate,,REP,Jill M Edwards,6
+Sublette,2-2,U.S. Senate,,REP,Jimmy Skovgard,1
+Sublette,2-2,U.S. Senate,,REP,John Holtz,6
+Sublette,2-2,U.S. Senate,,REP,Sam Mead,39
+Sublette,2-2,U.S. Senate,,REP,Write-ins,0
+Sublette,2-2,U.S. Senate,,REP,Over Votes,0
+Sublette,2-2,U.S. Senate,,REP,Under Votes,3
+Sublette,2-2,U.S. Senate,,DEM,Billy Benavidez,1
+Sublette,2-2,U.S. Senate,,DEM,James Byrd,2
+Sublette,2-2,U.S. Senate,,DEM,Write-ins,0
+Sublette,2-2,U.S. Senate,,DEM,Over Votes,0
+Sublette,2-2,U.S. Senate,,DEM,Under Votes,0
+Sublette,2-2,U.S. House,,REP,* Withdrawn Candidate,7
+Sublette,2-2,U.S. House,,REP,Bo Biteman,6
+Sublette,2-2,U.S. House,,REP,Chuck Gray,50
+Sublette,2-2,U.S. House,,REP,David Giralt,22
+Sublette,2-2,U.S. House,,REP,Jillian Balow,14
+Sublette,2-2,U.S. House,,REP,Keith B. Goodenough,7
+Sublette,2-2,U.S. House,,REP,Kevin Christensen,37
+Sublette,2-2,U.S. House,,REP,Reid Rasner,19
+Sublette,2-2,U.S. House,,REP,Richard Dodson,0
+Sublette,2-2,U.S. House,,REP,Steve Friess,24
+Sublette,2-2,U.S. House,,REP,Write-ins,0
+Sublette,2-2,U.S. House,,REP,Over Votes,2
+Sublette,2-2,U.S. House,,REP,Under Votes,10
+Sublette,2-2,U.S. House,,DEM,Elena Del Real,1
+Sublette,2-2,U.S. House,,DEM,Lisa Kinney,2
+Sublette,2-2,U.S. House,,DEM,Write-ins,0
+Sublette,2-2,U.S. House,,DEM,Over Votes,0
+Sublette,2-2,U.S. House,,DEM,Under Votes,0
+Sublette,2-2,Governor,,REP,Brent Bien,59
+Sublette,2-2,Governor,,REP,Curt Blake,2
+Sublette,2-2,Governor,,REP,Eric Barlow,74
+Sublette,2-2,Governor,,REP,Megan Degenfelder,60
+Sublette,2-2,Governor,,REP,Write-ins,0
+Sublette,2-2,Governor,,REP,Over Votes,0
+Sublette,2-2,Governor,,REP,Under Votes,3
+Sublette,2-2,Governor,,DEM,Kenneth R. Casner,3
+Sublette,2-2,Governor,,DEM,Write-ins,0
+Sublette,2-2,Governor,,DEM,Over Votes,0
+Sublette,2-2,Governor,,DEM,Under Votes,0
+Sublette,2-2,Secretary of State,,REP,CJ Young,22
+Sublette,2-2,Secretary of State,,REP,Qwenton Eagle Oviatt,13
+Sublette,2-2,Secretary of State,,REP,Rachel Williams,78
+Sublette,2-2,Secretary of State,,REP,Robert Short,56
+Sublette,2-2,Secretary of State,,REP,Write-ins,0
+Sublette,2-2,Secretary of State,,REP,Over Votes,0
+Sublette,2-2,Secretary of State,,REP,Under Votes,29
+Sublette,2-2,Secretary of State,,DEM,Bryan McCarty,3
+Sublette,2-2,Secretary of State,,DEM,Write-ins,0
+Sublette,2-2,Secretary of State,,DEM,Over Votes,0
+Sublette,2-2,Secretary of State,,DEM,Under Votes,0
+Sublette,2-2,State Auditor,,REP,Kristi Racines,176
+Sublette,2-2,State Auditor,,REP,Write-ins,0
+Sublette,2-2,State Auditor,,REP,Over Votes,0
+Sublette,2-2,State Auditor,,REP,Under Votes,22
+Sublette,2-2,State Auditor,,DEM,Write-ins,0
+Sublette,2-2,State Auditor,,DEM,Over Votes,0
+Sublette,2-2,State Auditor,,DEM,Under Votes,3
+Sublette,2-2,State Treasurer,,REP,Curt Meier,106
+Sublette,2-2,State Treasurer,,REP,Scott Smith,62
+Sublette,2-2,State Treasurer,,REP,Write-ins,0
+Sublette,2-2,State Treasurer,,REP,Over Votes,0
+Sublette,2-2,State Treasurer,,REP,Under Votes,30
+Sublette,2-2,State Treasurer,,DEM,Write-ins,0
+Sublette,2-2,State Treasurer,,DEM,Over Votes,0
+Sublette,2-2,State Treasurer,,DEM,Under Votes,3
+Sublette,2-2,Superintendent of Public Instruction,,REP,Chad Auer,14
+Sublette,2-2,Superintendent of Public Instruction,,REP,Steve Harshman,99
+Sublette,2-2,Superintendent of Public Instruction,,REP,Tom Kelly,64
+Sublette,2-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Sublette,2-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,2-2,Superintendent of Public Instruction,,REP,Under Votes,21
+Sublette,2-2,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Sublette,2-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Sublette,2-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sublette,2-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,2-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sublette,2-2,State House,20,REP,Albert Sommers,90
+Sublette,2-2,State House,20,REP,Bill Winney,39
+Sublette,2-2,State House,20,REP,Matt McGinnis,61
+Sublette,2-2,State House,20,REP,Write-ins,2
+Sublette,2-2,State House,20,REP,Over Votes,0
+Sublette,2-2,State House,20,REP,Under Votes,6
+Sublette,2-2,State House,20,DEM,Write-ins,0
+Sublette,2-2,State House,20,DEM,Over Votes,0
+Sublette,2-2,State House,20,DEM,Under Votes,3
+Sublette,2-2,Ballots Cast,,REP,Ballots Cast,198
+Sublette,2-2,Ballots Cast,,DEM,Ballots Cast,3
+Sublette,2-2,Ballots Cast,,NP,Ballots Cast,1
+Sublette,2-2,Ballots Cast,,,Ballots Cast,202
+Sublette,4-1,U.S. Senate,,REP,Harriet Hageman,153
+Sublette,4-1,U.S. Senate,,REP,Jill M Edwards,5
+Sublette,4-1,U.S. Senate,,REP,Jimmy Skovgard,9
+Sublette,4-1,U.S. Senate,,REP,John Holtz,2
+Sublette,4-1,U.S. Senate,,REP,Sam Mead,78
+Sublette,4-1,U.S. Senate,,REP,Write-ins,2
+Sublette,4-1,U.S. Senate,,REP,Over Votes,0
+Sublette,4-1,U.S. Senate,,REP,Under Votes,9
+Sublette,4-1,U.S. Senate,,DEM,Billy Benavidez,1
+Sublette,4-1,U.S. Senate,,DEM,James Byrd,6
+Sublette,4-1,U.S. Senate,,DEM,Write-ins,0
+Sublette,4-1,U.S. Senate,,DEM,Over Votes,0
+Sublette,4-1,U.S. Senate,,DEM,Under Votes,0
+Sublette,4-1,U.S. House,,REP,* Withdrawn Candidate,4
+Sublette,4-1,U.S. House,,REP,Bo Biteman,6
+Sublette,4-1,U.S. House,,REP,Chuck Gray,68
+Sublette,4-1,U.S. House,,REP,David Giralt,14
+Sublette,4-1,U.S. House,,REP,Jillian Balow,15
+Sublette,4-1,U.S. House,,REP,Keith B. Goodenough,10
+Sublette,4-1,U.S. House,,REP,Kevin Christensen,48
+Sublette,4-1,U.S. House,,REP,Reid Rasner,23
+Sublette,4-1,U.S. House,,REP,Richard Dodson,3
+Sublette,4-1,U.S. House,,REP,Steve Friess,50
+Sublette,4-1,U.S. House,,REP,Write-ins,1
+Sublette,4-1,U.S. House,,REP,Over Votes,0
+Sublette,4-1,U.S. House,,REP,Under Votes,16
+Sublette,4-1,U.S. House,,DEM,Elena Del Real,0
+Sublette,4-1,U.S. House,,DEM,Lisa Kinney,7
+Sublette,4-1,U.S. House,,DEM,Write-ins,0
+Sublette,4-1,U.S. House,,DEM,Over Votes,0
+Sublette,4-1,U.S. House,,DEM,Under Votes,0
+Sublette,4-1,Governor,,REP,Brent Bien,52
+Sublette,4-1,Governor,,REP,Curt Blake,0
+Sublette,4-1,Governor,,REP,Eric Barlow,109
+Sublette,4-1,Governor,,REP,Megan Degenfelder,87
+Sublette,4-1,Governor,,REP,Write-ins,1
+Sublette,4-1,Governor,,REP,Over Votes,0
+Sublette,4-1,Governor,,REP,Under Votes,9
+Sublette,4-1,Governor,,DEM,Kenneth R. Casner,6
+Sublette,4-1,Governor,,DEM,Write-ins,0
+Sublette,4-1,Governor,,DEM,Over Votes,0
+Sublette,4-1,Governor,,DEM,Under Votes,1
+Sublette,4-1,Secretary of State,,REP,CJ Young,45
+Sublette,4-1,Secretary of State,,REP,Qwenton Eagle Oviatt,17
+Sublette,4-1,Secretary of State,,REP,Rachel Williams,65
+Sublette,4-1,Secretary of State,,REP,Robert Short,72
+Sublette,4-1,Secretary of State,,REP,Write-ins,1
+Sublette,4-1,Secretary of State,,REP,Over Votes,0
+Sublette,4-1,Secretary of State,,REP,Under Votes,58
+Sublette,4-1,Secretary of State,,DEM,Bryan McCarty,6
+Sublette,4-1,Secretary of State,,DEM,Write-ins,0
+Sublette,4-1,Secretary of State,,DEM,Over Votes,0
+Sublette,4-1,Secretary of State,,DEM,Under Votes,1
+Sublette,4-1,State Auditor,,REP,Kristi Racines,210
+Sublette,4-1,State Auditor,,REP,Write-ins,0
+Sublette,4-1,State Auditor,,REP,Over Votes,0
+Sublette,4-1,State Auditor,,REP,Under Votes,48
+Sublette,4-1,State Auditor,,DEM,Write-ins,2
+Sublette,4-1,State Auditor,,DEM,Over Votes,0
+Sublette,4-1,State Auditor,,DEM,Under Votes,5
+Sublette,4-1,State Treasurer,,REP,Curt Meier,132
+Sublette,4-1,State Treasurer,,REP,Scott Smith,70
+Sublette,4-1,State Treasurer,,REP,Write-ins,0
+Sublette,4-1,State Treasurer,,REP,Over Votes,0
+Sublette,4-1,State Treasurer,,REP,Under Votes,56
+Sublette,4-1,State Treasurer,,DEM,Write-ins,2
+Sublette,4-1,State Treasurer,,DEM,Over Votes,0
+Sublette,4-1,State Treasurer,,DEM,Under Votes,5
+Sublette,4-1,Superintendent of Public Instruction,,REP,Chad Auer,19
+Sublette,4-1,Superintendent of Public Instruction,,REP,Steve Harshman,107
+Sublette,4-1,Superintendent of Public Instruction,,REP,Tom Kelly,77
+Sublette,4-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Sublette,4-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,4-1,Superintendent of Public Instruction,,REP,Under Votes,54
+Sublette,4-1,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Sublette,4-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Sublette,4-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sublette,4-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,4-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sublette,4-1,State House,20,REP,Albert Sommers,155
+Sublette,4-1,State House,20,REP,Bill Winney,47
+Sublette,4-1,State House,20,REP,Matt McGinnis,45
+Sublette,4-1,State House,20,REP,Write-ins,0
+Sublette,4-1,State House,20,REP,Over Votes,0
+Sublette,4-1,State House,20,REP,Under Votes,11
+Sublette,4-1,State House,20,DEM,Write-ins,2
+Sublette,4-1,State House,20,DEM,Over Votes,0
+Sublette,4-1,State House,20,DEM,Under Votes,5
+Sublette,4-1,Ballots Cast,,REP,Ballots Cast,258
+Sublette,4-1,Ballots Cast,,DEM,Ballots Cast,7
+Sublette,4-1,Ballots Cast,,NP,Ballots Cast,6
+Sublette,4-1,Ballots Cast,,,Ballots Cast,271
+Sublette,4-2,U.S. Senate,,REP,Harriet Hageman,124
+Sublette,4-2,U.S. Senate,,REP,Jill M Edwards,3
+Sublette,4-2,U.S. Senate,,REP,Jimmy Skovgard,0
+Sublette,4-2,U.S. Senate,,REP,John Holtz,2
+Sublette,4-2,U.S. Senate,,REP,Sam Mead,61
+Sublette,4-2,U.S. Senate,,REP,Write-ins,0
+Sublette,4-2,U.S. Senate,,REP,Over Votes,0
+Sublette,4-2,U.S. Senate,,REP,Under Votes,11
+Sublette,4-2,U.S. Senate,,DEM,Billy Benavidez,1
+Sublette,4-2,U.S. Senate,,DEM,James Byrd,8
+Sublette,4-2,U.S. Senate,,DEM,Write-ins,1
+Sublette,4-2,U.S. Senate,,DEM,Over Votes,0
+Sublette,4-2,U.S. Senate,,DEM,Under Votes,0
+Sublette,4-2,U.S. House,,REP,* Withdrawn Candidate,1
+Sublette,4-2,U.S. House,,REP,Bo Biteman,3
+Sublette,4-2,U.S. House,,REP,Chuck Gray,49
+Sublette,4-2,U.S. House,,REP,David Giralt,16
+Sublette,4-2,U.S. House,,REP,Jillian Balow,22
+Sublette,4-2,U.S. House,,REP,Keith B. Goodenough,2
+Sublette,4-2,U.S. House,,REP,Kevin Christensen,39
+Sublette,4-2,U.S. House,,REP,Reid Rasner,19
+Sublette,4-2,U.S. House,,REP,Richard Dodson,2
+Sublette,4-2,U.S. House,,REP,Steve Friess,28
+Sublette,4-2,U.S. House,,REP,Write-ins,1
+Sublette,4-2,U.S. House,,REP,Over Votes,0
+Sublette,4-2,U.S. House,,REP,Under Votes,19
+Sublette,4-2,U.S. House,,DEM,Elena Del Real,2
+Sublette,4-2,U.S. House,,DEM,Lisa Kinney,7
+Sublette,4-2,U.S. House,,DEM,Write-ins,1
+Sublette,4-2,U.S. House,,DEM,Over Votes,0
+Sublette,4-2,U.S. House,,DEM,Under Votes,0
+Sublette,4-2,Governor,,REP,Brent Bien,39
+Sublette,4-2,Governor,,REP,Curt Blake,4
+Sublette,4-2,Governor,,REP,Eric Barlow,94
+Sublette,4-2,Governor,,REP,Megan Degenfelder,56
+Sublette,4-2,Governor,,REP,Write-ins,0
+Sublette,4-2,Governor,,REP,Over Votes,0
+Sublette,4-2,Governor,,REP,Under Votes,8
+Sublette,4-2,Governor,,DEM,Kenneth R. Casner,8
+Sublette,4-2,Governor,,DEM,Write-ins,1
+Sublette,4-2,Governor,,DEM,Over Votes,0
+Sublette,4-2,Governor,,DEM,Under Votes,1
+Sublette,4-2,Secretary of State,,REP,CJ Young,15
+Sublette,4-2,Secretary of State,,REP,Qwenton Eagle Oviatt,11
+Sublette,4-2,Secretary of State,,REP,Rachel Williams,45
+Sublette,4-2,Secretary of State,,REP,Robert Short,79
+Sublette,4-2,Secretary of State,,REP,Write-ins,0
+Sublette,4-2,Secretary of State,,REP,Over Votes,0
+Sublette,4-2,Secretary of State,,REP,Under Votes,51
+Sublette,4-2,Secretary of State,,DEM,Bryan McCarty,9
+Sublette,4-2,Secretary of State,,DEM,Write-ins,1
+Sublette,4-2,Secretary of State,,DEM,Over Votes,0
+Sublette,4-2,Secretary of State,,DEM,Under Votes,0
+Sublette,4-2,State Auditor,,REP,Kristi Racines,161
+Sublette,4-2,State Auditor,,REP,Write-ins,0
+Sublette,4-2,State Auditor,,REP,Over Votes,0
+Sublette,4-2,State Auditor,,REP,Under Votes,40
+Sublette,4-2,State Auditor,,DEM,Write-ins,1
+Sublette,4-2,State Auditor,,DEM,Over Votes,0
+Sublette,4-2,State Auditor,,DEM,Under Votes,9
+Sublette,4-2,State Treasurer,,REP,Curt Meier,101
+Sublette,4-2,State Treasurer,,REP,Scott Smith,54
+Sublette,4-2,State Treasurer,,REP,Write-ins,0
+Sublette,4-2,State Treasurer,,REP,Over Votes,0
+Sublette,4-2,State Treasurer,,REP,Under Votes,46
+Sublette,4-2,State Treasurer,,DEM,Write-ins,1
+Sublette,4-2,State Treasurer,,DEM,Over Votes,0
+Sublette,4-2,State Treasurer,,DEM,Under Votes,9
+Sublette,4-2,Superintendent of Public Instruction,,REP,Chad Auer,21
+Sublette,4-2,Superintendent of Public Instruction,,REP,Steve Harshman,86
+Sublette,4-2,Superintendent of Public Instruction,,REP,Tom Kelly,50
+Sublette,4-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Sublette,4-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,4-2,Superintendent of Public Instruction,,REP,Under Votes,44
+Sublette,4-2,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Sublette,4-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Sublette,4-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sublette,4-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,4-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sublette,4-2,State House,20,REP,Albert Sommers,145
+Sublette,4-2,State House,20,REP,Bill Winney,14
+Sublette,4-2,State House,20,REP,Matt McGinnis,34
+Sublette,4-2,State House,20,REP,Write-ins,0
+Sublette,4-2,State House,20,REP,Over Votes,0
+Sublette,4-2,State House,20,REP,Under Votes,8
+Sublette,4-2,State House,20,DEM,Write-ins,3
+Sublette,4-2,State House,20,DEM,Over Votes,0
+Sublette,4-2,State House,20,DEM,Under Votes,7
+Sublette,4-2,Ballots Cast,,REP,Ballots Cast,201
+Sublette,4-2,Ballots Cast,,DEM,Ballots Cast,10
+Sublette,4-2,Ballots Cast,,NP,Ballots Cast,2
+Sublette,4-2,Ballots Cast,,,Ballots Cast,213
+Sublette,5-1,U.S. Senate,,REP,Harriet Hageman,79
+Sublette,5-1,U.S. Senate,,REP,Jill M Edwards,2
+Sublette,5-1,U.S. Senate,,REP,Jimmy Skovgard,3
+Sublette,5-1,U.S. Senate,,REP,John Holtz,1
+Sublette,5-1,U.S. Senate,,REP,Sam Mead,40
+Sublette,5-1,U.S. Senate,,REP,Write-ins,0
+Sublette,5-1,U.S. Senate,,REP,Over Votes,0
+Sublette,5-1,U.S. Senate,,REP,Under Votes,9
+Sublette,5-1,U.S. Senate,,DEM,Billy Benavidez,0
+Sublette,5-1,U.S. Senate,,DEM,James Byrd,1
+Sublette,5-1,U.S. Senate,,DEM,Write-ins,0
+Sublette,5-1,U.S. Senate,,DEM,Over Votes,0
+Sublette,5-1,U.S. Senate,,DEM,Under Votes,0
+Sublette,5-1,U.S. House,,REP,* Withdrawn Candidate,1
+Sublette,5-1,U.S. House,,REP,Bo Biteman,5
+Sublette,5-1,U.S. House,,REP,Chuck Gray,29
+Sublette,5-1,U.S. House,,REP,David Giralt,9
+Sublette,5-1,U.S. House,,REP,Jillian Balow,11
+Sublette,5-1,U.S. House,,REP,Keith B. Goodenough,2
+Sublette,5-1,U.S. House,,REP,Kevin Christensen,16
+Sublette,5-1,U.S. House,,REP,Reid Rasner,7
+Sublette,5-1,U.S. House,,REP,Richard Dodson,2
+Sublette,5-1,U.S. House,,REP,Steve Friess,38
+Sublette,5-1,U.S. House,,REP,Write-ins,1
+Sublette,5-1,U.S. House,,REP,Over Votes,0
+Sublette,5-1,U.S. House,,REP,Under Votes,13
+Sublette,5-1,U.S. House,,DEM,Elena Del Real,1
+Sublette,5-1,U.S. House,,DEM,Lisa Kinney,0
+Sublette,5-1,U.S. House,,DEM,Write-ins,0
+Sublette,5-1,U.S. House,,DEM,Over Votes,0
+Sublette,5-1,U.S. House,,DEM,Under Votes,0
+Sublette,5-1,Governor,,REP,Brent Bien,20
+Sublette,5-1,Governor,,REP,Curt Blake,0
+Sublette,5-1,Governor,,REP,Eric Barlow,70
+Sublette,5-1,Governor,,REP,Megan Degenfelder,41
+Sublette,5-1,Governor,,REP,Write-ins,0
+Sublette,5-1,Governor,,REP,Over Votes,0
+Sublette,5-1,Governor,,REP,Under Votes,3
+Sublette,5-1,Governor,,DEM,Kenneth R. Casner,1
+Sublette,5-1,Governor,,DEM,Write-ins,0
+Sublette,5-1,Governor,,DEM,Over Votes,0
+Sublette,5-1,Governor,,DEM,Under Votes,0
+Sublette,5-1,Secretary of State,,REP,CJ Young,15
+Sublette,5-1,Secretary of State,,REP,Qwenton Eagle Oviatt,10
+Sublette,5-1,Secretary of State,,REP,Rachel Williams,29
+Sublette,5-1,Secretary of State,,REP,Robert Short,39
+Sublette,5-1,Secretary of State,,REP,Write-ins,0
+Sublette,5-1,Secretary of State,,REP,Over Votes,0
+Sublette,5-1,Secretary of State,,REP,Under Votes,41
+Sublette,5-1,Secretary of State,,DEM,Bryan McCarty,1
+Sublette,5-1,Secretary of State,,DEM,Write-ins,0
+Sublette,5-1,Secretary of State,,DEM,Over Votes,0
+Sublette,5-1,Secretary of State,,DEM,Under Votes,0
+Sublette,5-1,State Auditor,,REP,Kristi Racines,83
+Sublette,5-1,State Auditor,,REP,Write-ins,0
+Sublette,5-1,State Auditor,,REP,Over Votes,0
+Sublette,5-1,State Auditor,,REP,Under Votes,51
+Sublette,5-1,State Auditor,,DEM,Write-ins,0
+Sublette,5-1,State Auditor,,DEM,Over Votes,0
+Sublette,5-1,State Auditor,,DEM,Under Votes,1
+Sublette,5-1,State Treasurer,,REP,Curt Meier,70
+Sublette,5-1,State Treasurer,,REP,Scott Smith,19
+Sublette,5-1,State Treasurer,,REP,Write-ins,0
+Sublette,5-1,State Treasurer,,REP,Over Votes,0
+Sublette,5-1,State Treasurer,,REP,Under Votes,45
+Sublette,5-1,State Treasurer,,DEM,Write-ins,0
+Sublette,5-1,State Treasurer,,DEM,Over Votes,0
+Sublette,5-1,State Treasurer,,DEM,Under Votes,1
+Sublette,5-1,Superintendent of Public Instruction,,REP,Chad Auer,8
+Sublette,5-1,Superintendent of Public Instruction,,REP,Steve Harshman,49
+Sublette,5-1,Superintendent of Public Instruction,,REP,Tom Kelly,28
+Sublette,5-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Sublette,5-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Sublette,5-1,Superintendent of Public Instruction,,REP,Under Votes,49
+Sublette,5-1,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Sublette,5-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Sublette,5-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Sublette,5-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Sublette,5-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Sublette,5-1,State House,20,REP,Albert Sommers,100
+Sublette,5-1,State House,20,REP,Bill Winney,16
+Sublette,5-1,State House,20,REP,Matt McGinnis,13
+Sublette,5-1,State House,20,REP,Write-ins,0
+Sublette,5-1,State House,20,REP,Over Votes,1
+Sublette,5-1,State House,20,REP,Under Votes,4
+Sublette,5-1,State House,20,DEM,Write-ins,0
+Sublette,5-1,State House,20,DEM,Over Votes,0
+Sublette,5-1,State House,20,DEM,Under Votes,1
+Sublette,5-1,Ballots Cast,,REP,Ballots Cast,134
+Sublette,5-1,Ballots Cast,,DEM,Ballots Cast,1
+Sublette,5-1,Ballots Cast,,NP,Ballots Cast,6
+Sublette,5-1,Ballots Cast,,,Ballots Cast,141

@@ -1,0 +1,785 @@
+county,precinct,office,district,party,candidate,votes
+Weston,1-1,U.S. Senate,,REP,Harriet Hageman,294
+Weston,1-1,U.S. Senate,,REP,Jill M Edwards,14
+Weston,1-1,U.S. Senate,,REP,Jimmy Skovgard,5
+Weston,1-1,U.S. Senate,,REP,John Holtz,7
+Weston,1-1,U.S. Senate,,REP,Sam Mead,145
+Weston,1-1,U.S. Senate,,REP,Write-ins,1
+Weston,1-1,U.S. Senate,,REP,Over Votes,0
+Weston,1-1,U.S. Senate,,REP,Under Votes,17
+Weston,1-1,U.S. Senate,,DEM,Billy Benavidez,5
+Weston,1-1,U.S. Senate,,DEM,James Byrd,4
+Weston,1-1,U.S. Senate,,DEM,Write-ins,0
+Weston,1-1,U.S. Senate,,DEM,Over Votes,0
+Weston,1-1,U.S. Senate,,DEM,Under Votes,0
+Weston,1-1,U.S. House,,REP,* Withdrawn Candidate,10
+Weston,1-1,U.S. House,,REP,Bo Biteman,10
+Weston,1-1,U.S. House,,REP,Chuck Gray,117
+Weston,1-1,U.S. House,,REP,David Giralt,27
+Weston,1-1,U.S. House,,REP,Jillian Balow,32
+Weston,1-1,U.S. House,,REP,Keith B. Goodenough,4
+Weston,1-1,U.S. House,,REP,Kevin Christensen,147
+Weston,1-1,U.S. House,,REP,Reid Rasner,34
+Weston,1-1,U.S. House,,REP,Richard Dodson,1
+Weston,1-1,U.S. House,,REP,Steve Friess,64
+Weston,1-1,U.S. House,,REP,Write-ins,0
+Weston,1-1,U.S. House,,REP,Over Votes,9
+Weston,1-1,U.S. House,,REP,Under Votes,28
+Weston,1-1,U.S. House,,DEM,Elena Del Real,3
+Weston,1-1,U.S. House,,DEM,Lisa Kinney,6
+Weston,1-1,U.S. House,,DEM,Write-ins,0
+Weston,1-1,U.S. House,,DEM,Over Votes,0
+Weston,1-1,U.S. House,,DEM,Under Votes,0
+Weston,1-1,Governor,,REP,Brent Bien,111
+Weston,1-1,Governor,,REP,Curt Blake,1
+Weston,1-1,Governor,,REP,Eric Barlow,271
+Weston,1-1,Governor,,REP,Megan Degenfelder,92
+Weston,1-1,Governor,,REP,Write-ins,0
+Weston,1-1,Governor,,REP,Over Votes,0
+Weston,1-1,Governor,,REP,Under Votes,8
+Weston,1-1,Governor,,DEM,Kenneth R. Casner,7
+Weston,1-1,Governor,,DEM,Write-ins,1
+Weston,1-1,Governor,,DEM,Over Votes,0
+Weston,1-1,Governor,,DEM,Under Votes,1
+Weston,1-1,Secretary of State,,REP,CJ Young,38
+Weston,1-1,Secretary of State,,REP,Qwenton Eagle Oviatt,18
+Weston,1-1,Secretary of State,,REP,Rachel Williams,135
+Weston,1-1,Secretary of State,,REP,Robert Short,236
+Weston,1-1,Secretary of State,,REP,Write-ins,1
+Weston,1-1,Secretary of State,,REP,Over Votes,0
+Weston,1-1,Secretary of State,,REP,Under Votes,55
+Weston,1-1,Secretary of State,,DEM,Bryan McCarty,8
+Weston,1-1,Secretary of State,,DEM,Write-ins,0
+Weston,1-1,Secretary of State,,DEM,Over Votes,0
+Weston,1-1,Secretary of State,,DEM,Under Votes,1
+Weston,1-1,State Auditor,,REP,Kristi Racines,393
+Weston,1-1,State Auditor,,REP,Write-ins,1
+Weston,1-1,State Auditor,,REP,Over Votes,0
+Weston,1-1,State Auditor,,REP,Under Votes,89
+Weston,1-1,State Auditor,,DEM,Write-ins,2
+Weston,1-1,State Auditor,,DEM,Over Votes,0
+Weston,1-1,State Auditor,,DEM,Under Votes,7
+Weston,1-1,State Treasurer,,REP,Curt Meier,323
+Weston,1-1,State Treasurer,,REP,Scott Smith,105
+Weston,1-1,State Treasurer,,REP,Write-ins,1
+Weston,1-1,State Treasurer,,REP,Over Votes,0
+Weston,1-1,State Treasurer,,REP,Under Votes,54
+Weston,1-1,State Treasurer,,DEM,Write-ins,1
+Weston,1-1,State Treasurer,,DEM,Over Votes,0
+Weston,1-1,State Treasurer,,DEM,Under Votes,8
+Weston,1-1,Superintendent of Public Instruction,,REP,Chad Auer,32
+Weston,1-1,Superintendent of Public Instruction,,REP,Steve Harshman,281
+Weston,1-1,Superintendent of Public Instruction,,REP,Tom Kelly,109
+Weston,1-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Weston,1-1,Superintendent of Public Instruction,,REP,Over Votes,1
+Weston,1-1,Superintendent of Public Instruction,,REP,Under Votes,60
+Weston,1-1,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Weston,1-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Weston,1-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,1-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,1-1,Superintendent of Public Instruction,,DEM,Under Votes,2
+Weston,1-1,State Senate,3,REP,Cheri E Steinmetz,363
+Weston,1-1,State Senate,3,REP,Write-ins,10
+Weston,1-1,State Senate,3,REP,Over Votes,0
+Weston,1-1,State Senate,3,REP,Under Votes,110
+Weston,1-1,State Senate,3,DEM,Write-ins,1
+Weston,1-1,State Senate,3,DEM,Over Votes,0
+Weston,1-1,State Senate,3,DEM,Under Votes,8
+Weston,1-1,State House,2,REP,JD Williams,399
+Weston,1-1,State House,2,REP,Write-ins,20
+Weston,1-1,State House,2,REP,Over Votes,0
+Weston,1-1,State House,2,REP,Under Votes,64
+Weston,1-1,State House,2,DEM,Write-ins,1
+Weston,1-1,State House,2,DEM,Over Votes,0
+Weston,1-1,State House,2,DEM,Under Votes,8
+Weston,1-1,Ballots Cast,,REP,Ballots Cast,483
+Weston,1-1,Ballots Cast,,DEM,Ballots Cast,9
+Weston,1-1,Ballots Cast,,NP,Ballots Cast,0
+Weston,1-1,Ballots Cast,,,Ballots Cast,492
+Weston,1-2,U.S. Senate,,REP,Harriet Hageman,239
+Weston,1-2,U.S. Senate,,REP,Jill M Edwards,7
+Weston,1-2,U.S. Senate,,REP,Jimmy Skovgard,1
+Weston,1-2,U.S. Senate,,REP,John Holtz,3
+Weston,1-2,U.S. Senate,,REP,Sam Mead,91
+Weston,1-2,U.S. Senate,,REP,Write-ins,2
+Weston,1-2,U.S. Senate,,REP,Over Votes,1
+Weston,1-2,U.S. Senate,,REP,Under Votes,8
+Weston,1-2,U.S. Senate,,DEM,Billy Benavidez,0
+Weston,1-2,U.S. Senate,,DEM,James Byrd,9
+Weston,1-2,U.S. Senate,,DEM,Write-ins,0
+Weston,1-2,U.S. Senate,,DEM,Over Votes,0
+Weston,1-2,U.S. Senate,,DEM,Under Votes,0
+Weston,1-2,U.S. House,,REP,* Withdrawn Candidate,4
+Weston,1-2,U.S. House,,REP,Bo Biteman,16
+Weston,1-2,U.S. House,,REP,Chuck Gray,101
+Weston,1-2,U.S. House,,REP,David Giralt,20
+Weston,1-2,U.S. House,,REP,Jillian Balow,28
+Weston,1-2,U.S. House,,REP,Keith B. Goodenough,3
+Weston,1-2,U.S. House,,REP,Kevin Christensen,85
+Weston,1-2,U.S. House,,REP,Reid Rasner,28
+Weston,1-2,U.S. House,,REP,Richard Dodson,4
+Weston,1-2,U.S. House,,REP,Steve Friess,54
+Weston,1-2,U.S. House,,REP,Write-ins,0
+Weston,1-2,U.S. House,,REP,Over Votes,5
+Weston,1-2,U.S. House,,REP,Under Votes,4
+Weston,1-2,U.S. House,,DEM,Elena Del Real,0
+Weston,1-2,U.S. House,,DEM,Lisa Kinney,9
+Weston,1-2,U.S. House,,DEM,Write-ins,0
+Weston,1-2,U.S. House,,DEM,Over Votes,0
+Weston,1-2,U.S. House,,DEM,Under Votes,0
+Weston,1-2,Governor,,REP,Brent Bien,66
+Weston,1-2,Governor,,REP,Curt Blake,5
+Weston,1-2,Governor,,REP,Eric Barlow,202
+Weston,1-2,Governor,,REP,Megan Degenfelder,76
+Weston,1-2,Governor,,REP,Write-ins,0
+Weston,1-2,Governor,,REP,Over Votes,0
+Weston,1-2,Governor,,REP,Under Votes,3
+Weston,1-2,Governor,,DEM,Kenneth R. Casner,9
+Weston,1-2,Governor,,DEM,Write-ins,0
+Weston,1-2,Governor,,DEM,Over Votes,0
+Weston,1-2,Governor,,DEM,Under Votes,0
+Weston,1-2,Secretary of State,,REP,CJ Young,44
+Weston,1-2,Secretary of State,,REP,Qwenton Eagle Oviatt,8
+Weston,1-2,Secretary of State,,REP,Rachel Williams,112
+Weston,1-2,Secretary of State,,REP,Robert Short,142
+Weston,1-2,Secretary of State,,REP,Write-ins,0
+Weston,1-2,Secretary of State,,REP,Over Votes,0
+Weston,1-2,Secretary of State,,REP,Under Votes,46
+Weston,1-2,Secretary of State,,DEM,Bryan McCarty,8
+Weston,1-2,Secretary of State,,DEM,Write-ins,0
+Weston,1-2,Secretary of State,,DEM,Over Votes,0
+Weston,1-2,Secretary of State,,DEM,Under Votes,1
+Weston,1-2,State Auditor,,REP,Kristi Racines,278
+Weston,1-2,State Auditor,,REP,Write-ins,1
+Weston,1-2,State Auditor,,REP,Over Votes,0
+Weston,1-2,State Auditor,,REP,Under Votes,73
+Weston,1-2,State Auditor,,DEM,Write-ins,0
+Weston,1-2,State Auditor,,DEM,Over Votes,0
+Weston,1-2,State Auditor,,DEM,Under Votes,9
+Weston,1-2,State Treasurer,,REP,Curt Meier,211
+Weston,1-2,State Treasurer,,REP,Scott Smith,93
+Weston,1-2,State Treasurer,,REP,Write-ins,1
+Weston,1-2,State Treasurer,,REP,Over Votes,0
+Weston,1-2,State Treasurer,,REP,Under Votes,47
+Weston,1-2,State Treasurer,,DEM,Write-ins,0
+Weston,1-2,State Treasurer,,DEM,Over Votes,0
+Weston,1-2,State Treasurer,,DEM,Under Votes,9
+Weston,1-2,Superintendent of Public Instruction,,REP,Chad Auer,42
+Weston,1-2,Superintendent of Public Instruction,,REP,Steve Harshman,183
+Weston,1-2,Superintendent of Public Instruction,,REP,Tom Kelly,75
+Weston,1-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Weston,1-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Weston,1-2,Superintendent of Public Instruction,,REP,Under Votes,52
+Weston,1-2,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Weston,1-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Weston,1-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,1-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,1-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Weston,1-2,State Senate,1,REP,Chip Neiman,154
+Weston,1-2,State Senate,1,REP,Ogden Driskill,189
+Weston,1-2,State Senate,1,REP,Write-ins,1
+Weston,1-2,State Senate,1,REP,Over Votes,0
+Weston,1-2,State Senate,1,REP,Under Votes,8
+Weston,1-2,State Senate,1,DEM,Write-ins,0
+Weston,1-2,State Senate,1,DEM,Over Votes,0
+Weston,1-2,State Senate,1,DEM,Under Votes,9
+Weston,1-2,State House,1,REP,Troy Claycomb,221
+Weston,1-2,State House,1,REP,Zeta Nuckolls Anderson,106
+Weston,1-2,State House,1,REP,Write-ins,1
+Weston,1-2,State House,1,REP,Over Votes,0
+Weston,1-2,State House,1,REP,Under Votes,24
+Weston,1-2,State House,1,DEM,Write-ins,0
+Weston,1-2,State House,1,DEM,Over Votes,0
+Weston,1-2,State House,1,DEM,Under Votes,9
+Weston,1-2,Ballots Cast,,REP,Ballots Cast,352
+Weston,1-2,Ballots Cast,,DEM,Ballots Cast,9
+Weston,1-2,Ballots Cast,,NP,Ballots Cast,0
+Weston,1-2,Ballots Cast,,,Ballots Cast,361
+Weston,2-1,U.S. Senate,,REP,Harriet Hageman,68
+Weston,2-1,U.S. Senate,,REP,Jill M Edwards,4
+Weston,2-1,U.S. Senate,,REP,Jimmy Skovgard,1
+Weston,2-1,U.S. Senate,,REP,John Holtz,3
+Weston,2-1,U.S. Senate,,REP,Sam Mead,20
+Weston,2-1,U.S. Senate,,REP,Write-ins,0
+Weston,2-1,U.S. Senate,,REP,Over Votes,0
+Weston,2-1,U.S. Senate,,REP,Under Votes,8
+Weston,2-1,U.S. Senate,,DEM,Billy Benavidez,0
+Weston,2-1,U.S. Senate,,DEM,James Byrd,1
+Weston,2-1,U.S. Senate,,DEM,Write-ins,0
+Weston,2-1,U.S. Senate,,DEM,Over Votes,0
+Weston,2-1,U.S. Senate,,DEM,Under Votes,0
+Weston,2-1,U.S. House,,REP,* Withdrawn Candidate,3
+Weston,2-1,U.S. House,,REP,Bo Biteman,2
+Weston,2-1,U.S. House,,REP,Chuck Gray,31
+Weston,2-1,U.S. House,,REP,David Giralt,6
+Weston,2-1,U.S. House,,REP,Jillian Balow,16
+Weston,2-1,U.S. House,,REP,Keith B. Goodenough,3
+Weston,2-1,U.S. House,,REP,Kevin Christensen,21
+Weston,2-1,U.S. House,,REP,Reid Rasner,9
+Weston,2-1,U.S. House,,REP,Richard Dodson,1
+Weston,2-1,U.S. House,,REP,Steve Friess,10
+Weston,2-1,U.S. House,,REP,Write-ins,0
+Weston,2-1,U.S. House,,REP,Over Votes,1
+Weston,2-1,U.S. House,,REP,Under Votes,1
+Weston,2-1,U.S. House,,DEM,Elena Del Real,0
+Weston,2-1,U.S. House,,DEM,Lisa Kinney,1
+Weston,2-1,U.S. House,,DEM,Write-ins,0
+Weston,2-1,U.S. House,,DEM,Over Votes,0
+Weston,2-1,U.S. House,,DEM,Under Votes,0
+Weston,2-1,Governor,,REP,Brent Bien,27
+Weston,2-1,Governor,,REP,Curt Blake,1
+Weston,2-1,Governor,,REP,Eric Barlow,34
+Weston,2-1,Governor,,REP,Megan Degenfelder,38
+Weston,2-1,Governor,,REP,Write-ins,0
+Weston,2-1,Governor,,REP,Over Votes,0
+Weston,2-1,Governor,,REP,Under Votes,4
+Weston,2-1,Governor,,DEM,Kenneth R. Casner,1
+Weston,2-1,Governor,,DEM,Write-ins,0
+Weston,2-1,Governor,,DEM,Over Votes,0
+Weston,2-1,Governor,,DEM,Under Votes,0
+Weston,2-1,Secretary of State,,REP,CJ Young,8
+Weston,2-1,Secretary of State,,REP,Qwenton Eagle Oviatt,5
+Weston,2-1,Secretary of State,,REP,Rachel Williams,48
+Weston,2-1,Secretary of State,,REP,Robert Short,37
+Weston,2-1,Secretary of State,,REP,Write-ins,0
+Weston,2-1,Secretary of State,,REP,Over Votes,0
+Weston,2-1,Secretary of State,,REP,Under Votes,6
+Weston,2-1,Secretary of State,,DEM,Bryan McCarty,1
+Weston,2-1,Secretary of State,,DEM,Write-ins,0
+Weston,2-1,Secretary of State,,DEM,Over Votes,0
+Weston,2-1,Secretary of State,,DEM,Under Votes,0
+Weston,2-1,State Auditor,,REP,Kristi Racines,83
+Weston,2-1,State Auditor,,REP,Write-ins,0
+Weston,2-1,State Auditor,,REP,Over Votes,0
+Weston,2-1,State Auditor,,REP,Under Votes,21
+Weston,2-1,State Auditor,,DEM,Write-ins,0
+Weston,2-1,State Auditor,,DEM,Over Votes,0
+Weston,2-1,State Auditor,,DEM,Under Votes,1
+Weston,2-1,State Treasurer,,REP,Curt Meier,61
+Weston,2-1,State Treasurer,,REP,Scott Smith,33
+Weston,2-1,State Treasurer,,REP,Write-ins,0
+Weston,2-1,State Treasurer,,REP,Over Votes,0
+Weston,2-1,State Treasurer,,REP,Under Votes,10
+Weston,2-1,State Treasurer,,DEM,Write-ins,0
+Weston,2-1,State Treasurer,,DEM,Over Votes,0
+Weston,2-1,State Treasurer,,DEM,Under Votes,1
+Weston,2-1,Superintendent of Public Instruction,,REP,Chad Auer,7
+Weston,2-1,Superintendent of Public Instruction,,REP,Steve Harshman,47
+Weston,2-1,Superintendent of Public Instruction,,REP,Tom Kelly,38
+Weston,2-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Weston,2-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Weston,2-1,Superintendent of Public Instruction,,REP,Under Votes,11
+Weston,2-1,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Weston,2-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Weston,2-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,2-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,2-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Weston,2-1,State Senate,1,REP,Chip Neiman,53
+Weston,2-1,State Senate,1,REP,Ogden Driskill,46
+Weston,2-1,State Senate,1,REP,Write-ins,0
+Weston,2-1,State Senate,1,REP,Over Votes,0
+Weston,2-1,State Senate,1,REP,Under Votes,5
+Weston,2-1,State Senate,1,DEM,Write-ins,0
+Weston,2-1,State Senate,1,DEM,Over Votes,0
+Weston,2-1,State Senate,1,DEM,Under Votes,1
+Weston,2-1,State House,1,REP,Troy Claycomb,69
+Weston,2-1,State House,1,REP,Zeta Nuckolls Anderson,32
+Weston,2-1,State House,1,REP,Write-ins,0
+Weston,2-1,State House,1,REP,Over Votes,0
+Weston,2-1,State House,1,REP,Under Votes,3
+Weston,2-1,State House,1,DEM,Write-ins,0
+Weston,2-1,State House,1,DEM,Over Votes,0
+Weston,2-1,State House,1,DEM,Under Votes,1
+Weston,2-1,Ballots Cast,,REP,Ballots Cast,104
+Weston,2-1,Ballots Cast,,DEM,Ballots Cast,1
+Weston,2-1,Ballots Cast,,NP,Ballots Cast,0
+Weston,2-1,Ballots Cast,,,Ballots Cast,105
+Weston,3-1,U.S. Senate,,REP,Harriet Hageman,126
+Weston,3-1,U.S. Senate,,REP,Jill M Edwards,3
+Weston,3-1,U.S. Senate,,REP,Jimmy Skovgard,2
+Weston,3-1,U.S. Senate,,REP,John Holtz,4
+Weston,3-1,U.S. Senate,,REP,Sam Mead,68
+Weston,3-1,U.S. Senate,,REP,Write-ins,0
+Weston,3-1,U.S. Senate,,REP,Over Votes,0
+Weston,3-1,U.S. Senate,,REP,Under Votes,10
+Weston,3-1,U.S. Senate,,DEM,Billy Benavidez,0
+Weston,3-1,U.S. Senate,,DEM,James Byrd,0
+Weston,3-1,U.S. Senate,,DEM,Write-ins,0
+Weston,3-1,U.S. Senate,,DEM,Over Votes,0
+Weston,3-1,U.S. Senate,,DEM,Under Votes,0
+Weston,3-1,U.S. House,,REP,* Withdrawn Candidate,1
+Weston,3-1,U.S. House,,REP,Bo Biteman,8
+Weston,3-1,U.S. House,,REP,Chuck Gray,42
+Weston,3-1,U.S. House,,REP,David Giralt,9
+Weston,3-1,U.S. House,,REP,Jillian Balow,11
+Weston,3-1,U.S. House,,REP,Keith B. Goodenough,4
+Weston,3-1,U.S. House,,REP,Kevin Christensen,77
+Weston,3-1,U.S. House,,REP,Reid Rasner,21
+Weston,3-1,U.S. House,,REP,Richard Dodson,1
+Weston,3-1,U.S. House,,REP,Steve Friess,29
+Weston,3-1,U.S. House,,REP,Write-ins,0
+Weston,3-1,U.S. House,,REP,Over Votes,0
+Weston,3-1,U.S. House,,REP,Under Votes,10
+Weston,3-1,U.S. House,,DEM,Elena Del Real,0
+Weston,3-1,U.S. House,,DEM,Lisa Kinney,0
+Weston,3-1,U.S. House,,DEM,Write-ins,0
+Weston,3-1,U.S. House,,DEM,Over Votes,0
+Weston,3-1,U.S. House,,DEM,Under Votes,0
+Weston,3-1,Governor,,REP,Brent Bien,32
+Weston,3-1,Governor,,REP,Curt Blake,3
+Weston,3-1,Governor,,REP,Eric Barlow,122
+Weston,3-1,Governor,,REP,Megan Degenfelder,53
+Weston,3-1,Governor,,REP,Write-ins,0
+Weston,3-1,Governor,,REP,Over Votes,0
+Weston,3-1,Governor,,REP,Under Votes,3
+Weston,3-1,Governor,,DEM,Kenneth R. Casner,0
+Weston,3-1,Governor,,DEM,Write-ins,0
+Weston,3-1,Governor,,DEM,Over Votes,0
+Weston,3-1,Governor,,DEM,Under Votes,0
+Weston,3-1,Secretary of State,,REP,CJ Young,9
+Weston,3-1,Secretary of State,,REP,Qwenton Eagle Oviatt,5
+Weston,3-1,Secretary of State,,REP,Rachel Williams,52
+Weston,3-1,Secretary of State,,REP,Robert Short,118
+Weston,3-1,Secretary of State,,REP,Write-ins,1
+Weston,3-1,Secretary of State,,REP,Over Votes,0
+Weston,3-1,Secretary of State,,REP,Under Votes,28
+Weston,3-1,Secretary of State,,DEM,Bryan McCarty,0
+Weston,3-1,Secretary of State,,DEM,Write-ins,0
+Weston,3-1,Secretary of State,,DEM,Over Votes,0
+Weston,3-1,Secretary of State,,DEM,Under Votes,0
+Weston,3-1,State Auditor,,REP,Kristi Racines,159
+Weston,3-1,State Auditor,,REP,Write-ins,0
+Weston,3-1,State Auditor,,REP,Over Votes,0
+Weston,3-1,State Auditor,,REP,Under Votes,54
+Weston,3-1,State Auditor,,DEM,Write-ins,0
+Weston,3-1,State Auditor,,DEM,Over Votes,0
+Weston,3-1,State Auditor,,DEM,Under Votes,0
+Weston,3-1,State Treasurer,,REP,Curt Meier,130
+Weston,3-1,State Treasurer,,REP,Scott Smith,53
+Weston,3-1,State Treasurer,,REP,Write-ins,0
+Weston,3-1,State Treasurer,,REP,Over Votes,0
+Weston,3-1,State Treasurer,,REP,Under Votes,30
+Weston,3-1,State Treasurer,,DEM,Write-ins,0
+Weston,3-1,State Treasurer,,DEM,Over Votes,0
+Weston,3-1,State Treasurer,,DEM,Under Votes,0
+Weston,3-1,Superintendent of Public Instruction,,REP,Chad Auer,15
+Weston,3-1,Superintendent of Public Instruction,,REP,Steve Harshman,131
+Weston,3-1,Superintendent of Public Instruction,,REP,Tom Kelly,44
+Weston,3-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Weston,3-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Weston,3-1,Superintendent of Public Instruction,,REP,Under Votes,23
+Weston,3-1,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Weston,3-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Weston,3-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,3-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,3-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Weston,3-1,State Senate,1,REP,Chip Neiman,70
+Weston,3-1,State Senate,1,REP,Ogden Driskill,139
+Weston,3-1,State Senate,1,REP,Write-ins,0
+Weston,3-1,State Senate,1,REP,Over Votes,0
+Weston,3-1,State Senate,1,REP,Under Votes,4
+Weston,3-1,State Senate,1,DEM,Write-ins,0
+Weston,3-1,State Senate,1,DEM,Over Votes,0
+Weston,3-1,State Senate,1,DEM,Under Votes,0
+Weston,3-1,State House,1,REP,Troy Claycomb,151
+Weston,3-1,State House,1,REP,Zeta Nuckolls Anderson,53
+Weston,3-1,State House,1,REP,Write-ins,0
+Weston,3-1,State House,1,REP,Over Votes,0
+Weston,3-1,State House,1,REP,Under Votes,9
+Weston,3-1,State House,1,DEM,Write-ins,0
+Weston,3-1,State House,1,DEM,Over Votes,0
+Weston,3-1,State House,1,DEM,Under Votes,0
+Weston,3-1,Ballots Cast,,REP,Ballots Cast,213
+Weston,3-1,Ballots Cast,,DEM,Ballots Cast,0
+Weston,3-1,Ballots Cast,,NP,Ballots Cast,0
+Weston,3-1,Ballots Cast,,,Ballots Cast,213
+Weston,4-1,U.S. Senate,,REP,Harriet Hageman,187
+Weston,4-1,U.S. Senate,,REP,Jill M Edwards,9
+Weston,4-1,U.S. Senate,,REP,Jimmy Skovgard,9
+Weston,4-1,U.S. Senate,,REP,John Holtz,7
+Weston,4-1,U.S. Senate,,REP,Sam Mead,106
+Weston,4-1,U.S. Senate,,REP,Write-ins,0
+Weston,4-1,U.S. Senate,,REP,Over Votes,0
+Weston,4-1,U.S. Senate,,REP,Under Votes,17
+Weston,4-1,U.S. Senate,,DEM,Billy Benavidez,0
+Weston,4-1,U.S. Senate,,DEM,James Byrd,6
+Weston,4-1,U.S. Senate,,DEM,Write-ins,0
+Weston,4-1,U.S. Senate,,DEM,Over Votes,0
+Weston,4-1,U.S. Senate,,DEM,Under Votes,0
+Weston,4-1,U.S. House,,REP,* Withdrawn Candidate,7
+Weston,4-1,U.S. House,,REP,Bo Biteman,12
+Weston,4-1,U.S. House,,REP,Chuck Gray,59
+Weston,4-1,U.S. House,,REP,David Giralt,19
+Weston,4-1,U.S. House,,REP,Jillian Balow,42
+Weston,4-1,U.S. House,,REP,Keith B. Goodenough,3
+Weston,4-1,U.S. House,,REP,Kevin Christensen,111
+Weston,4-1,U.S. House,,REP,Reid Rasner,32
+Weston,4-1,U.S. House,,REP,Richard Dodson,3
+Weston,4-1,U.S. House,,REP,Steve Friess,30
+Weston,4-1,U.S. House,,REP,Write-ins,1
+Weston,4-1,U.S. House,,REP,Over Votes,0
+Weston,4-1,U.S. House,,REP,Under Votes,16
+Weston,4-1,U.S. House,,DEM,Elena Del Real,1
+Weston,4-1,U.S. House,,DEM,Lisa Kinney,5
+Weston,4-1,U.S. House,,DEM,Write-ins,0
+Weston,4-1,U.S. House,,DEM,Over Votes,0
+Weston,4-1,U.S. House,,DEM,Under Votes,0
+Weston,4-1,Governor,,REP,Brent Bien,43
+Weston,4-1,Governor,,REP,Curt Blake,4
+Weston,4-1,Governor,,REP,Eric Barlow,201
+Weston,4-1,Governor,,REP,Megan Degenfelder,81
+Weston,4-1,Governor,,REP,Write-ins,0
+Weston,4-1,Governor,,REP,Over Votes,0
+Weston,4-1,Governor,,REP,Under Votes,6
+Weston,4-1,Governor,,DEM,Kenneth R. Casner,6
+Weston,4-1,Governor,,DEM,Write-ins,0
+Weston,4-1,Governor,,DEM,Over Votes,0
+Weston,4-1,Governor,,DEM,Under Votes,0
+Weston,4-1,Secretary of State,,REP,CJ Young,24
+Weston,4-1,Secretary of State,,REP,Qwenton Eagle Oviatt,14
+Weston,4-1,Secretary of State,,REP,Rachel Williams,76
+Weston,4-1,Secretary of State,,REP,Robert Short,175
+Weston,4-1,Secretary of State,,REP,Write-ins,0
+Weston,4-1,Secretary of State,,REP,Over Votes,0
+Weston,4-1,Secretary of State,,REP,Under Votes,46
+Weston,4-1,Secretary of State,,DEM,Bryan McCarty,6
+Weston,4-1,Secretary of State,,DEM,Write-ins,0
+Weston,4-1,Secretary of State,,DEM,Over Votes,0
+Weston,4-1,Secretary of State,,DEM,Under Votes,0
+Weston,4-1,State Auditor,,REP,Kristi Racines,269
+Weston,4-1,State Auditor,,REP,Write-ins,1
+Weston,4-1,State Auditor,,REP,Over Votes,0
+Weston,4-1,State Auditor,,REP,Under Votes,65
+Weston,4-1,State Auditor,,DEM,Write-ins,0
+Weston,4-1,State Auditor,,DEM,Over Votes,0
+Weston,4-1,State Auditor,,DEM,Under Votes,6
+Weston,4-1,State Treasurer,,REP,Curt Meier,208
+Weston,4-1,State Treasurer,,REP,Scott Smith,73
+Weston,4-1,State Treasurer,,REP,Write-ins,0
+Weston,4-1,State Treasurer,,REP,Over Votes,0
+Weston,4-1,State Treasurer,,REP,Under Votes,54
+Weston,4-1,State Treasurer,,DEM,Write-ins,0
+Weston,4-1,State Treasurer,,DEM,Over Votes,0
+Weston,4-1,State Treasurer,,DEM,Under Votes,6
+Weston,4-1,Superintendent of Public Instruction,,REP,Chad Auer,20
+Weston,4-1,Superintendent of Public Instruction,,REP,Steve Harshman,207
+Weston,4-1,Superintendent of Public Instruction,,REP,Tom Kelly,68
+Weston,4-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Weston,4-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Weston,4-1,Superintendent of Public Instruction,,REP,Under Votes,40
+Weston,4-1,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Weston,4-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Weston,4-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,4-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,4-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Weston,4-1,State Senate,1,REP,Chip Neiman,79
+Weston,4-1,State Senate,1,REP,Ogden Driskill,243
+Weston,4-1,State Senate,1,REP,Write-ins,2
+Weston,4-1,State Senate,1,REP,Over Votes,0
+Weston,4-1,State Senate,1,REP,Under Votes,11
+Weston,4-1,State Senate,1,DEM,Write-ins,0
+Weston,4-1,State Senate,1,DEM,Over Votes,0
+Weston,4-1,State Senate,1,DEM,Under Votes,6
+Weston,4-1,State House,1,REP,Troy Claycomb,269
+Weston,4-1,State House,1,REP,Zeta Nuckolls Anderson,56
+Weston,4-1,State House,1,REP,Write-ins,1
+Weston,4-1,State House,1,REP,Over Votes,1
+Weston,4-1,State House,1,REP,Under Votes,8
+Weston,4-1,State House,1,DEM,Write-ins,0
+Weston,4-1,State House,1,DEM,Over Votes,0
+Weston,4-1,State House,1,DEM,Under Votes,6
+Weston,4-1,Ballots Cast,,REP,Ballots Cast,335
+Weston,4-1,Ballots Cast,,DEM,Ballots Cast,6
+Weston,4-1,Ballots Cast,,NP,Ballots Cast,5
+Weston,4-1,Ballots Cast,,,Ballots Cast,346
+Weston,5-1,U.S. Senate,,REP,Harriet Hageman,137
+Weston,5-1,U.S. Senate,,REP,Jill M Edwards,3
+Weston,5-1,U.S. Senate,,REP,Jimmy Skovgard,6
+Weston,5-1,U.S. Senate,,REP,John Holtz,0
+Weston,5-1,U.S. Senate,,REP,Sam Mead,76
+Weston,5-1,U.S. Senate,,REP,Write-ins,1
+Weston,5-1,U.S. Senate,,REP,Over Votes,1
+Weston,5-1,U.S. Senate,,REP,Under Votes,14
+Weston,5-1,U.S. Senate,,DEM,Billy Benavidez,4
+Weston,5-1,U.S. Senate,,DEM,James Byrd,10
+Weston,5-1,U.S. Senate,,DEM,Write-ins,0
+Weston,5-1,U.S. Senate,,DEM,Over Votes,0
+Weston,5-1,U.S. Senate,,DEM,Under Votes,1
+Weston,5-1,U.S. House,,REP,* Withdrawn Candidate,6
+Weston,5-1,U.S. House,,REP,Bo Biteman,10
+Weston,5-1,U.S. House,,REP,Chuck Gray,62
+Weston,5-1,U.S. House,,REP,David Giralt,22
+Weston,5-1,U.S. House,,REP,Jillian Balow,13
+Weston,5-1,U.S. House,,REP,Keith B. Goodenough,5
+Weston,5-1,U.S. House,,REP,Kevin Christensen,41
+Weston,5-1,U.S. House,,REP,Reid Rasner,13
+Weston,5-1,U.S. House,,REP,Richard Dodson,4
+Weston,5-1,U.S. House,,REP,Steve Friess,46
+Weston,5-1,U.S. House,,REP,Write-ins,1
+Weston,5-1,U.S. House,,REP,Over Votes,4
+Weston,5-1,U.S. House,,REP,Under Votes,11
+Weston,5-1,U.S. House,,DEM,Elena Del Real,7
+Weston,5-1,U.S. House,,DEM,Lisa Kinney,8
+Weston,5-1,U.S. House,,DEM,Write-ins,0
+Weston,5-1,U.S. House,,DEM,Over Votes,0
+Weston,5-1,U.S. House,,DEM,Under Votes,0
+Weston,5-1,Governor,,REP,Brent Bien,62
+Weston,5-1,Governor,,REP,Curt Blake,2
+Weston,5-1,Governor,,REP,Eric Barlow,97
+Weston,5-1,Governor,,REP,Megan Degenfelder,74
+Weston,5-1,Governor,,REP,Write-ins,0
+Weston,5-1,Governor,,REP,Over Votes,0
+Weston,5-1,Governor,,REP,Under Votes,3
+Weston,5-1,Governor,,DEM,Kenneth R. Casner,13
+Weston,5-1,Governor,,DEM,Write-ins,1
+Weston,5-1,Governor,,DEM,Over Votes,0
+Weston,5-1,Governor,,DEM,Under Votes,1
+Weston,5-1,Secretary of State,,REP,CJ Young,29
+Weston,5-1,Secretary of State,,REP,Qwenton Eagle Oviatt,15
+Weston,5-1,Secretary of State,,REP,Rachel Williams,79
+Weston,5-1,Secretary of State,,REP,Robert Short,90
+Weston,5-1,Secretary of State,,REP,Write-ins,1
+Weston,5-1,Secretary of State,,REP,Over Votes,0
+Weston,5-1,Secretary of State,,REP,Under Votes,24
+Weston,5-1,Secretary of State,,DEM,Bryan McCarty,12
+Weston,5-1,Secretary of State,,DEM,Write-ins,0
+Weston,5-1,Secretary of State,,DEM,Over Votes,0
+Weston,5-1,Secretary of State,,DEM,Under Votes,3
+Weston,5-1,State Auditor,,REP,Kristi Racines,168
+Weston,5-1,State Auditor,,REP,Write-ins,2
+Weston,5-1,State Auditor,,REP,Over Votes,0
+Weston,5-1,State Auditor,,REP,Under Votes,68
+Weston,5-1,State Auditor,,DEM,Write-ins,1
+Weston,5-1,State Auditor,,DEM,Over Votes,0
+Weston,5-1,State Auditor,,DEM,Under Votes,14
+Weston,5-1,State Treasurer,,REP,Curt Meier,150
+Weston,5-1,State Treasurer,,REP,Scott Smith,49
+Weston,5-1,State Treasurer,,REP,Write-ins,2
+Weston,5-1,State Treasurer,,REP,Over Votes,0
+Weston,5-1,State Treasurer,,REP,Under Votes,37
+Weston,5-1,State Treasurer,,DEM,Write-ins,1
+Weston,5-1,State Treasurer,,DEM,Over Votes,0
+Weston,5-1,State Treasurer,,DEM,Under Votes,14
+Weston,5-1,Superintendent of Public Instruction,,REP,Chad Auer,27
+Weston,5-1,Superintendent of Public Instruction,,REP,Steve Harshman,116
+Weston,5-1,Superintendent of Public Instruction,,REP,Tom Kelly,60
+Weston,5-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Weston,5-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Weston,5-1,Superintendent of Public Instruction,,REP,Under Votes,34
+Weston,5-1,Superintendent of Public Instruction,,DEM,Ana Cordova,14
+Weston,5-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Weston,5-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,5-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,5-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Weston,5-1,State Senate,3,REP,Cheri E Steinmetz,168
+Weston,5-1,State Senate,3,REP,Write-ins,7
+Weston,5-1,State Senate,3,REP,Over Votes,0
+Weston,5-1,State Senate,3,REP,Under Votes,63
+Weston,5-1,State Senate,3,DEM,Write-ins,1
+Weston,5-1,State Senate,3,DEM,Over Votes,0
+Weston,5-1,State Senate,3,DEM,Under Votes,14
+Weston,5-1,State House,2,REP,JD Williams,166
+Weston,5-1,State House,2,REP,Write-ins,9
+Weston,5-1,State House,2,REP,Over Votes,0
+Weston,5-1,State House,2,REP,Under Votes,63
+Weston,5-1,State House,2,DEM,Write-ins,1
+Weston,5-1,State House,2,DEM,Over Votes,0
+Weston,5-1,State House,2,DEM,Under Votes,14
+Weston,5-1,Ballots Cast,,REP,Ballots Cast,238
+Weston,5-1,Ballots Cast,,DEM,Ballots Cast,15
+Weston,5-1,Ballots Cast,,NP,Ballots Cast,6
+Weston,5-1,Ballots Cast,,,Ballots Cast,259
+Weston,5-2,U.S. Senate,,REP,Harriet Hageman,139
+Weston,5-2,U.S. Senate,,REP,Jill M Edwards,4
+Weston,5-2,U.S. Senate,,REP,Jimmy Skovgard,6
+Weston,5-2,U.S. Senate,,REP,John Holtz,8
+Weston,5-2,U.S. Senate,,REP,Sam Mead,64
+Weston,5-2,U.S. Senate,,REP,Write-ins,2
+Weston,5-2,U.S. Senate,,REP,Over Votes,0
+Weston,5-2,U.S. Senate,,REP,Under Votes,6
+Weston,5-2,U.S. Senate,,DEM,Billy Benavidez,0
+Weston,5-2,U.S. Senate,,DEM,James Byrd,5
+Weston,5-2,U.S. Senate,,DEM,Write-ins,0
+Weston,5-2,U.S. Senate,,DEM,Over Votes,0
+Weston,5-2,U.S. Senate,,DEM,Under Votes,1
+Weston,5-2,U.S. House,,REP,* Withdrawn Candidate,5
+Weston,5-2,U.S. House,,REP,Bo Biteman,6
+Weston,5-2,U.S. House,,REP,Chuck Gray,51
+Weston,5-2,U.S. House,,REP,David Giralt,27
+Weston,5-2,U.S. House,,REP,Jillian Balow,17
+Weston,5-2,U.S. House,,REP,Keith B. Goodenough,8
+Weston,5-2,U.S. House,,REP,Kevin Christensen,54
+Weston,5-2,U.S. House,,REP,Reid Rasner,14
+Weston,5-2,U.S. House,,REP,Richard Dodson,3
+Weston,5-2,U.S. House,,REP,Steve Friess,25
+Weston,5-2,U.S. House,,REP,Write-ins,1
+Weston,5-2,U.S. House,,REP,Over Votes,9
+Weston,5-2,U.S. House,,REP,Under Votes,9
+Weston,5-2,U.S. House,,DEM,Elena Del Real,1
+Weston,5-2,U.S. House,,DEM,Lisa Kinney,4
+Weston,5-2,U.S. House,,DEM,Write-ins,0
+Weston,5-2,U.S. House,,DEM,Over Votes,0
+Weston,5-2,U.S. House,,DEM,Under Votes,1
+Weston,5-2,Governor,,REP,Brent Bien,54
+Weston,5-2,Governor,,REP,Curt Blake,5
+Weston,5-2,Governor,,REP,Eric Barlow,106
+Weston,5-2,Governor,,REP,Megan Degenfelder,59
+Weston,5-2,Governor,,REP,Write-ins,0
+Weston,5-2,Governor,,REP,Over Votes,0
+Weston,5-2,Governor,,REP,Under Votes,5
+Weston,5-2,Governor,,DEM,Kenneth R. Casner,5
+Weston,5-2,Governor,,DEM,Write-ins,0
+Weston,5-2,Governor,,DEM,Over Votes,0
+Weston,5-2,Governor,,DEM,Under Votes,1
+Weston,5-2,Secretary of State,,REP,CJ Young,16
+Weston,5-2,Secretary of State,,REP,Qwenton Eagle Oviatt,14
+Weston,5-2,Secretary of State,,REP,Rachel Williams,77
+Weston,5-2,Secretary of State,,REP,Robert Short,97
+Weston,5-2,Secretary of State,,REP,Write-ins,0
+Weston,5-2,Secretary of State,,REP,Over Votes,0
+Weston,5-2,Secretary of State,,REP,Under Votes,25
+Weston,5-2,Secretary of State,,DEM,Bryan McCarty,5
+Weston,5-2,Secretary of State,,DEM,Write-ins,0
+Weston,5-2,Secretary of State,,DEM,Over Votes,0
+Weston,5-2,Secretary of State,,DEM,Under Votes,1
+Weston,5-2,State Auditor,,REP,Kristi Racines,186
+Weston,5-2,State Auditor,,REP,Write-ins,1
+Weston,5-2,State Auditor,,REP,Over Votes,0
+Weston,5-2,State Auditor,,REP,Under Votes,42
+Weston,5-2,State Auditor,,DEM,Write-ins,1
+Weston,5-2,State Auditor,,DEM,Over Votes,0
+Weston,5-2,State Auditor,,DEM,Under Votes,5
+Weston,5-2,State Treasurer,,REP,Curt Meier,141
+Weston,5-2,State Treasurer,,REP,Scott Smith,60
+Weston,5-2,State Treasurer,,REP,Write-ins,1
+Weston,5-2,State Treasurer,,REP,Over Votes,0
+Weston,5-2,State Treasurer,,REP,Under Votes,27
+Weston,5-2,State Treasurer,,DEM,Write-ins,1
+Weston,5-2,State Treasurer,,DEM,Over Votes,0
+Weston,5-2,State Treasurer,,DEM,Under Votes,5
+Weston,5-2,Superintendent of Public Instruction,,REP,Chad Auer,19
+Weston,5-2,Superintendent of Public Instruction,,REP,Steve Harshman,133
+Weston,5-2,Superintendent of Public Instruction,,REP,Tom Kelly,52
+Weston,5-2,Superintendent of Public Instruction,,REP,Write-ins,2
+Weston,5-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Weston,5-2,Superintendent of Public Instruction,,REP,Under Votes,23
+Weston,5-2,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Weston,5-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Weston,5-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,5-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,5-2,Superintendent of Public Instruction,,DEM,Under Votes,1
+Weston,5-2,State Senate,3,REP,Cheri E Steinmetz,179
+Weston,5-2,State Senate,3,REP,Write-ins,2
+Weston,5-2,State Senate,3,REP,Over Votes,0
+Weston,5-2,State Senate,3,REP,Under Votes,48
+Weston,5-2,State Senate,3,DEM,Write-ins,1
+Weston,5-2,State Senate,3,DEM,Over Votes,0
+Weston,5-2,State Senate,3,DEM,Under Votes,5
+Weston,5-2,State House,2,REP,JD Williams,185
+Weston,5-2,State House,2,REP,Write-ins,10
+Weston,5-2,State House,2,REP,Over Votes,0
+Weston,5-2,State House,2,REP,Under Votes,34
+Weston,5-2,State House,2,DEM,Write-ins,1
+Weston,5-2,State House,2,DEM,Over Votes,0
+Weston,5-2,State House,2,DEM,Under Votes,5
+Weston,5-2,Ballots Cast,,REP,Ballots Cast,229
+Weston,5-2,Ballots Cast,,DEM,Ballots Cast,6
+Weston,5-2,Ballots Cast,,NP,Ballots Cast,2
+Weston,5-2,Ballots Cast,,,Ballots Cast,237
+Weston,5-3,U.S. Senate,,REP,Harriet Hageman,146
+Weston,5-3,U.S. Senate,,REP,Jill M Edwards,7
+Weston,5-3,U.S. Senate,,REP,Jimmy Skovgard,2
+Weston,5-3,U.S. Senate,,REP,John Holtz,8
+Weston,5-3,U.S. Senate,,REP,Sam Mead,70
+Weston,5-3,U.S. Senate,,REP,Write-ins,1
+Weston,5-3,U.S. Senate,,REP,Over Votes,0
+Weston,5-3,U.S. Senate,,REP,Under Votes,9
+Weston,5-3,U.S. Senate,,DEM,Billy Benavidez,1
+Weston,5-3,U.S. Senate,,DEM,James Byrd,5
+Weston,5-3,U.S. Senate,,DEM,Write-ins,0
+Weston,5-3,U.S. Senate,,DEM,Over Votes,0
+Weston,5-3,U.S. Senate,,DEM,Under Votes,1
+Weston,5-3,U.S. House,,REP,* Withdrawn Candidate,1
+Weston,5-3,U.S. House,,REP,Bo Biteman,14
+Weston,5-3,U.S. House,,REP,Chuck Gray,63
+Weston,5-3,U.S. House,,REP,David Giralt,21
+Weston,5-3,U.S. House,,REP,Jillian Balow,18
+Weston,5-3,U.S. House,,REP,Keith B. Goodenough,5
+Weston,5-3,U.S. House,,REP,Kevin Christensen,54
+Weston,5-3,U.S. House,,REP,Reid Rasner,20
+Weston,5-3,U.S. House,,REP,Richard Dodson,3
+Weston,5-3,U.S. House,,REP,Steve Friess,27
+Weston,5-3,U.S. House,,REP,Write-ins,1
+Weston,5-3,U.S. House,,REP,Over Votes,8
+Weston,5-3,U.S. House,,REP,Under Votes,8
+Weston,5-3,U.S. House,,DEM,Elena Del Real,1
+Weston,5-3,U.S. House,,DEM,Lisa Kinney,6
+Weston,5-3,U.S. House,,DEM,Write-ins,0
+Weston,5-3,U.S. House,,DEM,Over Votes,0
+Weston,5-3,U.S. House,,DEM,Under Votes,0
+Weston,5-3,Governor,,REP,Brent Bien,59
+Weston,5-3,Governor,,REP,Curt Blake,4
+Weston,5-3,Governor,,REP,Eric Barlow,105
+Weston,5-3,Governor,,REP,Megan Degenfelder,68
+Weston,5-3,Governor,,REP,Write-ins,1
+Weston,5-3,Governor,,REP,Over Votes,0
+Weston,5-3,Governor,,REP,Under Votes,6
+Weston,5-3,Governor,,DEM,Kenneth R. Casner,7
+Weston,5-3,Governor,,DEM,Write-ins,0
+Weston,5-3,Governor,,DEM,Over Votes,0
+Weston,5-3,Governor,,DEM,Under Votes,0
+Weston,5-3,Secretary of State,,REP,CJ Young,38
+Weston,5-3,Secretary of State,,REP,Qwenton Eagle Oviatt,10
+Weston,5-3,Secretary of State,,REP,Rachel Williams,68
+Weston,5-3,Secretary of State,,REP,Robert Short,102
+Weston,5-3,Secretary of State,,REP,Write-ins,1
+Weston,5-3,Secretary of State,,REP,Over Votes,1
+Weston,5-3,Secretary of State,,REP,Under Votes,23
+Weston,5-3,Secretary of State,,DEM,Bryan McCarty,7
+Weston,5-3,Secretary of State,,DEM,Write-ins,0
+Weston,5-3,Secretary of State,,DEM,Over Votes,0
+Weston,5-3,Secretary of State,,DEM,Under Votes,0
+Weston,5-3,State Auditor,,REP,Kristi Racines,195
+Weston,5-3,State Auditor,,REP,Write-ins,2
+Weston,5-3,State Auditor,,REP,Over Votes,0
+Weston,5-3,State Auditor,,REP,Under Votes,46
+Weston,5-3,State Auditor,,DEM,Write-ins,0
+Weston,5-3,State Auditor,,DEM,Over Votes,0
+Weston,5-3,State Auditor,,DEM,Under Votes,7
+Weston,5-3,State Treasurer,,REP,Curt Meier,147
+Weston,5-3,State Treasurer,,REP,Scott Smith,73
+Weston,5-3,State Treasurer,,REP,Write-ins,1
+Weston,5-3,State Treasurer,,REP,Over Votes,0
+Weston,5-3,State Treasurer,,REP,Under Votes,22
+Weston,5-3,State Treasurer,,DEM,Write-ins,0
+Weston,5-3,State Treasurer,,DEM,Over Votes,0
+Weston,5-3,State Treasurer,,DEM,Under Votes,7
+Weston,5-3,Superintendent of Public Instruction,,REP,Chad Auer,26
+Weston,5-3,Superintendent of Public Instruction,,REP,Steve Harshman,134
+Weston,5-3,Superintendent of Public Instruction,,REP,Tom Kelly,59
+Weston,5-3,Superintendent of Public Instruction,,REP,Write-ins,2
+Weston,5-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Weston,5-3,Superintendent of Public Instruction,,REP,Under Votes,22
+Weston,5-3,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Weston,5-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Weston,5-3,Superintendent of Public Instruction,,DEM,Write-ins,0
+Weston,5-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Weston,5-3,Superintendent of Public Instruction,,DEM,Under Votes,1
+Weston,5-3,State Senate,3,REP,Cheri E Steinmetz,195
+Weston,5-3,State Senate,3,REP,Write-ins,3
+Weston,5-3,State Senate,3,REP,Over Votes,0
+Weston,5-3,State Senate,3,REP,Under Votes,45
+Weston,5-3,State Senate,3,DEM,Write-ins,0
+Weston,5-3,State Senate,3,DEM,Over Votes,0
+Weston,5-3,State Senate,3,DEM,Under Votes,7
+Weston,5-3,State House,2,REP,JD Williams,196
+Weston,5-3,State House,2,REP,Write-ins,6
+Weston,5-3,State House,2,REP,Over Votes,0
+Weston,5-3,State House,2,REP,Under Votes,41
+Weston,5-3,State House,2,DEM,Write-ins,0
+Weston,5-3,State House,2,DEM,Over Votes,0
+Weston,5-3,State House,2,DEM,Under Votes,7
+Weston,5-3,Ballots Cast,,REP,Ballots Cast,243
+Weston,5-3,Ballots Cast,,DEM,Ballots Cast,7
+Weston,5-3,Ballots Cast,,NP,Ballots Cast,7
+Weston,5-3,Ballots Cast,,,Ballots Cast,257

@@ -1,0 +1,3561 @@
+county,precinct,office,district,party,candidate,votes
+Campbell,01-01,U.S. Senate,,REP,Harriet Hageman,230
+Campbell,01-01,U.S. Senate,,REP,Jill M Edwards,17
+Campbell,01-01,U.S. Senate,,REP,Jimmy Skovgard,5
+Campbell,01-01,U.S. Senate,,REP,John Holtz,6
+Campbell,01-01,U.S. Senate,,REP,Sam Mead,87
+Campbell,01-01,U.S. Senate,,REP,Write-ins,2
+Campbell,01-01,U.S. Senate,,REP,Over Votes,0
+Campbell,01-01,U.S. Senate,,REP,Under Votes,6
+Campbell,01-01,U.S. Senate,,DEM,Billy Benavidez,4
+Campbell,01-01,U.S. Senate,,DEM,James Byrd,14
+Campbell,01-01,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-01,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-01,U.S. House,,REP,* Withdrawn Candidate,6
+Campbell,01-01,U.S. House,,REP,Bo Biteman,15
+Campbell,01-01,U.S. House,,REP,Chuck Gray,98
+Campbell,01-01,U.S. House,,REP,David Giralt,22
+Campbell,01-01,U.S. House,,REP,Jillian Balow,40
+Campbell,01-01,U.S. House,,REP,Keith B. Goodenough,3
+Campbell,01-01,U.S. House,,REP,Kevin Christensen,67
+Campbell,01-01,U.S. House,,REP,Reid Rasner,25
+Campbell,01-01,U.S. House,,REP,Richard Dodson,3
+Campbell,01-01,U.S. House,,REP,Steve Friess,50
+Campbell,01-01,U.S. House,,REP,Write-ins,0
+Campbell,01-01,U.S. House,,REP,Over Votes,11
+Campbell,01-01,U.S. House,,REP,Under Votes,13
+Campbell,01-01,U.S. House,,DEM,Elena Del Real,1
+Campbell,01-01,U.S. House,,DEM,Lisa Kinney,17
+Campbell,01-01,U.S. House,,DEM,Write-ins,0
+Campbell,01-01,U.S. House,,DEM,Over Votes,1
+Campbell,01-01,U.S. House,,DEM,Under Votes,1
+Campbell,01-01,Governor,,REP,Brent Bien,62
+Campbell,01-01,Governor,,REP,Curt Blake,6
+Campbell,01-01,Governor,,REP,Eric Barlow,169
+Campbell,01-01,Governor,,REP,Megan Degenfelder,111
+Campbell,01-01,Governor,,REP,Write-ins,0
+Campbell,01-01,Governor,,REP,Over Votes,0
+Campbell,01-01,Governor,,REP,Under Votes,5
+Campbell,01-01,Governor,,DEM,Kenneth R. Casner,13
+Campbell,01-01,Governor,,DEM,Write-ins,4
+Campbell,01-01,Governor,,DEM,Over Votes,0
+Campbell,01-01,Governor,,DEM,Under Votes,3
+Campbell,01-01,Secretary of State,,REP,CJ Young,33
+Campbell,01-01,Secretary of State,,REP,Qwenton Eagle Oviatt,14
+Campbell,01-01,Secretary of State,,REP,Rachel Williams,127
+Campbell,01-01,Secretary of State,,REP,Robert Short,135
+Campbell,01-01,Secretary of State,,REP,Write-ins,1
+Campbell,01-01,Secretary of State,,REP,Over Votes,0
+Campbell,01-01,Secretary of State,,REP,Under Votes,43
+Campbell,01-01,Secretary of State,,DEM,Bryan McCarty,18
+Campbell,01-01,Secretary of State,,DEM,Write-ins,0
+Campbell,01-01,Secretary of State,,DEM,Over Votes,0
+Campbell,01-01,Secretary of State,,DEM,Under Votes,2
+Campbell,01-01,State Auditor,,REP,Kristi Racines,285
+Campbell,01-01,State Auditor,,REP,Write-ins,3
+Campbell,01-01,State Auditor,,REP,Over Votes,0
+Campbell,01-01,State Auditor,,REP,Under Votes,65
+Campbell,01-01,State Auditor,,DEM,Write-ins,0
+Campbell,01-01,State Auditor,,DEM,Over Votes,0
+Campbell,01-01,State Auditor,,DEM,Under Votes,20
+Campbell,01-01,State Treasurer,,REP,Curt Meier,194
+Campbell,01-01,State Treasurer,,REP,Scott Smith,118
+Campbell,01-01,State Treasurer,,REP,Write-ins,1
+Campbell,01-01,State Treasurer,,REP,Over Votes,0
+Campbell,01-01,State Treasurer,,REP,Under Votes,40
+Campbell,01-01,State Treasurer,,DEM,Write-ins,1
+Campbell,01-01,State Treasurer,,DEM,Over Votes,0
+Campbell,01-01,State Treasurer,,DEM,Under Votes,19
+Campbell,01-01,Superintendent of Public Instruction,,REP,Chad Auer,22
+Campbell,01-01,Superintendent of Public Instruction,,REP,Steve Harshman,177
+Campbell,01-01,Superintendent of Public Instruction,,REP,Tom Kelly,122
+Campbell,01-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-01,Superintendent of Public Instruction,,REP,Under Votes,32
+Campbell,01-01,Superintendent of Public Instruction,,DEM,Ana Cordova,12
+Campbell,01-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Campbell,01-01,Superintendent of Public Instruction,,DEM,Write-ins,1
+Campbell,01-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-01,Superintendent of Public Instruction,,DEM,Under Votes,2
+Campbell,01-01,State House,53,REP,Christopher R Knapp,176
+Campbell,01-01,State House,53,REP,Greg Schreurs,155
+Campbell,01-01,State House,53,REP,Write-ins,0
+Campbell,01-01,State House,53,REP,Over Votes,0
+Campbell,01-01,State House,53,REP,Under Votes,22
+Campbell,01-01,State House,53,DEM,Write-ins,1
+Campbell,01-01,State House,53,DEM,Over Votes,0
+Campbell,01-01,State House,53,DEM,Under Votes,19
+Campbell,01-01,Ballots Cast,,REP,Ballots Cast,353
+Campbell,01-01,Ballots Cast,,DEM,Ballots Cast,20
+Campbell,01-01,Ballots Cast,,NP,Ballots Cast,9
+Campbell,01-01,Ballots Cast,,,Ballots Cast,382
+Campbell,01-02,U.S. Senate,,REP,Harriet Hageman,22
+Campbell,01-02,U.S. Senate,,REP,Jill M Edwards,2
+Campbell,01-02,U.S. Senate,,REP,Jimmy Skovgard,5
+Campbell,01-02,U.S. Senate,,REP,John Holtz,1
+Campbell,01-02,U.S. Senate,,REP,Sam Mead,10
+Campbell,01-02,U.S. Senate,,REP,Write-ins,0
+Campbell,01-02,U.S. Senate,,REP,Over Votes,0
+Campbell,01-02,U.S. Senate,,REP,Under Votes,1
+Campbell,01-02,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,01-02,U.S. Senate,,DEM,James Byrd,0
+Campbell,01-02,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-02,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-02,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-02,U.S. House,,REP,* Withdrawn Candidate,0
+Campbell,01-02,U.S. House,,REP,Bo Biteman,2
+Campbell,01-02,U.S. House,,REP,Chuck Gray,8
+Campbell,01-02,U.S. House,,REP,David Giralt,4
+Campbell,01-02,U.S. House,,REP,Jillian Balow,6
+Campbell,01-02,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,01-02,U.S. House,,REP,Kevin Christensen,6
+Campbell,01-02,U.S. House,,REP,Reid Rasner,6
+Campbell,01-02,U.S. House,,REP,Richard Dodson,0
+Campbell,01-02,U.S. House,,REP,Steve Friess,7
+Campbell,01-02,U.S. House,,REP,Write-ins,0
+Campbell,01-02,U.S. House,,REP,Over Votes,0
+Campbell,01-02,U.S. House,,REP,Under Votes,1
+Campbell,01-02,U.S. House,,DEM,Elena Del Real,0
+Campbell,01-02,U.S. House,,DEM,Lisa Kinney,0
+Campbell,01-02,U.S. House,,DEM,Write-ins,0
+Campbell,01-02,U.S. House,,DEM,Over Votes,0
+Campbell,01-02,U.S. House,,DEM,Under Votes,0
+Campbell,01-02,Governor,,REP,Brent Bien,10
+Campbell,01-02,Governor,,REP,Curt Blake,3
+Campbell,01-02,Governor,,REP,Eric Barlow,16
+Campbell,01-02,Governor,,REP,Megan Degenfelder,12
+Campbell,01-02,Governor,,REP,Write-ins,0
+Campbell,01-02,Governor,,REP,Over Votes,0
+Campbell,01-02,Governor,,REP,Under Votes,0
+Campbell,01-02,Governor,,DEM,Kenneth R. Casner,0
+Campbell,01-02,Governor,,DEM,Write-ins,0
+Campbell,01-02,Governor,,DEM,Over Votes,0
+Campbell,01-02,Governor,,DEM,Under Votes,0
+Campbell,01-02,Secretary of State,,REP,CJ Young,7
+Campbell,01-02,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Campbell,01-02,Secretary of State,,REP,Rachel Williams,12
+Campbell,01-02,Secretary of State,,REP,Robert Short,14
+Campbell,01-02,Secretary of State,,REP,Write-ins,0
+Campbell,01-02,Secretary of State,,REP,Over Votes,0
+Campbell,01-02,Secretary of State,,REP,Under Votes,2
+Campbell,01-02,Secretary of State,,DEM,Bryan McCarty,0
+Campbell,01-02,Secretary of State,,DEM,Write-ins,0
+Campbell,01-02,Secretary of State,,DEM,Over Votes,0
+Campbell,01-02,Secretary of State,,DEM,Under Votes,0
+Campbell,01-02,State Auditor,,REP,Kristi Racines,33
+Campbell,01-02,State Auditor,,REP,Write-ins,1
+Campbell,01-02,State Auditor,,REP,Over Votes,0
+Campbell,01-02,State Auditor,,REP,Under Votes,7
+Campbell,01-02,State Auditor,,DEM,Write-ins,0
+Campbell,01-02,State Auditor,,DEM,Over Votes,0
+Campbell,01-02,State Auditor,,DEM,Under Votes,0
+Campbell,01-02,State Treasurer,,REP,Curt Meier,21
+Campbell,01-02,State Treasurer,,REP,Scott Smith,17
+Campbell,01-02,State Treasurer,,REP,Write-ins,0
+Campbell,01-02,State Treasurer,,REP,Over Votes,0
+Campbell,01-02,State Treasurer,,REP,Under Votes,3
+Campbell,01-02,State Treasurer,,DEM,Write-ins,0
+Campbell,01-02,State Treasurer,,DEM,Over Votes,0
+Campbell,01-02,State Treasurer,,DEM,Under Votes,0
+Campbell,01-02,Superintendent of Public Instruction,,REP,Chad Auer,9
+Campbell,01-02,Superintendent of Public Instruction,,REP,Steve Harshman,16
+Campbell,01-02,Superintendent of Public Instruction,,REP,Tom Kelly,13
+Campbell,01-02,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-02,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-02,Superintendent of Public Instruction,,REP,Under Votes,3
+Campbell,01-02,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Campbell,01-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,01-02,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-02,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-02,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-02,State Senate,1,REP,Chip Neiman,21
+Campbell,01-02,State Senate,1,REP,Ogden Driskill,18
+Campbell,01-02,State Senate,1,REP,Write-ins,0
+Campbell,01-02,State Senate,1,REP,Over Votes,0
+Campbell,01-02,State Senate,1,REP,Under Votes,2
+Campbell,01-02,State Senate,1,DEM,Write-ins,0
+Campbell,01-02,State Senate,1,DEM,Over Votes,0
+Campbell,01-02,State Senate,1,DEM,Under Votes,0
+Campbell,01-02,State House,52,REP,Bill Fortner,16
+Campbell,01-02,State House,52,REP,Ronda Boller,22
+Campbell,01-02,State House,52,REP,Write-ins,1
+Campbell,01-02,State House,52,REP,Over Votes,0
+Campbell,01-02,State House,52,REP,Under Votes,2
+Campbell,01-02,State House,52,DEM,Write-ins,0
+Campbell,01-02,State House,52,DEM,Over Votes,0
+Campbell,01-02,State House,52,DEM,Under Votes,0
+Campbell,01-02,Ballots Cast,,REP,Ballots Cast,41
+Campbell,01-02,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,01-02,Ballots Cast,,NP,Ballots Cast,1
+Campbell,01-02,Ballots Cast,,,Ballots Cast,42
+Campbell,01-03,U.S. Senate,,REP,Harriet Hageman,62
+Campbell,01-03,U.S. Senate,,REP,Jill M Edwards,4
+Campbell,01-03,U.S. Senate,,REP,Jimmy Skovgard,2
+Campbell,01-03,U.S. Senate,,REP,John Holtz,2
+Campbell,01-03,U.S. Senate,,REP,Sam Mead,25
+Campbell,01-03,U.S. Senate,,REP,Write-ins,0
+Campbell,01-03,U.S. Senate,,REP,Over Votes,0
+Campbell,01-03,U.S. Senate,,REP,Under Votes,2
+Campbell,01-03,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,01-03,U.S. Senate,,DEM,James Byrd,2
+Campbell,01-03,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-03,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-03,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-03,U.S. House,,REP,* Withdrawn Candidate,1
+Campbell,01-03,U.S. House,,REP,Bo Biteman,2
+Campbell,01-03,U.S. House,,REP,Chuck Gray,29
+Campbell,01-03,U.S. House,,REP,David Giralt,5
+Campbell,01-03,U.S. House,,REP,Jillian Balow,6
+Campbell,01-03,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,01-03,U.S. House,,REP,Kevin Christensen,18
+Campbell,01-03,U.S. House,,REP,Reid Rasner,5
+Campbell,01-03,U.S. House,,REP,Richard Dodson,2
+Campbell,01-03,U.S. House,,REP,Steve Friess,18
+Campbell,01-03,U.S. House,,REP,Write-ins,0
+Campbell,01-03,U.S. House,,REP,Over Votes,6
+Campbell,01-03,U.S. House,,REP,Under Votes,4
+Campbell,01-03,U.S. House,,DEM,Elena Del Real,1
+Campbell,01-03,U.S. House,,DEM,Lisa Kinney,1
+Campbell,01-03,U.S. House,,DEM,Write-ins,1
+Campbell,01-03,U.S. House,,DEM,Over Votes,0
+Campbell,01-03,U.S. House,,DEM,Under Votes,0
+Campbell,01-03,Governor,,REP,Brent Bien,19
+Campbell,01-03,Governor,,REP,Curt Blake,0
+Campbell,01-03,Governor,,REP,Eric Barlow,50
+Campbell,01-03,Governor,,REP,Megan Degenfelder,26
+Campbell,01-03,Governor,,REP,Write-ins,0
+Campbell,01-03,Governor,,REP,Over Votes,0
+Campbell,01-03,Governor,,REP,Under Votes,2
+Campbell,01-03,Governor,,DEM,Kenneth R. Casner,2
+Campbell,01-03,Governor,,DEM,Write-ins,1
+Campbell,01-03,Governor,,DEM,Over Votes,0
+Campbell,01-03,Governor,,DEM,Under Votes,0
+Campbell,01-03,Secretary of State,,REP,CJ Young,13
+Campbell,01-03,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Campbell,01-03,Secretary of State,,REP,Rachel Williams,34
+Campbell,01-03,Secretary of State,,REP,Robert Short,34
+Campbell,01-03,Secretary of State,,REP,Write-ins,0
+Campbell,01-03,Secretary of State,,REP,Over Votes,0
+Campbell,01-03,Secretary of State,,REP,Under Votes,10
+Campbell,01-03,Secretary of State,,DEM,Bryan McCarty,2
+Campbell,01-03,Secretary of State,,DEM,Write-ins,1
+Campbell,01-03,Secretary of State,,DEM,Over Votes,0
+Campbell,01-03,Secretary of State,,DEM,Under Votes,0
+Campbell,01-03,State Auditor,,REP,Kristi Racines,81
+Campbell,01-03,State Auditor,,REP,Write-ins,0
+Campbell,01-03,State Auditor,,REP,Over Votes,0
+Campbell,01-03,State Auditor,,REP,Under Votes,16
+Campbell,01-03,State Auditor,,DEM,Write-ins,1
+Campbell,01-03,State Auditor,,DEM,Over Votes,0
+Campbell,01-03,State Auditor,,DEM,Under Votes,2
+Campbell,01-03,State Treasurer,,REP,Curt Meier,39
+Campbell,01-03,State Treasurer,,REP,Scott Smith,48
+Campbell,01-03,State Treasurer,,REP,Write-ins,0
+Campbell,01-03,State Treasurer,,REP,Over Votes,0
+Campbell,01-03,State Treasurer,,REP,Under Votes,10
+Campbell,01-03,State Treasurer,,DEM,Write-ins,1
+Campbell,01-03,State Treasurer,,DEM,Over Votes,0
+Campbell,01-03,State Treasurer,,DEM,Under Votes,2
+Campbell,01-03,Superintendent of Public Instruction,,REP,Chad Auer,4
+Campbell,01-03,Superintendent of Public Instruction,,REP,Steve Harshman,50
+Campbell,01-03,Superintendent of Public Instruction,,REP,Tom Kelly,34
+Campbell,01-03,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,01-03,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-03,Superintendent of Public Instruction,,REP,Under Votes,8
+Campbell,01-03,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Campbell,01-03,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,01-03,Superintendent of Public Instruction,,DEM,Write-ins,1
+Campbell,01-03,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-03,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-03,State House,53,REP,Christopher R Knapp,58
+Campbell,01-03,State House,53,REP,Greg Schreurs,35
+Campbell,01-03,State House,53,REP,Write-ins,0
+Campbell,01-03,State House,53,REP,Over Votes,0
+Campbell,01-03,State House,53,REP,Under Votes,4
+Campbell,01-03,State House,53,DEM,Write-ins,0
+Campbell,01-03,State House,53,DEM,Over Votes,0
+Campbell,01-03,State House,53,DEM,Under Votes,3
+Campbell,01-03,Ballots Cast,,REP,Ballots Cast,97
+Campbell,01-03,Ballots Cast,,DEM,Ballots Cast,3
+Campbell,01-03,Ballots Cast,,NP,Ballots Cast,1
+Campbell,01-03,Ballots Cast,,,Ballots Cast,101
+Campbell,01-05,U.S. Senate,,REP,Harriet Hageman,208
+Campbell,01-05,U.S. Senate,,REP,Jill M Edwards,8
+Campbell,01-05,U.S. Senate,,REP,Jimmy Skovgard,5
+Campbell,01-05,U.S. Senate,,REP,John Holtz,3
+Campbell,01-05,U.S. Senate,,REP,Sam Mead,77
+Campbell,01-05,U.S. Senate,,REP,Write-ins,1
+Campbell,01-05,U.S. Senate,,REP,Over Votes,0
+Campbell,01-05,U.S. Senate,,REP,Under Votes,12
+Campbell,01-05,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,01-05,U.S. Senate,,DEM,James Byrd,10
+Campbell,01-05,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-05,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-05,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-05,U.S. House,,REP,* Withdrawn Candidate,5
+Campbell,01-05,U.S. House,,REP,Bo Biteman,8
+Campbell,01-05,U.S. House,,REP,Chuck Gray,80
+Campbell,01-05,U.S. House,,REP,David Giralt,14
+Campbell,01-05,U.S. House,,REP,Jillian Balow,39
+Campbell,01-05,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,01-05,U.S. House,,REP,Kevin Christensen,53
+Campbell,01-05,U.S. House,,REP,Reid Rasner,36
+Campbell,01-05,U.S. House,,REP,Richard Dodson,1
+Campbell,01-05,U.S. House,,REP,Steve Friess,47
+Campbell,01-05,U.S. House,,REP,Write-ins,1
+Campbell,01-05,U.S. House,,REP,Over Votes,12
+Campbell,01-05,U.S. House,,REP,Under Votes,17
+Campbell,01-05,U.S. House,,DEM,Elena Del Real,2
+Campbell,01-05,U.S. House,,DEM,Lisa Kinney,10
+Campbell,01-05,U.S. House,,DEM,Write-ins,0
+Campbell,01-05,U.S. House,,DEM,Over Votes,0
+Campbell,01-05,U.S. House,,DEM,Under Votes,0
+Campbell,01-05,Governor,,REP,Brent Bien,69
+Campbell,01-05,Governor,,REP,Curt Blake,2
+Campbell,01-05,Governor,,REP,Eric Barlow,150
+Campbell,01-05,Governor,,REP,Megan Degenfelder,90
+Campbell,01-05,Governor,,REP,Write-ins,0
+Campbell,01-05,Governor,,REP,Over Votes,0
+Campbell,01-05,Governor,,REP,Under Votes,3
+Campbell,01-05,Governor,,DEM,Kenneth R. Casner,9
+Campbell,01-05,Governor,,DEM,Write-ins,2
+Campbell,01-05,Governor,,DEM,Over Votes,0
+Campbell,01-05,Governor,,DEM,Under Votes,1
+Campbell,01-05,Secretary of State,,REP,CJ Young,37
+Campbell,01-05,Secretary of State,,REP,Qwenton Eagle Oviatt,8
+Campbell,01-05,Secretary of State,,REP,Rachel Williams,113
+Campbell,01-05,Secretary of State,,REP,Robert Short,118
+Campbell,01-05,Secretary of State,,REP,Write-ins,1
+Campbell,01-05,Secretary of State,,REP,Over Votes,0
+Campbell,01-05,Secretary of State,,REP,Under Votes,37
+Campbell,01-05,Secretary of State,,DEM,Bryan McCarty,11
+Campbell,01-05,Secretary of State,,DEM,Write-ins,0
+Campbell,01-05,Secretary of State,,DEM,Over Votes,0
+Campbell,01-05,Secretary of State,,DEM,Under Votes,1
+Campbell,01-05,State Auditor,,REP,Kristi Racines,251
+Campbell,01-05,State Auditor,,REP,Write-ins,1
+Campbell,01-05,State Auditor,,REP,Over Votes,0
+Campbell,01-05,State Auditor,,REP,Under Votes,62
+Campbell,01-05,State Auditor,,DEM,Write-ins,0
+Campbell,01-05,State Auditor,,DEM,Over Votes,0
+Campbell,01-05,State Auditor,,DEM,Under Votes,12
+Campbell,01-05,State Treasurer,,REP,Curt Meier,159
+Campbell,01-05,State Treasurer,,REP,Scott Smith,108
+Campbell,01-05,State Treasurer,,REP,Write-ins,1
+Campbell,01-05,State Treasurer,,REP,Over Votes,0
+Campbell,01-05,State Treasurer,,REP,Under Votes,46
+Campbell,01-05,State Treasurer,,DEM,Write-ins,0
+Campbell,01-05,State Treasurer,,DEM,Over Votes,0
+Campbell,01-05,State Treasurer,,DEM,Under Votes,12
+Campbell,01-05,Superintendent of Public Instruction,,REP,Chad Auer,21
+Campbell,01-05,Superintendent of Public Instruction,,REP,Steve Harshman,168
+Campbell,01-05,Superintendent of Public Instruction,,REP,Tom Kelly,97
+Campbell,01-05,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,01-05,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-05,Superintendent of Public Instruction,,REP,Under Votes,27
+Campbell,01-05,Superintendent of Public Instruction,,DEM,Ana Cordova,9
+Campbell,01-05,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Campbell,01-05,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-05,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-05,Superintendent of Public Instruction,,DEM,Under Votes,1
+Campbell,01-05,State House,53,REP,Christopher R Knapp,184
+Campbell,01-05,State House,53,REP,Greg Schreurs,100
+Campbell,01-05,State House,53,REP,Write-ins,0
+Campbell,01-05,State House,53,REP,Over Votes,0
+Campbell,01-05,State House,53,REP,Under Votes,30
+Campbell,01-05,State House,53,DEM,Write-ins,1
+Campbell,01-05,State House,53,DEM,Over Votes,0
+Campbell,01-05,State House,53,DEM,Under Votes,11
+Campbell,01-05,Ballots Cast,,REP,Ballots Cast,314
+Campbell,01-05,Ballots Cast,,DEM,Ballots Cast,12
+Campbell,01-05,Ballots Cast,,NP,Ballots Cast,10
+Campbell,01-05,Ballots Cast,,,Ballots Cast,336
+Campbell,01-07,U.S. Senate,,REP,Harriet Hageman,228
+Campbell,01-07,U.S. Senate,,REP,Jill M Edwards,11
+Campbell,01-07,U.S. Senate,,REP,Jimmy Skovgard,6
+Campbell,01-07,U.S. Senate,,REP,John Holtz,3
+Campbell,01-07,U.S. Senate,,REP,Sam Mead,76
+Campbell,01-07,U.S. Senate,,REP,Write-ins,1
+Campbell,01-07,U.S. Senate,,REP,Over Votes,0
+Campbell,01-07,U.S. Senate,,REP,Under Votes,11
+Campbell,01-07,U.S. Senate,,DEM,Billy Benavidez,2
+Campbell,01-07,U.S. Senate,,DEM,James Byrd,9
+Campbell,01-07,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-07,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-07,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-07,U.S. House,,REP,* Withdrawn Candidate,12
+Campbell,01-07,U.S. House,,REP,Bo Biteman,9
+Campbell,01-07,U.S. House,,REP,Chuck Gray,76
+Campbell,01-07,U.S. House,,REP,David Giralt,13
+Campbell,01-07,U.S. House,,REP,Jillian Balow,50
+Campbell,01-07,U.S. House,,REP,Keith B. Goodenough,6
+Campbell,01-07,U.S. House,,REP,Kevin Christensen,51
+Campbell,01-07,U.S. House,,REP,Reid Rasner,19
+Campbell,01-07,U.S. House,,REP,Richard Dodson,2
+Campbell,01-07,U.S. House,,REP,Steve Friess,75
+Campbell,01-07,U.S. House,,REP,Write-ins,2
+Campbell,01-07,U.S. House,,REP,Over Votes,4
+Campbell,01-07,U.S. House,,REP,Under Votes,17
+Campbell,01-07,U.S. House,,DEM,Elena Del Real,2
+Campbell,01-07,U.S. House,,DEM,Lisa Kinney,10
+Campbell,01-07,U.S. House,,DEM,Write-ins,0
+Campbell,01-07,U.S. House,,DEM,Over Votes,0
+Campbell,01-07,U.S. House,,DEM,Under Votes,0
+Campbell,01-07,Governor,,REP,Brent Bien,53
+Campbell,01-07,Governor,,REP,Curt Blake,4
+Campbell,01-07,Governor,,REP,Eric Barlow,177
+Campbell,01-07,Governor,,REP,Megan Degenfelder,98
+Campbell,01-07,Governor,,REP,Write-ins,0
+Campbell,01-07,Governor,,REP,Over Votes,2
+Campbell,01-07,Governor,,REP,Under Votes,2
+Campbell,01-07,Governor,,DEM,Kenneth R. Casner,6
+Campbell,01-07,Governor,,DEM,Write-ins,2
+Campbell,01-07,Governor,,DEM,Over Votes,0
+Campbell,01-07,Governor,,DEM,Under Votes,4
+Campbell,01-07,Secretary of State,,REP,CJ Young,35
+Campbell,01-07,Secretary of State,,REP,Qwenton Eagle Oviatt,17
+Campbell,01-07,Secretary of State,,REP,Rachel Williams,103
+Campbell,01-07,Secretary of State,,REP,Robert Short,131
+Campbell,01-07,Secretary of State,,REP,Write-ins,1
+Campbell,01-07,Secretary of State,,REP,Over Votes,0
+Campbell,01-07,Secretary of State,,REP,Under Votes,49
+Campbell,01-07,Secretary of State,,DEM,Bryan McCarty,9
+Campbell,01-07,Secretary of State,,DEM,Write-ins,2
+Campbell,01-07,Secretary of State,,DEM,Over Votes,0
+Campbell,01-07,Secretary of State,,DEM,Under Votes,1
+Campbell,01-07,State Auditor,,REP,Kristi Racines,266
+Campbell,01-07,State Auditor,,REP,Write-ins,3
+Campbell,01-07,State Auditor,,REP,Over Votes,0
+Campbell,01-07,State Auditor,,REP,Under Votes,67
+Campbell,01-07,State Auditor,,DEM,Write-ins,1
+Campbell,01-07,State Auditor,,DEM,Over Votes,0
+Campbell,01-07,State Auditor,,DEM,Under Votes,11
+Campbell,01-07,State Treasurer,,REP,Curt Meier,184
+Campbell,01-07,State Treasurer,,REP,Scott Smith,97
+Campbell,01-07,State Treasurer,,REP,Write-ins,3
+Campbell,01-07,State Treasurer,,REP,Over Votes,2
+Campbell,01-07,State Treasurer,,REP,Under Votes,50
+Campbell,01-07,State Treasurer,,DEM,Write-ins,2
+Campbell,01-07,State Treasurer,,DEM,Over Votes,0
+Campbell,01-07,State Treasurer,,DEM,Under Votes,10
+Campbell,01-07,Superintendent of Public Instruction,,REP,Chad Auer,24
+Campbell,01-07,Superintendent of Public Instruction,,REP,Steve Harshman,202
+Campbell,01-07,Superintendent of Public Instruction,,REP,Tom Kelly,68
+Campbell,01-07,Superintendent of Public Instruction,,REP,Write-ins,2
+Campbell,01-07,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-07,Superintendent of Public Instruction,,REP,Under Votes,40
+Campbell,01-07,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Campbell,01-07,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Campbell,01-07,Superintendent of Public Instruction,,DEM,Write-ins,2
+Campbell,01-07,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-07,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-07,State House,53,REP,Christopher R Knapp,193
+Campbell,01-07,State House,53,REP,Greg Schreurs,126
+Campbell,01-07,State House,53,REP,Write-ins,2
+Campbell,01-07,State House,53,REP,Over Votes,0
+Campbell,01-07,State House,53,REP,Under Votes,15
+Campbell,01-07,State House,53,DEM,Write-ins,2
+Campbell,01-07,State House,53,DEM,Over Votes,0
+Campbell,01-07,State House,53,DEM,Under Votes,10
+Campbell,01-07,Ballots Cast,,REP,Ballots Cast,336
+Campbell,01-07,Ballots Cast,,DEM,Ballots Cast,12
+Campbell,01-07,Ballots Cast,,NP,Ballots Cast,8
+Campbell,01-07,Ballots Cast,,,Ballots Cast,356
+Campbell,01-09,U.S. Senate,,REP,Harriet Hageman,208
+Campbell,01-09,U.S. Senate,,REP,Jill M Edwards,15
+Campbell,01-09,U.S. Senate,,REP,Jimmy Skovgard,9
+Campbell,01-09,U.S. Senate,,REP,John Holtz,3
+Campbell,01-09,U.S. Senate,,REP,Sam Mead,86
+Campbell,01-09,U.S. Senate,,REP,Write-ins,0
+Campbell,01-09,U.S. Senate,,REP,Over Votes,0
+Campbell,01-09,U.S. Senate,,REP,Under Votes,9
+Campbell,01-09,U.S. Senate,,DEM,Billy Benavidez,3
+Campbell,01-09,U.S. Senate,,DEM,James Byrd,8
+Campbell,01-09,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-09,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-09,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-09,U.S. House,,REP,* Withdrawn Candidate,2
+Campbell,01-09,U.S. House,,REP,Bo Biteman,14
+Campbell,01-09,U.S. House,,REP,Chuck Gray,77
+Campbell,01-09,U.S. House,,REP,David Giralt,17
+Campbell,01-09,U.S. House,,REP,Jillian Balow,46
+Campbell,01-09,U.S. House,,REP,Keith B. Goodenough,5
+Campbell,01-09,U.S. House,,REP,Kevin Christensen,57
+Campbell,01-09,U.S. House,,REP,Reid Rasner,33
+Campbell,01-09,U.S. House,,REP,Richard Dodson,1
+Campbell,01-09,U.S. House,,REP,Steve Friess,60
+Campbell,01-09,U.S. House,,REP,Write-ins,0
+Campbell,01-09,U.S. House,,REP,Over Votes,3
+Campbell,01-09,U.S. House,,REP,Under Votes,15
+Campbell,01-09,U.S. House,,DEM,Elena Del Real,1
+Campbell,01-09,U.S. House,,DEM,Lisa Kinney,10
+Campbell,01-09,U.S. House,,DEM,Write-ins,0
+Campbell,01-09,U.S. House,,DEM,Over Votes,0
+Campbell,01-09,U.S. House,,DEM,Under Votes,0
+Campbell,01-09,Governor,,REP,Brent Bien,64
+Campbell,01-09,Governor,,REP,Curt Blake,0
+Campbell,01-09,Governor,,REP,Eric Barlow,171
+Campbell,01-09,Governor,,REP,Megan Degenfelder,92
+Campbell,01-09,Governor,,REP,Write-ins,0
+Campbell,01-09,Governor,,REP,Over Votes,0
+Campbell,01-09,Governor,,REP,Under Votes,3
+Campbell,01-09,Governor,,DEM,Kenneth R. Casner,10
+Campbell,01-09,Governor,,DEM,Write-ins,0
+Campbell,01-09,Governor,,DEM,Over Votes,0
+Campbell,01-09,Governor,,DEM,Under Votes,1
+Campbell,01-09,Secretary of State,,REP,CJ Young,24
+Campbell,01-09,Secretary of State,,REP,Qwenton Eagle Oviatt,13
+Campbell,01-09,Secretary of State,,REP,Rachel Williams,126
+Campbell,01-09,Secretary of State,,REP,Robert Short,128
+Campbell,01-09,Secretary of State,,REP,Write-ins,0
+Campbell,01-09,Secretary of State,,REP,Over Votes,0
+Campbell,01-09,Secretary of State,,REP,Under Votes,39
+Campbell,01-09,Secretary of State,,DEM,Bryan McCarty,10
+Campbell,01-09,Secretary of State,,DEM,Write-ins,0
+Campbell,01-09,Secretary of State,,DEM,Over Votes,0
+Campbell,01-09,Secretary of State,,DEM,Under Votes,1
+Campbell,01-09,State Auditor,,REP,Kristi Racines,261
+Campbell,01-09,State Auditor,,REP,Write-ins,0
+Campbell,01-09,State Auditor,,REP,Over Votes,0
+Campbell,01-09,State Auditor,,REP,Under Votes,69
+Campbell,01-09,State Auditor,,DEM,Write-ins,0
+Campbell,01-09,State Auditor,,DEM,Over Votes,0
+Campbell,01-09,State Auditor,,DEM,Under Votes,11
+Campbell,01-09,State Treasurer,,REP,Curt Meier,177
+Campbell,01-09,State Treasurer,,REP,Scott Smith,109
+Campbell,01-09,State Treasurer,,REP,Write-ins,0
+Campbell,01-09,State Treasurer,,REP,Over Votes,1
+Campbell,01-09,State Treasurer,,REP,Under Votes,43
+Campbell,01-09,State Treasurer,,DEM,Write-ins,0
+Campbell,01-09,State Treasurer,,DEM,Over Votes,0
+Campbell,01-09,State Treasurer,,DEM,Under Votes,11
+Campbell,01-09,Superintendent of Public Instruction,,REP,Chad Auer,16
+Campbell,01-09,Superintendent of Public Instruction,,REP,Steve Harshman,171
+Campbell,01-09,Superintendent of Public Instruction,,REP,Tom Kelly,109
+Campbell,01-09,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-09,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-09,Superintendent of Public Instruction,,REP,Under Votes,34
+Campbell,01-09,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Campbell,01-09,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Campbell,01-09,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-09,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-09,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-09,State House,53,REP,Christopher R Knapp,204
+Campbell,01-09,State House,53,REP,Greg Schreurs,109
+Campbell,01-09,State House,53,REP,Write-ins,0
+Campbell,01-09,State House,53,REP,Over Votes,1
+Campbell,01-09,State House,53,REP,Under Votes,16
+Campbell,01-09,State House,53,DEM,Write-ins,0
+Campbell,01-09,State House,53,DEM,Over Votes,0
+Campbell,01-09,State House,53,DEM,Under Votes,11
+Campbell,01-09,Ballots Cast,,REP,Ballots Cast,330
+Campbell,01-09,Ballots Cast,,DEM,Ballots Cast,11
+Campbell,01-09,Ballots Cast,,NP,Ballots Cast,6
+Campbell,01-09,Ballots Cast,,,Ballots Cast,347
+Campbell,01-12,U.S. Senate,,REP,Harriet Hageman,158
+Campbell,01-12,U.S. Senate,,REP,Jill M Edwards,8
+Campbell,01-12,U.S. Senate,,REP,Jimmy Skovgard,9
+Campbell,01-12,U.S. Senate,,REP,John Holtz,6
+Campbell,01-12,U.S. Senate,,REP,Sam Mead,55
+Campbell,01-12,U.S. Senate,,REP,Write-ins,1
+Campbell,01-12,U.S. Senate,,REP,Over Votes,0
+Campbell,01-12,U.S. Senate,,REP,Under Votes,7
+Campbell,01-12,U.S. Senate,,DEM,Billy Benavidez,3
+Campbell,01-12,U.S. Senate,,DEM,James Byrd,4
+Campbell,01-12,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-12,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-12,U.S. Senate,,DEM,Under Votes,2
+Campbell,01-12,U.S. House,,REP,* Withdrawn Candidate,7
+Campbell,01-12,U.S. House,,REP,Bo Biteman,4
+Campbell,01-12,U.S. House,,REP,Chuck Gray,62
+Campbell,01-12,U.S. House,,REP,David Giralt,7
+Campbell,01-12,U.S. House,,REP,Jillian Balow,38
+Campbell,01-12,U.S. House,,REP,Keith B. Goodenough,10
+Campbell,01-12,U.S. House,,REP,Kevin Christensen,28
+Campbell,01-12,U.S. House,,REP,Reid Rasner,22
+Campbell,01-12,U.S. House,,REP,Richard Dodson,2
+Campbell,01-12,U.S. House,,REP,Steve Friess,45
+Campbell,01-12,U.S. House,,REP,Write-ins,3
+Campbell,01-12,U.S. House,,REP,Over Votes,8
+Campbell,01-12,U.S. House,,REP,Under Votes,8
+Campbell,01-12,U.S. House,,DEM,Elena Del Real,2
+Campbell,01-12,U.S. House,,DEM,Lisa Kinney,5
+Campbell,01-12,U.S. House,,DEM,Write-ins,0
+Campbell,01-12,U.S. House,,DEM,Over Votes,0
+Campbell,01-12,U.S. House,,DEM,Under Votes,2
+Campbell,01-12,Governor,,REP,Brent Bien,66
+Campbell,01-12,Governor,,REP,Curt Blake,4
+Campbell,01-12,Governor,,REP,Eric Barlow,101
+Campbell,01-12,Governor,,REP,Megan Degenfelder,73
+Campbell,01-12,Governor,,REP,Write-ins,0
+Campbell,01-12,Governor,,REP,Over Votes,0
+Campbell,01-12,Governor,,REP,Under Votes,0
+Campbell,01-12,Governor,,DEM,Kenneth R. Casner,6
+Campbell,01-12,Governor,,DEM,Write-ins,0
+Campbell,01-12,Governor,,DEM,Over Votes,0
+Campbell,01-12,Governor,,DEM,Under Votes,3
+Campbell,01-12,Secretary of State,,REP,CJ Young,22
+Campbell,01-12,Secretary of State,,REP,Qwenton Eagle Oviatt,20
+Campbell,01-12,Secretary of State,,REP,Rachel Williams,107
+Campbell,01-12,Secretary of State,,REP,Robert Short,78
+Campbell,01-12,Secretary of State,,REP,Write-ins,1
+Campbell,01-12,Secretary of State,,REP,Over Votes,0
+Campbell,01-12,Secretary of State,,REP,Under Votes,16
+Campbell,01-12,Secretary of State,,DEM,Bryan McCarty,6
+Campbell,01-12,Secretary of State,,DEM,Write-ins,0
+Campbell,01-12,Secretary of State,,DEM,Over Votes,0
+Campbell,01-12,Secretary of State,,DEM,Under Votes,3
+Campbell,01-12,State Auditor,,REP,Kristi Racines,206
+Campbell,01-12,State Auditor,,REP,Write-ins,0
+Campbell,01-12,State Auditor,,REP,Over Votes,0
+Campbell,01-12,State Auditor,,REP,Under Votes,38
+Campbell,01-12,State Auditor,,DEM,Write-ins,1
+Campbell,01-12,State Auditor,,DEM,Over Votes,0
+Campbell,01-12,State Auditor,,DEM,Under Votes,8
+Campbell,01-12,State Treasurer,,REP,Curt Meier,141
+Campbell,01-12,State Treasurer,,REP,Scott Smith,81
+Campbell,01-12,State Treasurer,,REP,Write-ins,1
+Campbell,01-12,State Treasurer,,REP,Over Votes,1
+Campbell,01-12,State Treasurer,,REP,Under Votes,20
+Campbell,01-12,State Treasurer,,DEM,Write-ins,2
+Campbell,01-12,State Treasurer,,DEM,Over Votes,0
+Campbell,01-12,State Treasurer,,DEM,Under Votes,7
+Campbell,01-12,Superintendent of Public Instruction,,REP,Chad Auer,26
+Campbell,01-12,Superintendent of Public Instruction,,REP,Steve Harshman,107
+Campbell,01-12,Superintendent of Public Instruction,,REP,Tom Kelly,89
+Campbell,01-12,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,01-12,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-12,Superintendent of Public Instruction,,REP,Under Votes,21
+Campbell,01-12,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Campbell,01-12,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,01-12,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-12,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-12,Superintendent of Public Instruction,,DEM,Under Votes,5
+Campbell,01-12,State Senate,1,REP,Chip Neiman,106
+Campbell,01-12,State Senate,1,REP,Ogden Driskill,129
+Campbell,01-12,State Senate,1,REP,Write-ins,0
+Campbell,01-12,State Senate,1,REP,Over Votes,0
+Campbell,01-12,State Senate,1,REP,Under Votes,9
+Campbell,01-12,State Senate,1,DEM,Write-ins,1
+Campbell,01-12,State Senate,1,DEM,Over Votes,0
+Campbell,01-12,State Senate,1,DEM,Under Votes,8
+Campbell,01-12,State House,52,REP,Bill Fortner,114
+Campbell,01-12,State House,52,REP,Ronda Boller,123
+Campbell,01-12,State House,52,REP,Write-ins,1
+Campbell,01-12,State House,52,REP,Over Votes,0
+Campbell,01-12,State House,52,REP,Under Votes,6
+Campbell,01-12,State House,52,DEM,Write-ins,1
+Campbell,01-12,State House,52,DEM,Over Votes,0
+Campbell,01-12,State House,52,DEM,Under Votes,8
+Campbell,01-12,Ballots Cast,,REP,Ballots Cast,244
+Campbell,01-12,Ballots Cast,,DEM,Ballots Cast,9
+Campbell,01-12,Ballots Cast,,NP,Ballots Cast,10
+Campbell,01-12,Ballots Cast,,,Ballots Cast,263
+Campbell,01-14,U.S. Senate,,REP,Harriet Hageman,87
+Campbell,01-14,U.S. Senate,,REP,Jill M Edwards,7
+Campbell,01-14,U.S. Senate,,REP,Jimmy Skovgard,2
+Campbell,01-14,U.S. Senate,,REP,John Holtz,3
+Campbell,01-14,U.S. Senate,,REP,Sam Mead,26
+Campbell,01-14,U.S. Senate,,REP,Write-ins,0
+Campbell,01-14,U.S. Senate,,REP,Over Votes,0
+Campbell,01-14,U.S. Senate,,REP,Under Votes,5
+Campbell,01-14,U.S. Senate,,DEM,Billy Benavidez,3
+Campbell,01-14,U.S. Senate,,DEM,James Byrd,1
+Campbell,01-14,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-14,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-14,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-14,U.S. House,,REP,* Withdrawn Candidate,0
+Campbell,01-14,U.S. House,,REP,Bo Biteman,3
+Campbell,01-14,U.S. House,,REP,Chuck Gray,36
+Campbell,01-14,U.S. House,,REP,David Giralt,8
+Campbell,01-14,U.S. House,,REP,Jillian Balow,15
+Campbell,01-14,U.S. House,,REP,Keith B. Goodenough,0
+Campbell,01-14,U.S. House,,REP,Kevin Christensen,21
+Campbell,01-14,U.S. House,,REP,Reid Rasner,19
+Campbell,01-14,U.S. House,,REP,Richard Dodson,0
+Campbell,01-14,U.S. House,,REP,Steve Friess,20
+Campbell,01-14,U.S. House,,REP,Write-ins,1
+Campbell,01-14,U.S. House,,REP,Over Votes,4
+Campbell,01-14,U.S. House,,REP,Under Votes,3
+Campbell,01-14,U.S. House,,DEM,Elena Del Real,0
+Campbell,01-14,U.S. House,,DEM,Lisa Kinney,4
+Campbell,01-14,U.S. House,,DEM,Write-ins,0
+Campbell,01-14,U.S. House,,DEM,Over Votes,0
+Campbell,01-14,U.S. House,,DEM,Under Votes,0
+Campbell,01-14,Governor,,REP,Brent Bien,40
+Campbell,01-14,Governor,,REP,Curt Blake,0
+Campbell,01-14,Governor,,REP,Eric Barlow,61
+Campbell,01-14,Governor,,REP,Megan Degenfelder,26
+Campbell,01-14,Governor,,REP,Write-ins,0
+Campbell,01-14,Governor,,REP,Over Votes,0
+Campbell,01-14,Governor,,REP,Under Votes,3
+Campbell,01-14,Governor,,DEM,Kenneth R. Casner,3
+Campbell,01-14,Governor,,DEM,Write-ins,0
+Campbell,01-14,Governor,,DEM,Over Votes,0
+Campbell,01-14,Governor,,DEM,Under Votes,1
+Campbell,01-14,Secretary of State,,REP,CJ Young,14
+Campbell,01-14,Secretary of State,,REP,Qwenton Eagle Oviatt,8
+Campbell,01-14,Secretary of State,,REP,Rachel Williams,64
+Campbell,01-14,Secretary of State,,REP,Robert Short,34
+Campbell,01-14,Secretary of State,,REP,Write-ins,0
+Campbell,01-14,Secretary of State,,REP,Over Votes,0
+Campbell,01-14,Secretary of State,,REP,Under Votes,10
+Campbell,01-14,Secretary of State,,DEM,Bryan McCarty,3
+Campbell,01-14,Secretary of State,,DEM,Write-ins,0
+Campbell,01-14,Secretary of State,,DEM,Over Votes,0
+Campbell,01-14,Secretary of State,,DEM,Under Votes,1
+Campbell,01-14,State Auditor,,REP,Kristi Racines,102
+Campbell,01-14,State Auditor,,REP,Write-ins,2
+Campbell,01-14,State Auditor,,REP,Over Votes,0
+Campbell,01-14,State Auditor,,REP,Under Votes,26
+Campbell,01-14,State Auditor,,DEM,Write-ins,0
+Campbell,01-14,State Auditor,,DEM,Over Votes,0
+Campbell,01-14,State Auditor,,DEM,Under Votes,4
+Campbell,01-14,State Treasurer,,REP,Curt Meier,69
+Campbell,01-14,State Treasurer,,REP,Scott Smith,47
+Campbell,01-14,State Treasurer,,REP,Write-ins,0
+Campbell,01-14,State Treasurer,,REP,Over Votes,0
+Campbell,01-14,State Treasurer,,REP,Under Votes,14
+Campbell,01-14,State Treasurer,,DEM,Write-ins,0
+Campbell,01-14,State Treasurer,,DEM,Over Votes,0
+Campbell,01-14,State Treasurer,,DEM,Under Votes,4
+Campbell,01-14,Superintendent of Public Instruction,,REP,Chad Auer,4
+Campbell,01-14,Superintendent of Public Instruction,,REP,Steve Harshman,59
+Campbell,01-14,Superintendent of Public Instruction,,REP,Tom Kelly,56
+Campbell,01-14,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-14,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-14,Superintendent of Public Instruction,,REP,Under Votes,11
+Campbell,01-14,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Campbell,01-14,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,01-14,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-14,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-14,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-14,State House,32,REP,Ken Clouston,101
+Campbell,01-14,State House,32,REP,Write-ins,5
+Campbell,01-14,State House,32,REP,Over Votes,0
+Campbell,01-14,State House,32,REP,Under Votes,24
+Campbell,01-14,State House,32,DEM,Write-ins,0
+Campbell,01-14,State House,32,DEM,Over Votes,0
+Campbell,01-14,State House,32,DEM,Under Votes,4
+Campbell,01-14,Ballots Cast,,REP,Ballots Cast,130
+Campbell,01-14,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,01-14,Ballots Cast,,NP,Ballots Cast,2
+Campbell,01-14,Ballots Cast,,,Ballots Cast,136
+Campbell,01-15,U.S. Senate,,REP,Harriet Hageman,296
+Campbell,01-15,U.S. Senate,,REP,Jill M Edwards,27
+Campbell,01-15,U.S. Senate,,REP,Jimmy Skovgard,9
+Campbell,01-15,U.S. Senate,,REP,John Holtz,8
+Campbell,01-15,U.S. Senate,,REP,Sam Mead,130
+Campbell,01-15,U.S. Senate,,REP,Write-ins,0
+Campbell,01-15,U.S. Senate,,REP,Over Votes,0
+Campbell,01-15,U.S. Senate,,REP,Under Votes,22
+Campbell,01-15,U.S. Senate,,DEM,Billy Benavidez,6
+Campbell,01-15,U.S. Senate,,DEM,James Byrd,13
+Campbell,01-15,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-15,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-15,U.S. Senate,,DEM,Under Votes,2
+Campbell,01-15,U.S. House,,REP,* Withdrawn Candidate,4
+Campbell,01-15,U.S. House,,REP,Bo Biteman,18
+Campbell,01-15,U.S. House,,REP,Chuck Gray,101
+Campbell,01-15,U.S. House,,REP,David Giralt,41
+Campbell,01-15,U.S. House,,REP,Jillian Balow,68
+Campbell,01-15,U.S. House,,REP,Keith B. Goodenough,9
+Campbell,01-15,U.S. House,,REP,Kevin Christensen,89
+Campbell,01-15,U.S. House,,REP,Reid Rasner,34
+Campbell,01-15,U.S. House,,REP,Richard Dodson,5
+Campbell,01-15,U.S. House,,REP,Steve Friess,82
+Campbell,01-15,U.S. House,,REP,Write-ins,1
+Campbell,01-15,U.S. House,,REP,Over Votes,9
+Campbell,01-15,U.S. House,,REP,Under Votes,31
+Campbell,01-15,U.S. House,,DEM,Elena Del Real,6
+Campbell,01-15,U.S. House,,DEM,Lisa Kinney,13
+Campbell,01-15,U.S. House,,DEM,Write-ins,1
+Campbell,01-15,U.S. House,,DEM,Over Votes,0
+Campbell,01-15,U.S. House,,DEM,Under Votes,2
+Campbell,01-15,Governor,,REP,Brent Bien,96
+Campbell,01-15,Governor,,REP,Curt Blake,5
+Campbell,01-15,Governor,,REP,Eric Barlow,287
+Campbell,01-15,Governor,,REP,Megan Degenfelder,101
+Campbell,01-15,Governor,,REP,Write-ins,0
+Campbell,01-15,Governor,,REP,Over Votes,0
+Campbell,01-15,Governor,,REP,Under Votes,3
+Campbell,01-15,Governor,,DEM,Kenneth R. Casner,17
+Campbell,01-15,Governor,,DEM,Write-ins,2
+Campbell,01-15,Governor,,DEM,Over Votes,0
+Campbell,01-15,Governor,,DEM,Under Votes,3
+Campbell,01-15,Secretary of State,,REP,CJ Young,39
+Campbell,01-15,Secretary of State,,REP,Qwenton Eagle Oviatt,18
+Campbell,01-15,Secretary of State,,REP,Rachel Williams,167
+Campbell,01-15,Secretary of State,,REP,Robert Short,193
+Campbell,01-15,Secretary of State,,REP,Write-ins,1
+Campbell,01-15,Secretary of State,,REP,Over Votes,0
+Campbell,01-15,Secretary of State,,REP,Under Votes,74
+Campbell,01-15,Secretary of State,,DEM,Bryan McCarty,17
+Campbell,01-15,Secretary of State,,DEM,Write-ins,2
+Campbell,01-15,Secretary of State,,DEM,Over Votes,0
+Campbell,01-15,Secretary of State,,DEM,Under Votes,3
+Campbell,01-15,State Auditor,,REP,Kristi Racines,381
+Campbell,01-15,State Auditor,,REP,Write-ins,2
+Campbell,01-15,State Auditor,,REP,Over Votes,0
+Campbell,01-15,State Auditor,,REP,Under Votes,109
+Campbell,01-15,State Auditor,,DEM,Write-ins,2
+Campbell,01-15,State Auditor,,DEM,Over Votes,0
+Campbell,01-15,State Auditor,,DEM,Under Votes,20
+Campbell,01-15,State Treasurer,,REP,Curt Meier,262
+Campbell,01-15,State Treasurer,,REP,Scott Smith,155
+Campbell,01-15,State Treasurer,,REP,Write-ins,2
+Campbell,01-15,State Treasurer,,REP,Over Votes,0
+Campbell,01-15,State Treasurer,,REP,Under Votes,73
+Campbell,01-15,State Treasurer,,DEM,Write-ins,2
+Campbell,01-15,State Treasurer,,DEM,Over Votes,0
+Campbell,01-15,State Treasurer,,DEM,Under Votes,20
+Campbell,01-15,Superintendent of Public Instruction,,REP,Chad Auer,23
+Campbell,01-15,Superintendent of Public Instruction,,REP,Steve Harshman,276
+Campbell,01-15,Superintendent of Public Instruction,,REP,Tom Kelly,129
+Campbell,01-15,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-15,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-15,Superintendent of Public Instruction,,REP,Under Votes,64
+Campbell,01-15,Superintendent of Public Instruction,,DEM,Ana Cordova,9
+Campbell,01-15,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",8
+Campbell,01-15,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-15,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-15,Superintendent of Public Instruction,,DEM,Under Votes,5
+Campbell,01-15,State House,32,REP,Ken Clouston,409
+Campbell,01-15,State House,32,REP,Write-ins,12
+Campbell,01-15,State House,32,REP,Over Votes,1
+Campbell,01-15,State House,32,REP,Under Votes,70
+Campbell,01-15,State House,32,DEM,Write-ins,1
+Campbell,01-15,State House,32,DEM,Over Votes,0
+Campbell,01-15,State House,32,DEM,Under Votes,21
+Campbell,01-15,Ballots Cast,,REP,Ballots Cast,492
+Campbell,01-15,Ballots Cast,,DEM,Ballots Cast,22
+Campbell,01-15,Ballots Cast,,NP,Ballots Cast,15
+Campbell,01-15,Ballots Cast,,,Ballots Cast,529
+Campbell,01-16,U.S. Senate,,REP,Harriet Hageman,152
+Campbell,01-16,U.S. Senate,,REP,Jill M Edwards,11
+Campbell,01-16,U.S. Senate,,REP,Jimmy Skovgard,5
+Campbell,01-16,U.S. Senate,,REP,John Holtz,2
+Campbell,01-16,U.S. Senate,,REP,Sam Mead,130
+Campbell,01-16,U.S. Senate,,REP,Write-ins,0
+Campbell,01-16,U.S. Senate,,REP,Over Votes,0
+Campbell,01-16,U.S. Senate,,REP,Under Votes,14
+Campbell,01-16,U.S. Senate,,DEM,Billy Benavidez,2
+Campbell,01-16,U.S. Senate,,DEM,James Byrd,8
+Campbell,01-16,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-16,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-16,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-16,U.S. House,,REP,* Withdrawn Candidate,2
+Campbell,01-16,U.S. House,,REP,Bo Biteman,14
+Campbell,01-16,U.S. House,,REP,Chuck Gray,57
+Campbell,01-16,U.S. House,,REP,David Giralt,18
+Campbell,01-16,U.S. House,,REP,Jillian Balow,53
+Campbell,01-16,U.S. House,,REP,Keith B. Goodenough,4
+Campbell,01-16,U.S. House,,REP,Kevin Christensen,72
+Campbell,01-16,U.S. House,,REP,Reid Rasner,16
+Campbell,01-16,U.S. House,,REP,Richard Dodson,0
+Campbell,01-16,U.S. House,,REP,Steve Friess,52
+Campbell,01-16,U.S. House,,REP,Write-ins,0
+Campbell,01-16,U.S. House,,REP,Over Votes,4
+Campbell,01-16,U.S. House,,REP,Under Votes,22
+Campbell,01-16,U.S. House,,DEM,Elena Del Real,0
+Campbell,01-16,U.S. House,,DEM,Lisa Kinney,9
+Campbell,01-16,U.S. House,,DEM,Write-ins,1
+Campbell,01-16,U.S. House,,DEM,Over Votes,0
+Campbell,01-16,U.S. House,,DEM,Under Votes,1
+Campbell,01-16,Governor,,REP,Brent Bien,41
+Campbell,01-16,Governor,,REP,Curt Blake,5
+Campbell,01-16,Governor,,REP,Eric Barlow,220
+Campbell,01-16,Governor,,REP,Megan Degenfelder,43
+Campbell,01-16,Governor,,REP,Write-ins,0
+Campbell,01-16,Governor,,REP,Over Votes,0
+Campbell,01-16,Governor,,REP,Under Votes,5
+Campbell,01-16,Governor,,DEM,Kenneth R. Casner,6
+Campbell,01-16,Governor,,DEM,Write-ins,1
+Campbell,01-16,Governor,,DEM,Over Votes,0
+Campbell,01-16,Governor,,DEM,Under Votes,4
+Campbell,01-16,Secretary of State,,REP,CJ Young,25
+Campbell,01-16,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Campbell,01-16,Secretary of State,,REP,Rachel Williams,86
+Campbell,01-16,Secretary of State,,REP,Robert Short,152
+Campbell,01-16,Secretary of State,,REP,Write-ins,1
+Campbell,01-16,Secretary of State,,REP,Over Votes,0
+Campbell,01-16,Secretary of State,,REP,Under Votes,44
+Campbell,01-16,Secretary of State,,DEM,Bryan McCarty,8
+Campbell,01-16,Secretary of State,,DEM,Write-ins,0
+Campbell,01-16,Secretary of State,,DEM,Over Votes,0
+Campbell,01-16,Secretary of State,,DEM,Under Votes,3
+Campbell,01-16,State Auditor,,REP,Kristi Racines,254
+Campbell,01-16,State Auditor,,REP,Write-ins,2
+Campbell,01-16,State Auditor,,REP,Over Votes,0
+Campbell,01-16,State Auditor,,REP,Under Votes,58
+Campbell,01-16,State Auditor,,DEM,Write-ins,0
+Campbell,01-16,State Auditor,,DEM,Over Votes,0
+Campbell,01-16,State Auditor,,DEM,Under Votes,11
+Campbell,01-16,State Treasurer,,REP,Curt Meier,204
+Campbell,01-16,State Treasurer,,REP,Scott Smith,62
+Campbell,01-16,State Treasurer,,REP,Write-ins,0
+Campbell,01-16,State Treasurer,,REP,Over Votes,0
+Campbell,01-16,State Treasurer,,REP,Under Votes,48
+Campbell,01-16,State Treasurer,,DEM,Write-ins,0
+Campbell,01-16,State Treasurer,,DEM,Over Votes,0
+Campbell,01-16,State Treasurer,,DEM,Under Votes,11
+Campbell,01-16,Superintendent of Public Instruction,,REP,Chad Auer,31
+Campbell,01-16,Superintendent of Public Instruction,,REP,Steve Harshman,186
+Campbell,01-16,Superintendent of Public Instruction,,REP,Tom Kelly,55
+Campbell,01-16,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,01-16,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-16,Superintendent of Public Instruction,,REP,Under Votes,41
+Campbell,01-16,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Campbell,01-16,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Campbell,01-16,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-16,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-16,Superintendent of Public Instruction,,DEM,Under Votes,1
+Campbell,01-16,State House,32,REP,Ken Clouston,269
+Campbell,01-16,State House,32,REP,Write-ins,6
+Campbell,01-16,State House,32,REP,Over Votes,1
+Campbell,01-16,State House,32,REP,Under Votes,38
+Campbell,01-16,State House,32,DEM,Write-ins,0
+Campbell,01-16,State House,32,DEM,Over Votes,0
+Campbell,01-16,State House,32,DEM,Under Votes,11
+Campbell,01-16,Ballots Cast,,REP,Ballots Cast,314
+Campbell,01-16,Ballots Cast,,DEM,Ballots Cast,11
+Campbell,01-16,Ballots Cast,,NP,Ballots Cast,4
+Campbell,01-16,Ballots Cast,,,Ballots Cast,329
+Campbell,01-17,U.S. Senate,,REP,Harriet Hageman,250
+Campbell,01-17,U.S. Senate,,REP,Jill M Edwards,14
+Campbell,01-17,U.S. Senate,,REP,Jimmy Skovgard,6
+Campbell,01-17,U.S. Senate,,REP,John Holtz,5
+Campbell,01-17,U.S. Senate,,REP,Sam Mead,64
+Campbell,01-17,U.S. Senate,,REP,Write-ins,1
+Campbell,01-17,U.S. Senate,,REP,Over Votes,1
+Campbell,01-17,U.S. Senate,,REP,Under Votes,5
+Campbell,01-17,U.S. Senate,,DEM,Billy Benavidez,4
+Campbell,01-17,U.S. Senate,,DEM,James Byrd,6
+Campbell,01-17,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-17,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-17,U.S. Senate,,DEM,Under Votes,2
+Campbell,01-17,U.S. House,,REP,* Withdrawn Candidate,7
+Campbell,01-17,U.S. House,,REP,Bo Biteman,8
+Campbell,01-17,U.S. House,,REP,Chuck Gray,111
+Campbell,01-17,U.S. House,,REP,David Giralt,26
+Campbell,01-17,U.S. House,,REP,Jillian Balow,40
+Campbell,01-17,U.S. House,,REP,Keith B. Goodenough,5
+Campbell,01-17,U.S. House,,REP,Kevin Christensen,44
+Campbell,01-17,U.S. House,,REP,Reid Rasner,32
+Campbell,01-17,U.S. House,,REP,Richard Dodson,0
+Campbell,01-17,U.S. House,,REP,Steve Friess,48
+Campbell,01-17,U.S. House,,REP,Write-ins,2
+Campbell,01-17,U.S. House,,REP,Over Votes,11
+Campbell,01-17,U.S. House,,REP,Under Votes,12
+Campbell,01-17,U.S. House,,DEM,Elena Del Real,5
+Campbell,01-17,U.S. House,,DEM,Lisa Kinney,6
+Campbell,01-17,U.S. House,,DEM,Write-ins,0
+Campbell,01-17,U.S. House,,DEM,Over Votes,1
+Campbell,01-17,U.S. House,,DEM,Under Votes,0
+Campbell,01-17,Governor,,REP,Brent Bien,88
+Campbell,01-17,Governor,,REP,Curt Blake,1
+Campbell,01-17,Governor,,REP,Eric Barlow,147
+Campbell,01-17,Governor,,REP,Megan Degenfelder,104
+Campbell,01-17,Governor,,REP,Write-ins,3
+Campbell,01-17,Governor,,REP,Over Votes,0
+Campbell,01-17,Governor,,REP,Under Votes,3
+Campbell,01-17,Governor,,DEM,Kenneth R. Casner,8
+Campbell,01-17,Governor,,DEM,Write-ins,0
+Campbell,01-17,Governor,,DEM,Over Votes,0
+Campbell,01-17,Governor,,DEM,Under Votes,4
+Campbell,01-17,Secretary of State,,REP,CJ Young,42
+Campbell,01-17,Secretary of State,,REP,Qwenton Eagle Oviatt,12
+Campbell,01-17,Secretary of State,,REP,Rachel Williams,149
+Campbell,01-17,Secretary of State,,REP,Robert Short,111
+Campbell,01-17,Secretary of State,,REP,Write-ins,2
+Campbell,01-17,Secretary of State,,REP,Over Votes,0
+Campbell,01-17,Secretary of State,,REP,Under Votes,30
+Campbell,01-17,Secretary of State,,DEM,Bryan McCarty,9
+Campbell,01-17,Secretary of State,,DEM,Write-ins,0
+Campbell,01-17,Secretary of State,,DEM,Over Votes,0
+Campbell,01-17,Secretary of State,,DEM,Under Votes,3
+Campbell,01-17,State Auditor,,REP,Kristi Racines,290
+Campbell,01-17,State Auditor,,REP,Write-ins,3
+Campbell,01-17,State Auditor,,REP,Over Votes,0
+Campbell,01-17,State Auditor,,REP,Under Votes,53
+Campbell,01-17,State Auditor,,DEM,Write-ins,1
+Campbell,01-17,State Auditor,,DEM,Over Votes,0
+Campbell,01-17,State Auditor,,DEM,Under Votes,11
+Campbell,01-17,State Treasurer,,REP,Curt Meier,164
+Campbell,01-17,State Treasurer,,REP,Scott Smith,145
+Campbell,01-17,State Treasurer,,REP,Write-ins,1
+Campbell,01-17,State Treasurer,,REP,Over Votes,1
+Campbell,01-17,State Treasurer,,REP,Under Votes,35
+Campbell,01-17,State Treasurer,,DEM,Write-ins,1
+Campbell,01-17,State Treasurer,,DEM,Over Votes,0
+Campbell,01-17,State Treasurer,,DEM,Under Votes,11
+Campbell,01-17,Superintendent of Public Instruction,,REP,Chad Auer,27
+Campbell,01-17,Superintendent of Public Instruction,,REP,Steve Harshman,153
+Campbell,01-17,Superintendent of Public Instruction,,REP,Tom Kelly,135
+Campbell,01-17,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,01-17,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-17,Superintendent of Public Instruction,,REP,Under Votes,30
+Campbell,01-17,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Campbell,01-17,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Campbell,01-17,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-17,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-17,Superintendent of Public Instruction,,DEM,Under Votes,2
+Campbell,01-17,State Senate,23,REP,Abby Angelos,162
+Campbell,01-17,State Senate,23,REP,Dwayne Dillinger,172
+Campbell,01-17,State Senate,23,REP,Write-ins,2
+Campbell,01-17,State Senate,23,REP,Over Votes,0
+Campbell,01-17,State Senate,23,REP,Under Votes,10
+Campbell,01-17,State Senate,23,DEM,Write-ins,1
+Campbell,01-17,State Senate,23,DEM,Over Votes,0
+Campbell,01-17,State Senate,23,DEM,Under Votes,11
+Campbell,01-17,State House,31,REP,Douglas Moore,191
+Campbell,01-17,State House,31,REP,John W. Bear,151
+Campbell,01-17,State House,31,REP,Write-ins,3
+Campbell,01-17,State House,31,REP,Over Votes,0
+Campbell,01-17,State House,31,REP,Under Votes,1
+Campbell,01-17,State House,31,DEM,Write-ins,1
+Campbell,01-17,State House,31,DEM,Over Votes,0
+Campbell,01-17,State House,31,DEM,Under Votes,11
+Campbell,01-17,Ballots Cast,,REP,Ballots Cast,346
+Campbell,01-17,Ballots Cast,,DEM,Ballots Cast,12
+Campbell,01-17,Ballots Cast,,NP,Ballots Cast,4
+Campbell,01-17,Ballots Cast,,,Ballots Cast,362
+Campbell,01-18,U.S. Senate,,REP,Harriet Hageman,183
+Campbell,01-18,U.S. Senate,,REP,Jill M Edwards,9
+Campbell,01-18,U.S. Senate,,REP,Jimmy Skovgard,4
+Campbell,01-18,U.S. Senate,,REP,John Holtz,2
+Campbell,01-18,U.S. Senate,,REP,Sam Mead,62
+Campbell,01-18,U.S. Senate,,REP,Write-ins,1
+Campbell,01-18,U.S. Senate,,REP,Over Votes,2
+Campbell,01-18,U.S. Senate,,REP,Under Votes,11
+Campbell,01-18,U.S. Senate,,DEM,Billy Benavidez,4
+Campbell,01-18,U.S. Senate,,DEM,James Byrd,6
+Campbell,01-18,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-18,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-18,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-18,U.S. House,,REP,* Withdrawn Candidate,5
+Campbell,01-18,U.S. House,,REP,Bo Biteman,12
+Campbell,01-18,U.S. House,,REP,Chuck Gray,73
+Campbell,01-18,U.S. House,,REP,David Giralt,9
+Campbell,01-18,U.S. House,,REP,Jillian Balow,31
+Campbell,01-18,U.S. House,,REP,Keith B. Goodenough,3
+Campbell,01-18,U.S. House,,REP,Kevin Christensen,34
+Campbell,01-18,U.S. House,,REP,Reid Rasner,24
+Campbell,01-18,U.S. House,,REP,Richard Dodson,2
+Campbell,01-18,U.S. House,,REP,Steve Friess,51
+Campbell,01-18,U.S. House,,REP,Write-ins,2
+Campbell,01-18,U.S. House,,REP,Over Votes,15
+Campbell,01-18,U.S. House,,REP,Under Votes,13
+Campbell,01-18,U.S. House,,DEM,Elena Del Real,3
+Campbell,01-18,U.S. House,,DEM,Lisa Kinney,7
+Campbell,01-18,U.S. House,,DEM,Write-ins,0
+Campbell,01-18,U.S. House,,DEM,Over Votes,0
+Campbell,01-18,U.S. House,,DEM,Under Votes,0
+Campbell,01-18,Governor,,REP,Brent Bien,60
+Campbell,01-18,Governor,,REP,Curt Blake,2
+Campbell,01-18,Governor,,REP,Eric Barlow,135
+Campbell,01-18,Governor,,REP,Megan Degenfelder,74
+Campbell,01-18,Governor,,REP,Write-ins,1
+Campbell,01-18,Governor,,REP,Over Votes,0
+Campbell,01-18,Governor,,REP,Under Votes,2
+Campbell,01-18,Governor,,DEM,Kenneth R. Casner,8
+Campbell,01-18,Governor,,DEM,Write-ins,0
+Campbell,01-18,Governor,,DEM,Over Votes,0
+Campbell,01-18,Governor,,DEM,Under Votes,2
+Campbell,01-18,Secretary of State,,REP,CJ Young,29
+Campbell,01-18,Secretary of State,,REP,Qwenton Eagle Oviatt,4
+Campbell,01-18,Secretary of State,,REP,Rachel Williams,104
+Campbell,01-18,Secretary of State,,REP,Robert Short,98
+Campbell,01-18,Secretary of State,,REP,Write-ins,1
+Campbell,01-18,Secretary of State,,REP,Over Votes,0
+Campbell,01-18,Secretary of State,,REP,Under Votes,38
+Campbell,01-18,Secretary of State,,DEM,Bryan McCarty,8
+Campbell,01-18,Secretary of State,,DEM,Write-ins,0
+Campbell,01-18,Secretary of State,,DEM,Over Votes,0
+Campbell,01-18,Secretary of State,,DEM,Under Votes,2
+Campbell,01-18,State Auditor,,REP,Kristi Racines,201
+Campbell,01-18,State Auditor,,REP,Write-ins,2
+Campbell,01-18,State Auditor,,REP,Over Votes,0
+Campbell,01-18,State Auditor,,REP,Under Votes,71
+Campbell,01-18,State Auditor,,DEM,Write-ins,0
+Campbell,01-18,State Auditor,,DEM,Over Votes,0
+Campbell,01-18,State Auditor,,DEM,Under Votes,10
+Campbell,01-18,State Treasurer,,REP,Curt Meier,121
+Campbell,01-18,State Treasurer,,REP,Scott Smith,102
+Campbell,01-18,State Treasurer,,REP,Write-ins,1
+Campbell,01-18,State Treasurer,,REP,Over Votes,0
+Campbell,01-18,State Treasurer,,REP,Under Votes,50
+Campbell,01-18,State Treasurer,,DEM,Write-ins,1
+Campbell,01-18,State Treasurer,,DEM,Over Votes,0
+Campbell,01-18,State Treasurer,,DEM,Under Votes,9
+Campbell,01-18,Superintendent of Public Instruction,,REP,Chad Auer,30
+Campbell,01-18,Superintendent of Public Instruction,,REP,Steve Harshman,120
+Campbell,01-18,Superintendent of Public Instruction,,REP,Tom Kelly,88
+Campbell,01-18,Superintendent of Public Instruction,,REP,Write-ins,2
+Campbell,01-18,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-18,Superintendent of Public Instruction,,REP,Under Votes,34
+Campbell,01-18,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Campbell,01-18,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Campbell,01-18,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-18,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-18,Superintendent of Public Instruction,,DEM,Under Votes,1
+Campbell,01-18,State Senate,23,REP,Abby Angelos,136
+Campbell,01-18,State Senate,23,REP,Dwayne Dillinger,119
+Campbell,01-18,State Senate,23,REP,Write-ins,2
+Campbell,01-18,State Senate,23,REP,Over Votes,0
+Campbell,01-18,State Senate,23,REP,Under Votes,17
+Campbell,01-18,State Senate,23,DEM,Write-ins,2
+Campbell,01-18,State Senate,23,DEM,Over Votes,0
+Campbell,01-18,State Senate,23,DEM,Under Votes,8
+Campbell,01-18,State House,31,REP,Douglas Moore,149
+Campbell,01-18,State House,31,REP,John W. Bear,109
+Campbell,01-18,State House,31,REP,Write-ins,2
+Campbell,01-18,State House,31,REP,Over Votes,0
+Campbell,01-18,State House,31,REP,Under Votes,14
+Campbell,01-18,State House,31,DEM,Write-ins,2
+Campbell,01-18,State House,31,DEM,Over Votes,0
+Campbell,01-18,State House,31,DEM,Under Votes,8
+Campbell,01-18,Ballots Cast,,REP,Ballots Cast,274
+Campbell,01-18,Ballots Cast,,DEM,Ballots Cast,10
+Campbell,01-18,Ballots Cast,,NP,Ballots Cast,5
+Campbell,01-18,Ballots Cast,,,Ballots Cast,289
+Campbell,01-19,U.S. Senate,,REP,Harriet Hageman,264
+Campbell,01-19,U.S. Senate,,REP,Jill M Edwards,13
+Campbell,01-19,U.S. Senate,,REP,Jimmy Skovgard,7
+Campbell,01-19,U.S. Senate,,REP,John Holtz,2
+Campbell,01-19,U.S. Senate,,REP,Sam Mead,78
+Campbell,01-19,U.S. Senate,,REP,Write-ins,0
+Campbell,01-19,U.S. Senate,,REP,Over Votes,2
+Campbell,01-19,U.S. Senate,,REP,Under Votes,17
+Campbell,01-19,U.S. Senate,,DEM,Billy Benavidez,3
+Campbell,01-19,U.S. Senate,,DEM,James Byrd,5
+Campbell,01-19,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-19,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-19,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-19,U.S. House,,REP,* Withdrawn Candidate,9
+Campbell,01-19,U.S. House,,REP,Bo Biteman,9
+Campbell,01-19,U.S. House,,REP,Chuck Gray,105
+Campbell,01-19,U.S. House,,REP,David Giralt,16
+Campbell,01-19,U.S. House,,REP,Jillian Balow,47
+Campbell,01-19,U.S. House,,REP,Keith B. Goodenough,8
+Campbell,01-19,U.S. House,,REP,Kevin Christensen,66
+Campbell,01-19,U.S. House,,REP,Reid Rasner,28
+Campbell,01-19,U.S. House,,REP,Richard Dodson,1
+Campbell,01-19,U.S. House,,REP,Steve Friess,65
+Campbell,01-19,U.S. House,,REP,Write-ins,0
+Campbell,01-19,U.S. House,,REP,Over Votes,7
+Campbell,01-19,U.S. House,,REP,Under Votes,22
+Campbell,01-19,U.S. House,,DEM,Elena Del Real,2
+Campbell,01-19,U.S. House,,DEM,Lisa Kinney,6
+Campbell,01-19,U.S. House,,DEM,Write-ins,0
+Campbell,01-19,U.S. House,,DEM,Over Votes,0
+Campbell,01-19,U.S. House,,DEM,Under Votes,0
+Campbell,01-19,Governor,,REP,Brent Bien,64
+Campbell,01-19,Governor,,REP,Curt Blake,1
+Campbell,01-19,Governor,,REP,Eric Barlow,211
+Campbell,01-19,Governor,,REP,Megan Degenfelder,104
+Campbell,01-19,Governor,,REP,Write-ins,0
+Campbell,01-19,Governor,,REP,Over Votes,0
+Campbell,01-19,Governor,,REP,Under Votes,3
+Campbell,01-19,Governor,,DEM,Kenneth R. Casner,6
+Campbell,01-19,Governor,,DEM,Write-ins,1
+Campbell,01-19,Governor,,DEM,Over Votes,0
+Campbell,01-19,Governor,,DEM,Under Votes,1
+Campbell,01-19,Secretary of State,,REP,CJ Young,23
+Campbell,01-19,Secretary of State,,REP,Qwenton Eagle Oviatt,2
+Campbell,01-19,Secretary of State,,REP,Rachel Williams,140
+Campbell,01-19,Secretary of State,,REP,Robert Short,152
+Campbell,01-19,Secretary of State,,REP,Write-ins,0
+Campbell,01-19,Secretary of State,,REP,Over Votes,0
+Campbell,01-19,Secretary of State,,REP,Under Votes,66
+Campbell,01-19,Secretary of State,,DEM,Bryan McCarty,7
+Campbell,01-19,Secretary of State,,DEM,Write-ins,1
+Campbell,01-19,Secretary of State,,DEM,Over Votes,0
+Campbell,01-19,Secretary of State,,DEM,Under Votes,0
+Campbell,01-19,State Auditor,,REP,Kristi Racines,290
+Campbell,01-19,State Auditor,,REP,Write-ins,2
+Campbell,01-19,State Auditor,,REP,Over Votes,0
+Campbell,01-19,State Auditor,,REP,Under Votes,91
+Campbell,01-19,State Auditor,,DEM,Write-ins,0
+Campbell,01-19,State Auditor,,DEM,Over Votes,0
+Campbell,01-19,State Auditor,,DEM,Under Votes,8
+Campbell,01-19,State Treasurer,,REP,Curt Meier,185
+Campbell,01-19,State Treasurer,,REP,Scott Smith,118
+Campbell,01-19,State Treasurer,,REP,Write-ins,0
+Campbell,01-19,State Treasurer,,REP,Over Votes,0
+Campbell,01-19,State Treasurer,,REP,Under Votes,80
+Campbell,01-19,State Treasurer,,DEM,Write-ins,1
+Campbell,01-19,State Treasurer,,DEM,Over Votes,0
+Campbell,01-19,State Treasurer,,DEM,Under Votes,7
+Campbell,01-19,Superintendent of Public Instruction,,REP,Chad Auer,26
+Campbell,01-19,Superintendent of Public Instruction,,REP,Steve Harshman,203
+Campbell,01-19,Superintendent of Public Instruction,,REP,Tom Kelly,104
+Campbell,01-19,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-19,Superintendent of Public Instruction,,REP,Over Votes,1
+Campbell,01-19,Superintendent of Public Instruction,,REP,Under Votes,49
+Campbell,01-19,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Campbell,01-19,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Campbell,01-19,Superintendent of Public Instruction,,DEM,Write-ins,1
+Campbell,01-19,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-19,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-19,State House,32,REP,Ken Clouston,316
+Campbell,01-19,State House,32,REP,Write-ins,2
+Campbell,01-19,State House,32,REP,Over Votes,1
+Campbell,01-19,State House,32,REP,Under Votes,64
+Campbell,01-19,State House,32,DEM,Write-ins,1
+Campbell,01-19,State House,32,DEM,Over Votes,0
+Campbell,01-19,State House,32,DEM,Under Votes,7
+Campbell,01-19,Ballots Cast,,REP,Ballots Cast,383
+Campbell,01-19,Ballots Cast,,DEM,Ballots Cast,8
+Campbell,01-19,Ballots Cast,,NP,Ballots Cast,6
+Campbell,01-19,Ballots Cast,,,Ballots Cast,397
+Campbell,01-20,U.S. Senate,,REP,Harriet Hageman,192
+Campbell,01-20,U.S. Senate,,REP,Jill M Edwards,3
+Campbell,01-20,U.S. Senate,,REP,Jimmy Skovgard,13
+Campbell,01-20,U.S. Senate,,REP,John Holtz,2
+Campbell,01-20,U.S. Senate,,REP,Sam Mead,90
+Campbell,01-20,U.S. Senate,,REP,Write-ins,0
+Campbell,01-20,U.S. Senate,,REP,Over Votes,0
+Campbell,01-20,U.S. Senate,,REP,Under Votes,8
+Campbell,01-20,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,01-20,U.S. Senate,,DEM,James Byrd,8
+Campbell,01-20,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-20,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-20,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-20,U.S. House,,REP,* Withdrawn Candidate,3
+Campbell,01-20,U.S. House,,REP,Bo Biteman,20
+Campbell,01-20,U.S. House,,REP,Chuck Gray,74
+Campbell,01-20,U.S. House,,REP,David Giralt,17
+Campbell,01-20,U.S. House,,REP,Jillian Balow,42
+Campbell,01-20,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,01-20,U.S. House,,REP,Kevin Christensen,65
+Campbell,01-20,U.S. House,,REP,Reid Rasner,19
+Campbell,01-20,U.S. House,,REP,Richard Dodson,1
+Campbell,01-20,U.S. House,,REP,Steve Friess,50
+Campbell,01-20,U.S. House,,REP,Write-ins,0
+Campbell,01-20,U.S. House,,REP,Over Votes,2
+Campbell,01-20,U.S. House,,REP,Under Votes,14
+Campbell,01-20,U.S. House,,DEM,Elena Del Real,2
+Campbell,01-20,U.S. House,,DEM,Lisa Kinney,7
+Campbell,01-20,U.S. House,,DEM,Write-ins,0
+Campbell,01-20,U.S. House,,DEM,Over Votes,0
+Campbell,01-20,U.S. House,,DEM,Under Votes,0
+Campbell,01-20,Governor,,REP,Brent Bien,66
+Campbell,01-20,Governor,,REP,Curt Blake,0
+Campbell,01-20,Governor,,REP,Eric Barlow,177
+Campbell,01-20,Governor,,REP,Megan Degenfelder,62
+Campbell,01-20,Governor,,REP,Write-ins,0
+Campbell,01-20,Governor,,REP,Over Votes,0
+Campbell,01-20,Governor,,REP,Under Votes,3
+Campbell,01-20,Governor,,DEM,Kenneth R. Casner,8
+Campbell,01-20,Governor,,DEM,Write-ins,1
+Campbell,01-20,Governor,,DEM,Over Votes,0
+Campbell,01-20,Governor,,DEM,Under Votes,0
+Campbell,01-20,Secretary of State,,REP,CJ Young,36
+Campbell,01-20,Secretary of State,,REP,Qwenton Eagle Oviatt,13
+Campbell,01-20,Secretary of State,,REP,Rachel Williams,86
+Campbell,01-20,Secretary of State,,REP,Robert Short,122
+Campbell,01-20,Secretary of State,,REP,Write-ins,1
+Campbell,01-20,Secretary of State,,REP,Over Votes,1
+Campbell,01-20,Secretary of State,,REP,Under Votes,49
+Campbell,01-20,Secretary of State,,DEM,Bryan McCarty,8
+Campbell,01-20,Secretary of State,,DEM,Write-ins,0
+Campbell,01-20,Secretary of State,,DEM,Over Votes,0
+Campbell,01-20,Secretary of State,,DEM,Under Votes,1
+Campbell,01-20,State Auditor,,REP,Kristi Racines,227
+Campbell,01-20,State Auditor,,REP,Write-ins,4
+Campbell,01-20,State Auditor,,REP,Over Votes,0
+Campbell,01-20,State Auditor,,REP,Under Votes,77
+Campbell,01-20,State Auditor,,DEM,Write-ins,2
+Campbell,01-20,State Auditor,,DEM,Over Votes,0
+Campbell,01-20,State Auditor,,DEM,Under Votes,7
+Campbell,01-20,State Treasurer,,REP,Curt Meier,172
+Campbell,01-20,State Treasurer,,REP,Scott Smith,79
+Campbell,01-20,State Treasurer,,REP,Write-ins,0
+Campbell,01-20,State Treasurer,,REP,Over Votes,0
+Campbell,01-20,State Treasurer,,REP,Under Votes,57
+Campbell,01-20,State Treasurer,,DEM,Write-ins,2
+Campbell,01-20,State Treasurer,,DEM,Over Votes,0
+Campbell,01-20,State Treasurer,,DEM,Under Votes,7
+Campbell,01-20,Superintendent of Public Instruction,,REP,Chad Auer,22
+Campbell,01-20,Superintendent of Public Instruction,,REP,Steve Harshman,163
+Campbell,01-20,Superintendent of Public Instruction,,REP,Tom Kelly,76
+Campbell,01-20,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-20,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-20,Superintendent of Public Instruction,,REP,Under Votes,47
+Campbell,01-20,Superintendent of Public Instruction,,DEM,Ana Cordova,5
+Campbell,01-20,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Campbell,01-20,Superintendent of Public Instruction,,DEM,Write-ins,1
+Campbell,01-20,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-20,Superintendent of Public Instruction,,DEM,Under Votes,1
+Campbell,01-20,State House,32,REP,Ken Clouston,252
+Campbell,01-20,State House,32,REP,Write-ins,5
+Campbell,01-20,State House,32,REP,Over Votes,0
+Campbell,01-20,State House,32,REP,Under Votes,51
+Campbell,01-20,State House,32,DEM,Write-ins,2
+Campbell,01-20,State House,32,DEM,Over Votes,0
+Campbell,01-20,State House,32,DEM,Under Votes,7
+Campbell,01-20,Ballots Cast,,REP,Ballots Cast,308
+Campbell,01-20,Ballots Cast,,DEM,Ballots Cast,9
+Campbell,01-20,Ballots Cast,,NP,Ballots Cast,5
+Campbell,01-20,Ballots Cast,,,Ballots Cast,322
+Campbell,01-21,U.S. Senate,,REP,Harriet Hageman,173
+Campbell,01-21,U.S. Senate,,REP,Jill M Edwards,3
+Campbell,01-21,U.S. Senate,,REP,Jimmy Skovgard,7
+Campbell,01-21,U.S. Senate,,REP,John Holtz,4
+Campbell,01-21,U.S. Senate,,REP,Sam Mead,44
+Campbell,01-21,U.S. Senate,,REP,Write-ins,0
+Campbell,01-21,U.S. Senate,,REP,Over Votes,1
+Campbell,01-21,U.S. Senate,,REP,Under Votes,8
+Campbell,01-21,U.S. Senate,,DEM,Billy Benavidez,3
+Campbell,01-21,U.S. Senate,,DEM,James Byrd,0
+Campbell,01-21,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-21,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-21,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-21,U.S. House,,REP,* Withdrawn Candidate,5
+Campbell,01-21,U.S. House,,REP,Bo Biteman,4
+Campbell,01-21,U.S. House,,REP,Chuck Gray,76
+Campbell,01-21,U.S. House,,REP,David Giralt,8
+Campbell,01-21,U.S. House,,REP,Jillian Balow,24
+Campbell,01-21,U.S. House,,REP,Keith B. Goodenough,2
+Campbell,01-21,U.S. House,,REP,Kevin Christensen,26
+Campbell,01-21,U.S. House,,REP,Reid Rasner,32
+Campbell,01-21,U.S. House,,REP,Richard Dodson,3
+Campbell,01-21,U.S. House,,REP,Steve Friess,39
+Campbell,01-21,U.S. House,,REP,Write-ins,1
+Campbell,01-21,U.S. House,,REP,Over Votes,9
+Campbell,01-21,U.S. House,,REP,Under Votes,11
+Campbell,01-21,U.S. House,,DEM,Elena Del Real,2
+Campbell,01-21,U.S. House,,DEM,Lisa Kinney,2
+Campbell,01-21,U.S. House,,DEM,Write-ins,0
+Campbell,01-21,U.S. House,,DEM,Over Votes,0
+Campbell,01-21,U.S. House,,DEM,Under Votes,0
+Campbell,01-21,Governor,,REP,Brent Bien,56
+Campbell,01-21,Governor,,REP,Curt Blake,2
+Campbell,01-21,Governor,,REP,Eric Barlow,114
+Campbell,01-21,Governor,,REP,Megan Degenfelder,68
+Campbell,01-21,Governor,,REP,Write-ins,0
+Campbell,01-21,Governor,,REP,Over Votes,0
+Campbell,01-21,Governor,,REP,Under Votes,0
+Campbell,01-21,Governor,,DEM,Kenneth R. Casner,0
+Campbell,01-21,Governor,,DEM,Write-ins,3
+Campbell,01-21,Governor,,DEM,Over Votes,0
+Campbell,01-21,Governor,,DEM,Under Votes,1
+Campbell,01-21,Secretary of State,,REP,CJ Young,37
+Campbell,01-21,Secretary of State,,REP,Qwenton Eagle Oviatt,11
+Campbell,01-21,Secretary of State,,REP,Rachel Williams,99
+Campbell,01-21,Secretary of State,,REP,Robert Short,68
+Campbell,01-21,Secretary of State,,REP,Write-ins,0
+Campbell,01-21,Secretary of State,,REP,Over Votes,0
+Campbell,01-21,Secretary of State,,REP,Under Votes,25
+Campbell,01-21,Secretary of State,,DEM,Bryan McCarty,4
+Campbell,01-21,Secretary of State,,DEM,Write-ins,0
+Campbell,01-21,Secretary of State,,DEM,Over Votes,0
+Campbell,01-21,Secretary of State,,DEM,Under Votes,0
+Campbell,01-21,State Auditor,,REP,Kristi Racines,204
+Campbell,01-21,State Auditor,,REP,Write-ins,2
+Campbell,01-21,State Auditor,,REP,Over Votes,0
+Campbell,01-21,State Auditor,,REP,Under Votes,34
+Campbell,01-21,State Auditor,,DEM,Write-ins,1
+Campbell,01-21,State Auditor,,DEM,Over Votes,0
+Campbell,01-21,State Auditor,,DEM,Under Votes,3
+Campbell,01-21,State Treasurer,,REP,Curt Meier,133
+Campbell,01-21,State Treasurer,,REP,Scott Smith,78
+Campbell,01-21,State Treasurer,,REP,Write-ins,0
+Campbell,01-21,State Treasurer,,REP,Over Votes,0
+Campbell,01-21,State Treasurer,,REP,Under Votes,29
+Campbell,01-21,State Treasurer,,DEM,Write-ins,1
+Campbell,01-21,State Treasurer,,DEM,Over Votes,0
+Campbell,01-21,State Treasurer,,DEM,Under Votes,3
+Campbell,01-21,Superintendent of Public Instruction,,REP,Chad Auer,16
+Campbell,01-21,Superintendent of Public Instruction,,REP,Steve Harshman,114
+Campbell,01-21,Superintendent of Public Instruction,,REP,Tom Kelly,86
+Campbell,01-21,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-21,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-21,Superintendent of Public Instruction,,REP,Under Votes,24
+Campbell,01-21,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Campbell,01-21,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,01-21,Superintendent of Public Instruction,,DEM,Write-ins,1
+Campbell,01-21,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-21,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-21,State Senate,23,REP,Abby Angelos,109
+Campbell,01-21,State Senate,23,REP,Dwayne Dillinger,112
+Campbell,01-21,State Senate,23,REP,Write-ins,0
+Campbell,01-21,State Senate,23,REP,Over Votes,0
+Campbell,01-21,State Senate,23,REP,Under Votes,19
+Campbell,01-21,State Senate,23,DEM,Write-ins,2
+Campbell,01-21,State Senate,23,DEM,Over Votes,0
+Campbell,01-21,State Senate,23,DEM,Under Votes,2
+Campbell,01-21,State House,31,REP,Douglas Moore,146
+Campbell,01-21,State House,31,REP,John W. Bear,86
+Campbell,01-21,State House,31,REP,Write-ins,2
+Campbell,01-21,State House,31,REP,Over Votes,0
+Campbell,01-21,State House,31,REP,Under Votes,6
+Campbell,01-21,State House,31,DEM,Write-ins,1
+Campbell,01-21,State House,31,DEM,Over Votes,0
+Campbell,01-21,State House,31,DEM,Under Votes,3
+Campbell,01-21,Ballots Cast,,REP,Ballots Cast,240
+Campbell,01-21,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,01-21,Ballots Cast,,NP,Ballots Cast,6
+Campbell,01-21,Ballots Cast,,,Ballots Cast,250
+Campbell,01-22,U.S. Senate,,REP,Harriet Hageman,89
+Campbell,01-22,U.S. Senate,,REP,Jill M Edwards,4
+Campbell,01-22,U.S. Senate,,REP,Jimmy Skovgard,0
+Campbell,01-22,U.S. Senate,,REP,John Holtz,2
+Campbell,01-22,U.S. Senate,,REP,Sam Mead,14
+Campbell,01-22,U.S. Senate,,REP,Write-ins,1
+Campbell,01-22,U.S. Senate,,REP,Over Votes,0
+Campbell,01-22,U.S. Senate,,REP,Under Votes,1
+Campbell,01-22,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,01-22,U.S. Senate,,DEM,James Byrd,0
+Campbell,01-22,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-22,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-22,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-22,U.S. House,,REP,* Withdrawn Candidate,1
+Campbell,01-22,U.S. House,,REP,Bo Biteman,3
+Campbell,01-22,U.S. House,,REP,Chuck Gray,36
+Campbell,01-22,U.S. House,,REP,David Giralt,4
+Campbell,01-22,U.S. House,,REP,Jillian Balow,19
+Campbell,01-22,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,01-22,U.S. House,,REP,Kevin Christensen,6
+Campbell,01-22,U.S. House,,REP,Reid Rasner,20
+Campbell,01-22,U.S. House,,REP,Richard Dodson,0
+Campbell,01-22,U.S. House,,REP,Steve Friess,16
+Campbell,01-22,U.S. House,,REP,Write-ins,0
+Campbell,01-22,U.S. House,,REP,Over Votes,1
+Campbell,01-22,U.S. House,,REP,Under Votes,4
+Campbell,01-22,U.S. House,,DEM,Elena Del Real,1
+Campbell,01-22,U.S. House,,DEM,Lisa Kinney,0
+Campbell,01-22,U.S. House,,DEM,Write-ins,0
+Campbell,01-22,U.S. House,,DEM,Over Votes,0
+Campbell,01-22,U.S. House,,DEM,Under Votes,0
+Campbell,01-22,Governor,,REP,Brent Bien,31
+Campbell,01-22,Governor,,REP,Curt Blake,3
+Campbell,01-22,Governor,,REP,Eric Barlow,47
+Campbell,01-22,Governor,,REP,Megan Degenfelder,30
+Campbell,01-22,Governor,,REP,Write-ins,0
+Campbell,01-22,Governor,,REP,Over Votes,0
+Campbell,01-22,Governor,,REP,Under Votes,0
+Campbell,01-22,Governor,,DEM,Kenneth R. Casner,1
+Campbell,01-22,Governor,,DEM,Write-ins,0
+Campbell,01-22,Governor,,DEM,Over Votes,0
+Campbell,01-22,Governor,,DEM,Under Votes,0
+Campbell,01-22,Secretary of State,,REP,CJ Young,10
+Campbell,01-22,Secretary of State,,REP,Qwenton Eagle Oviatt,4
+Campbell,01-22,Secretary of State,,REP,Rachel Williams,54
+Campbell,01-22,Secretary of State,,REP,Robert Short,30
+Campbell,01-22,Secretary of State,,REP,Write-ins,1
+Campbell,01-22,Secretary of State,,REP,Over Votes,0
+Campbell,01-22,Secretary of State,,REP,Under Votes,12
+Campbell,01-22,Secretary of State,,DEM,Bryan McCarty,1
+Campbell,01-22,Secretary of State,,DEM,Write-ins,0
+Campbell,01-22,Secretary of State,,DEM,Over Votes,0
+Campbell,01-22,Secretary of State,,DEM,Under Votes,0
+Campbell,01-22,State Auditor,,REP,Kristi Racines,89
+Campbell,01-22,State Auditor,,REP,Write-ins,1
+Campbell,01-22,State Auditor,,REP,Over Votes,0
+Campbell,01-22,State Auditor,,REP,Under Votes,21
+Campbell,01-22,State Auditor,,DEM,Write-ins,0
+Campbell,01-22,State Auditor,,DEM,Over Votes,0
+Campbell,01-22,State Auditor,,DEM,Under Votes,1
+Campbell,01-22,State Treasurer,,REP,Curt Meier,54
+Campbell,01-22,State Treasurer,,REP,Scott Smith,43
+Campbell,01-22,State Treasurer,,REP,Write-ins,0
+Campbell,01-22,State Treasurer,,REP,Over Votes,0
+Campbell,01-22,State Treasurer,,REP,Under Votes,14
+Campbell,01-22,State Treasurer,,DEM,Write-ins,0
+Campbell,01-22,State Treasurer,,DEM,Over Votes,0
+Campbell,01-22,State Treasurer,,DEM,Under Votes,1
+Campbell,01-22,Superintendent of Public Instruction,,REP,Chad Auer,8
+Campbell,01-22,Superintendent of Public Instruction,,REP,Steve Harshman,50
+Campbell,01-22,Superintendent of Public Instruction,,REP,Tom Kelly,39
+Campbell,01-22,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-22,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-22,Superintendent of Public Instruction,,REP,Under Votes,14
+Campbell,01-22,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Campbell,01-22,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,01-22,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-22,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-22,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-22,State Senate,23,REP,Abby Angelos,63
+Campbell,01-22,State Senate,23,REP,Dwayne Dillinger,41
+Campbell,01-22,State Senate,23,REP,Write-ins,1
+Campbell,01-22,State Senate,23,REP,Over Votes,0
+Campbell,01-22,State Senate,23,REP,Under Votes,6
+Campbell,01-22,State Senate,23,DEM,Write-ins,0
+Campbell,01-22,State Senate,23,DEM,Over Votes,0
+Campbell,01-22,State Senate,23,DEM,Under Votes,1
+Campbell,01-22,State House,31,REP,Douglas Moore,52
+Campbell,01-22,State House,31,REP,John W. Bear,55
+Campbell,01-22,State House,31,REP,Write-ins,0
+Campbell,01-22,State House,31,REP,Over Votes,0
+Campbell,01-22,State House,31,REP,Under Votes,4
+Campbell,01-22,State House,31,DEM,Write-ins,0
+Campbell,01-22,State House,31,DEM,Over Votes,0
+Campbell,01-22,State House,31,DEM,Under Votes,1
+Campbell,01-22,Ballots Cast,,REP,Ballots Cast,111
+Campbell,01-22,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,01-22,Ballots Cast,,NP,Ballots Cast,2
+Campbell,01-22,Ballots Cast,,,Ballots Cast,114
+Campbell,01-23,U.S. Senate,,REP,Harriet Hageman,224
+Campbell,01-23,U.S. Senate,,REP,Jill M Edwards,17
+Campbell,01-23,U.S. Senate,,REP,Jimmy Skovgard,7
+Campbell,01-23,U.S. Senate,,REP,John Holtz,3
+Campbell,01-23,U.S. Senate,,REP,Sam Mead,94
+Campbell,01-23,U.S. Senate,,REP,Write-ins,0
+Campbell,01-23,U.S. Senate,,REP,Over Votes,1
+Campbell,01-23,U.S. Senate,,REP,Under Votes,15
+Campbell,01-23,U.S. Senate,,DEM,Billy Benavidez,3
+Campbell,01-23,U.S. Senate,,DEM,James Byrd,9
+Campbell,01-23,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-23,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-23,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-23,U.S. House,,REP,* Withdrawn Candidate,5
+Campbell,01-23,U.S. House,,REP,Bo Biteman,7
+Campbell,01-23,U.S. House,,REP,Chuck Gray,84
+Campbell,01-23,U.S. House,,REP,David Giralt,15
+Campbell,01-23,U.S. House,,REP,Jillian Balow,47
+Campbell,01-23,U.S. House,,REP,Keith B. Goodenough,2
+Campbell,01-23,U.S. House,,REP,Kevin Christensen,60
+Campbell,01-23,U.S. House,,REP,Reid Rasner,46
+Campbell,01-23,U.S. House,,REP,Richard Dodson,2
+Campbell,01-23,U.S. House,,REP,Steve Friess,63
+Campbell,01-23,U.S. House,,REP,Write-ins,0
+Campbell,01-23,U.S. House,,REP,Over Votes,10
+Campbell,01-23,U.S. House,,REP,Under Votes,20
+Campbell,01-23,U.S. House,,DEM,Elena Del Real,2
+Campbell,01-23,U.S. House,,DEM,Lisa Kinney,9
+Campbell,01-23,U.S. House,,DEM,Write-ins,0
+Campbell,01-23,U.S. House,,DEM,Over Votes,0
+Campbell,01-23,U.S. House,,DEM,Under Votes,1
+Campbell,01-23,Governor,,REP,Brent Bien,77
+Campbell,01-23,Governor,,REP,Curt Blake,0
+Campbell,01-23,Governor,,REP,Eric Barlow,200
+Campbell,01-23,Governor,,REP,Megan Degenfelder,83
+Campbell,01-23,Governor,,REP,Write-ins,0
+Campbell,01-23,Governor,,REP,Over Votes,0
+Campbell,01-23,Governor,,REP,Under Votes,1
+Campbell,01-23,Governor,,DEM,Kenneth R. Casner,6
+Campbell,01-23,Governor,,DEM,Write-ins,3
+Campbell,01-23,Governor,,DEM,Over Votes,0
+Campbell,01-23,Governor,,DEM,Under Votes,3
+Campbell,01-23,Secretary of State,,REP,CJ Young,20
+Campbell,01-23,Secretary of State,,REP,Qwenton Eagle Oviatt,7
+Campbell,01-23,Secretary of State,,REP,Rachel Williams,145
+Campbell,01-23,Secretary of State,,REP,Robert Short,128
+Campbell,01-23,Secretary of State,,REP,Write-ins,0
+Campbell,01-23,Secretary of State,,REP,Over Votes,2
+Campbell,01-23,Secretary of State,,REP,Under Votes,59
+Campbell,01-23,Secretary of State,,DEM,Bryan McCarty,7
+Campbell,01-23,Secretary of State,,DEM,Write-ins,2
+Campbell,01-23,Secretary of State,,DEM,Over Votes,0
+Campbell,01-23,Secretary of State,,DEM,Under Votes,3
+Campbell,01-23,State Auditor,,REP,Kristi Racines,277
+Campbell,01-23,State Auditor,,REP,Write-ins,0
+Campbell,01-23,State Auditor,,REP,Over Votes,0
+Campbell,01-23,State Auditor,,REP,Under Votes,84
+Campbell,01-23,State Auditor,,DEM,Write-ins,3
+Campbell,01-23,State Auditor,,DEM,Over Votes,0
+Campbell,01-23,State Auditor,,DEM,Under Votes,9
+Campbell,01-23,State Treasurer,,REP,Curt Meier,189
+Campbell,01-23,State Treasurer,,REP,Scott Smith,109
+Campbell,01-23,State Treasurer,,REP,Write-ins,1
+Campbell,01-23,State Treasurer,,REP,Over Votes,0
+Campbell,01-23,State Treasurer,,REP,Under Votes,62
+Campbell,01-23,State Treasurer,,DEM,Write-ins,3
+Campbell,01-23,State Treasurer,,DEM,Over Votes,0
+Campbell,01-23,State Treasurer,,DEM,Under Votes,9
+Campbell,01-23,Superintendent of Public Instruction,,REP,Chad Auer,16
+Campbell,01-23,Superintendent of Public Instruction,,REP,Steve Harshman,168
+Campbell,01-23,Superintendent of Public Instruction,,REP,Tom Kelly,124
+Campbell,01-23,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-23,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-23,Superintendent of Public Instruction,,REP,Under Votes,53
+Campbell,01-23,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Campbell,01-23,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Campbell,01-23,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-23,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-23,Superintendent of Public Instruction,,DEM,Under Votes,2
+Campbell,01-23,State Senate,23,REP,Abby Angelos,161
+Campbell,01-23,State Senate,23,REP,Dwayne Dillinger,179
+Campbell,01-23,State Senate,23,REP,Write-ins,0
+Campbell,01-23,State Senate,23,REP,Over Votes,0
+Campbell,01-23,State Senate,23,REP,Under Votes,21
+Campbell,01-23,State Senate,23,DEM,Write-ins,2
+Campbell,01-23,State Senate,23,DEM,Over Votes,0
+Campbell,01-23,State Senate,23,DEM,Under Votes,10
+Campbell,01-23,State House,31,REP,Douglas Moore,213
+Campbell,01-23,State House,31,REP,John W. Bear,138
+Campbell,01-23,State House,31,REP,Write-ins,2
+Campbell,01-23,State House,31,REP,Over Votes,0
+Campbell,01-23,State House,31,REP,Under Votes,8
+Campbell,01-23,State House,31,DEM,Write-ins,2
+Campbell,01-23,State House,31,DEM,Over Votes,0
+Campbell,01-23,State House,31,DEM,Under Votes,10
+Campbell,01-23,Ballots Cast,,REP,Ballots Cast,361
+Campbell,01-23,Ballots Cast,,DEM,Ballots Cast,12
+Campbell,01-23,Ballots Cast,,NP,Ballots Cast,6
+Campbell,01-23,Ballots Cast,,,Ballots Cast,379
+Campbell,01-24,U.S. Senate,,REP,Harriet Hageman,152
+Campbell,01-24,U.S. Senate,,REP,Jill M Edwards,8
+Campbell,01-24,U.S. Senate,,REP,Jimmy Skovgard,9
+Campbell,01-24,U.S. Senate,,REP,John Holtz,5
+Campbell,01-24,U.S. Senate,,REP,Sam Mead,43
+Campbell,01-24,U.S. Senate,,REP,Write-ins,0
+Campbell,01-24,U.S. Senate,,REP,Over Votes,0
+Campbell,01-24,U.S. Senate,,REP,Under Votes,6
+Campbell,01-24,U.S. Senate,,DEM,Billy Benavidez,4
+Campbell,01-24,U.S. Senate,,DEM,James Byrd,4
+Campbell,01-24,U.S. Senate,,DEM,Write-ins,1
+Campbell,01-24,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-24,U.S. Senate,,DEM,Under Votes,1
+Campbell,01-24,U.S. House,,REP,* Withdrawn Candidate,2
+Campbell,01-24,U.S. House,,REP,Bo Biteman,14
+Campbell,01-24,U.S. House,,REP,Chuck Gray,61
+Campbell,01-24,U.S. House,,REP,David Giralt,11
+Campbell,01-24,U.S. House,,REP,Jillian Balow,44
+Campbell,01-24,U.S. House,,REP,Keith B. Goodenough,5
+Campbell,01-24,U.S. House,,REP,Kevin Christensen,29
+Campbell,01-24,U.S. House,,REP,Reid Rasner,17
+Campbell,01-24,U.S. House,,REP,Richard Dodson,1
+Campbell,01-24,U.S. House,,REP,Steve Friess,24
+Campbell,01-24,U.S. House,,REP,Write-ins,1
+Campbell,01-24,U.S. House,,REP,Over Votes,5
+Campbell,01-24,U.S. House,,REP,Under Votes,9
+Campbell,01-24,U.S. House,,DEM,Elena Del Real,2
+Campbell,01-24,U.S. House,,DEM,Lisa Kinney,6
+Campbell,01-24,U.S. House,,DEM,Write-ins,1
+Campbell,01-24,U.S. House,,DEM,Over Votes,0
+Campbell,01-24,U.S. House,,DEM,Under Votes,1
+Campbell,01-24,Governor,,REP,Brent Bien,49
+Campbell,01-24,Governor,,REP,Curt Blake,3
+Campbell,01-24,Governor,,REP,Eric Barlow,110
+Campbell,01-24,Governor,,REP,Megan Degenfelder,60
+Campbell,01-24,Governor,,REP,Write-ins,0
+Campbell,01-24,Governor,,REP,Over Votes,0
+Campbell,01-24,Governor,,REP,Under Votes,1
+Campbell,01-24,Governor,,DEM,Kenneth R. Casner,8
+Campbell,01-24,Governor,,DEM,Write-ins,1
+Campbell,01-24,Governor,,DEM,Over Votes,0
+Campbell,01-24,Governor,,DEM,Under Votes,1
+Campbell,01-24,Secretary of State,,REP,CJ Young,28
+Campbell,01-24,Secretary of State,,REP,Qwenton Eagle Oviatt,10
+Campbell,01-24,Secretary of State,,REP,Rachel Williams,91
+Campbell,01-24,Secretary of State,,REP,Robert Short,70
+Campbell,01-24,Secretary of State,,REP,Write-ins,1
+Campbell,01-24,Secretary of State,,REP,Over Votes,0
+Campbell,01-24,Secretary of State,,REP,Under Votes,23
+Campbell,01-24,Secretary of State,,DEM,Bryan McCarty,8
+Campbell,01-24,Secretary of State,,DEM,Write-ins,1
+Campbell,01-24,Secretary of State,,DEM,Over Votes,0
+Campbell,01-24,Secretary of State,,DEM,Under Votes,1
+Campbell,01-24,State Auditor,,REP,Kristi Racines,185
+Campbell,01-24,State Auditor,,REP,Write-ins,1
+Campbell,01-24,State Auditor,,REP,Over Votes,0
+Campbell,01-24,State Auditor,,REP,Under Votes,37
+Campbell,01-24,State Auditor,,DEM,Write-ins,2
+Campbell,01-24,State Auditor,,DEM,Over Votes,0
+Campbell,01-24,State Auditor,,DEM,Under Votes,8
+Campbell,01-24,State Treasurer,,REP,Curt Meier,114
+Campbell,01-24,State Treasurer,,REP,Scott Smith,82
+Campbell,01-24,State Treasurer,,REP,Write-ins,2
+Campbell,01-24,State Treasurer,,REP,Over Votes,0
+Campbell,01-24,State Treasurer,,REP,Under Votes,25
+Campbell,01-24,State Treasurer,,DEM,Write-ins,2
+Campbell,01-24,State Treasurer,,DEM,Over Votes,0
+Campbell,01-24,State Treasurer,,DEM,Under Votes,8
+Campbell,01-24,Superintendent of Public Instruction,,REP,Chad Auer,17
+Campbell,01-24,Superintendent of Public Instruction,,REP,Steve Harshman,105
+Campbell,01-24,Superintendent of Public Instruction,,REP,Tom Kelly,80
+Campbell,01-24,Superintendent of Public Instruction,,REP,Write-ins,2
+Campbell,01-24,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-24,Superintendent of Public Instruction,,REP,Under Votes,19
+Campbell,01-24,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Campbell,01-24,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Campbell,01-24,Superintendent of Public Instruction,,DEM,Write-ins,1
+Campbell,01-24,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-24,Superintendent of Public Instruction,,DEM,Under Votes,1
+Campbell,01-24,State Senate,23,REP,Abby Angelos,101
+Campbell,01-24,State Senate,23,REP,Dwayne Dillinger,110
+Campbell,01-24,State Senate,23,REP,Write-ins,3
+Campbell,01-24,State Senate,23,REP,Over Votes,1
+Campbell,01-24,State Senate,23,REP,Under Votes,8
+Campbell,01-24,State Senate,23,DEM,Write-ins,2
+Campbell,01-24,State Senate,23,DEM,Over Votes,0
+Campbell,01-24,State Senate,23,DEM,Under Votes,8
+Campbell,01-24,State House,31,REP,Douglas Moore,137
+Campbell,01-24,State House,31,REP,John W. Bear,80
+Campbell,01-24,State House,31,REP,Write-ins,1
+Campbell,01-24,State House,31,REP,Over Votes,1
+Campbell,01-24,State House,31,REP,Under Votes,4
+Campbell,01-24,State House,31,DEM,Write-ins,2
+Campbell,01-24,State House,31,DEM,Over Votes,0
+Campbell,01-24,State House,31,DEM,Under Votes,8
+Campbell,01-24,Ballots Cast,,REP,Ballots Cast,223
+Campbell,01-24,Ballots Cast,,DEM,Ballots Cast,10
+Campbell,01-24,Ballots Cast,,NP,Ballots Cast,8
+Campbell,01-24,Ballots Cast,,,Ballots Cast,241
+Campbell,01-25,U.S. Senate,,REP,Harriet Hageman,215
+Campbell,01-25,U.S. Senate,,REP,Jill M Edwards,8
+Campbell,01-25,U.S. Senate,,REP,Jimmy Skovgard,2
+Campbell,01-25,U.S. Senate,,REP,John Holtz,2
+Campbell,01-25,U.S. Senate,,REP,Sam Mead,132
+Campbell,01-25,U.S. Senate,,REP,Write-ins,0
+Campbell,01-25,U.S. Senate,,REP,Over Votes,1
+Campbell,01-25,U.S. Senate,,REP,Under Votes,14
+Campbell,01-25,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,01-25,U.S. Senate,,DEM,James Byrd,2
+Campbell,01-25,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-25,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-25,U.S. Senate,,DEM,Under Votes,2
+Campbell,01-25,U.S. House,,REP,* Withdrawn Candidate,2
+Campbell,01-25,U.S. House,,REP,Bo Biteman,12
+Campbell,01-25,U.S. House,,REP,Chuck Gray,61
+Campbell,01-25,U.S. House,,REP,David Giralt,8
+Campbell,01-25,U.S. House,,REP,Jillian Balow,76
+Campbell,01-25,U.S. House,,REP,Keith B. Goodenough,4
+Campbell,01-25,U.S. House,,REP,Kevin Christensen,87
+Campbell,01-25,U.S. House,,REP,Reid Rasner,30
+Campbell,01-25,U.S. House,,REP,Richard Dodson,2
+Campbell,01-25,U.S. House,,REP,Steve Friess,60
+Campbell,01-25,U.S. House,,REP,Write-ins,1
+Campbell,01-25,U.S. House,,REP,Over Votes,13
+Campbell,01-25,U.S. House,,REP,Under Votes,18
+Campbell,01-25,U.S. House,,DEM,Elena Del Real,0
+Campbell,01-25,U.S. House,,DEM,Lisa Kinney,2
+Campbell,01-25,U.S. House,,DEM,Write-ins,0
+Campbell,01-25,U.S. House,,DEM,Over Votes,0
+Campbell,01-25,U.S. House,,DEM,Under Votes,2
+Campbell,01-25,Governor,,REP,Brent Bien,55
+Campbell,01-25,Governor,,REP,Curt Blake,2
+Campbell,01-25,Governor,,REP,Eric Barlow,233
+Campbell,01-25,Governor,,REP,Megan Degenfelder,83
+Campbell,01-25,Governor,,REP,Write-ins,0
+Campbell,01-25,Governor,,REP,Over Votes,0
+Campbell,01-25,Governor,,REP,Under Votes,1
+Campbell,01-25,Governor,,DEM,Kenneth R. Casner,2
+Campbell,01-25,Governor,,DEM,Write-ins,1
+Campbell,01-25,Governor,,DEM,Over Votes,0
+Campbell,01-25,Governor,,DEM,Under Votes,1
+Campbell,01-25,Secretary of State,,REP,CJ Young,38
+Campbell,01-25,Secretary of State,,REP,Qwenton Eagle Oviatt,10
+Campbell,01-25,Secretary of State,,REP,Rachel Williams,94
+Campbell,01-25,Secretary of State,,REP,Robert Short,177
+Campbell,01-25,Secretary of State,,REP,Write-ins,0
+Campbell,01-25,Secretary of State,,REP,Over Votes,1
+Campbell,01-25,Secretary of State,,REP,Under Votes,54
+Campbell,01-25,Secretary of State,,DEM,Bryan McCarty,2
+Campbell,01-25,Secretary of State,,DEM,Write-ins,0
+Campbell,01-25,Secretary of State,,DEM,Over Votes,0
+Campbell,01-25,Secretary of State,,DEM,Under Votes,2
+Campbell,01-25,State Auditor,,REP,Kristi Racines,267
+Campbell,01-25,State Auditor,,REP,Write-ins,2
+Campbell,01-25,State Auditor,,REP,Over Votes,0
+Campbell,01-25,State Auditor,,REP,Under Votes,105
+Campbell,01-25,State Auditor,,DEM,Write-ins,0
+Campbell,01-25,State Auditor,,DEM,Over Votes,0
+Campbell,01-25,State Auditor,,DEM,Under Votes,4
+Campbell,01-25,State Treasurer,,REP,Curt Meier,235
+Campbell,01-25,State Treasurer,,REP,Scott Smith,71
+Campbell,01-25,State Treasurer,,REP,Write-ins,0
+Campbell,01-25,State Treasurer,,REP,Over Votes,0
+Campbell,01-25,State Treasurer,,REP,Under Votes,68
+Campbell,01-25,State Treasurer,,DEM,Write-ins,0
+Campbell,01-25,State Treasurer,,DEM,Over Votes,0
+Campbell,01-25,State Treasurer,,DEM,Under Votes,4
+Campbell,01-25,Superintendent of Public Instruction,,REP,Chad Auer,18
+Campbell,01-25,Superintendent of Public Instruction,,REP,Steve Harshman,235
+Campbell,01-25,Superintendent of Public Instruction,,REP,Tom Kelly,75
+Campbell,01-25,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,01-25,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-25,Superintendent of Public Instruction,,REP,Under Votes,45
+Campbell,01-25,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Campbell,01-25,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,01-25,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-25,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-25,Superintendent of Public Instruction,,DEM,Under Votes,2
+Campbell,01-25,State House,32,REP,Ken Clouston,312
+Campbell,01-25,State House,32,REP,Write-ins,7
+Campbell,01-25,State House,32,REP,Over Votes,0
+Campbell,01-25,State House,32,REP,Under Votes,55
+Campbell,01-25,State House,32,DEM,Write-ins,1
+Campbell,01-25,State House,32,DEM,Over Votes,0
+Campbell,01-25,State House,32,DEM,Under Votes,3
+Campbell,01-25,Ballots Cast,,REP,Ballots Cast,374
+Campbell,01-25,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,01-25,Ballots Cast,,NP,Ballots Cast,8
+Campbell,01-25,Ballots Cast,,,Ballots Cast,386
+Campbell,01-26,U.S. Senate,,REP,Harriet Hageman,86
+Campbell,01-26,U.S. Senate,,REP,Jill M Edwards,5
+Campbell,01-26,U.S. Senate,,REP,Jimmy Skovgard,0
+Campbell,01-26,U.S. Senate,,REP,John Holtz,2
+Campbell,01-26,U.S. Senate,,REP,Sam Mead,35
+Campbell,01-26,U.S. Senate,,REP,Write-ins,0
+Campbell,01-26,U.S. Senate,,REP,Over Votes,0
+Campbell,01-26,U.S. Senate,,REP,Under Votes,9
+Campbell,01-26,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,01-26,U.S. Senate,,DEM,James Byrd,5
+Campbell,01-26,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-26,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-26,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-26,U.S. House,,REP,* Withdrawn Candidate,0
+Campbell,01-26,U.S. House,,REP,Bo Biteman,10
+Campbell,01-26,U.S. House,,REP,Chuck Gray,28
+Campbell,01-26,U.S. House,,REP,David Giralt,4
+Campbell,01-26,U.S. House,,REP,Jillian Balow,17
+Campbell,01-26,U.S. House,,REP,Keith B. Goodenough,2
+Campbell,01-26,U.S. House,,REP,Kevin Christensen,15
+Campbell,01-26,U.S. House,,REP,Reid Rasner,16
+Campbell,01-26,U.S. House,,REP,Richard Dodson,0
+Campbell,01-26,U.S. House,,REP,Steve Friess,29
+Campbell,01-26,U.S. House,,REP,Write-ins,1
+Campbell,01-26,U.S. House,,REP,Over Votes,3
+Campbell,01-26,U.S. House,,REP,Under Votes,12
+Campbell,01-26,U.S. House,,DEM,Elena Del Real,1
+Campbell,01-26,U.S. House,,DEM,Lisa Kinney,5
+Campbell,01-26,U.S. House,,DEM,Write-ins,0
+Campbell,01-26,U.S. House,,DEM,Over Votes,0
+Campbell,01-26,U.S. House,,DEM,Under Votes,0
+Campbell,01-26,Governor,,REP,Brent Bien,21
+Campbell,01-26,Governor,,REP,Curt Blake,0
+Campbell,01-26,Governor,,REP,Eric Barlow,83
+Campbell,01-26,Governor,,REP,Megan Degenfelder,32
+Campbell,01-26,Governor,,REP,Write-ins,0
+Campbell,01-26,Governor,,REP,Over Votes,0
+Campbell,01-26,Governor,,REP,Under Votes,1
+Campbell,01-26,Governor,,DEM,Kenneth R. Casner,6
+Campbell,01-26,Governor,,DEM,Write-ins,0
+Campbell,01-26,Governor,,DEM,Over Votes,0
+Campbell,01-26,Governor,,DEM,Under Votes,0
+Campbell,01-26,Secretary of State,,REP,CJ Young,17
+Campbell,01-26,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Campbell,01-26,Secretary of State,,REP,Rachel Williams,44
+Campbell,01-26,Secretary of State,,REP,Robert Short,46
+Campbell,01-26,Secretary of State,,REP,Write-ins,1
+Campbell,01-26,Secretary of State,,REP,Over Votes,0
+Campbell,01-26,Secretary of State,,REP,Under Votes,23
+Campbell,01-26,Secretary of State,,DEM,Bryan McCarty,6
+Campbell,01-26,Secretary of State,,DEM,Write-ins,0
+Campbell,01-26,Secretary of State,,DEM,Over Votes,0
+Campbell,01-26,Secretary of State,,DEM,Under Votes,0
+Campbell,01-26,State Auditor,,REP,Kristi Racines,108
+Campbell,01-26,State Auditor,,REP,Write-ins,1
+Campbell,01-26,State Auditor,,REP,Over Votes,0
+Campbell,01-26,State Auditor,,REP,Under Votes,28
+Campbell,01-26,State Auditor,,DEM,Write-ins,0
+Campbell,01-26,State Auditor,,DEM,Over Votes,0
+Campbell,01-26,State Auditor,,DEM,Under Votes,6
+Campbell,01-26,State Treasurer,,REP,Curt Meier,63
+Campbell,01-26,State Treasurer,,REP,Scott Smith,47
+Campbell,01-26,State Treasurer,,REP,Write-ins,1
+Campbell,01-26,State Treasurer,,REP,Over Votes,0
+Campbell,01-26,State Treasurer,,REP,Under Votes,26
+Campbell,01-26,State Treasurer,,DEM,Write-ins,0
+Campbell,01-26,State Treasurer,,DEM,Over Votes,0
+Campbell,01-26,State Treasurer,,DEM,Under Votes,6
+Campbell,01-26,Superintendent of Public Instruction,,REP,Chad Auer,7
+Campbell,01-26,Superintendent of Public Instruction,,REP,Steve Harshman,64
+Campbell,01-26,Superintendent of Public Instruction,,REP,Tom Kelly,46
+Campbell,01-26,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,01-26,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-26,Superintendent of Public Instruction,,REP,Under Votes,19
+Campbell,01-26,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Campbell,01-26,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,01-26,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-26,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-26,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,01-26,State Senate,23,REP,Abby Angelos,56
+Campbell,01-26,State Senate,23,REP,Dwayne Dillinger,72
+Campbell,01-26,State Senate,23,REP,Write-ins,1
+Campbell,01-26,State Senate,23,REP,Over Votes,0
+Campbell,01-26,State Senate,23,REP,Under Votes,8
+Campbell,01-26,State Senate,23,DEM,Write-ins,0
+Campbell,01-26,State Senate,23,DEM,Over Votes,0
+Campbell,01-26,State Senate,23,DEM,Under Votes,6
+Campbell,01-26,State House,3,REP,Anne Ziegenhorn,65
+Campbell,01-26,State House,3,REP,Earl Collier,53
+Campbell,01-26,State House,3,REP,Write-ins,1
+Campbell,01-26,State House,3,REP,Over Votes,0
+Campbell,01-26,State House,3,REP,Under Votes,18
+Campbell,01-26,State House,3,DEM,Write-ins,1
+Campbell,01-26,State House,3,DEM,Over Votes,0
+Campbell,01-26,State House,3,DEM,Under Votes,5
+Campbell,01-26,Ballots Cast,,REP,Ballots Cast,137
+Campbell,01-26,Ballots Cast,,DEM,Ballots Cast,6
+Campbell,01-26,Ballots Cast,,NP,Ballots Cast,11
+Campbell,01-26,Ballots Cast,,,Ballots Cast,154
+Campbell,01-27,U.S. Senate,,REP,Harriet Hageman,311
+Campbell,01-27,U.S. Senate,,REP,Jill M Edwards,8
+Campbell,01-27,U.S. Senate,,REP,Jimmy Skovgard,2
+Campbell,01-27,U.S. Senate,,REP,John Holtz,3
+Campbell,01-27,U.S. Senate,,REP,Sam Mead,82
+Campbell,01-27,U.S. Senate,,REP,Write-ins,2
+Campbell,01-27,U.S. Senate,,REP,Over Votes,1
+Campbell,01-27,U.S. Senate,,REP,Under Votes,7
+Campbell,01-27,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,01-27,U.S. Senate,,DEM,James Byrd,8
+Campbell,01-27,U.S. Senate,,DEM,Write-ins,0
+Campbell,01-27,U.S. Senate,,DEM,Over Votes,0
+Campbell,01-27,U.S. Senate,,DEM,Under Votes,0
+Campbell,01-27,U.S. House,,REP,* Withdrawn Candidate,3
+Campbell,01-27,U.S. House,,REP,Bo Biteman,17
+Campbell,01-27,U.S. House,,REP,Chuck Gray,125
+Campbell,01-27,U.S. House,,REP,David Giralt,15
+Campbell,01-27,U.S. House,,REP,Jillian Balow,47
+Campbell,01-27,U.S. House,,REP,Keith B. Goodenough,8
+Campbell,01-27,U.S. House,,REP,Kevin Christensen,59
+Campbell,01-27,U.S. House,,REP,Reid Rasner,27
+Campbell,01-27,U.S. House,,REP,Richard Dodson,11
+Campbell,01-27,U.S. House,,REP,Steve Friess,71
+Campbell,01-27,U.S. House,,REP,Write-ins,1
+Campbell,01-27,U.S. House,,REP,Over Votes,7
+Campbell,01-27,U.S. House,,REP,Under Votes,25
+Campbell,01-27,U.S. House,,DEM,Elena Del Real,1
+Campbell,01-27,U.S. House,,DEM,Lisa Kinney,7
+Campbell,01-27,U.S. House,,DEM,Write-ins,0
+Campbell,01-27,U.S. House,,DEM,Over Votes,0
+Campbell,01-27,U.S. House,,DEM,Under Votes,0
+Campbell,01-27,Governor,,REP,Brent Bien,95
+Campbell,01-27,Governor,,REP,Curt Blake,2
+Campbell,01-27,Governor,,REP,Eric Barlow,185
+Campbell,01-27,Governor,,REP,Megan Degenfelder,131
+Campbell,01-27,Governor,,REP,Write-ins,0
+Campbell,01-27,Governor,,REP,Over Votes,0
+Campbell,01-27,Governor,,REP,Under Votes,3
+Campbell,01-27,Governor,,DEM,Kenneth R. Casner,8
+Campbell,01-27,Governor,,DEM,Write-ins,0
+Campbell,01-27,Governor,,DEM,Over Votes,0
+Campbell,01-27,Governor,,DEM,Under Votes,0
+Campbell,01-27,Secretary of State,,REP,CJ Young,31
+Campbell,01-27,Secretary of State,,REP,Qwenton Eagle Oviatt,14
+Campbell,01-27,Secretary of State,,REP,Rachel Williams,164
+Campbell,01-27,Secretary of State,,REP,Robert Short,144
+Campbell,01-27,Secretary of State,,REP,Write-ins,2
+Campbell,01-27,Secretary of State,,REP,Over Votes,1
+Campbell,01-27,Secretary of State,,REP,Under Votes,60
+Campbell,01-27,Secretary of State,,DEM,Bryan McCarty,8
+Campbell,01-27,Secretary of State,,DEM,Write-ins,0
+Campbell,01-27,Secretary of State,,DEM,Over Votes,0
+Campbell,01-27,Secretary of State,,DEM,Under Votes,0
+Campbell,01-27,State Auditor,,REP,Kristi Racines,303
+Campbell,01-27,State Auditor,,REP,Write-ins,2
+Campbell,01-27,State Auditor,,REP,Over Votes,0
+Campbell,01-27,State Auditor,,REP,Under Votes,111
+Campbell,01-27,State Auditor,,DEM,Write-ins,0
+Campbell,01-27,State Auditor,,DEM,Over Votes,0
+Campbell,01-27,State Auditor,,DEM,Under Votes,8
+Campbell,01-27,State Treasurer,,REP,Curt Meier,193
+Campbell,01-27,State Treasurer,,REP,Scott Smith,147
+Campbell,01-27,State Treasurer,,REP,Write-ins,1
+Campbell,01-27,State Treasurer,,REP,Over Votes,0
+Campbell,01-27,State Treasurer,,REP,Under Votes,75
+Campbell,01-27,State Treasurer,,DEM,Write-ins,0
+Campbell,01-27,State Treasurer,,DEM,Over Votes,0
+Campbell,01-27,State Treasurer,,DEM,Under Votes,8
+Campbell,01-27,Superintendent of Public Instruction,,REP,Chad Auer,23
+Campbell,01-27,Superintendent of Public Instruction,,REP,Steve Harshman,183
+Campbell,01-27,Superintendent of Public Instruction,,REP,Tom Kelly,151
+Campbell,01-27,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,01-27,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,01-27,Superintendent of Public Instruction,,REP,Under Votes,59
+Campbell,01-27,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Campbell,01-27,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Campbell,01-27,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,01-27,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,01-27,Superintendent of Public Instruction,,DEM,Under Votes,1
+Campbell,01-27,State Senate,23,REP,Abby Angelos,222
+Campbell,01-27,State Senate,23,REP,Dwayne Dillinger,173
+Campbell,01-27,State Senate,23,REP,Write-ins,0
+Campbell,01-27,State Senate,23,REP,Over Votes,1
+Campbell,01-27,State Senate,23,REP,Under Votes,20
+Campbell,01-27,State Senate,23,DEM,Write-ins,0
+Campbell,01-27,State Senate,23,DEM,Over Votes,0
+Campbell,01-27,State Senate,23,DEM,Under Votes,8
+Campbell,01-27,State House,3,REP,Anne Ziegenhorn,146
+Campbell,01-27,State House,3,REP,Earl Collier,229
+Campbell,01-27,State House,3,REP,Write-ins,0
+Campbell,01-27,State House,3,REP,Over Votes,0
+Campbell,01-27,State House,3,REP,Under Votes,41
+Campbell,01-27,State House,3,DEM,Write-ins,0
+Campbell,01-27,State House,3,DEM,Over Votes,0
+Campbell,01-27,State House,3,DEM,Under Votes,8
+Campbell,01-27,Ballots Cast,,REP,Ballots Cast,416
+Campbell,01-27,Ballots Cast,,DEM,Ballots Cast,8
+Campbell,01-27,Ballots Cast,,NP,Ballots Cast,9
+Campbell,01-27,Ballots Cast,,,Ballots Cast,433
+Campbell,02-01,U.S. Senate,,REP,Harriet Hageman,147
+Campbell,02-01,U.S. Senate,,REP,Jill M Edwards,4
+Campbell,02-01,U.S. Senate,,REP,Jimmy Skovgard,7
+Campbell,02-01,U.S. Senate,,REP,John Holtz,3
+Campbell,02-01,U.S. Senate,,REP,Sam Mead,18
+Campbell,02-01,U.S. Senate,,REP,Write-ins,0
+Campbell,02-01,U.S. Senate,,REP,Over Votes,0
+Campbell,02-01,U.S. Senate,,REP,Under Votes,2
+Campbell,02-01,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,02-01,U.S. Senate,,DEM,James Byrd,2
+Campbell,02-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,02-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,02-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,02-01,U.S. House,,REP,* Withdrawn Candidate,4
+Campbell,02-01,U.S. House,,REP,Bo Biteman,5
+Campbell,02-01,U.S. House,,REP,Chuck Gray,69
+Campbell,02-01,U.S. House,,REP,David Giralt,8
+Campbell,02-01,U.S. House,,REP,Jillian Balow,14
+Campbell,02-01,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,02-01,U.S. House,,REP,Kevin Christensen,24
+Campbell,02-01,U.S. House,,REP,Reid Rasner,13
+Campbell,02-01,U.S. House,,REP,Richard Dodson,3
+Campbell,02-01,U.S. House,,REP,Steve Friess,23
+Campbell,02-01,U.S. House,,REP,Write-ins,0
+Campbell,02-01,U.S. House,,REP,Over Votes,8
+Campbell,02-01,U.S. House,,REP,Under Votes,9
+Campbell,02-01,U.S. House,,DEM,Elena Del Real,1
+Campbell,02-01,U.S. House,,DEM,Lisa Kinney,1
+Campbell,02-01,U.S. House,,DEM,Write-ins,0
+Campbell,02-01,U.S. House,,DEM,Over Votes,0
+Campbell,02-01,U.S. House,,DEM,Under Votes,0
+Campbell,02-01,Governor,,REP,Brent Bien,55
+Campbell,02-01,Governor,,REP,Curt Blake,4
+Campbell,02-01,Governor,,REP,Eric Barlow,58
+Campbell,02-01,Governor,,REP,Megan Degenfelder,63
+Campbell,02-01,Governor,,REP,Write-ins,0
+Campbell,02-01,Governor,,REP,Over Votes,0
+Campbell,02-01,Governor,,REP,Under Votes,1
+Campbell,02-01,Governor,,DEM,Kenneth R. Casner,2
+Campbell,02-01,Governor,,DEM,Write-ins,0
+Campbell,02-01,Governor,,DEM,Over Votes,0
+Campbell,02-01,Governor,,DEM,Under Votes,0
+Campbell,02-01,Secretary of State,,REP,CJ Young,14
+Campbell,02-01,Secretary of State,,REP,Qwenton Eagle Oviatt,1
+Campbell,02-01,Secretary of State,,REP,Rachel Williams,84
+Campbell,02-01,Secretary of State,,REP,Robert Short,50
+Campbell,02-01,Secretary of State,,REP,Write-ins,0
+Campbell,02-01,Secretary of State,,REP,Over Votes,0
+Campbell,02-01,Secretary of State,,REP,Under Votes,32
+Campbell,02-01,Secretary of State,,DEM,Bryan McCarty,2
+Campbell,02-01,Secretary of State,,DEM,Write-ins,0
+Campbell,02-01,Secretary of State,,DEM,Over Votes,0
+Campbell,02-01,Secretary of State,,DEM,Under Votes,0
+Campbell,02-01,State Auditor,,REP,Kristi Racines,136
+Campbell,02-01,State Auditor,,REP,Write-ins,0
+Campbell,02-01,State Auditor,,REP,Over Votes,0
+Campbell,02-01,State Auditor,,REP,Under Votes,45
+Campbell,02-01,State Auditor,,DEM,Write-ins,0
+Campbell,02-01,State Auditor,,DEM,Over Votes,0
+Campbell,02-01,State Auditor,,DEM,Under Votes,2
+Campbell,02-01,State Treasurer,,REP,Curt Meier,82
+Campbell,02-01,State Treasurer,,REP,Scott Smith,65
+Campbell,02-01,State Treasurer,,REP,Write-ins,0
+Campbell,02-01,State Treasurer,,REP,Over Votes,0
+Campbell,02-01,State Treasurer,,REP,Under Votes,34
+Campbell,02-01,State Treasurer,,DEM,Write-ins,0
+Campbell,02-01,State Treasurer,,DEM,Over Votes,0
+Campbell,02-01,State Treasurer,,DEM,Under Votes,2
+Campbell,02-01,Superintendent of Public Instruction,,REP,Chad Auer,16
+Campbell,02-01,Superintendent of Public Instruction,,REP,Steve Harshman,75
+Campbell,02-01,Superintendent of Public Instruction,,REP,Tom Kelly,64
+Campbell,02-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,02-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,02-01,Superintendent of Public Instruction,,REP,Under Votes,26
+Campbell,02-01,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Campbell,02-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,02-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,02-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,02-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,02-01,State Senate,1,REP,Chip Neiman,90
+Campbell,02-01,State Senate,1,REP,Ogden Driskill,78
+Campbell,02-01,State Senate,1,REP,Write-ins,2
+Campbell,02-01,State Senate,1,REP,Over Votes,0
+Campbell,02-01,State Senate,1,REP,Under Votes,11
+Campbell,02-01,State Senate,1,DEM,Write-ins,0
+Campbell,02-01,State Senate,1,DEM,Over Votes,0
+Campbell,02-01,State Senate,1,DEM,Under Votes,2
+Campbell,02-01,State House,52,REP,Bill Fortner,86
+Campbell,02-01,State House,52,REP,Ronda Boller,86
+Campbell,02-01,State House,52,REP,Write-ins,0
+Campbell,02-01,State House,52,REP,Over Votes,0
+Campbell,02-01,State House,52,REP,Under Votes,9
+Campbell,02-01,State House,52,DEM,Write-ins,0
+Campbell,02-01,State House,52,DEM,Over Votes,0
+Campbell,02-01,State House,52,DEM,Under Votes,2
+Campbell,02-01,Ballots Cast,,REP,Ballots Cast,181
+Campbell,02-01,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,02-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,02-01,Ballots Cast,,,Ballots Cast,183
+Campbell,03-01,U.S. Senate,,REP,Harriet Hageman,345
+Campbell,03-01,U.S. Senate,,REP,Jill M Edwards,7
+Campbell,03-01,U.S. Senate,,REP,Jimmy Skovgard,2
+Campbell,03-01,U.S. Senate,,REP,John Holtz,8
+Campbell,03-01,U.S. Senate,,REP,Sam Mead,65
+Campbell,03-01,U.S. Senate,,REP,Write-ins,1
+Campbell,03-01,U.S. Senate,,REP,Over Votes,0
+Campbell,03-01,U.S. Senate,,REP,Under Votes,7
+Campbell,03-01,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,03-01,U.S. Senate,,DEM,James Byrd,4
+Campbell,03-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,03-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,03-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,03-01,U.S. House,,REP,* Withdrawn Candidate,9
+Campbell,03-01,U.S. House,,REP,Bo Biteman,15
+Campbell,03-01,U.S. House,,REP,Chuck Gray,152
+Campbell,03-01,U.S. House,,REP,David Giralt,19
+Campbell,03-01,U.S. House,,REP,Jillian Balow,47
+Campbell,03-01,U.S. House,,REP,Keith B. Goodenough,5
+Campbell,03-01,U.S. House,,REP,Kevin Christensen,41
+Campbell,03-01,U.S. House,,REP,Reid Rasner,33
+Campbell,03-01,U.S. House,,REP,Richard Dodson,1
+Campbell,03-01,U.S. House,,REP,Steve Friess,73
+Campbell,03-01,U.S. House,,REP,Write-ins,0
+Campbell,03-01,U.S. House,,REP,Over Votes,14
+Campbell,03-01,U.S. House,,REP,Under Votes,26
+Campbell,03-01,U.S. House,,DEM,Elena Del Real,0
+Campbell,03-01,U.S. House,,DEM,Lisa Kinney,4
+Campbell,03-01,U.S. House,,DEM,Write-ins,0
+Campbell,03-01,U.S. House,,DEM,Over Votes,0
+Campbell,03-01,U.S. House,,DEM,Under Votes,0
+Campbell,03-01,Governor,,REP,Brent Bien,130
+Campbell,03-01,Governor,,REP,Curt Blake,5
+Campbell,03-01,Governor,,REP,Eric Barlow,166
+Campbell,03-01,Governor,,REP,Megan Degenfelder,132
+Campbell,03-01,Governor,,REP,Write-ins,0
+Campbell,03-01,Governor,,REP,Over Votes,0
+Campbell,03-01,Governor,,REP,Under Votes,2
+Campbell,03-01,Governor,,DEM,Kenneth R. Casner,4
+Campbell,03-01,Governor,,DEM,Write-ins,0
+Campbell,03-01,Governor,,DEM,Over Votes,0
+Campbell,03-01,Governor,,DEM,Under Votes,0
+Campbell,03-01,Secretary of State,,REP,CJ Young,50
+Campbell,03-01,Secretary of State,,REP,Qwenton Eagle Oviatt,12
+Campbell,03-01,Secretary of State,,REP,Rachel Williams,194
+Campbell,03-01,Secretary of State,,REP,Robert Short,122
+Campbell,03-01,Secretary of State,,REP,Write-ins,0
+Campbell,03-01,Secretary of State,,REP,Over Votes,0
+Campbell,03-01,Secretary of State,,REP,Under Votes,57
+Campbell,03-01,Secretary of State,,DEM,Bryan McCarty,4
+Campbell,03-01,Secretary of State,,DEM,Write-ins,0
+Campbell,03-01,Secretary of State,,DEM,Over Votes,0
+Campbell,03-01,Secretary of State,,DEM,Under Votes,0
+Campbell,03-01,State Auditor,,REP,Kristi Racines,340
+Campbell,03-01,State Auditor,,REP,Write-ins,5
+Campbell,03-01,State Auditor,,REP,Over Votes,0
+Campbell,03-01,State Auditor,,REP,Under Votes,90
+Campbell,03-01,State Auditor,,DEM,Write-ins,0
+Campbell,03-01,State Auditor,,DEM,Over Votes,0
+Campbell,03-01,State Auditor,,DEM,Under Votes,4
+Campbell,03-01,State Treasurer,,REP,Curt Meier,215
+Campbell,03-01,State Treasurer,,REP,Scott Smith,156
+Campbell,03-01,State Treasurer,,REP,Write-ins,0
+Campbell,03-01,State Treasurer,,REP,Over Votes,0
+Campbell,03-01,State Treasurer,,REP,Under Votes,64
+Campbell,03-01,State Treasurer,,DEM,Write-ins,0
+Campbell,03-01,State Treasurer,,DEM,Over Votes,0
+Campbell,03-01,State Treasurer,,DEM,Under Votes,4
+Campbell,03-01,Superintendent of Public Instruction,,REP,Chad Auer,36
+Campbell,03-01,Superintendent of Public Instruction,,REP,Steve Harshman,170
+Campbell,03-01,Superintendent of Public Instruction,,REP,Tom Kelly,168
+Campbell,03-01,Superintendent of Public Instruction,,REP,Write-ins,2
+Campbell,03-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,03-01,Superintendent of Public Instruction,,REP,Under Votes,59
+Campbell,03-01,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Campbell,03-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",2
+Campbell,03-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,03-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,03-01,Superintendent of Public Instruction,,DEM,Under Votes,1
+Campbell,03-01,State Senate,23,REP,Abby Angelos,268
+Campbell,03-01,State Senate,23,REP,Dwayne Dillinger,150
+Campbell,03-01,State Senate,23,REP,Write-ins,1
+Campbell,03-01,State Senate,23,REP,Over Votes,0
+Campbell,03-01,State Senate,23,REP,Under Votes,16
+Campbell,03-01,State Senate,23,DEM,Write-ins,2
+Campbell,03-01,State Senate,23,DEM,Over Votes,0
+Campbell,03-01,State Senate,23,DEM,Under Votes,2
+Campbell,03-01,State House,3,REP,Anne Ziegenhorn,128
+Campbell,03-01,State House,3,REP,Earl Collier,256
+Campbell,03-01,State House,3,REP,Write-ins,0
+Campbell,03-01,State House,3,REP,Over Votes,0
+Campbell,03-01,State House,3,REP,Under Votes,51
+Campbell,03-01,State House,3,DEM,Write-ins,2
+Campbell,03-01,State House,3,DEM,Over Votes,0
+Campbell,03-01,State House,3,DEM,Under Votes,2
+Campbell,03-01,Ballots Cast,,REP,Ballots Cast,435
+Campbell,03-01,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,03-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,03-01,Ballots Cast,,,Ballots Cast,439
+Campbell,04-01,U.S. Senate,,REP,Harriet Hageman,400
+Campbell,04-01,U.S. Senate,,REP,Jill M Edwards,15
+Campbell,04-01,U.S. Senate,,REP,Jimmy Skovgard,10
+Campbell,04-01,U.S. Senate,,REP,John Holtz,5
+Campbell,04-01,U.S. Senate,,REP,Sam Mead,73
+Campbell,04-01,U.S. Senate,,REP,Write-ins,0
+Campbell,04-01,U.S. Senate,,REP,Over Votes,0
+Campbell,04-01,U.S. Senate,,REP,Under Votes,13
+Campbell,04-01,U.S. Senate,,DEM,Billy Benavidez,3
+Campbell,04-01,U.S. Senate,,DEM,James Byrd,4
+Campbell,04-01,U.S. Senate,,DEM,Write-ins,1
+Campbell,04-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,04-01,U.S. Senate,,DEM,Under Votes,1
+Campbell,04-01,U.S. House,,REP,* Withdrawn Candidate,6
+Campbell,04-01,U.S. House,,REP,Bo Biteman,27
+Campbell,04-01,U.S. House,,REP,Chuck Gray,156
+Campbell,04-01,U.S. House,,REP,David Giralt,32
+Campbell,04-01,U.S. House,,REP,Jillian Balow,61
+Campbell,04-01,U.S. House,,REP,Keith B. Goodenough,3
+Campbell,04-01,U.S. House,,REP,Kevin Christensen,63
+Campbell,04-01,U.S. House,,REP,Reid Rasner,58
+Campbell,04-01,U.S. House,,REP,Richard Dodson,2
+Campbell,04-01,U.S. House,,REP,Steve Friess,72
+Campbell,04-01,U.S. House,,REP,Write-ins,0
+Campbell,04-01,U.S. House,,REP,Over Votes,18
+Campbell,04-01,U.S. House,,REP,Under Votes,18
+Campbell,04-01,U.S. House,,DEM,Elena Del Real,2
+Campbell,04-01,U.S. House,,DEM,Lisa Kinney,4
+Campbell,04-01,U.S. House,,DEM,Write-ins,2
+Campbell,04-01,U.S. House,,DEM,Over Votes,0
+Campbell,04-01,U.S. House,,DEM,Under Votes,1
+Campbell,04-01,Governor,,REP,Brent Bien,135
+Campbell,04-01,Governor,,REP,Curt Blake,5
+Campbell,04-01,Governor,,REP,Eric Barlow,230
+Campbell,04-01,Governor,,REP,Megan Degenfelder,142
+Campbell,04-01,Governor,,REP,Write-ins,0
+Campbell,04-01,Governor,,REP,Over Votes,0
+Campbell,04-01,Governor,,REP,Under Votes,4
+Campbell,04-01,Governor,,DEM,Kenneth R. Casner,6
+Campbell,04-01,Governor,,DEM,Write-ins,2
+Campbell,04-01,Governor,,DEM,Over Votes,0
+Campbell,04-01,Governor,,DEM,Under Votes,1
+Campbell,04-01,Secretary of State,,REP,CJ Young,72
+Campbell,04-01,Secretary of State,,REP,Qwenton Eagle Oviatt,15
+Campbell,04-01,Secretary of State,,REP,Rachel Williams,209
+Campbell,04-01,Secretary of State,,REP,Robert Short,145
+Campbell,04-01,Secretary of State,,REP,Write-ins,1
+Campbell,04-01,Secretary of State,,REP,Over Votes,0
+Campbell,04-01,Secretary of State,,REP,Under Votes,74
+Campbell,04-01,Secretary of State,,DEM,Bryan McCarty,7
+Campbell,04-01,Secretary of State,,DEM,Write-ins,1
+Campbell,04-01,Secretary of State,,DEM,Over Votes,0
+Campbell,04-01,Secretary of State,,DEM,Under Votes,1
+Campbell,04-01,State Auditor,,REP,Kristi Racines,405
+Campbell,04-01,State Auditor,,REP,Write-ins,1
+Campbell,04-01,State Auditor,,REP,Over Votes,0
+Campbell,04-01,State Auditor,,REP,Under Votes,110
+Campbell,04-01,State Auditor,,DEM,Write-ins,2
+Campbell,04-01,State Auditor,,DEM,Over Votes,0
+Campbell,04-01,State Auditor,,DEM,Under Votes,7
+Campbell,04-01,State Treasurer,,REP,Curt Meier,265
+Campbell,04-01,State Treasurer,,REP,Scott Smith,177
+Campbell,04-01,State Treasurer,,REP,Write-ins,1
+Campbell,04-01,State Treasurer,,REP,Over Votes,0
+Campbell,04-01,State Treasurer,,REP,Under Votes,73
+Campbell,04-01,State Treasurer,,DEM,Write-ins,3
+Campbell,04-01,State Treasurer,,DEM,Over Votes,0
+Campbell,04-01,State Treasurer,,DEM,Under Votes,6
+Campbell,04-01,Superintendent of Public Instruction,,REP,Chad Auer,38
+Campbell,04-01,Superintendent of Public Instruction,,REP,Steve Harshman,213
+Campbell,04-01,Superintendent of Public Instruction,,REP,Tom Kelly,178
+Campbell,04-01,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,04-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,04-01,Superintendent of Public Instruction,,REP,Under Votes,86
+Campbell,04-01,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Campbell,04-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,04-01,Superintendent of Public Instruction,,DEM,Write-ins,1
+Campbell,04-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,04-01,Superintendent of Public Instruction,,DEM,Under Votes,1
+Campbell,04-01,State Senate,1,REP,Chip Neiman,241
+Campbell,04-01,State Senate,1,REP,Ogden Driskill,249
+Campbell,04-01,State Senate,1,REP,Write-ins,3
+Campbell,04-01,State Senate,1,REP,Over Votes,1
+Campbell,04-01,State Senate,1,REP,Under Votes,22
+Campbell,04-01,State Senate,1,DEM,Write-ins,2
+Campbell,04-01,State Senate,1,DEM,Over Votes,0
+Campbell,04-01,State Senate,1,DEM,Under Votes,7
+Campbell,04-01,State House,52,REP,Bill Fortner,235
+Campbell,04-01,State House,52,REP,Ronda Boller,255
+Campbell,04-01,State House,52,REP,Write-ins,3
+Campbell,04-01,State House,52,REP,Over Votes,1
+Campbell,04-01,State House,52,REP,Under Votes,22
+Campbell,04-01,State House,52,DEM,Write-ins,1
+Campbell,04-01,State House,52,DEM,Over Votes,0
+Campbell,04-01,State House,52,DEM,Under Votes,8
+Campbell,04-01,Ballots Cast,,REP,Ballots Cast,516
+Campbell,04-01,Ballots Cast,,DEM,Ballots Cast,9
+Campbell,04-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,04-01,Ballots Cast,,,Ballots Cast,525
+Campbell,06-01,U.S. Senate,,REP,Harriet Hageman,191
+Campbell,06-01,U.S. Senate,,REP,Jill M Edwards,9
+Campbell,06-01,U.S. Senate,,REP,Jimmy Skovgard,2
+Campbell,06-01,U.S. Senate,,REP,John Holtz,2
+Campbell,06-01,U.S. Senate,,REP,Sam Mead,30
+Campbell,06-01,U.S. Senate,,REP,Write-ins,0
+Campbell,06-01,U.S. Senate,,REP,Over Votes,0
+Campbell,06-01,U.S. Senate,,REP,Under Votes,4
+Campbell,06-01,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,06-01,U.S. Senate,,DEM,James Byrd,2
+Campbell,06-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,06-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,06-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,06-01,U.S. House,,REP,* Withdrawn Candidate,4
+Campbell,06-01,U.S. House,,REP,Bo Biteman,7
+Campbell,06-01,U.S. House,,REP,Chuck Gray,88
+Campbell,06-01,U.S. House,,REP,David Giralt,8
+Campbell,06-01,U.S. House,,REP,Jillian Balow,20
+Campbell,06-01,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,06-01,U.S. House,,REP,Kevin Christensen,29
+Campbell,06-01,U.S. House,,REP,Reid Rasner,32
+Campbell,06-01,U.S. House,,REP,Richard Dodson,1
+Campbell,06-01,U.S. House,,REP,Steve Friess,37
+Campbell,06-01,U.S. House,,REP,Write-ins,0
+Campbell,06-01,U.S. House,,REP,Over Votes,5
+Campbell,06-01,U.S. House,,REP,Under Votes,6
+Campbell,06-01,U.S. House,,DEM,Elena Del Real,0
+Campbell,06-01,U.S. House,,DEM,Lisa Kinney,2
+Campbell,06-01,U.S. House,,DEM,Write-ins,0
+Campbell,06-01,U.S. House,,DEM,Over Votes,0
+Campbell,06-01,U.S. House,,DEM,Under Votes,0
+Campbell,06-01,Governor,,REP,Brent Bien,71
+Campbell,06-01,Governor,,REP,Curt Blake,4
+Campbell,06-01,Governor,,REP,Eric Barlow,89
+Campbell,06-01,Governor,,REP,Megan Degenfelder,72
+Campbell,06-01,Governor,,REP,Write-ins,0
+Campbell,06-01,Governor,,REP,Over Votes,0
+Campbell,06-01,Governor,,REP,Under Votes,2
+Campbell,06-01,Governor,,DEM,Kenneth R. Casner,2
+Campbell,06-01,Governor,,DEM,Write-ins,0
+Campbell,06-01,Governor,,DEM,Over Votes,0
+Campbell,06-01,Governor,,DEM,Under Votes,0
+Campbell,06-01,Secretary of State,,REP,CJ Young,30
+Campbell,06-01,Secretary of State,,REP,Qwenton Eagle Oviatt,5
+Campbell,06-01,Secretary of State,,REP,Rachel Williams,119
+Campbell,06-01,Secretary of State,,REP,Robert Short,54
+Campbell,06-01,Secretary of State,,REP,Write-ins,0
+Campbell,06-01,Secretary of State,,REP,Over Votes,0
+Campbell,06-01,Secretary of State,,REP,Under Votes,30
+Campbell,06-01,Secretary of State,,DEM,Bryan McCarty,2
+Campbell,06-01,Secretary of State,,DEM,Write-ins,0
+Campbell,06-01,Secretary of State,,DEM,Over Votes,0
+Campbell,06-01,Secretary of State,,DEM,Under Votes,0
+Campbell,06-01,State Auditor,,REP,Kristi Racines,194
+Campbell,06-01,State Auditor,,REP,Write-ins,1
+Campbell,06-01,State Auditor,,REP,Over Votes,0
+Campbell,06-01,State Auditor,,REP,Under Votes,43
+Campbell,06-01,State Auditor,,DEM,Write-ins,0
+Campbell,06-01,State Auditor,,DEM,Over Votes,0
+Campbell,06-01,State Auditor,,DEM,Under Votes,2
+Campbell,06-01,State Treasurer,,REP,Curt Meier,115
+Campbell,06-01,State Treasurer,,REP,Scott Smith,101
+Campbell,06-01,State Treasurer,,REP,Write-ins,0
+Campbell,06-01,State Treasurer,,REP,Over Votes,0
+Campbell,06-01,State Treasurer,,REP,Under Votes,22
+Campbell,06-01,State Treasurer,,DEM,Write-ins,0
+Campbell,06-01,State Treasurer,,DEM,Over Votes,0
+Campbell,06-01,State Treasurer,,DEM,Under Votes,2
+Campbell,06-01,Superintendent of Public Instruction,,REP,Chad Auer,21
+Campbell,06-01,Superintendent of Public Instruction,,REP,Steve Harshman,84
+Campbell,06-01,Superintendent of Public Instruction,,REP,Tom Kelly,106
+Campbell,06-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,06-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,06-01,Superintendent of Public Instruction,,REP,Under Votes,27
+Campbell,06-01,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Campbell,06-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,06-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,06-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,06-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,06-01,State Senate,1,REP,Chip Neiman,123
+Campbell,06-01,State Senate,1,REP,Ogden Driskill,101
+Campbell,06-01,State Senate,1,REP,Write-ins,0
+Campbell,06-01,State Senate,1,REP,Over Votes,0
+Campbell,06-01,State Senate,1,REP,Under Votes,14
+Campbell,06-01,State Senate,1,DEM,Write-ins,0
+Campbell,06-01,State Senate,1,DEM,Over Votes,0
+Campbell,06-01,State Senate,1,DEM,Under Votes,2
+Campbell,06-01,State House,52,REP,Bill Fortner,133
+Campbell,06-01,State House,52,REP,Ronda Boller,90
+Campbell,06-01,State House,52,REP,Write-ins,0
+Campbell,06-01,State House,52,REP,Over Votes,0
+Campbell,06-01,State House,52,REP,Under Votes,15
+Campbell,06-01,State House,52,DEM,Write-ins,0
+Campbell,06-01,State House,52,DEM,Over Votes,0
+Campbell,06-01,State House,52,DEM,Under Votes,2
+Campbell,06-01,Ballots Cast,,REP,Ballots Cast,238
+Campbell,06-01,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,06-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,06-01,Ballots Cast,,,Ballots Cast,240
+Campbell,07-01,U.S. Senate,,REP,Harriet Hageman,93
+Campbell,07-01,U.S. Senate,,REP,Jill M Edwards,2
+Campbell,07-01,U.S. Senate,,REP,Jimmy Skovgard,2
+Campbell,07-01,U.S. Senate,,REP,John Holtz,1
+Campbell,07-01,U.S. Senate,,REP,Sam Mead,16
+Campbell,07-01,U.S. Senate,,REP,Write-ins,0
+Campbell,07-01,U.S. Senate,,REP,Over Votes,0
+Campbell,07-01,U.S. Senate,,REP,Under Votes,4
+Campbell,07-01,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,07-01,U.S. Senate,,DEM,James Byrd,2
+Campbell,07-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,07-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,07-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,07-01,U.S. House,,REP,* Withdrawn Candidate,2
+Campbell,07-01,U.S. House,,REP,Bo Biteman,2
+Campbell,07-01,U.S. House,,REP,Chuck Gray,40
+Campbell,07-01,U.S. House,,REP,David Giralt,9
+Campbell,07-01,U.S. House,,REP,Jillian Balow,13
+Campbell,07-01,U.S. House,,REP,Keith B. Goodenough,0
+Campbell,07-01,U.S. House,,REP,Kevin Christensen,16
+Campbell,07-01,U.S. House,,REP,Reid Rasner,16
+Campbell,07-01,U.S. House,,REP,Richard Dodson,0
+Campbell,07-01,U.S. House,,REP,Steve Friess,12
+Campbell,07-01,U.S. House,,REP,Write-ins,0
+Campbell,07-01,U.S. House,,REP,Over Votes,1
+Campbell,07-01,U.S. House,,REP,Under Votes,7
+Campbell,07-01,U.S. House,,DEM,Elena Del Real,0
+Campbell,07-01,U.S. House,,DEM,Lisa Kinney,3
+Campbell,07-01,U.S. House,,DEM,Write-ins,0
+Campbell,07-01,U.S. House,,DEM,Over Votes,0
+Campbell,07-01,U.S. House,,DEM,Under Votes,0
+Campbell,07-01,Governor,,REP,Brent Bien,56
+Campbell,07-01,Governor,,REP,Curt Blake,0
+Campbell,07-01,Governor,,REP,Eric Barlow,32
+Campbell,07-01,Governor,,REP,Megan Degenfelder,29
+Campbell,07-01,Governor,,REP,Write-ins,0
+Campbell,07-01,Governor,,REP,Over Votes,0
+Campbell,07-01,Governor,,REP,Under Votes,1
+Campbell,07-01,Governor,,DEM,Kenneth R. Casner,2
+Campbell,07-01,Governor,,DEM,Write-ins,0
+Campbell,07-01,Governor,,DEM,Over Votes,0
+Campbell,07-01,Governor,,DEM,Under Votes,1
+Campbell,07-01,Secretary of State,,REP,CJ Young,16
+Campbell,07-01,Secretary of State,,REP,Qwenton Eagle Oviatt,5
+Campbell,07-01,Secretary of State,,REP,Rachel Williams,52
+Campbell,07-01,Secretary of State,,REP,Robert Short,26
+Campbell,07-01,Secretary of State,,REP,Write-ins,0
+Campbell,07-01,Secretary of State,,REP,Over Votes,0
+Campbell,07-01,Secretary of State,,REP,Under Votes,19
+Campbell,07-01,Secretary of State,,DEM,Bryan McCarty,3
+Campbell,07-01,Secretary of State,,DEM,Write-ins,0
+Campbell,07-01,Secretary of State,,DEM,Over Votes,0
+Campbell,07-01,Secretary of State,,DEM,Under Votes,0
+Campbell,07-01,State Auditor,,REP,Kristi Racines,88
+Campbell,07-01,State Auditor,,REP,Write-ins,0
+Campbell,07-01,State Auditor,,REP,Over Votes,0
+Campbell,07-01,State Auditor,,REP,Under Votes,30
+Campbell,07-01,State Auditor,,DEM,Write-ins,0
+Campbell,07-01,State Auditor,,DEM,Over Votes,0
+Campbell,07-01,State Auditor,,DEM,Under Votes,3
+Campbell,07-01,State Treasurer,,REP,Curt Meier,49
+Campbell,07-01,State Treasurer,,REP,Scott Smith,46
+Campbell,07-01,State Treasurer,,REP,Write-ins,0
+Campbell,07-01,State Treasurer,,REP,Over Votes,0
+Campbell,07-01,State Treasurer,,REP,Under Votes,23
+Campbell,07-01,State Treasurer,,DEM,Write-ins,0
+Campbell,07-01,State Treasurer,,DEM,Over Votes,0
+Campbell,07-01,State Treasurer,,DEM,Under Votes,3
+Campbell,07-01,Superintendent of Public Instruction,,REP,Chad Auer,3
+Campbell,07-01,Superintendent of Public Instruction,,REP,Steve Harshman,39
+Campbell,07-01,Superintendent of Public Instruction,,REP,Tom Kelly,54
+Campbell,07-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,07-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,07-01,Superintendent of Public Instruction,,REP,Under Votes,22
+Campbell,07-01,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Campbell,07-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,07-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,07-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,07-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,07-01,State Senate,1,REP,Chip Neiman,65
+Campbell,07-01,State Senate,1,REP,Ogden Driskill,45
+Campbell,07-01,State Senate,1,REP,Write-ins,0
+Campbell,07-01,State Senate,1,REP,Over Votes,1
+Campbell,07-01,State Senate,1,REP,Under Votes,7
+Campbell,07-01,State Senate,1,DEM,Write-ins,0
+Campbell,07-01,State Senate,1,DEM,Over Votes,0
+Campbell,07-01,State Senate,1,DEM,Under Votes,3
+Campbell,07-01,State House,52,REP,Bill Fortner,57
+Campbell,07-01,State House,52,REP,Ronda Boller,57
+Campbell,07-01,State House,52,REP,Write-ins,0
+Campbell,07-01,State House,52,REP,Over Votes,0
+Campbell,07-01,State House,52,REP,Under Votes,4
+Campbell,07-01,State House,52,DEM,Write-ins,0
+Campbell,07-01,State House,52,DEM,Over Votes,0
+Campbell,07-01,State House,52,DEM,Under Votes,3
+Campbell,07-01,Ballots Cast,,REP,Ballots Cast,118
+Campbell,07-01,Ballots Cast,,DEM,Ballots Cast,3
+Campbell,07-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,07-01,Ballots Cast,,,Ballots Cast,121
+Campbell,08-01,U.S. Senate,,REP,Harriet Hageman,79
+Campbell,08-01,U.S. Senate,,REP,Jill M Edwards,1
+Campbell,08-01,U.S. Senate,,REP,Jimmy Skovgard,0
+Campbell,08-01,U.S. Senate,,REP,John Holtz,1
+Campbell,08-01,U.S. Senate,,REP,Sam Mead,7
+Campbell,08-01,U.S. Senate,,REP,Write-ins,0
+Campbell,08-01,U.S. Senate,,REP,Over Votes,0
+Campbell,08-01,U.S. Senate,,REP,Under Votes,4
+Campbell,08-01,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,08-01,U.S. Senate,,DEM,James Byrd,0
+Campbell,08-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,08-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,08-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,08-01,U.S. House,,REP,* Withdrawn Candidate,1
+Campbell,08-01,U.S. House,,REP,Bo Biteman,4
+Campbell,08-01,U.S. House,,REP,Chuck Gray,36
+Campbell,08-01,U.S. House,,REP,David Giralt,7
+Campbell,08-01,U.S. House,,REP,Jillian Balow,9
+Campbell,08-01,U.S. House,,REP,Keith B. Goodenough,0
+Campbell,08-01,U.S. House,,REP,Kevin Christensen,14
+Campbell,08-01,U.S. House,,REP,Reid Rasner,3
+Campbell,08-01,U.S. House,,REP,Richard Dodson,0
+Campbell,08-01,U.S. House,,REP,Steve Friess,9
+Campbell,08-01,U.S. House,,REP,Write-ins,0
+Campbell,08-01,U.S. House,,REP,Over Votes,4
+Campbell,08-01,U.S. House,,REP,Under Votes,5
+Campbell,08-01,U.S. House,,DEM,Elena Del Real,0
+Campbell,08-01,U.S. House,,DEM,Lisa Kinney,0
+Campbell,08-01,U.S. House,,DEM,Write-ins,0
+Campbell,08-01,U.S. House,,DEM,Over Votes,0
+Campbell,08-01,U.S. House,,DEM,Under Votes,0
+Campbell,08-01,Governor,,REP,Brent Bien,27
+Campbell,08-01,Governor,,REP,Curt Blake,1
+Campbell,08-01,Governor,,REP,Eric Barlow,44
+Campbell,08-01,Governor,,REP,Megan Degenfelder,20
+Campbell,08-01,Governor,,REP,Write-ins,0
+Campbell,08-01,Governor,,REP,Over Votes,0
+Campbell,08-01,Governor,,REP,Under Votes,0
+Campbell,08-01,Governor,,DEM,Kenneth R. Casner,0
+Campbell,08-01,Governor,,DEM,Write-ins,0
+Campbell,08-01,Governor,,DEM,Over Votes,0
+Campbell,08-01,Governor,,DEM,Under Votes,0
+Campbell,08-01,Secretary of State,,REP,CJ Young,9
+Campbell,08-01,Secretary of State,,REP,Qwenton Eagle Oviatt,1
+Campbell,08-01,Secretary of State,,REP,Rachel Williams,33
+Campbell,08-01,Secretary of State,,REP,Robert Short,29
+Campbell,08-01,Secretary of State,,REP,Write-ins,1
+Campbell,08-01,Secretary of State,,REP,Over Votes,0
+Campbell,08-01,Secretary of State,,REP,Under Votes,19
+Campbell,08-01,Secretary of State,,DEM,Bryan McCarty,0
+Campbell,08-01,Secretary of State,,DEM,Write-ins,0
+Campbell,08-01,Secretary of State,,DEM,Over Votes,0
+Campbell,08-01,Secretary of State,,DEM,Under Votes,0
+Campbell,08-01,State Auditor,,REP,Kristi Racines,71
+Campbell,08-01,State Auditor,,REP,Write-ins,0
+Campbell,08-01,State Auditor,,REP,Over Votes,0
+Campbell,08-01,State Auditor,,REP,Under Votes,21
+Campbell,08-01,State Auditor,,DEM,Write-ins,0
+Campbell,08-01,State Auditor,,DEM,Over Votes,0
+Campbell,08-01,State Auditor,,DEM,Under Votes,0
+Campbell,08-01,State Treasurer,,REP,Curt Meier,45
+Campbell,08-01,State Treasurer,,REP,Scott Smith,33
+Campbell,08-01,State Treasurer,,REP,Write-ins,0
+Campbell,08-01,State Treasurer,,REP,Over Votes,0
+Campbell,08-01,State Treasurer,,REP,Under Votes,14
+Campbell,08-01,State Treasurer,,DEM,Write-ins,0
+Campbell,08-01,State Treasurer,,DEM,Over Votes,0
+Campbell,08-01,State Treasurer,,DEM,Under Votes,0
+Campbell,08-01,Superintendent of Public Instruction,,REP,Chad Auer,3
+Campbell,08-01,Superintendent of Public Instruction,,REP,Steve Harshman,37
+Campbell,08-01,Superintendent of Public Instruction,,REP,Tom Kelly,33
+Campbell,08-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,08-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,08-01,Superintendent of Public Instruction,,REP,Under Votes,19
+Campbell,08-01,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Campbell,08-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,08-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,08-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,08-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,08-01,State Senate,1,REP,Chip Neiman,40
+Campbell,08-01,State Senate,1,REP,Ogden Driskill,50
+Campbell,08-01,State Senate,1,REP,Write-ins,0
+Campbell,08-01,State Senate,1,REP,Over Votes,0
+Campbell,08-01,State Senate,1,REP,Under Votes,2
+Campbell,08-01,State Senate,1,DEM,Write-ins,0
+Campbell,08-01,State Senate,1,DEM,Over Votes,0
+Campbell,08-01,State Senate,1,DEM,Under Votes,0
+Campbell,08-01,State House,52,REP,Bill Fortner,39
+Campbell,08-01,State House,52,REP,Ronda Boller,47
+Campbell,08-01,State House,52,REP,Write-ins,0
+Campbell,08-01,State House,52,REP,Over Votes,0
+Campbell,08-01,State House,52,REP,Under Votes,6
+Campbell,08-01,State House,52,DEM,Write-ins,0
+Campbell,08-01,State House,52,DEM,Over Votes,0
+Campbell,08-01,State House,52,DEM,Under Votes,0
+Campbell,08-01,Ballots Cast,,REP,Ballots Cast,92
+Campbell,08-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,08-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,08-01,Ballots Cast,,,Ballots Cast,92
+Campbell,09-01,U.S. Senate,,REP,Harriet Hageman,17
+Campbell,09-01,U.S. Senate,,REP,Jill M Edwards,1
+Campbell,09-01,U.S. Senate,,REP,Jimmy Skovgard,0
+Campbell,09-01,U.S. Senate,,REP,John Holtz,0
+Campbell,09-01,U.S. Senate,,REP,Sam Mead,14
+Campbell,09-01,U.S. Senate,,REP,Write-ins,0
+Campbell,09-01,U.S. Senate,,REP,Over Votes,0
+Campbell,09-01,U.S. Senate,,REP,Under Votes,1
+Campbell,09-01,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,09-01,U.S. Senate,,DEM,James Byrd,1
+Campbell,09-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,09-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,09-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,09-01,U.S. House,,REP,* Withdrawn Candidate,1
+Campbell,09-01,U.S. House,,REP,Bo Biteman,1
+Campbell,09-01,U.S. House,,REP,Chuck Gray,10
+Campbell,09-01,U.S. House,,REP,David Giralt,1
+Campbell,09-01,U.S. House,,REP,Jillian Balow,4
+Campbell,09-01,U.S. House,,REP,Keith B. Goodenough,0
+Campbell,09-01,U.S. House,,REP,Kevin Christensen,8
+Campbell,09-01,U.S. House,,REP,Reid Rasner,0
+Campbell,09-01,U.S. House,,REP,Richard Dodson,0
+Campbell,09-01,U.S. House,,REP,Steve Friess,5
+Campbell,09-01,U.S. House,,REP,Write-ins,0
+Campbell,09-01,U.S. House,,REP,Over Votes,0
+Campbell,09-01,U.S. House,,REP,Under Votes,3
+Campbell,09-01,U.S. House,,DEM,Elena Del Real,0
+Campbell,09-01,U.S. House,,DEM,Lisa Kinney,1
+Campbell,09-01,U.S. House,,DEM,Write-ins,0
+Campbell,09-01,U.S. House,,DEM,Over Votes,0
+Campbell,09-01,U.S. House,,DEM,Under Votes,0
+Campbell,09-01,Governor,,REP,Brent Bien,9
+Campbell,09-01,Governor,,REP,Curt Blake,0
+Campbell,09-01,Governor,,REP,Eric Barlow,22
+Campbell,09-01,Governor,,REP,Megan Degenfelder,2
+Campbell,09-01,Governor,,REP,Write-ins,0
+Campbell,09-01,Governor,,REP,Over Votes,0
+Campbell,09-01,Governor,,REP,Under Votes,0
+Campbell,09-01,Governor,,DEM,Kenneth R. Casner,1
+Campbell,09-01,Governor,,DEM,Write-ins,0
+Campbell,09-01,Governor,,DEM,Over Votes,0
+Campbell,09-01,Governor,,DEM,Under Votes,0
+Campbell,09-01,Secretary of State,,REP,CJ Young,0
+Campbell,09-01,Secretary of State,,REP,Qwenton Eagle Oviatt,0
+Campbell,09-01,Secretary of State,,REP,Rachel Williams,15
+Campbell,09-01,Secretary of State,,REP,Robert Short,16
+Campbell,09-01,Secretary of State,,REP,Write-ins,0
+Campbell,09-01,Secretary of State,,REP,Over Votes,0
+Campbell,09-01,Secretary of State,,REP,Under Votes,2
+Campbell,09-01,Secretary of State,,DEM,Bryan McCarty,1
+Campbell,09-01,Secretary of State,,DEM,Write-ins,0
+Campbell,09-01,Secretary of State,,DEM,Over Votes,0
+Campbell,09-01,Secretary of State,,DEM,Under Votes,0
+Campbell,09-01,State Auditor,,REP,Kristi Racines,25
+Campbell,09-01,State Auditor,,REP,Write-ins,0
+Campbell,09-01,State Auditor,,REP,Over Votes,0
+Campbell,09-01,State Auditor,,REP,Under Votes,8
+Campbell,09-01,State Auditor,,DEM,Write-ins,0
+Campbell,09-01,State Auditor,,DEM,Over Votes,0
+Campbell,09-01,State Auditor,,DEM,Under Votes,1
+Campbell,09-01,State Treasurer,,REP,Curt Meier,17
+Campbell,09-01,State Treasurer,,REP,Scott Smith,13
+Campbell,09-01,State Treasurer,,REP,Write-ins,0
+Campbell,09-01,State Treasurer,,REP,Over Votes,0
+Campbell,09-01,State Treasurer,,REP,Under Votes,3
+Campbell,09-01,State Treasurer,,DEM,Write-ins,0
+Campbell,09-01,State Treasurer,,DEM,Over Votes,0
+Campbell,09-01,State Treasurer,,DEM,Under Votes,1
+Campbell,09-01,Superintendent of Public Instruction,,REP,Chad Auer,3
+Campbell,09-01,Superintendent of Public Instruction,,REP,Steve Harshman,15
+Campbell,09-01,Superintendent of Public Instruction,,REP,Tom Kelly,12
+Campbell,09-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,09-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,09-01,Superintendent of Public Instruction,,REP,Under Votes,3
+Campbell,09-01,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Campbell,09-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,09-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,09-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,09-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,09-01,State House,32,REP,Ken Clouston,27
+Campbell,09-01,State House,32,REP,Write-ins,1
+Campbell,09-01,State House,32,REP,Over Votes,0
+Campbell,09-01,State House,32,REP,Under Votes,5
+Campbell,09-01,State House,32,DEM,Write-ins,0
+Campbell,09-01,State House,32,DEM,Over Votes,0
+Campbell,09-01,State House,32,DEM,Under Votes,1
+Campbell,09-01,Ballots Cast,,REP,Ballots Cast,33
+Campbell,09-01,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,09-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,09-01,Ballots Cast,,,Ballots Cast,34
+Campbell,13-01,U.S. Senate,,REP,Harriet Hageman,111
+Campbell,13-01,U.S. Senate,,REP,Jill M Edwards,2
+Campbell,13-01,U.S. Senate,,REP,Jimmy Skovgard,3
+Campbell,13-01,U.S. Senate,,REP,John Holtz,2
+Campbell,13-01,U.S. Senate,,REP,Sam Mead,28
+Campbell,13-01,U.S. Senate,,REP,Write-ins,0
+Campbell,13-01,U.S. Senate,,REP,Over Votes,0
+Campbell,13-01,U.S. Senate,,REP,Under Votes,2
+Campbell,13-01,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,13-01,U.S. Senate,,DEM,James Byrd,0
+Campbell,13-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,13-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,13-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,13-01,U.S. House,,REP,* Withdrawn Candidate,3
+Campbell,13-01,U.S. House,,REP,Bo Biteman,7
+Campbell,13-01,U.S. House,,REP,Chuck Gray,53
+Campbell,13-01,U.S. House,,REP,David Giralt,2
+Campbell,13-01,U.S. House,,REP,Jillian Balow,9
+Campbell,13-01,U.S. House,,REP,Keith B. Goodenough,3
+Campbell,13-01,U.S. House,,REP,Kevin Christensen,24
+Campbell,13-01,U.S. House,,REP,Reid Rasner,13
+Campbell,13-01,U.S. House,,REP,Richard Dodson,0
+Campbell,13-01,U.S. House,,REP,Steve Friess,24
+Campbell,13-01,U.S. House,,REP,Write-ins,0
+Campbell,13-01,U.S. House,,REP,Over Votes,2
+Campbell,13-01,U.S. House,,REP,Under Votes,8
+Campbell,13-01,U.S. House,,DEM,Elena Del Real,0
+Campbell,13-01,U.S. House,,DEM,Lisa Kinney,0
+Campbell,13-01,U.S. House,,DEM,Write-ins,0
+Campbell,13-01,U.S. House,,DEM,Over Votes,0
+Campbell,13-01,U.S. House,,DEM,Under Votes,0
+Campbell,13-01,Governor,,REP,Brent Bien,42
+Campbell,13-01,Governor,,REP,Curt Blake,0
+Campbell,13-01,Governor,,REP,Eric Barlow,59
+Campbell,13-01,Governor,,REP,Megan Degenfelder,46
+Campbell,13-01,Governor,,REP,Write-ins,0
+Campbell,13-01,Governor,,REP,Over Votes,0
+Campbell,13-01,Governor,,REP,Under Votes,1
+Campbell,13-01,Governor,,DEM,Kenneth R. Casner,0
+Campbell,13-01,Governor,,DEM,Write-ins,0
+Campbell,13-01,Governor,,DEM,Over Votes,0
+Campbell,13-01,Governor,,DEM,Under Votes,0
+Campbell,13-01,Secretary of State,,REP,CJ Young,7
+Campbell,13-01,Secretary of State,,REP,Qwenton Eagle Oviatt,11
+Campbell,13-01,Secretary of State,,REP,Rachel Williams,63
+Campbell,13-01,Secretary of State,,REP,Robert Short,42
+Campbell,13-01,Secretary of State,,REP,Write-ins,0
+Campbell,13-01,Secretary of State,,REP,Over Votes,0
+Campbell,13-01,Secretary of State,,REP,Under Votes,25
+Campbell,13-01,Secretary of State,,DEM,Bryan McCarty,0
+Campbell,13-01,Secretary of State,,DEM,Write-ins,0
+Campbell,13-01,Secretary of State,,DEM,Over Votes,0
+Campbell,13-01,Secretary of State,,DEM,Under Votes,0
+Campbell,13-01,State Auditor,,REP,Kristi Racines,115
+Campbell,13-01,State Auditor,,REP,Write-ins,1
+Campbell,13-01,State Auditor,,REP,Over Votes,0
+Campbell,13-01,State Auditor,,REP,Under Votes,32
+Campbell,13-01,State Auditor,,DEM,Write-ins,0
+Campbell,13-01,State Auditor,,DEM,Over Votes,0
+Campbell,13-01,State Auditor,,DEM,Under Votes,0
+Campbell,13-01,State Treasurer,,REP,Curt Meier,74
+Campbell,13-01,State Treasurer,,REP,Scott Smith,53
+Campbell,13-01,State Treasurer,,REP,Write-ins,0
+Campbell,13-01,State Treasurer,,REP,Over Votes,1
+Campbell,13-01,State Treasurer,,REP,Under Votes,20
+Campbell,13-01,State Treasurer,,DEM,Write-ins,0
+Campbell,13-01,State Treasurer,,DEM,Over Votes,0
+Campbell,13-01,State Treasurer,,DEM,Under Votes,0
+Campbell,13-01,Superintendent of Public Instruction,,REP,Chad Auer,7
+Campbell,13-01,Superintendent of Public Instruction,,REP,Steve Harshman,64
+Campbell,13-01,Superintendent of Public Instruction,,REP,Tom Kelly,51
+Campbell,13-01,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,13-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,13-01,Superintendent of Public Instruction,,REP,Under Votes,25
+Campbell,13-01,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Campbell,13-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,13-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,13-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,13-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,13-01,State Senate,23,REP,Abby Angelos,90
+Campbell,13-01,State Senate,23,REP,Dwayne Dillinger,54
+Campbell,13-01,State Senate,23,REP,Write-ins,0
+Campbell,13-01,State Senate,23,REP,Over Votes,0
+Campbell,13-01,State Senate,23,REP,Under Votes,4
+Campbell,13-01,State Senate,23,DEM,Write-ins,0
+Campbell,13-01,State Senate,23,DEM,Over Votes,0
+Campbell,13-01,State Senate,23,DEM,Under Votes,0
+Campbell,13-01,State House,3,REP,Anne Ziegenhorn,62
+Campbell,13-01,State House,3,REP,Earl Collier,74
+Campbell,13-01,State House,3,REP,Write-ins,0
+Campbell,13-01,State House,3,REP,Over Votes,0
+Campbell,13-01,State House,3,REP,Under Votes,12
+Campbell,13-01,State House,3,DEM,Write-ins,0
+Campbell,13-01,State House,3,DEM,Over Votes,0
+Campbell,13-01,State House,3,DEM,Under Votes,0
+Campbell,13-01,Ballots Cast,,REP,Ballots Cast,148
+Campbell,13-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,13-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,13-01,Ballots Cast,,,Ballots Cast,148
+Campbell,14-01,U.S. Senate,,REP,Harriet Hageman,217
+Campbell,14-01,U.S. Senate,,REP,Jill M Edwards,17
+Campbell,14-01,U.S. Senate,,REP,Jimmy Skovgard,6
+Campbell,14-01,U.S. Senate,,REP,John Holtz,10
+Campbell,14-01,U.S. Senate,,REP,Sam Mead,48
+Campbell,14-01,U.S. Senate,,REP,Write-ins,0
+Campbell,14-01,U.S. Senate,,REP,Over Votes,0
+Campbell,14-01,U.S. Senate,,REP,Under Votes,7
+Campbell,14-01,U.S. Senate,,DEM,Billy Benavidez,4
+Campbell,14-01,U.S. Senate,,DEM,James Byrd,7
+Campbell,14-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,14-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,14-01,U.S. Senate,,DEM,Under Votes,1
+Campbell,14-01,U.S. House,,REP,* Withdrawn Candidate,6
+Campbell,14-01,U.S. House,,REP,Bo Biteman,12
+Campbell,14-01,U.S. House,,REP,Chuck Gray,91
+Campbell,14-01,U.S. House,,REP,David Giralt,29
+Campbell,14-01,U.S. House,,REP,Jillian Balow,43
+Campbell,14-01,U.S. House,,REP,Keith B. Goodenough,10
+Campbell,14-01,U.S. House,,REP,Kevin Christensen,31
+Campbell,14-01,U.S. House,,REP,Reid Rasner,30
+Campbell,14-01,U.S. House,,REP,Richard Dodson,2
+Campbell,14-01,U.S. House,,REP,Steve Friess,30
+Campbell,14-01,U.S. House,,REP,Write-ins,0
+Campbell,14-01,U.S. House,,REP,Over Votes,5
+Campbell,14-01,U.S. House,,REP,Under Votes,16
+Campbell,14-01,U.S. House,,DEM,Elena Del Real,3
+Campbell,14-01,U.S. House,,DEM,Lisa Kinney,8
+Campbell,14-01,U.S. House,,DEM,Write-ins,0
+Campbell,14-01,U.S. House,,DEM,Over Votes,0
+Campbell,14-01,U.S. House,,DEM,Under Votes,1
+Campbell,14-01,Governor,,REP,Brent Bien,76
+Campbell,14-01,Governor,,REP,Curt Blake,3
+Campbell,14-01,Governor,,REP,Eric Barlow,131
+Campbell,14-01,Governor,,REP,Megan Degenfelder,95
+Campbell,14-01,Governor,,REP,Write-ins,0
+Campbell,14-01,Governor,,REP,Over Votes,0
+Campbell,14-01,Governor,,REP,Under Votes,0
+Campbell,14-01,Governor,,DEM,Kenneth R. Casner,11
+Campbell,14-01,Governor,,DEM,Write-ins,0
+Campbell,14-01,Governor,,DEM,Over Votes,0
+Campbell,14-01,Governor,,DEM,Under Votes,1
+Campbell,14-01,Secretary of State,,REP,CJ Young,34
+Campbell,14-01,Secretary of State,,REP,Qwenton Eagle Oviatt,8
+Campbell,14-01,Secretary of State,,REP,Rachel Williams,141
+Campbell,14-01,Secretary of State,,REP,Robert Short,83
+Campbell,14-01,Secretary of State,,REP,Write-ins,1
+Campbell,14-01,Secretary of State,,REP,Over Votes,1
+Campbell,14-01,Secretary of State,,REP,Under Votes,37
+Campbell,14-01,Secretary of State,,DEM,Bryan McCarty,11
+Campbell,14-01,Secretary of State,,DEM,Write-ins,0
+Campbell,14-01,Secretary of State,,DEM,Over Votes,0
+Campbell,14-01,Secretary of State,,DEM,Under Votes,1
+Campbell,14-01,State Auditor,,REP,Kristi Racines,256
+Campbell,14-01,State Auditor,,REP,Write-ins,2
+Campbell,14-01,State Auditor,,REP,Over Votes,0
+Campbell,14-01,State Auditor,,REP,Under Votes,47
+Campbell,14-01,State Auditor,,DEM,Write-ins,1
+Campbell,14-01,State Auditor,,DEM,Over Votes,0
+Campbell,14-01,State Auditor,,DEM,Under Votes,11
+Campbell,14-01,State Treasurer,,REP,Curt Meier,127
+Campbell,14-01,State Treasurer,,REP,Scott Smith,132
+Campbell,14-01,State Treasurer,,REP,Write-ins,1
+Campbell,14-01,State Treasurer,,REP,Over Votes,0
+Campbell,14-01,State Treasurer,,REP,Under Votes,45
+Campbell,14-01,State Treasurer,,DEM,Write-ins,1
+Campbell,14-01,State Treasurer,,DEM,Over Votes,0
+Campbell,14-01,State Treasurer,,DEM,Under Votes,11
+Campbell,14-01,Superintendent of Public Instruction,,REP,Chad Auer,31
+Campbell,14-01,Superintendent of Public Instruction,,REP,Steve Harshman,138
+Campbell,14-01,Superintendent of Public Instruction,,REP,Tom Kelly,101
+Campbell,14-01,Superintendent of Public Instruction,,REP,Write-ins,2
+Campbell,14-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,14-01,Superintendent of Public Instruction,,REP,Under Votes,33
+Campbell,14-01,Superintendent of Public Instruction,,DEM,Ana Cordova,4
+Campbell,14-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Campbell,14-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,14-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,14-01,Superintendent of Public Instruction,,DEM,Under Votes,3
+Campbell,14-01,State Senate,23,REP,Abby Angelos,191
+Campbell,14-01,State Senate,23,REP,Dwayne Dillinger,107
+Campbell,14-01,State Senate,23,REP,Write-ins,0
+Campbell,14-01,State Senate,23,REP,Over Votes,1
+Campbell,14-01,State Senate,23,REP,Under Votes,6
+Campbell,14-01,State Senate,23,DEM,Write-ins,1
+Campbell,14-01,State Senate,23,DEM,Over Votes,0
+Campbell,14-01,State Senate,23,DEM,Under Votes,11
+Campbell,14-01,State House,3,REP,Anne Ziegenhorn,186
+Campbell,14-01,State House,3,REP,Earl Collier,107
+Campbell,14-01,State House,3,REP,Write-ins,0
+Campbell,14-01,State House,3,REP,Over Votes,0
+Campbell,14-01,State House,3,REP,Under Votes,12
+Campbell,14-01,State House,3,DEM,Write-ins,1
+Campbell,14-01,State House,3,DEM,Over Votes,0
+Campbell,14-01,State House,3,DEM,Under Votes,11
+Campbell,14-01,Ballots Cast,,REP,Ballots Cast,305
+Campbell,14-01,Ballots Cast,,DEM,Ballots Cast,12
+Campbell,14-01,Ballots Cast,,NP,Ballots Cast,25
+Campbell,14-01,Ballots Cast,,,Ballots Cast,342
+Campbell,14-02,U.S. Senate,,REP,Harriet Hageman,176
+Campbell,14-02,U.S. Senate,,REP,Jill M Edwards,12
+Campbell,14-02,U.S. Senate,,REP,Jimmy Skovgard,0
+Campbell,14-02,U.S. Senate,,REP,John Holtz,3
+Campbell,14-02,U.S. Senate,,REP,Sam Mead,25
+Campbell,14-02,U.S. Senate,,REP,Write-ins,0
+Campbell,14-02,U.S. Senate,,REP,Over Votes,0
+Campbell,14-02,U.S. Senate,,REP,Under Votes,4
+Campbell,14-02,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,14-02,U.S. Senate,,DEM,James Byrd,1
+Campbell,14-02,U.S. Senate,,DEM,Write-ins,0
+Campbell,14-02,U.S. Senate,,DEM,Over Votes,0
+Campbell,14-02,U.S. Senate,,DEM,Under Votes,0
+Campbell,14-02,U.S. House,,REP,* Withdrawn Candidate,3
+Campbell,14-02,U.S. House,,REP,Bo Biteman,5
+Campbell,14-02,U.S. House,,REP,Chuck Gray,61
+Campbell,14-02,U.S. House,,REP,David Giralt,12
+Campbell,14-02,U.S. House,,REP,Jillian Balow,34
+Campbell,14-02,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,14-02,U.S. House,,REP,Kevin Christensen,16
+Campbell,14-02,U.S. House,,REP,Reid Rasner,30
+Campbell,14-02,U.S. House,,REP,Richard Dodson,0
+Campbell,14-02,U.S. House,,REP,Steve Friess,38
+Campbell,14-02,U.S. House,,REP,Write-ins,0
+Campbell,14-02,U.S. House,,REP,Over Votes,5
+Campbell,14-02,U.S. House,,REP,Under Votes,15
+Campbell,14-02,U.S. House,,DEM,Elena Del Real,0
+Campbell,14-02,U.S. House,,DEM,Lisa Kinney,1
+Campbell,14-02,U.S. House,,DEM,Write-ins,0
+Campbell,14-02,U.S. House,,DEM,Over Votes,0
+Campbell,14-02,U.S. House,,DEM,Under Votes,0
+Campbell,14-02,Governor,,REP,Brent Bien,45
+Campbell,14-02,Governor,,REP,Curt Blake,1
+Campbell,14-02,Governor,,REP,Eric Barlow,102
+Campbell,14-02,Governor,,REP,Megan Degenfelder,70
+Campbell,14-02,Governor,,REP,Write-ins,0
+Campbell,14-02,Governor,,REP,Over Votes,0
+Campbell,14-02,Governor,,REP,Under Votes,2
+Campbell,14-02,Governor,,DEM,Kenneth R. Casner,1
+Campbell,14-02,Governor,,DEM,Write-ins,0
+Campbell,14-02,Governor,,DEM,Over Votes,0
+Campbell,14-02,Governor,,DEM,Under Votes,0
+Campbell,14-02,Secretary of State,,REP,CJ Young,14
+Campbell,14-02,Secretary of State,,REP,Qwenton Eagle Oviatt,11
+Campbell,14-02,Secretary of State,,REP,Rachel Williams,94
+Campbell,14-02,Secretary of State,,REP,Robert Short,67
+Campbell,14-02,Secretary of State,,REP,Write-ins,0
+Campbell,14-02,Secretary of State,,REP,Over Votes,0
+Campbell,14-02,Secretary of State,,REP,Under Votes,34
+Campbell,14-02,Secretary of State,,DEM,Bryan McCarty,1
+Campbell,14-02,Secretary of State,,DEM,Write-ins,0
+Campbell,14-02,Secretary of State,,DEM,Over Votes,0
+Campbell,14-02,Secretary of State,,DEM,Under Votes,0
+Campbell,14-02,State Auditor,,REP,Kristi Racines,176
+Campbell,14-02,State Auditor,,REP,Write-ins,0
+Campbell,14-02,State Auditor,,REP,Over Votes,0
+Campbell,14-02,State Auditor,,REP,Under Votes,44
+Campbell,14-02,State Auditor,,DEM,Write-ins,0
+Campbell,14-02,State Auditor,,DEM,Over Votes,0
+Campbell,14-02,State Auditor,,DEM,Under Votes,1
+Campbell,14-02,State Treasurer,,REP,Curt Meier,113
+Campbell,14-02,State Treasurer,,REP,Scott Smith,73
+Campbell,14-02,State Treasurer,,REP,Write-ins,0
+Campbell,14-02,State Treasurer,,REP,Over Votes,0
+Campbell,14-02,State Treasurer,,REP,Under Votes,34
+Campbell,14-02,State Treasurer,,DEM,Write-ins,0
+Campbell,14-02,State Treasurer,,DEM,Over Votes,0
+Campbell,14-02,State Treasurer,,DEM,Under Votes,1
+Campbell,14-02,Superintendent of Public Instruction,,REP,Chad Auer,14
+Campbell,14-02,Superintendent of Public Instruction,,REP,Steve Harshman,82
+Campbell,14-02,Superintendent of Public Instruction,,REP,Tom Kelly,85
+Campbell,14-02,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,14-02,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,14-02,Superintendent of Public Instruction,,REP,Under Votes,38
+Campbell,14-02,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Campbell,14-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,14-02,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,14-02,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,14-02,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,14-02,State Senate,23,REP,Abby Angelos,116
+Campbell,14-02,State Senate,23,REP,Dwayne Dillinger,91
+Campbell,14-02,State Senate,23,REP,Write-ins,0
+Campbell,14-02,State Senate,23,REP,Over Votes,0
+Campbell,14-02,State Senate,23,REP,Under Votes,13
+Campbell,14-02,State Senate,23,DEM,Write-ins,0
+Campbell,14-02,State Senate,23,DEM,Over Votes,0
+Campbell,14-02,State Senate,23,DEM,Under Votes,1
+Campbell,14-02,State House,3,REP,Anne Ziegenhorn,127
+Campbell,14-02,State House,3,REP,Earl Collier,80
+Campbell,14-02,State House,3,REP,Write-ins,0
+Campbell,14-02,State House,3,REP,Over Votes,0
+Campbell,14-02,State House,3,REP,Under Votes,13
+Campbell,14-02,State House,3,DEM,Write-ins,0
+Campbell,14-02,State House,3,DEM,Over Votes,0
+Campbell,14-02,State House,3,DEM,Under Votes,1
+Campbell,14-02,Ballots Cast,,REP,Ballots Cast,220
+Campbell,14-02,Ballots Cast,,DEM,Ballots Cast,1
+Campbell,14-02,Ballots Cast,,NP,Ballots Cast,0
+Campbell,14-02,Ballots Cast,,,Ballots Cast,221
+Campbell,18-01,U.S. Senate,,REP,Harriet Hageman,174
+Campbell,18-01,U.S. Senate,,REP,Jill M Edwards,5
+Campbell,18-01,U.S. Senate,,REP,Jimmy Skovgard,3
+Campbell,18-01,U.S. Senate,,REP,John Holtz,2
+Campbell,18-01,U.S. Senate,,REP,Sam Mead,29
+Campbell,18-01,U.S. Senate,,REP,Write-ins,0
+Campbell,18-01,U.S. Senate,,REP,Over Votes,0
+Campbell,18-01,U.S. Senate,,REP,Under Votes,6
+Campbell,18-01,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,18-01,U.S. Senate,,DEM,James Byrd,3
+Campbell,18-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,18-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,18-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,18-01,U.S. House,,REP,* Withdrawn Candidate,7
+Campbell,18-01,U.S. House,,REP,Bo Biteman,3
+Campbell,18-01,U.S. House,,REP,Chuck Gray,75
+Campbell,18-01,U.S. House,,REP,David Giralt,5
+Campbell,18-01,U.S. House,,REP,Jillian Balow,27
+Campbell,18-01,U.S. House,,REP,Keith B. Goodenough,0
+Campbell,18-01,U.S. House,,REP,Kevin Christensen,23
+Campbell,18-01,U.S. House,,REP,Reid Rasner,36
+Campbell,18-01,U.S. House,,REP,Richard Dodson,3
+Campbell,18-01,U.S. House,,REP,Steve Friess,24
+Campbell,18-01,U.S. House,,REP,Write-ins,0
+Campbell,18-01,U.S. House,,REP,Over Votes,9
+Campbell,18-01,U.S. House,,REP,Under Votes,7
+Campbell,18-01,U.S. House,,DEM,Elena Del Real,0
+Campbell,18-01,U.S. House,,DEM,Lisa Kinney,4
+Campbell,18-01,U.S. House,,DEM,Write-ins,0
+Campbell,18-01,U.S. House,,DEM,Over Votes,0
+Campbell,18-01,U.S. House,,DEM,Under Votes,0
+Campbell,18-01,Governor,,REP,Brent Bien,66
+Campbell,18-01,Governor,,REP,Curt Blake,1
+Campbell,18-01,Governor,,REP,Eric Barlow,79
+Campbell,18-01,Governor,,REP,Megan Degenfelder,71
+Campbell,18-01,Governor,,REP,Write-ins,0
+Campbell,18-01,Governor,,REP,Over Votes,0
+Campbell,18-01,Governor,,REP,Under Votes,2
+Campbell,18-01,Governor,,DEM,Kenneth R. Casner,3
+Campbell,18-01,Governor,,DEM,Write-ins,0
+Campbell,18-01,Governor,,DEM,Over Votes,0
+Campbell,18-01,Governor,,DEM,Under Votes,1
+Campbell,18-01,Secretary of State,,REP,CJ Young,21
+Campbell,18-01,Secretary of State,,REP,Qwenton Eagle Oviatt,11
+Campbell,18-01,Secretary of State,,REP,Rachel Williams,106
+Campbell,18-01,Secretary of State,,REP,Robert Short,57
+Campbell,18-01,Secretary of State,,REP,Write-ins,0
+Campbell,18-01,Secretary of State,,REP,Over Votes,0
+Campbell,18-01,Secretary of State,,REP,Under Votes,24
+Campbell,18-01,Secretary of State,,DEM,Bryan McCarty,3
+Campbell,18-01,Secretary of State,,DEM,Write-ins,0
+Campbell,18-01,Secretary of State,,DEM,Over Votes,0
+Campbell,18-01,Secretary of State,,DEM,Under Votes,1
+Campbell,18-01,State Auditor,,REP,Kristi Racines,173
+Campbell,18-01,State Auditor,,REP,Write-ins,2
+Campbell,18-01,State Auditor,,REP,Over Votes,0
+Campbell,18-01,State Auditor,,REP,Under Votes,44
+Campbell,18-01,State Auditor,,DEM,Write-ins,0
+Campbell,18-01,State Auditor,,DEM,Over Votes,0
+Campbell,18-01,State Auditor,,DEM,Under Votes,4
+Campbell,18-01,State Treasurer,,REP,Curt Meier,103
+Campbell,18-01,State Treasurer,,REP,Scott Smith,88
+Campbell,18-01,State Treasurer,,REP,Write-ins,0
+Campbell,18-01,State Treasurer,,REP,Over Votes,0
+Campbell,18-01,State Treasurer,,REP,Under Votes,28
+Campbell,18-01,State Treasurer,,DEM,Write-ins,0
+Campbell,18-01,State Treasurer,,DEM,Over Votes,0
+Campbell,18-01,State Treasurer,,DEM,Under Votes,4
+Campbell,18-01,Superintendent of Public Instruction,,REP,Chad Auer,16
+Campbell,18-01,Superintendent of Public Instruction,,REP,Steve Harshman,88
+Campbell,18-01,Superintendent of Public Instruction,,REP,Tom Kelly,87
+Campbell,18-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,18-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,18-01,Superintendent of Public Instruction,,REP,Under Votes,28
+Campbell,18-01,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Campbell,18-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,18-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,18-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,18-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,18-01,State Senate,1,REP,Chip Neiman,98
+Campbell,18-01,State Senate,1,REP,Ogden Driskill,109
+Campbell,18-01,State Senate,1,REP,Write-ins,0
+Campbell,18-01,State Senate,1,REP,Over Votes,0
+Campbell,18-01,State Senate,1,REP,Under Votes,12
+Campbell,18-01,State Senate,1,DEM,Write-ins,0
+Campbell,18-01,State Senate,1,DEM,Over Votes,0
+Campbell,18-01,State Senate,1,DEM,Under Votes,4
+Campbell,18-01,State House,52,REP,Bill Fortner,108
+Campbell,18-01,State House,52,REP,Ronda Boller,104
+Campbell,18-01,State House,52,REP,Write-ins,0
+Campbell,18-01,State House,52,REP,Over Votes,0
+Campbell,18-01,State House,52,REP,Under Votes,7
+Campbell,18-01,State House,52,DEM,Write-ins,0
+Campbell,18-01,State House,52,DEM,Over Votes,0
+Campbell,18-01,State House,52,DEM,Under Votes,4
+Campbell,18-01,Ballots Cast,,REP,Ballots Cast,219
+Campbell,18-01,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,18-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,18-01,Ballots Cast,,,Ballots Cast,223
+Campbell,19-01,U.S. Senate,,REP,Harriet Hageman,119
+Campbell,19-01,U.S. Senate,,REP,Jill M Edwards,7
+Campbell,19-01,U.S. Senate,,REP,Jimmy Skovgard,0
+Campbell,19-01,U.S. Senate,,REP,John Holtz,2
+Campbell,19-01,U.S. Senate,,REP,Sam Mead,26
+Campbell,19-01,U.S. Senate,,REP,Write-ins,1
+Campbell,19-01,U.S. Senate,,REP,Over Votes,0
+Campbell,19-01,U.S. Senate,,REP,Under Votes,4
+Campbell,19-01,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,19-01,U.S. Senate,,DEM,James Byrd,3
+Campbell,19-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,19-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,19-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,19-01,U.S. House,,REP,* Withdrawn Candidate,1
+Campbell,19-01,U.S. House,,REP,Bo Biteman,5
+Campbell,19-01,U.S. House,,REP,Chuck Gray,45
+Campbell,19-01,U.S. House,,REP,David Giralt,15
+Campbell,19-01,U.S. House,,REP,Jillian Balow,23
+Campbell,19-01,U.S. House,,REP,Keith B. Goodenough,0
+Campbell,19-01,U.S. House,,REP,Kevin Christensen,10
+Campbell,19-01,U.S. House,,REP,Reid Rasner,18
+Campbell,19-01,U.S. House,,REP,Richard Dodson,3
+Campbell,19-01,U.S. House,,REP,Steve Friess,27
+Campbell,19-01,U.S. House,,REP,Write-ins,1
+Campbell,19-01,U.S. House,,REP,Over Votes,3
+Campbell,19-01,U.S. House,,REP,Under Votes,8
+Campbell,19-01,U.S. House,,DEM,Elena Del Real,2
+Campbell,19-01,U.S. House,,DEM,Lisa Kinney,2
+Campbell,19-01,U.S. House,,DEM,Write-ins,0
+Campbell,19-01,U.S. House,,DEM,Over Votes,0
+Campbell,19-01,U.S. House,,DEM,Under Votes,0
+Campbell,19-01,Governor,,REP,Brent Bien,57
+Campbell,19-01,Governor,,REP,Curt Blake,0
+Campbell,19-01,Governor,,REP,Eric Barlow,62
+Campbell,19-01,Governor,,REP,Megan Degenfelder,40
+Campbell,19-01,Governor,,REP,Write-ins,0
+Campbell,19-01,Governor,,REP,Over Votes,0
+Campbell,19-01,Governor,,REP,Under Votes,0
+Campbell,19-01,Governor,,DEM,Kenneth R. Casner,2
+Campbell,19-01,Governor,,DEM,Write-ins,0
+Campbell,19-01,Governor,,DEM,Over Votes,0
+Campbell,19-01,Governor,,DEM,Under Votes,2
+Campbell,19-01,Secretary of State,,REP,CJ Young,13
+Campbell,19-01,Secretary of State,,REP,Qwenton Eagle Oviatt,7
+Campbell,19-01,Secretary of State,,REP,Rachel Williams,68
+Campbell,19-01,Secretary of State,,REP,Robert Short,48
+Campbell,19-01,Secretary of State,,REP,Write-ins,2
+Campbell,19-01,Secretary of State,,REP,Over Votes,0
+Campbell,19-01,Secretary of State,,REP,Under Votes,21
+Campbell,19-01,Secretary of State,,DEM,Bryan McCarty,4
+Campbell,19-01,Secretary of State,,DEM,Write-ins,0
+Campbell,19-01,Secretary of State,,DEM,Over Votes,0
+Campbell,19-01,Secretary of State,,DEM,Under Votes,0
+Campbell,19-01,State Auditor,,REP,Kristi Racines,130
+Campbell,19-01,State Auditor,,REP,Write-ins,0
+Campbell,19-01,State Auditor,,REP,Over Votes,0
+Campbell,19-01,State Auditor,,REP,Under Votes,29
+Campbell,19-01,State Auditor,,DEM,Write-ins,0
+Campbell,19-01,State Auditor,,DEM,Over Votes,0
+Campbell,19-01,State Auditor,,DEM,Under Votes,4
+Campbell,19-01,State Treasurer,,REP,Curt Meier,72
+Campbell,19-01,State Treasurer,,REP,Scott Smith,66
+Campbell,19-01,State Treasurer,,REP,Write-ins,0
+Campbell,19-01,State Treasurer,,REP,Over Votes,0
+Campbell,19-01,State Treasurer,,REP,Under Votes,21
+Campbell,19-01,State Treasurer,,DEM,Write-ins,0
+Campbell,19-01,State Treasurer,,DEM,Over Votes,0
+Campbell,19-01,State Treasurer,,DEM,Under Votes,4
+Campbell,19-01,Superintendent of Public Instruction,,REP,Chad Auer,19
+Campbell,19-01,Superintendent of Public Instruction,,REP,Steve Harshman,62
+Campbell,19-01,Superintendent of Public Instruction,,REP,Tom Kelly,56
+Campbell,19-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,19-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,19-01,Superintendent of Public Instruction,,REP,Under Votes,22
+Campbell,19-01,Superintendent of Public Instruction,,DEM,Ana Cordova,3
+Campbell,19-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Campbell,19-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,19-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,19-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,19-01,State Senate,23,REP,Abby Angelos,90
+Campbell,19-01,State Senate,23,REP,Dwayne Dillinger,61
+Campbell,19-01,State Senate,23,REP,Write-ins,0
+Campbell,19-01,State Senate,23,REP,Over Votes,1
+Campbell,19-01,State Senate,23,REP,Under Votes,7
+Campbell,19-01,State Senate,23,DEM,Write-ins,0
+Campbell,19-01,State Senate,23,DEM,Over Votes,0
+Campbell,19-01,State Senate,23,DEM,Under Votes,4
+Campbell,19-01,State House,3,REP,Anne Ziegenhorn,42
+Campbell,19-01,State House,3,REP,Earl Collier,98
+Campbell,19-01,State House,3,REP,Write-ins,0
+Campbell,19-01,State House,3,REP,Over Votes,0
+Campbell,19-01,State House,3,REP,Under Votes,19
+Campbell,19-01,State House,3,DEM,Write-ins,0
+Campbell,19-01,State House,3,DEM,Over Votes,0
+Campbell,19-01,State House,3,DEM,Under Votes,4
+Campbell,19-01,Ballots Cast,,REP,Ballots Cast,159
+Campbell,19-01,Ballots Cast,,DEM,Ballots Cast,4
+Campbell,19-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,19-01,Ballots Cast,,,Ballots Cast,163
+Campbell,22-01,U.S. Senate,,REP,Harriet Hageman,177
+Campbell,22-01,U.S. Senate,,REP,Jill M Edwards,11
+Campbell,22-01,U.S. Senate,,REP,Jimmy Skovgard,5
+Campbell,22-01,U.S. Senate,,REP,John Holtz,6
+Campbell,22-01,U.S. Senate,,REP,Sam Mead,56
+Campbell,22-01,U.S. Senate,,REP,Write-ins,0
+Campbell,22-01,U.S. Senate,,REP,Over Votes,0
+Campbell,22-01,U.S. Senate,,REP,Under Votes,4
+Campbell,22-01,U.S. Senate,,DEM,Billy Benavidez,3
+Campbell,22-01,U.S. Senate,,DEM,James Byrd,2
+Campbell,22-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,22-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,22-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,22-01,U.S. House,,REP,* Withdrawn Candidate,6
+Campbell,22-01,U.S. House,,REP,Bo Biteman,6
+Campbell,22-01,U.S. House,,REP,Chuck Gray,82
+Campbell,22-01,U.S. House,,REP,David Giralt,8
+Campbell,22-01,U.S. House,,REP,Jillian Balow,31
+Campbell,22-01,U.S. House,,REP,Keith B. Goodenough,4
+Campbell,22-01,U.S. House,,REP,Kevin Christensen,42
+Campbell,22-01,U.S. House,,REP,Reid Rasner,23
+Campbell,22-01,U.S. House,,REP,Richard Dodson,4
+Campbell,22-01,U.S. House,,REP,Steve Friess,39
+Campbell,22-01,U.S. House,,REP,Write-ins,0
+Campbell,22-01,U.S. House,,REP,Over Votes,7
+Campbell,22-01,U.S. House,,REP,Under Votes,7
+Campbell,22-01,U.S. House,,DEM,Elena Del Real,1
+Campbell,22-01,U.S. House,,DEM,Lisa Kinney,4
+Campbell,22-01,U.S. House,,DEM,Write-ins,0
+Campbell,22-01,U.S. House,,DEM,Over Votes,0
+Campbell,22-01,U.S. House,,DEM,Under Votes,0
+Campbell,22-01,Governor,,REP,Brent Bien,59
+Campbell,22-01,Governor,,REP,Curt Blake,1
+Campbell,22-01,Governor,,REP,Eric Barlow,123
+Campbell,22-01,Governor,,REP,Megan Degenfelder,75
+Campbell,22-01,Governor,,REP,Write-ins,0
+Campbell,22-01,Governor,,REP,Over Votes,0
+Campbell,22-01,Governor,,REP,Under Votes,1
+Campbell,22-01,Governor,,DEM,Kenneth R. Casner,2
+Campbell,22-01,Governor,,DEM,Write-ins,3
+Campbell,22-01,Governor,,DEM,Over Votes,0
+Campbell,22-01,Governor,,DEM,Under Votes,0
+Campbell,22-01,Secretary of State,,REP,CJ Young,28
+Campbell,22-01,Secretary of State,,REP,Qwenton Eagle Oviatt,4
+Campbell,22-01,Secretary of State,,REP,Rachel Williams,105
+Campbell,22-01,Secretary of State,,REP,Robert Short,103
+Campbell,22-01,Secretary of State,,REP,Write-ins,0
+Campbell,22-01,Secretary of State,,REP,Over Votes,1
+Campbell,22-01,Secretary of State,,REP,Under Votes,18
+Campbell,22-01,Secretary of State,,DEM,Bryan McCarty,5
+Campbell,22-01,Secretary of State,,DEM,Write-ins,0
+Campbell,22-01,Secretary of State,,DEM,Over Votes,0
+Campbell,22-01,Secretary of State,,DEM,Under Votes,0
+Campbell,22-01,State Auditor,,REP,Kristi Racines,223
+Campbell,22-01,State Auditor,,REP,Write-ins,0
+Campbell,22-01,State Auditor,,REP,Over Votes,0
+Campbell,22-01,State Auditor,,REP,Under Votes,36
+Campbell,22-01,State Auditor,,DEM,Write-ins,0
+Campbell,22-01,State Auditor,,DEM,Over Votes,0
+Campbell,22-01,State Auditor,,DEM,Under Votes,5
+Campbell,22-01,State Treasurer,,REP,Curt Meier,162
+Campbell,22-01,State Treasurer,,REP,Scott Smith,69
+Campbell,22-01,State Treasurer,,REP,Write-ins,1
+Campbell,22-01,State Treasurer,,REP,Over Votes,0
+Campbell,22-01,State Treasurer,,REP,Under Votes,27
+Campbell,22-01,State Treasurer,,DEM,Write-ins,0
+Campbell,22-01,State Treasurer,,DEM,Over Votes,0
+Campbell,22-01,State Treasurer,,DEM,Under Votes,5
+Campbell,22-01,Superintendent of Public Instruction,,REP,Chad Auer,12
+Campbell,22-01,Superintendent of Public Instruction,,REP,Steve Harshman,129
+Campbell,22-01,Superintendent of Public Instruction,,REP,Tom Kelly,97
+Campbell,22-01,Superintendent of Public Instruction,,REP,Write-ins,2
+Campbell,22-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,22-01,Superintendent of Public Instruction,,REP,Under Votes,19
+Campbell,22-01,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Campbell,22-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Campbell,22-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,22-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,22-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,22-01,State Senate,1,REP,Chip Neiman,106
+Campbell,22-01,State Senate,1,REP,Ogden Driskill,139
+Campbell,22-01,State Senate,1,REP,Write-ins,0
+Campbell,22-01,State Senate,1,REP,Over Votes,0
+Campbell,22-01,State Senate,1,REP,Under Votes,14
+Campbell,22-01,State Senate,1,DEM,Write-ins,1
+Campbell,22-01,State Senate,1,DEM,Over Votes,0
+Campbell,22-01,State Senate,1,DEM,Under Votes,4
+Campbell,22-01,State House,52,REP,Bill Fortner,118
+Campbell,22-01,State House,52,REP,Ronda Boller,130
+Campbell,22-01,State House,52,REP,Write-ins,1
+Campbell,22-01,State House,52,REP,Over Votes,0
+Campbell,22-01,State House,52,REP,Under Votes,10
+Campbell,22-01,State House,52,DEM,Write-ins,0
+Campbell,22-01,State House,52,DEM,Over Votes,0
+Campbell,22-01,State House,52,DEM,Under Votes,5
+Campbell,22-01,Ballots Cast,,REP,Ballots Cast,259
+Campbell,22-01,Ballots Cast,,DEM,Ballots Cast,5
+Campbell,22-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,22-01,Ballots Cast,,,Ballots Cast,264
+Campbell,23-01,U.S. Senate,,REP,Harriet Hageman,308
+Campbell,23-01,U.S. Senate,,REP,Jill M Edwards,3
+Campbell,23-01,U.S. Senate,,REP,Jimmy Skovgard,1
+Campbell,23-01,U.S. Senate,,REP,John Holtz,3
+Campbell,23-01,U.S. Senate,,REP,Sam Mead,97
+Campbell,23-01,U.S. Senate,,REP,Write-ins,0
+Campbell,23-01,U.S. Senate,,REP,Over Votes,0
+Campbell,23-01,U.S. Senate,,REP,Under Votes,10
+Campbell,23-01,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,23-01,U.S. Senate,,DEM,James Byrd,1
+Campbell,23-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,23-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,23-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,23-01,U.S. House,,REP,* Withdrawn Candidate,3
+Campbell,23-01,U.S. House,,REP,Bo Biteman,9
+Campbell,23-01,U.S. House,,REP,Chuck Gray,141
+Campbell,23-01,U.S. House,,REP,David Giralt,16
+Campbell,23-01,U.S. House,,REP,Jillian Balow,53
+Campbell,23-01,U.S. House,,REP,Keith B. Goodenough,5
+Campbell,23-01,U.S. House,,REP,Kevin Christensen,69
+Campbell,23-01,U.S. House,,REP,Reid Rasner,42
+Campbell,23-01,U.S. House,,REP,Richard Dodson,1
+Campbell,23-01,U.S. House,,REP,Steve Friess,54
+Campbell,23-01,U.S. House,,REP,Write-ins,0
+Campbell,23-01,U.S. House,,REP,Over Votes,5
+Campbell,23-01,U.S. House,,REP,Under Votes,24
+Campbell,23-01,U.S. House,,DEM,Elena Del Real,1
+Campbell,23-01,U.S. House,,DEM,Lisa Kinney,1
+Campbell,23-01,U.S. House,,DEM,Write-ins,0
+Campbell,23-01,U.S. House,,DEM,Over Votes,0
+Campbell,23-01,U.S. House,,DEM,Under Votes,0
+Campbell,23-01,Governor,,REP,Brent Bien,113
+Campbell,23-01,Governor,,REP,Curt Blake,0
+Campbell,23-01,Governor,,REP,Eric Barlow,204
+Campbell,23-01,Governor,,REP,Megan Degenfelder,101
+Campbell,23-01,Governor,,REP,Write-ins,0
+Campbell,23-01,Governor,,REP,Over Votes,0
+Campbell,23-01,Governor,,REP,Under Votes,4
+Campbell,23-01,Governor,,DEM,Kenneth R. Casner,1
+Campbell,23-01,Governor,,DEM,Write-ins,1
+Campbell,23-01,Governor,,DEM,Over Votes,0
+Campbell,23-01,Governor,,DEM,Under Votes,0
+Campbell,23-01,Secretary of State,,REP,CJ Young,31
+Campbell,23-01,Secretary of State,,REP,Qwenton Eagle Oviatt,13
+Campbell,23-01,Secretary of State,,REP,Rachel Williams,171
+Campbell,23-01,Secretary of State,,REP,Robert Short,144
+Campbell,23-01,Secretary of State,,REP,Write-ins,1
+Campbell,23-01,Secretary of State,,REP,Over Votes,0
+Campbell,23-01,Secretary of State,,REP,Under Votes,62
+Campbell,23-01,Secretary of State,,DEM,Bryan McCarty,1
+Campbell,23-01,Secretary of State,,DEM,Write-ins,0
+Campbell,23-01,Secretary of State,,DEM,Over Votes,0
+Campbell,23-01,Secretary of State,,DEM,Under Votes,1
+Campbell,23-01,State Auditor,,REP,Kristi Racines,330
+Campbell,23-01,State Auditor,,REP,Write-ins,1
+Campbell,23-01,State Auditor,,REP,Over Votes,0
+Campbell,23-01,State Auditor,,REP,Under Votes,91
+Campbell,23-01,State Auditor,,DEM,Write-ins,0
+Campbell,23-01,State Auditor,,DEM,Over Votes,0
+Campbell,23-01,State Auditor,,DEM,Under Votes,2
+Campbell,23-01,State Treasurer,,REP,Curt Meier,226
+Campbell,23-01,State Treasurer,,REP,Scott Smith,132
+Campbell,23-01,State Treasurer,,REP,Write-ins,1
+Campbell,23-01,State Treasurer,,REP,Over Votes,0
+Campbell,23-01,State Treasurer,,REP,Under Votes,63
+Campbell,23-01,State Treasurer,,DEM,Write-ins,0
+Campbell,23-01,State Treasurer,,DEM,Over Votes,0
+Campbell,23-01,State Treasurer,,DEM,Under Votes,2
+Campbell,23-01,Superintendent of Public Instruction,,REP,Chad Auer,17
+Campbell,23-01,Superintendent of Public Instruction,,REP,Steve Harshman,213
+Campbell,23-01,Superintendent of Public Instruction,,REP,Tom Kelly,140
+Campbell,23-01,Superintendent of Public Instruction,,REP,Write-ins,1
+Campbell,23-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,23-01,Superintendent of Public Instruction,,REP,Under Votes,51
+Campbell,23-01,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Campbell,23-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,23-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,23-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,23-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,23-01,State Senate,23,REP,Abby Angelos,225
+Campbell,23-01,State Senate,23,REP,Dwayne Dillinger,182
+Campbell,23-01,State Senate,23,REP,Write-ins,1
+Campbell,23-01,State Senate,23,REP,Over Votes,0
+Campbell,23-01,State Senate,23,REP,Under Votes,14
+Campbell,23-01,State Senate,23,DEM,Write-ins,0
+Campbell,23-01,State Senate,23,DEM,Over Votes,0
+Campbell,23-01,State Senate,23,DEM,Under Votes,2
+Campbell,23-01,State House,3,REP,Anne Ziegenhorn,163
+Campbell,23-01,State House,3,REP,Earl Collier,209
+Campbell,23-01,State House,3,REP,Write-ins,3
+Campbell,23-01,State House,3,REP,Over Votes,0
+Campbell,23-01,State House,3,REP,Under Votes,47
+Campbell,23-01,State House,3,DEM,Write-ins,0
+Campbell,23-01,State House,3,DEM,Over Votes,0
+Campbell,23-01,State House,3,DEM,Under Votes,2
+Campbell,23-01,Ballots Cast,,REP,Ballots Cast,422
+Campbell,23-01,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,23-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,23-01,Ballots Cast,,,Ballots Cast,424
+Campbell,24-01,U.S. Senate,,REP,Harriet Hageman,31
+Campbell,24-01,U.S. Senate,,REP,Jill M Edwards,0
+Campbell,24-01,U.S. Senate,,REP,Jimmy Skovgard,1
+Campbell,24-01,U.S. Senate,,REP,John Holtz,0
+Campbell,24-01,U.S. Senate,,REP,Sam Mead,6
+Campbell,24-01,U.S. Senate,,REP,Write-ins,0
+Campbell,24-01,U.S. Senate,,REP,Over Votes,0
+Campbell,24-01,U.S. Senate,,REP,Under Votes,0
+Campbell,24-01,U.S. Senate,,DEM,Billy Benavidez,0
+Campbell,24-01,U.S. Senate,,DEM,James Byrd,0
+Campbell,24-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,24-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,24-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,24-01,U.S. House,,REP,* Withdrawn Candidate,1
+Campbell,24-01,U.S. House,,REP,Bo Biteman,1
+Campbell,24-01,U.S. House,,REP,Chuck Gray,12
+Campbell,24-01,U.S. House,,REP,David Giralt,3
+Campbell,24-01,U.S. House,,REP,Jillian Balow,6
+Campbell,24-01,U.S. House,,REP,Keith B. Goodenough,1
+Campbell,24-01,U.S. House,,REP,Kevin Christensen,3
+Campbell,24-01,U.S. House,,REP,Reid Rasner,4
+Campbell,24-01,U.S. House,,REP,Richard Dodson,0
+Campbell,24-01,U.S. House,,REP,Steve Friess,5
+Campbell,24-01,U.S. House,,REP,Write-ins,0
+Campbell,24-01,U.S. House,,REP,Over Votes,0
+Campbell,24-01,U.S. House,,REP,Under Votes,2
+Campbell,24-01,U.S. House,,DEM,Elena Del Real,0
+Campbell,24-01,U.S. House,,DEM,Lisa Kinney,0
+Campbell,24-01,U.S. House,,DEM,Write-ins,0
+Campbell,24-01,U.S. House,,DEM,Over Votes,0
+Campbell,24-01,U.S. House,,DEM,Under Votes,0
+Campbell,24-01,Governor,,REP,Brent Bien,11
+Campbell,24-01,Governor,,REP,Curt Blake,0
+Campbell,24-01,Governor,,REP,Eric Barlow,18
+Campbell,24-01,Governor,,REP,Megan Degenfelder,9
+Campbell,24-01,Governor,,REP,Write-ins,0
+Campbell,24-01,Governor,,REP,Over Votes,0
+Campbell,24-01,Governor,,REP,Under Votes,0
+Campbell,24-01,Governor,,DEM,Kenneth R. Casner,0
+Campbell,24-01,Governor,,DEM,Write-ins,0
+Campbell,24-01,Governor,,DEM,Over Votes,0
+Campbell,24-01,Governor,,DEM,Under Votes,0
+Campbell,24-01,Secretary of State,,REP,CJ Young,6
+Campbell,24-01,Secretary of State,,REP,Qwenton Eagle Oviatt,4
+Campbell,24-01,Secretary of State,,REP,Rachel Williams,15
+Campbell,24-01,Secretary of State,,REP,Robert Short,9
+Campbell,24-01,Secretary of State,,REP,Write-ins,0
+Campbell,24-01,Secretary of State,,REP,Over Votes,0
+Campbell,24-01,Secretary of State,,REP,Under Votes,4
+Campbell,24-01,Secretary of State,,DEM,Bryan McCarty,0
+Campbell,24-01,Secretary of State,,DEM,Write-ins,0
+Campbell,24-01,Secretary of State,,DEM,Over Votes,0
+Campbell,24-01,Secretary of State,,DEM,Under Votes,0
+Campbell,24-01,State Auditor,,REP,Kristi Racines,29
+Campbell,24-01,State Auditor,,REP,Write-ins,0
+Campbell,24-01,State Auditor,,REP,Over Votes,0
+Campbell,24-01,State Auditor,,REP,Under Votes,9
+Campbell,24-01,State Auditor,,DEM,Write-ins,0
+Campbell,24-01,State Auditor,,DEM,Over Votes,0
+Campbell,24-01,State Auditor,,DEM,Under Votes,0
+Campbell,24-01,State Treasurer,,REP,Curt Meier,15
+Campbell,24-01,State Treasurer,,REP,Scott Smith,17
+Campbell,24-01,State Treasurer,,REP,Write-ins,0
+Campbell,24-01,State Treasurer,,REP,Over Votes,0
+Campbell,24-01,State Treasurer,,REP,Under Votes,6
+Campbell,24-01,State Treasurer,,DEM,Write-ins,0
+Campbell,24-01,State Treasurer,,DEM,Over Votes,0
+Campbell,24-01,State Treasurer,,DEM,Under Votes,0
+Campbell,24-01,Superintendent of Public Instruction,,REP,Chad Auer,4
+Campbell,24-01,Superintendent of Public Instruction,,REP,Steve Harshman,15
+Campbell,24-01,Superintendent of Public Instruction,,REP,Tom Kelly,14
+Campbell,24-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,24-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,24-01,Superintendent of Public Instruction,,REP,Under Votes,5
+Campbell,24-01,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Campbell,24-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,24-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,24-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,24-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,24-01,State Senate,23,REP,Abby Angelos,24
+Campbell,24-01,State Senate,23,REP,Dwayne Dillinger,13
+Campbell,24-01,State Senate,23,REP,Write-ins,0
+Campbell,24-01,State Senate,23,REP,Over Votes,0
+Campbell,24-01,State Senate,23,REP,Under Votes,1
+Campbell,24-01,State Senate,23,DEM,Write-ins,0
+Campbell,24-01,State Senate,23,DEM,Over Votes,0
+Campbell,24-01,State Senate,23,DEM,Under Votes,0
+Campbell,24-01,State House,3,REP,Anne Ziegenhorn,10
+Campbell,24-01,State House,3,REP,Earl Collier,22
+Campbell,24-01,State House,3,REP,Write-ins,0
+Campbell,24-01,State House,3,REP,Over Votes,0
+Campbell,24-01,State House,3,REP,Under Votes,6
+Campbell,24-01,State House,3,DEM,Write-ins,0
+Campbell,24-01,State House,3,DEM,Over Votes,0
+Campbell,24-01,State House,3,DEM,Under Votes,0
+Campbell,24-01,Ballots Cast,,REP,Ballots Cast,38
+Campbell,24-01,Ballots Cast,,DEM,Ballots Cast,0
+Campbell,24-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,24-01,Ballots Cast,,,Ballots Cast,38
+Campbell,26-01,U.S. Senate,,REP,Harriet Hageman,44
+Campbell,26-01,U.S. Senate,,REP,Jill M Edwards,4
+Campbell,26-01,U.S. Senate,,REP,Jimmy Skovgard,0
+Campbell,26-01,U.S. Senate,,REP,John Holtz,2
+Campbell,26-01,U.S. Senate,,REP,Sam Mead,12
+Campbell,26-01,U.S. Senate,,REP,Write-ins,1
+Campbell,26-01,U.S. Senate,,REP,Over Votes,0
+Campbell,26-01,U.S. Senate,,REP,Under Votes,0
+Campbell,26-01,U.S. Senate,,DEM,Billy Benavidez,1
+Campbell,26-01,U.S. Senate,,DEM,James Byrd,1
+Campbell,26-01,U.S. Senate,,DEM,Write-ins,0
+Campbell,26-01,U.S. Senate,,DEM,Over Votes,0
+Campbell,26-01,U.S. Senate,,DEM,Under Votes,0
+Campbell,26-01,U.S. House,,REP,* Withdrawn Candidate,1
+Campbell,26-01,U.S. House,,REP,Bo Biteman,2
+Campbell,26-01,U.S. House,,REP,Chuck Gray,22
+Campbell,26-01,U.S. House,,REP,David Giralt,6
+Campbell,26-01,U.S. House,,REP,Jillian Balow,3
+Campbell,26-01,U.S. House,,REP,Keith B. Goodenough,2
+Campbell,26-01,U.S. House,,REP,Kevin Christensen,4
+Campbell,26-01,U.S. House,,REP,Reid Rasner,8
+Campbell,26-01,U.S. House,,REP,Richard Dodson,1
+Campbell,26-01,U.S. House,,REP,Steve Friess,11
+Campbell,26-01,U.S. House,,REP,Write-ins,0
+Campbell,26-01,U.S. House,,REP,Over Votes,1
+Campbell,26-01,U.S. House,,REP,Under Votes,2
+Campbell,26-01,U.S. House,,DEM,Elena Del Real,1
+Campbell,26-01,U.S. House,,DEM,Lisa Kinney,1
+Campbell,26-01,U.S. House,,DEM,Write-ins,0
+Campbell,26-01,U.S. House,,DEM,Over Votes,0
+Campbell,26-01,U.S. House,,DEM,Under Votes,0
+Campbell,26-01,Governor,,REP,Brent Bien,17
+Campbell,26-01,Governor,,REP,Curt Blake,2
+Campbell,26-01,Governor,,REP,Eric Barlow,21
+Campbell,26-01,Governor,,REP,Megan Degenfelder,23
+Campbell,26-01,Governor,,REP,Write-ins,0
+Campbell,26-01,Governor,,REP,Over Votes,0
+Campbell,26-01,Governor,,REP,Under Votes,0
+Campbell,26-01,Governor,,DEM,Kenneth R. Casner,2
+Campbell,26-01,Governor,,DEM,Write-ins,0
+Campbell,26-01,Governor,,DEM,Over Votes,0
+Campbell,26-01,Governor,,DEM,Under Votes,0
+Campbell,26-01,Secretary of State,,REP,CJ Young,7
+Campbell,26-01,Secretary of State,,REP,Qwenton Eagle Oviatt,5
+Campbell,26-01,Secretary of State,,REP,Rachel Williams,30
+Campbell,26-01,Secretary of State,,REP,Robert Short,14
+Campbell,26-01,Secretary of State,,REP,Write-ins,0
+Campbell,26-01,Secretary of State,,REP,Over Votes,0
+Campbell,26-01,Secretary of State,,REP,Under Votes,7
+Campbell,26-01,Secretary of State,,DEM,Bryan McCarty,2
+Campbell,26-01,Secretary of State,,DEM,Write-ins,0
+Campbell,26-01,Secretary of State,,DEM,Over Votes,0
+Campbell,26-01,Secretary of State,,DEM,Under Votes,0
+Campbell,26-01,State Auditor,,REP,Kristi Racines,44
+Campbell,26-01,State Auditor,,REP,Write-ins,0
+Campbell,26-01,State Auditor,,REP,Over Votes,0
+Campbell,26-01,State Auditor,,REP,Under Votes,19
+Campbell,26-01,State Auditor,,DEM,Write-ins,0
+Campbell,26-01,State Auditor,,DEM,Over Votes,0
+Campbell,26-01,State Auditor,,DEM,Under Votes,2
+Campbell,26-01,State Treasurer,,REP,Curt Meier,30
+Campbell,26-01,State Treasurer,,REP,Scott Smith,24
+Campbell,26-01,State Treasurer,,REP,Write-ins,0
+Campbell,26-01,State Treasurer,,REP,Over Votes,0
+Campbell,26-01,State Treasurer,,REP,Under Votes,9
+Campbell,26-01,State Treasurer,,DEM,Write-ins,0
+Campbell,26-01,State Treasurer,,DEM,Over Votes,0
+Campbell,26-01,State Treasurer,,DEM,Under Votes,2
+Campbell,26-01,Superintendent of Public Instruction,,REP,Chad Auer,5
+Campbell,26-01,Superintendent of Public Instruction,,REP,Steve Harshman,25
+Campbell,26-01,Superintendent of Public Instruction,,REP,Tom Kelly,22
+Campbell,26-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Campbell,26-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Campbell,26-01,Superintendent of Public Instruction,,REP,Under Votes,11
+Campbell,26-01,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Campbell,26-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Campbell,26-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Campbell,26-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Campbell,26-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Campbell,26-01,State Senate,23,REP,Abby Angelos,40
+Campbell,26-01,State Senate,23,REP,Dwayne Dillinger,22
+Campbell,26-01,State Senate,23,REP,Write-ins,0
+Campbell,26-01,State Senate,23,REP,Over Votes,0
+Campbell,26-01,State Senate,23,REP,Under Votes,1
+Campbell,26-01,State Senate,23,DEM,Write-ins,0
+Campbell,26-01,State Senate,23,DEM,Over Votes,0
+Campbell,26-01,State Senate,23,DEM,Under Votes,2
+Campbell,26-01,State House,31,REP,Douglas Moore,33
+Campbell,26-01,State House,31,REP,John W. Bear,28
+Campbell,26-01,State House,31,REP,Write-ins,0
+Campbell,26-01,State House,31,REP,Over Votes,0
+Campbell,26-01,State House,31,REP,Under Votes,2
+Campbell,26-01,State House,31,DEM,Write-ins,0
+Campbell,26-01,State House,31,DEM,Over Votes,0
+Campbell,26-01,State House,31,DEM,Under Votes,2
+Campbell,26-01,Ballots Cast,,REP,Ballots Cast,63
+Campbell,26-01,Ballots Cast,,DEM,Ballots Cast,2
+Campbell,26-01,Ballots Cast,,NP,Ballots Cast,0
+Campbell,26-01,Ballots Cast,,,Ballots Cast,65

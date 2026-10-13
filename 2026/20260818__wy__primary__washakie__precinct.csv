@@ -1,0 +1,456 @@
+county,precinct,office,district,party,candidate,votes
+Washakie,3-1,U.S. Senate,,REP,Harriet Hageman,182
+Washakie,3-1,U.S. Senate,,REP,Jill M Edwards,5
+Washakie,3-1,U.S. Senate,,REP,Jimmy Skovgard,5
+Washakie,3-1,U.S. Senate,,REP,John Holtz,3
+Washakie,3-1,U.S. Senate,,REP,Sam Mead,72
+Washakie,3-1,U.S. Senate,,REP,Write-ins,0
+Washakie,3-1,U.S. Senate,,REP,Over Votes,0
+Washakie,3-1,U.S. Senate,,REP,Under Votes,5
+Washakie,3-1,U.S. Senate,,DEM,Billy Benavidez,3
+Washakie,3-1,U.S. Senate,,DEM,James Byrd,9
+Washakie,3-1,U.S. Senate,,DEM,Write-ins,0
+Washakie,3-1,U.S. Senate,,DEM,Over Votes,0
+Washakie,3-1,U.S. Senate,,DEM,Under Votes,0
+Washakie,3-1,U.S. House,,REP,* Withdrawn Candidate,6
+Washakie,3-1,U.S. House,,REP,Bo Biteman,11
+Washakie,3-1,U.S. House,,REP,Chuck Gray,50
+Washakie,3-1,U.S. House,,REP,David Giralt,22
+Washakie,3-1,U.S. House,,REP,Jillian Balow,51
+Washakie,3-1,U.S. House,,REP,Keith B. Goodenough,3
+Washakie,3-1,U.S. House,,REP,Kevin Christensen,48
+Washakie,3-1,U.S. House,,REP,Reid Rasner,23
+Washakie,3-1,U.S. House,,REP,Richard Dodson,4
+Washakie,3-1,U.S. House,,REP,Steve Friess,42
+Washakie,3-1,U.S. House,,REP,Write-ins,0
+Washakie,3-1,U.S. House,,REP,Over Votes,3
+Washakie,3-1,U.S. House,,REP,Under Votes,9
+Washakie,3-1,U.S. House,,DEM,Elena Del Real,0
+Washakie,3-1,U.S. House,,DEM,Lisa Kinney,12
+Washakie,3-1,U.S. House,,DEM,Write-ins,0
+Washakie,3-1,U.S. House,,DEM,Over Votes,0
+Washakie,3-1,U.S. House,,DEM,Under Votes,0
+Washakie,3-1,Governor,,REP,Brent Bien,43
+Washakie,3-1,Governor,,REP,Curt Blake,6
+Washakie,3-1,Governor,,REP,Eric Barlow,140
+Washakie,3-1,Governor,,REP,Megan Degenfelder,77
+Washakie,3-1,Governor,,REP,Write-ins,0
+Washakie,3-1,Governor,,REP,Over Votes,0
+Washakie,3-1,Governor,,REP,Under Votes,6
+Washakie,3-1,Governor,,DEM,Kenneth R. Casner,10
+Washakie,3-1,Governor,,DEM,Write-ins,0
+Washakie,3-1,Governor,,DEM,Over Votes,0
+Washakie,3-1,Governor,,DEM,Under Votes,2
+Washakie,3-1,Secretary of State,,REP,CJ Young,45
+Washakie,3-1,Secretary of State,,REP,Qwenton Eagle Oviatt,13
+Washakie,3-1,Secretary of State,,REP,Rachel Williams,58
+Washakie,3-1,Secretary of State,,REP,Robert Short,117
+Washakie,3-1,Secretary of State,,REP,Write-ins,2
+Washakie,3-1,Secretary of State,,REP,Over Votes,0
+Washakie,3-1,Secretary of State,,REP,Under Votes,37
+Washakie,3-1,Secretary of State,,DEM,Bryan McCarty,11
+Washakie,3-1,Secretary of State,,DEM,Write-ins,0
+Washakie,3-1,Secretary of State,,DEM,Over Votes,0
+Washakie,3-1,Secretary of State,,DEM,Under Votes,1
+Washakie,3-1,State Auditor,,REP,Kristi Racines,230
+Washakie,3-1,State Auditor,,REP,Write-ins,1
+Washakie,3-1,State Auditor,,REP,Over Votes,0
+Washakie,3-1,State Auditor,,REP,Under Votes,41
+Washakie,3-1,State Auditor,,DEM,Write-ins,0
+Washakie,3-1,State Auditor,,DEM,Over Votes,0
+Washakie,3-1,State Auditor,,DEM,Under Votes,12
+Washakie,3-1,State Treasurer,,REP,Curt Meier,194
+Washakie,3-1,State Treasurer,,REP,Scott Smith,46
+Washakie,3-1,State Treasurer,,REP,Write-ins,1
+Washakie,3-1,State Treasurer,,REP,Over Votes,0
+Washakie,3-1,State Treasurer,,REP,Under Votes,31
+Washakie,3-1,State Treasurer,,DEM,Write-ins,0
+Washakie,3-1,State Treasurer,,DEM,Over Votes,0
+Washakie,3-1,State Treasurer,,DEM,Under Votes,12
+Washakie,3-1,Superintendent of Public Instruction,,REP,Chad Auer,21
+Washakie,3-1,Superintendent of Public Instruction,,REP,Steve Harshman,154
+Washakie,3-1,Superintendent of Public Instruction,,REP,Tom Kelly,53
+Washakie,3-1,Superintendent of Public Instruction,,REP,Write-ins,3
+Washakie,3-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Washakie,3-1,Superintendent of Public Instruction,,REP,Under Votes,41
+Washakie,3-1,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Washakie,3-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",4
+Washakie,3-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Washakie,3-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Washakie,3-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Washakie,3-1,State House,27,REP,Martha Lawley,219
+Washakie,3-1,State House,27,REP,Write-ins,1
+Washakie,3-1,State House,27,REP,Over Votes,0
+Washakie,3-1,State House,27,REP,Under Votes,52
+Washakie,3-1,State House,27,DEM,Theresa Livingston,10
+Washakie,3-1,State House,27,DEM,Write-ins,0
+Washakie,3-1,State House,27,DEM,Over Votes,0
+Washakie,3-1,State House,27,DEM,Under Votes,2
+Washakie,3-1,Ballots Cast,,REP,Ballots Cast,272
+Washakie,3-1,Ballots Cast,,DEM,Ballots Cast,12
+Washakie,3-1,Ballots Cast,,NP,Ballots Cast,0
+Washakie,3-1,Ballots Cast,,,Ballots Cast,284
+Washakie,5-1,U.S. Senate,,REP,Harriet Hageman,313
+Washakie,5-1,U.S. Senate,,REP,Jill M Edwards,6
+Washakie,5-1,U.S. Senate,,REP,Jimmy Skovgard,19
+Washakie,5-1,U.S. Senate,,REP,John Holtz,4
+Washakie,5-1,U.S. Senate,,REP,Sam Mead,72
+Washakie,5-1,U.S. Senate,,REP,Write-ins,4
+Washakie,5-1,U.S. Senate,,REP,Over Votes,0
+Washakie,5-1,U.S. Senate,,REP,Under Votes,11
+Washakie,5-1,U.S. Senate,,DEM,Billy Benavidez,7
+Washakie,5-1,U.S. Senate,,DEM,James Byrd,24
+Washakie,5-1,U.S. Senate,,DEM,Write-ins,0
+Washakie,5-1,U.S. Senate,,DEM,Over Votes,0
+Washakie,5-1,U.S. Senate,,DEM,Under Votes,4
+Washakie,5-1,U.S. House,,REP,* Withdrawn Candidate,6
+Washakie,5-1,U.S. House,,REP,Bo Biteman,7
+Washakie,5-1,U.S. House,,REP,Chuck Gray,74
+Washakie,5-1,U.S. House,,REP,David Giralt,39
+Washakie,5-1,U.S. House,,REP,Jillian Balow,49
+Washakie,5-1,U.S. House,,REP,Keith B. Goodenough,13
+Washakie,5-1,U.S. House,,REP,Kevin Christensen,42
+Washakie,5-1,U.S. House,,REP,Reid Rasner,51
+Washakie,5-1,U.S. House,,REP,Richard Dodson,9
+Washakie,5-1,U.S. House,,REP,Steve Friess,106
+Washakie,5-1,U.S. House,,REP,Write-ins,2
+Washakie,5-1,U.S. House,,REP,Over Votes,15
+Washakie,5-1,U.S. House,,REP,Under Votes,16
+Washakie,5-1,U.S. House,,DEM,Elena Del Real,6
+Washakie,5-1,U.S. House,,DEM,Lisa Kinney,21
+Washakie,5-1,U.S. House,,DEM,Write-ins,1
+Washakie,5-1,U.S. House,,DEM,Over Votes,0
+Washakie,5-1,U.S. House,,DEM,Under Votes,7
+Washakie,5-1,Governor,,REP,Brent Bien,92
+Washakie,5-1,Governor,,REP,Curt Blake,10
+Washakie,5-1,Governor,,REP,Eric Barlow,160
+Washakie,5-1,Governor,,REP,Megan Degenfelder,162
+Washakie,5-1,Governor,,REP,Write-ins,1
+Washakie,5-1,Governor,,REP,Over Votes,0
+Washakie,5-1,Governor,,REP,Under Votes,4
+Washakie,5-1,Governor,,DEM,Kenneth R. Casner,27
+Washakie,5-1,Governor,,DEM,Write-ins,3
+Washakie,5-1,Governor,,DEM,Over Votes,0
+Washakie,5-1,Governor,,DEM,Under Votes,5
+Washakie,5-1,Secretary of State,,REP,CJ Young,58
+Washakie,5-1,Secretary of State,,REP,Qwenton Eagle Oviatt,22
+Washakie,5-1,Secretary of State,,REP,Rachel Williams,117
+Washakie,5-1,Secretary of State,,REP,Robert Short,179
+Washakie,5-1,Secretary of State,,REP,Write-ins,3
+Washakie,5-1,Secretary of State,,REP,Over Votes,0
+Washakie,5-1,Secretary of State,,REP,Under Votes,50
+Washakie,5-1,Secretary of State,,DEM,Bryan McCarty,27
+Washakie,5-1,Secretary of State,,DEM,Write-ins,1
+Washakie,5-1,Secretary of State,,DEM,Over Votes,0
+Washakie,5-1,Secretary of State,,DEM,Under Votes,7
+Washakie,5-1,State Auditor,,REP,Kristi Racines,362
+Washakie,5-1,State Auditor,,REP,Write-ins,1
+Washakie,5-1,State Auditor,,REP,Over Votes,0
+Washakie,5-1,State Auditor,,REP,Under Votes,66
+Washakie,5-1,State Auditor,,DEM,Write-ins,4
+Washakie,5-1,State Auditor,,DEM,Over Votes,0
+Washakie,5-1,State Auditor,,DEM,Under Votes,31
+Washakie,5-1,State Treasurer,,REP,Curt Meier,286
+Washakie,5-1,State Treasurer,,REP,Scott Smith,98
+Washakie,5-1,State Treasurer,,REP,Write-ins,2
+Washakie,5-1,State Treasurer,,REP,Over Votes,1
+Washakie,5-1,State Treasurer,,REP,Under Votes,42
+Washakie,5-1,State Treasurer,,DEM,Write-ins,3
+Washakie,5-1,State Treasurer,,DEM,Over Votes,0
+Washakie,5-1,State Treasurer,,DEM,Under Votes,32
+Washakie,5-1,Superintendent of Public Instruction,,REP,Chad Auer,28
+Washakie,5-1,Superintendent of Public Instruction,,REP,Steve Harshman,200
+Washakie,5-1,Superintendent of Public Instruction,,REP,Tom Kelly,149
+Washakie,5-1,Superintendent of Public Instruction,,REP,Write-ins,3
+Washakie,5-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Washakie,5-1,Superintendent of Public Instruction,,REP,Under Votes,49
+Washakie,5-1,Superintendent of Public Instruction,,DEM,Ana Cordova,11
+Washakie,5-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",17
+Washakie,5-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Washakie,5-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Washakie,5-1,Superintendent of Public Instruction,,DEM,Under Votes,6
+Washakie,5-1,State House,27,REP,Martha Lawley,372
+Washakie,5-1,State House,27,REP,Write-ins,4
+Washakie,5-1,State House,27,REP,Over Votes,0
+Washakie,5-1,State House,27,REP,Under Votes,53
+Washakie,5-1,State House,27,DEM,Theresa Livingston,28
+Washakie,5-1,State House,27,DEM,Write-ins,0
+Washakie,5-1,State House,27,DEM,Over Votes,0
+Washakie,5-1,State House,27,DEM,Under Votes,7
+Washakie,5-1,Ballots Cast,,REP,Ballots Cast,429
+Washakie,5-1,Ballots Cast,,DEM,Ballots Cast,35
+Washakie,5-1,Ballots Cast,,NP,Ballots Cast,9
+Washakie,5-1,Ballots Cast,,,Ballots Cast,473
+Washakie,5-2,U.S. Senate,,REP,Harriet Hageman,306
+Washakie,5-2,U.S. Senate,,REP,Jill M Edwards,15
+Washakie,5-2,U.S. Senate,,REP,Jimmy Skovgard,15
+Washakie,5-2,U.S. Senate,,REP,John Holtz,13
+Washakie,5-2,U.S. Senate,,REP,Sam Mead,101
+Washakie,5-2,U.S. Senate,,REP,Write-ins,0
+Washakie,5-2,U.S. Senate,,REP,Over Votes,0
+Washakie,5-2,U.S. Senate,,REP,Under Votes,12
+Washakie,5-2,U.S. Senate,,DEM,Billy Benavidez,8
+Washakie,5-2,U.S. Senate,,DEM,James Byrd,21
+Washakie,5-2,U.S. Senate,,DEM,Write-ins,0
+Washakie,5-2,U.S. Senate,,DEM,Over Votes,0
+Washakie,5-2,U.S. Senate,,DEM,Under Votes,0
+Washakie,5-2,U.S. House,,REP,* Withdrawn Candidate,7
+Washakie,5-2,U.S. House,,REP,Bo Biteman,12
+Washakie,5-2,U.S. House,,REP,Chuck Gray,89
+Washakie,5-2,U.S. House,,REP,David Giralt,70
+Washakie,5-2,U.S. House,,REP,Jillian Balow,60
+Washakie,5-2,U.S. House,,REP,Keith B. Goodenough,11
+Washakie,5-2,U.S. House,,REP,Kevin Christensen,61
+Washakie,5-2,U.S. House,,REP,Reid Rasner,45
+Washakie,5-2,U.S. House,,REP,Richard Dodson,5
+Washakie,5-2,U.S. House,,REP,Steve Friess,82
+Washakie,5-2,U.S. House,,REP,Write-ins,1
+Washakie,5-2,U.S. House,,REP,Over Votes,8
+Washakie,5-2,U.S. House,,REP,Under Votes,11
+Washakie,5-2,U.S. House,,DEM,Elena Del Real,7
+Washakie,5-2,U.S. House,,DEM,Lisa Kinney,22
+Washakie,5-2,U.S. House,,DEM,Write-ins,0
+Washakie,5-2,U.S. House,,DEM,Over Votes,0
+Washakie,5-2,U.S. House,,DEM,Under Votes,0
+Washakie,5-2,Governor,,REP,Brent Bien,112
+Washakie,5-2,Governor,,REP,Curt Blake,5
+Washakie,5-2,Governor,,REP,Eric Barlow,177
+Washakie,5-2,Governor,,REP,Megan Degenfelder,162
+Washakie,5-2,Governor,,REP,Write-ins,0
+Washakie,5-2,Governor,,REP,Over Votes,0
+Washakie,5-2,Governor,,REP,Under Votes,6
+Washakie,5-2,Governor,,DEM,Kenneth R. Casner,27
+Washakie,5-2,Governor,,DEM,Write-ins,0
+Washakie,5-2,Governor,,DEM,Over Votes,0
+Washakie,5-2,Governor,,DEM,Under Votes,2
+Washakie,5-2,Secretary of State,,REP,CJ Young,44
+Washakie,5-2,Secretary of State,,REP,Qwenton Eagle Oviatt,25
+Washakie,5-2,Secretary of State,,REP,Rachel Williams,109
+Washakie,5-2,Secretary of State,,REP,Robert Short,220
+Washakie,5-2,Secretary of State,,REP,Write-ins,1
+Washakie,5-2,Secretary of State,,REP,Over Votes,0
+Washakie,5-2,Secretary of State,,REP,Under Votes,63
+Washakie,5-2,Secretary of State,,DEM,Bryan McCarty,27
+Washakie,5-2,Secretary of State,,DEM,Write-ins,0
+Washakie,5-2,Secretary of State,,DEM,Over Votes,0
+Washakie,5-2,Secretary of State,,DEM,Under Votes,2
+Washakie,5-2,State Auditor,,REP,Kristi Racines,381
+Washakie,5-2,State Auditor,,REP,Write-ins,2
+Washakie,5-2,State Auditor,,REP,Over Votes,0
+Washakie,5-2,State Auditor,,REP,Under Votes,79
+Washakie,5-2,State Auditor,,DEM,Write-ins,0
+Washakie,5-2,State Auditor,,DEM,Over Votes,0
+Washakie,5-2,State Auditor,,DEM,Under Votes,29
+Washakie,5-2,State Treasurer,,REP,Curt Meier,296
+Washakie,5-2,State Treasurer,,REP,Scott Smith,120
+Washakie,5-2,State Treasurer,,REP,Write-ins,0
+Washakie,5-2,State Treasurer,,REP,Over Votes,0
+Washakie,5-2,State Treasurer,,REP,Under Votes,46
+Washakie,5-2,State Treasurer,,DEM,Write-ins,0
+Washakie,5-2,State Treasurer,,DEM,Over Votes,0
+Washakie,5-2,State Treasurer,,DEM,Under Votes,29
+Washakie,5-2,Superintendent of Public Instruction,,REP,Chad Auer,30
+Washakie,5-2,Superintendent of Public Instruction,,REP,Steve Harshman,233
+Washakie,5-2,Superintendent of Public Instruction,,REP,Tom Kelly,140
+Washakie,5-2,Superintendent of Public Instruction,,REP,Write-ins,1
+Washakie,5-2,Superintendent of Public Instruction,,REP,Over Votes,1
+Washakie,5-2,Superintendent of Public Instruction,,REP,Under Votes,57
+Washakie,5-2,Superintendent of Public Instruction,,DEM,Ana Cordova,19
+Washakie,5-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",9
+Washakie,5-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Washakie,5-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Washakie,5-2,Superintendent of Public Instruction,,DEM,Under Votes,1
+Washakie,5-2,State House,27,REP,Martha Lawley,406
+Washakie,5-2,State House,27,REP,Write-ins,5
+Washakie,5-2,State House,27,REP,Over Votes,0
+Washakie,5-2,State House,27,REP,Under Votes,51
+Washakie,5-2,State House,27,DEM,Theresa Livingston,26
+Washakie,5-2,State House,27,DEM,Write-ins,0
+Washakie,5-2,State House,27,DEM,Over Votes,0
+Washakie,5-2,State House,27,DEM,Under Votes,3
+Washakie,5-2,Ballots Cast,,REP,Ballots Cast,462
+Washakie,5-2,Ballots Cast,,DEM,Ballots Cast,29
+Washakie,5-2,Ballots Cast,,NP,Ballots Cast,10
+Washakie,5-2,Ballots Cast,,,Ballots Cast,501
+Washakie,5-3,U.S. Senate,,REP,Harriet Hageman,180
+Washakie,5-3,U.S. Senate,,REP,Jill M Edwards,5
+Washakie,5-3,U.S. Senate,,REP,Jimmy Skovgard,6
+Washakie,5-3,U.S. Senate,,REP,John Holtz,6
+Washakie,5-3,U.S. Senate,,REP,Sam Mead,41
+Washakie,5-3,U.S. Senate,,REP,Write-ins,0
+Washakie,5-3,U.S. Senate,,REP,Over Votes,0
+Washakie,5-3,U.S. Senate,,REP,Under Votes,4
+Washakie,5-3,U.S. Senate,,DEM,Billy Benavidez,7
+Washakie,5-3,U.S. Senate,,DEM,James Byrd,15
+Washakie,5-3,U.S. Senate,,DEM,Write-ins,0
+Washakie,5-3,U.S. Senate,,DEM,Over Votes,0
+Washakie,5-3,U.S. Senate,,DEM,Under Votes,1
+Washakie,5-3,U.S. House,,REP,* Withdrawn Candidate,5
+Washakie,5-3,U.S. House,,REP,Bo Biteman,8
+Washakie,5-3,U.S. House,,REP,Chuck Gray,65
+Washakie,5-3,U.S. House,,REP,David Giralt,25
+Washakie,5-3,U.S. House,,REP,Jillian Balow,36
+Washakie,5-3,U.S. House,,REP,Keith B. Goodenough,2
+Washakie,5-3,U.S. House,,REP,Kevin Christensen,29
+Washakie,5-3,U.S. House,,REP,Reid Rasner,21
+Washakie,5-3,U.S. House,,REP,Richard Dodson,4
+Washakie,5-3,U.S. House,,REP,Steve Friess,30
+Washakie,5-3,U.S. House,,REP,Write-ins,1
+Washakie,5-3,U.S. House,,REP,Over Votes,7
+Washakie,5-3,U.S. House,,REP,Under Votes,9
+Washakie,5-3,U.S. House,,DEM,Elena Del Real,11
+Washakie,5-3,U.S. House,,DEM,Lisa Kinney,11
+Washakie,5-3,U.S. House,,DEM,Write-ins,0
+Washakie,5-3,U.S. House,,DEM,Over Votes,0
+Washakie,5-3,U.S. House,,DEM,Under Votes,1
+Washakie,5-3,Governor,,REP,Brent Bien,47
+Washakie,5-3,Governor,,REP,Curt Blake,8
+Washakie,5-3,Governor,,REP,Eric Barlow,89
+Washakie,5-3,Governor,,REP,Megan Degenfelder,96
+Washakie,5-3,Governor,,REP,Write-ins,1
+Washakie,5-3,Governor,,REP,Over Votes,0
+Washakie,5-3,Governor,,REP,Under Votes,1
+Washakie,5-3,Governor,,DEM,Kenneth R. Casner,22
+Washakie,5-3,Governor,,DEM,Write-ins,1
+Washakie,5-3,Governor,,DEM,Over Votes,0
+Washakie,5-3,Governor,,DEM,Under Votes,0
+Washakie,5-3,Secretary of State,,REP,CJ Young,30
+Washakie,5-3,Secretary of State,,REP,Qwenton Eagle Oviatt,24
+Washakie,5-3,Secretary of State,,REP,Rachel Williams,61
+Washakie,5-3,Secretary of State,,REP,Robert Short,107
+Washakie,5-3,Secretary of State,,REP,Write-ins,0
+Washakie,5-3,Secretary of State,,REP,Over Votes,1
+Washakie,5-3,Secretary of State,,REP,Under Votes,19
+Washakie,5-3,Secretary of State,,DEM,Bryan McCarty,21
+Washakie,5-3,Secretary of State,,DEM,Write-ins,1
+Washakie,5-3,Secretary of State,,DEM,Over Votes,0
+Washakie,5-3,Secretary of State,,DEM,Under Votes,1
+Washakie,5-3,State Auditor,,REP,Kristi Racines,196
+Washakie,5-3,State Auditor,,REP,Write-ins,0
+Washakie,5-3,State Auditor,,REP,Over Votes,0
+Washakie,5-3,State Auditor,,REP,Under Votes,46
+Washakie,5-3,State Auditor,,DEM,Write-ins,2
+Washakie,5-3,State Auditor,,DEM,Over Votes,0
+Washakie,5-3,State Auditor,,DEM,Under Votes,21
+Washakie,5-3,State Treasurer,,REP,Curt Meier,145
+Washakie,5-3,State Treasurer,,REP,Scott Smith,75
+Washakie,5-3,State Treasurer,,REP,Write-ins,0
+Washakie,5-3,State Treasurer,,REP,Over Votes,0
+Washakie,5-3,State Treasurer,,REP,Under Votes,22
+Washakie,5-3,State Treasurer,,DEM,Write-ins,1
+Washakie,5-3,State Treasurer,,DEM,Over Votes,0
+Washakie,5-3,State Treasurer,,DEM,Under Votes,22
+Washakie,5-3,Superintendent of Public Instruction,,REP,Chad Auer,19
+Washakie,5-3,Superintendent of Public Instruction,,REP,Steve Harshman,110
+Washakie,5-3,Superintendent of Public Instruction,,REP,Tom Kelly,88
+Washakie,5-3,Superintendent of Public Instruction,,REP,Write-ins,3
+Washakie,5-3,Superintendent of Public Instruction,,REP,Over Votes,0
+Washakie,5-3,Superintendent of Public Instruction,,REP,Under Votes,22
+Washakie,5-3,Superintendent of Public Instruction,,DEM,Ana Cordova,11
+Washakie,5-3,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",11
+Washakie,5-3,Superintendent of Public Instruction,,DEM,Write-ins,0
+Washakie,5-3,Superintendent of Public Instruction,,DEM,Over Votes,0
+Washakie,5-3,Superintendent of Public Instruction,,DEM,Under Votes,1
+Washakie,5-3,State House,27,REP,Martha Lawley,199
+Washakie,5-3,State House,27,REP,Write-ins,6
+Washakie,5-3,State House,27,REP,Over Votes,0
+Washakie,5-3,State House,27,REP,Under Votes,37
+Washakie,5-3,State House,27,DEM,Theresa Livingston,21
+Washakie,5-3,State House,27,DEM,Write-ins,0
+Washakie,5-3,State House,27,DEM,Over Votes,0
+Washakie,5-3,State House,27,DEM,Under Votes,2
+Washakie,5-3,Ballots Cast,,REP,Ballots Cast,242
+Washakie,5-3,Ballots Cast,,DEM,Ballots Cast,23
+Washakie,5-3,Ballots Cast,,NP,Ballots Cast,5
+Washakie,5-3,Ballots Cast,,,Ballots Cast,270
+Washakie,5-5,U.S. Senate,,REP,Harriet Hageman,492
+Washakie,5-5,U.S. Senate,,REP,Jill M Edwards,6
+Washakie,5-5,U.S. Senate,,REP,Jimmy Skovgard,22
+Washakie,5-5,U.S. Senate,,REP,John Holtz,8
+Washakie,5-5,U.S. Senate,,REP,Sam Mead,109
+Washakie,5-5,U.S. Senate,,REP,Write-ins,0
+Washakie,5-5,U.S. Senate,,REP,Over Votes,0
+Washakie,5-5,U.S. Senate,,REP,Under Votes,10
+Washakie,5-5,U.S. Senate,,DEM,Billy Benavidez,5
+Washakie,5-5,U.S. Senate,,DEM,James Byrd,19
+Washakie,5-5,U.S. Senate,,DEM,Write-ins,1
+Washakie,5-5,U.S. Senate,,DEM,Over Votes,0
+Washakie,5-5,U.S. Senate,,DEM,Under Votes,0
+Washakie,5-5,U.S. House,,REP,* Withdrawn Candidate,3
+Washakie,5-5,U.S. House,,REP,Bo Biteman,26
+Washakie,5-5,U.S. House,,REP,Chuck Gray,151
+Washakie,5-5,U.S. House,,REP,David Giralt,71
+Washakie,5-5,U.S. House,,REP,Jillian Balow,98
+Washakie,5-5,U.S. House,,REP,Keith B. Goodenough,3
+Washakie,5-5,U.S. House,,REP,Kevin Christensen,83
+Washakie,5-5,U.S. House,,REP,Reid Rasner,54
+Washakie,5-5,U.S. House,,REP,Richard Dodson,7
+Washakie,5-5,U.S. House,,REP,Steve Friess,130
+Washakie,5-5,U.S. House,,REP,Write-ins,0
+Washakie,5-5,U.S. House,,REP,Over Votes,5
+Washakie,5-5,U.S. House,,REP,Under Votes,16
+Washakie,5-5,U.S. House,,DEM,Elena Del Real,4
+Washakie,5-5,U.S. House,,DEM,Lisa Kinney,20
+Washakie,5-5,U.S. House,,DEM,Write-ins,1
+Washakie,5-5,U.S. House,,DEM,Over Votes,0
+Washakie,5-5,U.S. House,,DEM,Under Votes,0
+Washakie,5-5,Governor,,REP,Brent Bien,130
+Washakie,5-5,Governor,,REP,Curt Blake,14
+Washakie,5-5,Governor,,REP,Eric Barlow,262
+Washakie,5-5,Governor,,REP,Megan Degenfelder,234
+Washakie,5-5,Governor,,REP,Write-ins,0
+Washakie,5-5,Governor,,REP,Over Votes,0
+Washakie,5-5,Governor,,REP,Under Votes,7
+Washakie,5-5,Governor,,DEM,Kenneth R. Casner,22
+Washakie,5-5,Governor,,DEM,Write-ins,2
+Washakie,5-5,Governor,,DEM,Over Votes,0
+Washakie,5-5,Governor,,DEM,Under Votes,1
+Washakie,5-5,Secretary of State,,REP,CJ Young,64
+Washakie,5-5,Secretary of State,,REP,Qwenton Eagle Oviatt,32
+Washakie,5-5,Secretary of State,,REP,Rachel Williams,186
+Washakie,5-5,Secretary of State,,REP,Robert Short,300
+Washakie,5-5,Secretary of State,,REP,Write-ins,0
+Washakie,5-5,Secretary of State,,REP,Over Votes,0
+Washakie,5-5,Secretary of State,,REP,Under Votes,65
+Washakie,5-5,Secretary of State,,DEM,Bryan McCarty,22
+Washakie,5-5,Secretary of State,,DEM,Write-ins,2
+Washakie,5-5,Secretary of State,,DEM,Over Votes,0
+Washakie,5-5,Secretary of State,,DEM,Under Votes,1
+Washakie,5-5,State Auditor,,REP,Kristi Racines,536
+Washakie,5-5,State Auditor,,REP,Write-ins,0
+Washakie,5-5,State Auditor,,REP,Over Votes,0
+Washakie,5-5,State Auditor,,REP,Under Votes,111
+Washakie,5-5,State Auditor,,DEM,Write-ins,1
+Washakie,5-5,State Auditor,,DEM,Over Votes,0
+Washakie,5-5,State Auditor,,DEM,Under Votes,24
+Washakie,5-5,State Treasurer,,REP,Curt Meier,465
+Washakie,5-5,State Treasurer,,REP,Scott Smith,124
+Washakie,5-5,State Treasurer,,REP,Write-ins,0
+Washakie,5-5,State Treasurer,,REP,Over Votes,0
+Washakie,5-5,State Treasurer,,REP,Under Votes,58
+Washakie,5-5,State Treasurer,,DEM,Write-ins,1
+Washakie,5-5,State Treasurer,,DEM,Over Votes,0
+Washakie,5-5,State Treasurer,,DEM,Under Votes,24
+Washakie,5-5,Superintendent of Public Instruction,,REP,Chad Auer,50
+Washakie,5-5,Superintendent of Public Instruction,,REP,Steve Harshman,358
+Washakie,5-5,Superintendent of Public Instruction,,REP,Tom Kelly,162
+Washakie,5-5,Superintendent of Public Instruction,,REP,Write-ins,0
+Washakie,5-5,Superintendent of Public Instruction,,REP,Over Votes,0
+Washakie,5-5,Superintendent of Public Instruction,,REP,Under Votes,77
+Washakie,5-5,Superintendent of Public Instruction,,DEM,Ana Cordova,14
+Washakie,5-5,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",9
+Washakie,5-5,Superintendent of Public Instruction,,DEM,Write-ins,1
+Washakie,5-5,Superintendent of Public Instruction,,DEM,Over Votes,0
+Washakie,5-5,Superintendent of Public Instruction,,DEM,Under Votes,1
+Washakie,5-5,State House,27,REP,Martha Lawley,554
+Washakie,5-5,State House,27,REP,Write-ins,11
+Washakie,5-5,State House,27,REP,Over Votes,0
+Washakie,5-5,State House,27,REP,Under Votes,82
+Washakie,5-5,State House,27,DEM,Theresa Livingston,23
+Washakie,5-5,State House,27,DEM,Write-ins,1
+Washakie,5-5,State House,27,DEM,Over Votes,0
+Washakie,5-5,State House,27,DEM,Under Votes,1
+Washakie,5-5,Ballots Cast,,REP,Ballots Cast,647
+Washakie,5-5,Ballots Cast,,DEM,Ballots Cast,25
+Washakie,5-5,Ballots Cast,,NP,Ballots Cast,0
+Washakie,5-5,Ballots Cast,,,Ballots Cast,672

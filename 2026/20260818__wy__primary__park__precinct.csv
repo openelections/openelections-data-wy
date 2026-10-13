@@ -1,0 +1,2091 @@
+county,precinct,office,district,party,candidate,votes
+Park,01-01,U.S. Senate,,REP,Harriet Hageman,240
+Park,01-01,U.S. Senate,,REP,Jill M Edwards,13
+Park,01-01,U.S. Senate,,REP,Jimmy Skovgard,5
+Park,01-01,U.S. Senate,,REP,John Holtz,1
+Park,01-01,U.S. Senate,,REP,Sam Mead,33
+Park,01-01,U.S. Senate,,REP,Write-ins,2
+Park,01-01,U.S. Senate,,REP,Over Votes,0
+Park,01-01,U.S. Senate,,REP,Under Votes,4
+Park,01-01,U.S. Senate,,DEM,Billy Benavidez,1
+Park,01-01,U.S. Senate,,DEM,James Byrd,9
+Park,01-01,U.S. Senate,,DEM,Write-ins,0
+Park,01-01,U.S. Senate,,DEM,Over Votes,0
+Park,01-01,U.S. Senate,,DEM,Under Votes,0
+Park,01-01,U.S. House,,REP,* Withdrawn Candidate,4
+Park,01-01,U.S. House,,REP,Bo Biteman,3
+Park,01-01,U.S. House,,REP,Chuck Gray,119
+Park,01-01,U.S. House,,REP,David Giralt,29
+Park,01-01,U.S. House,,REP,Jillian Balow,15
+Park,01-01,U.S. House,,REP,Keith B. Goodenough,3
+Park,01-01,U.S. House,,REP,Kevin Christensen,13
+Park,01-01,U.S. House,,REP,Reid Rasner,17
+Park,01-01,U.S. House,,REP,Richard Dodson,6
+Park,01-01,U.S. House,,REP,Steve Friess,73
+Park,01-01,U.S. House,,REP,Write-ins,2
+Park,01-01,U.S. House,,REP,Over Votes,2
+Park,01-01,U.S. House,,REP,Under Votes,12
+Park,01-01,U.S. House,,DEM,Elena Del Real,2
+Park,01-01,U.S. House,,DEM,Lisa Kinney,8
+Park,01-01,U.S. House,,DEM,Write-ins,0
+Park,01-01,U.S. House,,DEM,Over Votes,0
+Park,01-01,U.S. House,,DEM,Under Votes,0
+Park,01-01,Governor,,REP,Brent Bien,129
+Park,01-01,Governor,,REP,Curt Blake,2
+Park,01-01,Governor,,REP,Eric Barlow,58
+Park,01-01,Governor,,REP,Megan Degenfelder,107
+Park,01-01,Governor,,REP,Write-ins,0
+Park,01-01,Governor,,REP,Over Votes,0
+Park,01-01,Governor,,REP,Under Votes,2
+Park,01-01,Governor,,DEM,Kenneth R. Casner,10
+Park,01-01,Governor,,DEM,Write-ins,0
+Park,01-01,Governor,,DEM,Over Votes,0
+Park,01-01,Governor,,DEM,Under Votes,0
+Park,01-01,Secretary of State,,REP,CJ Young,20
+Park,01-01,Secretary of State,,REP,Qwenton Eagle Oviatt,10
+Park,01-01,Secretary of State,,REP,Rachel Williams,178
+Park,01-01,Secretary of State,,REP,Robert Short,61
+Park,01-01,Secretary of State,,REP,Write-ins,1
+Park,01-01,Secretary of State,,REP,Over Votes,0
+Park,01-01,Secretary of State,,REP,Under Votes,28
+Park,01-01,Secretary of State,,DEM,Bryan McCarty,10
+Park,01-01,Secretary of State,,DEM,Write-ins,0
+Park,01-01,Secretary of State,,DEM,Over Votes,0
+Park,01-01,Secretary of State,,DEM,Under Votes,0
+Park,01-01,State Auditor,,REP,Kristi Racines,224
+Park,01-01,State Auditor,,REP,Write-ins,3
+Park,01-01,State Auditor,,REP,Over Votes,0
+Park,01-01,State Auditor,,REP,Under Votes,71
+Park,01-01,State Auditor,,DEM,Write-ins,0
+Park,01-01,State Auditor,,DEM,Over Votes,0
+Park,01-01,State Auditor,,DEM,Under Votes,10
+Park,01-01,State Treasurer,,REP,Curt Meier,108
+Park,01-01,State Treasurer,,REP,Scott Smith,142
+Park,01-01,State Treasurer,,REP,Write-ins,1
+Park,01-01,State Treasurer,,REP,Over Votes,0
+Park,01-01,State Treasurer,,REP,Under Votes,47
+Park,01-01,State Treasurer,,DEM,Write-ins,0
+Park,01-01,State Treasurer,,DEM,Over Votes,0
+Park,01-01,State Treasurer,,DEM,Under Votes,10
+Park,01-01,Superintendent of Public Instruction,,REP,Chad Auer,25
+Park,01-01,Superintendent of Public Instruction,,REP,Steve Harshman,106
+Park,01-01,Superintendent of Public Instruction,,REP,Tom Kelly,117
+Park,01-01,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,01-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,01-01,Superintendent of Public Instruction,,REP,Under Votes,49
+Park,01-01,Superintendent of Public Instruction,,DEM,Ana Cordova,6
+Park,01-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Park,01-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,01-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,01-01,Superintendent of Public Instruction,,DEM,Under Votes,1
+Park,01-01,State House,50,REP,David Hill,135
+Park,01-01,State House,50,REP,Levi Asay,123
+Park,01-01,State House,50,REP,Write-ins,5
+Park,01-01,State House,50,REP,Over Votes,0
+Park,01-01,State House,50,REP,Under Votes,35
+Park,01-01,State House,50,DEM,Write-ins,0
+Park,01-01,State House,50,DEM,Over Votes,0
+Park,01-01,State House,50,DEM,Under Votes,10
+Park,01-01,Ballots Cast,,REP,Ballots Cast,298
+Park,01-01,Ballots Cast,,DEM,Ballots Cast,10
+Park,01-01,Ballots Cast,,NP,Ballots Cast,0
+Park,01-01,Ballots Cast,,,Ballots Cast,308
+Park,02-01,U.S. Senate,,REP,Harriet Hageman,587
+Park,02-01,U.S. Senate,,REP,Jill M Edwards,21
+Park,02-01,U.S. Senate,,REP,Jimmy Skovgard,28
+Park,02-01,U.S. Senate,,REP,John Holtz,23
+Park,02-01,U.S. Senate,,REP,Sam Mead,281
+Park,02-01,U.S. Senate,,REP,Write-ins,1
+Park,02-01,U.S. Senate,,REP,Over Votes,2
+Park,02-01,U.S. Senate,,REP,Under Votes,22
+Park,02-01,U.S. Senate,,DEM,Billy Benavidez,8
+Park,02-01,U.S. Senate,,DEM,James Byrd,30
+Park,02-01,U.S. Senate,,DEM,Write-ins,1
+Park,02-01,U.S. Senate,,DEM,Over Votes,0
+Park,02-01,U.S. Senate,,DEM,Under Votes,3
+Park,02-01,U.S. House,,REP,* Withdrawn Candidate,17
+Park,02-01,U.S. House,,REP,Bo Biteman,21
+Park,02-01,U.S. House,,REP,Chuck Gray,239
+Park,02-01,U.S. House,,REP,David Giralt,72
+Park,02-01,U.S. House,,REP,Jillian Balow,77
+Park,02-01,U.S. House,,REP,Keith B. Goodenough,14
+Park,02-01,U.S. House,,REP,Kevin Christensen,160
+Park,02-01,U.S. House,,REP,Reid Rasner,54
+Park,02-01,U.S. House,,REP,Richard Dodson,9
+Park,02-01,U.S. House,,REP,Steve Friess,229
+Park,02-01,U.S. House,,REP,Write-ins,1
+Park,02-01,U.S. House,,REP,Over Votes,23
+Park,02-01,U.S. House,,REP,Under Votes,49
+Park,02-01,U.S. House,,DEM,Elena Del Real,12
+Park,02-01,U.S. House,,DEM,Lisa Kinney,26
+Park,02-01,U.S. House,,DEM,Write-ins,0
+Park,02-01,U.S. House,,DEM,Over Votes,0
+Park,02-01,U.S. House,,DEM,Under Votes,4
+Park,02-01,Governor,,REP,Brent Bien,302
+Park,02-01,Governor,,REP,Curt Blake,11
+Park,02-01,Governor,,REP,Eric Barlow,401
+Park,02-01,Governor,,REP,Megan Degenfelder,239
+Park,02-01,Governor,,REP,Write-ins,0
+Park,02-01,Governor,,REP,Over Votes,1
+Park,02-01,Governor,,REP,Under Votes,11
+Park,02-01,Governor,,DEM,Kenneth R. Casner,29
+Park,02-01,Governor,,DEM,Write-ins,4
+Park,02-01,Governor,,DEM,Over Votes,0
+Park,02-01,Governor,,DEM,Under Votes,9
+Park,02-01,Secretary of State,,REP,CJ Young,90
+Park,02-01,Secretary of State,,REP,Qwenton Eagle Oviatt,30
+Park,02-01,Secretary of State,,REP,Rachel Williams,398
+Park,02-01,Secretary of State,,REP,Robert Short,369
+Park,02-01,Secretary of State,,REP,Write-ins,1
+Park,02-01,Secretary of State,,REP,Over Votes,1
+Park,02-01,Secretary of State,,REP,Under Votes,76
+Park,02-01,Secretary of State,,DEM,Bryan McCarty,33
+Park,02-01,Secretary of State,,DEM,Write-ins,1
+Park,02-01,Secretary of State,,DEM,Over Votes,0
+Park,02-01,Secretary of State,,DEM,Under Votes,8
+Park,02-01,State Auditor,,REP,Kristi Racines,767
+Park,02-01,State Auditor,,REP,Write-ins,3
+Park,02-01,State Auditor,,REP,Over Votes,0
+Park,02-01,State Auditor,,REP,Under Votes,195
+Park,02-01,State Auditor,,DEM,Write-ins,5
+Park,02-01,State Auditor,,DEM,Over Votes,0
+Park,02-01,State Auditor,,DEM,Under Votes,37
+Park,02-01,State Treasurer,,REP,Curt Meier,518
+Park,02-01,State Treasurer,,REP,Scott Smith,322
+Park,02-01,State Treasurer,,REP,Write-ins,3
+Park,02-01,State Treasurer,,REP,Over Votes,0
+Park,02-01,State Treasurer,,REP,Under Votes,122
+Park,02-01,State Treasurer,,DEM,Write-ins,5
+Park,02-01,State Treasurer,,DEM,Over Votes,0
+Park,02-01,State Treasurer,,DEM,Under Votes,37
+Park,02-01,Superintendent of Public Instruction,,REP,Chad Auer,79
+Park,02-01,Superintendent of Public Instruction,,REP,Steve Harshman,488
+Park,02-01,Superintendent of Public Instruction,,REP,Tom Kelly,284
+Park,02-01,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,02-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,02-01,Superintendent of Public Instruction,,REP,Under Votes,113
+Park,02-01,Superintendent of Public Instruction,,DEM,Ana Cordova,20
+Park,02-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",17
+Park,02-01,Superintendent of Public Instruction,,DEM,Write-ins,1
+Park,02-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,02-01,Superintendent of Public Instruction,,DEM,Under Votes,4
+Park,02-01,State House,50,REP,David Hill,498
+Park,02-01,State House,50,REP,Levi Asay,367
+Park,02-01,State House,50,REP,Write-ins,2
+Park,02-01,State House,50,REP,Over Votes,1
+Park,02-01,State House,50,REP,Under Votes,97
+Park,02-01,State House,50,DEM,Write-ins,6
+Park,02-01,State House,50,DEM,Over Votes,0
+Park,02-01,State House,50,DEM,Under Votes,36
+Park,02-01,Ballots Cast,,REP,Ballots Cast,965
+Park,02-01,Ballots Cast,,DEM,Ballots Cast,42
+Park,02-01,Ballots Cast,,NP,Ballots Cast,20
+Park,02-01,Ballots Cast,,,Ballots Cast,1027
+Park,03-01,U.S. Senate,,REP,Harriet Hageman,345
+Park,03-01,U.S. Senate,,REP,Jill M Edwards,10
+Park,03-01,U.S. Senate,,REP,Jimmy Skovgard,8
+Park,03-01,U.S. Senate,,REP,John Holtz,11
+Park,03-01,U.S. Senate,,REP,Sam Mead,115
+Park,03-01,U.S. Senate,,REP,Write-ins,0
+Park,03-01,U.S. Senate,,REP,Over Votes,0
+Park,03-01,U.S. Senate,,REP,Under Votes,11
+Park,03-01,U.S. Senate,,DEM,Billy Benavidez,5
+Park,03-01,U.S. Senate,,DEM,James Byrd,7
+Park,03-01,U.S. Senate,,DEM,Write-ins,0
+Park,03-01,U.S. Senate,,DEM,Over Votes,0
+Park,03-01,U.S. Senate,,DEM,Under Votes,1
+Park,03-01,U.S. House,,REP,* Withdrawn Candidate,3
+Park,03-01,U.S. House,,REP,Bo Biteman,13
+Park,03-01,U.S. House,,REP,Chuck Gray,146
+Park,03-01,U.S. House,,REP,David Giralt,32
+Park,03-01,U.S. House,,REP,Jillian Balow,39
+Park,03-01,U.S. House,,REP,Keith B. Goodenough,6
+Park,03-01,U.S. House,,REP,Kevin Christensen,66
+Park,03-01,U.S. House,,REP,Reid Rasner,35
+Park,03-01,U.S. House,,REP,Richard Dodson,5
+Park,03-01,U.S. House,,REP,Steve Friess,129
+Park,03-01,U.S. House,,REP,Write-ins,0
+Park,03-01,U.S. House,,REP,Over Votes,4
+Park,03-01,U.S. House,,REP,Under Votes,22
+Park,03-01,U.S. House,,DEM,Elena Del Real,6
+Park,03-01,U.S. House,,DEM,Lisa Kinney,7
+Park,03-01,U.S. House,,DEM,Write-ins,0
+Park,03-01,U.S. House,,DEM,Over Votes,0
+Park,03-01,U.S. House,,DEM,Under Votes,0
+Park,03-01,Governor,,REP,Brent Bien,169
+Park,03-01,Governor,,REP,Curt Blake,4
+Park,03-01,Governor,,REP,Eric Barlow,176
+Park,03-01,Governor,,REP,Megan Degenfelder,139
+Park,03-01,Governor,,REP,Write-ins,0
+Park,03-01,Governor,,REP,Over Votes,2
+Park,03-01,Governor,,REP,Under Votes,10
+Park,03-01,Governor,,DEM,Kenneth R. Casner,10
+Park,03-01,Governor,,DEM,Write-ins,2
+Park,03-01,Governor,,DEM,Over Votes,0
+Park,03-01,Governor,,DEM,Under Votes,1
+Park,03-01,Secretary of State,,REP,CJ Young,34
+Park,03-01,Secretary of State,,REP,Qwenton Eagle Oviatt,11
+Park,03-01,Secretary of State,,REP,Rachel Williams,249
+Park,03-01,Secretary of State,,REP,Robert Short,166
+Park,03-01,Secretary of State,,REP,Write-ins,2
+Park,03-01,Secretary of State,,REP,Over Votes,0
+Park,03-01,Secretary of State,,REP,Under Votes,38
+Park,03-01,Secretary of State,,DEM,Bryan McCarty,13
+Park,03-01,Secretary of State,,DEM,Write-ins,0
+Park,03-01,Secretary of State,,DEM,Over Votes,0
+Park,03-01,Secretary of State,,DEM,Under Votes,0
+Park,03-01,State Auditor,,REP,Kristi Racines,399
+Park,03-01,State Auditor,,REP,Write-ins,3
+Park,03-01,State Auditor,,REP,Over Votes,0
+Park,03-01,State Auditor,,REP,Under Votes,98
+Park,03-01,State Auditor,,DEM,Write-ins,2
+Park,03-01,State Auditor,,DEM,Over Votes,0
+Park,03-01,State Auditor,,DEM,Under Votes,11
+Park,03-01,State Treasurer,,REP,Curt Meier,264
+Park,03-01,State Treasurer,,REP,Scott Smith,163
+Park,03-01,State Treasurer,,REP,Write-ins,0
+Park,03-01,State Treasurer,,REP,Over Votes,0
+Park,03-01,State Treasurer,,REP,Under Votes,73
+Park,03-01,State Treasurer,,DEM,Write-ins,2
+Park,03-01,State Treasurer,,DEM,Over Votes,0
+Park,03-01,State Treasurer,,DEM,Under Votes,11
+Park,03-01,Superintendent of Public Instruction,,REP,Chad Auer,32
+Park,03-01,Superintendent of Public Instruction,,REP,Steve Harshman,242
+Park,03-01,Superintendent of Public Instruction,,REP,Tom Kelly,150
+Park,03-01,Superintendent of Public Instruction,,REP,Write-ins,4
+Park,03-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,03-01,Superintendent of Public Instruction,,REP,Under Votes,72
+Park,03-01,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Park,03-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Park,03-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,03-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,03-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,03-01,State House,50,REP,David Hill,253
+Park,03-01,State House,50,REP,Levi Asay,196
+Park,03-01,State House,50,REP,Write-ins,0
+Park,03-01,State House,50,REP,Over Votes,0
+Park,03-01,State House,50,REP,Under Votes,51
+Park,03-01,State House,50,DEM,Write-ins,3
+Park,03-01,State House,50,DEM,Over Votes,0
+Park,03-01,State House,50,DEM,Under Votes,10
+Park,03-01,Ballots Cast,,REP,Ballots Cast,500
+Park,03-01,Ballots Cast,,DEM,Ballots Cast,13
+Park,03-01,Ballots Cast,,NP,Ballots Cast,8
+Park,03-01,Ballots Cast,,,Ballots Cast,521
+Park,03-02,U.S. Senate,,REP,Harriet Hageman,487
+Park,03-02,U.S. Senate,,REP,Jill M Edwards,9
+Park,03-02,U.S. Senate,,REP,Jimmy Skovgard,10
+Park,03-02,U.S. Senate,,REP,John Holtz,12
+Park,03-02,U.S. Senate,,REP,Sam Mead,271
+Park,03-02,U.S. Senate,,REP,Write-ins,0
+Park,03-02,U.S. Senate,,REP,Over Votes,1
+Park,03-02,U.S. Senate,,REP,Under Votes,11
+Park,03-02,U.S. Senate,,DEM,Billy Benavidez,5
+Park,03-02,U.S. Senate,,DEM,James Byrd,6
+Park,03-02,U.S. Senate,,DEM,Write-ins,0
+Park,03-02,U.S. Senate,,DEM,Over Votes,0
+Park,03-02,U.S. Senate,,DEM,Under Votes,2
+Park,03-02,U.S. House,,REP,* Withdrawn Candidate,3
+Park,03-02,U.S. House,,REP,Bo Biteman,22
+Park,03-02,U.S. House,,REP,Chuck Gray,186
+Park,03-02,U.S. House,,REP,David Giralt,63
+Park,03-02,U.S. House,,REP,Jillian Balow,57
+Park,03-02,U.S. House,,REP,Keith B. Goodenough,7
+Park,03-02,U.S. House,,REP,Kevin Christensen,159
+Park,03-02,U.S. House,,REP,Reid Rasner,40
+Park,03-02,U.S. House,,REP,Richard Dodson,5
+Park,03-02,U.S. House,,REP,Steve Friess,220
+Park,03-02,U.S. House,,REP,Write-ins,1
+Park,03-02,U.S. House,,REP,Over Votes,13
+Park,03-02,U.S. House,,REP,Under Votes,25
+Park,03-02,U.S. House,,DEM,Elena Del Real,3
+Park,03-02,U.S. House,,DEM,Lisa Kinney,8
+Park,03-02,U.S. House,,DEM,Write-ins,0
+Park,03-02,U.S. House,,DEM,Over Votes,0
+Park,03-02,U.S. House,,DEM,Under Votes,2
+Park,03-02,Governor,,REP,Brent Bien,223
+Park,03-02,Governor,,REP,Curt Blake,3
+Park,03-02,Governor,,REP,Eric Barlow,360
+Park,03-02,Governor,,REP,Megan Degenfelder,200
+Park,03-02,Governor,,REP,Write-ins,0
+Park,03-02,Governor,,REP,Over Votes,2
+Park,03-02,Governor,,REP,Under Votes,13
+Park,03-02,Governor,,DEM,Kenneth R. Casner,10
+Park,03-02,Governor,,DEM,Write-ins,1
+Park,03-02,Governor,,DEM,Over Votes,0
+Park,03-02,Governor,,DEM,Under Votes,2
+Park,03-02,Secretary of State,,REP,CJ Young,59
+Park,03-02,Secretary of State,,REP,Qwenton Eagle Oviatt,23
+Park,03-02,Secretary of State,,REP,Rachel Williams,332
+Park,03-02,Secretary of State,,REP,Robert Short,326
+Park,03-02,Secretary of State,,REP,Write-ins,1
+Park,03-02,Secretary of State,,REP,Over Votes,0
+Park,03-02,Secretary of State,,REP,Under Votes,60
+Park,03-02,Secretary of State,,DEM,Bryan McCarty,9
+Park,03-02,Secretary of State,,DEM,Write-ins,1
+Park,03-02,Secretary of State,,DEM,Over Votes,0
+Park,03-02,Secretary of State,,DEM,Under Votes,3
+Park,03-02,State Auditor,,REP,Kristi Racines,625
+Park,03-02,State Auditor,,REP,Write-ins,5
+Park,03-02,State Auditor,,REP,Over Votes,0
+Park,03-02,State Auditor,,REP,Under Votes,171
+Park,03-02,State Auditor,,DEM,Write-ins,0
+Park,03-02,State Auditor,,DEM,Over Votes,0
+Park,03-02,State Auditor,,DEM,Under Votes,13
+Park,03-02,State Treasurer,,REP,Curt Meier,463
+Park,03-02,State Treasurer,,REP,Scott Smith,217
+Park,03-02,State Treasurer,,REP,Write-ins,2
+Park,03-02,State Treasurer,,REP,Over Votes,0
+Park,03-02,State Treasurer,,REP,Under Votes,119
+Park,03-02,State Treasurer,,DEM,Write-ins,0
+Park,03-02,State Treasurer,,DEM,Over Votes,0
+Park,03-02,State Treasurer,,DEM,Under Votes,13
+Park,03-02,Superintendent of Public Instruction,,REP,Chad Auer,38
+Park,03-02,Superintendent of Public Instruction,,REP,Steve Harshman,442
+Park,03-02,Superintendent of Public Instruction,,REP,Tom Kelly,201
+Park,03-02,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,03-02,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,03-02,Superintendent of Public Instruction,,REP,Under Votes,119
+Park,03-02,Superintendent of Public Instruction,,DEM,Ana Cordova,8
+Park,03-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Park,03-02,Superintendent of Public Instruction,,DEM,Write-ins,1
+Park,03-02,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,03-02,Superintendent of Public Instruction,,DEM,Under Votes,3
+Park,03-02,State House,28,REP,Allen Hogg,180
+Park,03-02,State House,28,REP,Carlin Jones,98
+Park,03-02,State House,28,REP,Marshall Keller,39
+Park,03-02,State House,28,REP,Roland Luehne,3
+Park,03-02,State House,28,REP,Write-ins,0
+Park,03-02,State House,28,REP,Over Votes,0
+Park,03-02,State House,28,REP,Under Votes,33
+Park,03-02,State House,28,DEM,Write-ins,0
+Park,03-02,State House,28,DEM,Over Votes,0
+Park,03-02,State House,28,DEM,Under Votes,3
+Park,03-02,State House,50,REP,David Hill,247
+Park,03-02,State House,50,REP,Levi Asay,152
+Park,03-02,State House,50,REP,Write-ins,1
+Park,03-02,State House,50,REP,Over Votes,0
+Park,03-02,State House,50,REP,Under Votes,48
+Park,03-02,State House,50,DEM,Write-ins,0
+Park,03-02,State House,50,DEM,Over Votes,0
+Park,03-02,State House,50,DEM,Under Votes,10
+Park,03-02,Ballots Cast,,REP,Ballots Cast,801
+Park,03-02,Ballots Cast,,DEM,Ballots Cast,13
+Park,03-02,Ballots Cast,,NP,Ballots Cast,16
+Park,03-02,Ballots Cast,,,Ballots Cast,830
+Park,04-01,U.S. Senate,,REP,Harriet Hageman,555
+Park,04-01,U.S. Senate,,REP,Jill M Edwards,6
+Park,04-01,U.S. Senate,,REP,Jimmy Skovgard,7
+Park,04-01,U.S. Senate,,REP,John Holtz,7
+Park,04-01,U.S. Senate,,REP,Sam Mead,171
+Park,04-01,U.S. Senate,,REP,Write-ins,1
+Park,04-01,U.S. Senate,,REP,Over Votes,1
+Park,04-01,U.S. Senate,,REP,Under Votes,13
+Park,04-01,U.S. Senate,,DEM,Billy Benavidez,5
+Park,04-01,U.S. Senate,,DEM,James Byrd,10
+Park,04-01,U.S. Senate,,DEM,Write-ins,0
+Park,04-01,U.S. Senate,,DEM,Over Votes,0
+Park,04-01,U.S. Senate,,DEM,Under Votes,1
+Park,04-01,U.S. House,,REP,* Withdrawn Candidate,3
+Park,04-01,U.S. House,,REP,Bo Biteman,11
+Park,04-01,U.S. House,,REP,Chuck Gray,243
+Park,04-01,U.S. House,,REP,David Giralt,49
+Park,04-01,U.S. House,,REP,Jillian Balow,46
+Park,04-01,U.S. House,,REP,Keith B. Goodenough,7
+Park,04-01,U.S. House,,REP,Kevin Christensen,110
+Park,04-01,U.S. House,,REP,Reid Rasner,44
+Park,04-01,U.S. House,,REP,Richard Dodson,6
+Park,04-01,U.S. House,,REP,Steve Friess,204
+Park,04-01,U.S. House,,REP,Write-ins,0
+Park,04-01,U.S. House,,REP,Over Votes,10
+Park,04-01,U.S. House,,REP,Under Votes,28
+Park,04-01,U.S. House,,DEM,Elena Del Real,2
+Park,04-01,U.S. House,,DEM,Lisa Kinney,14
+Park,04-01,U.S. House,,DEM,Write-ins,0
+Park,04-01,U.S. House,,DEM,Over Votes,0
+Park,04-01,U.S. House,,DEM,Under Votes,0
+Park,04-01,Governor,,REP,Brent Bien,299
+Park,04-01,Governor,,REP,Curt Blake,4
+Park,04-01,Governor,,REP,Eric Barlow,251
+Park,04-01,Governor,,REP,Megan Degenfelder,198
+Park,04-01,Governor,,REP,Write-ins,0
+Park,04-01,Governor,,REP,Over Votes,0
+Park,04-01,Governor,,REP,Under Votes,9
+Park,04-01,Governor,,DEM,Kenneth R. Casner,14
+Park,04-01,Governor,,DEM,Write-ins,2
+Park,04-01,Governor,,DEM,Over Votes,0
+Park,04-01,Governor,,DEM,Under Votes,0
+Park,04-01,Secretary of State,,REP,CJ Young,80
+Park,04-01,Secretary of State,,REP,Qwenton Eagle Oviatt,18
+Park,04-01,Secretary of State,,REP,Rachel Williams,359
+Park,04-01,Secretary of State,,REP,Robert Short,227
+Park,04-01,Secretary of State,,REP,Write-ins,0
+Park,04-01,Secretary of State,,REP,Over Votes,0
+Park,04-01,Secretary of State,,REP,Under Votes,77
+Park,04-01,Secretary of State,,DEM,Bryan McCarty,16
+Park,04-01,Secretary of State,,DEM,Write-ins,0
+Park,04-01,Secretary of State,,DEM,Over Votes,0
+Park,04-01,Secretary of State,,DEM,Under Votes,0
+Park,04-01,State Auditor,,REP,Kristi Racines,564
+Park,04-01,State Auditor,,REP,Write-ins,7
+Park,04-01,State Auditor,,REP,Over Votes,0
+Park,04-01,State Auditor,,REP,Under Votes,190
+Park,04-01,State Auditor,,DEM,Write-ins,2
+Park,04-01,State Auditor,,DEM,Over Votes,0
+Park,04-01,State Auditor,,DEM,Under Votes,14
+Park,04-01,State Treasurer,,REP,Curt Meier,373
+Park,04-01,State Treasurer,,REP,Scott Smith,257
+Park,04-01,State Treasurer,,REP,Write-ins,2
+Park,04-01,State Treasurer,,REP,Over Votes,0
+Park,04-01,State Treasurer,,REP,Under Votes,129
+Park,04-01,State Treasurer,,DEM,Write-ins,4
+Park,04-01,State Treasurer,,DEM,Over Votes,0
+Park,04-01,State Treasurer,,DEM,Under Votes,12
+Park,04-01,Superintendent of Public Instruction,,REP,Chad Auer,56
+Park,04-01,Superintendent of Public Instruction,,REP,Steve Harshman,321
+Park,04-01,Superintendent of Public Instruction,,REP,Tom Kelly,247
+Park,04-01,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,04-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,04-01,Superintendent of Public Instruction,,REP,Under Votes,136
+Park,04-01,Superintendent of Public Instruction,,DEM,Ana Cordova,11
+Park,04-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",5
+Park,04-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,04-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,04-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,04-01,State House,24,REP,Nina Webber,304
+Park,04-01,State House,24,REP,Quin Blair,423
+Park,04-01,State House,24,REP,Write-ins,2
+Park,04-01,State House,24,REP,Over Votes,2
+Park,04-01,State House,24,REP,Under Votes,30
+Park,04-01,State House,24,DEM,Write-ins,2
+Park,04-01,State House,24,DEM,Over Votes,0
+Park,04-01,State House,24,DEM,Under Votes,14
+Park,04-01,Ballots Cast,,REP,Ballots Cast,761
+Park,04-01,Ballots Cast,,DEM,Ballots Cast,16
+Park,04-01,Ballots Cast,,NP,Ballots Cast,6
+Park,04-01,Ballots Cast,,,Ballots Cast,783
+Park,04-02,U.S. Senate,,REP,Harriet Hageman,94
+Park,04-02,U.S. Senate,,REP,Jill M Edwards,3
+Park,04-02,U.S. Senate,,REP,Jimmy Skovgard,2
+Park,04-02,U.S. Senate,,REP,John Holtz,2
+Park,04-02,U.S. Senate,,REP,Sam Mead,20
+Park,04-02,U.S. Senate,,REP,Write-ins,0
+Park,04-02,U.S. Senate,,REP,Over Votes,1
+Park,04-02,U.S. Senate,,REP,Under Votes,4
+Park,04-02,U.S. Senate,,DEM,Billy Benavidez,0
+Park,04-02,U.S. Senate,,DEM,James Byrd,0
+Park,04-02,U.S. Senate,,DEM,Write-ins,0
+Park,04-02,U.S. Senate,,DEM,Over Votes,0
+Park,04-02,U.S. Senate,,DEM,Under Votes,0
+Park,04-02,U.S. House,,REP,* Withdrawn Candidate,0
+Park,04-02,U.S. House,,REP,Bo Biteman,6
+Park,04-02,U.S. House,,REP,Chuck Gray,41
+Park,04-02,U.S. House,,REP,David Giralt,2
+Park,04-02,U.S. House,,REP,Jillian Balow,10
+Park,04-02,U.S. House,,REP,Keith B. Goodenough,0
+Park,04-02,U.S. House,,REP,Kevin Christensen,18
+Park,04-02,U.S. House,,REP,Reid Rasner,10
+Park,04-02,U.S. House,,REP,Richard Dodson,2
+Park,04-02,U.S. House,,REP,Steve Friess,26
+Park,04-02,U.S. House,,REP,Write-ins,0
+Park,04-02,U.S. House,,REP,Over Votes,3
+Park,04-02,U.S. House,,REP,Under Votes,8
+Park,04-02,U.S. House,,DEM,Elena Del Real,0
+Park,04-02,U.S. House,,DEM,Lisa Kinney,0
+Park,04-02,U.S. House,,DEM,Write-ins,0
+Park,04-02,U.S. House,,DEM,Over Votes,0
+Park,04-02,U.S. House,,DEM,Under Votes,0
+Park,04-02,Governor,,REP,Brent Bien,49
+Park,04-02,Governor,,REP,Curt Blake,0
+Park,04-02,Governor,,REP,Eric Barlow,44
+Park,04-02,Governor,,REP,Megan Degenfelder,28
+Park,04-02,Governor,,REP,Write-ins,0
+Park,04-02,Governor,,REP,Over Votes,1
+Park,04-02,Governor,,REP,Under Votes,4
+Park,04-02,Governor,,DEM,Kenneth R. Casner,0
+Park,04-02,Governor,,DEM,Write-ins,0
+Park,04-02,Governor,,DEM,Over Votes,0
+Park,04-02,Governor,,DEM,Under Votes,0
+Park,04-02,Secretary of State,,REP,CJ Young,6
+Park,04-02,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Park,04-02,Secretary of State,,REP,Rachel Williams,67
+Park,04-02,Secretary of State,,REP,Robert Short,34
+Park,04-02,Secretary of State,,REP,Write-ins,0
+Park,04-02,Secretary of State,,REP,Over Votes,0
+Park,04-02,Secretary of State,,REP,Under Votes,13
+Park,04-02,Secretary of State,,DEM,Bryan McCarty,0
+Park,04-02,Secretary of State,,DEM,Write-ins,0
+Park,04-02,Secretary of State,,DEM,Over Votes,0
+Park,04-02,Secretary of State,,DEM,Under Votes,0
+Park,04-02,State Auditor,,REP,Kristi Racines,107
+Park,04-02,State Auditor,,REP,Write-ins,0
+Park,04-02,State Auditor,,REP,Over Votes,0
+Park,04-02,State Auditor,,REP,Under Votes,19
+Park,04-02,State Auditor,,DEM,Write-ins,0
+Park,04-02,State Auditor,,DEM,Over Votes,0
+Park,04-02,State Auditor,,DEM,Under Votes,0
+Park,04-02,State Treasurer,,REP,Curt Meier,60
+Park,04-02,State Treasurer,,REP,Scott Smith,52
+Park,04-02,State Treasurer,,REP,Write-ins,0
+Park,04-02,State Treasurer,,REP,Over Votes,0
+Park,04-02,State Treasurer,,REP,Under Votes,14
+Park,04-02,State Treasurer,,DEM,Write-ins,0
+Park,04-02,State Treasurer,,DEM,Over Votes,0
+Park,04-02,State Treasurer,,DEM,Under Votes,0
+Park,04-02,Superintendent of Public Instruction,,REP,Chad Auer,10
+Park,04-02,Superintendent of Public Instruction,,REP,Steve Harshman,56
+Park,04-02,Superintendent of Public Instruction,,REP,Tom Kelly,41
+Park,04-02,Superintendent of Public Instruction,,REP,Write-ins,0
+Park,04-02,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,04-02,Superintendent of Public Instruction,,REP,Under Votes,19
+Park,04-02,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Park,04-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Park,04-02,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,04-02,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,04-02,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,04-02,State House,24,REP,Nina Webber,0
+Park,04-02,State House,24,REP,Quin Blair,5
+Park,04-02,State House,24,REP,Write-ins,0
+Park,04-02,State House,24,REP,Over Votes,0
+Park,04-02,State House,24,REP,Under Votes,1
+Park,04-02,State House,24,DEM,Write-ins,0
+Park,04-02,State House,24,DEM,Over Votes,0
+Park,04-02,State House,24,DEM,Under Votes,0
+Park,04-02,State House,50,REP,David Hill,67
+Park,04-02,State House,50,REP,Levi Asay,44
+Park,04-02,State House,50,REP,Write-ins,0
+Park,04-02,State House,50,REP,Over Votes,0
+Park,04-02,State House,50,REP,Under Votes,9
+Park,04-02,State House,50,DEM,Write-ins,0
+Park,04-02,State House,50,DEM,Over Votes,0
+Park,04-02,State House,50,DEM,Under Votes,0
+Park,04-02,Ballots Cast,,REP,Ballots Cast,126
+Park,04-02,Ballots Cast,,DEM,Ballots Cast,0
+Park,04-02,Ballots Cast,,NP,Ballots Cast,2
+Park,04-02,Ballots Cast,,,Ballots Cast,128
+Park,06-01,U.S. Senate,,REP,Harriet Hageman,186
+Park,06-01,U.S. Senate,,REP,Jill M Edwards,3
+Park,06-01,U.S. Senate,,REP,Jimmy Skovgard,2
+Park,06-01,U.S. Senate,,REP,John Holtz,4
+Park,06-01,U.S. Senate,,REP,Sam Mead,39
+Park,06-01,U.S. Senate,,REP,Write-ins,1
+Park,06-01,U.S. Senate,,REP,Over Votes,0
+Park,06-01,U.S. Senate,,REP,Under Votes,3
+Park,06-01,U.S. Senate,,DEM,Billy Benavidez,3
+Park,06-01,U.S. Senate,,DEM,James Byrd,8
+Park,06-01,U.S. Senate,,DEM,Write-ins,0
+Park,06-01,U.S. Senate,,DEM,Over Votes,1
+Park,06-01,U.S. Senate,,DEM,Under Votes,0
+Park,06-01,U.S. House,,REP,* Withdrawn Candidate,4
+Park,06-01,U.S. House,,REP,Bo Biteman,9
+Park,06-01,U.S. House,,REP,Chuck Gray,89
+Park,06-01,U.S. House,,REP,David Giralt,20
+Park,06-01,U.S. House,,REP,Jillian Balow,15
+Park,06-01,U.S. House,,REP,Keith B. Goodenough,4
+Park,06-01,U.S. House,,REP,Kevin Christensen,24
+Park,06-01,U.S. House,,REP,Reid Rasner,20
+Park,06-01,U.S. House,,REP,Richard Dodson,0
+Park,06-01,U.S. House,,REP,Steve Friess,39
+Park,06-01,U.S. House,,REP,Write-ins,2
+Park,06-01,U.S. House,,REP,Over Votes,11
+Park,06-01,U.S. House,,REP,Under Votes,1
+Park,06-01,U.S. House,,DEM,Elena Del Real,2
+Park,06-01,U.S. House,,DEM,Lisa Kinney,8
+Park,06-01,U.S. House,,DEM,Write-ins,1
+Park,06-01,U.S. House,,DEM,Over Votes,1
+Park,06-01,U.S. House,,DEM,Under Votes,0
+Park,06-01,Governor,,REP,Brent Bien,76
+Park,06-01,Governor,,REP,Curt Blake,3
+Park,06-01,Governor,,REP,Eric Barlow,73
+Park,06-01,Governor,,REP,Megan Degenfelder,86
+Park,06-01,Governor,,REP,Write-ins,0
+Park,06-01,Governor,,REP,Over Votes,0
+Park,06-01,Governor,,REP,Under Votes,0
+Park,06-01,Governor,,DEM,Kenneth R. Casner,10
+Park,06-01,Governor,,DEM,Write-ins,1
+Park,06-01,Governor,,DEM,Over Votes,0
+Park,06-01,Governor,,DEM,Under Votes,1
+Park,06-01,Secretary of State,,REP,CJ Young,20
+Park,06-01,Secretary of State,,REP,Qwenton Eagle Oviatt,7
+Park,06-01,Secretary of State,,REP,Rachel Williams,123
+Park,06-01,Secretary of State,,REP,Robert Short,63
+Park,06-01,Secretary of State,,REP,Write-ins,0
+Park,06-01,Secretary of State,,REP,Over Votes,1
+Park,06-01,Secretary of State,,REP,Under Votes,24
+Park,06-01,Secretary of State,,DEM,Bryan McCarty,11
+Park,06-01,Secretary of State,,DEM,Write-ins,0
+Park,06-01,Secretary of State,,DEM,Over Votes,0
+Park,06-01,Secretary of State,,DEM,Under Votes,1
+Park,06-01,State Auditor,,REP,Kristi Racines,196
+Park,06-01,State Auditor,,REP,Write-ins,0
+Park,06-01,State Auditor,,REP,Over Votes,0
+Park,06-01,State Auditor,,REP,Under Votes,42
+Park,06-01,State Auditor,,DEM,Write-ins,0
+Park,06-01,State Auditor,,DEM,Over Votes,0
+Park,06-01,State Auditor,,DEM,Under Votes,12
+Park,06-01,State Treasurer,,REP,Curt Meier,134
+Park,06-01,State Treasurer,,REP,Scott Smith,75
+Park,06-01,State Treasurer,,REP,Write-ins,0
+Park,06-01,State Treasurer,,REP,Over Votes,0
+Park,06-01,State Treasurer,,REP,Under Votes,29
+Park,06-01,State Treasurer,,DEM,Write-ins,0
+Park,06-01,State Treasurer,,DEM,Over Votes,0
+Park,06-01,State Treasurer,,DEM,Under Votes,12
+Park,06-01,Superintendent of Public Instruction,,REP,Chad Auer,20
+Park,06-01,Superintendent of Public Instruction,,REP,Steve Harshman,103
+Park,06-01,Superintendent of Public Instruction,,REP,Tom Kelly,87
+Park,06-01,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,06-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,06-01,Superintendent of Public Instruction,,REP,Under Votes,27
+Park,06-01,Superintendent of Public Instruction,,DEM,Ana Cordova,8
+Park,06-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Park,06-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,06-01,Superintendent of Public Instruction,,DEM,Over Votes,1
+Park,06-01,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,06-01,State Senate,19,REP,Paul Hoeft,150
+Park,06-01,State Senate,19,REP,R. J. Kost,79
+Park,06-01,State Senate,19,REP,Write-ins,0
+Park,06-01,State Senate,19,REP,Over Votes,1
+Park,06-01,State Senate,19,REP,Under Votes,8
+Park,06-01,State Senate,19,DEM,Write-ins,2
+Park,06-01,State Senate,19,DEM,Over Votes,0
+Park,06-01,State Senate,19,DEM,Under Votes,10
+Park,06-01,State House,26,REP,Dalton Banks,125
+Park,06-01,State House,26,REP,J. Addison Aagard,63
+Park,06-01,State House,26,REP,Write-ins,1
+Park,06-01,State House,26,REP,Over Votes,0
+Park,06-01,State House,26,REP,Under Votes,49
+Park,06-01,State House,26,DEM,Write-ins,1
+Park,06-01,State House,26,DEM,Over Votes,0
+Park,06-01,State House,26,DEM,Under Votes,11
+Park,06-01,Ballots Cast,,REP,Ballots Cast,238
+Park,06-01,Ballots Cast,,DEM,Ballots Cast,12
+Park,06-01,Ballots Cast,,NP,Ballots Cast,0
+Park,06-01,Ballots Cast,,,Ballots Cast,250
+Park,07-02,U.S. Senate,,REP,Harriet Hageman,20
+Park,07-02,U.S. Senate,,REP,Jill M Edwards,0
+Park,07-02,U.S. Senate,,REP,Jimmy Skovgard,2
+Park,07-02,U.S. Senate,,REP,John Holtz,2
+Park,07-02,U.S. Senate,,REP,Sam Mead,18
+Park,07-02,U.S. Senate,,REP,Write-ins,1
+Park,07-02,U.S. Senate,,REP,Over Votes,0
+Park,07-02,U.S. Senate,,REP,Under Votes,3
+Park,07-02,U.S. Senate,,DEM,Billy Benavidez,0
+Park,07-02,U.S. Senate,,DEM,James Byrd,0
+Park,07-02,U.S. Senate,,DEM,Write-ins,0
+Park,07-02,U.S. Senate,,DEM,Over Votes,0
+Park,07-02,U.S. Senate,,DEM,Under Votes,0
+Park,07-02,U.S. House,,REP,* Withdrawn Candidate,0
+Park,07-02,U.S. House,,REP,Bo Biteman,2
+Park,07-02,U.S. House,,REP,Chuck Gray,2
+Park,07-02,U.S. House,,REP,David Giralt,5
+Park,07-02,U.S. House,,REP,Jillian Balow,1
+Park,07-02,U.S. House,,REP,Keith B. Goodenough,1
+Park,07-02,U.S. House,,REP,Kevin Christensen,5
+Park,07-02,U.S. House,,REP,Reid Rasner,0
+Park,07-02,U.S. House,,REP,Richard Dodson,0
+Park,07-02,U.S. House,,REP,Steve Friess,28
+Park,07-02,U.S. House,,REP,Write-ins,1
+Park,07-02,U.S. House,,REP,Over Votes,0
+Park,07-02,U.S. House,,REP,Under Votes,1
+Park,07-02,U.S. House,,DEM,Elena Del Real,0
+Park,07-02,U.S. House,,DEM,Lisa Kinney,0
+Park,07-02,U.S. House,,DEM,Write-ins,0
+Park,07-02,U.S. House,,DEM,Over Votes,0
+Park,07-02,U.S. House,,DEM,Under Votes,0
+Park,07-02,Governor,,REP,Brent Bien,14
+Park,07-02,Governor,,REP,Curt Blake,1
+Park,07-02,Governor,,REP,Eric Barlow,22
+Park,07-02,Governor,,REP,Megan Degenfelder,9
+Park,07-02,Governor,,REP,Write-ins,0
+Park,07-02,Governor,,REP,Over Votes,0
+Park,07-02,Governor,,REP,Under Votes,0
+Park,07-02,Governor,,DEM,Kenneth R. Casner,0
+Park,07-02,Governor,,DEM,Write-ins,0
+Park,07-02,Governor,,DEM,Over Votes,0
+Park,07-02,Governor,,DEM,Under Votes,0
+Park,07-02,Secretary of State,,REP,CJ Young,2
+Park,07-02,Secretary of State,,REP,Qwenton Eagle Oviatt,1
+Park,07-02,Secretary of State,,REP,Rachel Williams,16
+Park,07-02,Secretary of State,,REP,Robert Short,21
+Park,07-02,Secretary of State,,REP,Write-ins,0
+Park,07-02,Secretary of State,,REP,Over Votes,0
+Park,07-02,Secretary of State,,REP,Under Votes,6
+Park,07-02,Secretary of State,,DEM,Bryan McCarty,0
+Park,07-02,Secretary of State,,DEM,Write-ins,0
+Park,07-02,Secretary of State,,DEM,Over Votes,0
+Park,07-02,Secretary of State,,DEM,Under Votes,0
+Park,07-02,State Auditor,,REP,Kristi Racines,36
+Park,07-02,State Auditor,,REP,Write-ins,0
+Park,07-02,State Auditor,,REP,Over Votes,0
+Park,07-02,State Auditor,,REP,Under Votes,10
+Park,07-02,State Auditor,,DEM,Write-ins,0
+Park,07-02,State Auditor,,DEM,Over Votes,0
+Park,07-02,State Auditor,,DEM,Under Votes,0
+Park,07-02,State Treasurer,,REP,Curt Meier,24
+Park,07-02,State Treasurer,,REP,Scott Smith,11
+Park,07-02,State Treasurer,,REP,Write-ins,0
+Park,07-02,State Treasurer,,REP,Over Votes,0
+Park,07-02,State Treasurer,,REP,Under Votes,11
+Park,07-02,State Treasurer,,DEM,Write-ins,0
+Park,07-02,State Treasurer,,DEM,Over Votes,0
+Park,07-02,State Treasurer,,DEM,Under Votes,0
+Park,07-02,Superintendent of Public Instruction,,REP,Chad Auer,4
+Park,07-02,Superintendent of Public Instruction,,REP,Steve Harshman,17
+Park,07-02,Superintendent of Public Instruction,,REP,Tom Kelly,11
+Park,07-02,Superintendent of Public Instruction,,REP,Write-ins,0
+Park,07-02,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,07-02,Superintendent of Public Instruction,,REP,Under Votes,14
+Park,07-02,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Park,07-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Park,07-02,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,07-02,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,07-02,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,07-02,State House,24,REP,Nina Webber,20
+Park,07-02,State House,24,REP,Quin Blair,25
+Park,07-02,State House,24,REP,Write-ins,0
+Park,07-02,State House,24,REP,Over Votes,0
+Park,07-02,State House,24,REP,Under Votes,1
+Park,07-02,State House,24,DEM,Write-ins,0
+Park,07-02,State House,24,DEM,Over Votes,0
+Park,07-02,State House,24,DEM,Under Votes,0
+Park,07-02,Ballots Cast,,REP,Ballots Cast,46
+Park,07-02,Ballots Cast,,DEM,Ballots Cast,0
+Park,07-02,Ballots Cast,,NP,Ballots Cast,3
+Park,07-02,Ballots Cast,,,Ballots Cast,49
+Park,08-01,U.S. Senate,,REP,Harriet Hageman,72
+Park,08-01,U.S. Senate,,REP,Jill M Edwards,2
+Park,08-01,U.S. Senate,,REP,Jimmy Skovgard,3
+Park,08-01,U.S. Senate,,REP,John Holtz,2
+Park,08-01,U.S. Senate,,REP,Sam Mead,17
+Park,08-01,U.S. Senate,,REP,Write-ins,1
+Park,08-01,U.S. Senate,,REP,Over Votes,0
+Park,08-01,U.S. Senate,,REP,Under Votes,6
+Park,08-01,U.S. Senate,,DEM,Billy Benavidez,0
+Park,08-01,U.S. Senate,,DEM,James Byrd,2
+Park,08-01,U.S. Senate,,DEM,Write-ins,0
+Park,08-01,U.S. Senate,,DEM,Over Votes,0
+Park,08-01,U.S. Senate,,DEM,Under Votes,0
+Park,08-01,U.S. House,,REP,* Withdrawn Candidate,1
+Park,08-01,U.S. House,,REP,Bo Biteman,3
+Park,08-01,U.S. House,,REP,Chuck Gray,28
+Park,08-01,U.S. House,,REP,David Giralt,7
+Park,08-01,U.S. House,,REP,Jillian Balow,2
+Park,08-01,U.S. House,,REP,Keith B. Goodenough,2
+Park,08-01,U.S. House,,REP,Kevin Christensen,17
+Park,08-01,U.S. House,,REP,Reid Rasner,7
+Park,08-01,U.S. House,,REP,Richard Dodson,2
+Park,08-01,U.S. House,,REP,Steve Friess,23
+Park,08-01,U.S. House,,REP,Write-ins,1
+Park,08-01,U.S. House,,REP,Over Votes,1
+Park,08-01,U.S. House,,REP,Under Votes,9
+Park,08-01,U.S. House,,DEM,Elena Del Real,0
+Park,08-01,U.S. House,,DEM,Lisa Kinney,2
+Park,08-01,U.S. House,,DEM,Write-ins,0
+Park,08-01,U.S. House,,DEM,Over Votes,0
+Park,08-01,U.S. House,,DEM,Under Votes,0
+Park,08-01,Governor,,REP,Brent Bien,33
+Park,08-01,Governor,,REP,Curt Blake,3
+Park,08-01,Governor,,REP,Eric Barlow,42
+Park,08-01,Governor,,REP,Megan Degenfelder,21
+Park,08-01,Governor,,REP,Write-ins,1
+Park,08-01,Governor,,REP,Over Votes,0
+Park,08-01,Governor,,REP,Under Votes,3
+Park,08-01,Governor,,DEM,Kenneth R. Casner,1
+Park,08-01,Governor,,DEM,Write-ins,0
+Park,08-01,Governor,,DEM,Over Votes,0
+Park,08-01,Governor,,DEM,Under Votes,1
+Park,08-01,Secretary of State,,REP,CJ Young,23
+Park,08-01,Secretary of State,,REP,Qwenton Eagle Oviatt,2
+Park,08-01,Secretary of State,,REP,Rachel Williams,19
+Park,08-01,Secretary of State,,REP,Robert Short,41
+Park,08-01,Secretary of State,,REP,Write-ins,1
+Park,08-01,Secretary of State,,REP,Over Votes,0
+Park,08-01,Secretary of State,,REP,Under Votes,17
+Park,08-01,Secretary of State,,DEM,Bryan McCarty,1
+Park,08-01,Secretary of State,,DEM,Write-ins,0
+Park,08-01,Secretary of State,,DEM,Over Votes,0
+Park,08-01,Secretary of State,,DEM,Under Votes,1
+Park,08-01,State Auditor,,REP,Kristi Racines,90
+Park,08-01,State Auditor,,REP,Write-ins,0
+Park,08-01,State Auditor,,REP,Over Votes,0
+Park,08-01,State Auditor,,REP,Under Votes,13
+Park,08-01,State Auditor,,DEM,Write-ins,0
+Park,08-01,State Auditor,,DEM,Over Votes,0
+Park,08-01,State Auditor,,DEM,Under Votes,2
+Park,08-01,State Treasurer,,REP,Curt Meier,65
+Park,08-01,State Treasurer,,REP,Scott Smith,17
+Park,08-01,State Treasurer,,REP,Write-ins,2
+Park,08-01,State Treasurer,,REP,Over Votes,0
+Park,08-01,State Treasurer,,REP,Under Votes,19
+Park,08-01,State Treasurer,,DEM,Write-ins,0
+Park,08-01,State Treasurer,,DEM,Over Votes,0
+Park,08-01,State Treasurer,,DEM,Under Votes,2
+Park,08-01,Superintendent of Public Instruction,,REP,Chad Auer,5
+Park,08-01,Superintendent of Public Instruction,,REP,Steve Harshman,59
+Park,08-01,Superintendent of Public Instruction,,REP,Tom Kelly,12
+Park,08-01,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,08-01,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,08-01,Superintendent of Public Instruction,,REP,Under Votes,26
+Park,08-01,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Park,08-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",0
+Park,08-01,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,08-01,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,08-01,Superintendent of Public Instruction,,DEM,Under Votes,1
+Park,08-01,State House,28,REP,Allen Hogg,82
+Park,08-01,State House,28,REP,Carlin Jones,18
+Park,08-01,State House,28,REP,Marshall Keller,0
+Park,08-01,State House,28,REP,Roland Luehne,2
+Park,08-01,State House,28,REP,Write-ins,0
+Park,08-01,State House,28,REP,Over Votes,0
+Park,08-01,State House,28,REP,Under Votes,1
+Park,08-01,State House,28,DEM,Write-ins,0
+Park,08-01,State House,28,DEM,Over Votes,0
+Park,08-01,State House,28,DEM,Under Votes,2
+Park,08-01,Ballots Cast,,REP,Ballots Cast,103
+Park,08-01,Ballots Cast,,DEM,Ballots Cast,2
+Park,08-01,Ballots Cast,,NP,Ballots Cast,0
+Park,08-01,Ballots Cast,,,Ballots Cast,105
+Park,08-02,U.S. Senate,,REP,Harriet Hageman,87
+Park,08-02,U.S. Senate,,REP,Jill M Edwards,0
+Park,08-02,U.S. Senate,,REP,Jimmy Skovgard,2
+Park,08-02,U.S. Senate,,REP,John Holtz,3
+Park,08-02,U.S. Senate,,REP,Sam Mead,29
+Park,08-02,U.S. Senate,,REP,Write-ins,1
+Park,08-02,U.S. Senate,,REP,Over Votes,0
+Park,08-02,U.S. Senate,,REP,Under Votes,8
+Park,08-02,U.S. Senate,,DEM,Billy Benavidez,1
+Park,08-02,U.S. Senate,,DEM,James Byrd,7
+Park,08-02,U.S. Senate,,DEM,Write-ins,0
+Park,08-02,U.S. Senate,,DEM,Over Votes,0
+Park,08-02,U.S. Senate,,DEM,Under Votes,0
+Park,08-02,U.S. House,,REP,* Withdrawn Candidate,4
+Park,08-02,U.S. House,,REP,Bo Biteman,4
+Park,08-02,U.S. House,,REP,Chuck Gray,25
+Park,08-02,U.S. House,,REP,David Giralt,14
+Park,08-02,U.S. House,,REP,Jillian Balow,8
+Park,08-02,U.S. House,,REP,Keith B. Goodenough,1
+Park,08-02,U.S. House,,REP,Kevin Christensen,22
+Park,08-02,U.S. House,,REP,Reid Rasner,7
+Park,08-02,U.S. House,,REP,Richard Dodson,0
+Park,08-02,U.S. House,,REP,Steve Friess,34
+Park,08-02,U.S. House,,REP,Write-ins,0
+Park,08-02,U.S. House,,REP,Over Votes,1
+Park,08-02,U.S. House,,REP,Under Votes,10
+Park,08-02,U.S. House,,DEM,Elena Del Real,3
+Park,08-02,U.S. House,,DEM,Lisa Kinney,5
+Park,08-02,U.S. House,,DEM,Write-ins,0
+Park,08-02,U.S. House,,DEM,Over Votes,0
+Park,08-02,U.S. House,,DEM,Under Votes,0
+Park,08-02,Governor,,REP,Brent Bien,48
+Park,08-02,Governor,,REP,Curt Blake,5
+Park,08-02,Governor,,REP,Eric Barlow,42
+Park,08-02,Governor,,REP,Megan Degenfelder,31
+Park,08-02,Governor,,REP,Write-ins,0
+Park,08-02,Governor,,REP,Over Votes,0
+Park,08-02,Governor,,REP,Under Votes,4
+Park,08-02,Governor,,DEM,Kenneth R. Casner,8
+Park,08-02,Governor,,DEM,Write-ins,0
+Park,08-02,Governor,,DEM,Over Votes,0
+Park,08-02,Governor,,DEM,Under Votes,0
+Park,08-02,Secretary of State,,REP,CJ Young,16
+Park,08-02,Secretary of State,,REP,Qwenton Eagle Oviatt,9
+Park,08-02,Secretary of State,,REP,Rachel Williams,38
+Park,08-02,Secretary of State,,REP,Robert Short,48
+Park,08-02,Secretary of State,,REP,Write-ins,0
+Park,08-02,Secretary of State,,REP,Over Votes,0
+Park,08-02,Secretary of State,,REP,Under Votes,19
+Park,08-02,Secretary of State,,DEM,Bryan McCarty,8
+Park,08-02,Secretary of State,,DEM,Write-ins,0
+Park,08-02,Secretary of State,,DEM,Over Votes,0
+Park,08-02,Secretary of State,,DEM,Under Votes,0
+Park,08-02,State Auditor,,REP,Kristi Racines,101
+Park,08-02,State Auditor,,REP,Write-ins,0
+Park,08-02,State Auditor,,REP,Over Votes,0
+Park,08-02,State Auditor,,REP,Under Votes,29
+Park,08-02,State Auditor,,DEM,Write-ins,0
+Park,08-02,State Auditor,,DEM,Over Votes,0
+Park,08-02,State Auditor,,DEM,Under Votes,8
+Park,08-02,State Treasurer,,REP,Curt Meier,75
+Park,08-02,State Treasurer,,REP,Scott Smith,30
+Park,08-02,State Treasurer,,REP,Write-ins,0
+Park,08-02,State Treasurer,,REP,Over Votes,0
+Park,08-02,State Treasurer,,REP,Under Votes,25
+Park,08-02,State Treasurer,,DEM,Write-ins,0
+Park,08-02,State Treasurer,,DEM,Over Votes,0
+Park,08-02,State Treasurer,,DEM,Under Votes,8
+Park,08-02,Superintendent of Public Instruction,,REP,Chad Auer,14
+Park,08-02,Superintendent of Public Instruction,,REP,Steve Harshman,64
+Park,08-02,Superintendent of Public Instruction,,REP,Tom Kelly,28
+Park,08-02,Superintendent of Public Instruction,,REP,Write-ins,0
+Park,08-02,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,08-02,Superintendent of Public Instruction,,REP,Under Votes,24
+Park,08-02,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Park,08-02,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Park,08-02,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,08-02,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,08-02,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,08-02,State House,28,REP,Allen Hogg,108
+Park,08-02,State House,28,REP,Carlin Jones,14
+Park,08-02,State House,28,REP,Marshall Keller,4
+Park,08-02,State House,28,REP,Roland Luehne,0
+Park,08-02,State House,28,REP,Write-ins,0
+Park,08-02,State House,28,REP,Over Votes,2
+Park,08-02,State House,28,REP,Under Votes,2
+Park,08-02,State House,28,DEM,Write-ins,1
+Park,08-02,State House,28,DEM,Over Votes,0
+Park,08-02,State House,28,DEM,Under Votes,7
+Park,08-02,Ballots Cast,,REP,Ballots Cast,130
+Park,08-02,Ballots Cast,,DEM,Ballots Cast,8
+Park,08-02,Ballots Cast,,NP,Ballots Cast,6
+Park,08-02,Ballots Cast,,,Ballots Cast,144
+Park,08-03,U.S. Senate,,REP,Harriet Hageman,81
+Park,08-03,U.S. Senate,,REP,Jill M Edwards,0
+Park,08-03,U.S. Senate,,REP,Jimmy Skovgard,6
+Park,08-03,U.S. Senate,,REP,John Holtz,1
+Park,08-03,U.S. Senate,,REP,Sam Mead,16
+Park,08-03,U.S. Senate,,REP,Write-ins,0
+Park,08-03,U.S. Senate,,REP,Over Votes,0
+Park,08-03,U.S. Senate,,REP,Under Votes,0
+Park,08-03,U.S. Senate,,DEM,Billy Benavidez,1
+Park,08-03,U.S. Senate,,DEM,James Byrd,3
+Park,08-03,U.S. Senate,,DEM,Write-ins,0
+Park,08-03,U.S. Senate,,DEM,Over Votes,0
+Park,08-03,U.S. Senate,,DEM,Under Votes,0
+Park,08-03,U.S. House,,REP,* Withdrawn Candidate,1
+Park,08-03,U.S. House,,REP,Bo Biteman,3
+Park,08-03,U.S. House,,REP,Chuck Gray,45
+Park,08-03,U.S. House,,REP,David Giralt,6
+Park,08-03,U.S. House,,REP,Jillian Balow,7
+Park,08-03,U.S. House,,REP,Keith B. Goodenough,1
+Park,08-03,U.S. House,,REP,Kevin Christensen,19
+Park,08-03,U.S. House,,REP,Reid Rasner,3
+Park,08-03,U.S. House,,REP,Richard Dodson,0
+Park,08-03,U.S. House,,REP,Steve Friess,17
+Park,08-03,U.S. House,,REP,Write-ins,0
+Park,08-03,U.S. House,,REP,Over Votes,0
+Park,08-03,U.S. House,,REP,Under Votes,2
+Park,08-03,U.S. House,,DEM,Elena Del Real,0
+Park,08-03,U.S. House,,DEM,Lisa Kinney,4
+Park,08-03,U.S. House,,DEM,Write-ins,0
+Park,08-03,U.S. House,,DEM,Over Votes,0
+Park,08-03,U.S. House,,DEM,Under Votes,0
+Park,08-03,Governor,,REP,Brent Bien,53
+Park,08-03,Governor,,REP,Curt Blake,0
+Park,08-03,Governor,,REP,Eric Barlow,34
+Park,08-03,Governor,,REP,Megan Degenfelder,17
+Park,08-03,Governor,,REP,Write-ins,0
+Park,08-03,Governor,,REP,Over Votes,0
+Park,08-03,Governor,,REP,Under Votes,0
+Park,08-03,Governor,,DEM,Kenneth R. Casner,4
+Park,08-03,Governor,,DEM,Write-ins,0
+Park,08-03,Governor,,DEM,Over Votes,0
+Park,08-03,Governor,,DEM,Under Votes,0
+Park,08-03,Secretary of State,,REP,CJ Young,11
+Park,08-03,Secretary of State,,REP,Qwenton Eagle Oviatt,3
+Park,08-03,Secretary of State,,REP,Rachel Williams,46
+Park,08-03,Secretary of State,,REP,Robert Short,32
+Park,08-03,Secretary of State,,REP,Write-ins,0
+Park,08-03,Secretary of State,,REP,Over Votes,0
+Park,08-03,Secretary of State,,REP,Under Votes,12
+Park,08-03,Secretary of State,,DEM,Bryan McCarty,4
+Park,08-03,Secretary of State,,DEM,Write-ins,0
+Park,08-03,Secretary of State,,DEM,Over Votes,0
+Park,08-03,Secretary of State,,DEM,Under Votes,0
+Park,08-03,State Auditor,,REP,Kristi Racines,89
+Park,08-03,State Auditor,,REP,Write-ins,0
+Park,08-03,State Auditor,,REP,Over Votes,0
+Park,08-03,State Auditor,,REP,Under Votes,15
+Park,08-03,State Auditor,,DEM,Write-ins,0
+Park,08-03,State Auditor,,DEM,Over Votes,0
+Park,08-03,State Auditor,,DEM,Under Votes,4
+Park,08-03,State Treasurer,,REP,Curt Meier,53
+Park,08-03,State Treasurer,,REP,Scott Smith,37
+Park,08-03,State Treasurer,,REP,Write-ins,0
+Park,08-03,State Treasurer,,REP,Over Votes,0
+Park,08-03,State Treasurer,,REP,Under Votes,14
+Park,08-03,State Treasurer,,DEM,Write-ins,0
+Park,08-03,State Treasurer,,DEM,Over Votes,0
+Park,08-03,State Treasurer,,DEM,Under Votes,4
+Park,08-03,Superintendent of Public Instruction,,REP,Chad Auer,6
+Park,08-03,Superintendent of Public Instruction,,REP,Steve Harshman,49
+Park,08-03,Superintendent of Public Instruction,,REP,Tom Kelly,39
+Park,08-03,Superintendent of Public Instruction,,REP,Write-ins,0
+Park,08-03,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,08-03,Superintendent of Public Instruction,,REP,Under Votes,10
+Park,08-03,Superintendent of Public Instruction,,DEM,Ana Cordova,1
+Park,08-03,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",3
+Park,08-03,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,08-03,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,08-03,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,08-03,State House,28,REP,Allen Hogg,70
+Park,08-03,State House,28,REP,Carlin Jones,28
+Park,08-03,State House,28,REP,Marshall Keller,5
+Park,08-03,State House,28,REP,Roland Luehne,0
+Park,08-03,State House,28,REP,Write-ins,0
+Park,08-03,State House,28,REP,Over Votes,0
+Park,08-03,State House,28,REP,Under Votes,1
+Park,08-03,State House,28,DEM,Write-ins,0
+Park,08-03,State House,28,DEM,Over Votes,0
+Park,08-03,State House,28,DEM,Under Votes,4
+Park,08-03,Ballots Cast,,REP,Ballots Cast,104
+Park,08-03,Ballots Cast,,DEM,Ballots Cast,4
+Park,08-03,Ballots Cast,,NP,Ballots Cast,0
+Park,08-03,Ballots Cast,,,Ballots Cast,108
+Park,09-01,U.S. Senate,,REP,Harriet Hageman,253
+Park,09-01,U.S. Senate,,REP,Jill M Edwards,17
+Park,09-01,U.S. Senate,,REP,Jimmy Skovgard,10
+Park,09-01,U.S. Senate,,REP,John Holtz,16
+Park,09-01,U.S. Senate,,REP,Sam Mead,107
+Park,09-01,U.S. Senate,,REP,Write-ins,0
+Park,09-01,U.S. Senate,,REP,Over Votes,1
+Park,09-01,U.S. Senate,,REP,Under Votes,10
+Park,09-01,U.S. Senate,,DEM,Billy Benavidez,9
+Park,09-01,U.S. Senate,,DEM,James Byrd,17
+Park,09-01,U.S. Senate,,DEM,Write-ins,1
+Park,09-01,U.S. Senate,,DEM,Over Votes,0
+Park,09-01,U.S. Senate,,DEM,Under Votes,1
+Park,09-01,U.S. House,,REP,* Withdrawn Candidate,3
+Park,09-01,U.S. House,,REP,Bo Biteman,15
+Park,09-01,U.S. House,,REP,Chuck Gray,112
+Park,09-01,U.S. House,,REP,David Giralt,31
+Park,09-01,U.S. House,,REP,Jillian Balow,39
+Park,09-01,U.S. House,,REP,Keith B. Goodenough,10
+Park,09-01,U.S. House,,REP,Kevin Christensen,60
+Park,09-01,U.S. House,,REP,Reid Rasner,34
+Park,09-01,U.S. House,,REP,Richard Dodson,5
+Park,09-01,U.S. House,,REP,Steve Friess,85
+Park,09-01,U.S. House,,REP,Write-ins,0
+Park,09-01,U.S. House,,REP,Over Votes,7
+Park,09-01,U.S. House,,REP,Under Votes,13
+Park,09-01,U.S. House,,DEM,Elena Del Real,8
+Park,09-01,U.S. House,,DEM,Lisa Kinney,18
+Park,09-01,U.S. House,,DEM,Write-ins,1
+Park,09-01,U.S. House,,DEM,Over Votes,0
+Park,09-01,U.S. House,,DEM,Under Votes,1
+Park,09-01,Governor,,REP,Brent Bien,137
+Park,09-01,Governor,,REP,Curt Blake,8
+Park,09-01,Governor,,REP,Eric Barlow,157
+Park,09-01,Governor,,REP,Megan Degenfelder,104
+Park,09-01,Governor,,REP,Write-ins,1
+Park,09-01,Governor,,REP,Over Votes,0
+Park,09-01,Governor,,REP,Under Votes,7
+Park,09-01,Governor,,DEM,Kenneth R. Casner,24
+Park,09-01,Governor,,DEM,Write-ins,3
+Park,09-01,Governor,,DEM,Over Votes,0
+Park,09-01,Governor,,DEM,Under Votes,1
+Park,09-01,Secretary of State,,REP,CJ Young,46
+Park,09-01,Secretary of State,,REP,Qwenton Eagle Oviatt,16
+Park,09-01,Secretary of State,,REP,Rachel Williams,199
+Park,09-01,Secretary of State,,REP,Robert Short,131
+Park,09-01,Secretary of State,,REP,Write-ins,2
+Park,09-01,Secretary of State,,REP,Over Votes,0
+Park,09-01,Secretary of State,,REP,Under Votes,20
+Park,09-01,Secretary of State,,DEM,Bryan McCarty,25
+Park,09-01,Secretary of State,,DEM,Write-ins,2
+Park,09-01,Secretary of State,,DEM,Over Votes,0
+Park,09-01,Secretary of State,,DEM,Under Votes,1
+Park,09-01,State Auditor,,REP,Kristi Racines,338
+Park,09-01,State Auditor,,REP,Write-ins,4
+Park,09-01,State Auditor,,REP,Over Votes,0
+Park,09-01,State Auditor,,REP,Under Votes,72
+Park,09-01,State Auditor,,DEM,Write-ins,3
+Park,09-01,State Auditor,,DEM,Over Votes,0
+Park,09-01,State Auditor,,DEM,Under Votes,25
+Park,09-01,State Treasurer,,REP,Curt Meier,219
+Park,09-01,State Treasurer,,REP,Scott Smith,147
+Park,09-01,State Treasurer,,REP,Write-ins,3
+Park,09-01,State Treasurer,,REP,Over Votes,0
+Park,09-01,State Treasurer,,REP,Under Votes,45
+Park,09-01,State Treasurer,,DEM,Write-ins,6
+Park,09-01,State Treasurer,,DEM,Over Votes,0
+Park,09-01,State Treasurer,,DEM,Under Votes,22
+Park,09-01,Superintendent of Public Instruction,,REP,Chad Auer,41
+Park,09-01,Superintendent of Public Instruction,,REP,Steve Harshman,210
+Park,09-01,Superintendent of Public Instruction,,REP,Tom Kelly,122
+Park,09-01,Superintendent of Public Instruction,,REP,Write-ins,0
+Park,09-01,Superintendent of Public Instruction,,REP,Over Votes,2
+Park,09-01,Superintendent of Public Instruction,,REP,Under Votes,39
+Park,09-01,Superintendent of Public Instruction,,DEM,Ana Cordova,11
+Park,09-01,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",13
+Park,09-01,Superintendent of Public Instruction,,DEM,Write-ins,2
+Park,09-01,Superintendent of Public Instruction,,DEM,Over Votes,1
+Park,09-01,Superintendent of Public Instruction,,DEM,Under Votes,1
+Park,09-01,State Senate,19,REP,Paul Hoeft,221
+Park,09-01,State Senate,19,REP,R. J. Kost,183
+Park,09-01,State Senate,19,REP,Write-ins,0
+Park,09-01,State Senate,19,REP,Over Votes,0
+Park,09-01,State Senate,19,REP,Under Votes,10
+Park,09-01,State Senate,19,DEM,Write-ins,9
+Park,09-01,State Senate,19,DEM,Over Votes,0
+Park,09-01,State Senate,19,DEM,Under Votes,19
+Park,09-01,State House,25,REP,John Wetzel,211
+Park,09-01,State House,25,REP,Matthew R Legler,193
+Park,09-01,State House,25,REP,Write-ins,2
+Park,09-01,State House,25,REP,Over Votes,1
+Park,09-01,State House,25,REP,Under Votes,7
+Park,09-01,State House,25,DEM,Write-ins,7
+Park,09-01,State House,25,DEM,Over Votes,0
+Park,09-01,State House,25,DEM,Under Votes,21
+Park,09-01,Ballots Cast,,REP,Ballots Cast,414
+Park,09-01,Ballots Cast,,DEM,Ballots Cast,28
+Park,09-01,Ballots Cast,,NP,Ballots Cast,16
+Park,09-01,Ballots Cast,,,Ballots Cast,458
+Park,09-05,U.S. Senate,,REP,Harriet Hageman,332
+Park,09-05,U.S. Senate,,REP,Jill M Edwards,21
+Park,09-05,U.S. Senate,,REP,Jimmy Skovgard,21
+Park,09-05,U.S. Senate,,REP,John Holtz,23
+Park,09-05,U.S. Senate,,REP,Sam Mead,197
+Park,09-05,U.S. Senate,,REP,Write-ins,2
+Park,09-05,U.S. Senate,,REP,Over Votes,2
+Park,09-05,U.S. Senate,,REP,Under Votes,17
+Park,09-05,U.S. Senate,,DEM,Billy Benavidez,6
+Park,09-05,U.S. Senate,,DEM,James Byrd,27
+Park,09-05,U.S. Senate,,DEM,Write-ins,1
+Park,09-05,U.S. Senate,,DEM,Over Votes,0
+Park,09-05,U.S. Senate,,DEM,Under Votes,3
+Park,09-05,U.S. House,,REP,* Withdrawn Candidate,10
+Park,09-05,U.S. House,,REP,Bo Biteman,28
+Park,09-05,U.S. House,,REP,Chuck Gray,163
+Park,09-05,U.S. House,,REP,David Giralt,49
+Park,09-05,U.S. House,,REP,Jillian Balow,64
+Park,09-05,U.S. House,,REP,Keith B. Goodenough,22
+Park,09-05,U.S. House,,REP,Kevin Christensen,89
+Park,09-05,U.S. House,,REP,Reid Rasner,33
+Park,09-05,U.S. House,,REP,Richard Dodson,6
+Park,09-05,U.S. House,,REP,Steve Friess,113
+Park,09-05,U.S. House,,REP,Write-ins,3
+Park,09-05,U.S. House,,REP,Over Votes,8
+Park,09-05,U.S. House,,REP,Under Votes,27
+Park,09-05,U.S. House,,DEM,Elena Del Real,3
+Park,09-05,U.S. House,,DEM,Lisa Kinney,31
+Park,09-05,U.S. House,,DEM,Write-ins,1
+Park,09-05,U.S. House,,DEM,Over Votes,0
+Park,09-05,U.S. House,,DEM,Under Votes,2
+Park,09-05,Governor,,REP,Brent Bien,184
+Park,09-05,Governor,,REP,Curt Blake,7
+Park,09-05,Governor,,REP,Eric Barlow,270
+Park,09-05,Governor,,REP,Megan Degenfelder,139
+Park,09-05,Governor,,REP,Write-ins,0
+Park,09-05,Governor,,REP,Over Votes,2
+Park,09-05,Governor,,REP,Under Votes,13
+Park,09-05,Governor,,DEM,Kenneth R. Casner,29
+Park,09-05,Governor,,DEM,Write-ins,4
+Park,09-05,Governor,,DEM,Over Votes,0
+Park,09-05,Governor,,DEM,Under Votes,4
+Park,09-05,Secretary of State,,REP,CJ Young,72
+Park,09-05,Secretary of State,,REP,Qwenton Eagle Oviatt,26
+Park,09-05,Secretary of State,,REP,Rachel Williams,239
+Park,09-05,Secretary of State,,REP,Robert Short,229
+Park,09-05,Secretary of State,,REP,Write-ins,4
+Park,09-05,Secretary of State,,REP,Over Votes,0
+Park,09-05,Secretary of State,,REP,Under Votes,45
+Park,09-05,Secretary of State,,DEM,Bryan McCarty,30
+Park,09-05,Secretary of State,,DEM,Write-ins,3
+Park,09-05,Secretary of State,,DEM,Over Votes,0
+Park,09-05,Secretary of State,,DEM,Under Votes,4
+Park,09-05,State Auditor,,REP,Kristi Racines,484
+Park,09-05,State Auditor,,REP,Write-ins,2
+Park,09-05,State Auditor,,REP,Over Votes,1
+Park,09-05,State Auditor,,REP,Under Votes,128
+Park,09-05,State Auditor,,DEM,Write-ins,2
+Park,09-05,State Auditor,,DEM,Over Votes,0
+Park,09-05,State Auditor,,DEM,Under Votes,35
+Park,09-05,State Treasurer,,REP,Curt Meier,338
+Park,09-05,State Treasurer,,REP,Scott Smith,208
+Park,09-05,State Treasurer,,REP,Write-ins,1
+Park,09-05,State Treasurer,,REP,Over Votes,0
+Park,09-05,State Treasurer,,REP,Under Votes,68
+Park,09-05,State Treasurer,,DEM,Write-ins,4
+Park,09-05,State Treasurer,,DEM,Over Votes,0
+Park,09-05,State Treasurer,,DEM,Under Votes,33
+Park,09-05,Superintendent of Public Instruction,,REP,Chad Auer,36
+Park,09-05,Superintendent of Public Instruction,,REP,Steve Harshman,349
+Park,09-05,Superintendent of Public Instruction,,REP,Tom Kelly,170
+Park,09-05,Superintendent of Public Instruction,,REP,Write-ins,3
+Park,09-05,Superintendent of Public Instruction,,REP,Over Votes,1
+Park,09-05,Superintendent of Public Instruction,,REP,Under Votes,56
+Park,09-05,Superintendent of Public Instruction,,DEM,Ana Cordova,18
+Park,09-05,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",15
+Park,09-05,Superintendent of Public Instruction,,DEM,Write-ins,2
+Park,09-05,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,09-05,Superintendent of Public Instruction,,DEM,Under Votes,2
+Park,09-05,State Senate,19,REP,Paul Hoeft,279
+Park,09-05,State Senate,19,REP,R. J. Kost,314
+Park,09-05,State Senate,19,REP,Write-ins,4
+Park,09-05,State Senate,19,REP,Over Votes,0
+Park,09-05,State Senate,19,REP,Under Votes,18
+Park,09-05,State Senate,19,DEM,Write-ins,2
+Park,09-05,State Senate,19,DEM,Over Votes,0
+Park,09-05,State Senate,19,DEM,Under Votes,35
+Park,09-05,State House,25,REP,John Wetzel,350
+Park,09-05,State House,25,REP,Matthew R Legler,248
+Park,09-05,State House,25,REP,Write-ins,2
+Park,09-05,State House,25,REP,Over Votes,1
+Park,09-05,State House,25,REP,Under Votes,14
+Park,09-05,State House,25,DEM,Write-ins,3
+Park,09-05,State House,25,DEM,Over Votes,0
+Park,09-05,State House,25,DEM,Under Votes,34
+Park,09-05,Ballots Cast,,REP,Ballots Cast,615
+Park,09-05,Ballots Cast,,DEM,Ballots Cast,37
+Park,09-05,Ballots Cast,,NP,Ballots Cast,15
+Park,09-05,Ballots Cast,,,Ballots Cast,667
+Park,09-07,U.S. Senate,,REP,Harriet Hageman,271
+Park,09-07,U.S. Senate,,REP,Jill M Edwards,14
+Park,09-07,U.S. Senate,,REP,Jimmy Skovgard,14
+Park,09-07,U.S. Senate,,REP,John Holtz,16
+Park,09-07,U.S. Senate,,REP,Sam Mead,88
+Park,09-07,U.S. Senate,,REP,Write-ins,2
+Park,09-07,U.S. Senate,,REP,Over Votes,0
+Park,09-07,U.S. Senate,,REP,Under Votes,4
+Park,09-07,U.S. Senate,,DEM,Billy Benavidez,5
+Park,09-07,U.S. Senate,,DEM,James Byrd,12
+Park,09-07,U.S. Senate,,DEM,Write-ins,2
+Park,09-07,U.S. Senate,,DEM,Over Votes,0
+Park,09-07,U.S. Senate,,DEM,Under Votes,2
+Park,09-07,U.S. House,,REP,* Withdrawn Candidate,2
+Park,09-07,U.S. House,,REP,Bo Biteman,9
+Park,09-07,U.S. House,,REP,Chuck Gray,114
+Park,09-07,U.S. House,,REP,David Giralt,34
+Park,09-07,U.S. House,,REP,Jillian Balow,34
+Park,09-07,U.S. House,,REP,Keith B. Goodenough,5
+Park,09-07,U.S. House,,REP,Kevin Christensen,55
+Park,09-07,U.S. House,,REP,Reid Rasner,54
+Park,09-07,U.S. House,,REP,Richard Dodson,6
+Park,09-07,U.S. House,,REP,Steve Friess,71
+Park,09-07,U.S. House,,REP,Write-ins,1
+Park,09-07,U.S. House,,REP,Over Votes,14
+Park,09-07,U.S. House,,REP,Under Votes,10
+Park,09-07,U.S. House,,DEM,Elena Del Real,3
+Park,09-07,U.S. House,,DEM,Lisa Kinney,15
+Park,09-07,U.S. House,,DEM,Write-ins,0
+Park,09-07,U.S. House,,DEM,Over Votes,0
+Park,09-07,U.S. House,,DEM,Under Votes,3
+Park,09-07,Governor,,REP,Brent Bien,130
+Park,09-07,Governor,,REP,Curt Blake,13
+Park,09-07,Governor,,REP,Eric Barlow,137
+Park,09-07,Governor,,REP,Megan Degenfelder,120
+Park,09-07,Governor,,REP,Write-ins,0
+Park,09-07,Governor,,REP,Over Votes,1
+Park,09-07,Governor,,REP,Under Votes,8
+Park,09-07,Governor,,DEM,Kenneth R. Casner,19
+Park,09-07,Governor,,DEM,Write-ins,1
+Park,09-07,Governor,,DEM,Over Votes,0
+Park,09-07,Governor,,DEM,Under Votes,1
+Park,09-07,Secretary of State,,REP,CJ Young,39
+Park,09-07,Secretary of State,,REP,Qwenton Eagle Oviatt,27
+Park,09-07,Secretary of State,,REP,Rachel Williams,197
+Park,09-07,Secretary of State,,REP,Robert Short,116
+Park,09-07,Secretary of State,,REP,Write-ins,2
+Park,09-07,Secretary of State,,REP,Over Votes,0
+Park,09-07,Secretary of State,,REP,Under Votes,28
+Park,09-07,Secretary of State,,DEM,Bryan McCarty,17
+Park,09-07,Secretary of State,,DEM,Write-ins,1
+Park,09-07,Secretary of State,,DEM,Over Votes,0
+Park,09-07,Secretary of State,,DEM,Under Votes,3
+Park,09-07,State Auditor,,REP,Kristi Racines,342
+Park,09-07,State Auditor,,REP,Write-ins,1
+Park,09-07,State Auditor,,REP,Over Votes,0
+Park,09-07,State Auditor,,REP,Under Votes,66
+Park,09-07,State Auditor,,DEM,Write-ins,1
+Park,09-07,State Auditor,,DEM,Over Votes,0
+Park,09-07,State Auditor,,DEM,Under Votes,20
+Park,09-07,State Treasurer,,REP,Curt Meier,178
+Park,09-07,State Treasurer,,REP,Scott Smith,193
+Park,09-07,State Treasurer,,REP,Write-ins,0
+Park,09-07,State Treasurer,,REP,Over Votes,0
+Park,09-07,State Treasurer,,REP,Under Votes,38
+Park,09-07,State Treasurer,,DEM,Write-ins,1
+Park,09-07,State Treasurer,,DEM,Over Votes,0
+Park,09-07,State Treasurer,,DEM,Under Votes,20
+Park,09-07,Superintendent of Public Instruction,,REP,Chad Auer,23
+Park,09-07,Superintendent of Public Instruction,,REP,Steve Harshman,224
+Park,09-07,Superintendent of Public Instruction,,REP,Tom Kelly,125
+Park,09-07,Superintendent of Public Instruction,,REP,Write-ins,0
+Park,09-07,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,09-07,Superintendent of Public Instruction,,REP,Under Votes,37
+Park,09-07,Superintendent of Public Instruction,,DEM,Ana Cordova,8
+Park,09-07,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",10
+Park,09-07,Superintendent of Public Instruction,,DEM,Write-ins,1
+Park,09-07,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,09-07,Superintendent of Public Instruction,,DEM,Under Votes,2
+Park,09-07,State Senate,19,REP,Paul Hoeft,212
+Park,09-07,State Senate,19,REP,R. J. Kost,180
+Park,09-07,State Senate,19,REP,Write-ins,1
+Park,09-07,State Senate,19,REP,Over Votes,0
+Park,09-07,State Senate,19,REP,Under Votes,16
+Park,09-07,State Senate,19,DEM,Write-ins,1
+Park,09-07,State Senate,19,DEM,Over Votes,0
+Park,09-07,State Senate,19,DEM,Under Votes,20
+Park,09-07,State House,25,REP,John Wetzel,211
+Park,09-07,State House,25,REP,Matthew R Legler,179
+Park,09-07,State House,25,REP,Write-ins,0
+Park,09-07,State House,25,REP,Over Votes,1
+Park,09-07,State House,25,REP,Under Votes,18
+Park,09-07,State House,25,DEM,Write-ins,2
+Park,09-07,State House,25,DEM,Over Votes,0
+Park,09-07,State House,25,DEM,Under Votes,19
+Park,09-07,Ballots Cast,,REP,Ballots Cast,409
+Park,09-07,Ballots Cast,,DEM,Ballots Cast,21
+Park,09-07,Ballots Cast,,NP,Ballots Cast,17
+Park,09-07,Ballots Cast,,,Ballots Cast,447
+Park,10-1,U.S. Senate,,REP,Harriet Hageman,260
+Park,10-1,U.S. Senate,,REP,Jill M Edwards,7
+Park,10-1,U.S. Senate,,REP,Jimmy Skovgard,16
+Park,10-1,U.S. Senate,,REP,John Holtz,14
+Park,10-1,U.S. Senate,,REP,Sam Mead,82
+Park,10-1,U.S. Senate,,REP,Write-ins,0
+Park,10-1,U.S. Senate,,REP,Over Votes,0
+Park,10-1,U.S. Senate,,REP,Under Votes,4
+Park,10-1,U.S. Senate,,DEM,Billy Benavidez,1
+Park,10-1,U.S. Senate,,DEM,James Byrd,7
+Park,10-1,U.S. Senate,,DEM,Write-ins,0
+Park,10-1,U.S. Senate,,DEM,Over Votes,0
+Park,10-1,U.S. Senate,,DEM,Under Votes,1
+Park,10-1,U.S. House,,REP,* Withdrawn Candidate,3
+Park,10-1,U.S. House,,REP,Bo Biteman,14
+Park,10-1,U.S. House,,REP,Chuck Gray,121
+Park,10-1,U.S. House,,REP,David Giralt,27
+Park,10-1,U.S. House,,REP,Jillian Balow,18
+Park,10-1,U.S. House,,REP,Keith B. Goodenough,5
+Park,10-1,U.S. House,,REP,Kevin Christensen,53
+Park,10-1,U.S. House,,REP,Reid Rasner,37
+Park,10-1,U.S. House,,REP,Richard Dodson,1
+Park,10-1,U.S. House,,REP,Steve Friess,81
+Park,10-1,U.S. House,,REP,Write-ins,1
+Park,10-1,U.S. House,,REP,Over Votes,4
+Park,10-1,U.S. House,,REP,Under Votes,18
+Park,10-1,U.S. House,,DEM,Elena Del Real,1
+Park,10-1,U.S. House,,DEM,Lisa Kinney,8
+Park,10-1,U.S. House,,DEM,Write-ins,0
+Park,10-1,U.S. House,,DEM,Over Votes,0
+Park,10-1,U.S. House,,DEM,Under Votes,0
+Park,10-1,Governor,,REP,Brent Bien,128
+Park,10-1,Governor,,REP,Curt Blake,3
+Park,10-1,Governor,,REP,Eric Barlow,142
+Park,10-1,Governor,,REP,Megan Degenfelder,104
+Park,10-1,Governor,,REP,Write-ins,0
+Park,10-1,Governor,,REP,Over Votes,0
+Park,10-1,Governor,,REP,Under Votes,6
+Park,10-1,Governor,,DEM,Kenneth R. Casner,8
+Park,10-1,Governor,,DEM,Write-ins,0
+Park,10-1,Governor,,DEM,Over Votes,0
+Park,10-1,Governor,,DEM,Under Votes,1
+Park,10-1,Secretary of State,,REP,CJ Young,25
+Park,10-1,Secretary of State,,REP,Qwenton Eagle Oviatt,22
+Park,10-1,Secretary of State,,REP,Rachel Williams,209
+Park,10-1,Secretary of State,,REP,Robert Short,98
+Park,10-1,Secretary of State,,REP,Write-ins,3
+Park,10-1,Secretary of State,,REP,Over Votes,0
+Park,10-1,Secretary of State,,REP,Under Votes,26
+Park,10-1,Secretary of State,,DEM,Bryan McCarty,7
+Park,10-1,Secretary of State,,DEM,Write-ins,0
+Park,10-1,Secretary of State,,DEM,Over Votes,0
+Park,10-1,Secretary of State,,DEM,Under Votes,2
+Park,10-1,State Auditor,,REP,Kristi Racines,308
+Park,10-1,State Auditor,,REP,Write-ins,1
+Park,10-1,State Auditor,,REP,Over Votes,0
+Park,10-1,State Auditor,,REP,Under Votes,74
+Park,10-1,State Auditor,,DEM,Write-ins,0
+Park,10-1,State Auditor,,DEM,Over Votes,0
+Park,10-1,State Auditor,,DEM,Under Votes,9
+Park,10-1,State Treasurer,,REP,Curt Meier,171
+Park,10-1,State Treasurer,,REP,Scott Smith,175
+Park,10-1,State Treasurer,,REP,Write-ins,0
+Park,10-1,State Treasurer,,REP,Over Votes,0
+Park,10-1,State Treasurer,,REP,Under Votes,37
+Park,10-1,State Treasurer,,DEM,Write-ins,0
+Park,10-1,State Treasurer,,DEM,Over Votes,0
+Park,10-1,State Treasurer,,DEM,Under Votes,9
+Park,10-1,Superintendent of Public Instruction,,REP,Chad Auer,12
+Park,10-1,Superintendent of Public Instruction,,REP,Steve Harshman,204
+Park,10-1,Superintendent of Public Instruction,,REP,Tom Kelly,123
+Park,10-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Park,10-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,10-1,Superintendent of Public Instruction,,REP,Under Votes,42
+Park,10-1,Superintendent of Public Instruction,,DEM,Ana Cordova,7
+Park,10-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Park,10-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,10-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,10-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Park,10-1,State Senate,19,REP,Paul Hoeft,235
+Park,10-1,State Senate,19,REP,R. J. Kost,142
+Park,10-1,State Senate,19,REP,Write-ins,0
+Park,10-1,State Senate,19,REP,Over Votes,0
+Park,10-1,State Senate,19,REP,Under Votes,6
+Park,10-1,State Senate,19,DEM,Write-ins,0
+Park,10-1,State Senate,19,DEM,Over Votes,0
+Park,10-1,State Senate,19,DEM,Under Votes,9
+Park,10-1,State House,25,REP,John Wetzel,178
+Park,10-1,State House,25,REP,Matthew R Legler,185
+Park,10-1,State House,25,REP,Write-ins,0
+Park,10-1,State House,25,REP,Over Votes,0
+Park,10-1,State House,25,REP,Under Votes,12
+Park,10-1,State House,25,DEM,Write-ins,1
+Park,10-1,State House,25,DEM,Over Votes,0
+Park,10-1,State House,25,DEM,Under Votes,8
+Park,10-1,State House,26,REP,Dalton Banks,2
+Park,10-1,State House,26,REP,J. Addison Aagard,4
+Park,10-1,State House,26,REP,Write-ins,0
+Park,10-1,State House,26,REP,Over Votes,0
+Park,10-1,State House,26,REP,Under Votes,2
+Park,10-1,State House,26,DEM,Write-ins,0
+Park,10-1,State House,26,DEM,Over Votes,0
+Park,10-1,State House,26,DEM,Under Votes,0
+Park,10-1,Ballots Cast,,REP,Ballots Cast,383
+Park,10-1,Ballots Cast,,DEM,Ballots Cast,9
+Park,10-1,Ballots Cast,,NP,Ballots Cast,0
+Park,10-1,Ballots Cast,,,Ballots Cast,392
+Park,10-2,U.S. Senate,,REP,Harriet Hageman,495
+Park,10-2,U.S. Senate,,REP,Jill M Edwards,10
+Park,10-2,U.S. Senate,,REP,Jimmy Skovgard,28
+Park,10-2,U.S. Senate,,REP,John Holtz,14
+Park,10-2,U.S. Senate,,REP,Sam Mead,148
+Park,10-2,U.S. Senate,,REP,Write-ins,2
+Park,10-2,U.S. Senate,,REP,Over Votes,2
+Park,10-2,U.S. Senate,,REP,Under Votes,11
+Park,10-2,U.S. Senate,,DEM,Billy Benavidez,7
+Park,10-2,U.S. Senate,,DEM,James Byrd,17
+Park,10-2,U.S. Senate,,DEM,Write-ins,0
+Park,10-2,U.S. Senate,,DEM,Over Votes,1
+Park,10-2,U.S. Senate,,DEM,Under Votes,1
+Park,10-2,U.S. House,,REP,* Withdrawn Candidate,3
+Park,10-2,U.S. House,,REP,Bo Biteman,16
+Park,10-2,U.S. House,,REP,Chuck Gray,237
+Park,10-2,U.S. House,,REP,David Giralt,56
+Park,10-2,U.S. House,,REP,Jillian Balow,54
+Park,10-2,U.S. House,,REP,Keith B. Goodenough,24
+Park,10-2,U.S. House,,REP,Kevin Christensen,91
+Park,10-2,U.S. House,,REP,Reid Rasner,52
+Park,10-2,U.S. House,,REP,Richard Dodson,8
+Park,10-2,U.S. House,,REP,Steve Friess,134
+Park,10-2,U.S. House,,REP,Write-ins,1
+Park,10-2,U.S. House,,REP,Over Votes,9
+Park,10-2,U.S. House,,REP,Under Votes,25
+Park,10-2,U.S. House,,DEM,Elena Del Real,6
+Park,10-2,U.S. House,,DEM,Lisa Kinney,19
+Park,10-2,U.S. House,,DEM,Write-ins,0
+Park,10-2,U.S. House,,DEM,Over Votes,0
+Park,10-2,U.S. House,,DEM,Under Votes,1
+Park,10-2,Governor,,REP,Brent Bien,263
+Park,10-2,Governor,,REP,Curt Blake,10
+Park,10-2,Governor,,REP,Eric Barlow,250
+Park,10-2,Governor,,REP,Megan Degenfelder,175
+Park,10-2,Governor,,REP,Write-ins,1
+Park,10-2,Governor,,REP,Over Votes,0
+Park,10-2,Governor,,REP,Under Votes,11
+Park,10-2,Governor,,DEM,Kenneth R. Casner,20
+Park,10-2,Governor,,DEM,Write-ins,2
+Park,10-2,Governor,,DEM,Over Votes,0
+Park,10-2,Governor,,DEM,Under Votes,4
+Park,10-2,Secretary of State,,REP,CJ Young,69
+Park,10-2,Secretary of State,,REP,Qwenton Eagle Oviatt,21
+Park,10-2,Secretary of State,,REP,Rachel Williams,372
+Park,10-2,Secretary of State,,REP,Robert Short,198
+Park,10-2,Secretary of State,,REP,Write-ins,1
+Park,10-2,Secretary of State,,REP,Over Votes,1
+Park,10-2,Secretary of State,,REP,Under Votes,48
+Park,10-2,Secretary of State,,DEM,Bryan McCarty,22
+Park,10-2,Secretary of State,,DEM,Write-ins,0
+Park,10-2,Secretary of State,,DEM,Over Votes,0
+Park,10-2,Secretary of State,,DEM,Under Votes,4
+Park,10-2,State Auditor,,REP,Kristi Racines,566
+Park,10-2,State Auditor,,REP,Write-ins,1
+Park,10-2,State Auditor,,REP,Over Votes,0
+Park,10-2,State Auditor,,REP,Under Votes,143
+Park,10-2,State Auditor,,DEM,Write-ins,1
+Park,10-2,State Auditor,,DEM,Over Votes,0
+Park,10-2,State Auditor,,DEM,Under Votes,25
+Park,10-2,State Treasurer,,REP,Curt Meier,352
+Park,10-2,State Treasurer,,REP,Scott Smith,289
+Park,10-2,State Treasurer,,REP,Write-ins,1
+Park,10-2,State Treasurer,,REP,Over Votes,0
+Park,10-2,State Treasurer,,REP,Under Votes,68
+Park,10-2,State Treasurer,,DEM,Write-ins,2
+Park,10-2,State Treasurer,,DEM,Over Votes,0
+Park,10-2,State Treasurer,,DEM,Under Votes,24
+Park,10-2,Superintendent of Public Instruction,,REP,Chad Auer,41
+Park,10-2,Superintendent of Public Instruction,,REP,Steve Harshman,369
+Park,10-2,Superintendent of Public Instruction,,REP,Tom Kelly,237
+Park,10-2,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,10-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,10-2,Superintendent of Public Instruction,,REP,Under Votes,62
+Park,10-2,Superintendent of Public Instruction,,DEM,Ana Cordova,15
+Park,10-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",9
+Park,10-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,10-2,Superintendent of Public Instruction,,DEM,Over Votes,1
+Park,10-2,Superintendent of Public Instruction,,DEM,Under Votes,1
+Park,10-2,State Senate,19,REP,Paul Hoeft,416
+Park,10-2,State Senate,19,REP,R. J. Kost,282
+Park,10-2,State Senate,19,REP,Write-ins,1
+Park,10-2,State Senate,19,REP,Over Votes,0
+Park,10-2,State Senate,19,REP,Under Votes,11
+Park,10-2,State Senate,19,DEM,Write-ins,2
+Park,10-2,State Senate,19,DEM,Over Votes,0
+Park,10-2,State Senate,19,DEM,Under Votes,24
+Park,10-2,State House,25,REP,John Wetzel,317
+Park,10-2,State House,25,REP,Matthew R Legler,372
+Park,10-2,State House,25,REP,Write-ins,1
+Park,10-2,State House,25,REP,Over Votes,2
+Park,10-2,State House,25,REP,Under Votes,18
+Park,10-2,State House,25,DEM,Write-ins,2
+Park,10-2,State House,25,DEM,Over Votes,0
+Park,10-2,State House,25,DEM,Under Votes,24
+Park,10-2,Ballots Cast,,REP,Ballots Cast,710
+Park,10-2,Ballots Cast,,DEM,Ballots Cast,26
+Park,10-2,Ballots Cast,,NP,Ballots Cast,0
+Park,10-2,Ballots Cast,,,Ballots Cast,736
+Park,11-2,U.S. Senate,,REP,Harriet Hageman,28
+Park,11-2,U.S. Senate,,REP,Jill M Edwards,1
+Park,11-2,U.S. Senate,,REP,Jimmy Skovgard,0
+Park,11-2,U.S. Senate,,REP,John Holtz,0
+Park,11-2,U.S. Senate,,REP,Sam Mead,8
+Park,11-2,U.S. Senate,,REP,Write-ins,0
+Park,11-2,U.S. Senate,,REP,Over Votes,0
+Park,11-2,U.S. Senate,,REP,Under Votes,5
+Park,11-2,U.S. Senate,,DEM,Billy Benavidez,1
+Park,11-2,U.S. Senate,,DEM,James Byrd,0
+Park,11-2,U.S. Senate,,DEM,Write-ins,0
+Park,11-2,U.S. Senate,,DEM,Over Votes,0
+Park,11-2,U.S. Senate,,DEM,Under Votes,0
+Park,11-2,U.S. House,,REP,* Withdrawn Candidate,0
+Park,11-2,U.S. House,,REP,Bo Biteman,0
+Park,11-2,U.S. House,,REP,Chuck Gray,12
+Park,11-2,U.S. House,,REP,David Giralt,5
+Park,11-2,U.S. House,,REP,Jillian Balow,1
+Park,11-2,U.S. House,,REP,Keith B. Goodenough,0
+Park,11-2,U.S. House,,REP,Kevin Christensen,8
+Park,11-2,U.S. House,,REP,Reid Rasner,2
+Park,11-2,U.S. House,,REP,Richard Dodson,0
+Park,11-2,U.S. House,,REP,Steve Friess,11
+Park,11-2,U.S. House,,REP,Write-ins,0
+Park,11-2,U.S. House,,REP,Over Votes,1
+Park,11-2,U.S. House,,REP,Under Votes,2
+Park,11-2,U.S. House,,DEM,Elena Del Real,0
+Park,11-2,U.S. House,,DEM,Lisa Kinney,1
+Park,11-2,U.S. House,,DEM,Write-ins,0
+Park,11-2,U.S. House,,DEM,Over Votes,0
+Park,11-2,U.S. House,,DEM,Under Votes,0
+Park,11-2,Governor,,REP,Brent Bien,16
+Park,11-2,Governor,,REP,Curt Blake,1
+Park,11-2,Governor,,REP,Eric Barlow,15
+Park,11-2,Governor,,REP,Megan Degenfelder,8
+Park,11-2,Governor,,REP,Write-ins,0
+Park,11-2,Governor,,REP,Over Votes,0
+Park,11-2,Governor,,REP,Under Votes,2
+Park,11-2,Governor,,DEM,Kenneth R. Casner,1
+Park,11-2,Governor,,DEM,Write-ins,0
+Park,11-2,Governor,,DEM,Over Votes,0
+Park,11-2,Governor,,DEM,Under Votes,0
+Park,11-2,Secretary of State,,REP,CJ Young,4
+Park,11-2,Secretary of State,,REP,Qwenton Eagle Oviatt,0
+Park,11-2,Secretary of State,,REP,Rachel Williams,22
+Park,11-2,Secretary of State,,REP,Robert Short,12
+Park,11-2,Secretary of State,,REP,Write-ins,0
+Park,11-2,Secretary of State,,REP,Over Votes,0
+Park,11-2,Secretary of State,,REP,Under Votes,4
+Park,11-2,Secretary of State,,DEM,Bryan McCarty,1
+Park,11-2,Secretary of State,,DEM,Write-ins,0
+Park,11-2,Secretary of State,,DEM,Over Votes,0
+Park,11-2,Secretary of State,,DEM,Under Votes,0
+Park,11-2,State Auditor,,REP,Kristi Racines,34
+Park,11-2,State Auditor,,REP,Write-ins,0
+Park,11-2,State Auditor,,REP,Over Votes,0
+Park,11-2,State Auditor,,REP,Under Votes,8
+Park,11-2,State Auditor,,DEM,Write-ins,0
+Park,11-2,State Auditor,,DEM,Over Votes,0
+Park,11-2,State Auditor,,DEM,Under Votes,1
+Park,11-2,State Treasurer,,REP,Curt Meier,22
+Park,11-2,State Treasurer,,REP,Scott Smith,13
+Park,11-2,State Treasurer,,REP,Write-ins,0
+Park,11-2,State Treasurer,,REP,Over Votes,0
+Park,11-2,State Treasurer,,REP,Under Votes,7
+Park,11-2,State Treasurer,,DEM,Write-ins,0
+Park,11-2,State Treasurer,,DEM,Over Votes,0
+Park,11-2,State Treasurer,,DEM,Under Votes,1
+Park,11-2,Superintendent of Public Instruction,,REP,Chad Auer,6
+Park,11-2,Superintendent of Public Instruction,,REP,Steve Harshman,25
+Park,11-2,Superintendent of Public Instruction,,REP,Tom Kelly,8
+Park,11-2,Superintendent of Public Instruction,,REP,Write-ins,0
+Park,11-2,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,11-2,Superintendent of Public Instruction,,REP,Under Votes,3
+Park,11-2,Superintendent of Public Instruction,,DEM,Ana Cordova,0
+Park,11-2,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Park,11-2,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,11-2,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,11-2,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,11-2,State House,50,REP,David Hill,17
+Park,11-2,State House,50,REP,Levi Asay,18
+Park,11-2,State House,50,REP,Write-ins,0
+Park,11-2,State House,50,REP,Over Votes,0
+Park,11-2,State House,50,REP,Under Votes,7
+Park,11-2,State House,50,DEM,Write-ins,0
+Park,11-2,State House,50,DEM,Over Votes,0
+Park,11-2,State House,50,DEM,Under Votes,1
+Park,11-2,Ballots Cast,,REP,Ballots Cast,42
+Park,11-2,Ballots Cast,,DEM,Ballots Cast,1
+Park,11-2,Ballots Cast,,NP,Ballots Cast,1
+Park,11-2,Ballots Cast,,,Ballots Cast,44
+Park,16-1,U.S. Senate,,REP,Harriet Hageman,286
+Park,16-1,U.S. Senate,,REP,Jill M Edwards,7
+Park,16-1,U.S. Senate,,REP,Jimmy Skovgard,8
+Park,16-1,U.S. Senate,,REP,John Holtz,2
+Park,16-1,U.S. Senate,,REP,Sam Mead,87
+Park,16-1,U.S. Senate,,REP,Write-ins,1
+Park,16-1,U.S. Senate,,REP,Over Votes,1
+Park,16-1,U.S. Senate,,REP,Under Votes,8
+Park,16-1,U.S. Senate,,DEM,Billy Benavidez,3
+Park,16-1,U.S. Senate,,DEM,James Byrd,16
+Park,16-1,U.S. Senate,,DEM,Write-ins,0
+Park,16-1,U.S. Senate,,DEM,Over Votes,0
+Park,16-1,U.S. Senate,,DEM,Under Votes,1
+Park,16-1,U.S. House,,REP,* Withdrawn Candidate,1
+Park,16-1,U.S. House,,REP,Bo Biteman,6
+Park,16-1,U.S. House,,REP,Chuck Gray,142
+Park,16-1,U.S. House,,REP,David Giralt,32
+Park,16-1,U.S. House,,REP,Jillian Balow,19
+Park,16-1,U.S. House,,REP,Keith B. Goodenough,6
+Park,16-1,U.S. House,,REP,Kevin Christensen,55
+Park,16-1,U.S. House,,REP,Reid Rasner,27
+Park,16-1,U.S. House,,REP,Richard Dodson,1
+Park,16-1,U.S. House,,REP,Steve Friess,94
+Park,16-1,U.S. House,,REP,Write-ins,1
+Park,16-1,U.S. House,,REP,Over Votes,5
+Park,16-1,U.S. House,,REP,Under Votes,11
+Park,16-1,U.S. House,,DEM,Elena Del Real,3
+Park,16-1,U.S. House,,DEM,Lisa Kinney,16
+Park,16-1,U.S. House,,DEM,Write-ins,0
+Park,16-1,U.S. House,,DEM,Over Votes,0
+Park,16-1,U.S. House,,DEM,Under Votes,1
+Park,16-1,Governor,,REP,Brent Bien,186
+Park,16-1,Governor,,REP,Curt Blake,8
+Park,16-1,Governor,,REP,Eric Barlow,106
+Park,16-1,Governor,,REP,Megan Degenfelder,91
+Park,16-1,Governor,,REP,Write-ins,0
+Park,16-1,Governor,,REP,Over Votes,0
+Park,16-1,Governor,,REP,Under Votes,9
+Park,16-1,Governor,,DEM,Kenneth R. Casner,16
+Park,16-1,Governor,,DEM,Write-ins,0
+Park,16-1,Governor,,DEM,Over Votes,0
+Park,16-1,Governor,,DEM,Under Votes,4
+Park,16-1,Secretary of State,,REP,CJ Young,33
+Park,16-1,Secretary of State,,REP,Qwenton Eagle Oviatt,14
+Park,16-1,Secretary of State,,REP,Rachel Williams,190
+Park,16-1,Secretary of State,,REP,Robert Short,135
+Park,16-1,Secretary of State,,REP,Write-ins,0
+Park,16-1,Secretary of State,,REP,Over Votes,1
+Park,16-1,Secretary of State,,REP,Under Votes,27
+Park,16-1,Secretary of State,,DEM,Bryan McCarty,18
+Park,16-1,Secretary of State,,DEM,Write-ins,0
+Park,16-1,Secretary of State,,DEM,Over Votes,0
+Park,16-1,Secretary of State,,DEM,Under Votes,2
+Park,16-1,State Auditor,,REP,Kristi Racines,299
+Park,16-1,State Auditor,,REP,Write-ins,1
+Park,16-1,State Auditor,,REP,Over Votes,0
+Park,16-1,State Auditor,,REP,Under Votes,100
+Park,16-1,State Auditor,,DEM,Write-ins,2
+Park,16-1,State Auditor,,DEM,Over Votes,0
+Park,16-1,State Auditor,,DEM,Under Votes,18
+Park,16-1,State Treasurer,,REP,Curt Meier,189
+Park,16-1,State Treasurer,,REP,Scott Smith,148
+Park,16-1,State Treasurer,,REP,Write-ins,2
+Park,16-1,State Treasurer,,REP,Over Votes,0
+Park,16-1,State Treasurer,,REP,Under Votes,61
+Park,16-1,State Treasurer,,DEM,Write-ins,4
+Park,16-1,State Treasurer,,DEM,Over Votes,0
+Park,16-1,State Treasurer,,DEM,Under Votes,16
+Park,16-1,Superintendent of Public Instruction,,REP,Chad Auer,27
+Park,16-1,Superintendent of Public Instruction,,REP,Steve Harshman,156
+Park,16-1,Superintendent of Public Instruction,,REP,Tom Kelly,156
+Park,16-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,16-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,16-1,Superintendent of Public Instruction,,REP,Under Votes,60
+Park,16-1,Superintendent of Public Instruction,,DEM,Ana Cordova,12
+Park,16-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",7
+Park,16-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,16-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,16-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Park,16-1,State House,24,REP,Nina Webber,171
+Park,16-1,State House,24,REP,Quin Blair,210
+Park,16-1,State House,24,REP,Write-ins,1
+Park,16-1,State House,24,REP,Over Votes,1
+Park,16-1,State House,24,REP,Under Votes,17
+Park,16-1,State House,24,DEM,Write-ins,2
+Park,16-1,State House,24,DEM,Over Votes,0
+Park,16-1,State House,24,DEM,Under Votes,18
+Park,16-1,Ballots Cast,,REP,Ballots Cast,400
+Park,16-1,Ballots Cast,,DEM,Ballots Cast,20
+Park,16-1,Ballots Cast,,NP,Ballots Cast,7
+Park,16-1,Ballots Cast,,,Ballots Cast,427
+Park,21-1,U.S. Senate,,REP,Harriet Hageman,344
+Park,21-1,U.S. Senate,,REP,Jill M Edwards,6
+Park,21-1,U.S. Senate,,REP,Jimmy Skovgard,12
+Park,21-1,U.S. Senate,,REP,John Holtz,14
+Park,21-1,U.S. Senate,,REP,Sam Mead,107
+Park,21-1,U.S. Senate,,REP,Write-ins,0
+Park,21-1,U.S. Senate,,REP,Over Votes,0
+Park,21-1,U.S. Senate,,REP,Under Votes,4
+Park,21-1,U.S. Senate,,DEM,Billy Benavidez,0
+Park,21-1,U.S. Senate,,DEM,James Byrd,18
+Park,21-1,U.S. Senate,,DEM,Write-ins,0
+Park,21-1,U.S. Senate,,DEM,Over Votes,0
+Park,21-1,U.S. Senate,,DEM,Under Votes,0
+Park,21-1,U.S. House,,REP,* Withdrawn Candidate,2
+Park,21-1,U.S. House,,REP,Bo Biteman,16
+Park,21-1,U.S. House,,REP,Chuck Gray,139
+Park,21-1,U.S. House,,REP,David Giralt,38
+Park,21-1,U.S. House,,REP,Jillian Balow,41
+Park,21-1,U.S. House,,REP,Keith B. Goodenough,8
+Park,21-1,U.S. House,,REP,Kevin Christensen,55
+Park,21-1,U.S. House,,REP,Reid Rasner,44
+Park,21-1,U.S. House,,REP,Richard Dodson,3
+Park,21-1,U.S. House,,REP,Steve Friess,116
+Park,21-1,U.S. House,,REP,Write-ins,0
+Park,21-1,U.S. House,,REP,Over Votes,7
+Park,21-1,U.S. House,,REP,Under Votes,18
+Park,21-1,U.S. House,,DEM,Elena Del Real,2
+Park,21-1,U.S. House,,DEM,Lisa Kinney,16
+Park,21-1,U.S. House,,DEM,Write-ins,0
+Park,21-1,U.S. House,,DEM,Over Votes,0
+Park,21-1,U.S. House,,DEM,Under Votes,0
+Park,21-1,Governor,,REP,Brent Bien,158
+Park,21-1,Governor,,REP,Curt Blake,7
+Park,21-1,Governor,,REP,Eric Barlow,159
+Park,21-1,Governor,,REP,Megan Degenfelder,157
+Park,21-1,Governor,,REP,Write-ins,0
+Park,21-1,Governor,,REP,Over Votes,0
+Park,21-1,Governor,,REP,Under Votes,6
+Park,21-1,Governor,,DEM,Kenneth R. Casner,16
+Park,21-1,Governor,,DEM,Write-ins,1
+Park,21-1,Governor,,DEM,Over Votes,0
+Park,21-1,Governor,,DEM,Under Votes,1
+Park,21-1,Secretary of State,,REP,CJ Young,34
+Park,21-1,Secretary of State,,REP,Qwenton Eagle Oviatt,15
+Park,21-1,Secretary of State,,REP,Rachel Williams,265
+Park,21-1,Secretary of State,,REP,Robert Short,149
+Park,21-1,Secretary of State,,REP,Write-ins,0
+Park,21-1,Secretary of State,,REP,Over Votes,0
+Park,21-1,Secretary of State,,REP,Under Votes,24
+Park,21-1,Secretary of State,,DEM,Bryan McCarty,14
+Park,21-1,Secretary of State,,DEM,Write-ins,0
+Park,21-1,Secretary of State,,DEM,Over Votes,0
+Park,21-1,Secretary of State,,DEM,Under Votes,4
+Park,21-1,State Auditor,,REP,Kristi Racines,405
+Park,21-1,State Auditor,,REP,Write-ins,2
+Park,21-1,State Auditor,,REP,Over Votes,0
+Park,21-1,State Auditor,,REP,Under Votes,80
+Park,21-1,State Auditor,,DEM,Write-ins,0
+Park,21-1,State Auditor,,DEM,Over Votes,0
+Park,21-1,State Auditor,,DEM,Under Votes,18
+Park,21-1,State Treasurer,,REP,Curt Meier,247
+Park,21-1,State Treasurer,,REP,Scott Smith,188
+Park,21-1,State Treasurer,,REP,Write-ins,2
+Park,21-1,State Treasurer,,REP,Over Votes,0
+Park,21-1,State Treasurer,,REP,Under Votes,50
+Park,21-1,State Treasurer,,DEM,Write-ins,1
+Park,21-1,State Treasurer,,DEM,Over Votes,0
+Park,21-1,State Treasurer,,DEM,Under Votes,17
+Park,21-1,Superintendent of Public Instruction,,REP,Chad Auer,40
+Park,21-1,Superintendent of Public Instruction,,REP,Steve Harshman,256
+Park,21-1,Superintendent of Public Instruction,,REP,Tom Kelly,142
+Park,21-1,Superintendent of Public Instruction,,REP,Write-ins,0
+Park,21-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,21-1,Superintendent of Public Instruction,,REP,Under Votes,49
+Park,21-1,Superintendent of Public Instruction,,DEM,Ana Cordova,11
+Park,21-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",6
+Park,21-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,21-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,21-1,Superintendent of Public Instruction,,DEM,Under Votes,1
+Park,21-1,State House,50,REP,David Hill,203
+Park,21-1,State House,50,REP,Levi Asay,236
+Park,21-1,State House,50,REP,Write-ins,0
+Park,21-1,State House,50,REP,Over Votes,0
+Park,21-1,State House,50,REP,Under Votes,48
+Park,21-1,State House,50,DEM,Write-ins,2
+Park,21-1,State House,50,DEM,Over Votes,0
+Park,21-1,State House,50,DEM,Under Votes,16
+Park,21-1,Ballots Cast,,REP,Ballots Cast,487
+Park,21-1,Ballots Cast,,DEM,Ballots Cast,18
+Park,21-1,Ballots Cast,,NP,Ballots Cast,0
+Park,21-1,Ballots Cast,,,Ballots Cast,505
+Park,23-1,U.S. Senate,,REP,Harriet Hageman,46
+Park,23-1,U.S. Senate,,REP,Jill M Edwards,3
+Park,23-1,U.S. Senate,,REP,Jimmy Skovgard,3
+Park,23-1,U.S. Senate,,REP,John Holtz,0
+Park,23-1,U.S. Senate,,REP,Sam Mead,26
+Park,23-1,U.S. Senate,,REP,Write-ins,0
+Park,23-1,U.S. Senate,,REP,Over Votes,0
+Park,23-1,U.S. Senate,,REP,Under Votes,3
+Park,23-1,U.S. Senate,,DEM,Billy Benavidez,1
+Park,23-1,U.S. Senate,,DEM,James Byrd,2
+Park,23-1,U.S. Senate,,DEM,Write-ins,0
+Park,23-1,U.S. Senate,,DEM,Over Votes,0
+Park,23-1,U.S. Senate,,DEM,Under Votes,0
+Park,23-1,U.S. House,,REP,* Withdrawn Candidate,2
+Park,23-1,U.S. House,,REP,Bo Biteman,3
+Park,23-1,U.S. House,,REP,Chuck Gray,17
+Park,23-1,U.S. House,,REP,David Giralt,6
+Park,23-1,U.S. House,,REP,Jillian Balow,4
+Park,23-1,U.S. House,,REP,Keith B. Goodenough,1
+Park,23-1,U.S. House,,REP,Kevin Christensen,13
+Park,23-1,U.S. House,,REP,Reid Rasner,6
+Park,23-1,U.S. House,,REP,Richard Dodson,1
+Park,23-1,U.S. House,,REP,Steve Friess,20
+Park,23-1,U.S. House,,REP,Write-ins,0
+Park,23-1,U.S. House,,REP,Over Votes,2
+Park,23-1,U.S. House,,REP,Under Votes,6
+Park,23-1,U.S. House,,DEM,Elena Del Real,0
+Park,23-1,U.S. House,,DEM,Lisa Kinney,2
+Park,23-1,U.S. House,,DEM,Write-ins,0
+Park,23-1,U.S. House,,DEM,Over Votes,0
+Park,23-1,U.S. House,,DEM,Under Votes,1
+Park,23-1,Governor,,REP,Brent Bien,29
+Park,23-1,Governor,,REP,Curt Blake,1
+Park,23-1,Governor,,REP,Eric Barlow,29
+Park,23-1,Governor,,REP,Megan Degenfelder,20
+Park,23-1,Governor,,REP,Write-ins,0
+Park,23-1,Governor,,REP,Over Votes,0
+Park,23-1,Governor,,REP,Under Votes,2
+Park,23-1,Governor,,DEM,Kenneth R. Casner,3
+Park,23-1,Governor,,DEM,Write-ins,0
+Park,23-1,Governor,,DEM,Over Votes,0
+Park,23-1,Governor,,DEM,Under Votes,0
+Park,23-1,Secretary of State,,REP,CJ Young,8
+Park,23-1,Secretary of State,,REP,Qwenton Eagle Oviatt,6
+Park,23-1,Secretary of State,,REP,Rachel Williams,32
+Park,23-1,Secretary of State,,REP,Robert Short,27
+Park,23-1,Secretary of State,,REP,Write-ins,0
+Park,23-1,Secretary of State,,REP,Over Votes,0
+Park,23-1,Secretary of State,,REP,Under Votes,8
+Park,23-1,Secretary of State,,DEM,Bryan McCarty,3
+Park,23-1,Secretary of State,,DEM,Write-ins,0
+Park,23-1,Secretary of State,,DEM,Over Votes,0
+Park,23-1,Secretary of State,,DEM,Under Votes,0
+Park,23-1,State Auditor,,REP,Kristi Racines,63
+Park,23-1,State Auditor,,REP,Write-ins,0
+Park,23-1,State Auditor,,REP,Over Votes,0
+Park,23-1,State Auditor,,REP,Under Votes,18
+Park,23-1,State Auditor,,DEM,Write-ins,0
+Park,23-1,State Auditor,,DEM,Over Votes,0
+Park,23-1,State Auditor,,DEM,Under Votes,3
+Park,23-1,State Treasurer,,REP,Curt Meier,39
+Park,23-1,State Treasurer,,REP,Scott Smith,33
+Park,23-1,State Treasurer,,REP,Write-ins,1
+Park,23-1,State Treasurer,,REP,Over Votes,0
+Park,23-1,State Treasurer,,REP,Under Votes,8
+Park,23-1,State Treasurer,,DEM,Write-ins,0
+Park,23-1,State Treasurer,,DEM,Over Votes,0
+Park,23-1,State Treasurer,,DEM,Under Votes,3
+Park,23-1,Superintendent of Public Instruction,,REP,Chad Auer,5
+Park,23-1,Superintendent of Public Instruction,,REP,Steve Harshman,44
+Park,23-1,Superintendent of Public Instruction,,REP,Tom Kelly,26
+Park,23-1,Superintendent of Public Instruction,,REP,Write-ins,1
+Park,23-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,23-1,Superintendent of Public Instruction,,REP,Under Votes,5
+Park,23-1,Superintendent of Public Instruction,,DEM,Ana Cordova,2
+Park,23-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",1
+Park,23-1,Superintendent of Public Instruction,,DEM,Write-ins,0
+Park,23-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,23-1,Superintendent of Public Instruction,,DEM,Under Votes,0
+Park,23-1,State House,50,REP,David Hill,32
+Park,23-1,State House,50,REP,Levi Asay,38
+Park,23-1,State House,50,REP,Write-ins,1
+Park,23-1,State House,50,REP,Over Votes,1
+Park,23-1,State House,50,REP,Under Votes,9
+Park,23-1,State House,50,DEM,Write-ins,0
+Park,23-1,State House,50,DEM,Over Votes,0
+Park,23-1,State House,50,DEM,Under Votes,3
+Park,23-1,Ballots Cast,,REP,Ballots Cast,81
+Park,23-1,Ballots Cast,,DEM,Ballots Cast,3
+Park,23-1,Ballots Cast,,NP,Ballots Cast,0
+Park,23-1,Ballots Cast,,,Ballots Cast,84
+Park,24-1,U.S. Senate,,REP,Harriet Hageman,454
+Park,24-1,U.S. Senate,,REP,Jill M Edwards,19
+Park,24-1,U.S. Senate,,REP,Jimmy Skovgard,27
+Park,24-1,U.S. Senate,,REP,John Holtz,17
+Park,24-1,U.S. Senate,,REP,Sam Mead,253
+Park,24-1,U.S. Senate,,REP,Write-ins,4
+Park,24-1,U.S. Senate,,REP,Over Votes,1
+Park,24-1,U.S. Senate,,REP,Under Votes,26
+Park,24-1,U.S. Senate,,DEM,Billy Benavidez,9
+Park,24-1,U.S. Senate,,DEM,James Byrd,31
+Park,24-1,U.S. Senate,,DEM,Write-ins,1
+Park,24-1,U.S. Senate,,DEM,Over Votes,0
+Park,24-1,U.S. Senate,,DEM,Under Votes,3
+Park,24-1,U.S. House,,REP,* Withdrawn Candidate,14
+Park,24-1,U.S. House,,REP,Bo Biteman,16
+Park,24-1,U.S. House,,REP,Chuck Gray,192
+Park,24-1,U.S. House,,REP,David Giralt,59
+Park,24-1,U.S. House,,REP,Jillian Balow,67
+Park,24-1,U.S. House,,REP,Keith B. Goodenough,18
+Park,24-1,U.S. House,,REP,Kevin Christensen,166
+Park,24-1,U.S. House,,REP,Reid Rasner,49
+Park,24-1,U.S. House,,REP,Richard Dodson,12
+Park,24-1,U.S. House,,REP,Steve Friess,161
+Park,24-1,U.S. House,,REP,Write-ins,3
+Park,24-1,U.S. House,,REP,Over Votes,16
+Park,24-1,U.S. House,,REP,Under Votes,28
+Park,24-1,U.S. House,,DEM,Elena Del Real,8
+Park,24-1,U.S. House,,DEM,Lisa Kinney,33
+Park,24-1,U.S. House,,DEM,Write-ins,1
+Park,24-1,U.S. House,,DEM,Over Votes,0
+Park,24-1,U.S. House,,DEM,Under Votes,2
+Park,24-1,Governor,,REP,Brent Bien,233
+Park,24-1,Governor,,REP,Curt Blake,10
+Park,24-1,Governor,,REP,Eric Barlow,355
+Park,24-1,Governor,,REP,Megan Degenfelder,184
+Park,24-1,Governor,,REP,Write-ins,3
+Park,24-1,Governor,,REP,Over Votes,1
+Park,24-1,Governor,,REP,Under Votes,15
+Park,24-1,Governor,,DEM,Kenneth R. Casner,33
+Park,24-1,Governor,,DEM,Write-ins,1
+Park,24-1,Governor,,DEM,Over Votes,0
+Park,24-1,Governor,,DEM,Under Votes,10
+Park,24-1,Secretary of State,,REP,CJ Young,64
+Park,24-1,Secretary of State,,REP,Qwenton Eagle Oviatt,32
+Park,24-1,Secretary of State,,REP,Rachel Williams,312
+Park,24-1,Secretary of State,,REP,Robert Short,327
+Park,24-1,Secretary of State,,REP,Write-ins,5
+Park,24-1,Secretary of State,,REP,Over Votes,0
+Park,24-1,Secretary of State,,REP,Under Votes,61
+Park,24-1,Secretary of State,,DEM,Bryan McCarty,35
+Park,24-1,Secretary of State,,DEM,Write-ins,1
+Park,24-1,Secretary of State,,DEM,Over Votes,0
+Park,24-1,Secretary of State,,DEM,Under Votes,8
+Park,24-1,State Auditor,,REP,Kristi Racines,641
+Park,24-1,State Auditor,,REP,Write-ins,12
+Park,24-1,State Auditor,,REP,Over Votes,0
+Park,24-1,State Auditor,,REP,Under Votes,148
+Park,24-1,State Auditor,,DEM,Write-ins,4
+Park,24-1,State Auditor,,DEM,Over Votes,0
+Park,24-1,State Auditor,,DEM,Under Votes,40
+Park,24-1,State Treasurer,,REP,Curt Meier,470
+Park,24-1,State Treasurer,,REP,Scott Smith,217
+Park,24-1,State Treasurer,,REP,Write-ins,5
+Park,24-1,State Treasurer,,REP,Over Votes,0
+Park,24-1,State Treasurer,,REP,Under Votes,109
+Park,24-1,State Treasurer,,DEM,Write-ins,4
+Park,24-1,State Treasurer,,DEM,Over Votes,0
+Park,24-1,State Treasurer,,DEM,Under Votes,40
+Park,24-1,Superintendent of Public Instruction,,REP,Chad Auer,66
+Park,24-1,Superintendent of Public Instruction,,REP,Steve Harshman,403
+Park,24-1,Superintendent of Public Instruction,,REP,Tom Kelly,221
+Park,24-1,Superintendent of Public Instruction,,REP,Write-ins,3
+Park,24-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,24-1,Superintendent of Public Instruction,,REP,Under Votes,108
+Park,24-1,Superintendent of Public Instruction,,DEM,Ana Cordova,27
+Park,24-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",12
+Park,24-1,Superintendent of Public Instruction,,DEM,Write-ins,1
+Park,24-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,24-1,Superintendent of Public Instruction,,DEM,Under Votes,4
+Park,24-1,State House,24,REP,Nina Webber,171
+Park,24-1,State House,24,REP,Quin Blair,386
+Park,24-1,State House,24,REP,Write-ins,3
+Park,24-1,State House,24,REP,Over Votes,0
+Park,24-1,State House,24,REP,Under Votes,23
+Park,24-1,State House,24,DEM,Write-ins,4
+Park,24-1,State House,24,DEM,Over Votes,0
+Park,24-1,State House,24,DEM,Under Votes,33
+Park,24-1,State House,50,REP,David Hill,106
+Park,24-1,State House,50,REP,Levi Asay,89
+Park,24-1,State House,50,REP,Write-ins,3
+Park,24-1,State House,50,REP,Over Votes,0
+Park,24-1,State House,50,REP,Under Votes,20
+Park,24-1,State House,50,DEM,Write-ins,0
+Park,24-1,State House,50,DEM,Over Votes,0
+Park,24-1,State House,50,DEM,Under Votes,7
+Park,24-1,Ballots Cast,,REP,Ballots Cast,801
+Park,24-1,Ballots Cast,,DEM,Ballots Cast,44
+Park,24-1,Ballots Cast,,NP,Ballots Cast,19
+Park,24-1,Ballots Cast,,,Ballots Cast,864
+Park,25-1,U.S. Senate,,REP,Harriet Hageman,605
+Park,25-1,U.S. Senate,,REP,Jill M Edwards,27
+Park,25-1,U.S. Senate,,REP,Jimmy Skovgard,24
+Park,25-1,U.S. Senate,,REP,John Holtz,14
+Park,25-1,U.S. Senate,,REP,Sam Mead,411
+Park,25-1,U.S. Senate,,REP,Write-ins,6
+Park,25-1,U.S. Senate,,REP,Over Votes,1
+Park,25-1,U.S. Senate,,REP,Under Votes,34
+Park,25-1,U.S. Senate,,DEM,Billy Benavidez,6
+Park,25-1,U.S. Senate,,DEM,James Byrd,30
+Park,25-1,U.S. Senate,,DEM,Write-ins,2
+Park,25-1,U.S. Senate,,DEM,Over Votes,0
+Park,25-1,U.S. Senate,,DEM,Under Votes,3
+Park,25-1,U.S. House,,REP,* Withdrawn Candidate,9
+Park,25-1,U.S. House,,REP,Bo Biteman,18
+Park,25-1,U.S. House,,REP,Chuck Gray,224
+Park,25-1,U.S. House,,REP,David Giralt,93
+Park,25-1,U.S. House,,REP,Jillian Balow,103
+Park,25-1,U.S. House,,REP,Keith B. Goodenough,14
+Park,25-1,U.S. House,,REP,Kevin Christensen,218
+Park,25-1,U.S. House,,REP,Reid Rasner,51
+Park,25-1,U.S. House,,REP,Richard Dodson,19
+Park,25-1,U.S. House,,REP,Steve Friess,291
+Park,25-1,U.S. House,,REP,Write-ins,4
+Park,25-1,U.S. House,,REP,Over Votes,31
+Park,25-1,U.S. House,,REP,Under Votes,47
+Park,25-1,U.S. House,,DEM,Elena Del Real,8
+Park,25-1,U.S. House,,DEM,Lisa Kinney,27
+Park,25-1,U.S. House,,DEM,Write-ins,1
+Park,25-1,U.S. House,,DEM,Over Votes,0
+Park,25-1,U.S. House,,DEM,Under Votes,5
+Park,25-1,Governor,,REP,Brent Bien,299
+Park,25-1,Governor,,REP,Curt Blake,4
+Park,25-1,Governor,,REP,Eric Barlow,557
+Park,25-1,Governor,,REP,Megan Degenfelder,244
+Park,25-1,Governor,,REP,Write-ins,4
+Park,25-1,Governor,,REP,Over Votes,2
+Park,25-1,Governor,,REP,Under Votes,12
+Park,25-1,Governor,,DEM,Kenneth R. Casner,26
+Park,25-1,Governor,,DEM,Write-ins,4
+Park,25-1,Governor,,DEM,Over Votes,1
+Park,25-1,Governor,,DEM,Under Votes,10
+Park,25-1,Secretary of State,,REP,CJ Young,81
+Park,25-1,Secretary of State,,REP,Qwenton Eagle Oviatt,49
+Park,25-1,Secretary of State,,REP,Rachel Williams,366
+Park,25-1,Secretary of State,,REP,Robert Short,528
+Park,25-1,Secretary of State,,REP,Write-ins,5
+Park,25-1,Secretary of State,,REP,Over Votes,1
+Park,25-1,Secretary of State,,REP,Under Votes,92
+Park,25-1,Secretary of State,,DEM,Bryan McCarty,30
+Park,25-1,Secretary of State,,DEM,Write-ins,4
+Park,25-1,Secretary of State,,DEM,Over Votes,0
+Park,25-1,Secretary of State,,DEM,Under Votes,7
+Park,25-1,State Auditor,,REP,Kristi Racines,888
+Park,25-1,State Auditor,,REP,Write-ins,4
+Park,25-1,State Auditor,,REP,Over Votes,0
+Park,25-1,State Auditor,,REP,Under Votes,230
+Park,25-1,State Auditor,,DEM,Write-ins,0
+Park,25-1,State Auditor,,DEM,Over Votes,0
+Park,25-1,State Auditor,,DEM,Under Votes,41
+Park,25-1,State Treasurer,,REP,Curt Meier,669
+Park,25-1,State Treasurer,,REP,Scott Smith,302
+Park,25-1,State Treasurer,,REP,Write-ins,6
+Park,25-1,State Treasurer,,REP,Over Votes,0
+Park,25-1,State Treasurer,,REP,Under Votes,145
+Park,25-1,State Treasurer,,DEM,Write-ins,2
+Park,25-1,State Treasurer,,DEM,Over Votes,0
+Park,25-1,State Treasurer,,DEM,Under Votes,39
+Park,25-1,Superintendent of Public Instruction,,REP,Chad Auer,85
+Park,25-1,Superintendent of Public Instruction,,REP,Steve Harshman,636
+Park,25-1,Superintendent of Public Instruction,,REP,Tom Kelly,246
+Park,25-1,Superintendent of Public Instruction,,REP,Write-ins,2
+Park,25-1,Superintendent of Public Instruction,,REP,Over Votes,0
+Park,25-1,Superintendent of Public Instruction,,REP,Under Votes,153
+Park,25-1,Superintendent of Public Instruction,,DEM,Ana Cordova,19
+Park,25-1,Superintendent of Public Instruction,,DEM,"Sergio A. Maldonado, Sr.",15
+Park,25-1,Superintendent of Public Instruction,,DEM,Write-ins,4
+Park,25-1,Superintendent of Public Instruction,,DEM,Over Votes,0
+Park,25-1,Superintendent of Public Instruction,,DEM,Under Votes,3
+Park,25-1,State House,24,REP,Nina Webber,285
+Park,25-1,State House,24,REP,Quin Blair,795
+Park,25-1,State House,24,REP,Write-ins,6
+Park,25-1,State House,24,REP,Over Votes,2
+Park,25-1,State House,24,REP,Under Votes,34
+Park,25-1,State House,24,DEM,Write-ins,4
+Park,25-1,State House,24,DEM,Over Votes,0
+Park,25-1,State House,24,DEM,Under Votes,37
+Park,25-1,Ballots Cast,,REP,Ballots Cast,1122
+Park,25-1,Ballots Cast,,DEM,Ballots Cast,41
+Park,25-1,Ballots Cast,,NP,Ballots Cast,21
+Park,25-1,Ballots Cast,,,Ballots Cast,1184
